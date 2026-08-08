@@ -1,0 +1,32 @@
+{
+  "allocation_method": "official_county_totals_with_matched_precinct_vtd_seeds_and_population_remainder",
+  "geographic_precision": "precinct_seeded_county_calibration",
+  "vote_coverage_pct": 100.0,
+  "lines_year": 2022,
+  "target_plan": "Iowa Plan 2 enacted in 2021",
+  "years": [
+    2000,
+    2004,
+    2008,
+    2012,
+    2014
+  ],
+  "year_metadata": {
+    "2000": {
+      "match_coverage_pct": 56.6574
+    },
+    "2004": {
+      "match_coverage_pct": 37.296
+    },
+    "2008": {
+      "match_coverage_pct": 98.2814
+    },
+    "2012": {
+      "match_coverage_pct": 25.0123
+    },
+    "2014": {
+      "match_coverage_pct": 25.235
+    }
+  },
+  "dra_2008_source": "https://raw.githubusercontent.com/dra2020/vtd_data/master/2010_VTD/IA/2010_election_IA.csv"
+}

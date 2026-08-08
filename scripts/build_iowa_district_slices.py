@@ -355,25 +355,31 @@ def main() -> int:
     for year in years:
         for source_scope, (frontend_scope, expected_districts) in SCOPES.items():
             filename = f"{year}_contests_to_plan2_{source_scope}.csv"
-            source = next((directory / filename for directory in source_dirs if (directory / filename).exists()), None)
-            if source is None:
+            sources = [directory / filename for directory in source_dirs if (directory / filename).exists()]
+            if not sources:
                 raise FileNotFoundError(f"{filename} not found in: {source_dirs}")
-            metadata_path = source.parent / "allocation_metadata.json"
-            source_metadata = (
-                json.loads(metadata_path.read_text(encoding="utf-8"))
-                if metadata_path.exists()
-                else {}
-            )
-            source_coverage_pct = float(source_metadata.get("vote_coverage_pct", args.match_coverage_pct))
-            scope_slices = build_scope_slices(
-                source,
-                source_scope,
-                frontend_scope,
-                year,
-                args.lines_year,
-                source_coverage_pct,
-                source_metadata,
-            )
+            scope_slices = {}
+            for source in sources:
+                metadata_path = source.parent / "allocation_metadata.json"
+                source_metadata = (
+                    json.loads(metadata_path.read_text(encoding="utf-8"))
+                    if metadata_path.exists()
+                    else {}
+                )
+                year_metadata = source_metadata.get("year_metadata", {}).get(str(year), {})
+                source_metadata = {**source_metadata, **year_metadata}
+                source_coverage_pct = float(source_metadata.get("match_coverage_pct", args.match_coverage_pct))
+                source_contests = build_scope_slices(
+                    source,
+                    source_scope,
+                    frontend_scope,
+                    year,
+                    args.lines_year,
+                    source_coverage_pct,
+                    source_metadata,
+                )
+                for contest_type, payload in source_contests.items():
+                    scope_slices.setdefault(contest_type, payload)
             for contest_type, payload in scope_slices.items():
                 district_count = len(payload["general"]["results"])
                 if district_count != expected_districts:

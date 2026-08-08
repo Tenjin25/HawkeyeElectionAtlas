@@ -131,11 +131,28 @@ After validating the aggregate totals, publish the browser slices and 2022-lines
 manifest with:
 
 ```powershell
-python scripts/build_iowa_contest_slices.py `
-  --source-dir data/aggregates_geojson_population_2020 `
-  --year 2020
-python scripts/build_iowa_district_slices.py
+$dra2008 = Join-Path $env:TEMP '2010_election_IA.csv'
+Invoke-WebRequest `
+  'https://raw.githubusercontent.com/dra2020/vtd_data/master/2010_VTD/IA/2010_election_IA.csv' `
+  -OutFile $dra2008
+
+python scripts/allocate_iowa_historical_contests_to_plan2.py `
+  --dra-2008-source $dra2008
+python scripts/allocate_iowa_precinct_contests_to_plan2.py
+
+python scripts/build_iowa_district_slices.py --clean `
+  --year 2000 --year 2002 --year 2004 --year 2006 --year 2008 `
+  --year 2010 --year 2012 --year 2014 --year 2016 --year 2018 `
+  --year 2020 --year 2022 --year 2024 `
+  --source-dir data/aggregates_precinct_plan2 `
+  --source-dir data/aggregates_historical_calibrated `
+  --source-dir data/aggregates_verified `
+  --source-dir data/aggregates_county_block_population_2020
 ```
 
 The publisher requires 4 congressional, 100 House, and 50 Senate districts and
 checks that each scope preserves identical statewide totals for every contest.
+It selects each contest from the first source directory that contains it, so
+precinct-native and precinct-seeded results can coexist with county-population
+fallbacks. The external 2008 presidential seed is the Iowa 2010-VTD election
+file from [Dave's Redistricting](https://github.com/dra2020/vtd_data).

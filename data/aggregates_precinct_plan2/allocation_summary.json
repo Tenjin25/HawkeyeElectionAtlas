@@ -1,0 +1,54 @@
+{
+  "years": [
+    {
+      "year": 2022,
+      "source": "data/2022/20221108__ia__general__precinct.csv",
+      "official_totals": "data/aggregates_verified/2022_contests_to_county.csv",
+      "matches": {
+        "direct": 21424,
+        "single_district_county": 65
+      },
+      "calibration": {
+        "candidate_precinct_seed": 1250,
+        "county_population_fallback": 37
+      },
+      "house": {
+        "output": "data/aggregates_precinct_plan2/2022_contests_to_plan2_house.csv",
+        "rows": 1300,
+        "districts": 100
+      },
+      "senate": {
+        "output": "data/aggregates_precinct_plan2/2022_contests_to_plan2_senate.csv",
+        "rows": 650,
+        "districts": 50
+      },
+      "statewide_rows": 21489
+    },
+    {
+      "year": 2024,
+      "source": "data/2024/20241105__ia__general__precinct.csv",
+      "official_totals": "data/aggregates_verified/2024_contests_to_county.csv",
+      "matches": {
+        "direct": 13227,
+        "prefix_match": 4,
+        "token_match": 6,
+        "single_district_county": 8
+      },
+      "calibration": {
+        "party_precinct_seed": 423,
+        "candidate_precinct_seed": 369
+      },
+      "house": {
+        "output": "data/aggregates_precinct_plan2/2024_contests_to_plan2_house.csv",
+        "rows": 800,
+        "districts": 100
+      },
+      "senate": {
+        "output": "data/aggregates_precinct_plan2/2024_contests_to_plan2_senate.csv",
+        "rows": 400,
+        "districts": 50
+      },
+      "statewide_rows": 13245
+    }
+  ]
+}

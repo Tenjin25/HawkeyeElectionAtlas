@@ -1,0 +1,168 @@
+{
+  "results": [
+    {
+      "seeded_groups": 372,
+      "population_only_groups": 23,
+      "seed_votes": 651331.9999684489,
+      "official_votes": 1149597.0,
+      "year": 2000,
+      "chamber": "house",
+      "source": "data/aggregates_historical_native/2000_contests_to_vtd00.csv",
+      "output": "data/aggregates_historical_calibrated/2000_contests_to_plan2_house.csv",
+      "districts": 100,
+      "seeded_offices": [
+        "PRESIDENT"
+      ],
+      "seed_coverage_pct": 56.6574
+    },
+    {
+      "seeded_groups": 372,
+      "population_only_groups": 23,
+      "seed_votes": 651331.9999806903,
+      "official_votes": 1149597.0,
+      "year": 2000,
+      "chamber": "senate",
+      "source": "data/aggregates_historical_native/2000_contests_to_vtd00.csv",
+      "output": "data/aggregates_historical_calibrated/2000_contests_to_plan2_senate.csv",
+      "districts": 50,
+      "seeded_offices": [
+        "PRESIDENT"
+      ],
+      "seed_coverage_pct": 56.6574
+    },
+    {
+      "seeded_groups": 641,
+      "population_only_groups": 150,
+      "seed_votes": 1115645.9999323261,
+      "official_votes": 2991329.0,
+      "year": 2004,
+      "chamber": "house",
+      "source": "data/aggregates_historical_native/2004_contests_to_vtd00.csv",
+      "output": "data/aggregates_historical_calibrated/2004_contests_to_plan2_house.csv",
+      "districts": 100,
+      "seeded_offices": [
+        "PRESIDENT",
+        "US SENATE"
+      ],
+      "seed_coverage_pct": 37.296
+    },
+    {
+      "seeded_groups": 641,
+      "population_only_groups": 150,
+      "seed_votes": 1115645.9999422792,
+      "official_votes": 2991329.0,
+      "year": 2004,
+      "chamber": "senate",
+      "source": "data/aggregates_historical_native/2004_contests_to_vtd00.csv",
+      "output": "data/aggregates_historical_calibrated/2004_contests_to_plan2_senate.csv",
+      "districts": 50,
+      "seeded_offices": [
+        "PRESIDENT",
+        "US SENATE"
+      ],
+      "seed_coverage_pct": 37.296
+    },
+    {
+      "seeded_groups": 198,
+      "population_only_groups": 792,
+      "seed_votes": 1510705.9999191547,
+      "official_votes": 1537123.0,
+      "year": 2008,
+      "chamber": "house",
+      "source": "https://raw.githubusercontent.com/dra2020/vtd_data/master/2010_VTD/IA/2010_election_IA.csv",
+      "output": "data/aggregates_historical_calibrated/2008_contests_to_plan2_house.csv",
+      "districts": 100,
+      "seeded_offices": [
+        "PRESIDENT VICE PRESIDENT"
+      ],
+      "seed_coverage_pct": 98.2814
+    },
+    {
+      "seeded_groups": 198,
+      "population_only_groups": 792,
+      "seed_votes": 1510705.9999497673,
+      "official_votes": 1537123.0,
+      "year": 2008,
+      "chamber": "senate",
+      "source": "https://raw.githubusercontent.com/dra2020/vtd_data/master/2010_VTD/IA/2010_election_IA.csv",
+      "output": "data/aggregates_historical_calibrated/2008_contests_to_plan2_senate.csv",
+      "districts": 50,
+      "seeded_offices": [
+        "PRESIDENT VICE PRESIDENT"
+      ],
+      "seed_coverage_pct": 98.2814
+    },
+    {
+      "seeded_groups": 360,
+      "population_only_groups": 531,
+      "seed_votes": 397496.9999918244,
+      "official_votes": 1589207.0,
+      "year": 2012,
+      "chamber": "house",
+      "source": "data/aggregates_historical_native/2012_contests_to_vtd10.csv",
+      "output": "data/aggregates_historical_calibrated/2012_contests_to_plan2_house.csv",
+      "districts": 100,
+      "seeded_offices": [
+        "PRESIDENT VICE PRESIDENT"
+      ],
+      "seed_coverage_pct": 25.0123
+    },
+    {
+      "seeded_groups": 360,
+      "population_only_groups": 531,
+      "seed_votes": 397496.9999918302,
+      "official_votes": 1589207.0,
+      "year": 2012,
+      "chamber": "senate",
+      "source": "data/aggregates_historical_native/2012_contests_to_vtd10.csv",
+      "output": "data/aggregates_historical_calibrated/2012_contests_to_plan2_senate.csv",
+      "districts": 50,
+      "seeded_offices": [
+        "PRESIDENT VICE PRESIDENT"
+      ],
+      "seed_coverage_pct": 25.0123
+    },
+    {
+      "seeded_groups": 1286,
+      "population_only_groups": 1783,
+      "seed_votes": 1940404.9999601603,
+      "official_votes": 7689345.0,
+      "year": 2014,
+      "chamber": "house",
+      "source": "data/aggregates_historical_native/2014_contests_to_vtd10.csv",
+      "output": "data/aggregates_historical_calibrated/2014_contests_to_plan2_house.csv",
+      "districts": 100,
+      "seeded_offices": [
+        "ATTORNEY GENERAL",
+        "AUDITOR OF STATE",
+        "GOVERNOR",
+        "SECRETARY OF AGRICULTURE",
+        "SECRETARY OF STATE",
+        "TREASURER OF STATE",
+        "U S SENATE"
+      ],
+      "seed_coverage_pct": 25.235
+    },
+    {
+      "seeded_groups": 1286,
+      "population_only_groups": 1783,
+      "seed_votes": 1940404.9999601825,
+      "official_votes": 7689345.0,
+      "year": 2014,
+      "chamber": "senate",
+      "source": "data/aggregates_historical_native/2014_contests_to_vtd10.csv",
+      "output": "data/aggregates_historical_calibrated/2014_contests_to_plan2_senate.csv",
+      "districts": 50,
+      "seeded_offices": [
+        "ATTORNEY GENERAL",
+        "AUDITOR OF STATE",
+        "GOVERNOR",
+        "SECRETARY OF AGRICULTURE",
+        "SECRETARY OF STATE",
+        "TREASURER OF STATE",
+        "U S SENATE"
+      ],
+      "seed_coverage_pct": 25.235
+    }
+  ]
+}

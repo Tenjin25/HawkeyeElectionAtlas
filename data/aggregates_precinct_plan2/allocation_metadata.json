@@ -1,0 +1,13 @@
+{
+  "allocation_method": "official_county_totals_calibrated_to_precinct_reported_plan2_house_district",
+  "geographic_precision": "precinct_to_native_plan2_legislative_district",
+  "vote_coverage_pct": 100.0,
+  "match_coverage_pct": 100.0,
+  "lines_year": 2022,
+  "target_plan": "Iowa Plan 2 enacted in 2021",
+  "split_precinct_method": "reported_state_house_ballot_vote_share",
+  "years": [
+    2022,
+    2024
+  ]
+}
