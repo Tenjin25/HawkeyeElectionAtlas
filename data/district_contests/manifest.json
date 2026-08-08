@@ -12,7 +12,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 556927,
+      "rep_total": 553858,
+      "major_party_contested": true
     },
     {
       "year": 2000,
@@ -26,7 +29,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 556927,
+      "rep_total": 553858,
+      "major_party_contested": true
     },
     {
       "year": 2000,
@@ -40,7 +46,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 556927,
+      "rep_total": 553858,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -54,7 +63,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 490561,
+      "rep_total": 446136,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -68,7 +80,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 612167,
+      "rep_total": 364480,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -82,7 +97,27 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 442040,
+      "rep_total": 464469,
+      "major_party_contested": true
+    },
+    {
+      "year": 2002,
+      "contest_type": "governor",
+      "file": "congressional_governor_2002.json",
+      "rows": 4,
+      "districts": 4,
+      "scope": "congressional",
+      "lines_year": 2022,
+      "match_coverage_pct": 100.0,
+      "vote_coverage_pct": 100.0,
+      "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+      "geographic_precision": "county_exact_no_split",
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 540449,
+      "rep_total": 456612,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -96,7 +131,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 526600,
+      "rep_total": 420290,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -110,7 +148,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 534714,
+      "rep_total": 421574,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -124,7 +165,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 554278,
+      "rep_total": 447892,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -138,7 +182,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 490561,
+      "rep_total": 446136,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -152,7 +199,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 612167,
+      "rep_total": 364480,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -166,7 +216,27 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 442040,
+      "rep_total": 464469,
+      "major_party_contested": true
+    },
+    {
+      "year": 2002,
+      "contest_type": "governor",
+      "file": "state_house_governor_2002.json",
+      "rows": 100,
+      "districts": 100,
+      "scope": "state_house",
+      "lines_year": 2022,
+      "match_coverage_pct": 100.0,
+      "vote_coverage_pct": 100.0,
+      "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
+      "geographic_precision": "county_population_disaggregation",
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 540449,
+      "rep_total": 456612,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -180,7 +250,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 526600,
+      "rep_total": 420290,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -194,7 +267,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 534714,
+      "rep_total": 421574,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -208,7 +284,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 554278,
+      "rep_total": 447892,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -222,7 +301,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 490561,
+      "rep_total": 446136,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -236,7 +318,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 612167,
+      "rep_total": 364480,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -250,7 +335,27 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 442040,
+      "rep_total": 464469,
+      "major_party_contested": true
+    },
+    {
+      "year": 2002,
+      "contest_type": "governor",
+      "file": "state_senate_governor_2002.json",
+      "rows": 50,
+      "districts": 50,
+      "scope": "state_senate",
+      "lines_year": 2022,
+      "match_coverage_pct": 100.0,
+      "vote_coverage_pct": 100.0,
+      "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
+      "geographic_precision": "county_population_disaggregation",
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 540449,
+      "rep_total": 456612,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -264,7 +369,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 526600,
+      "rep_total": 420290,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -278,7 +386,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 534714,
+      "rep_total": 421574,
+      "major_party_contested": true
     },
     {
       "year": 2002,
@@ -292,7 +403,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 554278,
+      "rep_total": 447892,
+      "major_party_contested": true
     },
     {
       "year": 2004,
@@ -306,7 +420,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 746956,
+      "rep_total": 754619,
+      "major_party_contested": true
     },
     {
       "year": 2004,
@@ -320,7 +437,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 415448,
+      "rep_total": 1040152,
+      "major_party_contested": true
     },
     {
       "year": 2004,
@@ -334,7 +454,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 746956,
+      "rep_total": 754619,
+      "major_party_contested": true
     },
     {
       "year": 2004,
@@ -348,7 +471,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 415448,
+      "rep_total": 1040152,
+      "major_party_contested": true
     },
     {
       "year": 2004,
@@ -362,7 +488,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 746956,
+      "rep_total": 754619,
+      "major_party_contested": true
     },
     {
       "year": 2004,
@@ -376,7 +505,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 415448,
+      "rep_total": 1040152,
+      "major_party_contested": true
     },
     {
       "year": 2006,
@@ -390,12 +522,15 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 495873,
+      "rep_total": 523539,
+      "major_party_contested": true
     },
     {
       "year": 2006,
-      "contest_type": "attorney_general",
-      "file": "congressional_attorney_general_2006.json",
+      "contest_type": "governor",
+      "file": "congressional_governor_2006.json",
       "rows": 4,
       "districts": 4,
       "scope": "congressional",
@@ -404,21 +539,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
-    },
-    {
-      "year": 2006,
-      "contest_type": "auditor",
-      "file": "congressional_auditor_2006.json",
-      "rows": 4,
-      "districts": 4,
-      "scope": "congressional",
-      "lines_year": 2022,
-      "match_coverage_pct": 100.0,
-      "vote_coverage_pct": 100.0,
-      "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
-      "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 569021,
+      "rep_total": 467425,
+      "major_party_contested": true
     },
     {
       "year": 2006,
@@ -432,21 +556,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
-    },
-    {
-      "year": 2006,
-      "contest_type": "treasurer",
-      "file": "congressional_treasurer_2006.json",
-      "rows": 4,
-      "districts": 4,
-      "scope": "congressional",
-      "lines_year": 2022,
-      "match_coverage_pct": 100.0,
-      "vote_coverage_pct": 100.0,
-      "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
-      "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 541234,
+      "rep_total": 467561,
+      "major_party_contested": true
     },
     {
       "year": 2006,
@@ -460,12 +573,15 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 495873,
+      "rep_total": 523539,
+      "major_party_contested": true
     },
     {
       "year": 2006,
-      "contest_type": "attorney_general",
-      "file": "state_house_attorney_general_2006.json",
+      "contest_type": "governor",
+      "file": "state_house_governor_2006.json",
       "rows": 100,
       "districts": 100,
       "scope": "state_house",
@@ -474,21 +590,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
-    },
-    {
-      "year": 2006,
-      "contest_type": "auditor",
-      "file": "state_house_auditor_2006.json",
-      "rows": 100,
-      "districts": 100,
-      "scope": "state_house",
-      "lines_year": 2022,
-      "match_coverage_pct": 100.0,
-      "vote_coverage_pct": 100.0,
-      "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
-      "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 569021,
+      "rep_total": 467425,
+      "major_party_contested": true
     },
     {
       "year": 2006,
@@ -502,21 +607,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
-    },
-    {
-      "year": 2006,
-      "contest_type": "treasurer",
-      "file": "state_house_treasurer_2006.json",
-      "rows": 100,
-      "districts": 100,
-      "scope": "state_house",
-      "lines_year": 2022,
-      "match_coverage_pct": 100.0,
-      "vote_coverage_pct": 100.0,
-      "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
-      "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 541234,
+      "rep_total": 467561,
+      "major_party_contested": true
     },
     {
       "year": 2006,
@@ -530,12 +624,15 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 495873,
+      "rep_total": 523539,
+      "major_party_contested": true
     },
     {
       "year": 2006,
-      "contest_type": "attorney_general",
-      "file": "state_senate_attorney_general_2006.json",
+      "contest_type": "governor",
+      "file": "state_senate_governor_2006.json",
       "rows": 50,
       "districts": 50,
       "scope": "state_senate",
@@ -544,21 +641,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
-    },
-    {
-      "year": 2006,
-      "contest_type": "auditor",
-      "file": "state_senate_auditor_2006.json",
-      "rows": 50,
-      "districts": 50,
-      "scope": "state_senate",
-      "lines_year": 2022,
-      "match_coverage_pct": 100.0,
-      "vote_coverage_pct": 100.0,
-      "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
-      "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 569021,
+      "rep_total": 467425,
+      "major_party_contested": true
     },
     {
       "year": 2006,
@@ -572,21 +658,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
-    },
-    {
-      "year": 2006,
-      "contest_type": "treasurer",
-      "file": "state_senate_treasurer_2006.json",
-      "rows": 50,
-      "districts": 50,
-      "scope": "state_senate",
-      "lines_year": 2022,
-      "match_coverage_pct": 100.0,
-      "vote_coverage_pct": 100.0,
-      "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
-      "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 541234,
+      "rep_total": 467561,
+      "major_party_contested": true
     },
     {
       "year": 2008,
@@ -600,7 +675,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 828940,
+      "rep_total": 682379,
+      "major_party_contested": true
     },
     {
       "year": 2008,
@@ -614,7 +692,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 941665,
+      "rep_total": 560006,
+      "major_party_contested": true
     },
     {
       "year": 2008,
@@ -628,7 +709,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 828940,
+      "rep_total": 682379,
+      "major_party_contested": true
     },
     {
       "year": 2008,
@@ -642,7 +726,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 941665,
+      "rep_total": 560006,
+      "major_party_contested": true
     },
     {
       "year": 2008,
@@ -656,7 +743,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 828940,
+      "rep_total": 682379,
+      "major_party_contested": true
     },
     {
       "year": 2008,
@@ -670,7 +760,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 941665,
+      "rep_total": 560006,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -684,7 +777,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 398428,
+      "rep_total": 674572,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -698,7 +794,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 607779,
+      "rep_total": 486057,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -712,7 +811,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 460493,
+      "rep_total": 597721,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -726,7 +828,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 484798,
+      "rep_total": 592494,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -740,7 +845,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 508121,
+      "rep_total": 537758,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -754,7 +862,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 567422,
+      "rep_total": 504605,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -768,7 +879,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 371686,
+      "rep_total": 718215,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -782,7 +896,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 398428,
+      "rep_total": 674572,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -796,7 +913,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 607779,
+      "rep_total": 486057,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -810,7 +930,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 460493,
+      "rep_total": 597721,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -824,7 +947,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 484798,
+      "rep_total": 592494,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -838,7 +964,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 508121,
+      "rep_total": 537758,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -852,7 +981,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 567422,
+      "rep_total": 504605,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -866,7 +998,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 371686,
+      "rep_total": 718215,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -880,7 +1015,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 398428,
+      "rep_total": 674572,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -894,7 +1032,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 607779,
+      "rep_total": 486057,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -908,7 +1049,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 460493,
+      "rep_total": 597721,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -922,7 +1066,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 484798,
+      "rep_total": 592494,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -936,7 +1083,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 508121,
+      "rep_total": 537758,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -950,7 +1100,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 567422,
+      "rep_total": 504605,
+      "major_party_contested": true
     },
     {
       "year": 2010,
@@ -964,7 +1117,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 371686,
+      "rep_total": 718215,
+      "major_party_contested": true
     },
     {
       "year": 2012,
@@ -978,7 +1134,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 822544,
+      "rep_total": 730617,
+      "major_party_contested": true
     },
     {
       "year": 2012,
@@ -992,7 +1151,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 822544,
+      "rep_total": 730617,
+      "major_party_contested": true
     },
     {
       "year": 2012,
@@ -1006,7 +1168,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 822544,
+      "rep_total": 730617,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1020,7 +1185,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 370209,
+      "rep_total": 675781,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1034,7 +1202,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 616711,
+      "rep_total": 481046,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1048,7 +1219,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 456525,
+      "rep_total": 604103,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1062,7 +1236,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 420778,
+      "rep_total": 666023,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1076,7 +1253,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 509202,
+      "rep_total": 529275,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1090,7 +1270,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 576942,
+      "rep_total": 476633,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1104,7 +1287,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 494370,
+      "rep_total": 588575,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1118,7 +1304,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 370209,
+      "rep_total": 675781,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1132,7 +1321,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 616711,
+      "rep_total": 481046,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1146,7 +1338,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 456525,
+      "rep_total": 604103,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1160,7 +1355,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 420778,
+      "rep_total": 666023,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1174,7 +1372,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 509202,
+      "rep_total": 529275,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1188,7 +1389,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 576942,
+      "rep_total": 476633,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1202,7 +1406,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 494370,
+      "rep_total": 588575,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1216,7 +1423,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 370209,
+      "rep_total": 675781,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1230,7 +1440,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 616711,
+      "rep_total": 481046,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1244,7 +1457,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 456525,
+      "rep_total": 604103,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1258,7 +1474,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 420778,
+      "rep_total": 666023,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1272,7 +1491,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 509202,
+      "rep_total": 529275,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1286,7 +1508,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 576942,
+      "rep_total": 476633,
+      "major_party_contested": true
     },
     {
       "year": 2014,
@@ -1300,7 +1525,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 494370,
+      "rep_total": 588575,
+      "major_party_contested": true
     },
     {
       "year": 2016,
@@ -1314,7 +1542,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 653669,
+      "rep_total": 800983,
+      "major_party_contested": true
     },
     {
       "year": 2016,
@@ -1328,7 +1559,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 549460,
+      "rep_total": 926007,
+      "major_party_contested": true
     },
     {
       "year": 2016,
@@ -1342,7 +1576,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 653669,
+      "rep_total": 800983,
+      "major_party_contested": true
     },
     {
       "year": 2016,
@@ -1356,7 +1593,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 549460,
+      "rep_total": 926007,
+      "major_party_contested": true
     },
     {
       "year": 2016,
@@ -1370,7 +1610,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 653669,
+      "rep_total": 800983,
+      "major_party_contested": true
     },
     {
       "year": 2016,
@@ -1384,7 +1627,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 549460,
+      "rep_total": 926007,
+      "major_party_contested": true
     },
     {
       "year": 2018,
@@ -1398,21 +1644,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
-    },
-    {
-      "year": 2018,
-      "contest_type": "attorney_general",
-      "file": "congressional_attorney_general_2018.json",
-      "rows": 4,
-      "districts": 4,
-      "scope": "congressional",
-      "lines_year": 2022,
-      "match_coverage_pct": 100.0,
-      "vote_coverage_pct": 100.0,
-      "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
-      "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 601644,
+      "rep_total": 649249,
+      "major_party_contested": true
     },
     {
       "year": 2018,
@@ -1426,7 +1661,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 658511,
+      "rep_total": 599396,
+      "major_party_contested": true
     },
     {
       "year": 2018,
@@ -1440,7 +1678,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 629815,
+      "rep_total": 664719,
+      "major_party_contested": true
     },
     {
       "year": 2018,
@@ -1454,7 +1695,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 582576,
+      "rep_total": 683393,
+      "major_party_contested": true
     },
     {
       "year": 2018,
@@ -1468,7 +1712,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 708821,
+      "rep_total": 551713,
+      "major_party_contested": true
     },
     {
       "year": 2018,
@@ -1482,21 +1729,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
-    },
-    {
-      "year": 2018,
-      "contest_type": "attorney_general",
-      "file": "state_house_attorney_general_2018.json",
-      "rows": 100,
-      "districts": 100,
-      "scope": "state_house",
-      "lines_year": 2022,
-      "match_coverage_pct": 100.0,
-      "vote_coverage_pct": 100.0,
-      "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
-      "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 601644,
+      "rep_total": 649249,
+      "major_party_contested": true
     },
     {
       "year": 2018,
@@ -1510,7 +1746,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 658511,
+      "rep_total": 599396,
+      "major_party_contested": true
     },
     {
       "year": 2018,
@@ -1524,7 +1763,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 629815,
+      "rep_total": 664719,
+      "major_party_contested": true
     },
     {
       "year": 2018,
@@ -1538,7 +1780,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 582576,
+      "rep_total": 683393,
+      "major_party_contested": true
     },
     {
       "year": 2018,
@@ -1552,7 +1797,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 708821,
+      "rep_total": 551713,
+      "major_party_contested": true
     },
     {
       "year": 2018,
@@ -1566,21 +1814,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
-    },
-    {
-      "year": 2018,
-      "contest_type": "attorney_general",
-      "file": "state_senate_attorney_general_2018.json",
-      "rows": 50,
-      "districts": 50,
-      "scope": "state_senate",
-      "lines_year": 2022,
-      "match_coverage_pct": 100.0,
-      "vote_coverage_pct": 100.0,
-      "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
-      "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 601644,
+      "rep_total": 649249,
+      "major_party_contested": true
     },
     {
       "year": 2018,
@@ -1594,7 +1831,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 658511,
+      "rep_total": 599396,
+      "major_party_contested": true
     },
     {
       "year": 2018,
@@ -1608,7 +1848,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 629815,
+      "rep_total": 664719,
+      "major_party_contested": true
     },
     {
       "year": 2018,
@@ -1622,7 +1865,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 582576,
+      "rep_total": 683393,
+      "major_party_contested": true
     },
     {
       "year": 2018,
@@ -1636,7 +1882,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 708821,
+      "rep_total": 551713,
+      "major_party_contested": true
     },
     {
       "year": 2020,
@@ -1650,7 +1899,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 759061,
+      "rep_total": 897672,
+      "major_party_contested": true
     },
     {
       "year": 2020,
@@ -1664,7 +1916,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 754859,
+      "rep_total": 864997,
+      "major_party_contested": true
     },
     {
       "year": 2020,
@@ -1678,7 +1933,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 759061,
+      "rep_total": 897672,
+      "major_party_contested": true
     },
     {
       "year": 2020,
@@ -1692,7 +1950,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 754859,
+      "rep_total": 864997,
+      "major_party_contested": true
     },
     {
       "year": 2020,
@@ -1706,7 +1967,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 759061,
+      "rep_total": 897672,
+      "major_party_contested": true
     },
     {
       "year": 2020,
@@ -1720,7 +1984,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
       "geographic_precision": "precinct_crosswalk",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 754859,
+      "rep_total": 864997,
+      "major_party_contested": true
     },
     {
       "year": 2022,
@@ -1734,7 +2001,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 590890,
+      "rep_total": 611432,
+      "major_party_contested": true
     },
     {
       "year": 2022,
@@ -1748,7 +2018,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 482950,
+      "rep_total": 709198,
+      "major_party_contested": true
     },
     {
       "year": 2022,
@@ -1762,7 +2035,27 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 480474,
+      "rep_total": 723250,
+      "major_party_contested": true
+    },
+    {
+      "year": 2022,
+      "contest_type": "us_house",
+      "file": "congressional_us_house_2022.json",
+      "rows": 4,
+      "districts": 4,
+      "scope": "congressional",
+      "lines_year": 2022,
+      "match_coverage_pct": 100.0,
+      "vote_coverage_pct": 100.0,
+      "allocation_method": "direct_precinct_vote_aggregation_by_reported_district",
+      "geographic_precision": "native_district_results",
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 526460,
+      "rep_total": 677857,
+      "major_party_contested": true
     },
     {
       "year": 2022,
@@ -1776,7 +2069,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 533330,
+      "rep_total": 681501,
+      "major_party_contested": true
     },
     {
       "year": 2022,
@@ -1790,7 +2086,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 590890,
+      "rep_total": 611432,
+      "major_party_contested": true
     },
     {
       "year": 2022,
@@ -1804,7 +2103,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 482950,
+      "rep_total": 709198,
+      "major_party_contested": true
     },
     {
       "year": 2022,
@@ -1818,7 +2120,27 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 480474,
+      "rep_total": 723250,
+      "major_party_contested": true
+    },
+    {
+      "year": 2022,
+      "contest_type": "state_house",
+      "file": "state_house_state_house_2022.json",
+      "rows": 100,
+      "districts": 100,
+      "scope": "state_house",
+      "lines_year": 2022,
+      "match_coverage_pct": 100.0,
+      "vote_coverage_pct": 100.0,
+      "allocation_method": "direct_precinct_vote_aggregation_by_reported_district",
+      "geographic_precision": "native_district_results",
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 443603,
+      "rep_total": 626661,
+      "major_party_contested": true
     },
     {
       "year": 2022,
@@ -1832,7 +2154,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 533330,
+      "rep_total": 681501,
+      "major_party_contested": true
     },
     {
       "year": 2022,
@@ -1846,7 +2171,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 590890,
+      "rep_total": 611432,
+      "major_party_contested": true
     },
     {
       "year": 2022,
@@ -1860,7 +2188,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 482950,
+      "rep_total": 709198,
+      "major_party_contested": true
     },
     {
       "year": 2022,
@@ -1874,7 +2205,27 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 480474,
+      "rep_total": 723250,
+      "major_party_contested": true
+    },
+    {
+      "year": 2022,
+      "contest_type": "state_senate",
+      "file": "state_senate_state_senate_2022.json",
+      "rows": 34,
+      "districts": 34,
+      "scope": "state_senate",
+      "lines_year": 2022,
+      "match_coverage_pct": 100.0,
+      "vote_coverage_pct": 100.0,
+      "allocation_method": "direct_precinct_vote_aggregation_by_reported_district",
+      "geographic_precision": "native_district_results",
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 340605,
+      "rep_total": 419989,
+      "major_party_contested": true
     },
     {
       "year": 2022,
@@ -1888,7 +2239,10 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 533330,
+      "rep_total": 681501,
+      "major_party_contested": true
     },
     {
       "year": 2024,
@@ -1902,7 +2256,27 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
       "geographic_precision": "county_exact_no_split",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 707278,
+      "rep_total": 927019,
+      "major_party_contested": true
+    },
+    {
+      "year": 2024,
+      "contest_type": "us_house",
+      "file": "congressional_us_house_2024.json",
+      "rows": 4,
+      "districts": 4,
+      "scope": "congressional",
+      "lines_year": 2022,
+      "match_coverage_pct": 100.0,
+      "vote_coverage_pct": 100.0,
+      "allocation_method": "direct_precinct_vote_aggregation_by_reported_district",
+      "geographic_precision": "native_district_results",
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 688868,
+      "rep_total": 902459,
+      "major_party_contested": true
     },
     {
       "year": 2024,
@@ -1916,7 +2290,27 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 707278,
+      "rep_total": 927019,
+      "major_party_contested": true
+    },
+    {
+      "year": 2024,
+      "contest_type": "state_house",
+      "file": "state_house_state_house_2024.json",
+      "rows": 100,
+      "districts": 100,
+      "scope": "state_house",
+      "lines_year": 2022,
+      "match_coverage_pct": 100.0,
+      "vote_coverage_pct": 100.0,
+      "allocation_method": "direct_precinct_vote_aggregation_by_reported_district",
+      "geographic_precision": "native_district_results",
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 626363,
+      "rep_total": 806240,
+      "major_party_contested": true
     },
     {
       "year": 2024,
@@ -1930,7 +2324,27 @@
       "vote_coverage_pct": 100.0,
       "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
       "geographic_precision": "county_population_disaggregation",
-      "target_plan": "Iowa Plan 2 enacted in 2021"
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 707278,
+      "rep_total": 927019,
+      "major_party_contested": true
+    },
+    {
+      "year": 2024,
+      "contest_type": "state_senate",
+      "file": "state_senate_state_senate_2024.json",
+      "rows": 25,
+      "districts": 25,
+      "scope": "state_senate",
+      "lines_year": 2022,
+      "match_coverage_pct": 100.0,
+      "vote_coverage_pct": 100.0,
+      "allocation_method": "direct_precinct_vote_aggregation_by_reported_district",
+      "geographic_precision": "native_district_results",
+      "target_plan": "Iowa Plan 2 enacted in 2021",
+      "dem_total": 277836,
+      "rep_total": 427686,
+      "major_party_contested": true
     }
   ]
 }

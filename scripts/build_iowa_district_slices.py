@@ -7,6 +7,7 @@ import argparse
 import csv
 import json
 import math
+import re
 from collections import defaultdict
 from pathlib import Path
 
@@ -40,10 +41,32 @@ PRESIDENTIAL_CANDIDATES = {
     2020: {"DEM": "Joe Biden", "REP": "Donald J. Trump"},
     2024: {"DEM": "Kamala Harris", "REP": "Donald J. Trump"},
 }
+CONTEST_CANDIDATES = {
+    (2002, "governor"): {"DEM": "Tom Vilsack", "REP": "Doug Gross"},
+    (2004, "us_senate"): {"DEM": "Arthur Small", "REP": "Chuck Grassley"},
+    (2006, "governor"): {"DEM": "Chet Culver", "REP": "Jim Nussle"},
+    (2010, "governor"): {"DEM": "Chet Culver", "REP": "Terry E. Branstad"},
+    (2014, "governor"): {"DEM": "Jack Hatch", "REP": "Terry E. Branstad"},
+    (2018, "governor"): {"DEM": "Fred Hubbell", "REP": "Kim Reynolds"},
+    (2022, "governor"): {"DEM": "Deidre DeJear", "REP": "Kim Reynolds"},
+}
 SCOPES = {
     "congressional": ("congressional", 4),
     "house": ("state_house", 100),
     "senate": ("state_senate", 50),
+}
+NATIVE_DISTRICT_CONTESTS = {
+    "U S HOUSE": ("congressional", "us_house"),
+    "STATE HOUSE": ("state_house", "state_house"),
+    "STATE SENATE": ("state_senate", "state_senate"),
+}
+NATIVE_DISTRICT_INPUTS = {
+    2022: ROOT / "data/2022/20221108__ia__general__precinct.csv",
+    2024: ROOT / "data/2024/20241105__ia__general__precinct.csv",
+}
+NATIVE_DISTRICT_COUNTS = {
+    2022: {"congressional": 4, "state_house": 100, "state_senate": 34},
+    2024: {"congressional": 4, "state_house": 100, "state_senate": 25},
 }
 
 
@@ -110,7 +133,82 @@ def candidate_label(value: object, contest_type: str, year: int, party: str) -> 
         normalized = PRESIDENTIAL_CANDIDATES.get(year, {}).get(party)
         if normalized:
             return normalized
-    return str(value or "").strip().title()
+    normalized = CONTEST_CANDIDATES.get((year, contest_type), {}).get(party)
+    if normalized:
+        return normalized
+    label = str(value or "").strip().title()
+    if year == 2024 and contest_type == "us_house" and label == "Miller-Meeks":
+        return "Mariannette Miller-Meeks"
+    return label
+
+
+def normalized_office(value: object) -> str:
+    return re.sub(r"[^A-Z0-9]+", " ", str(value or "").upper()).strip()
+
+
+def build_native_district_slices(source: Path, year: int, lines_year: int) -> dict[tuple[str, str], dict]:
+    """Aggregate district-specific legislative and U.S. House votes by reported district."""
+    grouped = defaultdict(
+        lambda: {
+            "dem_votes": 0.0,
+            "rep_votes": 0.0,
+            "other_votes": 0.0,
+            "dem_candidates": defaultdict(float),
+            "rep_candidates": defaultdict(float),
+        }
+    )
+    with source.open(encoding="utf-8-sig", newline="") as handle:
+        for row in csv.DictReader(handle):
+            contest = NATIVE_DISTRICT_CONTESTS.get(normalized_office(row.get("office")))
+            if not contest:
+                continue
+            scope, contest_type = contest
+            district_raw = str(row.get("district") or "").strip()
+            if not district_raw:
+                continue
+            district = str(int(district_raw))
+            bucket = grouped[(scope, contest_type, district)]
+            party = str(row.get("party") or "").strip().upper()
+            votes = float(row.get("votes") or 0)
+            candidate = candidate_label(row.get("candidate"), contest_type, year, party)
+            if party == "DEM" or party.startswith("DEMOCRAT"):
+                bucket["dem_votes"] += votes
+                bucket["dem_candidates"][candidate] += votes
+            elif party == "REP" or party.startswith("REPUBLICAN"):
+                bucket["rep_votes"] += votes
+                bucket["rep_candidates"][candidate] += votes
+            else:
+                bucket["other_votes"] += votes
+
+    results_by_contest = defaultdict(dict)
+    for (scope, contest_type, district), bucket in grouped.items():
+        dem_candidates = bucket.pop("dem_candidates")
+        rep_candidates = bucket.pop("rep_candidates")
+        bucket["dem_candidate"] = max(dem_candidates, key=dem_candidates.get, default="")
+        bucket["rep_candidate"] = max(rep_candidates, key=rep_candidates.get, default="")
+        results_by_contest[(scope, contest_type)][district] = bucket
+
+    slices = {}
+    for (scope, contest_type), results in results_by_contest.items():
+        integerize_results(results)
+        slices[(scope, contest_type)] = {
+            "meta": {
+                "state": "IA",
+                "year": year,
+                "lines_year": lines_year,
+                "scope": scope,
+                "contest_type": contest_type,
+                "match_coverage_pct": 100.0,
+                "vote_coverage_pct": 100.0,
+                "allocation_method": "direct_precinct_vote_aggregation_by_reported_district",
+                "geographic_precision": "native_district_results",
+                "target_plan": "Iowa Plan 2 enacted in 2021",
+                "source": source.relative_to(ROOT).as_posix(),
+                "source_scope": scope,
+            },
+            "general": {"results": dict(sorted(results.items(), key=lambda item: int(item[0])))},
+        }
+    return slices
 
 
 def build_scope_slices(
@@ -188,6 +286,13 @@ def build_scope_slices(
     for results in by_contest.values():
         integerize_results(results)
 
+    by_contest = {
+        contest_type: results
+        for contest_type, results in by_contest.items()
+        if sum(row["dem_votes"] for row in results.values()) > 0
+        and sum(row["rep_votes"] for row in results.values()) > 0
+    }
+
     return {
         contest_type: {
             "meta": {
@@ -231,6 +336,11 @@ def main() -> int:
         default=ROOT / "data/district_contests",
     )
     parser.add_argument("--match-coverage-pct", type=float, default=100.0)
+    parser.add_argument(
+        "--clean",
+        action="store_true",
+        help="Remove stale JSON slices not produced by this build.",
+    )
     args = parser.parse_args()
     source_dirs = [
         path.resolve()
@@ -284,6 +394,21 @@ def main() -> int:
                 if any(abs(actual - expected) > 0.01 for actual, expected in zip(total, baseline)):
                     raise ValueError(f"{year} {contest_type}: {scope} totals do not match congressional totals")
 
+        native_source = NATIVE_DISTRICT_INPUTS.get(year)
+        if native_source:
+            native_slices = build_native_district_slices(native_source, year, args.lines_year)
+            for (scope, contest_type), payload in native_slices.items():
+                district_count = len(payload["general"]["results"])
+                expected_count = NATIVE_DISTRICT_COUNTS[year][scope]
+                if district_count != expected_count:
+                    raise ValueError(
+                        f"{year} native {scope} {contest_type}: expected {expected_count} districts, got {district_count}"
+                    )
+                slices[(year, scope, contest_type)] = payload
+            contests_by_year[year] = sorted(
+                {contest_type for slice_year, _, contest_type in slices if slice_year == year}
+            )
+
     manifest = []
     for (year, scope, contest_type), payload in sorted(slices.items()):
         filename = f"{scope}_{contest_type}_{year}.json"
@@ -304,8 +429,17 @@ def main() -> int:
                 "allocation_method": payload["meta"].get("allocation_method", ""),
                 "geographic_precision": payload["meta"].get("geographic_precision", ""),
                 "target_plan": payload["meta"].get("target_plan", ""),
+                "dem_total": int(contest_total(payload)[0]),
+                "rep_total": int(contest_total(payload)[1]),
+                "major_party_contested": True,
             }
         )
+
+    if args.clean:
+        expected_files = {entry["file"] for entry in manifest} | {"manifest.json"}
+        for path in args.output_dir.glob("*.json"):
+            if path.name not in expected_files:
+                path.unlink()
 
     (args.output_dir / "manifest.json").write_text(
         json.dumps({"files": manifest}, indent=2) + "\n",

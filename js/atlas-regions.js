@@ -3,14 +3,23 @@
   if (typeof module === 'object' && module.exports) module.exports = api;
   if (root) root.AtlasRegions = Object.freeze(api);
 }(typeof globalThis !== 'undefined' ? globalThis : this, function createAtlasRegions() {
+  const IOWA_COUNTY_ALIASES = Object.freeze({
+    OBRIEN: 'OBRIEN',
+    OBREIN: 'OBRIEN',
+    VAN: 'VAN BUREN',
+    VANBUREN: 'VAN BUREN'
+  });
+
   function normalizeCountyName(name) {
-    return (name || '')
+    const normalized = (name || '')
       .toString()
       .replace(/\s+COUNTY$/i, '')
       .replace(/[^a-z0-9 .\-]/gi, '')
       .replace(/\s+/g, ' ')
       .trim()
       .toUpperCase();
+    const compact = normalized.replace(/[^A-Z0-9]/g, '');
+    return IOWA_COUNTY_ALIASES[compact] || normalized;
   }
 
   function getCountySet(counties) {

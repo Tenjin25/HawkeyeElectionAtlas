@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2006,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "governor",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2006_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 152464,
+        "rep_votes": 107734,
+        "other_votes": 4518,
+        "total_votes": 264716,
+        "dem_candidate": "Chet Culver",
+        "rep_candidate": "Jim Nussle",
+        "margin": -44730,
+        "margin_pct": -16.89735414557488,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "2": {
+        "dem_votes": 164809,
+        "rep_votes": 118973,
+        "other_votes": 4040,
+        "total_votes": 287822,
+        "dem_candidate": "Chet Culver",
+        "rep_candidate": "Jim Nussle",
+        "margin": -45836,
+        "margin_pct": -15.925120386905798,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "3": {
+        "dem_votes": 129046,
+        "rep_votes": 105740,
+        "other_votes": 3919,
+        "total_votes": 238705,
+        "dem_candidate": "Chet Culver",
+        "rep_candidate": "Jim Nussle",
+        "margin": -23306,
+        "margin_pct": -9.76351563645504,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "4": {
+        "dem_votes": 122702,
+        "rep_votes": 134978,
+        "other_votes": 4332,
+        "total_votes": 262012,
+        "dem_candidate": "Chet Culver",
+        "rep_candidate": "Jim Nussle",
+        "margin": 12276,
+        "margin_pct": 4.685281590156176,
+        "winner": "REP",
+        "color": "#fca793"
+      }
+    }
+  }
+}

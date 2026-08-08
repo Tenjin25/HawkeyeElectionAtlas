@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2022,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "us_house",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "direct_precinct_vote_aggregation_by_reported_district",
+    "geographic_precision": "native_district_results",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/2022/20221108__ia__general__precinct.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 142173,
+        "rep_votes": 162947,
+        "other_votes": 260,
+        "dem_candidate": "Christina Bohannan",
+        "rep_candidate": "Mariannette Miller-Meeks",
+        "total_votes": 305380,
+        "margin": 20774,
+        "margin_pct": 6.802672080686357,
+        "winner": "REP",
+        "color": "#f7634b"
+      },
+      "2": {
+        "dem_votes": 145940,
+        "rep_votes": 172181,
+        "other_votes": 278,
+        "dem_candidate": "Liz Mathis",
+        "rep_candidate": "Ashley Hinson",
+        "total_votes": 318399,
+        "margin": 26241,
+        "margin_pct": 8.241545984754978,
+        "winner": "REP",
+        "color": "#f7634b"
+      },
+      "3": {
+        "dem_votes": 154117,
+        "rep_votes": 156262,
+        "other_votes": 534,
+        "dem_candidate": "Cindy Axne",
+        "rep_candidate": "Zach Nunn",
+        "total_votes": 310913,
+        "margin": 2145,
+        "margin_pct": 0.6899036064751233,
+        "winner": "REP",
+        "color": "#f4c9c5"
+      },
+      "4": {
+        "dem_votes": 84230,
+        "rep_votes": 186467,
+        "other_votes": 6311,
+        "dem_candidate": "Ryan Melton",
+        "rep_candidate": "Randy Feenstra",
+        "total_votes": 277008,
+        "margin": 102237,
+        "margin_pct": 36.90759833651014,
+        "winner": "REP",
+        "color": "#a50f15"
+      }
+    }
+  }
+}

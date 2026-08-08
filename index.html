@@ -516,11 +516,7 @@
       const counties = countiesSource._data.features;
       // Normalize county names for matching
       function normalizeCountyName(name) {
-        return (name || '')
-          .replace(/[^a-z0-9 .\-]/gi, '')  // Keep periods for St. names and hyphens for Miami-Dade
-          .replace(/\s+/g, ' ')
-          .trim()
-          .toUpperCase();
+        return window.AtlasRegions.normalizeCountyName(name);
       }
       const normTarget = normalizeCountyName(countyName);
       const countyFeature = counties.find(f => {
@@ -9794,8 +9790,8 @@ document.addEventListener('DOMContentLoaded', function() {
       <div class="map-topbar-hints" aria-label="Search examples">
         <button type="button" class="fly-search-chip" data-search-example="Polk County">Polk County</button>
         <button type="button" class="fly-search-chip" data-search-example="CD 1">CD 1</button>
-        <button type="button" class="fly-search-chip" data-search-example="HD 50">HD 50</button>
-        <button type="button" class="fly-search-chip" data-search-example="SD 25">SD 25</button>
+        <button type="button" class="fly-search-chip" data-search-example="HD 64">HD 64</button>
+        <button type="button" class="fly-search-chip" data-search-example="SD 01">SD 01</button>
         <button type="button" class="fly-search-chip" data-search-example="Des Moines 12">Des Moines 12</button>
       </div>
       <div class="context-banner" id="context-banner" aria-label="Current map state">
@@ -9864,7 +9860,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <label class="control-section-label" for="desktop-fly-search">Fly to</label>
                 <div class="desktop-fly-search-wrap">
                   <div class="desktop-fly-search-field fly-search-field">
-                    <input id="desktop-fly-search" type="search" placeholder="Polk County, CD 1, HD 50, SD 25, Des Moines 12" autocomplete="off" spellcheck="false" inputmode="search" />
+                    <input id="desktop-fly-search" type="search" placeholder="Polk County, CD 1, HD 64, SD 01, Des Moines 12" autocomplete="off" spellcheck="false" inputmode="search" />
                   </div>
                   <button id="desktop-fly-submit" class="desktop-fly-submit" type="button">Go</button>
                 </div>
@@ -9873,8 +9869,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 <div class="desktop-fly-chip-row" aria-label="Fly-to examples">
                   <button class="desktop-fly-chip" type="button" data-search-example="Polk County">Polk County</button>
                   <button class="desktop-fly-chip" type="button" data-search-example="CD 1">CD 1</button>
-                  <button class="desktop-fly-chip" type="button" data-search-example="HD 50">HD 50</button>
-                  <button class="desktop-fly-chip" type="button" data-search-example="SD 25">SD 25</button>
+                  <button class="desktop-fly-chip" type="button" data-search-example="HD 64">HD 64</button>
+                  <button class="desktop-fly-chip" type="button" data-search-example="SD 01">SD 01</button>
                   <button class="desktop-fly-chip" type="button" data-search-example="Des Moines 12">Des Moines 12</button>
                 </div>
             </div>
@@ -10337,8 +10333,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-08-08-hawkeye-theme-margin-colors';
-    const APP_BUILD_ID = '2026-08-08-hawkeye-theme-margin-colors';
+    const DATA_CACHE_BUSTER = '2026-08-08-iowa-legislative-contests-layer-state';
+    const APP_BUILD_ID = '2026-08-08-iowa-legislative-contests-layer-state';
 
     function withCacheBuster(path) {
       return window.AtlasData.withCacheBuster(path, DATA_CACHE_BUSTER);
@@ -19543,11 +19539,7 @@ document.addEventListener('DOMContentLoaded', function() {
   if (!boundaryGeoJSON || !boundaryGeoJSON.features || !electionData) return boundaryGeoJSON;
   const electionMap = {};
   function normalizeCountyName(name) {
-    return (name || '')
-      .replace(/[^a-z0-9 .\-]/gi, '')  // Keep periods for St. names and hyphens for Miami-Dade
-      .replace(/\s+/g, ' ')
-      .trim()
-      .toUpperCase();
+    return window.AtlasRegions.normalizeCountyName(name);
   }
   electionData.forEach(row => {
     let name = normalizeCountyName(row[countyNameKey]);
@@ -19568,11 +19560,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const map = {};
       if (!geojson || !geojson.features) return map;
       function normalizeCountyName(name) {
-        return (name || '')
-          .replace(/[^a-z0-9 .\-]/gi, '')  // Keep periods for St. names and hyphens for Miami-Dade
-          .replace(/\s+/g, ' ')
-          .trim()
-          .toUpperCase();
+        return window.AtlasRegions.normalizeCountyName(name);
       }
       geojson.features.forEach(f => {
         const p = f.properties || {};
@@ -20721,18 +20709,33 @@ document.addEventListener('DOMContentLoaded', function() {
       }
       clearCountyDetails();
       const nextContestSelect = document.getElementById('contestSelect');
-      const canPreserveContest = !!(
-        previousContestValue &&
-        nextContestSelect &&
-        Array.from(nextContestSelect.options || []).some(opt => opt.value === previousContestValue)
+      const availableContestValues = new Set(
+        Array.from(nextContestSelect?.options || []).map(opt => String(opt.value || '').trim()).filter(Boolean)
       );
+      let contestToPreserve = availableContestValues.has(previousContestValue) ? previousContestValue : '';
+      if (!contestToPreserve && previousContestValue) {
+        const [previousContestType, previousContestYear] = parseContestValue(previousContestValue);
+        const chamberContestByView = {
+          districts: 'us_house',
+          state_house: 'state_house',
+          state_senate: 'state_senate'
+        };
+        const destinationContestType = chamberContestByView[view] || '';
+        const isChamberContest = ['us_house', 'state_house', 'state_senate'].includes(previousContestType);
+        const compatibleContestValue = destinationContestType && isChamberContest && Number.isFinite(Number(previousContestYear))
+          ? `${destinationContestType}_${Number(previousContestYear)}`
+          : '';
+        if (compatibleContestValue && availableContestValues.has(compatibleContestValue)) {
+          contestToPreserve = compatibleContestValue;
+        }
+      }
 
-      if (canPreserveContest) {
-        nextContestSelect.value = previousContestValue;
+      if (contestToPreserve) {
+        nextContestSelect.value = contestToPreserve;
         try {
-          await applyContest(previousContestValue);
+          await applyContest(contestToPreserve);
           if (previousPinnedState) {
-            await restorePinnedSelectionForView(previousPinnedState, view, previousContestValue);
+            await restorePinnedSelectionForView(previousPinnedState, view, contestToPreserve);
           }
         } catch (err) {
           console.warn('Failed to preserve contest while switching views:', err?.message || err);
@@ -28014,11 +28017,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
       // Normalize and find county data
       function normalizeCountyName(name) {
-        return (name || '')
-          .replace(/[^a-z0-9 .\-]/gi, '')  // Keep periods for St. names and hyphens for Miami-Dade
-          .replace(/\s+/g, ' ')
-          .trim()
-          .toUpperCase();
+        return window.AtlasRegions.normalizeCountyName(name);
       }
       let norm = normalizeCountyName(countyName);
       let countyData = currentElectionResults[norm];
@@ -33837,11 +33836,7 @@ document.addEventListener('DOMContentLoaded', function() {
       lastContestSliceMeta = { contestType, year: Number(year), rows: contestData };
 
 	      function normalizeCountyName(name) {
-	        return (name || '')
-	          .replace(/[^a-z0-9 .\-]/gi, '')
-	          .replace(/\s+/g, ' ')
-	          .trim()
-	          .toUpperCase();
+	        return window.AtlasRegions.normalizeCountyName(name);
 	      }
 
       // Precinct key matching needs to tolerate (a) non-geographic buckets in results
@@ -35296,6 +35291,7 @@ document.addEventListener('DOMContentLoaded', function() {
     async function applyStatewideContestToDistricts(contestType, year) {
       const contestTypeKey = String(contestType || '').trim().toLowerCase();
       const isLegislativeContest = contestTypeKey === 'state_house' || contestTypeKey === 'state_senate';
+      const isDistrictCompositeContest = isLegislativeContest || contestTypeKey === 'us_house';
       let statewideDemCandidate = '';
       let statewideRepCandidate = '';
       try {
@@ -35304,27 +35300,33 @@ document.addEventListener('DOMContentLoaded', function() {
         statewideRepCandidate = stripRunningMateName((contestCandidates?.rep || '').toString().trim());
       } catch (_) {}
 
-      function legislativeLeaderCandidateOverrides(ct, y) {
+      function districtCompositeCandidateOverrides(ct, y) {
         const key = String(ct || '').trim().toLowerCase();
         const yearNum = Number(y);
+        if (key === 'us_house') {
+          return { repCandidate: 'Republican candidates', demCandidate: 'Democratic candidates' };
+        }
         if (key === 'state_house') {
-          if (yearNum === 2022) return { repCandidate: 'Speaker Tim Moore', demCandidate: 'House Democrats' };
-          if (yearNum === 2024) return { repCandidate: 'Speaker Destin Hall', demCandidate: 'House Democrats' };
+          if (yearNum === 2022 || yearNum === 2024) {
+            return { repCandidate: 'Speaker Pat Grassley', demCandidate: 'House Democrats' };
+          }
         }
         if (key === 'state_senate') {
-          if (yearNum === 2022 || yearNum === 2024) return { repCandidate: 'Phil Berger', demCandidate: 'Senate Democrats' };
+          if (yearNum === 2022 || yearNum === 2024) {
+            return { repCandidate: 'Senate President Amy Sinclair', demCandidate: 'Senate Democrats' };
+          }
         }
         return null;
       }
       const resolvedStatewideCandidates = () => ({
         demCandidate: (() => {
           const base = statewideDemCandidate || getCandidateName(year, formatContestName(contestType, year), 'Democrat');
-          const override = legislativeLeaderCandidateOverrides(contestType, year);
+          const override = districtCompositeCandidateOverrides(contestType, year);
           return override?.demCandidate || base;
         })(),
         repCandidate: (() => {
           const base = statewideRepCandidate || getCandidateName(year, formatContestName(contestType, year), 'Republican');
-          const override = legislativeLeaderCandidateOverrides(contestType, year);
+          const override = districtCompositeCandidateOverrides(contestType, year);
           return override?.repCandidate || base;
         })()
       });
@@ -35580,11 +35582,11 @@ document.addEventListener('DOMContentLoaded', function() {
             ? ` | match coverage ${Number(coveragePct).toFixed(2)}%`
             : '';
           const linesLabel = getDistrictLinesLabel();
-          const preserveDistrictViewSummary = isLegislativeContest;
+          const preserveDistrictViewSummary = isDistrictCompositeContest;
           if (mode === 'demographics') {
             setStatewideContestTitle(`${formatContestName(contestType, year)} (${year}) - ${getReadableViewLabel(currentView)} demographic profile (${linesLabel})`);
             setStatus(`Applied demographic mode for ${getReadableViewLabel(currentView)} (${linesLabel}).`);
-            if (isLegislativeContest) {
+            if (isDistrictCompositeContest) {
               refreshStatewideSummaryFromDistrictTotals(
                 totalDem,
                 totalRep,
@@ -35605,7 +35607,7 @@ document.addEventListener('DOMContentLoaded', function() {
               refreshStatewideSummaryFromCountyRows(contestData, ` - ${getReadableViewLabel(currentView)} demographic profile (${linesLabel})`);
             }
           } else {
-            const statewideSummary = isLegislativeContest
+            const statewideSummary = isDistrictCompositeContest
               ? refreshStatewideSummaryFromDistrictTotals(totalDem, totalRep, totalOther, totalVotes, ` - ${getReadableViewLabel(currentView)} Result (${linesLabel})`)
               : refreshStatewideSummaryFromCountyRows(contestData, ' - Statewide Result');
             const statewideDemPct = statewideSummary?.total ? (statewideSummary.dem / statewideSummary.total) * 100 : 0;

@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2002,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "governor",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2002_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 136339,
+        "rep_votes": 107402,
+        "other_votes": 8834,
+        "total_votes": 252575,
+        "dem_candidate": "Tom Vilsack",
+        "rep_candidate": "Doug Gross",
+        "margin": -28937,
+        "margin_pct": -11.456795011382757,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "2": {
+        "dem_votes": 148350,
+        "rep_votes": 116206,
+        "other_votes": 7850,
+        "total_votes": 272406,
+        "dem_candidate": "Tom Vilsack",
+        "rep_candidate": "Doug Gross",
+        "margin": -32144,
+        "margin_pct": -11.800033773118066,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "3": {
+        "dem_votes": 128316,
+        "rep_votes": 103197,
+        "other_votes": 5556,
+        "total_votes": 237069,
+        "dem_candidate": "Tom Vilsack",
+        "rep_candidate": "Doug Gross",
+        "margin": -25119,
+        "margin_pct": -10.595649367905546,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "4": {
+        "dem_votes": 127444,
+        "rep_votes": 129807,
+        "other_votes": 6501,
+        "total_votes": 263752,
+        "dem_candidate": "Tom Vilsack",
+        "rep_candidate": "Doug Gross",
+        "margin": 2363,
+        "margin_pct": 0.8959173769298432,
+        "winner": "REP",
+        "color": "#f4c9c5"
+      }
+    }
+  }
+}

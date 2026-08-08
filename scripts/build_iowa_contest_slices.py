@@ -7,6 +7,7 @@ import argparse
 import csv
 import json
 import math
+import re
 from collections import defaultdict
 from pathlib import Path
 
@@ -40,6 +41,29 @@ PRESIDENTIAL_CANDIDATES = {
     2020: {"DEM": "Joe Biden", "REP": "Donald J. Trump"},
     2024: {"DEM": "Kamala Harris", "REP": "Donald J. Trump"},
 }
+CONTEST_CANDIDATES = {
+    (2002, "governor"): {"DEM": "Tom Vilsack", "REP": "Doug Gross"},
+    (2004, "us_senate"): {"DEM": "Arthur Small", "REP": "Chuck Grassley"},
+    (2006, "governor"): {"DEM": "Chet Culver", "REP": "Jim Nussle"},
+    (2010, "governor"): {"DEM": "Chet Culver", "REP": "Terry E. Branstad"},
+    (2014, "governor"): {"DEM": "Jack Hatch", "REP": "Terry E. Branstad"},
+    (2018, "governor"): {"DEM": "Fred Hubbell", "REP": "Kim Reynolds"},
+    (2022, "governor"): {"DEM": "Deidre DeJear", "REP": "Kim Reynolds"},
+}
+
+IOWA_COUNTY_ALIASES = {
+    "OBREIN": "O'BRIEN",
+    "OBRIEN": "O'BRIEN",
+    "VAN": "VAN BUREN",
+    "VANBUREN": "VAN BUREN",
+}
+
+
+def normalize_county_label(value: object) -> str:
+    """Return an official Iowa county label for known source variants."""
+    raw = re.sub(r"\s+COUNTY$", "", str(value or "").strip(), flags=re.IGNORECASE)
+    compact = re.sub(r"[^A-Z0-9]", "", raw.upper())
+    return IOWA_COUNTY_ALIASES.get(compact, raw.upper())
 
 
 def margin_color(margin_pct: float, winner: str) -> str:
@@ -69,6 +93,9 @@ def candidate_label(value: object, contest_type: str, year: int, party: str) -> 
         normalized = PRESIDENTIAL_CANDIDATES.get(year, {}).get(normalized_party)
         if normalized:
             return normalized
+    normalized = CONTEST_CANDIDATES.get((year, contest_type), {}).get(party)
+    if normalized:
+        return normalized
     return str(value or "").strip().title()
 
 
@@ -148,7 +175,7 @@ def main() -> int:
                 contest_type = OFFICE_TYPES.get((row.get("office") or "").strip().upper())
                 if not contest_type:
                     continue
-                county = (
+                county = normalize_county_label(
                     (row.get("county") or "").strip().upper()
                     if county_source
                     else counties.get((row.get("vtd_id") or "")[2:5], (row.get("vtd_id") or "")[:5])
@@ -191,12 +218,30 @@ def main() -> int:
             if len(rows) != 99:
                 continue
             integerize_contest_rows(rows)
+            dem_total = sum(row["dem_votes"] for row in rows)
+            rep_total = sum(row["rep_votes"] for row in rows)
+            if dem_total <= 0 or rep_total <= 0:
+                continue
             filename = f"{contest_type}_{year}.json"
             (output_dir / filename).write_text(
                 json.dumps({"rows": rows}, indent=2) + "\n",
                 encoding="utf-8",
             )
-            manifest.append({"year": year, "contest_type": contest_type, "file": filename, "rows": len(rows), "scope": ""})
+            manifest.append({
+                "year": year,
+                "contest_type": contest_type,
+                "file": filename,
+                "rows": len(rows),
+                "scope": "",
+                "dem_total": dem_total,
+                "rep_total": rep_total,
+                "major_party_contested": True,
+            })
+    if not selected_years:
+        expected_files = {entry["file"] for entry in manifest} | {"manifest.json"}
+        for path in output_dir.glob("*.json"):
+            if path.name not in expected_files:
+                path.unlink()
     (output_dir / "manifest.json").write_text(json.dumps({"files": manifest}, indent=2) + "\n", encoding="utf-8")
     print({"slices": len(manifest), "source": str(args.source_dir), "output": str(output_dir)})
     return 0

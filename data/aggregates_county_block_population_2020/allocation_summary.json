@@ -26,17 +26,17 @@
       "source": "data/aggregates_verified/2002_contests_to_county.csv",
       "outputs": {
         "congressional": {
-          "rows": 112,
+          "rows": 132,
           "districts": 4,
           "output": "data/aggregates_county_block_population_2020/2002_contests_to_plan2_congressional.csv"
         },
         "house": {
-          "rows": 2800,
+          "rows": 3300,
           "districts": 100,
           "output": "data/aggregates_county_block_population_2020/2002_contests_to_plan2_house.csv"
         },
         "senate": {
-          "rows": 1400,
+          "rows": 1650,
           "districts": 50,
           "output": "data/aggregates_county_block_population_2020/2002_contests_to_plan2_senate.csv"
         }
@@ -68,17 +68,17 @@
       "source": "data/aggregates_verified/2006_contests_to_county.csv",
       "outputs": {
         "congressional": {
-          "rows": 48,
+          "rows": 72,
           "districts": 4,
           "output": "data/aggregates_county_block_population_2020/2006_contests_to_plan2_congressional.csv"
         },
         "house": {
-          "rows": 1200,
+          "rows": 1800,
           "districts": 100,
           "output": "data/aggregates_county_block_population_2020/2006_contests_to_plan2_house.csv"
         },
         "senate": {
-          "rows": 600,
+          "rows": 900,
           "districts": 50,
           "output": "data/aggregates_county_block_population_2020/2006_contests_to_plan2_senate.csv"
         }
