@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2010,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "attorney_general",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2010_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 153643,
+        "rep_votes": 121242,
+        "other_votes": 264,
+        "total_votes": 275149,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Brenna Findley",
+        "margin": -32401,
+        "margin_pct": -11.775801474837271,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "2": {
+        "dem_votes": 169951,
+        "rep_votes": 117176,
+        "other_votes": 178,
+        "total_votes": 287305,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Brenna Findley",
+        "margin": -52775,
+        "margin_pct": -18.36898069995301,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "3": {
+        "dem_votes": 151173,
+        "rep_votes": 109273,
+        "other_votes": 188,
+        "total_votes": 260634,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Brenna Findley",
+        "margin": -41900,
+        "margin_pct": -16.076183460331343,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "4": {
+        "dem_votes": 133012,
+        "rep_votes": 138366,
+        "other_votes": 167,
+        "total_votes": 271545,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Brenna Findley",
+        "margin": 5354,
+        "margin_pct": 1.9716805685982066,
+        "winner": "REP",
+        "color": "#fca793"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2024,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "president",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2024_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 190502,
+        "rep_votes": 226309,
+        "other_votes": 7877,
+        "total_votes": 424688,
+        "dem_candidate": "Kamala Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 35807,
+        "margin_pct": 8.431366085220208,
+        "winner": "REP",
+        "color": "#f7634b"
+      },
+      "2": {
+        "dem_votes": 186017,
+        "rep_votes": 227941,
+        "other_votes": 7324,
+        "total_votes": 421282,
+        "dem_candidate": "Kamala Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 41924,
+        "margin_pct": 9.951528904629203,
+        "winner": "REP",
+        "color": "#f7634b"
+      },
+      "3": {
+        "dem_votes": 199043,
+        "rep_votes": 217645,
+        "other_votes": 7338,
+        "total_votes": 424026,
+        "dem_candidate": "Kamala Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 18602,
+        "margin_pct": 4.386995137090651,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "4": {
+        "dem_votes": 131716,
+        "rep_votes": 255124,
+        "other_votes": 6670,
+        "total_votes": 393510,
+        "dem_candidate": "Kamala Harris",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 123408,
+        "margin_pct": 31.360829457955326,
+        "winner": "REP",
+        "color": "#a50f15"
+      }
+    }
+  }
+}

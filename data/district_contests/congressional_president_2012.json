@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2012,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "president",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2012_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 225999,
+        "rep_votes": 173031,
+        "other_votes": 9584,
+        "total_votes": 408614,
+        "dem_candidate": "Barack Obama",
+        "rep_candidate": "Mitt Romney",
+        "margin": -52968,
+        "margin_pct": -12.962845130122805,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "2": {
+        "dem_votes": 231332,
+        "rep_votes": 178241,
+        "other_votes": 8900,
+        "total_votes": 418473,
+        "dem_candidate": "Barack Obama",
+        "rep_candidate": "Mitt Romney",
+        "margin": -53091,
+        "margin_pct": -12.686840011183516,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "3": {
+        "dem_votes": 191400,
+        "rep_votes": 169947,
+        "other_votes": 8234,
+        "total_votes": 369581,
+        "dem_candidate": "Barack Obama",
+        "rep_candidate": "Mitt Romney",
+        "margin": -21453,
+        "margin_pct": -5.8046815177187145,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "4": {
+        "dem_votes": 173813,
+        "rep_votes": 209398,
+        "other_votes": 9328,
+        "total_votes": 392539,
+        "dem_candidate": "Barack Obama",
+        "rep_candidate": "Mitt Romney",
+        "margin": 35585,
+        "margin_pct": 9.065341278191466,
+        "winner": "REP",
+        "color": "#f7634b"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2008,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "us_senate",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2008_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 251811,
+        "rep_votes": 131821,
+        "other_votes": 367,
+        "total_votes": 383999,
+        "dem_candidate": "Tom Harkin",
+        "rep_candidate": "Christopher Reed",
+        "margin": -119990,
+        "margin_pct": -31.24747720697189,
+        "winner": "DEM",
+        "color": "#08519c"
+      },
+      "2": {
+        "dem_votes": 263665,
+        "rep_votes": 132210,
+        "other_votes": 308,
+        "total_votes": 396183,
+        "dem_candidate": "Tom Harkin",
+        "rep_candidate": "Christopher Reed",
+        "margin": -131455,
+        "margin_pct": -33.180373716186715,
+        "winner": "DEM",
+        "color": "#08519c"
+      },
+      "3": {
+        "dem_votes": 206085,
+        "rep_votes": 137804,
+        "other_votes": 336,
+        "total_votes": 344225,
+        "dem_candidate": "Tom Harkin",
+        "rep_candidate": "Christopher Reed",
+        "margin": -68281,
+        "margin_pct": -19.836153678553273,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "4": {
+        "dem_votes": 220104,
+        "rep_votes": 158171,
+        "other_votes": 236,
+        "total_votes": 378511,
+        "dem_candidate": "Tom Harkin",
+        "rep_candidate": "Christopher Reed",
+        "margin": -61933,
+        "margin_pct": -16.362272166462798,
+        "winner": "DEM",
+        "color": "#4795d2"
+      }
+    }
+  }
+}

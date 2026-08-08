@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2006,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "agriculture_commissioner",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2006_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 135382,
+        "rep_votes": 120453,
+        "other_votes": 150,
+        "total_votes": 255985,
+        "dem_candidate": "Denise Obrien",
+        "rep_candidate": "Bill Northey",
+        "margin": -14929,
+        "margin_pct": -5.831982342715394,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "2": {
+        "dem_votes": 141578,
+        "rep_votes": 136170,
+        "other_votes": 128,
+        "total_votes": 277876,
+        "dem_candidate": "Denise Obrien",
+        "rep_candidate": "Bill Northey",
+        "margin": -5408,
+        "margin_pct": -1.9461918265701248,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "3": {
+        "dem_votes": 112431,
+        "rep_votes": 119854,
+        "other_votes": 198,
+        "total_votes": 232483,
+        "dem_candidate": "Denise Obrien",
+        "rep_candidate": "Bill Northey",
+        "margin": 7423,
+        "margin_pct": 3.192921632979616,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "4": {
+        "dem_votes": 106482,
+        "rep_votes": 147062,
+        "other_votes": 132,
+        "total_votes": 253676,
+        "dem_candidate": "Denise Obrien",
+        "rep_candidate": "Bill Northey",
+        "margin": 40580,
+        "margin_pct": 15.996783298380613,
+        "winner": "REP",
+        "color": "#e93a2d"
+      }
+    }
+  }
+}

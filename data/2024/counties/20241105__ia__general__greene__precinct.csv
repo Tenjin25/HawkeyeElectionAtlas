@@ -1,0 +1,510 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Greene,Central Precinct,Constitutional Amendment 1,,No,,153,77,76
+Greene,East Precinct,Constitutional Amendment 1,,No,,131,45,86
+Greene,Jefferson 1 Precinct,Constitutional Amendment 1,,No,,191,115,76
+Greene,Jefferson 2 Precinct,Constitutional Amendment 1,,No,,227,122,105
+Greene,North Precinct,Constitutional Amendment 1,,No,,107,38,69
+Greene,West Precinct,Constitutional Amendment 1,,No,,119,45,74
+Greene,Central Precinct,Constitutional Amendment 1,,Yes,,485,241,244
+Greene,East Precinct,Constitutional Amendment 1,,Yes,,535,166,369
+Greene,Jefferson 1 Precinct,Constitutional Amendment 1,,Yes,,672,374,298
+Greene,Jefferson 2 Precinct,Constitutional Amendment 1,,Yes,,941,568,373
+Greene,North Precinct,Constitutional Amendment 1,,Yes,,458,198,260
+Greene,West Precinct,Constitutional Amendment 1,,Yes,,366,113,253
+Greene,Central Precinct,Constitutional Amendment 2,,No,,87,41,46
+Greene,East Precinct,Constitutional Amendment 2,,No,,87,30,57
+Greene,Jefferson 1 Precinct,Constitutional Amendment 2,,No,,144,89,55
+Greene,Jefferson 2 Precinct,Constitutional Amendment 2,,No,,177,113,64
+Greene,North Precinct,Constitutional Amendment 2,,No,,90,26,64
+Greene,West Precinct,Constitutional Amendment 2,,No,,86,32,54
+Greene,Central Precinct,Constitutional Amendment 2,,Yes,,536,268,268
+Greene,East Precinct,Constitutional Amendment 2,,Yes,,567,174,393
+Greene,Jefferson 1 Precinct,Constitutional Amendment 2,,Yes,,691,385,306
+Greene,Jefferson 2 Precinct,Constitutional Amendment 2,,Yes,,961,562,399
+Greene,North Precinct,Constitutional Amendment 2,,Yes,,469,208,261
+Greene,West Precinct,Constitutional Amendment 2,,Yes,,391,123,268
+Greene,Central Precinct,County Agricultural Extension Council Member,,Amber Kenan,,360,168,192
+Greene,East Precinct,County Agricultural Extension Council Member,,Amber Kenan,,360,117,243
+Greene,Jefferson 1 Precinct,County Agricultural Extension Council Member,,Amber Kenan,,399,237,162
+Greene,Jefferson 2 Precinct,County Agricultural Extension Council Member,,Amber Kenan,,589,351,238
+Greene,North Precinct,County Agricultural Extension Council Member,,Amber Kenan,,319,136,183
+Greene,West Precinct,County Agricultural Extension Council Member,,Amber Kenan,,255,82,173
+Greene,Central Precinct,County Agricultural Extension Council Member,,Scott Weber,,357,155,202
+Greene,East Precinct,County Agricultural Extension Council Member,,Scott Weber,,350,110,240
+Greene,Jefferson 1 Precinct,County Agricultural Extension Council Member,,Scott Weber,,442,273,169
+Greene,Jefferson 2 Precinct,County Agricultural Extension Council Member,,Scott Weber,,661,392,269
+Greene,North Precinct,County Agricultural Extension Council Member,,Scott Weber,,322,135,187
+Greene,West Precinct,County Agricultural Extension Council Member,,Scott Weber,,253,76,177
+Greene,Central Precinct,County Agricultural Extension Council Member,,Shari Minnehan,,346,161,185
+Greene,East Precinct,County Agricultural Extension Council Member,,Shari Minnehan,,367,112,255
+Greene,Jefferson 1 Precinct,County Agricultural Extension Council Member,,Shari Minnehan,,392,244,148
+Greene,Jefferson 2 Precinct,County Agricultural Extension Council Member,,Shari Minnehan,,596,363,233
+Greene,North Precinct,County Agricultural Extension Council Member,,Shari Minnehan,,418,168,250
+Greene,West Precinct,County Agricultural Extension Council Member,,Shari Minnehan,,270,85,185
+Greene,Central Precinct,County Agricultural Extension Council Member,,Wade Wuebker,,366,165,201
+Greene,East Precinct,County Agricultural Extension Council Member,,Wade Wuebker,,374,117,257
+Greene,Jefferson 1 Precinct,County Agricultural Extension Council Member,,Wade Wuebker,,414,238,176
+Greene,Jefferson 2 Precinct,County Agricultural Extension Council Member,,Wade Wuebker,,610,358,252
+Greene,North Precinct,County Agricultural Extension Council Member,,Wade Wuebker,,324,139,185
+Greene,West Precinct,County Agricultural Extension Council Member,,Wade Wuebker,,269,75,194
+Greene,Central Precinct,County Agricultural Extension Council Member,,Write-In,,8,2,6
+Greene,East Precinct,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Greene,Jefferson 1 Precinct,County Agricultural Extension Council Member,,Write-In,,10,8,2
+Greene,Jefferson 2 Precinct,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Greene,North Precinct,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Greene,West Precinct,County Agricultural Extension Council Member,,Write-In,,6,4,2
+Greene,Central Precinct,County Agricultural Extension Council Member To Fill a Vacancy,,Julia Glawe,,449,203,246
+Greene,East Precinct,County Agricultural Extension Council Member To Fill a Vacancy,,Julia Glawe,,500,146,354
+Greene,Jefferson 1 Precinct,County Agricultural Extension Council Member To Fill a Vacancy,,Julia Glawe,,555,311,244
+Greene,Jefferson 2 Precinct,County Agricultural Extension Council Member To Fill a Vacancy,,Julia Glawe,,789,458,331
+Greene,North Precinct,County Agricultural Extension Council Member To Fill a Vacancy,,Julia Glawe,,420,159,261
+Greene,West Precinct,County Agricultural Extension Council Member To Fill a Vacancy,,Julia Glawe,,340,92,248
+Greene,Central Precinct,County Agricultural Extension Council Member To Fill a Vacancy,,Write-In,,6,1,5
+Greene,East Precinct,County Agricultural Extension Council Member To Fill a Vacancy,,Write-In,,1,0,1
+Greene,Jefferson 1 Precinct,County Agricultural Extension Council Member To Fill a Vacancy,,Write-In,,3,3,0
+Greene,Jefferson 2 Precinct,County Agricultural Extension Council Member To Fill a Vacancy,,Write-In,,5,4,1
+Greene,North Precinct,County Agricultural Extension Council Member To Fill a Vacancy,,Write-In,,5,0,5
+Greene,West Precinct,County Agricultural Extension Council Member To Fill a Vacancy,,Write-In,,2,1,1
+Greene,Central Precinct,County Auditor,,Billie Jo Hoskins,REP,584,291,293
+Greene,East Precinct,County Auditor,,Billie Jo Hoskins,REP,576,173,403
+Greene,Jefferson 1 Precinct,County Auditor,,Billie Jo Hoskins,REP,696,398,298
+Greene,Jefferson 2 Precinct,County Auditor,,Billie Jo Hoskins,REP,1021,607,414
+Greene,North Precinct,County Auditor,,Billie Jo Hoskins,REP,522,218,304
+Greene,West Precinct,County Auditor,,Billie Jo Hoskins,REP,430,129,301
+Greene,Central Precinct,County Auditor,,Write-In,,0,0,0
+Greene,East Precinct,County Auditor,,Write-In,,5,1,4
+Greene,Jefferson 1 Precinct,County Auditor,,Write-In,,4,2,2
+Greene,Jefferson 2 Precinct,County Auditor,,Write-In,,5,2,3
+Greene,North Precinct,County Auditor,,Write-In,,2,0,2
+Greene,West Precinct,County Auditor,,Write-In,,3,0,3
+Greene,Central Precinct,County Sheriff,,Jack Williams,REP,441,240,201
+Greene,East Precinct,County Sheriff,,Jack Williams,REP,438,128,310
+Greene,Jefferson 1 Precinct,County Sheriff,,Jack Williams,REP,445,246,199
+Greene,Jefferson 2 Precinct,County Sheriff,,Jack Williams,REP,745,447,298
+Greene,North Precinct,County Sheriff,,Jack Williams,REP,414,184,230
+Greene,West Precinct,County Sheriff,,Jack Williams,REP,314,111,203
+Greene,Central Precinct,County Sheriff,,Shane Monthei,,231,103,128
+Greene,East Precinct,County Sheriff,,Shane Monthei,,249,89,160
+Greene,Jefferson 1 Precinct,County Sheriff,,Shane Monthei,,478,276,202
+Greene,Jefferson 2 Precinct,County Sheriff,,Shane Monthei,,505,285,220
+Greene,North Precinct,County Sheriff,,Shane Monthei,,197,73,124
+Greene,West Precinct,County Sheriff,,Shane Monthei,,190,54,136
+Greene,Central Precinct,County Sheriff,,Write-In,,0,0,0
+Greene,East Precinct,County Sheriff,,Write-In,,1,1,0
+Greene,Jefferson 1 Precinct,County Sheriff,,Write-In,,1,1,0
+Greene,Jefferson 2 Precinct,County Sheriff,,Write-In,,3,2,1
+Greene,North Precinct,County Sheriff,,Write-In,,2,0,2
+Greene,West Precinct,County Sheriff,,Write-In,,1,0,1
+Greene,Central Precinct,County Supervisor,1,Greg Ruth,DEM,261,144,117
+Greene,East Precinct,County Supervisor,1,Greg Ruth,DEM,181,84,97
+Greene,Jefferson 1 Precinct,County Supervisor,1,Greg Ruth,DEM,442,303,139
+Greene,Jefferson 2 Precinct,County Supervisor,1,Greg Ruth,DEM,554,379,175
+Greene,North Precinct,County Supervisor,1,Greg Ruth,DEM,280,120,160
+Greene,West Precinct,County Supervisor,1,Greg Ruth,DEM,138,53,85
+Greene,Central Precinct,County Supervisor,1,Joe Gannon,REP,411,202,209
+Greene,East Precinct,County Supervisor,1,Joe Gannon,REP,512,143,369
+Greene,Jefferson 1 Precinct,County Supervisor,1,Joe Gannon,REP,469,222,247
+Greene,Jefferson 2 Precinct,County Supervisor,1,Joe Gannon,REP,690,363,327
+Greene,North Precinct,County Supervisor,1,Joe Gannon,REP,333,137,196
+Greene,West Precinct,County Supervisor,1,Joe Gannon,REP,359,106,253
+Greene,Central Precinct,County Supervisor,1,Write-In,,0,0,0
+Greene,East Precinct,County Supervisor,1,Write-In,,1,0,1
+Greene,Jefferson 1 Precinct,County Supervisor,1,Write-In,,1,0,1
+Greene,Jefferson 2 Precinct,County Supervisor,1,Write-In,,2,1,1
+Greene,North Precinct,County Supervisor,1,Write-In,,0,0,0
+Greene,West Precinct,County Supervisor,1,Write-In,,1,1,0
+Greene,Central Precinct,County Supervisor,4,John Muir,REP,510,262,248
+Greene,East Precinct,County Supervisor,4,John Muir,REP,514,148,366
+Greene,Jefferson 1 Precinct,County Supervisor,4,John Muir,REP,554,285,269
+Greene,Jefferson 2 Precinct,County Supervisor,4,John Muir,REP,842,475,367
+Greene,North Precinct,County Supervisor,4,John Muir,REP,437,196,241
+Greene,West Precinct,County Supervisor,4,John Muir,REP,376,115,261
+Greene,Central Precinct,County Supervisor,4,Victoria Riley,DEM,152,83,69
+Greene,East Precinct,County Supervisor,4,Victoria Riley,DEM,170,77,93
+Greene,Jefferson 1 Precinct,County Supervisor,4,Victoria Riley,DEM,324,226,98
+Greene,Jefferson 2 Precinct,County Supervisor,4,Victoria Riley,DEM,392,261,131
+Greene,North Precinct,County Supervisor,4,Victoria Riley,DEM,163,59,104
+Greene,West Precinct,County Supervisor,4,Victoria Riley,DEM,116,45,71
+Greene,Central Precinct,County Supervisor,4,Write-In,,1,0,1
+Greene,East Precinct,County Supervisor,4,Write-In,,1,0,1
+Greene,Jefferson 1 Precinct,County Supervisor,4,Write-In,,0,0,0
+Greene,Jefferson 2 Precinct,County Supervisor,4,Write-In,,1,0,1
+Greene,North Precinct,County Supervisor,4,Write-In,,1,0,1
+Greene,West Precinct,County Supervisor,4,Write-In,,1,0,1
+Greene,Central Precinct,County Supervisor,5,Pete Bardole,REP,541,262,279
+Greene,East Precinct,County Supervisor,5,Pete Bardole,REP,553,160,393
+Greene,Jefferson 1 Precinct,County Supervisor,5,Pete Bardole,REP,670,371,299
+Greene,Jefferson 2 Precinct,County Supervisor,5,Pete Bardole,REP,971,559,412
+Greene,North Precinct,County Supervisor,5,Pete Bardole,REP,489,194,295
+Greene,West Precinct,County Supervisor,5,Pete Bardole,REP,410,120,290
+Greene,Central Precinct,County Supervisor,5,Write-In,,7,2,5
+Greene,East Precinct,County Supervisor,5,Write-In,,16,6,10
+Greene,Jefferson 1 Precinct,County Supervisor,5,Write-In,,8,5,3
+Greene,Jefferson 2 Precinct,County Supervisor,5,Write-In,,13,7,6
+Greene,North Precinct,County Supervisor,5,Write-In,,5,2,3
+Greene,West Precinct,County Supervisor,5,Write-In,,8,2,6
+Greene,Central Precinct,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,161,73,88
+Greene,East Precinct,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,196,58,138
+Greene,Jefferson 1 Precinct,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,203,108,95
+Greene,Jefferson 2 Precinct,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,269,160,109
+Greene,North Precinct,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,132,38,94
+Greene,West Precinct,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,133,40,93
+Greene,Central Precinct,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,226,87,139
+Greene,East Precinct,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,289,81,208
+Greene,Jefferson 1 Precinct,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,316,192,124
+Greene,Jefferson 2 Precinct,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,431,257,174
+Greene,North Precinct,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,246,85,161
+Greene,West Precinct,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,194,48,146
+Greene,Central Precinct,Court of Appeals Judge - Mary Ellen Tabor,,No,,164,75,89
+Greene,East Precinct,Court of Appeals Judge - Mary Ellen Tabor,,No,,183,55,128
+Greene,Jefferson 1 Precinct,Court of Appeals Judge - Mary Ellen Tabor,,No,,187,98,89
+Greene,Jefferson 2 Precinct,Court of Appeals Judge - Mary Ellen Tabor,,No,,259,154,105
+Greene,North Precinct,Court of Appeals Judge - Mary Ellen Tabor,,No,,131,44,87
+Greene,West Precinct,Court of Appeals Judge - Mary Ellen Tabor,,No,,130,36,94
+Greene,Central Precinct,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,229,88,141
+Greene,East Precinct,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,304,83,221
+Greene,Jefferson 1 Precinct,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,331,203,128
+Greene,Jefferson 2 Precinct,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,439,261,178
+Greene,North Precinct,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,251,81,170
+Greene,West Precinct,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,196,52,144
+Greene,Central Precinct,Court of Appeals Judge - Samuel Langholz,,No,,174,83,91
+Greene,East Precinct,Court of Appeals Judge - Samuel Langholz,,No,,202,63,139
+Greene,Jefferson 1 Precinct,Court of Appeals Judge - Samuel Langholz,,No,,217,119,98
+Greene,Jefferson 2 Precinct,Court of Appeals Judge - Samuel Langholz,,No,,290,167,123
+Greene,North Precinct,Court of Appeals Judge - Samuel Langholz,,No,,135,41,94
+Greene,West Precinct,Court of Appeals Judge - Samuel Langholz,,No,,136,43,93
+Greene,Central Precinct,Court of Appeals Judge - Samuel Langholz,,Yes,,214,78,136
+Greene,East Precinct,Court of Appeals Judge - Samuel Langholz,,Yes,,281,73,208
+Greene,Jefferson 1 Precinct,Court of Appeals Judge - Samuel Langholz,,Yes,,294,176,118
+Greene,Jefferson 2 Precinct,Court of Appeals Judge - Samuel Langholz,,Yes,,392,240,152
+Greene,North Precinct,Court of Appeals Judge - Samuel Langholz,,Yes,,238,81,157
+Greene,West Precinct,Court of Appeals Judge - Samuel Langholz,,Yes,,190,43,147
+Greene,Central Precinct,Court of Appeals Judge - Tyler J. Buller,,No,,166,75,91
+Greene,East Precinct,Court of Appeals Judge - Tyler J. Buller,,No,,180,57,123
+Greene,Jefferson 1 Precinct,Court of Appeals Judge - Tyler J. Buller,,No,,213,114,99
+Greene,Jefferson 2 Precinct,Court of Appeals Judge - Tyler J. Buller,,No,,282,166,116
+Greene,North Precinct,Court of Appeals Judge - Tyler J. Buller,,No,,132,44,88
+Greene,West Precinct,Court of Appeals Judge - Tyler J. Buller,,No,,135,47,88
+Greene,Central Precinct,Court of Appeals Judge - Tyler J. Buller,,Yes,,224,85,139
+Greene,East Precinct,Court of Appeals Judge - Tyler J. Buller,,Yes,,312,81,231
+Greene,Jefferson 1 Precinct,Court of Appeals Judge - Tyler J. Buller,,Yes,,311,188,123
+Greene,Jefferson 2 Precinct,Court of Appeals Judge - Tyler J. Buller,,Yes,,417,251,166
+Greene,North Precinct,Court of Appeals Judge - Tyler J. Buller,,Yes,,249,79,170
+Greene,West Precinct,Court of Appeals Judge - Tyler J. Buller,,Yes,,197,44,153
+Greene,North Precinct,Dawson Township Trustee,,David Cunningham,,62,33,29
+Greene,North Precinct,Dawson Township Trustee,,Joe M. Doran,,62,32,30
+Greene,North Precinct,Dawson Township Trustee,,Write-In,,0,0,0
+Greene,Central Precinct,District 2B Associate Judge - Ashley Beisch,,No,,144,62,82
+Greene,East Precinct,District 2B Associate Judge - Ashley Beisch,,No,,181,56,125
+Greene,Jefferson 1 Precinct,District 2B Associate Judge - Ashley Beisch,,No,,197,103,94
+Greene,Jefferson 2 Precinct,District 2B Associate Judge - Ashley Beisch,,No,,236,132,104
+Greene,North Precinct,District 2B Associate Judge - Ashley Beisch,,No,,121,35,86
+Greene,West Precinct,District 2B Associate Judge - Ashley Beisch,,No,,124,36,88
+Greene,Central Precinct,District 2B Associate Judge - Ashley Beisch,,Yes,,230,88,142
+Greene,East Precinct,District 2B Associate Judge - Ashley Beisch,,Yes,,299,77,222
+Greene,Jefferson 1 Precinct,District 2B Associate Judge - Ashley Beisch,,Yes,,309,186,123
+Greene,Jefferson 2 Precinct,District 2B Associate Judge - Ashley Beisch,,Yes,,436,265,171
+Greene,North Precinct,District 2B Associate Judge - Ashley Beisch,,Yes,,250,83,167
+Greene,West Precinct,District 2B Associate Judge - Ashley Beisch,,Yes,,193,48,145
+Greene,Central Precinct,District 2B Associate Judge - Hans Becker,,No,,157,65,92
+Greene,East Precinct,District 2B Associate Judge - Hans Becker,,No,,201,65,136
+Greene,Jefferson 1 Precinct,District 2B Associate Judge - Hans Becker,,No,,204,106,98
+Greene,Jefferson 2 Precinct,District 2B Associate Judge - Hans Becker,,No,,248,144,104
+Greene,North Precinct,District 2B Associate Judge - Hans Becker,,No,,125,35,90
+Greene,West Precinct,District 2B Associate Judge - Hans Becker,,No,,131,39,92
+Greene,Central Precinct,District 2B Associate Judge - Hans Becker,,Yes,,213,84,129
+Greene,East Precinct,District 2B Associate Judge - Hans Becker,,Yes,,273,67,206
+Greene,Jefferson 1 Precinct,District 2B Associate Judge - Hans Becker,,Yes,,287,174,113
+Greene,Jefferson 2 Precinct,District 2B Associate Judge - Hans Becker,,Yes,,400,237,163
+Greene,North Precinct,District 2B Associate Judge - Hans Becker,,Yes,,240,81,159
+Greene,West Precinct,District 2B Associate Judge - Hans Becker,,Yes,,188,48,140
+Greene,Central Precinct,District 2B Associate Judge - Hunter Thorpe,,No,,149,63,86
+Greene,East Precinct,District 2B Associate Judge - Hunter Thorpe,,No,,169,54,115
+Greene,Jefferson 1 Precinct,District 2B Associate Judge - Hunter Thorpe,,No,,192,100,92
+Greene,Jefferson 2 Precinct,District 2B Associate Judge - Hunter Thorpe,,No,,245,137,108
+Greene,North Precinct,District 2B Associate Judge - Hunter Thorpe,,No,,121,36,85
+Greene,West Precinct,District 2B Associate Judge - Hunter Thorpe,,No,,121,38,83
+Greene,Central Precinct,District 2B Associate Judge - Hunter Thorpe,,Yes,,225,88,137
+Greene,East Precinct,District 2B Associate Judge - Hunter Thorpe,,Yes,,310,80,230
+Greene,Jefferson 1 Precinct,District 2B Associate Judge - Hunter Thorpe,,Yes,,299,181,118
+Greene,Jefferson 2 Precinct,District 2B Associate Judge - Hunter Thorpe,,Yes,,407,248,159
+Greene,North Precinct,District 2B Associate Judge - Hunter Thorpe,,Yes,,246,80,166
+Greene,West Precinct,District 2B Associate Judge - Hunter Thorpe,,Yes,,200,50,150
+Greene,Central Precinct,District 2B Associate Judge - Joseph B. McCarville,,No,,196,92,104
+Greene,East Precinct,District 2B Associate Judge - Joseph B. McCarville,,No,,192,65,127
+Greene,Jefferson 1 Precinct,District 2B Associate Judge - Joseph B. McCarville,,No,,238,127,111
+Greene,Jefferson 2 Precinct,District 2B Associate Judge - Joseph B. McCarville,,No,,312,177,135
+Greene,North Precinct,District 2B Associate Judge - Joseph B. McCarville,,No,,143,44,99
+Greene,West Precinct,District 2B Associate Judge - Joseph B. McCarville,,No,,141,40,101
+Greene,Central Precinct,District 2B Associate Judge - Joseph B. McCarville,,Yes,,194,67,127
+Greene,East Precinct,District 2B Associate Judge - Joseph B. McCarville,,Yes,,290,69,221
+Greene,Jefferson 1 Precinct,District 2B Associate Judge - Joseph B. McCarville,,Yes,,294,181,113
+Greene,Jefferson 2 Precinct,District 2B Associate Judge - Joseph B. McCarville,,Yes,,387,235,152
+Greene,North Precinct,District 2B Associate Judge - Joseph B. McCarville,,Yes,,240,83,157
+Greene,West Precinct,District 2B Associate Judge - Joseph B. McCarville,,Yes,,190,50,140
+Greene,Central Precinct,District 2B Associate Judge - Kathryn E. Austin,,No,,149,65,84
+Greene,East Precinct,District 2B Associate Judge - Kathryn E. Austin,,No,,180,52,128
+Greene,Jefferson 1 Precinct,District 2B Associate Judge - Kathryn E. Austin,,No,,191,99,92
+Greene,Jefferson 2 Precinct,District 2B Associate Judge - Kathryn E. Austin,,No,,244,144,100
+Greene,North Precinct,District 2B Associate Judge - Kathryn E. Austin,,No,,126,38,88
+Greene,West Precinct,District 2B Associate Judge - Kathryn E. Austin,,No,,131,40,91
+Greene,Central Precinct,District 2B Associate Judge - Kathryn E. Austin,,Yes,,224,85,139
+Greene,East Precinct,District 2B Associate Judge - Kathryn E. Austin,,Yes,,298,81,217
+Greene,Jefferson 1 Precinct,District 2B Associate Judge - Kathryn E. Austin,,Yes,,306,186,120
+Greene,Jefferson 2 Precinct,District 2B Associate Judge - Kathryn E. Austin,,Yes,,423,247,176
+Greene,North Precinct,District 2B Associate Judge - Kathryn E. Austin,,Yes,,238,77,161
+Greene,West Precinct,District 2B Associate Judge - Kathryn E. Austin,,Yes,,188,47,141
+Greene,Central Precinct,District 2B Associate Judge - Paul G. Crawford,,No,,154,67,87
+Greene,East Precinct,District 2B Associate Judge - Paul G. Crawford,,No,,191,62,129
+Greene,Jefferson 1 Precinct,District 2B Associate Judge - Paul G. Crawford,,No,,193,104,89
+Greene,Jefferson 2 Precinct,District 2B Associate Judge - Paul G. Crawford,,No,,260,147,113
+Greene,North Precinct,District 2B Associate Judge - Paul G. Crawford,,No,,121,38,83
+Greene,West Precinct,District 2B Associate Judge - Paul G. Crawford,,No,,119,37,82
+Greene,Central Precinct,District 2B Associate Judge - Paul G. Crawford,,Yes,,227,87,140
+Greene,East Precinct,District 2B Associate Judge - Paul G. Crawford,,Yes,,285,70,215
+Greene,Jefferson 1 Precinct,District 2B Associate Judge - Paul G. Crawford,,Yes,,302,181,121
+Greene,Jefferson 2 Precinct,District 2B Associate Judge - Paul G. Crawford,,Yes,,401,246,155
+Greene,North Precinct,District 2B Associate Judge - Paul G. Crawford,,Yes,,247,78,169
+Greene,West Precinct,District 2B Associate Judge - Paul G. Crawford,,Yes,,196,47,149
+Greene,Central Precinct,District 2B Judge - Adria Kester,,No,,152,70,82
+Greene,East Precinct,District 2B Judge - Adria Kester,,No,,186,60,126
+Greene,Jefferson 1 Precinct,District 2B Judge - Adria Kester,,No,,203,111,92
+Greene,Jefferson 2 Precinct,District 2B Judge - Adria Kester,,No,,256,146,110
+Greene,North Precinct,District 2B Judge - Adria Kester,,No,,125,37,88
+Greene,West Precinct,District 2B Judge - Adria Kester,,No,,130,37,93
+Greene,Central Precinct,District 2B Judge - Adria Kester,,Yes,,229,88,141
+Greene,East Precinct,District 2B Judge - Adria Kester,,Yes,,301,79,222
+Greene,Jefferson 1 Precinct,District 2B Judge - Adria Kester,,Yes,,314,193,121
+Greene,Jefferson 2 Precinct,District 2B Judge - Adria Kester,,Yes,,450,274,176
+Greene,North Precinct,District 2B Judge - Adria Kester,,Yes,,254,86,168
+Greene,West Precinct,District 2B Judge - Adria Kester,,Yes,,191,51,140
+Greene,Central Precinct,District 2B Judge - Derek Johnson,,No,,153,68,85
+Greene,East Precinct,District 2B Judge - Derek Johnson,,No,,167,58,109
+Greene,Jefferson 1 Precinct,District 2B Judge - Derek Johnson,,No,,193,107,86
+Greene,Jefferson 2 Precinct,District 2B Judge - Derek Johnson,,No,,259,153,106
+Greene,North Precinct,District 2B Judge - Derek Johnson,,No,,123,38,85
+Greene,West Precinct,District 2B Judge - Derek Johnson,,No,,118,36,82
+Greene,Central Precinct,District 2B Judge - Derek Johnson,,Yes,,230,88,142
+Greene,East Precinct,District 2B Judge - Derek Johnson,,Yes,,322,80,242
+Greene,Jefferson 1 Precinct,District 2B Judge - Derek Johnson,,Yes,,319,189,130
+Greene,Jefferson 2 Precinct,District 2B Judge - Derek Johnson,,Yes,,419,250,169
+Greene,North Precinct,District 2B Judge - Derek Johnson,,Yes,,257,85,172
+Greene,West Precinct,District 2B Judge - Derek Johnson,,Yes,,204,52,152
+Greene,Central Precinct,District 2B Judge - Kurt John Stoebe,,No,,158,73,85
+Greene,East Precinct,District 2B Judge - Kurt John Stoebe,,No,,192,60,132
+Greene,Jefferson 1 Precinct,District 2B Judge - Kurt John Stoebe,,No,,194,101,93
+Greene,Jefferson 2 Precinct,District 2B Judge - Kurt John Stoebe,,No,,261,149,112
+Greene,North Precinct,District 2B Judge - Kurt John Stoebe,,No,,134,45,89
+Greene,West Precinct,District 2B Judge - Kurt John Stoebe,,No,,120,34,86
+Greene,Central Precinct,District 2B Judge - Kurt John Stoebe,,Yes,,220,83,137
+Greene,East Precinct,District 2B Judge - Kurt John Stoebe,,Yes,,286,74,212
+Greene,Jefferson 1 Precinct,District 2B Judge - Kurt John Stoebe,,Yes,,307,191,116
+Greene,Jefferson 2 Precinct,District 2B Judge - Kurt John Stoebe,,Yes,,410,250,160
+Greene,North Precinct,District 2B Judge - Kurt John Stoebe,,Yes,,242,77,165
+Greene,West Precinct,District 2B Judge - Kurt John Stoebe,,Yes,,200,51,149
+Greene,Central Precinct,Franklin Township Trustee,,Chris Henning,,44,16,28
+Greene,Central Precinct,Franklin Township Trustee,,Thomas Wind,,64,27,37
+Greene,Central Precinct,Franklin Township Trustee,,Write-In,,2,1,1
+Greene,Central Precinct,Grant Township Trustee,,Ann Wenthold,,77,34,43
+Greene,Central Precinct,Grant Township Trustee,,Douglas Carman,,120,56,64
+Greene,Central Precinct,Grant Township Trustee,,Write-In,,0,0,0
+Greene,Central Precinct,Greenbrier Township Trustee,,Daniel Frederick,,47,29,18
+Greene,Central Precinct,Greenbrier Township Trustee,,Jeff Hughes,,50,24,26
+Greene,Central Precinct,Greenbrier Township Trustee,,Write-In,,0,0,0
+Greene,Central Precinct,Greene County Hospital Trustee,,Angela Jewett,,346,154,192
+Greene,East Precinct,Greene County Hospital Trustee,,Angela Jewett,,404,117,287
+Greene,Jefferson 1 Precinct,Greene County Hospital Trustee,,Angela Jewett,,410,248,162
+Greene,Jefferson 2 Precinct,Greene County Hospital Trustee,,Angela Jewett,,612,380,232
+Greene,North Precinct,Greene County Hospital Trustee,,Angela Jewett,,345,143,202
+Greene,West Precinct,Greene County Hospital Trustee,,Angela Jewett,,251,80,171
+Greene,Central Precinct,Greene County Hospital Trustee,,Douglas Hawn,,413,188,225
+Greene,East Precinct,Greene County Hospital Trustee,,Douglas Hawn,,408,127,281
+Greene,Jefferson 1 Precinct,Greene County Hospital Trustee,,Douglas Hawn,,477,279,198
+Greene,Jefferson 2 Precinct,Greene County Hospital Trustee,,Douglas Hawn,,718,440,278
+Greene,North Precinct,Greene County Hospital Trustee,,Douglas Hawn,,368,153,215
+Greene,West Precinct,Greene County Hospital Trustee,,Douglas Hawn,,318,101,217
+Greene,Central Precinct,Greene County Hospital Trustee,,James T. Schleisman,,347,162,185
+Greene,East Precinct,Greene County Hospital Trustee,,James T. Schleisman,,345,109,236
+Greene,Jefferson 1 Precinct,Greene County Hospital Trustee,,James T. Schleisman,,416,252,164
+Greene,Jefferson 2 Precinct,Greene County Hospital Trustee,,James T. Schleisman,,633,402,231
+Greene,North Precinct,Greene County Hospital Trustee,,James T. Schleisman,,332,136,196
+Greene,West Precinct,Greene County Hospital Trustee,,James T. Schleisman,,251,80,171
+Greene,Central Precinct,Greene County Hospital Trustee,,Kim Bates,,406,191,215
+Greene,East Precinct,Greene County Hospital Trustee,,Kim Bates,,388,118,270
+Greene,Jefferson 1 Precinct,Greene County Hospital Trustee,,Kim Bates,,455,273,182
+Greene,Jefferson 2 Precinct,Greene County Hospital Trustee,,Kim Bates,,675,424,251
+Greene,North Precinct,Greene County Hospital Trustee,,Kim Bates,,351,150,201
+Greene,West Precinct,Greene County Hospital Trustee,,Kim Bates,,317,102,215
+Greene,Central Precinct,Greene County Hospital Trustee,,Write-In,,6,0,6
+Greene,East Precinct,Greene County Hospital Trustee,,Write-In,,4,3,1
+Greene,Jefferson 1 Precinct,Greene County Hospital Trustee,,Write-In,,10,4,6
+Greene,Jefferson 2 Precinct,Greene County Hospital Trustee,,Write-In,,14,7,7
+Greene,North Precinct,Greene County Hospital Trustee,,Write-In,,3,0,3
+Greene,West Precinct,Greene County Hospital Trustee,,Write-In,,11,4,7
+Greene,Central Precinct,Greene County Unincorporated Area - Public Measure IM,,No,,379,183,196
+Greene,East Precinct,Greene County Unincorporated Area - Public Measure IM,,No,,155,65,90
+Greene,North Precinct,Greene County Unincorporated Area - Public Measure IM,,No,,181,83,98
+Greene,West Precinct,Greene County Unincorporated Area - Public Measure IM,,No,,163,70,93
+Greene,Central Precinct,Greene County Unincorporated Area - Public Measure IM,,Yes,,230,116,114
+Greene,East Precinct,Greene County Unincorporated Area - Public Measure IM,,Yes,,79,25,54
+Greene,North Precinct,Greene County Unincorporated Area - Public Measure IM,,Yes,,120,50,70
+Greene,West Precinct,Greene County Unincorporated Area - Public Measure IM,,Yes,,90,34,56
+Greene,North Precinct,Highland Township Trustee,,Jane A. Borkowski,,55,14,41
+Greene,North Precinct,Highland Township Trustee,,Timothy Towers,,63,18,45
+Greene,North Precinct,Highland Township Trustee,,Write-In,,1,0,1
+Greene,Central Precinct,Jackson Township Trustee,,Curt Eason,,103,51,52
+Greene,Central Precinct,Jackson Township Trustee,,Tony Kendall,,80,42,38
+Greene,Central Precinct,Jackson Township Trustee,,Write-In,,0,0,0
+Greene,East Precinct,Junction Township Trustee,,Ryan Higgins,,99,30,69
+Greene,East Precinct,Junction Township Trustee,,Steve Fisher,,98,33,65
+Greene,East Precinct,Junction Township Trustee,,Write-In,,1,0,1
+Greene,West Precinct,Kendrick Township Trustee,,Denton Wenger,,82,38,44
+Greene,West Precinct,Kendrick Township Trustee,,Don Ferguson,,67,33,34
+Greene,West Precinct,Kendrick Township Trustee,,Write-In,,3,1,2
+Greene,Central Precinct,President,,Chase Oliver and Mike ter Maat,LIB,3,3,0
+Greene,East Precinct,President,,Chase Oliver and Mike ter Maat,LIB,6,3,3
+Greene,Jefferson 1 Precinct,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Greene,Jefferson 2 Precinct,President,,Chase Oliver and Mike ter Maat,LIB,5,1,4
+Greene,North Precinct,President,,Chase Oliver and Mike ter Maat,LIB,4,0,4
+Greene,West Precinct,President,,Chase Oliver and Mike ter Maat,LIB,4,1,3
+Greene,Central Precinct,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Greene,East Precinct,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Greene,Jefferson 1 Precinct,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Greene,Jefferson 2 Precinct,President,,Claudia De la Cruz and Karina Garcia,PSL,1,1,0
+Greene,North Precinct,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Greene,West Precinct,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Greene,Central Precinct,President,,Donald J. Trump and JD Vance,REP,486,237,249
+Greene,East Precinct,President,,Donald J. Trump and JD Vance,REP,486,127,359
+Greene,Jefferson 1 Precinct,President,,Donald J. Trump and JD Vance,REP,596,290,306
+Greene,Jefferson 2 Precinct,President,,Donald J. Trump and JD Vance,REP,786,400,386
+Greene,North Precinct,President,,Donald J. Trump and JD Vance,REP,458,189,269
+Greene,West Precinct,President,,Donald J. Trump and JD Vance,REP,399,120,279
+Greene,Central Precinct,President,,Kamala D. Harris and Tim Walz,DEM,193,114,79
+Greene,East Precinct,President,,Kamala D. Harris and Tim Walz,DEM,206,91,115
+Greene,Jefferson 1 Precinct,President,,Kamala D. Harris and Tim Walz,DEM,378,262,116
+Greene,Jefferson 2 Precinct,President,,Kamala D. Harris and Tim Walz,DEM,523,366,157
+Greene,North Precinct,President,,Kamala D. Harris and Tim Walz,DEM,169,81,88
+Greene,West Precinct,President,,Kamala D. Harris and Tim Walz,DEM,134,54,80
+Greene,Central Precinct,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,1,4
+Greene,East Precinct,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,0,10
+Greene,Jefferson 1 Precinct,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,7,5,2
+Greene,Jefferson 2 Precinct,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,3,1
+Greene,North Precinct,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,0,6
+Greene,West Precinct,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,2,0,2
+Greene,Central Precinct,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Greene,East Precinct,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Greene,Jefferson 1 Precinct,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Greene,Jefferson 2 Precinct,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Greene,North Precinct,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Greene,West Precinct,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Greene,Central Precinct,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Greene,East Precinct,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Greene,Jefferson 1 Precinct,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Greene,Jefferson 2 Precinct,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Greene,North Precinct,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Greene,West Precinct,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Greene,Central Precinct,President,,Write-In,,1,1,0
+Greene,East Precinct,President,,Write-In,,2,1,1
+Greene,Jefferson 1 Precinct,President,,Write-In,,1,0,1
+Greene,Jefferson 2 Precinct,President,,Write-In,,2,1,1
+Greene,North Precinct,President,,Write-In,,1,0,1
+Greene,West Precinct,President,,Write-In,,0,0,0
+Greene,West Precinct,Scranton Township Trustee,,Allen Robson,,61,19,42
+Greene,West Precinct,Scranton Township Trustee,,Neal Hoyt,,69,19,50
+Greene,West Precinct,Scranton Township Trustee,,Write-In,,0,0,0
+Greene,Central Precinct,Soil and Water Conservation District Commissioner,,Fred Long,,358,165,193
+Greene,East Precinct,Soil and Water Conservation District Commissioner,,Fred Long,,344,101,243
+Greene,Jefferson 1 Precinct,Soil and Water Conservation District Commissioner,,Fred Long,,423,256,167
+Greene,Jefferson 2 Precinct,Soil and Water Conservation District Commissioner,,Fred Long,,622,380,242
+Greene,North Precinct,Soil and Water Conservation District Commissioner,,Fred Long,,330,140,190
+Greene,West Precinct,Soil and Water Conservation District Commissioner,,Fred Long,,264,82,182
+Greene,Central Precinct,Soil and Water Conservation District Commissioner,,Jeff J. Pudenz,,347,149,198
+Greene,East Precinct,Soil and Water Conservation District Commissioner,,Jeff J. Pudenz,,378,114,264
+Greene,Jefferson 1 Precinct,Soil and Water Conservation District Commissioner,,Jeff J. Pudenz,,394,231,163
+Greene,Jefferson 2 Precinct,Soil and Water Conservation District Commissioner,,Jeff J. Pudenz,,596,356,240
+Greene,North Precinct,Soil and Water Conservation District Commissioner,,Jeff J. Pudenz,,375,149,226
+Greene,West Precinct,Soil and Water Conservation District Commissioner,,Jeff J. Pudenz,,280,78,202
+Greene,Central Precinct,Soil and Water Conservation District Commissioner,,Susan Cort,,315,134,181
+Greene,East Precinct,Soil and Water Conservation District Commissioner,,Susan Cort,,342,104,238
+Greene,Jefferson 1 Precinct,Soil and Water Conservation District Commissioner,,Susan Cort,,379,232,147
+Greene,Jefferson 2 Precinct,Soil and Water Conservation District Commissioner,,Susan Cort,,572,346,226
+Greene,North Precinct,Soil and Water Conservation District Commissioner,,Susan Cort,,308,135,173
+Greene,West Precinct,Soil and Water Conservation District Commissioner,,Susan Cort,,233,70,163
+Greene,Central Precinct,Soil and Water Conservation District Commissioner,,Write-In,,9,0,9
+Greene,East Precinct,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Greene,Jefferson 1 Precinct,Soil and Water Conservation District Commissioner,,Write-In,,3,3,0
+Greene,Jefferson 2 Precinct,Soil and Water Conservation District Commissioner,,Write-In,,5,3,2
+Greene,North Precinct,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Greene,West Precinct,Soil and Water Conservation District Commissioner,,Write-In,,7,4,3
+Greene,Central Precinct,State House,47,Carter Nordman,REP,463,222,241
+Greene,East Precinct,State House,47,Carter Nordman,REP,431,113,318
+Greene,Jefferson 1 Precinct,State House,47,Carter Nordman,REP,496,255,241
+Greene,Jefferson 2 Precinct,State House,47,Carter Nordman,REP,710,376,334
+Greene,North Precinct,State House,47,Carter Nordman,REP,386,161,225
+Greene,West Precinct,State House,47,Carter Nordman,REP,369,115,254
+Greene,Central Precinct,State House,47,Joe Shelly,DEM,164,95,69
+Greene,East Precinct,State House,47,Joe Shelly,DEM,199,90,109
+Greene,Jefferson 1 Precinct,State House,47,Joe Shelly,DEM,327,216,111
+Greene,Jefferson 2 Precinct,State House,47,Joe Shelly,DEM,424,300,124
+Greene,North Precinct,State House,47,Joe Shelly,DEM,181,67,114
+Greene,West Precinct,State House,47,Joe Shelly,DEM,118,46,72
+Greene,Central Precinct,State House,47,Write-In,,0,0,0
+Greene,East Precinct,State House,47,Write-In,,0,0,0
+Greene,Jefferson 1 Precinct,State House,47,Write-In,,1,0,1
+Greene,Jefferson 2 Precinct,State House,47,Write-In,,3,2,1
+Greene,North Precinct,State House,47,Write-In,,1,0,1
+Greene,West Precinct,State House,47,Write-In,,0,0,0
+Greene,Central Precinct,State Senate,24,Jesse Green,REP,494,244,250
+Greene,East Precinct,State Senate,24,Jesse Green,REP,460,129,331
+Greene,Jefferson 1 Precinct,State Senate,24,Jesse Green,REP,549,281,268
+Greene,Jefferson 2 Precinct,State Senate,24,Jesse Green,REP,766,414,352
+Greene,North Precinct,State Senate,24,Jesse Green,REP,438,184,254
+Greene,West Precinct,State Senate,24,Jesse Green,REP,379,115,264
+Greene,Central Precinct,State Senate,24,Margaret Liston,DEM,167,96,71
+Greene,East Precinct,State Senate,24,Margaret Liston,DEM,219,84,135
+Greene,Jefferson 1 Precinct,State Senate,24,Margaret Liston,DEM,327,219,108
+Greene,Jefferson 2 Precinct,State Senate,24,Margaret Liston,DEM,435,304,131
+Greene,North Precinct,State Senate,24,Margaret Liston,DEM,167,68,99
+Greene,West Precinct,State Senate,24,Margaret Liston,DEM,122,51,71
+Greene,Central Precinct,State Senate,24,Write-In,,0,0,0
+Greene,East Precinct,State Senate,24,Write-In,,0,0,0
+Greene,Jefferson 1 Precinct,State Senate,24,Write-In,,2,1,1
+Greene,Jefferson 2 Precinct,State Senate,24,Write-In,,2,1,1
+Greene,North Precinct,State Senate,24,Write-In,,0,0,0
+Greene,West Precinct,State Senate,24,Write-In,,1,0,1
+Greene,Central Precinct,Supreme Court Justice - David May,,No,,175,92,83
+Greene,East Precinct,Supreme Court Justice - David May,,No,,190,65,125
+Greene,Jefferson 1 Precinct,Supreme Court Justice - David May,,No,,253,146,107
+Greene,Jefferson 2 Precinct,Supreme Court Justice - David May,,No,,321,200,121
+Greene,North Precinct,Supreme Court Justice - David May,,No,,130,46,84
+Greene,West Precinct,Supreme Court Justice - David May,,No,,144,56,88
+Greene,Central Precinct,Supreme Court Justice - David May,,Yes,,242,88,154
+Greene,East Precinct,Supreme Court Justice - David May,,Yes,,315,84,231
+Greene,Jefferson 1 Precinct,Supreme Court Justice - David May,,Yes,,308,181,127
+Greene,Jefferson 2 Precinct,Supreme Court Justice - David May,,Yes,,428,254,174
+Greene,North Precinct,Supreme Court Justice - David May,,Yes,,271,87,184
+Greene,West Precinct,Supreme Court Justice - David May,,Yes,,208,48,160
+Greene,Central Precinct,U.S. House,3,Lanon Baccam,DEM,186,105,81
+Greene,East Precinct,U.S. House,3,Lanon Baccam,DEM,240,99,141
+Greene,Jefferson 1 Precinct,U.S. House,3,Lanon Baccam,DEM,367,240,127
+Greene,Jefferson 2 Precinct,U.S. House,3,Lanon Baccam,DEM,500,338,162
+Greene,North Precinct,U.S. House,3,Lanon Baccam,DEM,180,68,112
+Greene,West Precinct,U.S. House,3,Lanon Baccam,DEM,140,54,86
+Greene,Central Precinct,U.S. House,3,Write-In,,2,1,1
+Greene,East Precinct,U.S. House,3,Write-In,,1,0,1
+Greene,Jefferson 1 Precinct,U.S. House,3,Write-In,,3,1,2
+Greene,Jefferson 2 Precinct,U.S. House,3,Write-In,,2,2,0
+Greene,North Precinct,U.S. House,3,Write-In,,1,0,1
+Greene,West Precinct,U.S. House,3,Write-In,,1,0,1
+Greene,Central Precinct,U.S. House,3,Zach Nunn,REP,482,242,240
+Greene,East Precinct,U.S. House,3,Zach Nunn,REP,455,122,333
+Greene,Jefferson 1 Precinct,U.S. House,3,Zach Nunn,REP,542,278,264
+Greene,Jefferson 2 Precinct,U.S. House,3,Zach Nunn,REP,744,402,342
+Greene,North Precinct,U.S. House,3,Zach Nunn,REP,429,186,243
+Greene,West Precinct,U.S. House,3,Zach Nunn,REP,378,116,262
+Greene,East Precinct,Washington Township Trustee,,Greg Jacobs,,84,39,45
+Greene,East Precinct,Washington Township Trustee,,Neal Dollinger,,62,32,30
+Greene,East Precinct,Washington Township Trustee,,Write-In,,4,1,3
+Greene,West Precinct,Willow Township Trustee,,Curt Emery,,67,27,40
+Greene,West Precinct,Willow Township Trustee,,Shannon Obert,,49,25,24
+Greene,West Precinct,Willow Township Trustee,,Write-In,,1,0,1

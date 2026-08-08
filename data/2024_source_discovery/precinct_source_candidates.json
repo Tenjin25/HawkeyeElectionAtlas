@@ -1,0 +1,771 @@
+{
+  "Clarke": [
+    {
+      "county": "Clarke",
+      "source_page": "https://www.clarkecountyiowa.org",
+      "url": "https://clarkecounty.iowa.gov/elections/election-results/",
+      "text": "Election Results",
+      "score": 6
+    },
+    {
+      "county": "Clarke",
+      "source_page": "https://www.clarkecountyiowa.org",
+      "url": "https://clarkecounty.iowa.gov/elections/districts-precincts/",
+      "text": "Districts & Precincts",
+      "score": 4
+    },
+    {
+      "county": "Clarke",
+      "source_page": "https://www.clarkecountyiowa.org",
+      "url": "https://clarkecounty.iowa.gov/elections/districts-precincts/",
+      "text": "Voting & Elections",
+      "score": 4
+    },
+    {
+      "county": "Clarke",
+      "source_page": "https://www.clarkecountyiowa.org",
+      "url": "https://clarkecounty.iowa.gov/elections/election-info/",
+      "text": "Elections",
+      "score": 2
+    },
+    {
+      "county": "Clarke",
+      "source_page": "https://www.clarkecountyiowa.org",
+      "url": "https://clarkecounty.iowa.gov/elections/election-info/",
+      "text": "Election Info",
+      "score": 2
+    },
+    {
+      "county": "Clarke",
+      "source_page": "https://www.clarkecountyiowa.org",
+      "url": "https://clarkecounty.iowa.gov/elections/iowa-legislators/",
+      "text": "Iowa Legislators",
+      "score": 2
+    },
+    {
+      "county": "Clarke",
+      "source_page": "https://www.clarkecountyiowa.org",
+      "url": "https://clarkecounty.iowa.gov/elections/maps-links/",
+      "text": "Maps & Links",
+      "score": 2
+    },
+    {
+      "county": "Clarke",
+      "source_page": "https://www.clarkecountyiowa.org",
+      "url": "https://clarkecounty.iowa.gov/departments/general-relief/",
+      "text": "General Assistance",
+      "score": 1
+    }
+  ],
+  "Fremont": [
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/GeneralElection2020_Official_Results.pdf",
+      "text": "2020 General Election November 3, 2020",
+      "score": 8
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/GeneralElection2020_Official_Results.pdf",
+      "text": "OFFICIAL",
+      "score": 8
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/HamburgSpecialElection12132022OfficialResults.pdf",
+      "text": "2022 Special City Election (Hamburg) December 13, 2022 OFFICIAL",
+      "score": 8
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/Hamburg_Community_School_District_Special_Election_Official_Results.pdf",
+      "text": "2022 Special School Election (Hamburg) September 13, 2022 OFFICIAL",
+      "score": 8
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/Sidney_Special_Election_12172019_Results.pdf",
+      "text": "2019 Special City\u00a0Election (Sidney",
+      "score": 8
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://electionresults.iowa.gov/IA/Fremont/113032/web.285569/",
+      "text": "2022 Primary Election June 7, 2022 OFFICIAL",
+      "score": 6
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://electionresults.iowa.gov/IA/Fremont/115677/web.307039/#/summary?v=313404%2F",
+      "text": "2022 General Election\u00a0 November 8, 2022 OFFICIAL",
+      "score": 6
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://electionresults.iowa.gov/IA/Fremont/118722/",
+      "text": "City/School Election November 7, 2023 OFFICIAL",
+      "score": 6
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://electionresults.iowa.gov/IA/Fremont/121544/web.317647/#/summary",
+      "text": "2024 Primary Election June 4, 2024 OFFICIAL",
+      "score": 6
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://electionresults.iowa.gov/IA/Fremont/126118/web.345435/#/summary?v=373888%2F",
+      "text": "2026 Primary Election June 2, 2026 OFFICIAL",
+      "score": 6
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/2016primaryallresultsofc.pdf",
+      "text": "2016 Primary Election",
+      "score": 5
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/2018OfficialGEResults.pdf",
+      "text": "2018 General Election",
+      "score": 5
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/2018_IWCC_results.pdf",
+      "text": "2018 Special Election (IWCC",
+      "score": 5
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/2018_Primary_Official_Results.pdf",
+      "text": "2018 Primary Election",
+      "score": 5
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/Copy of HamburgCitySpecial07072026results.pdf",
+      "text": "2026 Hamburg Special Election July 7th, 2026 OFFICIAL",
+      "score": 5
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/HamburgCitySpecial04162024officalresults.pdf",
+      "text": "2024 Special City Election (Hamburg) April 6, 2024 OFFICIAL",
+      "score": 5
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/HamburgCitySpecial09122023officialresults.pdf",
+      "text": "2023 Special City Election (Hamburg) September 12, 2023 OFFICIAL",
+      "score": 5
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/Official Results.pdf",
+      "text": "2024 General Election November 5, 2024 OFFICIAL",
+      "score": 5
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/SidneySchoolSpec04022019results.pdf",
+      "text": "2019 Special School Election (Sidney)",
+      "score": 5
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/06022020PrimaryElection.pdf",
+      "text": "2020 Primary Election",
+      "score": 4
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/2016_General_Election_Summary.pdf",
+      "text": "2016 General Election",
+      "score": 4
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/2016_Special_Election_Iowa_Western_Community_College.pdf",
+      "text": "2016 Special Election IWCC",
+      "score": 4
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/2017ctyrslts.pdf",
+      "text": "2017 City Election",
+      "score": 4
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/Final_CanvassReport_Regular.pdf",
+      "text": "2021 City/School Election\u00a0 November 2, 2021",
+      "score": 4
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/HamburgSpecialSchool03052024.pdf",
+      "text": "2024 Special School Election (Hamburg) March 5, 2024 OFFICIAL",
+      "score": 4
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/SidneySpecialCity03052024.pdf",
+      "text": "2024 Special City Election (Sidney) March 5, 2024 OFFICIAL",
+      "score": 4
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/cityelection2015.pdf",
+      "text": "2015 City Election",
+      "score": 4
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/schelecrslts2015.pdf",
+      "text": "2015 School Election",
+      "score": 4
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/schelecrslts2017.pdf",
+      "text": "2017 School Election",
+      "score": 4
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/specelec01062015rslts.pdf",
+      "text": "2015 Special Election (City of Riverton)",
+      "score": 4
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/specelec02022016rslts.pdf",
+      "text": "2016 Special School Election (Hamburg)",
+      "score": 4
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/specelec02102015rslts.pdf",
+      "text": "2015 Special Election (Rep Dist 23)",
+      "score": 4
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/specelect02072017.pdf",
+      "text": "2017 Special School Election (Hamburg)",
+      "score": 4
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/specelect04072017.pdf",
+      "text": "2017 Special School Election (Sidney",
+      "score": 4
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c099b537c38b/District_Levies_2024web.pdf",
+      "text": "2024 Tax Levies",
+      "score": 3
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://results.enr.clarityelections.com/IA/Fremont/98415/web/#/summary",
+      "text": "2019 City/School Election",
+      "score": 3
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "http://sos.iowa.gov/elections/voterinformation/uocava/returnballot.html",
+      "text": "Military Voting Information",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor",
+      "url": "http://www.iowaabd.com/files/client_files/822/2286/elicensing_user_guide.pdf",
+      "text": "Electronic Licensing User Guide",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c099b537c38b/2026 Holidays.pdf",
+      "text": "Holiday Schedule",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c099b537c38b/AnnualApplicationforIowaCigarettePermit,TobaccoTaxLicense,orDeliverySellerPermit(70015).pdf",
+      "text": "Cigarette/Tobacco Permit Application",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c099b537c38b/Distrct_Levies_2021.pdf",
+      "text": "2021 Tax Levies",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c099b537c38b/District_Levies_2023web.pdf",
+      "text": "2023 Tax Levies",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c51fd8fa32bb/Distrct_Levies_2022.pdf",
+      "text": "2022 Tax Levies",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/Final_CanvassReport_Regular.pdf",
+      "text": "OFFICIAL",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/absenteeballotapp10162023.pdf",
+      "text": "Application for an Absentee Ballot",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/absenteeballotapplication2025.pdf",
+      "text": "Application for an Absentee\u00a0Ballot",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/voteapp122022.pdf",
+      "text": "Official Voter Registration Form",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vimages/shared/vnews/stories/5c58713804537/voterregistrationform2025.pdf",
+      "text": "Official Voter Registration Form",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor",
+      "url": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "text": "County - Auditor - Auditor Elections",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor",
+      "url": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "text": "Auditor Elections",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "text": "breadcrumbs: Auditor Elections",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "text": "Help",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections#mainContent",
+      "text": "Skip to main content",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections#navigation",
+      "text": "Skip to navigation",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections#tb_calendar",
+      "text": "Calendar Tab",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections#tb_poll",
+      "text": "Poll Tab",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections#top",
+      "text": "Top",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections#top",
+      "text": "Back To Top",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://sos.iowa.gov/elections/voterinformation/uocava/alternatives.html",
+      "text": "Other Available Absentee",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://sos.iowa.gov/elections/voterinformation/uocava/alternatives.html",
+      "text": "",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://sos.iowa.gov/elections/voterinformation/uocava/alternatives.html",
+      "text": "Voting",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor",
+      "url": "https://www.fremontcountyia.gov/vimages/shared/vnews/stories/5c099b537c38b/Distrct_Levies_2020.pdf",
+      "text": "2020 Tax Levies",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor",
+      "url": "https://www.fremontcountyia.gov/vimages/shared/vnews/stories/5c4b8a8865069/Distrct_Levies_2016_web.pdf",
+      "text": "2016 Tax Levies",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor",
+      "url": "https://www.fremontcountyia.gov/vimages/shared/vnews/stories/5c4b8a8865069/Distrct_Levies_2017_web.pdf",
+      "text": "2017 Tax Levies",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor",
+      "url": "https://www.fremontcountyia.gov/vimages/shared/vnews/stories/5c4b8a8865069/Distrct_Levies_2018.pdf",
+      "text": "2018 Tax Levies",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor",
+      "url": "https://www.fremontcountyia.gov/vimages/shared/vnews/stories/5c4b8a8865069/Distrct_Levies_2019.pdf",
+      "text": "2019 Tax Levies",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor",
+      "url": "https://www.fremontcountyia.gov/vimages/shared/vnews/stories/6a4e7571cbdf3/Fremont_County_Tourism_Grant_Application_Yr20171214_upd.pdf",
+      "text": "Tourism - Fremont County Tourism Grant Application",
+      "score": 2
+    },
+    {
+      "county": "Fremont",
+      "source_page": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor%3E%3EAuditor%20Elections",
+      "url": "https://www.fvap.gov/uploads/FVAP/Forms/fwab2013.pdf",
+      "text": "FWABs",
+      "score": 2
+    }
+  ],
+  "Madison": [
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=5B9646A498784E568D64292D25131E91&dir=Objects",
+      "text": "08-26-2025 - UNOFFICIAL Special Election Results - Auditor",
+      "score": 6
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=64FB5DD5231D4EB8A28D3C72B55FD7C&dir=Objects",
+      "text": "2024 General Election Official Results",
+      "score": 6
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://electionresults.iowa.gov/IA/",
+      "text": "Nov. 4 2025 Election\nResults \u2013 City/School",
+      "score": 6
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=E969124764064BF8A67FF590ABD6357E&dir=Objects",
+      "text": "Approved Madison County Election Precincts",
+      "score": 4
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=ByfujrUlD0uCpk5JiA6NjIAYNbC3xPFLqYTHDMpoRqpUQUxEM1hFSVRORjdSTldZNDdJUTg1UkM2Ty4u",
+      "text": "Become Precinct election official",
+      "score": 4
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/connect.aspx?c=61&id=6FDF3AAF-F1C9-4A87-9F50-6903D61EB917&dir=Objects",
+      "text": "View Previous School Elections Documents",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/connect.aspx?c=61&id=8E7FF028-D7F3-4497-9B20-6A15B1C5688B&dir=Objects",
+      "text": "View Previous General Elections Documents",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/connect.aspx?c=61&id=997AC125-3289-4F24-818C-4E4B011E86D3&dir=Objects",
+      "text": "View Previous Special Election Documents",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/connect.aspx?c=61&id=AF6228AF-E8C9-4313-A19A-135C8B441FD7&dir=Objects",
+      "text": "View Previous Primary Elections Documents",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/connect.aspx?c=61&id=C6ADA634-D0E5-424F-A0CF-3CB4C16DB294&dir=Objects",
+      "text": "View Previous City Elections Documents",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=05500A876439499181001584F6F312A7&dir=Objects",
+      "text": "2025 City School Election Candidates and Measures",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=255DC6AA560844EBAD2DFC4EE06CED1F&dir=Objects",
+      "text": "Post-Election Audit 2025 City School Election",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=2FABD19D45F0433B94A014EC15060022&dir=Objects",
+      "text": "Publication of Election-2025 City School",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=3582016D587B47BC8473E5A72F1C00E2&dir=Objects",
+      "text": "2026 Primary Election Public Test Publication and Notification",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=39D45FA1EE7548F29F9822DCBA2CCA50&dir=Objects",
+      "text": "2026 Primary Election Abstract Signed",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=4AD90570D7DD44278B66987CECFD4F30&dir=Objects",
+      "text": "SAMPLE BALLOTS- 2025 City-School Election",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=4B5D3FFBEFBC49378E8D8511549FB06B&dir=Objects",
+      "text": "Provisional Ballots Cast 2025 City School Election",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=4FDA528F7B874E3ABDD581325F866BB4&dir=Objects",
+      "text": "Unofficial results Madison County 2025 City School",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=77E929771D6A44F9927BE74634161E7&dir=Objects",
+      "text": "2026 Primary Election Publication and Notice",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=8A8DE4772A4A4A0D9CA57804281904CF&dir=Objects",
+      "text": "2025 City School Election Absentee Voting Hours",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=B84FA78BC35C452C8284FF059722FDD&dir=Objects",
+      "text": "2026 Primary Election Canvass Summary Signed",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=F76E59DDD8F4480ABA11A5F530F282C3&dir=Objects",
+      "text": "Re-testing of Election Equipment- 2025 City School Election",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov",
+      "url": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "text": "Election Info",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov",
+      "url": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "text": "\uf115",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov",
+      "url": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "text": "LEARN MORE",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov",
+      "url": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "text": "Election Information",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "text": "",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "url": "https://www.madisoncounty.iowa.gov/offices/auditor/elections/",
+      "text": "Got it",
+      "score": 2
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov",
+      "url": "https://cap.gmdsolutions.com/viewfile.aspx?id=BAE463563C3F4D7E9100B70028B5B37&dir=Objects",
+      "text": "2024 Madison County\nComprehensive Plan - Approved 12 NOV 2024",
+      "score": 1
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov",
+      "url": "https://www.madisoncounty.iowa.gov/offices/general-assistance/",
+      "text": "General Assistance",
+      "score": 1
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov",
+      "url": "https://www.madisoncounty.iowa.gov/offices/general-assistance/",
+      "text": "Mental Health and Disability Services",
+      "score": 1
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/general-assistance/",
+      "url": "https://www.madisoncounty.iowa.gov/offices/general-assistance/",
+      "text": "",
+      "score": 1
+    },
+    {
+      "county": "Madison",
+      "source_page": "https://www.madisoncounty.iowa.gov/offices/general-assistance/",
+      "url": "https://www.madisoncounty.iowa.gov/offices/general-assistance/",
+      "text": "Got it",
+      "score": 1
+    }
+  ]
+}

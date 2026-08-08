@@ -1,0 +1,633 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Plymouth,#1-Le Mars Convention Center,Constitutional Amendment 1,,No,,261,129,132
+Plymouth,#10-Kingsley Community Center,Constitutional Amendment 1,,No,,182,44,138
+Plymouth,#11-Wesley United Methodist Church,Constitutional Amendment 1,,No,,255,46,209
+Plymouth,#2-Le Mars Convention Center,Constitutional Amendment 1,,No,,347,179,168
+Plymouth,#3-Le Mars Convention Center,Constitutional Amendment 1,,No,,261,108,153
+Plymouth,#4-Courthouse Annex,Constitutional Amendment 1,,No,,173,81,92
+Plymouth,#5-Remsen Public Library,Constitutional Amendment 1,,No,,185,63,122
+Plymouth,#6-Brunsville Legion Club,Constitutional Amendment 1,,No,,161,45,116
+Plymouth,#7-Kissinger Community Center,Constitutional Amendment 1,,No,,182,50,132
+Plymouth,#8-Perry Township Hall,Constitutional Amendment 1,,No,,159,64,95
+Plymouth,#9-Hinton Community Center,Constitutional Amendment 1,,No,,258,75,183
+Plymouth,#1-Le Mars Convention Center,Constitutional Amendment 1,,Yes,,1103,555,548
+Plymouth,#10-Kingsley Community Center,Constitutional Amendment 1,,Yes,,956,256,700
+Plymouth,#11-Wesley United Methodist Church,Constitutional Amendment 1,,Yes,,927,198,729
+Plymouth,#2-Le Mars Convention Center,Constitutional Amendment 1,,Yes,,1503,831,672
+Plymouth,#3-Le Mars Convention Center,Constitutional Amendment 1,,Yes,,995,445,550
+Plymouth,#4-Courthouse Annex,Constitutional Amendment 1,,Yes,,830,465,365
+Plymouth,#5-Remsen Public Library,Constitutional Amendment 1,,Yes,,976,389,587
+Plymouth,#6-Brunsville Legion Club,Constitutional Amendment 1,,Yes,,622,201,421
+Plymouth,#7-Kissinger Community Center,Constitutional Amendment 1,,Yes,,743,233,510
+Plymouth,#8-Perry Township Hall,Constitutional Amendment 1,,Yes,,736,297,439
+Plymouth,#9-Hinton Community Center,Constitutional Amendment 1,,Yes,,929,284,645
+Plymouth,#1-Le Mars Convention Center,Constitutional Amendment 2,,No,,138,72,66
+Plymouth,#10-Kingsley Community Center,Constitutional Amendment 2,,No,,124,37,87
+Plymouth,#11-Wesley United Methodist Church,Constitutional Amendment 2,,No,,133,32,101
+Plymouth,#2-Le Mars Convention Center,Constitutional Amendment 2,,No,,193,89,104
+Plymouth,#3-Le Mars Convention Center,Constitutional Amendment 2,,No,,166,69,97
+Plymouth,#4-Courthouse Annex,Constitutional Amendment 2,,No,,89,38,51
+Plymouth,#5-Remsen Public Library,Constitutional Amendment 2,,No,,110,39,71
+Plymouth,#6-Brunsville Legion Club,Constitutional Amendment 2,,No,,84,33,51
+Plymouth,#7-Kissinger Community Center,Constitutional Amendment 2,,No,,102,29,73
+Plymouth,#8-Perry Township Hall,Constitutional Amendment 2,,No,,104,47,57
+Plymouth,#9-Hinton Community Center,Constitutional Amendment 2,,No,,131,32,99
+Plymouth,#1-Le Mars Convention Center,Constitutional Amendment 2,,Yes,,1190,590,600
+Plymouth,#10-Kingsley Community Center,Constitutional Amendment 2,,Yes,,1002,255,747
+Plymouth,#11-Wesley United Methodist Church,Constitutional Amendment 2,,Yes,,1022,212,810
+Plymouth,#2-Le Mars Convention Center,Constitutional Amendment 2,,Yes,,1580,875,705
+Plymouth,#3-Le Mars Convention Center,Constitutional Amendment 2,,Yes,,1048,455,593
+Plymouth,#4-Courthouse Annex,Constitutional Amendment 2,,Yes,,875,476,399
+Plymouth,#5-Remsen Public Library,Constitutional Amendment 2,,Yes,,1009,388,621
+Plymouth,#6-Brunsville Legion Club,Constitutional Amendment 2,,Yes,,675,204,471
+Plymouth,#7-Kissinger Community Center,Constitutional Amendment 2,,Yes,,797,242,555
+Plymouth,#8-Perry Township Hall,Constitutional Amendment 2,,Yes,,767,301,466
+Plymouth,#9-Hinton Community Center,Constitutional Amendment 2,,Yes,,1019,309,710
+Plymouth,#1-Le Mars Convention Center,County Agricultural Extension Council Member,,Brad Roepke,,468,212,256
+Plymouth,#10-Kingsley Community Center,County Agricultural Extension Council Member,,Brad Roepke,,735,163,572
+Plymouth,#11-Wesley United Methodist Church,County Agricultural Extension Council Member,,Brad Roepke,,402,66,336
+Plymouth,#2-Le Mars Convention Center,County Agricultural Extension Council Member,,Brad Roepke,,618,318,300
+Plymouth,#3-Le Mars Convention Center,County Agricultural Extension Council Member,,Brad Roepke,,415,164,251
+Plymouth,#4-Courthouse Annex,County Agricultural Extension Council Member,,Brad Roepke,,388,182,206
+Plymouth,#5-Remsen Public Library,County Agricultural Extension Council Member,,Brad Roepke,,490,176,314
+Plymouth,#6-Brunsville Legion Club,County Agricultural Extension Council Member,,Brad Roepke,,297,86,211
+Plymouth,#7-Kissinger Community Center,County Agricultural Extension Council Member,,Brad Roepke,,365,100,265
+Plymouth,#8-Perry Township Hall,County Agricultural Extension Council Member,,Brad Roepke,,317,116,201
+Plymouth,#9-Hinton Community Center,County Agricultural Extension Council Member,,Brad Roepke,,447,122,325
+Plymouth,#1-Le Mars Convention Center,County Agricultural Extension Council Member,,Carissa DeRocher,,500,240,260
+Plymouth,#10-Kingsley Community Center,County Agricultural Extension Council Member,,Carissa DeRocher,,356,87,269
+Plymouth,#11-Wesley United Methodist Church,County Agricultural Extension Council Member,,Carissa DeRocher,,761,136,625
+Plymouth,#2-Le Mars Convention Center,County Agricultural Extension Council Member,,Carissa DeRocher,,642,330,312
+Plymouth,#3-Le Mars Convention Center,County Agricultural Extension Council Member,,Carissa DeRocher,,422,164,258
+Plymouth,#4-Courthouse Annex,County Agricultural Extension Council Member,,Carissa DeRocher,,411,215,196
+Plymouth,#5-Remsen Public Library,County Agricultural Extension Council Member,,Carissa DeRocher,,324,117,207
+Plymouth,#6-Brunsville Legion Club,County Agricultural Extension Council Member,,Carissa DeRocher,,363,112,251
+Plymouth,#7-Kissinger Community Center,County Agricultural Extension Council Member,,Carissa DeRocher,,390,119,271
+Plymouth,#8-Perry Township Hall,County Agricultural Extension Council Member,,Carissa DeRocher,,295,115,180
+Plymouth,#9-Hinton Community Center,County Agricultural Extension Council Member,,Carissa DeRocher,,422,98,324
+Plymouth,#1-Le Mars Convention Center,County Agricultural Extension Council Member,,Ed Vondrak,,427,202,225
+Plymouth,#10-Kingsley Community Center,County Agricultural Extension Council Member,,Ed Vondrak,,409,112,297
+Plymouth,#11-Wesley United Methodist Church,County Agricultural Extension Council Member,,Ed Vondrak,,395,90,305
+Plymouth,#2-Le Mars Convention Center,County Agricultural Extension Council Member,,Ed Vondrak,,521,287,234
+Plymouth,#3-Le Mars Convention Center,County Agricultural Extension Council Member,,Ed Vondrak,,299,110,189
+Plymouth,#4-Courthouse Annex,County Agricultural Extension Council Member,,Ed Vondrak,,325,163,162
+Plymouth,#5-Remsen Public Library,County Agricultural Extension Council Member,,Ed Vondrak,,373,124,249
+Plymouth,#6-Brunsville Legion Club,County Agricultural Extension Council Member,,Ed Vondrak,,272,85,187
+Plymouth,#7-Kissinger Community Center,County Agricultural Extension Council Member,,Ed Vondrak,,477,137,340
+Plymouth,#8-Perry Township Hall,County Agricultural Extension Council Member,,Ed Vondrak,,440,171,269
+Plymouth,#9-Hinton Community Center,County Agricultural Extension Council Member,,Ed Vondrak,,625,162,463
+Plymouth,#1-Le Mars Convention Center,County Agricultural Extension Council Member,,Jill Oltmanns,,506,264,242
+Plymouth,#10-Kingsley Community Center,County Agricultural Extension Council Member,,Jill Oltmanns,,320,95,225
+Plymouth,#11-Wesley United Methodist Church,County Agricultural Extension Council Member,,Jill Oltmanns,,488,103,385
+Plymouth,#2-Le Mars Convention Center,County Agricultural Extension Council Member,,Jill Oltmanns,,697,394,303
+Plymouth,#3-Le Mars Convention Center,County Agricultural Extension Council Member,,Jill Oltmanns,,414,197,217
+Plymouth,#4-Courthouse Annex,County Agricultural Extension Council Member,,Jill Oltmanns,,419,219,200
+Plymouth,#5-Remsen Public Library,County Agricultural Extension Council Member,,Jill Oltmanns,,347,137,210
+Plymouth,#6-Brunsville Legion Club,County Agricultural Extension Council Member,,Jill Oltmanns,,404,122,282
+Plymouth,#7-Kissinger Community Center,County Agricultural Extension Council Member,,Jill Oltmanns,,316,88,228
+Plymouth,#8-Perry Township Hall,County Agricultural Extension Council Member,,Jill Oltmanns,,211,80,131
+Plymouth,#9-Hinton Community Center,County Agricultural Extension Council Member,,Jill Oltmanns,,319,95,224
+Plymouth,#1-Le Mars Convention Center,County Agricultural Extension Council Member,,Merlin Wagner,,352,166,186
+Plymouth,#10-Kingsley Community Center,County Agricultural Extension Council Member,,Merlin Wagner,,258,66,192
+Plymouth,#11-Wesley United Methodist Church,County Agricultural Extension Council Member,,Merlin Wagner,,226,52,174
+Plymouth,#2-Le Mars Convention Center,County Agricultural Extension Council Member,,Merlin Wagner,,430,234,196
+Plymouth,#3-Le Mars Convention Center,County Agricultural Extension Council Member,,Merlin Wagner,,271,101,170
+Plymouth,#4-Courthouse Annex,County Agricultural Extension Council Member,,Merlin Wagner,,268,133,135
+Plymouth,#5-Remsen Public Library,County Agricultural Extension Council Member,,Merlin Wagner,,323,110,213
+Plymouth,#6-Brunsville Legion Club,County Agricultural Extension Council Member,,Merlin Wagner,,200,62,138
+Plymouth,#7-Kissinger Community Center,County Agricultural Extension Council Member,,Merlin Wagner,,273,82,191
+Plymouth,#8-Perry Township Hall,County Agricultural Extension Council Member,,Merlin Wagner,,189,71,118
+Plymouth,#9-Hinton Community Center,County Agricultural Extension Council Member,,Merlin Wagner,,256,74,182
+Plymouth,#1-Le Mars Convention Center,County Agricultural Extension Council Member,,Morgan TenNapel,,618,281,337
+Plymouth,#10-Kingsley Community Center,County Agricultural Extension Council Member,,Morgan TenNapel,,457,121,336
+Plymouth,#11-Wesley United Methodist Church,County Agricultural Extension Council Member,,Morgan TenNapel,,374,71,303
+Plymouth,#2-Le Mars Convention Center,County Agricultural Extension Council Member,,Morgan TenNapel,,832,424,408
+Plymouth,#3-Le Mars Convention Center,County Agricultural Extension Council Member,,Morgan TenNapel,,476,170,306
+Plymouth,#4-Courthouse Annex,County Agricultural Extension Council Member,,Morgan TenNapel,,515,233,282
+Plymouth,#5-Remsen Public Library,County Agricultural Extension Council Member,,Morgan TenNapel,,549,188,361
+Plymouth,#6-Brunsville Legion Club,County Agricultural Extension Council Member,,Morgan TenNapel,,380,98,282
+Plymouth,#7-Kissinger Community Center,County Agricultural Extension Council Member,,Morgan TenNapel,,383,107,276
+Plymouth,#8-Perry Township Hall,County Agricultural Extension Council Member,,Morgan TenNapel,,216,81,135
+Plymouth,#9-Hinton Community Center,County Agricultural Extension Council Member,,Morgan TenNapel,,372,105,267
+Plymouth,#1-Le Mars Convention Center,County Agricultural Extension Council Member,,Write-In,,23,10,13
+Plymouth,#10-Kingsley Community Center,County Agricultural Extension Council Member,,Write-In,,6,1,5
+Plymouth,#11-Wesley United Methodist Church,County Agricultural Extension Council Member,,Write-In,,4,1,3
+Plymouth,#2-Le Mars Convention Center,County Agricultural Extension Council Member,,Write-In,,15,10,5
+Plymouth,#3-Le Mars Convention Center,County Agricultural Extension Council Member,,Write-In,,19,2,17
+Plymouth,#4-Courthouse Annex,County Agricultural Extension Council Member,,Write-In,,9,2,7
+Plymouth,#5-Remsen Public Library,County Agricultural Extension Council Member,,Write-In,,14,3,11
+Plymouth,#6-Brunsville Legion Club,County Agricultural Extension Council Member,,Write-In,,17,3,14
+Plymouth,#7-Kissinger Community Center,County Agricultural Extension Council Member,,Write-In,,12,0,12
+Plymouth,#8-Perry Township Hall,County Agricultural Extension Council Member,,Write-In,,10,6,4
+Plymouth,#9-Hinton Community Center,County Agricultural Extension Council Member,,Write-In,,16,3,13
+Plymouth,#1-Le Mars Convention Center,County Auditor,,Stacey Feldman,REP,1223,614,609
+Plymouth,#10-Kingsley Community Center,County Auditor,,Stacey Feldman,REP,1040,261,779
+Plymouth,#11-Wesley United Methodist Church,County Auditor,,Stacey Feldman,REP,1064,202,862
+Plymouth,#2-Le Mars Convention Center,County Auditor,,Stacey Feldman,REP,1618,863,755
+Plymouth,#3-Le Mars Convention Center,County Auditor,,Stacey Feldman,REP,1061,449,612
+Plymouth,#4-Courthouse Annex,County Auditor,,Stacey Feldman,REP,916,496,420
+Plymouth,#5-Remsen Public Library,County Auditor,,Stacey Feldman,REP,1086,417,669
+Plymouth,#6-Brunsville Legion Club,County Auditor,,Stacey Feldman,REP,711,208,503
+Plymouth,#7-Kissinger Community Center,County Auditor,,Stacey Feldman,REP,828,261,567
+Plymouth,#8-Perry Township Hall,County Auditor,,Stacey Feldman,REP,772,293,479
+Plymouth,#9-Hinton Community Center,County Auditor,,Stacey Feldman,REP,1008,279,729
+Plymouth,#1-Le Mars Convention Center,County Auditor,,Write-In,,11,4,7
+Plymouth,#10-Kingsley Community Center,County Auditor,,Write-In,,7,1,6
+Plymouth,#11-Wesley United Methodist Church,County Auditor,,Write-In,,6,2,4
+Plymouth,#2-Le Mars Convention Center,County Auditor,,Write-In,,9,3,6
+Plymouth,#3-Le Mars Convention Center,County Auditor,,Write-In,,13,3,10
+Plymouth,#4-Courthouse Annex,County Auditor,,Write-In,,2,0,2
+Plymouth,#5-Remsen Public Library,County Auditor,,Write-In,,2,1,1
+Plymouth,#6-Brunsville Legion Club,County Auditor,,Write-In,,0,0,0
+Plymouth,#7-Kissinger Community Center,County Auditor,,Write-In,,6,2,4
+Plymouth,#8-Perry Township Hall,County Auditor,,Write-In,,7,2,5
+Plymouth,#9-Hinton Community Center,County Auditor,,Write-In,,4,2,2
+Plymouth,#1-Le Mars Convention Center,County Sheriff,,Jeff TeBrink,REP,1220,608,612
+Plymouth,#10-Kingsley Community Center,County Sheriff,,Jeff TeBrink,REP,1036,261,775
+Plymouth,#11-Wesley United Methodist Church,County Sheriff,,Jeff TeBrink,REP,1075,198,877
+Plymouth,#2-Le Mars Convention Center,County Sheriff,,Jeff TeBrink,REP,1650,887,763
+Plymouth,#3-Le Mars Convention Center,County Sheriff,,Jeff TeBrink,REP,1084,463,621
+Plymouth,#4-Courthouse Annex,County Sheriff,,Jeff TeBrink,REP,932,503,429
+Plymouth,#5-Remsen Public Library,County Sheriff,,Jeff TeBrink,REP,1100,426,674
+Plymouth,#6-Brunsville Legion Club,County Sheriff,,Jeff TeBrink,REP,732,216,516
+Plymouth,#7-Kissinger Community Center,County Sheriff,,Jeff TeBrink,REP,823,253,570
+Plymouth,#8-Perry Township Hall,County Sheriff,,Jeff TeBrink,REP,767,286,481
+Plymouth,#9-Hinton Community Center,County Sheriff,,Jeff TeBrink,REP,1011,286,725
+Plymouth,#1-Le Mars Convention Center,County Sheriff,,Write-In,,12,2,10
+Plymouth,#10-Kingsley Community Center,County Sheriff,,Write-In,,8,2,6
+Plymouth,#11-Wesley United Methodist Church,County Sheriff,,Write-In,,6,1,5
+Plymouth,#2-Le Mars Convention Center,County Sheriff,,Write-In,,15,6,9
+Plymouth,#3-Le Mars Convention Center,County Sheriff,,Write-In,,17,5,12
+Plymouth,#4-Courthouse Annex,County Sheriff,,Write-In,,5,0,5
+Plymouth,#5-Remsen Public Library,County Sheriff,,Write-In,,9,3,6
+Plymouth,#6-Brunsville Legion Club,County Sheriff,,Write-In,,3,3,0
+Plymouth,#7-Kissinger Community Center,County Sheriff,,Write-In,,8,3,5
+Plymouth,#8-Perry Township Hall,County Sheriff,,Write-In,,7,1,6
+Plymouth,#9-Hinton Community Center,County Sheriff,,Write-In,,6,1,5
+Plymouth,#1-Le Mars Convention Center,County Supervisor,2,Mike Van Otterloo,REP,1208,607,601
+Plymouth,#10-Kingsley Community Center,County Supervisor,2,Mike Van Otterloo,REP,1053,270,783
+Plymouth,#11-Wesley United Methodist Church,County Supervisor,2,Mike Van Otterloo,REP,1093,205,888
+Plymouth,#2-Le Mars Convention Center,County Supervisor,2,Mike Van Otterloo,REP,1650,879,771
+Plymouth,#3-Le Mars Convention Center,County Supervisor,2,Mike Van Otterloo,REP,1098,476,622
+Plymouth,#4-Courthouse Annex,County Supervisor,2,Mike Van Otterloo,REP,932,508,424
+Plymouth,#5-Remsen Public Library,County Supervisor,2,Mike Van Otterloo,REP,1126,435,691
+Plymouth,#6-Brunsville Legion Club,County Supervisor,2,Mike Van Otterloo,REP,729,214,515
+Plymouth,#7-Kissinger Community Center,County Supervisor,2,Mike Van Otterloo,REP,842,260,582
+Plymouth,#8-Perry Township Hall,County Supervisor,2,Mike Van Otterloo,REP,774,287,487
+Plymouth,#9-Hinton Community Center,County Supervisor,2,Mike Van Otterloo,REP,1024,286,738
+Plymouth,#1-Le Mars Convention Center,County Supervisor,2,Write-In,,11,1,10
+Plymouth,#10-Kingsley Community Center,County Supervisor,2,Write-In,,8,2,6
+Plymouth,#11-Wesley United Methodist Church,County Supervisor,2,Write-In,,7,1,6
+Plymouth,#2-Le Mars Convention Center,County Supervisor,2,Write-In,,17,7,10
+Plymouth,#3-Le Mars Convention Center,County Supervisor,2,Write-In,,17,5,12
+Plymouth,#4-Courthouse Annex,County Supervisor,2,Write-In,,5,1,4
+Plymouth,#5-Remsen Public Library,County Supervisor,2,Write-In,,1,1,0
+Plymouth,#6-Brunsville Legion Club,County Supervisor,2,Write-In,,5,3,2
+Plymouth,#7-Kissinger Community Center,County Supervisor,2,Write-In,,7,2,5
+Plymouth,#8-Perry Township Hall,County Supervisor,2,Write-In,,6,2,4
+Plymouth,#9-Hinton Community Center,County Supervisor,2,Write-In,,6,2,4
+Plymouth,#1-Le Mars Convention Center,County Supervisor,5,Douglas Edward Manley,REP,1093,523,570
+Plymouth,#10-Kingsley Community Center,County Supervisor,5,Douglas Edward Manley,REP,997,236,761
+Plymouth,#11-Wesley United Methodist Church,County Supervisor,5,Douglas Edward Manley,REP,1095,208,887
+Plymouth,#2-Le Mars Convention Center,County Supervisor,5,Douglas Edward Manley,REP,1433,720,713
+Plymouth,#3-Le Mars Convention Center,County Supervisor,5,Douglas Edward Manley,REP,971,391,580
+Plymouth,#4-Courthouse Annex,County Supervisor,5,Douglas Edward Manley,REP,804,414,390
+Plymouth,#5-Remsen Public Library,County Supervisor,5,Douglas Edward Manley,REP,1010,363,647
+Plymouth,#6-Brunsville Legion Club,County Supervisor,5,Douglas Edward Manley,REP,672,192,480
+Plymouth,#7-Kissinger Community Center,County Supervisor,5,Douglas Edward Manley,REP,780,230,550
+Plymouth,#8-Perry Township Hall,County Supervisor,5,Douglas Edward Manley,REP,747,270,477
+Plymouth,#9-Hinton Community Center,County Supervisor,5,Douglas Edward Manley,REP,973,262,711
+Plymouth,#1-Le Mars Convention Center,County Supervisor,5,Write-In,,13,4,9
+Plymouth,#10-Kingsley Community Center,County Supervisor,5,Write-In,,7,2,5
+Plymouth,#11-Wesley United Methodist Church,County Supervisor,5,Write-In,,7,1,6
+Plymouth,#2-Le Mars Convention Center,County Supervisor,5,Write-In,,12,5,7
+Plymouth,#3-Le Mars Convention Center,County Supervisor,5,Write-In,,21,9,12
+Plymouth,#4-Courthouse Annex,County Supervisor,5,Write-In,,1,0,1
+Plymouth,#5-Remsen Public Library,County Supervisor,5,Write-In,,1,1,0
+Plymouth,#6-Brunsville Legion Club,County Supervisor,5,Write-In,,2,0,2
+Plymouth,#7-Kissinger Community Center,County Supervisor,5,Write-In,,4,1,3
+Plymouth,#8-Perry Township Hall,County Supervisor,5,Write-In,,8,2,6
+Plymouth,#9-Hinton Community Center,County Supervisor,5,Write-In,,4,1,3
+Plymouth,#1-Le Mars Convention Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,191,78,113
+Plymouth,#10-Kingsley Community Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,201,52,149
+Plymouth,#11-Wesley United Methodist Church,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,216,36,180
+Plymouth,#2-Le Mars Convention Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,239,108,131
+Plymouth,#3-Le Mars Convention Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,217,64,153
+Plymouth,#4-Courthouse Annex,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,141,61,80
+Plymouth,#5-Remsen Public Library,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,197,53,144
+Plymouth,#6-Brunsville Legion Club,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,139,31,108
+Plymouth,#7-Kissinger Community Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,163,44,119
+Plymouth,#8-Perry Township Hall,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,164,55,109
+Plymouth,#9-Hinton Community Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,208,58,150
+Plymouth,#1-Le Mars Convention Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,704,303,401
+Plymouth,#10-Kingsley Community Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,650,140,510
+Plymouth,#11-Wesley United Methodist Church,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,615,104,511
+Plymouth,#2-Le Mars Convention Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,897,422,475
+Plymouth,#3-Le Mars Convention Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,630,223,407
+Plymouth,#4-Courthouse Annex,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,462,212,250
+Plymouth,#5-Remsen Public Library,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,588,184,404
+Plymouth,#6-Brunsville Legion Club,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,417,111,306
+Plymouth,#7-Kissinger Community Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,510,134,376
+Plymouth,#8-Perry Township Hall,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,444,169,275
+Plymouth,#9-Hinton Community Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,623,154,469
+Plymouth,#1-Le Mars Convention Center,Court of Appeals Judge - Mary Ellen Tabor,,No,,196,88,108
+Plymouth,#10-Kingsley Community Center,Court of Appeals Judge - Mary Ellen Tabor,,No,,202,55,147
+Plymouth,#11-Wesley United Methodist Church,Court of Appeals Judge - Mary Ellen Tabor,,No,,194,26,168
+Plymouth,#2-Le Mars Convention Center,Court of Appeals Judge - Mary Ellen Tabor,,No,,231,106,125
+Plymouth,#3-Le Mars Convention Center,Court of Appeals Judge - Mary Ellen Tabor,,No,,201,58,143
+Plymouth,#4-Courthouse Annex,Court of Appeals Judge - Mary Ellen Tabor,,No,,143,63,80
+Plymouth,#5-Remsen Public Library,Court of Appeals Judge - Mary Ellen Tabor,,No,,197,58,139
+Plymouth,#6-Brunsville Legion Club,Court of Appeals Judge - Mary Ellen Tabor,,No,,122,28,94
+Plymouth,#7-Kissinger Community Center,Court of Appeals Judge - Mary Ellen Tabor,,No,,163,54,109
+Plymouth,#8-Perry Township Hall,Court of Appeals Judge - Mary Ellen Tabor,,No,,175,61,114
+Plymouth,#9-Hinton Community Center,Court of Appeals Judge - Mary Ellen Tabor,,No,,223,69,154
+Plymouth,#1-Le Mars Convention Center,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,708,302,406
+Plymouth,#10-Kingsley Community Center,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,654,137,517
+Plymouth,#11-Wesley United Methodist Church,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,632,109,523
+Plymouth,#2-Le Mars Convention Center,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,908,423,485
+Plymouth,#3-Le Mars Convention Center,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,638,232,406
+Plymouth,#4-Courthouse Annex,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,466,211,255
+Plymouth,#5-Remsen Public Library,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,606,193,413
+Plymouth,#6-Brunsville Legion Club,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,439,114,325
+Plymouth,#7-Kissinger Community Center,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,513,132,381
+Plymouth,#8-Perry Township Hall,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,424,157,267
+Plymouth,#9-Hinton Community Center,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,615,146,469
+Plymouth,#1-Le Mars Convention Center,Court of Appeals Judge - Samuel Langholz,,No,,201,89,112
+Plymouth,#10-Kingsley Community Center,Court of Appeals Judge - Samuel Langholz,,No,,216,57,159
+Plymouth,#11-Wesley United Methodist Church,Court of Appeals Judge - Samuel Langholz,,No,,210,37,173
+Plymouth,#2-Le Mars Convention Center,Court of Appeals Judge - Samuel Langholz,,No,,244,111,133
+Plymouth,#3-Le Mars Convention Center,Court of Appeals Judge - Samuel Langholz,,No,,224,65,159
+Plymouth,#4-Courthouse Annex,Court of Appeals Judge - Samuel Langholz,,No,,129,63,66
+Plymouth,#5-Remsen Public Library,Court of Appeals Judge - Samuel Langholz,,No,,167,48,119
+Plymouth,#6-Brunsville Legion Club,Court of Appeals Judge - Samuel Langholz,,No,,124,31,93
+Plymouth,#7-Kissinger Community Center,Court of Appeals Judge - Samuel Langholz,,No,,136,37,99
+Plymouth,#8-Perry Township Hall,Court of Appeals Judge - Samuel Langholz,,No,,170,68,102
+Plymouth,#9-Hinton Community Center,Court of Appeals Judge - Samuel Langholz,,No,,212,63,149
+Plymouth,#1-Le Mars Convention Center,Court of Appeals Judge - Samuel Langholz,,Yes,,736,318,418
+Plymouth,#10-Kingsley Community Center,Court of Appeals Judge - Samuel Langholz,,Yes,,649,138,511
+Plymouth,#11-Wesley United Methodist Church,Court of Appeals Judge - Samuel Langholz,,Yes,,637,109,528
+Plymouth,#2-Le Mars Convention Center,Court of Appeals Judge - Samuel Langholz,,Yes,,921,435,486
+Plymouth,#3-Le Mars Convention Center,Court of Appeals Judge - Samuel Langholz,,Yes,,658,234,424
+Plymouth,#4-Courthouse Annex,Court of Appeals Judge - Samuel Langholz,,Yes,,495,222,273
+Plymouth,#5-Remsen Public Library,Court of Appeals Judge - Samuel Langholz,,Yes,,656,206,450
+Plymouth,#6-Brunsville Legion Club,Court of Appeals Judge - Samuel Langholz,,Yes,,442,116,326
+Plymouth,#7-Kissinger Community Center,Court of Appeals Judge - Samuel Langholz,,Yes,,562,158,404
+Plymouth,#8-Perry Township Hall,Court of Appeals Judge - Samuel Langholz,,Yes,,445,157,288
+Plymouth,#9-Hinton Community Center,Court of Appeals Judge - Samuel Langholz,,Yes,,640,159,481
+Plymouth,#1-Le Mars Convention Center,Court of Appeals Judge - Tyler J. Buller,,No,,193,85,108
+Plymouth,#10-Kingsley Community Center,Court of Appeals Judge - Tyler J. Buller,,No,,189,58,131
+Plymouth,#11-Wesley United Methodist Church,Court of Appeals Judge - Tyler J. Buller,,No,,185,31,154
+Plymouth,#2-Le Mars Convention Center,Court of Appeals Judge - Tyler J. Buller,,No,,241,110,131
+Plymouth,#3-Le Mars Convention Center,Court of Appeals Judge - Tyler J. Buller,,No,,221,65,156
+Plymouth,#4-Courthouse Annex,Court of Appeals Judge - Tyler J. Buller,,No,,138,64,74
+Plymouth,#5-Remsen Public Library,Court of Appeals Judge - Tyler J. Buller,,No,,179,61,118
+Plymouth,#6-Brunsville Legion Club,Court of Appeals Judge - Tyler J. Buller,,No,,120,27,93
+Plymouth,#7-Kissinger Community Center,Court of Appeals Judge - Tyler J. Buller,,No,,145,42,103
+Plymouth,#8-Perry Township Hall,Court of Appeals Judge - Tyler J. Buller,,No,,163,62,101
+Plymouth,#9-Hinton Community Center,Court of Appeals Judge - Tyler J. Buller,,No,,200,61,139
+Plymouth,#1-Le Mars Convention Center,Court of Appeals Judge - Tyler J. Buller,,Yes,,698,297,401
+Plymouth,#10-Kingsley Community Center,Court of Appeals Judge - Tyler J. Buller,,Yes,,660,134,526
+Plymouth,#11-Wesley United Methodist Church,Court of Appeals Judge - Tyler J. Buller,,Yes,,640,108,532
+Plymouth,#2-Le Mars Convention Center,Court of Appeals Judge - Tyler J. Buller,,Yes,,897,418,479
+Plymouth,#3-Le Mars Convention Center,Court of Appeals Judge - Tyler J. Buller,,Yes,,625,220,405
+Plymouth,#4-Courthouse Annex,Court of Appeals Judge - Tyler J. Buller,,Yes,,470,210,260
+Plymouth,#5-Remsen Public Library,Court of Appeals Judge - Tyler J. Buller,,Yes,,613,182,431
+Plymouth,#6-Brunsville Legion Club,Court of Appeals Judge - Tyler J. Buller,,Yes,,433,114,319
+Plymouth,#7-Kissinger Community Center,Court of Appeals Judge - Tyler J. Buller,,Yes,,527,141,386
+Plymouth,#8-Perry Township Hall,Court of Appeals Judge - Tyler J. Buller,,Yes,,435,158,277
+Plymouth,#9-Hinton Community Center,Court of Appeals Judge - Tyler J. Buller,,Yes,,631,151,480
+Plymouth,#1-Le Mars Convention Center,District 3B Associate Judge - Jessica R. Noll,,No,,154,67,87
+Plymouth,#10-Kingsley Community Center,District 3B Associate Judge - Jessica R. Noll,,No,,158,43,115
+Plymouth,#11-Wesley United Methodist Church,District 3B Associate Judge - Jessica R. Noll,,No,,136,27,109
+Plymouth,#2-Le Mars Convention Center,District 3B Associate Judge - Jessica R. Noll,,No,,170,77,93
+Plymouth,#3-Le Mars Convention Center,District 3B Associate Judge - Jessica R. Noll,,No,,171,51,120
+Plymouth,#4-Courthouse Annex,District 3B Associate Judge - Jessica R. Noll,,No,,104,42,62
+Plymouth,#5-Remsen Public Library,District 3B Associate Judge - Jessica R. Noll,,No,,147,43,104
+Plymouth,#6-Brunsville Legion Club,District 3B Associate Judge - Jessica R. Noll,,No,,104,25,79
+Plymouth,#7-Kissinger Community Center,District 3B Associate Judge - Jessica R. Noll,,No,,127,29,98
+Plymouth,#8-Perry Township Hall,District 3B Associate Judge - Jessica R. Noll,,No,,140,52,88
+Plymouth,#9-Hinton Community Center,District 3B Associate Judge - Jessica R. Noll,,No,,170,53,117
+Plymouth,#1-Le Mars Convention Center,District 3B Associate Judge - Jessica R. Noll,,Yes,,770,331,439
+Plymouth,#10-Kingsley Community Center,District 3B Associate Judge - Jessica R. Noll,,Yes,,692,150,542
+Plymouth,#11-Wesley United Methodist Church,District 3B Associate Judge - Jessica R. Noll,,Yes,,821,146,675
+Plymouth,#2-Le Mars Convention Center,District 3B Associate Judge - Jessica R. Noll,,Yes,,1003,475,528
+Plymouth,#3-Le Mars Convention Center,District 3B Associate Judge - Jessica R. Noll,,Yes,,699,251,448
+Plymouth,#4-Courthouse Annex,District 3B Associate Judge - Jessica R. Noll,,Yes,,525,249,276
+Plymouth,#5-Remsen Public Library,District 3B Associate Judge - Jessica R. Noll,,Yes,,666,203,463
+Plymouth,#6-Brunsville Legion Club,District 3B Associate Judge - Jessica R. Noll,,Yes,,479,124,355
+Plymouth,#7-Kissinger Community Center,District 3B Associate Judge - Jessica R. Noll,,Yes,,569,162,407
+Plymouth,#8-Perry Township Hall,District 3B Associate Judge - Jessica R. Noll,,Yes,,497,184,313
+Plymouth,#9-Hinton Community Center,District 3B Associate Judge - Jessica R. Noll,,Yes,,680,164,516
+Plymouth,#1-Le Mars Convention Center,District 3B Associate Judge - Stephanie S. Forker Parry,,No,,176,76,100
+Plymouth,#10-Kingsley Community Center,District 3B Associate Judge - Stephanie S. Forker Parry,,No,,190,54,136
+Plymouth,#11-Wesley United Methodist Church,District 3B Associate Judge - Stephanie S. Forker Parry,,No,,200,27,173
+Plymouth,#2-Le Mars Convention Center,District 3B Associate Judge - Stephanie S. Forker Parry,,No,,216,94,122
+Plymouth,#3-Le Mars Convention Center,District 3B Associate Judge - Stephanie S. Forker Parry,,No,,205,60,145
+Plymouth,#4-Courthouse Annex,District 3B Associate Judge - Stephanie S. Forker Parry,,No,,146,68,78
+Plymouth,#5-Remsen Public Library,District 3B Associate Judge - Stephanie S. Forker Parry,,No,,173,48,125
+Plymouth,#6-Brunsville Legion Club,District 3B Associate Judge - Stephanie S. Forker Parry,,No,,127,28,99
+Plymouth,#7-Kissinger Community Center,District 3B Associate Judge - Stephanie S. Forker Parry,,No,,158,44,114
+Plymouth,#8-Perry Township Hall,District 3B Associate Judge - Stephanie S. Forker Parry,,No,,153,59,94
+Plymouth,#9-Hinton Community Center,District 3B Associate Judge - Stephanie S. Forker Parry,,No,,205,55,150
+Plymouth,#1-Le Mars Convention Center,District 3B Associate Judge - Stephanie S. Forker Parry,,Yes,,721,302,419
+Plymouth,#10-Kingsley Community Center,District 3B Associate Judge - Stephanie S. Forker Parry,,Yes,,642,133,509
+Plymouth,#11-Wesley United Methodist Church,District 3B Associate Judge - Stephanie S. Forker Parry,,Yes,,615,111,504
+Plymouth,#2-Le Mars Convention Center,District 3B Associate Judge - Stephanie S. Forker Parry,,Yes,,912,427,485
+Plymouth,#3-Le Mars Convention Center,District 3B Associate Judge - Stephanie S. Forker Parry,,Yes,,626,220,406
+Plymouth,#4-Courthouse Annex,District 3B Associate Judge - Stephanie S. Forker Parry,,Yes,,460,208,252
+Plymouth,#5-Remsen Public Library,District 3B Associate Judge - Stephanie S. Forker Parry,,Yes,,607,187,420
+Plymouth,#6-Brunsville Legion Club,District 3B Associate Judge - Stephanie S. Forker Parry,,Yes,,431,114,317
+Plymouth,#7-Kissinger Community Center,District 3B Associate Judge - Stephanie S. Forker Parry,,Yes,,509,136,373
+Plymouth,#8-Perry Township Hall,District 3B Associate Judge - Stephanie S. Forker Parry,,Yes,,465,171,294
+Plymouth,#9-Hinton Community Center,District 3B Associate Judge - Stephanie S. Forker Parry,,Yes,,630,151,479
+Plymouth,#1-Le Mars Convention Center,District 3B Judge - Robert D. Tiefenthaler,,No,,172,78,94
+Plymouth,#10-Kingsley Community Center,District 3B Judge - Robert D. Tiefenthaler,,No,,153,48,105
+Plymouth,#11-Wesley United Methodist Church,District 3B Judge - Robert D. Tiefenthaler,,No,,166,25,141
+Plymouth,#2-Le Mars Convention Center,District 3B Judge - Robert D. Tiefenthaler,,No,,203,89,114
+Plymouth,#3-Le Mars Convention Center,District 3B Judge - Robert D. Tiefenthaler,,No,,170,48,122
+Plymouth,#4-Courthouse Annex,District 3B Judge - Robert D. Tiefenthaler,,No,,121,59,62
+Plymouth,#5-Remsen Public Library,District 3B Judge - Robert D. Tiefenthaler,,No,,147,47,100
+Plymouth,#6-Brunsville Legion Club,District 3B Judge - Robert D. Tiefenthaler,,No,,106,31,75
+Plymouth,#7-Kissinger Community Center,District 3B Judge - Robert D. Tiefenthaler,,No,,130,40,90
+Plymouth,#8-Perry Township Hall,District 3B Judge - Robert D. Tiefenthaler,,No,,155,55,100
+Plymouth,#9-Hinton Community Center,District 3B Judge - Robert D. Tiefenthaler,,No,,178,59,119
+Plymouth,#1-Le Mars Convention Center,District 3B Judge - Robert D. Tiefenthaler,,Yes,,769,328,441
+Plymouth,#10-Kingsley Community Center,District 3B Judge - Robert D. Tiefenthaler,,Yes,,723,148,575
+Plymouth,#11-Wesley United Methodist Church,District 3B Judge - Robert D. Tiefenthaler,,Yes,,695,123,572
+Plymouth,#2-Le Mars Convention Center,District 3B Judge - Robert D. Tiefenthaler,,Yes,,984,474,510
+Plymouth,#3-Le Mars Convention Center,District 3B Judge - Robert D. Tiefenthaler,,Yes,,716,262,454
+Plymouth,#4-Courthouse Annex,District 3B Judge - Robert D. Tiefenthaler,,Yes,,522,243,279
+Plymouth,#5-Remsen Public Library,District 3B Judge - Robert D. Tiefenthaler,,Yes,,683,212,471
+Plymouth,#6-Brunsville Legion Club,District 3B Judge - Robert D. Tiefenthaler,,Yes,,466,116,350
+Plymouth,#7-Kissinger Community Center,District 3B Judge - Robert D. Tiefenthaler,,Yes,,576,158,418
+Plymouth,#8-Perry Township Hall,District 3B Judge - Robert D. Tiefenthaler,,Yes,,498,190,308
+Plymouth,#9-Hinton Community Center,District 3B Judge - Robert D. Tiefenthaler,,Yes,,706,169,537
+Plymouth,#4-Courthouse Annex,Fredonia Township Trustee,,Jerry Reuter,,128,60,68
+Plymouth,#4-Courthouse Annex,Fredonia Township Trustee,,Write-In,,0,0,0
+Plymouth,#11-Wesley United Methodist Church,Hinton School - Public Measure RV,,No,,0,0,0
+Plymouth,#7-Kissinger Community Center,Hinton School - Public Measure RV,,No,,96,41,55
+Plymouth,#8-Perry Township Hall,Hinton School - Public Measure RV,,No,,194,67,127
+Plymouth,#9-Hinton Community Center,Hinton School - Public Measure RV,,No,,485,170,315
+Plymouth,#11-Wesley United Methodist Church,Hinton School - Public Measure RV,,Yes,,2,0,2
+Plymouth,#7-Kissinger Community Center,Hinton School - Public Measure RV,,Yes,,128,44,84
+Plymouth,#8-Perry Township Hall,Hinton School - Public Measure RV,,Yes,,199,64,135
+Plymouth,#9-Hinton Community Center,Hinton School - Public Measure RV,,Yes,,715,194,521
+Plymouth,#9-Hinton Community Center,Lawton-Bronson School - Public Measure WA,,No,,2,1,1
+Plymouth,#9-Hinton Community Center,Lawton-Bronson School - Public Measure WA,,Yes,,1,0,1
+Plymouth,#1-Le Mars Convention Center,Le Mars School - Public Measure RW,,No,,510,275,235
+Plymouth,#2-Le Mars Convention Center,Le Mars School - Public Measure RW,,No,,678,400,278
+Plymouth,#3-Le Mars Convention Center,Le Mars School - Public Measure RW,,No,,468,210,258
+Plymouth,#4-Courthouse Annex,Le Mars School - Public Measure RW,,No,,348,189,159
+Plymouth,#5-Remsen Public Library,Le Mars School - Public Measure RW,,No,,25,6,19
+Plymouth,#6-Brunsville Legion Club,Le Mars School - Public Measure RW,,No,,277,88,189
+Plymouth,#7-Kissinger Community Center,Le Mars School - Public Measure RW,,No,,362,107,255
+Plymouth,#9-Hinton Community Center,Le Mars School - Public Measure RW,,No,,3,1,2
+Plymouth,#1-Le Mars Convention Center,Le Mars School - Public Measure RW,,Yes,,931,464,467
+Plymouth,#2-Le Mars Convention Center,Le Mars School - Public Measure RW,,Yes,,1261,652,609
+Plymouth,#3-Le Mars Convention Center,Le Mars School - Public Measure RW,,Yes,,835,377,458
+Plymouth,#4-Courthouse Annex,Le Mars School - Public Measure RW,,Yes,,501,281,220
+Plymouth,#5-Remsen Public Library,Le Mars School - Public Measure RW,,Yes,,16,9,7
+Plymouth,#6-Brunsville Legion Club,Le Mars School - Public Measure RW,,Yes,,381,115,266
+Plymouth,#7-Kissinger Community Center,Le Mars School - Public Measure RW,,Yes,,326,91,235
+Plymouth,#9-Hinton Community Center,Le Mars School - Public Measure RW,,Yes,,4,1,3
+Plymouth,#1-Le Mars Convention Center,President,,Chase Oliver and Mike ter Maat,LIB,5,2,3
+Plymouth,#10-Kingsley Community Center,President,,Chase Oliver and Mike ter Maat,LIB,5,3,2
+Plymouth,#11-Wesley United Methodist Church,President,,Chase Oliver and Mike ter Maat,LIB,5,0,5
+Plymouth,#2-Le Mars Convention Center,President,,Chase Oliver and Mike ter Maat,LIB,11,2,9
+Plymouth,#3-Le Mars Convention Center,President,,Chase Oliver and Mike ter Maat,LIB,4,2,2
+Plymouth,#4-Courthouse Annex,President,,Chase Oliver and Mike ter Maat,LIB,3,2,1
+Plymouth,#5-Remsen Public Library,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Plymouth,#6-Brunsville Legion Club,President,,Chase Oliver and Mike ter Maat,LIB,4,1,3
+Plymouth,#7-Kissinger Community Center,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Plymouth,#8-Perry Township Hall,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Plymouth,#9-Hinton Community Center,President,,Chase Oliver and Mike ter Maat,LIB,4,2,2
+Plymouth,#1-Le Mars Convention Center,President,,Claudia De la Cruz and Karina Garcia,PSL,1,1,0
+Plymouth,#10-Kingsley Community Center,President,,Claudia De la Cruz and Karina Garcia,PSL,1,1,0
+Plymouth,#11-Wesley United Methodist Church,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Plymouth,#2-Le Mars Convention Center,President,,Claudia De la Cruz and Karina Garcia,PSL,3,0,3
+Plymouth,#3-Le Mars Convention Center,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Plymouth,#4-Courthouse Annex,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Plymouth,#5-Remsen Public Library,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Plymouth,#6-Brunsville Legion Club,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Plymouth,#7-Kissinger Community Center,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Plymouth,#8-Perry Township Hall,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Plymouth,#9-Hinton Community Center,President,,Claudia De la Cruz and Karina Garcia,PSL,1,1,0
+Plymouth,#1-Le Mars Convention Center,President,,Donald J. Trump and JD Vance,REP,1045,546,499
+Plymouth,#10-Kingsley Community Center,President,,Donald J. Trump and JD Vance,REP,997,242,755
+Plymouth,#11-Wesley United Methodist Church,President,,Donald J. Trump and JD Vance,REP,987,167,820
+Plymouth,#2-Le Mars Convention Center,President,,Donald J. Trump and JD Vance,REP,1472,809,663
+Plymouth,#3-Le Mars Convention Center,President,,Donald J. Trump and JD Vance,REP,961,430,531
+Plymouth,#4-Courthouse Annex,President,,Donald J. Trump and JD Vance,REP,890,477,413
+Plymouth,#5-Remsen Public Library,President,,Donald J. Trump and JD Vance,REP,1087,426,661
+Plymouth,#6-Brunsville Legion Club,President,,Donald J. Trump and JD Vance,REP,693,207,486
+Plymouth,#7-Kissinger Community Center,President,,Donald J. Trump and JD Vance,REP,768,234,534
+Plymouth,#8-Perry Township Hall,President,,Donald J. Trump and JD Vance,REP,755,286,469
+Plymouth,#9-Hinton Community Center,President,,Donald J. Trump and JD Vance,REP,1006,290,716
+Plymouth,#1-Le Mars Convention Center,President,,Kamala D. Harris and Tim Walz,DEM,455,237,218
+Plymouth,#10-Kingsley Community Center,President,,Kamala D. Harris and Tim Walz,DEM,226,88,138
+Plymouth,#11-Wesley United Methodist Church,President,,Kamala D. Harris and Tim Walz,DEM,312,95,217
+Plymouth,#2-Le Mars Convention Center,President,,Kamala D. Harris and Tim Walz,DEM,514,290,224
+Plymouth,#3-Le Mars Convention Center,President,,Kamala D. Harris and Tim Walz,DEM,403,198,205
+Plymouth,#4-Courthouse Annex,President,,Kamala D. Harris and Tim Walz,DEM,188,120,68
+Plymouth,#5-Remsen Public Library,President,,Kamala D. Harris and Tim Walz,DEM,205,98,107
+Plymouth,#6-Brunsville Legion Club,President,,Kamala D. Harris and Tim Walz,DEM,134,58,76
+Plymouth,#7-Kissinger Community Center,President,,Kamala D. Harris and Tim Walz,DEM,196,75,121
+Plymouth,#8-Perry Township Hall,President,,Kamala D. Harris and Tim Walz,DEM,230,109,121
+Plymouth,#9-Hinton Community Center,President,,Kamala D. Harris and Tim Walz,DEM,241,99,142
+Plymouth,#1-Le Mars Convention Center,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,14,5,9
+Plymouth,#10-Kingsley Community Center,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,1,9
+Plymouth,#11-Wesley United Methodist Church,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,9,4,5
+Plymouth,#2-Le Mars Convention Center,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,15,6,9
+Plymouth,#3-Le Mars Convention Center,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,13,4,9
+Plymouth,#4-Courthouse Annex,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,2,3
+Plymouth,#5-Remsen Public Library,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,9,5,4
+Plymouth,#6-Brunsville Legion Club,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,0,6
+Plymouth,#7-Kissinger Community Center,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,8,1,7
+Plymouth,#8-Perry Township Hall,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,3,3
+Plymouth,#9-Hinton Community Center,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,12,2,10
+Plymouth,#1-Le Mars Convention Center,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Plymouth,#10-Kingsley Community Center,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Plymouth,#11-Wesley United Methodist Church,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Plymouth,#2-Le Mars Convention Center,President,,Shiva Ayyadurai and Crystal Ellis,,2,0,2
+Plymouth,#3-Le Mars Convention Center,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Plymouth,#4-Courthouse Annex,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Plymouth,#5-Remsen Public Library,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Plymouth,#6-Brunsville Legion Club,President,,Shiva Ayyadurai and Crystal Ellis,,1,0,1
+Plymouth,#7-Kissinger Community Center,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Plymouth,#8-Perry Township Hall,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Plymouth,#9-Hinton Community Center,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Plymouth,#1-Le Mars Convention Center,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,0,1
+Plymouth,#10-Kingsley Community Center,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Plymouth,#11-Wesley United Methodist Church,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,1,0
+Plymouth,#2-Le Mars Convention Center,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Plymouth,#3-Le Mars Convention Center,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,1,0
+Plymouth,#4-Courthouse Annex,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Plymouth,#5-Remsen Public Library,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,0,1
+Plymouth,#6-Brunsville Legion Club,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Plymouth,#7-Kissinger Community Center,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Plymouth,#8-Perry Township Hall,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Plymouth,#9-Hinton Community Center,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Plymouth,#1-Le Mars Convention Center,President,,Write-In,,4,2,2
+Plymouth,#10-Kingsley Community Center,President,,Write-In,,2,1,1
+Plymouth,#11-Wesley United Methodist Church,President,,Write-In,,4,1,3
+Plymouth,#2-Le Mars Convention Center,President,,Write-In,,8,2,6
+Plymouth,#3-Le Mars Convention Center,President,,Write-In,,4,4,0
+Plymouth,#4-Courthouse Annex,President,,Write-In,,1,0,1
+Plymouth,#5-Remsen Public Library,President,,Write-In,,4,2,2
+Plymouth,#6-Brunsville Legion Club,President,,Write-In,,1,0,1
+Plymouth,#7-Kissinger Community Center,President,,Write-In,,2,1,1
+Plymouth,#8-Perry Township Hall,President,,Write-In,,5,1,4
+Plymouth,#9-Hinton Community Center,President,,Write-In,,5,1,4
+Plymouth,#1-Le Mars Convention Center,Soil and Water Conservation District Commissioner,,Joe E. Cain,,662,320,342
+Plymouth,#10-Kingsley Community Center,Soil and Water Conservation District Commissioner,,Joe E. Cain,,548,152,396
+Plymouth,#11-Wesley United Methodist Church,Soil and Water Conservation District Commissioner,,Joe E. Cain,,657,129,528
+Plymouth,#2-Le Mars Convention Center,Soil and Water Conservation District Commissioner,,Joe E. Cain,,849,455,394
+Plymouth,#3-Le Mars Convention Center,Soil and Water Conservation District Commissioner,,Joe E. Cain,,499,191,308
+Plymouth,#4-Courthouse Annex,Soil and Water Conservation District Commissioner,,Joe E. Cain,,533,278,255
+Plymouth,#5-Remsen Public Library,Soil and Water Conservation District Commissioner,,Joe E. Cain,,546,200,346
+Plymouth,#6-Brunsville Legion Club,Soil and Water Conservation District Commissioner,,Joe E. Cain,,427,122,305
+Plymouth,#7-Kissinger Community Center,Soil and Water Conservation District Commissioner,,Joe E. Cain,,468,128,340
+Plymouth,#8-Perry Township Hall,Soil and Water Conservation District Commissioner,,Joe E. Cain,,386,149,237
+Plymouth,#9-Hinton Community Center,Soil and Water Conservation District Commissioner,,Joe E. Cain,,540,140,400
+Plymouth,#1-Le Mars Convention Center,Soil and Water Conservation District Commissioner,,Steven Tonsfeldt,,702,342,360
+Plymouth,#10-Kingsley Community Center,Soil and Water Conservation District Commissioner,,Steven Tonsfeldt,,554,149,405
+Plymouth,#11-Wesley United Methodist Church,Soil and Water Conservation District Commissioner,,Steven Tonsfeldt,,532,104,428
+Plymouth,#2-Le Mars Convention Center,Soil and Water Conservation District Commissioner,,Steven Tonsfeldt,,912,491,421
+Plymouth,#3-Le Mars Convention Center,Soil and Water Conservation District Commissioner,,Steven Tonsfeldt,,549,214,335
+Plymouth,#4-Courthouse Annex,Soil and Water Conservation District Commissioner,,Steven Tonsfeldt,,587,297,290
+Plymouth,#5-Remsen Public Library,Soil and Water Conservation District Commissioner,,Steven Tonsfeldt,,670,273,397
+Plymouth,#6-Brunsville Legion Club,Soil and Water Conservation District Commissioner,,Steven Tonsfeldt,,416,128,288
+Plymouth,#7-Kissinger Community Center,Soil and Water Conservation District Commissioner,,Steven Tonsfeldt,,493,136,357
+Plymouth,#8-Perry Township Hall,Soil and Water Conservation District Commissioner,,Steven Tonsfeldt,,398,153,245
+Plymouth,#9-Hinton Community Center,Soil and Water Conservation District Commissioner,,Steven Tonsfeldt,,547,136,411
+Plymouth,#1-Le Mars Convention Center,Soil and Water Conservation District Commissioner,,Tony Schroeder,,858,412,446
+Plymouth,#10-Kingsley Community Center,Soil and Water Conservation District Commissioner,,Tony Schroeder,,821,198,623
+Plymouth,#11-Wesley United Methodist Church,Soil and Water Conservation District Commissioner,,Tony Schroeder,,663,126,537
+Plymouth,#2-Le Mars Convention Center,Soil and Water Conservation District Commissioner,,Tony Schroeder,,1055,571,484
+Plymouth,#3-Le Mars Convention Center,Soil and Water Conservation District Commissioner,,Tony Schroeder,,686,268,418
+Plymouth,#4-Courthouse Annex,Soil and Water Conservation District Commissioner,,Tony Schroeder,,674,346,328
+Plymouth,#5-Remsen Public Library,Soil and Water Conservation District Commissioner,,Tony Schroeder,,853,318,535
+Plymouth,#6-Brunsville Legion Club,Soil and Water Conservation District Commissioner,,Tony Schroeder,,533,154,379
+Plymouth,#7-Kissinger Community Center,Soil and Water Conservation District Commissioner,,Tony Schroeder,,619,167,452
+Plymouth,#8-Perry Township Hall,Soil and Water Conservation District Commissioner,,Tony Schroeder,,474,174,300
+Plymouth,#9-Hinton Community Center,Soil and Water Conservation District Commissioner,,Tony Schroeder,,672,173,499
+Plymouth,#1-Le Mars Convention Center,Soil and Water Conservation District Commissioner,,Write-In,,12,4,8
+Plymouth,#10-Kingsley Community Center,Soil and Water Conservation District Commissioner,,Write-In,,16,1,15
+Plymouth,#11-Wesley United Methodist Church,Soil and Water Conservation District Commissioner,,Write-In,,7,2,5
+Plymouth,#2-Le Mars Convention Center,Soil and Water Conservation District Commissioner,,Write-In,,10,5,5
+Plymouth,#3-Le Mars Convention Center,Soil and Water Conservation District Commissioner,,Write-In,,14,3,11
+Plymouth,#4-Courthouse Annex,Soil and Water Conservation District Commissioner,,Write-In,,6,2,4
+Plymouth,#5-Remsen Public Library,Soil and Water Conservation District Commissioner,,Write-In,,5,1,4
+Plymouth,#6-Brunsville Legion Club,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Plymouth,#7-Kissinger Community Center,Soil and Water Conservation District Commissioner,,Write-In,,5,1,4
+Plymouth,#8-Perry Township Hall,Soil and Water Conservation District Commissioner,,Write-In,,11,8,3
+Plymouth,#9-Hinton Community Center,Soil and Water Conservation District Commissioner,,Write-In,,8,2,6
+Plymouth,#10-Kingsley Community Center,State House,13,Parker Hansen,,58,13,45
+Plymouth,#11-Wesley United Methodist Church,State House,13,Parker Hansen,,0,0,0
+Plymouth,#5-Remsen Public Library,State House,13,Parker Hansen,,30,13,17
+Plymouth,#7-Kissinger Community Center,State House,13,Parker Hansen,,26,7,19
+Plymouth,#8-Perry Township Hall,State House,13,Parker Hansen,,29,14,15
+Plymouth,#9-Hinton Community Center,State House,13,Parker Hansen,,36,10,26
+Plymouth,#10-Kingsley Community Center,State House,13,Rosanne Plante,DEM,158,57,101
+Plymouth,#11-Wesley United Methodist Church,State House,13,Rosanne Plante,DEM,0,0,0
+Plymouth,#5-Remsen Public Library,State House,13,Rosanne Plante,DEM,168,74,94
+Plymouth,#7-Kissinger Community Center,State House,13,Rosanne Plante,DEM,156,58,98
+Plymouth,#8-Perry Township Hall,State House,13,Rosanne Plante,DEM,186,93,93
+Plymouth,#9-Hinton Community Center,State House,13,Rosanne Plante,DEM,204,82,122
+Plymouth,#10-Kingsley Community Center,State House,13,Travis M Sitzmann,REP,984,245,739
+Plymouth,#11-Wesley United Methodist Church,State House,13,Travis M Sitzmann,REP,1,0,1
+Plymouth,#5-Remsen Public Library,State House,13,Travis M Sitzmann,REP,1030,400,630
+Plymouth,#7-Kissinger Community Center,State House,13,Travis M Sitzmann,REP,756,230,526
+Plymouth,#8-Perry Township Hall,State House,13,Travis M Sitzmann,REP,731,275,456
+Plymouth,#9-Hinton Community Center,State House,13,Travis M Sitzmann,REP,956,271,685
+Plymouth,#10-Kingsley Community Center,State House,13,Write-In,,0,0,0
+Plymouth,#11-Wesley United Methodist Church,State House,13,Write-In,,0,0,0
+Plymouth,#5-Remsen Public Library,State House,13,Write-In,,2,1,1
+Plymouth,#7-Kissinger Community Center,State House,13,Write-In,,0,0,0
+Plymouth,#8-Perry Township Hall,State House,13,Write-In,,0,0,0
+Plymouth,#9-Hinton Community Center,State House,13,Write-In,,1,0,1
+Plymouth,#1-Le Mars Convention Center,State House,3,Emma Bouza,DEM,316,166,150
+Plymouth,#11-Wesley United Methodist Church,State House,3,Emma Bouza,DEM,293,82,211
+Plymouth,#2-Le Mars Convention Center,State House,3,Emma Bouza,DEM,395,221,174
+Plymouth,#3-Le Mars Convention Center,State House,3,Emma Bouza,DEM,321,154,167
+Plymouth,#4-Courthouse Annex,State House,3,Emma Bouza,DEM,144,80,64
+Plymouth,#6-Brunsville Legion Club,State House,3,Emma Bouza,DEM,124,50,74
+Plymouth,#1-Le Mars Convention Center,State House,3,Thomas Jeneary,REP,1107,578,529
+Plymouth,#11-Wesley United Methodist Church,State House,3,Thomas Jeneary,REP,884,148,736
+Plymouth,#2-Le Mars Convention Center,State House,3,Thomas Jeneary,REP,1493,818,675
+Plymouth,#3-Le Mars Convention Center,State House,3,Thomas Jeneary,REP,949,422,527
+Plymouth,#4-Courthouse Annex,State House,3,Thomas Jeneary,REP,887,489,398
+Plymouth,#6-Brunsville Legion Club,State House,3,Thomas Jeneary,REP,666,194,472
+Plymouth,#1-Le Mars Convention Center,State House,3,Write-In,,1,0,1
+Plymouth,#11-Wesley United Methodist Church,State House,3,Write-In,,3,0,3
+Plymouth,#2-Le Mars Convention Center,State House,3,Write-In,,4,0,4
+Plymouth,#3-Le Mars Convention Center,State House,3,Write-In,,7,3,4
+Plymouth,#4-Courthouse Annex,State House,3,Write-In,,1,0,1
+Plymouth,#6-Brunsville Legion Club,State House,3,Write-In,,0,0,0
+Plymouth,#1-Le Mars Convention Center,State Senate,2,Jeff Taylor,REP,1117,543,574
+Plymouth,#11-Wesley United Methodist Church,State Senate,2,Jeff Taylor,REP,1023,176,847
+Plymouth,#2-Le Mars Convention Center,State Senate,2,Jeff Taylor,REP,1441,727,714
+Plymouth,#3-Le Mars Convention Center,State Senate,2,Jeff Taylor,REP,1005,419,586
+Plymouth,#4-Courthouse Annex,State Senate,2,Jeff Taylor,REP,819,422,397
+Plymouth,#6-Brunsville Legion Club,State Senate,2,Jeff Taylor,REP,674,186,488
+Plymouth,#1-Le Mars Convention Center,State Senate,2,Write-In,,13,3,10
+Plymouth,#11-Wesley United Methodist Church,State Senate,2,Write-In,,6,0,6
+Plymouth,#2-Le Mars Convention Center,State Senate,2,Write-In,,16,8,8
+Plymouth,#3-Le Mars Convention Center,State Senate,2,Write-In,,23,10,13
+Plymouth,#4-Courthouse Annex,State Senate,2,Write-In,,6,0,6
+Plymouth,#6-Brunsville Legion Club,State Senate,2,Write-In,,4,2,2
+Plymouth,#1-Le Mars Convention Center,Supreme Court Justice - David May,,No,,213,105,108
+Plymouth,#10-Kingsley Community Center,Supreme Court Justice - David May,,No,,193,57,136
+Plymouth,#11-Wesley United Methodist Church,Supreme Court Justice - David May,,No,,196,42,154
+Plymouth,#2-Le Mars Convention Center,Supreme Court Justice - David May,,No,,246,129,117
+Plymouth,#3-Le Mars Convention Center,Supreme Court Justice - David May,,No,,215,71,144
+Plymouth,#4-Courthouse Annex,Supreme Court Justice - David May,,No,,124,62,62
+Plymouth,#5-Remsen Public Library,Supreme Court Justice - David May,,No,,145,53,92
+Plymouth,#6-Brunsville Legion Club,Supreme Court Justice - David May,,No,,134,35,99
+Plymouth,#7-Kissinger Community Center,Supreme Court Justice - David May,,No,,143,39,104
+Plymouth,#8-Perry Township Hall,Supreme Court Justice - David May,,No,,185,78,107
+Plymouth,#9-Hinton Community Center,Supreme Court Justice - David May,,No,,203,64,139
+Plymouth,#1-Le Mars Convention Center,Supreme Court Justice - David May,,Yes,,770,330,440
+Plymouth,#10-Kingsley Community Center,Supreme Court Justice - David May,,Yes,,708,144,564
+Plymouth,#11-Wesley United Methodist Church,Supreme Court Justice - David May,,Yes,,693,116,577
+Plymouth,#2-Le Mars Convention Center,Supreme Court Justice - David May,,Yes,,997,469,528
+Plymouth,#3-Le Mars Convention Center,Supreme Court Justice - David May,,Yes,,710,257,453
+Plymouth,#4-Courthouse Annex,Supreme Court Justice - David May,,Yes,,551,258,293
+Plymouth,#5-Remsen Public Library,Supreme Court Justice - David May,,Yes,,729,225,504
+Plymouth,#6-Brunsville Legion Club,Supreme Court Justice - David May,,Yes,,456,115,341
+Plymouth,#7-Kissinger Community Center,Supreme Court Justice - David May,,Yes,,577,162,415
+Plymouth,#8-Perry Township Hall,Supreme Court Justice - David May,,Yes,,481,168,313
+Plymouth,#9-Hinton Community Center,Supreme Court Justice - David May,,Yes,,682,165,517
+Plymouth,#1-Le Mars Convention Center,U.S. House,4,Randy Feenstra,REP,1026,524,502
+Plymouth,#10-Kingsley Community Center,U.S. House,4,Randy Feenstra,REP,991,246,745
+Plymouth,#11-Wesley United Methodist Church,U.S. House,4,Randy Feenstra,REP,955,173,782
+Plymouth,#2-Le Mars Convention Center,U.S. House,4,Randy Feenstra,REP,1415,767,648
+Plymouth,#3-Le Mars Convention Center,U.S. House,4,Randy Feenstra,REP,912,401,511
+Plymouth,#4-Courthouse Annex,U.S. House,4,Randy Feenstra,REP,856,453,403
+Plymouth,#5-Remsen Public Library,U.S. House,4,Randy Feenstra,REP,1054,410,644
+Plymouth,#6-Brunsville Legion Club,U.S. House,4,Randy Feenstra,REP,668,190,478
+Plymouth,#7-Kissinger Community Center,U.S. House,4,Randy Feenstra,REP,767,237,530
+Plymouth,#8-Perry Township Hall,U.S. House,4,Randy Feenstra,REP,743,278,465
+Plymouth,#9-Hinton Community Center,U.S. House,4,Randy Feenstra,REP,986,282,704
+Plymouth,#1-Le Mars Convention Center,U.S. House,4,Ryan Melton,DEM,400,219,181
+Plymouth,#10-Kingsley Community Center,U.S. House,4,Ryan Melton,DEM,209,75,134
+Plymouth,#11-Wesley United Methodist Church,U.S. House,4,Ryan Melton,DEM,259,68,191
+Plymouth,#2-Le Mars Convention Center,U.S. House,4,Ryan Melton,DEM,464,261,203
+Plymouth,#3-Le Mars Convention Center,U.S. House,4,Ryan Melton,DEM,366,177,189
+Plymouth,#4-Courthouse Annex,U.S. House,4,Ryan Melton,DEM,177,107,70
+Plymouth,#5-Remsen Public Library,U.S. House,4,Ryan Melton,DEM,194,87,107
+Plymouth,#6-Brunsville Legion Club,U.S. House,4,Ryan Melton,DEM,125,56,69
+Plymouth,#7-Kissinger Community Center,U.S. House,4,Ryan Melton,DEM,171,62,109
+Plymouth,#8-Perry Township Hall,U.S. House,4,Ryan Melton,DEM,220,106,114
+Plymouth,#9-Hinton Community Center,U.S. House,4,Ryan Melton,DEM,225,94,131
+Plymouth,#1-Le Mars Convention Center,U.S. House,4,Write-In,,5,3,2
+Plymouth,#10-Kingsley Community Center,U.S. House,4,Write-In,,2,2,0
+Plymouth,#11-Wesley United Methodist Church,U.S. House,4,Write-In,,7,1,6
+Plymouth,#2-Le Mars Convention Center,U.S. House,4,Write-In,,8,2,6
+Plymouth,#3-Le Mars Convention Center,U.S. House,4,Write-In,,5,2,3
+Plymouth,#4-Courthouse Annex,U.S. House,4,Write-In,,6,4,2
+Plymouth,#5-Remsen Public Library,U.S. House,4,Write-In,,2,1,1
+Plymouth,#6-Brunsville Legion Club,U.S. House,4,Write-In,,4,1,3
+Plymouth,#7-Kissinger Community Center,U.S. House,4,Write-In,,4,3,1
+Plymouth,#8-Perry Township Hall,U.S. House,4,Write-In,,3,2,1
+Plymouth,#9-Hinton Community Center,U.S. House,4,Write-In,,4,0,4

@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2000,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "president",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2000_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 135246,
+        "rep_votes": 120533,
+        "other_votes": 10601,
+        "total_votes": 266380,
+        "dem_candidate": "Al Gore",
+        "rep_candidate": "George W. Bush",
+        "margin": -14713,
+        "margin_pct": -5.523312561003078,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "2": {
+        "dem_votes": 155775,
+        "rep_votes": 136261,
+        "other_votes": 10003,
+        "total_votes": 302039,
+        "dem_candidate": "Al Gore",
+        "rep_candidate": "George W. Bush",
+        "margin": -19514,
+        "margin_pct": -6.460755068054125,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "3": {
+        "dem_votes": 136328,
+        "rep_votes": 134829,
+        "other_votes": 7700,
+        "total_votes": 278857,
+        "dem_candidate": "Al Gore",
+        "rep_candidate": "George W. Bush",
+        "margin": -1499,
+        "margin_pct": -0.5375515048931889,
+        "winner": "DEM",
+        "color": "#c7ddf0"
+      },
+      "4": {
+        "dem_votes": 129578,
+        "rep_votes": 162235,
+        "other_votes": 10508,
+        "total_votes": 302321,
+        "dem_candidate": "Al Gore",
+        "rep_candidate": "George W. Bush",
+        "margin": 32657,
+        "margin_pct": 10.802094462508393,
+        "winner": "REP",
+        "color": "#e93a2d"
+      }
+    }
+  }
+}

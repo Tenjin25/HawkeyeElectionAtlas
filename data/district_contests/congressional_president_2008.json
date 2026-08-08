@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2008,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "president",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2008_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 224756,
+        "rep_votes": 162558,
+        "other_votes": 6690,
+        "total_votes": 394004,
+        "dem_candidate": "Barack Obama",
+        "rep_candidate": "John McCain",
+        "margin": -62198,
+        "margin_pct": -15.786134150922326,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "2": {
+        "dem_votes": 235234,
+        "rep_votes": 163379,
+        "other_votes": 6255,
+        "total_votes": 404868,
+        "dem_candidate": "Barack Obama",
+        "rep_candidate": "John McCain",
+        "margin": -71855,
+        "margin_pct": -17.747759763676065,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "3": {
+        "dem_votes": 184782,
+        "rep_votes": 158574,
+        "other_votes": 6537,
+        "total_votes": 349893,
+        "dem_candidate": "Barack Obama",
+        "rep_candidate": "John McCain",
+        "margin": -26208,
+        "margin_pct": -7.490289888623093,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "4": {
+        "dem_votes": 184168,
+        "rep_votes": 197868,
+        "other_votes": 6322,
+        "total_votes": 388358,
+        "dem_candidate": "Barack Obama",
+        "rep_candidate": "John McCain",
+        "margin": 13700,
+        "margin_pct": 3.5276729203466903,
+        "winner": "REP",
+        "color": "#fca793"
+      }
+    }
+  }
+}

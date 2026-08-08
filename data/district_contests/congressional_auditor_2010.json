@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2010,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "auditor",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2010_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 126507,
+        "rep_votes": 140917,
+        "other_votes": 268,
+        "total_votes": 267692,
+        "dem_candidate": "Jon Murphy",
+        "rep_candidate": "David A Vaudt",
+        "margin": 14410,
+        "margin_pct": 5.383052164427776,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "2": {
+        "dem_votes": 131597,
+        "rep_votes": 145422,
+        "other_votes": 196,
+        "total_votes": 277215,
+        "dem_candidate": "Jon Murphy",
+        "rep_candidate": "David A Vaudt",
+        "margin": 13825,
+        "margin_pct": 4.987103872445575,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "3": {
+        "dem_votes": 107131,
+        "rep_votes": 144212,
+        "other_votes": 263,
+        "total_votes": 251606,
+        "dem_candidate": "Jon Murphy",
+        "rep_candidate": "David A Vaudt",
+        "margin": 37081,
+        "margin_pct": 14.737724855528086,
+        "winner": "REP",
+        "color": "#e93a2d"
+      },
+      "4": {
+        "dem_votes": 95258,
+        "rep_votes": 167170,
+        "other_votes": 197,
+        "total_votes": 262625,
+        "dem_candidate": "Jon Murphy",
+        "rep_candidate": "David A Vaudt",
+        "margin": 71912,
+        "margin_pct": 27.38200856734888,
+        "winner": "REP",
+        "color": "#cb181d"
+      }
+    }
+  }
+}

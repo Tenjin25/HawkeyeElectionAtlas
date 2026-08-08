@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2010,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "us_senate",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2010_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 105945,
+        "rep_votes": 168875,
+        "other_votes": 7569,
+        "total_votes": 282389,
+        "dem_candidate": "Roxanne Conlin",
+        "rep_candidate": "Chuck Grassley",
+        "margin": 62930,
+        "margin_pct": 22.284862370701408,
+        "winner": "REP",
+        "color": "#cb181d"
+      },
+      "2": {
+        "dem_votes": 100698,
+        "rep_votes": 185051,
+        "other_votes": 6626,
+        "total_votes": 292375,
+        "dem_candidate": "Roxanne Conlin",
+        "rep_candidate": "Chuck Grassley",
+        "margin": 84353,
+        "margin_pct": 28.850961949551092,
+        "winner": "REP",
+        "color": "#cb181d"
+      },
+      "3": {
+        "dem_votes": 90176,
+        "rep_votes": 167532,
+        "other_votes": 5921,
+        "total_votes": 263629,
+        "dem_candidate": "Roxanne Conlin",
+        "rep_candidate": "Chuck Grassley",
+        "margin": 77356,
+        "margin_pct": 29.342750607861806,
+        "winner": "REP",
+        "color": "#cb181d"
+      },
+      "4": {
+        "dem_votes": 74867,
+        "rep_votes": 196757,
+        "other_votes": 6046,
+        "total_votes": 277670,
+        "dem_candidate": "Roxanne Conlin",
+        "rep_candidate": "Chuck Grassley",
+        "margin": 121890,
+        "margin_pct": 43.89743220369503,
+        "winner": "REP",
+        "color": "#67000d"
+      }
+    }
+  }
+}

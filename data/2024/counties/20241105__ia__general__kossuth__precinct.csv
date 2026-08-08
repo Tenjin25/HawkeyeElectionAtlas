@@ -1,0 +1,901 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Kossuth,AL1,Constitutional Amendment 1,,No,,104,56,48
+Kossuth,AL2,Constitutional Amendment 1,,No,,119,65,54
+Kossuth,AL3,Constitutional Amendment 1,,No,,97,43,54
+Kossuth,AL4,Constitutional Amendment 1,,No,,114,61,53
+Kossuth,BF GM PT,Constitutional Amendment 1,,No,,85,28,57
+Kossuth,BT,Constitutional Amendment 1,,No,,68,31,37
+Kossuth,CR RV,Constitutional Amendment 1,,No,,46,23,23
+Kossuth,CR1,Constitutional Amendment 1,,No,,25,8,17
+Kossuth,CR2,Constitutional Amendment 1,,No,,29,23,6
+Kossuth,EG GT HS SW,Constitutional Amendment 1,,No,,84,15,69
+Kossuth,FT LC,Constitutional Amendment 1,,No,,58,31,27
+Kossuth,GF WM,Constitutional Amendment 1,,No,,101,22,79
+Kossuth,GW SN,Constitutional Amendment 1,,No,,40,18,22
+Kossuth,HB LY LN SF,Constitutional Amendment 1,,No,,64,18,46
+Kossuth,IV,Constitutional Amendment 1,,No,,17,9,8
+Kossuth,LV SM,Constitutional Amendment 1,,No,,48,5,43
+Kossuth,PC,Constitutional Amendment 1,,No,,36,20,16
+Kossuth,PR WL,Constitutional Amendment 1,,No,,70,16,54
+Kossuth,RM,Constitutional Amendment 1,,No,,79,24,55
+Kossuth,UN CR,Constitutional Amendment 1,,No,,38,22,16
+Kossuth,AL1,Constitutional Amendment 1,,Yes,,493,254,239
+Kossuth,AL2,Constitutional Amendment 1,,Yes,,636,313,323
+Kossuth,AL3,Constitutional Amendment 1,,Yes,,527,217,310
+Kossuth,AL4,Constitutional Amendment 1,,Yes,,468,221,247
+Kossuth,BF GM PT,Constitutional Amendment 1,,Yes,,484,137,347
+Kossuth,BT,Constitutional Amendment 1,,Yes,,313,101,212
+Kossuth,CR RV,Constitutional Amendment 1,,Yes,,299,157,142
+Kossuth,CR1,Constitutional Amendment 1,,Yes,,107,60,47
+Kossuth,CR2,Constitutional Amendment 1,,Yes,,119,65,54
+Kossuth,EG GT HS SW,Constitutional Amendment 1,,Yes,,457,99,358
+Kossuth,FT LC,Constitutional Amendment 1,,Yes,,275,104,171
+Kossuth,GF WM,Constitutional Amendment 1,,Yes,,391,109,282
+Kossuth,GW SN,Constitutional Amendment 1,,Yes,,123,34,89
+Kossuth,HB LY LN SF,Constitutional Amendment 1,,Yes,,331,93,238
+Kossuth,IV,Constitutional Amendment 1,,Yes,,124,74,50
+Kossuth,LV SM,Constitutional Amendment 1,,Yes,,215,46,169
+Kossuth,PC,Constitutional Amendment 1,,Yes,,174,88,86
+Kossuth,PR WL,Constitutional Amendment 1,,Yes,,279,69,210
+Kossuth,RM,Constitutional Amendment 1,,Yes,,364,98,266
+Kossuth,UN CR,Constitutional Amendment 1,,Yes,,172,75,97
+Kossuth,AL1,Constitutional Amendment 2,,No,,88,50,38
+Kossuth,AL2,Constitutional Amendment 2,,No,,89,46,43
+Kossuth,AL3,Constitutional Amendment 2,,No,,73,37,36
+Kossuth,AL4,Constitutional Amendment 2,,No,,86,49,37
+Kossuth,BF GM PT,Constitutional Amendment 2,,No,,66,22,44
+Kossuth,BT,Constitutional Amendment 2,,No,,60,29,31
+Kossuth,CR RV,Constitutional Amendment 2,,No,,47,26,21
+Kossuth,CR1,Constitutional Amendment 2,,No,,14,8,6
+Kossuth,CR2,Constitutional Amendment 2,,No,,22,20,2
+Kossuth,EG GT HS SW,Constitutional Amendment 2,,No,,50,12,38
+Kossuth,FT LC,Constitutional Amendment 2,,No,,48,28,20
+Kossuth,GF WM,Constitutional Amendment 2,,No,,66,26,40
+Kossuth,GW SN,Constitutional Amendment 2,,No,,24,10,14
+Kossuth,HB LY LN SF,Constitutional Amendment 2,,No,,39,15,24
+Kossuth,IV,Constitutional Amendment 2,,No,,10,6,4
+Kossuth,LV SM,Constitutional Amendment 2,,No,,24,3,21
+Kossuth,PC,Constitutional Amendment 2,,No,,32,20,12
+Kossuth,PR WL,Constitutional Amendment 2,,No,,62,16,46
+Kossuth,RM,Constitutional Amendment 2,,No,,54,19,35
+Kossuth,UN CR,Constitutional Amendment 2,,No,,33,21,12
+Kossuth,AL1,Constitutional Amendment 2,,Yes,,505,255,250
+Kossuth,AL2,Constitutional Amendment 2,,Yes,,666,331,335
+Kossuth,AL3,Constitutional Amendment 2,,Yes,,549,221,328
+Kossuth,AL4,Constitutional Amendment 2,,Yes,,487,227,260
+Kossuth,BF GM PT,Constitutional Amendment 2,,Yes,,495,142,353
+Kossuth,BT,Constitutional Amendment 2,,Yes,,322,104,218
+Kossuth,CR RV,Constitutional Amendment 2,,Yes,,297,153,144
+Kossuth,CR1,Constitutional Amendment 2,,Yes,,117,59,58
+Kossuth,CR2,Constitutional Amendment 2,,Yes,,125,66,59
+Kossuth,EG GT HS SW,Constitutional Amendment 2,,Yes,,487,101,386
+Kossuth,FT LC,Constitutional Amendment 2,,Yes,,280,103,177
+Kossuth,GF WM,Constitutional Amendment 2,,Yes,,423,105,318
+Kossuth,GW SN,Constitutional Amendment 2,,Yes,,141,43,98
+Kossuth,HB LY LN SF,Constitutional Amendment 2,,Yes,,351,94,257
+Kossuth,IV,Constitutional Amendment 2,,Yes,,129,75,54
+Kossuth,LV SM,Constitutional Amendment 2,,Yes,,236,47,189
+Kossuth,PC,Constitutional Amendment 2,,Yes,,173,86,87
+Kossuth,PR WL,Constitutional Amendment 2,,Yes,,286,71,215
+Kossuth,RM,Constitutional Amendment 2,,Yes,,387,102,285
+Kossuth,UN CR,Constitutional Amendment 2,,Yes,,172,75,97
+Kossuth,AL1,County Agricultural Extension Council Member,,Heath Paulsen,,336,179,157
+Kossuth,AL2,County Agricultural Extension Council Member,,Heath Paulsen,,515,259,256
+Kossuth,AL3,County Agricultural Extension Council Member,,Heath Paulsen,,352,145,207
+Kossuth,AL4,County Agricultural Extension Council Member,,Heath Paulsen,,353,170,183
+Kossuth,BF GM PT,County Agricultural Extension Council Member,,Heath Paulsen,,375,111,264
+Kossuth,BT,County Agricultural Extension Council Member,,Heath Paulsen,,210,70,140
+Kossuth,CR RV,County Agricultural Extension Council Member,,Heath Paulsen,,219,112,107
+Kossuth,CR1,County Agricultural Extension Council Member,,Heath Paulsen,,88,45,43
+Kossuth,CR2,County Agricultural Extension Council Member,,Heath Paulsen,,90,57,33
+Kossuth,EG GT HS SW,County Agricultural Extension Council Member,,Heath Paulsen,,335,74,261
+Kossuth,FT LC,County Agricultural Extension Council Member,,Heath Paulsen,,188,79,109
+Kossuth,GF WM,County Agricultural Extension Council Member,,Heath Paulsen,,294,79,215
+Kossuth,GW SN,County Agricultural Extension Council Member,,Heath Paulsen,,118,35,83
+Kossuth,HB LY LN SF,County Agricultural Extension Council Member,,Heath Paulsen,,260,76,184
+Kossuth,IV,County Agricultural Extension Council Member,,Heath Paulsen,,79,51,28
+Kossuth,LV SM,County Agricultural Extension Council Member,,Heath Paulsen,,162,37,125
+Kossuth,PC,County Agricultural Extension Council Member,,Heath Paulsen,,132,65,67
+Kossuth,PR WL,County Agricultural Extension Council Member,,Heath Paulsen,,215,56,159
+Kossuth,RM,County Agricultural Extension Council Member,,Heath Paulsen,,281,79,202
+Kossuth,UN CR,County Agricultural Extension Council Member,,Heath Paulsen,,116,56,60
+Kossuth,AL1,County Agricultural Extension Council Member,,Katherine Patten,,387,206,181
+Kossuth,AL2,County Agricultural Extension Council Member,,Katherine Patten,,562,291,271
+Kossuth,AL3,County Agricultural Extension Council Member,,Katherine Patten,,418,168,250
+Kossuth,AL4,County Agricultural Extension Council Member,,Katherine Patten,,387,182,205
+Kossuth,BF GM PT,County Agricultural Extension Council Member,,Katherine Patten,,380,113,267
+Kossuth,BT,County Agricultural Extension Council Member,,Katherine Patten,,225,70,155
+Kossuth,CR RV,County Agricultural Extension Council Member,,Katherine Patten,,237,125,112
+Kossuth,CR1,County Agricultural Extension Council Member,,Katherine Patten,,101,51,50
+Kossuth,CR2,County Agricultural Extension Council Member,,Katherine Patten,,98,58,40
+Kossuth,EG GT HS SW,County Agricultural Extension Council Member,,Katherine Patten,,288,68,220
+Kossuth,FT LC,County Agricultural Extension Council Member,,Katherine Patten,,203,83,120
+Kossuth,GF WM,County Agricultural Extension Council Member,,Katherine Patten,,336,87,249
+Kossuth,GW SN,County Agricultural Extension Council Member,,Katherine Patten,,106,34,72
+Kossuth,HB LY LN SF,County Agricultural Extension Council Member,,Katherine Patten,,206,55,151
+Kossuth,IV,County Agricultural Extension Council Member,,Katherine Patten,,99,60,39
+Kossuth,LV SM,County Agricultural Extension Council Member,,Katherine Patten,,182,38,144
+Kossuth,PC,County Agricultural Extension Council Member,,Katherine Patten,,146,74,72
+Kossuth,PR WL,County Agricultural Extension Council Member,,Katherine Patten,,243,66,177
+Kossuth,RM,County Agricultural Extension Council Member,,Katherine Patten,,247,76,171
+Kossuth,UN CR,County Agricultural Extension Council Member,,Katherine Patten,,135,65,70
+Kossuth,AL1,County Agricultural Extension Council Member,,Lucas Eichenberger,,391,202,189
+Kossuth,AL2,County Agricultural Extension Council Member,,Lucas Eichenberger,,581,302,279
+Kossuth,AL3,County Agricultural Extension Council Member,,Lucas Eichenberger,,418,178,240
+Kossuth,AL4,County Agricultural Extension Council Member,,Lucas Eichenberger,,402,187,215
+Kossuth,BF GM PT,County Agricultural Extension Council Member,,Lucas Eichenberger,,430,127,303
+Kossuth,BT,County Agricultural Extension Council Member,,Lucas Eichenberger,,269,84,185
+Kossuth,CR RV,County Agricultural Extension Council Member,,Lucas Eichenberger,,245,120,125
+Kossuth,CR1,County Agricultural Extension Council Member,,Lucas Eichenberger,,101,51,50
+Kossuth,CR2,County Agricultural Extension Council Member,,Lucas Eichenberger,,104,63,41
+Kossuth,EG GT HS SW,County Agricultural Extension Council Member,,Lucas Eichenberger,,378,76,302
+Kossuth,FT LC,County Agricultural Extension Council Member,,Lucas Eichenberger,,226,87,139
+Kossuth,GF WM,County Agricultural Extension Council Member,,Lucas Eichenberger,,320,85,235
+Kossuth,GW SN,County Agricultural Extension Council Member,,Lucas Eichenberger,,128,43,85
+Kossuth,HB LY LN SF,County Agricultural Extension Council Member,,Lucas Eichenberger,,339,90,249
+Kossuth,IV,County Agricultural Extension Council Member,,Lucas Eichenberger,,99,63,36
+Kossuth,LV SM,County Agricultural Extension Council Member,,Lucas Eichenberger,,176,35,141
+Kossuth,PC,County Agricultural Extension Council Member,,Lucas Eichenberger,,157,78,79
+Kossuth,PR WL,County Agricultural Extension Council Member,,Lucas Eichenberger,,242,59,183
+Kossuth,RM,County Agricultural Extension Council Member,,Lucas Eichenberger,,379,108,271
+Kossuth,UN CR,County Agricultural Extension Council Member,,Lucas Eichenberger,,131,66,65
+Kossuth,AL1,County Agricultural Extension Council Member,,Shelly Louwagie,,6,1,5
+Kossuth,AL2,County Agricultural Extension Council Member,,Shelly Louwagie,,10,2,8
+Kossuth,AL3,County Agricultural Extension Council Member,,Shelly Louwagie,,6,0,6
+Kossuth,AL4,County Agricultural Extension Council Member,,Shelly Louwagie,,9,3,6
+Kossuth,BF GM PT,County Agricultural Extension Council Member,,Shelly Louwagie,,5,0,5
+Kossuth,BT,County Agricultural Extension Council Member,,Shelly Louwagie,,1,1,0
+Kossuth,CR RV,County Agricultural Extension Council Member,,Shelly Louwagie,,2,1,1
+Kossuth,CR1,County Agricultural Extension Council Member,,Shelly Louwagie,,2,0,2
+Kossuth,CR2,County Agricultural Extension Council Member,,Shelly Louwagie,,1,0,1
+Kossuth,EG GT HS SW,County Agricultural Extension Council Member,,Shelly Louwagie,,1,1,0
+Kossuth,FT LC,County Agricultural Extension Council Member,,Shelly Louwagie,,2,0,2
+Kossuth,GF WM,County Agricultural Extension Council Member,,Shelly Louwagie,,5,0,5
+Kossuth,GW SN,County Agricultural Extension Council Member,,Shelly Louwagie,,4,0,4
+Kossuth,HB LY LN SF,County Agricultural Extension Council Member,,Shelly Louwagie,,3,0,3
+Kossuth,IV,County Agricultural Extension Council Member,,Shelly Louwagie,,6,0,6
+Kossuth,LV SM,County Agricultural Extension Council Member,,Shelly Louwagie,,5,1,4
+Kossuth,PC,County Agricultural Extension Council Member,,Shelly Louwagie,,9,1,8
+Kossuth,PR WL,County Agricultural Extension Council Member,,Shelly Louwagie,,2,2,0
+Kossuth,RM,County Agricultural Extension Council Member,,Shelly Louwagie,,0,0,0
+Kossuth,UN CR,County Agricultural Extension Council Member,,Shelly Louwagie,,3,0,3
+Kossuth,AL1,County Agricultural Extension Council Member,,Write-In,,11,5,6
+Kossuth,AL2,County Agricultural Extension Council Member,,Write-In,,14,9,5
+Kossuth,AL3,County Agricultural Extension Council Member,,Write-In,,9,2,7
+Kossuth,AL4,County Agricultural Extension Council Member,,Write-In,,8,1,7
+Kossuth,BF GM PT,County Agricultural Extension Council Member,,Write-In,,19,4,15
+Kossuth,BT,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Kossuth,CR RV,County Agricultural Extension Council Member,,Write-In,,14,2,12
+Kossuth,CR1,County Agricultural Extension Council Member,,Write-In,,9,5,4
+Kossuth,CR2,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Kossuth,EG GT HS SW,County Agricultural Extension Council Member,,Write-In,,9,0,9
+Kossuth,FT LC,County Agricultural Extension Council Member,,Write-In,,6,2,4
+Kossuth,GF WM,County Agricultural Extension Council Member,,Write-In,,9,2,7
+Kossuth,GW SN,County Agricultural Extension Council Member,,Write-In,,4,3,1
+Kossuth,HB LY LN SF,County Agricultural Extension Council Member,,Write-In,,7,1,6
+Kossuth,IV,County Agricultural Extension Council Member,,Write-In,,4,1,3
+Kossuth,LV SM,County Agricultural Extension Council Member,,Write-In,,9,0,9
+Kossuth,PC,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Kossuth,PR WL,County Agricultural Extension Council Member,,Write-In,,13,4,9
+Kossuth,RM,County Agricultural Extension Council Member,,Write-In,,12,0,12
+Kossuth,UN CR,County Agricultural Extension Council Member,,Write-In,,6,4,2
+Kossuth,AL1,County Auditor,,Tammy Eden,REP,524,265,259
+Kossuth,AL2,County Auditor,,Tammy Eden,REP,740,373,367
+Kossuth,AL3,County Auditor,,Tammy Eden,REP,585,237,348
+Kossuth,AL4,County Auditor,,Tammy Eden,REP,501,227,274
+Kossuth,BF GM PT,County Auditor,,Tammy Eden,REP,547,159,388
+Kossuth,BT,County Auditor,,Tammy Eden,REP,365,113,252
+Kossuth,CR RV,County Auditor,,Tammy Eden,REP,322,167,155
+Kossuth,CR1,County Auditor,,Tammy Eden,REP,128,68,60
+Kossuth,CR2,County Auditor,,Tammy Eden,REP,137,75,62
+Kossuth,EG GT HS SW,County Auditor,,Tammy Eden,REP,515,101,414
+Kossuth,FT LC,County Auditor,,Tammy Eden,REP,309,112,197
+Kossuth,GF WM,County Auditor,,Tammy Eden,REP,464,120,344
+Kossuth,GW SN,County Auditor,,Tammy Eden,REP,158,49,109
+Kossuth,HB LY LN SF,County Auditor,,Tammy Eden,REP,377,100,277
+Kossuth,IV,County Auditor,,Tammy Eden,REP,132,75,57
+Kossuth,LV SM,County Auditor,,Tammy Eden,REP,239,46,193
+Kossuth,PC,County Auditor,,Tammy Eden,REP,195,95,100
+Kossuth,PR WL,County Auditor,,Tammy Eden,REP,352,86,266
+Kossuth,RM,County Auditor,,Tammy Eden,REP,427,109,318
+Kossuth,UN CR,County Auditor,,Tammy Eden,REP,180,81,99
+Kossuth,AL1,County Auditor,,Write-In,,11,8,3
+Kossuth,AL2,County Auditor,,Write-In,,10,5,5
+Kossuth,AL3,County Auditor,,Write-In,,11,8,3
+Kossuth,AL4,County Auditor,,Write-In,,20,9,11
+Kossuth,BF GM PT,County Auditor,,Write-In,,6,2,4
+Kossuth,BT,County Auditor,,Write-In,,2,0,2
+Kossuth,CR RV,County Auditor,,Write-In,,1,0,1
+Kossuth,CR1,County Auditor,,Write-In,,2,1,1
+Kossuth,CR2,County Auditor,,Write-In,,2,1,1
+Kossuth,EG GT HS SW,County Auditor,,Write-In,,3,1,2
+Kossuth,FT LC,County Auditor,,Write-In,,0,0,0
+Kossuth,GF WM,County Auditor,,Write-In,,4,1,3
+Kossuth,GW SN,County Auditor,,Write-In,,3,3,0
+Kossuth,HB LY LN SF,County Auditor,,Write-In,,5,2,3
+Kossuth,IV,County Auditor,,Write-In,,6,5,1
+Kossuth,LV SM,County Auditor,,Write-In,,4,0,4
+Kossuth,PC,County Auditor,,Write-In,,1,0,1
+Kossuth,PR WL,County Auditor,,Write-In,,8,4,4
+Kossuth,RM,County Auditor,,Write-In,,8,2,6
+Kossuth,UN CR,County Auditor,,Write-In,,8,2,6
+Kossuth,AL1,County Hospital Board of Truestees,,Jason Wartick,,412,228,184
+Kossuth,AL2,County Hospital Board of Truestees,,Jason Wartick,,621,313,308
+Kossuth,AL3,County Hospital Board of Truestees,,Jason Wartick,,462,190,272
+Kossuth,AL4,County Hospital Board of Truestees,,Jason Wartick,,417,211,206
+Kossuth,BF GM PT,County Hospital Board of Truestees,,Jason Wartick,,399,114,285
+Kossuth,BT,County Hospital Board of Truestees,,Jason Wartick,,246,81,165
+Kossuth,CR RV,County Hospital Board of Truestees,,Jason Wartick,,256,136,120
+Kossuth,CR1,County Hospital Board of Truestees,,Jason Wartick,,114,62,52
+Kossuth,CR2,County Hospital Board of Truestees,,Jason Wartick,,121,74,47
+Kossuth,EG GT HS SW,County Hospital Board of Truestees,,Jason Wartick,,336,65,271
+Kossuth,FT LC,County Hospital Board of Truestees,,Jason Wartick,,214,85,129
+Kossuth,GF WM,County Hospital Board of Truestees,,Jason Wartick,,344,85,259
+Kossuth,GW SN,County Hospital Board of Truestees,,Jason Wartick,,108,37,71
+Kossuth,HB LY LN SF,County Hospital Board of Truestees,,Jason Wartick,,251,67,184
+Kossuth,IV,County Hospital Board of Truestees,,Jason Wartick,,97,59,38
+Kossuth,LV SM,County Hospital Board of Truestees,,Jason Wartick,,190,41,149
+Kossuth,PC,County Hospital Board of Truestees,,Jason Wartick,,169,86,83
+Kossuth,PR WL,County Hospital Board of Truestees,,Jason Wartick,,245,63,182
+Kossuth,RM,County Hospital Board of Truestees,,Jason Wartick,,277,80,197
+Kossuth,UN CR,County Hospital Board of Truestees,,Jason Wartick,,147,69,78
+Kossuth,AL1,County Hospital Board of Truestees,,Tom Geelan,,449,233,216
+Kossuth,AL2,County Hospital Board of Truestees,,Tom Geelan,,614,324,290
+Kossuth,AL3,County Hospital Board of Truestees,,Tom Geelan,,472,201,271
+Kossuth,AL4,County Hospital Board of Truestees,,Tom Geelan,,456,221,235
+Kossuth,BF GM PT,County Hospital Board of Truestees,,Tom Geelan,,452,132,320
+Kossuth,BT,County Hospital Board of Truestees,,Tom Geelan,,298,93,205
+Kossuth,CR RV,County Hospital Board of Truestees,,Tom Geelan,,283,151,132
+Kossuth,CR1,County Hospital Board of Truestees,,Tom Geelan,,106,56,50
+Kossuth,CR2,County Hospital Board of Truestees,,Tom Geelan,,121,71,50
+Kossuth,EG GT HS SW,County Hospital Board of Truestees,,Tom Geelan,,387,80,307
+Kossuth,FT LC,County Hospital Board of Truestees,,Tom Geelan,,256,99,157
+Kossuth,GF WM,County Hospital Board of Truestees,,Tom Geelan,,402,113,289
+Kossuth,GW SN,County Hospital Board of Truestees,,Tom Geelan,,132,44,88
+Kossuth,HB LY LN SF,County Hospital Board of Truestees,,Tom Geelan,,294,83,211
+Kossuth,IV,County Hospital Board of Truestees,,Tom Geelan,,123,71,52
+Kossuth,LV SM,County Hospital Board of Truestees,,Tom Geelan,,199,42,157
+Kossuth,PC,County Hospital Board of Truestees,,Tom Geelan,,163,84,79
+Kossuth,PR WL,County Hospital Board of Truestees,,Tom Geelan,,295,76,219
+Kossuth,RM,County Hospital Board of Truestees,,Tom Geelan,,390,101,289
+Kossuth,UN CR,County Hospital Board of Truestees,,Tom Geelan,,158,70,88
+Kossuth,AL1,County Hospital Board of Truestees,,Write-In,,4,2,2
+Kossuth,AL2,County Hospital Board of Truestees,,Write-In,,7,4,3
+Kossuth,AL3,County Hospital Board of Truestees,,Write-In,,2,0,2
+Kossuth,AL4,County Hospital Board of Truestees,,Write-In,,4,0,4
+Kossuth,BF GM PT,County Hospital Board of Truestees,,Write-In,,3,1,2
+Kossuth,BT,County Hospital Board of Truestees,,Write-In,,1,0,1
+Kossuth,CR RV,County Hospital Board of Truestees,,Write-In,,6,2,4
+Kossuth,CR1,County Hospital Board of Truestees,,Write-In,,2,1,1
+Kossuth,CR2,County Hospital Board of Truestees,,Write-In,,3,3,0
+Kossuth,EG GT HS SW,County Hospital Board of Truestees,,Write-In,,1,0,1
+Kossuth,FT LC,County Hospital Board of Truestees,,Write-In,,2,0,2
+Kossuth,GF WM,County Hospital Board of Truestees,,Write-In,,2,0,2
+Kossuth,GW SN,County Hospital Board of Truestees,,Write-In,,0,0,0
+Kossuth,HB LY LN SF,County Hospital Board of Truestees,,Write-In,,0,0,0
+Kossuth,IV,County Hospital Board of Truestees,,Write-In,,0,0,0
+Kossuth,LV SM,County Hospital Board of Truestees,,Write-In,,4,1,3
+Kossuth,PC,County Hospital Board of Truestees,,Write-In,,2,0,2
+Kossuth,PR WL,County Hospital Board of Truestees,,Write-In,,3,1,2
+Kossuth,RM,County Hospital Board of Truestees,,Write-In,,1,1,0
+Kossuth,UN CR,County Hospital Board of Truestees,,Write-In,,0,0,0
+Kossuth,AL1,County Sheriff,,Roger Fisher,REP,530,278,252
+Kossuth,AL2,County Sheriff,,Roger Fisher,REP,755,387,368
+Kossuth,AL3,County Sheriff,,Roger Fisher,REP,578,247,331
+Kossuth,AL4,County Sheriff,,Roger Fisher,REP,520,250,270
+Kossuth,BF GM PT,County Sheriff,,Roger Fisher,REP,558,164,394
+Kossuth,BT,County Sheriff,,Roger Fisher,REP,373,120,253
+Kossuth,CR RV,County Sheriff,,Roger Fisher,REP,326,173,153
+Kossuth,CR1,County Sheriff,,Roger Fisher,REP,123,66,57
+Kossuth,CR2,County Sheriff,,Roger Fisher,REP,141,78,63
+Kossuth,EG GT HS SW,County Sheriff,,Roger Fisher,REP,542,113,429
+Kossuth,FT LC,County Sheriff,,Roger Fisher,REP,331,124,207
+Kossuth,GF WM,County Sheriff,,Roger Fisher,REP,457,114,343
+Kossuth,GW SN,County Sheriff,,Roger Fisher,REP,156,52,104
+Kossuth,HB LY LN SF,County Sheriff,,Roger Fisher,REP,381,97,284
+Kossuth,IV,County Sheriff,,Roger Fisher,REP,126,71,55
+Kossuth,LV SM,County Sheriff,,Roger Fisher,REP,244,42,202
+Kossuth,PC,County Sheriff,,Roger Fisher,REP,197,100,97
+Kossuth,PR WL,County Sheriff,,Roger Fisher,REP,356,88,268
+Kossuth,RM,County Sheriff,,Roger Fisher,REP,422,107,315
+Kossuth,UN CR,County Sheriff,,Roger Fisher,REP,192,84,108
+Kossuth,AL1,County Sheriff,,Write-In,,27,14,13
+Kossuth,AL2,County Sheriff,,Write-In,,28,15,13
+Kossuth,AL3,County Sheriff,,Write-In,,40,14,26
+Kossuth,AL4,County Sheriff,,Write-In,,24,10,14
+Kossuth,BF GM PT,County Sheriff,,Write-In,,8,2,6
+Kossuth,BT,County Sheriff,,Write-In,,14,3,11
+Kossuth,CR RV,County Sheriff,,Write-In,,12,7,5
+Kossuth,CR1,County Sheriff,,Write-In,,11,5,6
+Kossuth,CR2,County Sheriff,,Write-In,,8,7,1
+Kossuth,EG GT HS SW,County Sheriff,,Write-In,,11,0,11
+Kossuth,FT LC,County Sheriff,,Write-In,,9,1,8
+Kossuth,GF WM,County Sheriff,,Write-In,,24,7,17
+Kossuth,GW SN,County Sheriff,,Write-In,,4,1,3
+Kossuth,HB LY LN SF,County Sheriff,,Write-In,,16,5,11
+Kossuth,IV,County Sheriff,,Write-In,,13,8,5
+Kossuth,LV SM,County Sheriff,,Write-In,,12,4,8
+Kossuth,PC,County Sheriff,,Write-In,,11,3,8
+Kossuth,PR WL,County Sheriff,,Write-In,,14,4,10
+Kossuth,RM,County Sheriff,,Write-In,,23,4,19
+Kossuth,UN CR,County Sheriff,,Write-In,,11,3,8
+Kossuth,AL1,County Supervisor,2,Howard Haas,REP,509,259,250
+Kossuth,AL4,County Supervisor,2,Howard Haas,REP,515,238,277
+Kossuth,CR2,County Supervisor,2,Howard Haas,REP,142,78,64
+Kossuth,AL1,County Supervisor,2,Write-In,,17,13,4
+Kossuth,AL4,County Supervisor,2,Write-In,,11,4,7
+Kossuth,CR2,County Supervisor,2,Write-In,,0,0,0
+Kossuth,BF GM PT,County Supervisor,5,Amber Garman,REP,231,84,147
+Kossuth,BT,County Supervisor,5,Amber Garman,REP,195,71,124
+Kossuth,FT LC,County Supervisor,5,Amber Garman,REP,204,80,124
+Kossuth,PC,County Supervisor,5,Amber Garman,REP,132,61,71
+Kossuth,UN CR,County Supervisor,5,Amber Garman,REP,132,55,77
+Kossuth,BF GM PT,County Supervisor,5,Bruce Meinders,DEM,152,33,119
+Kossuth,BT,County Supervisor,5,Bruce Meinders,DEM,90,28,62
+Kossuth,FT LC,County Supervisor,5,Bruce Meinders,DEM,67,23,44
+Kossuth,PC,County Supervisor,5,Bruce Meinders,DEM,42,19,23
+Kossuth,UN CR,County Supervisor,5,Bruce Meinders,DEM,38,24,14
+Kossuth,BF GM PT,County Supervisor,5,Mel Haler,,211,56,155
+Kossuth,BT,County Supervisor,5,Mel Haler,,121,33,88
+Kossuth,FT LC,County Supervisor,5,Mel Haler,,87,32,55
+Kossuth,PC,County Supervisor,5,Mel Haler,,39,26,13
+Kossuth,UN CR,County Supervisor,5,Mel Haler,,54,21,33
+Kossuth,BF GM PT,County Supervisor,5,Write-In,,3,1,2
+Kossuth,BT,County Supervisor,5,Write-In,,0,0,0
+Kossuth,FT LC,County Supervisor,5,Write-In,,0,0,0
+Kossuth,PC,County Supervisor,5,Write-In,,0,0,0
+Kossuth,UN CR,County Supervisor,5,Write-In,,0,0,0
+Kossuth,AL1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,147,69,78
+Kossuth,AL2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,143,64,79
+Kossuth,AL3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,138,65,73
+Kossuth,AL4,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,134,63,71
+Kossuth,BF GM PT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,129,45,84
+Kossuth,BT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,98,28,70
+Kossuth,CR RV,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,81,38,43
+Kossuth,CR1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,38,21,17
+Kossuth,CR2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,38,29,9
+Kossuth,EG GT HS SW,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,144,23,121
+Kossuth,FT LC,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,81,30,51
+Kossuth,GF WM,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,128,32,96
+Kossuth,GW SN,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,41,10,31
+Kossuth,HB LY LN SF,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,97,28,69
+Kossuth,IV,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,36,18,18
+Kossuth,LV SM,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,72,16,56
+Kossuth,PC,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,38,20,18
+Kossuth,PR WL,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,120,27,93
+Kossuth,RM,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,90,23,67
+Kossuth,UN CR,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,50,26,24
+Kossuth,AL1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,361,189,172
+Kossuth,AL2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,484,251,233
+Kossuth,AL3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,403,152,251
+Kossuth,AL4,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,351,158,193
+Kossuth,BF GM PT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,349,95,254
+Kossuth,BT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,212,72,140
+Kossuth,CR RV,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,191,96,95
+Kossuth,CR1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,77,37,40
+Kossuth,CR2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,84,43,41
+Kossuth,EG GT HS SW,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,312,65,247
+Kossuth,FT LC,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,188,76,112
+Kossuth,GF WM,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,278,78,200
+Kossuth,GW SN,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,99,30,69
+Kossuth,HB LY LN SF,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,217,60,157
+Kossuth,IV,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,68,41,27
+Kossuth,LV SM,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,128,22,106
+Kossuth,PC,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,129,63,66
+Kossuth,PR WL,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,196,49,147
+Kossuth,RM,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,279,74,205
+Kossuth,UN CR,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,121,57,64
+Kossuth,AL1,Court of Appeals Judge - Mary Ellen Tabor,,No,,136,60,76
+Kossuth,AL2,Court of Appeals Judge - Mary Ellen Tabor,,No,,145,65,80
+Kossuth,AL3,Court of Appeals Judge - Mary Ellen Tabor,,No,,135,66,69
+Kossuth,AL4,Court of Appeals Judge - Mary Ellen Tabor,,No,,134,66,68
+Kossuth,BF GM PT,Court of Appeals Judge - Mary Ellen Tabor,,No,,138,50,88
+Kossuth,BT,Court of Appeals Judge - Mary Ellen Tabor,,No,,85,24,61
+Kossuth,CR RV,Court of Appeals Judge - Mary Ellen Tabor,,No,,72,36,36
+Kossuth,CR1,Court of Appeals Judge - Mary Ellen Tabor,,No,,41,21,20
+Kossuth,CR2,Court of Appeals Judge - Mary Ellen Tabor,,No,,41,30,11
+Kossuth,EG GT HS SW,Court of Appeals Judge - Mary Ellen Tabor,,No,,140,23,117
+Kossuth,FT LC,Court of Appeals Judge - Mary Ellen Tabor,,No,,74,27,47
+Kossuth,GF WM,Court of Appeals Judge - Mary Ellen Tabor,,No,,140,35,105
+Kossuth,GW SN,Court of Appeals Judge - Mary Ellen Tabor,,No,,42,10,32
+Kossuth,HB LY LN SF,Court of Appeals Judge - Mary Ellen Tabor,,No,,95,23,72
+Kossuth,IV,Court of Appeals Judge - Mary Ellen Tabor,,No,,35,19,16
+Kossuth,LV SM,Court of Appeals Judge - Mary Ellen Tabor,,No,,64,13,51
+Kossuth,PC,Court of Appeals Judge - Mary Ellen Tabor,,No,,45,26,19
+Kossuth,PR WL,Court of Appeals Judge - Mary Ellen Tabor,,No,,115,26,89
+Kossuth,RM,Court of Appeals Judge - Mary Ellen Tabor,,No,,95,24,71
+Kossuth,UN CR,Court of Appeals Judge - Mary Ellen Tabor,,No,,44,19,25
+Kossuth,AL1,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,375,203,172
+Kossuth,AL2,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,487,253,234
+Kossuth,AL3,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,406,152,254
+Kossuth,AL4,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,354,158,196
+Kossuth,BF GM PT,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,341,91,250
+Kossuth,BT,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,228,80,148
+Kossuth,CR RV,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,202,98,104
+Kossuth,CR1,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,75,37,38
+Kossuth,CR2,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,83,44,39
+Kossuth,EG GT HS SW,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,317,65,252
+Kossuth,FT LC,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,194,80,114
+Kossuth,GF WM,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,272,74,198
+Kossuth,GW SN,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,97,30,67
+Kossuth,HB LY LN SF,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,220,66,154
+Kossuth,IV,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,69,40,29
+Kossuth,LV SM,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,140,25,115
+Kossuth,PC,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,121,57,64
+Kossuth,PR WL,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,203,49,154
+Kossuth,RM,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,273,74,199
+Kossuth,UN CR,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,129,65,64
+Kossuth,AL1,Court of Appeals Judge - Samuel Langholz,,No,,159,75,84
+Kossuth,AL2,Court of Appeals Judge - Samuel Langholz,,No,,158,75,83
+Kossuth,AL3,Court of Appeals Judge - Samuel Langholz,,No,,142,72,70
+Kossuth,AL4,Court of Appeals Judge - Samuel Langholz,,No,,135,68,67
+Kossuth,BF GM PT,Court of Appeals Judge - Samuel Langholz,,No,,133,44,89
+Kossuth,BT,Court of Appeals Judge - Samuel Langholz,,No,,91,32,59
+Kossuth,CR RV,Court of Appeals Judge - Samuel Langholz,,No,,77,39,38
+Kossuth,CR1,Court of Appeals Judge - Samuel Langholz,,No,,37,22,15
+Kossuth,CR2,Court of Appeals Judge - Samuel Langholz,,No,,38,30,8
+Kossuth,EG GT HS SW,Court of Appeals Judge - Samuel Langholz,,No,,113,25,88
+Kossuth,FT LC,Court of Appeals Judge - Samuel Langholz,,No,,80,27,53
+Kossuth,GF WM,Court of Appeals Judge - Samuel Langholz,,No,,127,35,92
+Kossuth,GW SN,Court of Appeals Judge - Samuel Langholz,,No,,44,15,29
+Kossuth,HB LY LN SF,Court of Appeals Judge - Samuel Langholz,,No,,91,25,66
+Kossuth,IV,Court of Appeals Judge - Samuel Langholz,,No,,29,17,12
+Kossuth,LV SM,Court of Appeals Judge - Samuel Langholz,,No,,72,15,57
+Kossuth,PC,Court of Appeals Judge - Samuel Langholz,,No,,38,23,15
+Kossuth,PR WL,Court of Appeals Judge - Samuel Langholz,,No,,105,26,79
+Kossuth,RM,Court of Appeals Judge - Samuel Langholz,,No,,94,33,61
+Kossuth,UN CR,Court of Appeals Judge - Samuel Langholz,,No,,54,30,24
+Kossuth,AL1,Court of Appeals Judge - Samuel Langholz,,Yes,,350,182,168
+Kossuth,AL2,Court of Appeals Judge - Samuel Langholz,,Yes,,476,244,232
+Kossuth,AL3,Court of Appeals Judge - Samuel Langholz,,Yes,,406,150,256
+Kossuth,AL4,Court of Appeals Judge - Samuel Langholz,,Yes,,358,158,200
+Kossuth,BF GM PT,Court of Appeals Judge - Samuel Langholz,,Yes,,357,101,256
+Kossuth,BT,Court of Appeals Judge - Samuel Langholz,,Yes,,220,69,151
+Kossuth,CR RV,Court of Appeals Judge - Samuel Langholz,,Yes,,205,97,108
+Kossuth,CR1,Court of Appeals Judge - Samuel Langholz,,Yes,,80,37,43
+Kossuth,CR2,Court of Appeals Judge - Samuel Langholz,,Yes,,83,42,41
+Kossuth,EG GT HS SW,Court of Appeals Judge - Samuel Langholz,,Yes,,344,63,281
+Kossuth,FT LC,Court of Appeals Judge - Samuel Langholz,,Yes,,188,79,109
+Kossuth,GF WM,Court of Appeals Judge - Samuel Langholz,,Yes,,284,72,212
+Kossuth,GW SN,Court of Appeals Judge - Samuel Langholz,,Yes,,95,25,70
+Kossuth,HB LY LN SF,Court of Appeals Judge - Samuel Langholz,,Yes,,225,64,161
+Kossuth,IV,Court of Appeals Judge - Samuel Langholz,,Yes,,77,42,35
+Kossuth,LV SM,Court of Appeals Judge - Samuel Langholz,,Yes,,132,23,109
+Kossuth,PC,Court of Appeals Judge - Samuel Langholz,,Yes,,132,61,71
+Kossuth,PR WL,Court of Appeals Judge - Samuel Langholz,,Yes,,212,48,164
+Kossuth,RM,Court of Appeals Judge - Samuel Langholz,,Yes,,278,69,209
+Kossuth,UN CR,Court of Appeals Judge - Samuel Langholz,,Yes,,116,52,64
+Kossuth,AL1,Court of Appeals Judge - Tyler J. Buller,,No,,144,72,72
+Kossuth,AL2,Court of Appeals Judge - Tyler J. Buller,,No,,150,67,83
+Kossuth,AL3,Court of Appeals Judge - Tyler J. Buller,,No,,128,65,63
+Kossuth,AL4,Court of Appeals Judge - Tyler J. Buller,,No,,125,63,62
+Kossuth,BF GM PT,Court of Appeals Judge - Tyler J. Buller,,No,,132,47,85
+Kossuth,BT,Court of Appeals Judge - Tyler J. Buller,,No,,91,29,62
+Kossuth,CR RV,Court of Appeals Judge - Tyler J. Buller,,No,,80,40,40
+Kossuth,CR1,Court of Appeals Judge - Tyler J. Buller,,No,,38,23,15
+Kossuth,CR2,Court of Appeals Judge - Tyler J. Buller,,No,,39,30,9
+Kossuth,EG GT HS SW,Court of Appeals Judge - Tyler J. Buller,,No,,128,28,100
+Kossuth,FT LC,Court of Appeals Judge - Tyler J. Buller,,No,,79,29,50
+Kossuth,GF WM,Court of Appeals Judge - Tyler J. Buller,,No,,122,32,90
+Kossuth,GW SN,Court of Appeals Judge - Tyler J. Buller,,No,,36,9,27
+Kossuth,HB LY LN SF,Court of Appeals Judge - Tyler J. Buller,,No,,86,21,65
+Kossuth,IV,Court of Appeals Judge - Tyler J. Buller,,No,,30,16,14
+Kossuth,LV SM,Court of Appeals Judge - Tyler J. Buller,,No,,67,13,54
+Kossuth,PC,Court of Appeals Judge - Tyler J. Buller,,No,,43,22,21
+Kossuth,PR WL,Court of Appeals Judge - Tyler J. Buller,,No,,116,25,91
+Kossuth,RM,Court of Appeals Judge - Tyler J. Buller,,No,,84,26,58
+Kossuth,UN CR,Court of Appeals Judge - Tyler J. Buller,,No,,46,25,21
+Kossuth,AL1,Court of Appeals Judge - Tyler J. Buller,,Yes,,364,185,179
+Kossuth,AL2,Court of Appeals Judge - Tyler J. Buller,,Yes,,476,248,228
+Kossuth,AL3,Court of Appeals Judge - Tyler J. Buller,,Yes,,408,152,256
+Kossuth,AL4,Court of Appeals Judge - Tyler J. Buller,,Yes,,362,160,202
+Kossuth,BF GM PT,Court of Appeals Judge - Tyler J. Buller,,Yes,,350,93,257
+Kossuth,BT,Court of Appeals Judge - Tyler J. Buller,,Yes,,219,72,147
+Kossuth,CR RV,Court of Appeals Judge - Tyler J. Buller,,Yes,,199,97,102
+Kossuth,CR1,Court of Appeals Judge - Tyler J. Buller,,Yes,,76,35,41
+Kossuth,CR2,Court of Appeals Judge - Tyler J. Buller,,Yes,,83,43,40
+Kossuth,EG GT HS SW,Court of Appeals Judge - Tyler J. Buller,,Yes,,325,59,266
+Kossuth,FT LC,Court of Appeals Judge - Tyler J. Buller,,Yes,,188,75,113
+Kossuth,GF WM,Court of Appeals Judge - Tyler J. Buller,,Yes,,285,76,209
+Kossuth,GW SN,Court of Appeals Judge - Tyler J. Buller,,Yes,,103,31,72
+Kossuth,HB LY LN SF,Court of Appeals Judge - Tyler J. Buller,,Yes,,225,66,159
+Kossuth,IV,Court of Appeals Judge - Tyler J. Buller,,Yes,,73,42,31
+Kossuth,LV SM,Court of Appeals Judge - Tyler J. Buller,,Yes,,136,25,111
+Kossuth,PC,Court of Appeals Judge - Tyler J. Buller,,Yes,,124,61,63
+Kossuth,PR WL,Court of Appeals Judge - Tyler J. Buller,,Yes,,199,50,149
+Kossuth,RM,Court of Appeals Judge - Tyler J. Buller,,Yes,,281,70,211
+Kossuth,UN CR,Court of Appeals Judge - Tyler J. Buller,,Yes,,126,59,67
+Kossuth,AL1,President,,Chase Oliver and Mike ter Maat,LIB,2,1,1
+Kossuth,AL2,President,,Chase Oliver and Mike ter Maat,LIB,2,1,1
+Kossuth,AL3,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Kossuth,AL4,President,,Chase Oliver and Mike ter Maat,LIB,3,1,2
+Kossuth,BF GM PT,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Kossuth,BT,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Kossuth,CR RV,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Kossuth,CR1,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Kossuth,CR2,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Kossuth,EG GT HS SW,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Kossuth,FT LC,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Kossuth,GF WM,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Kossuth,GW SN,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Kossuth,HB LY LN SF,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Kossuth,IV,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Kossuth,LV SM,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Kossuth,PC,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Kossuth,PR WL,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Kossuth,RM,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Kossuth,UN CR,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Kossuth,AL1,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Kossuth,AL2,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Kossuth,AL3,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,AL4,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,BF GM PT,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,BT,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,CR RV,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,CR1,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,CR2,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,EG GT HS SW,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,FT LC,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,GF WM,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,GW SN,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,HB LY LN SF,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,IV,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,LV SM,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Kossuth,PC,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,PR WL,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,RM,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,UN CR,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Kossuth,AL1,President,,Donald J. Trump and JD Vance,REP,367,172,195
+Kossuth,AL2,President,,Donald J. Trump and JD Vance,REP,539,254,285
+Kossuth,AL3,President,,Donald J. Trump and JD Vance,REP,419,171,248
+Kossuth,AL4,President,,Donald J. Trump and JD Vance,REP,382,164,218
+Kossuth,BF GM PT,President,,Donald J. Trump and JD Vance,REP,461,125,336
+Kossuth,BT,President,,Donald J. Trump and JD Vance,REP,275,76,199
+Kossuth,CR RV,President,,Donald J. Trump and JD Vance,REP,272,147,125
+Kossuth,CR1,President,,Donald J. Trump and JD Vance,REP,114,53,61
+Kossuth,CR2,President,,Donald J. Trump and JD Vance,REP,111,54,57
+Kossuth,EG GT HS SW,President,,Donald J. Trump and JD Vance,REP,481,86,395
+Kossuth,FT LC,President,,Donald J. Trump and JD Vance,REP,280,100,180
+Kossuth,GF WM,President,,Donald J. Trump and JD Vance,REP,434,104,330
+Kossuth,GW SN,President,,Donald J. Trump and JD Vance,REP,149,40,109
+Kossuth,HB LY LN SF,President,,Donald J. Trump and JD Vance,REP,337,76,261
+Kossuth,IV,President,,Donald J. Trump and JD Vance,REP,121,61,60
+Kossuth,LV SM,President,,Donald J. Trump and JD Vance,REP,224,42,182
+Kossuth,PC,President,,Donald J. Trump and JD Vance,REP,173,87,86
+Kossuth,PR WL,President,,Donald J. Trump and JD Vance,REP,306,67,239
+Kossuth,RM,President,,Donald J. Trump and JD Vance,REP,375,86,289
+Kossuth,UN CR,President,,Donald J. Trump and JD Vance,REP,163,62,101
+Kossuth,AL1,President,,Kamala D. Harris and Tim Walz,DEM,276,172,104
+Kossuth,AL2,President,,Kamala D. Harris and Tim Walz,DEM,288,172,116
+Kossuth,AL3,President,,Kamala D. Harris and Tim Walz,DEM,244,114,130
+Kossuth,AL4,President,,Kamala D. Harris and Tim Walz,DEM,215,129,86
+Kossuth,BF GM PT,President,,Kamala D. Harris and Tim Walz,DEM,142,52,90
+Kossuth,BT,President,,Kamala D. Harris and Tim Walz,DEM,137,61,76
+Kossuth,CR RV,President,,Kamala D. Harris and Tim Walz,DEM,104,58,46
+Kossuth,CR1,President,,Kamala D. Harris and Tim Walz,DEM,27,22,5
+Kossuth,CR2,President,,Kamala D. Harris and Tim Walz,DEM,49,39,10
+Kossuth,EG GT HS SW,President,,Kamala D. Harris and Tim Walz,DEM,106,41,65
+Kossuth,FT LC,President,,Kamala D. Harris and Tim Walz,DEM,81,40,41
+Kossuth,GF WM,President,,Kamala D. Harris and Tim Walz,DEM,113,45,68
+Kossuth,GW SN,President,,Kamala D. Harris and Tim Walz,DEM,26,17,9
+Kossuth,HB LY LN SF,President,,Kamala D. Harris and Tim Walz,DEM,93,45,48
+Kossuth,IV,President,,Kamala D. Harris and Tim Walz,DEM,30,26,4
+Kossuth,LV SM,President,,Kamala D. Harris and Tim Walz,DEM,49,12,37
+Kossuth,PC,President,,Kamala D. Harris and Tim Walz,DEM,46,25,21
+Kossuth,PR WL,President,,Kamala D. Harris and Tim Walz,DEM,86,31,55
+Kossuth,RM,President,,Kamala D. Harris and Tim Walz,DEM,111,41,70
+Kossuth,UN CR,President,,Kamala D. Harris and Tim Walz,DEM,61,39,22
+Kossuth,AL1,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,4,1
+Kossuth,AL2,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,11,6,5
+Kossuth,AL3,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,1,5
+Kossuth,AL4,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,2,2
+Kossuth,BF GM PT,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,7,2,5
+Kossuth,BT,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,0,4
+Kossuth,CR RV,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,2,1,1
+Kossuth,CR1,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,2,0,2
+Kossuth,CR2,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,1,0,1
+Kossuth,EG GT HS SW,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,7,0,7
+Kossuth,FT LC,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,2,0,2
+Kossuth,GF WM,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,3,1,2
+Kossuth,GW SN,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,0,0,0
+Kossuth,HB LY LN SF,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,7,3,4
+Kossuth,IV,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,0,0,0
+Kossuth,LV SM,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,0,6
+Kossuth,PC,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,3,0,3
+Kossuth,PR WL,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,3,1
+Kossuth,RM,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,3,1,2
+Kossuth,UN CR,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,1,1,0
+Kossuth,AL1,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,AL2,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,AL3,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,AL4,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,BF GM PT,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,BT,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,CR RV,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,CR1,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,CR2,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,EG GT HS SW,President,,Shiva Ayyadurai and Crystal Ellis,,1,0,1
+Kossuth,FT LC,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,GF WM,President,,Shiva Ayyadurai and Crystal Ellis,,1,0,1
+Kossuth,GW SN,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,HB LY LN SF,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,IV,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,LV SM,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,PC,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,PR WL,President,,Shiva Ayyadurai and Crystal Ellis,,1,0,1
+Kossuth,RM,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,UN CR,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Kossuth,AL1,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,AL2,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,AL3,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,AL4,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,BF GM PT,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,BT,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,CR RV,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,CR1,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,CR2,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,EG GT HS SW,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,FT LC,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,GF WM,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,GW SN,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,HB LY LN SF,President,,William P. Stodden and Stephanie H. Cholensky,SPU,1,0,1
+Kossuth,IV,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,LV SM,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,PC,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,PR WL,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,RM,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,UN CR,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Kossuth,AL1,President,,Write-In,,3,2,1
+Kossuth,AL2,President,,Write-In,,2,1,1
+Kossuth,AL3,President,,Write-In,,5,2,3
+Kossuth,AL4,President,,Write-In,,2,0,2
+Kossuth,BF GM PT,President,,Write-In,,0,0,0
+Kossuth,BT,President,,Write-In,,0,0,0
+Kossuth,CR RV,President,,Write-In,,0,0,0
+Kossuth,CR1,President,,Write-In,,0,0,0
+Kossuth,CR2,President,,Write-In,,0,0,0
+Kossuth,EG GT HS SW,President,,Write-In,,1,0,1
+Kossuth,FT LC,President,,Write-In,,0,0,0
+Kossuth,GF WM,President,,Write-In,,0,0,0
+Kossuth,GW SN,President,,Write-In,,1,1,0
+Kossuth,HB LY LN SF,President,,Write-In,,1,1,0
+Kossuth,IV,President,,Write-In,,1,0,1
+Kossuth,LV SM,President,,Write-In,,2,0,2
+Kossuth,PC,President,,Write-In,,0,0,0
+Kossuth,PR WL,President,,Write-In,,1,1,0
+Kossuth,RM,President,,Write-In,,1,1,0
+Kossuth,UN CR,President,,Write-In,,1,0,1
+Kossuth,AL1,Soil and Water Conservation District Commissioner,,Billie Wille,,488,260,228
+Kossuth,AL2,Soil and Water Conservation District Commissioner,,Billie Wille,,687,361,326
+Kossuth,AL3,Soil and Water Conservation District Commissioner,,Billie Wille,,504,200,304
+Kossuth,AL4,Soil and Water Conservation District Commissioner,,Billie Wille,,469,231,238
+Kossuth,BF GM PT,Soil and Water Conservation District Commissioner,,Billie Wille,,410,122,288
+Kossuth,BT,Soil and Water Conservation District Commissioner,,Billie Wille,,280,92,188
+Kossuth,CR RV,Soil and Water Conservation District Commissioner,,Billie Wille,,297,153,144
+Kossuth,CR1,Soil and Water Conservation District Commissioner,,Billie Wille,,121,65,56
+Kossuth,CR2,Soil and Water Conservation District Commissioner,,Billie Wille,,137,80,57
+Kossuth,EG GT HS SW,Soil and Water Conservation District Commissioner,,Billie Wille,,365,76,289
+Kossuth,FT LC,Soil and Water Conservation District Commissioner,,Billie Wille,,250,99,151
+Kossuth,GF WM,Soil and Water Conservation District Commissioner,,Billie Wille,,379,106,273
+Kossuth,GW SN,Soil and Water Conservation District Commissioner,,Billie Wille,,125,39,86
+Kossuth,HB LY LN SF,Soil and Water Conservation District Commissioner,,Billie Wille,,249,73,176
+Kossuth,IV,Soil and Water Conservation District Commissioner,,Billie Wille,,126,78,48
+Kossuth,LV SM,Soil and Water Conservation District Commissioner,,Billie Wille,,190,41,149
+Kossuth,PC,Soil and Water Conservation District Commissioner,,Billie Wille,,183,94,89
+Kossuth,PR WL,Soil and Water Conservation District Commissioner,,Billie Wille,,272,75,197
+Kossuth,RM,Soil and Water Conservation District Commissioner,,Billie Wille,,352,91,261
+Kossuth,UN CR,Soil and Water Conservation District Commissioner,,Billie Wille,,166,76,90
+Kossuth,AL1,Soil and Water Conservation District Commissioner,,Charles Legler,,336,187,149
+Kossuth,AL2,Soil and Water Conservation District Commissioner,,Charles Legler,,507,269,238
+Kossuth,AL3,Soil and Water Conservation District Commissioner,,Charles Legler,,333,141,192
+Kossuth,AL4,Soil and Water Conservation District Commissioner,,Charles Legler,,339,166,173
+Kossuth,BF GM PT,Soil and Water Conservation District Commissioner,,Charles Legler,,330,103,227
+Kossuth,BT,Soil and Water Conservation District Commissioner,,Charles Legler,,200,71,129
+Kossuth,CR RV,Soil and Water Conservation District Commissioner,,Charles Legler,,216,111,105
+Kossuth,CR1,Soil and Water Conservation District Commissioner,,Charles Legler,,92,46,46
+Kossuth,CR2,Soil and Water Conservation District Commissioner,,Charles Legler,,91,53,38
+Kossuth,EG GT HS SW,Soil and Water Conservation District Commissioner,,Charles Legler,,282,62,220
+Kossuth,FT LC,Soil and Water Conservation District Commissioner,,Charles Legler,,173,76,97
+Kossuth,GF WM,Soil and Water Conservation District Commissioner,,Charles Legler,,291,75,216
+Kossuth,GW SN,Soil and Water Conservation District Commissioner,,Charles Legler,,100,34,66
+Kossuth,HB LY LN SF,Soil and Water Conservation District Commissioner,,Charles Legler,,198,54,144
+Kossuth,IV,Soil and Water Conservation District Commissioner,,Charles Legler,,87,49,38
+Kossuth,LV SM,Soil and Water Conservation District Commissioner,,Charles Legler,,200,42,158
+Kossuth,PC,Soil and Water Conservation District Commissioner,,Charles Legler,,139,63,76
+Kossuth,PR WL,Soil and Water Conservation District Commissioner,,Charles Legler,,228,58,170
+Kossuth,RM,Soil and Water Conservation District Commissioner,,Charles Legler,,233,72,161
+Kossuth,UN CR,Soil and Water Conservation District Commissioner,,Charles Legler,,106,53,53
+Kossuth,AL1,Soil and Water Conservation District Commissioner,,Mike Smidt,,386,204,182
+Kossuth,AL2,Soil and Water Conservation District Commissioner,,Mike Smidt,,546,281,265
+Kossuth,AL3,Soil and Water Conservation District Commissioner,,Mike Smidt,,399,170,229
+Kossuth,AL4,Soil and Water Conservation District Commissioner,,Mike Smidt,,409,204,205
+Kossuth,BF GM PT,Soil and Water Conservation District Commissioner,,Mike Smidt,,464,132,332
+Kossuth,BT,Soil and Water Conservation District Commissioner,,Mike Smidt,,266,75,191
+Kossuth,CR RV,Soil and Water Conservation District Commissioner,,Mike Smidt,,227,113,114
+Kossuth,CR1,Soil and Water Conservation District Commissioner,,Mike Smidt,,100,50,50
+Kossuth,CR2,Soil and Water Conservation District Commissioner,,Mike Smidt,,101,61,40
+Kossuth,EG GT HS SW,Soil and Water Conservation District Commissioner,,Mike Smidt,,337,73,264
+Kossuth,FT LC,Soil and Water Conservation District Commissioner,,Mike Smidt,,222,88,134
+Kossuth,GF WM,Soil and Water Conservation District Commissioner,,Mike Smidt,,322,87,235
+Kossuth,GW SN,Soil and Water Conservation District Commissioner,,Mike Smidt,,122,39,83
+Kossuth,HB LY LN SF,Soil and Water Conservation District Commissioner,,Mike Smidt,,300,75,225
+Kossuth,IV,Soil and Water Conservation District Commissioner,,Mike Smidt,,101,59,42
+Kossuth,LV SM,Soil and Water Conservation District Commissioner,,Mike Smidt,,165,36,129
+Kossuth,PC,Soil and Water Conservation District Commissioner,,Mike Smidt,,154,77,77
+Kossuth,PR WL,Soil and Water Conservation District Commissioner,,Mike Smidt,,256,68,188
+Kossuth,RM,Soil and Water Conservation District Commissioner,,Mike Smidt,,324,91,233
+Kossuth,UN CR,Soil and Water Conservation District Commissioner,,Mike Smidt,,139,69,70
+Kossuth,AL1,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Kossuth,AL2,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Kossuth,AL3,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Kossuth,AL4,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Kossuth,BF GM PT,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Kossuth,BT,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Kossuth,CR RV,Soil and Water Conservation District Commissioner,,Write-In,,2,2,0
+Kossuth,CR1,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Kossuth,CR2,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Kossuth,EG GT HS SW,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Kossuth,FT LC,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Kossuth,GF WM,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Kossuth,GW SN,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Kossuth,HB LY LN SF,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Kossuth,IV,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Kossuth,LV SM,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Kossuth,PC,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Kossuth,PR WL,Soil and Water Conservation District Commissioner,,Write-In,,7,1,6
+Kossuth,RM,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Kossuth,UN CR,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Kossuth,CR RV,State House,10,John H. Wills,REP,304,159,145
+Kossuth,CR1,State House,10,John H. Wills,REP,122,61,61
+Kossuth,CR2,State House,10,John H. Wills,REP,130,69,61
+Kossuth,FT LC,State House,10,John H. Wills,REP,297,107,190
+Kossuth,GF WM,State House,10,John H. Wills,REP,453,113,340
+Kossuth,UN CR,State House,10,John H. Wills,REP,158,62,96
+Kossuth,CR RV,State House,10,Write-In,,3,0,3
+Kossuth,CR1,State House,10,Write-In,,3,3,0
+Kossuth,CR2,State House,10,Write-In,,1,1,0
+Kossuth,FT LC,State House,10,Write-In,,1,1,0
+Kossuth,GF WM,State House,10,Write-In,,5,1,4
+Kossuth,UN CR,State House,10,Write-In,,1,1,0
+Kossuth,AL1,State House,9,Christian He-Man Schlaerth,DEM,232,134,98
+Kossuth,AL2,State House,9,Christian He-Man Schlaerth,DEM,222,131,91
+Kossuth,AL3,State House,9,Christian He-Man Schlaerth,DEM,205,100,105
+Kossuth,AL4,State House,9,Christian He-Man Schlaerth,DEM,197,117,80
+Kossuth,BF GM PT,State House,9,Christian He-Man Schlaerth,DEM,113,47,66
+Kossuth,BT,State House,9,Christian He-Man Schlaerth,DEM,119,56,63
+Kossuth,EG GT HS SW,State House,9,Christian He-Man Schlaerth,DEM,86,34,52
+Kossuth,GW SN,State House,9,Christian He-Man Schlaerth,DEM,24,15,9
+Kossuth,HB LY LN SF,State House,9,Christian He-Man Schlaerth,DEM,73,33,40
+Kossuth,IV,State House,9,Christian He-Man Schlaerth,DEM,28,23,5
+Kossuth,LV SM,State House,9,Christian He-Man Schlaerth,DEM,41,8,33
+Kossuth,PC,State House,9,Christian He-Man Schlaerth,DEM,37,21,16
+Kossuth,PR WL,State House,9,Christian He-Man Schlaerth,DEM,76,28,48
+Kossuth,RM,State House,9,Christian He-Man Schlaerth,DEM,87,36,51
+Kossuth,AL1,State House,9,Henry Stone,REP,373,185,188
+Kossuth,AL2,State House,9,Henry Stone,REP,579,279,300
+Kossuth,AL3,State House,9,Henry Stone,REP,435,174,261
+Kossuth,AL4,State House,9,Henry Stone,REP,392,171,221
+Kossuth,BF GM PT,State House,9,Henry Stone,REP,475,123,352
+Kossuth,BT,State House,9,Henry Stone,REP,275,73,202
+Kossuth,EG GT HS SW,State House,9,Henry Stone,REP,482,88,394
+Kossuth,GW SN,State House,9,Henry Stone,REP,141,39,102
+Kossuth,HB LY LN SF,State House,9,Henry Stone,REP,340,85,255
+Kossuth,IV,State House,9,Henry Stone,REP,116,62,54
+Kossuth,LV SM,State House,9,Henry Stone,REP,224,41,183
+Kossuth,PC,State House,9,Henry Stone,REP,172,86,86
+Kossuth,PR WL,State House,9,Henry Stone,REP,298,67,231
+Kossuth,RM,State House,9,Henry Stone,REP,376,86,290
+Kossuth,AL1,State House,9,Write-In,,1,0,1
+Kossuth,AL2,State House,9,Write-In,,1,0,1
+Kossuth,AL3,State House,9,Write-In,,0,0,0
+Kossuth,AL4,State House,9,Write-In,,1,0,1
+Kossuth,BF GM PT,State House,9,Write-In,,0,0,0
+Kossuth,BT,State House,9,Write-In,,0,0,0
+Kossuth,EG GT HS SW,State House,9,Write-In,,1,0,1
+Kossuth,GW SN,State House,9,Write-In,,0,0,0
+Kossuth,HB LY LN SF,State House,9,Write-In,,0,0,0
+Kossuth,IV,State House,9,Write-In,,0,0,0
+Kossuth,LV SM,State House,9,Write-In,,0,0,0
+Kossuth,PC,State House,9,Write-In,,1,0,1
+Kossuth,PR WL,State House,9,Write-In,,1,1,0
+Kossuth,RM,State House,9,Write-In,,0,0,0
+Kossuth,AL1,Supreme Court Justice - David May,,No,,159,82,77
+Kossuth,AL2,Supreme Court Justice - David May,,No,,178,87,91
+Kossuth,AL3,Supreme Court Justice - David May,,No,,147,79,68
+Kossuth,AL4,Supreme Court Justice - David May,,No,,158,89,69
+Kossuth,BF GM PT,Supreme Court Justice - David May,,No,,135,44,91
+Kossuth,BT,Supreme Court Justice - David May,,No,,91,33,58
+Kossuth,CR RV,Supreme Court Justice - David May,,No,,73,35,38
+Kossuth,CR1,Supreme Court Justice - David May,,No,,33,22,11
+Kossuth,CR2,Supreme Court Justice - David May,,No,,41,32,9
+Kossuth,EG GT HS SW,Supreme Court Justice - David May,,No,,98,21,77
+Kossuth,FT LC,Supreme Court Justice - David May,,No,,76,32,44
+Kossuth,GF WM,Supreme Court Justice - David May,,No,,130,39,91
+Kossuth,GW SN,Supreme Court Justice - David May,,No,,30,12,18
+Kossuth,HB LY LN SF,Supreme Court Justice - David May,,No,,86,32,54
+Kossuth,IV,Supreme Court Justice - David May,,No,,28,16,12
+Kossuth,LV SM,Supreme Court Justice - David May,,No,,68,15,53
+Kossuth,PC,Supreme Court Justice - David May,,No,,41,25,16
+Kossuth,PR WL,Supreme Court Justice - David May,,No,,104,32,72
+Kossuth,RM,Supreme Court Justice - David May,,No,,91,31,60
+Kossuth,UN CR,Supreme Court Justice - David May,,No,,54,26,28
+Kossuth,AL1,Supreme Court Justice - David May,,Yes,,370,190,180
+Kossuth,AL2,Supreme Court Justice - David May,,Yes,,485,247,238
+Kossuth,AL3,Supreme Court Justice - David May,,Yes,,414,153,261
+Kossuth,AL4,Supreme Court Justice - David May,,Yes,,356,149,207
+Kossuth,BF GM PT,Supreme Court Justice - David May,,Yes,,368,103,265
+Kossuth,BT,Supreme Court Justice - David May,,Yes,,234,74,160
+Kossuth,CR RV,Supreme Court Justice - David May,,Yes,,222,108,114
+Kossuth,CR1,Supreme Court Justice - David May,,Yes,,86,38,48
+Kossuth,CR2,Supreme Court Justice - David May,,Yes,,84,42,42
+Kossuth,EG GT HS SW,Supreme Court Justice - David May,,Yes,,382,73,309
+Kossuth,FT LC,Supreme Court Justice - David May,,Yes,,208,84,124
+Kossuth,GF WM,Supreme Court Justice - David May,,Yes,,308,77,231
+Kossuth,GW SN,Supreme Court Justice - David May,,Yes,,117,31,86
+Kossuth,HB LY LN SF,Supreme Court Justice - David May,,Yes,,247,62,185
+Kossuth,IV,Supreme Court Justice - David May,,Yes,,78,42,36
+Kossuth,LV SM,Supreme Court Justice - David May,,Yes,,140,25,115
+Kossuth,PC,Supreme Court Justice - David May,,Yes,,134,62,72
+Kossuth,PR WL,Supreme Court Justice - David May,,Yes,,227,47,180
+Kossuth,RM,Supreme Court Justice - David May,,Yes,,298,72,226
+Kossuth,UN CR,Supreme Court Justice - David May,,Yes,,128,59,69
+Kossuth,AL1,U.S. House,4,Randy Feenstra,REP,372,183,189
+Kossuth,AL2,U.S. House,4,Randy Feenstra,REP,560,273,287
+Kossuth,AL3,U.S. House,4,Randy Feenstra,REP,421,163,258
+Kossuth,AL4,U.S. House,4,Randy Feenstra,REP,376,166,210
+Kossuth,BF GM PT,U.S. House,4,Randy Feenstra,REP,458,121,337
+Kossuth,BT,U.S. House,4,Randy Feenstra,REP,276,74,202
+Kossuth,CR RV,U.S. House,4,Randy Feenstra,REP,258,134,124
+Kossuth,CR1,U.S. House,4,Randy Feenstra,REP,114,57,57
+Kossuth,CR2,U.S. House,4,Randy Feenstra,REP,109,56,53
+Kossuth,EG GT HS SW,U.S. House,4,Randy Feenstra,REP,474,84,390
+Kossuth,FT LC,U.S. House,4,Randy Feenstra,REP,274,94,180
+Kossuth,GF WM,U.S. House,4,Randy Feenstra,REP,412,100,312
+Kossuth,GW SN,U.S. House,4,Randy Feenstra,REP,140,40,100
+Kossuth,HB LY LN SF,U.S. House,4,Randy Feenstra,REP,336,84,252
+Kossuth,IV,U.S. House,4,Randy Feenstra,REP,110,57,53
+Kossuth,LV SM,U.S. House,4,Randy Feenstra,REP,226,40,186
+Kossuth,PC,U.S. House,4,Randy Feenstra,REP,173,87,86
+Kossuth,PR WL,U.S. House,4,Randy Feenstra,REP,290,65,225
+Kossuth,RM,U.S. House,4,Randy Feenstra,REP,373,88,285
+Kossuth,UN CR,U.S. House,4,Randy Feenstra,REP,154,59,95
+Kossuth,AL1,U.S. House,4,Ryan Melton,DEM,255,149,106
+Kossuth,AL2,U.S. House,4,Ryan Melton,DEM,258,149,109
+Kossuth,AL3,U.S. House,4,Ryan Melton,DEM,230,113,117
+Kossuth,AL4,U.S. House,4,Ryan Melton,DEM,216,122,94
+Kossuth,BF GM PT,U.S. House,4,Ryan Melton,DEM,137,54,83
+Kossuth,BT,U.S. House,4,Ryan Melton,DEM,130,59,71
+Kossuth,CR RV,U.S. House,4,Ryan Melton,DEM,102,60,42
+Kossuth,CR1,U.S. House,4,Ryan Melton,DEM,26,16,10
+Kossuth,CR2,U.S. House,4,Ryan Melton,DEM,49,35,14
+Kossuth,EG GT HS SW,U.S. House,4,Ryan Melton,DEM,99,41,58
+Kossuth,FT LC,U.S. House,4,Ryan Melton,DEM,82,43,39
+Kossuth,GF WM,U.S. House,4,Ryan Melton,DEM,124,46,78
+Kossuth,GW SN,U.S. House,4,Ryan Melton,DEM,31,16,15
+Kossuth,HB LY LN SF,U.S. House,4,Ryan Melton,DEM,83,38,45
+Kossuth,IV,U.S. House,4,Ryan Melton,DEM,31,25,6
+Kossuth,LV SM,U.S. House,4,Ryan Melton,DEM,51,11,40
+Kossuth,PC,U.S. House,4,Ryan Melton,DEM,43,23,20
+Kossuth,PR WL,U.S. House,4,Ryan Melton,DEM,89,32,57
+Kossuth,RM,U.S. House,4,Ryan Melton,DEM,101,39,62
+Kossuth,UN CR,U.S. House,4,Ryan Melton,DEM,59,39,20
+Kossuth,AL1,U.S. House,4,Write-In,,2,1,1
+Kossuth,AL2,U.S. House,4,Write-In,,1,0,1
+Kossuth,AL3,U.S. House,4,Write-In,,0,0,0
+Kossuth,AL4,U.S. House,4,Write-In,,1,0,1
+Kossuth,BF GM PT,U.S. House,4,Write-In,,2,0,2
+Kossuth,BT,U.S. House,4,Write-In,,0,0,0
+Kossuth,CR RV,U.S. House,4,Write-In,,1,1,0
+Kossuth,CR1,U.S. House,4,Write-In,,1,0,1
+Kossuth,CR2,U.S. House,4,Write-In,,0,0,0
+Kossuth,EG GT HS SW,U.S. House,4,Write-In,,1,0,1
+Kossuth,FT LC,U.S. House,4,Write-In,,1,0,1
+Kossuth,GF WM,U.S. House,4,Write-In,,1,0,1
+Kossuth,GW SN,U.S. House,4,Write-In,,0,0,0
+Kossuth,HB LY LN SF,U.S. House,4,Write-In,,1,0,1
+Kossuth,IV,U.S. House,4,Write-In,,1,0,1
+Kossuth,LV SM,U.S. House,4,Write-In,,1,0,1
+Kossuth,PC,U.S. House,4,Write-In,,0,0,0
+Kossuth,PR WL,U.S. House,4,Write-In,,2,0,2
+Kossuth,RM,U.S. House,4,Write-In,,1,0,1
+Kossuth,UN CR,U.S. House,4,Write-In,,0,0,0

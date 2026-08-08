@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2016,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "president",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
+    "geographic_precision": "precinct_crosswalk",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_verified/2016_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 177850,
+        "rep_votes": 189883,
+        "other_votes": 28895,
+        "total_votes": 396628,
+        "dem_candidate": "Hillary Clinton",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 12033,
+        "margin_pct": 3.0338251459806167,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "2": {
+        "dem_votes": 180282,
+        "rep_votes": 198955,
+        "other_votes": 29447,
+        "total_votes": 408684,
+        "dem_candidate": "Hillary Clinton",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 18673,
+        "margin_pct": 4.569055798612131,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "3": {
+        "dem_votes": 165874,
+        "rep_votes": 177109,
+        "other_votes": 27243,
+        "total_votes": 370226,
+        "dem_candidate": "Hillary Clinton",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 11235,
+        "margin_pct": 3.0346328999043823,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "4": {
+        "dem_votes": 129663,
+        "rep_votes": 235036,
+        "other_votes": 25794,
+        "total_votes": 390493,
+        "dem_candidate": "Hillary Clinton",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 105373,
+        "margin_pct": 26.984606638275206,
+        "winner": "REP",
+        "color": "#cb181d"
+      }
+    }
+  }
+}

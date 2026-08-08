@@ -1,0 +1,2385 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Pottawattamie,OAKLAND,Belknap Township Trustee,,Gary Nilan,,76,23,53
+Pottawattamie,OAKLAND,Belknap Township Trustee,,Phillip R McMartin,,69,22,47
+Pottawattamie,OAKLAND,Belknap Township Trustee,,Write-In,,3,2,1
+Pottawattamie,BOOMER,Boomer Township Trustee,,Andrew Oberdorfer,,229,90,139
+Pottawattamie,BOOMER,Boomer Township Trustee,,Duane Witt,,359,141,218
+Pottawattamie,BOOMER,Boomer Township Trustee,,Write-In,,3,2,1
+Pottawattamie,CARSON,Carson Township Trustee,,Randall Hotze,,70,20,50
+Pottawattamie,CARSON,Carson Township Trustee,,Steven Brumley,,72,18,54
+Pottawattamie,CARSON,Carson Township Trustee,,Write-In,,1,1,0
+Pottawattamie,CARSON,Center Township Trustee,,Write-In,,16,4,12
+Pottawattamie,AVOCA,Constitutional Amendment 1,,No,,185,39,146
+Pottawattamie,BOOMER,Constitutional Amendment 1,,No,,122,48,74
+Pottawattamie,CARSON,Constitutional Amendment 1,,No,,129,25,104
+Pottawattamie,CARTER LAKE 1,Constitutional Amendment 1,,No,,119,32,87
+Pottawattamie,CARTER LAKE 2,Constitutional Amendment 1,,No,,109,29,80
+Pottawattamie,CB 01,Constitutional Amendment 1,,No,,158,48,110
+Pottawattamie,CB 02,Constitutional Amendment 1,,No,,171,53,118
+Pottawattamie,CB 03,Constitutional Amendment 1,,No,,144,61,83
+Pottawattamie,CB 04,Constitutional Amendment 1,,No,,130,60,70
+Pottawattamie,CB 05,Constitutional Amendment 1,,No,,154,75,79
+Pottawattamie,CB 06,Constitutional Amendment 1,,No,,256,92,164
+Pottawattamie,CB 07,Constitutional Amendment 1,,No,,298,136,162
+Pottawattamie,CB 08,Constitutional Amendment 1,,No,,324,149,175
+Pottawattamie,CB 09,Constitutional Amendment 1,,No,,240,117,123
+Pottawattamie,CB 10,Constitutional Amendment 1,,No,,300,146,154
+Pottawattamie,CB 11,Constitutional Amendment 1,,No,,282,113,169
+Pottawattamie,CB 12,Constitutional Amendment 1,,No,,265,97,168
+Pottawattamie,CB 13,Constitutional Amendment 1,,No,,129,60,69
+Pottawattamie,CB 14,Constitutional Amendment 1,,No,,129,42,87
+Pottawattamie,CB 15,Constitutional Amendment 1,,No,,123,65,58
+Pottawattamie,CB 16,Constitutional Amendment 1,,No,,144,39,105
+Pottawattamie,CB 17,Constitutional Amendment 1,,No,,205,66,139
+Pottawattamie,CB 18,Constitutional Amendment 1,,No,,172,62,110
+Pottawattamie,CB 19,Constitutional Amendment 1,,No,,142,67,75
+Pottawattamie,CB 20,Constitutional Amendment 1,,No,,158,64,94
+Pottawattamie,CB 21,Constitutional Amendment 1,,No,,115,37,78
+Pottawattamie,CB 22,Constitutional Amendment 1,,No,,342,160,182
+Pottawattamie,CRESCENT,Constitutional Amendment 1,,No,,298,137,161
+Pottawattamie,GARNER,Constitutional Amendment 1,,No,,323,123,200
+Pottawattamie,HANCOCK,Constitutional Amendment 1,,No,,29,5,24
+Pottawattamie,LEWIS 1,Constitutional Amendment 1,,No,,200,61,139
+Pottawattamie,LEWIS 2,Constitutional Amendment 1,,No,,259,115,144
+Pottawattamie,MACEDONIA,Constitutional Amendment 1,,No,,46,12,34
+Pottawattamie,MCCLELLAND,Constitutional Amendment 1,,No,,19,5,14
+Pottawattamie,MINDEN,Constitutional Amendment 1,,No,,106,16,90
+Pottawattamie,NEOLA,Constitutional Amendment 1,,No,,92,15,77
+Pottawattamie,OAKLAND,Constitutional Amendment 1,,No,,177,42,135
+Pottawattamie,TREYNOR,Constitutional Amendment 1,,No,,276,76,200
+Pottawattamie,UNDERWOOD,Constitutional Amendment 1,,No,,287,98,189
+Pottawattamie,WALNUT,Constitutional Amendment 1,,No,,81,12,69
+Pottawattamie,AVOCA,Constitutional Amendment 1,,Yes,,841,131,710
+Pottawattamie,BOOMER,Constitutional Amendment 1,,Yes,,490,170,320
+Pottawattamie,CARSON,Constitutional Amendment 1,,Yes,,660,144,516
+Pottawattamie,CARTER LAKE 1,Constitutional Amendment 1,,Yes,,595,126,469
+Pottawattamie,CARTER LAKE 2,Constitutional Amendment 1,,Yes,,560,125,435
+Pottawattamie,CB 01,Constitutional Amendment 1,,Yes,,573,181,392
+Pottawattamie,CB 02,Constitutional Amendment 1,,Yes,,845,301,544
+Pottawattamie,CB 03,Constitutional Amendment 1,,Yes,,717,231,486
+Pottawattamie,CB 04,Constitutional Amendment 1,,Yes,,663,258,405
+Pottawattamie,CB 05,Constitutional Amendment 1,,Yes,,690,306,384
+Pottawattamie,CB 06,Constitutional Amendment 1,,Yes,,1082,477,605
+Pottawattamie,CB 07,Constitutional Amendment 1,,Yes,,1015,387,628
+Pottawattamie,CB 08,Constitutional Amendment 1,,Yes,,1229,514,715
+Pottawattamie,CB 09,Constitutional Amendment 1,,Yes,,1071,546,525
+Pottawattamie,CB 10,Constitutional Amendment 1,,Yes,,1369,599,770
+Pottawattamie,CB 11,Constitutional Amendment 1,,Yes,,978,315,663
+Pottawattamie,CB 12,Constitutional Amendment 1,,Yes,,1023,384,639
+Pottawattamie,CB 13,Constitutional Amendment 1,,Yes,,529,213,316
+Pottawattamie,CB 14,Constitutional Amendment 1,,Yes,,592,185,407
+Pottawattamie,CB 15,Constitutional Amendment 1,,Yes,,620,236,384
+Pottawattamie,CB 16,Constitutional Amendment 1,,Yes,,763,251,512
+Pottawattamie,CB 17,Constitutional Amendment 1,,Yes,,877,274,603
+Pottawattamie,CB 18,Constitutional Amendment 1,,Yes,,823,240,583
+Pottawattamie,CB 19,Constitutional Amendment 1,,Yes,,689,325,364
+Pottawattamie,CB 20,Constitutional Amendment 1,,Yes,,687,238,449
+Pottawattamie,CB 21,Constitutional Amendment 1,,Yes,,656,237,419
+Pottawattamie,CB 22,Constitutional Amendment 1,,Yes,,1634,692,942
+Pottawattamie,CRESCENT,Constitutional Amendment 1,,Yes,,1223,551,672
+Pottawattamie,GARNER,Constitutional Amendment 1,,Yes,,1530,632,898
+Pottawattamie,HANCOCK,Constitutional Amendment 1,,Yes,,162,21,141
+Pottawattamie,LEWIS 1,Constitutional Amendment 1,,Yes,,1002,367,635
+Pottawattamie,LEWIS 2,Constitutional Amendment 1,,Yes,,1143,463,680
+Pottawattamie,MACEDONIA,Constitutional Amendment 1,,Yes,,264,54,210
+Pottawattamie,MCCLELLAND,Constitutional Amendment 1,,Yes,,67,5,62
+Pottawattamie,MINDEN,Constitutional Amendment 1,,Yes,,554,111,443
+Pottawattamie,NEOLA,Constitutional Amendment 1,,Yes,,361,57,304
+Pottawattamie,OAKLAND,Constitutional Amendment 1,,Yes,,869,204,665
+Pottawattamie,TREYNOR,Constitutional Amendment 1,,Yes,,1320,365,955
+Pottawattamie,UNDERWOOD,Constitutional Amendment 1,,Yes,,1335,359,976
+Pottawattamie,WALNUT,Constitutional Amendment 1,,Yes,,435,43,392
+Pottawattamie,AVOCA,Constitutional Amendment 2,,No,,144,31,113
+Pottawattamie,BOOMER,Constitutional Amendment 2,,No,,79,37,42
+Pottawattamie,CARSON,Constitutional Amendment 2,,No,,103,18,85
+Pottawattamie,CARTER LAKE 1,Constitutional Amendment 2,,No,,102,29,73
+Pottawattamie,CARTER LAKE 2,Constitutional Amendment 2,,No,,96,25,71
+Pottawattamie,CB 01,Constitutional Amendment 2,,No,,131,44,87
+Pottawattamie,CB 02,Constitutional Amendment 2,,No,,143,54,89
+Pottawattamie,CB 03,Constitutional Amendment 2,,No,,128,52,76
+Pottawattamie,CB 04,Constitutional Amendment 2,,No,,129,54,75
+Pottawattamie,CB 05,Constitutional Amendment 2,,No,,127,60,67
+Pottawattamie,CB 06,Constitutional Amendment 2,,No,,226,92,134
+Pottawattamie,CB 07,Constitutional Amendment 2,,No,,230,103,127
+Pottawattamie,CB 08,Constitutional Amendment 2,,No,,285,136,149
+Pottawattamie,CB 09,Constitutional Amendment 2,,No,,171,93,78
+Pottawattamie,CB 10,Constitutional Amendment 2,,No,,239,120,119
+Pottawattamie,CB 11,Constitutional Amendment 2,,No,,247,103,144
+Pottawattamie,CB 12,Constitutional Amendment 2,,No,,214,88,126
+Pottawattamie,CB 13,Constitutional Amendment 2,,No,,106,46,60
+Pottawattamie,CB 14,Constitutional Amendment 2,,No,,130,41,89
+Pottawattamie,CB 15,Constitutional Amendment 2,,No,,107,48,59
+Pottawattamie,CB 16,Constitutional Amendment 2,,No,,137,44,93
+Pottawattamie,CB 17,Constitutional Amendment 2,,No,,157,51,106
+Pottawattamie,CB 18,Constitutional Amendment 2,,No,,143,45,98
+Pottawattamie,CB 19,Constitutional Amendment 2,,No,,102,55,47
+Pottawattamie,CB 20,Constitutional Amendment 2,,No,,116,51,65
+Pottawattamie,CB 21,Constitutional Amendment 2,,No,,134,39,95
+Pottawattamie,CB 22,Constitutional Amendment 2,,No,,280,124,156
+Pottawattamie,CRESCENT,Constitutional Amendment 2,,No,,220,104,116
+Pottawattamie,GARNER,Constitutional Amendment 2,,No,,244,106,138
+Pottawattamie,HANCOCK,Constitutional Amendment 2,,No,,17,3,14
+Pottawattamie,LEWIS 1,Constitutional Amendment 2,,No,,166,60,106
+Pottawattamie,LEWIS 2,Constitutional Amendment 2,,No,,191,92,99
+Pottawattamie,MACEDONIA,Constitutional Amendment 2,,No,,30,10,20
+Pottawattamie,MCCLELLAND,Constitutional Amendment 2,,No,,9,0,9
+Pottawattamie,MINDEN,Constitutional Amendment 2,,No,,66,7,59
+Pottawattamie,NEOLA,Constitutional Amendment 2,,No,,58,9,49
+Pottawattamie,OAKLAND,Constitutional Amendment 2,,No,,126,32,94
+Pottawattamie,TREYNOR,Constitutional Amendment 2,,No,,199,62,137
+Pottawattamie,UNDERWOOD,Constitutional Amendment 2,,No,,212,80,132
+Pottawattamie,WALNUT,Constitutional Amendment 2,,No,,72,9,63
+Pottawattamie,AVOCA,Constitutional Amendment 2,,Yes,,866,137,729
+Pottawattamie,BOOMER,Constitutional Amendment 2,,Yes,,518,171,347
+Pottawattamie,CARSON,Constitutional Amendment 2,,Yes,,689,153,536
+Pottawattamie,CARTER LAKE 1,Constitutional Amendment 2,,Yes,,597,124,473
+Pottawattamie,CARTER LAKE 2,Constitutional Amendment 2,,Yes,,561,128,433
+Pottawattamie,CB 01,Constitutional Amendment 2,,Yes,,589,184,405
+Pottawattamie,CB 02,Constitutional Amendment 2,,Yes,,862,296,566
+Pottawattamie,CB 03,Constitutional Amendment 2,,Yes,,720,237,483
+Pottawattamie,CB 04,Constitutional Amendment 2,,Yes,,654,258,396
+Pottawattamie,CB 05,Constitutional Amendment 2,,Yes,,708,317,391
+Pottawattamie,CB 06,Constitutional Amendment 2,,Yes,,1090,465,625
+Pottawattamie,CB 07,Constitutional Amendment 2,,Yes,,1057,410,647
+Pottawattamie,CB 08,Constitutional Amendment 2,,Yes,,1245,525,720
+Pottawattamie,CB 09,Constitutional Amendment 2,,Yes,,1133,566,567
+Pottawattamie,CB 10,Constitutional Amendment 2,,Yes,,1404,613,791
+Pottawattamie,CB 11,Constitutional Amendment 2,,Yes,,996,323,673
+Pottawattamie,CB 12,Constitutional Amendment 2,,Yes,,1065,388,677
+Pottawattamie,CB 13,Constitutional Amendment 2,,Yes,,532,221,311
+Pottawattamie,CB 14,Constitutional Amendment 2,,Yes,,589,185,404
+Pottawattamie,CB 15,Constitutional Amendment 2,,Yes,,627,254,373
+Pottawattamie,CB 16,Constitutional Amendment 2,,Yes,,758,246,512
+Pottawattamie,CB 17,Constitutional Amendment 2,,Yes,,915,284,631
+Pottawattamie,CB 18,Constitutional Amendment 2,,Yes,,841,253,588
+Pottawattamie,CB 19,Constitutional Amendment 2,,Yes,,723,342,381
+Pottawattamie,CB 20,Constitutional Amendment 2,,Yes,,719,252,467
+Pottawattamie,CB 21,Constitutional Amendment 2,,Yes,,635,232,403
+Pottawattamie,CB 22,Constitutional Amendment 2,,Yes,,1676,714,962
+Pottawattamie,CRESCENT,Constitutional Amendment 2,,Yes,,1285,579,706
+Pottawattamie,GARNER,Constitutional Amendment 2,,Yes,,1569,634,935
+Pottawattamie,HANCOCK,Constitutional Amendment 2,,Yes,,172,24,148
+Pottawattamie,LEWIS 1,Constitutional Amendment 2,,Yes,,1027,369,658
+Pottawattamie,LEWIS 2,Constitutional Amendment 2,,Yes,,1199,490,709
+Pottawattamie,MACEDONIA,Constitutional Amendment 2,,Yes,,278,56,222
+Pottawattamie,MCCLELLAND,Constitutional Amendment 2,,Yes,,79,10,69
+Pottawattamie,MINDEN,Constitutional Amendment 2,,Yes,,589,122,467
+Pottawattamie,NEOLA,Constitutional Amendment 2,,Yes,,387,62,325
+Pottawattamie,OAKLAND,Constitutional Amendment 2,,Yes,,907,213,694
+Pottawattamie,TREYNOR,Constitutional Amendment 2,,Yes,,1366,369,997
+Pottawattamie,UNDERWOOD,Constitutional Amendment 2,,Yes,,1393,372,1021
+Pottawattamie,WALNUT,Constitutional Amendment 2,,Yes,,440,46,394
+Pottawattamie,AVOCA,County Agricultural Extension Council East Pottawattamie,,Andrew Messerschmidt,,742,121,621
+Pottawattamie,CARSON,County Agricultural Extension Council East Pottawattamie,,Andrew Messerschmidt,,594,128,466
+Pottawattamie,HANCOCK,County Agricultural Extension Council East Pottawattamie,,Andrew Messerschmidt,,158,23,135
+Pottawattamie,MACEDONIA,County Agricultural Extension Council East Pottawattamie,,Andrew Messerschmidt,,229,50,179
+Pottawattamie,OAKLAND,County Agricultural Extension Council East Pottawattamie,,Andrew Messerschmidt,,834,181,653
+Pottawattamie,WALNUT,County Agricultural Extension Council East Pottawattamie,,Andrew Messerschmidt,,367,40,327
+Pottawattamie,AVOCA,County Agricultural Extension Council East Pottawattamie,,Christie Matthies,,674,114,560
+Pottawattamie,CARSON,County Agricultural Extension Council East Pottawattamie,,Christie Matthies,,488,106,382
+Pottawattamie,HANCOCK,County Agricultural Extension Council East Pottawattamie,,Christie Matthies,,126,21,105
+Pottawattamie,MACEDONIA,County Agricultural Extension Council East Pottawattamie,,Christie Matthies,,203,44,159
+Pottawattamie,OAKLAND,County Agricultural Extension Council East Pottawattamie,,Christie Matthies,,660,142,518
+Pottawattamie,WALNUT,County Agricultural Extension Council East Pottawattamie,,Christie Matthies,,402,40,362
+Pottawattamie,AVOCA,County Agricultural Extension Council East Pottawattamie,,Devin Schroder,,770,119,651
+Pottawattamie,CARSON,County Agricultural Extension Council East Pottawattamie,,Devin Schroder,,501,112,389
+Pottawattamie,HANCOCK,County Agricultural Extension Council East Pottawattamie,,Devin Schroder,,150,23,127
+Pottawattamie,MACEDONIA,County Agricultural Extension Council East Pottawattamie,,Devin Schroder,,215,46,169
+Pottawattamie,OAKLAND,County Agricultural Extension Council East Pottawattamie,,Devin Schroder,,698,151,547
+Pottawattamie,WALNUT,County Agricultural Extension Council East Pottawattamie,,Devin Schroder,,345,36,309
+Pottawattamie,AVOCA,County Agricultural Extension Council East Pottawattamie,,Lynn M Cody,,613,100,513
+Pottawattamie,CARSON,County Agricultural Extension Council East Pottawattamie,,Lynn M Cody,,610,132,478
+Pottawattamie,HANCOCK,County Agricultural Extension Council East Pottawattamie,,Lynn M Cody,,127,21,106
+Pottawattamie,MACEDONIA,County Agricultural Extension Council East Pottawattamie,,Lynn M Cody,,245,54,191
+Pottawattamie,OAKLAND,County Agricultural Extension Council East Pottawattamie,,Lynn M Cody,,757,160,597
+Pottawattamie,WALNUT,County Agricultural Extension Council East Pottawattamie,,Lynn M Cody,,312,33,279
+Pottawattamie,AVOCA,County Agricultural Extension Council East Pottawattamie,,Write-In,,7,4,3
+Pottawattamie,CARSON,County Agricultural Extension Council East Pottawattamie,,Write-In,,5,0,5
+Pottawattamie,HANCOCK,County Agricultural Extension Council East Pottawattamie,,Write-In,,0,0,0
+Pottawattamie,MACEDONIA,County Agricultural Extension Council East Pottawattamie,,Write-In,,1,1,0
+Pottawattamie,OAKLAND,County Agricultural Extension Council East Pottawattamie,,Write-In,,9,5,4
+Pottawattamie,WALNUT,County Agricultural Extension Council East Pottawattamie,,Write-In,,14,2,12
+Pottawattamie,BOOMER,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,400,140,260
+Pottawattamie,CARTER LAKE 1,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,360,87,273
+Pottawattamie,CARTER LAKE 2,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,326,76,250
+Pottawattamie,CB 01,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,379,107,272
+Pottawattamie,CB 02,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,493,190,303
+Pottawattamie,CB 03,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,449,161,288
+Pottawattamie,CB 04,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,364,143,221
+Pottawattamie,CB 05,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,422,203,219
+Pottawattamie,CB 06,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,724,318,406
+Pottawattamie,CB 07,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,692,284,408
+Pottawattamie,CB 08,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,859,357,502
+Pottawattamie,CB 09,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,745,399,346
+Pottawattamie,CB 10,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,968,448,520
+Pottawattamie,CB 11,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,692,234,458
+Pottawattamie,CB 12,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,742,274,468
+Pottawattamie,CB 13,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,363,156,207
+Pottawattamie,CB 14,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,343,113,230
+Pottawattamie,CB 15,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,386,155,231
+Pottawattamie,CB 16,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,447,154,293
+Pottawattamie,CB 17,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,609,192,417
+Pottawattamie,CB 18,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,494,159,335
+Pottawattamie,CB 19,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,444,230,214
+Pottawattamie,CB 20,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,433,173,260
+Pottawattamie,CB 21,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,407,155,252
+Pottawattamie,CB 22,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,1238,540,698
+Pottawattamie,CRESCENT,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,893,402,491
+Pottawattamie,GARNER,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,1134,476,658
+Pottawattamie,LEWIS 1,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,740,270,470
+Pottawattamie,LEWIS 2,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,855,363,492
+Pottawattamie,MCCLELLAND,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,70,8,62
+Pottawattamie,MINDEN,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,497,92,405
+Pottawattamie,NEOLA,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,325,59,266
+Pottawattamie,TREYNOR,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,1090,284,806
+Pottawattamie,UNDERWOOD,County Agricultural Extension Council West Pottawattamie,,Constance Casson,,1127,333,794
+Pottawattamie,BOOMER,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,341,135,206
+Pottawattamie,CARTER LAKE 1,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,367,84,283
+Pottawattamie,CARTER LAKE 2,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,325,79,246
+Pottawattamie,CB 01,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,379,111,268
+Pottawattamie,CB 02,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,507,197,310
+Pottawattamie,CB 03,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,472,168,304
+Pottawattamie,CB 04,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,376,161,215
+Pottawattamie,CB 05,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,426,201,225
+Pottawattamie,CB 06,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,720,315,405
+Pottawattamie,CB 07,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,707,298,409
+Pottawattamie,CB 08,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,853,352,501
+Pottawattamie,CB 09,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,748,391,357
+Pottawattamie,CB 10,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,1003,467,536
+Pottawattamie,CB 11,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,679,231,448
+Pottawattamie,CB 12,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,749,282,467
+Pottawattamie,CB 13,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,373,159,214
+Pottawattamie,CB 14,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,376,125,251
+Pottawattamie,CB 15,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,395,152,243
+Pottawattamie,CB 16,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,467,162,305
+Pottawattamie,CB 17,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,606,192,414
+Pottawattamie,CB 18,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,521,171,350
+Pottawattamie,CB 19,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,469,239,230
+Pottawattamie,CB 20,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,412,169,243
+Pottawattamie,CB 21,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,418,149,269
+Pottawattamie,CB 22,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,1239,555,684
+Pottawattamie,CRESCENT,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,866,394,472
+Pottawattamie,GARNER,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,1083,455,628
+Pottawattamie,LEWIS 1,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,768,289,479
+Pottawattamie,LEWIS 2,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,836,362,474
+Pottawattamie,MCCLELLAND,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,52,5,47
+Pottawattamie,MINDEN,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,400,68,332
+Pottawattamie,NEOLA,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,235,42,193
+Pottawattamie,TREYNOR,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,982,263,719
+Pottawattamie,UNDERWOOD,County Agricultural Extension Council West Pottawattamie,,Debbie Gordon,,946,272,674
+Pottawattamie,BOOMER,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,366,133,233
+Pottawattamie,CARTER LAKE 1,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,402,84,318
+Pottawattamie,CARTER LAKE 2,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,371,81,290
+Pottawattamie,CB 01,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,388,117,271
+Pottawattamie,CB 02,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,558,203,355
+Pottawattamie,CB 03,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,499,172,327
+Pottawattamie,CB 04,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,410,169,241
+Pottawattamie,CB 05,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,459,214,245
+Pottawattamie,CB 06,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,760,331,429
+Pottawattamie,CB 07,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,756,291,465
+Pottawattamie,CB 08,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,899,366,533
+Pottawattamie,CB 09,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,761,396,365
+Pottawattamie,CB 10,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,1013,452,561
+Pottawattamie,CB 11,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,725,236,489
+Pottawattamie,CB 12,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,777,278,499
+Pottawattamie,CB 13,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,382,160,222
+Pottawattamie,CB 14,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,408,129,279
+Pottawattamie,CB 15,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,397,149,248
+Pottawattamie,CB 16,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,495,163,332
+Pottawattamie,CB 17,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,664,213,451
+Pottawattamie,CB 18,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,565,172,393
+Pottawattamie,CB 19,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,477,241,236
+Pottawattamie,CB 20,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,427,165,262
+Pottawattamie,CB 21,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,452,156,296
+Pottawattamie,CB 22,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,1249,535,714
+Pottawattamie,CRESCENT,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,898,395,503
+Pottawattamie,GARNER,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,1107,464,643
+Pottawattamie,LEWIS 1,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,753,274,479
+Pottawattamie,LEWIS 2,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,881,376,505
+Pottawattamie,MCCLELLAND,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,59,8,51
+Pottawattamie,MINDEN,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,458,84,374
+Pottawattamie,NEOLA,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,281,51,230
+Pottawattamie,TREYNOR,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,1041,273,768
+Pottawattamie,UNDERWOOD,County Agricultural Extension Council West Pottawattamie,,Lindsay Fischer,,1037,288,749
+Pottawattamie,BOOMER,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,404,146,258
+Pottawattamie,CARTER LAKE 1,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,403,82,321
+Pottawattamie,CARTER LAKE 2,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,387,90,297
+Pottawattamie,CB 01,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,422,121,301
+Pottawattamie,CB 02,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,588,218,370
+Pottawattamie,CB 03,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,524,185,339
+Pottawattamie,CB 04,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,432,171,261
+Pottawattamie,CB 05,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,492,225,267
+Pottawattamie,CB 06,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,821,356,465
+Pottawattamie,CB 07,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,839,334,505
+Pottawattamie,CB 08,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,949,383,566
+Pottawattamie,CB 09,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,845,440,405
+Pottawattamie,CB 10,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,1054,462,592
+Pottawattamie,CB 11,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,747,255,492
+Pottawattamie,CB 12,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,840,289,551
+Pottawattamie,CB 13,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,391,161,230
+Pottawattamie,CB 14,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,422,129,293
+Pottawattamie,CB 15,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,437,176,261
+Pottawattamie,CB 16,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,562,191,371
+Pottawattamie,CB 17,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,681,211,470
+Pottawattamie,CB 18,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,602,166,436
+Pottawattamie,CB 19,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,501,237,264
+Pottawattamie,CB 20,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,455,180,275
+Pottawattamie,CB 21,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,489,159,330
+Pottawattamie,CB 22,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,1327,570,757
+Pottawattamie,CRESCENT,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,988,437,551
+Pottawattamie,GARNER,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,1206,487,719
+Pottawattamie,LEWIS 1,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,803,291,512
+Pottawattamie,LEWIS 2,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,951,389,562
+Pottawattamie,MCCLELLAND,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,60,4,56
+Pottawattamie,MINDEN,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,439,67,372
+Pottawattamie,NEOLA,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,270,47,223
+Pottawattamie,TREYNOR,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,1115,289,826
+Pottawattamie,UNDERWOOD,County Agricultural Extension Council West Pottawattamie,,Matthew Garst,,1039,296,743
+Pottawattamie,BOOMER,County Agricultural Extension Council West Pottawattamie,,Write-In,,10,4,6
+Pottawattamie,CARTER LAKE 1,County Agricultural Extension Council West Pottawattamie,,Write-In,,4,0,4
+Pottawattamie,CARTER LAKE 2,County Agricultural Extension Council West Pottawattamie,,Write-In,,2,1,1
+Pottawattamie,CB 01,County Agricultural Extension Council West Pottawattamie,,Write-In,,4,0,4
+Pottawattamie,CB 02,County Agricultural Extension Council West Pottawattamie,,Write-In,,22,6,16
+Pottawattamie,CB 03,County Agricultural Extension Council West Pottawattamie,,Write-In,,8,0,8
+Pottawattamie,CB 04,County Agricultural Extension Council West Pottawattamie,,Write-In,,9,3,6
+Pottawattamie,CB 05,County Agricultural Extension Council West Pottawattamie,,Write-In,,11,4,7
+Pottawattamie,CB 06,County Agricultural Extension Council West Pottawattamie,,Write-In,,23,6,17
+Pottawattamie,CB 07,County Agricultural Extension Council West Pottawattamie,,Write-In,,7,3,4
+Pottawattamie,CB 08,County Agricultural Extension Council West Pottawattamie,,Write-In,,15,4,11
+Pottawattamie,CB 09,County Agricultural Extension Council West Pottawattamie,,Write-In,,11,7,4
+Pottawattamie,CB 10,County Agricultural Extension Council West Pottawattamie,,Write-In,,14,9,5
+Pottawattamie,CB 11,County Agricultural Extension Council West Pottawattamie,,Write-In,,25,9,16
+Pottawattamie,CB 12,County Agricultural Extension Council West Pottawattamie,,Write-In,,12,2,10
+Pottawattamie,CB 13,County Agricultural Extension Council West Pottawattamie,,Write-In,,6,4,2
+Pottawattamie,CB 14,County Agricultural Extension Council West Pottawattamie,,Write-In,,19,6,13
+Pottawattamie,CB 15,County Agricultural Extension Council West Pottawattamie,,Write-In,,6,1,5
+Pottawattamie,CB 16,County Agricultural Extension Council West Pottawattamie,,Write-In,,12,7,5
+Pottawattamie,CB 17,County Agricultural Extension Council West Pottawattamie,,Write-In,,6,0,6
+Pottawattamie,CB 18,County Agricultural Extension Council West Pottawattamie,,Write-In,,7,2,5
+Pottawattamie,CB 19,County Agricultural Extension Council West Pottawattamie,,Write-In,,5,2,3
+Pottawattamie,CB 20,County Agricultural Extension Council West Pottawattamie,,Write-In,,12,6,6
+Pottawattamie,CB 21,County Agricultural Extension Council West Pottawattamie,,Write-In,,14,0,14
+Pottawattamie,CB 22,County Agricultural Extension Council West Pottawattamie,,Write-In,,19,8,11
+Pottawattamie,CRESCENT,County Agricultural Extension Council West Pottawattamie,,Write-In,,12,6,6
+Pottawattamie,GARNER,County Agricultural Extension Council West Pottawattamie,,Write-In,,23,6,17
+Pottawattamie,LEWIS 1,County Agricultural Extension Council West Pottawattamie,,Write-In,,3,0,3
+Pottawattamie,LEWIS 2,County Agricultural Extension Council West Pottawattamie,,Write-In,,7,0,7
+Pottawattamie,MCCLELLAND,County Agricultural Extension Council West Pottawattamie,,Write-In,,0,0,0
+Pottawattamie,MINDEN,County Agricultural Extension Council West Pottawattamie,,Write-In,,4,1,3
+Pottawattamie,NEOLA,County Agricultural Extension Council West Pottawattamie,,Write-In,,7,0,7
+Pottawattamie,TREYNOR,County Agricultural Extension Council West Pottawattamie,,Write-In,,10,2,8
+Pottawattamie,UNDERWOOD,County Agricultural Extension Council West Pottawattamie,,Write-In,,4,1,3
+Pottawattamie,AVOCA,County Auditor,,Bryan Jack Holder,FRI,257,35,222
+Pottawattamie,BOOMER,County Auditor,,Bryan Jack Holder,FRI,152,61,91
+Pottawattamie,CARSON,County Auditor,,Bryan Jack Holder,FRI,197,38,159
+Pottawattamie,CARTER LAKE 1,County Auditor,,Bryan Jack Holder,FRI,273,69,204
+Pottawattamie,CARTER LAKE 2,County Auditor,,Bryan Jack Holder,FRI,255,62,193
+Pottawattamie,CB 01,County Auditor,,Bryan Jack Holder,FRI,314,95,219
+Pottawattamie,CB 02,County Auditor,,Bryan Jack Holder,FRI,410,147,263
+Pottawattamie,CB 03,County Auditor,,Bryan Jack Holder,FRI,378,133,245
+Pottawattamie,CB 04,County Auditor,,Bryan Jack Holder,FRI,311,132,179
+Pottawattamie,CB 05,County Auditor,,Bryan Jack Holder,FRI,339,151,188
+Pottawattamie,CB 06,County Auditor,,Bryan Jack Holder,FRI,536,216,320
+Pottawattamie,CB 07,County Auditor,,Bryan Jack Holder,FRI,528,213,315
+Pottawattamie,CB 08,County Auditor,,Bryan Jack Holder,FRI,581,253,328
+Pottawattamie,CB 09,County Auditor,,Bryan Jack Holder,FRI,480,255,225
+Pottawattamie,CB 10,County Auditor,,Bryan Jack Holder,FRI,598,288,310
+Pottawattamie,CB 11,County Auditor,,Bryan Jack Holder,FRI,563,199,364
+Pottawattamie,CB 12,County Auditor,,Bryan Jack Holder,FRI,443,170,273
+Pottawattamie,CB 13,County Auditor,,Bryan Jack Holder,FRI,301,125,176
+Pottawattamie,CB 14,County Auditor,,Bryan Jack Holder,FRI,296,93,203
+Pottawattamie,CB 15,County Auditor,,Bryan Jack Holder,FRI,335,142,193
+Pottawattamie,CB 16,County Auditor,,Bryan Jack Holder,FRI,376,117,259
+Pottawattamie,CB 17,County Auditor,,Bryan Jack Holder,FRI,446,148,298
+Pottawattamie,CB 18,County Auditor,,Bryan Jack Holder,FRI,394,121,273
+Pottawattamie,CB 19,County Auditor,,Bryan Jack Holder,FRI,276,120,156
+Pottawattamie,CB 20,County Auditor,,Bryan Jack Holder,FRI,292,102,190
+Pottawattamie,CB 21,County Auditor,,Bryan Jack Holder,FRI,276,102,174
+Pottawattamie,CB 22,County Auditor,,Bryan Jack Holder,FRI,559,245,314
+Pottawattamie,CRESCENT,County Auditor,,Bryan Jack Holder,FRI,505,245,260
+Pottawattamie,GARNER,County Auditor,,Bryan Jack Holder,FRI,526,226,300
+Pottawattamie,HANCOCK,County Auditor,,Bryan Jack Holder,FRI,40,6,34
+Pottawattamie,LEWIS 1,County Auditor,,Bryan Jack Holder,FRI,362,132,230
+Pottawattamie,LEWIS 2,County Auditor,,Bryan Jack Holder,FRI,399,169,230
+Pottawattamie,MACEDONIA,County Auditor,,Bryan Jack Holder,FRI,81,17,64
+Pottawattamie,MCCLELLAND,County Auditor,,Bryan Jack Holder,FRI,21,2,19
+Pottawattamie,MINDEN,County Auditor,,Bryan Jack Holder,FRI,106,21,85
+Pottawattamie,NEOLA,County Auditor,,Bryan Jack Holder,FRI,132,28,104
+Pottawattamie,OAKLAND,County Auditor,,Bryan Jack Holder,FRI,259,70,189
+Pottawattamie,TREYNOR,County Auditor,,Bryan Jack Holder,FRI,322,90,232
+Pottawattamie,UNDERWOOD,County Auditor,,Bryan Jack Holder,FRI,477,156,321
+Pottawattamie,WALNUT,County Auditor,,Bryan Jack Holder,FRI,165,17,148
+Pottawattamie,AVOCA,County Auditor,,Mary Ann Hanusa,REP,757,123,634
+Pottawattamie,BOOMER,County Auditor,,Mary Ann Hanusa,REP,457,156,301
+Pottawattamie,CARSON,County Auditor,,Mary Ann Hanusa,REP,607,133,474
+Pottawattamie,CARTER LAKE 1,County Auditor,,Mary Ann Hanusa,REP,407,70,337
+Pottawattamie,CARTER LAKE 2,County Auditor,,Mary Ann Hanusa,REP,398,87,311
+Pottawattamie,CB 01,County Auditor,,Mary Ann Hanusa,REP,410,135,275
+Pottawattamie,CB 02,County Auditor,,Mary Ann Hanusa,REP,605,216,389
+Pottawattamie,CB 03,County Auditor,,Mary Ann Hanusa,REP,462,148,314
+Pottawattamie,CB 04,County Auditor,,Mary Ann Hanusa,REP,479,190,289
+Pottawattamie,CB 05,County Auditor,,Mary Ann Hanusa,REP,504,232,272
+Pottawattamie,CB 06,County Auditor,,Mary Ann Hanusa,REP,767,339,428
+Pottawattamie,CB 07,County Auditor,,Mary Ann Hanusa,REP,745,292,453
+Pottawattamie,CB 08,County Auditor,,Mary Ann Hanusa,REP,940,399,541
+Pottawattamie,CB 09,County Auditor,,Mary Ann Hanusa,REP,828,406,422
+Pottawattamie,CB 10,County Auditor,,Mary Ann Hanusa,REP,1033,434,599
+Pottawattamie,CB 11,County Auditor,,Mary Ann Hanusa,REP,664,227,437
+Pottawattamie,CB 12,County Auditor,,Mary Ann Hanusa,REP,804,302,502
+Pottawattamie,CB 13,County Auditor,,Mary Ann Hanusa,REP,336,146,190
+Pottawattamie,CB 14,County Auditor,,Mary Ann Hanusa,REP,420,141,279
+Pottawattamie,CB 15,County Auditor,,Mary Ann Hanusa,REP,401,152,249
+Pottawattamie,CB 16,County Auditor,,Mary Ann Hanusa,REP,539,177,362
+Pottawattamie,CB 17,County Auditor,,Mary Ann Hanusa,REP,636,199,437
+Pottawattamie,CB 18,County Auditor,,Mary Ann Hanusa,REP,621,191,430
+Pottawattamie,CB 19,County Auditor,,Mary Ann Hanusa,REP,549,272,277
+Pottawattamie,CB 20,County Auditor,,Mary Ann Hanusa,REP,548,204,344
+Pottawattamie,CB 21,County Auditor,,Mary Ann Hanusa,REP,503,177,326
+Pottawattamie,CB 22,County Auditor,,Mary Ann Hanusa,REP,1410,595,815
+Pottawattamie,CRESCENT,County Auditor,,Mary Ann Hanusa,REP,1023,455,568
+Pottawattamie,GARNER,County Auditor,,Mary Ann Hanusa,REP,1362,528,834
+Pottawattamie,HANCOCK,County Auditor,,Mary Ann Hanusa,REP,154,23,131
+Pottawattamie,LEWIS 1,County Auditor,,Mary Ann Hanusa,REP,854,318,536
+Pottawattamie,LEWIS 2,County Auditor,,Mary Ann Hanusa,REP,1052,436,616
+Pottawattamie,MACEDONIA,County Auditor,,Mary Ann Hanusa,REP,236,48,188
+Pottawattamie,MCCLELLAND,County Auditor,,Mary Ann Hanusa,REP,69,7,62
+Pottawattamie,MINDEN,County Auditor,,Mary Ann Hanusa,REP,541,106,435
+Pottawattamie,NEOLA,County Auditor,,Mary Ann Hanusa,REP,331,51,280
+Pottawattamie,OAKLAND,County Auditor,,Mary Ann Hanusa,REP,801,182,619
+Pottawattamie,TREYNOR,County Auditor,,Mary Ann Hanusa,REP,1274,337,937
+Pottawattamie,UNDERWOOD,County Auditor,,Mary Ann Hanusa,REP,1182,308,874
+Pottawattamie,WALNUT,County Auditor,,Mary Ann Hanusa,REP,354,47,307
+Pottawattamie,AVOCA,County Auditor,,Write-In,,0,0,0
+Pottawattamie,BOOMER,County Auditor,,Write-In,,2,1,1
+Pottawattamie,CARSON,County Auditor,,Write-In,,1,0,1
+Pottawattamie,CARTER LAKE 1,County Auditor,,Write-In,,1,0,1
+Pottawattamie,CARTER LAKE 2,County Auditor,,Write-In,,6,2,4
+Pottawattamie,CB 01,County Auditor,,Write-In,,2,0,2
+Pottawattamie,CB 02,County Auditor,,Write-In,,5,2,3
+Pottawattamie,CB 03,County Auditor,,Write-In,,3,1,2
+Pottawattamie,CB 04,County Auditor,,Write-In,,7,3,4
+Pottawattamie,CB 05,County Auditor,,Write-In,,4,1,3
+Pottawattamie,CB 06,County Auditor,,Write-In,,4,2,2
+Pottawattamie,CB 07,County Auditor,,Write-In,,2,1,1
+Pottawattamie,CB 08,County Auditor,,Write-In,,7,6,1
+Pottawattamie,CB 09,County Auditor,,Write-In,,7,2,5
+Pottawattamie,CB 10,County Auditor,,Write-In,,10,9,1
+Pottawattamie,CB 11,County Auditor,,Write-In,,5,3,2
+Pottawattamie,CB 12,County Auditor,,Write-In,,4,2,2
+Pottawattamie,CB 13,County Auditor,,Write-In,,3,2,1
+Pottawattamie,CB 14,County Auditor,,Write-In,,6,1,5
+Pottawattamie,CB 15,County Auditor,,Write-In,,3,3,0
+Pottawattamie,CB 16,County Auditor,,Write-In,,2,2,0
+Pottawattamie,CB 17,County Auditor,,Write-In,,1,0,1
+Pottawattamie,CB 18,County Auditor,,Write-In,,0,0,0
+Pottawattamie,CB 19,County Auditor,,Write-In,,4,2,2
+Pottawattamie,CB 20,County Auditor,,Write-In,,1,0,1
+Pottawattamie,CB 21,County Auditor,,Write-In,,3,1,2
+Pottawattamie,CB 22,County Auditor,,Write-In,,7,6,1
+Pottawattamie,CRESCENT,County Auditor,,Write-In,,4,3,1
+Pottawattamie,GARNER,County Auditor,,Write-In,,1,0,1
+Pottawattamie,HANCOCK,County Auditor,,Write-In,,0,0,0
+Pottawattamie,LEWIS 1,County Auditor,,Write-In,,3,0,3
+Pottawattamie,LEWIS 2,County Auditor,,Write-In,,3,1,2
+Pottawattamie,MACEDONIA,County Auditor,,Write-In,,4,2,2
+Pottawattamie,MCCLELLAND,County Auditor,,Write-In,,0,0,0
+Pottawattamie,MINDEN,County Auditor,,Write-In,,1,0,1
+Pottawattamie,NEOLA,County Auditor,,Write-In,,1,0,1
+Pottawattamie,OAKLAND,County Auditor,,Write-In,,3,1,2
+Pottawattamie,TREYNOR,County Auditor,,Write-In,,3,3,0
+Pottawattamie,UNDERWOOD,County Auditor,,Write-In,,4,2,2
+Pottawattamie,WALNUT,County Auditor,,Write-In,,1,0,1
+Pottawattamie,AVOCA,County Board of Supervisors,,Brian Shea,REP,835,129,706
+Pottawattamie,BOOMER,County Board of Supervisors,,Brian Shea,REP,435,160,275
+Pottawattamie,CARSON,County Board of Supervisors,,Brian Shea,REP,640,135,505
+Pottawattamie,CARTER LAKE 1,County Board of Supervisors,,Brian Shea,REP,473,90,383
+Pottawattamie,CARTER LAKE 2,County Board of Supervisors,,Brian Shea,REP,338,84,254
+Pottawattamie,CB 01,County Board of Supervisors,,Brian Shea,REP,522,163,359
+Pottawattamie,CB 02,County Board of Supervisors,,Brian Shea,REP,521,183,338
+Pottawattamie,CB 03,County Board of Supervisors,,Brian Shea,REP,601,196,405
+Pottawattamie,CB 04,County Board of Supervisors,,Brian Shea,REP,401,176,225
+Pottawattamie,CB 05,County Board of Supervisors,,Brian Shea,REP,582,274,308
+Pottawattamie,CB 06,County Board of Supervisors,,Brian Shea,REP,746,319,427
+Pottawattamie,CB 07,County Board of Supervisors,,Brian Shea,REP,879,341,538
+Pottawattamie,CB 08,County Board of Supervisors,,Brian Shea,REP,864,379,485
+Pottawattamie,CB 09,County Board of Supervisors,,Brian Shea,REP,915,444,471
+Pottawattamie,CB 10,County Board of Supervisors,,Brian Shea,REP,960,430,530
+Pottawattamie,CB 11,County Board of Supervisors,,Brian Shea,REP,835,278,557
+Pottawattamie,CB 12,County Board of Supervisors,,Brian Shea,REP,745,282,463
+Pottawattamie,CB 13,County Board of Supervisors,,Brian Shea,REP,417,160,257
+Pottawattamie,CB 14,County Board of Supervisors,,Brian Shea,REP,390,123,267
+Pottawattamie,CB 15,County Board of Supervisors,,Brian Shea,REP,497,198,299
+Pottawattamie,CB 16,County Board of Supervisors,,Brian Shea,REP,473,147,326
+Pottawattamie,CB 17,County Board of Supervisors,,Brian Shea,REP,754,229,525
+Pottawattamie,CB 18,County Board of Supervisors,,Brian Shea,REP,528,161,367
+Pottawattamie,CB 19,County Board of Supervisors,,Brian Shea,REP,594,291,303
+Pottawattamie,CB 20,County Board of Supervisors,,Brian Shea,REP,486,184,302
+Pottawattamie,CB 21,County Board of Supervisors,,Brian Shea,REP,561,195,366
+Pottawattamie,CB 22,County Board of Supervisors,,Brian Shea,REP,1234,527,707
+Pottawattamie,CRESCENT,County Board of Supervisors,,Brian Shea,REP,1111,514,597
+Pottawattamie,GARNER,County Board of Supervisors,,Brian Shea,REP,1465,571,894
+Pottawattamie,HANCOCK,County Board of Supervisors,,Brian Shea,REP,129,21,108
+Pottawattamie,LEWIS 1,County Board of Supervisors,,Brian Shea,REP,929,334,595
+Pottawattamie,LEWIS 2,County Board of Supervisors,,Brian Shea,REP,847,354,493
+Pottawattamie,MACEDONIA,County Board of Supervisors,,Brian Shea,REP,251,50,201
+Pottawattamie,MCCLELLAND,County Board of Supervisors,,Brian Shea,REP,59,6,53
+Pottawattamie,MINDEN,County Board of Supervisors,,Brian Shea,REP,555,104,451
+Pottawattamie,NEOLA,County Board of Supervisors,,Brian Shea,REP,282,45,237
+Pottawattamie,OAKLAND,County Board of Supervisors,,Brian Shea,REP,815,183,632
+Pottawattamie,TREYNOR,County Board of Supervisors,,Brian Shea,REP,1034,293,741
+Pottawattamie,UNDERWOOD,County Board of Supervisors,,Brian Shea,REP,1322,359,963
+Pottawattamie,WALNUT,County Board of Supervisors,,Brian Shea,REP,310,38,272
+Pottawattamie,AVOCA,County Board of Supervisors,,Tim Wichman,REP,590,104,486
+Pottawattamie,BOOMER,County Board of Supervisors,,Tim Wichman,REP,456,148,308
+Pottawattamie,CARSON,County Board of Supervisors,,Tim Wichman,REP,545,127,418
+Pottawattamie,CARTER LAKE 1,County Board of Supervisors,,Tim Wichman,REP,353,74,279
+Pottawattamie,CARTER LAKE 2,County Board of Supervisors,,Tim Wichman,REP,472,107,365
+Pottawattamie,CB 01,County Board of Supervisors,,Tim Wichman,REP,351,105,246
+Pottawattamie,CB 02,County Board of Supervisors,,Tim Wichman,REP,739,261,478
+Pottawattamie,CB 03,County Board of Supervisors,,Tim Wichman,REP,426,149,277
+Pottawattamie,CB 04,County Board of Supervisors,,Tim Wichman,REP,533,207,326
+Pottawattamie,CB 05,County Board of Supervisors,,Tim Wichman,REP,419,188,231
+Pottawattamie,CB 06,County Board of Supervisors,,Tim Wichman,REP,876,370,506
+Pottawattamie,CB 07,County Board of Supervisors,,Tim Wichman,REP,704,287,417
+Pottawattamie,CB 08,County Board of Supervisors,,Tim Wichman,REP,1032,401,631
+Pottawattamie,CB 09,County Board of Supervisors,,Tim Wichman,REP,709,376,333
+Pottawattamie,CB 10,County Board of Supervisors,,Tim Wichman,REP,1152,499,653
+Pottawattamie,CB 11,County Board of Supervisors,,Tim Wichman,REP,638,210,428
+Pottawattamie,CB 12,County Board of Supervisors,,Tim Wichman,REP,899,301,598
+Pottawattamie,CB 13,County Board of Supervisors,,Tim Wichman,REP,339,138,201
+Pottawattamie,CB 14,County Board of Supervisors,,Tim Wichman,REP,474,153,321
+Pottawattamie,CB 15,County Board of Supervisors,,Tim Wichman,REP,384,158,226
+Pottawattamie,CB 16,County Board of Supervisors,,Tim Wichman,REP,611,189,422
+Pottawattamie,CB 17,County Board of Supervisors,,Tim Wichman,REP,573,168,405
+Pottawattamie,CB 18,County Board of Supervisors,,Tim Wichman,REP,707,207,500
+Pottawattamie,CB 19,County Board of Supervisors,,Tim Wichman,REP,426,209,217
+Pottawattamie,CB 20,County Board of Supervisors,,Tim Wichman,REP,586,209,377
+Pottawattamie,CB 21,County Board of Supervisors,,Tim Wichman,REP,431,139,292
+Pottawattamie,CB 22,County Board of Supervisors,,Tim Wichman,REP,1495,615,880
+Pottawattamie,CRESCENT,County Board of Supervisors,,Tim Wichman,REP,999,448,551
+Pottawattamie,GARNER,County Board of Supervisors,,Tim Wichman,REP,1103,452,651
+Pottawattamie,HANCOCK,County Board of Supervisors,,Tim Wichman,REP,153,21,132
+Pottawattamie,LEWIS 1,County Board of Supervisors,,Tim Wichman,REP,700,266,434
+Pottawattamie,LEWIS 2,County Board of Supervisors,,Tim Wichman,REP,1101,432,669
+Pottawattamie,MACEDONIA,County Board of Supervisors,,Tim Wichman,REP,221,49,172
+Pottawattamie,MCCLELLAND,County Board of Supervisors,,Tim Wichman,REP,75,8,67
+Pottawattamie,MINDEN,County Board of Supervisors,,Tim Wichman,REP,419,84,335
+Pottawattamie,NEOLA,County Board of Supervisors,,Tim Wichman,REP,349,61,288
+Pottawattamie,OAKLAND,County Board of Supervisors,,Tim Wichman,REP,684,147,537
+Pottawattamie,TREYNOR,County Board of Supervisors,,Tim Wichman,REP,1301,333,968
+Pottawattamie,UNDERWOOD,County Board of Supervisors,,Tim Wichman,REP,974,268,706
+Pottawattamie,WALNUT,County Board of Supervisors,,Tim Wichman,REP,411,47,364
+Pottawattamie,AVOCA,County Board of Supervisors,,Write-In,,16,3,13
+Pottawattamie,BOOMER,County Board of Supervisors,,Write-In,,9,7,2
+Pottawattamie,CARSON,County Board of Supervisors,,Write-In,,3,0,3
+Pottawattamie,CARTER LAKE 1,County Board of Supervisors,,Write-In,,15,6,9
+Pottawattamie,CARTER LAKE 2,County Board of Supervisors,,Write-In,,8,1,7
+Pottawattamie,CB 01,County Board of Supervisors,,Write-In,,24,14,10
+Pottawattamie,CB 02,County Board of Supervisors,,Write-In,,15,4,11
+Pottawattamie,CB 03,County Board of Supervisors,,Write-In,,26,6,20
+Pottawattamie,CB 04,County Board of Supervisors,,Write-In,,16,10,6
+Pottawattamie,CB 05,County Board of Supervisors,,Write-In,,14,8,6
+Pottawattamie,CB 06,County Board of Supervisors,,Write-In,,42,26,16
+Pottawattamie,CB 07,County Board of Supervisors,,Write-In,,37,19,18
+Pottawattamie,CB 08,County Board of Supervisors,,Write-In,,46,31,15
+Pottawattamie,CB 09,County Board of Supervisors,,Write-In,,34,16,18
+Pottawattamie,CB 10,County Board of Supervisors,,Write-In,,30,17,13
+Pottawattamie,CB 11,County Board of Supervisors,,Write-In,,39,15,24
+Pottawattamie,CB 12,County Board of Supervisors,,Write-In,,35,13,22
+Pottawattamie,CB 13,County Board of Supervisors,,Write-In,,26,15,11
+Pottawattamie,CB 14,County Board of Supervisors,,Write-In,,20,9,11
+Pottawattamie,CB 15,County Board of Supervisors,,Write-In,,16,8,8
+Pottawattamie,CB 16,County Board of Supervisors,,Write-In,,22,7,15
+Pottawattamie,CB 17,County Board of Supervisors,,Write-In,,17,5,12
+Pottawattamie,CB 18,County Board of Supervisors,,Write-In,,19,11,8
+Pottawattamie,CB 19,County Board of Supervisors,,Write-In,,18,9,9
+Pottawattamie,CB 20,County Board of Supervisors,,Write-In,,9,6,3
+Pottawattamie,CB 21,County Board of Supervisors,,Write-In,,21,6,15
+Pottawattamie,CB 22,County Board of Supervisors,,Write-In,,44,18,26
+Pottawattamie,CRESCENT,County Board of Supervisors,,Write-In,,34,21,13
+Pottawattamie,GARNER,County Board of Supervisors,,Write-In,,32,16,16
+Pottawattamie,HANCOCK,County Board of Supervisors,,Write-In,,2,0,2
+Pottawattamie,LEWIS 1,County Board of Supervisors,,Write-In,,23,10,13
+Pottawattamie,LEWIS 2,County Board of Supervisors,,Write-In,,24,5,19
+Pottawattamie,MACEDONIA,County Board of Supervisors,,Write-In,,2,1,1
+Pottawattamie,MCCLELLAND,County Board of Supervisors,,Write-In,,4,0,4
+Pottawattamie,MINDEN,County Board of Supervisors,,Write-In,,9,1,8
+Pottawattamie,NEOLA,County Board of Supervisors,,Write-In,,1,0,1
+Pottawattamie,OAKLAND,County Board of Supervisors,,Write-In,,20,13,7
+Pottawattamie,TREYNOR,County Board of Supervisors,,Write-In,,25,8,17
+Pottawattamie,UNDERWOOD,County Board of Supervisors,,Write-In,,34,12,22
+Pottawattamie,WALNUT,County Board of Supervisors,,Write-In,,11,4,7
+Pottawattamie,AVOCA,County Sheriff,,Andy Brown,REP,931,137,794
+Pottawattamie,BOOMER,County Sheriff,,Andy Brown,REP,561,182,379
+Pottawattamie,CARSON,County Sheriff,,Andy Brown,REP,752,158,594
+Pottawattamie,CARTER LAKE 1,County Sheriff,,Andy Brown,REP,577,104,473
+Pottawattamie,CARTER LAKE 2,County Sheriff,,Andy Brown,REP,566,124,442
+Pottawattamie,CB 01,County Sheriff,,Andy Brown,REP,619,185,434
+Pottawattamie,CB 02,County Sheriff,,Andy Brown,REP,885,300,585
+Pottawattamie,CB 03,County Sheriff,,Andy Brown,REP,732,237,495
+Pottawattamie,CB 04,County Sheriff,,Andy Brown,REP,686,267,419
+Pottawattamie,CB 05,County Sheriff,,Andy Brown,REP,725,326,399
+Pottawattamie,CB 06,County Sheriff,,Andy Brown,REP,1114,457,657
+Pottawattamie,CB 07,County Sheriff,,Andy Brown,REP,1078,418,660
+Pottawattamie,CB 08,County Sheriff,,Andy Brown,REP,1262,491,771
+Pottawattamie,CB 09,County Sheriff,,Andy Brown,REP,1100,540,560
+Pottawattamie,CB 10,County Sheriff,,Andy Brown,REP,1416,591,825
+Pottawattamie,CB 11,County Sheriff,,Andy Brown,REP,1012,318,694
+Pottawattamie,CB 12,County Sheriff,,Andy Brown,REP,1102,388,714
+Pottawattamie,CB 13,County Sheriff,,Andy Brown,REP,525,202,323
+Pottawattamie,CB 14,County Sheriff,,Andy Brown,REP,612,185,427
+Pottawattamie,CB 15,County Sheriff,,Andy Brown,REP,616,230,386
+Pottawattamie,CB 16,County Sheriff,,Andy Brown,REP,794,241,553
+Pottawattamie,CB 17,County Sheriff,,Andy Brown,REP,933,268,665
+Pottawattamie,CB 18,County Sheriff,,Andy Brown,REP,892,253,639
+Pottawattamie,CB 19,County Sheriff,,Andy Brown,REP,716,336,380
+Pottawattamie,CB 20,County Sheriff,,Andy Brown,REP,717,252,465
+Pottawattamie,CB 21,County Sheriff,,Andy Brown,REP,706,243,463
+Pottawattamie,CB 22,County Sheriff,,Andy Brown,REP,1764,726,1038
+Pottawattamie,CRESCENT,County Sheriff,,Andy Brown,REP,1348,587,761
+Pottawattamie,GARNER,County Sheriff,,Andy Brown,REP,1704,655,1049
+Pottawattamie,HANCOCK,County Sheriff,,Andy Brown,REP,181,24,157
+Pottawattamie,LEWIS 1,County Sheriff,,Andy Brown,REP,1085,379,706
+Pottawattamie,LEWIS 2,County Sheriff,,Andy Brown,REP,1278,502,776
+Pottawattamie,MACEDONIA,County Sheriff,,Andy Brown,REP,293,59,234
+Pottawattamie,MCCLELLAND,County Sheriff,,Andy Brown,REP,91,10,81
+Pottawattamie,MINDEN,County Sheriff,,Andy Brown,REP,640,119,521
+Pottawattamie,NEOLA,County Sheriff,,Andy Brown,REP,423,66,357
+Pottawattamie,OAKLAND,County Sheriff,,Andy Brown,REP,975,211,764
+Pottawattamie,TREYNOR,County Sheriff,,Andy Brown,REP,1523,380,1143
+Pottawattamie,UNDERWOOD,County Sheriff,,Andy Brown,REP,1526,394,1132
+Pottawattamie,WALNUT,County Sheriff,,Andy Brown,REP,481,51,430
+Pottawattamie,AVOCA,County Sheriff,,Write-In,,14,4,10
+Pottawattamie,BOOMER,County Sheriff,,Write-In,,5,3,2
+Pottawattamie,CARSON,County Sheriff,,Write-In,,7,2,5
+Pottawattamie,CARTER LAKE 1,County Sheriff,,Write-In,,15,6,9
+Pottawattamie,CARTER LAKE 2,County Sheriff,,Write-In,,17,4,13
+Pottawattamie,CB 01,County Sheriff,,Write-In,,20,7,13
+Pottawattamie,CB 02,County Sheriff,,Write-In,,22,8,14
+Pottawattamie,CB 03,County Sheriff,,Write-In,,24,4,20
+Pottawattamie,CB 04,County Sheriff,,Write-In,,18,7,11
+Pottawattamie,CB 05,County Sheriff,,Write-In,,23,7,16
+Pottawattamie,CB 06,County Sheriff,,Write-In,,32,19,13
+Pottawattamie,CB 07,County Sheriff,,Write-In,,29,13,16
+Pottawattamie,CB 08,County Sheriff,,Write-In,,26,16,10
+Pottawattamie,CB 09,County Sheriff,,Write-In,,28,11,17
+Pottawattamie,CB 10,County Sheriff,,Write-In,,37,21,16
+Pottawattamie,CB 11,County Sheriff,,Write-In,,33,13,20
+Pottawattamie,CB 12,County Sheriff,,Write-In,,25,7,18
+Pottawattamie,CB 13,County Sheriff,,Write-In,,22,14,8
+Pottawattamie,CB 14,County Sheriff,,Write-In,,19,7,12
+Pottawattamie,CB 15,County Sheriff,,Write-In,,14,7,7
+Pottawattamie,CB 16,County Sheriff,,Write-In,,20,4,16
+Pottawattamie,CB 17,County Sheriff,,Write-In,,21,5,16
+Pottawattamie,CB 18,County Sheriff,,Write-In,,23,7,16
+Pottawattamie,CB 19,County Sheriff,,Write-In,,18,11,7
+Pottawattamie,CB 20,County Sheriff,,Write-In,,15,5,10
+Pottawattamie,CB 21,County Sheriff,,Write-In,,16,2,14
+Pottawattamie,CB 22,County Sheriff,,Write-In,,30,13,17
+Pottawattamie,CRESCENT,County Sheriff,,Write-In,,16,5,11
+Pottawattamie,GARNER,County Sheriff,,Write-In,,13,6,7
+Pottawattamie,HANCOCK,County Sheriff,,Write-In,,0,0,0
+Pottawattamie,LEWIS 1,County Sheriff,,Write-In,,14,4,10
+Pottawattamie,LEWIS 2,County Sheriff,,Write-In,,21,6,15
+Pottawattamie,MACEDONIA,County Sheriff,,Write-In,,3,0,3
+Pottawattamie,MCCLELLAND,County Sheriff,,Write-In,,0,0,0
+Pottawattamie,MINDEN,County Sheriff,,Write-In,,3,0,3
+Pottawattamie,NEOLA,County Sheriff,,Write-In,,8,1,7
+Pottawattamie,OAKLAND,County Sheriff,,Write-In,,9,5,4
+Pottawattamie,TREYNOR,County Sheriff,,Write-In,,13,1,12
+Pottawattamie,UNDERWOOD,County Sheriff,,Write-In,,27,8,19
+Pottawattamie,WALNUT,County Sheriff,,Write-In,,6,4,2
+Pottawattamie,AVOCA,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,280,46,234
+Pottawattamie,BOOMER,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,170,63,107
+Pottawattamie,CARSON,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,212,44,168
+Pottawattamie,CARTER LAKE 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,227,52,175
+Pottawattamie,CARTER LAKE 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,194,37,157
+Pottawattamie,CB 01,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,223,72,151
+Pottawattamie,CB 02,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,273,97,176
+Pottawattamie,CB 03,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,219,76,143
+Pottawattamie,CB 04,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,234,95,139
+Pottawattamie,CB 05,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,220,94,126
+Pottawattamie,CB 06,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,345,161,184
+Pottawattamie,CB 07,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,377,135,242
+Pottawattamie,CB 08,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,441,207,234
+Pottawattamie,CB 09,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,343,183,160
+Pottawattamie,CB 10,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,453,207,246
+Pottawattamie,CB 11,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,327,104,223
+Pottawattamie,CB 12,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,344,126,218
+Pottawattamie,CB 13,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,186,82,104
+Pottawattamie,CB 14,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,174,51,123
+Pottawattamie,CB 15,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,187,74,113
+Pottawattamie,CB 16,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,270,82,188
+Pottawattamie,CB 17,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,296,86,210
+Pottawattamie,CB 18,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,252,84,168
+Pottawattamie,CB 19,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,201,100,101
+Pottawattamie,CB 20,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,214,83,131
+Pottawattamie,CB 21,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,214,78,136
+Pottawattamie,CB 22,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,446,190,256
+Pottawattamie,CRESCENT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,425,196,229
+Pottawattamie,GARNER,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,451,176,275
+Pottawattamie,HANCOCK,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,41,4,37
+Pottawattamie,LEWIS 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,297,108,189
+Pottawattamie,LEWIS 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,381,165,216
+Pottawattamie,MACEDONIA,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,78,12,66
+Pottawattamie,MCCLELLAND,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,33,2,31
+Pottawattamie,MINDEN,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,155,25,130
+Pottawattamie,NEOLA,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,121,24,97
+Pottawattamie,OAKLAND,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,257,55,202
+Pottawattamie,TREYNOR,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,441,124,317
+Pottawattamie,UNDERWOOD,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,441,126,315
+Pottawattamie,WALNUT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,145,16,129
+Pottawattamie,AVOCA,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,605,83,522
+Pottawattamie,BOOMER,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,337,119,218
+Pottawattamie,CARSON,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,436,98,338
+Pottawattamie,CARTER LAKE 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,385,78,307
+Pottawattamie,CARTER LAKE 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,371,96,275
+Pottawattamie,CB 01,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,425,128,297
+Pottawattamie,CB 02,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,601,207,394
+Pottawattamie,CB 03,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,525,177,348
+Pottawattamie,CB 04,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,457,183,274
+Pottawattamie,CB 05,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,521,233,288
+Pottawattamie,CB 06,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,771,299,472
+Pottawattamie,CB 07,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,751,302,449
+Pottawattamie,CB 08,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,840,344,496
+Pottawattamie,CB 09,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,772,386,386
+Pottawattamie,CB 10,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,985,437,548
+Pottawattamie,CB 11,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,741,253,488
+Pottawattamie,CB 12,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,748,263,485
+Pottawattamie,CB 13,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,384,153,231
+Pottawattamie,CB 14,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,446,136,310
+Pottawattamie,CB 15,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,458,172,286
+Pottawattamie,CB 16,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,537,180,357
+Pottawattamie,CB 17,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,659,204,455
+Pottawattamie,CB 18,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,605,167,438
+Pottawattamie,CB 19,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,507,240,267
+Pottawattamie,CB 20,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,434,172,262
+Pottawattamie,CB 21,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,473,158,315
+Pottawattamie,CB 22,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,1164,492,672
+Pottawattamie,CRESCENT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,826,350,476
+Pottawattamie,GARNER,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,1056,415,641
+Pottawattamie,HANCOCK,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,111,17,94
+Pottawattamie,LEWIS 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,693,245,448
+Pottawattamie,LEWIS 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,788,317,471
+Pottawattamie,MACEDONIA,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,177,38,139
+Pottawattamie,MCCLELLAND,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,40,5,35
+Pottawattamie,MINDEN,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,402,68,334
+Pottawattamie,NEOLA,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,260,44,216
+Pottawattamie,OAKLAND,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,617,140,477
+Pottawattamie,TREYNOR,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,880,231,649
+Pottawattamie,UNDERWOOD,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,898,241,657
+Pottawattamie,WALNUT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,271,27,244
+Pottawattamie,AVOCA,Court of Appeals Judge - Mary Ellen Tabor,,No,,251,39,212
+Pottawattamie,BOOMER,Court of Appeals Judge - Mary Ellen Tabor,,No,,182,69,113
+Pottawattamie,CARSON,Court of Appeals Judge - Mary Ellen Tabor,,No,,213,42,171
+Pottawattamie,CARTER LAKE 1,Court of Appeals Judge - Mary Ellen Tabor,,No,,210,45,165
+Pottawattamie,CARTER LAKE 2,Court of Appeals Judge - Mary Ellen Tabor,,No,,203,46,157
+Pottawattamie,CB 01,Court of Appeals Judge - Mary Ellen Tabor,,No,,204,64,140
+Pottawattamie,CB 02,Court of Appeals Judge - Mary Ellen Tabor,,No,,258,91,167
+Pottawattamie,CB 03,Court of Appeals Judge - Mary Ellen Tabor,,No,,222,75,147
+Pottawattamie,CB 04,Court of Appeals Judge - Mary Ellen Tabor,,No,,224,94,130
+Pottawattamie,CB 05,Court of Appeals Judge - Mary Ellen Tabor,,No,,218,101,117
+Pottawattamie,CB 06,Court of Appeals Judge - Mary Ellen Tabor,,No,,328,132,196
+Pottawattamie,CB 07,Court of Appeals Judge - Mary Ellen Tabor,,No,,389,134,255
+Pottawattamie,CB 08,Court of Appeals Judge - Mary Ellen Tabor,,No,,378,164,214
+Pottawattamie,CB 09,Court of Appeals Judge - Mary Ellen Tabor,,No,,311,164,147
+Pottawattamie,CB 10,Court of Appeals Judge - Mary Ellen Tabor,,No,,427,185,242
+Pottawattamie,CB 11,Court of Appeals Judge - Mary Ellen Tabor,,No,,325,98,227
+Pottawattamie,CB 12,Court of Appeals Judge - Mary Ellen Tabor,,No,,324,128,196
+Pottawattamie,CB 13,Court of Appeals Judge - Mary Ellen Tabor,,No,,168,68,100
+Pottawattamie,CB 14,Court of Appeals Judge - Mary Ellen Tabor,,No,,179,54,125
+Pottawattamie,CB 15,Court of Appeals Judge - Mary Ellen Tabor,,No,,176,71,105
+Pottawattamie,CB 16,Court of Appeals Judge - Mary Ellen Tabor,,No,,260,78,182
+Pottawattamie,CB 17,Court of Appeals Judge - Mary Ellen Tabor,,No,,277,79,198
+Pottawattamie,CB 18,Court of Appeals Judge - Mary Ellen Tabor,,No,,252,77,175
+Pottawattamie,CB 19,Court of Appeals Judge - Mary Ellen Tabor,,No,,187,90,97
+Pottawattamie,CB 20,Court of Appeals Judge - Mary Ellen Tabor,,No,,204,66,138
+Pottawattamie,CB 21,Court of Appeals Judge - Mary Ellen Tabor,,No,,205,74,131
+Pottawattamie,CB 22,Court of Appeals Judge - Mary Ellen Tabor,,No,,436,186,250
+Pottawattamie,CRESCENT,Court of Appeals Judge - Mary Ellen Tabor,,No,,437,197,240
+Pottawattamie,GARNER,Court of Appeals Judge - Mary Ellen Tabor,,No,,449,178,271
+Pottawattamie,HANCOCK,Court of Appeals Judge - Mary Ellen Tabor,,No,,42,4,38
+Pottawattamie,LEWIS 1,Court of Appeals Judge - Mary Ellen Tabor,,No,,314,113,201
+Pottawattamie,LEWIS 2,Court of Appeals Judge - Mary Ellen Tabor,,No,,380,156,224
+Pottawattamie,MACEDONIA,Court of Appeals Judge - Mary Ellen Tabor,,No,,81,12,69
+Pottawattamie,MCCLELLAND,Court of Appeals Judge - Mary Ellen Tabor,,No,,30,2,28
+Pottawattamie,MINDEN,Court of Appeals Judge - Mary Ellen Tabor,,No,,158,24,134
+Pottawattamie,NEOLA,Court of Appeals Judge - Mary Ellen Tabor,,No,,115,21,94
+Pottawattamie,OAKLAND,Court of Appeals Judge - Mary Ellen Tabor,,No,,246,49,197
+Pottawattamie,TREYNOR,Court of Appeals Judge - Mary Ellen Tabor,,No,,443,127,316
+Pottawattamie,UNDERWOOD,Court of Appeals Judge - Mary Ellen Tabor,,No,,442,125,317
+Pottawattamie,WALNUT,Court of Appeals Judge - Mary Ellen Tabor,,No,,141,17,124
+Pottawattamie,AVOCA,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,627,91,536
+Pottawattamie,BOOMER,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,321,112,209
+Pottawattamie,CARSON,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,424,93,331
+Pottawattamie,CARTER LAKE 1,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,387,82,305
+Pottawattamie,CARTER LAKE 2,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,357,89,268
+Pottawattamie,CB 01,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,433,132,301
+Pottawattamie,CB 02,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,604,208,396
+Pottawattamie,CB 03,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,511,176,335
+Pottawattamie,CB 04,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,456,181,275
+Pottawattamie,CB 05,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,512,222,290
+Pottawattamie,CB 06,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,783,325,458
+Pottawattamie,CB 07,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,731,299,432
+Pottawattamie,CB 08,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,891,382,509
+Pottawattamie,CB 09,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,792,402,390
+Pottawattamie,CB 10,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,991,452,539
+Pottawattamie,CB 11,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,740,262,478
+Pottawattamie,CB 12,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,755,258,497
+Pottawattamie,CB 13,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,398,165,233
+Pottawattamie,CB 14,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,437,133,304
+Pottawattamie,CB 15,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,457,171,286
+Pottawattamie,CB 16,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,533,178,355
+Pottawattamie,CB 17,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,664,206,458
+Pottawattamie,CB 18,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,589,169,420
+Pottawattamie,CB 19,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,511,246,265
+Pottawattamie,CB 20,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,435,187,248
+Pottawattamie,CB 21,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,469,159,310
+Pottawattamie,CB 22,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,1164,491,673
+Pottawattamie,CRESCENT,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,802,339,463
+Pottawattamie,GARNER,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,1053,412,641
+Pottawattamie,HANCOCK,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,103,16,87
+Pottawattamie,LEWIS 1,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,675,242,433
+Pottawattamie,LEWIS 2,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,776,323,453
+Pottawattamie,MACEDONIA,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,170,37,133
+Pottawattamie,MCCLELLAND,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,43,5,38
+Pottawattamie,MINDEN,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,398,71,327
+Pottawattamie,NEOLA,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,264,46,218
+Pottawattamie,OAKLAND,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,615,144,471
+Pottawattamie,TREYNOR,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,865,225,640
+Pottawattamie,UNDERWOOD,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,892,239,653
+Pottawattamie,WALNUT,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,268,26,242
+Pottawattamie,AVOCA,Court of Appeals Judge - Samuel Langholz,,No,,291,52,239
+Pottawattamie,BOOMER,Court of Appeals Judge - Samuel Langholz,,No,,183,68,115
+Pottawattamie,CARSON,Court of Appeals Judge - Samuel Langholz,,No,,241,45,196
+Pottawattamie,CARTER LAKE 1,Court of Appeals Judge - Samuel Langholz,,No,,238,56,182
+Pottawattamie,CARTER LAKE 2,Court of Appeals Judge - Samuel Langholz,,No,,235,54,181
+Pottawattamie,CB 01,Court of Appeals Judge - Samuel Langholz,,No,,259,82,177
+Pottawattamie,CB 02,Court of Appeals Judge - Samuel Langholz,,No,,310,117,193
+Pottawattamie,CB 03,Court of Appeals Judge - Samuel Langholz,,No,,281,92,189
+Pottawattamie,CB 04,Court of Appeals Judge - Samuel Langholz,,No,,266,113,153
+Pottawattamie,CB 05,Court of Appeals Judge - Samuel Langholz,,No,,248,109,139
+Pottawattamie,CB 06,Court of Appeals Judge - Samuel Langholz,,No,,419,200,219
+Pottawattamie,CB 07,Court of Appeals Judge - Samuel Langholz,,No,,452,181,271
+Pottawattamie,CB 08,Court of Appeals Judge - Samuel Langholz,,No,,500,237,263
+Pottawattamie,CB 09,Court of Appeals Judge - Samuel Langholz,,No,,398,220,178
+Pottawattamie,CB 10,Court of Appeals Judge - Samuel Langholz,,No,,535,256,279
+Pottawattamie,CB 11,Court of Appeals Judge - Samuel Langholz,,No,,401,133,268
+Pottawattamie,CB 12,Court of Appeals Judge - Samuel Langholz,,No,,390,160,230
+Pottawattamie,CB 13,Court of Appeals Judge - Samuel Langholz,,No,,223,95,128
+Pottawattamie,CB 14,Court of Appeals Judge - Samuel Langholz,,No,,225,69,156
+Pottawattamie,CB 15,Court of Appeals Judge - Samuel Langholz,,No,,239,98,141
+Pottawattamie,CB 16,Court of Appeals Judge - Samuel Langholz,,No,,322,99,223
+Pottawattamie,CB 17,Court of Appeals Judge - Samuel Langholz,,No,,344,103,241
+Pottawattamie,CB 18,Court of Appeals Judge - Samuel Langholz,,No,,285,95,190
+Pottawattamie,CB 19,Court of Appeals Judge - Samuel Langholz,,No,,231,113,118
+Pottawattamie,CB 20,Court of Appeals Judge - Samuel Langholz,,No,,228,92,136
+Pottawattamie,CB 21,Court of Appeals Judge - Samuel Langholz,,No,,235,94,141
+Pottawattamie,CB 22,Court of Appeals Judge - Samuel Langholz,,No,,531,230,301
+Pottawattamie,CRESCENT,Court of Appeals Judge - Samuel Langholz,,No,,477,218,259
+Pottawattamie,GARNER,Court of Appeals Judge - Samuel Langholz,,No,,524,220,304
+Pottawattamie,HANCOCK,Court of Appeals Judge - Samuel Langholz,,No,,47,7,40
+Pottawattamie,LEWIS 1,Court of Appeals Judge - Samuel Langholz,,No,,342,134,208
+Pottawattamie,LEWIS 2,Court of Appeals Judge - Samuel Langholz,,No,,431,186,245
+Pottawattamie,MACEDONIA,Court of Appeals Judge - Samuel Langholz,,No,,90,16,74
+Pottawattamie,MCCLELLAND,Court of Appeals Judge - Samuel Langholz,,No,,29,2,27
+Pottawattamie,MINDEN,Court of Appeals Judge - Samuel Langholz,,No,,164,31,133
+Pottawattamie,NEOLA,Court of Appeals Judge - Samuel Langholz,,No,,131,26,105
+Pottawattamie,OAKLAND,Court of Appeals Judge - Samuel Langholz,,No,,279,63,216
+Pottawattamie,TREYNOR,Court of Appeals Judge - Samuel Langholz,,No,,491,146,345
+Pottawattamie,UNDERWOOD,Court of Appeals Judge - Samuel Langholz,,No,,471,141,330
+Pottawattamie,WALNUT,Court of Appeals Judge - Samuel Langholz,,No,,153,19,134
+Pottawattamie,AVOCA,Court of Appeals Judge - Samuel Langholz,,Yes,,568,76,492
+Pottawattamie,BOOMER,Court of Appeals Judge - Samuel Langholz,,Yes,,320,113,207
+Pottawattamie,CARSON,Court of Appeals Judge - Samuel Langholz,,Yes,,394,91,303
+Pottawattamie,CARTER LAKE 1,Court of Appeals Judge - Samuel Langholz,,Yes,,354,71,283
+Pottawattamie,CARTER LAKE 2,Court of Appeals Judge - Samuel Langholz,,Yes,,308,74,234
+Pottawattamie,CB 01,Court of Appeals Judge - Samuel Langholz,,Yes,,374,114,260
+Pottawattamie,CB 02,Court of Appeals Judge - Samuel Langholz,,Yes,,545,182,363
+Pottawattamie,CB 03,Court of Appeals Judge - Samuel Langholz,,Yes,,443,154,289
+Pottawattamie,CB 04,Court of Appeals Judge - Samuel Langholz,,Yes,,400,157,243
+Pottawattamie,CB 05,Court of Appeals Judge - Samuel Langholz,,Yes,,476,208,268
+Pottawattamie,CB 06,Court of Appeals Judge - Samuel Langholz,,Yes,,684,253,431
+Pottawattamie,CB 07,Court of Appeals Judge - Samuel Langholz,,Yes,,655,246,409
+Pottawattamie,CB 08,Court of Appeals Judge - Samuel Langholz,,Yes,,756,299,457
+Pottawattamie,CB 09,Court of Appeals Judge - Samuel Langholz,,Yes,,694,337,357
+Pottawattamie,CB 10,Court of Appeals Judge - Samuel Langholz,,Yes,,879,384,495
+Pottawattamie,CB 11,Court of Appeals Judge - Samuel Langholz,,Yes,,650,214,436
+Pottawattamie,CB 12,Court of Appeals Judge - Samuel Langholz,,Yes,,688,220,468
+Pottawattamie,CB 13,Court of Appeals Judge - Samuel Langholz,,Yes,,339,134,205
+Pottawattamie,CB 14,Court of Appeals Judge - Samuel Langholz,,Yes,,386,117,269
+Pottawattamie,CB 15,Court of Appeals Judge - Samuel Langholz,,Yes,,396,144,252
+Pottawattamie,CB 16,Court of Appeals Judge - Samuel Langholz,,Yes,,457,148,309
+Pottawattamie,CB 17,Court of Appeals Judge - Samuel Langholz,,Yes,,588,179,409
+Pottawattamie,CB 18,Court of Appeals Judge - Samuel Langholz,,Yes,,549,147,402
+Pottawattamie,CB 19,Court of Appeals Judge - Samuel Langholz,,Yes,,458,220,238
+Pottawattamie,CB 20,Court of Appeals Judge - Samuel Langholz,,Yes,,398,157,241
+Pottawattamie,CB 21,Court of Appeals Judge - Samuel Langholz,,Yes,,432,141,291
+Pottawattamie,CB 22,Court of Appeals Judge - Samuel Langholz,,Yes,,1060,444,616
+Pottawattamie,CRESCENT,Court of Appeals Judge - Samuel Langholz,,Yes,,745,314,431
+Pottawattamie,GARNER,Court of Appeals Judge - Samuel Langholz,,Yes,,962,360,602
+Pottawattamie,HANCOCK,Court of Appeals Judge - Samuel Langholz,,Yes,,94,13,81
+Pottawattamie,LEWIS 1,Court of Appeals Judge - Samuel Langholz,,Yes,,637,215,422
+Pottawattamie,LEWIS 2,Court of Appeals Judge - Samuel Langholz,,Yes,,716,285,431
+Pottawattamie,MACEDONIA,Court of Appeals Judge - Samuel Langholz,,Yes,,161,32,129
+Pottawattamie,MCCLELLAND,Court of Appeals Judge - Samuel Langholz,,Yes,,43,5,38
+Pottawattamie,MINDEN,Court of Appeals Judge - Samuel Langholz,,Yes,,385,60,325
+Pottawattamie,NEOLA,Court of Appeals Judge - Samuel Langholz,,Yes,,246,40,206
+Pottawattamie,OAKLAND,Court of Appeals Judge - Samuel Langholz,,Yes,,577,131,446
+Pottawattamie,TREYNOR,Court of Appeals Judge - Samuel Langholz,,Yes,,820,207,613
+Pottawattamie,UNDERWOOD,Court of Appeals Judge - Samuel Langholz,,Yes,,852,224,628
+Pottawattamie,WALNUT,Court of Appeals Judge - Samuel Langholz,,Yes,,253,25,228
+Pottawattamie,AVOCA,Court of Appeals Judge - Tyler J. Buller,,No,,275,51,224
+Pottawattamie,BOOMER,Court of Appeals Judge - Tyler J. Buller,,No,,165,64,101
+Pottawattamie,CARSON,Court of Appeals Judge - Tyler J. Buller,,No,,215,38,177
+Pottawattamie,CARTER LAKE 1,Court of Appeals Judge - Tyler J. Buller,,No,,217,49,168
+Pottawattamie,CARTER LAKE 2,Court of Appeals Judge - Tyler J. Buller,,No,,201,47,154
+Pottawattamie,CB 01,Court of Appeals Judge - Tyler J. Buller,,No,,227,77,150
+Pottawattamie,CB 02,Court of Appeals Judge - Tyler J. Buller,,No,,286,107,179
+Pottawattamie,CB 03,Court of Appeals Judge - Tyler J. Buller,,No,,242,81,161
+Pottawattamie,CB 04,Court of Appeals Judge - Tyler J. Buller,,No,,247,102,145
+Pottawattamie,CB 05,Court of Appeals Judge - Tyler J. Buller,,No,,219,105,114
+Pottawattamie,CB 06,Court of Appeals Judge - Tyler J. Buller,,No,,370,163,207
+Pottawattamie,CB 07,Court of Appeals Judge - Tyler J. Buller,,No,,400,147,253
+Pottawattamie,CB 08,Court of Appeals Judge - Tyler J. Buller,,No,,445,216,229
+Pottawattamie,CB 09,Court of Appeals Judge - Tyler J. Buller,,No,,342,190,152
+Pottawattamie,CB 10,Court of Appeals Judge - Tyler J. Buller,,No,,483,219,264
+Pottawattamie,CB 11,Court of Appeals Judge - Tyler J. Buller,,No,,373,121,252
+Pottawattamie,CB 12,Court of Appeals Judge - Tyler J. Buller,,No,,328,125,203
+Pottawattamie,CB 13,Court of Appeals Judge - Tyler J. Buller,,No,,200,88,112
+Pottawattamie,CB 14,Court of Appeals Judge - Tyler J. Buller,,No,,217,64,153
+Pottawattamie,CB 15,Court of Appeals Judge - Tyler J. Buller,,No,,192,78,114
+Pottawattamie,CB 16,Court of Appeals Judge - Tyler J. Buller,,No,,284,87,197
+Pottawattamie,CB 17,Court of Appeals Judge - Tyler J. Buller,,No,,306,92,214
+Pottawattamie,CB 18,Court of Appeals Judge - Tyler J. Buller,,No,,269,97,172
+Pottawattamie,CB 19,Court of Appeals Judge - Tyler J. Buller,,No,,212,101,111
+Pottawattamie,CB 20,Court of Appeals Judge - Tyler J. Buller,,No,,225,86,139
+Pottawattamie,CB 21,Court of Appeals Judge - Tyler J. Buller,,No,,224,86,138
+Pottawattamie,CB 22,Court of Appeals Judge - Tyler J. Buller,,No,,466,195,271
+Pottawattamie,CRESCENT,Court of Appeals Judge - Tyler J. Buller,,No,,429,206,223
+Pottawattamie,GARNER,Court of Appeals Judge - Tyler J. Buller,,No,,470,192,278
+Pottawattamie,HANCOCK,Court of Appeals Judge - Tyler J. Buller,,No,,36,4,32
+Pottawattamie,LEWIS 1,Court of Appeals Judge - Tyler J. Buller,,No,,306,113,193
+Pottawattamie,LEWIS 2,Court of Appeals Judge - Tyler J. Buller,,No,,370,165,205
+Pottawattamie,MACEDONIA,Court of Appeals Judge - Tyler J. Buller,,No,,81,14,67
+Pottawattamie,MCCLELLAND,Court of Appeals Judge - Tyler J. Buller,,No,,32,2,30
+Pottawattamie,MINDEN,Court of Appeals Judge - Tyler J. Buller,,No,,158,29,129
+Pottawattamie,NEOLA,Court of Appeals Judge - Tyler J. Buller,,No,,126,27,99
+Pottawattamie,OAKLAND,Court of Appeals Judge - Tyler J. Buller,,No,,244,52,192
+Pottawattamie,TREYNOR,Court of Appeals Judge - Tyler J. Buller,,No,,449,128,321
+Pottawattamie,UNDERWOOD,Court of Appeals Judge - Tyler J. Buller,,No,,431,127,304
+Pottawattamie,WALNUT,Court of Appeals Judge - Tyler J. Buller,,No,,141,15,126
+Pottawattamie,AVOCA,Court of Appeals Judge - Tyler J. Buller,,Yes,,591,80,511
+Pottawattamie,BOOMER,Court of Appeals Judge - Tyler J. Buller,,Yes,,333,115,218
+Pottawattamie,CARSON,Court of Appeals Judge - Tyler J. Buller,,Yes,,418,93,325
+Pottawattamie,CARTER LAKE 1,Court of Appeals Judge - Tyler J. Buller,,Yes,,379,77,302
+Pottawattamie,CARTER LAKE 2,Court of Appeals Judge - Tyler J. Buller,,Yes,,350,84,266
+Pottawattamie,CB 01,Court of Appeals Judge - Tyler J. Buller,,Yes,,413,122,291
+Pottawattamie,CB 02,Court of Appeals Judge - Tyler J. Buller,,Yes,,573,190,383
+Pottawattamie,CB 03,Court of Appeals Judge - Tyler J. Buller,,Yes,,491,168,323
+Pottawattamie,CB 04,Court of Appeals Judge - Tyler J. Buller,,Yes,,423,166,257
+Pottawattamie,CB 05,Court of Appeals Judge - Tyler J. Buller,,Yes,,513,215,298
+Pottawattamie,CB 06,Court of Appeals Judge - Tyler J. Buller,,Yes,,729,290,439
+Pottawattamie,CB 07,Court of Appeals Judge - Tyler J. Buller,,Yes,,709,284,425
+Pottawattamie,CB 08,Court of Appeals Judge - Tyler J. Buller,,Yes,,815,321,494
+Pottawattamie,CB 09,Court of Appeals Judge - Tyler J. Buller,,Yes,,743,362,381
+Pottawattamie,CB 10,Court of Appeals Judge - Tyler J. Buller,,Yes,,933,417,516
+Pottawattamie,CB 11,Court of Appeals Judge - Tyler J. Buller,,Yes,,674,226,448
+Pottawattamie,CB 12,Court of Appeals Judge - Tyler J. Buller,,Yes,,747,252,495
+Pottawattamie,CB 13,Court of Appeals Judge - Tyler J. Buller,,Yes,,360,141,219
+Pottawattamie,CB 14,Court of Appeals Judge - Tyler J. Buller,,Yes,,387,120,267
+Pottawattamie,CB 15,Court of Appeals Judge - Tyler J. Buller,,Yes,,436,161,275
+Pottawattamie,CB 16,Court of Appeals Judge - Tyler J. Buller,,Yes,,506,169,337
+Pottawattamie,CB 17,Court of Appeals Judge - Tyler J. Buller,,Yes,,627,191,436
+Pottawattamie,CB 18,Court of Appeals Judge - Tyler J. Buller,,Yes,,563,144,419
+Pottawattamie,CB 19,Court of Appeals Judge - Tyler J. Buller,,Yes,,478,233,245
+Pottawattamie,CB 20,Court of Appeals Judge - Tyler J. Buller,,Yes,,408,165,243
+Pottawattamie,CB 21,Court of Appeals Judge - Tyler J. Buller,,Yes,,443,150,293
+Pottawattamie,CB 22,Court of Appeals Judge - Tyler J. Buller,,Yes,,1120,479,641
+Pottawattamie,CRESCENT,Court of Appeals Judge - Tyler J. Buller,,Yes,,800,324,476
+Pottawattamie,GARNER,Court of Appeals Judge - Tyler J. Buller,,Yes,,1016,388,628
+Pottawattamie,HANCOCK,Court of Appeals Judge - Tyler J. Buller,,Yes,,108,17,91
+Pottawattamie,LEWIS 1,Court of Appeals Judge - Tyler J. Buller,,Yes,,668,234,434
+Pottawattamie,LEWIS 2,Court of Appeals Judge - Tyler J. Buller,,Yes,,779,308,471
+Pottawattamie,MACEDONIA,Court of Appeals Judge - Tyler J. Buller,,Yes,,175,36,139
+Pottawattamie,MCCLELLAND,Court of Appeals Judge - Tyler J. Buller,,Yes,,41,5,36
+Pottawattamie,MINDEN,Court of Appeals Judge - Tyler J. Buller,,Yes,,396,65,331
+Pottawattamie,NEOLA,Court of Appeals Judge - Tyler J. Buller,,Yes,,249,40,209
+Pottawattamie,OAKLAND,Court of Appeals Judge - Tyler J. Buller,,Yes,,606,137,469
+Pottawattamie,TREYNOR,Court of Appeals Judge - Tyler J. Buller,,Yes,,859,224,635
+Pottawattamie,UNDERWOOD,Court of Appeals Judge - Tyler J. Buller,,Yes,,894,238,656
+Pottawattamie,WALNUT,Court of Appeals Judge - Tyler J. Buller,,Yes,,267,29,238
+Pottawattamie,CRESCENT,Crescent Township Trustee,,Charles Stokes Jr.,,217,87,130
+Pottawattamie,CRESCENT,Crescent Township Trustee,,Michael Paul Schropp,,249,104,145
+Pottawattamie,CRESCENT,Crescent Township Trustee,,Write-In,,4,3,1
+Pottawattamie,AVOCA,District 4 Associate Judge - David W. Brooks,,No,,240,39,201
+Pottawattamie,BOOMER,District 4 Associate Judge - David W. Brooks,,No,,153,59,94
+Pottawattamie,CARSON,District 4 Associate Judge - David W. Brooks,,No,,198,35,163
+Pottawattamie,CARTER LAKE 1,District 4 Associate Judge - David W. Brooks,,No,,203,48,155
+Pottawattamie,CARTER LAKE 2,District 4 Associate Judge - David W. Brooks,,No,,185,40,145
+Pottawattamie,CB 01,District 4 Associate Judge - David W. Brooks,,No,,205,66,139
+Pottawattamie,CB 02,District 4 Associate Judge - David W. Brooks,,No,,257,99,158
+Pottawattamie,CB 03,District 4 Associate Judge - David W. Brooks,,No,,220,70,150
+Pottawattamie,CB 04,District 4 Associate Judge - David W. Brooks,,No,,219,94,125
+Pottawattamie,CB 05,District 4 Associate Judge - David W. Brooks,,No,,198,95,103
+Pottawattamie,CB 06,District 4 Associate Judge - David W. Brooks,,No,,344,156,188
+Pottawattamie,CB 07,District 4 Associate Judge - David W. Brooks,,No,,343,125,218
+Pottawattamie,CB 08,District 4 Associate Judge - David W. Brooks,,No,,398,191,207
+Pottawattamie,CB 09,District 4 Associate Judge - David W. Brooks,,No,,314,178,136
+Pottawattamie,CB 10,District 4 Associate Judge - David W. Brooks,,No,,420,195,225
+Pottawattamie,CB 11,District 4 Associate Judge - David W. Brooks,,No,,326,104,222
+Pottawattamie,CB 12,District 4 Associate Judge - David W. Brooks,,No,,284,107,177
+Pottawattamie,CB 13,District 4 Associate Judge - David W. Brooks,,No,,170,70,100
+Pottawattamie,CB 14,District 4 Associate Judge - David W. Brooks,,No,,184,54,130
+Pottawattamie,CB 15,District 4 Associate Judge - David W. Brooks,,No,,173,70,103
+Pottawattamie,CB 16,District 4 Associate Judge - David W. Brooks,,No,,258,85,173
+Pottawattamie,CB 17,District 4 Associate Judge - David W. Brooks,,No,,287,90,197
+Pottawattamie,CB 18,District 4 Associate Judge - David W. Brooks,,No,,246,85,161
+Pottawattamie,CB 19,District 4 Associate Judge - David W. Brooks,,No,,188,98,90
+Pottawattamie,CB 20,District 4 Associate Judge - David W. Brooks,,No,,192,73,119
+Pottawattamie,CB 21,District 4 Associate Judge - David W. Brooks,,No,,199,78,121
+Pottawattamie,CB 22,District 4 Associate Judge - David W. Brooks,,No,,399,176,223
+Pottawattamie,CRESCENT,District 4 Associate Judge - David W. Brooks,,No,,385,170,215
+Pottawattamie,GARNER,District 4 Associate Judge - David W. Brooks,,No,,424,177,247
+Pottawattamie,HANCOCK,District 4 Associate Judge - David W. Brooks,,No,,33,5,28
+Pottawattamie,LEWIS 1,District 4 Associate Judge - David W. Brooks,,No,,275,96,179
+Pottawattamie,LEWIS 2,District 4 Associate Judge - David W. Brooks,,No,,361,161,200
+Pottawattamie,MACEDONIA,District 4 Associate Judge - David W. Brooks,,No,,65,9,56
+Pottawattamie,MCCLELLAND,District 4 Associate Judge - David W. Brooks,,No,,28,3,25
+Pottawattamie,MINDEN,District 4 Associate Judge - David W. Brooks,,No,,140,20,120
+Pottawattamie,NEOLA,District 4 Associate Judge - David W. Brooks,,No,,109,24,85
+Pottawattamie,OAKLAND,District 4 Associate Judge - David W. Brooks,,No,,227,49,178
+Pottawattamie,TREYNOR,District 4 Associate Judge - David W. Brooks,,No,,399,116,283
+Pottawattamie,UNDERWOOD,District 4 Associate Judge - David W. Brooks,,No,,403,124,279
+Pottawattamie,WALNUT,District 4 Associate Judge - David W. Brooks,,No,,135,18,117
+Pottawattamie,AVOCA,District 4 Associate Judge - David W. Brooks,,Yes,,639,90,549
+Pottawattamie,BOOMER,District 4 Associate Judge - David W. Brooks,,Yes,,351,122,229
+Pottawattamie,CARSON,District 4 Associate Judge - David W. Brooks,,Yes,,439,99,340
+Pottawattamie,CARTER LAKE 1,District 4 Associate Judge - David W. Brooks,,Yes,,398,77,321
+Pottawattamie,CARTER LAKE 2,District 4 Associate Judge - David W. Brooks,,Yes,,376,94,282
+Pottawattamie,CB 01,District 4 Associate Judge - David W. Brooks,,Yes,,436,133,303
+Pottawattamie,CB 02,District 4 Associate Judge - David W. Brooks,,Yes,,606,199,407
+Pottawattamie,CB 03,District 4 Associate Judge - David W. Brooks,,Yes,,526,182,344
+Pottawattamie,CB 04,District 4 Associate Judge - David W. Brooks,,Yes,,465,183,282
+Pottawattamie,CB 05,District 4 Associate Judge - David W. Brooks,,Yes,,530,225,305
+Pottawattamie,CB 06,District 4 Associate Judge - David W. Brooks,,Yes,,764,300,464
+Pottawattamie,CB 07,District 4 Associate Judge - David W. Brooks,,Yes,,778,316,462
+Pottawattamie,CB 08,District 4 Associate Judge - David W. Brooks,,Yes,,876,357,519
+Pottawattamie,CB 09,District 4 Associate Judge - David W. Brooks,,Yes,,796,389,407
+Pottawattamie,CB 10,District 4 Associate Judge - David W. Brooks,,Yes,,1013,444,569
+Pottawattamie,CB 11,District 4 Associate Judge - David W. Brooks,,Yes,,716,240,476
+Pottawattamie,CB 12,District 4 Associate Judge - David W. Brooks,,Yes,,800,279,521
+Pottawattamie,CB 13,District 4 Associate Judge - David W. Brooks,,Yes,,394,161,233
+Pottawattamie,CB 14,District 4 Associate Judge - David W. Brooks,,Yes,,429,131,298
+Pottawattamie,CB 15,District 4 Associate Judge - David W. Brooks,,Yes,,467,177,290
+Pottawattamie,CB 16,District 4 Associate Judge - David W. Brooks,,Yes,,536,170,366
+Pottawattamie,CB 17,District 4 Associate Judge - David W. Brooks,,Yes,,651,193,458
+Pottawattamie,CB 18,District 4 Associate Judge - David W. Brooks,,Yes,,604,164,440
+Pottawattamie,CB 19,District 4 Associate Judge - David W. Brooks,,Yes,,512,242,270
+Pottawattamie,CB 20,District 4 Associate Judge - David W. Brooks,,Yes,,442,181,261
+Pottawattamie,CB 21,District 4 Associate Judge - David W. Brooks,,Yes,,484,158,326
+Pottawattamie,CB 22,District 4 Associate Judge - David W. Brooks,,Yes,,1200,499,701
+Pottawattamie,CRESCENT,District 4 Associate Judge - David W. Brooks,,Yes,,852,362,490
+Pottawattamie,GARNER,District 4 Associate Judge - David W. Brooks,,Yes,,1079,415,664
+Pottawattamie,HANCOCK,District 4 Associate Judge - David W. Brooks,,Yes,,114,17,97
+Pottawattamie,LEWIS 1,District 4 Associate Judge - David W. Brooks,,Yes,,715,253,462
+Pottawattamie,LEWIS 2,District 4 Associate Judge - David W. Brooks,,Yes,,795,315,480
+Pottawattamie,MACEDONIA,District 4 Associate Judge - David W. Brooks,,Yes,,189,42,147
+Pottawattamie,MCCLELLAND,District 4 Associate Judge - David W. Brooks,,Yes,,44,4,40
+Pottawattamie,MINDEN,District 4 Associate Judge - David W. Brooks,,Yes,,414,76,338
+Pottawattamie,NEOLA,District 4 Associate Judge - David W. Brooks,,Yes,,267,42,225
+Pottawattamie,OAKLAND,District 4 Associate Judge - David W. Brooks,,Yes,,644,144,500
+Pottawattamie,TREYNOR,District 4 Associate Judge - David W. Brooks,,Yes,,908,234,674
+Pottawattamie,UNDERWOOD,District 4 Associate Judge - David W. Brooks,,Yes,,937,238,699
+Pottawattamie,WALNUT,District 4 Associate Judge - David W. Brooks,,Yes,,287,26,261
+Pottawattamie,AVOCA,District 4 Judge - Eric John Nelson,,No,,240,38,202
+Pottawattamie,BOOMER,District 4 Judge - Eric John Nelson,,No,,152,58,94
+Pottawattamie,CARSON,District 4 Judge - Eric John Nelson,,No,,207,38,169
+Pottawattamie,CARTER LAKE 1,District 4 Judge - Eric John Nelson,,No,,212,48,164
+Pottawattamie,CARTER LAKE 2,District 4 Judge - Eric John Nelson,,No,,201,44,157
+Pottawattamie,CB 01,District 4 Judge - Eric John Nelson,,No,,198,66,132
+Pottawattamie,CB 02,District 4 Judge - Eric John Nelson,,No,,263,105,158
+Pottawattamie,CB 03,District 4 Judge - Eric John Nelson,,No,,228,75,153
+Pottawattamie,CB 04,District 4 Judge - Eric John Nelson,,No,,219,97,122
+Pottawattamie,CB 05,District 4 Judge - Eric John Nelson,,No,,201,96,105
+Pottawattamie,CB 06,District 4 Judge - Eric John Nelson,,No,,337,147,190
+Pottawattamie,CB 07,District 4 Judge - Eric John Nelson,,No,,342,111,231
+Pottawattamie,CB 08,District 4 Judge - Eric John Nelson,,No,,408,195,213
+Pottawattamie,CB 09,District 4 Judge - Eric John Nelson,,No,,299,166,133
+Pottawattamie,CB 10,District 4 Judge - Eric John Nelson,,No,,425,191,234
+Pottawattamie,CB 11,District 4 Judge - Eric John Nelson,,No,,320,95,225
+Pottawattamie,CB 12,District 4 Judge - Eric John Nelson,,No,,299,108,191
+Pottawattamie,CB 13,District 4 Judge - Eric John Nelson,,No,,169,67,102
+Pottawattamie,CB 14,District 4 Judge - Eric John Nelson,,No,,183,51,132
+Pottawattamie,CB 15,District 4 Judge - Eric John Nelson,,No,,172,75,97
+Pottawattamie,CB 16,District 4 Judge - Eric John Nelson,,No,,288,91,197
+Pottawattamie,CB 17,District 4 Judge - Eric John Nelson,,No,,284,85,199
+Pottawattamie,CB 18,District 4 Judge - Eric John Nelson,,No,,260,96,164
+Pottawattamie,CB 19,District 4 Judge - Eric John Nelson,,No,,190,95,95
+Pottawattamie,CB 20,District 4 Judge - Eric John Nelson,,No,,179,66,113
+Pottawattamie,CB 21,District 4 Judge - Eric John Nelson,,No,,213,83,130
+Pottawattamie,CB 22,District 4 Judge - Eric John Nelson,,No,,405,185,220
+Pottawattamie,CRESCENT,District 4 Judge - Eric John Nelson,,No,,377,175,202
+Pottawattamie,GARNER,District 4 Judge - Eric John Nelson,,No,,413,168,245
+Pottawattamie,HANCOCK,District 4 Judge - Eric John Nelson,,No,,35,7,28
+Pottawattamie,LEWIS 1,District 4 Judge - Eric John Nelson,,No,,270,98,172
+Pottawattamie,LEWIS 2,District 4 Judge - Eric John Nelson,,No,,349,145,204
+Pottawattamie,MACEDONIA,District 4 Judge - Eric John Nelson,,No,,71,12,59
+Pottawattamie,MCCLELLAND,District 4 Judge - Eric John Nelson,,No,,29,3,26
+Pottawattamie,MINDEN,District 4 Judge - Eric John Nelson,,No,,129,23,106
+Pottawattamie,NEOLA,District 4 Judge - Eric John Nelson,,No,,107,23,84
+Pottawattamie,OAKLAND,District 4 Judge - Eric John Nelson,,No,,235,54,181
+Pottawattamie,TREYNOR,District 4 Judge - Eric John Nelson,,No,,416,105,311
+Pottawattamie,UNDERWOOD,District 4 Judge - Eric John Nelson,,No,,387,115,272
+Pottawattamie,WALNUT,District 4 Judge - Eric John Nelson,,No,,133,18,115
+Pottawattamie,AVOCA,District 4 Judge - Eric John Nelson,,Yes,,636,91,545
+Pottawattamie,BOOMER,District 4 Judge - Eric John Nelson,,Yes,,354,123,231
+Pottawattamie,CARSON,District 4 Judge - Eric John Nelson,,Yes,,434,99,335
+Pottawattamie,CARTER LAKE 1,District 4 Judge - Eric John Nelson,,Yes,,387,75,312
+Pottawattamie,CARTER LAKE 2,District 4 Judge - Eric John Nelson,,Yes,,357,87,270
+Pottawattamie,CB 01,District 4 Judge - Eric John Nelson,,Yes,,442,133,309
+Pottawattamie,CB 02,District 4 Judge - Eric John Nelson,,Yes,,597,194,403
+Pottawattamie,CB 03,District 4 Judge - Eric John Nelson,,Yes,,512,178,334
+Pottawattamie,CB 04,District 4 Judge - Eric John Nelson,,Yes,,465,182,283
+Pottawattamie,CB 05,District 4 Judge - Eric John Nelson,,Yes,,532,223,309
+Pottawattamie,CB 06,District 4 Judge - Eric John Nelson,,Yes,,779,316,463
+Pottawattamie,CB 07,District 4 Judge - Eric John Nelson,,Yes,,778,325,453
+Pottawattamie,CB 08,District 4 Judge - Eric John Nelson,,Yes,,868,357,511
+Pottawattamie,CB 09,District 4 Judge - Eric John Nelson,,Yes,,818,407,411
+Pottawattamie,CB 10,District 4 Judge - Eric John Nelson,,Yes,,1013,453,560
+Pottawattamie,CB 11,District 4 Judge - Eric John Nelson,,Yes,,732,252,480
+Pottawattamie,CB 12,District 4 Judge - Eric John Nelson,,Yes,,785,278,507
+Pottawattamie,CB 13,District 4 Judge - Eric John Nelson,,Yes,,390,160,230
+Pottawattamie,CB 14,District 4 Judge - Eric John Nelson,,Yes,,427,135,292
+Pottawattamie,CB 15,District 4 Judge - Eric John Nelson,,Yes,,465,173,292
+Pottawattamie,CB 16,District 4 Judge - Eric John Nelson,,Yes,,506,166,340
+Pottawattamie,CB 17,District 4 Judge - Eric John Nelson,,Yes,,651,198,453
+Pottawattamie,CB 18,District 4 Judge - Eric John Nelson,,Yes,,588,154,434
+Pottawattamie,CB 19,District 4 Judge - Eric John Nelson,,Yes,,523,254,269
+Pottawattamie,CB 20,District 4 Judge - Eric John Nelson,,Yes,,455,186,269
+Pottawattamie,CB 21,District 4 Judge - Eric John Nelson,,Yes,,464,151,313
+Pottawattamie,CB 22,District 4 Judge - Eric John Nelson,,Yes,,1228,521,707
+Pottawattamie,CRESCENT,District 4 Judge - Eric John Nelson,,Yes,,861,360,501
+Pottawattamie,GARNER,District 4 Judge - Eric John Nelson,,Yes,,1109,431,678
+Pottawattamie,HANCOCK,District 4 Judge - Eric John Nelson,,Yes,,113,15,98
+Pottawattamie,LEWIS 1,District 4 Judge - Eric John Nelson,,Yes,,728,258,470
+Pottawattamie,LEWIS 2,District 4 Judge - Eric John Nelson,,Yes,,823,333,490
+Pottawattamie,MACEDONIA,District 4 Judge - Eric John Nelson,,Yes,,185,39,146
+Pottawattamie,MCCLELLAND,District 4 Judge - Eric John Nelson,,Yes,,43,4,39
+Pottawattamie,MINDEN,District 4 Judge - Eric John Nelson,,Yes,,427,73,354
+Pottawattamie,NEOLA,District 4 Judge - Eric John Nelson,,Yes,,271,43,228
+Pottawattamie,OAKLAND,District 4 Judge - Eric John Nelson,,Yes,,636,140,496
+Pottawattamie,TREYNOR,District 4 Judge - Eric John Nelson,,Yes,,897,248,649
+Pottawattamie,UNDERWOOD,District 4 Judge - Eric John Nelson,,Yes,,954,249,705
+Pottawattamie,WALNUT,District 4 Judge - Eric John Nelson,,Yes,,288,26,262
+Pottawattamie,AVOCA,District 4 Judge - Jennifer Benson Bahr,,No,,209,30,179
+Pottawattamie,BOOMER,District 4 Judge - Jennifer Benson Bahr,,No,,160,59,101
+Pottawattamie,CARSON,District 4 Judge - Jennifer Benson Bahr,,No,,208,38,170
+Pottawattamie,CARTER LAKE 1,District 4 Judge - Jennifer Benson Bahr,,No,,197,44,153
+Pottawattamie,CARTER LAKE 2,District 4 Judge - Jennifer Benson Bahr,,No,,193,40,153
+Pottawattamie,CB 01,District 4 Judge - Jennifer Benson Bahr,,No,,195,60,135
+Pottawattamie,CB 02,District 4 Judge - Jennifer Benson Bahr,,No,,253,97,156
+Pottawattamie,CB 03,District 4 Judge - Jennifer Benson Bahr,,No,,211,74,137
+Pottawattamie,CB 04,District 4 Judge - Jennifer Benson Bahr,,No,,216,93,123
+Pottawattamie,CB 05,District 4 Judge - Jennifer Benson Bahr,,No,,212,99,113
+Pottawattamie,CB 06,District 4 Judge - Jennifer Benson Bahr,,No,,314,130,184
+Pottawattamie,CB 07,District 4 Judge - Jennifer Benson Bahr,,No,,341,112,229
+Pottawattamie,CB 08,District 4 Judge - Jennifer Benson Bahr,,No,,410,195,215
+Pottawattamie,CB 09,District 4 Judge - Jennifer Benson Bahr,,No,,292,160,132
+Pottawattamie,CB 10,District 4 Judge - Jennifer Benson Bahr,,No,,401,179,222
+Pottawattamie,CB 11,District 4 Judge - Jennifer Benson Bahr,,No,,299,92,207
+Pottawattamie,CB 12,District 4 Judge - Jennifer Benson Bahr,,No,,296,110,186
+Pottawattamie,CB 13,District 4 Judge - Jennifer Benson Bahr,,No,,154,61,93
+Pottawattamie,CB 14,District 4 Judge - Jennifer Benson Bahr,,No,,167,48,119
+Pottawattamie,CB 15,District 4 Judge - Jennifer Benson Bahr,,No,,159,63,96
+Pottawattamie,CB 16,District 4 Judge - Jennifer Benson Bahr,,No,,246,76,170
+Pottawattamie,CB 17,District 4 Judge - Jennifer Benson Bahr,,No,,259,72,187
+Pottawattamie,CB 18,District 4 Judge - Jennifer Benson Bahr,,No,,241,78,163
+Pottawattamie,CB 19,District 4 Judge - Jennifer Benson Bahr,,No,,188,98,90
+Pottawattamie,CB 20,District 4 Judge - Jennifer Benson Bahr,,No,,178,65,113
+Pottawattamie,CB 21,District 4 Judge - Jennifer Benson Bahr,,No,,194,70,124
+Pottawattamie,CB 22,District 4 Judge - Jennifer Benson Bahr,,No,,416,177,239
+Pottawattamie,CRESCENT,District 4 Judge - Jennifer Benson Bahr,,No,,388,168,220
+Pottawattamie,GARNER,District 4 Judge - Jennifer Benson Bahr,,No,,411,157,254
+Pottawattamie,HANCOCK,District 4 Judge - Jennifer Benson Bahr,,No,,31,1,30
+Pottawattamie,LEWIS 1,District 4 Judge - Jennifer Benson Bahr,,No,,271,94,177
+Pottawattamie,LEWIS 2,District 4 Judge - Jennifer Benson Bahr,,No,,351,153,198
+Pottawattamie,MACEDONIA,District 4 Judge - Jennifer Benson Bahr,,No,,61,9,52
+Pottawattamie,MCCLELLAND,District 4 Judge - Jennifer Benson Bahr,,No,,29,3,26
+Pottawattamie,MINDEN,District 4 Judge - Jennifer Benson Bahr,,No,,132,18,114
+Pottawattamie,NEOLA,District 4 Judge - Jennifer Benson Bahr,,No,,107,21,86
+Pottawattamie,OAKLAND,District 4 Judge - Jennifer Benson Bahr,,No,,230,51,179
+Pottawattamie,TREYNOR,District 4 Judge - Jennifer Benson Bahr,,No,,411,114,297
+Pottawattamie,UNDERWOOD,District 4 Judge - Jennifer Benson Bahr,,No,,393,116,277
+Pottawattamie,WALNUT,District 4 Judge - Jennifer Benson Bahr,,No,,133,18,115
+Pottawattamie,AVOCA,District 4 Judge - Jennifer Benson Bahr,,Yes,,724,110,614
+Pottawattamie,BOOMER,District 4 Judge - Jennifer Benson Bahr,,Yes,,343,122,221
+Pottawattamie,CARSON,District 4 Judge - Jennifer Benson Bahr,,Yes,,431,98,333
+Pottawattamie,CARTER LAKE 1,District 4 Judge - Jennifer Benson Bahr,,Yes,,399,78,321
+Pottawattamie,CARTER LAKE 2,District 4 Judge - Jennifer Benson Bahr,,Yes,,367,92,275
+Pottawattamie,CB 01,District 4 Judge - Jennifer Benson Bahr,,Yes,,442,138,304
+Pottawattamie,CB 02,District 4 Judge - Jennifer Benson Bahr,,Yes,,603,202,401
+Pottawattamie,CB 03,District 4 Judge - Jennifer Benson Bahr,,Yes,,532,181,351
+Pottawattamie,CB 04,District 4 Judge - Jennifer Benson Bahr,,Yes,,454,179,275
+Pottawattamie,CB 05,District 4 Judge - Jennifer Benson Bahr,,Yes,,508,219,289
+Pottawattamie,CB 06,District 4 Judge - Jennifer Benson Bahr,,Yes,,782,318,464
+Pottawattamie,CB 07,District 4 Judge - Jennifer Benson Bahr,,Yes,,773,322,451
+Pottawattamie,CB 08,District 4 Judge - Jennifer Benson Bahr,,Yes,,854,349,505
+Pottawattamie,CB 09,District 4 Judge - Jennifer Benson Bahr,,Yes,,814,403,411
+Pottawattamie,CB 10,District 4 Judge - Jennifer Benson Bahr,,Yes,,1016,457,559
+Pottawattamie,CB 11,District 4 Judge - Jennifer Benson Bahr,,Yes,,755,256,499
+Pottawattamie,CB 12,District 4 Judge - Jennifer Benson Bahr,,Yes,,788,274,514
+Pottawattamie,CB 13,District 4 Judge - Jennifer Benson Bahr,,Yes,,399,163,236
+Pottawattamie,CB 14,District 4 Judge - Jennifer Benson Bahr,,Yes,,439,133,306
+Pottawattamie,CB 15,District 4 Judge - Jennifer Benson Bahr,,Yes,,475,181,294
+Pottawattamie,CB 16,District 4 Judge - Jennifer Benson Bahr,,Yes,,543,183,360
+Pottawattamie,CB 17,District 4 Judge - Jennifer Benson Bahr,,Yes,,674,210,464
+Pottawattamie,CB 18,District 4 Judge - Jennifer Benson Bahr,,Yes,,602,170,432
+Pottawattamie,CB 19,District 4 Judge - Jennifer Benson Bahr,,Yes,,517,243,274
+Pottawattamie,CB 20,District 4 Judge - Jennifer Benson Bahr,,Yes,,460,189,271
+Pottawattamie,CB 21,District 4 Judge - Jennifer Benson Bahr,,Yes,,478,165,313
+Pottawattamie,CB 22,District 4 Judge - Jennifer Benson Bahr,,Yes,,1195,511,684
+Pottawattamie,CRESCENT,District 4 Judge - Jennifer Benson Bahr,,Yes,,847,370,477
+Pottawattamie,GARNER,District 4 Judge - Jennifer Benson Bahr,,Yes,,1097,440,657
+Pottawattamie,HANCOCK,District 4 Judge - Jennifer Benson Bahr,,Yes,,125,20,105
+Pottawattamie,LEWIS 1,District 4 Judge - Jennifer Benson Bahr,,Yes,,713,254,459
+Pottawattamie,LEWIS 2,District 4 Judge - Jennifer Benson Bahr,,Yes,,808,323,485
+Pottawattamie,MACEDONIA,District 4 Judge - Jennifer Benson Bahr,,Yes,,193,41,152
+Pottawattamie,MCCLELLAND,District 4 Judge - Jennifer Benson Bahr,,Yes,,42,4,38
+Pottawattamie,MINDEN,District 4 Judge - Jennifer Benson Bahr,,Yes,,420,78,342
+Pottawattamie,NEOLA,District 4 Judge - Jennifer Benson Bahr,,Yes,,273,46,227
+Pottawattamie,OAKLAND,District 4 Judge - Jennifer Benson Bahr,,Yes,,643,145,498
+Pottawattamie,TREYNOR,District 4 Judge - Jennifer Benson Bahr,,Yes,,897,238,659
+Pottawattamie,UNDERWOOD,District 4 Judge - Jennifer Benson Bahr,,Yes,,945,252,693
+Pottawattamie,WALNUT,District 4 Judge - Jennifer Benson Bahr,,Yes,,291,26,265
+Pottawattamie,GARNER,Garner Township Trustee,,Dean A Anderson,,1500,600,900
+Pottawattamie,GARNER,Garner Township Trustee,,Write-In,,40,14,26
+Pottawattamie,MACEDONIA,Grove Township Trustee,,Darrell H Houser,,88,35,53
+Pottawattamie,MACEDONIA,Grove Township Trustee,,Donald E Perdue,,93,36,57
+Pottawattamie,MACEDONIA,Grove Township Trustee,,Write-In,,0,0,0
+Pottawattamie,TREYNOR,Hardin Township Trustee,,Edward A Morse,,379,143,236
+Pottawattamie,TREYNOR,Hardin Township Trustee,,Jean M Hartwell,,380,148,232
+Pottawattamie,TREYNOR,Hardin Township Trustee,,Write-In,,4,0,4
+Pottawattamie,UNDERWOOD,Hazel Dell Township Trustee,,Craig Peterson,,625,238,387
+Pottawattamie,UNDERWOOD,Hazel Dell Township Trustee,,Keith Hoffman,,581,217,364
+Pottawattamie,UNDERWOOD,Hazel Dell Township Trustee,,Write-In,,4,3,1
+Pottawattamie,AVOCA,Iowa Western Community College - Public Measure SB,,No,,328,50,278
+Pottawattamie,BOOMER,Iowa Western Community College - Public Measure SB,,No,,276,93,183
+Pottawattamie,CARSON,Iowa Western Community College - Public Measure SB,,No,,343,85,258
+Pottawattamie,CARTER LAKE 1,Iowa Western Community College - Public Measure SB,,No,,213,41,172
+Pottawattamie,CARTER LAKE 2,Iowa Western Community College - Public Measure SB,,No,,194,53,141
+Pottawattamie,CB 01,Iowa Western Community College - Public Measure SB,,No,,223,76,147
+Pottawattamie,CB 02,Iowa Western Community College - Public Measure SB,,No,,354,134,220
+Pottawattamie,CB 03,Iowa Western Community College - Public Measure SB,,No,,273,89,184
+Pottawattamie,CB 04,Iowa Western Community College - Public Measure SB,,No,,265,105,160
+Pottawattamie,CB 05,Iowa Western Community College - Public Measure SB,,No,,286,139,147
+Pottawattamie,CB 06,Iowa Western Community College - Public Measure SB,,No,,407,171,236
+Pottawattamie,CB 07,Iowa Western Community College - Public Measure SB,,No,,417,177,240
+Pottawattamie,CB 08,Iowa Western Community College - Public Measure SB,,No,,478,184,294
+Pottawattamie,CB 09,Iowa Western Community College - Public Measure SB,,No,,373,184,189
+Pottawattamie,CB 10,Iowa Western Community College - Public Measure SB,,No,,571,250,321
+Pottawattamie,CB 11,Iowa Western Community College - Public Measure SB,,No,,364,115,249
+Pottawattamie,CB 12,Iowa Western Community College - Public Measure SB,,No,,458,147,311
+Pottawattamie,CB 13,Iowa Western Community College - Public Measure SB,,No,,193,74,119
+Pottawattamie,CB 14,Iowa Western Community College - Public Measure SB,,No,,263,76,187
+Pottawattamie,CB 15,Iowa Western Community College - Public Measure SB,,No,,231,99,132
+Pottawattamie,CB 16,Iowa Western Community College - Public Measure SB,,No,,318,92,226
+Pottawattamie,CB 17,Iowa Western Community College - Public Measure SB,,No,,340,108,232
+Pottawattamie,CB 18,Iowa Western Community College - Public Measure SB,,No,,312,94,218
+Pottawattamie,CB 19,Iowa Western Community College - Public Measure SB,,No,,302,133,169
+Pottawattamie,CB 20,Iowa Western Community College - Public Measure SB,,No,,411,144,267
+Pottawattamie,CB 21,Iowa Western Community College - Public Measure SB,,No,,287,96,191
+Pottawattamie,CB 22,Iowa Western Community College - Public Measure SB,,No,,815,334,481
+Pottawattamie,CRESCENT,Iowa Western Community College - Public Measure SB,,No,,629,279,350
+Pottawattamie,GARNER,Iowa Western Community College - Public Measure SB,,No,,691,272,419
+Pottawattamie,HANCOCK,Iowa Western Community College - Public Measure SB,,No,,63,10,53
+Pottawattamie,LEWIS 1,Iowa Western Community College - Public Measure SB,,No,,533,191,342
+Pottawattamie,LEWIS 2,Iowa Western Community College - Public Measure SB,,No,,717,294,423
+Pottawattamie,MACEDONIA,Iowa Western Community College - Public Measure SB,,No,,137,31,106
+Pottawattamie,MCCLELLAND,Iowa Western Community College - Public Measure SB,,No,,55,6,49
+Pottawattamie,MINDEN,Iowa Western Community College - Public Measure SB,,No,,236,42,194
+Pottawattamie,NEOLA,Iowa Western Community College - Public Measure SB,,No,,153,25,128
+Pottawattamie,OAKLAND,Iowa Western Community College - Public Measure SB,,No,,411,91,320
+Pottawattamie,TREYNOR,Iowa Western Community College - Public Measure SB,,No,,637,175,462
+Pottawattamie,UNDERWOOD,Iowa Western Community College - Public Measure SB,,No,,799,226,573
+Pottawattamie,WALNUT,Iowa Western Community College - Public Measure SB,,No,,188,19,169
+Pottawattamie,AVOCA,Iowa Western Community College - Public Measure SB,,Yes,,697,119,578
+Pottawattamie,BOOMER,Iowa Western Community College - Public Measure SB,,Yes,,335,122,213
+Pottawattamie,CARSON,Iowa Western Community College - Public Measure SB,,Yes,,447,87,360
+Pottawattamie,CARTER LAKE 1,Iowa Western Community College - Public Measure SB,,Yes,,492,115,377
+Pottawattamie,CARTER LAKE 2,Iowa Western Community College - Public Measure SB,,Yes,,450,97,353
+Pottawattamie,CB 01,Iowa Western Community College - Public Measure SB,,Yes,,490,150,340
+Pottawattamie,CB 02,Iowa Western Community College - Public Measure SB,,Yes,,657,223,434
+Pottawattamie,CB 03,Iowa Western Community College - Public Measure SB,,Yes,,556,195,361
+Pottawattamie,CB 04,Iowa Western Community College - Public Measure SB,,Yes,,510,203,307
+Pottawattamie,CB 05,Iowa Western Community College - Public Measure SB,,Yes,,546,239,307
+Pottawattamie,CB 06,Iowa Western Community College - Public Measure SB,,Yes,,903,386,517
+Pottawattamie,CB 07,Iowa Western Community College - Public Measure SB,,Yes,,872,341,531
+Pottawattamie,CB 08,Iowa Western Community College - Public Measure SB,,Yes,,1051,477,574
+Pottawattamie,CB 09,Iowa Western Community College - Public Measure SB,,Yes,,956,493,463
+Pottawattamie,CB 10,Iowa Western Community College - Public Measure SB,,Yes,,1100,492,608
+Pottawattamie,CB 11,Iowa Western Community College - Public Measure SB,,Yes,,881,314,567
+Pottawattamie,CB 12,Iowa Western Community College - Public Measure SB,,Yes,,808,325,483
+Pottawattamie,CB 13,Iowa Western Community College - Public Measure SB,,Yes,,456,194,262
+Pottawattamie,CB 14,Iowa Western Community College - Public Measure SB,,Yes,,449,147,302
+Pottawattamie,CB 15,Iowa Western Community College - Public Measure SB,,Yes,,500,198,302
+Pottawattamie,CB 16,Iowa Western Community College - Public Measure SB,,Yes,,582,195,387
+Pottawattamie,CB 17,Iowa Western Community College - Public Measure SB,,Yes,,729,226,503
+Pottawattamie,CB 18,Iowa Western Community College - Public Measure SB,,Yes,,679,205,474
+Pottawattamie,CB 19,Iowa Western Community College - Public Measure SB,,Yes,,547,265,282
+Pottawattamie,CB 20,Iowa Western Community College - Public Measure SB,,Yes,,454,160,294
+Pottawattamie,CB 21,Iowa Western Community College - Public Measure SB,,Yes,,497,180,317
+Pottawattamie,CB 22,Iowa Western Community College - Public Measure SB,,Yes,,1258,559,699
+Pottawattamie,CRESCENT,Iowa Western Community College - Public Measure SB,,Yes,,879,401,478
+Pottawattamie,GARNER,Iowa Western Community College - Public Measure SB,,Yes,,1192,489,703
+Pottawattamie,HANCOCK,Iowa Western Community College - Public Measure SB,,Yes,,128,17,111
+Pottawattamie,LEWIS 1,Iowa Western Community College - Public Measure SB,,Yes,,730,259,471
+Pottawattamie,LEWIS 2,Iowa Western Community College - Public Measure SB,,Yes,,740,314,426
+Pottawattamie,MACEDONIA,Iowa Western Community College - Public Measure SB,,Yes,,160,35,125
+Pottawattamie,MCCLELLAND,Iowa Western Community College - Public Measure SB,,Yes,,41,4,37
+Pottawattamie,MINDEN,Iowa Western Community College - Public Measure SB,,Yes,,420,84,336
+Pottawattamie,NEOLA,Iowa Western Community College - Public Measure SB,,Yes,,313,52,261
+Pottawattamie,OAKLAND,Iowa Western Community College - Public Measure SB,,Yes,,636,159,477
+Pottawattamie,TREYNOR,Iowa Western Community College - Public Measure SB,,Yes,,946,255,691
+Pottawattamie,UNDERWOOD,Iowa Western Community College - Public Measure SB,,Yes,,876,245,631
+Pottawattamie,WALNUT,Iowa Western Community College - Public Measure SB,,Yes,,321,35,286
+Pottawattamie,OAKLAND,James Township Trustee,,Mark Schroder,,113,31,82
+Pottawattamie,OAKLAND,James Township Trustee,,Write-In,,7,1,6
+Pottawattamie,TREYNOR,Keg Creek Township Clerk,,Mark Nusser,,288,68,220
+Pottawattamie,TREYNOR,Keg Creek Township Clerk,,Write-In,,3,0,3
+Pottawattamie,TREYNOR,Keg Creek Township Trustee,,Larry Miller,,289,64,225
+Pottawattamie,TREYNOR,Keg Creek Township Trustee,,Write-In,,13,2,11
+Pottawattamie,AVOCA,Knox Township Trustee,,Richard Holtz,,100,13,87
+Pottawattamie,AVOCA,Knox Township Trustee,,Thomas Russmann,,92,13,79
+Pottawattamie,AVOCA,Knox Township Trustee,,Write-In,,0,0,0
+Pottawattamie,CRESCENT,Lake Township Trustee,,Frederick Potmesil,,287,168,119
+Pottawattamie,CRESCENT,Lake Township Trustee,,Greg Mooney,,371,199,172
+Pottawattamie,CRESCENT,Lake Township Trustee,,Write-In,,7,6,1
+Pottawattamie,WALNUT,Layton Township Clerk,,Jessica Tooley,,84,9,75
+Pottawattamie,WALNUT,Layton Township Clerk,,Write-In,,1,0,1
+Pottawattamie,WALNUT,Layton Township Trustee,,Rex Sievers,,87,10,77
+Pottawattamie,WALNUT,Layton Township Trustee,,Write-In,,8,1,7
+Pottawattamie,CB 10,Lewis Central School - Public Measure RZ,,No,,273,134,139
+Pottawattamie,CB 12,Lewis Central School - Public Measure RZ,,No,,6,1,5
+Pottawattamie,CB 19,Lewis Central School - Public Measure RZ,,No,,286,133,153
+Pottawattamie,CB 20,Lewis Central School - Public Measure RZ,,No,,382,137,245
+Pottawattamie,CB 21,Lewis Central School - Public Measure RZ,,No,,278,104,174
+Pottawattamie,CB 22,Lewis Central School - Public Measure RZ,,No,,812,352,460
+Pottawattamie,GARNER,Lewis Central School - Public Measure RZ,,No,,156,62,94
+Pottawattamie,LEWIS 1,Lewis Central School - Public Measure RZ,,No,,476,166,310
+Pottawattamie,LEWIS 2,Lewis Central School - Public Measure RZ,,No,,683,288,395
+Pottawattamie,TREYNOR,Lewis Central School - Public Measure RZ,,No,,7,3,4
+Pottawattamie,CB 10,Lewis Central School - Public Measure RZ,,Yes,,421,181,240
+Pottawattamie,CB 12,Lewis Central School - Public Measure RZ,,Yes,,16,3,13
+Pottawattamie,CB 19,Lewis Central School - Public Measure RZ,,Yes,,581,273,308
+Pottawattamie,CB 20,Lewis Central School - Public Measure RZ,,Yes,,506,172,334
+Pottawattamie,CB 21,Lewis Central School - Public Measure RZ,,Yes,,509,173,336
+Pottawattamie,CB 22,Lewis Central School - Public Measure RZ,,Yes,,1282,543,739
+Pottawattamie,GARNER,Lewis Central School - Public Measure RZ,,Yes,,301,127,174
+Pottawattamie,LEWIS 1,Lewis Central School - Public Measure RZ,,Yes,,815,295,520
+Pottawattamie,LEWIS 2,Lewis Central School - Public Measure RZ,,Yes,,809,338,471
+Pottawattamie,TREYNOR,Lewis Central School - Public Measure RZ,,Yes,,5,4,1
+Pottawattamie,CB 10,Lewis Central School Director At-Large To Fill a Vacancy,,Greg Sturm,,26,9,17
+Pottawattamie,CB 12,Lewis Central School Director At-Large To Fill a Vacancy,,Greg Sturm,,2,0,2
+Pottawattamie,CB 19,Lewis Central School Director At-Large To Fill a Vacancy,,Greg Sturm,,17,7,10
+Pottawattamie,CB 20,Lewis Central School Director At-Large To Fill a Vacancy,,Greg Sturm,,14,5,9
+Pottawattamie,CB 21,Lewis Central School Director At-Large To Fill a Vacancy,,Greg Sturm,,28,8,20
+Pottawattamie,CB 22,Lewis Central School Director At-Large To Fill a Vacancy,,Greg Sturm,,133,48,85
+Pottawattamie,GARNER,Lewis Central School Director At-Large To Fill a Vacancy,,Greg Sturm,,23,14,9
+Pottawattamie,LEWIS 1,Lewis Central School Director At-Large To Fill a Vacancy,,Greg Sturm,,80,35,45
+Pottawattamie,LEWIS 2,Lewis Central School Director At-Large To Fill a Vacancy,,Greg Sturm,,132,53,79
+Pottawattamie,TREYNOR,Lewis Central School Director At-Large To Fill a Vacancy,,Greg Sturm,,2,0,2
+Pottawattamie,CB 10,Lewis Central School Director At-Large To Fill a Vacancy,,Travis Houseton,,17,12,5
+Pottawattamie,CB 12,Lewis Central School Director At-Large To Fill a Vacancy,,Travis Houseton,,0,0,0
+Pottawattamie,CB 19,Lewis Central School Director At-Large To Fill a Vacancy,,Travis Houseton,,29,13,16
+Pottawattamie,CB 20,Lewis Central School Director At-Large To Fill a Vacancy,,Travis Houseton,,29,13,16
+Pottawattamie,CB 21,Lewis Central School Director At-Large To Fill a Vacancy,,Travis Houseton,,6,3,3
+Pottawattamie,CB 22,Lewis Central School Director At-Large To Fill a Vacancy,,Travis Houseton,,89,43,46
+Pottawattamie,GARNER,Lewis Central School Director At-Large To Fill a Vacancy,,Travis Houseton,,17,10,7
+Pottawattamie,LEWIS 1,Lewis Central School Director At-Large To Fill a Vacancy,,Travis Houseton,,83,38,45
+Pottawattamie,LEWIS 2,Lewis Central School Director At-Large To Fill a Vacancy,,Travis Houseton,,61,28,33
+Pottawattamie,TREYNOR,Lewis Central School Director At-Large To Fill a Vacancy,,Travis Houseton,,0,0,0
+Pottawattamie,CB 10,Lewis Central School Director At-Large To Fill a Vacancy,,Write-In,,38,21,17
+Pottawattamie,CB 12,Lewis Central School Director At-Large To Fill a Vacancy,,Write-In,,0,0,0
+Pottawattamie,CB 19,Lewis Central School Director At-Large To Fill a Vacancy,,Write-In,,52,24,28
+Pottawattamie,CB 20,Lewis Central School Director At-Large To Fill a Vacancy,,Write-In,,51,12,39
+Pottawattamie,CB 21,Lewis Central School Director At-Large To Fill a Vacancy,,Write-In,,87,14,73
+Pottawattamie,CB 22,Lewis Central School Director At-Large To Fill a Vacancy,,Write-In,,127,46,81
+Pottawattamie,GARNER,Lewis Central School Director At-Large To Fill a Vacancy,,Write-In,,18,6,12
+Pottawattamie,LEWIS 1,Lewis Central School Director At-Large To Fill a Vacancy,,Write-In,,87,25,62
+Pottawattamie,LEWIS 2,Lewis Central School Director At-Large To Fill a Vacancy,,Write-In,,77,18,59
+Pottawattamie,TREYNOR,Lewis Central School Director At-Large To Fill a Vacancy,,Write-In,,0,0,0
+Pottawattamie,LEWIS 1,Lewis Township Trustee,,Kelly Gerhardt,,839,308,531
+Pottawattamie,LEWIS 2,Lewis Township Trustee,,Kelly Gerhardt,,927,379,548
+Pottawattamie,LEWIS 1,Lewis Township Trustee,,Tim Bellows,,848,303,545
+Pottawattamie,LEWIS 2,Lewis Township Trustee,,Tim Bellows,,961,390,571
+Pottawattamie,LEWIS 1,Lewis Township Trustee,,Will Mott,,794,298,496
+Pottawattamie,LEWIS 2,Lewis Township Trustee,,Will Mott,,942,401,541
+Pottawattamie,LEWIS 1,Lewis Township Trustee,,Write-In,,5,2,3
+Pottawattamie,LEWIS 2,Lewis Township Trustee,,Write-In,,27,4,23
+Pottawattamie,WALNUT,Lincoln Township Trustee,,Paul Lees,,66,13,53
+Pottawattamie,WALNUT,Lincoln Township Trustee,,Write-In,,7,4,3
+Pottawattamie,MACEDONIA,Macedonia Township Trustee,,Jeff Bisbee,,63,11,52
+Pottawattamie,MACEDONIA,Macedonia Township Trustee,,Randy Schultz,,64,10,54
+Pottawattamie,MACEDONIA,Macedonia Township Trustee,,Write-In,,0,0,0
+Pottawattamie,MINDEN,Minden Township Trustee,,Dan Elliott,,210,33,177
+Pottawattamie,MINDEN,Minden Township Trustee,,David Kramer,,197,30,167
+Pottawattamie,MINDEN,Minden Township Trustee,,Write-In,,1,0,1
+Pottawattamie,BOOMER,Neola Township Trustee,,Clifford Killpack,,167,43,124
+Pottawattamie,BOOMER,Neola Township Trustee,,James Carlson,,153,38,115
+Pottawattamie,BOOMER,Neola Township Trustee,,Write-In,,0,0,0
+Pottawattamie,UNDERWOOD,Norwalk Township Trustee,,Jennifer Gittins,,245,57,188
+Pottawattamie,UNDERWOOD,Norwalk Township Trustee,,Joel Leaders,,285,63,222
+Pottawattamie,UNDERWOOD,Norwalk Township Trustee,,Write-In,,2,0,2
+Pottawattamie,AVOCA,Pleasant Township Trustee,,Jonathan Bladt,,90,21,69
+Pottawattamie,AVOCA,Pleasant Township Trustee,,Randy Lamp,,94,23,71
+Pottawattamie,AVOCA,Pleasant Township Trustee,,Write-In,,0,0,0
+Pottawattamie,AVOCA,President,,Chase Oliver and Mike ter Maat,LIB,8,0,8
+Pottawattamie,BOOMER,President,,Chase Oliver and Mike ter Maat,LIB,3,2,1
+Pottawattamie,CARSON,President,,Chase Oliver and Mike ter Maat,LIB,3,1,2
+Pottawattamie,CARTER LAKE 1,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Pottawattamie,CARTER LAKE 2,President,,Chase Oliver and Mike ter Maat,LIB,6,2,4
+Pottawattamie,CB 01,President,,Chase Oliver and Mike ter Maat,LIB,4,1,3
+Pottawattamie,CB 02,President,,Chase Oliver and Mike ter Maat,LIB,7,2,5
+Pottawattamie,CB 03,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Pottawattamie,CB 04,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Pottawattamie,CB 05,President,,Chase Oliver and Mike ter Maat,LIB,3,1,2
+Pottawattamie,CB 06,President,,Chase Oliver and Mike ter Maat,LIB,3,2,1
+Pottawattamie,CB 07,President,,Chase Oliver and Mike ter Maat,LIB,13,6,7
+Pottawattamie,CB 08,President,,Chase Oliver and Mike ter Maat,LIB,11,4,7
+Pottawattamie,CB 09,President,,Chase Oliver and Mike ter Maat,LIB,3,1,2
+Pottawattamie,CB 10,President,,Chase Oliver and Mike ter Maat,LIB,12,3,9
+Pottawattamie,CB 11,President,,Chase Oliver and Mike ter Maat,LIB,6,0,6
+Pottawattamie,CB 12,President,,Chase Oliver and Mike ter Maat,LIB,9,4,5
+Pottawattamie,CB 13,President,,Chase Oliver and Mike ter Maat,LIB,1,1,0
+Pottawattamie,CB 14,President,,Chase Oliver and Mike ter Maat,LIB,4,1,3
+Pottawattamie,CB 15,President,,Chase Oliver and Mike ter Maat,LIB,6,1,5
+Pottawattamie,CB 16,President,,Chase Oliver and Mike ter Maat,LIB,8,2,6
+Pottawattamie,CB 17,President,,Chase Oliver and Mike ter Maat,LIB,8,1,7
+Pottawattamie,CB 18,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Pottawattamie,CB 19,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Pottawattamie,CB 20,President,,Chase Oliver and Mike ter Maat,LIB,4,3,1
+Pottawattamie,CB 21,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Pottawattamie,CB 22,President,,Chase Oliver and Mike ter Maat,LIB,12,0,12
+Pottawattamie,CRESCENT,President,,Chase Oliver and Mike ter Maat,LIB,8,2,6
+Pottawattamie,GARNER,President,,Chase Oliver and Mike ter Maat,LIB,9,3,6
+Pottawattamie,HANCOCK,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Pottawattamie,LEWIS 1,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Pottawattamie,LEWIS 2,President,,Chase Oliver and Mike ter Maat,LIB,3,1,2
+Pottawattamie,MACEDONIA,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Pottawattamie,MCCLELLAND,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Pottawattamie,MINDEN,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Pottawattamie,NEOLA,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Pottawattamie,OAKLAND,President,,Chase Oliver and Mike ter Maat,LIB,4,0,4
+Pottawattamie,TREYNOR,President,,Chase Oliver and Mike ter Maat,LIB,4,2,2
+Pottawattamie,UNDERWOOD,President,,Chase Oliver and Mike ter Maat,LIB,7,3,4
+Pottawattamie,WALNUT,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Pottawattamie,AVOCA,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,BOOMER,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,CARSON,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,CARTER LAKE 1,President,,Claudia De la Cruz and Karina Garcia,PSI,1,1,0
+Pottawattamie,CARTER LAKE 2,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,CB 01,President,,Claudia De la Cruz and Karina Garcia,PSI,3,0,3
+Pottawattamie,CB 02,President,,Claudia De la Cruz and Karina Garcia,PSI,1,1,0
+Pottawattamie,CB 03,President,,Claudia De la Cruz and Karina Garcia,PSI,1,0,1
+Pottawattamie,CB 04,President,,Claudia De la Cruz and Karina Garcia,PSI,1,0,1
+Pottawattamie,CB 05,President,,Claudia De la Cruz and Karina Garcia,PSI,1,0,1
+Pottawattamie,CB 06,President,,Claudia De la Cruz and Karina Garcia,PSI,2,1,1
+Pottawattamie,CB 07,President,,Claudia De la Cruz and Karina Garcia,PSI,1,1,0
+Pottawattamie,CB 08,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,CB 09,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,CB 10,President,,Claudia De la Cruz and Karina Garcia,PSI,1,0,1
+Pottawattamie,CB 11,President,,Claudia De la Cruz and Karina Garcia,PSI,1,0,1
+Pottawattamie,CB 12,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,CB 13,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,CB 14,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,CB 15,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,CB 16,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,CB 17,President,,Claudia De la Cruz and Karina Garcia,PSI,1,1,0
+Pottawattamie,CB 18,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,CB 19,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,CB 20,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,CB 21,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,CB 22,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,CRESCENT,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,GARNER,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,HANCOCK,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,LEWIS 1,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,LEWIS 2,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,MACEDONIA,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,MCCLELLAND,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,MINDEN,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,NEOLA,President,,Claudia De la Cruz and Karina Garcia,PSI,1,0,1
+Pottawattamie,OAKLAND,President,,Claudia De la Cruz and Karina Garcia,PSI,1,1,0
+Pottawattamie,TREYNOR,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,UNDERWOOD,President,,Claudia De la Cruz and Karina Garcia,PSI,1,0,1
+Pottawattamie,WALNUT,President,,Claudia De la Cruz and Karina Garcia,PSI,0,0,0
+Pottawattamie,AVOCA,President,,Donald J. Trump and JD Vance,REP,760,105,655
+Pottawattamie,BOOMER,President,,Donald J. Trump and JD Vance,REP,477,148,329
+Pottawattamie,CARSON,President,,Donald J. Trump and JD Vance,REP,640,126,514
+Pottawattamie,CARTER LAKE 1,President,,Donald J. Trump and JD Vance,REP,435,65,370
+Pottawattamie,CARTER LAKE 2,President,,Donald J. Trump and JD Vance,REP,461,93,368
+Pottawattamie,CB 01,President,,Donald J. Trump and JD Vance,REP,462,144,318
+Pottawattamie,CB 02,President,,Donald J. Trump and JD Vance,REP,630,215,415
+Pottawattamie,CB 03,President,,Donald J. Trump and JD Vance,REP,499,146,353
+Pottawattamie,CB 04,President,,Donald J. Trump and JD Vance,REP,529,192,337
+Pottawattamie,CB 05,President,,Donald J. Trump and JD Vance,REP,540,234,306
+Pottawattamie,CB 06,President,,Donald J. Trump and JD Vance,REP,747,286,461
+Pottawattamie,CB 07,President,,Donald J. Trump and JD Vance,REP,721,267,454
+Pottawattamie,CB 08,President,,Donald J. Trump and JD Vance,REP,871,333,538
+Pottawattamie,CB 09,President,,Donald J. Trump and JD Vance,REP,759,359,400
+Pottawattamie,CB 10,President,,Donald J. Trump and JD Vance,REP,970,376,594
+Pottawattamie,CB 11,President,,Donald J. Trump and JD Vance,REP,666,192,474
+Pottawattamie,CB 12,President,,Donald J. Trump and JD Vance,REP,764,244,520
+Pottawattamie,CB 13,President,,Donald J. Trump and JD Vance,REP,331,116,215
+Pottawattamie,CB 14,President,,Donald J. Trump and JD Vance,REP,450,148,302
+Pottawattamie,CB 15,President,,Donald J. Trump and JD Vance,REP,421,146,275
+Pottawattamie,CB 16,President,,Donald J. Trump and JD Vance,REP,557,152,405
+Pottawattamie,CB 17,President,,Donald J. Trump and JD Vance,REP,649,183,466
+Pottawattamie,CB 18,President,,Donald J. Trump and JD Vance,REP,657,175,482
+Pottawattamie,CB 19,President,,Donald J. Trump and JD Vance,REP,531,231,300
+Pottawattamie,CB 20,President,,Donald J. Trump and JD Vance,REP,550,173,377
+Pottawattamie,CB 21,President,,Donald J. Trump and JD Vance,REP,504,172,332
+Pottawattamie,CB 22,President,,Donald J. Trump and JD Vance,REP,1317,509,808
+Pottawattamie,CRESCENT,President,,Donald J. Trump and JD Vance,REP,1062,442,620
+Pottawattamie,GARNER,President,,Donald J. Trump and JD Vance,REP,1398,506,892
+Pottawattamie,HANCOCK,President,,Donald J. Trump and JD Vance,REP,158,18,140
+Pottawattamie,LEWIS 1,President,,Donald J. Trump and JD Vance,REP,842,289,553
+Pottawattamie,LEWIS 2,President,,Donald J. Trump and JD Vance,REP,1056,412,644
+Pottawattamie,MACEDONIA,President,,Donald J. Trump and JD Vance,REP,247,56,191
+Pottawattamie,MCCLELLAND,President,,Donald J. Trump and JD Vance,REP,72,8,64
+Pottawattamie,MINDEN,President,,Donald J. Trump and JD Vance,REP,540,97,443
+Pottawattamie,NEOLA,President,,Donald J. Trump and JD Vance,REP,343,50,293
+Pottawattamie,OAKLAND,President,,Donald J. Trump and JD Vance,REP,800,174,626
+Pottawattamie,TREYNOR,President,,Donald J. Trump and JD Vance,REP,1300,320,980
+Pottawattamie,UNDERWOOD,President,,Donald J. Trump and JD Vance,REP,1229,312,917
+Pottawattamie,WALNUT,President,,Donald J. Trump and JD Vance,REP,390,45,345
+Pottawattamie,AVOCA,President,,Kamala D. Harris and Tim Walz,DEM,372,81,291
+Pottawattamie,BOOMER,President,,Kamala D. Harris and Tim Walz,DEM,177,85,92
+Pottawattamie,CARSON,President,,Kamala D. Harris and Tim Walz,DEM,235,64,171
+Pottawattamie,CARTER LAKE 1,President,,Kamala D. Harris and Tim Walz,DEM,345,103,242
+Pottawattamie,CARTER LAKE 2,President,,Kamala D. Harris and Tim Walz,DEM,275,67,208
+Pottawattamie,CB 01,President,,Kamala D. Harris and Tim Walz,DEM,369,126,243
+Pottawattamie,CB 02,President,,Kamala D. Harris and Tim Walz,DEM,513,209,304
+Pottawattamie,CB 03,President,,Kamala D. Harris and Tim Walz,DEM,423,171,252
+Pottawattamie,CB 04,President,,Kamala D. Harris and Tim Walz,DEM,381,182,199
+Pottawattamie,CB 05,President,,Kamala D. Harris and Tim Walz,DEM,406,193,213
+Pottawattamie,CB 06,President,,Kamala D. Harris and Tim Walz,DEM,715,349,366
+Pottawattamie,CB 07,President,,Kamala D. Harris and Tim Walz,DEM,668,303,365
+Pottawattamie,CB 08,President,,Kamala D. Harris and Tim Walz,DEM,800,397,403
+Pottawattamie,CB 09,President,,Kamala D. Harris and Tim Walz,DEM,687,393,294
+Pottawattamie,CB 10,President,,Kamala D. Harris and Tim Walz,DEM,824,428,396
+Pottawattamie,CB 11,President,,Kamala D. Harris and Tim Walz,DEM,687,271,416
+Pottawattamie,CB 12,President,,Kamala D. Harris and Tim Walz,DEM,615,276,339
+Pottawattamie,CB 13,President,,Kamala D. Harris and Tim Walz,DEM,395,196,199
+Pottawattamie,CB 14,President,,Kamala D. Harris and Tim Walz,DEM,362,123,239
+Pottawattamie,CB 15,President,,Kamala D. Harris and Tim Walz,DEM,418,194,224
+Pottawattamie,CB 16,President,,Kamala D. Harris and Tim Walz,DEM,443,171,272
+Pottawattamie,CB 17,President,,Kamala D. Harris and Tim Walz,DEM,553,217,336
+Pottawattamie,CB 18,President,,Kamala D. Harris and Tim Walz,DEM,491,172,319
+Pottawattamie,CB 19,President,,Kamala D. Harris and Tim Walz,DEM,403,212,191
+Pottawattamie,CB 20,President,,Kamala D. Harris and Tim Walz,DEM,421,169,252
+Pottawattamie,CB 21,President,,Kamala D. Harris and Tim Walz,DEM,352,144,208
+Pottawattamie,CB 22,President,,Kamala D. Harris and Tim Walz,DEM,848,428,420
+Pottawattamie,CRESCENT,President,,Kamala D. Harris and Tim Walz,DEM,590,322,268
+Pottawattamie,GARNER,President,,Kamala D. Harris and Tim Walz,DEM,670,322,348
+Pottawattamie,HANCOCK,President,,Kamala D. Harris and Tim Walz,DEM,54,12,42
+Pottawattamie,LEWIS 1,President,,Kamala D. Harris and Tim Walz,DEM,495,197,298
+Pottawattamie,LEWIS 2,President,,Kamala D. Harris and Tim Walz,DEM,517,259,258
+Pottawattamie,MACEDONIA,President,,Kamala D. Harris and Tim Walz,DEM,84,14,70
+Pottawattamie,MCCLELLAND,President,,Kamala D. Harris and Tim Walz,DEM,24,4,20
+Pottawattamie,MINDEN,President,,Kamala D. Harris and Tim Walz,DEM,169,43,126
+Pottawattamie,NEOLA,President,,Kamala D. Harris and Tim Walz,DEM,157,35,122
+Pottawattamie,OAKLAND,President,,Kamala D. Harris and Tim Walz,DEM,331,91,240
+Pottawattamie,TREYNOR,President,,Kamala D. Harris and Tim Walz,DEM,446,148,298
+Pottawattamie,UNDERWOOD,President,,Kamala D. Harris and Tim Walz,DEM,567,199,368
+Pottawattamie,WALNUT,President,,Kamala D. Harris and Tim Walz,DEM,186,23,163
+Pottawattamie,AVOCA,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,0,6
+Pottawattamie,BOOMER,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,1,3
+Pottawattamie,CARSON,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,11,1,10
+Pottawattamie,CARTER LAKE 1,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,4,6
+Pottawattamie,CARTER LAKE 2,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,9,0,9
+Pottawattamie,CB 01,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,11,2,9
+Pottawattamie,CB 02,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,11,1,10
+Pottawattamie,CB 03,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,9,1,8
+Pottawattamie,CB 04,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,3,2
+Pottawattamie,CB 05,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,8,3,5
+Pottawattamie,CB 06,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,16,6,10
+Pottawattamie,CB 07,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,17,5,12
+Pottawattamie,CB 08,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,18,1,17
+Pottawattamie,CB 09,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,5,5
+Pottawattamie,CB 10,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,9,3,6
+Pottawattamie,CB 11,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,13,6,7
+Pottawattamie,CB 12,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,12,2,10
+Pottawattamie,CB 13,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,2,0,2
+Pottawattamie,CB 14,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,7,0,7
+Pottawattamie,CB 15,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,2,3
+Pottawattamie,CB 16,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,16,5,11
+Pottawattamie,CB 17,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,9,2,7
+Pottawattamie,CB 18,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,3,2
+Pottawattamie,CB 19,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,12,4,8
+Pottawattamie,CB 20,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,8,0,8
+Pottawattamie,CB 21,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,9,3,6
+Pottawattamie,CB 22,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,20,7,13
+Pottawattamie,CRESCENT,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,14,3,11
+Pottawattamie,GARNER,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,12,2,10
+Pottawattamie,HANCOCK,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,0,0,0
+Pottawattamie,LEWIS 1,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,17,4,13
+Pottawattamie,LEWIS 2,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,1,9
+Pottawattamie,MACEDONIA,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,0,0,0
+Pottawattamie,MCCLELLAND,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,2,0,2
+Pottawattamie,MINDEN,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,1,4
+Pottawattamie,NEOLA,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,0,6
+Pottawattamie,OAKLAND,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,9,2,7
+Pottawattamie,TREYNOR,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,16,3,13
+Pottawattamie,UNDERWOOD,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,16,6,10
+Pottawattamie,WALNUT,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,0,6
+Pottawattamie,AVOCA,President,,Shiva Ayyadurai and Crystal Ellis,,1,0,1
+Pottawattamie,BOOMER,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CARSON,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CARTER LAKE 1,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CARTER LAKE 2,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CB 01,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CB 02,President,,Shiva Ayyadurai and Crystal Ellis,,2,0,2
+Pottawattamie,CB 03,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CB 04,President,,Shiva Ayyadurai and Crystal Ellis,,1,0,1
+Pottawattamie,CB 05,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CB 06,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CB 07,President,,Shiva Ayyadurai and Crystal Ellis,,1,1,0
+Pottawattamie,CB 08,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CB 09,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CB 10,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CB 11,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CB 12,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CB 13,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CB 14,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CB 15,President,,Shiva Ayyadurai and Crystal Ellis,,1,1,0
+Pottawattamie,CB 16,President,,Shiva Ayyadurai and Crystal Ellis,,1,0,1
+Pottawattamie,CB 17,President,,Shiva Ayyadurai and Crystal Ellis,,1,0,1
+Pottawattamie,CB 18,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CB 19,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CB 20,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CB 21,President,,Shiva Ayyadurai and Crystal Ellis,,2,1,1
+Pottawattamie,CB 22,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,CRESCENT,President,,Shiva Ayyadurai and Crystal Ellis,,2,2,0
+Pottawattamie,GARNER,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,HANCOCK,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,LEWIS 1,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,LEWIS 2,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,MACEDONIA,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,MCCLELLAND,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,MINDEN,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,NEOLA,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,OAKLAND,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,TREYNOR,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,UNDERWOOD,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pottawattamie,WALNUT,President,,Shiva Ayyadurai and Crystal Ellis,,1,0,1
+Pottawattamie,AVOCA,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,BOOMER,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,0,1
+Pottawattamie,CARSON,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CARTER LAKE 1,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CARTER LAKE 2,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 01,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 02,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 03,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,0,1
+Pottawattamie,CB 04,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 05,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 06,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,1,0
+Pottawattamie,CB 07,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 08,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 09,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 10,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 11,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 12,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 13,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 14,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 15,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 16,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 17,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 18,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 19,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 20,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 21,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CB 22,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,CRESCENT,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,GARNER,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,HANCOCK,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,LEWIS 1,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,LEWIS 2,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,MACEDONIA,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,MCCLELLAND,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,MINDEN,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,NEOLA,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,OAKLAND,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,TREYNOR,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,UNDERWOOD,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,WALNUT,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pottawattamie,AVOCA,President,,Write-In,,2,0,2
+Pottawattamie,BOOMER,President,,Write-In,,8,7,1
+Pottawattamie,CARSON,President,,Write-In,,2,0,2
+Pottawattamie,CARTER LAKE 1,President,,Write-In,,3,1,2
+Pottawattamie,CARTER LAKE 2,President,,Write-In,,3,0,3
+Pottawattamie,CB 01,President,,Write-In,,4,1,3
+Pottawattamie,CB 02,President,,Write-In,,2,1,1
+Pottawattamie,CB 03,President,,Write-In,,2,0,2
+Pottawattamie,CB 04,President,,Write-In,,4,2,2
+Pottawattamie,CB 05,President,,Write-In,,7,1,6
+Pottawattamie,CB 06,President,,Write-In,,5,0,5
+Pottawattamie,CB 07,President,,Write-In,,1,0,1
+Pottawattamie,CB 08,President,,Write-In,,5,0,5
+Pottawattamie,CB 09,President,,Write-In,,6,3,3
+Pottawattamie,CB 10,President,,Write-In,,8,2,6
+Pottawattamie,CB 11,President,,Write-In,,3,1,2
+Pottawattamie,CB 12,President,,Write-In,,5,1,4
+Pottawattamie,CB 13,President,,Write-In,,1,0,1
+Pottawattamie,CB 14,President,,Write-In,,2,1,1
+Pottawattamie,CB 15,President,,Write-In,,0,0,0
+Pottawattamie,CB 16,President,,Write-In,,1,0,1
+Pottawattamie,CB 17,President,,Write-In,,6,2,4
+Pottawattamie,CB 18,President,,Write-In,,1,0,1
+Pottawattamie,CB 19,President,,Write-In,,3,1,2
+Pottawattamie,CB 20,President,,Write-In,,3,1,2
+Pottawattamie,CB 21,President,,Write-In,,2,0,2
+Pottawattamie,CB 22,President,,Write-In,,10,3,7
+Pottawattamie,CRESCENT,President,,Write-In,,5,2,3
+Pottawattamie,GARNER,President,,Write-In,,3,1,2
+Pottawattamie,HANCOCK,President,,Write-In,,0,0,0
+Pottawattamie,LEWIS 1,President,,Write-In,,7,1,6
+Pottawattamie,LEWIS 2,President,,Write-In,,5,0,5
+Pottawattamie,MACEDONIA,President,,Write-In,,2,0,2
+Pottawattamie,MCCLELLAND,President,,Write-In,,4,0,4
+Pottawattamie,MINDEN,President,,Write-In,,0,0,0
+Pottawattamie,NEOLA,President,,Write-In,,1,0,1
+Pottawattamie,OAKLAND,President,,Write-In,,5,0,5
+Pottawattamie,TREYNOR,President,,Write-In,,7,3,4
+Pottawattamie,UNDERWOOD,President,,Write-In,,8,4,4
+Pottawattamie,WALNUT,President,,Write-In,,2,0,2
+Pottawattamie,CRESCENT,Rockford Township Trustee,,David Hansen,,279,126,153
+Pottawattamie,CRESCENT,Rockford Township Trustee,,Write-In,,16,7,9
+Pottawattamie,TREYNOR,Silver Creek Township Trustee,,Gary Forristall,,154,40,114
+Pottawattamie,TREYNOR,Silver Creek Township Trustee,,Write-In,,12,2,10
+Pottawattamie,AVOCA,Soil and Water Conservation District Commissioner East Pottawattamie,,Chris Perdue,,658,104,554
+Pottawattamie,CARSON,Soil and Water Conservation District Commissioner East Pottawattamie,,Chris Perdue,,583,128,455
+Pottawattamie,HANCOCK,Soil and Water Conservation District Commissioner East Pottawattamie,,Chris Perdue,,134,25,109
+Pottawattamie,MACEDONIA,Soil and Water Conservation District Commissioner East Pottawattamie,,Chris Perdue,,247,59,188
+Pottawattamie,OAKLAND,Soil and Water Conservation District Commissioner East Pottawattamie,,Chris Perdue,,706,150,556
+Pottawattamie,WALNUT,Soil and Water Conservation District Commissioner East Pottawattamie,,Chris Perdue,,353,38,315
+Pottawattamie,AVOCA,Soil and Water Conservation District Commissioner East Pottawattamie,,David L Applegate,,805,115,690
+Pottawattamie,CARSON,Soil and Water Conservation District Commissioner East Pottawattamie,,David L Applegate,,680,141,539
+Pottawattamie,HANCOCK,Soil and Water Conservation District Commissioner East Pottawattamie,,David L Applegate,,166,28,138
+Pottawattamie,MACEDONIA,Soil and Water Conservation District Commissioner East Pottawattamie,,David L Applegate,,253,54,199
+Pottawattamie,OAKLAND,Soil and Water Conservation District Commissioner East Pottawattamie,,David L Applegate,,912,194,718
+Pottawattamie,WALNUT,Soil and Water Conservation District Commissioner East Pottawattamie,,David L Applegate,,419,44,375
+Pottawattamie,AVOCA,Soil and Water Conservation District Commissioner East Pottawattamie,,J. Bernie Bolton,,679,113,566
+Pottawattamie,CARSON,Soil and Water Conservation District Commissioner East Pottawattamie,,J. Bernie Bolton,,536,119,417
+Pottawattamie,HANCOCK,Soil and Water Conservation District Commissioner East Pottawattamie,,J. Bernie Bolton,,151,27,124
+Pottawattamie,MACEDONIA,Soil and Water Conservation District Commissioner East Pottawattamie,,J. Bernie Bolton,,219,48,171
+Pottawattamie,OAKLAND,Soil and Water Conservation District Commissioner East Pottawattamie,,J. Bernie Bolton,,745,168,577
+Pottawattamie,WALNUT,Soil and Water Conservation District Commissioner East Pottawattamie,,J. Bernie Bolton,,366,43,323
+Pottawattamie,AVOCA,Soil and Water Conservation District Commissioner East Pottawattamie,,Write-In,,11,7,4
+Pottawattamie,CARSON,Soil and Water Conservation District Commissioner East Pottawattamie,,Write-In,,3,0,3
+Pottawattamie,HANCOCK,Soil and Water Conservation District Commissioner East Pottawattamie,,Write-In,,0,0,0
+Pottawattamie,MACEDONIA,Soil and Water Conservation District Commissioner East Pottawattamie,,Write-In,,2,1,1
+Pottawattamie,OAKLAND,Soil and Water Conservation District Commissioner East Pottawattamie,,Write-In,,14,7,7
+Pottawattamie,WALNUT,Soil and Water Conservation District Commissioner East Pottawattamie,,Write-In,,13,3,10
+Pottawattamie,BOOMER,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,395,144,251
+Pottawattamie,CARTER LAKE 1,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,399,88,311
+Pottawattamie,CARTER LAKE 2,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,369,76,293
+Pottawattamie,CB 01,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,429,136,293
+Pottawattamie,CB 02,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,595,220,375
+Pottawattamie,CB 03,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,517,186,331
+Pottawattamie,CB 04,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,437,187,250
+Pottawattamie,CB 05,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,493,233,260
+Pottawattamie,CB 06,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,807,356,451
+Pottawattamie,CB 07,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,788,318,470
+Pottawattamie,CB 08,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,947,399,548
+Pottawattamie,CB 09,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,837,438,399
+Pottawattamie,CB 10,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,1085,482,603
+Pottawattamie,CB 11,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,763,257,506
+Pottawattamie,CB 12,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,821,295,526
+Pottawattamie,CB 13,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,404,171,233
+Pottawattamie,CB 14,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,412,138,274
+Pottawattamie,CB 15,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,433,184,249
+Pottawattamie,CB 16,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,544,186,358
+Pottawattamie,CB 17,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,688,217,471
+Pottawattamie,CB 18,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,597,189,408
+Pottawattamie,CB 19,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,502,259,243
+Pottawattamie,CB 20,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,457,178,279
+Pottawattamie,CB 21,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,476,154,322
+Pottawattamie,CB 22,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,1335,568,767
+Pottawattamie,CRESCENT,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,924,410,514
+Pottawattamie,GARNER,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,1219,507,712
+Pottawattamie,LEWIS 1,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,810,301,509
+Pottawattamie,LEWIS 2,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,936,390,546
+Pottawattamie,MCCLELLAND,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,60,7,53
+Pottawattamie,MINDEN,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,522,91,431
+Pottawattamie,NEOLA,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,311,55,256
+Pottawattamie,TREYNOR,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,1114,284,830
+Pottawattamie,UNDERWOOD,Soil and Water Conservation District Commissioner West Pottawattamie,,David Dittmer,,1088,307,781
+Pottawattamie,BOOMER,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,407,143,264
+Pottawattamie,CARTER LAKE 1,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,429,90,339
+Pottawattamie,CARTER LAKE 2,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,400,97,303
+Pottawattamie,CB 01,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,454,136,318
+Pottawattamie,CB 02,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,620,226,394
+Pottawattamie,CB 03,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,553,186,367
+Pottawattamie,CB 04,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,469,191,278
+Pottawattamie,CB 05,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,525,236,289
+Pottawattamie,CB 06,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,842,367,475
+Pottawattamie,CB 07,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,851,334,517
+Pottawattamie,CB 08,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,966,390,576
+Pottawattamie,CB 09,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,866,439,427
+Pottawattamie,CB 10,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,1074,475,599
+Pottawattamie,CB 11,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,765,253,512
+Pottawattamie,CB 12,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,859,301,558
+Pottawattamie,CB 13,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,407,170,237
+Pottawattamie,CB 14,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,447,139,308
+Pottawattamie,CB 15,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,475,191,284
+Pottawattamie,CB 16,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,565,183,382
+Pottawattamie,CB 17,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,707,205,502
+Pottawattamie,CB 18,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,606,171,435
+Pottawattamie,CB 19,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,522,251,271
+Pottawattamie,CB 20,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,473,185,288
+Pottawattamie,CB 21,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,488,170,318
+Pottawattamie,CB 22,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,1327,568,759
+Pottawattamie,CRESCENT,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,996,427,569
+Pottawattamie,GARNER,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,1206,485,721
+Pottawattamie,LEWIS 1,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,778,269,509
+Pottawattamie,LEWIS 2,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,934,386,548
+Pottawattamie,MCCLELLAND,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,65,6,59
+Pottawattamie,MINDEN,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,472,79,393
+Pottawattamie,NEOLA,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,315,53,262
+Pottawattamie,TREYNOR,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,1134,291,843
+Pottawattamie,UNDERWOOD,Soil and Water Conservation District Commissioner West Pottawattamie,,Gary Larson,,1112,292,820
+Pottawattamie,BOOMER,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,402,143,259
+Pottawattamie,CARTER LAKE 1,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,370,83,287
+Pottawattamie,CARTER LAKE 2,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,344,77,267
+Pottawattamie,CB 01,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,390,119,271
+Pottawattamie,CB 02,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,529,206,323
+Pottawattamie,CB 03,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,478,164,314
+Pottawattamie,CB 04,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,406,161,245
+Pottawattamie,CB 05,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,447,211,236
+Pottawattamie,CB 06,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,777,338,439
+Pottawattamie,CB 07,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,764,317,447
+Pottawattamie,CB 08,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,885,359,526
+Pottawattamie,CB 09,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,762,402,360
+Pottawattamie,CB 10,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,1034,476,558
+Pottawattamie,CB 11,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,716,242,474
+Pottawattamie,CB 12,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,792,295,497
+Pottawattamie,CB 13,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,384,162,222
+Pottawattamie,CB 14,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,392,129,263
+Pottawattamie,CB 15,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,399,154,245
+Pottawattamie,CB 16,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,491,170,321
+Pottawattamie,CB 17,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,645,201,444
+Pottawattamie,CB 18,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,543,175,368
+Pottawattamie,CB 19,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,483,249,234
+Pottawattamie,CB 20,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,447,178,269
+Pottawattamie,CB 21,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,449,153,296
+Pottawattamie,CB 22,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,1302,557,745
+Pottawattamie,CRESCENT,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,952,440,512
+Pottawattamie,GARNER,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,1150,477,673
+Pottawattamie,LEWIS 1,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,787,283,504
+Pottawattamie,LEWIS 2,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,886,378,508
+Pottawattamie,MCCLELLAND,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,58,4,54
+Pottawattamie,MINDEN,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,443,76,367
+Pottawattamie,NEOLA,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,253,47,206
+Pottawattamie,TREYNOR,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,1079,277,802
+Pottawattamie,UNDERWOOD,Soil and Water Conservation District Commissioner West Pottawattamie,,Russ Goeser,,1058,309,749
+Pottawattamie,BOOMER,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,11,3,8
+Pottawattamie,CARTER LAKE 1,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,3,2,1
+Pottawattamie,CARTER LAKE 2,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,6,2,4
+Pottawattamie,CB 01,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,6,1,5
+Pottawattamie,CB 02,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,19,5,14
+Pottawattamie,CB 03,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,7,0,7
+Pottawattamie,CB 04,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,8,4,4
+Pottawattamie,CB 05,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,8,4,4
+Pottawattamie,CB 06,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,20,8,12
+Pottawattamie,CB 07,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,10,5,5
+Pottawattamie,CB 08,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,17,7,10
+Pottawattamie,CB 09,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,12,6,6
+Pottawattamie,CB 10,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,23,17,6
+Pottawattamie,CB 11,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,20,5,15
+Pottawattamie,CB 12,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,20,4,16
+Pottawattamie,CB 13,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,6,5,1
+Pottawattamie,CB 14,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,12,2,10
+Pottawattamie,CB 15,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,5,1,4
+Pottawattamie,CB 16,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,13,6,7
+Pottawattamie,CB 17,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,4,0,4
+Pottawattamie,CB 18,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,10,1,9
+Pottawattamie,CB 19,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,5,3,2
+Pottawattamie,CB 20,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,8,3,5
+Pottawattamie,CB 21,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,10,1,9
+Pottawattamie,CB 22,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,17,7,10
+Pottawattamie,CRESCENT,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,26,11,15
+Pottawattamie,GARNER,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,21,6,15
+Pottawattamie,LEWIS 1,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,5,2,3
+Pottawattamie,LEWIS 2,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,6,0,6
+Pottawattamie,MCCLELLAND,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,0,0,0
+Pottawattamie,MINDEN,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,6,2,4
+Pottawattamie,NEOLA,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,6,1,5
+Pottawattamie,TREYNOR,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,12,2,10
+Pottawattamie,UNDERWOOD,Soil and Water Conservation District Commissioner West Pottawattamie,,Write-In,,25,8,17
+Pottawattamie,AVOCA,State House,11,Craig Steven Williams,REP,730,108,622
+Pottawattamie,AVOCA,State House,11,Jeff Rich,DEM,331,71,260
+Pottawattamie,AVOCA,State House,11,Write-In,,0,0,0
+Pottawattamie,BOOMER,State House,15,Benjamin Schauer,DEM,155,76,79
+Pottawattamie,CB 22,State House,15,Benjamin Schauer,DEM,737,359,378
+Pottawattamie,CRESCENT,State House,15,Benjamin Schauer,DEM,532,291,241
+Pottawattamie,GARNER,State House,15,Benjamin Schauer,DEM,588,282,306
+Pottawattamie,LEWIS 1,State House,15,Benjamin Schauer,DEM,437,177,260
+Pottawattamie,LEWIS 2,State House,15,Benjamin Schauer,DEM,467,228,239
+Pottawattamie,MCCLELLAND,State House,15,Benjamin Schauer,DEM,24,5,19
+Pottawattamie,UNDERWOOD,State House,15,Benjamin Schauer,DEM,511,178,333
+Pottawattamie,BOOMER,State House,15,Matt W. Windschitl,REP,488,159,329
+Pottawattamie,CB 22,State House,15,Matt W. Windschitl,REP,1358,542,816
+Pottawattamie,CRESCENT,State House,15,Matt W. Windschitl,REP,1058,444,614
+Pottawattamie,GARNER,State House,15,Matt W. Windschitl,REP,1360,499,861
+Pottawattamie,LEWIS 1,State House,15,Matt W. Windschitl,REP,832,289,543
+Pottawattamie,LEWIS 2,State House,15,Matt W. Windschitl,REP,1043,406,637
+Pottawattamie,MCCLELLAND,State House,15,Matt W. Windschitl,REP,69,6,63
+Pottawattamie,UNDERWOOD,State House,15,Matt W. Windschitl,REP,1221,317,904
+Pottawattamie,BOOMER,State House,15,Write-In,,2,0,2
+Pottawattamie,CB 22,State House,15,Write-In,,2,0,2
+Pottawattamie,CRESCENT,State House,15,Write-In,,0,0,0
+Pottawattamie,GARNER,State House,15,Write-In,,3,0,3
+Pottawattamie,LEWIS 1,State House,15,Write-In,,0,0,0
+Pottawattamie,LEWIS 2,State House,15,Write-In,,0,0,0
+Pottawattamie,MCCLELLAND,State House,15,Write-In,,0,0,0
+Pottawattamie,UNDERWOOD,State House,15,Write-In,,2,1,1
+Pottawattamie,CARSON,State House,16,Candella Foley-Finchem,DEM,207,55,152
+Pottawattamie,HANCOCK,State House,16,Candella Foley-Finchem,DEM,42,10,32
+Pottawattamie,MACEDONIA,State House,16,Candella Foley-Finchem,DEM,78,13,65
+Pottawattamie,MINDEN,State House,16,Candella Foley-Finchem,DEM,139,38,101
+Pottawattamie,NEOLA,State House,16,Candella Foley-Finchem,DEM,149,33,116
+Pottawattamie,OAKLAND,State House,16,Candella Foley-Finchem,DEM,276,72,204
+Pottawattamie,TREYNOR,State House,16,Candella Foley-Finchem,DEM,367,129,238
+Pottawattamie,WALNUT,State House,16,Candella Foley-Finchem,DEM,168,21,147
+Pottawattamie,CARSON,State House,16,David Sieck,REP,640,127,513
+Pottawattamie,HANCOCK,State House,16,David Sieck,REP,163,19,144
+Pottawattamie,MACEDONIA,State House,16,David Sieck,REP,250,55,195
+Pottawattamie,MINDEN,State House,16,David Sieck,REP,528,92,436
+Pottawattamie,NEOLA,State House,16,David Sieck,REP,335,48,287
+Pottawattamie,OAKLAND,State House,16,David Sieck,REP,821,187,634
+Pottawattamie,TREYNOR,State House,16,David Sieck,REP,1323,320,1003
+Pottawattamie,WALNUT,State House,16,David Sieck,REP,386,45,341
+Pottawattamie,CARSON,State House,16,Write-In,,1,0,1
+Pottawattamie,HANCOCK,State House,16,Write-In,,1,1,0
+Pottawattamie,MACEDONIA,State House,16,Write-In,,0,0,0
+Pottawattamie,MINDEN,State House,16,Write-In,,1,0,1
+Pottawattamie,NEOLA,State House,16,Write-In,,1,0,1
+Pottawattamie,OAKLAND,State House,16,Write-In,,1,0,1
+Pottawattamie,TREYNOR,State House,16,Write-In,,1,0,1
+Pottawattamie,WALNUT,State House,16,Write-In,,1,0,1
+Pottawattamie,CB 08,State House,19,Brent Siegrist,REP,948,358,590
+Pottawattamie,CB 09,State House,19,Brent Siegrist,REP,805,380,425
+Pottawattamie,CB 10,State House,19,Brent Siegrist,REP,1027,401,626
+Pottawattamie,CB 11,State House,19,Brent Siegrist,REP,695,209,486
+Pottawattamie,CB 12,State House,19,Brent Siegrist,REP,825,272,553
+Pottawattamie,CB 16,State House,19,Brent Siegrist,REP,563,160,403
+Pottawattamie,CB 17,State House,19,Brent Siegrist,REP,662,187,475
+Pottawattamie,CB 18,State House,19,Brent Siegrist,REP,626,176,450
+Pottawattamie,CB 19,State House,19,Brent Siegrist,REP,522,238,284
+Pottawattamie,CB 20,State House,19,Brent Siegrist,REP,578,193,385
+Pottawattamie,CB 21,State House,19,Brent Siegrist,REP,500,169,331
+Pottawattamie,CB 08,State House,19,Roger Petersen,DEM,665,330,335
+Pottawattamie,CB 09,State House,19,Roger Petersen,DEM,580,334,246
+Pottawattamie,CB 10,State House,19,Roger Petersen,DEM,718,381,337
+Pottawattamie,CB 11,State House,19,Roger Petersen,DEM,597,231,366
+Pottawattamie,CB 12,State House,19,Roger Petersen,DEM,526,240,286
+Pottawattamie,CB 16,State House,19,Roger Petersen,DEM,419,158,261
+Pottawattamie,CB 17,State House,19,Roger Petersen,DEM,499,188,311
+Pottawattamie,CB 18,State House,19,Roger Petersen,DEM,450,154,296
+Pottawattamie,CB 19,State House,19,Roger Petersen,DEM,359,187,172
+Pottawattamie,CB 20,State House,19,Roger Petersen,DEM,336,139,197
+Pottawattamie,CB 21,State House,19,Roger Petersen,DEM,320,128,192
+Pottawattamie,CB 08,State House,19,Write-In,,3,2,1
+Pottawattamie,CB 09,State House,19,Write-In,,2,2,0
+Pottawattamie,CB 10,State House,19,Write-In,,5,4,1
+Pottawattamie,CB 11,State House,19,Write-In,,3,3,0
+Pottawattamie,CB 12,State House,19,Write-In,,3,1,2
+Pottawattamie,CB 16,State House,19,Write-In,,2,1,1
+Pottawattamie,CB 17,State House,19,Write-In,,2,2,0
+Pottawattamie,CB 18,State House,19,Write-In,,1,0,1
+Pottawattamie,CB 19,State House,19,Write-In,,4,0,4
+Pottawattamie,CB 20,State House,19,Write-In,,1,0,1
+Pottawattamie,CB 21,State House,19,Write-In,,0,0,0
+Pottawattamie,CARTER LAKE 1,State House,20,James Wassell,REP,380,62,318
+Pottawattamie,CARTER LAKE 2,State House,20,James Wassell,REP,379,78,301
+Pottawattamie,CB 01,State House,20,James Wassell,REP,407,130,277
+Pottawattamie,CB 02,State House,20,James Wassell,REP,557,188,369
+Pottawattamie,CB 03,State House,20,James Wassell,REP,410,124,286
+Pottawattamie,CB 04,State House,20,James Wassell,REP,443,171,272
+Pottawattamie,CB 05,State House,20,James Wassell,REP,464,208,256
+Pottawattamie,CB 06,State House,20,James Wassell,REP,635,257,378
+Pottawattamie,CB 07,State House,20,James Wassell,REP,621,238,383
+Pottawattamie,CB 13,State House,20,James Wassell,REP,287,108,179
+Pottawattamie,CB 14,State House,20,James Wassell,REP,376,126,250
+Pottawattamie,CB 15,State House,20,James Wassell,REP,361,132,229
+Pottawattamie,CARTER LAKE 1,State House,20,Josh Turek,DEM,391,105,286
+Pottawattamie,CARTER LAKE 2,State House,20,Josh Turek,DEM,340,79,261
+Pottawattamie,CB 01,State House,20,Josh Turek,DEM,401,129,272
+Pottawattamie,CB 02,State House,20,Josh Turek,DEM,557,217,340
+Pottawattamie,CB 03,State House,20,Josh Turek,DEM,493,182,311
+Pottawattamie,CB 04,State House,20,Josh Turek,DEM,422,184,238
+Pottawattamie,CB 05,State House,20,Josh Turek,DEM,452,203,249
+Pottawattamie,CB 06,State House,20,Josh Turek,DEM,786,358,428
+Pottawattamie,CB 07,State House,20,Josh Turek,DEM,757,326,431
+Pottawattamie,CB 13,State House,20,Josh Turek,DEM,417,194,223
+Pottawattamie,CB 14,State House,20,Josh Turek,DEM,421,137,284
+Pottawattamie,CB 15,State House,20,Josh Turek,DEM,444,196,248
+Pottawattamie,CARTER LAKE 1,State House,20,Write-In,,0,0,0
+Pottawattamie,CARTER LAKE 2,State House,20,Write-In,,1,0,1
+Pottawattamie,CB 01,State House,20,Write-In,,0,0,0
+Pottawattamie,CB 02,State House,20,Write-In,,1,0,1
+Pottawattamie,CB 03,State House,20,Write-In,,1,0,1
+Pottawattamie,CB 04,State House,20,Write-In,,1,0,1
+Pottawattamie,CB 05,State House,20,Write-In,,0,0,0
+Pottawattamie,CB 06,State House,20,Write-In,,1,0,1
+Pottawattamie,CB 07,State House,20,Write-In,,1,0,1
+Pottawattamie,CB 13,State House,20,Write-In,,0,0,0
+Pottawattamie,CB 14,State House,20,Write-In,,1,0,1
+Pottawattamie,CB 15,State House,20,Write-In,,0,0,0
+Pottawattamie,CARTER LAKE 1,State Senate,10,Dan Dawson,REP,456,71,385
+Pottawattamie,CARTER LAKE 2,State Senate,10,Dan Dawson,REP,449,87,362
+Pottawattamie,CB 01,State Senate,10,Dan Dawson,REP,456,147,309
+Pottawattamie,CB 02,State Senate,10,Dan Dawson,REP,637,224,413
+Pottawattamie,CB 03,State Senate,10,Dan Dawson,REP,484,149,335
+Pottawattamie,CB 04,State Senate,10,Dan Dawson,REP,503,190,313
+Pottawattamie,CB 05,State Senate,10,Dan Dawson,REP,538,241,297
+Pottawattamie,CB 06,State Senate,10,Dan Dawson,REP,765,308,457
+Pottawattamie,CB 07,State Senate,10,Dan Dawson,REP,738,267,471
+Pottawattamie,CB 08,State Senate,10,Dan Dawson,REP,919,344,575
+Pottawattamie,CB 09,State Senate,10,Dan Dawson,REP,795,379,416
+Pottawattamie,CB 10,State Senate,10,Dan Dawson,REP,1001,392,609
+Pottawattamie,CB 11,State Senate,10,Dan Dawson,REP,662,196,466
+Pottawattamie,CB 12,State Senate,10,Dan Dawson,REP,823,267,556
+Pottawattamie,CB 13,State Senate,10,Dan Dawson,REP,327,116,211
+Pottawattamie,CB 14,State Senate,10,Dan Dawson,REP,432,136,296
+Pottawattamie,CB 15,State Senate,10,Dan Dawson,REP,394,138,256
+Pottawattamie,CB 16,State Senate,10,Dan Dawson,REP,572,165,407
+Pottawattamie,CB 17,State Senate,10,Dan Dawson,REP,658,186,472
+Pottawattamie,CB 18,State Senate,10,Dan Dawson,REP,638,185,453
+Pottawattamie,CB 19,State Senate,10,Dan Dawson,REP,525,240,285
+Pottawattamie,CB 20,State Senate,10,Dan Dawson,REP,568,181,387
+Pottawattamie,CB 21,State Senate,10,Dan Dawson,REP,500,173,327
+Pottawattamie,CARTER LAKE 1,State Senate,10,Steve Gorman,DEM,309,96,213
+Pottawattamie,CARTER LAKE 2,State Senate,10,Steve Gorman,DEM,267,71,196
+Pottawattamie,CB 01,State Senate,10,Steve Gorman,DEM,354,113,241
+Pottawattamie,CB 02,State Senate,10,Steve Gorman,DEM,473,176,297
+Pottawattamie,CB 03,State Senate,10,Steve Gorman,DEM,416,155,261
+Pottawattamie,CB 04,State Senate,10,Steve Gorman,DEM,366,165,201
+Pottawattamie,CB 05,State Senate,10,Steve Gorman,DEM,384,176,208
+Pottawattamie,CB 06,State Senate,10,Steve Gorman,DEM,667,304,363
+Pottawattamie,CB 07,State Senate,10,Steve Gorman,DEM,641,293,348
+Pottawattamie,CB 08,State Senate,10,Steve Gorman,DEM,735,364,371
+Pottawattamie,CB 09,State Senate,10,Steve Gorman,DEM,610,343,267
+Pottawattamie,CB 10,State Senate,10,Steve Gorman,DEM,772,402,370
+Pottawattamie,CB 11,State Senate,10,Steve Gorman,DEM,672,262,410
+Pottawattamie,CB 12,State Senate,10,Steve Gorman,DEM,554,252,302
+Pottawattamie,CB 13,State Senate,10,Steve Gorman,DEM,377,184,193
+Pottawattamie,CB 14,State Senate,10,Steve Gorman,DEM,364,125,239
+Pottawattamie,CB 15,State Senate,10,Steve Gorman,DEM,411,190,221
+Pottawattamie,CB 16,State Senate,10,Steve Gorman,DEM,412,150,262
+Pottawattamie,CB 17,State Senate,10,Steve Gorman,DEM,517,199,318
+Pottawattamie,CB 18,State Senate,10,Steve Gorman,DEM,466,154,312
+Pottawattamie,CB 19,State Senate,10,Steve Gorman,DEM,374,190,184
+Pottawattamie,CB 20,State Senate,10,Steve Gorman,DEM,369,152,217
+Pottawattamie,CB 21,State Senate,10,Steve Gorman,DEM,332,126,206
+Pottawattamie,CARTER LAKE 1,State Senate,10,Write-In,,0,0,0
+Pottawattamie,CARTER LAKE 2,State Senate,10,Write-In,,1,0,1
+Pottawattamie,CB 01,State Senate,10,Write-In,,0,0,0
+Pottawattamie,CB 02,State Senate,10,Write-In,,1,0,1
+Pottawattamie,CB 03,State Senate,10,Write-In,,3,0,3
+Pottawattamie,CB 04,State Senate,10,Write-In,,2,1,1
+Pottawattamie,CB 05,State Senate,10,Write-In,,0,0,0
+Pottawattamie,CB 06,State Senate,10,Write-In,,2,1,1
+Pottawattamie,CB 07,State Senate,10,Write-In,,2,1,1
+Pottawattamie,CB 08,State Senate,10,Write-In,,1,1,0
+Pottawattamie,CB 09,State Senate,10,Write-In,,3,3,0
+Pottawattamie,CB 10,State Senate,10,Write-In,,1,0,1
+Pottawattamie,CB 11,State Senate,10,Write-In,,2,2,0
+Pottawattamie,CB 12,State Senate,10,Write-In,,1,0,1
+Pottawattamie,CB 13,State Senate,10,Write-In,,0,0,0
+Pottawattamie,CB 14,State Senate,10,Write-In,,1,0,1
+Pottawattamie,CB 15,State Senate,10,Write-In,,0,0,0
+Pottawattamie,CB 16,State Senate,10,Write-In,,1,0,1
+Pottawattamie,CB 17,State Senate,10,Write-In,,2,1,1
+Pottawattamie,CB 18,State Senate,10,Write-In,,1,0,1
+Pottawattamie,CB 19,State Senate,10,Write-In,,3,1,2
+Pottawattamie,CB 20,State Senate,10,Write-In,,0,0,0
+Pottawattamie,CB 21,State Senate,10,Write-In,,0,0,0
+Pottawattamie,AVOCA,State Senate,6,David M. Davis,LIB,252,52,200
+Pottawattamie,AVOCA,State Senate,6,Jason Schultz,REP,774,115,659
+Pottawattamie,AVOCA,State Senate,6,Write-In,,2,0,2
+Pottawattamie,BOOMER,State Senate,8,Mark Costello,REP,487,156,331
+Pottawattamie,CARSON,State Senate,8,Mark Costello,REP,631,129,502
+Pottawattamie,CB 22,State Senate,8,Mark Costello,REP,1373,541,832
+Pottawattamie,CRESCENT,State Senate,8,Mark Costello,REP,1065,450,615
+Pottawattamie,GARNER,State Senate,8,Mark Costello,REP,1385,503,882
+Pottawattamie,HANCOCK,State Senate,8,Mark Costello,REP,158,19,139
+Pottawattamie,LEWIS 1,State Senate,8,Mark Costello,REP,843,289,554
+Pottawattamie,LEWIS 2,State Senate,8,Mark Costello,REP,1046,411,635
+Pottawattamie,MACEDONIA,State Senate,8,Mark Costello,REP,243,54,189
+Pottawattamie,MCCLELLAND,State Senate,8,Mark Costello,REP,72,8,64
+Pottawattamie,MINDEN,State Senate,8,Mark Costello,REP,532,94,438
+Pottawattamie,NEOLA,State Senate,8,Mark Costello,REP,343,47,296
+Pottawattamie,OAKLAND,State Senate,8,Mark Costello,REP,805,178,627
+Pottawattamie,TREYNOR,State Senate,8,Mark Costello,REP,1310,315,995
+Pottawattamie,UNDERWOOD,State Senate,8,Mark Costello,REP,1237,320,917
+Pottawattamie,WALNUT,State Senate,8,Mark Costello,REP,383,45,338
+Pottawattamie,BOOMER,State Senate,8,Ryan Lee Roenfeld,DEM,151,75,76
+Pottawattamie,CARSON,State Senate,8,Ryan Lee Roenfeld,DEM,222,54,168
+Pottawattamie,CB 22,State Senate,8,Ryan Lee Roenfeld,DEM,735,365,370
+Pottawattamie,CRESCENT,State Senate,8,Ryan Lee Roenfeld,DEM,536,290,246
+Pottawattamie,GARNER,State Senate,8,Ryan Lee Roenfeld,DEM,596,290,306
+Pottawattamie,HANCOCK,State Senate,8,Ryan Lee Roenfeld,DEM,48,11,37
+Pottawattamie,LEWIS 1,State Senate,8,Ryan Lee Roenfeld,DEM,439,181,258
+Pottawattamie,LEWIS 2,State Senate,8,Ryan Lee Roenfeld,DEM,474,227,247
+Pottawattamie,MACEDONIA,State Senate,8,Ryan Lee Roenfeld,DEM,84,15,69
+Pottawattamie,MCCLELLAND,State Senate,8,Ryan Lee Roenfeld,DEM,21,3,18
+Pottawattamie,MINDEN,State Senate,8,Ryan Lee Roenfeld,DEM,142,38,104
+Pottawattamie,NEOLA,State Senate,8,Ryan Lee Roenfeld,DEM,145,35,110
+Pottawattamie,OAKLAND,State Senate,8,Ryan Lee Roenfeld,DEM,299,81,218
+Pottawattamie,TREYNOR,State Senate,8,Ryan Lee Roenfeld,DEM,391,133,258
+Pottawattamie,UNDERWOOD,State Senate,8,Ryan Lee Roenfeld,DEM,506,176,330
+Pottawattamie,WALNUT,State Senate,8,Ryan Lee Roenfeld,DEM,176,20,156
+Pottawattamie,BOOMER,State Senate,8,Write-In,,3,1,2
+Pottawattamie,CARSON,State Senate,8,Write-In,,1,0,1
+Pottawattamie,CB 22,State Senate,8,Write-In,,1,0,1
+Pottawattamie,CRESCENT,State Senate,8,Write-In,,0,0,0
+Pottawattamie,GARNER,State Senate,8,Write-In,,2,1,1
+Pottawattamie,HANCOCK,State Senate,8,Write-In,,0,0,0
+Pottawattamie,LEWIS 1,State Senate,8,Write-In,,0,0,0
+Pottawattamie,LEWIS 2,State Senate,8,Write-In,,3,3,0
+Pottawattamie,MACEDONIA,State Senate,8,Write-In,,0,0,0
+Pottawattamie,MCCLELLAND,State Senate,8,Write-In,,0,0,0
+Pottawattamie,MINDEN,State Senate,8,Write-In,,0,0,0
+Pottawattamie,NEOLA,State Senate,8,Write-In,,0,0,0
+Pottawattamie,OAKLAND,State Senate,8,Write-In,,1,0,1
+Pottawattamie,TREYNOR,State Senate,8,Write-In,,3,0,3
+Pottawattamie,UNDERWOOD,State Senate,8,Write-In,,0,0,0
+Pottawattamie,WALNUT,State Senate,8,Write-In,,3,1,2
+Pottawattamie,AVOCA,Supreme Court Justice - David May,,No,,305,56,249
+Pottawattamie,BOOMER,Supreme Court Justice - David May,,No,,170,68,102
+Pottawattamie,CARSON,Supreme Court Justice - David May,,No,,251,43,208
+Pottawattamie,CARTER LAKE 1,Supreme Court Justice - David May,,No,,244,67,177
+Pottawattamie,CARTER LAKE 2,Supreme Court Justice - David May,,No,,225,48,177
+Pottawattamie,CB 01,Supreme Court Justice - David May,,No,,271,91,180
+Pottawattamie,CB 02,Supreme Court Justice - David May,,No,,321,119,202
+Pottawattamie,CB 03,Supreme Court Justice - David May,,No,,279,97,182
+Pottawattamie,CB 04,Supreme Court Justice - David May,,No,,277,121,156
+Pottawattamie,CB 05,Supreme Court Justice - David May,,No,,262,119,143
+Pottawattamie,CB 06,Supreme Court Justice - David May,,No,,444,200,244
+Pottawattamie,CB 07,Supreme Court Justice - David May,,No,,475,203,272
+Pottawattamie,CB 08,Supreme Court Justice - David May,,No,,525,246,279
+Pottawattamie,CB 09,Supreme Court Justice - David May,,No,,427,235,192
+Pottawattamie,CB 10,Supreme Court Justice - David May,,No,,553,276,277
+Pottawattamie,CB 11,Supreme Court Justice - David May,,No,,443,150,293
+Pottawattamie,CB 12,Supreme Court Justice - David May,,No,,414,167,247
+Pottawattamie,CB 13,Supreme Court Justice - David May,,No,,237,101,136
+Pottawattamie,CB 14,Supreme Court Justice - David May,,No,,225,62,163
+Pottawattamie,CB 15,Supreme Court Justice - David May,,No,,237,95,142
+Pottawattamie,CB 16,Supreme Court Justice - David May,,No,,313,104,209
+Pottawattamie,CB 17,Supreme Court Justice - David May,,No,,356,112,244
+Pottawattamie,CB 18,Supreme Court Justice - David May,,No,,304,108,196
+Pottawattamie,CB 19,Supreme Court Justice - David May,,No,,252,123,129
+Pottawattamie,CB 20,Supreme Court Justice - David May,,No,,250,100,150
+Pottawattamie,CB 21,Supreme Court Justice - David May,,No,,249,94,155
+Pottawattamie,CB 22,Supreme Court Justice - David May,,No,,569,261,308
+Pottawattamie,CRESCENT,Supreme Court Justice - David May,,No,,472,216,256
+Pottawattamie,GARNER,Supreme Court Justice - David May,,No,,564,242,322
+Pottawattamie,HANCOCK,Supreme Court Justice - David May,,No,,43,8,35
+Pottawattamie,LEWIS 1,Supreme Court Justice - David May,,No,,350,138,212
+Pottawattamie,LEWIS 2,Supreme Court Justice - David May,,No,,435,185,250
+Pottawattamie,MACEDONIA,Supreme Court Justice - David May,,No,,87,15,72
+Pottawattamie,MCCLELLAND,Supreme Court Justice - David May,,No,,30,4,26
+Pottawattamie,MINDEN,Supreme Court Justice - David May,,No,,162,32,130
+Pottawattamie,NEOLA,Supreme Court Justice - David May,,No,,137,26,111
+Pottawattamie,OAKLAND,Supreme Court Justice - David May,,No,,267,66,201
+Pottawattamie,TREYNOR,Supreme Court Justice - David May,,No,,472,147,325
+Pottawattamie,UNDERWOOD,Supreme Court Justice - David May,,No,,477,151,326
+Pottawattamie,WALNUT,Supreme Court Justice - David May,,No,,154,21,133
+Pottawattamie,AVOCA,Supreme Court Justice - David May,,Yes,,612,81,531
+Pottawattamie,BOOMER,Supreme Court Justice - David May,,Yes,,355,121,234
+Pottawattamie,CARSON,Supreme Court Justice - David May,,Yes,,438,102,336
+Pottawattamie,CARTER LAKE 1,Supreme Court Justice - David May,,Yes,,393,70,323
+Pottawattamie,CARTER LAKE 2,Supreme Court Justice - David May,,Yes,,360,92,268
+Pottawattamie,CB 01,Supreme Court Justice - David May,,Yes,,393,116,277
+Pottawattamie,CB 02,Supreme Court Justice - David May,,Yes,,581,193,388
+Pottawattamie,CB 03,Supreme Court Justice - David May,,Yes,,485,160,325
+Pottawattamie,CB 04,Supreme Court Justice - David May,,Yes,,439,167,272
+Pottawattamie,CB 05,Supreme Court Justice - David May,,Yes,,514,226,288
+Pottawattamie,CB 06,Supreme Court Justice - David May,,Yes,,729,285,444
+Pottawattamie,CB 07,Supreme Court Justice - David May,,Yes,,701,258,443
+Pottawattamie,CB 08,Supreme Court Justice - David May,,Yes,,813,330,483
+Pottawattamie,CB 09,Supreme Court Justice - David May,,Yes,,726,349,377
+Pottawattamie,CB 10,Supreme Court Justice - David May,,Yes,,951,393,558
+Pottawattamie,CB 11,Supreme Court Justice - David May,,Yes,,680,227,453
+Pottawattamie,CB 12,Supreme Court Justice - David May,,Yes,,721,249,472
+Pottawattamie,CB 13,Supreme Court Justice - David May,,Yes,,356,135,221
+Pottawattamie,CB 14,Supreme Court Justice - David May,,Yes,,415,132,283
+Pottawattamie,CB 15,Supreme Court Justice - David May,,Yes,,437,167,270
+Pottawattamie,CB 16,Supreme Court Justice - David May,,Yes,,516,164,352
+Pottawattamie,CB 17,Supreme Court Justice - David May,,Yes,,615,182,433
+Pottawattamie,CB 18,Supreme Court Justice - David May,,Yes,,582,153,429
+Pottawattamie,CB 19,Supreme Court Justice - David May,,Yes,,476,225,251
+Pottawattamie,CB 20,Supreme Court Justice - David May,,Yes,,430,166,264
+Pottawattamie,CB 21,Supreme Court Justice - David May,,Yes,,456,151,305
+Pottawattamie,CB 22,Supreme Court Justice - David May,,Yes,,1112,452,660
+Pottawattamie,CRESCENT,Supreme Court Justice - David May,,Yes,,835,359,476
+Pottawattamie,GARNER,Supreme Court Justice - David May,,Yes,,1031,387,644
+Pottawattamie,HANCOCK,Supreme Court Justice - David May,,Yes,,117,15,102
+Pottawattamie,LEWIS 1,Supreme Court Justice - David May,,Yes,,682,226,456
+Pottawattamie,LEWIS 2,Supreme Court Justice - David May,,Yes,,783,320,463
+Pottawattamie,MACEDONIA,Supreme Court Justice - David May,,Yes,,186,40,146
+Pottawattamie,MCCLELLAND,Supreme Court Justice - David May,,Yes,,46,4,42
+Pottawattamie,MINDEN,Supreme Court Justice - David May,,Yes,,429,76,353
+Pottawattamie,NEOLA,Supreme Court Justice - David May,,Yes,,260,40,220
+Pottawattamie,OAKLAND,Supreme Court Justice - David May,,Yes,,637,136,501
+Pottawattamie,TREYNOR,Supreme Court Justice - David May,,Yes,,920,226,694
+Pottawattamie,UNDERWOOD,Supreme Court Justice - David May,,Yes,,937,241,696
+Pottawattamie,WALNUT,Supreme Court Justice - David May,,Yes,,281,25,256
+Pottawattamie,AVOCA,U.S. House,4,Randy Feenstra,REP,751,114,637
+Pottawattamie,BOOMER,U.S. House,4,Randy Feenstra,REP,481,152,329
+Pottawattamie,CARSON,U.S. House,4,Randy Feenstra,REP,646,132,514
+Pottawattamie,CARTER LAKE 1,U.S. House,4,Randy Feenstra,REP,434,71,363
+Pottawattamie,CARTER LAKE 2,U.S. House,4,Randy Feenstra,REP,433,90,343
+Pottawattamie,CB 01,U.S. House,4,Randy Feenstra,REP,441,142,299
+Pottawattamie,CB 02,U.S. House,4,Randy Feenstra,REP,620,212,408
+Pottawattamie,CB 03,U.S. House,4,Randy Feenstra,REP,482,152,330
+Pottawattamie,CB 04,U.S. House,4,Randy Feenstra,REP,491,194,297
+Pottawattamie,CB 05,U.S. House,4,Randy Feenstra,REP,520,232,288
+Pottawattamie,CB 06,U.S. House,4,Randy Feenstra,REP,745,295,450
+Pottawattamie,CB 07,U.S. House,4,Randy Feenstra,REP,720,262,458
+Pottawattamie,CB 08,U.S. House,4,Randy Feenstra,REP,892,340,552
+Pottawattamie,CB 09,U.S. House,4,Randy Feenstra,REP,762,358,404
+Pottawattamie,CB 10,U.S. House,4,Randy Feenstra,REP,988,385,603
+Pottawattamie,CB 11,U.S. House,4,Randy Feenstra,REP,659,202,457
+Pottawattamie,CB 12,U.S. House,4,Randy Feenstra,REP,774,250,524
+Pottawattamie,CB 13,U.S. House,4,Randy Feenstra,REP,316,113,203
+Pottawattamie,CB 14,U.S. House,4,Randy Feenstra,REP,427,142,285
+Pottawattamie,CB 15,U.S. House,4,Randy Feenstra,REP,394,139,255
+Pottawattamie,CB 16,U.S. House,4,Randy Feenstra,REP,555,158,397
+Pottawattamie,CB 17,U.S. House,4,Randy Feenstra,REP,640,185,455
+Pottawattamie,CB 18,U.S. House,4,Randy Feenstra,REP,625,180,445
+Pottawattamie,CB 19,U.S. House,4,Randy Feenstra,REP,521,235,286
+Pottawattamie,CB 20,U.S. House,4,Randy Feenstra,REP,542,181,361
+Pottawattamie,CB 21,U.S. House,4,Randy Feenstra,REP,489,170,319
+Pottawattamie,CB 22,U.S. House,4,Randy Feenstra,REP,1384,552,832
+Pottawattamie,CRESCENT,U.S. House,4,Randy Feenstra,REP,1067,454,613
+Pottawattamie,GARNER,U.S. House,4,Randy Feenstra,REP,1386,503,883
+Pottawattamie,HANCOCK,U.S. House,4,Randy Feenstra,REP,162,18,144
+Pottawattamie,LEWIS 1,U.S. House,4,Randy Feenstra,REP,848,289,559
+Pottawattamie,LEWIS 2,U.S. House,4,Randy Feenstra,REP,1066,409,657
+Pottawattamie,MACEDONIA,U.S. House,4,Randy Feenstra,REP,245,56,189
+Pottawattamie,MCCLELLAND,U.S. House,4,Randy Feenstra,REP,73,8,65
+Pottawattamie,MINDEN,U.S. House,4,Randy Feenstra,REP,535,96,439
+Pottawattamie,NEOLA,U.S. House,4,Randy Feenstra,REP,334,47,287
+Pottawattamie,OAKLAND,U.S. House,4,Randy Feenstra,REP,817,181,636
+Pottawattamie,TREYNOR,U.S. House,4,Randy Feenstra,REP,1315,320,995
+Pottawattamie,UNDERWOOD,U.S. House,4,Randy Feenstra,REP,1238,316,922
+Pottawattamie,WALNUT,U.S. House,4,Randy Feenstra,REP,394,45,349
+Pottawattamie,AVOCA,U.S. House,4,Ryan Melton,DEM,337,69,268
+Pottawattamie,BOOMER,U.S. House,4,Ryan Melton,DEM,162,80,82
+Pottawattamie,CARSON,U.S. House,4,Ryan Melton,DEM,211,53,158
+Pottawattamie,CARTER LAKE 1,U.S. House,4,Ryan Melton,DEM,319,97,222
+Pottawattamie,CARTER LAKE 2,U.S. House,4,Ryan Melton,DEM,267,68,199
+Pottawattamie,CB 01,U.S. House,4,Ryan Melton,DEM,360,117,243
+Pottawattamie,CB 02,U.S. House,4,Ryan Melton,DEM,481,186,295
+Pottawattamie,CB 03,U.S. House,4,Ryan Melton,DEM,416,154,262
+Pottawattamie,CB 04,U.S. House,4,Ryan Melton,DEM,369,162,207
+Pottawattamie,CB 05,U.S. House,4,Ryan Melton,DEM,385,177,208
+Pottawattamie,CB 06,U.S. House,4,Ryan Melton,DEM,665,311,354
+Pottawattamie,CB 07,U.S. House,4,Ryan Melton,DEM,640,289,351
+Pottawattamie,CB 08,U.S. House,4,Ryan Melton,DEM,745,358,387
+Pottawattamie,CB 09,U.S. House,4,Ryan Melton,DEM,630,364,266
+Pottawattamie,CB 10,U.S. House,4,Ryan Melton,DEM,767,404,363
+Pottawattamie,CB 11,U.S. House,4,Ryan Melton,DEM,650,252,398
+Pottawattamie,CB 12,U.S. House,4,Ryan Melton,DEM,575,257,318
+Pottawattamie,CB 13,U.S. House,4,Ryan Melton,DEM,379,184,195
+Pottawattamie,CB 14,U.S. House,4,Ryan Melton,DEM,365,116,249
+Pottawattamie,CB 15,U.S. House,4,Ryan Melton,DEM,406,190,216
+Pottawattamie,CB 16,U.S. House,4,Ryan Melton,DEM,423,159,264
+Pottawattamie,CB 17,U.S. House,4,Ryan Melton,DEM,529,200,329
+Pottawattamie,CB 18,U.S. House,4,Ryan Melton,DEM,468,154,314
+Pottawattamie,CB 19,U.S. House,4,Ryan Melton,DEM,373,196,177
+Pottawattamie,CB 20,U.S. House,4,Ryan Melton,DEM,376,151,225
+Pottawattamie,CB 21,U.S. House,4,Ryan Melton,DEM,333,132,201
+Pottawattamie,CB 22,U.S. House,4,Ryan Melton,DEM,737,361,376
+Pottawattamie,CRESCENT,U.S. House,4,Ryan Melton,DEM,549,292,257
+Pottawattamie,GARNER,U.S. House,4,Ryan Melton,DEM,606,292,314
+Pottawattamie,HANCOCK,U.S. House,4,Ryan Melton,DEM,46,11,35
+Pottawattamie,LEWIS 1,U.S. House,4,Ryan Melton,DEM,447,183,264
+Pottawattamie,LEWIS 2,U.S. House,4,Ryan Melton,DEM,471,234,237
+Pottawattamie,MACEDONIA,U.S. House,4,Ryan Melton,DEM,84,14,70
+Pottawattamie,MCCLELLAND,U.S. House,4,Ryan Melton,DEM,23,3,20
+Pottawattamie,MINDEN,U.S. House,4,Ryan Melton,DEM,145,37,108
+Pottawattamie,NEOLA,U.S. House,4,Ryan Melton,DEM,153,36,117
+Pottawattamie,OAKLAND,U.S. House,4,Ryan Melton,DEM,293,77,216
+Pottawattamie,TREYNOR,U.S. House,4,Ryan Melton,DEM,395,130,265
+Pottawattamie,UNDERWOOD,U.S. House,4,Ryan Melton,DEM,511,181,330
+Pottawattamie,WALNUT,U.S. House,4,Ryan Melton,DEM,172,22,150
+Pottawattamie,AVOCA,U.S. House,4,Write-In,,3,0,3
+Pottawattamie,BOOMER,U.S. House,4,Write-In,,4,2,2
+Pottawattamie,CARSON,U.S. House,4,Write-In,,0,0,0
+Pottawattamie,CARTER LAKE 1,U.S. House,4,Write-In,,0,0,0
+Pottawattamie,CARTER LAKE 2,U.S. House,4,Write-In,,2,0,2
+Pottawattamie,CB 01,U.S. House,4,Write-In,,0,0,0
+Pottawattamie,CB 02,U.S. House,4,Write-In,,1,0,1
+Pottawattamie,CB 03,U.S. House,4,Write-In,,2,0,2
+Pottawattamie,CB 04,U.S. House,4,Write-In,,3,2,1
+Pottawattamie,CB 05,U.S. House,4,Write-In,,2,0,2
+Pottawattamie,CB 06,U.S. House,4,Write-In,,3,1,2
+Pottawattamie,CB 07,U.S. House,4,Write-In,,2,0,2
+Pottawattamie,CB 08,U.S. House,4,Write-In,,1,1,0
+Pottawattamie,CB 09,U.S. House,4,Write-In,,5,3,2
+Pottawattamie,CB 10,U.S. House,4,Write-In,,3,0,3
+Pottawattamie,CB 11,U.S. House,4,Write-In,,2,1,1
+Pottawattamie,CB 12,U.S. House,4,Write-In,,2,1,1
+Pottawattamie,CB 13,U.S. House,4,Write-In,,2,0,2
+Pottawattamie,CB 14,U.S. House,4,Write-In,,3,1,2
+Pottawattamie,CB 15,U.S. House,4,Write-In,,0,0,0
+Pottawattamie,CB 16,U.S. House,4,Write-In,,0,0,0
+Pottawattamie,CB 17,U.S. House,4,Write-In,,2,0,2
+Pottawattamie,CB 18,U.S. House,4,Write-In,,1,0,1
+Pottawattamie,CB 19,U.S. House,4,Write-In,,1,0,1
+Pottawattamie,CB 20,U.S. House,4,Write-In,,2,0,2
+Pottawattamie,CB 21,U.S. House,4,Write-In,,2,0,2
+Pottawattamie,CB 22,U.S. House,4,Write-In,,5,1,4
+Pottawattamie,CRESCENT,U.S. House,4,Write-In,,2,1,1
+Pottawattamie,GARNER,U.S. House,4,Write-In,,3,0,3
+Pottawattamie,HANCOCK,U.S. House,4,Write-In,,0,0,0
+Pottawattamie,LEWIS 1,U.S. House,4,Write-In,,0,0,0
+Pottawattamie,LEWIS 2,U.S. House,4,Write-In,,3,1,2
+Pottawattamie,MACEDONIA,U.S. House,4,Write-In,,0,0,0
+Pottawattamie,MCCLELLAND,U.S. House,4,Write-In,,0,0,0
+Pottawattamie,MINDEN,U.S. House,4,Write-In,,0,0,0
+Pottawattamie,NEOLA,U.S. House,4,Write-In,,1,0,1
+Pottawattamie,OAKLAND,U.S. House,4,Write-In,,3,0,3
+Pottawattamie,TREYNOR,U.S. House,4,Write-In,,1,0,1
+Pottawattamie,UNDERWOOD,U.S. House,4,Write-In,,1,0,1
+Pottawattamie,WALNUT,U.S. House,4,Write-In,,1,0,1
+Pottawattamie,BOOMER,Underwood School - Public Measure SA,,No,,37,14,23
+Pottawattamie,GARNER,Underwood School - Public Measure SA,,No,,81,31,50
+Pottawattamie,MCCLELLAND,Underwood School - Public Measure SA,,No,,39,4,35
+Pottawattamie,MINDEN,Underwood School - Public Measure SA,,No,,34,10,24
+Pottawattamie,OAKLAND,Underwood School - Public Measure SA,,No,,1,0,1
+Pottawattamie,TREYNOR,Underwood School - Public Measure SA,,No,,113,50,63
+Pottawattamie,UNDERWOOD,Underwood School - Public Measure SA,,No,,618,191,427
+Pottawattamie,BOOMER,Underwood School - Public Measure SA,,Yes,,47,22,25
+Pottawattamie,GARNER,Underwood School - Public Measure SA,,Yes,,132,47,85
+Pottawattamie,MCCLELLAND,Underwood School - Public Measure SA,,Yes,,58,6,52
+Pottawattamie,MINDEN,Underwood School - Public Measure SA,,Yes,,48,7,41
+Pottawattamie,OAKLAND,Underwood School - Public Measure SA,,Yes,,0,0,0
+Pottawattamie,TREYNOR,Underwood School - Public Measure SA,,Yes,,112,42,70
+Pottawattamie,UNDERWOOD,Underwood School - Public Measure SA,,Yes,,1094,288,806
+Pottawattamie,HANCOCK,Valley Township Trustee,,Donald Scheffler,,82,17,65
+Pottawattamie,HANCOCK,Valley Township Trustee,,Paul Harder,,97,19,78
+Pottawattamie,HANCOCK,Valley Township Trustee,,Write-In,,1,0,1
+Pottawattamie,OAKLAND,Washington Township Trustee,,Tim Temeyer,,212,61,151
+Pottawattamie,OAKLAND,Washington Township Trustee,,Write-In,,14,5,9
+Pottawattamie,CARSON,Wright Township Trustee,,Jon Klindt,,74,19,55
+Pottawattamie,CARSON,Wright Township Trustee,,Michael L Muhlbauer,,67,18,49
+Pottawattamie,CARSON,Wright Township Trustee,,Write-In,,1,0,1
+Pottawattamie,MINDEN,York Township Trustee,,D David Casson II,,137,26,111
+Pottawattamie,MINDEN,York Township Trustee,,Greg Soloth,,126,28,98
+Pottawattamie,MINDEN,York Township Trustee,,Write-In,,3,1,2

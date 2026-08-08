@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2004,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "us_senate",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2004_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 122132,
+        "rep_votes": 249236,
+        "other_votes": 7771,
+        "total_votes": 379139,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "margin": 127104,
+        "margin_pct": 33.52438024049228,
+        "winner": "REP",
+        "color": "#a50f15"
+      },
+      "2": {
+        "dem_votes": 114314,
+        "rep_votes": 273676,
+        "other_votes": 5831,
+        "total_votes": 393821,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "margin": 159362,
+        "margin_pct": 40.46559223606664,
+        "winner": "REP",
+        "color": "#67000d"
+      },
+      "3": {
+        "dem_votes": 91997,
+        "rep_votes": 230601,
+        "other_votes": 5479,
+        "total_votes": 328077,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "margin": 138604,
+        "margin_pct": 42.24739923859338,
+        "winner": "REP",
+        "color": "#67000d"
+      },
+      "4": {
+        "dem_votes": 87005,
+        "rep_votes": 286639,
+        "other_votes": 5138,
+        "total_votes": 378782,
+        "dem_candidate": "",
+        "rep_candidate": "",
+        "margin": 199634,
+        "margin_pct": 52.7041939690904,
+        "winner": "REP",
+        "color": "#67000d"
+      }
+    }
+  }
+}

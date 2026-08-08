@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2014,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "treasurer",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2014_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 149829,
+        "rep_votes": 114422,
+        "other_votes": 10102,
+        "total_votes": 274353,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "Sam Clovis",
+        "margin": -35407,
+        "margin_pct": -12.905636169460513,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "2": {
+        "dem_votes": 165714,
+        "rep_votes": 115247,
+        "other_votes": 11505,
+        "total_votes": 292466,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "Sam Clovis",
+        "margin": -50467,
+        "margin_pct": -17.255681002236155,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "3": {
+        "dem_votes": 143841,
+        "rep_votes": 107902,
+        "other_votes": 7765,
+        "total_votes": 259508,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "Sam Clovis",
+        "margin": -35939,
+        "margin_pct": -13.848898685204308,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "4": {
+        "dem_votes": 117558,
+        "rep_votes": 139062,
+        "other_votes": 8243,
+        "total_votes": 264863,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "Sam Clovis",
+        "margin": 21504,
+        "margin_pct": 8.118914306641546,
+        "winner": "REP",
+        "color": "#f7634b"
+      }
+    }
+  }
+}

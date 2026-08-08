@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2002,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "attorney_general",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2002_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 145098,
+        "rep_votes": 92060,
+        "other_votes": 5619,
+        "total_votes": 242777,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Dave Millage",
+        "margin": -53038,
+        "margin_pct": -21.84638577789494,
+        "winner": "DEM",
+        "color": "#2876b5"
+      },
+      "2": {
+        "dem_votes": 172114,
+        "rep_votes": 88272,
+        "other_votes": 4273,
+        "total_votes": 264659,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Dave Millage",
+        "margin": -83842,
+        "margin_pct": -31.679255192530764,
+        "winner": "DEM",
+        "color": "#08519c"
+      },
+      "3": {
+        "dem_votes": 149998,
+        "rep_votes": 79289,
+        "other_votes": 3254,
+        "total_votes": 232541,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Dave Millage",
+        "margin": -70709,
+        "margin_pct": -30.407111004081,
+        "winner": "DEM",
+        "color": "#08519c"
+      },
+      "4": {
+        "dem_votes": 144957,
+        "rep_votes": 104859,
+        "other_votes": 3870,
+        "total_votes": 253686,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Dave Millage",
+        "margin": -40098,
+        "margin_pct": -15.806154064473404,
+        "winner": "DEM",
+        "color": "#4795d2"
+      }
+    }
+  }
+}

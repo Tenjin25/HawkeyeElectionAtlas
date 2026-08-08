@@ -1,0 +1,27 @@
+# Local dependencies and tool environments
+node_modules/
+.vendor/
+
+# Scratch and inspection output
+.tmp_spreadsheet_inspect/
+tmp/
+.agents/
+
+# Re-downloadable Census block geometry (too large for the source repository)
+data/census/*tabblock*.zip
+
+# Python and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local configuration and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini

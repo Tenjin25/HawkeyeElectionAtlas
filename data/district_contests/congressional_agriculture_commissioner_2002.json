@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2002,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "agriculture_commissioner",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2002_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 123451,
+        "rep_votes": 102698,
+        "other_votes": 13481,
+        "total_votes": 239630,
+        "dem_candidate": "Patty Judge",
+        "rep_candidate": "John Askew",
+        "margin": -20753,
+        "margin_pct": -8.660434837040437,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "2": {
+        "dem_votes": 134609,
+        "rep_votes": 115025,
+        "other_votes": 11106,
+        "total_votes": 260740,
+        "dem_candidate": "Patty Judge",
+        "rep_candidate": "John Askew",
+        "margin": -19584,
+        "margin_pct": -7.510930428779627,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "3": {
+        "dem_votes": 122652,
+        "rep_votes": 98444,
+        "other_votes": 8767,
+        "total_votes": 229863,
+        "dem_candidate": "Patty Judge",
+        "rep_candidate": "John Askew",
+        "margin": -24208,
+        "margin_pct": -10.53149049651314,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "4": {
+        "dem_votes": 109849,
+        "rep_votes": 129969,
+        "other_votes": 11396,
+        "total_votes": 251214,
+        "dem_candidate": "Patty Judge",
+        "rep_candidate": "John Askew",
+        "margin": 20120,
+        "margin_pct": 8.009107772655982,
+        "winner": "REP",
+        "color": "#f7634b"
+      }
+    }
+  }
+}

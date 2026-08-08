@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2022,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "attorney_general",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2022_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 153453,
+        "rep_votes": 150027,
+        "other_votes": 200,
+        "total_votes": 303680,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Brenna Bird",
+        "margin": -3426,
+        "margin_pct": -1.1281612223393045,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "2": {
+        "dem_votes": 161163,
+        "rep_votes": 153230,
+        "other_votes": 165,
+        "total_votes": 314558,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Brenna Bird",
+        "margin": -7933,
+        "margin_pct": -2.521951436619002,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "3": {
+        "dem_votes": 167770,
+        "rep_votes": 140370,
+        "other_votes": 257,
+        "total_votes": 308397,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Brenna Bird",
+        "margin": -27400,
+        "margin_pct": -8.884651925926647,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "4": {
+        "dem_votes": 108504,
+        "rep_votes": 167805,
+        "other_votes": 179,
+        "total_votes": 276488,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Brenna Bird",
+        "margin": 59301,
+        "margin_pct": 21.447947108011924,
+        "winner": "REP",
+        "color": "#cb181d"
+      }
+    }
+  }
+}

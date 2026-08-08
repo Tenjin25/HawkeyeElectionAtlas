@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2018,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "agriculture_commissioner",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
+    "geographic_precision": "precinct_crosswalk",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_verified/2018_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 161646,
+        "rep_votes": 150735,
+        "other_votes": 9903,
+        "total_votes": 322284,
+        "dem_candidate": "Tim Gannon",
+        "rep_candidate": "Mike Naig",
+        "margin": -10911,
+        "margin_pct": -3.385523327251741,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "2": {
+        "dem_votes": 165047,
+        "rep_votes": 161522,
+        "other_votes": 11392,
+        "total_votes": 337961,
+        "dem_candidate": "Tim Gannon",
+        "rep_candidate": "Mike Naig",
+        "margin": -3525,
+        "margin_pct": -1.043019756717491,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "3": {
+        "dem_votes": 160808,
+        "rep_votes": 152058,
+        "other_votes": 9572,
+        "total_votes": 322438,
+        "dem_candidate": "Tim Gannon",
+        "rep_candidate": "Mike Naig",
+        "margin": -8750,
+        "margin_pct": -2.713699998139177,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "4": {
+        "dem_votes": 114143,
+        "rep_votes": 184934,
+        "other_votes": 8576,
+        "total_votes": 307653,
+        "dem_candidate": "Tim Gannon",
+        "rep_candidate": "Mike Naig",
+        "margin": 70791,
+        "margin_pct": 23.010014529356127,
+        "winner": "REP",
+        "color": "#cb181d"
+      }
+    }
+  }
+}

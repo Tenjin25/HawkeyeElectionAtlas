@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2022,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "us_senate",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2022_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 143585,
+        "rep_votes": 162140,
+        "other_votes": 407,
+        "total_votes": 306132,
+        "dem_candidate": "Michael Franken",
+        "rep_candidate": "Chuck Grassley",
+        "margin": 18555,
+        "margin_pct": 6.061110893340127,
+        "winner": "REP",
+        "color": "#f7634b"
+      },
+      "2": {
+        "dem_votes": 144341,
+        "rep_votes": 173887,
+        "other_votes": 387,
+        "total_votes": 318615,
+        "dem_candidate": "Michael Franken",
+        "rep_candidate": "Chuck Grassley",
+        "margin": 29546,
+        "margin_pct": 9.273260832038668,
+        "winner": "REP",
+        "color": "#f7634b"
+      },
+      "3": {
+        "dem_votes": 151121,
+        "rep_votes": 160008,
+        "other_votes": 577,
+        "total_votes": 311706,
+        "dem_candidate": "Michael Franken",
+        "rep_candidate": "Chuck Grassley",
+        "margin": 8887,
+        "margin_pct": 2.851084034314386,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "4": {
+        "dem_votes": 94283,
+        "rep_votes": 185466,
+        "other_votes": 444,
+        "total_votes": 280193,
+        "dem_candidate": "Michael Franken",
+        "rep_candidate": "Chuck Grassley",
+        "margin": 91183,
+        "margin_pct": 32.5429257690235,
+        "winner": "REP",
+        "color": "#a50f15"
+      }
+    }
+  }
+}

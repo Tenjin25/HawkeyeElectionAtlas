@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2020,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "us_senate",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
+    "geographic_precision": "precinct_crosswalk",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_verified/2020_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 202708,
+        "rep_votes": 206549,
+        "other_votes": 13413,
+        "total_votes": 422670,
+        "dem_candidate": "Theresa Greenfield",
+        "rep_candidate": "Joni Ernst",
+        "margin": 3841,
+        "margin_pct": 0.9087467764449807,
+        "winner": "REP",
+        "color": "#f4c9c5"
+      },
+      "2": {
+        "dem_votes": 202627,
+        "rep_votes": 214585,
+        "other_votes": 13093,
+        "total_votes": 430305,
+        "dem_candidate": "Theresa Greenfield",
+        "rep_candidate": "Joni Ernst",
+        "margin": 11958,
+        "margin_pct": 2.7789591103984383,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "3": {
+        "dem_votes": 201284,
+        "rep_votes": 203182,
+        "other_votes": 12371,
+        "total_votes": 416837,
+        "dem_candidate": "Theresa Greenfield",
+        "rep_candidate": "Joni Ernst",
+        "margin": 1898,
+        "margin_pct": 0.4553338595182289,
+        "winner": "REP",
+        "color": "#f7f7f7"
+      },
+      "4": {
+        "dem_votes": 148240,
+        "rep_votes": 240681,
+        "other_votes": 13095,
+        "total_votes": 402016,
+        "dem_candidate": "Theresa Greenfield",
+        "rep_candidate": "Joni Ernst",
+        "margin": 92441,
+        "margin_pct": 22.994358433495186,
+        "winner": "REP",
+        "color": "#cb181d"
+      }
+    }
+  }
+}

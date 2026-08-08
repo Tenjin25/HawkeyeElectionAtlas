@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2018,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "attorney_general",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
+    "geographic_precision": "precinct_crosswalk",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_verified/2018_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 219794,
+        "rep_votes": 0,
+        "other_votes": 66938,
+        "total_votes": 286732,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "",
+        "margin": -219794,
+        "margin_pct": -76.65485540504721,
+        "winner": "DEM",
+        "color": "#08306b"
+      },
+      "2": {
+        "dem_votes": 236578,
+        "rep_votes": 0,
+        "other_votes": 68465,
+        "total_votes": 305043,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "",
+        "margin": -236578,
+        "margin_pct": -77.55562330556675,
+        "winner": "DEM",
+        "color": "#08306b"
+      },
+      "3": {
+        "dem_votes": 226142,
+        "rep_votes": 0,
+        "other_votes": 67869,
+        "total_votes": 294011,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "",
+        "margin": -226142,
+        "margin_pct": -76.91616980317063,
+        "winner": "DEM",
+        "color": "#08306b"
+      },
+      "4": {
+        "dem_votes": 195790,
+        "rep_votes": 0,
+        "other_votes": 66151,
+        "total_votes": 261941,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "",
+        "margin": -195790,
+        "margin_pct": -74.74583971199621,
+        "winner": "DEM",
+        "color": "#08306b"
+      }
+    }
+  }
+}

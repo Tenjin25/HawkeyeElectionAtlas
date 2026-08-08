@@ -1,0 +1,671 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Washington,BRIGHTON,Brighton Township Trustee,,Dennis Pacha,,105,24,81
+Washington,BRIGHTON,Brighton Township Trustee,,Doug Moothart,,74,15,59
+Washington,BRIGHTON,Brighton Township Trustee,,Write-In,,2,2,0
+Washington,BRIGHTON,Clay Township Trustee,,Chuck Meacham,,96,45,51
+Washington,BRIGHTON,Clay Township Trustee,,Dale Morgan,,108,49,59
+Washington,BRIGHTON,Clay Township Trustee,,Write-In,,1,1,0
+Washington,AINSWORTH,Constitutional Amendment 1,,No,,153,65,88
+Washington,BRIGHTON,Constitutional Amendment 1,,No,,176,67,109
+Washington,KALONA,Constitutional Amendment 1,,No,,332,106,226
+Washington,RICHMOND,Constitutional Amendment 1,,No,,123,44,79
+Washington,RIVERSIDE,Constitutional Amendment 1,,No,,326,121,205
+Washington,WARD 1,Constitutional Amendment 1,,No,,200,119,81
+Washington,WARD 2 PRECINCT,Constitutional Amendment 1,,No,,218,118,100
+Washington,WARD 3 PRECINCT,Constitutional Amendment 1,,No,,234,140,94
+Washington,WARD 4 PRECINCT,Constitutional Amendment 1,,No,,237,215,22
+Washington,WELLMAN PRECINCT,Constitutional Amendment 1,,No,,277,98,179
+Washington,AINSWORTH,Constitutional Amendment 1,,Yes,,622,244,378
+Washington,BRIGHTON,Constitutional Amendment 1,,Yes,,591,234,357
+Washington,KALONA,Constitutional Amendment 1,,Yes,,1145,384,761
+Washington,RICHMOND,Constitutional Amendment 1,,Yes,,451,190,261
+Washington,RIVERSIDE,Constitutional Amendment 1,,Yes,,1245,477,768
+Washington,WARD 1,Constitutional Amendment 1,,Yes,,699,369,330
+Washington,WARD 2 PRECINCT,Constitutional Amendment 1,,Yes,,734,413,321
+Washington,WARD 3 PRECINCT,Constitutional Amendment 1,,Yes,,873,535,338
+Washington,WARD 4 PRECINCT,Constitutional Amendment 1,,Yes,,790,720,70
+Washington,WELLMAN PRECINCT,Constitutional Amendment 1,,Yes,,1043,355,688
+Washington,AINSWORTH,Constitutional Amendment 2,,No,,115,41,74
+Washington,BRIGHTON,Constitutional Amendment 2,,No,,105,47,58
+Washington,KALONA,Constitutional Amendment 2,,No,,278,93,185
+Washington,RICHMOND,Constitutional Amendment 2,,No,,92,37,55
+Washington,RIVERSIDE,Constitutional Amendment 2,,No,,271,100,171
+Washington,WARD 1,Constitutional Amendment 2,,No,,173,105,68
+Washington,WARD 2 PRECINCT,Constitutional Amendment 2,,No,,158,93,65
+Washington,WARD 3 PRECINCT,Constitutional Amendment 2,,No,,161,92,69
+Washington,WARD 4 PRECINCT,Constitutional Amendment 2,,No,,168,151,17
+Washington,WELLMAN PRECINCT,Constitutional Amendment 2,,No,,237,89,148
+Washington,AINSWORTH,Constitutional Amendment 2,,Yes,,654,267,387
+Washington,BRIGHTON,Constitutional Amendment 2,,Yes,,648,250,398
+Washington,KALONA,Constitutional Amendment 2,,Yes,,1170,391,779
+Washington,RICHMOND,Constitutional Amendment 2,,Yes,,473,194,279
+Washington,RIVERSIDE,Constitutional Amendment 2,,Yes,,1272,482,790
+Washington,WARD 1,Constitutional Amendment 2,,Yes,,712,382,330
+Washington,WARD 2 PRECINCT,Constitutional Amendment 2,,Yes,,778,429,349
+Washington,WARD 3 PRECINCT,Constitutional Amendment 2,,Yes,,923,563,360
+Washington,WARD 4 PRECINCT,Constitutional Amendment 2,,Yes,,845,774,71
+Washington,WELLMAN PRECINCT,Constitutional Amendment 2,,Yes,,1056,350,706
+Washington,AINSWORTH,County Agricultural Extension Council Member,,David Erwin,,507,209,298
+Washington,BRIGHTON,County Agricultural Extension Council Member,,David Erwin,,439,173,266
+Washington,KALONA,County Agricultural Extension Council Member,,David Erwin,,714,246,468
+Washington,RICHMOND,County Agricultural Extension Council Member,,David Erwin,,287,131,156
+Washington,RIVERSIDE,County Agricultural Extension Council Member,,David Erwin,,813,324,489
+Washington,WARD 1,County Agricultural Extension Council Member,,David Erwin,,508,282,226
+Washington,WARD 2 PRECINCT,County Agricultural Extension Council Member,,David Erwin,,552,308,244
+Washington,WARD 3 PRECINCT,County Agricultural Extension Council Member,,David Erwin,,654,407,247
+Washington,WARD 4 PRECINCT,County Agricultural Extension Council Member,,David Erwin,,594,538,56
+Washington,WELLMAN PRECINCT,County Agricultural Extension Council Member,,David Erwin,,728,236,492
+Washington,AINSWORTH,County Agricultural Extension Council Member,,Duane Hammen,,481,202,279
+Washington,BRIGHTON,County Agricultural Extension Council Member,,Duane Hammen,,494,191,303
+Washington,KALONA,County Agricultural Extension Council Member,,Duane Hammen,,776,242,534
+Washington,RICHMOND,County Agricultural Extension Council Member,,Duane Hammen,,332,146,186
+Washington,RIVERSIDE,County Agricultural Extension Council Member,,Duane Hammen,,868,348,520
+Washington,WARD 1,County Agricultural Extension Council Member,,Duane Hammen,,561,310,251
+Washington,WARD 2 PRECINCT,County Agricultural Extension Council Member,,Duane Hammen,,568,323,245
+Washington,WARD 3 PRECINCT,County Agricultural Extension Council Member,,Duane Hammen,,720,449,271
+Washington,WARD 4 PRECINCT,County Agricultural Extension Council Member,,Duane Hammen,,658,595,63
+Washington,WELLMAN PRECINCT,County Agricultural Extension Council Member,,Duane Hammen,,806,267,539
+Washington,AINSWORTH,County Agricultural Extension Council Member,,Kathy Ebert,,453,195,258
+Washington,BRIGHTON,County Agricultural Extension Council Member,,Kathy Ebert,,457,192,265
+Washington,KALONA,County Agricultural Extension Council Member,,Kathy Ebert,,756,255,501
+Washington,RICHMOND,County Agricultural Extension Council Member,,Kathy Ebert,,293,135,158
+Washington,RIVERSIDE,County Agricultural Extension Council Member,,Kathy Ebert,,823,328,495
+Washington,WARD 1,County Agricultural Extension Council Member,,Kathy Ebert,,561,314,247
+Washington,WARD 2 PRECINCT,County Agricultural Extension Council Member,,Kathy Ebert,,571,326,245
+Washington,WARD 3 PRECINCT,County Agricultural Extension Council Member,,Kathy Ebert,,705,446,259
+Washington,WARD 4 PRECINCT,County Agricultural Extension Council Member,,Kathy Ebert,,626,571,55
+Washington,WELLMAN PRECINCT,County Agricultural Extension Council Member,,Kathy Ebert,,731,246,485
+Washington,AINSWORTH,County Agricultural Extension Council Member,,Sue Janecek,,484,204,280
+Washington,BRIGHTON,County Agricultural Extension Council Member,,Sue Janecek,,539,214,325
+Washington,KALONA,County Agricultural Extension Council Member,,Sue Janecek,,789,261,528
+Washington,RICHMOND,County Agricultural Extension Council Member,,Sue Janecek,,345,150,195
+Washington,RIVERSIDE,County Agricultural Extension Council Member,,Sue Janecek,,909,359,550
+Washington,WARD 1,County Agricultural Extension Council Member,,Sue Janecek,,600,335,265
+Washington,WARD 2 PRECINCT,County Agricultural Extension Council Member,,Sue Janecek,,624,349,275
+Washington,WARD 3 PRECINCT,County Agricultural Extension Council Member,,Sue Janecek,,769,470,299
+Washington,WARD 4 PRECINCT,County Agricultural Extension Council Member,,Sue Janecek,,675,614,61
+Washington,WELLMAN PRECINCT,County Agricultural Extension Council Member,,Sue Janecek,,836,279,557
+Washington,AINSWORTH,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Washington,BRIGHTON,County Agricultural Extension Council Member,,Write-In,,4,0,4
+Washington,KALONA,County Agricultural Extension Council Member,,Write-In,,9,2,7
+Washington,RICHMOND,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Washington,RIVERSIDE,County Agricultural Extension Council Member,,Write-In,,19,6,13
+Washington,WARD 1,County Agricultural Extension Council Member,,Write-In,,5,1,4
+Washington,WARD 2 PRECINCT,County Agricultural Extension Council Member,,Write-In,,5,3,2
+Washington,WARD 3 PRECINCT,County Agricultural Extension Council Member,,Write-In,,6,5,1
+Washington,WARD 4 PRECINCT,County Agricultural Extension Council Member,,Write-In,,9,8,1
+Washington,WELLMAN PRECINCT,County Agricultural Extension Council Member,,Write-In,,13,1,12
+Washington,AINSWORTH,County Attorney To Fill a Vacancy,,Nathan Repp,REP,680,269,411
+Washington,BRIGHTON,County Attorney To Fill a Vacancy,,Nathan Repp,REP,675,252,423
+Washington,KALONA,County Attorney To Fill a Vacancy,,Nathan Repp,REP,1214,391,823
+Washington,RICHMOND,County Attorney To Fill a Vacancy,,Nathan Repp,REP,476,185,291
+Washington,RIVERSIDE,County Attorney To Fill a Vacancy,,Nathan Repp,REP,1262,453,809
+Washington,WARD 1,County Attorney To Fill a Vacancy,,Nathan Repp,REP,790,427,363
+Washington,WARD 2 PRECINCT,County Attorney To Fill a Vacancy,,Nathan Repp,REP,837,464,373
+Washington,WARD 3 PRECINCT,County Attorney To Fill a Vacancy,,Nathan Repp,REP,935,564,371
+Washington,WARD 4 PRECINCT,County Attorney To Fill a Vacancy,,Nathan Repp,REP,852,772,80
+Washington,WELLMAN PRECINCT,County Attorney To Fill a Vacancy,,Nathan Repp,REP,1083,357,726
+Washington,AINSWORTH,County Attorney To Fill a Vacancy,,Write-In,,6,1,5
+Washington,BRIGHTON,County Attorney To Fill a Vacancy,,Write-In,,8,2,6
+Washington,KALONA,County Attorney To Fill a Vacancy,,Write-In,,13,3,10
+Washington,RICHMOND,County Attorney To Fill a Vacancy,,Write-In,,3,2,1
+Washington,RIVERSIDE,County Attorney To Fill a Vacancy,,Write-In,,10,2,8
+Washington,WARD 1,County Attorney To Fill a Vacancy,,Write-In,,9,4,5
+Washington,WARD 2 PRECINCT,County Attorney To Fill a Vacancy,,Write-In,,12,5,7
+Washington,WARD 3 PRECINCT,County Attorney To Fill a Vacancy,,Write-In,,13,5,8
+Washington,WARD 4 PRECINCT,County Attorney To Fill a Vacancy,,Write-In,,14,14,0
+Washington,WELLMAN PRECINCT,County Attorney To Fill a Vacancy,,Write-In,,19,7,12
+Washington,AINSWORTH,County Auditor,,Tamera Stewart,REP,695,271,424
+Washington,BRIGHTON,County Auditor,,Tamera Stewart,REP,682,260,422
+Washington,KALONA,County Auditor,,Tamera Stewart,REP,1244,417,827
+Washington,RICHMOND,County Auditor,,Tamera Stewart,REP,489,189,300
+Washington,RIVERSIDE,County Auditor,,Tamera Stewart,REP,1328,479,849
+Washington,WARD 1,County Auditor,,Tamera Stewart,REP,815,435,380
+Washington,WARD 2 PRECINCT,County Auditor,,Tamera Stewart,REP,852,474,378
+Washington,WARD 3 PRECINCT,County Auditor,,Tamera Stewart,REP,945,565,380
+Washington,WARD 4 PRECINCT,County Auditor,,Tamera Stewart,REP,863,779,84
+Washington,WELLMAN PRECINCT,County Auditor,,Tamera Stewart,REP,1091,361,730
+Washington,AINSWORTH,County Auditor,,Write-In,,7,1,6
+Washington,BRIGHTON,County Auditor,,Write-In,,6,2,4
+Washington,KALONA,County Auditor,,Write-In,,17,3,14
+Washington,RICHMOND,County Auditor,,Write-In,,4,4,0
+Washington,RIVERSIDE,County Auditor,,Write-In,,13,3,10
+Washington,WARD 1,County Auditor,,Write-In,,12,6,6
+Washington,WARD 2 PRECINCT,County Auditor,,Write-In,,14,6,8
+Washington,WARD 3 PRECINCT,County Auditor,,Write-In,,9,5,4
+Washington,WARD 4 PRECINCT,County Auditor,,Write-In,,8,8,0
+Washington,WELLMAN PRECINCT,County Auditor,,Write-In,,17,7,10
+Washington,AINSWORTH,County Sheriff,,Jared M. Schneider,REP,721,287,434
+Washington,BRIGHTON,County Sheriff,,Jared M. Schneider,REP,712,272,440
+Washington,KALONA,County Sheriff,,Jared M. Schneider,REP,1355,449,906
+Washington,RICHMOND,County Sheriff,,Jared M. Schneider,REP,536,209,327
+Washington,RIVERSIDE,County Sheriff,,Jared M. Schneider,REP,1398,500,898
+Washington,WARD 1,County Sheriff,,Jared M. Schneider,REP,841,454,387
+Washington,WARD 2 PRECINCT,County Sheriff,,Jared M. Schneider,REP,889,498,391
+Washington,WARD 3 PRECINCT,County Sheriff,,Jared M. Schneider,REP,1017,610,407
+Washington,WARD 4 PRECINCT,County Sheriff,,Jared M. Schneider,REP,926,841,85
+Washington,WELLMAN PRECINCT,County Sheriff,,Jared M. Schneider,REP,1226,416,810
+Washington,AINSWORTH,County Sheriff,,Write-In,,8,1,7
+Washington,BRIGHTON,County Sheriff,,Write-In,,10,2,8
+Washington,KALONA,County Sheriff,,Write-In,,20,4,16
+Washington,RICHMOND,County Sheriff,,Write-In,,5,3,2
+Washington,RIVERSIDE,County Sheriff,,Write-In,,14,5,9
+Washington,WARD 1,County Sheriff,,Write-In,,11,5,6
+Washington,WARD 2 PRECINCT,County Sheriff,,Write-In,,13,7,6
+Washington,WARD 3 PRECINCT,County Sheriff,,Write-In,,8,5,3
+Washington,WARD 4 PRECINCT,County Sheriff,,Write-In,,13,13,0
+Washington,WELLMAN PRECINCT,County Sheriff,,Write-In,,19,5,14
+Washington,BRIGHTON,County Supervisor,1,"Jack Seward, Jr.",REP,684,258,426
+Washington,WELLMAN PRECINCT,County Supervisor,1,"Jack Seward, Jr.",REP,1136,369,767
+Washington,BRIGHTON,County Supervisor,1,Write-In,,14,6,8
+Washington,WELLMAN PRECINCT,County Supervisor,1,Write-In,,31,14,17
+Washington,KALONA,County Supervisor,2,Bob Yoder,REP,1287,422,865
+Washington,RICHMOND,County Supervisor,2,Bob Yoder,REP,471,177,294
+Washington,KALONA,County Supervisor,2,Write-In,,35,14,21
+Washington,RICHMOND,County Supervisor,2,Write-In,,18,10,8
+Washington,WARD 3 PRECINCT,County Supervisor,4,Stan Stoops,REP,939,567,372
+Washington,WARD 4 PRECINCT,County Supervisor,4,Stan Stoops,REP,846,767,79
+Washington,WARD 3 PRECINCT,County Supervisor,4,Write-In,,15,7,8
+Washington,WARD 4 PRECINCT,County Supervisor,4,Write-In,,27,25,2
+Washington,AINSWORTH,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,173,72,101
+Washington,BRIGHTON,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,187,68,119
+Washington,KALONA,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,311,85,226
+Washington,RICHMOND,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,104,43,61
+Washington,RIVERSIDE,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,300,100,200
+Washington,WARD 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,194,102,92
+Washington,WARD 2 PRECINCT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,193,106,87
+Washington,WARD 3 PRECINCT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,209,130,79
+Washington,WARD 4 PRECINCT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,225,208,17
+Washington,WELLMAN PRECINCT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,297,95,202
+Washington,AINSWORTH,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,407,146,261
+Washington,BRIGHTON,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,401,145,256
+Washington,KALONA,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,737,233,504
+Washington,RICHMOND,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,273,116,157
+Washington,RIVERSIDE,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,771,304,467
+Washington,WARD 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,487,254,233
+Washington,WARD 2 PRECINCT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,543,286,257
+Washington,WARD 3 PRECINCT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,618,363,255
+Washington,WARD 4 PRECINCT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,540,487,53
+Washington,WELLMAN PRECINCT,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,648,222,426
+Washington,AINSWORTH,Court of Appeals Judge - Mary Ellen Tabor,,No,,163,65,98
+Washington,BRIGHTON,Court of Appeals Judge - Mary Ellen Tabor,,No,,163,58,105
+Washington,KALONA,Court of Appeals Judge - Mary Ellen Tabor,,No,,324,97,227
+Washington,RICHMOND,Court of Appeals Judge - Mary Ellen Tabor,,No,,114,46,68
+Washington,RIVERSIDE,Court of Appeals Judge - Mary Ellen Tabor,,No,,278,101,177
+Washington,WARD 1,Court of Appeals Judge - Mary Ellen Tabor,,No,,173,90,83
+Washington,WARD 2 PRECINCT,Court of Appeals Judge - Mary Ellen Tabor,,No,,168,97,71
+Washington,WARD 3 PRECINCT,Court of Appeals Judge - Mary Ellen Tabor,,No,,187,110,77
+Washington,WARD 4 PRECINCT,Court of Appeals Judge - Mary Ellen Tabor,,No,,221,202,19
+Washington,WELLMAN PRECINCT,Court of Appeals Judge - Mary Ellen Tabor,,No,,308,94,214
+Washington,AINSWORTH,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,437,167,270
+Washington,BRIGHTON,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,444,167,277
+Washington,KALONA,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,744,234,510
+Washington,RICHMOND,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,273,119,154
+Washington,RIVERSIDE,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,818,313,505
+Washington,WARD 1,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,528,280,248
+Washington,WARD 2 PRECINCT,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,579,305,274
+Washington,WARD 3 PRECINCT,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,665,397,268
+Washington,WARD 4 PRECINCT,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,558,506,52
+Washington,WELLMAN PRECINCT,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,662,227,435
+Washington,AINSWORTH,Court of Appeals Judge - Samuel Langholz,,No,,190,76,114
+Washington,BRIGHTON,Court of Appeals Judge - Samuel Langholz,,No,,176,65,111
+Washington,KALONA,Court of Appeals Judge - Samuel Langholz,,No,,343,109,234
+Washington,RICHMOND,Court of Appeals Judge - Samuel Langholz,,No,,124,53,71
+Washington,RIVERSIDE,Court of Appeals Judge - Samuel Langholz,,No,,333,127,206
+Washington,WARD 1,Court of Appeals Judge - Samuel Langholz,,No,,223,123,100
+Washington,WARD 2 PRECINCT,Court of Appeals Judge - Samuel Langholz,,No,,215,126,89
+Washington,WARD 3 PRECINCT,Court of Appeals Judge - Samuel Langholz,,No,,220,139,81
+Washington,WARD 4 PRECINCT,Court of Appeals Judge - Samuel Langholz,,No,,238,218,20
+Washington,WELLMAN PRECINCT,Court of Appeals Judge - Samuel Langholz,,No,,315,114,201
+Washington,AINSWORTH,Court of Appeals Judge - Samuel Langholz,,Yes,,394,146,248
+Washington,BRIGHTON,Court of Appeals Judge - Samuel Langholz,,Yes,,403,143,260
+Washington,KALONA,Court of Appeals Judge - Samuel Langholz,,Yes,,711,218,493
+Washington,RICHMOND,Court of Appeals Judge - Samuel Langholz,,Yes,,248,106,142
+Washington,RIVERSIDE,Court of Appeals Judge - Samuel Langholz,,Yes,,738,276,462
+Washington,WARD 1,Court of Appeals Judge - Samuel Langholz,,Yes,,455,234,221
+Washington,WARD 2 PRECINCT,Court of Appeals Judge - Samuel Langholz,,Yes,,507,259,248
+Washington,WARD 3 PRECINCT,Court of Appeals Judge - Samuel Langholz,,Yes,,604,353,251
+Washington,WARD 4 PRECINCT,Court of Appeals Judge - Samuel Langholz,,Yes,,523,472,51
+Washington,WELLMAN PRECINCT,Court of Appeals Judge - Samuel Langholz,,Yes,,638,207,431
+Washington,AINSWORTH,Court of Appeals Judge - Tyler J. Buller,,No,,161,66,95
+Washington,BRIGHTON,Court of Appeals Judge - Tyler J. Buller,,No,,156,66,90
+Washington,KALONA,Court of Appeals Judge - Tyler J. Buller,,No,,317,105,212
+Washington,RICHMOND,Court of Appeals Judge - Tyler J. Buller,,No,,113,56,57
+Washington,RIVERSIDE,Court of Appeals Judge - Tyler J. Buller,,No,,299,114,185
+Washington,WARD 1,Court of Appeals Judge - Tyler J. Buller,,No,,184,97,87
+Washington,WARD 2 PRECINCT,Court of Appeals Judge - Tyler J. Buller,,No,,174,98,76
+Washington,WARD 3 PRECINCT,Court of Appeals Judge - Tyler J. Buller,,No,,196,123,73
+Washington,WARD 4 PRECINCT,Court of Appeals Judge - Tyler J. Buller,,No,,217,197,20
+Washington,WELLMAN PRECINCT,Court of Appeals Judge - Tyler J. Buller,,No,,276,90,186
+Washington,AINSWORTH,Court of Appeals Judge - Tyler J. Buller,,Yes,,423,157,266
+Washington,BRIGHTON,Court of Appeals Judge - Tyler J. Buller,,Yes,,431,147,284
+Washington,KALONA,Court of Appeals Judge - Tyler J. Buller,,Yes,,719,211,508
+Washington,RICHMOND,Court of Appeals Judge - Tyler J. Buller,,Yes,,262,108,154
+Washington,RIVERSIDE,Court of Appeals Judge - Tyler J. Buller,,Yes,,766,285,481
+Washington,WARD 1,Court of Appeals Judge - Tyler J. Buller,,Yes,,496,260,236
+Washington,WARD 2 PRECINCT,Court of Appeals Judge - Tyler J. Buller,,Yes,,553,289,264
+Washington,WARD 3 PRECINCT,Court of Appeals Judge - Tyler J. Buller,,Yes,,626,368,258
+Washington,WARD 4 PRECINCT,Court of Appeals Judge - Tyler J. Buller,,Yes,,542,492,50
+Washington,WELLMAN PRECINCT,Court of Appeals Judge - Tyler J. Buller,,Yes,,671,223,448
+Washington,AINSWORTH,District 8A Associate Judge - Daniel Perry Kitchen,,No,,159,61,98
+Washington,BRIGHTON,District 8A Associate Judge - Daniel Perry Kitchen,,No,,120,43,77
+Washington,KALONA,District 8A Associate Judge - Daniel Perry Kitchen,,No,,275,83,192
+Washington,RICHMOND,District 8A Associate Judge - Daniel Perry Kitchen,,No,,95,45,50
+Washington,RIVERSIDE,District 8A Associate Judge - Daniel Perry Kitchen,,No,,283,102,181
+Washington,WARD 1,District 8A Associate Judge - Daniel Perry Kitchen,,No,,139,80,59
+Washington,WARD 2 PRECINCT,District 8A Associate Judge - Daniel Perry Kitchen,,No,,141,79,62
+Washington,WARD 3 PRECINCT,District 8A Associate Judge - Daniel Perry Kitchen,,No,,144,88,56
+Washington,WARD 4 PRECINCT,District 8A Associate Judge - Daniel Perry Kitchen,,No,,155,140,15
+Washington,WELLMAN PRECINCT,District 8A Associate Judge - Daniel Perry Kitchen,,No,,262,88,174
+Washington,AINSWORTH,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,451,169,282
+Washington,BRIGHTON,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,510,195,315
+Washington,KALONA,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,757,236,521
+Washington,RICHMOND,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,299,126,173
+Washington,RIVERSIDE,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,789,301,488
+Washington,WARD 1,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,604,320,284
+Washington,WARD 2 PRECINCT,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,649,351,298
+Washington,WARD 3 PRECINCT,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,779,471,308
+Washington,WARD 4 PRECINCT,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,678,618,60
+Washington,WELLMAN PRECINCT,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,715,240,475
+Washington,AINSWORTH,District 8A Associate Judge - Patrick J. McAvan,,No,,168,65,103
+Washington,BRIGHTON,District 8A Associate Judge - Patrick J. McAvan,,No,,142,53,89
+Washington,KALONA,District 8A Associate Judge - Patrick J. McAvan,,No,,288,85,203
+Washington,RICHMOND,District 8A Associate Judge - Patrick J. McAvan,,No,,96,39,57
+Washington,RIVERSIDE,District 8A Associate Judge - Patrick J. McAvan,,No,,281,106,175
+Washington,WARD 1,District 8A Associate Judge - Patrick J. McAvan,,No,,169,100,69
+Washington,WARD 2 PRECINCT,District 8A Associate Judge - Patrick J. McAvan,,No,,172,98,74
+Washington,WARD 3 PRECINCT,District 8A Associate Judge - Patrick J. McAvan,,No,,178,111,67
+Washington,WARD 4 PRECINCT,District 8A Associate Judge - Patrick J. McAvan,,No,,195,179,16
+Washington,WELLMAN PRECINCT,District 8A Associate Judge - Patrick J. McAvan,,No,,273,89,184
+Washington,AINSWORTH,District 8A Associate Judge - Patrick J. McAvan,,Yes,,402,152,250
+Washington,BRIGHTON,District 8A Associate Judge - Patrick J. McAvan,,Yes,,439,159,280
+Washington,KALONA,District 8A Associate Judge - Patrick J. McAvan,,Yes,,731,225,506
+Washington,RICHMOND,District 8A Associate Judge - Patrick J. McAvan,,Yes,,270,118,152
+Washington,RIVERSIDE,District 8A Associate Judge - Patrick J. McAvan,,Yes,,757,280,477
+Washington,WARD 1,District 8A Associate Judge - Patrick J. McAvan,,Yes,,502,256,246
+Washington,WARD 2 PRECINCT,District 8A Associate Judge - Patrick J. McAvan,,Yes,,548,284,264
+Washington,WARD 3 PRECINCT,District 8A Associate Judge - Patrick J. McAvan,,Yes,,641,374,267
+Washington,WARD 4 PRECINCT,District 8A Associate Judge - Patrick J. McAvan,,Yes,,547,493,54
+Washington,WELLMAN PRECINCT,District 8A Associate Judge - Patrick J. McAvan,,Yes,,656,225,431
+Washington,AINSWORTH,District 8A Associate Judge - Richelle Mahaffey,,No,,166,59,107
+Washington,BRIGHTON,District 8A Associate Judge - Richelle Mahaffey,,No,,150,52,98
+Washington,KALONA,District 8A Associate Judge - Richelle Mahaffey,,No,,285,82,203
+Washington,RICHMOND,District 8A Associate Judge - Richelle Mahaffey,,No,,102,48,54
+Washington,RIVERSIDE,District 8A Associate Judge - Richelle Mahaffey,,No,,268,93,175
+Washington,WARD 1,District 8A Associate Judge - Richelle Mahaffey,,No,,159,88,71
+Washington,WARD 2 PRECINCT,District 8A Associate Judge - Richelle Mahaffey,,No,,168,87,81
+Washington,WARD 3 PRECINCT,District 8A Associate Judge - Richelle Mahaffey,,No,,182,103,79
+Washington,WARD 4 PRECINCT,District 8A Associate Judge - Richelle Mahaffey,,No,,198,181,17
+Washington,WELLMAN PRECINCT,District 8A Associate Judge - Richelle Mahaffey,,No,,268,81,187
+Washington,AINSWORTH,District 8A Associate Judge - Richelle Mahaffey,,Yes,,409,158,251
+Washington,BRIGHTON,District 8A Associate Judge - Richelle Mahaffey,,Yes,,430,162,268
+Washington,KALONA,District 8A Associate Judge - Richelle Mahaffey,,Yes,,738,230,508
+Washington,RICHMOND,District 8A Associate Judge - Richelle Mahaffey,,Yes,,260,108,152
+Washington,RIVERSIDE,District 8A Associate Judge - Richelle Mahaffey,,Yes,,771,295,476
+Washington,WARD 1,District 8A Associate Judge - Richelle Mahaffey,,Yes,,509,265,244
+Washington,WARD 2 PRECINCT,District 8A Associate Judge - Richelle Mahaffey,,Yes,,546,291,255
+Washington,WARD 3 PRECINCT,District 8A Associate Judge - Richelle Mahaffey,,Yes,,637,382,255
+Washington,WARD 4 PRECINCT,District 8A Associate Judge - Richelle Mahaffey,,Yes,,547,495,52
+Washington,WELLMAN PRECINCT,District 8A Associate Judge - Richelle Mahaffey,,Yes,,665,231,434
+Washington,AINSWORTH,District 8A Judge - Crystal S. Cronk,,No,,168,69,99
+Washington,BRIGHTON,District 8A Judge - Crystal S. Cronk,,No,,146,50,96
+Washington,KALONA,District 8A Judge - Crystal S. Cronk,,No,,271,75,196
+Washington,RICHMOND,District 8A Judge - Crystal S. Cronk,,No,,98,41,57
+Washington,RIVERSIDE,District 8A Judge - Crystal S. Cronk,,No,,271,103,168
+Washington,WARD 1,District 8A Judge - Crystal S. Cronk,,No,,171,96,75
+Washington,WARD 2 PRECINCT,District 8A Judge - Crystal S. Cronk,,No,,177,102,75
+Washington,WARD 3 PRECINCT,District 8A Judge - Crystal S. Cronk,,No,,189,113,76
+Washington,WARD 4 PRECINCT,District 8A Judge - Crystal S. Cronk,,No,,203,184,19
+Washington,WELLMAN PRECINCT,District 8A Judge - Crystal S. Cronk,,No,,270,85,185
+Washington,AINSWORTH,District 8A Judge - Crystal S. Cronk,,Yes,,413,152,261
+Washington,BRIGHTON,District 8A Judge - Crystal S. Cronk,,Yes,,453,171,282
+Washington,KALONA,District 8A Judge - Crystal S. Cronk,,Yes,,768,243,525
+Washington,RICHMOND,District 8A Judge - Crystal S. Cronk,,Yes,,270,116,154
+Washington,RIVERSIDE,District 8A Judge - Crystal S. Cronk,,Yes,,782,291,491
+Washington,WARD 1,District 8A Judge - Crystal S. Cronk,,Yes,,511,265,246
+Washington,WARD 2 PRECINCT,District 8A Judge - Crystal S. Cronk,,Yes,,554,286,268
+Washington,WARD 3 PRECINCT,District 8A Judge - Crystal S. Cronk,,Yes,,647,382,265
+Washington,WARD 4 PRECINCT,District 8A Judge - Crystal S. Cronk,,Yes,,559,507,52
+Washington,WELLMAN PRECINCT,District 8A Judge - Crystal S. Cronk,,Yes,,677,233,444
+Washington,AINSWORTH,District 8A Judge - Michael Carpenter,,No,,167,71,96
+Washington,BRIGHTON,District 8A Judge - Michael Carpenter,,No,,151,60,91
+Washington,KALONA,District 8A Judge - Michael Carpenter,,No,,300,91,209
+Washington,RICHMOND,District 8A Judge - Michael Carpenter,,No,,112,52,60
+Washington,RIVERSIDE,District 8A Judge - Michael Carpenter,,No,,279,106,173
+Washington,WARD 1,District 8A Judge - Michael Carpenter,,No,,173,101,72
+Washington,WARD 2 PRECINCT,District 8A Judge - Michael Carpenter,,No,,161,94,67
+Washington,WARD 3 PRECINCT,District 8A Judge - Michael Carpenter,,No,,169,107,62
+Washington,WARD 4 PRECINCT,District 8A Judge - Michael Carpenter,,No,,198,180,18
+Washington,WELLMAN PRECINCT,District 8A Judge - Michael Carpenter,,No,,266,85,181
+Washington,AINSWORTH,District 8A Judge - Michael Carpenter,,Yes,,409,148,261
+Washington,BRIGHTON,District 8A Judge - Michael Carpenter,,Yes,,435,157,278
+Washington,KALONA,District 8A Judge - Michael Carpenter,,Yes,,717,221,496
+Washington,RICHMOND,District 8A Judge - Michael Carpenter,,Yes,,249,104,145
+Washington,RIVERSIDE,District 8A Judge - Michael Carpenter,,Yes,,761,283,478
+Washington,WARD 1,District 8A Judge - Michael Carpenter,,Yes,,500,256,244
+Washington,WARD 2 PRECINCT,District 8A Judge - Michael Carpenter,,Yes,,556,285,271
+Washington,WARD 3 PRECINCT,District 8A Judge - Michael Carpenter,,Yes,,650,384,266
+Washington,WARD 4 PRECINCT,District 8A Judge - Michael Carpenter,,Yes,,552,501,51
+Washington,WELLMAN PRECINCT,District 8A Judge - Michael Carpenter,,Yes,,663,227,436
+Washington,AINSWORTH,District 8A Judge - Myron Gookin,,No,,170,62,108
+Washington,BRIGHTON,District 8A Judge - Myron Gookin,,No,,151,55,96
+Washington,KALONA,District 8A Judge - Myron Gookin,,No,,289,87,202
+Washington,RICHMOND,District 8A Judge - Myron Gookin,,No,,99,42,57
+Washington,RIVERSIDE,District 8A Judge - Myron Gookin,,No,,292,107,185
+Washington,WARD 1,District 8A Judge - Myron Gookin,,No,,187,101,86
+Washington,WARD 2 PRECINCT,District 8A Judge - Myron Gookin,,No,,178,102,76
+Washington,WARD 3 PRECINCT,District 8A Judge - Myron Gookin,,No,,179,109,70
+Washington,WARD 4 PRECINCT,District 8A Judge - Myron Gookin,,No,,201,185,16
+Washington,WELLMAN PRECINCT,District 8A Judge - Myron Gookin,,No,,278,86,192
+Washington,AINSWORTH,District 8A Judge - Myron Gookin,,Yes,,401,154,247
+Washington,BRIGHTON,District 8A Judge - Myron Gookin,,Yes,,445,165,280
+Washington,KALONA,District 8A Judge - Myron Gookin,,Yes,,727,221,506
+Washington,RICHMOND,District 8A Judge - Myron Gookin,,Yes,,263,114,149
+Washington,RIVERSIDE,District 8A Judge - Myron Gookin,,Yes,,755,279,476
+Washington,WARD 1,District 8A Judge - Myron Gookin,,Yes,,492,258,234
+Washington,WARD 2 PRECINCT,District 8A Judge - Myron Gookin,,Yes,,541,276,265
+Washington,WARD 3 PRECINCT,District 8A Judge - Myron Gookin,,Yes,,640,377,263
+Washington,WARD 4 PRECINCT,District 8A Judge - Myron Gookin,,Yes,,543,490,53
+Washington,WELLMAN PRECINCT,District 8A Judge - Myron Gookin,,Yes,,658,228,430
+Washington,AINSWORTH,District 8A Judge - Shawn R. Showers,,No,,160,66,94
+Washington,BRIGHTON,District 8A Judge - Shawn R. Showers,,No,,139,49,90
+Washington,KALONA,District 8A Judge - Shawn R. Showers,,No,,273,81,192
+Washington,RICHMOND,District 8A Judge - Shawn R. Showers,,No,,86,37,49
+Washington,RIVERSIDE,District 8A Judge - Shawn R. Showers,,No,,285,99,186
+Washington,WARD 1,District 8A Judge - Shawn R. Showers,,No,,175,95,80
+Washington,WARD 2 PRECINCT,District 8A Judge - Shawn R. Showers,,No,,168,96,72
+Washington,WARD 3 PRECINCT,District 8A Judge - Shawn R. Showers,,No,,154,90,64
+Washington,WARD 4 PRECINCT,District 8A Judge - Shawn R. Showers,,No,,175,162,13
+Washington,WELLMAN PRECINCT,District 8A Judge - Shawn R. Showers,,No,,254,85,169
+Washington,AINSWORTH,District 8A Judge - Shawn R. Showers,,Yes,,440,164,276
+Washington,BRIGHTON,District 8A Judge - Shawn R. Showers,,Yes,,482,187,295
+Washington,KALONA,District 8A Judge - Shawn R. Showers,,Yes,,759,240,519
+Washington,RICHMOND,District 8A Judge - Shawn R. Showers,,Yes,,303,129,174
+Washington,RIVERSIDE,District 8A Judge - Shawn R. Showers,,Yes,,780,302,478
+Washington,WARD 1,District 8A Judge - Shawn R. Showers,,Yes,,549,297,252
+Washington,WARD 2 PRECINCT,District 8A Judge - Shawn R. Showers,,Yes,,599,321,278
+Washington,WARD 3 PRECINCT,District 8A Judge - Shawn R. Showers,,Yes,,751,458,293
+Washington,WARD 4 PRECINCT,District 8A Judge - Shawn R. Showers,,Yes,,650,591,59
+Washington,WELLMAN PRECINCT,District 8A Judge - Shawn R. Showers,,Yes,,707,240,467
+Washington,BRIGHTON,Fairfield School - Public Measure LR,,No,,1,1,0
+Washington,BRIGHTON,Fairfield School - Public Measure LR,,Yes,,2,2,0
+Washington,AINSWORTH,Highland School - Public Measure VF,,No,,256,74,182
+Washington,KALONA,Highland School - Public Measure VF,,No,,3,2,1
+Washington,RICHMOND,Highland School - Public Measure VF,,No,,0,0,0
+Washington,RIVERSIDE,Highland School - Public Measure VF,,No,,572,236,336
+Washington,WARD 1,Highland School - Public Measure VF,,No,,0,0,0
+Washington,AINSWORTH,Highland School - Public Measure VF,,Yes,,246,69,177
+Washington,KALONA,Highland School - Public Measure VF,,Yes,,0,0,0
+Washington,RICHMOND,Highland School - Public Measure VF,,Yes,,3,3,0
+Washington,RIVERSIDE,Highland School - Public Measure VF,,Yes,,1051,378,673
+Washington,WARD 1,Highland School - Public Measure VF,,Yes,,2,2,0
+Washington,AINSWORTH,President,,Chase Oliver and Mike ter Maat,LIB,3,2,1
+Washington,BRIGHTON,President,,Chase Oliver and Mike ter Maat,LIB,3,2,1
+Washington,KALONA,President,,Chase Oliver and Mike ter Maat,LIB,4,0,4
+Washington,RICHMOND,President,,Chase Oliver and Mike ter Maat,LIB,1,1,0
+Washington,RIVERSIDE,President,,Chase Oliver and Mike ter Maat,LIB,7,0,7
+Washington,WARD 1,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Washington,WARD 2 PRECINCT,President,,Chase Oliver and Mike ter Maat,LIB,6,2,4
+Washington,WARD 3 PRECINCT,President,,Chase Oliver and Mike ter Maat,LIB,6,2,4
+Washington,WARD 4 PRECINCT,President,,Chase Oliver and Mike ter Maat,LIB,6,5,1
+Washington,WELLMAN PRECINCT,President,,Chase Oliver and Mike ter Maat,LIB,9,3,6
+Washington,AINSWORTH,President,,Claudia De la Cruz and Karina Garcia,PSL,2,2,0
+Washington,BRIGHTON,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Washington,KALONA,President,,Claudia De la Cruz and Karina Garcia,PSL,4,1,3
+Washington,RICHMOND,President,,Claudia De la Cruz and Karina Garcia,PSL,1,1,0
+Washington,RIVERSIDE,President,,Claudia De la Cruz and Karina Garcia,PSL,2,0,2
+Washington,WARD 1,President,,Claudia De la Cruz and Karina Garcia,PSL,2,0,2
+Washington,WARD 2 PRECINCT,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Washington,WARD 3 PRECINCT,President,,Claudia De la Cruz and Karina Garcia,PSL,1,1,0
+Washington,WARD 4 PRECINCT,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Washington,WELLMAN PRECINCT,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Washington,AINSWORTH,President,,Donald J. Trump and JD Vance,REP,594,225,369
+Washington,BRIGHTON,President,,Donald J. Trump and JD Vance,REP,610,209,401
+Washington,KALONA,President,,Donald J. Trump and JD Vance,REP,966,305,661
+Washington,RICHMOND,President,,Donald J. Trump and JD Vance,REP,437,157,280
+Washington,RIVERSIDE,President,,Donald J. Trump and JD Vance,REP,939,295,644
+Washington,WARD 1,President,,Donald J. Trump and JD Vance,REP,593,310,283
+Washington,WARD 2 PRECINCT,President,,Donald J. Trump and JD Vance,REP,658,358,300
+Washington,WARD 3 PRECINCT,President,,Donald J. Trump and JD Vance,REP,710,412,298
+Washington,WARD 4 PRECINCT,President,,Donald J. Trump and JD Vance,REP,636,569,67
+Washington,WELLMAN PRECINCT,President,,Donald J. Trump and JD Vance,REP,976,309,667
+Washington,AINSWORTH,President,,Kamala D. Harris and Tim Walz,DEM,233,114,119
+Washington,BRIGHTON,President,,Kamala D. Harris and Tim Walz,DEM,212,117,95
+Washington,KALONA,President,,Kamala D. Harris and Tim Walz,DEM,682,262,420
+Washington,RICHMOND,President,,Kamala D. Harris and Tim Walz,DEM,191,91,100
+Washington,RIVERSIDE,President,,Kamala D. Harris and Tim Walz,DEM,764,339,425
+Washington,WARD 1,President,,Kamala D. Harris and Tim Walz,DEM,415,250,165
+Washington,WARD 2 PRECINCT,President,,Kamala D. Harris and Tim Walz,DEM,371,239,132
+Washington,WARD 3 PRECINCT,President,,Kamala D. Harris and Tim Walz,DEM,498,331,167
+Washington,WARD 4 PRECINCT,President,,Kamala D. Harris and Tim Walz,DEM,482,449,33
+Washington,WELLMAN PRECINCT,President,,Kamala D. Harris and Tim Walz,DEM,449,192,257
+Washington,AINSWORTH,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,7,3,4
+Washington,BRIGHTON,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,1,4
+Washington,KALONA,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,0,6
+Washington,RICHMOND,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,3,2
+Washington,RIVERSIDE,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,8,2,6
+Washington,WARD 1,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,2,4
+Washington,WARD 2 PRECINCT,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,3,3
+Washington,WARD 3 PRECINCT,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,6,4
+Washington,WARD 4 PRECINCT,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,11,11,0
+Washington,WELLMAN PRECINCT,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,8,3,5
+Washington,AINSWORTH,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Washington,BRIGHTON,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Washington,KALONA,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Washington,RICHMOND,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Washington,RIVERSIDE,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Washington,WARD 1,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Washington,WARD 2 PRECINCT,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Washington,WARD 3 PRECINCT,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Washington,WARD 4 PRECINCT,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Washington,WELLMAN PRECINCT,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Washington,AINSWORTH,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Washington,BRIGHTON,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Washington,KALONA,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Washington,RICHMOND,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Washington,RIVERSIDE,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Washington,WARD 1,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Washington,WARD 2 PRECINCT,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Washington,WARD 3 PRECINCT,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Washington,WARD 4 PRECINCT,President,,William P. Stodden and Stephanie H. Cholensky,SOC,2,2,0
+Washington,WELLMAN PRECINCT,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Washington,AINSWORTH,President,,Write-In,,2,1,1
+Washington,BRIGHTON,President,,Write-In,,1,0,1
+Washington,KALONA,President,,Write-In,,7,0,7
+Washington,RICHMOND,President,,Write-In,,2,1,1
+Washington,RIVERSIDE,President,,Write-In,,6,4,2
+Washington,WARD 1,President,,Write-In,,2,1,1
+Washington,WARD 2 PRECINCT,President,,Write-In,,4,3,1
+Washington,WARD 3 PRECINCT,President,,Write-In,,5,2,3
+Washington,WARD 4 PRECINCT,President,,Write-In,,7,5,2
+Washington,WELLMAN PRECINCT,President,,Write-In,,1,0,1
+Washington,AINSWORTH,Soil and Water Conservation District Commissioner,,Corey Malichky,,477,204,273
+Washington,BRIGHTON,Soil and Water Conservation District Commissioner,,Corey Malichky,,459,191,268
+Washington,KALONA,Soil and Water Conservation District Commissioner,,Corey Malichky,,833,268,565
+Washington,RICHMOND,Soil and Water Conservation District Commissioner,,Corey Malichky,,366,147,219
+Washington,RIVERSIDE,Soil and Water Conservation District Commissioner,,Corey Malichky,,1003,387,616
+Washington,WARD 1,Soil and Water Conservation District Commissioner,,Corey Malichky,,534,297,237
+Washington,WARD 2 PRECINCT,Soil and Water Conservation District Commissioner,,Corey Malichky,,569,324,245
+Washington,WARD 3 PRECINCT,Soil and Water Conservation District Commissioner,,Corey Malichky,,685,415,270
+Washington,WARD 4 PRECINCT,Soil and Water Conservation District Commissioner,,Corey Malichky,,623,563,60
+Washington,WELLMAN PRECINCT,Soil and Water Conservation District Commissioner,,Corey Malichky,,846,276,570
+Washington,AINSWORTH,Soil and Water Conservation District Commissioner,,Robert Romoser,,453,190,263
+Washington,BRIGHTON,Soil and Water Conservation District Commissioner,,Robert Romoser,,478,188,290
+Washington,KALONA,Soil and Water Conservation District Commissioner,,Robert Romoser,,749,243,506
+Washington,RICHMOND,Soil and Water Conservation District Commissioner,,Robert Romoser,,314,143,171
+Washington,RIVERSIDE,Soil and Water Conservation District Commissioner,,Robert Romoser,,815,328,487
+Washington,WARD 1,Soil and Water Conservation District Commissioner,,Robert Romoser,,531,289,242
+Washington,WARD 2 PRECINCT,Soil and Water Conservation District Commissioner,,Robert Romoser,,542,316,226
+Washington,WARD 3 PRECINCT,Soil and Water Conservation District Commissioner,,Robert Romoser,,676,423,253
+Washington,WARD 4 PRECINCT,Soil and Water Conservation District Commissioner,,Robert Romoser,,614,554,60
+Washington,WELLMAN PRECINCT,Soil and Water Conservation District Commissioner,,Robert Romoser,,805,271,534
+Washington,AINSWORTH,Soil and Water Conservation District Commissioner,,Thomas Edward Vittetoe,,526,210,316
+Washington,BRIGHTON,Soil and Water Conservation District Commissioner,,Thomas Edward Vittetoe,,531,205,326
+Washington,KALONA,Soil and Water Conservation District Commissioner,,Thomas Edward Vittetoe,,779,262,517
+Washington,RICHMOND,Soil and Water Conservation District Commissioner,,Thomas Edward Vittetoe,,323,143,180
+Washington,RIVERSIDE,Soil and Water Conservation District Commissioner,,Thomas Edward Vittetoe,,891,342,549
+Washington,WARD 1,Soil and Water Conservation District Commissioner,,Thomas Edward Vittetoe,,624,331,293
+Washington,WARD 2 PRECINCT,Soil and Water Conservation District Commissioner,,Thomas Edward Vittetoe,,651,364,287
+Washington,WARD 3 PRECINCT,Soil and Water Conservation District Commissioner,,Thomas Edward Vittetoe,,729,435,294
+Washington,WARD 4 PRECINCT,Soil and Water Conservation District Commissioner,,Thomas Edward Vittetoe,,679,611,68
+Washington,WELLMAN PRECINCT,Soil and Water Conservation District Commissioner,,Thomas Edward Vittetoe,,815,265,550
+Washington,AINSWORTH,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Washington,BRIGHTON,Soil and Water Conservation District Commissioner,,Write-In,,8,4,4
+Washington,KALONA,Soil and Water Conservation District Commissioner,,Write-In,,14,3,11
+Washington,RICHMOND,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Washington,RIVERSIDE,Soil and Water Conservation District Commissioner,,Write-In,,13,4,9
+Washington,WARD 1,Soil and Water Conservation District Commissioner,,Write-In,,5,3,2
+Washington,WARD 2 PRECINCT,Soil and Water Conservation District Commissioner,,Write-In,,11,2,9
+Washington,WARD 3 PRECINCT,Soil and Water Conservation District Commissioner,,Write-In,,5,3,2
+Washington,WARD 4 PRECINCT,Soil and Water Conservation District Commissioner,,Write-In,,4,4,0
+Washington,WELLMAN PRECINCT,Soil and Water Conservation District Commissioner,,Write-In,,15,4,11
+Washington,AINSWORTH,State House,92,Anna Banowsky,DEM,223,112,111
+Washington,BRIGHTON,State House,92,Anna Banowsky,DEM,194,107,87
+Washington,KALONA,State House,92,Anna Banowsky,DEM,600,232,368
+Washington,RICHMOND,State House,92,Anna Banowsky,DEM,175,86,89
+Washington,RIVERSIDE,State House,92,Anna Banowsky,DEM,640,295,345
+Washington,WARD 1,State House,92,Anna Banowsky,DEM,379,237,142
+Washington,WARD 2 PRECINCT,State House,92,Anna Banowsky,DEM,346,216,130
+Washington,WARD 3 PRECINCT,State House,92,Anna Banowsky,DEM,447,283,164
+Washington,WARD 4 PRECINCT,State House,92,Anna Banowsky,DEM,431,402,29
+Washington,WELLMAN PRECINCT,State House,92,Anna Banowsky,DEM,413,184,229
+Washington,AINSWORTH,State House,92,Heather Hora,REP,588,222,366
+Washington,BRIGHTON,State House,92,Heather Hora,REP,611,216,395
+Washington,KALONA,State House,92,Heather Hora,REP,993,315,678
+Washington,RICHMOND,State House,92,Heather Hora,REP,450,165,285
+Washington,RIVERSIDE,State House,92,Heather Hora,REP,1016,328,688
+Washington,WARD 1,State House,92,Heather Hora,REP,605,310,295
+Washington,WARD 2 PRECINCT,State House,92,Heather Hora,REP,661,369,292
+Washington,WARD 3 PRECINCT,State House,92,Heather Hora,REP,734,447,287
+Washington,WARD 4 PRECINCT,State House,92,Heather Hora,REP,680,610,70
+Washington,WELLMAN PRECINCT,State House,92,Heather Hora,REP,977,308,669
+Washington,AINSWORTH,State House,92,Write-In,,1,0,1
+Washington,BRIGHTON,State House,92,Write-In,,2,0,2
+Washington,KALONA,State House,92,Write-In,,3,0,3
+Washington,RICHMOND,State House,92,Write-In,,0,0,0
+Washington,RIVERSIDE,State House,92,Write-In,,1,0,1
+Washington,WARD 1,State House,92,Write-In,,2,1,1
+Washington,WARD 2 PRECINCT,State House,92,Write-In,,6,3,3
+Washington,WARD 3 PRECINCT,State House,92,Write-In,,2,0,2
+Washington,WARD 4 PRECINCT,State House,92,Write-In,,0,0,0
+Washington,WELLMAN PRECINCT,State House,92,Write-In,,0,0,0
+Washington,AINSWORTH,State Senate,46,Dawn Driscoll,REP,582,226,356
+Washington,BRIGHTON,State Senate,46,Dawn Driscoll,REP,605,215,390
+Washington,KALONA,State Senate,46,Dawn Driscoll,REP,990,315,675
+Washington,RICHMOND,State Senate,46,Dawn Driscoll,REP,435,161,274
+Washington,RIVERSIDE,State Senate,46,Dawn Driscoll,REP,966,320,646
+Washington,WARD 1,State Senate,46,Dawn Driscoll,REP,592,304,288
+Washington,WARD 2 PRECINCT,State Senate,46,Dawn Driscoll,REP,629,338,291
+Washington,WARD 3 PRECINCT,State Senate,46,Dawn Driscoll,REP,692,404,288
+Washington,WARD 4 PRECINCT,State Senate,46,Dawn Driscoll,REP,651,587,64
+Washington,WELLMAN PRECINCT,State Senate,46,Dawn Driscoll,REP,989,315,674
+Washington,AINSWORTH,State Senate,46,Ed Chabal,DEM,233,114,119
+Washington,BRIGHTON,State Senate,46,Ed Chabal,DEM,194,106,88
+Washington,KALONA,State Senate,46,Ed Chabal,DEM,610,238,372
+Washington,RICHMOND,State Senate,46,Ed Chabal,DEM,191,91,100
+Washington,RIVERSIDE,State Senate,46,Ed Chabal,DEM,680,299,381
+Washington,WARD 1,State Senate,46,Ed Chabal,DEM,391,247,144
+Washington,WARD 2 PRECINCT,State Senate,46,Ed Chabal,DEM,375,244,131
+Washington,WARD 3 PRECINCT,State Senate,46,Ed Chabal,DEM,495,332,163
+Washington,WARD 4 PRECINCT,State Senate,46,Ed Chabal,DEM,457,423,34
+Washington,WELLMAN PRECINCT,State Senate,46,Ed Chabal,DEM,416,183,233
+Washington,AINSWORTH,State Senate,46,Write-In,,1,0,1
+Washington,BRIGHTON,State Senate,46,Write-In,,3,0,3
+Washington,KALONA,State Senate,46,Write-In,,2,0,2
+Washington,RICHMOND,State Senate,46,Write-In,,0,0,0
+Washington,RIVERSIDE,State Senate,46,Write-In,,1,0,1
+Washington,WARD 1,State Senate,46,Write-In,,1,0,1
+Washington,WARD 2 PRECINCT,State Senate,46,Write-In,,5,1,4
+Washington,WARD 3 PRECINCT,State Senate,46,Write-In,,2,0,2
+Washington,WARD 4 PRECINCT,State Senate,46,Write-In,,1,1,0
+Washington,WELLMAN PRECINCT,State Senate,46,Write-In,,0,0,0
+Washington,AINSWORTH,Supreme Court Justice - David May,,No,,201,85,116
+Washington,BRIGHTON,Supreme Court Justice - David May,,No,,169,68,101
+Washington,KALONA,Supreme Court Justice - David May,,No,,379,125,254
+Washington,RICHMOND,Supreme Court Justice - David May,,No,,129,61,68
+Washington,RIVERSIDE,Supreme Court Justice - David May,,No,,399,161,238
+Washington,WARD 1,Supreme Court Justice - David May,,No,,237,140,97
+Washington,WARD 2 PRECINCT,Supreme Court Justice - David May,,No,,209,123,86
+Washington,WARD 3 PRECINCT,Supreme Court Justice - David May,,No,,264,174,90
+Washington,WARD 4 PRECINCT,Supreme Court Justice - David May,,No,,243,222,21
+Washington,WELLMAN PRECINCT,Supreme Court Justice - David May,,No,,348,137,211
+Washington,AINSWORTH,Supreme Court Justice - David May,,Yes,,422,157,265
+Washington,BRIGHTON,Supreme Court Justice - David May,,Yes,,462,161,301
+Washington,KALONA,Supreme Court Justice - David May,,Yes,,765,235,530
+Washington,RICHMOND,Supreme Court Justice - David May,,Yes,,293,117,176
+Washington,RIVERSIDE,Supreme Court Justice - David May,,Yes,,763,287,476
+Washington,WARD 1,Supreme Court Justice - David May,,Yes,,495,249,246
+Washington,WARD 2 PRECINCT,Supreme Court Justice - David May,,Yes,,576,303,273
+Washington,WARD 3 PRECINCT,Supreme Court Justice - David May,,Yes,,633,367,266
+Washington,WARD 4 PRECINCT,Supreme Court Justice - David May,,Yes,,581,527,54
+Washington,WELLMAN PRECINCT,Supreme Court Justice - David May,,Yes,,682,211,471
+Washington,AINSWORTH,U.S. House,1,Christina Bohannan,DEM,282,131,151
+Washington,BRIGHTON,U.S. House,1,Christina Bohannan,DEM,241,120,121
+Washington,KALONA,U.S. House,1,Christina Bohannan,DEM,716,262,454
+Washington,RICHMOND,U.S. House,1,Christina Bohannan,DEM,192,88,104
+Washington,RIVERSIDE,U.S. House,1,Christina Bohannan,DEM,825,346,479
+Washington,WARD 1,U.S. House,1,Christina Bohannan,DEM,457,262,195
+Washington,WARD 2 PRECINCT,U.S. House,1,Christina Bohannan,DEM,437,274,163
+Washington,WARD 3 PRECINCT,U.S. House,1,Christina Bohannan,DEM,534,341,193
+Washington,WARD 4 PRECINCT,U.S. House,1,Christina Bohannan,DEM,515,477,38
+Washington,WELLMAN PRECINCT,U.S. House,1,Christina Bohannan,DEM,507,214,293
+Washington,AINSWORTH,U.S. House,1,Mariannette Miller-Meeks,REP,538,209,329
+Washington,BRIGHTON,U.S. House,1,Mariannette Miller-Meeks,REP,577,207,370
+Washington,KALONA,U.S. House,1,Mariannette Miller-Meeks,REP,918,298,620
+Washington,RICHMOND,U.S. House,1,Mariannette Miller-Meeks,REP,436,163,273
+Washington,RIVERSIDE,U.S. House,1,Mariannette Miller-Meeks,REP,845,281,564
+Washington,WARD 1,U.S. House,1,Mariannette Miller-Meeks,REP,535,287,248
+Washington,WARD 2 PRECINCT,U.S. House,1,Mariannette Miller-Meeks,REP,580,316,264
+Washington,WARD 3 PRECINCT,U.S. House,1,Mariannette Miller-Meeks,REP,677,404,273
+Washington,WARD 4 PRECINCT,U.S. House,1,Mariannette Miller-Meeks,REP,601,541,60
+Washington,WELLMAN PRECINCT,U.S. House,1,Mariannette Miller-Meeks,REP,909,284,625
+Washington,AINSWORTH,U.S. House,1,Write-In,,2,0,2
+Washington,BRIGHTON,U.S. House,1,Write-In,,5,1,4
+Washington,KALONA,U.S. House,1,Write-In,,4,0,4
+Washington,RICHMOND,U.S. House,1,Write-In,,1,1,0
+Washington,RIVERSIDE,U.S. House,1,Write-In,,9,1,8
+Washington,WARD 1,U.S. House,1,Write-In,,5,2,3
+Washington,WARD 2 PRECINCT,U.S. House,1,Write-In,,5,2,3
+Washington,WARD 3 PRECINCT,U.S. House,1,Write-In,,2,0,2
+Washington,WARD 4 PRECINCT,U.S. House,1,Write-In,,3,3,0
+Washington,WELLMAN PRECINCT,U.S. House,1,Write-In,,2,1,1
+Washington,AINSWORTH,Washington County Hospital Trustee,,David C. Bruns,,500,211,289
+Washington,BRIGHTON,Washington County Hospital Trustee,,David C. Bruns,,476,194,282
+Washington,KALONA,Washington County Hospital Trustee,,David C. Bruns,,770,262,508
+Washington,RICHMOND,Washington County Hospital Trustee,,David C. Bruns,,310,139,171
+Washington,RIVERSIDE,Washington County Hospital Trustee,,David C. Bruns,,841,337,504
+Washington,WARD 1,Washington County Hospital Trustee,,David C. Bruns,,603,339,264
+Washington,WARD 2 PRECINCT,Washington County Hospital Trustee,,David C. Bruns,,631,373,258
+Washington,WARD 3 PRECINCT,Washington County Hospital Trustee,,David C. Bruns,,777,485,292
+Washington,WARD 4 PRECINCT,Washington County Hospital Trustee,,David C. Bruns,,679,623,56
+Washington,WELLMAN PRECINCT,Washington County Hospital Trustee,,David C. Bruns,,770,257,513
+Washington,AINSWORTH,Washington County Hospital Trustee,,Michael Driscoll,,551,222,329
+Washington,BRIGHTON,Washington County Hospital Trustee,,Michael Driscoll,,568,231,337
+Washington,KALONA,Washington County Hospital Trustee,,Michael Driscoll,,889,291,598
+Washington,RICHMOND,Washington County Hospital Trustee,,Michael Driscoll,,346,142,204
+Washington,RIVERSIDE,Washington County Hospital Trustee,,Michael Driscoll,,993,369,624
+Washington,WARD 1,Washington County Hospital Trustee,,Michael Driscoll,,602,324,278
+Washington,WARD 2 PRECINCT,Washington County Hospital Trustee,,Michael Driscoll,,665,370,295
+Washington,WARD 3 PRECINCT,Washington County Hospital Trustee,,Michael Driscoll,,757,460,297
+Washington,WARD 4 PRECINCT,Washington County Hospital Trustee,,Michael Driscoll,,697,626,71
+Washington,WELLMAN PRECINCT,Washington County Hospital Trustee,,Michael Driscoll,,865,284,581
+Washington,AINSWORTH,Washington County Hospital Trustee,,Michael J. Van Osdol,,474,201,273
+Washington,BRIGHTON,Washington County Hospital Trustee,,Michael J. Van Osdol,,441,173,268
+Washington,KALONA,Washington County Hospital Trustee,,Michael J. Van Osdol,,754,256,498
+Washington,RICHMOND,Washington County Hospital Trustee,,Michael J. Van Osdol,,307,140,167
+Washington,RIVERSIDE,Washington County Hospital Trustee,,Michael J. Van Osdol,,857,332,525
+Washington,WARD 1,Washington County Hospital Trustee,,Michael J. Van Osdol,,554,312,242
+Washington,WARD 2 PRECINCT,Washington County Hospital Trustee,,Michael J. Van Osdol,,591,347,244
+Washington,WARD 3 PRECINCT,Washington County Hospital Trustee,,Michael J. Van Osdol,,747,465,282
+Washington,WARD 4 PRECINCT,Washington County Hospital Trustee,,Michael J. Van Osdol,,666,602,64
+Washington,WELLMAN PRECINCT,Washington County Hospital Trustee,,Michael J. Van Osdol,,738,246,492
+Washington,AINSWORTH,Washington County Hospital Trustee,,Write-In,,4,0,4
+Washington,BRIGHTON,Washington County Hospital Trustee,,Write-In,,6,2,4
+Washington,KALONA,Washington County Hospital Trustee,,Write-In,,12,6,6
+Washington,RICHMOND,Washington County Hospital Trustee,,Write-In,,4,1,3
+Washington,RIVERSIDE,Washington County Hospital Trustee,,Write-In,,10,1,9
+Washington,WARD 1,Washington County Hospital Trustee,,Write-In,,3,2,1
+Washington,WARD 2 PRECINCT,Washington County Hospital Trustee,,Write-In,,7,2,5
+Washington,WARD 3 PRECINCT,Washington County Hospital Trustee,,Write-In,,12,4,8
+Washington,WARD 4 PRECINCT,Washington County Hospital Trustee,,Write-In,,8,7,1
+Washington,WELLMAN PRECINCT,Washington County Hospital Trustee,,Write-In,,17,7,10

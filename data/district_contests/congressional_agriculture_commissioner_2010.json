@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2010,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "agriculture_commissioner",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2010_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 114631,
+        "rep_votes": 155904,
+        "other_votes": 260,
+        "total_votes": 270795,
+        "dem_candidate": "Francis Thicke",
+        "rep_candidate": "Bill Northey",
+        "margin": 41273,
+        "margin_pct": 15.24141878542809,
+        "winner": "REP",
+        "color": "#e93a2d"
+      },
+      "2": {
+        "dem_votes": 106754,
+        "rep_votes": 175026,
+        "other_votes": 183,
+        "total_votes": 281963,
+        "dem_candidate": "Francis Thicke",
+        "rep_candidate": "Bill Northey",
+        "margin": 68272,
+        "margin_pct": 24.213105974897417,
+        "winner": "REP",
+        "color": "#cb181d"
+      },
+      "3": {
+        "dem_votes": 95750,
+        "rep_votes": 158037,
+        "other_votes": 230,
+        "total_votes": 254017,
+        "dem_candidate": "Francis Thicke",
+        "rep_candidate": "Bill Northey",
+        "margin": 62287,
+        "margin_pct": 24.520799788990498,
+        "winner": "REP",
+        "color": "#cb181d"
+      },
+      "4": {
+        "dem_votes": 81293,
+        "rep_votes": 185605,
+        "other_votes": 176,
+        "total_votes": 267074,
+        "dem_candidate": "Francis Thicke",
+        "rep_candidate": "Bill Northey",
+        "margin": 104312,
+        "margin_pct": 39.05733991328246,
+        "winner": "REP",
+        "color": "#a50f15"
+      }
+    }
+  }
+}

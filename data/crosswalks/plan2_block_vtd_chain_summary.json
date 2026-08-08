@@ -1,0 +1,63 @@
+{
+  "inputs": {
+    "block_vtd": "data\\crosswalks\\block20_to_vtd20.csv"
+  },
+  "outputs": {
+    "vtd20_to_block20": {
+      "source_vtds": 2536,
+      "links": 187324,
+      "output": "data\\crosswalks\\vtd20_to_block20.csv"
+    },
+    "congressional": {
+      "source_vtds": 2536,
+      "links": 2652,
+      "output": "data\\crosswalks\\vtd20_to_plan2_congressional_via_blocks.csv",
+      "blocks": 175199,
+      "unmapped_blocks": 0
+    },
+    "block10_to_plan2_congressional": {
+      "source_ids": 216008,
+      "links": 216021,
+      "output": "data\\crosswalks\\block10_to_plan2_congressional_via_blocks.csv"
+    },
+    "block00_to_plan2_congressional": {
+      "source_ids": 168077,
+      "links": 168099,
+      "output": "data\\crosswalks\\block00_to_plan2_congressional_via_blocks.csv"
+    },
+    "house": {
+      "source_vtds": 2536,
+      "links": 3476,
+      "output": "data\\crosswalks\\vtd20_to_plan2_house_via_blocks.csv",
+      "blocks": 175199,
+      "unmapped_blocks": 0
+    },
+    "block10_to_plan2_house": {
+      "source_ids": 216008,
+      "links": 216600,
+      "output": "data\\crosswalks\\block10_to_plan2_house_via_blocks.csv"
+    },
+    "block00_to_plan2_house": {
+      "source_ids": 168077,
+      "links": 169146,
+      "output": "data\\crosswalks\\block00_to_plan2_house_via_blocks.csv"
+    },
+    "senate": {
+      "source_vtds": 2536,
+      "links": 3146,
+      "output": "data\\crosswalks\\vtd20_to_plan2_senate_via_blocks.csv",
+      "blocks": 175199,
+      "unmapped_blocks": 0
+    },
+    "block10_to_plan2_senate": {
+      "source_ids": 216008,
+      "links": 216460,
+      "output": "data\\crosswalks\\block10_to_plan2_senate_via_blocks.csv"
+    },
+    "block00_to_plan2_senate": {
+      "source_ids": 168077,
+      "links": 168833,
+      "output": "data\\crosswalks\\block00_to_plan2_senate_via_blocks.csv"
+    }
+  }
+}

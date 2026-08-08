@@ -1,0 +1,423 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Guthrie,Casey,Baker Township Trustee,,Bob Oberholtz,,123,68,55
+Guthrie,Casey,Baker Township Trustee,,Write-In,,0,0,0
+Guthrie,Casey,Bear Grove Township Trustee,,Paul Lehman,,82,37,45
+Guthrie,Casey,Bear Grove Township Trustee,,Write-In,,1,0,1
+Guthrie,Casey,Beaver Township Trustee,,Jerry Dickson,,66,27,39
+Guthrie,Stuart,Beaver Township Trustee,,Jerry Dickson,,23,7,16
+Guthrie,Casey,Beaver Township Trustee,,Matt Dickson,,78,33,45
+Guthrie,Stuart,Beaver Township Trustee,,Matt Dickson,,27,7,20
+Guthrie,Casey,Beaver Township Trustee,,Write-In,,1,0,1
+Guthrie,Stuart,Beaver Township Trustee,,Write-In,,0,0,0
+Guthrie,Bayard,Constitutional Amendment 1,,No,,103,25,78
+Guthrie,Casey,Constitutional Amendment 1,,No,,172,58,114
+Guthrie,Guthrie Center,Constitutional Amendment 1,,No,,275,114,161
+Guthrie,Panora,Constitutional Amendment 1,,No,,271,108,163
+Guthrie,Stuart,Constitutional Amendment 1,,No,,298,69,229
+Guthrie,Yale,Constitutional Amendment 1,,No,,267,119,148
+Guthrie,Bayard,Constitutional Amendment 1,,Yes,,341,113,228
+Guthrie,Casey,Constitutional Amendment 1,,Yes,,562,202,360
+Guthrie,Guthrie Center,Constitutional Amendment 1,,Yes,,874,408,466
+Guthrie,Panora,Constitutional Amendment 1,,Yes,,995,472,523
+Guthrie,Stuart,Constitutional Amendment 1,,Yes,,890,201,689
+Guthrie,Yale,Constitutional Amendment 1,,Yes,,981,453,528
+Guthrie,Bayard,Constitutional Amendment 2,,No,,68,24,44
+Guthrie,Casey,Constitutional Amendment 2,,No,,136,51,85
+Guthrie,Guthrie Center,Constitutional Amendment 2,,No,,207,97,110
+Guthrie,Panora,Constitutional Amendment 2,,No,,202,83,119
+Guthrie,Stuart,Constitutional Amendment 2,,No,,233,49,184
+Guthrie,Yale,Constitutional Amendment 2,,No,,188,80,108
+Guthrie,Bayard,Constitutional Amendment 2,,Yes,,369,110,259
+Guthrie,Casey,Constitutional Amendment 2,,Yes,,591,208,383
+Guthrie,Guthrie Center,Constitutional Amendment 2,,Yes,,934,418,516
+Guthrie,Panora,Constitutional Amendment 2,,Yes,,1049,490,559
+Guthrie,Stuart,Constitutional Amendment 2,,Yes,,947,220,727
+Guthrie,Yale,Constitutional Amendment 2,,Yes,,1049,486,563
+Guthrie,Bayard,County Agricultural Extension Council Member,,Carol Wendl,,258,79,179
+Guthrie,Casey,County Agricultural Extension Council Member,,Carol Wendl,,376,151,225
+Guthrie,Guthrie Center,County Agricultural Extension Council Member,,Carol Wendl,,700,293,407
+Guthrie,Panora,County Agricultural Extension Council Member,,Carol Wendl,,823,389,434
+Guthrie,Stuart,County Agricultural Extension Council Member,,Carol Wendl,,558,125,433
+Guthrie,Yale,County Agricultural Extension Council Member,,Carol Wendl,,731,339,392
+Guthrie,Bayard,County Agricultural Extension Council Member,,Dwayne Seeck,,206,53,153
+Guthrie,Casey,County Agricultural Extension Council Member,,Dwayne Seeck,,369,126,243
+Guthrie,Guthrie Center,County Agricultural Extension Council Member,,Dwayne Seeck,,587,220,367
+Guthrie,Panora,County Agricultural Extension Council Member,,Dwayne Seeck,,504,234,270
+Guthrie,Stuart,County Agricultural Extension Council Member,,Dwayne Seeck,,479,100,379
+Guthrie,Yale,County Agricultural Extension Council Member,,Dwayne Seeck,,554,246,308
+Guthrie,Bayard,County Agricultural Extension Council Member,,Genevieve McCreary,,181,52,129
+Guthrie,Casey,County Agricultural Extension Council Member,,Genevieve McCreary,,284,102,182
+Guthrie,Guthrie Center,County Agricultural Extension Council Member,,Genevieve McCreary,,501,189,312
+Guthrie,Panora,County Agricultural Extension Council Member,,Genevieve McCreary,,464,219,245
+Guthrie,Stuart,County Agricultural Extension Council Member,,Genevieve McCreary,,485,99,386
+Guthrie,Yale,County Agricultural Extension Council Member,,Genevieve McCreary,,451,205,246
+Guthrie,Bayard,County Agricultural Extension Council Member,,Kayla Willms,,236,76,160
+Guthrie,Casey,County Agricultural Extension Council Member,,Kayla Willms,,391,141,250
+Guthrie,Guthrie Center,County Agricultural Extension Council Member,,Kayla Willms,,667,260,407
+Guthrie,Panora,County Agricultural Extension Council Member,,Kayla Willms,,600,283,317
+Guthrie,Stuart,County Agricultural Extension Council Member,,Kayla Willms,,647,147,500
+Guthrie,Yale,County Agricultural Extension Council Member,,Kayla Willms,,599,271,328
+Guthrie,Bayard,County Agricultural Extension Council Member,,Ruth Blomquist,,213,65,148
+Guthrie,Casey,County Agricultural Extension Council Member,,Ruth Blomquist,,397,158,239
+Guthrie,Guthrie Center,County Agricultural Extension Council Member,,Ruth Blomquist,,636,253,383
+Guthrie,Panora,County Agricultural Extension Council Member,,Ruth Blomquist,,586,270,316
+Guthrie,Stuart,County Agricultural Extension Council Member,,Ruth Blomquist,,584,125,459
+Guthrie,Yale,County Agricultural Extension Council Member,,Ruth Blomquist,,568,250,318
+Guthrie,Bayard,County Agricultural Extension Council Member,,Write-In,,3,2,1
+Guthrie,Casey,County Agricultural Extension Council Member,,Write-In,,6,4,2
+Guthrie,Guthrie Center,County Agricultural Extension Council Member,,Write-In,,9,0,9
+Guthrie,Panora,County Agricultural Extension Council Member,,Write-In,,22,13,9
+Guthrie,Stuart,County Agricultural Extension Council Member,,Write-In,,13,2,11
+Guthrie,Yale,County Agricultural Extension Council Member,,Write-In,,9,2,7
+Guthrie,Bayard,County Auditor,,Dani Fink,REP,431,126,305
+Guthrie,Casey,County Auditor,,Dani Fink,REP,649,234,415
+Guthrie,Guthrie Center,County Auditor,,Dani Fink,REP,1039,451,588
+Guthrie,Panora,County Auditor,,Dani Fink,REP,1195,540,655
+Guthrie,Stuart,County Auditor,,Dani Fink,REP,1036,227,809
+Guthrie,Yale,County Auditor,,Dani Fink,REP,1137,502,635
+Guthrie,Bayard,County Auditor,,Write-In,,6,3,3
+Guthrie,Casey,County Auditor,,Write-In,,13,6,7
+Guthrie,Guthrie Center,County Auditor,,Write-In,,19,11,8
+Guthrie,Panora,County Auditor,,Write-In,,12,2,10
+Guthrie,Stuart,County Auditor,,Write-In,,13,2,11
+Guthrie,Yale,County Auditor,,Write-In,,12,6,6
+Guthrie,Bayard,County Sheriff,,Marty Arganbright,DEM,158,60,98
+Guthrie,Casey,County Sheriff,,Marty Arganbright,DEM,303,132,171
+Guthrie,Guthrie Center,County Sheriff,,Marty Arganbright,DEM,478,234,244
+Guthrie,Panora,County Sheriff,,Marty Arganbright,DEM,495,247,248
+Guthrie,Stuart,County Sheriff,,Marty Arganbright,DEM,525,134,391
+Guthrie,Yale,County Sheriff,,Marty Arganbright,DEM,475,215,260
+Guthrie,Bayard,County Sheriff,,Matt Harmann,REP,326,89,237
+Guthrie,Casey,County Sheriff,,Matt Harmann,REP,481,150,331
+Guthrie,Guthrie Center,County Sheriff,,Matt Harmann,REP,748,321,427
+Guthrie,Panora,County Sheriff,,Matt Harmann,REP,863,370,493
+Guthrie,Stuart,County Sheriff,,Matt Harmann,REP,722,144,578
+Guthrie,Yale,County Sheriff,,Matt Harmann,REP,845,376,469
+Guthrie,Bayard,County Sheriff,,Write-In,,0,0,0
+Guthrie,Casey,County Sheriff,,Write-In,,3,1,2
+Guthrie,Guthrie Center,County Sheriff,,Write-In,,2,2,0
+Guthrie,Panora,County Sheriff,,Write-In,,1,1,0
+Guthrie,Stuart,County Sheriff,,Write-In,,2,1,1
+Guthrie,Yale,County Sheriff,,Write-In,,3,2,1
+Guthrie,Yale,County Supervisor,2,Breanna Mink,,84,35,49
+Guthrie,Yale,County Supervisor,2,Brian Johnson,REP,1041,459,582
+Guthrie,Yale,County Supervisor,2,Write-In,,12,4,8
+Guthrie,Stuart,County Supervisor,5,Mike Dickson,REP,1043,225,818
+Guthrie,Stuart,County Supervisor,5,Write-In,,25,5,20
+Guthrie,Bayard,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,148,44,104
+Guthrie,Casey,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,267,85,182
+Guthrie,Guthrie Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,374,176,198
+Guthrie,Panora,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,340,147,193
+Guthrie,Stuart,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,316,61,255
+Guthrie,Yale,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,309,136,173
+Guthrie,Bayard,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,217,63,154
+Guthrie,Casey,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,305,118,187
+Guthrie,Guthrie Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,554,232,322
+Guthrie,Panora,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,657,297,360
+Guthrie,Stuart,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,631,141,490
+Guthrie,Yale,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,660,294,366
+Guthrie,Bayard,Court of Appeals Judge - Mary Ellen Tabor,,No,,141,45,96
+Guthrie,Casey,Court of Appeals Judge - Mary Ellen Tabor,,No,,238,74,164
+Guthrie,Guthrie Center,Court of Appeals Judge - Mary Ellen Tabor,,No,,343,161,182
+Guthrie,Panora,Court of Appeals Judge - Mary Ellen Tabor,,No,,331,153,178
+Guthrie,Stuart,Court of Appeals Judge - Mary Ellen Tabor,,No,,304,66,238
+Guthrie,Yale,Court of Appeals Judge - Mary Ellen Tabor,,No,,302,133,169
+Guthrie,Bayard,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,223,61,162
+Guthrie,Casey,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,335,133,202
+Guthrie,Guthrie Center,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,587,243,344
+Guthrie,Panora,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,664,289,375
+Guthrie,Stuart,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,643,135,508
+Guthrie,Yale,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,679,301,378
+Guthrie,Bayard,Court of Appeals Judge - Samuel Langholz,,No,,151,47,104
+Guthrie,Casey,Court of Appeals Judge - Samuel Langholz,,No,,248,86,162
+Guthrie,Guthrie Center,Court of Appeals Judge - Samuel Langholz,,No,,404,201,203
+Guthrie,Panora,Court of Appeals Judge - Samuel Langholz,,No,,352,152,200
+Guthrie,Stuart,Court of Appeals Judge - Samuel Langholz,,No,,354,78,276
+Guthrie,Yale,Court of Appeals Judge - Samuel Langholz,,No,,343,155,188
+Guthrie,Bayard,Court of Appeals Judge - Samuel Langholz,,Yes,,221,61,160
+Guthrie,Casey,Court of Appeals Judge - Samuel Langholz,,Yes,,332,119,213
+Guthrie,Guthrie Center,Court of Appeals Judge - Samuel Langholz,,Yes,,538,216,322
+Guthrie,Panora,Court of Appeals Judge - Samuel Langholz,,Yes,,653,293,360
+Guthrie,Stuart,Court of Appeals Judge - Samuel Langholz,,Yes,,613,125,488
+Guthrie,Yale,Court of Appeals Judge - Samuel Langholz,,Yes,,637,279,358
+Guthrie,Bayard,Court of Appeals Judge - Tyler J. Buller,,No,,134,38,96
+Guthrie,Casey,Court of Appeals Judge - Tyler J. Buller,,No,,233,78,155
+Guthrie,Guthrie Center,Court of Appeals Judge - Tyler J. Buller,,No,,378,190,188
+Guthrie,Panora,Court of Appeals Judge - Tyler J. Buller,,No,,335,150,185
+Guthrie,Stuart,Court of Appeals Judge - Tyler J. Buller,,No,,309,69,240
+Guthrie,Yale,Court of Appeals Judge - Tyler J. Buller,,No,,302,130,172
+Guthrie,Bayard,Court of Appeals Judge - Tyler J. Buller,,Yes,,228,68,160
+Guthrie,Casey,Court of Appeals Judge - Tyler J. Buller,,Yes,,332,121,211
+Guthrie,Guthrie Center,Court of Appeals Judge - Tyler J. Buller,,Yes,,545,216,329
+Guthrie,Panora,Court of Appeals Judge - Tyler J. Buller,,Yes,,654,290,364
+Guthrie,Stuart,Court of Appeals Judge - Tyler J. Buller,,Yes,,627,130,497
+Guthrie,Yale,Court of Appeals Judge - Tyler J. Buller,,Yes,,659,295,364
+Guthrie,Stuart,Diamondhead Sanitary District Trustee,,Keith Stork,,25,0,25
+Guthrie,Stuart,Diamondhead Sanitary District Trustee,,Write-In,,30,9,21
+Guthrie,Bayard,District 5A Associate Judge - Kevin Parker,,No,,135,40,95
+Guthrie,Casey,District 5A Associate Judge - Kevin Parker,,No,,216,71,145
+Guthrie,Guthrie Center,District 5A Associate Judge - Kevin Parker,,No,,331,156,175
+Guthrie,Panora,District 5A Associate Judge - Kevin Parker,,No,,307,139,168
+Guthrie,Stuart,District 5A Associate Judge - Kevin Parker,,No,,296,59,237
+Guthrie,Yale,District 5A Associate Judge - Kevin Parker,,No,,285,126,159
+Guthrie,Bayard,District 5A Associate Judge - Kevin Parker,,Yes,,232,66,166
+Guthrie,Casey,District 5A Associate Judge - Kevin Parker,,Yes,,353,134,219
+Guthrie,Guthrie Center,District 5A Associate Judge - Kevin Parker,,Yes,,580,243,337
+Guthrie,Panora,District 5A Associate Judge - Kevin Parker,,Yes,,667,287,380
+Guthrie,Stuart,District 5A Associate Judge - Kevin Parker,,Yes,,650,140,510
+Guthrie,Yale,District 5A Associate Judge - Kevin Parker,,Yes,,685,297,388
+Guthrie,Bayard,District 5A Associate Judge - Virginia Cobb,,No,,143,45,98
+Guthrie,Casey,District 5A Associate Judge - Virginia Cobb,,No,,235,77,158
+Guthrie,Guthrie Center,District 5A Associate Judge - Virginia Cobb,,No,,337,162,175
+Guthrie,Panora,District 5A Associate Judge - Virginia Cobb,,No,,329,151,178
+Guthrie,Stuart,District 5A Associate Judge - Virginia Cobb,,No,,303,60,243
+Guthrie,Yale,District 5A Associate Judge - Virginia Cobb,,No,,312,129,183
+Guthrie,Bayard,District 5A Associate Judge - Virginia Cobb,,Yes,,219,58,161
+Guthrie,Casey,District 5A Associate Judge - Virginia Cobb,,Yes,,329,126,203
+Guthrie,Guthrie Center,District 5A Associate Judge - Virginia Cobb,,Yes,,568,233,335
+Guthrie,Panora,District 5A Associate Judge - Virginia Cobb,,Yes,,641,276,365
+Guthrie,Stuart,District 5A Associate Judge - Virginia Cobb,,Yes,,637,138,499
+Guthrie,Yale,District 5A Associate Judge - Virginia Cobb,,Yes,,658,292,366
+Guthrie,Bayard,District 5A Judge - Bradley McCall,,No,,136,44,92
+Guthrie,Casey,District 5A Judge - Bradley McCall,,No,,225,79,146
+Guthrie,Guthrie Center,District 5A Judge - Bradley McCall,,No,,349,168,181
+Guthrie,Panora,District 5A Judge - Bradley McCall,,No,,335,152,183
+Guthrie,Stuart,District 5A Judge - Bradley McCall,,No,,289,68,221
+Guthrie,Yale,District 5A Judge - Bradley McCall,,No,,296,128,168
+Guthrie,Bayard,District 5A Judge - Bradley McCall,,Yes,,231,60,171
+Guthrie,Casey,District 5A Judge - Bradley McCall,,Yes,,343,125,218
+Guthrie,Guthrie Center,District 5A Judge - Bradley McCall,,Yes,,567,236,331
+Guthrie,Panora,District 5A Judge - Bradley McCall,,Yes,,643,277,366
+Guthrie,Stuart,District 5A Judge - Bradley McCall,,Yes,,652,129,523
+Guthrie,Yale,District 5A Judge - Bradley McCall,,Yes,,676,295,381
+Guthrie,Bayard,District 5A Judge - Charles Sinnard,,No,,143,41,102
+Guthrie,Casey,District 5A Judge - Charles Sinnard,,No,,239,80,159
+Guthrie,Guthrie Center,District 5A Judge - Charles Sinnard,,No,,375,180,195
+Guthrie,Panora,District 5A Judge - Charles Sinnard,,No,,317,136,181
+Guthrie,Stuart,District 5A Judge - Charles Sinnard,,No,,311,66,245
+Guthrie,Yale,District 5A Judge - Charles Sinnard,,No,,316,132,184
+Guthrie,Bayard,District 5A Judge - Charles Sinnard,,Yes,,220,64,156
+Guthrie,Casey,District 5A Judge - Charles Sinnard,,Yes,,322,120,202
+Guthrie,Guthrie Center,District 5A Judge - Charles Sinnard,,Yes,,528,213,315
+Guthrie,Panora,District 5A Judge - Charles Sinnard,,Yes,,655,292,363
+Guthrie,Stuart,District 5A Judge - Charles Sinnard,,Yes,,621,131,490
+Guthrie,Yale,District 5A Judge - Charles Sinnard,,Yes,,646,291,355
+Guthrie,Bayard,District 5A Judge - David Faith,,No,,137,40,97
+Guthrie,Casey,District 5A Judge - David Faith,,No,,215,72,143
+Guthrie,Guthrie Center,District 5A Judge - David Faith,,No,,353,177,176
+Guthrie,Panora,District 5A Judge - David Faith,,No,,292,123,169
+Guthrie,Stuart,District 5A Judge - David Faith,,No,,293,66,227
+Guthrie,Yale,District 5A Judge - David Faith,,No,,295,123,172
+Guthrie,Bayard,District 5A Judge - David Faith,,Yes,,228,65,163
+Guthrie,Casey,District 5A Judge - David Faith,,Yes,,347,130,217
+Guthrie,Guthrie Center,District 5A Judge - David Faith,,Yes,,561,222,339
+Guthrie,Panora,District 5A Judge - David Faith,,Yes,,684,305,379
+Guthrie,Stuart,District 5A Judge - David Faith,,Yes,,642,131,511
+Guthrie,Yale,District 5A Judge - David Faith,,Yes,,666,295,371
+Guthrie,Bayard,District 5A Judge - Terry R. Rickers,,No,,142,42,100
+Guthrie,Casey,District 5A Judge - Terry R. Rickers,,No,,230,78,152
+Guthrie,Guthrie Center,District 5A Judge - Terry R. Rickers,,No,,342,163,179
+Guthrie,Panora,District 5A Judge - Terry R. Rickers,,No,,325,148,177
+Guthrie,Stuart,District 5A Judge - Terry R. Rickers,,No,,300,64,236
+Guthrie,Yale,District 5A Judge - Terry R. Rickers,,No,,301,128,173
+Guthrie,Bayard,District 5A Judge - Terry R. Rickers,,Yes,,220,62,158
+Guthrie,Casey,District 5A Judge - Terry R. Rickers,,Yes,,329,122,207
+Guthrie,Guthrie Center,District 5A Judge - Terry R. Rickers,,Yes,,565,233,332
+Guthrie,Panora,District 5A Judge - Terry R. Rickers,,Yes,,647,278,369
+Guthrie,Stuart,District 5A Judge - Terry R. Rickers,,Yes,,635,132,503
+Guthrie,Yale,District 5A Judge - Terry R. Rickers,,Yes,,663,295,368
+Guthrie,Casey,Grant Township Trustee,,Doug Harris,,90,20,70
+Guthrie,Casey,Grant Township Trustee,,Steve Bireline,,115,22,93
+Guthrie,Casey,Grant Township Trustee,,Write-In,,1,0,1
+Guthrie,Bayard,Guthrie County - Public Measure IU,,No,,238,61,177
+Guthrie,Casey,Guthrie County - Public Measure IU,,No,,412,122,290
+Guthrie,Guthrie Center,Guthrie County - Public Measure IU,,No,,495,203,292
+Guthrie,Panora,Guthrie County - Public Measure IU,,No,,463,206,257
+Guthrie,Stuart,Guthrie County - Public Measure IU,,No,,775,156,619
+Guthrie,Yale,Guthrie County - Public Measure IU,,No,,455,189,266
+Guthrie,Bayard,Guthrie County - Public Measure IU,,Yes,,219,81,138
+Guthrie,Casey,Guthrie County - Public Measure IU,,Yes,,347,149,198
+Guthrie,Guthrie Center,Guthrie County - Public Measure IU,,Yes,,678,333,345
+Guthrie,Panora,Guthrie County - Public Measure IU,,Yes,,841,386,455
+Guthrie,Stuart,Guthrie County - Public Measure IU,,Yes,,427,113,314
+Guthrie,Yale,Guthrie County - Public Measure IU,,Yes,,805,388,417
+Guthrie,Bayard,Guthrie County Hospital Trustee,,Cheryl L. Marks,,286,92,194
+Guthrie,Casey,Guthrie County Hospital Trustee,,Cheryl L. Marks,,493,187,306
+Guthrie,Guthrie Center,Guthrie County Hospital Trustee,,Cheryl L. Marks,,798,344,454
+Guthrie,Panora,Guthrie County Hospital Trustee,,Cheryl L. Marks,,842,410,432
+Guthrie,Stuart,Guthrie County Hospital Trustee,,Cheryl L. Marks,,855,179,676
+Guthrie,Yale,Guthrie County Hospital Trustee,,Cheryl L. Marks,,800,365,435
+Guthrie,Bayard,Guthrie County Hospital Trustee,,Douglas Kent,,306,92,214
+Guthrie,Casey,Guthrie County Hospital Trustee,,Douglas Kent,,506,188,318
+Guthrie,Guthrie Center,Guthrie County Hospital Trustee,,Douglas Kent,,812,354,458
+Guthrie,Panora,Guthrie County Hospital Trustee,,Douglas Kent,,852,400,452
+Guthrie,Stuart,Guthrie County Hospital Trustee,,Douglas Kent,,705,165,540
+Guthrie,Yale,Guthrie County Hospital Trustee,,Douglas Kent,,833,384,449
+Guthrie,Bayard,Guthrie County Hospital Trustee,,Emily Donovan,,317,98,219
+Guthrie,Casey,Guthrie County Hospital Trustee,,Emily Donovan,,490,182,308
+Guthrie,Guthrie Center,Guthrie County Hospital Trustee,,Emily Donovan,,840,352,488
+Guthrie,Panora,Guthrie County Hospital Trustee,,Emily Donovan,,992,465,527
+Guthrie,Stuart,Guthrie County Hospital Trustee,,Emily Donovan,,719,166,553
+Guthrie,Yale,Guthrie County Hospital Trustee,,Emily Donovan,,925,424,501
+Guthrie,Bayard,Guthrie County Hospital Trustee,,Write-In,,2,1,1
+Guthrie,Casey,Guthrie County Hospital Trustee,,Write-In,,7,3,4
+Guthrie,Guthrie Center,Guthrie County Hospital Trustee,,Write-In,,17,1,16
+Guthrie,Panora,Guthrie County Hospital Trustee,,Write-In,,21,12,9
+Guthrie,Stuart,Guthrie County Hospital Trustee,,Write-In,,11,0,11
+Guthrie,Yale,Guthrie County Hospital Trustee,,Write-In,,12,7,5
+Guthrie,Guthrie Center,Jackson Township Trustee,,Duane Lyons,,152,72,80
+Guthrie,Guthrie Center,Jackson Township Trustee,,Tom Arganbright,,11,5,6
+Guthrie,Guthrie Center,Jackson Township Trustee,,Write-In,,21,13,8
+Guthrie,Bayard,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Guthrie,Casey,President,,Chase Oliver and Mike ter Maat,LIB,4,1,3
+Guthrie,Guthrie Center,President,,Chase Oliver and Mike ter Maat,LIB,8,3,5
+Guthrie,Panora,President,,Chase Oliver and Mike ter Maat,LIB,6,0,6
+Guthrie,Stuart,President,,Chase Oliver and Mike ter Maat,LIB,5,0,5
+Guthrie,Yale,President,,Chase Oliver and Mike ter Maat,LIB,6,3,3
+Guthrie,Bayard,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Guthrie,Casey,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Guthrie,Guthrie Center,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Guthrie,Panora,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Guthrie,Stuart,President,,Claudia De la Cruz and Karina Garcia,PSL,2,0,2
+Guthrie,Yale,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Guthrie,Bayard,President,,Donald J. Trump and JD Vance,REP,379,101,278
+Guthrie,Casey,President,,Donald J. Trump and JD Vance,REP,583,188,395
+Guthrie,Guthrie Center,President,,Donald J. Trump and JD Vance,REP,820,327,493
+Guthrie,Panora,President,,Donald J. Trump and JD Vance,REP,918,381,537
+Guthrie,Stuart,President,,Donald J. Trump and JD Vance,REP,848,163,685
+Guthrie,Yale,President,,Donald J. Trump and JD Vance,REP,898,345,553
+Guthrie,Bayard,President,,Kamala D. Harris and Tim Walz,DEM,103,46,57
+Guthrie,Casey,President,,Kamala D. Harris and Tim Walz,DEM,205,99,106
+Guthrie,Guthrie Center,President,,Kamala D. Harris and Tim Walz,DEM,400,228,172
+Guthrie,Panora,President,,Kamala D. Harris and Tim Walz,DEM,436,234,202
+Guthrie,Stuart,President,,Kamala D. Harris and Tim Walz,DEM,424,123,301
+Guthrie,Yale,President,,Kamala D. Harris and Tim Walz,DEM,406,242,164
+Guthrie,Bayard,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,1,4
+Guthrie,Casey,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,2,8
+Guthrie,Guthrie Center,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,5,5
+Guthrie,Panora,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,4,6
+Guthrie,Stuart,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,13,2,11
+Guthrie,Yale,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,14,6,8
+Guthrie,Bayard,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Guthrie,Casey,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Guthrie,Guthrie Center,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Guthrie,Panora,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Guthrie,Stuart,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Guthrie,Yale,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Guthrie,Bayard,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Guthrie,Casey,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Guthrie,Guthrie Center,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Guthrie,Panora,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Guthrie,Stuart,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Guthrie,Yale,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Guthrie,Bayard,President,,Write-In,,2,0,2
+Guthrie,Casey,President,,Write-In,,0,0,0
+Guthrie,Guthrie Center,President,,Write-In,,7,0,7
+Guthrie,Panora,President,,Write-In,,13,10,3
+Guthrie,Stuart,President,,Write-In,,2,0,2
+Guthrie,Yale,President,,Write-In,,5,3,2
+Guthrie,Yale,Richland Township Trustee,,Craig Cogill,,104,39,65
+Guthrie,Yale,Richland Township Trustee,,Write-In,,0,0,0
+Guthrie,Bayard,Seely Township Trustee,,Adam Franzeen,,27,16,11
+Guthrie,Yale,Seely Township Trustee,,Adam Franzeen,,94,60,34
+Guthrie,Bayard,Seely Township Trustee,,Write-In,,0,0,0
+Guthrie,Yale,Seely Township Trustee,,Write-In,,2,1,1
+Guthrie,Bayard,Soil and Water Conservation District Commissioner,,Bryan Coffman,,343,99,244
+Guthrie,Casey,Soil and Water Conservation District Commissioner,,Bryan Coffman,,555,208,347
+Guthrie,Guthrie Center,Soil and Water Conservation District Commissioner,,Bryan Coffman,,887,383,504
+Guthrie,Panora,Soil and Water Conservation District Commissioner,,Bryan Coffman,,831,392,439
+Guthrie,Stuart,Soil and Water Conservation District Commissioner,,Bryan Coffman,,727,161,566
+Guthrie,Yale,Soil and Water Conservation District Commissioner,,Bryan Coffman,,832,386,446
+Guthrie,Bayard,Soil and Water Conservation District Commissioner,,David Deardorff,,308,91,217
+Guthrie,Casey,Soil and Water Conservation District Commissioner,,David Deardorff,,488,190,298
+Guthrie,Guthrie Center,Soil and Water Conservation District Commissioner,,David Deardorff,,819,347,472
+Guthrie,Panora,Soil and Water Conservation District Commissioner,,David Deardorff,,981,449,532
+Guthrie,Stuart,Soil and Water Conservation District Commissioner,,David Deardorff,,783,165,618
+Guthrie,Yale,Soil and Water Conservation District Commissioner,,David Deardorff,,959,427,532
+Guthrie,Bayard,Soil and Water Conservation District Commissioner,,Stephen D Roe,,266,90,176
+Guthrie,Casey,Soil and Water Conservation District Commissioner,,Stephen D Roe,,432,170,262
+Guthrie,Guthrie Center,Soil and Water Conservation District Commissioner,,Stephen D Roe,,696,292,404
+Guthrie,Panora,Soil and Water Conservation District Commissioner,,Stephen D Roe,,737,362,375
+Guthrie,Stuart,Soil and Water Conservation District Commissioner,,Stephen D Roe,,683,154,529
+Guthrie,Yale,Soil and Water Conservation District Commissioner,,Stephen D Roe,,719,338,381
+Guthrie,Bayard,Soil and Water Conservation District Commissioner,,Write-In,,5,0,5
+Guthrie,Casey,Soil and Water Conservation District Commissioner,,Write-In,,6,3,3
+Guthrie,Guthrie Center,Soil and Water Conservation District Commissioner,,Write-In,,7,2,5
+Guthrie,Panora,Soil and Water Conservation District Commissioner,,Write-In,,20,12,8
+Guthrie,Stuart,Soil and Water Conservation District Commissioner,,Write-In,,12,1,11
+Guthrie,Yale,Soil and Water Conservation District Commissioner,,Write-In,,6,2,4
+Guthrie,Panora,South Panorama Sanitary District Trustee,,Jerry Pieper,,69,34,35
+Guthrie,Yale,South Panorama Sanitary District Trustee,,Jerry Pieper,,15,11,4
+Guthrie,Panora,South Panorama Sanitary District Trustee,,Write-In,,0,0,0
+Guthrie,Yale,South Panorama Sanitary District Trustee,,Write-In,,0,0,0
+Guthrie,Bayard,State House,47,Carter Nordman,REP,334,87,247
+Guthrie,Casey,State House,47,Carter Nordman,REP,527,167,360
+Guthrie,Guthrie Center,State House,47,Carter Nordman,REP,807,327,480
+Guthrie,Panora,State House,47,Carter Nordman,REP,915,394,521
+Guthrie,Stuart,State House,47,Carter Nordman,REP,792,169,623
+Guthrie,Yale,State House,47,Carter Nordman,REP,899,371,528
+Guthrie,Bayard,State House,47,Joe Shelly,DEM,127,51,76
+Guthrie,Casey,State House,47,Joe Shelly,DEM,215,103,112
+Guthrie,Guthrie Center,State House,47,Joe Shelly,DEM,381,205,176
+Guthrie,Panora,State House,47,Joe Shelly,DEM,382,202,180
+Guthrie,Stuart,State House,47,Joe Shelly,DEM,411,105,306
+Guthrie,Yale,State House,47,Joe Shelly,DEM,374,208,166
+Guthrie,Bayard,State House,47,Write-In,,1,0,1
+Guthrie,Casey,State House,47,Write-In,,2,1,1
+Guthrie,Guthrie Center,State House,47,Write-In,,2,1,1
+Guthrie,Panora,State House,47,Write-In,,0,0,0
+Guthrie,Stuart,State House,47,Write-In,,1,0,1
+Guthrie,Yale,State House,47,Write-In,,3,1,2
+Guthrie,Bayard,State Senate,24,Jesse Green,REP,355,93,262
+Guthrie,Casey,State Senate,24,Jesse Green,REP,543,173,370
+Guthrie,Guthrie Center,State Senate,24,Jesse Green,REP,811,326,485
+Guthrie,Panora,State Senate,24,Jesse Green,REP,928,398,530
+Guthrie,Stuart,State Senate,24,Jesse Green,REP,805,170,635
+Guthrie,Yale,State Senate,24,Jesse Green,REP,911,370,541
+Guthrie,Bayard,State Senate,24,Margaret Liston,DEM,109,46,63
+Guthrie,Casey,State Senate,24,Margaret Liston,DEM,200,99,101
+Guthrie,Guthrie Center,State Senate,24,Margaret Liston,DEM,377,204,173
+Guthrie,Panora,State Senate,24,Margaret Liston,DEM,382,202,180
+Guthrie,Stuart,State Senate,24,Margaret Liston,DEM,403,106,297
+Guthrie,Yale,State Senate,24,Margaret Liston,DEM,366,210,156
+Guthrie,Bayard,State Senate,24,Write-In,,2,1,1
+Guthrie,Casey,State Senate,24,Write-In,,2,1,1
+Guthrie,Guthrie Center,State Senate,24,Write-In,,1,1,0
+Guthrie,Panora,State Senate,24,Write-In,,0,0,0
+Guthrie,Stuart,State Senate,24,Write-In,,3,0,3
+Guthrie,Yale,State Senate,24,Write-In,,3,1,2
+Guthrie,Bayard,Supreme Court Justice - David May,,No,,151,54,97
+Guthrie,Casey,Supreme Court Justice - David May,,No,,246,84,162
+Guthrie,Guthrie Center,Supreme Court Justice - David May,,No,,411,215,196
+Guthrie,Panora,Supreme Court Justice - David May,,No,,370,180,190
+Guthrie,Stuart,Supreme Court Justice - David May,,No,,363,89,274
+Guthrie,Yale,Supreme Court Justice - David May,,No,,349,169,180
+Guthrie,Bayard,Supreme Court Justice - David May,,Yes,,234,59,175
+Guthrie,Casey,Supreme Court Justice - David May,,Yes,,365,138,227
+Guthrie,Guthrie Center,Supreme Court Justice - David May,,Yes,,562,222,340
+Guthrie,Panora,Supreme Court Justice - David May,,Yes,,698,295,403
+Guthrie,Stuart,Supreme Court Justice - David May,,Yes,,656,131,525
+Guthrie,Yale,Supreme Court Justice - David May,,Yes,,692,297,395
+Guthrie,Bayard,U.S. House,3,Lanon Baccam,DEM,128,54,74
+Guthrie,Casey,U.S. House,3,Lanon Baccam,DEM,217,96,121
+Guthrie,Guthrie Center,U.S. House,3,Lanon Baccam,DEM,421,223,198
+Guthrie,Panora,U.S. House,3,Lanon Baccam,DEM,443,228,215
+Guthrie,Stuart,U.S. House,3,Lanon Baccam,DEM,441,119,322
+Guthrie,Yale,U.S. House,3,Lanon Baccam,DEM,396,229,167
+Guthrie,Bayard,U.S. House,3,Write-In,,0,0,0
+Guthrie,Casey,U.S. House,3,Write-In,,4,1,3
+Guthrie,Guthrie Center,U.S. House,3,Write-In,,4,3,1
+Guthrie,Panora,U.S. House,3,Write-In,,3,0,3
+Guthrie,Stuart,U.S. House,3,Write-In,,3,0,3
+Guthrie,Yale,U.S. House,3,Write-In,,5,2,3
+Guthrie,Bayard,U.S. House,3,Zach Nunn,REP,358,95,263
+Guthrie,Casey,U.S. House,3,Zach Nunn,REP,554,182,372
+Guthrie,Guthrie Center,U.S. House,3,Zach Nunn,REP,808,332,476
+Guthrie,Panora,U.S. House,3,Zach Nunn,REP,906,391,515
+Guthrie,Stuart,U.S. House,3,Zach Nunn,REP,821,166,655
+Guthrie,Yale,U.S. House,3,Zach Nunn,REP,906,359,547
+Guthrie,Bayard,Union Township Trustee,,Paul Clark,,62,31,31
+Guthrie,Bayard,Union Township Trustee,,Write-In,,1,0,1
+Guthrie,Guthrie Center,Valley Township Trustee,,Bryan Mowrer,,117,58,59
+Guthrie,Guthrie Center,Valley Township Trustee,,Paul Finnegan,,94,46,48
+Guthrie,Guthrie Center,Valley Township Trustee,,Write-In,,1,1,0

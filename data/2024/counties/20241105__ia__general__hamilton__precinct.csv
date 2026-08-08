@@ -1,0 +1,550 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Hamilton,Precinct 5 Northeast,Blairsburg Township Trustee,,Jay Kohl,,62,28,34
+Hamilton,Precinct 5 Northeast,Blairsburg Township Trustee,,Keith Reeves,,59,28,31
+Hamilton,Precinct 5 Northeast,Blairsburg Township Trustee,,Write-In,,0,0,0
+Hamilton,Precinct 1 WC 1,Cass Township Trustee,,Jason Struchen,,15,9,6
+Hamilton,Precinct 4 Northwest,Cass Township Trustee,,Jason Struchen,,187,89,98
+Hamilton,Precinct 1 WC 1,Cass Township Trustee,,Ted Williams,,11,6,5
+Hamilton,Precinct 4 Northwest,Cass Township Trustee,,Ted Williams,,161,81,80
+Hamilton,Precinct 1 WC 1,Cass Township Trustee,,Write-In,,0,0,0
+Hamilton,Precinct 4 Northwest,Cass Township Trustee,,Write-In,,7,0,7
+Hamilton,Precinct 1 WC 1,City of Webster City - Public Measure B,,No,,281,138,143
+Hamilton,Precinct 2 WC 2,City of Webster City - Public Measure B,,No,,348,190,158
+Hamilton,Precninct 3 WC 3,City of Webster City - Public Measure B,,No,,339,203,136
+Hamilton,Precinct 1 WC 1,City of Webster City - Public Measure B,,Yes,,554,254,300
+Hamilton,Precinct 2 WC 2,City of Webster City - Public Measure B,,Yes,,685,338,347
+Hamilton,Precninct 3 WC 3,City of Webster City - Public Measure B,,Yes,,778,437,341
+Hamilton,Precinct 6 Southwest,Clear Lake Township Trustee,,Carlton Ness,,154,53,101
+Hamilton,Precinct 6 Southwest,Clear Lake Township Trustee,,Travis Arnold,,2,1,1
+Hamilton,Precinct 6 Southwest,Clear Lake Township Trustee,,Write-In,,2,1,1
+Hamilton,Precinct 1 WC 1,Constitutional Amendment 1,,No,,176,79,97
+Hamilton,Precinct 2 WC 2,Constitutional Amendment 1,,No,,231,121,110
+Hamilton,Precinct 4 Northwest,Constitutional Amendment 1,,No,,134,61,73
+Hamilton,Precinct 5 Northeast,Constitutional Amendment 1,,No,,145,52,93
+Hamilton,Precinct 6 Southwest,Constitutional Amendment 1,,No,,232,86,146
+Hamilton,Precinct 7 Southeast,Constitutional Amendment 1,,No,,337,82,255
+Hamilton,Precninct 3 WC 3,Constitutional Amendment 1,,No,,237,130,107
+Hamilton,Precinct 1 WC 1,Constitutional Amendment 1,,Yes,,710,341,369
+Hamilton,Precinct 2 WC 2,Constitutional Amendment 1,,Yes,,845,451,394
+Hamilton,Precinct 4 Northwest,Constitutional Amendment 1,,Yes,,562,256,306
+Hamilton,Precinct 5 Northeast,Constitutional Amendment 1,,Yes,,493,202,291
+Hamilton,Precinct 6 Southwest,Constitutional Amendment 1,,Yes,,872,307,565
+Hamilton,Precinct 7 Southeast,Constitutional Amendment 1,,Yes,,1204,394,810
+Hamilton,Precninct 3 WC 3,Constitutional Amendment 1,,Yes,,944,564,380
+Hamilton,Precinct 1 WC 1,Constitutional Amendment 2,,No,,132,69,63
+Hamilton,Precinct 2 WC 2,Constitutional Amendment 2,,No,,188,99,89
+Hamilton,Precinct 4 Northwest,Constitutional Amendment 2,,No,,94,48,46
+Hamilton,Precinct 5 Northeast,Constitutional Amendment 2,,No,,94,43,51
+Hamilton,Precinct 6 Southwest,Constitutional Amendment 2,,No,,148,59,89
+Hamilton,Precinct 7 Southeast,Constitutional Amendment 2,,No,,225,61,164
+Hamilton,Precninct 3 WC 3,Constitutional Amendment 2,,No,,174,105,69
+Hamilton,Precinct 1 WC 1,Constitutional Amendment 2,,Yes,,741,347,394
+Hamilton,Precinct 2 WC 2,Constitutional Amendment 2,,Yes,,875,465,410
+Hamilton,Precinct 4 Northwest,Constitutional Amendment 2,,Yes,,593,262,331
+Hamilton,Precinct 5 Northeast,Constitutional Amendment 2,,Yes,,535,209,326
+Hamilton,Precinct 6 Southwest,Constitutional Amendment 2,,Yes,,954,333,621
+Hamilton,Precinct 7 Southeast,Constitutional Amendment 2,,Yes,,1300,409,891
+Hamilton,Precninct 3 WC 3,Constitutional Amendment 2,,Yes,,974,571,403
+Hamilton,Precinct 1 WC 1,County Agricultural Extension Council Member,,Brooke McKibban,,433,210,223
+Hamilton,Precinct 2 WC 2,County Agricultural Extension Council Member,,Brooke McKibban,,568,301,267
+Hamilton,Precinct 4 Northwest,County Agricultural Extension Council Member,,Brooke McKibban,,393,177,216
+Hamilton,Precinct 5 Northeast,County Agricultural Extension Council Member,,Brooke McKibban,,393,149,244
+Hamilton,Precinct 6 Southwest,County Agricultural Extension Council Member,,Brooke McKibban,,658,244,414
+Hamilton,Precinct 7 Southeast,County Agricultural Extension Council Member,,Brooke McKibban,,821,259,562
+Hamilton,Precninct 3 WC 3,County Agricultural Extension Council Member,,Brooke McKibban,,613,360,253
+Hamilton,Precinct 1 WC 1,County Agricultural Extension Council Member,,Ortrude K. Dial,,385,201,184
+Hamilton,Precinct 2 WC 2,County Agricultural Extension Council Member,,Ortrude K. Dial,,530,280,250
+Hamilton,Precinct 4 Northwest,County Agricultural Extension Council Member,,Ortrude K. Dial,,365,171,194
+Hamilton,Precinct 5 Northeast,County Agricultural Extension Council Member,,Ortrude K. Dial,,387,150,237
+Hamilton,Precinct 6 Southwest,County Agricultural Extension Council Member,,Ortrude K. Dial,,619,231,388
+Hamilton,Precinct 7 Southeast,County Agricultural Extension Council Member,,Ortrude K. Dial,,812,252,560
+Hamilton,Precninct 3 WC 3,County Agricultural Extension Council Member,,Ortrude K. Dial,,575,338,237
+Hamilton,Precinct 1 WC 1,County Agricultural Extension Council Member,,Shelley Woodall,,487,241,246
+Hamilton,Precinct 2 WC 2,County Agricultural Extension Council Member,,Shelley Woodall,,638,343,295
+Hamilton,Precinct 4 Northwest,County Agricultural Extension Council Member,,Shelley Woodall,,439,191,248
+Hamilton,Precinct 5 Northeast,County Agricultural Extension Council Member,,Shelley Woodall,,445,169,276
+Hamilton,Precinct 6 Southwest,County Agricultural Extension Council Member,,Shelley Woodall,,733,276,457
+Hamilton,Precinct 7 Southeast,County Agricultural Extension Council Member,,Shelley Woodall,,979,302,677
+Hamilton,Precninct 3 WC 3,County Agricultural Extension Council Member,,Shelley Woodall,,679,406,273
+Hamilton,Precinct 1 WC 1,County Agricultural Extension Council Member,,Stephanie Kruger,,557,271,286
+Hamilton,Precinct 2 WC 2,County Agricultural Extension Council Member,,Stephanie Kruger,,657,341,316
+Hamilton,Precinct 4 Northwest,County Agricultural Extension Council Member,,Stephanie Kruger,,443,199,244
+Hamilton,Precinct 5 Northeast,County Agricultural Extension Council Member,,Stephanie Kruger,,425,164,261
+Hamilton,Precinct 6 Southwest,County Agricultural Extension Council Member,,Stephanie Kruger,,721,260,461
+Hamilton,Precinct 7 Southeast,County Agricultural Extension Council Member,,Stephanie Kruger,,904,283,621
+Hamilton,Precninct 3 WC 3,County Agricultural Extension Council Member,,Stephanie Kruger,,745,412,333
+Hamilton,Precinct 1 WC 1,County Agricultural Extension Council Member,,Write-In,,5,2,3
+Hamilton,Precinct 2 WC 2,County Agricultural Extension Council Member,,Write-In,,4,2,2
+Hamilton,Precinct 4 Northwest,County Agricultural Extension Council Member,,Write-In,,8,2,6
+Hamilton,Precinct 5 Northeast,County Agricultural Extension Council Member,,Write-In,,10,5,5
+Hamilton,Precinct 6 Southwest,County Agricultural Extension Council Member,,Write-In,,9,1,8
+Hamilton,Precinct 7 Southeast,County Agricultural Extension Council Member,,Write-In,,12,3,9
+Hamilton,Precninct 3 WC 3,County Agricultural Extension Council Member,,Write-In,,4,1,3
+Hamilton,Precinct 1 WC 1,County Auditor,,Kim Schaa,REP,811,382,429
+Hamilton,Precinct 2 WC 2,County Auditor,,Kim Schaa,REP,955,500,455
+Hamilton,Precinct 4 Northwest,County Auditor,,Kim Schaa,REP,665,293,372
+Hamilton,Precinct 5 Northeast,County Auditor,,Kim Schaa,REP,629,245,384
+Hamilton,Precinct 6 Southwest,County Auditor,,Kim Schaa,REP,1060,364,696
+Hamilton,Precinct 7 Southeast,County Auditor,,Kim Schaa,REP,1397,430,967
+Hamilton,Precninct 3 WC 3,County Auditor,,Kim Schaa,REP,1090,633,457
+Hamilton,Precinct 1 WC 1,County Auditor,,Write-In,,10,6,4
+Hamilton,Precinct 2 WC 2,County Auditor,,Write-In,,6,2,4
+Hamilton,Precinct 4 Northwest,County Auditor,,Write-In,,2,2,0
+Hamilton,Precinct 5 Northeast,County Auditor,,Write-In,,2,1,1
+Hamilton,Precinct 6 Southwest,County Auditor,,Write-In,,12,4,8
+Hamilton,Precinct 7 Southeast,County Auditor,,Write-In,,16,5,11
+Hamilton,Precninct 3 WC 3,County Auditor,,Write-In,,5,2,3
+Hamilton,Precinct 1 WC 1,County Sheriff,,Alex H. Pruismann,REP,800,366,434
+Hamilton,Precinct 2 WC 2,County Sheriff,,Alex H. Pruismann,REP,956,485,471
+Hamilton,Precinct 4 Northwest,County Sheriff,,Alex H. Pruismann,REP,659,284,375
+Hamilton,Precinct 5 Northeast,County Sheriff,,Alex H. Pruismann,REP,624,229,395
+Hamilton,Precinct 6 Southwest,County Sheriff,,Alex H. Pruismann,REP,1036,347,689
+Hamilton,Precinct 7 Southeast,County Sheriff,,Alex H. Pruismann,REP,1386,417,969
+Hamilton,Precninct 3 WC 3,County Sheriff,,Alex H. Pruismann,REP,1056,589,467
+Hamilton,Precinct 1 WC 1,County Sheriff,,Write-In,,23,10,13
+Hamilton,Precinct 2 WC 2,County Sheriff,,Write-In,,19,13,6
+Hamilton,Precinct 4 Northwest,County Sheriff,,Write-In,,10,7,3
+Hamilton,Precinct 5 Northeast,County Sheriff,,Write-In,,11,6,5
+Hamilton,Precinct 6 Southwest,County Sheriff,,Write-In,,39,14,25
+Hamilton,Precinct 7 Southeast,County Sheriff,,Write-In,,30,5,25
+Hamilton,Precninct 3 WC 3,County Sheriff,,Write-In,,16,10,6
+Hamilton,Precinct 1 WC 1,County Supervisor,1,Jerry Kloberdanz,DEM,413,223,190
+Hamilton,Precninct 3 WC 3,County Supervisor,1,Jerry Kloberdanz,DEM,583,387,196
+Hamilton,Precinct 1 WC 1,County Supervisor,1,Mary Clausen,REP,507,219,288
+Hamilton,Precninct 3 WC 3,County Supervisor,1,Mary Clausen,REP,640,333,307
+Hamilton,Precinct 1 WC 1,County Supervisor,1,Write-In,,3,1,2
+Hamilton,Precninct 3 WC 3,County Supervisor,1,Write-In,,0,0,0
+Hamilton,Precinct 2 WC 2,County Supervisor,2,April Ely,REP,856,428,428
+Hamilton,Precinct 4 Northwest,County Supervisor,2,April Ely,REP,598,248,350
+Hamilton,Precinct 5 Northeast,County Supervisor,2,April Ely,REP,561,210,351
+Hamilton,Precinct 2 WC 2,County Supervisor,2,Write-In,,21,8,13
+Hamilton,Precinct 4 Northwest,County Supervisor,2,Write-In,,12,7,5
+Hamilton,Precinct 5 Northeast,County Supervisor,2,Write-In,,13,6,7
+Hamilton,Precinct 1 WC 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,205,97,108
+Hamilton,Precinct 2 WC 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,248,111,137
+Hamilton,Precinct 4 Northwest,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,136,56,80
+Hamilton,Precinct 5 Northeast,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,137,52,85
+Hamilton,Precinct 6 Southwest,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,271,103,168
+Hamilton,Precinct 7 Southeast,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,383,109,274
+Hamilton,Precninct 3 WC 3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,233,135,98
+Hamilton,Precinct 1 WC 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,465,214,251
+Hamilton,Precinct 2 WC 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,538,272,266
+Hamilton,Precinct 4 Northwest,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,362,148,214
+Hamilton,Precinct 5 Northeast,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,321,117,204
+Hamilton,Precinct 6 Southwest,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,572,188,384
+Hamilton,Precinct 7 Southeast,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,740,223,517
+Hamilton,Precninct 3 WC 3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,591,316,275
+Hamilton,Precinct 1 WC 1,Court of Appeals Judge - Mary Ellen Tabor,,No,,184,83,101
+Hamilton,Precinct 2 WC 2,Court of Appeals Judge - Mary Ellen Tabor,,No,,221,103,118
+Hamilton,Precinct 4 Northwest,Court of Appeals Judge - Mary Ellen Tabor,,No,,138,58,80
+Hamilton,Precinct 5 Northeast,Court of Appeals Judge - Mary Ellen Tabor,,No,,118,45,73
+Hamilton,Precinct 6 Southwest,Court of Appeals Judge - Mary Ellen Tabor,,No,,263,95,168
+Hamilton,Precinct 7 Southeast,Court of Appeals Judge - Mary Ellen Tabor,,No,,395,119,276
+Hamilton,Precninct 3 WC 3,Court of Appeals Judge - Mary Ellen Tabor,,No,,213,121,92
+Hamilton,Precinct 1 WC 1,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,508,237,271
+Hamilton,Precinct 2 WC 2,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,579,287,292
+Hamilton,Precinct 4 Northwest,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,371,153,218
+Hamilton,Precinct 5 Northeast,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,351,127,224
+Hamilton,Precinct 6 Southwest,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,594,196,398
+Hamilton,Precinct 7 Southeast,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,755,217,538
+Hamilton,Precninct 3 WC 3,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,632,345,287
+Hamilton,Precinct 1 WC 1,Court of Appeals Judge - Samuel Langholz,,No,,207,103,104
+Hamilton,Precinct 2 WC 2,Court of Appeals Judge - Samuel Langholz,,No,,270,129,141
+Hamilton,Precinct 4 Northwest,Court of Appeals Judge - Samuel Langholz,,No,,150,66,84
+Hamilton,Precinct 5 Northeast,Court of Appeals Judge - Samuel Langholz,,No,,142,56,86
+Hamilton,Precinct 6 Southwest,Court of Appeals Judge - Samuel Langholz,,No,,268,106,162
+Hamilton,Precinct 7 Southeast,Court of Appeals Judge - Samuel Langholz,,No,,389,122,267
+Hamilton,Precninct 3 WC 3,Court of Appeals Judge - Samuel Langholz,,No,,246,147,99
+Hamilton,Precinct 1 WC 1,Court of Appeals Judge - Samuel Langholz,,Yes,,463,204,259
+Hamilton,Precinct 2 WC 2,Court of Appeals Judge - Samuel Langholz,,Yes,,520,251,269
+Hamilton,Precinct 4 Northwest,Court of Appeals Judge - Samuel Langholz,,Yes,,349,142,207
+Hamilton,Precinct 5 Northeast,Court of Appeals Judge - Samuel Langholz,,Yes,,310,106,204
+Hamilton,Precinct 6 Southwest,Court of Appeals Judge - Samuel Langholz,,Yes,,578,183,395
+Hamilton,Precinct 7 Southeast,Court of Appeals Judge - Samuel Langholz,,Yes,,723,203,520
+Hamilton,Precninct 3 WC 3,Court of Appeals Judge - Samuel Langholz,,Yes,,573,302,271
+Hamilton,Precinct 1 WC 1,Court of Appeals Judge - Tyler J. Buller,,No,,198,100,98
+Hamilton,Precinct 2 WC 2,Court of Appeals Judge - Tyler J. Buller,,No,,248,117,131
+Hamilton,Precinct 4 Northwest,Court of Appeals Judge - Tyler J. Buller,,No,,135,51,84
+Hamilton,Precinct 5 Northeast,Court of Appeals Judge - Tyler J. Buller,,No,,115,46,69
+Hamilton,Precinct 6 Southwest,Court of Appeals Judge - Tyler J. Buller,,No,,252,92,160
+Hamilton,Precinct 7 Southeast,Court of Appeals Judge - Tyler J. Buller,,No,,404,123,281
+Hamilton,Precninct 3 WC 3,Court of Appeals Judge - Tyler J. Buller,,No,,231,132,99
+Hamilton,Precinct 1 WC 1,Court of Appeals Judge - Tyler J. Buller,,Yes,,470,207,263
+Hamilton,Precinct 2 WC 2,Court of Appeals Judge - Tyler J. Buller,,Yes,,533,257,276
+Hamilton,Precinct 4 Northwest,Court of Appeals Judge - Tyler J. Buller,,Yes,,363,150,213
+Hamilton,Precinct 5 Northeast,Court of Appeals Judge - Tyler J. Buller,,Yes,,333,111,222
+Hamilton,Precinct 6 Southwest,Court of Appeals Judge - Tyler J. Buller,,Yes,,591,191,400
+Hamilton,Precinct 7 Southeast,Court of Appeals Judge - Tyler J. Buller,,Yes,,718,205,513
+Hamilton,Precninct 3 WC 3,Court of Appeals Judge - Tyler J. Buller,,Yes,,588,315,273
+Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Ashley Beisch,,No,,184,85,99
+Hamilton,Precinct 2 WC 2,District 2B Associate Judge - Ashley Beisch,,No,,203,90,113
+Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Ashley Beisch,,No,,123,44,79
+Hamilton,Precinct 5 Northeast,District 2B Associate Judge - Ashley Beisch,,No,,116,45,71
+Hamilton,Precinct 6 Southwest,District 2B Associate Judge - Ashley Beisch,,No,,245,90,155
+Hamilton,Precinct 7 Southeast,District 2B Associate Judge - Ashley Beisch,,No,,357,104,253
+Hamilton,Precninct 3 WC 3,District 2B Associate Judge - Ashley Beisch,,No,,205,116,89
+Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Ashley Beisch,,Yes,,472,214,258
+Hamilton,Precinct 2 WC 2,District 2B Associate Judge - Ashley Beisch,,Yes,,555,278,277
+Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Ashley Beisch,,Yes,,365,155,210
+Hamilton,Precinct 5 Northeast,District 2B Associate Judge - Ashley Beisch,,Yes,,339,123,216
+Hamilton,Precinct 6 Southwest,District 2B Associate Judge - Ashley Beisch,,Yes,,592,197,395
+Hamilton,Precinct 7 Southeast,District 2B Associate Judge - Ashley Beisch,,Yes,,735,214,521
+Hamilton,Precninct 3 WC 3,District 2B Associate Judge - Ashley Beisch,,Yes,,599,320,279
+Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Hans Becker,,No,,204,98,106
+Hamilton,Precinct 2 WC 2,District 2B Associate Judge - Hans Becker,,No,,234,103,131
+Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Hans Becker,,No,,128,55,73
+Hamilton,Precinct 5 Northeast,District 2B Associate Judge - Hans Becker,,No,,129,50,79
+Hamilton,Precinct 6 Southwest,District 2B Associate Judge - Hans Becker,,No,,260,94,166
+Hamilton,Precinct 7 Southeast,District 2B Associate Judge - Hans Becker,,No,,354,108,246
+Hamilton,Precninct 3 WC 3,District 2B Associate Judge - Hans Becker,,No,,224,130,94
+Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Hans Becker,,Yes,,457,204,253
+Hamilton,Precinct 2 WC 2,District 2B Associate Judge - Hans Becker,,Yes,,524,259,265
+Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Hans Becker,,Yes,,366,149,217
+Hamilton,Precinct 5 Northeast,District 2B Associate Judge - Hans Becker,,Yes,,325,115,210
+Hamilton,Precinct 6 Southwest,District 2B Associate Judge - Hans Becker,,Yes,,573,190,383
+Hamilton,Precinct 7 Southeast,District 2B Associate Judge - Hans Becker,,Yes,,735,207,528
+Hamilton,Precninct 3 WC 3,District 2B Associate Judge - Hans Becker,,Yes,,581,305,276
+Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Hunter Thorpe,,No,,198,92,106
+Hamilton,Precinct 2 WC 2,District 2B Associate Judge - Hunter Thorpe,,No,,225,102,123
+Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Hunter Thorpe,,No,,129,55,74
+Hamilton,Precinct 5 Northeast,District 2B Associate Judge - Hunter Thorpe,,No,,118,48,70
+Hamilton,Precinct 6 Southwest,District 2B Associate Judge - Hunter Thorpe,,No,,247,93,154
+Hamilton,Precinct 7 Southeast,District 2B Associate Judge - Hunter Thorpe,,No,,349,110,239
+Hamilton,Precninct 3 WC 3,District 2B Associate Judge - Hunter Thorpe,,No,,212,123,89
+Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Hunter Thorpe,,Yes,,453,203,250
+Hamilton,Precinct 2 WC 2,District 2B Associate Judge - Hunter Thorpe,,Yes,,533,264,269
+Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Hunter Thorpe,,Yes,,365,147,218
+Hamilton,Precinct 5 Northeast,District 2B Associate Judge - Hunter Thorpe,,Yes,,333,116,217
+Hamilton,Precinct 6 Southwest,District 2B Associate Judge - Hunter Thorpe,,Yes,,586,191,395
+Hamilton,Precinct 7 Southeast,District 2B Associate Judge - Hunter Thorpe,,Yes,,746,205,541
+Hamilton,Precninct 3 WC 3,District 2B Associate Judge - Hunter Thorpe,,Yes,,589,310,279
+Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Joseph B. McCarville,,No,,193,94,99
+Hamilton,Precinct 2 WC 2,District 2B Associate Judge - Joseph B. McCarville,,No,,221,98,123
+Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Joseph B. McCarville,,No,,124,52,72
+Hamilton,Precinct 5 Northeast,District 2B Associate Judge - Joseph B. McCarville,,No,,114,48,66
+Hamilton,Precinct 6 Southwest,District 2B Associate Judge - Joseph B. McCarville,,No,,251,94,157
+Hamilton,Precinct 7 Southeast,District 2B Associate Judge - Joseph B. McCarville,,No,,342,108,234
+Hamilton,Precninct 3 WC 3,District 2B Associate Judge - Joseph B. McCarville,,No,,199,114,85
+Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Joseph B. McCarville,,Yes,,484,215,269
+Hamilton,Precinct 2 WC 2,District 2B Associate Judge - Joseph B. McCarville,,Yes,,558,279,279
+Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Joseph B. McCarville,,Yes,,379,155,224
+Hamilton,Precinct 5 Northeast,District 2B Associate Judge - Joseph B. McCarville,,Yes,,344,121,223
+Hamilton,Precinct 6 Southwest,District 2B Associate Judge - Joseph B. McCarville,,Yes,,583,191,392
+Hamilton,Precinct 7 Southeast,District 2B Associate Judge - Joseph B. McCarville,,Yes,,752,207,545
+Hamilton,Precninct 3 WC 3,District 2B Associate Judge - Joseph B. McCarville,,Yes,,627,333,294
+Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Kathryn E. Austin,,No,,177,84,93
+Hamilton,Precinct 2 WC 2,District 2B Associate Judge - Kathryn E. Austin,,No,,216,95,121
+Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Kathryn E. Austin,,No,,140,58,82
+Hamilton,Precinct 5 Northeast,District 2B Associate Judge - Kathryn E. Austin,,No,,112,48,64
+Hamilton,Precinct 6 Southwest,District 2B Associate Judge - Kathryn E. Austin,,No,,257,97,160
+Hamilton,Precinct 7 Southeast,District 2B Associate Judge - Kathryn E. Austin,,No,,379,120,259
+Hamilton,Precninct 3 WC 3,District 2B Associate Judge - Kathryn E. Austin,,No,,215,126,89
+Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Kathryn E. Austin,,Yes,,482,219,263
+Hamilton,Precinct 2 WC 2,District 2B Associate Judge - Kathryn E. Austin,,Yes,,542,274,268
+Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Kathryn E. Austin,,Yes,,349,141,208
+Hamilton,Precinct 5 Northeast,District 2B Associate Judge - Kathryn E. Austin,,Yes,,342,121,221
+Hamilton,Precinct 6 Southwest,District 2B Associate Judge - Kathryn E. Austin,,Yes,,577,188,389
+Hamilton,Precinct 7 Southeast,District 2B Associate Judge - Kathryn E. Austin,,Yes,,712,199,513
+Hamilton,Precninct 3 WC 3,District 2B Associate Judge - Kathryn E. Austin,,Yes,,584,307,277
+Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Paul G. Crawford,,No,,197,99,98
+Hamilton,Precinct 2 WC 2,District 2B Associate Judge - Paul G. Crawford,,No,,225,106,119
+Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Paul G. Crawford,,No,,134,57,77
+Hamilton,Precinct 5 Northeast,District 2B Associate Judge - Paul G. Crawford,,No,,123,47,76
+Hamilton,Precinct 6 Southwest,District 2B Associate Judge - Paul G. Crawford,,No,,253,92,161
+Hamilton,Precinct 7 Southeast,District 2B Associate Judge - Paul G. Crawford,,No,,381,123,258
+Hamilton,Precninct 3 WC 3,District 2B Associate Judge - Paul G. Crawford,,No,,207,117,90
+Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Paul G. Crawford,,Yes,,467,203,264
+Hamilton,Precinct 2 WC 2,District 2B Associate Judge - Paul G. Crawford,,Yes,,538,263,275
+Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Paul G. Crawford,,Yes,,357,143,214
+Hamilton,Precinct 5 Northeast,District 2B Associate Judge - Paul G. Crawford,,Yes,,326,115,211
+Hamilton,Precinct 6 Southwest,District 2B Associate Judge - Paul G. Crawford,,Yes,,582,193,389
+Hamilton,Precinct 7 Southeast,District 2B Associate Judge - Paul G. Crawford,,Yes,,710,194,516
+Hamilton,Precninct 3 WC 3,District 2B Associate Judge - Paul G. Crawford,,Yes,,589,311,278
+Hamilton,Precinct 1 WC 1,District 2B Judge - Adria Kester,,No,,190,90,100
+Hamilton,Precinct 2 WC 2,District 2B Judge - Adria Kester,,No,,211,95,116
+Hamilton,Precinct 4 Northwest,District 2B Judge - Adria Kester,,No,,129,52,77
+Hamilton,Precinct 5 Northeast,District 2B Judge - Adria Kester,,No,,121,48,73
+Hamilton,Precinct 6 Southwest,District 2B Judge - Adria Kester,,No,,240,91,149
+Hamilton,Precinct 7 Southeast,District 2B Judge - Adria Kester,,No,,396,121,275
+Hamilton,Precninct 3 WC 3,District 2B Judge - Adria Kester,,No,,212,124,88
+Hamilton,Precinct 1 WC 1,District 2B Judge - Adria Kester,,Yes,,480,220,260
+Hamilton,Precinct 2 WC 2,District 2B Judge - Adria Kester,,Yes,,559,279,280
+Hamilton,Precinct 4 Northwest,District 2B Judge - Adria Kester,,Yes,,372,155,217
+Hamilton,Precinct 5 Northeast,District 2B Judge - Adria Kester,,Yes,,344,125,219
+Hamilton,Precinct 6 Southwest,District 2B Judge - Adria Kester,,Yes,,603,197,406
+Hamilton,Precinct 7 Southeast,District 2B Judge - Adria Kester,,Yes,,719,206,513
+Hamilton,Precninct 3 WC 3,District 2B Judge - Adria Kester,,Yes,,600,319,281
+Hamilton,Precinct 1 WC 1,District 2B Judge - Derek Johnson,,No,,191,98,93
+Hamilton,Precinct 2 WC 2,District 2B Judge - Derek Johnson,,No,,215,100,115
+Hamilton,Precinct 4 Northwest,District 2B Judge - Derek Johnson,,No,,127,54,73
+Hamilton,Precinct 5 Northeast,District 2B Judge - Derek Johnson,,No,,121,50,71
+Hamilton,Precinct 6 Southwest,District 2B Judge - Derek Johnson,,No,,253,94,159
+Hamilton,Precinct 7 Southeast,District 2B Judge - Derek Johnson,,No,,383,123,260
+Hamilton,Precninct 3 WC 3,District 2B Judge - Derek Johnson,,No,,202,110,92
+Hamilton,Precinct 1 WC 1,District 2B Judge - Derek Johnson,,Yes,,486,211,275
+Hamilton,Precinct 2 WC 2,District 2B Judge - Derek Johnson,,Yes,,555,271,284
+Hamilton,Precinct 4 Northwest,District 2B Judge - Derek Johnson,,Yes,,370,151,219
+Hamilton,Precinct 5 Northeast,District 2B Judge - Derek Johnson,,Yes,,337,119,218
+Hamilton,Precinct 6 Southwest,District 2B Judge - Derek Johnson,,Yes,,589,196,393
+Hamilton,Precinct 7 Southeast,District 2B Judge - Derek Johnson,,Yes,,724,200,524
+Hamilton,Precninct 3 WC 3,District 2B Judge - Derek Johnson,,Yes,,606,327,279
+Hamilton,Precinct 1 WC 1,District 2B Judge - Kurt John Stoebe,,No,,199,98,101
+Hamilton,Precinct 2 WC 2,District 2B Judge - Kurt John Stoebe,,No,,223,100,123
+Hamilton,Precinct 4 Northwest,District 2B Judge - Kurt John Stoebe,,No,,128,51,77
+Hamilton,Precinct 5 Northeast,District 2B Judge - Kurt John Stoebe,,No,,123,47,76
+Hamilton,Precinct 6 Southwest,District 2B Judge - Kurt John Stoebe,,No,,269,98,171
+Hamilton,Precinct 7 Southeast,District 2B Judge - Kurt John Stoebe,,No,,356,108,248
+Hamilton,Precninct 3 WC 3,District 2B Judge - Kurt John Stoebe,,No,,210,129,81
+Hamilton,Precinct 1 WC 1,District 2B Judge - Kurt John Stoebe,,Yes,,473,212,261
+Hamilton,Precinct 2 WC 2,District 2B Judge - Kurt John Stoebe,,Yes,,547,272,275
+Hamilton,Precinct 4 Northwest,District 2B Judge - Kurt John Stoebe,,Yes,,374,156,218
+Hamilton,Precinct 5 Northeast,District 2B Judge - Kurt John Stoebe,,Yes,,334,119,215
+Hamilton,Precinct 6 Southwest,District 2B Judge - Kurt John Stoebe,,Yes,,567,187,380
+Hamilton,Precinct 7 Southeast,District 2B Judge - Kurt John Stoebe,,Yes,,749,213,536
+Hamilton,Precninct 3 WC 3,District 2B Judge - Kurt John Stoebe,,Yes,,608,316,292
+Hamilton,Precinct 7 Southeast,Ellsworth Township Trustee,,Lynn Beyer,,200,79,121
+Hamilton,Precinct 7 Southeast,Ellsworth Township Trustee,,Roger Fritz,,171,54,117
+Hamilton,Precinct 7 Southeast,Ellsworth Township Trustee,,Write-In,,1,0,1
+Hamilton,Precinct 2 WC 2,Freedom Township Trustee,,Angela Nepereny,,0,0,0
+Hamilton,Precinct 4 Northwest,Freedom Township Trustee,,Angela Nepereny,,2,1,1
+Hamilton,Precinct 2 WC 2,Freedom Township Trustee,,Tyler Raygor,,0,0,0
+Hamilton,Precinct 4 Northwest,Freedom Township Trustee,,Tyler Raygor,,5,1,4
+Hamilton,Precinct 2 WC 2,Freedom Township Trustee,,Write-In,,2,2,0
+Hamilton,Precinct 4 Northwest,Freedom Township Trustee,,Write-In,,13,8,5
+Hamilton,Precinct 4 Northwest,Fremont Township Trustee,,Jann Anderson,,51,22,29
+Hamilton,Precinct 4 Northwest,Fremont Township Trustee,,Joel Peterson,,57,18,39
+Hamilton,Precinct 4 Northwest,Fremont Township Trustee,,Write-In,,1,0,1
+Hamilton,Precinct 1 WC 1,Hamilton County Emergency Medical Services - Public Measure A,,No,,368,156,212
+Hamilton,Precinct 2 WC 2,Hamilton County Emergency Medical Services - Public Measure A,,No,,444,218,226
+Hamilton,Precinct 4 Northwest,Hamilton County Emergency Medical Services - Public Measure A,,No,,303,130,173
+Hamilton,Precinct 5 Northeast,Hamilton County Emergency Medical Services - Public Measure A,,No,,190,84,106
+Hamilton,Precinct 6 Southwest,Hamilton County Emergency Medical Services - Public Measure A,,No,,386,140,246
+Hamilton,Precinct 7 Southeast,Hamilton County Emergency Medical Services - Public Measure A,,No,,472,169,303
+Hamilton,Precninct 3 WC 3,Hamilton County Emergency Medical Services - Public Measure A,,No,,485,269,216
+Hamilton,Precinct 1 WC 1,Hamilton County Emergency Medical Services - Public Measure A,,Yes,,496,262,234
+Hamilton,Precinct 2 WC 2,Hamilton County Emergency Medical Services - Public Measure A,,Yes,,600,333,267
+Hamilton,Precinct 4 Northwest,Hamilton County Emergency Medical Services - Public Measure A,,Yes,,384,176,208
+Hamilton,Precinct 5 Northeast,Hamilton County Emergency Medical Services - Public Measure A,,Yes,,455,171,284
+Hamilton,Precinct 6 Southwest,Hamilton County Emergency Medical Services - Public Measure A,,Yes,,714,257,457
+Hamilton,Precinct 7 Southeast,Hamilton County Emergency Medical Services - Public Measure A,,Yes,,1050,297,753
+Hamilton,Precninct 3 WC 3,Hamilton County Emergency Medical Services - Public Measure A,,Yes,,640,388,252
+Hamilton,Precinct 1 WC 1,Hamilton County Hospital Trustee,,David Everson,,498,254,244
+Hamilton,Precinct 2 WC 2,Hamilton County Hospital Trustee,,David Everson,,633,349,284
+Hamilton,Precinct 4 Northwest,Hamilton County Hospital Trustee,,David Everson,,403,182,221
+Hamilton,Precinct 5 Northeast,Hamilton County Hospital Trustee,,David Everson,,398,151,247
+Hamilton,Precinct 6 Southwest,Hamilton County Hospital Trustee,,David Everson,,670,253,417
+Hamilton,Precinct 7 Southeast,Hamilton County Hospital Trustee,,David Everson,,851,264,587
+Hamilton,Precninct 3 WC 3,Hamilton County Hospital Trustee,,David Everson,,707,432,275
+Hamilton,Precinct 1 WC 1,Hamilton County Hospital Trustee,,Doug Bailey,,604,300,304
+Hamilton,Precinct 2 WC 2,Hamilton County Hospital Trustee,,Doug Bailey,,759,414,345
+Hamilton,Precinct 4 Northwest,Hamilton County Hospital Trustee,,Doug Bailey,,469,215,254
+Hamilton,Precinct 5 Northeast,Hamilton County Hospital Trustee,,Doug Bailey,,437,174,263
+Hamilton,Precinct 6 Southwest,Hamilton County Hospital Trustee,,Doug Bailey,,756,285,471
+Hamilton,Precinct 7 Southeast,Hamilton County Hospital Trustee,,Doug Bailey,,943,293,650
+Hamilton,Precninct 3 WC 3,Hamilton County Hospital Trustee,,Doug Bailey,,797,481,316
+Hamilton,Precinct 1 WC 1,Hamilton County Hospital Trustee,,Michelle Zahn,,586,285,301
+Hamilton,Precinct 2 WC 2,Hamilton County Hospital Trustee,,Michelle Zahn,,710,390,320
+Hamilton,Precinct 4 Northwest,Hamilton County Hospital Trustee,,Michelle Zahn,,450,208,242
+Hamilton,Precinct 5 Northeast,Hamilton County Hospital Trustee,,Michelle Zahn,,457,170,287
+Hamilton,Precinct 6 Southwest,Hamilton County Hospital Trustee,,Michelle Zahn,,766,274,492
+Hamilton,Precinct 7 Southeast,Hamilton County Hospital Trustee,,Michelle Zahn,,957,288,669
+Hamilton,Precninct 3 WC 3,Hamilton County Hospital Trustee,,Michelle Zahn,,803,469,334
+Hamilton,Precinct 1 WC 1,Hamilton County Hospital Trustee,,Write-In,,5,5,0
+Hamilton,Precinct 2 WC 2,Hamilton County Hospital Trustee,,Write-In,,3,1,2
+Hamilton,Precinct 4 Northwest,Hamilton County Hospital Trustee,,Write-In,,10,1,9
+Hamilton,Precinct 5 Northeast,Hamilton County Hospital Trustee,,Write-In,,6,2,4
+Hamilton,Precinct 6 Southwest,Hamilton County Hospital Trustee,,Write-In,,13,4,9
+Hamilton,Precinct 7 Southeast,Hamilton County Hospital Trustee,,Write-In,,9,2,7
+Hamilton,Precninct 3 WC 3,Hamilton County Hospital Trustee,,Write-In,,13,2,11
+Hamilton,Precinct 6 Southwest,Hamilton Township Trustee,,Deb Bockwoldt,,95,38,57
+Hamilton,Precinct 6 Southwest,Hamilton Township Trustee,,Mark Bockwoldt,,98,39,59
+Hamilton,Precinct 6 Southwest,Hamilton Township Trustee,,Write-In,,0,0,0
+Hamilton,Precinct 4 Northwest,Independence Township Trustee,,Dennis Nilles,,141,62,79
+Hamilton,Precinct 4 Northwest,Independence Township Trustee,,Terry Klaver,,3,2,1
+Hamilton,Precinct 4 Northwest,Independence Township Trustee,,Write-In,,5,1,4
+Hamilton,Precinct 5 Northeast,Liberty Township Clerk To Fill a Vacancy,,Linda Pruismann,,136,49,87
+Hamilton,Precinct 5 Northeast,Liberty Township Clerk To Fill a Vacancy,,Write-In,,0,0,0
+Hamilton,Precinct 5 Northeast,Liberty Township Trustee,,Brad Anderson,,125,46,79
+Hamilton,Precinct 5 Northeast,Liberty Township Trustee,,Dan Schaa,,119,44,75
+Hamilton,Precinct 5 Northeast,Liberty Township Trustee,,Write-In,,1,1,0
+Hamilton,Precinct 5 Northeast,Liberty Township Trustee To Fill a Vacancy,,Brad Ratcliff,,124,42,82
+Hamilton,Precinct 5 Northeast,Liberty Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
+Hamilton,Precinct 7 Southeast,Lincoln Township Trustee,,Bryce Klaver,,96,20,76
+Hamilton,Precinct 7 Southeast,Lincoln Township Trustee,,James Hill,,99,24,75
+Hamilton,Precinct 7 Southeast,Lincoln Township Trustee,,Write-In,,2,1,1
+Hamilton,Precinct 7 Southeast,Lyon Township Trustee,,Darrel Stearns,,66,31,35
+Hamilton,Precinct 7 Southeast,Lyon Township Trustee,,Mark Greenfield,,108,49,59
+Hamilton,Precinct 7 Southeast,Lyon Township Trustee,,Write-In,,2,1,1
+Hamilton,Precinct 6 Southwest,Marion Township Trustee,,Bradley Westrum,,2,1,1
+Hamilton,Precinct 6 Southwest,Marion Township Trustee,,Erik Wibholm,,137,51,86
+Hamilton,Precinct 6 Southwest,Marion Township Trustee,,Write-In,,5,0,5
+Hamilton,Precinct 1 WC 1,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Hamilton,Precinct 2 WC 2,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Hamilton,Precinct 4 Northwest,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Hamilton,Precinct 5 Northeast,President,,Chase Oliver and Mike ter Maat,LIB,6,3,3
+Hamilton,Precinct 6 Southwest,President,,Chase Oliver and Mike ter Maat,LIB,7,0,7
+Hamilton,Precinct 7 Southeast,President,,Chase Oliver and Mike ter Maat,LIB,4,1,3
+Hamilton,Precninct 3 WC 3,President,,Chase Oliver and Mike ter Maat,LIB,6,2,4
+Hamilton,Precinct 1 WC 1,President,,Claudia De la Cruz and Karina Garcia,PSL,1,1,0
+Hamilton,Precinct 2 WC 2,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Hamilton,Precinct 4 Northwest,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Hamilton,Precinct 5 Northeast,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Hamilton,Precinct 6 Southwest,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Hamilton,Precinct 7 Southeast,President,,Claudia De la Cruz and Karina Garcia,PSL,2,0,2
+Hamilton,Precninct 3 WC 3,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Hamilton,Precinct 1 WC 1,President,,Donald J. Trump and JD Vance,REP,591,232,359
+Hamilton,Precinct 2 WC 2,President,,Donald J. Trump and JD Vance,REP,649,299,350
+Hamilton,Precinct 4 Northwest,President,,Donald J. Trump and JD Vance,REP,529,201,328
+Hamilton,Precinct 5 Northeast,President,,Donald J. Trump and JD Vance,REP,514,175,339
+Hamilton,Precinct 6 Southwest,President,,Donald J. Trump and JD Vance,REP,834,251,583
+Hamilton,Precinct 7 Southeast,President,,Donald J. Trump and JD Vance,REP,1125,310,815
+Hamilton,Precninct 3 WC 3,President,,Donald J. Trump and JD Vance,REP,762,387,375
+Hamilton,Precinct 1 WC 1,President,,Kamala D. Harris and Tim Walz,DEM,350,211,139
+Hamilton,Precinct 2 WC 2,President,,Kamala D. Harris and Tim Walz,DEM,482,300,182
+Hamilton,Precinct 4 Northwest,President,,Kamala D. Harris and Tim Walz,DEM,196,126,70
+Hamilton,Precinct 5 Northeast,President,,Kamala D. Harris and Tim Walz,DEM,178,94,84
+Hamilton,Precinct 6 Southwest,President,,Kamala D. Harris and Tim Walz,DEM,325,168,157
+Hamilton,Precinct 7 Southeast,President,,Kamala D. Harris and Tim Walz,DEM,487,191,296
+Hamilton,Precninct 3 WC 3,President,,Kamala D. Harris and Tim Walz,DEM,464,328,136
+Hamilton,Precinct 1 WC 1,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,3,2
+Hamilton,Precinct 2 WC 2,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,1,4
+Hamilton,Precinct 4 Northwest,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,9,4,5
+Hamilton,Precinct 5 Northeast,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,1,3
+Hamilton,Precinct 6 Southwest,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,11,1,10
+Hamilton,Precinct 7 Southeast,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,8,2,6
+Hamilton,Precninct 3 WC 3,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,9,4,5
+Hamilton,Precinct 1 WC 1,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Hamilton,Precinct 2 WC 2,President,,Shiva Ayyadurai and Crystal Ellis,,1,1,0
+Hamilton,Precinct 4 Northwest,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Hamilton,Precinct 5 Northeast,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Hamilton,Precinct 6 Southwest,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Hamilton,Precinct 7 Southeast,President,,Shiva Ayyadurai and Crystal Ellis,,2,1,1
+Hamilton,Precninct 3 WC 3,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Hamilton,Precinct 1 WC 1,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Hamilton,Precinct 2 WC 2,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Hamilton,Precinct 4 Northwest,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Hamilton,Precinct 5 Northeast,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Hamilton,Precinct 6 Southwest,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Hamilton,Precinct 7 Southeast,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Hamilton,Precninct 3 WC 3,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,1,0
+Hamilton,Precinct 1 WC 1,President,,Write-In,,3,3,0
+Hamilton,Precinct 2 WC 2,President,,Write-In,,5,5,0
+Hamilton,Precinct 4 Northwest,President,,Write-In,,1,0,1
+Hamilton,Precinct 5 Northeast,President,,Write-In,,0,0,0
+Hamilton,Precinct 6 Southwest,President,,Write-In,,3,2,1
+Hamilton,Precinct 7 Southeast,President,,Write-In,,4,2,2
+Hamilton,Precninct 3 WC 3,President,,Write-In,,8,6,2
+Hamilton,Precinct 5 Northeast,Rose Grove Township Clerk To Fill a Vacancy,,Cory Zorn,,88,33,55
+Hamilton,Precinct 5 Northeast,Rose Grove Township Clerk To Fill a Vacancy,,Write-In,,0,0,0
+Hamilton,Precinct 5 Northeast,Rose Grove Township Trustee,,Logan Mark,,1,0,1
+Hamilton,Precinct 5 Northeast,Rose Grove Township Trustee,,Ryan Swenson,,86,35,51
+Hamilton,Precinct 5 Northeast,Rose Grove Township Trustee,,Write-In,,2,1,1
+Hamilton,Precinct 7 Southeast,Scott Township Trustee,,Molly Henderson,,6,4,2
+Hamilton,Precinct 7 Southeast,Scott Township Trustee,,Stephen Fisher,,137,49,88
+Hamilton,Precinct 7 Southeast,Scott Township Trustee,,Write-In,,6,2,4
+Hamilton,Precinct 1 WC 1,Soil and Water Conservation District Commissioner,,Alex Mortenson,,1,0,1
+Hamilton,Precinct 2 WC 2,Soil and Water Conservation District Commissioner,,Alex Mortenson,,0,0,0
+Hamilton,Precinct 4 Northwest,Soil and Water Conservation District Commissioner,,Alex Mortenson,,4,0,4
+Hamilton,Precinct 5 Northeast,Soil and Water Conservation District Commissioner,,Alex Mortenson,,0,0,0
+Hamilton,Precinct 6 Southwest,Soil and Water Conservation District Commissioner,,Alex Mortenson,,0,0,0
+Hamilton,Precinct 7 Southeast,Soil and Water Conservation District Commissioner,,Alex Mortenson,,0,0,0
+Hamilton,Precninct 3 WC 3,Soil and Water Conservation District Commissioner,,Alex Mortenson,,0,0,0
+Hamilton,Precinct 1 WC 1,Soil and Water Conservation District Commissioner,,Sam Ose,,1,0,1
+Hamilton,Precinct 2 WC 2,Soil and Water Conservation District Commissioner,,Sam Ose,,0,0,0
+Hamilton,Precinct 4 Northwest,Soil and Water Conservation District Commissioner,,Sam Ose,,1,0,1
+Hamilton,Precinct 5 Northeast,Soil and Water Conservation District Commissioner,,Sam Ose,,1,0,1
+Hamilton,Precinct 6 Southwest,Soil and Water Conservation District Commissioner,,Sam Ose,,0,0,0
+Hamilton,Precinct 7 Southeast,Soil and Water Conservation District Commissioner,,Sam Ose,,3,0,3
+Hamilton,Precninct 3 WC 3,Soil and Water Conservation District Commissioner,,Sam Ose,,0,0,0
+Hamilton,Precinct 1 WC 1,Soil and Water Conservation District Commissioner,,Write-In,,23,10,13
+Hamilton,Precinct 2 WC 2,Soil and Water Conservation District Commissioner,,Write-In,,6,5,1
+Hamilton,Precinct 4 Northwest,Soil and Water Conservation District Commissioner,,Write-In,,27,6,21
+Hamilton,Precinct 5 Northeast,Soil and Water Conservation District Commissioner,,Write-In,,13,7,6
+Hamilton,Precinct 6 Southwest,Soil and Water Conservation District Commissioner,,Write-In,,34,14,20
+Hamilton,Precinct 7 Southeast,Soil and Water Conservation District Commissioner,,Write-In,,33,6,27
+Hamilton,Precninct 3 WC 3,Soil and Water Conservation District Commissioner,,Write-In,,11,4,7
+Hamilton,Precinct 1 WC 1,Soil and Water Conservation District Commissioner,,Zachary Ehlert,,716,325,391
+Hamilton,Precinct 2 WC 2,Soil and Water Conservation District Commissioner,,Zachary Ehlert,,852,427,425
+Hamilton,Precinct 4 Northwest,Soil and Water Conservation District Commissioner,,Zachary Ehlert,,580,250,330
+Hamilton,Precinct 5 Northeast,Soil and Water Conservation District Commissioner,,Zachary Ehlert,,527,192,335
+Hamilton,Precinct 6 Southwest,Soil and Water Conservation District Commissioner,,Zachary Ehlert,,991,332,659
+Hamilton,Precinct 7 Southeast,Soil and Water Conservation District Commissioner,,Zachary Ehlert,,1232,366,866
+Hamilton,Precninct 3 WC 3,Soil and Water Conservation District Commissioner,,Zachary Ehlert,,919,511,408
+Hamilton,Precinct 1 WC 1,State House,55,Shannon Latham,REP,696,307,389
+Hamilton,Precinct 2 WC 2,State House,55,Shannon Latham,REP,833,407,426
+Hamilton,Precinct 4 Northwest,State House,55,Shannon Latham,REP,586,241,345
+Hamilton,Precinct 5 Northeast,State House,55,Shannon Latham,REP,573,216,357
+Hamilton,Precinct 6 Southwest,State House,55,Shannon Latham,REP,975,314,661
+Hamilton,Precinct 7 Southeast,State House,55,Shannon Latham,REP,1297,381,916
+Hamilton,Precninct 3 WC 3,State House,55,Shannon Latham,REP,914,486,428
+Hamilton,Precinct 1 WC 1,State House,55,Write-In,,16,10,6
+Hamilton,Precinct 2 WC 2,State House,55,Write-In,,13,4,9
+Hamilton,Precinct 4 Northwest,State House,55,Write-In,,5,2,3
+Hamilton,Precinct 5 Northeast,State House,55,Write-In,,8,6,2
+Hamilton,Precinct 6 Southwest,State House,55,Write-In,,13,4,9
+Hamilton,Precinct 7 Southeast,State House,55,Write-In,,30,6,24
+Hamilton,Precninct 3 WC 3,State House,55,Write-In,,7,6,1
+Hamilton,Precinct 1 WC 1,State Senate,28,Cynthia Oppedal Paschen,DEM,339,206,133
+Hamilton,Precinct 2 WC 2,State Senate,28,Cynthia Oppedal Paschen,DEM,466,264,202
+Hamilton,Precinct 4 Northwest,State Senate,28,Cynthia Oppedal Paschen,DEM,199,119,80
+Hamilton,Precinct 5 Northeast,State Senate,28,Cynthia Oppedal Paschen,DEM,156,76,80
+Hamilton,Precinct 6 Southwest,State Senate,28,Cynthia Oppedal Paschen,DEM,329,155,174
+Hamilton,Precinct 7 Southeast,State Senate,28,Cynthia Oppedal Paschen,DEM,485,186,299
+Hamilton,Precninct 3 WC 3,State Senate,28,Cynthia Oppedal Paschen,DEM,441,308,133
+Hamilton,Precinct 1 WC 1,State Senate,28,Dennis Guth,REP,534,220,314
+Hamilton,Precinct 2 WC 2,State Senate,28,Dennis Guth,REP,597,298,299
+Hamilton,Precinct 4 Northwest,State Senate,28,Dennis Guth,REP,485,190,295
+Hamilton,Precinct 5 Northeast,State Senate,28,Dennis Guth,REP,487,175,312
+Hamilton,Precinct 6 Southwest,State Senate,28,Dennis Guth,REP,790,243,547
+Hamilton,Precinct 7 Southeast,State Senate,28,Dennis Guth,REP,1064,296,768
+Hamilton,Precninct 3 WC 3,State Senate,28,Dennis Guth,REP,709,366,343
+Hamilton,Precinct 1 WC 1,State Senate,28,Write-In,,2,0,2
+Hamilton,Precinct 2 WC 2,State Senate,28,Write-In,,0,0,0
+Hamilton,Precinct 4 Northwest,State Senate,28,Write-In,,1,0,1
+Hamilton,Precinct 5 Northeast,State Senate,28,Write-In,,3,1,2
+Hamilton,Precinct 6 Southwest,State Senate,28,Write-In,,2,0,2
+Hamilton,Precinct 7 Southeast,State Senate,28,Write-In,,2,0,2
+Hamilton,Precninct 3 WC 3,State Senate,28,Write-In,,2,0,2
+Hamilton,Precinct 1 WC 1,Supreme Court Justice - David May,,No,,212,112,100
+Hamilton,Precinct 2 WC 2,Supreme Court Justice - David May,,No,,275,135,140
+Hamilton,Precinct 4 Northwest,Supreme Court Justice - David May,,No,,147,68,79
+Hamilton,Precinct 5 Northeast,Supreme Court Justice - David May,,No,,135,63,72
+Hamilton,Precinct 6 Southwest,Supreme Court Justice - David May,,No,,291,121,170
+Hamilton,Precinct 7 Southeast,Supreme Court Justice - David May,,No,,397,129,268
+Hamilton,Precninct 3 WC 3,Supreme Court Justice - David May,,No,,260,165,95
+Hamilton,Precinct 1 WC 1,Supreme Court Justice - David May,,Yes,,507,226,281
+Hamilton,Precinct 2 WC 2,Supreme Court Justice - David May,,Yes,,577,287,290
+Hamilton,Precinct 4 Northwest,Supreme Court Justice - David May,,Yes,,388,155,233
+Hamilton,Precinct 5 Northeast,Supreme Court Justice - David May,,Yes,,346,113,233
+Hamilton,Precinct 6 Southwest,Supreme Court Justice - David May,,Yes,,606,192,414
+Hamilton,Precinct 7 Southeast,Supreme Court Justice - David May,,Yes,,806,228,578
+Hamilton,Precninct 3 WC 3,Supreme Court Justice - David May,,Yes,,613,320,293
+Hamilton,Precinct 1 WC 1,U.S. House,4,Randy Feenstra,REP,562,236,326
+Hamilton,Precinct 2 WC 2,U.S. House,4,Randy Feenstra,REP,658,315,343
+Hamilton,Precinct 4 Northwest,U.S. House,4,Randy Feenstra,REP,505,198,307
+Hamilton,Precinct 5 Northeast,U.S. House,4,Randy Feenstra,REP,508,177,331
+Hamilton,Precinct 6 Southwest,U.S. House,4,Randy Feenstra,REP,834,252,582
+Hamilton,Precinct 7 Southeast,U.S. House,4,Randy Feenstra,REP,1118,321,797
+Hamilton,Precninct 3 WC 3,U.S. House,4,Randy Feenstra,REP,758,401,357
+Hamilton,Precinct 1 WC 1,U.S. House,4,Ryan Melton,DEM,340,203,137
+Hamilton,Precinct 2 WC 2,U.S. House,4,Ryan Melton,DEM,433,260,173
+Hamilton,Precinct 4 Northwest,U.S. House,4,Ryan Melton,DEM,191,118,73
+Hamilton,Precinct 5 Northeast,U.S. House,4,Ryan Melton,DEM,156,84,72
+Hamilton,Precinct 6 Southwest,U.S. House,4,Ryan Melton,DEM,308,155,153
+Hamilton,Precinct 7 Southeast,U.S. House,4,Ryan Melton,DEM,451,174,277
+Hamilton,Precninct 3 WC 3,U.S. House,4,Ryan Melton,DEM,421,293,128
+Hamilton,Precinct 1 WC 1,U.S. House,4,Write-In,,2,1,1
+Hamilton,Precinct 2 WC 2,U.S. House,4,Write-In,,0,0,0
+Hamilton,Precinct 4 Northwest,U.S. House,4,Write-In,,4,1,3
+Hamilton,Precinct 5 Northeast,U.S. House,4,Write-In,,1,1,0
+Hamilton,Precinct 6 Southwest,U.S. House,4,Write-In,,4,1,3
+Hamilton,Precinct 7 Southeast,U.S. House,4,Write-In,,6,2,4
+Hamilton,Precninct 3 WC 3,U.S. House,4,Write-In,,2,1,1
+Hamilton,Precinct 6 Southwest,Webster Township Trustee,,Carri Eide,,135,55,80
+Hamilton,Precinct 6 Southwest,Webster Township Trustee,,David Eide,,129,52,77
+Hamilton,Precinct 6 Southwest,Webster Township Trustee,,Write-In,,0,0,0
+Hamilton,Precinct 5 Northeast,Williams Township Clerk To Fill a Vacancy,,Elizabeth Sweedler,,76,43,33
+Hamilton,Precinct 5 Northeast,Williams Township Clerk To Fill a Vacancy,,Write-In,,0,0,0
+Hamilton,Precinct 5 Northeast,Williams Township Trustee,,Kevin Williams,,2,2,0
+Hamilton,Precinct 5 Northeast,Williams Township Trustee,,Wesley Sweedler,,71,41,30
+Hamilton,Precinct 5 Northeast,Williams Township Trustee,,Write-In,,3,0,3

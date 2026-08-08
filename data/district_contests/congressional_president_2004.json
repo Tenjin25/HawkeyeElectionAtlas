@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2004,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "president",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2004_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 205244,
+        "rep_votes": 180483,
+        "other_votes": 2420,
+        "total_votes": 388147,
+        "dem_candidate": "John Kerry",
+        "rep_candidate": "George W. Bush",
+        "margin": -24761,
+        "margin_pct": -6.3792841371954445,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "2": {
+        "dem_votes": 211693,
+        "rep_votes": 186262,
+        "other_votes": 2530,
+        "total_votes": 400485,
+        "dem_candidate": "John Kerry",
+        "rep_candidate": "George W. Bush",
+        "margin": -25431,
+        "margin_pct": -6.350050563691524,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "3": {
+        "dem_votes": 162804,
+        "rep_votes": 168906,
+        "other_votes": 2466,
+        "total_votes": 334176,
+        "dem_candidate": "John Kerry",
+        "rep_candidate": "George W. Bush",
+        "margin": 6102,
+        "margin_pct": 1.8259839126687734,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "4": {
+        "dem_votes": 167215,
+        "rep_votes": 218968,
+        "other_votes": 2519,
+        "total_votes": 388702,
+        "dem_candidate": "John Kerry",
+        "rep_candidate": "George W. Bush",
+        "margin": 51753,
+        "margin_pct": 13.314312764019737,
+        "winner": "REP",
+        "color": "#e93a2d"
+      }
+    }
+  }
+}

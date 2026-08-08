@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2018,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "auditor",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
+    "geographic_precision": "precinct_crosswalk",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_verified/2018_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 174668,
+        "rep_votes": 139416,
+        "other_votes": 8484,
+        "total_votes": 322568,
+        "dem_candidate": "Rob Sand",
+        "rep_candidate": "Mary Mosiman",
+        "margin": -35252,
+        "margin_pct": -10.928548399097245,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "2": {
+        "dem_votes": 182491,
+        "rep_votes": 146714,
+        "other_votes": 9117,
+        "total_votes": 338322,
+        "dem_candidate": "Rob Sand",
+        "rep_candidate": "Mary Mosiman",
+        "margin": -35777,
+        "margin_pct": -10.574836989613445,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "3": {
+        "dem_votes": 172560,
+        "rep_votes": 142664,
+        "other_votes": 8516,
+        "total_votes": 323740,
+        "dem_candidate": "Rob Sand",
+        "rep_candidate": "Mary Mosiman",
+        "margin": -29896,
+        "margin_pct": -9.234570951998517,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "4": {
+        "dem_votes": 128792,
+        "rep_votes": 170602,
+        "other_votes": 7658,
+        "total_votes": 307052,
+        "dem_candidate": "Rob Sand",
+        "rep_candidate": "Mary Mosiman",
+        "margin": 41810,
+        "margin_pct": 13.616586115706786,
+        "winner": "REP",
+        "color": "#e93a2d"
+      }
+    }
+  }
+}

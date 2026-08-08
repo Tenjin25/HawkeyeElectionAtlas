@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2014,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "auditor",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2014_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 125653,
+        "rep_votes": 142131,
+        "other_votes": 351,
+        "total_votes": 268135,
+        "dem_candidate": "Jonathan Neiderbach",
+        "rep_candidate": "Mary Mosiman",
+        "margin": 16478,
+        "margin_pct": 6.145411826132359,
+        "winner": "REP",
+        "color": "#f7634b"
+      },
+      "2": {
+        "dem_votes": 130029,
+        "rep_votes": 153609,
+        "other_votes": 365,
+        "total_votes": 284003,
+        "dem_candidate": "Jonathan Neiderbach",
+        "rep_candidate": "Mary Mosiman",
+        "margin": 23580,
+        "margin_pct": 8.302729196522572,
+        "winner": "REP",
+        "color": "#f7634b"
+      },
+      "3": {
+        "dem_votes": 112171,
+        "rep_votes": 139903,
+        "other_votes": 480,
+        "total_votes": 252554,
+        "dem_candidate": "Jonathan Neiderbach",
+        "rep_candidate": "Mary Mosiman",
+        "margin": 27732,
+        "margin_pct": 10.980621965995391,
+        "winner": "REP",
+        "color": "#e93a2d"
+      },
+      "4": {
+        "dem_votes": 88672,
+        "rep_votes": 168460,
+        "other_votes": 281,
+        "total_votes": 257413,
+        "dem_candidate": "Jonathan Neiderbach",
+        "rep_candidate": "Mary Mosiman",
+        "margin": 79788,
+        "margin_pct": 30.996103537894353,
+        "winner": "REP",
+        "color": "#a50f15"
+      }
+    }
+  }
+}

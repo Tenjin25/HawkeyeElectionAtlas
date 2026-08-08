@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2006,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "treasurer",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2006_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 189207,
+        "rep_votes": 0,
+        "other_votes": 1424,
+        "total_votes": 190631,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "",
+        "margin": -189207,
+        "margin_pct": -99.25300711846447,
+        "winner": "DEM",
+        "color": "#08306b"
+      },
+      "2": {
+        "dem_votes": 208230,
+        "rep_votes": 0,
+        "other_votes": 1208,
+        "total_votes": 209438,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "",
+        "margin": -208230,
+        "margin_pct": -99.42321832714217,
+        "winner": "DEM",
+        "color": "#08306b"
+      },
+      "3": {
+        "dem_votes": 165515,
+        "rep_votes": 0,
+        "other_votes": 1817,
+        "total_votes": 167332,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "",
+        "margin": -165515,
+        "margin_pct": -98.91413477398227,
+        "winner": "DEM",
+        "color": "#08306b"
+      },
+      "4": {
+        "dem_votes": 174246,
+        "rep_votes": 0,
+        "other_votes": 1217,
+        "total_votes": 175463,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "",
+        "margin": -174246,
+        "margin_pct": -99.30640647885879,
+        "winner": "DEM",
+        "color": "#08306b"
+      }
+    }
+  }
+}

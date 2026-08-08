@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2014,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "us_senate",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2014_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 134101,
+        "rep_votes": 139222,
+        "other_votes": 11343,
+        "total_votes": 284666,
+        "dem_candidate": "Bruce Braley",
+        "rep_candidate": "Joni Ernst",
+        "margin": 5121,
+        "margin_pct": 1.7989503488298568,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "2": {
+        "dem_votes": 144862,
+        "rep_votes": 147072,
+        "other_votes": 11636,
+        "total_votes": 303570,
+        "dem_candidate": "Bruce Braley",
+        "rep_candidate": "Joni Ernst",
+        "margin": 2210,
+        "margin_pct": 0.7280034258984748,
+        "winner": "REP",
+        "color": "#f4c9c5"
+      },
+      "3": {
+        "dem_votes": 118697,
+        "rep_votes": 137450,
+        "other_votes": 11042,
+        "total_votes": 267189,
+        "dem_candidate": "Bruce Braley",
+        "rep_candidate": "Joni Ernst",
+        "margin": 18753,
+        "margin_pct": 7.018627263846939,
+        "winner": "REP",
+        "color": "#f7634b"
+      },
+      "4": {
+        "dem_votes": 96710,
+        "rep_votes": 164831,
+        "other_votes": 12734,
+        "total_votes": 274275,
+        "dem_candidate": "Bruce Braley",
+        "rep_candidate": "Joni Ernst",
+        "margin": 68121,
+        "margin_pct": 24.836751435602952,
+        "winner": "REP",
+        "color": "#cb181d"
+      }
+    }
+  }
+}

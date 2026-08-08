@@ -1,0 +1,538 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Davis,BLOOMFIELD WARD 3,Cleveland Township Trustee,,Roger Porter,,12,4,8
+Davis,CENTRAL,Cleveland Township Trustee,,Roger Porter,,200,91,109
+Davis,BLOOMFIELD WARD 3,Cleveland Township Trustee,,Write-In,,0,0,0
+Davis,CENTRAL,Cleveland Township Trustee,,Write-In,,2,1,1
+Davis,BLOOMFIELD WARD 1,Constitutional Amendment 1,,No,,81,43,38
+Davis,BLOOMFIELD WARD 2,Constitutional Amendment 1,,No,,78,38,40
+Davis,BLOOMFIELD WARD 3,Constitutional Amendment 1,,No,,65,36,29
+Davis,CENTRAL,Constitutional Amendment 1,,No,,119,63,56
+Davis,NORTHEAST,Constitutional Amendment 1,,No,,126,49,77
+Davis,NORTHWEST,Constitutional Amendment 1,,No,,102,35,67
+Davis,SOUTHEAST,Constitutional Amendment 1,,No,,102,37,65
+Davis,SOUTHWEST,Constitutional Amendment 1,,No,,47,12,35
+Davis,BLOOMFIELD WARD 1,Constitutional Amendment 1,,Yes,,318,168,150
+Davis,BLOOMFIELD WARD 2,Constitutional Amendment 1,,Yes,,334,162,172
+Davis,BLOOMFIELD WARD 3,Constitutional Amendment 1,,Yes,,308,142,166
+Davis,CENTRAL,Constitutional Amendment 1,,Yes,,482,229,253
+Davis,NORTHEAST,Constitutional Amendment 1,,Yes,,455,167,288
+Davis,NORTHWEST,Constitutional Amendment 1,,Yes,,407,156,251
+Davis,SOUTHEAST,Constitutional Amendment 1,,Yes,,372,124,248
+Davis,SOUTHWEST,Constitutional Amendment 1,,Yes,,210,81,129
+Davis,BLOOMFIELD WARD 1,Constitutional Amendment 2,,No,,60,34,26
+Davis,BLOOMFIELD WARD 2,Constitutional Amendment 2,,No,,54,32,22
+Davis,BLOOMFIELD WARD 3,Constitutional Amendment 2,,No,,50,29,21
+Davis,CENTRAL,Constitutional Amendment 2,,No,,78,40,38
+Davis,NORTHEAST,Constitutional Amendment 2,,No,,96,31,65
+Davis,NORTHWEST,Constitutional Amendment 2,,No,,55,21,34
+Davis,SOUTHEAST,Constitutional Amendment 2,,No,,63,16,47
+Davis,SOUTHWEST,Constitutional Amendment 2,,No,,27,12,15
+Davis,BLOOMFIELD WARD 1,Constitutional Amendment 2,,Yes,,334,176,158
+Davis,BLOOMFIELD WARD 2,Constitutional Amendment 2,,Yes,,352,166,186
+Davis,BLOOMFIELD WARD 3,Constitutional Amendment 2,,Yes,,319,148,171
+Davis,CENTRAL,Constitutional Amendment 2,,Yes,,507,241,266
+Davis,NORTHEAST,Constitutional Amendment 2,,Yes,,482,183,299
+Davis,NORTHWEST,Constitutional Amendment 2,,Yes,,447,168,279
+Davis,SOUTHEAST,Constitutional Amendment 2,,Yes,,406,144,262
+Davis,SOUTHWEST,Constitutional Amendment 2,,Yes,,224,78,146
+Davis,BLOOMFIELD WARD 1,County Agricultural Extension Council Member,,Dana Batterson,,278,146,132
+Davis,BLOOMFIELD WARD 2,County Agricultural Extension Council Member,,Dana Batterson,,267,131,136
+Davis,BLOOMFIELD WARD 3,County Agricultural Extension Council Member,,Dana Batterson,,229,115,114
+Davis,CENTRAL,County Agricultural Extension Council Member,,Dana Batterson,,423,212,211
+Davis,NORTHEAST,County Agricultural Extension Council Member,,Dana Batterson,,340,117,223
+Davis,NORTHWEST,County Agricultural Extension Council Member,,Dana Batterson,,344,130,214
+Davis,SOUTHEAST,County Agricultural Extension Council Member,,Dana Batterson,,309,111,198
+Davis,SOUTHWEST,County Agricultural Extension Council Member,,Dana Batterson,,162,58,104
+Davis,BLOOMFIELD WARD 1,County Agricultural Extension Council Member,,Ryan Northup,,281,149,132
+Davis,BLOOMFIELD WARD 2,County Agricultural Extension Council Member,,Ryan Northup,,283,137,146
+Davis,BLOOMFIELD WARD 3,County Agricultural Extension Council Member,,Ryan Northup,,226,122,104
+Davis,CENTRAL,County Agricultural Extension Council Member,,Ryan Northup,,418,192,226
+Davis,NORTHEAST,County Agricultural Extension Council Member,,Ryan Northup,,368,127,241
+Davis,NORTHWEST,County Agricultural Extension Council Member,,Ryan Northup,,321,113,208
+Davis,SOUTHEAST,County Agricultural Extension Council Member,,Ryan Northup,,303,105,198
+Davis,SOUTHWEST,County Agricultural Extension Council Member,,Ryan Northup,,166,60,106
+Davis,BLOOMFIELD WARD 1,County Agricultural Extension Council Member,,Shannon J. Smith,,259,139,120
+Davis,BLOOMFIELD WARD 2,County Agricultural Extension Council Member,,Shannon J. Smith,,250,120,130
+Davis,BLOOMFIELD WARD 3,County Agricultural Extension Council Member,,Shannon J. Smith,,220,115,105
+Davis,CENTRAL,County Agricultural Extension Council Member,,Shannon J. Smith,,423,205,218
+Davis,NORTHEAST,County Agricultural Extension Council Member,,Shannon J. Smith,,326,120,206
+Davis,NORTHWEST,County Agricultural Extension Council Member,,Shannon J. Smith,,334,120,214
+Davis,SOUTHEAST,County Agricultural Extension Council Member,,Shannon J. Smith,,308,105,203
+Davis,SOUTHWEST,County Agricultural Extension Council Member,,Shannon J. Smith,,185,69,116
+Davis,BLOOMFIELD WARD 1,County Agricultural Extension Council Member,,Wes Henderson,,284,154,130
+Davis,BLOOMFIELD WARD 2,County Agricultural Extension Council Member,,Wes Henderson,,269,134,135
+Davis,BLOOMFIELD WARD 3,County Agricultural Extension Council Member,,Wes Henderson,,231,115,116
+Davis,CENTRAL,County Agricultural Extension Council Member,,Wes Henderson,,439,215,224
+Davis,NORTHEAST,County Agricultural Extension Council Member,,Wes Henderson,,360,132,228
+Davis,NORTHWEST,County Agricultural Extension Council Member,,Wes Henderson,,333,116,217
+Davis,SOUTHEAST,County Agricultural Extension Council Member,,Wes Henderson,,330,115,215
+Davis,SOUTHWEST,County Agricultural Extension Council Member,,Wes Henderson,,185,66,119
+Davis,BLOOMFIELD WARD 1,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Davis,BLOOMFIELD WARD 2,County Agricultural Extension Council Member,,Write-In,,1,1,0
+Davis,BLOOMFIELD WARD 3,County Agricultural Extension Council Member,,Write-In,,3,2,1
+Davis,CENTRAL,County Agricultural Extension Council Member,,Write-In,,8,3,5
+Davis,NORTHEAST,County Agricultural Extension Council Member,,Write-In,,6,2,4
+Davis,NORTHWEST,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Davis,SOUTHEAST,County Agricultural Extension Council Member,,Write-In,,7,2,5
+Davis,SOUTHWEST,County Agricultural Extension Council Member,,Write-In,,6,1,5
+Davis,BLOOMFIELD WARD 1,County Auditor,,Kristi L. Goodson,REP,388,197,191
+Davis,BLOOMFIELD WARD 2,County Auditor,,Kristi L. Goodson,REP,411,192,219
+Davis,BLOOMFIELD WARD 3,County Auditor,,Kristi L. Goodson,REP,379,180,199
+Davis,CENTRAL,County Auditor,,Kristi L. Goodson,REP,596,285,311
+Davis,NORTHEAST,County Auditor,,Kristi L. Goodson,REP,548,187,361
+Davis,NORTHWEST,County Auditor,,Kristi L. Goodson,REP,494,184,310
+Davis,SOUTHEAST,County Auditor,,Kristi L. Goodson,REP,480,164,316
+Davis,SOUTHWEST,County Auditor,,Kristi L. Goodson,REP,259,91,168
+Davis,BLOOMFIELD WARD 1,County Auditor,,Write-In,,6,3,3
+Davis,BLOOMFIELD WARD 2,County Auditor,,Write-In,,0,0,0
+Davis,BLOOMFIELD WARD 3,County Auditor,,Write-In,,7,1,6
+Davis,CENTRAL,County Auditor,,Write-In,,3,2,1
+Davis,NORTHEAST,County Auditor,,Write-In,,2,2,0
+Davis,NORTHWEST,County Auditor,,Write-In,,0,0,0
+Davis,SOUTHEAST,County Auditor,,Write-In,,2,2,0
+Davis,SOUTHWEST,County Auditor,,Write-In,,1,0,1
+Davis,BLOOMFIELD WARD 1,County Board of Supervisors,,Alan Yahnke,REP,380,188,192
+Davis,BLOOMFIELD WARD 2,County Board of Supervisors,,Alan Yahnke,REP,396,187,209
+Davis,BLOOMFIELD WARD 3,County Board of Supervisors,,Alan Yahnke,REP,372,176,196
+Davis,CENTRAL,County Board of Supervisors,,Alan Yahnke,REP,566,268,298
+Davis,NORTHEAST,County Board of Supervisors,,Alan Yahnke,REP,539,183,356
+Davis,NORTHWEST,County Board of Supervisors,,Alan Yahnke,REP,470,170,300
+Davis,SOUTHEAST,County Board of Supervisors,,Alan Yahnke,REP,462,153,309
+Davis,SOUTHWEST,County Board of Supervisors,,Alan Yahnke,REP,241,84,157
+Davis,BLOOMFIELD WARD 1,County Board of Supervisors,,Write-In,,3,2,1
+Davis,BLOOMFIELD WARD 2,County Board of Supervisors,,Write-In,,3,2,1
+Davis,BLOOMFIELD WARD 3,County Board of Supervisors,,Write-In,,7,2,5
+Davis,CENTRAL,County Board of Supervisors,,Write-In,,11,6,5
+Davis,NORTHEAST,County Board of Supervisors,,Write-In,,4,0,4
+Davis,NORTHWEST,County Board of Supervisors,,Write-In,,4,1,3
+Davis,SOUTHEAST,County Board of Supervisors,,Write-In,,6,3,3
+Davis,SOUTHWEST,County Board of Supervisors,,Write-In,,3,1,2
+Davis,BLOOMFIELD WARD 1,County Sheriff,,Write-In,,9,3,6
+Davis,BLOOMFIELD WARD 2,County Sheriff,,Write-In,,8,2,6
+Davis,BLOOMFIELD WARD 3,County Sheriff,,Write-In,,18,10,8
+Davis,CENTRAL,County Sheriff,,Write-In,,22,12,10
+Davis,NORTHEAST,County Sheriff,,Write-In,,26,4,22
+Davis,NORTHWEST,County Sheriff,,Write-In,,8,3,5
+Davis,SOUTHEAST,County Sheriff,,Write-In,,20,8,12
+Davis,SOUTHWEST,County Sheriff,,Write-In,,2,0,2
+Davis,BLOOMFIELD WARD 1,County Sheriff,,Zachary Dunlavy,REP,380,194,186
+Davis,BLOOMFIELD WARD 2,County Sheriff,,Zachary Dunlavy,REP,404,193,211
+Davis,BLOOMFIELD WARD 3,County Sheriff,,Zachary Dunlavy,REP,359,173,186
+Davis,CENTRAL,County Sheriff,,Zachary Dunlavy,REP,560,268,292
+Davis,NORTHEAST,County Sheriff,,Zachary Dunlavy,REP,513,181,332
+Davis,NORTHWEST,County Sheriff,,Zachary Dunlavy,REP,488,182,306
+Davis,SOUTHEAST,County Sheriff,,Zachary Dunlavy,REP,459,151,308
+Davis,SOUTHWEST,County Sheriff,,Zachary Dunlavy,REP,242,86,156
+Davis,BLOOMFIELD WARD 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,116,61,55
+Davis,BLOOMFIELD WARD 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,114,61,53
+Davis,BLOOMFIELD WARD 3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,98,46,52
+Davis,CENTRAL,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,186,86,100
+Davis,NORTHEAST,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,166,54,112
+Davis,NORTHWEST,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,156,50,106
+Davis,SOUTHEAST,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,149,52,97
+Davis,SOUTHWEST,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,66,27,39
+Davis,BLOOMFIELD WARD 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,207,101,106
+Davis,BLOOMFIELD WARD 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,232,108,124
+Davis,BLOOMFIELD WARD 3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,217,102,115
+Davis,CENTRAL,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,287,140,147
+Davis,NORTHEAST,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,301,100,201
+Davis,NORTHWEST,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,251,89,162
+Davis,SOUTHEAST,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,204,76,128
+Davis,SOUTHWEST,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,125,48,77
+Davis,BLOOMFIELD WARD 1,Court of Appeals Judge - Mary Ellen Tabor,,No,,111,56,55
+Davis,BLOOMFIELD WARD 2,Court of Appeals Judge - Mary Ellen Tabor,,No,,118,60,58
+Davis,BLOOMFIELD WARD 3,Court of Appeals Judge - Mary Ellen Tabor,,No,,101,46,55
+Davis,CENTRAL,Court of Appeals Judge - Mary Ellen Tabor,,No,,187,86,101
+Davis,NORTHEAST,Court of Appeals Judge - Mary Ellen Tabor,,No,,188,63,125
+Davis,NORTHWEST,Court of Appeals Judge - Mary Ellen Tabor,,No,,161,52,109
+Davis,SOUTHEAST,Court of Appeals Judge - Mary Ellen Tabor,,No,,153,53,100
+Davis,SOUTHWEST,Court of Appeals Judge - Mary Ellen Tabor,,No,,69,25,44
+Davis,BLOOMFIELD WARD 1,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,207,106,101
+Davis,BLOOMFIELD WARD 2,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,226,108,118
+Davis,BLOOMFIELD WARD 3,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,207,96,111
+Davis,CENTRAL,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,277,132,145
+Davis,NORTHEAST,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,269,87,182
+Davis,NORTHWEST,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,242,86,156
+Davis,SOUTHEAST,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,188,71,117
+Davis,SOUTHWEST,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,121,50,71
+Davis,BLOOMFIELD WARD 1,Court of Appeals Judge - Samuel Langholz,,No,,121,62,59
+Davis,BLOOMFIELD WARD 2,Court of Appeals Judge - Samuel Langholz,,No,,118,61,57
+Davis,BLOOMFIELD WARD 3,Court of Appeals Judge - Samuel Langholz,,No,,106,50,56
+Davis,CENTRAL,Court of Appeals Judge - Samuel Langholz,,No,,198,100,98
+Davis,NORTHEAST,Court of Appeals Judge - Samuel Langholz,,No,,174,57,117
+Davis,NORTHWEST,Court of Appeals Judge - Samuel Langholz,,No,,161,54,107
+Davis,SOUTHEAST,Court of Appeals Judge - Samuel Langholz,,No,,148,50,98
+Davis,SOUTHWEST,Court of Appeals Judge - Samuel Langholz,,No,,70,27,43
+Davis,BLOOMFIELD WARD 1,Court of Appeals Judge - Samuel Langholz,,Yes,,194,99,95
+Davis,BLOOMFIELD WARD 2,Court of Appeals Judge - Samuel Langholz,,Yes,,222,104,118
+Davis,BLOOMFIELD WARD 3,Court of Appeals Judge - Samuel Langholz,,Yes,,196,92,104
+Davis,CENTRAL,Court of Appeals Judge - Samuel Langholz,,Yes,,270,122,148
+Davis,NORTHEAST,Court of Appeals Judge - Samuel Langholz,,Yes,,283,94,189
+Davis,NORTHWEST,Court of Appeals Judge - Samuel Langholz,,Yes,,240,84,156
+Davis,SOUTHEAST,Court of Appeals Judge - Samuel Langholz,,Yes,,201,76,125
+Davis,SOUTHWEST,Court of Appeals Judge - Samuel Langholz,,Yes,,121,48,73
+Davis,BLOOMFIELD WARD 1,Court of Appeals Judge - Tyler J. Buller,,No,,118,62,56
+Davis,BLOOMFIELD WARD 2,Court of Appeals Judge - Tyler J. Buller,,No,,107,59,48
+Davis,BLOOMFIELD WARD 3,Court of Appeals Judge - Tyler J. Buller,,No,,102,50,52
+Davis,CENTRAL,Court of Appeals Judge - Tyler J. Buller,,No,,179,83,96
+Davis,NORTHEAST,Court of Appeals Judge - Tyler J. Buller,,No,,165,56,109
+Davis,NORTHWEST,Court of Appeals Judge - Tyler J. Buller,,No,,151,50,101
+Davis,SOUTHEAST,Court of Appeals Judge - Tyler J. Buller,,No,,142,45,97
+Davis,SOUTHWEST,Court of Appeals Judge - Tyler J. Buller,,No,,64,26,38
+Davis,BLOOMFIELD WARD 1,Court of Appeals Judge - Tyler J. Buller,,Yes,,197,100,97
+Davis,BLOOMFIELD WARD 2,Court of Appeals Judge - Tyler J. Buller,,Yes,,231,108,123
+Davis,BLOOMFIELD WARD 3,Court of Appeals Judge - Tyler J. Buller,,Yes,,206,93,113
+Davis,CENTRAL,Court of Appeals Judge - Tyler J. Buller,,Yes,,285,135,150
+Davis,NORTHEAST,Court of Appeals Judge - Tyler J. Buller,,Yes,,288,91,197
+Davis,NORTHWEST,Court of Appeals Judge - Tyler J. Buller,,Yes,,249,87,162
+Davis,SOUTHEAST,Court of Appeals Judge - Tyler J. Buller,,Yes,,201,79,122
+Davis,SOUTHWEST,Court of Appeals Judge - Tyler J. Buller,,Yes,,126,49,77
+Davis,BLOOMFIELD WARD 1,Davis County Hospital Trustee,,Heath Greiner,,297,160,137
+Davis,BLOOMFIELD WARD 2,Davis County Hospital Trustee,,Heath Greiner,,292,150,142
+Davis,BLOOMFIELD WARD 3,Davis County Hospital Trustee,,Heath Greiner,,271,131,140
+Davis,CENTRAL,Davis County Hospital Trustee,,Heath Greiner,,443,223,220
+Davis,NORTHEAST,Davis County Hospital Trustee,,Heath Greiner,,385,136,249
+Davis,NORTHWEST,Davis County Hospital Trustee,,Heath Greiner,,385,142,243
+Davis,SOUTHEAST,Davis County Hospital Trustee,,Heath Greiner,,353,129,224
+Davis,SOUTHWEST,Davis County Hospital Trustee,,Heath Greiner,,190,65,125
+Davis,BLOOMFIELD WARD 1,Davis County Hospital Trustee,,Lynn Fellinger,,274,140,134
+Davis,BLOOMFIELD WARD 2,Davis County Hospital Trustee,,Lynn Fellinger,,299,144,155
+Davis,BLOOMFIELD WARD 3,Davis County Hospital Trustee,,Lynn Fellinger,,262,130,132
+Davis,CENTRAL,Davis County Hospital Trustee,,Lynn Fellinger,,419,205,214
+Davis,NORTHEAST,Davis County Hospital Trustee,,Lynn Fellinger,,334,120,214
+Davis,NORTHWEST,Davis County Hospital Trustee,,Lynn Fellinger,,313,117,196
+Davis,SOUTHEAST,Davis County Hospital Trustee,,Lynn Fellinger,,322,112,210
+Davis,SOUTHWEST,Davis County Hospital Trustee,,Lynn Fellinger,,171,70,101
+Davis,BLOOMFIELD WARD 1,Davis County Hospital Trustee,,Write-In,,2,0,2
+Davis,BLOOMFIELD WARD 2,Davis County Hospital Trustee,,Write-In,,1,0,1
+Davis,BLOOMFIELD WARD 3,Davis County Hospital Trustee,,Write-In,,4,1,3
+Davis,CENTRAL,Davis County Hospital Trustee,,Write-In,,5,2,3
+Davis,NORTHEAST,Davis County Hospital Trustee,,Write-In,,12,2,10
+Davis,NORTHWEST,Davis County Hospital Trustee,,Write-In,,2,0,2
+Davis,SOUTHEAST,Davis County Hospital Trustee,,Write-In,,3,3,0
+Davis,SOUTHWEST,Davis County Hospital Trustee,,Write-In,,3,0,3
+Davis,BLOOMFIELD WARD 1,District 8A Associate Judge - Daniel Perry Kitchen,,No,,112,56,56
+Davis,BLOOMFIELD WARD 2,District 8A Associate Judge - Daniel Perry Kitchen,,No,,110,60,50
+Davis,BLOOMFIELD WARD 3,District 8A Associate Judge - Daniel Perry Kitchen,,No,,92,39,53
+Davis,CENTRAL,District 8A Associate Judge - Daniel Perry Kitchen,,No,,171,83,88
+Davis,NORTHEAST,District 8A Associate Judge - Daniel Perry Kitchen,,No,,154,50,104
+Davis,NORTHWEST,District 8A Associate Judge - Daniel Perry Kitchen,,No,,138,42,96
+Davis,SOUTHEAST,District 8A Associate Judge - Daniel Perry Kitchen,,No,,140,48,92
+Davis,SOUTHWEST,District 8A Associate Judge - Daniel Perry Kitchen,,No,,73,30,43
+Davis,BLOOMFIELD WARD 1,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,203,105,98
+Davis,BLOOMFIELD WARD 2,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,228,105,123
+Davis,BLOOMFIELD WARD 3,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,212,102,110
+Davis,CENTRAL,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,291,136,155
+Davis,NORTHEAST,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,298,96,202
+Davis,NORTHWEST,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,259,93,166
+Davis,SOUTHEAST,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,201,78,123
+Davis,SOUTHWEST,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,116,43,73
+Davis,BLOOMFIELD WARD 1,District 8A Associate Judge - Patrick J. McAvan,,No,,110,54,56
+Davis,BLOOMFIELD WARD 2,District 8A Associate Judge - Patrick J. McAvan,,No,,113,61,52
+Davis,BLOOMFIELD WARD 3,District 8A Associate Judge - Patrick J. McAvan,,No,,90,40,50
+Davis,CENTRAL,District 8A Associate Judge - Patrick J. McAvan,,No,,164,79,85
+Davis,NORTHEAST,District 8A Associate Judge - Patrick J. McAvan,,No,,155,55,100
+Davis,NORTHWEST,District 8A Associate Judge - Patrick J. McAvan,,No,,144,48,96
+Davis,SOUTHEAST,District 8A Associate Judge - Patrick J. McAvan,,No,,134,45,89
+Davis,SOUTHWEST,District 8A Associate Judge - Patrick J. McAvan,,No,,66,29,37
+Davis,BLOOMFIELD WARD 1,District 8A Associate Judge - Patrick J. McAvan,,Yes,,201,106,95
+Davis,BLOOMFIELD WARD 2,District 8A Associate Judge - Patrick J. McAvan,,Yes,,226,106,120
+Davis,BLOOMFIELD WARD 3,District 8A Associate Judge - Patrick J. McAvan,,Yes,,217,103,114
+Davis,CENTRAL,District 8A Associate Judge - Patrick J. McAvan,,Yes,,296,138,158
+Davis,NORTHEAST,District 8A Associate Judge - Patrick J. McAvan,,Yes,,297,93,204
+Davis,NORTHWEST,District 8A Associate Judge - Patrick J. McAvan,,Yes,,250,90,160
+Davis,SOUTHEAST,District 8A Associate Judge - Patrick J. McAvan,,Yes,,204,80,124
+Davis,SOUTHWEST,District 8A Associate Judge - Patrick J. McAvan,,Yes,,123,44,79
+Davis,BLOOMFIELD WARD 1,District 8A Associate Judge - Richelle Mahaffey,,No,,115,63,52
+Davis,BLOOMFIELD WARD 2,District 8A Associate Judge - Richelle Mahaffey,,No,,106,57,49
+Davis,BLOOMFIELD WARD 3,District 8A Associate Judge - Richelle Mahaffey,,No,,99,44,55
+Davis,CENTRAL,District 8A Associate Judge - Richelle Mahaffey,,No,,173,77,96
+Davis,NORTHEAST,District 8A Associate Judge - Richelle Mahaffey,,No,,158,56,102
+Davis,NORTHWEST,District 8A Associate Judge - Richelle Mahaffey,,No,,145,45,100
+Davis,SOUTHEAST,District 8A Associate Judge - Richelle Mahaffey,,No,,143,47,96
+Davis,SOUTHWEST,District 8A Associate Judge - Richelle Mahaffey,,No,,67,26,41
+Davis,BLOOMFIELD WARD 1,District 8A Associate Judge - Richelle Mahaffey,,Yes,,201,99,102
+Davis,BLOOMFIELD WARD 2,District 8A Associate Judge - Richelle Mahaffey,,Yes,,232,110,122
+Davis,BLOOMFIELD WARD 3,District 8A Associate Judge - Richelle Mahaffey,,Yes,,209,100,109
+Davis,CENTRAL,District 8A Associate Judge - Richelle Mahaffey,,Yes,,290,143,147
+Davis,NORTHEAST,District 8A Associate Judge - Richelle Mahaffey,,Yes,,295,89,206
+Davis,NORTHWEST,District 8A Associate Judge - Richelle Mahaffey,,Yes,,259,95,164
+Davis,SOUTHEAST,District 8A Associate Judge - Richelle Mahaffey,,Yes,,198,80,118
+Davis,SOUTHWEST,District 8A Associate Judge - Richelle Mahaffey,,Yes,,123,48,75
+Davis,BLOOMFIELD WARD 1,District 8A Judge - Crystal S. Cronk,,No,,110,56,54
+Davis,BLOOMFIELD WARD 2,District 8A Judge - Crystal S. Cronk,,No,,116,60,56
+Davis,BLOOMFIELD WARD 3,District 8A Judge - Crystal S. Cronk,,No,,98,47,51
+Davis,CENTRAL,District 8A Judge - Crystal S. Cronk,,No,,166,80,86
+Davis,NORTHEAST,District 8A Judge - Crystal S. Cronk,,No,,152,54,98
+Davis,NORTHWEST,District 8A Judge - Crystal S. Cronk,,No,,139,43,96
+Davis,SOUTHEAST,District 8A Judge - Crystal S. Cronk,,No,,134,46,88
+Davis,SOUTHWEST,District 8A Judge - Crystal S. Cronk,,No,,66,25,41
+Davis,BLOOMFIELD WARD 1,District 8A Judge - Crystal S. Cronk,,Yes,,207,106,101
+Davis,BLOOMFIELD WARD 2,District 8A Judge - Crystal S. Cronk,,Yes,,224,106,118
+Davis,BLOOMFIELD WARD 3,District 8A Judge - Crystal S. Cronk,,Yes,,215,99,116
+Davis,CENTRAL,District 8A Judge - Crystal S. Cronk,,Yes,,305,143,162
+Davis,NORTHEAST,District 8A Judge - Crystal S. Cronk,,Yes,,307,98,209
+Davis,NORTHWEST,District 8A Judge - Crystal S. Cronk,,Yes,,265,98,167
+Davis,SOUTHEAST,District 8A Judge - Crystal S. Cronk,,Yes,,212,83,129
+Davis,SOUTHWEST,District 8A Judge - Crystal S. Cronk,,Yes,,125,50,75
+Davis,BLOOMFIELD WARD 1,District 8A Judge - Michael Carpenter,,No,,107,53,54
+Davis,BLOOMFIELD WARD 2,District 8A Judge - Michael Carpenter,,No,,117,65,52
+Davis,BLOOMFIELD WARD 3,District 8A Judge - Michael Carpenter,,No,,98,47,51
+Davis,CENTRAL,District 8A Judge - Michael Carpenter,,No,,173,82,91
+Davis,NORTHEAST,District 8A Judge - Michael Carpenter,,No,,147,52,95
+Davis,NORTHWEST,District 8A Judge - Michael Carpenter,,No,,143,42,101
+Davis,SOUTHEAST,District 8A Judge - Michael Carpenter,,No,,137,45,92
+Davis,SOUTHWEST,District 8A Judge - Michael Carpenter,,No,,63,25,38
+Davis,BLOOMFIELD WARD 1,District 8A Judge - Michael Carpenter,,Yes,,211,109,102
+Davis,BLOOMFIELD WARD 2,District 8A Judge - Michael Carpenter,,Yes,,227,102,125
+Davis,BLOOMFIELD WARD 3,District 8A Judge - Michael Carpenter,,Yes,,210,97,113
+Davis,CENTRAL,District 8A Judge - Michael Carpenter,,Yes,,292,139,153
+Davis,NORTHEAST,District 8A Judge - Michael Carpenter,,Yes,,309,98,211
+Davis,NORTHWEST,District 8A Judge - Michael Carpenter,,Yes,,261,99,162
+Davis,SOUTHEAST,District 8A Judge - Michael Carpenter,,Yes,,201,80,121
+Davis,SOUTHWEST,District 8A Judge - Michael Carpenter,,Yes,,125,49,76
+Davis,BLOOMFIELD WARD 1,District 8A Judge - Myron Gookin,,No,,109,54,55
+Davis,BLOOMFIELD WARD 2,District 8A Judge - Myron Gookin,,No,,121,66,55
+Davis,BLOOMFIELD WARD 3,District 8A Judge - Myron Gookin,,No,,103,47,56
+Davis,CENTRAL,District 8A Judge - Myron Gookin,,No,,167,82,85
+Davis,NORTHEAST,District 8A Judge - Myron Gookin,,No,,152,52,100
+Davis,NORTHWEST,District 8A Judge - Myron Gookin,,No,,148,47,101
+Davis,SOUTHEAST,District 8A Judge - Myron Gookin,,No,,140,50,90
+Davis,SOUTHWEST,District 8A Judge - Myron Gookin,,No,,71,25,46
+Davis,BLOOMFIELD WARD 1,District 8A Judge - Myron Gookin,,Yes,,206,105,101
+Davis,BLOOMFIELD WARD 2,District 8A Judge - Myron Gookin,,Yes,,217,99,118
+Davis,BLOOMFIELD WARD 3,District 8A Judge - Myron Gookin,,Yes,,204,96,108
+Davis,CENTRAL,District 8A Judge - Myron Gookin,,Yes,,294,137,157
+Davis,NORTHEAST,District 8A Judge - Myron Gookin,,Yes,,304,96,208
+Davis,NORTHWEST,District 8A Judge - Myron Gookin,,Yes,,252,91,161
+Davis,SOUTHEAST,District 8A Judge - Myron Gookin,,Yes,,201,77,124
+Davis,SOUTHWEST,District 8A Judge - Myron Gookin,,Yes,,116,48,68
+Davis,BLOOMFIELD WARD 1,District 8A Judge - Shawn R. Showers,,No,,114,58,56
+Davis,BLOOMFIELD WARD 2,District 8A Judge - Shawn R. Showers,,No,,110,59,51
+Davis,BLOOMFIELD WARD 3,District 8A Judge - Shawn R. Showers,,No,,99,44,55
+Davis,CENTRAL,District 8A Judge - Shawn R. Showers,,No,,162,79,83
+Davis,NORTHEAST,District 8A Judge - Shawn R. Showers,,No,,166,53,113
+Davis,NORTHWEST,District 8A Judge - Shawn R. Showers,,No,,137,42,95
+Davis,SOUTHEAST,District 8A Judge - Shawn R. Showers,,No,,136,47,89
+Davis,SOUTHWEST,District 8A Judge - Shawn R. Showers,,No,,64,28,36
+Davis,BLOOMFIELD WARD 1,District 8A Judge - Shawn R. Showers,,Yes,,203,103,100
+Davis,BLOOMFIELD WARD 2,District 8A Judge - Shawn R. Showers,,Yes,,226,107,119
+Davis,BLOOMFIELD WARD 3,District 8A Judge - Shawn R. Showers,,Yes,,211,101,110
+Davis,CENTRAL,District 8A Judge - Shawn R. Showers,,Yes,,301,142,159
+Davis,NORTHEAST,District 8A Judge - Shawn R. Showers,,Yes,,286,94,192
+Davis,NORTHWEST,District 8A Judge - Shawn R. Showers,,Yes,,260,91,169
+Davis,SOUTHEAST,District 8A Judge - Shawn R. Showers,,Yes,,200,77,123
+Davis,SOUTHWEST,District 8A Judge - Shawn R. Showers,,Yes,,126,46,80
+Davis,NORTHWEST,Drakesville Township Trustee,,Dean Stocker,,35,14,21
+Davis,NORTHWEST,Drakesville Township Trustee,,Write-In,,0,0,0
+Davis,SOUTHWEST,Fabius Township Trustee,,Steve Bowling,,96,33,63
+Davis,SOUTHWEST,Fabius Township Trustee,,Write-In,,0,0,0
+Davis,SOUTHWEST,Fabius Township Trustee To Fill a Vacancy,,Larry Lawson,,89,30,59
+Davis,SOUTHWEST,Fabius Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
+Davis,SOUTHWEST,Fox River Township Trustee,,Scott Batterson,,58,25,33
+Davis,SOUTHWEST,Fox River Township Trustee,,Write-In,,2,0,2
+Davis,SOUTHEAST,Grove Township Trustee,,Chad Knapp,,4,1,3
+Davis,SOUTHEAST,Grove Township Trustee,,Tim Sargent,,4,1,3
+Davis,SOUTHEAST,Grove Township Trustee,,Write-In,,6,4,2
+Davis,NORTHEAST,Lick Creek Township Clerk To Fill a Vacancy,,Ryan Heemsbergen,,9,1,8
+Davis,NORTHEAST,Lick Creek Township Clerk To Fill a Vacancy,,Write-In,,13,2,11
+Davis,NORTHEAST,Lick Creek Township Trustee,,Jeff Bassett,,7,0,7
+Davis,NORTHEAST,Lick Creek Township Trustee,,Write-In,,19,3,16
+Davis,NORTHEAST,Lick Creek Township Trustee To Fill a Vacancy,,Heath Greiner,,319,118,201
+Davis,NORTHEAST,Lick Creek Township Trustee To Fill a Vacancy,,Write-In,,6,1,5
+Davis,NORTHWEST,Marion Township Trustee,,DeWayne Cason,,112,42,70
+Davis,NORTHWEST,Marion Township Trustee,,Write-In,,2,2,0
+Davis,CENTRAL,Perry Township Trustee,,Scott Davis,,187,90,97
+Davis,CENTRAL,Perry Township Trustee,,Write-In,,0,0,0
+Davis,SOUTHEAST,Prairie Township Clerk To Fill a Vacancy,,JoAnn Altheide,,37,16,21
+Davis,SOUTHEAST,Prairie Township Clerk To Fill a Vacancy,,Write-In,,0,0,0
+Davis,SOUTHEAST,Prairie Township Trustee,,Michael Bailey,,39,16,23
+Davis,SOUTHEAST,Prairie Township Trustee,,Write-In,,0,0,0
+Davis,SOUTHEAST,Prairie Township Trustee To Fill a Vacancy,,Kyle Payne,,38,18,20
+Davis,SOUTHEAST,Prairie Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
+Davis,BLOOMFIELD WARD 1,President,,Chase Oliver and Mike ter Maat,LIB,1,1,0
+Davis,BLOOMFIELD WARD 2,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Davis,BLOOMFIELD WARD 3,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Davis,CENTRAL,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Davis,NORTHEAST,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Davis,NORTHWEST,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Davis,SOUTHEAST,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Davis,SOUTHWEST,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Davis,BLOOMFIELD WARD 1,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Davis,BLOOMFIELD WARD 2,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Davis,BLOOMFIELD WARD 3,President,,Claudia De la Cruz and Karina Garcia,PSL,1,1,0
+Davis,CENTRAL,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Davis,NORTHEAST,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Davis,NORTHWEST,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Davis,SOUTHEAST,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Davis,SOUTHWEST,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Davis,BLOOMFIELD WARD 1,President,,Donald J. Trump and JD Vance,REP,297,146,151
+Davis,BLOOMFIELD WARD 2,President,,Donald J. Trump and JD Vance,REP,310,130,180
+Davis,BLOOMFIELD WARD 3,President,,Donald J. Trump and JD Vance,REP,298,137,161
+Davis,CENTRAL,President,,Donald J. Trump and JD Vance,REP,492,222,270
+Davis,NORTHEAST,President,,Donald J. Trump and JD Vance,REP,509,174,335
+Davis,NORTHWEST,President,,Donald J. Trump and JD Vance,REP,444,164,280
+Davis,SOUTHEAST,President,,Donald J. Trump and JD Vance,REP,451,128,323
+Davis,SOUTHWEST,President,,Donald J. Trump and JD Vance,REP,226,78,148
+Davis,BLOOMFIELD WARD 1,President,,Kamala D. Harris and Tim Walz,DEM,131,77,54
+Davis,BLOOMFIELD WARD 2,President,,Kamala D. Harris and Tim Walz,DEM,138,88,50
+Davis,BLOOMFIELD WARD 3,President,,Kamala D. Harris and Tim Walz,DEM,114,61,53
+Davis,CENTRAL,President,,Kamala D. Harris and Tim Walz,DEM,147,97,50
+Davis,NORTHEAST,President,,Kamala D. Harris and Tim Walz,DEM,110,54,56
+Davis,NORTHWEST,President,,Kamala D. Harris and Tim Walz,DEM,99,53,46
+Davis,SOUTHEAST,President,,Kamala D. Harris and Tim Walz,DEM,82,50,32
+Davis,SOUTHWEST,President,,Kamala D. Harris and Tim Walz,DEM,57,27,30
+Davis,BLOOMFIELD WARD 1,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,2,4
+Davis,BLOOMFIELD WARD 2,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,2,2
+Davis,BLOOMFIELD WARD 3,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,2,1,1
+Davis,CENTRAL,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,2,8
+Davis,NORTHEAST,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,3,1
+Davis,NORTHWEST,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,8,1,7
+Davis,SOUTHEAST,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,2,2
+Davis,SOUTHWEST,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,0,0,0
+Davis,BLOOMFIELD WARD 1,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Davis,BLOOMFIELD WARD 2,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Davis,BLOOMFIELD WARD 3,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Davis,CENTRAL,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Davis,NORTHEAST,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Davis,NORTHWEST,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Davis,SOUTHEAST,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Davis,SOUTHWEST,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Davis,BLOOMFIELD WARD 1,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Davis,BLOOMFIELD WARD 2,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Davis,BLOOMFIELD WARD 3,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Davis,CENTRAL,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Davis,NORTHEAST,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Davis,NORTHWEST,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Davis,SOUTHEAST,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Davis,SOUTHWEST,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Davis,BLOOMFIELD WARD 1,President,,Write-In,,0,0,0
+Davis,BLOOMFIELD WARD 2,President,,Write-In,,0,0,0
+Davis,BLOOMFIELD WARD 3,President,,Write-In,,1,0,1
+Davis,CENTRAL,President,,Write-In,,0,0,0
+Davis,NORTHEAST,President,,Write-In,,2,0,2
+Davis,NORTHWEST,President,,Write-In,,1,0,1
+Davis,SOUTHEAST,President,,Write-In,,0,0,0
+Davis,SOUTHWEST,President,,Write-In,,0,0,0
+Davis,SOUTHEAST,Roscoe Township Trustee,,Craig Amstutz,,43,13,30
+Davis,SOUTHEAST,Roscoe Township Trustee,,Write-In,,1,1,0
+Davis,NORTHEAST,Salt Creek Township Clerk To Fill a Vacancy,,Dan Witmore,,1,0,1
+Davis,NORTHEAST,Salt Creek Township Clerk To Fill a Vacancy,,Lane Fenter,,1,0,1
+Davis,NORTHEAST,Salt Creek Township Clerk To Fill a Vacancy,,Write-In,,3,0,3
+Davis,NORTHEAST,Salt Creek Township Trustee,,Kim Ostrander,,2,0,2
+Davis,NORTHEAST,Salt Creek Township Trustee,,Lane Fenter,,2,0,2
+Davis,NORTHEAST,Salt Creek Township Trustee,,Write-In,,9,2,7
+Davis,NORTHWEST,Soap Creek Township Trustee,,Neric Smith,,234,89,145
+Davis,NORTHWEST,Soap Creek Township Trustee,,Write-In,,0,0,0
+Davis,BLOOMFIELD WARD 1,Soil and Water Conservation District Commissioner,,Benjamin Russell Harris,,244,136,108
+Davis,BLOOMFIELD WARD 2,Soil and Water Conservation District Commissioner,,Benjamin Russell Harris,,252,123,129
+Davis,BLOOMFIELD WARD 3,Soil and Water Conservation District Commissioner,,Benjamin Russell Harris,,216,110,106
+Davis,CENTRAL,Soil and Water Conservation District Commissioner,,Benjamin Russell Harris,,373,182,191
+Davis,NORTHEAST,Soil and Water Conservation District Commissioner,,Benjamin Russell Harris,,306,108,198
+Davis,NORTHWEST,Soil and Water Conservation District Commissioner,,Benjamin Russell Harris,,304,112,192
+Davis,SOUTHEAST,Soil and Water Conservation District Commissioner,,Benjamin Russell Harris,,264,97,167
+Davis,SOUTHWEST,Soil and Water Conservation District Commissioner,,Benjamin Russell Harris,,186,67,119
+Davis,BLOOMFIELD WARD 1,Soil and Water Conservation District Commissioner,,Gary Cossel,,0,0,0
+Davis,BLOOMFIELD WARD 2,Soil and Water Conservation District Commissioner,,Gary Cossel,,0,0,0
+Davis,BLOOMFIELD WARD 3,Soil and Water Conservation District Commissioner,,Gary Cossel,,0,0,0
+Davis,CENTRAL,Soil and Water Conservation District Commissioner,,Gary Cossel,,2,0,2
+Davis,NORTHEAST,Soil and Water Conservation District Commissioner,,Gary Cossel,,0,0,0
+Davis,NORTHWEST,Soil and Water Conservation District Commissioner,,Gary Cossel,,1,1,0
+Davis,SOUTHEAST,Soil and Water Conservation District Commissioner,,Gary Cossel,,1,1,0
+Davis,SOUTHWEST,Soil and Water Conservation District Commissioner,,Gary Cossel,,5,1,4
+Davis,BLOOMFIELD WARD 1,Soil and Water Conservation District Commissioner,,Susan Knapp,,325,168,157
+Davis,BLOOMFIELD WARD 2,Soil and Water Conservation District Commissioner,,Susan Knapp,,357,176,181
+Davis,BLOOMFIELD WARD 3,Soil and Water Conservation District Commissioner,,Susan Knapp,,308,147,161
+Davis,CENTRAL,Soil and Water Conservation District Commissioner,,Susan Knapp,,531,254,277
+Davis,NORTHEAST,Soil and Water Conservation District Commissioner,,Susan Knapp,,438,151,287
+Davis,NORTHWEST,Soil and Water Conservation District Commissioner,,Susan Knapp,,414,147,267
+Davis,SOUTHEAST,Soil and Water Conservation District Commissioner,,Susan Knapp,,441,149,292
+Davis,SOUTHWEST,Soil and Water Conservation District Commissioner,,Susan Knapp,,199,72,127
+Davis,BLOOMFIELD WARD 1,Soil and Water Conservation District Commissioner,,Write-In,,8,3,5
+Davis,BLOOMFIELD WARD 2,Soil and Water Conservation District Commissioner,,Write-In,,6,4,2
+Davis,BLOOMFIELD WARD 3,Soil and Water Conservation District Commissioner,,Write-In,,7,4,3
+Davis,CENTRAL,Soil and Water Conservation District Commissioner,,Write-In,,18,11,7
+Davis,NORTHEAST,Soil and Water Conservation District Commissioner,,Write-In,,5,3,2
+Davis,NORTHWEST,Soil and Water Conservation District Commissioner,,Write-In,,13,3,10
+Davis,SOUTHEAST,Soil and Water Conservation District Commissioner,,Write-In,,11,3,8
+Davis,SOUTHWEST,Soil and Water Conservation District Commissioner,,Write-In,,7,2,5
+Davis,BLOOMFIELD WARD 1,State House,26,Austin Harris,REP,274,137,137
+Davis,BLOOMFIELD WARD 2,State House,26,Austin Harris,REP,276,121,155
+Davis,BLOOMFIELD WARD 3,State House,26,Austin Harris,REP,287,132,155
+Davis,CENTRAL,State House,26,Austin Harris,REP,464,205,259
+Davis,NORTHEAST,State House,26,Austin Harris,REP,483,163,320
+Davis,NORTHWEST,State House,26,Austin Harris,REP,417,155,262
+Davis,SOUTHEAST,State House,26,Austin Harris,REP,426,126,300
+Davis,SOUTHWEST,State House,26,Austin Harris,REP,218,75,143
+Davis,BLOOMFIELD WARD 1,State House,26,Darcie Whitlow,DEM,130,73,57
+Davis,BLOOMFIELD WARD 2,State House,26,Darcie Whitlow,DEM,131,84,47
+Davis,BLOOMFIELD WARD 3,State House,26,Darcie Whitlow,DEM,107,59,48
+Davis,CENTRAL,State House,26,Darcie Whitlow,DEM,144,96,48
+Davis,NORTHEAST,State House,26,Darcie Whitlow,DEM,103,51,52
+Davis,NORTHWEST,State House,26,Darcie Whitlow,DEM,89,45,44
+Davis,SOUTHEAST,State House,26,Darcie Whitlow,DEM,74,42,32
+Davis,SOUTHWEST,State House,26,Darcie Whitlow,DEM,54,24,30
+Davis,BLOOMFIELD WARD 1,State House,26,Donald Gier,LIB,5,2,3
+Davis,BLOOMFIELD WARD 2,State House,26,Donald Gier,LIB,10,4,6
+Davis,BLOOMFIELD WARD 3,State House,26,Donald Gier,LIB,4,1,3
+Davis,CENTRAL,State House,26,Donald Gier,LIB,9,2,7
+Davis,NORTHEAST,State House,26,Donald Gier,LIB,14,5,9
+Davis,NORTHWEST,State House,26,Donald Gier,LIB,18,3,15
+Davis,SOUTHEAST,State House,26,Donald Gier,LIB,11,5,6
+Davis,SOUTHWEST,State House,26,Donald Gier,LIB,4,2,2
+Davis,BLOOMFIELD WARD 1,State House,26,Write-In,,0,0,0
+Davis,BLOOMFIELD WARD 2,State House,26,Write-In,,0,0,0
+Davis,BLOOMFIELD WARD 3,State House,26,Write-In,,1,0,1
+Davis,CENTRAL,State House,26,Write-In,,3,0,3
+Davis,NORTHEAST,State House,26,Write-In,,4,1,3
+Davis,NORTHWEST,State House,26,Write-In,,1,0,1
+Davis,SOUTHEAST,State House,26,Write-In,,1,1,0
+Davis,SOUTHWEST,State House,26,Write-In,,0,0,0
+Davis,BLOOMFIELD WARD 1,Supreme Court Justice - David May,,No,,124,67,57
+Davis,BLOOMFIELD WARD 2,Supreme Court Justice - David May,,No,,124,71,53
+Davis,BLOOMFIELD WARD 3,Supreme Court Justice - David May,,No,,95,47,48
+Davis,CENTRAL,Supreme Court Justice - David May,,No,,186,100,86
+Davis,NORTHEAST,Supreme Court Justice - David May,,No,,167,55,112
+Davis,NORTHWEST,Supreme Court Justice - David May,,No,,141,52,89
+Davis,SOUTHEAST,Supreme Court Justice - David May,,No,,132,46,86
+Davis,SOUTHWEST,Supreme Court Justice - David May,,No,,70,27,43
+Davis,BLOOMFIELD WARD 1,Supreme Court Justice - David May,,Yes,,208,102,106
+Davis,BLOOMFIELD WARD 2,Supreme Court Justice - David May,,Yes,,231,103,128
+Davis,BLOOMFIELD WARD 3,Supreme Court Justice - David May,,Yes,,228,106,122
+Davis,CENTRAL,Supreme Court Justice - David May,,Yes,,308,135,173
+Davis,NORTHEAST,Supreme Court Justice - David May,,Yes,,316,104,212
+Davis,NORTHWEST,Supreme Court Justice - David May,,Yes,,285,99,186
+Davis,SOUTHEAST,Supreme Court Justice - David May,,Yes,,239,85,154
+Davis,SOUTHWEST,Supreme Court Justice - David May,,Yes,,133,51,82
+Davis,BLOOMFIELD WARD 1,U.S. House,3,Lanon Baccam,DEM,132,72,60
+Davis,BLOOMFIELD WARD 2,U.S. House,3,Lanon Baccam,DEM,148,89,59
+Davis,BLOOMFIELD WARD 3,U.S. House,3,Lanon Baccam,DEM,120,67,53
+Davis,CENTRAL,U.S. House,3,Lanon Baccam,DEM,157,92,65
+Davis,NORTHEAST,U.S. House,3,Lanon Baccam,DEM,125,55,70
+Davis,NORTHWEST,U.S. House,3,Lanon Baccam,DEM,101,44,57
+Davis,SOUTHEAST,U.S. House,3,Lanon Baccam,DEM,91,48,43
+Davis,SOUTHWEST,U.S. House,3,Lanon Baccam,DEM,61,26,35
+Davis,BLOOMFIELD WARD 1,U.S. House,3,Write-In,,0,0,0
+Davis,BLOOMFIELD WARD 2,U.S. House,3,Write-In,,0,0,0
+Davis,BLOOMFIELD WARD 3,U.S. House,3,Write-In,,3,0,3
+Davis,CENTRAL,U.S. House,3,Write-In,,1,0,1
+Davis,NORTHEAST,U.S. House,3,Write-In,,4,1,3
+Davis,NORTHWEST,U.S. House,3,Write-In,,0,0,0
+Davis,SOUTHEAST,U.S. House,3,Write-In,,2,2,0
+Davis,SOUTHWEST,U.S. House,3,Write-In,,0,0,0
+Davis,BLOOMFIELD WARD 1,U.S. House,3,Zach Nunn,REP,287,146,141
+Davis,BLOOMFIELD WARD 2,U.S. House,3,Zach Nunn,REP,288,126,162
+Davis,BLOOMFIELD WARD 3,U.S. House,3,Zach Nunn,REP,277,126,151
+Davis,CENTRAL,U.S. House,3,Zach Nunn,REP,475,217,258
+Davis,NORTHEAST,U.S. House,3,Zach Nunn,REP,483,167,316
+Davis,NORTHWEST,U.S. House,3,Zach Nunn,REP,428,161,267
+Davis,SOUTHEAST,U.S. House,3,Zach Nunn,REP,425,124,301
+Davis,SOUTHWEST,U.S. House,3,Zach Nunn,REP,218,77,141
+Davis,SOUTHEAST,Union Township Trustee,,Lincoln Utt,,155,57,98
+Davis,SOUTHEAST,Union Township Trustee,,Write-In,,4,2,2
+Davis,SOUTHEAST,Van Buren County School - Public Measure UR,,No,,13,2,11
+Davis,SOUTHEAST,Van Buren County School - Public Measure UR,,Yes,,1,0,1
+Davis,SOUTHWEST,West Grove Township Trustee,,Ray Fine,,105,35,70
+Davis,SOUTHWEST,West Grove Township Trustee,,Write-In,,0,0,0
+Davis,CENTRAL,Wyacondah Township Trustee,,Rosalee Russell,,177,91,86
+Davis,CENTRAL,Wyacondah Township Trustee,,Write-In,,5,4,1

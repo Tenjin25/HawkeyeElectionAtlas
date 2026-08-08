@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2022,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "governor",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2022_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 131081,
+        "rep_votes": 169162,
+        "other_votes": 7527,
+        "total_votes": 307770,
+        "dem_candidate": "Deidre Dejear And Eric Van Lancker",
+        "rep_candidate": "Kim Reynolds And Adam Gregg",
+        "margin": 38081,
+        "margin_pct": 12.373200766806383,
+        "winner": "REP",
+        "color": "#e93a2d"
+      },
+      "2": {
+        "dem_votes": 129631,
+        "rep_votes": 180877,
+        "other_votes": 8623,
+        "total_votes": 319131,
+        "dem_candidate": "Deidre Dejear And Eric Van Lancker",
+        "rep_candidate": "Kim Reynolds And Adam Gregg",
+        "margin": 51246,
+        "margin_pct": 16.057982458614173,
+        "winner": "REP",
+        "color": "#e93a2d"
+      },
+      "3": {
+        "dem_votes": 139112,
+        "rep_votes": 165755,
+        "other_votes": 7930,
+        "total_votes": 312797,
+        "dem_candidate": "Deidre Dejear And Eric Van Lancker",
+        "rep_candidate": "Kim Reynolds And Adam Gregg",
+        "margin": 26643,
+        "margin_pct": 8.51766481136328,
+        "winner": "REP",
+        "color": "#f7634b"
+      },
+      "4": {
+        "dem_votes": 83126,
+        "rep_votes": 193404,
+        "other_votes": 5636,
+        "total_votes": 282166,
+        "dem_candidate": "Deidre Dejear And Eric Van Lancker",
+        "rep_candidate": "Kim Reynolds And Adam Gregg",
+        "margin": 110278,
+        "margin_pct": 39.08266764953963,
+        "winner": "REP",
+        "color": "#a50f15"
+      }
+    }
+  }
+}

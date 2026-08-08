@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2010,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "treasurer",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2010_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 147001,
+        "rep_votes": 123355,
+        "other_votes": 245,
+        "total_votes": 270601,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "David D Jamison",
+        "margin": -23646,
+        "margin_pct": -8.738326909361014,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "2": {
+        "dem_votes": 157992,
+        "rep_votes": 122851,
+        "other_votes": 179,
+        "total_votes": 281022,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "David D Jamison",
+        "margin": -35141,
+        "margin_pct": -12.504714933350414,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "3": {
+        "dem_votes": 141472,
+        "rep_votes": 113339,
+        "other_votes": 196,
+        "total_votes": 255007,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "David D Jamison",
+        "margin": -28133,
+        "margin_pct": -11.03224617363445,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "4": {
+        "dem_votes": 120957,
+        "rep_votes": 145060,
+        "other_votes": 175,
+        "total_votes": 266192,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "David D Jamison",
+        "margin": 24103,
+        "margin_pct": 9.054742441545951,
+        "winner": "REP",
+        "color": "#f7634b"
+      }
+    }
+  }
+}

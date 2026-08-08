@@ -1,0 +1,287 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Decatur,Lamoni,Bloomington Township Trustee,,Dick Ballantyne,,76,37,39
+Decatur,Lamoni,Bloomington Township Trustee,,Kyle Leonard,,75,34,41
+Decatur,Lamoni,Bloomington Township Trustee,,Write-In,,0,0,0
+Decatur,Davis,Burrell Township Trustee,,Aaron Perkins,,59,21,38
+Decatur,Davis,Burrell Township Trustee,,Andrew Yoder,,85,26,59
+Decatur,Davis,Burrell Township Trustee,,Write-In,,4,0,4
+Decatur,Leon,Center Township Clerk To Fill a Vacancy,,Juanita Yutzy,,145,50,95
+Decatur,Leon,Center Township Clerk To Fill a Vacancy,,Write-In,,0,0,0
+Decatur,Leon,Center Township Trustee,,Robert Bixby,,104,37,67
+Decatur,Leon,Center Township Trustee,,Terry Bundt,,125,42,83
+Decatur,Leon,Center Township Trustee,,Write-In,,0,0,0
+Decatur,Davis,Constitutional Amendment 1,,No,,133,60,73
+Decatur,Lamoni,Constitutional Amendment 1,,No,,208,59,149
+Decatur,Leon,Constitutional Amendment 1,,No,,228,94,134
+Decatur,Van Wert,Constitutional Amendment 1,,No,,140,43,97
+Decatur,Davis,Constitutional Amendment 1,,Yes,,472,199,273
+Decatur,Lamoni,Constitutional Amendment 1,,Yes,,738,203,535
+Decatur,Leon,Constitutional Amendment 1,,Yes,,957,402,555
+Decatur,Van Wert,Constitutional Amendment 1,,Yes,,567,207,360
+Decatur,Davis,Constitutional Amendment 2,,No,,89,38,51
+Decatur,Lamoni,Constitutional Amendment 2,,No,,154,43,111
+Decatur,Leon,Constitutional Amendment 2,,No,,127,54,73
+Decatur,Van Wert,Constitutional Amendment 2,,No,,91,32,59
+Decatur,Davis,Constitutional Amendment 2,,Yes,,504,215,289
+Decatur,Lamoni,Constitutional Amendment 2,,Yes,,772,215,557
+Decatur,Leon,Constitutional Amendment 2,,Yes,,1039,431,608
+Decatur,Van Wert,Constitutional Amendment 2,,Yes,,604,212,392
+Decatur,Davis,County Agricultural Extension Council Member,,Britany Braun,,309,112,197
+Decatur,Lamoni,County Agricultural Extension Council Member,,Britany Braun,,472,151,321
+Decatur,Leon,County Agricultural Extension Council Member,,Britany Braun,,642,271,371
+Decatur,Van Wert,County Agricultural Extension Council Member,,Britany Braun,,391,129,262
+Decatur,Davis,County Agricultural Extension Council Member,,Julia J. Van Laar,,389,143,246
+Decatur,Lamoni,County Agricultural Extension Council Member,,Julia J. Van Laar,,526,164,362
+Decatur,Leon,County Agricultural Extension Council Member,,Julia J. Van Laar,,804,342,462
+Decatur,Van Wert,County Agricultural Extension Council Member,,Julia J. Van Laar,,468,157,311
+Decatur,Davis,County Agricultural Extension Council Member,,Noah Thomas,,364,140,224
+Decatur,Lamoni,County Agricultural Extension Council Member,,Noah Thomas,,475,144,331
+Decatur,Leon,County Agricultural Extension Council Member,,Noah Thomas,,771,323,448
+Decatur,Van Wert,County Agricultural Extension Council Member,,Noah Thomas,,413,144,269
+Decatur,Davis,County Agricultural Extension Council Member,,Randi Elliott,,339,120,219
+Decatur,Lamoni,County Agricultural Extension Council Member,,Randi Elliott,,600,175,425
+Decatur,Leon,County Agricultural Extension Council Member,,Randi Elliott,,672,286,386
+Decatur,Van Wert,County Agricultural Extension Council Member,,Randi Elliott,,379,133,246
+Decatur,Davis,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Decatur,Lamoni,County Agricultural Extension Council Member,,Write-In,,9,2,7
+Decatur,Leon,County Agricultural Extension Council Member,,Write-In,,5,3,2
+Decatur,Van Wert,County Agricultural Extension Council Member,,Write-In,,9,2,7
+Decatur,Davis,County Attorney To Fill a Vacancy,,Alan Wilson,,4,2,2
+Decatur,Lamoni,County Attorney To Fill a Vacancy,,Alan Wilson,,5,1,4
+Decatur,Leon,County Attorney To Fill a Vacancy,,Alan Wilson,,5,3,2
+Decatur,Van Wert,County Attorney To Fill a Vacancy,,Alan Wilson,,3,1,2
+Decatur,Davis,County Attorney To Fill a Vacancy,,Write-In,,20,4,16
+Decatur,Lamoni,County Attorney To Fill a Vacancy,,Write-In,,47,11,36
+Decatur,Leon,County Attorney To Fill a Vacancy,,Write-In,,39,16,23
+Decatur,Van Wert,County Attorney To Fill a Vacancy,,Write-In,,32,5,27
+Decatur,Davis,County Auditor,,Charlene Hoover,LIB,187,115,72
+Decatur,Lamoni,County Auditor,,Charlene Hoover,LIB,319,111,208
+Decatur,Leon,County Auditor,,Charlene Hoover,LIB,421,223,198
+Decatur,Van Wert,County Auditor,,Charlene Hoover,LIB,257,106,151
+Decatur,Davis,County Auditor,,Stephanie Daughton,REP,424,141,283
+Decatur,Lamoni,County Auditor,,Stephanie Daughton,REP,629,148,481
+Decatur,Leon,County Auditor,,Stephanie Daughton,REP,803,295,508
+Decatur,Van Wert,County Auditor,,Stephanie Daughton,REP,465,147,318
+Decatur,Davis,County Auditor,,Write-In,,3,0,3
+Decatur,Lamoni,County Auditor,,Write-In,,4,0,4
+Decatur,Leon,County Auditor,,Write-In,,1,1,0
+Decatur,Van Wert,County Auditor,,Write-In,,3,0,3
+Decatur,Davis,County Board of Supervisors,,Doug Tharp,REP,462,197,265
+Decatur,Lamoni,County Board of Supervisors,,Doug Tharp,REP,565,160,405
+Decatur,Leon,County Board of Supervisors,,Doug Tharp,REP,926,393,533
+Decatur,Van Wert,County Board of Supervisors,,Doug Tharp,REP,488,172,316
+Decatur,Davis,County Board of Supervisors,,Rita A. Audlehelm,DEM,220,89,131
+Decatur,Lamoni,County Board of Supervisors,,Rita A. Audlehelm,DEM,384,126,258
+Decatur,Leon,County Board of Supervisors,,Rita A. Audlehelm,DEM,534,217,317
+Decatur,Van Wert,County Board of Supervisors,,Rita A. Audlehelm,DEM,336,115,221
+Decatur,Davis,County Board of Supervisors,,Ward Graham,REP,353,154,199
+Decatur,Lamoni,County Board of Supervisors,,Ward Graham,REP,514,143,371
+Decatur,Leon,County Board of Supervisors,,Ward Graham,REP,575,261,314
+Decatur,Van Wert,County Board of Supervisors,,Ward Graham,REP,304,114,190
+Decatur,Davis,County Board of Supervisors,,Write-In,,13,3,10
+Decatur,Lamoni,County Board of Supervisors,,Write-In,,6,0,6
+Decatur,Leon,County Board of Supervisors,,Write-In,,6,4,2
+Decatur,Van Wert,County Board of Supervisors,,Write-In,,9,4,5
+Decatur,Davis,County Sheriff,,Chris Lane,REP,552,220,332
+Decatur,Lamoni,County Sheriff,,Chris Lane,REP,840,226,614
+Decatur,Leon,County Sheriff,,Chris Lane,REP,1129,473,656
+Decatur,Van Wert,County Sheriff,,Chris Lane,REP,650,224,426
+Decatur,Davis,County Sheriff,,Write-In,,11,4,7
+Decatur,Lamoni,County Sheriff,,Write-In,,12,1,11
+Decatur,Leon,County Sheriff,,Write-In,,25,8,17
+Decatur,Van Wert,County Sheriff,,Write-In,,10,2,8
+Decatur,Davis,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,164,58,106
+Decatur,Lamoni,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,170,43,127
+Decatur,Leon,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,298,113,185
+Decatur,Van Wert,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,171,52,119
+Decatur,Davis,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,249,104,145
+Decatur,Lamoni,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,531,142,389
+Decatur,Leon,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,591,224,367
+Decatur,Van Wert,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,359,106,253
+Decatur,Davis,Court of Appeals Judge - Mary Ellen Tabor,,No,,169,63,106
+Decatur,Lamoni,Court of Appeals Judge - Mary Ellen Tabor,,No,,176,45,131
+Decatur,Leon,Court of Appeals Judge - Mary Ellen Tabor,,No,,299,107,192
+Decatur,Van Wert,Court of Appeals Judge - Mary Ellen Tabor,,No,,169,49,120
+Decatur,Davis,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,242,99,143
+Decatur,Lamoni,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,529,145,384
+Decatur,Leon,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,590,227,363
+Decatur,Van Wert,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,364,112,252
+Decatur,Davis,Court of Appeals Judge - Samuel Langholz,,No,,160,62,98
+Decatur,Lamoni,Court of Appeals Judge - Samuel Langholz,,No,,191,56,135
+Decatur,Leon,Court of Appeals Judge - Samuel Langholz,,No,,312,128,184
+Decatur,Van Wert,Court of Appeals Judge - Samuel Langholz,,No,,170,56,114
+Decatur,Davis,Court of Appeals Judge - Samuel Langholz,,Yes,,261,103,158
+Decatur,Lamoni,Court of Appeals Judge - Samuel Langholz,,Yes,,513,134,379
+Decatur,Leon,Court of Appeals Judge - Samuel Langholz,,Yes,,591,213,378
+Decatur,Van Wert,Court of Appeals Judge - Samuel Langholz,,Yes,,373,107,266
+Decatur,Davis,Court of Appeals Judge - Tyler J. Buller,,No,,153,57,96
+Decatur,Lamoni,Court of Appeals Judge - Tyler J. Buller,,No,,171,44,127
+Decatur,Leon,Court of Appeals Judge - Tyler J. Buller,,No,,296,118,178
+Decatur,Van Wert,Court of Appeals Judge - Tyler J. Buller,,No,,158,53,105
+Decatur,Davis,Court of Appeals Judge - Tyler J. Buller,,Yes,,253,100,153
+Decatur,Lamoni,Court of Appeals Judge - Tyler J. Buller,,Yes,,524,137,387
+Decatur,Leon,Court of Appeals Judge - Tyler J. Buller,,Yes,,588,218,370
+Decatur,Van Wert,Court of Appeals Judge - Tyler J. Buller,,Yes,,372,109,263
+Decatur,Davis,Decatur County Hospital Trustee,,Cheryl Zach,,298,105,193
+Decatur,Lamoni,Decatur County Hospital Trustee,,Cheryl Zach,,483,149,334
+Decatur,Leon,Decatur County Hospital Trustee,,Cheryl Zach,,665,280,385
+Decatur,Van Wert,Decatur County Hospital Trustee,,Cheryl Zach,,380,122,258
+Decatur,Davis,Decatur County Hospital Trustee,,Rebekah Mendenhall,,421,166,255
+Decatur,Lamoni,Decatur County Hospital Trustee,,Rebekah Mendenhall,,552,170,382
+Decatur,Leon,Decatur County Hospital Trustee,,Rebekah Mendenhall,,878,347,531
+Decatur,Van Wert,Decatur County Hospital Trustee,,Rebekah Mendenhall,,486,158,328
+Decatur,Davis,Decatur County Hospital Trustee,,Teri J. Foster,,320,111,209
+Decatur,Lamoni,Decatur County Hospital Trustee,,Teri J. Foster,,669,201,468
+Decatur,Leon,Decatur County Hospital Trustee,,Teri J. Foster,,687,285,402
+Decatur,Van Wert,Decatur County Hospital Trustee,,Teri J. Foster,,391,132,259
+Decatur,Davis,Decatur County Hospital Trustee,,Write-In,,4,1,3
+Decatur,Lamoni,Decatur County Hospital Trustee,,Write-In,,9,1,8
+Decatur,Leon,Decatur County Hospital Trustee,,Write-In,,11,8,3
+Decatur,Van Wert,Decatur County Hospital Trustee,,Write-In,,4,1,3
+Decatur,Leon,Decatur Township Clerk To Fill a Vacancy,,Sue Short,,100,43,57
+Decatur,Leon,Decatur Township Clerk To Fill a Vacancy,,Write-In,,1,0,1
+Decatur,Leon,Decatur Township Trustee,,Allen Norman,,90,39,51
+Decatur,Leon,Decatur Township Trustee,,Curtis A. Cotterill,,64,28,36
+Decatur,Leon,Decatur Township Trustee,,Write-In,,1,0,1
+Decatur,Davis,District 5B Judge - Patrick W. Greenwood,,No,,101,39,62
+Decatur,Lamoni,District 5B Judge - Patrick W. Greenwood,,No,,94,26,68
+Decatur,Leon,District 5B Judge - Patrick W. Greenwood,,No,,178,62,116
+Decatur,Van Wert,District 5B Judge - Patrick W. Greenwood,,No,,132,42,90
+Decatur,Davis,District 5B Judge - Patrick W. Greenwood,,Yes,,380,145,235
+Decatur,Lamoni,District 5B Judge - Patrick W. Greenwood,,Yes,,733,199,534
+Decatur,Leon,District 5B Judge - Patrick W. Greenwood,,Yes,,868,360,508
+Decatur,Van Wert,District 5B Judge - Patrick W. Greenwood,,Yes,,450,134,316
+Decatur,Davis,Eden Township Trustee,,Nancy Boyd,,111,49,62
+Decatur,Davis,Eden Township Trustee,,Vaughn L. Akers,,120,56,64
+Decatur,Davis,Eden Township Trustee,,Write-In,,1,0,1
+Decatur,Lamoni,Fayette Township Trustee,,Kyle Stoll,,72,18,54
+Decatur,Lamoni,Fayette Township Trustee,,Steve Hofmann,,73,17,56
+Decatur,Lamoni,Fayette Township Trustee,,Write-In,,2,1,1
+Decatur,Van Wert,Franklin Township Trustee,,Kevin Kosman,,3,1,2
+Decatur,Van Wert,Franklin Township Trustee,,Kolby Dudney,,3,0,3
+Decatur,Van Wert,Franklin Township Trustee,,Write-In,,9,2,7
+Decatur,Van Wert,Garden Grove Township Trustee,,Gary Stripe,,7,1,6
+Decatur,Van Wert,Garden Grove Township Trustee,,Lewis Charles Erickson,,15,4,11
+Decatur,Van Wert,Garden Grove Township Trustee,,Write-In,,11,3,8
+Decatur,Leon,Grand River Township Trustee,,Donald K. Hewlett,,40,20,20
+Decatur,Leon,Grand River Township Trustee,,Ronnie Binning,,41,21,20
+Decatur,Leon,Grand River Township Trustee,,Write-In,,1,0,1
+Decatur,Davis,Hamilton Township Trustee,,Arlie J. Meyers,,11,7,4
+Decatur,Davis,Hamilton Township Trustee,,Diane Cornett,,14,6,8
+Decatur,Davis,Hamilton Township Trustee,,Write-In,,11,4,7
+Decatur,Davis,Hamilton Township Trustee To Fill a Vacancy,,Steve Hill,,60,21,39
+Decatur,Davis,Hamilton Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
+Decatur,Leon,High Point Township Trustee,,Justin Mendenhall,,61,29,32
+Decatur,Leon,High Point Township Trustee,,Noah Thomas,,66,30,36
+Decatur,Leon,High Point Township Trustee,,Write-In,,5,1,4
+Decatur,Van Wert,Long Creek Township Clerk To Fill a Vacancy,,David Beers,,3,0,3
+Decatur,Van Wert,Long Creek Township Clerk To Fill a Vacancy,,Write-In,,3,0,3
+Decatur,Van Wert,Long Creek Township Trustee,,Corey Cook,,81,22,59
+Decatur,Van Wert,Long Creek Township Trustee,,Danny L. Palmer,,55,16,39
+Decatur,Van Wert,Long Creek Township Trustee,,Write-In,,9,0,9
+Decatur,Davis,Morgan Township Trustee,,David Brennecke,,37,29,8
+Decatur,Davis,Morgan Township Trustee,,Steve Nordyke,,38,26,12
+Decatur,Davis,Morgan Township Trustee,,Write-In,,0,0,0
+Decatur,Davis,New Buda Township Clerk To Fill a Vacancy,,Kris Vandenburg,,40,4,36
+Decatur,Davis,New Buda Township Clerk To Fill a Vacancy,,Write-In,,1,1,0
+Decatur,Davis,New Buda Township Trustee,,Mike Borrowman,,1,1,0
+Decatur,Davis,New Buda Township Trustee,,Nate Pierschbacher,,1,0,1
+Decatur,Davis,New Buda Township Trustee,,Write-In,,3,1,2
+Decatur,Davis,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Decatur,Lamoni,President,,Chase Oliver and Mike ter Maat,LIB,2,1,1
+Decatur,Leon,President,,Chase Oliver and Mike ter Maat,LIB,4,1,3
+Decatur,Van Wert,President,,Chase Oliver and Mike ter Maat,LIB,6,2,4
+Decatur,Davis,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Decatur,Lamoni,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Decatur,Leon,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Decatur,Van Wert,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Decatur,Davis,President,,Donald J. Trump and JD Vance,REP,544,223,321
+Decatur,Lamoni,President,,Donald J. Trump and JD Vance,REP,627,144,483
+Decatur,Leon,President,,Donald J. Trump and JD Vance,REP,955,365,590
+Decatur,Van Wert,President,,Donald J. Trump and JD Vance,REP,585,196,389
+Decatur,Davis,President,,Kamala D. Harris and Tim Walz,DEM,91,48,43
+Decatur,Lamoni,President,,Kamala D. Harris and Tim Walz,DEM,405,145,260
+Decatur,Leon,President,,Kamala D. Harris and Tim Walz,DEM,298,167,131
+Decatur,Van Wert,President,,Kamala D. Harris and Tim Walz,DEM,163,65,98
+Decatur,Davis,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,4,2
+Decatur,Lamoni,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,11,2,9
+Decatur,Leon,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,16,5,11
+Decatur,Van Wert,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,9,2,7
+Decatur,Davis,President,,Shiva Ayyadurai and Crystal Ellis,,1,0,1
+Decatur,Lamoni,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Decatur,Leon,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Decatur,Van Wert,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Decatur,Davis,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Decatur,Lamoni,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,0,1
+Decatur,Leon,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,0,1
+Decatur,Van Wert,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Decatur,Davis,President,,Write-In,,5,3,2
+Decatur,Lamoni,President,,Write-In,,3,0,3
+Decatur,Leon,President,,Write-In,,2,2,0
+Decatur,Van Wert,President,,Write-In,,2,1,1
+Decatur,Van Wert,Richland Township Trustee,,Anthony Snook,,56,24,32
+Decatur,Van Wert,Richland Township Trustee,,Randall Arnold,,59,25,34
+Decatur,Van Wert,Richland Township Trustee,,Write-In,,6,2,4
+Decatur,Davis,Soil and Water Conservation District Commissioner,,Dan Hostetler,,2,0,2
+Decatur,Lamoni,Soil and Water Conservation District Commissioner,,Dan Hostetler,,6,0,6
+Decatur,Leon,Soil and Water Conservation District Commissioner,,Dan Hostetler,,5,3,2
+Decatur,Van Wert,Soil and Water Conservation District Commissioner,,Dan Hostetler,,12,6,6
+Decatur,Davis,Soil and Water Conservation District Commissioner,,Don Templeton,,353,133,220
+Decatur,Lamoni,Soil and Water Conservation District Commissioner,,Don Templeton,,692,206,486
+Decatur,Leon,Soil and Water Conservation District Commissioner,,Don Templeton,,710,293,417
+Decatur,Van Wert,Soil and Water Conservation District Commissioner,,Don Templeton,,423,140,283
+Decatur,Davis,Soil and Water Conservation District Commissioner,,Mike Brines,,392,140,252
+Decatur,Lamoni,Soil and Water Conservation District Commissioner,,Mike Brines,,518,138,380
+Decatur,Leon,Soil and Water Conservation District Commissioner,,Mike Brines,,868,349,519
+Decatur,Van Wert,Soil and Water Conservation District Commissioner,,Mike Brines,,502,161,341
+Decatur,Davis,Soil and Water Conservation District Commissioner,,Write-In,,13,5,8
+Decatur,Lamoni,Soil and Water Conservation District Commissioner,,Write-In,,30,13,17
+Decatur,Leon,Soil and Water Conservation District Commissioner,,Write-In,,27,13,14
+Decatur,Van Wert,Soil and Water Conservation District Commissioner,,Write-In,,15,4,11
+Decatur,Davis,State House,24,Sam Wengryn,REP,498,216,282
+Decatur,Lamoni,State House,24,Sam Wengryn,REP,595,144,451
+Decatur,Leon,State House,24,Sam Wengryn,REP,868,360,508
+Decatur,Van Wert,State House,24,Sam Wengryn,REP,504,171,333
+Decatur,Davis,State House,24,Sonya Hicks,DEM,123,49,74
+Decatur,Lamoni,State House,24,Sonya Hicks,DEM,387,133,254
+Decatur,Leon,State House,24,Sonya Hicks,DEM,346,150,196
+Decatur,Van Wert,State House,24,Sonya Hicks,DEM,222,84,138
+Decatur,Davis,State House,24,Write-In,,2,0,2
+Decatur,Lamoni,State House,24,Write-In,,2,0,2
+Decatur,Leon,State House,24,Write-In,,5,2,3
+Decatur,Van Wert,State House,24,Write-In,,6,0,6
+Decatur,Davis,State Senate,12,Amy Sinclair,REP,502,210,292
+Decatur,Lamoni,State Senate,12,Amy Sinclair,REP,591,143,448
+Decatur,Leon,State Senate,12,Amy Sinclair,REP,901,362,539
+Decatur,Van Wert,State Senate,12,Amy Sinclair,REP,559,185,374
+Decatur,Davis,State Senate,12,Nicole Loew,DEM,116,52,64
+Decatur,Lamoni,State Senate,12,Nicole Loew,DEM,407,137,270
+Decatur,Leon,State Senate,12,Nicole Loew,DEM,319,150,169
+Decatur,Van Wert,State Senate,12,Nicole Loew,DEM,171,68,103
+Decatur,Davis,State Senate,12,Write-In,,1,0,1
+Decatur,Lamoni,State Senate,12,Write-In,,1,0,1
+Decatur,Leon,State Senate,12,Write-In,,1,0,1
+Decatur,Van Wert,State Senate,12,Write-In,,1,0,1
+Decatur,Davis,Supreme Court Justice - David May,,No,,149,59,90
+Decatur,Lamoni,Supreme Court Justice - David May,,No,,211,70,141
+Decatur,Leon,Supreme Court Justice - David May,,No,,301,134,167
+Decatur,Van Wert,Supreme Court Justice - David May,,No,,154,57,97
+Decatur,Davis,Supreme Court Justice - David May,,Yes,,290,112,178
+Decatur,Lamoni,Supreme Court Justice - David May,,Yes,,532,134,398
+Decatur,Leon,Supreme Court Justice - David May,,Yes,,638,230,408
+Decatur,Van Wert,Supreme Court Justice - David May,,Yes,,404,116,288
+Decatur,Davis,U.S. House,3,Lanon Baccam,DEM,110,47,63
+Decatur,Lamoni,U.S. House,3,Lanon Baccam,DEM,418,135,283
+Decatur,Leon,U.S. House,3,Lanon Baccam,DEM,336,165,171
+Decatur,Van Wert,U.S. House,3,Lanon Baccam,DEM,209,84,125
+Decatur,Davis,U.S. House,3,Write-In,,5,2,3
+Decatur,Lamoni,U.S. House,3,Write-In,,5,0,5
+Decatur,Leon,U.S. House,3,Write-In,,6,2,4
+Decatur,Van Wert,U.S. House,3,Write-In,,6,1,5
+Decatur,Davis,U.S. House,3,Zach Nunn,REP,502,213,289
+Decatur,Lamoni,U.S. House,3,Zach Nunn,REP,589,145,444
+Decatur,Leon,U.S. House,3,Zach Nunn,REP,877,347,530
+Decatur,Van Wert,U.S. House,3,Zach Nunn,REP,521,172,349
+Decatur,Davis,Woodland Township Trustee,,Charles D. Partridge,,36,21,15
+Decatur,Davis,Woodland Township Trustee,,Robert Hamaker,,49,30,19
+Decatur,Davis,Woodland Township Trustee,,Write-In,,2,2,0

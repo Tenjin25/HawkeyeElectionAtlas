@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2020,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "president",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
+    "geographic_precision": "precinct_crosswalk",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_verified/2020_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 203401,
+        "rep_votes": 215744,
+        "other_votes": 8916,
+        "total_votes": 428061,
+        "dem_candidate": "Joe Biden",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 12343,
+        "margin_pct": 2.8834675431772574,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "2": {
+        "dem_votes": 203245,
+        "rep_votes": 222310,
+        "other_votes": 8863,
+        "total_votes": 434418,
+        "dem_candidate": "Joe Biden",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 19065,
+        "margin_pct": 4.388630305374087,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "3": {
+        "dem_votes": 205591,
+        "rep_votes": 207042,
+        "other_votes": 8563,
+        "total_votes": 421196,
+        "dem_candidate": "Joe Biden",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 1451,
+        "margin_pct": 0.34449519938460954,
+        "winner": "REP",
+        "color": "#f7f7f7"
+      },
+      "4": {
+        "dem_votes": 146824,
+        "rep_votes": 252576,
+        "other_votes": 7796,
+        "total_votes": 407196,
+        "dem_candidate": "Joe Biden",
+        "rep_candidate": "Donald J. Trump",
+        "margin": 105752,
+        "margin_pct": 25.97078556763819,
+        "winner": "REP",
+        "color": "#cb181d"
+      }
+    }
+  }
+}

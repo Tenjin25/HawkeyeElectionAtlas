@@ -1,0 +1,599 @@
+{
+  "source": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/",
+  "files": [
+    {
+      "geoid": "19001",
+      "county_directory": "19001_Adair_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19001_Adair_County/tl_2008_19001_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19001_vtd00.zip"
+    },
+    {
+      "geoid": "19003",
+      "county_directory": "19003_Adams_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19003_Adams_County/tl_2008_19003_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19003_vtd00.zip"
+    },
+    {
+      "geoid": "19005",
+      "county_directory": "19005_Allamakee_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19005_Allamakee_County/tl_2008_19005_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19005_vtd00.zip"
+    },
+    {
+      "geoid": "19007",
+      "county_directory": "19007_Appanoose_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19007_Appanoose_County/tl_2008_19007_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19007_vtd00.zip"
+    },
+    {
+      "geoid": "19009",
+      "county_directory": "19009_Audubon_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19009_Audubon_County/tl_2008_19009_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19009_vtd00.zip"
+    },
+    {
+      "geoid": "19011",
+      "county_directory": "19011_Benton_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19011_Benton_County/tl_2008_19011_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19011_vtd00.zip"
+    },
+    {
+      "geoid": "19013",
+      "county_directory": "19013_Black_Hawk_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19013_Black_Hawk_County/tl_2008_19013_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19013_vtd00.zip"
+    },
+    {
+      "geoid": "19015",
+      "county_directory": "19015_Boone_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19015_Boone_County/tl_2008_19015_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19015_vtd00.zip"
+    },
+    {
+      "geoid": "19017",
+      "county_directory": "19017_Bremer_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19017_Bremer_County/tl_2008_19017_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19017_vtd00.zip"
+    },
+    {
+      "geoid": "19019",
+      "county_directory": "19019_Buchanan_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19019_Buchanan_County/tl_2008_19019_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19019_vtd00.zip"
+    },
+    {
+      "geoid": "19021",
+      "county_directory": "19021_Buena_Vista_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19021_Buena_Vista_County/tl_2008_19021_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19021_vtd00.zip"
+    },
+    {
+      "geoid": "19023",
+      "county_directory": "19023_Butler_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19023_Butler_County/tl_2008_19023_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19023_vtd00.zip"
+    },
+    {
+      "geoid": "19025",
+      "county_directory": "19025_Calhoun_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19025_Calhoun_County/tl_2008_19025_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19025_vtd00.zip"
+    },
+    {
+      "geoid": "19027",
+      "county_directory": "19027_Carroll_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19027_Carroll_County/tl_2008_19027_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19027_vtd00.zip"
+    },
+    {
+      "geoid": "19029",
+      "county_directory": "19029_Cass_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19029_Cass_County/tl_2008_19029_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19029_vtd00.zip"
+    },
+    {
+      "geoid": "19031",
+      "county_directory": "19031_Cedar_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19031_Cedar_County/tl_2008_19031_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19031_vtd00.zip"
+    },
+    {
+      "geoid": "19033",
+      "county_directory": "19033_Cerro_Gordo_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19033_Cerro_Gordo_County/tl_2008_19033_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19033_vtd00.zip"
+    },
+    {
+      "geoid": "19035",
+      "county_directory": "19035_Cherokee_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19035_Cherokee_County/tl_2008_19035_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19035_vtd00.zip"
+    },
+    {
+      "geoid": "19037",
+      "county_directory": "19037_Chickasaw_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19037_Chickasaw_County/tl_2008_19037_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19037_vtd00.zip"
+    },
+    {
+      "geoid": "19039",
+      "county_directory": "19039_Clarke_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19039_Clarke_County/tl_2008_19039_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19039_vtd00.zip"
+    },
+    {
+      "geoid": "19041",
+      "county_directory": "19041_Clay_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19041_Clay_County/tl_2008_19041_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19041_vtd00.zip"
+    },
+    {
+      "geoid": "19043",
+      "county_directory": "19043_Clayton_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19043_Clayton_County/tl_2008_19043_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19043_vtd00.zip"
+    },
+    {
+      "geoid": "19045",
+      "county_directory": "19045_Clinton_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19045_Clinton_County/tl_2008_19045_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19045_vtd00.zip"
+    },
+    {
+      "geoid": "19047",
+      "county_directory": "19047_Crawford_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19047_Crawford_County/tl_2008_19047_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19047_vtd00.zip"
+    },
+    {
+      "geoid": "19049",
+      "county_directory": "19049_Dallas_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19049_Dallas_County/tl_2008_19049_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19049_vtd00.zip"
+    },
+    {
+      "geoid": "19051",
+      "county_directory": "19051_Davis_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19051_Davis_County/tl_2008_19051_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19051_vtd00.zip"
+    },
+    {
+      "geoid": "19053",
+      "county_directory": "19053_Decatur_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19053_Decatur_County/tl_2008_19053_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19053_vtd00.zip"
+    },
+    {
+      "geoid": "19055",
+      "county_directory": "19055_Delaware_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19055_Delaware_County/tl_2008_19055_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19055_vtd00.zip"
+    },
+    {
+      "geoid": "19057",
+      "county_directory": "19057_Des_Moines_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19057_Des_Moines_County/tl_2008_19057_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19057_vtd00.zip"
+    },
+    {
+      "geoid": "19059",
+      "county_directory": "19059_Dickinson_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19059_Dickinson_County/tl_2008_19059_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19059_vtd00.zip"
+    },
+    {
+      "geoid": "19061",
+      "county_directory": "19061_Dubuque_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19061_Dubuque_County/tl_2008_19061_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19061_vtd00.zip"
+    },
+    {
+      "geoid": "19063",
+      "county_directory": "19063_Emmet_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19063_Emmet_County/tl_2008_19063_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19063_vtd00.zip"
+    },
+    {
+      "geoid": "19065",
+      "county_directory": "19065_Fayette_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19065_Fayette_County/tl_2008_19065_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19065_vtd00.zip"
+    },
+    {
+      "geoid": "19067",
+      "county_directory": "19067_Floyd_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19067_Floyd_County/tl_2008_19067_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19067_vtd00.zip"
+    },
+    {
+      "geoid": "19069",
+      "county_directory": "19069_Franklin_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19069_Franklin_County/tl_2008_19069_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19069_vtd00.zip"
+    },
+    {
+      "geoid": "19071",
+      "county_directory": "19071_Fremont_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19071_Fremont_County/tl_2008_19071_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19071_vtd00.zip"
+    },
+    {
+      "geoid": "19073",
+      "county_directory": "19073_Greene_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19073_Greene_County/tl_2008_19073_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19073_vtd00.zip"
+    },
+    {
+      "geoid": "19075",
+      "county_directory": "19075_Grundy_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19075_Grundy_County/tl_2008_19075_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19075_vtd00.zip"
+    },
+    {
+      "geoid": "19077",
+      "county_directory": "19077_Guthrie_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19077_Guthrie_County/tl_2008_19077_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19077_vtd00.zip"
+    },
+    {
+      "geoid": "19079",
+      "county_directory": "19079_Hamilton_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19079_Hamilton_County/tl_2008_19079_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19079_vtd00.zip"
+    },
+    {
+      "geoid": "19081",
+      "county_directory": "19081_Hancock_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19081_Hancock_County/tl_2008_19081_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19081_vtd00.zip"
+    },
+    {
+      "geoid": "19083",
+      "county_directory": "19083_Hardin_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19083_Hardin_County/tl_2008_19083_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19083_vtd00.zip"
+    },
+    {
+      "geoid": "19085",
+      "county_directory": "19085_Harrison_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19085_Harrison_County/tl_2008_19085_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19085_vtd00.zip"
+    },
+    {
+      "geoid": "19087",
+      "county_directory": "19087_Henry_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19087_Henry_County/tl_2008_19087_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19087_vtd00.zip"
+    },
+    {
+      "geoid": "19089",
+      "county_directory": "19089_Howard_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19089_Howard_County/tl_2008_19089_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19089_vtd00.zip"
+    },
+    {
+      "geoid": "19091",
+      "county_directory": "19091_Humboldt_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19091_Humboldt_County/tl_2008_19091_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19091_vtd00.zip"
+    },
+    {
+      "geoid": "19093",
+      "county_directory": "19093_Ida_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19093_Ida_County/tl_2008_19093_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19093_vtd00.zip"
+    },
+    {
+      "geoid": "19095",
+      "county_directory": "19095_Iowa_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19095_Iowa_County/tl_2008_19095_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19095_vtd00.zip"
+    },
+    {
+      "geoid": "19097",
+      "county_directory": "19097_Jackson_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19097_Jackson_County/tl_2008_19097_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19097_vtd00.zip"
+    },
+    {
+      "geoid": "19099",
+      "county_directory": "19099_Jasper_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19099_Jasper_County/tl_2008_19099_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19099_vtd00.zip"
+    },
+    {
+      "geoid": "19101",
+      "county_directory": "19101_Jefferson_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19101_Jefferson_County/tl_2008_19101_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19101_vtd00.zip"
+    },
+    {
+      "geoid": "19103",
+      "county_directory": "19103_Johnson_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19103_Johnson_County/tl_2008_19103_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19103_vtd00.zip"
+    },
+    {
+      "geoid": "19105",
+      "county_directory": "19105_Jones_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19105_Jones_County/tl_2008_19105_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19105_vtd00.zip"
+    },
+    {
+      "geoid": "19107",
+      "county_directory": "19107_Keokuk_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19107_Keokuk_County/tl_2008_19107_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19107_vtd00.zip"
+    },
+    {
+      "geoid": "19109",
+      "county_directory": "19109_Kossuth_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19109_Kossuth_County/tl_2008_19109_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19109_vtd00.zip"
+    },
+    {
+      "geoid": "19111",
+      "county_directory": "19111_Lee_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19111_Lee_County/tl_2008_19111_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19111_vtd00.zip"
+    },
+    {
+      "geoid": "19113",
+      "county_directory": "19113_Linn_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19113_Linn_County/tl_2008_19113_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19113_vtd00.zip"
+    },
+    {
+      "geoid": "19115",
+      "county_directory": "19115_Louisa_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19115_Louisa_County/tl_2008_19115_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19115_vtd00.zip"
+    },
+    {
+      "geoid": "19117",
+      "county_directory": "19117_Lucas_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19117_Lucas_County/tl_2008_19117_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19117_vtd00.zip"
+    },
+    {
+      "geoid": "19119",
+      "county_directory": "19119_Lyon_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19119_Lyon_County/tl_2008_19119_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19119_vtd00.zip"
+    },
+    {
+      "geoid": "19121",
+      "county_directory": "19121_Madison_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19121_Madison_County/tl_2008_19121_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19121_vtd00.zip"
+    },
+    {
+      "geoid": "19123",
+      "county_directory": "19123_Mahaska_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19123_Mahaska_County/tl_2008_19123_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19123_vtd00.zip"
+    },
+    {
+      "geoid": "19125",
+      "county_directory": "19125_Marion_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19125_Marion_County/tl_2008_19125_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19125_vtd00.zip"
+    },
+    {
+      "geoid": "19127",
+      "county_directory": "19127_Marshall_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19127_Marshall_County/tl_2008_19127_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19127_vtd00.zip"
+    },
+    {
+      "geoid": "19129",
+      "county_directory": "19129_Mills_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19129_Mills_County/tl_2008_19129_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19129_vtd00.zip"
+    },
+    {
+      "geoid": "19131",
+      "county_directory": "19131_Mitchell_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19131_Mitchell_County/tl_2008_19131_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19131_vtd00.zip"
+    },
+    {
+      "geoid": "19133",
+      "county_directory": "19133_Monona_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19133_Monona_County/tl_2008_19133_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19133_vtd00.zip"
+    },
+    {
+      "geoid": "19135",
+      "county_directory": "19135_Monroe_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19135_Monroe_County/tl_2008_19135_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19135_vtd00.zip"
+    },
+    {
+      "geoid": "19137",
+      "county_directory": "19137_Montgomery_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19137_Montgomery_County/tl_2008_19137_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19137_vtd00.zip"
+    },
+    {
+      "geoid": "19139",
+      "county_directory": "19139_Muscatine_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19139_Muscatine_County/tl_2008_19139_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19139_vtd00.zip"
+    },
+    {
+      "geoid": "19141",
+      "county_directory": "19141_OBrien_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19141_OBrien_County/tl_2008_19141_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19141_vtd00.zip"
+    },
+    {
+      "geoid": "19143",
+      "county_directory": "19143_Osceola_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19143_Osceola_County/tl_2008_19143_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19143_vtd00.zip"
+    },
+    {
+      "geoid": "19145",
+      "county_directory": "19145_Page_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19145_Page_County/tl_2008_19145_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19145_vtd00.zip"
+    },
+    {
+      "geoid": "19147",
+      "county_directory": "19147_Palo_Alto_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19147_Palo_Alto_County/tl_2008_19147_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19147_vtd00.zip"
+    },
+    {
+      "geoid": "19149",
+      "county_directory": "19149_Plymouth_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19149_Plymouth_County/tl_2008_19149_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19149_vtd00.zip"
+    },
+    {
+      "geoid": "19151",
+      "county_directory": "19151_Pocahontas_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19151_Pocahontas_County/tl_2008_19151_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19151_vtd00.zip"
+    },
+    {
+      "geoid": "19153",
+      "county_directory": "19153_Polk_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19153_Polk_County/tl_2008_19153_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19153_vtd00.zip"
+    },
+    {
+      "geoid": "19155",
+      "county_directory": "19155_Pottawattamie_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19155_Pottawattamie_County/tl_2008_19155_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19155_vtd00.zip"
+    },
+    {
+      "geoid": "19157",
+      "county_directory": "19157_Poweshiek_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19157_Poweshiek_County/tl_2008_19157_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19157_vtd00.zip"
+    },
+    {
+      "geoid": "19159",
+      "county_directory": "19159_Ringgold_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19159_Ringgold_County/tl_2008_19159_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19159_vtd00.zip"
+    },
+    {
+      "geoid": "19161",
+      "county_directory": "19161_Sac_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19161_Sac_County/tl_2008_19161_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19161_vtd00.zip"
+    },
+    {
+      "geoid": "19163",
+      "county_directory": "19163_Scott_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19163_Scott_County/tl_2008_19163_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19163_vtd00.zip"
+    },
+    {
+      "geoid": "19165",
+      "county_directory": "19165_Shelby_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19165_Shelby_County/tl_2008_19165_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19165_vtd00.zip"
+    },
+    {
+      "geoid": "19167",
+      "county_directory": "19167_Sioux_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19167_Sioux_County/tl_2008_19167_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19167_vtd00.zip"
+    },
+    {
+      "geoid": "19169",
+      "county_directory": "19169_Story_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19169_Story_County/tl_2008_19169_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19169_vtd00.zip"
+    },
+    {
+      "geoid": "19171",
+      "county_directory": "19171_Tama_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19171_Tama_County/tl_2008_19171_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19171_vtd00.zip"
+    },
+    {
+      "geoid": "19173",
+      "county_directory": "19173_Taylor_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19173_Taylor_County/tl_2008_19173_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19173_vtd00.zip"
+    },
+    {
+      "geoid": "19175",
+      "county_directory": "19175_Union_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19175_Union_County/tl_2008_19175_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19175_vtd00.zip"
+    },
+    {
+      "geoid": "19177",
+      "county_directory": "19177_Van_Buren_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19177_Van_Buren_County/tl_2008_19177_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19177_vtd00.zip"
+    },
+    {
+      "geoid": "19179",
+      "county_directory": "19179_Wapello_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19179_Wapello_County/tl_2008_19179_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19179_vtd00.zip"
+    },
+    {
+      "geoid": "19181",
+      "county_directory": "19181_Warren_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19181_Warren_County/tl_2008_19181_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19181_vtd00.zip"
+    },
+    {
+      "geoid": "19183",
+      "county_directory": "19183_Washington_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19183_Washington_County/tl_2008_19183_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19183_vtd00.zip"
+    },
+    {
+      "geoid": "19185",
+      "county_directory": "19185_Wayne_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19185_Wayne_County/tl_2008_19185_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19185_vtd00.zip"
+    },
+    {
+      "geoid": "19187",
+      "county_directory": "19187_Webster_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19187_Webster_County/tl_2008_19187_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19187_vtd00.zip"
+    },
+    {
+      "geoid": "19189",
+      "county_directory": "19189_Winnebago_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19189_Winnebago_County/tl_2008_19189_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19189_vtd00.zip"
+    },
+    {
+      "geoid": "19191",
+      "county_directory": "19191_Winneshiek_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19191_Winneshiek_County/tl_2008_19191_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19191_vtd00.zip"
+    },
+    {
+      "geoid": "19193",
+      "county_directory": "19193_Woodbury_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19193_Woodbury_County/tl_2008_19193_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19193_vtd00.zip"
+    },
+    {
+      "geoid": "19195",
+      "county_directory": "19195_Worth_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19195_Worth_County/tl_2008_19195_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19195_vtd00.zip"
+    },
+    {
+      "geoid": "19197",
+      "county_directory": "19197_Wright_County/",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2008/19_IOWA/19197_Wright_County/tl_2008_19197_vtd00.zip",
+      "file": "data\\census\\tl_2008_19_vtd00\\tl_2008_19197_vtd00.zip"
+    }
+  ]
+}

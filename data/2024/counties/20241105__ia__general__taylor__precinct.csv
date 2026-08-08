@@ -1,0 +1,280 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Taylor,COURTHOUSE PRECINCT 2,Bedford Township Trustee,,Paul Ton,,25,10,15
+Taylor,COURTHOUSE PRECINCT 2,Bedford Township Trustee,,Tyson Ritchie,,24,11,13
+Taylor,COURTHOUSE PRECINCT 2,Bedford Township Trustee,,Write-In,,0,0,0
+Taylor,COURTHOUSE PRECINCT 1,Benton Township Trustee,,Dwight Wetzel,,2,0,2
+Taylor,COURTHOUSE PRECINCT 2,Benton Township Trustee,,Dwight Wetzel,,0,0,0
+Taylor,COURTHOUSE PRECINCT 1,Benton Township Trustee,,Melvin L. Beadel II,,2,0,2
+Taylor,COURTHOUSE PRECINCT 2,Benton Township Trustee,,Melvin L. Beadel II,,0,0,0
+Taylor,COURTHOUSE PRECINCT 1,Benton Township Trustee,,Write-In,,1,0,1
+Taylor,COURTHOUSE PRECINCT 2,Benton Township Trustee,,Write-In,,2,0,2
+Taylor,COURTHOUSE PRECINCT 2,Clayton Township Trustee,,Jason Sargent,,41,20,21
+Taylor,COURTHOUSE PRECINCT 2,Clayton Township Trustee,,Tim Davison,,60,31,29
+Taylor,COURTHOUSE PRECINCT 2,Clayton Township Trustee,,Write-In,,1,0,1
+Taylor,COURTHOUSE PRECINCT 1,Constitutional Amendment 1,,No,,51,20,31
+Taylor,COURTHOUSE PRECINCT 2,Constitutional Amendment 1,,No,,170,65,105
+Taylor,GRAVITY PRECINCT 4,Constitutional Amendment 1,,No,,68,23,45
+Taylor,LENOX PRECINCT 3,Constitutional Amendment 1,,No,,148,27,121
+Taylor,NEW MARKEY PRECINCT 5,Constitutional Amendment 1,,No,,81,17,64
+Taylor,COURTHOUSE PRECINCT 1,Constitutional Amendment 1,,Yes,,223,101,122
+Taylor,COURTHOUSE PRECINCT 2,Constitutional Amendment 1,,Yes,,749,345,404
+Taylor,GRAVITY PRECINCT 4,Constitutional Amendment 1,,Yes,,252,73,179
+Taylor,LENOX PRECINCT 3,Constitutional Amendment 1,,Yes,,686,164,522
+Taylor,NEW MARKEY PRECINCT 5,Constitutional Amendment 1,,Yes,,409,109,300
+Taylor,COURTHOUSE PRECINCT 1,Constitutional Amendment 2,,No,,25,12,13
+Taylor,COURTHOUSE PRECINCT 2,Constitutional Amendment 2,,No,,106,44,62
+Taylor,GRAVITY PRECINCT 4,Constitutional Amendment 2,,No,,41,10,31
+Taylor,LENOX PRECINCT 3,Constitutional Amendment 2,,No,,93,15,78
+Taylor,NEW MARKEY PRECINCT 5,Constitutional Amendment 2,,No,,54,7,47
+Taylor,COURTHOUSE PRECINCT 1,Constitutional Amendment 2,,Yes,,240,103,137
+Taylor,COURTHOUSE PRECINCT 2,Constitutional Amendment 2,,Yes,,789,354,435
+Taylor,GRAVITY PRECINCT 4,Constitutional Amendment 2,,Yes,,271,82,189
+Taylor,LENOX PRECINCT 3,Constitutional Amendment 2,,Yes,,738,175,563
+Taylor,NEW MARKEY PRECINCT 5,Constitutional Amendment 2,,Yes,,428,117,311
+Taylor,COURTHOUSE PRECINCT 1,County Agricultural Extension Council Member,,Chelsea Minor,,199,79,120
+Taylor,COURTHOUSE PRECINCT 2,County Agricultural Extension Council Member,,Chelsea Minor,,627,280,347
+Taylor,GRAVITY PRECINCT 4,County Agricultural Extension Council Member,,Chelsea Minor,,218,62,156
+Taylor,LENOX PRECINCT 3,County Agricultural Extension Council Member,,Chelsea Minor,,508,123,385
+Taylor,NEW MARKEY PRECINCT 5,County Agricultural Extension Council Member,,Chelsea Minor,,350,84,266
+Taylor,COURTHOUSE PRECINCT 1,County Agricultural Extension Council Member,,Christina Sayler,,167,70,97
+Taylor,COURTHOUSE PRECINCT 2,County Agricultural Extension Council Member,,Christina Sayler,,571,253,318
+Taylor,GRAVITY PRECINCT 4,County Agricultural Extension Council Member,,Christina Sayler,,207,59,148
+Taylor,LENOX PRECINCT 3,County Agricultural Extension Council Member,,Christina Sayler,,505,128,377
+Taylor,NEW MARKEY PRECINCT 5,County Agricultural Extension Council Member,,Christina Sayler,,292,74,218
+Taylor,COURTHOUSE PRECINCT 1,County Agricultural Extension Council Member,,Melissa Johnson,,160,64,96
+Taylor,COURTHOUSE PRECINCT 2,County Agricultural Extension Council Member,,Melissa Johnson,,538,243,295
+Taylor,GRAVITY PRECINCT 4,County Agricultural Extension Council Member,,Melissa Johnson,,219,65,154
+Taylor,LENOX PRECINCT 3,County Agricultural Extension Council Member,,Melissa Johnson,,531,127,404
+Taylor,NEW MARKEY PRECINCT 5,County Agricultural Extension Council Member,,Melissa Johnson,,326,80,246
+Taylor,COURTHOUSE PRECINCT 1,County Agricultural Extension Council Member,,Sarah Guilliatt,,188,73,115
+Taylor,COURTHOUSE PRECINCT 2,County Agricultural Extension Council Member,,Sarah Guilliatt,,610,277,333
+Taylor,GRAVITY PRECINCT 4,County Agricultural Extension Council Member,,Sarah Guilliatt,,215,62,153
+Taylor,LENOX PRECINCT 3,County Agricultural Extension Council Member,,Sarah Guilliatt,,511,122,389
+Taylor,NEW MARKEY PRECINCT 5,County Agricultural Extension Council Member,,Sarah Guilliatt,,321,83,238
+Taylor,COURTHOUSE PRECINCT 1,County Agricultural Extension Council Member,,Write-In,,4,0,4
+Taylor,COURTHOUSE PRECINCT 2,County Agricultural Extension Council Member,,Write-In,,6,0,6
+Taylor,GRAVITY PRECINCT 4,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Taylor,LENOX PRECINCT 3,County Agricultural Extension Council Member,,Write-In,,6,0,6
+Taylor,NEW MARKEY PRECINCT 5,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Taylor,COURTHOUSE PRECINCT 1,County Auditor,,Judy Henry,REP,270,117,153
+Taylor,COURTHOUSE PRECINCT 2,County Auditor,,Judy Henry,REP,888,396,492
+Taylor,GRAVITY PRECINCT 4,County Auditor,,Judy Henry,REP,306,93,213
+Taylor,LENOX PRECINCT 3,County Auditor,,Judy Henry,REP,765,189,576
+Taylor,NEW MARKEY PRECINCT 5,County Auditor,,Judy Henry,REP,466,119,347
+Taylor,COURTHOUSE PRECINCT 1,County Auditor,,Write-In,,6,2,4
+Taylor,COURTHOUSE PRECINCT 2,County Auditor,,Write-In,,9,2,7
+Taylor,GRAVITY PRECINCT 4,County Auditor,,Write-In,,0,0,0
+Taylor,LENOX PRECINCT 3,County Auditor,,Write-In,,5,1,4
+Taylor,NEW MARKEY PRECINCT 5,County Auditor,,Write-In,,4,0,4
+Taylor,COURTHOUSE PRECINCT 1,County Sheriff,,Josh Weed,REP,243,102,141
+Taylor,COURTHOUSE PRECINCT 2,County Sheriff,,Josh Weed,REP,799,362,437
+Taylor,GRAVITY PRECINCT 4,County Sheriff,,Josh Weed,REP,276,84,192
+Taylor,LENOX PRECINCT 3,County Sheriff,,Josh Weed,REP,720,183,537
+Taylor,NEW MARKEY PRECINCT 5,County Sheriff,,Josh Weed,REP,454,119,335
+Taylor,COURTHOUSE PRECINCT 1,County Sheriff,,Write-In,,10,3,7
+Taylor,COURTHOUSE PRECINCT 2,County Sheriff,,Write-In,,53,12,41
+Taylor,GRAVITY PRECINCT 4,County Sheriff,,Write-In,,15,4,11
+Taylor,LENOX PRECINCT 3,County Sheriff,,Write-In,,50,4,46
+Taylor,NEW MARKEY PRECINCT 5,County Sheriff,,Write-In,,15,2,13
+Taylor,COURTHOUSE PRECINCT 2,County Supervisor,2,Kim Watson,REP,805,354,451
+Taylor,COURTHOUSE PRECINCT 2,County Supervisor,2,Write-In,,30,12,18
+Taylor,COURTHOUSE PRECINCT 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,65,27,38
+Taylor,COURTHOUSE PRECINCT 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,184,65,119
+Taylor,GRAVITY PRECINCT 4,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,81,21,60
+Taylor,LENOX PRECINCT 3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,199,49,150
+Taylor,NEW MARKEY PRECINCT 5,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,122,33,89
+Taylor,COURTHOUSE PRECINCT 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,134,51,83
+Taylor,COURTHOUSE PRECINCT 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,458,186,272
+Taylor,GRAVITY PRECINCT 4,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,153,48,105
+Taylor,LENOX PRECINCT 3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,450,87,363
+Taylor,NEW MARKEY PRECINCT 5,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,265,56,209
+Taylor,COURTHOUSE PRECINCT 1,Court of Appeals Judge - Mary Ellen Tabor,,No,,68,30,38
+Taylor,COURTHOUSE PRECINCT 2,Court of Appeals Judge - Mary Ellen Tabor,,No,,201,76,125
+Taylor,GRAVITY PRECINCT 4,Court of Appeals Judge - Mary Ellen Tabor,,No,,91,26,65
+Taylor,LENOX PRECINCT 3,Court of Appeals Judge - Mary Ellen Tabor,,No,,179,42,137
+Taylor,NEW MARKEY PRECINCT 5,Court of Appeals Judge - Mary Ellen Tabor,,No,,121,31,90
+Taylor,COURTHOUSE PRECINCT 1,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,131,48,83
+Taylor,COURTHOUSE PRECINCT 2,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,446,178,268
+Taylor,GRAVITY PRECINCT 4,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,139,41,98
+Taylor,LENOX PRECINCT 3,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,463,90,373
+Taylor,NEW MARKEY PRECINCT 5,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,260,56,204
+Taylor,COURTHOUSE PRECINCT 1,Court of Appeals Judge - Samuel Langholz,,No,,75,36,39
+Taylor,COURTHOUSE PRECINCT 2,Court of Appeals Judge - Samuel Langholz,,No,,185,65,120
+Taylor,GRAVITY PRECINCT 4,Court of Appeals Judge - Samuel Langholz,,No,,93,23,70
+Taylor,LENOX PRECINCT 3,Court of Appeals Judge - Samuel Langholz,,No,,207,51,156
+Taylor,NEW MARKEY PRECINCT 5,Court of Appeals Judge - Samuel Langholz,,No,,120,29,91
+Taylor,COURTHOUSE PRECINCT 1,Court of Appeals Judge - Samuel Langholz,,Yes,,126,43,83
+Taylor,COURTHOUSE PRECINCT 2,Court of Appeals Judge - Samuel Langholz,,Yes,,466,191,275
+Taylor,GRAVITY PRECINCT 4,Court of Appeals Judge - Samuel Langholz,,Yes,,144,47,97
+Taylor,LENOX PRECINCT 3,Court of Appeals Judge - Samuel Langholz,,Yes,,450,88,362
+Taylor,NEW MARKEY PRECINCT 5,Court of Appeals Judge - Samuel Langholz,,Yes,,269,62,207
+Taylor,COURTHOUSE PRECINCT 1,Court of Appeals Judge - Tyler J. Buller,,No,,64,27,37
+Taylor,COURTHOUSE PRECINCT 2,Court of Appeals Judge - Tyler J. Buller,,No,,190,76,114
+Taylor,GRAVITY PRECINCT 4,Court of Appeals Judge - Tyler J. Buller,,No,,92,25,67
+Taylor,LENOX PRECINCT 3,Court of Appeals Judge - Tyler J. Buller,,No,,179,46,133
+Taylor,NEW MARKEY PRECINCT 5,Court of Appeals Judge - Tyler J. Buller,,No,,118,31,87
+Taylor,COURTHOUSE PRECINCT 1,Court of Appeals Judge - Tyler J. Buller,,Yes,,133,51,82
+Taylor,COURTHOUSE PRECINCT 2,Court of Appeals Judge - Tyler J. Buller,,Yes,,454,174,280
+Taylor,GRAVITY PRECINCT 4,Court of Appeals Judge - Tyler J. Buller,,Yes,,138,41,97
+Taylor,LENOX PRECINCT 3,Court of Appeals Judge - Tyler J. Buller,,Yes,,464,85,379
+Taylor,NEW MARKEY PRECINCT 5,Court of Appeals Judge - Tyler J. Buller,,Yes,,265,57,208
+Taylor,NEW MARKEY PRECINCT 5,Dallas Township Trustee,,Jim McAlpin,,114,24,90
+Taylor,NEW MARKEY PRECINCT 5,Dallas Township Trustee,,Lanny Orr,,116,28,88
+Taylor,NEW MARKEY PRECINCT 5,Dallas Township Trustee,,Write-In,,1,1,0
+Taylor,COURTHOUSE PRECINCT 1,District 5B Judge - Patrick W. Greenwood,,No,,59,27,32
+Taylor,COURTHOUSE PRECINCT 2,District 5B Judge - Patrick W. Greenwood,,No,,152,53,99
+Taylor,GRAVITY PRECINCT 4,District 5B Judge - Patrick W. Greenwood,,No,,76,20,56
+Taylor,LENOX PRECINCT 3,District 5B Judge - Patrick W. Greenwood,,No,,158,37,121
+Taylor,NEW MARKEY PRECINCT 5,District 5B Judge - Patrick W. Greenwood,,No,,105,29,76
+Taylor,COURTHOUSE PRECINCT 1,District 5B Judge - Patrick W. Greenwood,,Yes,,145,52,93
+Taylor,COURTHOUSE PRECINCT 2,District 5B Judge - Patrick W. Greenwood,,Yes,,519,214,305
+Taylor,GRAVITY PRECINCT 4,District 5B Judge - Patrick W. Greenwood,,Yes,,160,49,111
+Taylor,LENOX PRECINCT 3,District 5B Judge - Patrick W. Greenwood,,Yes,,504,103,401
+Taylor,NEW MARKEY PRECINCT 5,District 5B Judge - Patrick W. Greenwood,,Yes,,285,61,224
+Taylor,COURTHOUSE PRECINCT 2,Gay Township Trustee,,Mark Norton,,2,2,0
+Taylor,COURTHOUSE PRECINCT 2,Gay Township Trustee,,Tony Hughes,,3,3,0
+Taylor,COURTHOUSE PRECINCT 2,Gay Township Trustee,,Write-In,,10,7,3
+Taylor,LENOX PRECINCT 3,Grant Township Trustee,,Clay Henderson,,47,16,31
+Taylor,LENOX PRECINCT 3,Grant Township Trustee,,James Robert Larson,,44,13,31
+Taylor,LENOX PRECINCT 3,Grant Township Trustee,,Write-In,,0,0,0
+Taylor,GRAVITY PRECINCT 4,Grove Township Trustee,,Ronald Travis,,21,5,16
+Taylor,LENOX PRECINCT 3,Grove Township Trustee,,Ronald Travis,,40,11,29
+Taylor,GRAVITY PRECINCT 4,Grove Township Trustee,,Seth Evans,,20,4,16
+Taylor,LENOX PRECINCT 3,Grove Township Trustee,,Seth Evans,,44,9,35
+Taylor,GRAVITY PRECINCT 4,Grove Township Trustee,,Write-In,,0,0,0
+Taylor,LENOX PRECINCT 3,Grove Township Trustee,,Write-In,,2,2,0
+Taylor,GRAVITY PRECINCT 4,Holt Township Trustee,,John Shuler,,3,0,3
+Taylor,GRAVITY PRECINCT 4,Holt Township Trustee,,Steve Brown,,48,19,29
+Taylor,GRAVITY PRECINCT 4,Holt Township Trustee,,Write-In,,12,5,7
+Taylor,COURTHOUSE PRECINCT 1,Jackson Township Trustee,,Jay Lischer,,2,0,2
+Taylor,COURTHOUSE PRECINCT 1,Jackson Township Trustee,,Kenneth Lager,,2,0,2
+Taylor,COURTHOUSE PRECINCT 1,Jackson Township Trustee,,Write-In,,5,4,1
+Taylor,COURTHOUSE PRECINCT 2,Jefferson Township Trustee,,Duane Wall,,3,2,1
+Taylor,COURTHOUSE PRECINCT 2,Jefferson Township Trustee,,Eric Drake,,3,2,1
+Taylor,COURTHOUSE PRECINCT 2,Jefferson Township Trustee,,Write-In,,3,0,3
+Taylor,GRAVITY PRECINCT 4,Marshall Township Trustee,,Chase Weller,,2,0,2
+Taylor,GRAVITY PRECINCT 4,Marshall Township Trustee,,Kenneth Devoe,,1,1,0
+Taylor,GRAVITY PRECINCT 4,Marshall Township Trustee,,Write-In,,1,0,1
+Taylor,NEW MARKEY PRECINCT 5,Mason Township Trustee,,Brett Judd,,71,15,56
+Taylor,NEW MARKEY PRECINCT 5,Mason Township Trustee,,Jay Sunderman,,59,13,46
+Taylor,NEW MARKEY PRECINCT 5,Mason Township Trustee,,Write-In,,0,0,0
+Taylor,NEW MARKEY PRECINCT 5,Nodaway Township Trustee,,Brett Stamps,,59,31,28
+Taylor,NEW MARKEY PRECINCT 5,Nodaway Township Trustee,,Mark Herzberg,,49,23,26
+Taylor,NEW MARKEY PRECINCT 5,Nodaway Township Trustee,,Write-In,,2,2,0
+Taylor,LENOX PRECINCT 3,Platte Township Trustee,,Brian David,,2,0,2
+Taylor,LENOX PRECINCT 3,Platte Township Trustee,,Patrick Bolinger,,1,0,1
+Taylor,LENOX PRECINCT 3,Platte Township Trustee,,Write-In,,3,0,3
+Taylor,COURTHOUSE PRECINCT 1,Polk Township Trustee,,Andy Jackson,,42,22,20
+Taylor,COURTHOUSE PRECINCT 1,Polk Township Trustee,,Tim Guilliatt,,57,27,30
+Taylor,COURTHOUSE PRECINCT 1,Polk Township Trustee,,Write-In,,1,0,1
+Taylor,COURTHOUSE PRECINCT 1,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Taylor,COURTHOUSE PRECINCT 2,President,,Chase Oliver and Mike ter Maat,LIB,7,1,6
+Taylor,GRAVITY PRECINCT 4,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Taylor,LENOX PRECINCT 3,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Taylor,NEW MARKEY PRECINCT 5,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Taylor,COURTHOUSE PRECINCT 1,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Taylor,COURTHOUSE PRECINCT 2,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Taylor,GRAVITY PRECINCT 4,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Taylor,LENOX PRECINCT 3,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Taylor,NEW MARKEY PRECINCT 5,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Taylor,COURTHOUSE PRECINCT 1,President,,Donald J. Trump and JD Vance,REP,236,101,135
+Taylor,COURTHOUSE PRECINCT 2,President,,Donald J. Trump and JD Vance,REP,811,354,457
+Taylor,GRAVITY PRECINCT 4,President,,Donald J. Trump and JD Vance,REP,268,74,194
+Taylor,LENOX PRECINCT 3,President,,Donald J. Trump and JD Vance,REP,645,141,504
+Taylor,NEW MARKEY PRECINCT 5,President,,Donald J. Trump and JD Vance,REP,421,113,308
+Taylor,COURTHOUSE PRECINCT 1,President,,Kamala D. Harris and Tim Walz,DEM,53,30,23
+Taylor,COURTHOUSE PRECINCT 2,President,,Kamala D. Harris and Tim Walz,DEM,171,100,71
+Taylor,GRAVITY PRECINCT 4,President,,Kamala D. Harris and Tim Walz,DEM,85,38,47
+Taylor,LENOX PRECINCT 3,President,,Kamala D. Harris and Tim Walz,DEM,255,76,179
+Taylor,NEW MARKEY PRECINCT 5,President,,Kamala D. Harris and Tim Walz,DEM,102,27,75
+Taylor,COURTHOUSE PRECINCT 1,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,2,1,1
+Taylor,COURTHOUSE PRECINCT 2,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,7,4,3
+Taylor,GRAVITY PRECINCT 4,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,2,0,2
+Taylor,LENOX PRECINCT 3,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,7,1,6
+Taylor,NEW MARKEY PRECINCT 5,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,3,0,3
+Taylor,COURTHOUSE PRECINCT 1,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Taylor,COURTHOUSE PRECINCT 2,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Taylor,GRAVITY PRECINCT 4,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Taylor,LENOX PRECINCT 3,President,,Shiva Ayyadurai and Crystal Ellis,,1,0,1
+Taylor,NEW MARKEY PRECINCT 5,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Taylor,COURTHOUSE PRECINCT 1,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Taylor,COURTHOUSE PRECINCT 2,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Taylor,GRAVITY PRECINCT 4,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Taylor,LENOX PRECINCT 3,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,0,1
+Taylor,NEW MARKEY PRECINCT 5,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,1,0
+Taylor,COURTHOUSE PRECINCT 1,President,,Write-In,,1,0,1
+Taylor,COURTHOUSE PRECINCT 2,President,,Write-In,,1,0,1
+Taylor,GRAVITY PRECINCT 4,President,,Write-In,,0,0,0
+Taylor,LENOX PRECINCT 3,President,,Write-In,,1,0,1
+Taylor,NEW MARKEY PRECINCT 5,President,,Write-In,,0,0,0
+Taylor,COURTHOUSE PRECINCT 1,Ross Township Trustee,,Carl Rankin,,2,0,2
+Taylor,COURTHOUSE PRECINCT 1,Ross Township Trustee,,Todd Perdew,,5,2,3
+Taylor,COURTHOUSE PRECINCT 1,Ross Township Trustee,,Write-In,,15,3,12
+Taylor,COURTHOUSE PRECINCT 1,Soil and Water Conservation District Commissioner,,Brian Shepard,,167,68,99
+Taylor,COURTHOUSE PRECINCT 2,Soil and Water Conservation District Commissioner,,Brian Shepard,,580,258,322
+Taylor,GRAVITY PRECINCT 4,Soil and Water Conservation District Commissioner,,Brian Shepard,,218,60,158
+Taylor,LENOX PRECINCT 3,Soil and Water Conservation District Commissioner,,Brian Shepard,,540,129,411
+Taylor,NEW MARKEY PRECINCT 5,Soil and Water Conservation District Commissioner,,Brian Shepard,,348,88,260
+Taylor,COURTHOUSE PRECINCT 1,Soil and Water Conservation District Commissioner,,J. Fred Lischer,,160,65,95
+Taylor,COURTHOUSE PRECINCT 2,Soil and Water Conservation District Commissioner,,J. Fred Lischer,,583,267,316
+Taylor,GRAVITY PRECINCT 4,Soil and Water Conservation District Commissioner,,J. Fred Lischer,,208,61,147
+Taylor,LENOX PRECINCT 3,Soil and Water Conservation District Commissioner,,J. Fred Lischer,,536,132,404
+Taylor,NEW MARKEY PRECINCT 5,Soil and Water Conservation District Commissioner,,J. Fred Lischer,,331,90,241
+Taylor,COURTHOUSE PRECINCT 1,Soil and Water Conservation District Commissioner,,Rick Sprague,,204,85,119
+Taylor,COURTHOUSE PRECINCT 2,Soil and Water Conservation District Commissioner,,Rick Sprague,,674,301,373
+Taylor,GRAVITY PRECINCT 4,Soil and Water Conservation District Commissioner,,Rick Sprague,,236,65,171
+Taylor,LENOX PRECINCT 3,Soil and Water Conservation District Commissioner,,Rick Sprague,,567,140,427
+Taylor,NEW MARKEY PRECINCT 5,Soil and Water Conservation District Commissioner,,Rick Sprague,,357,90,267
+Taylor,COURTHOUSE PRECINCT 1,Soil and Water Conservation District Commissioner,,Write-In,,4,0,4
+Taylor,COURTHOUSE PRECINCT 2,Soil and Water Conservation District Commissioner,,Write-In,,5,1,4
+Taylor,GRAVITY PRECINCT 4,Soil and Water Conservation District Commissioner,,Write-In,,6,1,5
+Taylor,LENOX PRECINCT 3,Soil and Water Conservation District Commissioner,,Write-In,,8,2,6
+Taylor,NEW MARKEY PRECINCT 5,Soil and Water Conservation District Commissioner,,Write-In,,6,0,6
+Taylor,COURTHOUSE PRECINCT 1,State House,17,Devon Wood,REP,249,107,142
+Taylor,COURTHOUSE PRECINCT 2,State House,17,Devon Wood,REP,829,359,470
+Taylor,GRAVITY PRECINCT 4,State House,17,Devon Wood,REP,283,81,202
+Taylor,LENOX PRECINCT 3,State House,17,Devon Wood,REP,719,165,554
+Taylor,NEW MARKEY PRECINCT 5,State House,17,Devon Wood,REP,466,121,345
+Taylor,COURTHOUSE PRECINCT 1,State House,17,Write-In,,2,0,2
+Taylor,COURTHOUSE PRECINCT 2,State House,17,Write-In,,10,5,5
+Taylor,GRAVITY PRECINCT 4,State House,17,Write-In,,5,0,5
+Taylor,LENOX PRECINCT 3,State House,17,Write-In,,25,6,19
+Taylor,NEW MARKEY PRECINCT 5,State House,17,Write-In,,5,0,5
+Taylor,COURTHOUSE PRECINCT 1,Supreme Court Justice - David May,,No,,73,31,42
+Taylor,COURTHOUSE PRECINCT 2,Supreme Court Justice - David May,,No,,177,66,111
+Taylor,GRAVITY PRECINCT 4,Supreme Court Justice - David May,,No,,84,25,59
+Taylor,LENOX PRECINCT 3,Supreme Court Justice - David May,,No,,180,44,136
+Taylor,NEW MARKEY PRECINCT 5,Supreme Court Justice - David May,,No,,121,31,90
+Taylor,COURTHOUSE PRECINCT 1,Supreme Court Justice - David May,,Yes,,135,50,85
+Taylor,COURTHOUSE PRECINCT 2,Supreme Court Justice - David May,,Yes,,503,205,298
+Taylor,GRAVITY PRECINCT 4,Supreme Court Justice - David May,,Yes,,156,47,109
+Taylor,LENOX PRECINCT 3,Supreme Court Justice - David May,,Yes,,498,98,400
+Taylor,NEW MARKEY PRECINCT 5,Supreme Court Justice - David May,,Yes,,276,63,213
+Taylor,COURTHOUSE PRECINCT 1,Taylor County - Public Measure UC,,No,,136,59,77
+Taylor,COURTHOUSE PRECINCT 2,Taylor County - Public Measure UC,,No,,402,179,223
+Taylor,GRAVITY PRECINCT 4,Taylor County - Public Measure UC,,No,,147,54,93
+Taylor,LENOX PRECINCT 3,Taylor County - Public Measure UC,,No,,278,60,218
+Taylor,NEW MARKEY PRECINCT 5,Taylor County - Public Measure UC,,No,,280,80,200
+Taylor,COURTHOUSE PRECINCT 1,Taylor County - Public Measure UC,,Yes,,137,59,78
+Taylor,COURTHOUSE PRECINCT 2,Taylor County - Public Measure UC,,Yes,,525,236,289
+Taylor,GRAVITY PRECINCT 4,Taylor County - Public Measure UC,,Yes,,182,45,137
+Taylor,LENOX PRECINCT 3,Taylor County - Public Measure UC,,Yes,,572,132,440
+Taylor,NEW MARKEY PRECINCT 5,Taylor County - Public Measure UC,,Yes,,205,41,164
+Taylor,COURTHOUSE PRECINCT 1,U.S. House,3,Lanon Baccam,DEM,53,28,25
+Taylor,COURTHOUSE PRECINCT 2,U.S. House,3,Lanon Baccam,DEM,188,105,83
+Taylor,GRAVITY PRECINCT 4,U.S. House,3,Lanon Baccam,DEM,84,32,52
+Taylor,LENOX PRECINCT 3,U.S. House,3,Lanon Baccam,DEM,253,63,190
+Taylor,NEW MARKEY PRECINCT 5,U.S. House,3,Lanon Baccam,DEM,95,22,73
+Taylor,COURTHOUSE PRECINCT 1,U.S. House,3,Write-In,,1,0,1
+Taylor,COURTHOUSE PRECINCT 2,U.S. House,3,Write-In,,3,1,2
+Taylor,GRAVITY PRECINCT 4,U.S. House,3,Write-In,,1,0,1
+Taylor,LENOX PRECINCT 3,U.S. House,3,Write-In,,2,0,2
+Taylor,NEW MARKEY PRECINCT 5,U.S. House,3,Write-In,,1,0,1
+Taylor,COURTHOUSE PRECINCT 1,U.S. House,3,Zach Nunn,REP,227,102,125
+Taylor,COURTHOUSE PRECINCT 2,U.S. House,3,Zach Nunn,REP,746,322,424
+Taylor,GRAVITY PRECINCT 4,U.S. House,3,Zach Nunn,REP,251,72,179
+Taylor,LENOX PRECINCT 3,U.S. House,3,Zach Nunn,REP,614,140,474
+Taylor,NEW MARKEY PRECINCT 5,U.S. House,3,Zach Nunn,REP,410,114,296
+Taylor,GRAVITY PRECINCT 4,Washington Township Trustee,,Layne Thornton,,67,14,53
+Taylor,GRAVITY PRECINCT 4,Washington Township Trustee,,Wes Calfee,,78,17,61
+Taylor,GRAVITY PRECINCT 4,Washington Township Trustee,,Write-In,,0,0,0

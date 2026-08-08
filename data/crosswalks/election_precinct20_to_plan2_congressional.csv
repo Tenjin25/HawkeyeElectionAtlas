@@ -1,0 +1,1858 @@
+source_precinct_id,source_county,source_precinct,target_district,target_name,share,method
+ADAIR - 1NW ADAIR,Adair,1NW Adair,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+ADAIR - 2NE STUART,Adair,2NE Stuart,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+ADAIR - 3SW FONTANELLE,Adair,3SW Fontanelle,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+ADAIR - 4SE ORIENT,Adair,4SE Orient,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+ADAIR - 5GF GREENFIELD,Adair,5GF Greenfield,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+ADAMS - ADAMS 1,Adams,Adams 1,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+ADAMS - ADAMS 2,Adams,Adams 2,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+ADAMS - ADAMS 3,Adams,Adams 3,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+ADAMS - ADAMS 4,Adams,Adams 4,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+ADAMS - ADAMS 5,Adams,Adams 5,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+ALLAMAKEE - PCT 01 - WL/HV,Allamakee,Pct 01 - WL/HV,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+ALLAMAKEE - PCT 02 - FC/JF/LL/MK/UP,Allamakee,Pct 02 - FC/JF/LL/MK/UP,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+ALLAMAKEE - PCT 03 - PO/FK,Allamakee,Pct 03 - PO/FK,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+ALLAMAKEE - PCT 04 - PV CITY,Allamakee,Pct 04 - PV City,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+ALLAMAKEE - PCT 05 - LT/PC/WV CITY,Allamakee,Pct 05 - LT/PC/WV City,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+ALLAMAKEE - PCT 06 - FV/TL/HF CITY,Allamakee,Pct 06 - FV/TL/HF City,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+ALLAMAKEE - PCT 07 - CN/LF/LS/LS CITY,Allamakee,Pct 07 - CN/LF/LS/LS City,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+ALLAMAKEE - PCT 08 - IA/UC/NA CITY,Allamakee,Pct 08 - IA/UC/NA City,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+ALLAMAKEE - PCT 09 - WAUKON 1,Allamakee,Pct 09 - Waukon 1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+ALLAMAKEE - PCT 10 - WAUKON 2,Allamakee,Pct 10 - Waukon 2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+ALLAMAKEE - PCT 11 - WAUKON 3,Allamakee,Pct 11 - Waukon 3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+APPANOOSE - BELLAIR/LINCOLN,Appanoose,Bellair/Lincoln,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+APPANOOSE - CALDWELL TOWNSHIP,Appanoose,Caldwell Township,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+APPANOOSE - CENTERVILLE WARD 1,Appanoose,Centerville Ward 1,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+APPANOOSE - CENTERVILLE WARD 2,Appanoose,Centerville Ward 2,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+APPANOOSE - CENTERVILLE WARD 3,Appanoose,Centerville Ward 3,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+APPANOOSE - JOHNS/INDEPENDENCE,Appanoose,Johns/Independence,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+APPANOOSE - PLEASANT/FRANKLIN,Appanoose,Pleasant/Franklin,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+APPANOOSE - TAYLOR/CHARITON,Appanoose,Taylor/Chariton,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+APPANOOSE - UNION/UDELL TOWNSHIP,Appanoose,Union/Udell Township,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+APPANOOSE - VERMILLION/DOUGLAS/SHARON,Appanoose,Vermillion/Douglas/Sharon,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+APPANOOSE - WALNUT,Appanoose,Walnut,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+APPANOOSE - WASHINGTON/WELLS,Appanoose,Washington/Wells,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+AUDUBON - PRECINCT 1,Audubon,Precinct 1,3,3|-0.01%,0.000000000173,vtd20_to_plan2_composed
+AUDUBON - PRECINCT 1,Audubon,Precinct 1,4,4|0.01%,0.999999999827,vtd20_to_plan2_composed
+AUDUBON - PRECINCT 2,Audubon,Precinct 2,3,3|-0.01%,0.000000070652,vtd20_to_plan2_composed
+AUDUBON - PRECINCT 2,Audubon,Precinct 2,4,4|0.01%,0.999999929348,vtd20_to_plan2_composed
+BENTON - BELLE PLAINE 1,Benton,Belle Plaine 1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - BELLE PLAINE 2,Benton,Belle Plaine 2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - BELLE PLAINE 3,Benton,Belle Plaine 3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - BENTON-CANTON-SHELLSBURG,Benton,Benton-Canton-Shellsburg,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - BIG GROVE-UNION-VAN HORNE,Benton,Big Grove-Union-Van Horne,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - BRUCE-CEDAR-MT AUBURN,Benton,Bruce-Cedar-Mt Auburn,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - EDEN-HARRISON-TAYLOR,Benton,Eden-Harrison-Taylor,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - ELDORADO-NEWHALL,Benton,Eldorado-Newhall,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - FLORENCE-ST CLAIR-NORWAY,Benton,Florence-St Clair-Norway,1,1|-0%,0.000000006697,vtd20_to_plan2_composed
+BENTON - FLORENCE-ST CLAIR-NORWAY,Benton,Florence-St Clair-Norway,2,2|-0%,0.999999993303,vtd20_to_plan2_composed
+BENTON - FREMONT-ATKINS,Benton,Fremont-Atkins,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - HOMER-MONROE-JACKSON-GARRISON,Benton,Homer-Monroe-Jackson-Garrison,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - IOWA-LEROY-LUZERNE-BLAIRSTOWN,Benton,Iowa-Leroy-Luzerne-Blairstown,1,1|-0%,0.000000000899,vtd20_to_plan2_composed
+BENTON - IOWA-LEROY-LUZERNE-BLAIRSTOWN,Benton,Iowa-Leroy-Luzerne-Blairstown,2,2|-0%,0.999999999101,vtd20_to_plan2_composed
+BENTON - KANE-KEYSTONE,Benton,Kane-Keystone,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - POLK-URBANA,Benton,Polk-Urbana,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - VINTON 1,Benton,Vinton 1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - VINTON 2,Benton,Vinton 2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - VINTON 3,Benton,Vinton 3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - VINTON 4,Benton,Vinton 4,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BENTON - WALFORD,Benton,Walford,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - BARCLAY LESTER DUNKERTON,Black Hawk,Barclay Lester Dunkerton,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - BENNINGTON,Black Hawk,Bennington,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - BIG CREEK LA PORTE,Black Hawk,Big Creek La Porte,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - BLACK HAWK HUDSON LINCOLN,Black Hawk,Black Hawk Hudson Lincoln,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CEDAR ORANGE,Black Hawk,Cedar Orange,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CF W1 P1,Black Hawk,CF W1 P1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CF W1 P2,Black Hawk,CF W1 P2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CF W1 P3,Black Hawk,CF W1 P3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CF W2 P1,Black Hawk,CF W2 P1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CF W2 P2 & CF TWP,Black Hawk,CF W2 P2 & CF Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CF W2 P3,Black Hawk,CF W2 P3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CF W3 P1,Black Hawk,CF W3 P1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CF W3 P2,Black Hawk,CF W3 P2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CF W3 P3,Black Hawk,CF W3 P3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CF W4 P1,Black Hawk,CF W4 P1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CF W4 P2,Black Hawk,CF W4 P2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CF W4 P3,Black Hawk,CF W4 P3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CF W5 P1,Black Hawk,CF W5 P1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CF W5 P2,Black Hawk,CF W5 P2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - CF W5 P3,Black Hawk,CF W5 P3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - EAGLE,Black Hawk,Eagle,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - ELK RUN HEIGHTS & RAYMOND,Black Hawk,Elk Run Heights & Raymond,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - EVANSDALE W1,Black Hawk,Evansdale W1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - EVANSDALE W2,Black Hawk,Evansdale W2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - EVANSDALE W3,Black Hawk,Evansdale W3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - EVANSDALE W4,Black Hawk,Evansdale W4,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - MT VERNON,Black Hawk,Mt Vernon,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - POYNER P1 & EAST WLOO,Black Hawk,Poyner P1 & East Wloo,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - POYNER P2 FOX GILBERT JESUP,Black Hawk,Poyner P2 Fox Gilbert Jesup,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - SPRING CREEK,Black Hawk,Spring Creek,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - UNION,Black Hawk,Union,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WASHINGTON JANESVILLE,Black Hawk,Washington Janesville,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 1-1,Black Hawk,WL 1-1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 1-2,Black Hawk,WL 1-2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 1-3,Black Hawk,WL 1-3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 1-4,Black Hawk,WL 1-4,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 1-5,Black Hawk,WL 1-5,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 1-6,Black Hawk,WL 1-6,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 2-1,Black Hawk,WL 2-1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 2-2,Black Hawk,WL 2-2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 2-3,Black Hawk,WL 2-3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 2-4,Black Hawk,WL 2-4,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 2-5,Black Hawk,WL 2-5,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 2-6,Black Hawk,WL 2-6,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 3-1,Black Hawk,WL 3-1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 3-2,Black Hawk,WL 3-2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 3-3,Black Hawk,WL 3-3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 3-4,Black Hawk,WL 3-4,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 3-5,Black Hawk,WL 3-5,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 3-6,Black Hawk,WL 3-6,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 4-1,Black Hawk,WL 4-1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 4-2,Black Hawk,WL 4-2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 4-3,Black Hawk,WL 4-3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 4-4,Black Hawk,WL 4-4,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 4-5,Black Hawk,WL 4-5,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 4-6,Black Hawk,WL 4-6,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 5-1,Black Hawk,WL 5-1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 5-2,Black Hawk,WL 5-2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 5-3,Black Hawk,WL 5-3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 5-4,Black Hawk,WL 5-4,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 5-5,Black Hawk,WL 5-5,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BLACK HAWK - WL 5-6,Black Hawk,WL 5-6,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BOONE - BOONE 1ST WARD,Boone,Boone 1st Ward,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BOONE - BOONE 2ND WARD,Boone,Boone 2nd Ward,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BOONE - BOONE 3RD WARD,Boone,Boone 3rd Ward,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BOONE - BOONE 4TH WARD,Boone,Boone 4th Ward,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BOONE - BOONE 5TH WARD,Boone,Boone 5th Ward,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BOONE - MADRID 1ST WARD,Boone,Madrid 1st Ward,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BOONE - MADRID 2ND WARD,Boone,Madrid 2nd Ward,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BOONE - MADRID 3RD WARD,Boone,Madrid 3rd Ward,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BOONE - OGDEN,Boone,Ogden,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BOONE - RURAL PRECINCT 1,Boone,Rural Precinct 1,3,3|-0.01%,0.000000000674,vtd20_to_plan2_composed
+BOONE - RURAL PRECINCT 1,Boone,Rural Precinct 1,4,4|0.01%,0.999999999326,vtd20_to_plan2_composed
+BOONE - RURAL PRECINCT 2,Boone,Rural Precinct 2,3,3|-0.01%,0.000001423442,vtd20_to_plan2_composed
+BOONE - RURAL PRECINCT 2,Boone,Rural Precinct 2,4,4|0.01%,0.999998576558,vtd20_to_plan2_composed
+BOONE - RURAL PRECINCT 3,Boone,Rural Precinct 3,3,3|-0.01%,0.000194174544,vtd20_to_plan2_composed
+BOONE - RURAL PRECINCT 3,Boone,Rural Precinct 3,4,4|0.01%,0.999805825456,vtd20_to_plan2_composed
+BOONE - RURAL PRECINCT 4,Boone,Rural Precinct 4,3,3|-0.01%,0.000209598183,vtd20_to_plan2_composed
+BOONE - RURAL PRECINCT 4,Boone,Rural Precinct 4,4,4|0.01%,0.999790401817,vtd20_to_plan2_composed
+BOONE - RURAL PRECINCT 5,Boone,Rural Precinct 5,3,3|-0.01%,0.000264694808,vtd20_to_plan2_composed
+BOONE - RURAL PRECINCT 5,Boone,Rural Precinct 5,4,4|0.01%,0.999735305192,vtd20_to_plan2_composed
+BOONE - RURAL PRECINCT 6,Boone,Rural Precinct 6,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BREMER - CITY OF DENVER/JEFFERSON TWP,Bremer,City of Denver/Jefferson Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BREMER - CITY OF FREDERIKA-FREDERIKA & LEROY TWP,Bremer,City of Frederika-Frederika & Leroy Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BREMER - CITY OF JANESVILLE/JACKSON TWP,Bremer,City of Janesville/Jackson Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BREMER - CITY OF PLAINFIELD/POLK TWP/DOUGLAS TWP,Bremer,City of Plainfield/Polk Twp/Douglas Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BREMER - CITY OF READLYN/MAXFIELD & FRANKLIN TWP,Bremer,City of Readlyn/Maxfield & Franklin Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BREMER - CITY OF SUMNER/SUMNER TWP/DAYTON TWP,Bremer,City of Sumner/Sumner Twp/Dayton Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BREMER - CITY OF TRIPOLI/FREMONT,Bremer,City of Tripoli/Fremont,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BREMER - LAFAYETTE TWP/WARREN TWP,Bremer,Lafayette Twp/Warren Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BREMER - WAVERLY WARD I/E WASHINGTON TWP,Bremer,Waverly Ward I/E Washington Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BREMER - WAVERLY WARD II/NE 1/4 SEC 36 WASHINGTON TWP,Bremer,Waverly Ward II/NE 1/4 Sec 36 Washington Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BREMER - WAVERLY WARD III,Bremer,Waverly Ward III,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BREMER - WAVERLY WARD IV,Bremer,Waverly Ward IV,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BREMER - WAVERLY WARD V/W WASHINGTON TWP,Bremer,Waverly Ward V/W Washington Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUCHANAN - AURORA,Buchanan,Aurora,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUCHANAN - BRANDON,Buchanan,Brandon,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUCHANAN - FAIRBANK,Buchanan,Fairbank,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUCHANAN - HAZLETON,Buchanan,Hazleton,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUCHANAN - INDEPENDENCE 1ST WARD,Buchanan,Independence 1st Ward,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUCHANAN - INDEPENDENCE 2ND WARD,Buchanan,Independence 2nd Ward,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUCHANAN - INDEPENDENCE 3RD WARD,Buchanan,Independence 3rd Ward,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUCHANAN - INDEPENDENCE 4TH WARD,Buchanan,Independence 4th Ward,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUCHANAN - INDEPENDENCE 5TH WARD,Buchanan,Independence 5th Ward,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUCHANAN - JESUP,Buchanan,Jesup,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUCHANAN - MIDDLEFIELD-NEWTON,Buchanan,Middlefield-Newton,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUCHANAN - PERRY-WESTBURG,Buchanan,Perry-Westburg,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUCHANAN - QUASQUETON,Buchanan,Quasqueton,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUCHANAN - ROWLEY,Buchanan,Rowley,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUCHANAN - WINTHROP,Buchanan,Winthrop,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUENA VISTA - ALBERT CITY FAIRFIELD COON,Buena Vista,Albert City Fairfield Coon,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BUENA VISTA - ALTA NOKOMIS ELK,Buena Vista,Alta Nokomis Elk,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BUENA VISTA - LAKESIDE HAYES MAPLE VALLEY,Buena Vista,Lakeside Hayes Maple Valley,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BUENA VISTA - NEWELL NEWELL PROVIDENCE,Buena Vista,Newell Newell Providence,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BUENA VISTA - SIOUX RAPIDS MARATHON LINN GROVE REMBRANDT,Buena Vista,Sioux Rapids Marathon Linn Grove Rembrandt,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BUENA VISTA - STORM LAKE 01,Buena Vista,Storm Lake 01,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BUENA VISTA - STORM LAKE 02,Buena Vista,Storm Lake 02,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BUENA VISTA - STORM LAKE 03,Buena Vista,Storm Lake 03,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BUENA VISTA - STORM LAKE 04,Buena Vista,Storm Lake 04,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BUENA VISTA - TRUESDALE WASHINGTON GRANT,Buena Vista,Truesdale Washington Grant,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+BUTLER - 1-GR,Butler,1-GR,2,2|-0%,0.999999999870,vtd20_to_plan2_composed
+BUTLER - 1-GR,Butler,1-GR,4,4|0.01%,0.000000000130,vtd20_to_plan2_composed
+BUTLER - 2-CL,Butler,2-CL,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUTLER - 3-DU,Butler,3-DU,2,2|-0%,0.999999923738,vtd20_to_plan2_composed
+BUTLER - 3-DU,Butler,3-DU,4,4|0.01%,0.000000076262,vtd20_to_plan2_composed
+BUTLER - 4-AL,Butler,4-AL,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUTLER - 5-AP,Butler,5-AP,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUTLER - 6-SR,Butler,6-SR,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUTLER - 7-PB,Butler,7-PB,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+BUTLER - 8-NH,Butler,8-NH,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CALHOUN - BUTLER-WILLIAMS,Calhoun,Butler-Williams,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CALHOUN - CALHOUN-JACKSON-EG-LK,Calhoun,Calhoun-Jackson-EG-LK,3,3|-0.01%,0.000000000000,vtd20_to_plan2_composed
+CALHOUN - CALHOUN-JACKSON-EG-LK,Calhoun,Calhoun-Jackson-EG-LK,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CALHOUN - CEDAR,Calhoun,Cedar,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CALHOUN - CENTER-LOGAN-TL-GA-L,Calhoun,Center-Logan-TL-GA-L,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CALHOUN - GREENFIELD & LINCOLN 2,Calhoun,Greenfield & Lincoln 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CALHOUN - LINCOLN 1,Calhoun,Lincoln 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CALHOUN - READING,Calhoun,Reading,3,3|-0.01%,0.000000000902,vtd20_to_plan2_composed
+CALHOUN - READING,Calhoun,Reading,4,4|0.01%,0.999999999098,vtd20_to_plan2_composed
+CALHOUN - ROCKWELL CITY,Calhoun,Rockwell City,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CALHOUN - SHERMAN,Calhoun,Sherman,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CALHOUN - UNION,Calhoun,Union,3,3|-0.01%,0.000009428601,vtd20_to_plan2_composed
+CALHOUN - UNION,Calhoun,Union,4,4|0.01%,0.999990571399,vtd20_to_plan2_composed
+CARROLL - ARCADIA,Carroll,Arcadia,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CARROLL - CARROLL WARD FOUR,Carroll,Carroll Ward Four,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CARROLL - CARROLL WARD ONE,Carroll,Carroll Ward One,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CARROLL - CARROLL WARD THREE & S1/2 MAPLE RIVER TWP,Carroll,Carroll Ward Three & S1/2 Maple River Twp,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CARROLL - CARROLL WARD TWO & N1/2 MAPLE RIVER TWP,Carroll,Carroll Ward Two & N1/2 Maple River Twp,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CARROLL - EDEN,Carroll,Eden,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CARROLL - EWOLDT,Carroll,Ewoldt,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CARROLL - GLIDDEN-RICHLAND,Carroll,Glidden-Richland,3,3|-0.01%,0.000000001076,vtd20_to_plan2_composed
+CARROLL - GLIDDEN-RICHLAND,Carroll,Glidden-Richland,4,4|0.01%,0.999999998924,vtd20_to_plan2_composed
+CARROLL - PLEASANT VALLEY-NEWTON,Carroll,Pleasant Valley-Newton,3,3|-0.01%,0.000000000000,vtd20_to_plan2_composed
+CARROLL - PLEASANT VALLEY-NEWTON,Carroll,Pleasant Valley-Newton,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CARROLL - SHERIDAN-GRANT-JASPER,Carroll,Sheridan-Grant-Jasper,3,3|-0.01%,0.000000000261,vtd20_to_plan2_composed
+CARROLL - SHERIDAN-GRANT-JASPER,Carroll,Sheridan-Grant-Jasper,4,4|0.01%,0.999999999739,vtd20_to_plan2_composed
+CARROLL - UNION,Carroll,Union,3,3|-0.01%,0.000000006639,vtd20_to_plan2_composed
+CARROLL - UNION,Carroll,Union,4,4|0.01%,0.999999993361,vtd20_to_plan2_composed
+CARROLL - WASHINGTON-ROSELLE,Carroll,Washington-Roselle,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CARROLL - WHEATLAND-KNIEST,Carroll,Wheatland-Kniest,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CASS - ATLANTIC 1/BRIGHTON-GROVE-PYMOSA-WASHINGTON,Cass,Atlantic 1/Brighton-Grove-Pymosa-Washington,3,3|-0.01%,0.999999861961,vtd20_to_plan2_composed
+CASS - ATLANTIC 1/BRIGHTON-GROVE-PYMOSA-WASHINGTON,Cass,Atlantic 1/Brighton-Grove-Pymosa-Washington,4,4|0.01%,0.000000138039,vtd20_to_plan2_composed
+CASS - ATLANTIC 2/3,Cass,Atlantic 2/3,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+CASS - ATLANTIC 4/5,Cass,Atlantic 4/5,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+CASS - BEAR GROVE-CASS TWP/LEWIS,Cass,Bear Grove-Cass Twp/Lewis,3,3|-0.01%,0.999999999757,vtd20_to_plan2_composed
+CASS - BEAR GROVE-CASS TWP/LEWIS,Cass,Bear Grove-Cass Twp/Lewis,4,4|0.01%,0.000000000243,vtd20_to_plan2_composed
+CASS - BENTON-FRANKLIN-GRANT-LINCOLN,Cass,Benton-Franklin-Grant-Lincoln,3,3|-0.01%,0.999999992910,vtd20_to_plan2_composed
+CASS - BENTON-FRANKLIN-GRANT-LINCOLN,Cass,Benton-Franklin-Grant-Lincoln,4,4|0.01%,0.000000007090,vtd20_to_plan2_composed
+CASS - EDNA-VICTORIA TWP,Cass,Edna-Victoria Twp,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+CASS - MASSENA TWP/MASSENA CITY,Cass,Massena Twp/Massena City,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+CASS - NOBLE-PLEASANT TWP/GRISWOLD,Cass,Noble-Pleasant Twp/Griswold,3,3|-0.01%,0.999999999482,vtd20_to_plan2_composed
+CASS - NOBLE-PLEASANT TWP/GRISWOLD,Cass,Noble-Pleasant Twp/Griswold,4,4|0.01%,0.000000000518,vtd20_to_plan2_composed
+CASS - UNION TWP/CUMBERLAND,Cass,Union Twp/Cumberland,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+CEDAR - CASS/CENTER/IOWA/ROCHESTER,Cedar,Cass/Center/Iowa/Rochester,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CEDAR - DAYTON/FAIRFIELD,Cedar,Dayton/Fairfield,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CEDAR - FARMINGTON/SUGAR CREEK,Cedar,Farmington/Sugar Creek,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CEDAR - FREMONT/RED OAK,Cedar,Fremont/Red Oak,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CEDAR - GOWER/SPRINGDALE,Cedar,Gower/Springdale,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CEDAR - INLAND,Cedar,Inland,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CEDAR - LINN/PIONEER,Cedar,Linn/Pioneer,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CEDAR - MASSILLON/SPRINGFIELD,Cedar,Massillon/Springfield,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CEDAR - TIPTON 1,Cedar,Tipton 1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CEDAR - TIPTON 2,Cedar,Tipton 2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CEDAR - TIPTON 3,Cedar,Tipton 3,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CEDAR - WEST BRANCH 1,Cedar,West Branch 1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - CLEAR LAKE-GRANT-UNION,Cerro Gordo,Clear Lake-Grant-Union,2,2|-0%,0.999999998360,vtd20_to_plan2_composed
+CERRO GORDO - CLEAR LAKE-GRANT-UNION,Cerro Gordo,Clear Lake-Grant-Union,4,4|0.01%,0.000000001640,vtd20_to_plan2_composed
+CERRO GORDO - CLEAR LAKE-WARD 1,Cerro Gordo,Clear Lake-Ward 1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - CLEAR LAKE-WARD 2,Cerro Gordo,Clear Lake-Ward 2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - CLEAR LAKE-WARD 3,Cerro Gordo,Clear Lake-Ward 3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - FALLS-PLYMOUTH PCT,Cerro Gordo,Falls-Plymouth Pct,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - FALLS-ROCK FALLS PCT,Cerro Gordo,Falls-Rock Falls Pct,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - GENESEO TWP PCT,Cerro Gordo,Geneseo Twp Pct,2,2|-0%,0.999999999068,vtd20_to_plan2_composed
+CERRO GORDO - GENESEO TWP PCT,Cerro Gordo,Geneseo Twp Pct,4,4|0.01%,0.000000000932,vtd20_to_plan2_composed
+CERRO GORDO - GRIMES-MESERVEY PCT,Cerro Gordo,Grimes-Meservey Pct,2,2|-0%,0.999999961254,vtd20_to_plan2_composed
+CERRO GORDO - GRIMES-MESERVEY PCT,Cerro Gordo,Grimes-Meservey Pct,4,4|0.01%,0.000000038746,vtd20_to_plan2_composed
+CERRO GORDO - GRIMES-THORNTON PCT,Cerro Gordo,Grimes-Thornton Pct,2,2|-0%,0.999999998970,vtd20_to_plan2_composed
+CERRO GORDO - GRIMES-THORNTON PCT,Cerro Gordo,Grimes-Thornton Pct,4,4|0.01%,0.000000001030,vtd20_to_plan2_composed
+CERRO GORDO - LAKE/LINCOLN TWPS PCT,Cerro Gordo,Lake/Lincoln Twps Pct,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - LIME CREEK/MASON N TWPS,Cerro Gordo,Lime Creek/Mason N Twps,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - MASON CITY W-1 P-1,Cerro Gordo,Mason City W-1 P-1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - MASON CITY W-1 P-2,Cerro Gordo,Mason City W-1 P-2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - MASON CITY W-1 P-3,Cerro Gordo,Mason City W-1 P-3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - MASON CITY W-2 P-1,Cerro Gordo,Mason City W-2 P-1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - MASON CITY W-2 P-2,Cerro Gordo,Mason City W-2 P-2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - MASON CITY W-2 P-3,Cerro Gordo,Mason City W-2 P-3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - MASON CITY W-3 P-1,Cerro Gordo,Mason City W-3 P-1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - MASON CITY W-3 P-2,Cerro Gordo,Mason City W-3 P-2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - MASON CITY W-3 P-3,Cerro Gordo,Mason City W-3 P-3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - MASON CITY W-4 P-1,Cerro Gordo,Mason City W-4 P-1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - MASON CITY W-4 P-2,Cerro Gordo,Mason City W-4 P-2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - MASON CITY W-4 P-3,Cerro Gordo,Mason City W-4 P-3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - MASON S/BATH TWPS,Cerro Gordo,Mason S/Bath Twps,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CERRO GORDO - MT VERNON-PL VALLEY TWPS,Cerro Gordo,Mt Vernon-Pl Valley Twps,2,2|-0%,0.999999990804,vtd20_to_plan2_composed
+CERRO GORDO - MT VERNON-PL VALLEY TWPS,Cerro Gordo,Mt Vernon-Pl Valley Twps,4,4|0.01%,0.000000009196,vtd20_to_plan2_composed
+CERRO GORDO - PORTLAND-OWEN-DOUGHERTY,Cerro Gordo,Portland-Owen-Dougherty,2,2|-0%,0.999999990619,vtd20_to_plan2_composed
+CERRO GORDO - PORTLAND-OWEN-DOUGHERTY,Cerro Gordo,Portland-Owen-Dougherty,4,4|0.01%,0.000000009381,vtd20_to_plan2_composed
+CHEROKEE - #1 AURELIA,Cherokee,#1 Aurelia,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CHEROKEE - #2 CLEGHORN/MARCUS,Cherokee,#2 Cleghorn/Marcus,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CHEROKEE - #3 QUIMBY,Cherokee,#3 Quimby,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CHEROKEE - #4 CHEROKEE,Cherokee,#4 Cherokee,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CHEROKEE - #5 CHEROKEE WARD 1,Cherokee,#5 Cherokee Ward 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CHEROKEE - #6 CHEROKEE WARD 2,Cherokee,#6 Cherokee Ward 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CHEROKEE - #7 CHEROKEE WARD 3,Cherokee,#7 Cherokee Ward 3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CHICKASAW - BRADFORD,Chickasaw,Bradford,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CHICKASAW - CHICKASAW,Chickasaw,Chickasaw,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CHICKASAW - CITY OF NEW HAMPTON WARD FOUR,Chickasaw,City of New Hampton Ward Four,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CHICKASAW - CITY OF NEW HAMPTON WARD ONE,Chickasaw,City of New Hampton Ward One,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CHICKASAW - CITY OF NEW HAMPTON WARD THREE,Chickasaw,City of New Hampton Ward Three,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CHICKASAW - CITY OF NEW HAMPTON WARD TWO,Chickasaw,City of New Hampton Ward Two,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CHICKASAW - DAYTON-RICHLAND,Chickasaw,Dayton-Richland,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CHICKASAW - DEERFIELD-WASHINGTON 2,Chickasaw,Deerfield-Washington 2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CHICKASAW - DRESDEN-FREDERICKSBURG,Chickasaw,Dresden-Fredericksburg,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CHICKASAW - JACKSONVILLE-UTICA,Chickasaw,Jacksonville-Utica,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CHICKASAW - NEW HAMPTON RURAL,Chickasaw,New Hampton Rural,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CHICKASAW - STAPLETON,Chickasaw,Stapleton,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CHICKASAW - WASHINGTON 1 TOWNSHIP,Chickasaw,Washington 1 Township,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CLARKE - MIDDLE PRECINCT,Clarke,Middle Precinct,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+CLARKE - MURRAY PRECINCT,Clarke,Murray Precinct,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+CLARKE - NORTHEAST PRECINCT,Clarke,Northeast Precinct,1,1|-0%,0.000000000724,vtd20_to_plan2_composed
+CLARKE - NORTHEAST PRECINCT,Clarke,Northeast Precinct,3,3|-0.01%,0.999999999276,vtd20_to_plan2_composed
+CLARKE - OSCEOLA 1ST WARD PRECINCT,Clarke,Osceola 1st Ward Precinct,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+CLARKE - OSCEOLA 2ND WARD PRECINCT,Clarke,Osceola 2nd Ward Precinct,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+CLARKE - OSCEOLA 3RD WARD PRECINCT,Clarke,Osceola 3rd Ward Precinct,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+CLARKE - WOODBURN PRECINCT,Clarke,Woodburn Precinct,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+CLAY - DOUGLAS-PETERSON,Clay,Douglas-Peterson,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CLAY - GARFIELD-HERDLAND,Clay,Garfield-Herdland,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CLAY - LAKE-FREEMAN,Clay,Lake-Freeman,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CLAY - LINCOLN-CLAY,Clay,Lincoln-Clay,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CLAY - LOGAN-GILLETT GROVE,Clay,Logan-Gillett Grove,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CLAY - SPENCER WARD 1,Clay,Spencer Ward 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CLAY - SPENCER WARD 2,Clay,Spencer Ward 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CLAY - SPENCER WARD 3,Clay,Spencer Ward 3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CLAY - SPENCER WARD 4,Clay,Spencer Ward 4,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CLAY - SPENCER WARD 5,Clay,Spencer Ward 5,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CLAY - SUMMIT-RIVERTON-SIOUX-MEADOW,Clay,Summit-Riverton-Sioux-Meadow,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CLAY - WATERFORD-LONE TREE,Clay,Waterford-Lone Tree,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CLAYTON - BOARDMAN-HIGHLAND,Clayton,Boardman-Highland,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CLAYTON - BUENA VISTA,Clayton,Buena Vista,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CLAYTON - CASS,Clayton,Cass,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CLAYTON - CLAYTON-GARNAVILLO,Clayton,Clayton-Garnavillo,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CLAYTON - COX CREEK-SPERRY,Clayton,Cox Creek-Sperry,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CLAYTON - ELK-MALLORY-VOLGA,Clayton,Elk-Mallory-Volga,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CLAYTON - FARMERSBURG-WAGNER,Clayton,Farmersburg-Wagner,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CLAYTON - GIARD-LUANA-MONONA,Clayton,Giard-Luana-Monona,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CLAYTON - GRAND MEADOW,Clayton,Grand Meadow,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CLAYTON - JEFFERSON-MILLVILLE,Clayton,Jefferson-Millville,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CLAYTON - LODOMILLO,Clayton,Lodomillo,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CLAYTON - MARION,Clayton,Marion,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CLAYTON - MENDON,Clayton,Mendon,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CLAYTON - READ,Clayton,Read,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - BLOOMFIELD BROOKFIELD DELMAR,Clinton,Bloomfield Brookfield Delmar,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - CAMANCHE 1,Clinton,Camanche 1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - CAMANCHE 2,Clinton,Camanche 2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - CENTER TWP,Clinton,Center Twp,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - CLINTON 1-1,Clinton,Clinton 1-1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - CLINTON 1-2,Clinton,Clinton 1-2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - CLINTON 2-1,Clinton,Clinton 2-1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - CLINTON 2-2,Clinton,Clinton 2-2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - CLINTON 3-1,Clinton,Clinton 3-1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - CLINTON 3-2,Clinton,Clinton 3-2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - CLINTON 4-1,Clinton,Clinton 4-1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - CLINTON 4-2,Clinton,Clinton 4-2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - DEEP CREEK GOOSE LAKE,Clinton,Deep Creek Goose Lake,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - DEWITT 1,Clinton,DeWitt 1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - DEWITT 2,Clinton,DeWitt 2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - DEWITT TWP,Clinton,DeWitt Twp,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - EDEN CAMANCHE TWP,Clinton,Eden Camanche Twp,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - ELK RIVER HAMPSHIRE ANDOVER,Clinton,Elk River Hampshire Andover,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - LIBERTY TORONTO,Clinton,Liberty Toronto,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - LOW MOOR,Clinton,Low Moor,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - OLIVE GRANT CALAMUS,Clinton,Olive Grant Calamus,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - ORANGE GRAND MOUND,Clinton,Orange Grand Mound,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - SHARON LOST NATION,Clinton,Sharon Lost Nation,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - SPRING ROCK WHEATLAND,Clinton,Spring Rock Wheatland,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - WATERFORD CHARLOTTE,Clinton,Waterford Charlotte,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CLINTON - WELTON WASHINGTON WELTON,Clinton,Welton Washington Welton,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+CRAWFORD - CHARTER OAK,Crawford,Charter Oak,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CRAWFORD - DCAB,Crawford,DCAB,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CRAWFORD - DENISON WARD 1,Crawford,Denison Ward 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CRAWFORD - DENISON WARD 2-DENISON TWP,Crawford,Denison Ward 2-Denison Twp,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CRAWFORD - DENISON WARD 3-GOODRICH TWP,Crawford,Denison Ward 3-Goodrich Twp,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CRAWFORD - NORTHEAST,Crawford,Northeast,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CRAWFORD - SOUTHEAST,Crawford,Southeast,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+CRAWFORD - SRK,Crawford,SRK,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - ADAMS,Dallas,Adams,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - ADEL 1,Dallas,Adel 1,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - ADEL 2,Dallas,Adel 2,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - BEAVER/DES MOINES,Dallas,Beaver/Des Moines,3,3|-0.01%,0.998565123162,vtd20_to_plan2_composed
+DALLAS - BEAVER/DES MOINES,Dallas,Beaver/Des Moines,4,4|0.01%,0.001434876838,vtd20_to_plan2_composed
+DALLAS - CLIVE 5,Dallas,Clive 5,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - CLIVE 6,Dallas,Clive 6,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - COLFAX/ADEL,Dallas,Colfax/Adel,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - DE SOTO,Dallas,De Soto,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - LINCOLN/WASHINGTON/LINN,Dallas,Lincoln/Washington/Linn,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - PERRY 1,Dallas,Perry 1,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - PERRY 2,Dallas,Perry 2,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - PERRY 3,Dallas,Perry 3,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - SPRING VALLEY/DALLAS,Dallas,Spring Valley/Dallas,3,3|-0.01%,0.999956697783,vtd20_to_plan2_composed
+DALLAS - SPRING VALLEY/DALLAS,Dallas,Spring Valley/Dallas,4,4|0.01%,0.000043302217,vtd20_to_plan2_composed
+DALLAS - SUGAR GROVE/DALLAS CENTER,Dallas,Sugar Grove/Dallas Center,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - UNION,Dallas,Union,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - URBANDALE 13,Dallas,Urbandale 13,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - URBANDALE 14,Dallas,Urbandale 14,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - URBANDALE 15,Dallas,Urbandale 15,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - VAN METER,Dallas,Van Meter,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - WALNUT/GRIMES/GRANT,Dallas,Walnut/Grimes/Grant,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - WAUKEE 1,Dallas,Waukee 1,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - WAUKEE 2,Dallas,Waukee 2,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - WAUKEE 3,Dallas,Waukee 3,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - WAUKEE 4,Dallas,Waukee 4,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - WAUKEE 5,Dallas,Waukee 5,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - WAUKEE 6,Dallas,Waukee 6,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - WEST DES MOINES 221,Dallas,West Des Moines 221,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - WEST DES MOINES 222,Dallas,West Des Moines 222,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - WEST DES MOINES 223,Dallas,West Des Moines 223,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - WEST DES MOINES 224,Dallas,West Des Moines 224,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - WEST DES MOINES 225,Dallas,West Des Moines 225,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - WEST DES MOINES 226,Dallas,West Des Moines 226,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - WEST DES MOINES 321,Dallas,West Des Moines 321,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DALLAS - WEST DES MOINES 322,Dallas,West Des Moines 322,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DAVIS - BLOOMFIELD,Davis,Bloomfield,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DAVIS - CENTRAL,Davis,Central,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DAVIS - NORTHEAST,Davis,Northeast,1,1|-0%,0.000000000449,vtd20_to_plan2_composed
+DAVIS - NORTHEAST,Davis,Northeast,3,3|-0.01%,0.999999999551,vtd20_to_plan2_composed
+DAVIS - NORTHWEST,Davis,Northwest,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DAVIS - SOUTHEAST,Davis,Southeast,1,1|-0%,0.000000010841,vtd20_to_plan2_composed
+DAVIS - SOUTHEAST,Davis,Southeast,3,3|-0.01%,0.999999989159,vtd20_to_plan2_composed
+DAVIS - SOUTHWEST,Davis,Southwest,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DECATUR - BL/FA/LAMONI,Decatur,BL/FA/Lamoni,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DECATUR - BU/HA/MO/NB/DAVIS CITY/PLEASANTON,Decatur,BU/HA/MO/NB/Davis City/Pleasanton,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DECATUR - CE/ED/LEON,Decatur,CE/ED/Leon,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DECATUR - DE/DECATUR CITY,Decatur,DE/Decatur City,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DECATUR - FR/LC/VAN WERT/WELDON,Decatur,FR/LC/Van Wert/Weldon,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DECATUR - GG/HP/WO/GARDEN GROVE/LEROY,Decatur,GG/HP/WO/Garden Grove/LeRoy,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DECATUR - GR/RL/GRAND RIVER,Decatur,GR/RL/Grand River,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+DELAWARE - ADAMS/HAZEL GREEN,Delaware,Adams/Hazel Green,1,1|-0%,0.000000000000,vtd20_to_plan2_composed
+DELAWARE - ADAMS/HAZEL GREEN,Delaware,Adams/Hazel Green,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DELAWARE - COLONY,Delaware,Colony,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DELAWARE - DELAWARE,Delaware,Delaware,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DELAWARE - DELHI/DELAWARE CORP,Delaware,Delhi/Delaware Corp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DELAWARE - HONEY CREEK/ELK,Delaware,Honey Creek/Elk,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DELAWARE - MANCHESTER WARD 1,Delaware,Manchester Ward 1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DELAWARE - MANCHESTER WARD 2,Delaware,Manchester Ward 2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DELAWARE - MANCHESTER WARD 3,Delaware,Manchester Ward 3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DELAWARE - MILO/PRAIRIE,Delaware,Milo/Prairie,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DELAWARE - ONEIDA/N FORK/BREMEN,Delaware,Oneida/N Fork/Bremen,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DELAWARE - RICHLAND/COFFINS GROVE,Delaware,Richland/Coffins Grove,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DELAWARE - SOUTH FORK/UNION,Delaware,South Fork/Union,1,1|-0%,0.000000014581,vtd20_to_plan2_composed
+DELAWARE - SOUTH FORK/UNION,Delaware,South Fork/Union,2,2|-0%,0.999999985419,vtd20_to_plan2_composed
+DES MOINES - PCT 1T,Des Moines,PCT 1T,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DES MOINES - PCT 2,Des Moines,PCT 2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DES MOINES - PCT 3,Des Moines,PCT 3,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DES MOINES - PCT 4,Des Moines,PCT 4,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DES MOINES - PCT 5,Des Moines,PCT 5,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DES MOINES - PCT 6,Des Moines,PCT 6,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DES MOINES - PCT 7,Des Moines,PCT 7,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DES MOINES - PCT 8C,Des Moines,PCT 8C,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DES MOINES - PCT 9,Des Moines,PCT 9,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DES MOINES - PCT DM,Des Moines,PCT DM,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DES MOINES - PCT FM,Des Moines,PCT FM,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DES MOINES - PCT HJ,Des Moines,PCT HJ,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DES MOINES - PCT MY,Des Moines,PCT MY,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DES MOINES - PCT PW,Des Moines,PCT PW,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DES MOINES - PCT UNION,Des Moines,PCT UNION,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DES MOINES - PCT WB,Des Moines,PCT WB,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+DICKINSON - PRECINCT NO. 01,Dickinson,Precinct No. 01,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DICKINSON - PRECINCT NO. 02,Dickinson,Precinct No. 02,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DICKINSON - PRECINCT NO. 03,Dickinson,Precinct No. 03,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DICKINSON - PRECINCT NO. 04,Dickinson,Precinct No. 04,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DICKINSON - PRECINCT NO. 05,Dickinson,Precinct No. 05,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DICKINSON - PRECINCT NO. 06,Dickinson,Precinct No. 06,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DICKINSON - PRECINCT NO. 07,Dickinson,Precinct No. 07,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DICKINSON - PRECINCT NO. 08,Dickinson,Precinct No. 08,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DICKINSON - PRECINCT NO. 09,Dickinson,Precinct No. 09,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DICKINSON - PRECINCT NO. 10,Dickinson,Precinct No. 10,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DICKINSON - PRECINCT NO. 11,Dickinson,Precinct No. 11,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DICKINSON - PRECINCT NO. 12,Dickinson,Precinct No. 12,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DICKINSON - PRECINCT NO. 13,Dickinson,Precinct No. 13,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DICKINSON - PRECINCT NO. 14,Dickinson,Precinct No. 14,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DICKINSON - PRECINCT NO. 15,Dickinson,Precinct No. 15,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_01,Dubuque,Dubuque_01,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_02,Dubuque,Dubuque_02,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_03,Dubuque,Dubuque_03,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_04,Dubuque,Dubuque_04,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_05,Dubuque,Dubuque_05,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_06,Dubuque,Dubuque_06,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_07,Dubuque,Dubuque_07,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_08,Dubuque,Dubuque_08,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_09,Dubuque,Dubuque_09,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_10,Dubuque,Dubuque_10,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_11,Dubuque,Dubuque_11,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_12,Dubuque,Dubuque_12,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_13,Dubuque,Dubuque_13,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_14,Dubuque,Dubuque_14,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_15,Dubuque,Dubuque_15,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_16,Dubuque,Dubuque_16,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_17,Dubuque,Dubuque_17,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_18,Dubuque,Dubuque_18,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_19,Dubuque,Dubuque_19,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_20,Dubuque,Dubuque_20,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_31,Dubuque,Dubuque_31,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_32,Dubuque,Dubuque_32,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_33,Dubuque,Dubuque_33,1,1|-0%,0.000000005414,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_33,Dubuque,Dubuque_33,2,2|-0%,0.999999994586,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_34,Dubuque,Dubuque_34,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_35,Dubuque,Dubuque_35,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_36,Dubuque,Dubuque_36,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_37,Dubuque,Dubuque_37,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_38,Dubuque,Dubuque_38,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_39,Dubuque,Dubuque_39,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_40,Dubuque,Dubuque_40,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_41,Dubuque,Dubuque_41,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_42,Dubuque,Dubuque_42,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_43,Dubuque,Dubuque_43,1,1|-0%,0.000000040074,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_43,Dubuque,Dubuque_43,2,2|-0%,0.999999959926,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_44,Dubuque,Dubuque_44,1,1|-0%,0.000000065400,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_44,Dubuque,Dubuque_44,2,2|-0%,0.999999934600,vtd20_to_plan2_composed
+DUBUQUE - DUBUQUE_45,Dubuque,Dubuque_45,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+EMMET - AG-IL-ARMSTRONG,Emmet,AG-IL-Armstrong,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+EMMET - CN-SL-GRUVER,Emmet,CN-SL-Gruver,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+EMMET - DM-JC-RINGSTED,Emmet,DM-JC-Ringsted,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+EMMET - EL-LN-DOLLIVER,Emmet,EL-LN-Dolliver,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+EMMET - EMMET-ESTHERVILLE,Emmet,Emmet-Estherville,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+EMMET - ESTHERVILLE WARD 1,Emmet,Estherville Ward 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+EMMET - ESTHERVILLE WARD 2,Emmet,Estherville Ward 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+EMMET - ESTHERVILLE WARD 3,Emmet,Estherville Ward 3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+EMMET - ESTHERVILLE WARD 4,Emmet,Estherville Ward 4,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+EMMET - ESTHERVILLE WARD 5,Emmet,Estherville Ward 5,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+EMMET - HL-TM-WALLINGFORD,Emmet,HL-TM-Wallingford,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - AUBURN TWP,Fayette,Auburn Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - BANKS-FREMONT TWP,Fayette,Banks-Fremont Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - BETHEL-WINDSOR TWP,Fayette,Bethel-Windsor Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - CENTER TWP,Fayette,Center Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - CLERMONT TWP,Fayette,Clermont Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - DOVER TWP,Fayette,Dover Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - EDEN TWP,Fayette,Eden Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - FAIRBANK INC,Fayette,Fairbank Inc,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - FAIRFIELD-PUTNAM TWP,Fayette,Fairfield-Putnam Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - HARLAN TWP,Fayette,Harlan Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - ILLYRIA TWP,Fayette,Illyria Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - JEFFERSON TWP,Fayette,Jefferson Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - OELWEIN WARD 1,Fayette,Oelwein Ward 1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - OELWEIN WARD 2,Fayette,Oelwein Ward 2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - OELWEIN WARD 3,Fayette,Oelwein Ward 3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - OELWEIN WARD 4,Fayette,Oelwein Ward 4,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - ORAN TWP,Fayette,Oran Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - PLEASANT VALLEY TWP,Fayette,Pleasant Valley Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - SCOTT TWP,Fayette,Scott Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - SMITHFIELD TWP,Fayette,Smithfield Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - UNION TWP,Fayette,Union Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - WEST UNION WARD 1,Fayette,West Union Ward 1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - WEST UNION WARD 2,Fayette,West Union Ward 2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - WEST UNION WARD 3,Fayette,West Union Ward 3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FAYETTE - WESTFIELD TWP,Fayette,Westfield Twp,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FLOYD - CHARLES CITY CORP/CC1,Floyd,Charles City Corp/CC1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FLOYD - CHARLES CITY CORP/CC2,Floyd,Charles City Corp/CC2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FLOYD - CHARLES CITY CORP/CC3,Floyd,Charles City Corp/CC3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FLOYD - FLOYD-CEDAR-NILES,Floyd,Floyd-Cedar-Niles,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FLOYD - ROCK GROVE-RUDD,Floyd,Rock Grove-Rudd,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FLOYD - ROCKFORD-ULSTER,Floyd,Rockford-Ulster,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FLOYD - SCOTT-UNION-PLEASANT GROVE,Floyd,Scott-Union-Pleasant Grove,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FLOYD - ST. CHARLES-RIVERTON,Floyd,St. Charles-Riverton,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+FRANKLIN - GENEVA/INGHAM/EAST MOTT,Franklin,Geneva/Ingham/East Mott,2,2|-0%,0.000000028452,vtd20_to_plan2_composed
+FRANKLIN - GENEVA/INGHAM/EAST MOTT,Franklin,Geneva/Ingham/East Mott,4,4|0.01%,0.999999971548,vtd20_to_plan2_composed
+FRANKLIN - GRANT/OSCEOLA,Franklin,Grant/Osceola,2,2|-0%,0.000000190565,vtd20_to_plan2_composed
+FRANKLIN - GRANT/OSCEOLA,Franklin,Grant/Osceola,4,4|0.01%,0.999999809435,vtd20_to_plan2_composed
+FRANKLIN - HAMILTON/LEE/REEVE,Franklin,Hamilton/Lee/Reeve,2,2|-0%,0.000000000273,vtd20_to_plan2_composed
+FRANKLIN - HAMILTON/LEE/REEVE,Franklin,Hamilton/Lee/Reeve,4,4|0.01%,0.999999999727,vtd20_to_plan2_composed
+FRANKLIN - HAMPTON 1,Franklin,Hampton 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+FRANKLIN - HAMPTON 2,Franklin,Hampton 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+FRANKLIN - HAMPTON 3,Franklin,Hampton 3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+FRANKLIN - HAMPTON 4,Franklin,Hampton 4,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+FRANKLIN - MARION,Franklin,Marion,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+FRANKLIN - OAKLAND/MORGAN,Franklin,Oakland/Morgan,2,2|-0%,0.000000000289,vtd20_to_plan2_composed
+FRANKLIN - OAKLAND/MORGAN,Franklin,Oakland/Morgan,4,4|0.01%,0.999999999711,vtd20_to_plan2_composed
+FRANKLIN - RICHLAND/ROSS/WEST FORK,Franklin,Richland/Ross/West Fork,2,2|-0%,0.000000118863,vtd20_to_plan2_composed
+FRANKLIN - RICHLAND/ROSS/WEST FORK,Franklin,Richland/Ross/West Fork,4,4|0.01%,0.999999881137,vtd20_to_plan2_composed
+FRANKLIN - WEST MOTT TOWNSHIP,Franklin,West Mott Township,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+FRANKLIN - WISNER/SCOTT,Franklin,Wisner/Scott,2,2|-0%,0.000000001848,vtd20_to_plan2_composed
+FRANKLIN - WISNER/SCOTT,Franklin,Wisner/Scott,4,4|0.01%,0.999999998152,vtd20_to_plan2_composed
+FREMONT - FARRAGUT,Fremont,Farragut,3,3|-0.01%,0.000000010062,vtd20_to_plan2_composed
+FREMONT - FARRAGUT,Fremont,Farragut,4,4|0.01%,0.999999989938,vtd20_to_plan2_composed
+FREMONT - GREEN RIVERSIDE SCOTT,Fremont,Green Riverside Scott,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+FREMONT - HAMBURG/WASHINGTON,Fremont,Hamburg/Washington,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+FREMONT - RIVERTON,Fremont,Riverton,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+FREMONT - SIDNEY,Fremont,Sidney,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+GREENE - CENTRAL PRECINCT,Greene,Central Precinct,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+GREENE - EAST PRECINCT,Greene,East Precinct,3,3|-0.01%,0.999998962443,vtd20_to_plan2_composed
+GREENE - EAST PRECINCT,Greene,East Precinct,4,4|0.01%,0.000001037557,vtd20_to_plan2_composed
+GREENE - JEFFERSON 1 PRECINCT,Greene,Jefferson 1 Precinct,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+GREENE - JEFFERSON 2 PRECINCT,Greene,Jefferson 2 Precinct,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+GREENE - JEFFERSON 3 PRECINCT,Greene,Jefferson 3 Precinct,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+GREENE - NORTH PRECINCT,Greene,North Precinct,3,3|-0.01%,0.999999831164,vtd20_to_plan2_composed
+GREENE - NORTH PRECINCT,Greene,North Precinct,4,4|0.01%,0.000000168836,vtd20_to_plan2_composed
+GREENE - WEST PRECINCT,Greene,West Precinct,3,3|-0.01%,0.999999993713,vtd20_to_plan2_composed
+GREENE - WEST PRECINCT,Greene,West Precinct,4,4|0.01%,0.000000006287,vtd20_to_plan2_composed
+GRUNDY - PRECINCT 1,Grundy,Precinct 1,2,2|-0%,0.999999954995,vtd20_to_plan2_composed
+GRUNDY - PRECINCT 1,Grundy,Precinct 1,4,4|0.01%,0.000000045005,vtd20_to_plan2_composed
+GRUNDY - PRECINCT 2,Grundy,Precinct 2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+GRUNDY - PRECINCT 3,Grundy,Precinct 3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+GRUNDY - PRECINCT 4,Grundy,Precinct 4,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+GRUNDY - PRECINCT 5,Grundy,Precinct 5,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+GRUNDY - PRECINCT 6,Grundy,Precinct 6,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+GRUNDY - PRECINCT 7,Grundy,Precinct 7,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+GUTHRIE - BLACK,Guthrie,Black,3,3|-0.01%,0.999999954725,vtd20_to_plan2_composed
+GUTHRIE - BLACK,Guthrie,Black,4,4|0.01%,0.000000045275,vtd20_to_plan2_composed
+GUTHRIE - BLUE,Guthrie,Blue,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+GUTHRIE - BROWN,Guthrie,Brown,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+GUTHRIE - GOLD,Guthrie,Gold,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+GUTHRIE - GREEN,Guthrie,Green,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+GUTHRIE - PURPLE,Guthrie,Purple,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+GUTHRIE - RED,Guthrie,Red,3,3|-0.01%,0.999771297663,vtd20_to_plan2_composed
+GUTHRIE - RED,Guthrie,Red,4,4|0.01%,0.000228702337,vtd20_to_plan2_composed
+GUTHRIE - WHITE,Guthrie,White,3,3|-0.01%,0.999999501212,vtd20_to_plan2_composed
+GUTHRIE - WHITE,Guthrie,White,4,4|0.01%,0.000000498788,vtd20_to_plan2_composed
+HAMILTON - PCT 1 CASS FREEDOM FREMONT INDEPENDENCE,Hamilton,PCT 1 Cass Freedom Fremont Independence,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HAMILTON - PCT 2 BLAIRSBURG LIBERTY WILLIAMS,Hamilton,PCT 2 Blairsburg Liberty Williams,2,2|-0%,0.000000002281,vtd20_to_plan2_composed
+HAMILTON - PCT 2 BLAIRSBURG LIBERTY WILLIAMS,Hamilton,PCT 2 Blairsburg Liberty Williams,4,4|0.01%,0.999999997719,vtd20_to_plan2_composed
+HAMILTON - PCT 3 CLEAR LAKE HAMILTON MARION WEBSTER,Hamilton,PCT 3 Clear Lake Hamilton Marion Webster,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HAMILTON - PCT 4 LYON ELLSWORTH,Hamilton,PCT 4 Lyon Ellsworth,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HAMILTON - PCT 5 LINCOLN ROSE GROVE SCOTT,Hamilton,PCT 5 Lincoln Rose Grove Scott,2,2|-0%,0.000004900658,vtd20_to_plan2_composed
+HAMILTON - PCT 5 LINCOLN ROSE GROVE SCOTT,Hamilton,PCT 5 Lincoln Rose Grove Scott,4,4|0.01%,0.999995099342,vtd20_to_plan2_composed
+HAMILTON - WEBSTER CITY 1,Hamilton,Webster City 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HAMILTON - WEBSTER CITY 2,Hamilton,Webster City 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HAMILTON - WEBSTER CITY 3,Hamilton,Webster City 3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HANCOCK - PRECINCT 01,Hancock,Precinct 01,2,2|-0%,0.000000000258,vtd20_to_plan2_composed
+HANCOCK - PRECINCT 01,Hancock,Precinct 01,4,4|0.01%,0.999999999742,vtd20_to_plan2_composed
+HANCOCK - PRECINCT 02,Hancock,Precinct 02,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HANCOCK - PRECINCT 03,Hancock,Precinct 03,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HANCOCK - PRECINCT 04,Hancock,Precinct 04,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HANCOCK - PRECINCT 05,Hancock,Precinct 05,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HANCOCK - PRECINCT 06,Hancock,Precinct 06,2,2|-0%,0.000000000707,vtd20_to_plan2_composed
+HANCOCK - PRECINCT 06,Hancock,Precinct 06,4,4|0.01%,0.999999999293,vtd20_to_plan2_composed
+HANCOCK - PRECINCT 07,Hancock,Precinct 07,2,2|-0%,0.000000000490,vtd20_to_plan2_composed
+HANCOCK - PRECINCT 07,Hancock,Precinct 07,4,4|0.01%,0.999999999510,vtd20_to_plan2_composed
+HANCOCK - PRECINCT 08,Hancock,Precinct 08,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HANCOCK - PRECINCT 09,Hancock,Precinct 09,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HANCOCK - PRECINCT 10,Hancock,Precinct 10,2,2|-0%,0.000000000420,vtd20_to_plan2_composed
+HANCOCK - PRECINCT 10,Hancock,Precinct 10,4,4|0.01%,0.999999999580,vtd20_to_plan2_composed
+HARDIN - ALDEN/BUCKEYE,Hardin,Alden/Buckeye,2,2|-0%,0.999999969582,vtd20_to_plan2_composed
+HARDIN - ALDEN/BUCKEYE,Hardin,Alden/Buckeye,4,4|0.01%,0.000000030418,vtd20_to_plan2_composed
+HARDIN - CONCORD/SHERMAN/GRANT/TIPTON,Hardin,Concord/Sherman/Grant/Tipton,2,2|-0%,0.999999998621,vtd20_to_plan2_composed
+HARDIN - CONCORD/SHERMAN/GRANT/TIPTON,Hardin,Concord/Sherman/Grant/Tipton,4,4|0.01%,0.000000001379,vtd20_to_plan2_composed
+HARDIN - ELDORA CITY,Hardin,Eldora City,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+HARDIN - ELDORA/PLEASANT/PROVIDENCE/UNION,Hardin,Eldora/Pleasant/Providence/Union,2,2|-0%,0.999999999460,vtd20_to_plan2_composed
+HARDIN - ELDORA/PLEASANT/PROVIDENCE/UNION,Hardin,Eldora/Pleasant/Providence/Union,4,4|0.01%,0.000000000540,vtd20_to_plan2_composed
+HARDIN - ETNA/CLAY,Hardin,Etna/Clay,2,2|-0%,0.999999862208,vtd20_to_plan2_composed
+HARDIN - ETNA/CLAY,Hardin,Etna/Clay,4,4|0.01%,0.000000137792,vtd20_to_plan2_composed
+HARDIN - HARDIN/ELLIS/JACKSON,Hardin,Hardin/Ellis/Jackson,2,2|-0%,0.999999879219,vtd20_to_plan2_composed
+HARDIN - HARDIN/ELLIS/JACKSON,Hardin,Hardin/Ellis/Jackson,4,4|0.01%,0.000000120781,vtd20_to_plan2_composed
+HARDIN - IOWA FALLS #1,Hardin,Iowa Falls #1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+HARDIN - IOWA FALLS #2,Hardin,Iowa Falls #2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+HARRISON - PRECINCT #01 LITTLE SIOUX,Harrison,Precinct #01 Little Sioux,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HARRISON - PRECINCT #02 PISGAH,Harrison,Precinct #02 Pisgah,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HARRISON - PRECINCT #03 DUNLAP,Harrison,Precinct #03 Dunlap,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HARRISON - PRECINCT #04 MONDAMIN,Harrison,Precinct #04 Mondamin,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HARRISON - PRECINCT #05 MAGNOLIA,Harrison,Precinct #05 Magnolia,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HARRISON - PRECINCT #06 BOYER/LINCOLN,Harrison,Precinct #06 Boyer/Lincoln,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HARRISON - PRECINCT #07 WOODBINE,Harrison,Precinct #07 Woodbine,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HARRISON - PRECINCT #08 MODALE,Harrison,Precinct #08 Modale,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HARRISON - PRECINCT #09 JEFFERSON/LAGRANGE,Harrison,Precinct #09 Jefferson/LaGrange,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HARRISON - PRECINCT #10 LOGAN,Harrison,Precinct #10 Logan,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HARRISON - PRECINCT #11 ST JOHN,Harrison,Precinct #11 St John,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HARRISON - PRECINCT #12 MISSOURI VALLEY,Harrison,Precinct #12 Missouri Valley,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HARRISON - PRECINCT #13 PERSIA,Harrison,Precinct #13 Persia,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HENRY - CENTRAL PRECINCT,Henry,Central Precinct,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+HENRY - MT. PLEASANT,Henry,Mt. Pleasant,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+HENRY - NORTHEAST PRECINCT,Henry,Northeast Precinct,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+HENRY - NORTHWEST PRECINCT,Henry,Northwest Precinct,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+HENRY - SOUTHEAST PRECINCT,Henry,Southeast Precinct,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+HENRY - SOUTHWEST PRECINCT,Henry,Southwest Precinct,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+HOWARD - AFTON/HOWARD/PARIS,Howard,Afton/Howard/Paris,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+HOWARD - ALBION/FOREST CITY,Howard,Albion/Forest City,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+HOWARD - CRESCO/VERNON SPRINGS,Howard,Cresco/Vernon Springs,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+HOWARD - JAMESTOWN/OAKDALE,Howard,Jamestown/Oakdale,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+HOWARD - NEW OREGON,Howard,New Oregon,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+HOWARD - SARATOGA/HOWARD CTR/CHESTER,Howard,Saratoga/Howard Ctr/Chester,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+HUMBOLDT - AVERY-NORTH WEAVER,Humboldt,Avery-North Weaver,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HUMBOLDT - DAKOTA CITY-GROVE,Humboldt,Dakota City-Grove,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HUMBOLDT - DELANA-WACOUSTA-NORTH RUTLAND,Humboldt,Delana-Wacousta-North Rutland,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HUMBOLDT - HUMBOLDT 1-CORINTH-SOUTH WEAVER,Humboldt,Humboldt 1-Corinth-South Weaver,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HUMBOLDT - HUMBOLDT 2-BEAVER-SOUTH NORWAY,Humboldt,Humboldt 2-Beaver-South Norway,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HUMBOLDT - HUMBOLDT 3-SOUTH RUTLAND,Humboldt,Humboldt 3-South Rutland,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HUMBOLDT - HUMBOLDT-WEST VERNON,Humboldt,Humboldt-West Vernon,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HUMBOLDT - NORTH LAKE-EAST VERNON,Humboldt,North Lake-East Vernon,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+HUMBOLDT - SOUTH LAKE-NORTH NORWAY,Humboldt,South Lake-North Norway,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+IDA - CITY OF ARTHUR,Ida,City of Arthur,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+IDA - CITY OF BATTLE CREEK & GRANT TWP,Ida,City of Battle Creek & Grant Twp,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+IDA - CITY OF GALVA,Ida,City of Galva,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+IDA - CITY OF HOLSTEIN,Ida,City of Holstein,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+IDA - IDA GROVE WARD 1,Ida,Ida Grove Ward 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+IDA - IDA GROVE WARD 2,Ida,Ida Grove Ward 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+IDA - IDA GROVE WARD 3,Ida,Ida Grove Ward 3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+IOWA - DAYTON/ENGLISH I,Iowa,Dayton/English I,1,1|-0%,0.999999943293,vtd20_to_plan2_composed
+IOWA - DAYTON/ENGLISH I,Iowa,Dayton/English I,2,2|-0%,0.000000056707,vtd20_to_plan2_composed
+IOWA - ENGLISH II,Iowa,English II,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+IOWA - FILLMORE/GREENE,Iowa,Fillmore/Greene,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+IOWA - HARTFORD I/SUMNER,Iowa,Hartford I/Sumner,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+IOWA - HARTFORD II/LINCOLN,Iowa,Hartford II/Lincoln,1,1|-0%,0.999999933552,vtd20_to_plan2_composed
+IOWA - HARTFORD II/LINCOLN,Iowa,Hartford II/Lincoln,2,2|-0%,0.000000066448,vtd20_to_plan2_composed
+IOWA - HILTON/WASHINGTON,Iowa,Hilton/Washington,1,1|-0%,0.999999946613,vtd20_to_plan2_composed
+IOWA - HILTON/WASHINGTON,Iowa,Hilton/Washington,2,2|-0%,0.000000053387,vtd20_to_plan2_composed
+IOWA - HONEY CREEK/MARENGO RURAL,Iowa,Honey Creek/Marengo Rural,1,1|-0%,0.999999883578,vtd20_to_plan2_composed
+IOWA - HONEY CREEK/MARENGO RURAL,Iowa,Honey Creek/Marengo Rural,2,2|-0%,0.000000116422,vtd20_to_plan2_composed
+IOWA - LENOX/IOWA,Iowa,Lenox/Iowa,1,1|-0%,0.999999999544,vtd20_to_plan2_composed
+IOWA - LENOX/IOWA,Iowa,Lenox/Iowa,2,2|-0%,0.000000000456,vtd20_to_plan2_composed
+IOWA - MARENGO CITY,Iowa,Marengo City,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+IOWA - PILOT/TROY/YORK,Iowa,Pilot/Troy/York,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+IOWA - WILLIAMSBURG,Iowa,Williamsburg,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JACKSON - JACKSON 01,Jackson,Jackson 01,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JACKSON - JACKSON 02,Jackson,Jackson 02,1,1|-0%,0.999999987631,vtd20_to_plan2_composed
+JACKSON - JACKSON 02,Jackson,Jackson 02,2,2|-0%,0.000000012369,vtd20_to_plan2_composed
+JACKSON - JACKSON 03,Jackson,Jackson 03,1,1|-0%,0.999999998651,vtd20_to_plan2_composed
+JACKSON - JACKSON 03,Jackson,Jackson 03,2,2|-0%,0.000000001349,vtd20_to_plan2_composed
+JACKSON - JACKSON 04,Jackson,Jackson 04,1,1|-0%,0.999997301321,vtd20_to_plan2_composed
+JACKSON - JACKSON 04,Jackson,Jackson 04,2,2|-0%,0.000002698679,vtd20_to_plan2_composed
+JACKSON - JACKSON 05,Jackson,Jackson 05,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JACKSON - JACKSON 06,Jackson,Jackson 06,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JACKSON - JACKSON 07,Jackson,Jackson 07,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JACKSON - JACKSON 08,Jackson,Jackson 08,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JACKSON - JACKSON 09,Jackson,Jackson 09,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JACKSON - JACKSON 10,Jackson,Jackson 10,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JACKSON - JACKSON 11,Jackson,Jackson 11,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JACKSON - JACKSON 12,Jackson,Jackson 12,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JACKSON - JACKSON 13,Jackson,Jackson 13,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JACKSON - JACKSON 14,Jackson,Jackson 14,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JACKSON - JACKSON 15,Jackson,Jackson 15,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JACKSON - JACKSON 16,Jackson,Jackson 16,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JASPER - CLEAR CREEK/POWESHIEK,Jasper,Clear Creek/Poweshiek,1,1|-0%,0.999999972322,vtd20_to_plan2_composed
+JASPER - CLEAR CREEK/POWESHIEK,Jasper,Clear Creek/Poweshiek,3,3|-0.01%,0.000000002806,vtd20_to_plan2_composed
+JASPER - CLEAR CREEK/POWESHIEK,Jasper,Clear Creek/Poweshiek,4,4|0.01%,0.000000024872,vtd20_to_plan2_composed
+JASPER - COLFAX WARD 1,Jasper,Colfax Ward 1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JASPER - COLFAX WARD 2,Jasper,Colfax Ward 2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JASPER - COLFAX WARD 3,Jasper,Colfax Ward 3,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JASPER - DES MOINES,Jasper,Des Moines,1,1|-0%,0.999999916453,vtd20_to_plan2_composed
+JASPER - DES MOINES,Jasper,Des Moines,3,3|-0.01%,0.000000083547,vtd20_to_plan2_composed
+JASPER - ELK CREEK/LYNNGROVE,Jasper,Elk Creek/Lynngrove,1,1|-0%,0.999999999710,vtd20_to_plan2_composed
+JASPER - ELK CREEK/LYNNGROVE,Jasper,Elk Creek/Lynngrove,2,2|-0%,0.000000000290,vtd20_to_plan2_composed
+JASPER - FAIRVIEW,Jasper,Fairview,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JASPER - HG/K/RC/BV/RL,Jasper,HG/K/RC/BV/RL,1,1|-0%,0.999999980102,vtd20_to_plan2_composed
+JASPER - HG/K/RC/BV/RL,Jasper,HG/K/RC/BV/RL,2,2|-0%,0.000000006957,vtd20_to_plan2_composed
+JASPER - HG/K/RC/BV/RL,Jasper,HG/K/RC/BV/RL,4,4|0.01%,0.000000012942,vtd20_to_plan2_composed
+JASPER - INDEP/MALAKA/MARIPOSA,Jasper,Indep/Malaka/Mariposa,1,1|-0%,0.999979395552,vtd20_to_plan2_composed
+JASPER - INDEP/MALAKA/MARIPOSA,Jasper,Indep/Malaka/Mariposa,4,4|0.01%,0.000020604448,vtd20_to_plan2_composed
+JASPER - MOUND PRAIRIE/WASHINGTON,Jasper,Mound Prairie/Washington,1,1|-0%,0.999999944889,vtd20_to_plan2_composed
+JASPER - MOUND PRAIRIE/WASHINGTON,Jasper,Mound Prairie/Washington,3,3|-0.01%,0.000000055111,vtd20_to_plan2_composed
+JASPER - NEWTON 1-1,Jasper,Newton 1-1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JASPER - NEWTON 1-2,Jasper,Newton 1-2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JASPER - NEWTON 2-1,Jasper,Newton 2-1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JASPER - NEWTON 2-2,Jasper,Newton 2-2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JASPER - NEWTON 3-1,Jasper,Newton 3-1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JASPER - NEWTON 3-2,Jasper,Newton 3-2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JASPER - NEWTON 4-1,Jasper,Newton 4-1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JASPER - NEWTON 4-2,Jasper,Newton 4-2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JASPER - NEWTON/SHERMAN,Jasper,Newton/Sherman,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JASPER - PALO ALTO,Jasper,Palo Alto,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JEFFERSON - BLACK HAWK-POLK-PACKWOOD,Jefferson,Black Hawk-Polk-Packwood,1,1|-0%,0.999999955434,vtd20_to_plan2_composed
+JEFFERSON - BLACK HAWK-POLK-PACKWOOD,Jefferson,Black Hawk-Polk-Packwood,3,3|-0.01%,0.000000044566,vtd20_to_plan2_composed
+JEFFERSON - BUCHANAN TOWNSHIP,Jefferson,Buchanan Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JEFFERSON - CENTER-CEDAR-MAHARISHI VEDIC CITY,Jefferson,Center-Cedar-Maharishi Vedic City,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JEFFERSON - DES MOINES-LIBERTY-LIBERTYVILLE,Jefferson,Des Moines-Liberty-Libertyville,1,1|-0%,0.999999999714,vtd20_to_plan2_composed
+JEFFERSON - DES MOINES-LIBERTY-LIBERTYVILLE,Jefferson,Des Moines-Liberty-Libertyville,3,3|-0.01%,0.000000000286,vtd20_to_plan2_composed
+JEFFERSON - FAIRFIELD 1ST WARD,Jefferson,Fairfield 1st Ward,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JEFFERSON - FAIRFIELD 2ND WARD,Jefferson,Fairfield 2nd Ward,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JEFFERSON - FAIRFIELD 3RD WARD,Jefferson,Fairfield 3rd Ward,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JEFFERSON - FAIRFIELD 4TH WARD,Jefferson,Fairfield 4th Ward,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JEFFERSON - FAIRFIELD 5TH WARD,Jefferson,Fairfield 5th Ward,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JEFFERSON - LOCKRIDGE-ROUND PRAIRIE-WALNUT-COPPOCK,Jefferson,Lockridge-Round Prairie-Walnut-Coppock,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JEFFERSON - LOCUST GROVE-BATAVIA,Jefferson,Locust Grove-Batavia,1,1|-0%,0.999999958518,vtd20_to_plan2_composed
+JEFFERSON - LOCUST GROVE-BATAVIA,Jefferson,Locust Grove-Batavia,3,3|-0.01%,0.000000041482,vtd20_to_plan2_composed
+JEFFERSON - PENN-PLEASANT PLAIN,Jefferson,Penn-Pleasant Plain,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - BIG GROVE TOWNSHIP,Johnson,Big Grove Township,1,1|-0%,0.999888197302,vtd20_to_plan2_composed
+JOHNSON - BIG GROVE TOWNSHIP,Johnson,Big Grove Township,2,2|-0%,0.000111802698,vtd20_to_plan2_composed
+JOHNSON - CEDAR TOWNSHIP,Johnson,Cedar Township,1,1|-0%,0.997937024405,vtd20_to_plan2_composed
+JOHNSON - CEDAR TOWNSHIP,Johnson,Cedar Township,2,2|-0%,0.002062975595,vtd20_to_plan2_composed
+JOHNSON - CLEAR CREEK/TIFFIN,Johnson,Clear Creek/Tiffin,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - CORALVILLE 01,Johnson,Coralville 01,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - CORALVILLE 02,Johnson,Coralville 02,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - CORALVILLE 03,Johnson,Coralville 03,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - CORALVILLE 04,Johnson,Coralville 04,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - CORALVILLE 05,Johnson,Coralville 05,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - CORALVILLE 06,Johnson,Coralville 06,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - CORALVILLE 07,Johnson,Coralville 07,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - FREMONT-LINCOLN,Johnson,Fremont-Lincoln,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - GRAHAM TOWNSHIP,Johnson,Graham Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - HARDIN TOWNSHIP,Johnson,Hardin Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - HILLS,Johnson,Hills,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 01,Johnson,Iowa City 01,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 02,Johnson,Iowa City 02,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 03,Johnson,Iowa City 03,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 04,Johnson,Iowa City 04,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 05,Johnson,Iowa City 05,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 06,Johnson,Iowa City 06,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 07,Johnson,Iowa City 07,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 08,Johnson,Iowa City 08,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 09,Johnson,Iowa City 09,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 10/ELSW,Johnson,Iowa City 10/ELSW,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 11,Johnson,Iowa City 11,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 12/ELSE,Johnson,Iowa City 12/ELSE,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 13,Johnson,Iowa City 13,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 14,Johnson,Iowa City 14,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 15,Johnson,Iowa City 15,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 16,Johnson,Iowa City 16,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 17,Johnson,Iowa City 17,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 18,Johnson,Iowa City 18,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 19,Johnson,Iowa City 19,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 20,Johnson,Iowa City 20,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 21,Johnson,Iowa City 21,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 22,Johnson,Iowa City 22,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 23,Johnson,Iowa City 23,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - IOWA CITY 24,Johnson,Iowa City 24,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - JEFFERSON EAST/SHUEYVILLE,Johnson,Jefferson East/Shueyville,1,1|-0%,0.999898165198,vtd20_to_plan2_composed
+JOHNSON - JEFFERSON EAST/SHUEYVILLE,Johnson,Jefferson East/Shueyville,2,2|-0%,0.000101834802,vtd20_to_plan2_composed
+JOHNSON - JW/MN/SW,Johnson,JW/MN/SW,1,1|-0%,0.999826845566,vtd20_to_plan2_composed
+JOHNSON - JW/MN/SW,Johnson,JW/MN/SW,2,2|-0%,0.000173154434,vtd20_to_plan2_composed
+JOHNSON - LIBERTY-PLEASANT VALLEY,Johnson,Liberty-Pleasant Valley,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - NEWPORT TOWNSHIP,Johnson,Newport Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - NORTH LIBERTY 01,Johnson,North Liberty 01,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - NORTH LIBERTY 02,Johnson,North Liberty 02,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - NORTH LIBERTY 03/PW,Johnson,North Liberty 03/PW,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - NORTH LIBERTY 04,Johnson,North Liberty 04,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - NORTH LIBERTY 05,Johnson,North Liberty 05,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - NORTH LIBERTY 06/MADISON/CCN,Johnson,North Liberty 06/Madison/CCN,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - OXFORD TOWNSHIP/OXFORD,Johnson,Oxford Township/Oxford,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - PENN/EAST LUCAS NORTH,Johnson,Penn/East Lucas North,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - SCOTT TWP-WEST BRANCH,Johnson,Scott Twp-West Branch,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - SHARON TOWNSHIP,Johnson,Sharon Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - SOLON,Johnson,Solon,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - UNION TOWNSHIP,Johnson,Union Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - UNIVERSITY HEIGHTS,Johnson,University Heights,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - WASHINGTON TOWNSHIP,Johnson,Washington Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JOHNSON - WEST LUCAS TOWNSHIP,Johnson,West Lucas Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JONES - ANN-ANAMOSA NORTH/CASS,Jones,ANN-Anamosa North/Cass,1,1|-0%,0.999999999787,vtd20_to_plan2_composed
+JONES - ANN-ANAMOSA NORTH/CASS,Jones,ANN-Anamosa North/Cass,2,2|-0%,0.000000000213,vtd20_to_plan2_composed
+JONES - ANS-ANAMOSA SOUTH/JACKSON,Jones,ANS-Anamosa South/Jackson,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JONES - CGLW-CASTLE GRV/LOV/WAYN,Jones,CGLW-Castle Grv/Lov/Wayn,1,1|-0%,0.999999972378,vtd20_to_plan2_composed
+JONES - CGLW-CASTLE GRV/LOV/WAYN,Jones,CGLW-Castle Grv/Lov/Wayn,2,2|-0%,0.000000027622,vtd20_to_plan2_composed
+JONES - FV-FAIRVIEW,Jones,FV-Fairview,1,1|-0%,0.999999970981,vtd20_to_plan2_composed
+JONES - FV-FAIRVIEW,Jones,FV-Fairview,2,2|-0%,0.000000029019,vtd20_to_plan2_composed
+JONES - GF-GREENFIELD,Jones,GF-Greenfield,1,1|-0%,0.999996327688,vtd20_to_plan2_composed
+JONES - GF-GREENFIELD,Jones,GF-Greenfield,2,2|-0%,0.000003672312,vtd20_to_plan2_composed
+JONES - MN1-MONTICELLO 1,Jones,MN1-Monticello 1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JONES - MN2-MONTICELLO 2,Jones,MN2-Monticello 2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JONES - MN3-MONTICELLO 3,Jones,MN3-Monticello 3,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JONES - MN4-MONTICELLO 4,Jones,MN4-Monticello 4,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JONES - OX-OXFORD,Jones,OX-Oxford,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JONES - RLWS-RICHLAND/WASHINGTON,Jones,RLWS-Richland/Washington,1,1|-0%,0.999998485014,vtd20_to_plan2_composed
+JONES - RLWS-RICHLAND/WASHINGTON,Jones,RLWS-Richland/Washington,2,2|-0%,0.000001514986,vtd20_to_plan2_composed
+JONES - ROHA-ROME/HALE,Jones,ROHA-Rome/Hale,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JONES - SGMC-SC GRV/MADISON/CLAY,Jones,SGMC-Sc Grv/Madison/Clay,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+JONES - WY-WYOMING,Jones,WY-Wyoming,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+KEOKUK - ADAMS,Keokuk,Adams,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+KEOKUK - BENTON/STEADY RUN,Keokuk,Benton/Steady Run,1,1|-0%,0.999999921559,vtd20_to_plan2_composed
+KEOKUK - BENTON/STEADY RUN,Keokuk,Benton/Steady Run,3,3|-0.01%,0.000000078441,vtd20_to_plan2_composed
+KEOKUK - EAST/WEST LANCASTER,Keokuk,East/West Lancaster,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+KEOKUK - ENGLISH RIVER/LIBERTY,Keokuk,English River/Liberty,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+KEOKUK - JACKSON,Keokuk,Jackson,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+KEOKUK - JACKSON,Keokuk,Jackson,3,3|-0.01%,0.000000000000,vtd20_to_plan2_composed
+KEOKUK - LAFAYETTE/CLEAR CREEK,Keokuk,Lafayette/Clear Creek,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+KEOKUK - PRAIRIE,Keokuk,Prairie,1,1|-0%,0.999999802771,vtd20_to_plan2_composed
+KEOKUK - PRAIRIE,Keokuk,Prairie,2,2|-0%,0.000000197229,vtd20_to_plan2_composed
+KEOKUK - RICHLAND,Keokuk,Richland,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+KEOKUK - SIGOURNEY 1ST WARD,Keokuk,Sigourney 1st Ward,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+KEOKUK - SIGOURNEY 2ND WARD,Keokuk,Sigourney 2nd Ward,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+KEOKUK - SIGOURNEY 3RD WARD,Keokuk,Sigourney 3rd Ward,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+KEOKUK - SIGOURNEY 4TH WARD,Keokuk,Sigourney 4th Ward,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+KEOKUK - SIGOURNEY/PLANK/VAN BUREN,Keokuk,Sigourney/Plank/Van Buren,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+KEOKUK - WARREN,Keokuk,Warren,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+KEOKUK - WHAT CHEER/WASHINGTON,Keokuk,What Cheer/Washington,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - AL1,Kossuth,AL1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - AL2,Kossuth,AL2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - AL3,Kossuth,AL3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - AL4,Kossuth,AL4,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - BF-PT,Kossuth,BF-PT,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - BT-FT-UN,Kossuth,BT-FT-UN,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - CR 1,Kossuth,CR 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - CR 2,Kossuth,CR 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - CR-IV-RV,Kossuth,CR-IV-RV,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - EG-GT-HS-SW,Kossuth,EG-GT-HS-SW,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - GF-WM,Kossuth,GF-WM,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - GM-RM,Kossuth,GM-RM,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - GW-SN,Kossuth,GW-SN,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - HB-LY-LN-SF,Kossuth,HB-LY-LN-SF,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - IV-PC,Kossuth,IV-PC,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - LC,Kossuth,LC,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - LV-SM,Kossuth,LV-SM,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - PC,Kossuth,PC,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - PR-WL,Kossuth,PR-WL,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+KOSSUTH - UN,Kossuth,UN,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+LEE - CHARLESTON/DSM/VAN BUREN,Lee,Charleston/DSM/Van Buren,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - FORT MADISON 1,Lee,Fort Madison 1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - FORT MADISON 2,Lee,Fort Madison 2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - FORT MADISON 3,Lee,Fort Madison 3,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - FORT MADISON 4,Lee,Fort Madison 4,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - FORT MADISON 5,Lee,Fort Madison 5,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - FRANKLIN/CEDAR/MARION,Lee,Franklin/Cedar/Marion,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - GREEN BAY/WASHINGTON,Lee,Green Bay/Washington,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - JACKSON,Lee,Jackson,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - JEFFERSON,Lee,Jefferson,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - KEOKUK 1,Lee,Keokuk 1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - KEOKUK 2,Lee,Keokuk 2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - KEOKUK 3,Lee,Keokuk 3,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - KEOKUK 4,Lee,Keokuk 4,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - KEOKUK 5,Lee,Keokuk 5,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - KEOKUK 6,Lee,Keokuk 6,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - KEOKUK 7,Lee,Keokuk 7,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - MONTROSE,Lee,Montrose,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LEE - WEST POINT/PLEASANT RIDGE/DENMARK,Lee,West Point/Pleasant Ridge/Denmark,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - BERTRAM,Linn,Bertram,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - BOULDER,Linn,Boulder,1,1|-0%,0.000000000569,vtd20_to_plan2_composed
+LINN - BOULDER,Linn,Boulder,2,2|-0%,0.999999999431,vtd20_to_plan2_composed
+LINN - BROWN,Linn,Brown,1,1|-0%,0.000740404882,vtd20_to_plan2_composed
+LINN - BROWN,Linn,Brown,2,2|-0%,0.999259595118,vtd20_to_plan2_composed
+LINN - BUFFALO,Linn,Buffalo,1,1|-0%,0.000924544618,vtd20_to_plan2_composed
+LINN - BUFFALO,Linn,Buffalo,2,2|-0%,0.999075455382,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 01,Linn,Cedar Rapids 01,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 02,Linn,Cedar Rapids 02,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 03,Linn,Cedar Rapids 03,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 04,Linn,Cedar Rapids 04,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 05,Linn,Cedar Rapids 05,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 06,Linn,Cedar Rapids 06,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 07,Linn,Cedar Rapids 07,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 08,Linn,Cedar Rapids 08,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 09,Linn,Cedar Rapids 09,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 10,Linn,Cedar Rapids 10,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 11,Linn,Cedar Rapids 11,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 12,Linn,Cedar Rapids 12,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 13,Linn,Cedar Rapids 13,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 14,Linn,Cedar Rapids 14,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 15,Linn,Cedar Rapids 15,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 16,Linn,Cedar Rapids 16,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 17,Linn,Cedar Rapids 17,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 18,Linn,Cedar Rapids 18,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 19,Linn,Cedar Rapids 19,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 20,Linn,Cedar Rapids 20,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 21,Linn,Cedar Rapids 21,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 22,Linn,Cedar Rapids 22,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 23,Linn,Cedar Rapids 23,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 24,Linn,Cedar Rapids 24,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 25,Linn,Cedar Rapids 25,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 26,Linn,Cedar Rapids 26,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 27,Linn,Cedar Rapids 27,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 28,Linn,Cedar Rapids 28,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 29,Linn,Cedar Rapids 29,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 30,Linn,Cedar Rapids 30,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 31,Linn,Cedar Rapids 31,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 32,Linn,Cedar Rapids 32,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 33,Linn,Cedar Rapids 33,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 34,Linn,Cedar Rapids 34,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 35,Linn,Cedar Rapids 35,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 36,Linn,Cedar Rapids 36,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 37,Linn,Cedar Rapids 37,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 38,Linn,Cedar Rapids 38,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 39,Linn,Cedar Rapids 39,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 40,Linn,Cedar Rapids 40,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 41,Linn,Cedar Rapids 41,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 42,Linn,Cedar Rapids 42,1,1|-0%,0.000000007341,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 42,Linn,Cedar Rapids 42,2,2|-0%,0.999999992659,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 43,Linn,Cedar Rapids 43,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CEDAR RAPIDS 44,Linn,Cedar Rapids 44,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - CLINTON,Linn,Clinton,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - COLLEGE,Linn,College,1,1|-0%,0.000001425603,vtd20_to_plan2_composed
+LINN - COLLEGE,Linn,College,2,2|-0%,0.999998574397,vtd20_to_plan2_composed
+LINN - FAIRFAX CITY,Linn,Fairfax City,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - FAIRFAX TOWNSHIP,Linn,Fairfax Township,1,1|-0%,0.000000651374,vtd20_to_plan2_composed
+LINN - FAIRFAX TOWNSHIP,Linn,Fairfax Township,2,2|-0%,0.999999348626,vtd20_to_plan2_composed
+LINN - FAYETTE,Linn,Fayette,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - FRANKLIN,Linn,Franklin,1,1|-0%,0.000768850723,vtd20_to_plan2_composed
+LINN - FRANKLIN,Linn,Franklin,2,2|-0%,0.999231149277,vtd20_to_plan2_composed
+LINN - GRANT,Linn,Grant,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - HIAWATHA 1,Linn,Hiawatha 1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - HIAWATHA 2,Linn,Hiawatha 2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - HIAWATHA 3,Linn,Hiawatha 3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - HIAWATHA 4,Linn,Hiawatha 4,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - JACKSON,Linn,Jackson,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - LINN,Linn,Linn,1,1|-0%,0.000408505987,vtd20_to_plan2_composed
+LINN - LINN,Linn,Linn,2,2|-0%,0.999591494013,vtd20_to_plan2_composed
+LINN - MAINE,Linn,Maine,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MARION 01,Linn,Marion 01,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MARION 02,Linn,Marion 02,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MARION 03,Linn,Marion 03,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MARION 04,Linn,Marion 04,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MARION 05,Linn,Marion 05,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MARION 06,Linn,Marion 06,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MARION 07,Linn,Marion 07,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MARION 08,Linn,Marion 08,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MARION 09,Linn,Marion 09,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MARION 10,Linn,Marion 10,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MARION 11,Linn,Marion 11,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MARION 12,Linn,Marion 12,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MARION 13,Linn,Marion 13,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MARION 14,Linn,Marion 14,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MARION TOWNSHIP,Linn,Marion Township,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MONROE 1,Linn,Monroe 1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MONROE 2,Linn,Monroe 2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MOUNT VERNON NORTH,Linn,Mount Vernon North,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - MOUNT VERNON SOUTH,Linn,Mount Vernon South,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - OTTER CREEK,Linn,Otter Creek,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - PUTNAM,Linn,Putnam,1,1|-0%,0.000007804103,vtd20_to_plan2_composed
+LINN - PUTNAM,Linn,Putnam,2,2|-0%,0.999992195897,vtd20_to_plan2_composed
+LINN - ROBINS,Linn,Robins,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - SPRING GROVE,Linn,Spring Grove,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LINN - WASHINGTON,Linn,Washington,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+LOUISA - COLUMBUS JUNCTION,Louisa,Columbus Junction,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LOUISA - GRANDVIEW-PORT LOUISA,Louisa,Grandview-Port Louisa,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LOUISA - MORNING SUN-MARSHALL,Louisa,Morning Sun-Marshall,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LOUISA - SOUTHEAST LOUISA,Louisa,Southeast Louisa,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LOUISA - WEST LOUISA,Louisa,West Louisa,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+LUCAS - CHARITON PRECINCT 1,Lucas,Chariton Precinct 1,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+LUCAS - CHARITON PRECINCT 2,Lucas,Chariton Precinct 2,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+LUCAS - CITY OF RUSSELL-CEDAR & WASHINGTON TWPS,Lucas,City of Russell-Cedar & Washington Twps,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+LUCAS - LUCAS,Lucas,Lucas,1,1|-0%,0.000000069771,vtd20_to_plan2_composed
+LUCAS - LUCAS,Lucas,Lucas,3,3|-0.01%,0.999999930229,vtd20_to_plan2_composed
+LUCAS - LUCAS-EXTENSION OFFICE,Lucas,Lucas-Extension Office,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+LUCAS - PIN OAK MARSH,Lucas,Pin Oak Marsh,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+LUCAS - WILLIAMSON,Lucas,Williamson,1,1|-0%,0.000000009666,vtd20_to_plan2_composed
+LUCAS - WILLIAMSON,Lucas,Williamson,3,3|-0.01%,0.999999990334,vtd20_to_plan2_composed
+LYON - PCT 1 GEORGE,Lyon,PCT 1 George,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+LYON - PCT 2 DOON,Lyon,PCT 2 Doon,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+LYON - PCT 3 INWOOD,Lyon,PCT 3 Inwood,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+LYON - PCT 4 LARCHWOOD,Lyon,PCT 4 Larchwood,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+LYON - PCT 5 LESTER,Lyon,PCT 5 Lester,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+LYON - PCT 6 LITTLE ROCK,Lyon,PCT 6 Little Rock,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+LYON - PCT 7 ROCK RAPIDS,Lyon,PCT 7 Rock Rapids,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+LYON - PCT 8 ROCK RAPIDS,Lyon,PCT 8 Rock Rapids,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MADISON - GRAND RIVER-MONROE-WEBSTER,Madison,Grand River-Monroe-Webster,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+MADISON - JACKSON-DOUGLAS-LINCOLN,Madison,Jackson-Douglas-Lincoln,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+MADISON - JEFFERSON-LEE,Madison,Jefferson-Lee,1,1|-0%,0.000000026043,vtd20_to_plan2_composed
+MADISON - JEFFERSON-LEE,Madison,Jefferson-Lee,3,3|-0.01%,0.999999973957,vtd20_to_plan2_composed
+MADISON - PENN-MADISON,Madison,Penn-Madison,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+MADISON - SOUTH,Madison,South,1,1|-0%,0.000000000733,vtd20_to_plan2_composed
+MADISON - SOUTH,Madison,South,3,3|-0.01%,0.999999999267,vtd20_to_plan2_composed
+MADISON - UNION-CRAWFORD-SCOTT,Madison,Union-Crawford-Scott,1,1|-0%,0.000000007901,vtd20_to_plan2_composed
+MADISON - UNION-CRAWFORD-SCOTT,Madison,Union-Crawford-Scott,3,3|-0.01%,0.999999992099,vtd20_to_plan2_composed
+MADISON - WALNUT-OHIO,Madison,Walnut-Ohio,1,1|-0%,0.000000204804,vtd20_to_plan2_composed
+MADISON - WALNUT-OHIO,Madison,Walnut-Ohio,3,3|-0.01%,0.999999795196,vtd20_to_plan2_composed
+MADISON - WINTERSET 1,Madison,Winterset 1,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+MADISON - WINTERSET 2,Madison,Winterset 2,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+MAHASKA - ADAMS-MONROE-PLEASANT GROVE-UNION,Mahaska,Adams-Monroe-Pleasant Grove-Union,1,1|-0%,0.999999764426,vtd20_to_plan2_composed
+MAHASKA - ADAMS-MONROE-PLEASANT GROVE-UNION,Mahaska,Adams-Monroe-Pleasant Grove-Union,2,2|-0%,0.000000235574,vtd20_to_plan2_composed
+MAHASKA - BLACK OAK-SCOTT,Mahaska,Black Oak-Scott,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MAHASKA - CEDAR-HARRISON-WHITE OAK,Mahaska,Cedar-Harrison-White Oak,1,1|-0%,0.999999965996,vtd20_to_plan2_composed
+MAHASKA - CEDAR-HARRISON-WHITE OAK,Mahaska,Cedar-Harrison-White Oak,3,3|-0.01%,0.000000034004,vtd20_to_plan2_composed
+MAHASKA - E&W DES MOINES-JEFFERSON,Mahaska,E&W Des Moines-Jefferson,1,1|-0%,0.999998608149,vtd20_to_plan2_composed
+MAHASKA - E&W DES MOINES-JEFFERSON,Mahaska,E&W Des Moines-Jefferson,3,3|-0.01%,0.000001391851,vtd20_to_plan2_composed
+MAHASKA - GARFIELD-LINCOLN-MADISON,Mahaska,Garfield-Lincoln-Madison,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MAHASKA - OSKALOOSA WARD 1,Mahaska,Oskaloosa Ward 1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MAHASKA - OSKALOOSA WARD 2,Mahaska,Oskaloosa Ward 2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MAHASKA - OSKALOOSA WARD 3-UNIVERSITY PARK,Mahaska,Oskaloosa Ward 3-University Park,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MAHASKA - OSKOLOOSA WARD 4,Mahaska,Oskoloosa Ward 4,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MAHASKA - PRAIRIE-RICHLAND,Mahaska,Prairie-Richland,1,1|-0%,0.999999999275,vtd20_to_plan2_composed
+MAHASKA - PRAIRIE-RICHLAND,Mahaska,Prairie-Richland,2,2|-0%,0.000000000725,vtd20_to_plan2_composed
+MAHASKA - SPRING CREEK,Mahaska,Spring Creek,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MARION - CLAY,Marion,Clay,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MARION - DALLAS,Marion,Dallas,1,1|-0%,0.999999988742,vtd20_to_plan2_composed
+MARION - DALLAS,Marion,Dallas,3,3|-0.01%,0.000000011258,vtd20_to_plan2_composed
+MARION - INDIANA TOWNSHIP,Marion,Indiana Township,1,1|-0%,0.999999998194,vtd20_to_plan2_composed
+MARION - INDIANA TOWNSHIP,Marion,Indiana Township,3,3|-0.01%,0.000000001806,vtd20_to_plan2_composed
+MARION - KNOXVILLE 1,Marion,Knoxville 1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MARION - KNOXVILLE 2,Marion,Knoxville 2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MARION - KNOXVILLE 3,Marion,Knoxville 3,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MARION - KNOXVILLE 4,Marion,Knoxville 4,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MARION - KNOXVILLE TOWNSHIP,Marion,Knoxville Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MARION - LAKE PRAIRIE TOWNSHIP,Marion,Lake Prairie Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MARION - LIBERTY,Marion,Liberty,1,1|-0%,0.999962595682,vtd20_to_plan2_composed
+MARION - LIBERTY,Marion,Liberty,3,3|-0.01%,0.000037404318,vtd20_to_plan2_composed
+MARION - OTLEY,Marion,Otley,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MARION - PELLA 1,Marion,Pella 1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MARION - PELLA 2,Marion,Pella 2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MARION - PELLA 3,Marion,Pella 3,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MARION - PELLA 4,Marion,Pella 4,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MARION - PLEASANTVILLE,Marion,Pleasantville,1,1|-0%,0.999999999998,vtd20_to_plan2_composed
+MARION - PLEASANTVILLE,Marion,Pleasantville,3,3|-0.01%,0.000000000002,vtd20_to_plan2_composed
+MARION - WASHINGTON TOWNSHIP,Marion,Washington Township,1,1|-0%,0.999999979950,vtd20_to_plan2_composed
+MARION - WASHINGTON TOWNSHIP,Marion,Washington Township,3,3|-0.01%,0.000000020050,vtd20_to_plan2_composed
+MARSHALL - BANGOR/LISCOMB,Marshall,Bangor/Liscomb,2,2|-0%,0.000000218403,vtd20_to_plan2_composed
+MARSHALL - BANGOR/LISCOMB,Marshall,Bangor/Liscomb,4,4|0.01%,0.999999781597,vtd20_to_plan2_composed
+MARSHALL - EDEN/LOGAN,Marshall,Eden/Logan,1,1|-0%,0.000000000527,vtd20_to_plan2_composed
+MARSHALL - EDEN/LOGAN,Marshall,Eden/Logan,4,4|0.01%,0.999999999473,vtd20_to_plan2_composed
+MARSHALL - GREEN CASTLE,Marshall,Green Castle,1,1|-0%,0.000000001978,vtd20_to_plan2_composed
+MARSHALL - GREEN CASTLE,Marshall,Green Castle,2,2|-0%,0.000000001039,vtd20_to_plan2_composed
+MARSHALL - GREEN CASTLE,Marshall,Green Castle,4,4|0.01%,0.999999996983,vtd20_to_plan2_composed
+MARSHALL - JEFFERSON,Marshall,Jefferson,1,1|-0%,0.000000001075,vtd20_to_plan2_composed
+MARSHALL - JEFFERSON,Marshall,Jefferson,4,4|0.01%,0.999999998925,vtd20_to_plan2_composed
+MARSHALL - LE GRAND,Marshall,Le Grand,2,2|-0%,0.000000000667,vtd20_to_plan2_composed
+MARSHALL - LE GRAND,Marshall,Le Grand,4,4|0.01%,0.999999999333,vtd20_to_plan2_composed
+MARSHALL - LIBERTY/MINERVA,Marshall,Liberty/Minerva,2,2|-0%,0.000000774571,vtd20_to_plan2_composed
+MARSHALL - LIBERTY/MINERVA,Marshall,Liberty/Minerva,4,4|0.01%,0.999999225429,vtd20_to_plan2_composed
+MARSHALL - MARIETTA/WASHINGTON,Marshall,Marietta/Washington,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MARSHALL - MARION/VIENNA,Marshall,Marion/Vienna,2,2|-0%,0.000000486342,vtd20_to_plan2_composed
+MARSHALL - MARION/VIENNA,Marshall,Marion/Vienna,4,4|0.01%,0.999999513658,vtd20_to_plan2_composed
+MARSHALL - MARSHALLTOWN 1-1,Marshall,Marshalltown 1-1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MARSHALL - MARSHALLTOWN 1-2,Marshall,Marshalltown 1-2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MARSHALL - MARSHALLTOWN 2-1,Marshall,Marshalltown 2-1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MARSHALL - MARSHALLTOWN 2-2,Marshall,Marshalltown 2-2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MARSHALL - MARSHALLTOWN 3-1,Marshall,Marshalltown 3-1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MARSHALL - MARSHALLTOWN 3-2,Marshall,Marshalltown 3-2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MARSHALL - MARSHALLTOWN 4-1,Marshall,Marshalltown 4-1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MARSHALL - MARSHALLTOWN 4-2,Marshall,Marshalltown 4-2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MARSHALL - STATE CENTER,Marshall,State Center,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MARSHALL - TAYLOR,Marshall,Taylor,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MARSHALL - TIMBER CREEK,Marshall,Timber Creek,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MILLS - DEER CREEK/WHITE CLOUD,Mills,Deer Creek/White Cloud,3,3|-0.01%,0.000000027390,vtd20_to_plan2_composed
+MILLS - DEER CREEK/WHITE CLOUD,Mills,Deer Creek/White Cloud,4,4|0.01%,0.999999972610,vtd20_to_plan2_composed
+MILLS - EMERSON/HASTINGS/INDIAN CREEK,Mills,Emerson/Hastings/Indian Creek,3,3|-0.01%,0.000000003201,vtd20_to_plan2_composed
+MILLS - EMERSON/HASTINGS/INDIAN CREEK,Mills,Emerson/Hastings/Indian Creek,4,4|0.01%,0.999999996799,vtd20_to_plan2_composed
+MILLS - GLENWOOD TOWNSHIP,Mills,Glenwood Township,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MILLS - GLENWOOD WARD 1,Mills,Glenwood Ward 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MILLS - GLENWOOD WARD 2,Mills,Glenwood Ward 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MILLS - GLENWOOD WARD 3,Mills,Glenwood Ward 3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MILLS - HENDERSON/ANDERSON,Mills,Henderson/Anderson,3,3|-0.01%,0.000000000465,vtd20_to_plan2_composed
+MILLS - HENDERSON/ANDERSON,Mills,Henderson/Anderson,4,4|0.01%,0.999999999535,vtd20_to_plan2_composed
+MILLS - MALVERN/TABOR/CENTER TWP/RAWLES TWP/SILVER CREEK,Mills,Malvern/Tabor/Center Twp/Rawles Twp/Silver Creek,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MILLS - OAK/SAINT MARYS,Mills,Oak/Saint Marys,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MILLS - PACIFIC JUNCTION/LYONS/PLATTVILLE,Mills,Pacific Junction/Lyons/Plattville,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MILLS - SILVER CITY/INGRAHAM,Mills,Silver City/Ingraham,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MITCHELL - MITCHELL 5/6,Mitchell,Mitchell 5/6,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+MITCHELL - MITCHELL 7,Mitchell,Mitchell 7,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+MITCHELL - MITCHELL 8/9,Mitchell,Mitchell 8/9,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+MITCHELL - OSAGE 01/MITCHELL 12,Mitchell,Osage 01/Mitchell 12,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+MITCHELL - OSAGE 02,Mitchell,Osage 02,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+MITCHELL - OSAGE 03/MITCHELL 10/11,Mitchell,Osage 03/Mitchell 10/11,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+MITCHELL - OSAGE 04,Mitchell,Osage 04,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+MONONA - ASHTON BELVIDERE KENNEBEC LINCOLN FRANKLIN TURIN,Monona,Ashton Belvidere Kennebec Lincoln Franklin Turin,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MONONA - CASTANA CENTER JORDAN,Monona,Castana Center Jordan,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MONONA - COOPER MAPLE MAPLETON,Monona,Cooper Maple Mapleton,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MONONA - FAIRVIEW GRANT LAKE RODNEY WEST FORK WHITING,Monona,Fairview Grant Lake Rodney West Fork Whiting,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MONONA - MOORHEAD SOLDIER SPRING VALLEY WILLOW,Monona,Moorhead Soldier Spring Valley Willow,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MONONA - ONAWA WARD 1,Monona,Onawa Ward 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MONONA - ONAWA WARD 2-NE FRANKLIN,Monona,Onawa Ward 2-NE Franklin,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MONONA - ONAWA WARD 3,Monona,Onawa Ward 3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MONONA - ONAWA WARD 4,Monona,Onawa Ward 4,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MONONA - SHERMAN SE FRANKLIN BLENCOE SIOUX,Monona,Sherman SE Franklin Blencoe Sioux,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MONONA - ST CLAIR UTE,Monona,St Clair Ute,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+MONROE - CTHSE MONROE PRECINCT 5,Monroe,CTHSE Monroe Precinct 5,1,1|-0%,0.000000000190,vtd20_to_plan2_composed
+MONROE - CTHSE MONROE PRECINCT 5,Monroe,CTHSE Monroe Precinct 5,3,3|-0.01%,0.999999999810,vtd20_to_plan2_composed
+MONROE - LOVILIA MONROE PRECINCT 6,Monroe,LOVILIA Monroe Precinct 6,1,1|-0%,0.000000062847,vtd20_to_plan2_composed
+MONROE - LOVILIA MONROE PRECINCT 6,Monroe,LOVILIA Monroe Precinct 6,3,3|-0.01%,0.999999937153,vtd20_to_plan2_composed
+MONROE - MELROSE MONROE PRECINCT 7,Monroe,MELROSE Monroe Precinct 7,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+MONROE - NO. 1 ALBIA FIRST WARD,Monroe,No. 1 Albia First Ward,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+MONROE - NO. 2 ALBIA SECOND WARD,Monroe,No. 2 Albia Second Ward,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+MONROE - NO. 3 ALBIA THIRD WARD,Monroe,No. 3 Albia Third Ward,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+MONROE - NO. 4 ALBIA FOURTH WARD,Monroe,No. 4 Albia Fourth Ward,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+MONTGOMERY - 4 GRFLD LNCLN SHER PILOT GROVE TWP ELLIOTT,Montgomery,4 Grfld Lncln Sher Pilot Grove Twp Elliott,3,3|-0.01%,0.999999979483,vtd20_to_plan2_composed
+MONTGOMERY - 4 GRFLD LNCLN SHER PILOT GROVE TWP ELLIOTT,Montgomery,4 Grfld Lncln Sher Pilot Grove Twp Elliott,4,4|0.01%,0.000000020517,vtd20_to_plan2_composed
+MONTGOMERY - 5 PILOT GROVE FRANKFORT DOUGLAS WASH TWP GRANT,Montgomery,5 Pilot Grove Frankfort Douglas Wash Twp Grant,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+MONTGOMERY - 6 WEST GRANT SCOTT TWP COBURG STANTON,Montgomery,6 West Grant Scott Twp Coburg Stanton,3,3|-0.01%,0.999999943064,vtd20_to_plan2_composed
+MONTGOMERY - 6 WEST GRANT SCOTT TWP COBURG STANTON,Montgomery,6 West Grant Scott Twp Coburg Stanton,4,4|0.01%,0.000000056936,vtd20_to_plan2_composed
+MONTGOMERY - 7 SCOTT EAST TWP VILLISCA,Montgomery,7 Scott East Twp Villisca,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+MONTGOMERY - WARD1 PILOT GROVE FRANKFORT RO TWP,Montgomery,Ward1 Pilot Grove Frankfort Ro Twp,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+MONTGOMERY - WARD2 SHERMAN RO TWP,Montgomery,Ward2 Sherman Ro Twp,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+MONTGOMERY - WARD3 SHERMAN PILOT GROVE FRANKFORT RO TWP,Montgomery,Ward3 Sherman Pilot Grove Frankfort Ro Twp,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - BLOOMINGTON,Muscatine,Bloomington,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - FRUITLAND ONE,Muscatine,Fruitland One,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - FRUITLAND TWO/LAKE,Muscatine,Fruitland Two/Lake,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - FULTON/MONTPELIER,Muscatine,Fulton/Montpelier,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - GOSHEN CITY,Muscatine,Goshen City,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - MUSCATINE 01ST,Muscatine,Muscatine 01st,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - MUSCATINE 02ND,Muscatine,Muscatine 02nd,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - MUSCATINE 03RD,Muscatine,Muscatine 03rd,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - MUSCATINE 04TH,Muscatine,Muscatine 04th,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - MUSCATINE 05TH,Muscatine,Muscatine 05th,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - MUSCATINE 06TH,Muscatine,Muscatine 06th,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - MUSCATINE 07TH,Muscatine,Muscatine 07th,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - MUSCATINE 08TH,Muscatine,Muscatine 08th,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - MUSCATINE 09TH,Muscatine,Muscatine 09th,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - MUSCATINE 10TH,Muscatine,Muscatine 10th,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - ORONO CITY,Muscatine,Orono City,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - PIKE CITY,Muscatine,Pike City,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - SEVENTY-SIX/CEDAR,Muscatine,Seventy-Six/Cedar,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - SWEETLAND,Muscatine,Sweetland,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - WEST LIBERTY 1/WAPSIE,Muscatine,West Liberty 1/Wapsie,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - WEST LIBERTY 2,Muscatine,West Liberty 2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - WILTON CITY,Muscatine,Wilton City,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+MUSCATINE - WILTON/MOSCOW,Muscatine,Wilton/Moscow,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+OBRIEN - CARROLL-FLOYD,Obrien,Carroll-Floyd,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OBRIEN - FRANKLIN,Obrien,Franklin,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OBRIEN - HARTLEY-LINCOLN-OMEGA,Obrien,Hartley-Lincoln-Omega,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OBRIEN - SHELDON 1ST WARD,Obrien,Sheldon 1st Ward,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OBRIEN - SHELDON 2ND WARD,Obrien,Sheldon 2nd Ward,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OBRIEN - SHELDON 3RD WARD,Obrien,Sheldon 3rd Ward,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OBRIEN - SUMMIT-CENTER-DALE-HIGHLAND,Obrien,Summit-Center-Dale-Highland,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OBRIEN - UNION-BAKER-CALEDONIA,Obrien,Union-Baker-Caledonia,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OBRIEN - WATERMAN-GRANT-LIBERTY,Obrien,Waterman-Grant-Liberty,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OSCEOLA - ASHTON PRECINCT 0100,Osceola,Ashton Precinct 0100,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OSCEOLA - HARRIS PRECINCT 0200,Osceola,Harris Precinct 0200,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OSCEOLA - MAY CITY PRECINCT 0300,Osceola,May City Precinct 0300,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OSCEOLA - MELVIN PRECINCT 0400,Osceola,Melvin Precinct 0400,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OSCEOLA - OCHEYEDAN PRECINCT 0500,Osceola,Ocheyedan Precinct 0500,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OSCEOLA - OSCEOLA 1 PRECINCT 0600,Osceola,Osceola 1 Precinct 0600,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OSCEOLA - OSCEOLA 2 PRECINCT 0700,Osceola,Osceola 2 Precinct 0700,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+OSCEOLA - OSCEOLA 3 PRECINCT 0800,Osceola,Osceola 3 Precinct 0800,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PAGE - AM-BU-ER-DOUG-HAR-NEB-NOD-BRAD-CS-HE-SH-YT,Page,Am-Bu-ER-Doug-Har-Neb-Nod-Brad-CS-He-Sh-Yt,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+PAGE - CLARINDA WARD 1,Page,Clarinda Ward 1,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+PAGE - CLARINDA WARD 2,Page,Clarinda Ward 2,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+PAGE - CX-GR-LINC-MORT-TARKIO-WASH-BLAN-COIN-NBORO,Page,Cx-Gr-Linc-Mort-Tarkio-Wash-Blan-Coin-Nboro,3,3|-0.01%,0.999999856065,vtd20_to_plan2_composed
+PAGE - CX-GR-LINC-MORT-TARKIO-WASH-BLAN-COIN-NBORO,Page,Cx-Gr-Linc-Mort-Tarkio-Wash-Blan-Coin-Nboro,4,4|0.01%,0.000000143935,vtd20_to_plan2_composed
+"PAGE - PIERCE AND FREMONT TOWNSHIPS, ESSEX",Page,"Pierce and Fremont Townships, Essex",3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+"PAGE - PIERCE AND FREMONT TOWNSHIPS, ESSEX",Page,"Pierce and Fremont Townships, Essex",4,4|0.01%,0.000000000000,vtd20_to_plan2_composed
+PAGE - SHENANDOAH 1,Page,Shenandoah 1,3,3|-0.01%,0.999999665305,vtd20_to_plan2_composed
+PAGE - SHENANDOAH 1,Page,Shenandoah 1,4,4|0.01%,0.000000334695,vtd20_to_plan2_composed
+PAGE - SHENANDOAH 2,Page,Shenandoah 2,3,3|-0.01%,0.999999667948,vtd20_to_plan2_composed
+PAGE - SHENANDOAH 2,Page,Shenandoah 2,4,4|0.01%,0.000000332052,vtd20_to_plan2_composed
+PAGE - SHENANDOAH 3,Page,Shenandoah 3,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+PALO ALTO - EM WARD 3/AYRSHIRE/PT. HL&WL&EM,Palo Alto,EM Ward 3/Ayrshire/pt. HL&WL&EM,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PALO ALTO - EM WARD 4/FV/FR/VN/PT. EM,Palo Alto,EM Ward 4/FV/FR/VN/pt. EM,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PALO ALTO - EMMETSBURG WARD 1,Palo Alto,Emmetsburg Ward 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PALO ALTO - EMMETSBURG WARD 2,Palo Alto,Emmetsburg Ward 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PALO ALTO - GR/RV/LI/PT. HL&WL,Palo Alto,GR/RV/LI/pt. HL&WL,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PALO ALTO - WB/EL/RL/BO/GO/NV,Palo Alto,WB/EL/RL/BO/GO/NV,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PLYMOUTH - PLYMOUTH 01/AK,Plymouth,Plymouth 01/Ak,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PLYMOUTH - PLYMOUTH 02/MRHG,Plymouth,Plymouth 02/Mrhg,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PLYMOUTH - PLYMOUTH 03/SB,Plymouth,Plymouth 03/Sb,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PLYMOUTH - PLYMOUTH 04/BV,Plymouth,Plymouth 04/Bv,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PLYMOUTH - PLYMOUTH 05/RM,Plymouth,Plymouth 05/Rm,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PLYMOUTH - PLYMOUTH 06/WF,Plymouth,Plymouth 06/Wf,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PLYMOUTH - PLYMOUTH 07/MR,Plymouth,Plymouth 07/Mr,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PLYMOUTH - PLYMOUTH 08/PY,Plymouth,Plymouth 08/Py,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PLYMOUTH - PLYMOUTH 09/HT,Plymouth,Plymouth 09/Ht,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PLYMOUTH - PLYMOUTH 10/KL,Plymouth,Plymouth 10/Kl,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PLYMOUTH - PLYMOUTH 11/LE MARS 1,Plymouth,Plymouth 11/Le Mars 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PLYMOUTH - PLYMOUTH 12/LE MARS 2,Plymouth,Plymouth 12/Le Mars 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+PLYMOUTH - PLYMOUTH 13/LE MARS 3,Plymouth,Plymouth 13/Le Mars 3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POCAHONTAS - BELLVILLE-LIZARD-S LAKE-S LINCOLN,Pocahontas,Bellville-Lizard-S Lake-S Lincoln,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POCAHONTAS - CEDAR-COLFAX-DOVER,Pocahontas,Cedar-Colfax-Dover,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POCAHONTAS - DSM-CUMMINS-POW-N GARF-N SHERM-N ROOSE,Pocahontas,DSM-Cummins-Pow-N Garf-N Sherm-N Roose,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POCAHONTAS - GRANT-S MARSHALL-S SHERMAN,Pocahontas,Grant-S Marshall-S Sherman,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POCAHONTAS - POCAHONTAS #1,Pocahontas,Pocahontas #1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POCAHONTAS - POCAHONTAS #2,Pocahontas,Pocahontas #2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POCAHONTAS - SWAN LAKE-N MARSHALL,Pocahontas,Swan Lake-N Marshall,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ALLEMAN 01,Polk,Alleman 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ALLEN 01,Polk,Allen 01,1,1|-0%,0.000000019599,vtd20_to_plan2_composed
+POLK - ALLEN 01,Polk,Allen 01,3,3|-0.01%,0.999999980401,vtd20_to_plan2_composed
+POLK - ALTOONA 01,Polk,Altoona 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ALTOONA 02,Polk,Altoona 02,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ALTOONA 03,Polk,Altoona 03,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ALTOONA 04,Polk,Altoona 04,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ALTOONA 05,Polk,Altoona 05,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ANKENY 01,Polk,Ankeny 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ANKENY 02,Polk,Ankeny 02,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ANKENY 03,Polk,Ankeny 03,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ANKENY 04,Polk,Ankeny 04,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ANKENY 05,Polk,Ankeny 05,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ANKENY 06,Polk,Ankeny 06,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ANKENY 07,Polk,Ankeny 07,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ANKENY 08,Polk,Ankeny 08,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ANKENY 09,Polk,Ankeny 09,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ANKENY 10,Polk,Ankeny 10,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ANKENY 11,Polk,Ankeny 11,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ANKENY 12,Polk,Ankeny 12,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ANKENY 13,Polk,Ankeny 13,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ANKENY 14,Polk,Ankeny 14,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ANKENY 15,Polk,Ankeny 15,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - BONDURANT 01,Polk,Bondurant 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - BONDURANT 02,Polk,Bondurant 02,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - CLAY PRECINCT 01,Polk,Clay Precinct 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - CLIVE 01,Polk,Clive 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - CLIVE 02,Polk,Clive 02,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - CLIVE 03,Polk,Clive 03,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - CLIVE 04,Polk,Clive 04,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - CROCKER 01,Polk,Crocker 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - CROCKER 02,Polk,Crocker 02,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DELAWARE 01,Polk,Delaware 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DELAWARE 02,Polk,Delaware 02,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 01,Polk,Des Moines 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 02,Polk,Des Moines 02,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 03,Polk,Des Moines 03,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 04,Polk,Des Moines 04,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 05,Polk,Des Moines 05,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 06,Polk,Des Moines 06,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 07,Polk,Des Moines 07,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 08,Polk,Des Moines 08,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 09,Polk,Des Moines 09,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 10,Polk,Des Moines 10,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 11,Polk,Des Moines 11,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 12,Polk,Des Moines 12,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 13,Polk,Des Moines 13,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 14,Polk,Des Moines 14,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 15,Polk,Des Moines 15,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 16,Polk,Des Moines 16,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 17,Polk,Des Moines 17,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 18,Polk,Des Moines 18,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 19,Polk,Des Moines 19,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 20,Polk,Des Moines 20,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 21,Polk,Des Moines 21,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 22,Polk,Des Moines 22,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 23,Polk,Des Moines 23,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 24,Polk,Des Moines 24,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 25,Polk,Des Moines 25,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 26,Polk,Des Moines 26,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 27,Polk,Des Moines 27,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 28,Polk,Des Moines 28,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 29,Polk,Des Moines 29,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 30,Polk,Des Moines 30,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 31,Polk,Des Moines 31,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 32,Polk,Des Moines 32,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 33,Polk,Des Moines 33,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 34,Polk,Des Moines 34,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 35,Polk,Des Moines 35,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 36,Polk,Des Moines 36,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 37,Polk,Des Moines 37,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 38,Polk,Des Moines 38,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 39,Polk,Des Moines 39,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 40,Polk,Des Moines 40,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 41,Polk,Des Moines 41,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 42,Polk,Des Moines 42,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 43,Polk,Des Moines 43,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 44,Polk,Des Moines 44,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 45,Polk,Des Moines 45,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 46,Polk,Des Moines 46,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 47,Polk,Des Moines 47,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 48,Polk,Des Moines 48,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 49,Polk,Des Moines 49,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 50,Polk,Des Moines 50,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 51,Polk,Des Moines 51,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 52,Polk,Des Moines 52,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 53,Polk,Des Moines 53,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 54,Polk,Des Moines 54,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 55,Polk,Des Moines 55,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 56,Polk,Des Moines 56,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 57,Polk,Des Moines 57,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 58,Polk,Des Moines 58,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 59,Polk,Des Moines 59,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 60,Polk,Des Moines 60,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 61,Polk,Des Moines 61,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 62,Polk,Des Moines 62,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 63,Polk,Des Moines 63,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 64,Polk,Des Moines 64,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 65,Polk,Des Moines 65,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 66,Polk,Des Moines 66,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 67,Polk,Des Moines 67,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 68,Polk,Des Moines 68,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 69,Polk,Des Moines 69,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 70,Polk,Des Moines 70,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 71,Polk,Des Moines 71,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 72,Polk,Des Moines 72,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 73,Polk,Des Moines 73,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 74,Polk,Des Moines 74,1,1|-0%,0.000000000278,vtd20_to_plan2_composed
+POLK - DES MOINES 74,Polk,Des Moines 74,3,3|-0.01%,0.999999999722,vtd20_to_plan2_composed
+POLK - DES MOINES 75,Polk,Des Moines 75,1,1|-0%,0.000000001471,vtd20_to_plan2_composed
+POLK - DES MOINES 75,Polk,Des Moines 75,3,3|-0.01%,0.999999998529,vtd20_to_plan2_composed
+POLK - DES MOINES 76,Polk,Des Moines 76,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 77,Polk,Des Moines 77,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 78,Polk,Des Moines 78,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 79,Polk,Des Moines 79,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 80,Polk,Des Moines 80,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 81,Polk,Des Moines 81,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - DES MOINES 82,Polk,Des Moines 82,1,1|-0%,0.000000013654,vtd20_to_plan2_composed
+POLK - DES MOINES 82,Polk,Des Moines 82,3,3|-0.01%,0.999999986346,vtd20_to_plan2_composed
+POLK - DES MOINES 83,Polk,Des Moines 83,1,1|-0%,0.000000084165,vtd20_to_plan2_composed
+POLK - DES MOINES 83,Polk,Des Moines 83,3,3|-0.01%,0.999999915835,vtd20_to_plan2_composed
+POLK - DES MOINES 84,Polk,Des Moines 84,1,1|-0%,0.000000001548,vtd20_to_plan2_composed
+POLK - DES MOINES 84,Polk,Des Moines 84,3,3|-0.01%,0.999999998451,vtd20_to_plan2_composed
+POLK - DOUGLAS 01,Polk,Douglas 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - ELKHART 01,Polk,Elkhart 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - FOUR MILE 01,Polk,Four Mile 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - FRANKLIN 01,Polk,Franklin 01,1,1|-0%,0.000000000004,vtd20_to_plan2_composed
+POLK - FRANKLIN 01,Polk,Franklin 01,3,3|-0.01%,0.999999999996,vtd20_to_plan2_composed
+POLK - GRANGER 01,Polk,Granger 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - GRIMES 01,Polk,Grimes 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - GRIMES 02,Polk,Grimes 02,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - GRIMES 03,Polk,Grimes 03,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - JEFFERSON 01,Polk,Jefferson 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - JOHNSTON 01,Polk,Johnston 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - JOHNSTON 02,Polk,Johnston 02,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - JOHNSTON 03,Polk,Johnston 03,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - JOHNSTON 04,Polk,Johnston 04,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - JOHNSTON 05,Polk,Johnston 05,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - JOHNSTON 06,Polk,Johnston 06,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - MADISON 01,Polk,Madison 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - MITCHELLVILLE 01,Polk,Mitchellville 01,1,1|-0%,0.000000000005,vtd20_to_plan2_composed
+POLK - MITCHELLVILLE 01,Polk,Mitchellville 01,3,3|-0.01%,0.999999999995,vtd20_to_plan2_composed
+POLK - PLEASANT HILL 01,Polk,Pleasant Hill 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - PLEASANT HILL 02,Polk,Pleasant Hill 02,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - PLEASANT HILL 03,Polk,Pleasant Hill 03,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - POLK CITY 01,Polk,Polk City 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - RUNNELLS 01,Polk,Runnells 01,1,1|-0%,0.000000012489,vtd20_to_plan2_composed
+POLK - RUNNELLS 01,Polk,Runnells 01,3,3|-0.01%,0.999999987511,vtd20_to_plan2_composed
+POLK - SAYLOR 01,Polk,Saylor 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - SAYLOR 02,Polk,Saylor 02,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - SHELDAHL 01,Polk,Sheldahl 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - URBANDALE 01,Polk,Urbandale 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - URBANDALE 02,Polk,Urbandale 02,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - URBANDALE 03,Polk,Urbandale 03,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - URBANDALE 04,Polk,Urbandale 04,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - URBANDALE 05,Polk,Urbandale 05,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - URBANDALE 06,Polk,Urbandale 06,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - URBANDALE 07,Polk,Urbandale 07,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - URBANDALE 08,Polk,Urbandale 08,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - URBANDALE 09,Polk,Urbandale 09,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - URBANDALE 10,Polk,Urbandale 10,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - URBANDALE 11,Polk,Urbandale 11,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WASHINGTON 01,Polk,Washington 01,1,1|-0%,0.000000000008,vtd20_to_plan2_composed
+POLK - WASHINGTON 01,Polk,Washington 01,3,3|-0.01%,0.999999999992,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 111,Polk,WDM Precinct 111,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 112,Polk,WDM Precinct 112,1,1|-0%,0.000000005139,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 112,Polk,WDM Precinct 112,3,3|-0.01%,0.999999994861,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 113,Polk,WDM Precinct 113,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 114,Polk,WDM Precinct 114,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 115,Polk,WDM Precinct 115,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 116,Polk,WDM Precinct 116,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 117,Polk,WDM Precinct 117,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 118,Polk,WDM Precinct 118,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 211,Polk,WDM Precinct 211,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 212,Polk,WDM Precinct 212,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 213,Polk,WDM Precinct 213,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 311,Polk,WDM Precinct 311,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 312,Polk,WDM Precinct 312,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 313,Polk,WDM Precinct 313,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 314,Polk,WDM Precinct 314,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 315,Polk,WDM Precinct 315,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 316,Polk,WDM Precinct 316,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 317,Polk,WDM Precinct 317,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WDM PRECINCT 318,Polk,WDM Precinct 318,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WEBSTER 01,Polk,Webster 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WINDSOR HEIGHTS 01,Polk,Windsor Heights 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WINDSOR HEIGHTS 02,Polk,Windsor Heights 02,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POLK - WINDSOR HEIGHTS 03,Polk,Windsor Heights 03,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - AVOCA,Pottawattamie,Avoca,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - CARSON,Pottawattamie,Carson,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - CARTER LAKE 1,Pottawattamie,Carter Lake 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - CARTER LAKE 2,Pottawattamie,Carter Lake 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 01,Pottawattamie,Council Bluffs 01,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 02,Pottawattamie,Council Bluffs 02,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 03,Pottawattamie,Council Bluffs 03,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 04,Pottawattamie,Council Bluffs 04,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 05,Pottawattamie,Council Bluffs 05,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 06,Pottawattamie,Council Bluffs 06,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 07,Pottawattamie,Council Bluffs 07,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 08,Pottawattamie,Council Bluffs 08,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 09,Pottawattamie,Council Bluffs 09,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 10A,Pottawattamie,Council Bluffs 10A,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 10B,Pottawattamie,Council Bluffs 10B,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 11,Pottawattamie,Council Bluffs 11,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 12,Pottawattamie,Council Bluffs 12,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 13,Pottawattamie,Council Bluffs 13,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 14,Pottawattamie,Council Bluffs 14,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 15,Pottawattamie,Council Bluffs 15,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 16,Pottawattamie,Council Bluffs 16,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 17,Pottawattamie,Council Bluffs 17,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 18,Pottawattamie,Council Bluffs 18,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 19,Pottawattamie,Council Bluffs 19,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 20,Pottawattamie,Council Bluffs 20,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - COUNCIL BLUFFS 21,Pottawattamie,Council Bluffs 21,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - CRESCENT,Pottawattamie,Crescent,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - GARNER,Pottawattamie,Garner,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - GLWCW,Pottawattamie,GLWCW,3,3|-0.01%,0.000000000828,vtd20_to_plan2_composed
+POTTAWATTAMIE - GLWCW,Pottawattamie,GLWCW,4,4|0.01%,0.999999999172,vtd20_to_plan2_composed
+POTTAWATTAMIE - HANCOCK,Pottawattamie,Hancock,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - LEWIS 1,Pottawattamie,Lewis 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - LEWIS 2,Pottawattamie,Lewis 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - MACEDONIA,Pottawattamie,Macedonia,3,3|-0.01%,0.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - MACEDONIA,Pottawattamie,Macedonia,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - MCCLELLAND,Pottawattamie,McClelland,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - MINDEN,Pottawattamie,Minden,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - NEOLA,Pottawattamie,Neola,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - OAKLAND,Pottawattamie,Oakland,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - TREYNOR,Pottawattamie,Treynor,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - UNDERWOOD,Pottawattamie,Underwood,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POTTAWATTAMIE - WALNUT,Pottawattamie,Walnut,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+POWESHIEK - 1ST WARD,Poweshiek,1st Ward,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+POWESHIEK - 2ND WARD,Poweshiek,2nd Ward,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+POWESHIEK - 3RD WARD,Poweshiek,3rd Ward,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+POWESHIEK - 4TH WARD,Poweshiek,4th Ward,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+POWESHIEK - BMWJ,Poweshiek,BMWJ,1,1|-0%,0.000000003279,vtd20_to_plan2_composed
+POWESHIEK - BMWJ,Poweshiek,BMWJ,2,2|-0%,0.999999996721,vtd20_to_plan2_composed
+POWESHIEK - CGWS,Poweshiek,CGWS,1,1|-0%,0.000000021010,vtd20_to_plan2_composed
+POWESHIEK - CGWS,Poweshiek,CGWS,2,2|-0%,0.999999978990,vtd20_to_plan2_composed
+POWESHIEK - DRL,Poweshiek,DRL,1,1|-0%,0.000000038887,vtd20_to_plan2_composed
+POWESHIEK - DRL,Poweshiek,DRL,2,2|-0%,0.999999961113,vtd20_to_plan2_composed
+POWESHIEK - JUPS,Poweshiek,JUPS,1,1|-0%,0.000000001202,vtd20_to_plan2_composed
+POWESHIEK - JUPS,Poweshiek,JUPS,2,2|-0%,0.999999998798,vtd20_to_plan2_composed
+POWESHIEK - MONTEZUMA,Poweshiek,MONTEZUMA,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+POWESHIEK - MS,Poweshiek,MS,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+RINGGOLD - ATHENS,Ringgold,Athens,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+RINGGOLD - CLINTON,Ringgold,Clinton,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+RINGGOLD - MOUNT AYR 1,Ringgold,Mount Ayr 1,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+RINGGOLD - MOUNT AYR 2,Ringgold,Mount Ayr 2,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+RINGGOLD - TINGLEY,Ringgold,Tingley,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+RINGGOLD - UNION,Ringgold,Union,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+RINGGOLD - WASHINGTON,Ringgold,Washington,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+SAC - AUBURN,Sac,Auburn,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SAC - EARLY,Sac,Early,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SAC - LAKE VIEW,Sac,Lake View,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SAC - LYTTON,Sac,Lytton,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SAC - NEMAHA,Sac,Nemaha,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SAC - ODEBOLT,Sac,Odebolt,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SAC - SAC CITY,Sac,Sac City,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SAC - SCHALLER,Sac,Schaller,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SAC - WALL LAKE,Sac,Wall Lake,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (AG) ALLEN'S GROVE TOWNSHIP,Scott,(AG) Allen's Grove Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (B11) CITY OF BETTENDORF,Scott,(B11) City of Bettendorf,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (B12) CITY OF BETTENDORF,Scott,(B12) City of Bettendorf,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (B21) CITY OF BETTENDORF,Scott,(B21) City of Bettendorf,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (B22) CITY OF BETTENDORF,Scott,(B22) City of Bettendorf,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (B23) CITY OF BETTENDORF,Scott,(B23) City of Bettendorf,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (B31) CITY OF BETTENDORF,Scott,(B31) City of Bettendorf,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (B32) CITY OF BETTENDORF,Scott,(B32) City of Bettendorf,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (B41) CITY OF BETTENDORF,Scott,(B41) City of Bettendorf,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (B42) CITY OF BETTENDORF,Scott,(B42) City of Bettendorf,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (B51) CITY OF BETTENDORF,Scott,(B51) City of Bettendorf,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (B52) CITY OF BETTENDORF,Scott,(B52) City of Bettendorf,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (BF) CITY OF BUFFALO,Scott,(BF) City of Buffalo,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (BG) BLUE GRASS TOWNSHIP,Scott,(BG) Blue Grass Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (BU) BUFFALO TOWNSHIP,Scott,(BU) Buffalo Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D11) CITY OF DAVENPORT,Scott,(D11) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D12) CITY OF DAVENPORT,Scott,(D12) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D13) CITY OF DAVENPORT,Scott,(D13) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D14) CITY OF DAVENPORT,Scott,(D14) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D21) CITY OF DAVENPORT,Scott,(D21) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D22) CITY OF DAVENPORT,Scott,(D22) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D23) CITY OF DAVENPORT,Scott,(D23) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D24) CITY OF DAVENPORT,Scott,(D24) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D31) CITY OF DAVENPORT,Scott,(D31) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D32) CITY OF DAVENPORT,Scott,(D32) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D33) CITY OF DAVENPORT,Scott,(D33) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D34) CITY OF DAVENPORT,Scott,(D34) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D41) CITY OF DAVENPORT,Scott,(D41) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D42) CITY OF DAVENPORT,Scott,(D42) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D43) CITY OF DAVENPORT,Scott,(D43) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D44) CITY OF DAVENPORT,Scott,(D44) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D51) CITY OF DAVENPORT,Scott,(D51) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D52) CITY OF DAVENPORT,Scott,(D52) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D53) CITY OF DAVENPORT,Scott,(D53) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D54) CITY OF DAVENPORT,Scott,(D54) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D61) CITY OF DAVENPORT,Scott,(D61) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D62) CITY OF DAVENPORT,Scott,(D62) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D63) CITY OF DAVENPORT,Scott,(D63) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D64) CITY OF DAVENPORT,Scott,(D64) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D71) CITY OF DAVENPORT,Scott,(D71) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D72) CITY OF DAVENPORT,Scott,(D72) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D73) CITY OF DAVENPORT,Scott,(D73) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D74) CITY OF DAVENPORT,Scott,(D74) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D81) CITY OF DAVENPORT,Scott,(D81) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D82) CITY OF DAVENPORT,Scott,(D82) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D83) CITY OF DAVENPORT,Scott,(D83) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (D84) CITY OF DAVENPORT,Scott,(D84) City of Davenport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (DH) CITY OF DONAHUE,Scott,(DH) City of Donahue,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (EL1) CITY OF ELDRIDGE,Scott,(EL1) City of Eldridge,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (EL2) CITY OF ELDRIDGE,Scott,(EL2) City of Eldridge,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (HG) HICKORY GROVE TOWNSHIP,Scott,(HG) Hickory Grove Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (LB) LIBERTY TOWNSHIP,Scott,(LB) Liberty Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (LC1) CITY OF LECLAIRE,Scott,(LC1) City of LeClaire,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (LC2) CITY OF LECLAIRE,Scott,(LC2) City of LeClaire,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (LCT) LECLAIRE TOWNSHIP,Scott,(LCT) LeClaire Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (LG) CITY OF LONG GROVE,Scott,(LG) City of Long Grove,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (MC) CITY OF MCCAUSLAND,Scott,(MC) City of McCausland,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (PKV) PARK VIEW,Scott,(PKV) Park View,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (PR) CITY OF PRINCETON,Scott,(PR) City of Princeton,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (PV) PLEASANT VALLEY,Scott,(PV) Pleasant Valley,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (RV) CITY OF RIVERDALE,Scott,(RV) City of Riverdale,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (WC) WALCOTT PRECINCT,Scott,(WC) Walcott Precinct,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SCOTT - (WF) WINFIELD TOWNSHIP,Scott,(WF) Winfield Township,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+SHELBY - CASS-CENTER-JACKSON-LINCOLN,Shelby,Cass-Center-Jackson-Lincoln,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SHELBY - CLAY-MONROE,Shelby,Clay-Monroe,3,3|-0.01%,0.000000000270,vtd20_to_plan2_composed
+SHELBY - CLAY-MONROE,Shelby,Clay-Monroe,4,4|0.01%,0.999999999730,vtd20_to_plan2_composed
+SHELBY - DOUGLAS-GREELEY-JEFFERSON-POLK,Shelby,Douglas-Greeley-Jefferson-Polk,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SHELBY - FAIRVIEW-SHELBY,Shelby,Fairview-Shelby,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SHELBY - GROVE-UNION-WASHINGTON-WESTPHALIA,Shelby,Grove-Union-Washington-Westphalia,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SHELBY - HARLAN 1,Shelby,Harlan 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SHELBY - HARLAN 2,Shelby,Harlan 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SHELBY - HARLAN 3,Shelby,Harlan 3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SHELBY - HARLAN 4,Shelby,Harlan 4,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - ALTON/NASSAU/EAST ORANGE,Sioux,Alton/Nassau/East Orange,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - FLOYD/LYNN,Sioux,Floyd/Lynn,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - GRANT/SHERIDAN,Sioux,Grant/Sheridan,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - HW/BC/LG/WA/EG S,Sioux,HW/BC/LG/WA/EG S,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - LINCOLN,Sioux,Lincoln,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - OC 1/HOLLAND WEST,Sioux,OC 1/Holland West,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - OC 2/HOLLAND E/NS 4-9,Sioux,OC 2/Holland E/NS 4-9,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - PL/GF/ST/SX/EG N,Sioux,PL/GF/ST/SX/EG N,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - READING/CENTER SOUTH,Sioux,Reading/Center South,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - ROCK VALLEY EAST,Sioux,Rock Valley East,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - ROCK VALLEY WEST/ROCK,Sioux,Rock Valley West/Rock,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - SCN/CAPEL/WELCOME,Sioux,SCN/Capel/Welcome,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - SHERMAN,Sioux,Sherman,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - SIOUX CENTER CENTRAL,Sioux,Sioux Center Central,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - SIOUX CENTER SOUTH,Sioux,Sioux Center South,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+SIOUX - WEST BRANCH/CENTER NORTH,Sioux,West Branch/Center North,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 1-1,Story,Ames 1-1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 1-2,Story,Ames 1-2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 1-3 - GRANT TWP 2,Story,Ames 1-3 - Grant Twp 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 1-4,Story,Ames 1-4,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 1-5,Story,Ames 1-5,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 2-1,Story,Ames 2-1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 2-2,Story,Ames 2-2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 2-3,Story,Ames 2-3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 2-4,Story,Ames 2-4,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 2-5,Story,Ames 2-5,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 3-1,Story,Ames 3-1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 3-2,Story,Ames 3-2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 3-3,Story,Ames 3-3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 3-4,Story,Ames 3-4,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 3-5,Story,Ames 3-5,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 4-1,Story,Ames 4-1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 4-2,Story,Ames 4-2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 4-3,Story,Ames 4-3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 4-4,Story,Ames 4-4,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - AMES 4-5,Story,Ames 4-5,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - COLLINS TWP-COLLINS,Story,Collins Twp-Collins,1,1|-0%,0.000000032579,vtd20_to_plan2_composed
+STORY - COLLINS TWP-COLLINS,Story,Collins Twp-Collins,3,3|-0.01%,0.000000000000,vtd20_to_plan2_composed
+STORY - COLLINS TWP-COLLINS,Story,Collins Twp-Collins,4,4|0.01%,0.999999967421,vtd20_to_plan2_composed
+STORY - FRANKLIN TWP-GILBERT,Story,Franklin Twp-Gilbert,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - GRANT TOWNSHIP,Story,Grant Township,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - HOWARD TWP-ROLAND,Story,Howard Twp-Roland,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - HUXLEY,Story,Huxley,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - INDIAN CREEK TWP-MAXWELL,Story,Indian Creek Twp-Maxwell,3,3|-0.01%,0.000000256140,vtd20_to_plan2_composed
+STORY - INDIAN CREEK TWP-MAXWELL,Story,Indian Creek Twp-Maxwell,4,4|0.01%,0.999999743860,vtd20_to_plan2_composed
+STORY - LAFAYETTE TOWNSHIP,Story,Lafayette Township,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - LINCOLN TWP-ZEARING,Story,Lincoln Twp-Zearing,2,2|-0%,0.000000868127,vtd20_to_plan2_composed
+STORY - LINCOLN TWP-ZEARING,Story,Lincoln Twp-Zearing,4,4|0.01%,0.999999131873,vtd20_to_plan2_composed
+STORY - MILFORD TOWNSHIP,Story,Milford Township,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - NEVADA 1,Story,Nevada 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - NEVADA 2,Story,Nevada 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - NEVADA 3 - GRANT TWP 3,Story,Nevada 3 - Grant Twp 3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - NEVADA 4,Story,Nevada 4,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - NEVADA TOWNSHIP,Story,Nevada Township,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - NEW ALBANY TWP-COLO,Story,New Albany Twp-Colo,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - PALESTINE TOWNSHIP,Story,Palestine Township,3,3|-0.01%,0.000000004042,vtd20_to_plan2_composed
+STORY - PALESTINE TOWNSHIP,Story,Palestine Township,4,4|0.01%,0.999999995958,vtd20_to_plan2_composed
+STORY - RICHLAND TOWNSHIP,Story,Richland Township,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - SHERMAN TOWNSHIP,Story,Sherman Township,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - SLATER/SHELDAHL-PAL 2,Story,Slater/Sheldahl-Pal 2,3,3|-0.01%,0.000000000891,vtd20_to_plan2_composed
+STORY - SLATER/SHELDAHL-PAL 2,Story,Slater/Sheldahl-Pal 2,4,4|0.01%,0.999999999109,vtd20_to_plan2_composed
+STORY - STORY CITY,Story,Story City,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+STORY - UNION TWP-CAMBRIDGE,Story,Union Twp-Cambridge,3,3|-0.01%,0.000000309458,vtd20_to_plan2_composed
+STORY - UNION TWP-CAMBRIDGE,Story,Union Twp-Cambridge,4,4|0.01%,0.999999690542,vtd20_to_plan2_composed
+STORY - WARREN TWP-MCCALLSBURG,Story,Warren Twp-McCallsburg,2,2|-0%,0.000000423232,vtd20_to_plan2_composed
+STORY - WARREN TWP-MCCALLSBURG,Story,Warren Twp-McCallsburg,4,4|0.01%,0.999999576768,vtd20_to_plan2_composed
+STORY - WASHINGTON TWP-KELLEY,Story,Washington Twp-Kelley,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+TAMA - CARLTON,Tama,Carlton,2,2|-0%,0.999999952719,vtd20_to_plan2_composed
+TAMA - CARLTON,Tama,Carlton,4,4|0.01%,0.000000047281,vtd20_to_plan2_composed
+TAMA - CARROLL/ONEIDA/N OTTER CR,Tama,Carroll/Oneida/N Otter Cr,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+TAMA - CLARK/GENESEO,Tama,Clark/Geneseo,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+TAMA - COLUMBIA/TAMA,Tama,Columbia/Tama,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+TAMA - GRANT,Tama,Grant,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+TAMA - HIGHLAND/INDIAN VILLAGE,Tama,Highland/Indian Village,1,1|-0%,0.000000000000,vtd20_to_plan2_composed
+TAMA - HIGHLAND/INDIAN VILLAGE,Tama,Highland/Indian Village,2,2|-0%,0.999999978337,vtd20_to_plan2_composed
+TAMA - HIGHLAND/INDIAN VILLAGE,Tama,Highland/Indian Village,4,4|0.01%,0.000000021663,vtd20_to_plan2_composed
+TAMA - HOWARD/TOLEDO,Tama,Howard/Toledo,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+TAMA - INDIAN SETTLEMENT,Tama,Indian Settlement,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+TAMA - LINCOLN,Tama,Lincoln,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+TAMA - PERRY/BUCKINGHAM/E CRYSTAL,Tama,Perry/Buckingham/E Crystal,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+TAMA - RICHLAND/SALT CREEK,Tama,Richland/Salt Creek,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+TAMA - S. OTTER CREEK,Tama,S. Otter Creek,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+TAMA - SPRING CREEK/W CRYSTAL,Tama,Spring Creek/W Crystal,2,2|-0%,0.999999999539,vtd20_to_plan2_composed
+TAMA - SPRING CREEK/W CRYSTAL,Tama,Spring Creek/W Crystal,4,4|0.01%,0.000000000461,vtd20_to_plan2_composed
+TAMA - TOLEDO CITY,Tama,Toledo City,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+TAMA - YORK,Tama,York,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+TAYLOR - 1-1 BLOCKTON,Taylor,1-1 Blockton,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+TAYLOR - 2-1 CLEARFIELD,Taylor,2-1 Clearfield,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+TAYLOR - 3-1 GRAVITY,Taylor,3-1 Gravity,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+TAYLOR - 4-1 NEW MARKET,Taylor,4-1 New Market,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+TAYLOR - 5-2 LENOX,Taylor,5-2 Lenox,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+TAYLOR - 6-3 CITY OF BEDFORD,Taylor,6-3 City of Bedford,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+TAYLOR - 7-3 LEGION,Taylor,7-3 Legion,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+UNION - AFTON,Union,Afton,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+UNION - ARISPE,Union,Arispe,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+UNION - CRESTON 1,Union,Creston 1,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+UNION - CRESTON 2 - SWCC,Union,Creston 2 - SWCC,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+UNION - CRESTON 3,Union,Creston 3,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+UNION - CRESTON 4 - SUPERTEL,Union,Creston 4 - Supertel,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+UNION - CRESTON 5,Union,Creston 5,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+UNION - LORIMOR,Union,Lorimor,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+VAN BUREN - BIRMINGHAM,Van Buren,Birmingham,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+VAN BUREN - BONAPARTE,Van Buren,Bonaparte,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+VAN BUREN - CANTRIL,Van Buren,Cantril,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+VAN BUREN - DOUDS,Van Buren,Douds,1,1|-0%,0.999999753030,vtd20_to_plan2_composed
+VAN BUREN - DOUDS,Van Buren,Douds,3,3|-0.01%,0.000000246970,vtd20_to_plan2_composed
+VAN BUREN - FARMINGTON,Van Buren,Farmington,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+VAN BUREN - KEOSAUQUA,Van Buren,Keosauqua,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+VAN BUREN - MILTON,Van Buren,Milton,1,1|-0%,0.999999805100,vtd20_to_plan2_composed
+VAN BUREN - MILTON,Van Buren,Milton,3,3|-0.01%,0.000000194900,vtd20_to_plan2_composed
+VAN BUREN - STOCKPORT,Van Buren,Stockport,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - ADAMS/BLAKESBURG/POLK,Wapello,Adams/Blakesburg/Polk,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - AGENCY/AGENCY/PLEASANT,Wapello,Agency/Agency/Pleasant,1,1|-0%,0.000000000232,vtd20_to_plan2_composed
+WAPELLO - AGENCY/AGENCY/PLEASANT,Wapello,Agency/Agency/Pleasant,3,3|-0.01%,0.999999999768,vtd20_to_plan2_composed
+WAPELLO - CASS/CHILLICOTHE,Wapello,Cass/Chillicothe,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - CENTER TWP,Wapello,Center Twp,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - COLUMBIA/EDDYVILLE,Wapello,Columbia/Eddyville,1,1|-0%,0.000000028106,vtd20_to_plan2_composed
+WAPELLO - COLUMBIA/EDDYVILLE,Wapello,Columbia/Eddyville,3,3|-0.01%,0.999999971894,vtd20_to_plan2_composed
+WAPELLO - COMPETINE TWP,Wapello,Competine Twp,1,1|-0%,0.000000440406,vtd20_to_plan2_composed
+WAPELLO - COMPETINE TWP,Wapello,Competine Twp,3,3|-0.01%,0.999999559594,vtd20_to_plan2_composed
+WAPELLO - DAHLONGEA TWP,Wapello,Dahlongea Twp,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - GREEN TWP,Wapello,Green Twp,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - HIGHLAND TWP,Wapello,Highland Twp,1,1|-0%,0.000000000706,vtd20_to_plan2_composed
+WAPELLO - HIGHLAND TWP,Wapello,Highland Twp,3,3|-0.01%,0.999999999294,vtd20_to_plan2_composed
+WAPELLO - KEOKUK TWP,Wapello,Keokuk twp,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - OTTUMWA PCT 01,Wapello,Ottumwa Pct 01,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - OTTUMWA PCT 02,Wapello,Ottumwa Pct 02,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - OTTUMWA PCT 03,Wapello,Ottumwa Pct 03,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - OTTUMWA PCT 04,Wapello,Ottumwa Pct 04,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - OTTUMWA PCT 05,Wapello,Ottumwa Pct 05,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - OTTUMWA PCT 06,Wapello,Ottumwa Pct 06,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - OTTUMWA PCT 07,Wapello,Ottumwa Pct 07,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - OTTUMWA PCT 08,Wapello,Ottumwa Pct 08,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - OTTUMWA PCT 09,Wapello,Ottumwa Pct 09,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - OTTUMWA PCT 10,Wapello,Ottumwa Pct 10,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAPELLO - RICHLAND/KIRKVILLE,Wapello,Richland/Kirkville,1,1|-0%,0.000000003523,vtd20_to_plan2_composed
+WAPELLO - RICHLAND/KIRKVILLE,Wapello,Richland/Kirkville,3,3|-0.01%,0.999999996477,vtd20_to_plan2_composed
+WAPELLO - WASHINGTON/ELDON,Wapello,Washington/Eldon,1,1|-0%,0.000000002545,vtd20_to_plan2_composed
+WAPELLO - WASHINGTON/ELDON,Wapello,Washington/Eldon,3,3|-0.01%,0.999999997455,vtd20_to_plan2_composed
+WARREN - ALLEN 2,Warren,Allen 2,1,1|-0%,0.999989817368,vtd20_to_plan2_composed
+WARREN - ALLEN 2,Warren,Allen 2,3,3|-0.01%,0.000010182632,vtd20_to_plan2_composed
+WARREN - ALLEN 3,Warren,Allen 3,1,1|-0%,0.999999713591,vtd20_to_plan2_composed
+WARREN - ALLEN 3,Warren,Allen 3,3,3|-0.01%,0.000000286409,vtd20_to_plan2_composed
+WARREN - BELMONT TWP,Warren,Belmont Twp,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - CUMMING/WDM,Warren,Cumming/WDM,1,1|-0%,0.999998903696,vtd20_to_plan2_composed
+WARREN - CUMMING/WDM,Warren,Cumming/WDM,3,3|-0.01%,0.000001096304,vtd20_to_plan2_composed
+WARREN - GR1-DM86 CITY,Warren,GR1-DM86 City,1,1|-0%,0.999995628011,vtd20_to_plan2_composed
+WARREN - GR1-DM86 CITY,Warren,GR1-DM86 City,3,3|-0.01%,0.000004371989,vtd20_to_plan2_composed
+WARREN - GREENFIELD 1 TWP,Warren,Greenfield 1 Twp,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - GREENFIELD 1/DM85,Warren,Greenfield 1/DM85,1,1|-0%,0.999999759189,vtd20_to_plan2_composed
+WARREN - GREENFIELD 1/DM85,Warren,Greenfield 1/DM85,3,3|-0.01%,0.000000240811,vtd20_to_plan2_composed
+WARREN - GREENFIELD 2/LINCOLN 2,Warren,Greenfield 2/Lincoln 2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - INDIANOLA 1,Warren,Indianola 1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - INDIANOLA 2,Warren,Indianola 2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - INDIANOLA 3,Warren,Indianola 3,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - INDIANOLA 4,Warren,Indianola 4,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - INDIANOLA 5,Warren,Indianola 5,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - INDIANOLA 6,Warren,Indianola 6,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - INDIANOLA 7,Warren,Indianola 7,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - JACKSON,Warren,Jackson,1,1|-0%,0.999999999194,vtd20_to_plan2_composed
+WARREN - JACKSON,Warren,Jackson,3,3|-0.01%,0.000000000806,vtd20_to_plan2_composed
+WARREN - JEFFERSON,Warren,Jefferson,1,1|-0%,0.999999971002,vtd20_to_plan2_composed
+WARREN - JEFFERSON,Warren,Jefferson,3,3|-0.01%,0.000000028998,vtd20_to_plan2_composed
+WARREN - LIBERTY TWP,Warren,Liberty Twp,1,1|-0%,0.999999804611,vtd20_to_plan2_composed
+WARREN - LIBERTY TWP,Warren,Liberty Twp,3,3|-0.01%,0.000000195389,vtd20_to_plan2_composed
+WARREN - LINCOLN TWP,Warren,Lincoln Twp,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - NORWALK 1,Warren,Norwalk 1,1,1|-0%,0.999999667139,vtd20_to_plan2_composed
+WARREN - NORWALK 1,Warren,Norwalk 1,3,3|-0.01%,0.000000332861,vtd20_to_plan2_composed
+WARREN - NORWALK 2/GREENFIELD,Warren,Norwalk 2/Greenfield,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - NORWALK 3/LINN,Warren,Norwalk 3/Linn,1,1|-0%,0.999999872044,vtd20_to_plan2_composed
+WARREN - NORWALK 3/LINN,Warren,Norwalk 3/Linn,3,3|-0.01%,0.000000127956,vtd20_to_plan2_composed
+WARREN - NORWALK 4 CITY,Warren,Norwalk 4 City,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - OTTER/MILO,Warren,Otter/Milo,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - PALMYRA TWP,Warren,Palmyra Twp,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - RICHLAND/PALMYRA,Warren,Richland/Palmyra,1,1|-0%,0.999999857873,vtd20_to_plan2_composed
+WARREN - RICHLAND/PALMYRA,Warren,Richland/Palmyra,3,3|-0.01%,0.000000142127,vtd20_to_plan2_composed
+WARREN - SQUAW CREEK TWP,Warren,Squaw Creek Twp,1,1|-0%,0.999999999046,vtd20_to_plan2_composed
+WARREN - SQUAW CREEK TWP,Warren,Squaw Creek Twp,3,3|-0.01%,0.000000000954,vtd20_to_plan2_composed
+WARREN - UNION,Warren,Union,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WARREN - VIRGINIA,Warren,Virginia,1,1|-0%,0.999999998129,vtd20_to_plan2_composed
+WARREN - VIRGINIA,Warren,Virginia,3,3|-0.01%,0.000000001871,vtd20_to_plan2_composed
+WARREN - WHITE BREAST,Warren,White Breast,1,1|-0%,0.999999594054,vtd20_to_plan2_composed
+WARREN - WHITE BREAST,Warren,White Breast,3,3|-0.01%,0.000000405946,vtd20_to_plan2_composed
+WARREN - WHITE OAK TWP,Warren,White Oak Twp,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WASHINGTON - AINSWORTH,Washington,Ainsworth,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WASHINGTON - BRIGHTON/MARION/CRAWFORD,Washington,Brighton/Marion/Crawford,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WASHINGTON - KALONA,Washington,Kalona,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WASHINGTON - RIVERSIDE,Washington,Riverside,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WASHINGTON - WASHINGTON WARD 1,Washington,Washington Ward 1,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WASHINGTON - WASHINGTON WARD 2,Washington,Washington Ward 2,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WASHINGTON - WASHINGTON WARD 3,Washington,Washington Ward 3,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WASHINGTON - WASHINGTON WARD 4,Washington,Washington Ward 4,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WASHINGTON - WELLMAN,Washington,Wellman,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WASHINGTON - WEST CHESTER,Washington,West Chester,1,1|-0%,1.000000000000,vtd20_to_plan2_composed
+WAYNE - A-01 ALLERTON-CLIO-LINEVILLE,Wayne,A-01 Allerton-Clio-Lineville,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAYNE - C-02 CORYDON,Wayne,C-02 Corydon,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAYNE - H-03 HUMESTON-MILLERTON,Wayne,H-03 Humeston-Millerton,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WAYNE - S-04 SEYMOUR-PROMISE CITY,Wayne,S-04 Seymour-Promise City,3,3|-0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - BADGER-NW COOPER,Webster,Badger-NW Cooper,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - CLAY-ROLAND,Webster,Clay-Roland,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - COLFAX-DUNCOMBE,Webster,Colfax-Duncombe,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - COOPER,Webster,Cooper,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - DAYTON-BURNSIDE,Webster,Dayton-Burnside,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - DEER CREEK-JACKSON,Webster,Deer Creek-Jackson,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - DOUGLAS,Webster,Douglas,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - ELKHORN,Webster,Elkhorn,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - FORT DODGE 01,Webster,Fort Dodge 01,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - FORT DODGE 02,Webster,Fort Dodge 02,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - FORT DODGE 03,Webster,Fort Dodge 03,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - FORT DODGE 04,Webster,Fort Dodge 04,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - FORT DODGE 05,Webster,Fort Dodge 05,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - FORT DODGE 06,Webster,Fort Dodge 06,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - FORT DODGE 07,Webster,Fort Dodge 07,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - FORT DODGE 08,Webster,Fort Dodge 08,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - FORT DODGE 09,Webster,Fort Dodge 09,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - FORT DODGE 10,Webster,Fort Dodge 10,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - FORT DODGE 11,Webster,Fort Dodge 11,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - FORT DODGE 12,Webster,Fort Dodge 12,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - FULTON,Webster,Fulton,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - GOWRIE,Webster,Gowrie,3,3|-0.01%,0.000000000753,vtd20_to_plan2_composed
+WEBSTER - GOWRIE,Webster,Gowrie,4,4|0.01%,0.999999999247,vtd20_to_plan2_composed
+WEBSTER - JOHNSON,Webster,Johnson,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - LOST GROVE,Webster,Lost Grove,3,3|-0.01%,0.000000000814,vtd20_to_plan2_composed
+WEBSTER - LOST GROVE,Webster,Lost Grove,4,4|0.01%,0.999999999186,vtd20_to_plan2_composed
+WEBSTER - NEWARK,Webster,Newark,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - OTHO-PLEASANT VALLEY,Webster,Otho-Pleasant Valley,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - SUMNER-WEBSTER-YELL-HARDIN,Webster,Sumner-Webster-Yell-Hardin,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WEBSTER - WASHINGTON,Webster,Washington,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WINNEBAGO - BUFFALO GRANT LINCOLN,Winnebago,Buffalo Grant Lincoln,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WINNEBAGO - CENTER,Winnebago,Center,2,2|-0%,0.000000023872,vtd20_to_plan2_composed
+WINNEBAGO - CENTER,Winnebago,Center,4,4|0.01%,0.999999976128,vtd20_to_plan2_composed
+WINNEBAGO - EDEN LOGAN NORWAY,Winnebago,Eden Logan Norway,2,2|-0%,0.000000000814,vtd20_to_plan2_composed
+WINNEBAGO - EDEN LOGAN NORWAY,Winnebago,Eden Logan Norway,4,4|0.01%,0.999999999186,vtd20_to_plan2_composed
+WINNEBAGO - FOREST CITY WARD 1,Winnebago,Forest City Ward 1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WINNEBAGO - FOREST CITY WARD 2,Winnebago,Forest City Ward 2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WINNEBAGO - FOREST CITY WARD 3,Winnebago,Forest City Ward 3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WINNEBAGO - FOREST CITY WARD 4,Winnebago,Forest City Ward 4,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WINNEBAGO - KING LINDEN,Winnebago,King Linden,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WINNEBAGO - MT. VALLEY,Winnebago,Mt. Valley,2,2|-0%,0.000000000846,vtd20_to_plan2_composed
+WINNEBAGO - MT. VALLEY,Winnebago,Mt. Valley,4,4|0.01%,0.999999999154,vtd20_to_plan2_composed
+WINNEBAGO - NEWTON FOREST,Winnebago,Newton Forest,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WINNESHIEK - PCT 01 - HE/HI/PL,Winneshiek,PCT 01 - HE/HI/PL,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WINNESHIEK - PCT 02 - FR/GL/DEW3/DETSUP1,Winneshiek,PCT 02 - FR/GL/DEW3/DETSUP1,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WINNESHIEK - PCT 03 - DEW1/DETSUP2,Winneshiek,PCT 03 - DEW1/DETSUP2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WINNESHIEK - PCT 04 - DEW2,Winneshiek,PCT 04 - DEW2,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WINNESHIEK - PCT 05 - CN/DEW4/DETSUP3,Winneshiek,PCT 05 - CN/DEW4/DETSUP3,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WINNESHIEK - PCT 06 - DEW5,Winneshiek,PCT 06 - DEW5,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WINNESHIEK - PCT 07 - CA/SP,Winneshiek,PCT 07 - CA/SP,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WINNESHIEK - PCT 08 - MI/BLM,Winneshiek,PCT 08 - MI/BLM,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WINNESHIEK - PCT 09 - BLF/BO/FR/LI/MA/OR,Winneshiek,PCT 09 - BLF/BO/FR/LI/MA/OR,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WINNESHIEK - PCT 10 - JA/SU/WA,Winneshiek,PCT 10 - JA/SU/WA,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WINNESHIEK - PCT 11 - DETSUP5,Winneshiek,PCT 11 - DETSUP5,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 29 SERGEANT BLUFF EAST/WOODBURY,Woodbury,29 Sergeant Bluff East/Woodbury,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 30 SERGEANT BLUFF WEST,Woodbury,30 Sergeant Bluff West,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 31 SALIX/LIBERTY/LAKEPORT,Woodbury,31 Salix/Liberty/Lakeport,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 32 BRONSON/FLOYD/GRANGE,Woodbury,32 Bronson/Floyd/Grange,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 33 PIERSON/RUTLAND,Woodbury,33 Pierson/Rutland,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 34 CORRECTIONVILLE/KEDRON/UNION,Woodbury,34 Correctionville/Kedron/Union,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 35 MOVILLE/ARLINGTON/WOLF CREEK,Woodbury,35 Moville/Arlington/Wolf Creek,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 36 LAWTON/BANNER,Woodbury,36 Lawton/Banner,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 37 CLIMBING HILL/GRANT/WEST FORK,Woodbury,37 Climbing Hill/Grant/West Fork,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 38 SLOAN,Woodbury,38 Sloan,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 39 HORNICK/WILLOW,Woodbury,39 Hornick/Willow,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 40 ANTHON/MILLER,Woodbury,40 Anthon/Miller,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 41 DANBURY/LISTON/MORGAN,Woodbury,41 Danbury/Liston/Morgan,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 42 SMITHLAND/LITTLE SIOUX,Woodbury,42 Smithland/Little Sioux,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 43 OTO/OTO TOWNSHIP,Woodbury,43 Oto/Oto Township,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - 44 CUSHING/ROCK,Woodbury,44 Cushing/Rock,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 01,Woodbury,Sioux City 01,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 02,Woodbury,Sioux City 02,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 03,Woodbury,Sioux City 03,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 04,Woodbury,Sioux City 04,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 05,Woodbury,Sioux City 05,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 06,Woodbury,Sioux City 06,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 07,Woodbury,Sioux City 07,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 08,Woodbury,Sioux City 08,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 09,Woodbury,Sioux City 09,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 10,Woodbury,Sioux City 10,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 11,Woodbury,Sioux City 11,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 12,Woodbury,Sioux City 12,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 13,Woodbury,Sioux City 13,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 14,Woodbury,Sioux City 14,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 15,Woodbury,Sioux City 15,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 16,Woodbury,Sioux City 16,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 17,Woodbury,Sioux City 17,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 18,Woodbury,Sioux City 18,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 19,Woodbury,Sioux City 19,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 20,Woodbury,Sioux City 20,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 21,Woodbury,Sioux City 21,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - SIOUX CITY 23,Woodbury,Sioux City 23,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - WOODBURY 22,Woodbury,Woodbury 22,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - WOODBURY 24,Woodbury,Woodbury 24,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - WOODBURY 25,Woodbury,Woodbury 25,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - WOODBURY 26,Woodbury,Woodbury 26,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - WOODBURY 27,Woodbury,Woodbury 27,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WOODBURY - WOODBURY 28,Woodbury,Woodbury 28,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WORTH - BARTON/DEER CREEK/UNION/GRAFTON,Worth,Barton/Deer Creek/Union/Grafton,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WORTH - BRISTOL/SILVER LAKE/JOICE,Worth,Bristol/Silver Lake/Joice,2,2|-0%,0.999999998959,vtd20_to_plan2_composed
+WORTH - BRISTOL/SILVER LAKE/JOICE,Worth,Bristol/Silver Lake/Joice,4,4|0.01%,0.000000001041,vtd20_to_plan2_composed
+WORTH - BROOKFIELD/KENSETT,Worth,Brookfield/Kensett,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WORTH - DANVILLE/HANLONTOWN,Worth,Danville/Hanlontown,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WORTH - DEER CREEK/GROVE/HARTLAND/NORTHWOOD,Worth,Deer Creek/Grove/Hartland/Northwood,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WORTH - FERTILE,Worth,Fertile,2,2|-0%,0.999999975218,vtd20_to_plan2_composed
+WORTH - FERTILE,Worth,Fertile,4,4|0.01%,0.000000024782,vtd20_to_plan2_composed
+WORTH - LINCOLN/MANLY,Worth,Lincoln/Manly,2,2|-0%,1.000000000000,vtd20_to_plan2_composed
+WRIGHT - BELMOND,Wright,Belmond,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WRIGHT - BIG 6,Wright,Big 6,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WRIGHT - CLARION,Wright,Clarion,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WRIGHT - DOWS,Wright,Dows,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WRIGHT - EAGLE GROVE #1,Wright,Eagle Grove #1,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WRIGHT - EAGLE GROVE #2,Wright,Eagle Grove #2,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WRIGHT - EAGLE GROVE #3,Wright,Eagle Grove #3,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WRIGHT - EAGLE GROVE #4,Wright,Eagle Grove #4,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WRIGHT - GOLDFIELD,Wright,Goldfield,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed
+WRIGHT - RURAL EAGLE GROVE,Wright,Rural Eagle Grove,4,4|0.01%,1.000000000000,vtd20_to_plan2_composed

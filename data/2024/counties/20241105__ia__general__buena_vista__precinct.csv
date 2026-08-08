@@ -1,0 +1,496 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Buena Vista,BBLL,Barnes Township Trustee,,John Nelson,,82,36,46
+Buena Vista,BBLL,Barnes Township Trustee,,Phil Driver,,87,35,52
+Buena Vista,BBLL,Barnes Township Trustee,,Write-In,,0,0,0
+Buena Vista,BBLL,Brooke Township Trustee,,Brian Drzycimski,,78,28,50
+Buena Vista,BBLL,Brooke Township Trustee,,Karl Laursen,,1,0,1
+Buena Vista,BBLL,Brooke Township Trustee,,Kent Patterson,,1,1,0
+Buena Vista,BBLL,Brooke Township Trustee,,Write-In,,0,0,0
+Buena Vista,BBLL,Buena Vista County Hospital Trustee,,Daniel A. Bacon,,500,155,345
+Buena Vista,CFNP,Buena Vista County Hospital Trustee,,Daniel A. Bacon,,714,274,440
+Buena Vista,EMNS,Buena Vista County Hospital Trustee,,Daniel A. Bacon,,877,282,595
+Buena Vista,GHPW,Buena Vista County Hospital Trustee,,Daniel A. Bacon,,722,430,292
+Buena Vista,SL01 Storm Lake 01 City,Buena Vista County Hospital Trustee,,Daniel A. Bacon,,265,143,122
+Buena Vista,SL02 Storm Lake 02 City,Buena Vista County Hospital Trustee,,Daniel A. Bacon,,145,67,78
+Buena Vista,SL03,Buena Vista County Hospital Trustee,,Daniel A. Bacon,,593,335,258
+Buena Vista,SL04 Storm Lake 04 City,Buena Vista County Hospital Trustee,,Daniel A. Bacon,,345,190,155
+Buena Vista,BBLL,Buena Vista County Hospital Trustee,,Danny R. Richardson,,516,157,359
+Buena Vista,CFNP,Buena Vista County Hospital Trustee,,Danny R. Richardson,,725,286,439
+Buena Vista,EMNS,Buena Vista County Hospital Trustee,,Danny R. Richardson,,846,275,571
+Buena Vista,GHPW,Buena Vista County Hospital Trustee,,Danny R. Richardson,,770,464,306
+Buena Vista,SL01 Storm Lake 01 City,Buena Vista County Hospital Trustee,,Danny R. Richardson,,266,148,118
+Buena Vista,SL02 Storm Lake 02 City,Buena Vista County Hospital Trustee,,Danny R. Richardson,,134,70,64
+Buena Vista,SL03,Buena Vista County Hospital Trustee,,Danny R. Richardson,,624,349,275
+Buena Vista,SL04 Storm Lake 04 City,Buena Vista County Hospital Trustee,,Danny R. Richardson,,345,205,140
+Buena Vista,BBLL,Buena Vista County Hospital Trustee,,Edean M. Murray,,489,153,336
+Buena Vista,CFNP,Buena Vista County Hospital Trustee,,Edean M. Murray,,698,279,419
+Buena Vista,EMNS,Buena Vista County Hospital Trustee,,Edean M. Murray,,846,276,570
+Buena Vista,GHPW,Buena Vista County Hospital Trustee,,Edean M. Murray,,707,420,287
+Buena Vista,SL01 Storm Lake 01 City,Buena Vista County Hospital Trustee,,Edean M. Murray,,282,157,125
+Buena Vista,SL02 Storm Lake 02 City,Buena Vista County Hospital Trustee,,Edean M. Murray,,138,71,67
+Buena Vista,SL03,Buena Vista County Hospital Trustee,,Edean M. Murray,,579,331,248
+Buena Vista,SL04 Storm Lake 04 City,Buena Vista County Hospital Trustee,,Edean M. Murray,,333,198,135
+Buena Vista,BBLL,Buena Vista County Hospital Trustee,,Write-In,,8,4,4
+Buena Vista,CFNP,Buena Vista County Hospital Trustee,,Write-In,,8,4,4
+Buena Vista,EMNS,Buena Vista County Hospital Trustee,,Write-In,,6,2,4
+Buena Vista,GHPW,Buena Vista County Hospital Trustee,,Write-In,,7,4,3
+Buena Vista,SL01 Storm Lake 01 City,Buena Vista County Hospital Trustee,,Write-In,,5,2,3
+Buena Vista,SL02 Storm Lake 02 City,Buena Vista County Hospital Trustee,,Write-In,,9,1,8
+Buena Vista,SL03,Buena Vista County Hospital Trustee,,Write-In,,3,1,2
+Buena Vista,SL04 Storm Lake 04 City,Buena Vista County Hospital Trustee,,Write-In,,3,1,2
+Buena Vista,BBLL,Constitutional Amendment 1,,No,,117,33,84
+Buena Vista,CFNP,Constitutional Amendment 1,,No,,199,72,127
+Buena Vista,EMNS,Constitutional Amendment 1,,No,,221,67,154
+Buena Vista,GHPW,Constitutional Amendment 1,,No,,189,111,78
+Buena Vista,SL01 Storm Lake 01 City,Constitutional Amendment 1,,No,,85,40,45
+Buena Vista,SL02 Storm Lake 02 City,Constitutional Amendment 1,,No,,49,20,29
+Buena Vista,SL03,Constitutional Amendment 1,,No,,139,82,57
+Buena Vista,SL04 Storm Lake 04 City,Constitutional Amendment 1,,No,,129,76,53
+Buena Vista,BBLL,Constitutional Amendment 1,,Yes,,722,217,505
+Buena Vista,CFNP,Constitutional Amendment 1,,Yes,,903,350,553
+Buena Vista,EMNS,Constitutional Amendment 1,,Yes,,1015,342,673
+Buena Vista,GHPW,Constitutional Amendment 1,,Yes,,799,480,319
+Buena Vista,SL01 Storm Lake 01 City,Constitutional Amendment 1,,Yes,,420,219,201
+Buena Vista,SL02 Storm Lake 02 City,Constitutional Amendment 1,,Yes,,211,106,105
+Buena Vista,SL03,Constitutional Amendment 1,,Yes,,688,378,310
+Buena Vista,SL04 Storm Lake 04 City,Constitutional Amendment 1,,Yes,,454,254,200
+Buena Vista,BBLL,Constitutional Amendment 2,,No,,62,20,42
+Buena Vista,CFNP,Constitutional Amendment 2,,No,,117,40,77
+Buena Vista,EMNS,Constitutional Amendment 2,,No,,128,41,87
+Buena Vista,GHPW,Constitutional Amendment 2,,No,,118,71,47
+Buena Vista,SL01 Storm Lake 01 City,Constitutional Amendment 2,,No,,67,30,37
+Buena Vista,SL02 Storm Lake 02 City,Constitutional Amendment 2,,No,,44,21,23
+Buena Vista,SL03,Constitutional Amendment 2,,No,,100,53,47
+Buena Vista,SL04 Storm Lake 04 City,Constitutional Amendment 2,,No,,102,67,35
+Buena Vista,BBLL,Constitutional Amendment 2,,Yes,,767,226,541
+Buena Vista,CFNP,Constitutional Amendment 2,,Yes,,964,374,590
+Buena Vista,EMNS,Constitutional Amendment 2,,Yes,,1086,350,736
+Buena Vista,GHPW,Constitutional Amendment 2,,Yes,,869,519,350
+Buena Vista,SL01 Storm Lake 01 City,Constitutional Amendment 2,,Yes,,429,226,203
+Buena Vista,SL02 Storm Lake 02 City,Constitutional Amendment 2,,Yes,,210,97,113
+Buena Vista,SL03,Constitutional Amendment 2,,Yes,,720,403,317
+Buena Vista,SL04 Storm Lake 04 City,Constitutional Amendment 2,,Yes,,461,250,211
+Buena Vista,CFNP,Coon Township Trustee,,James Franzmeier,,79,25,54
+Buena Vista,CFNP,Coon Township Trustee,,Kyle Hornor,,77,26,51
+Buena Vista,CFNP,Coon Township Trustee,,Write-In,,1,1,0
+Buena Vista,BBLL,County Agricultural Extension Council Member,,Carli Forbes,,450,136,314
+Buena Vista,CFNP,County Agricultural Extension Council Member,,Carli Forbes,,622,238,384
+Buena Vista,EMNS,County Agricultural Extension Council Member,,Carli Forbes,,722,232,490
+Buena Vista,GHPW,County Agricultural Extension Council Member,,Carli Forbes,,524,313,211
+Buena Vista,SL01 Storm Lake 01 City,County Agricultural Extension Council Member,,Carli Forbes,,205,105,100
+Buena Vista,SL02 Storm Lake 02 City,County Agricultural Extension Council Member,,Carli Forbes,,104,48,56
+Buena Vista,SL03,County Agricultural Extension Council Member,,Carli Forbes,,467,266,201
+Buena Vista,SL04 Storm Lake 04 City,County Agricultural Extension Council Member,,Carli Forbes,,253,141,112
+Buena Vista,BBLL,County Agricultural Extension Council Member,,Trent Christensen,,502,146,356
+Buena Vista,CFNP,County Agricultural Extension Council Member,,Trent Christensen,,694,256,438
+Buena Vista,EMNS,County Agricultural Extension Council Member,,Trent Christensen,,764,239,525
+Buena Vista,GHPW,County Agricultural Extension Council Member,,Trent Christensen,,565,327,238
+Buena Vista,SL01 Storm Lake 01 City,County Agricultural Extension Council Member,,Trent Christensen,,222,119,103
+Buena Vista,SL02 Storm Lake 02 City,County Agricultural Extension Council Member,,Trent Christensen,,106,47,59
+Buena Vista,SL03,County Agricultural Extension Council Member,,Trent Christensen,,473,266,207
+Buena Vista,SL04 Storm Lake 04 City,County Agricultural Extension Council Member,,Trent Christensen,,263,151,112
+Buena Vista,BBLL,County Agricultural Extension Council Member,,Valerie R. Olsen,,446,132,314
+Buena Vista,CFNP,County Agricultural Extension Council Member,,Valerie R. Olsen,,644,249,395
+Buena Vista,EMNS,County Agricultural Extension Council Member,,Valerie R. Olsen,,744,239,505
+Buena Vista,GHPW,County Agricultural Extension Council Member,,Valerie R. Olsen,,546,313,233
+Buena Vista,SL01 Storm Lake 01 City,County Agricultural Extension Council Member,,Valerie R. Olsen,,231,118,113
+Buena Vista,SL02 Storm Lake 02 City,County Agricultural Extension Council Member,,Valerie R. Olsen,,110,49,61
+Buena Vista,SL03,County Agricultural Extension Council Member,,Valerie R. Olsen,,468,264,204
+Buena Vista,SL04 Storm Lake 04 City,County Agricultural Extension Council Member,,Valerie R. Olsen,,271,150,121
+Buena Vista,BBLL,County Agricultural Extension Council Member,,Warren Rusty Corderman,,450,143,307
+Buena Vista,CFNP,County Agricultural Extension Council Member,,Warren Rusty Corderman,,711,304,407
+Buena Vista,EMNS,County Agricultural Extension Council Member,,Warren Rusty Corderman,,734,237,497
+Buena Vista,GHPW,County Agricultural Extension Council Member,,Warren Rusty Corderman,,592,340,252
+Buena Vista,SL01 Storm Lake 01 City,County Agricultural Extension Council Member,,Warren Rusty Corderman,,192,108,84
+Buena Vista,SL02 Storm Lake 02 City,County Agricultural Extension Council Member,,Warren Rusty Corderman,,98,40,58
+Buena Vista,SL03,County Agricultural Extension Council Member,,Warren Rusty Corderman,,470,272,198
+Buena Vista,SL04 Storm Lake 04 City,County Agricultural Extension Council Member,,Warren Rusty Corderman,,238,140,98
+Buena Vista,BBLL,County Agricultural Extension Council Member,,Write-In,,4,1,3
+Buena Vista,CFNP,County Agricultural Extension Council Member,,Write-In,,9,3,6
+Buena Vista,EMNS,County Agricultural Extension Council Member,,Write-In,,7,1,6
+Buena Vista,GHPW,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Buena Vista,SL01 Storm Lake 01 City,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Buena Vista,SL02 Storm Lake 02 City,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Buena Vista,SL03,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Buena Vista,SL04 Storm Lake 04 City,County Agricultural Extension Council Member,,Write-In,,5,1,4
+Buena Vista,BBLL,County Agricultural Extension Council To Fill a vacancy,,Jan Worthan,,600,175,425
+Buena Vista,CFNP,County Agricultural Extension Council To Fill a vacancy,,Jan Worthan,,879,315,564
+Buena Vista,EMNS,County Agricultural Extension Council To Fill a vacancy,,Jan Worthan,,974,301,673
+Buena Vista,GHPW,County Agricultural Extension Council To Fill a vacancy,,Jan Worthan,,764,437,327
+Buena Vista,SL01 Storm Lake 01 City,County Agricultural Extension Council To Fill a vacancy,,Jan Worthan,,314,157,157
+Buena Vista,SL02 Storm Lake 02 City,County Agricultural Extension Council To Fill a vacancy,,Jan Worthan,,177,79,98
+Buena Vista,SL03,County Agricultural Extension Council To Fill a vacancy,,Jan Worthan,,597,329,268
+Buena Vista,SL04 Storm Lake 04 City,County Agricultural Extension Council To Fill a vacancy,,Jan Worthan,,362,199,163
+Buena Vista,BBLL,County Agricultural Extension Council To Fill a vacancy,,Write-In,,4,2,2
+Buena Vista,CFNP,County Agricultural Extension Council To Fill a vacancy,,Write-In,,6,3,3
+Buena Vista,EMNS,County Agricultural Extension Council To Fill a vacancy,,Write-In,,5,1,4
+Buena Vista,GHPW,County Agricultural Extension Council To Fill a vacancy,,Write-In,,5,2,3
+Buena Vista,SL01 Storm Lake 01 City,County Agricultural Extension Council To Fill a vacancy,,Write-In,,7,5,2
+Buena Vista,SL02 Storm Lake 02 City,County Agricultural Extension Council To Fill a vacancy,,Write-In,,3,0,3
+Buena Vista,SL03,County Agricultural Extension Council To Fill a vacancy,,Write-In,,1,1,0
+Buena Vista,SL04 Storm Lake 04 City,County Agricultural Extension Council To Fill a vacancy,,Write-In,,6,5,1
+Buena Vista,BBLL,County Auditor,,Susan Kennedy Lloyd,REP,709,209,500
+Buena Vista,CFNP,County Auditor,,Susan Kennedy Lloyd,REP,1003,369,634
+Buena Vista,EMNS,County Auditor,,Susan Kennedy Lloyd,REP,1137,364,773
+Buena Vista,GHPW,County Auditor,,Susan Kennedy Lloyd,REP,886,507,379
+Buena Vista,SL01 Storm Lake 01 City,County Auditor,,Susan Kennedy Lloyd,REP,391,207,184
+Buena Vista,SL02 Storm Lake 02 City,County Auditor,,Susan Kennedy Lloyd,REP,210,99,111
+Buena Vista,SL03,County Auditor,,Susan Kennedy Lloyd,REP,709,390,319
+Buena Vista,SL04 Storm Lake 04 City,County Auditor,,Susan Kennedy Lloyd,REP,433,246,187
+Buena Vista,BBLL,County Auditor,,Write-In,,4,2,2
+Buena Vista,CFNP,County Auditor,,Write-In,,7,3,4
+Buena Vista,EMNS,County Auditor,,Write-In,,10,3,7
+Buena Vista,GHPW,County Auditor,,Write-In,,7,5,2
+Buena Vista,SL01 Storm Lake 01 City,County Auditor,,Write-In,,6,4,2
+Buena Vista,SL02 Storm Lake 02 City,County Auditor,,Write-In,,6,1,5
+Buena Vista,SL03,County Auditor,,Write-In,,5,3,2
+Buena Vista,SL04 Storm Lake 04 City,County Auditor,,Write-In,,7,5,2
+Buena Vista,BBLL,County Sheriff,,Kory Elston,REP,756,217,539
+Buena Vista,CFNP,County Sheriff,,Kory Elston,REP,1037,388,649
+Buena Vista,EMNS,County Sheriff,,Kory Elston,REP,1217,392,825
+Buena Vista,GHPW,County Sheriff,,Kory Elston,REP,974,568,406
+Buena Vista,SL01 Storm Lake 01 City,County Sheriff,,Kory Elston,REP,395,210,185
+Buena Vista,SL02 Storm Lake 02 City,County Sheriff,,Kory Elston,REP,217,100,117
+Buena Vista,SL03,County Sheriff,,Kory Elston,REP,765,422,343
+Buena Vista,SL04 Storm Lake 04 City,County Sheriff,,Kory Elston,REP,452,257,195
+Buena Vista,BBLL,County Sheriff,,Write-In,,6,0,6
+Buena Vista,CFNP,County Sheriff,,Write-In,,14,4,10
+Buena Vista,EMNS,County Sheriff,,Write-In,,14,3,11
+Buena Vista,GHPW,County Sheriff,,Write-In,,7,5,2
+Buena Vista,SL01 Storm Lake 01 City,County Sheriff,,Write-In,,8,6,2
+Buena Vista,SL02 Storm Lake 02 City,County Sheriff,,Write-In,,9,3,6
+Buena Vista,SL03,County Sheriff,,Write-In,,4,2,2
+Buena Vista,SL04 Storm Lake 04 City,County Sheriff,,Write-In,,7,5,2
+Buena Vista,BBLL,County Supervisor,4,Rhonda Ringgenberg,REP,697,202,495
+Buena Vista,CFNP,County Supervisor,4,Rhonda Ringgenberg,REP,1008,370,638
+Buena Vista,EMNS,County Supervisor,4,Rhonda Ringgenberg,REP,1119,353,766
+Buena Vista,GHPW,County Supervisor,4,Rhonda Ringgenberg,REP,893,506,387
+Buena Vista,SL01 Storm Lake 01 City,County Supervisor,4,Rhonda Ringgenberg,REP,402,213,189
+Buena Vista,SL02 Storm Lake 02 City,County Supervisor,4,Rhonda Ringgenberg,REP,200,88,112
+Buena Vista,SL03,County Supervisor,4,Rhonda Ringgenberg,REP,721,392,329
+Buena Vista,SL04 Storm Lake 04 City,County Supervisor,4,Rhonda Ringgenberg,REP,443,256,187
+Buena Vista,BBLL,County Supervisor,4,Write-In,,4,2,2
+Buena Vista,CFNP,County Supervisor,4,Write-In,,8,4,4
+Buena Vista,EMNS,County Supervisor,4,Write-In,,12,2,10
+Buena Vista,GHPW,County Supervisor,4,Write-In,,7,6,1
+Buena Vista,SL01 Storm Lake 01 City,County Supervisor,4,Write-In,,5,3,2
+Buena Vista,SL02 Storm Lake 02 City,County Supervisor,4,Write-In,,11,4,7
+Buena Vista,SL03,County Supervisor,4,Write-In,,7,4,3
+Buena Vista,SL04 Storm Lake 04 City,County Supervisor,4,Write-In,,12,8,4
+Buena Vista,BBLL,County Supervisor,5,Daniel J. Hartman,REP,679,191,488
+Buena Vista,CFNP,County Supervisor,5,Daniel J. Hartman,REP,983,361,622
+Buena Vista,EMNS,County Supervisor,5,Daniel J. Hartman,REP,1110,350,760
+Buena Vista,GHPW,County Supervisor,5,Daniel J. Hartman,REP,887,499,388
+Buena Vista,SL01 Storm Lake 01 City,County Supervisor,5,Daniel J. Hartman,REP,375,200,175
+Buena Vista,SL02 Storm Lake 02 City,County Supervisor,5,Daniel J. Hartman,REP,197,87,110
+Buena Vista,SL03,County Supervisor,5,Daniel J. Hartman,REP,718,389,329
+Buena Vista,SL04 Storm Lake 04 City,County Supervisor,5,Daniel J. Hartman,REP,434,242,192
+Buena Vista,BBLL,County Supervisor,5,Write-In,,3,0,3
+Buena Vista,CFNP,County Supervisor,5,Write-In,,7,3,4
+Buena Vista,EMNS,County Supervisor,5,Write-In,,11,2,9
+Buena Vista,GHPW,County Supervisor,5,Write-In,,11,7,4
+Buena Vista,SL01 Storm Lake 01 City,County Supervisor,5,Write-In,,7,4,3
+Buena Vista,SL02 Storm Lake 02 City,County Supervisor,5,Write-In,,9,2,7
+Buena Vista,SL03,County Supervisor,5,Write-In,,5,2,3
+Buena Vista,SL04 Storm Lake 04 City,County Supervisor,5,Write-In,,10,5,5
+Buena Vista,BBLL,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,135,39,96
+Buena Vista,CFNP,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,224,78,146
+Buena Vista,EMNS,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,238,63,175
+Buena Vista,GHPW,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,173,109,64
+Buena Vista,SL01 Storm Lake 01 City,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,52,20,32
+Buena Vista,SL02 Storm Lake 02 City,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,40,20,20
+Buena Vista,SL03,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,91,50,41
+Buena Vista,SL04 Storm Lake 04 City,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,81,50,31
+Buena Vista,BBLL,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,421,116,305
+Buena Vista,CFNP,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,599,216,383
+Buena Vista,EMNS,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,639,192,447
+Buena Vista,GHPW,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,440,276,164
+Buena Vista,SL01 Storm Lake 01 City,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,266,133,133
+Buena Vista,SL02 Storm Lake 02 City,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,136,55,81
+Buena Vista,SL03,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,444,243,201
+Buena Vista,SL04 Storm Lake 04 City,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,296,165,131
+Buena Vista,BBLL,Court of Appeals Judge - Mary Ellen Tabor,,No,,124,35,89
+Buena Vista,CFNP,Court of Appeals Judge - Mary Ellen Tabor,,No,,239,90,149
+Buena Vista,EMNS,Court of Appeals Judge - Mary Ellen Tabor,,No,,222,62,160
+Buena Vista,GHPW,Court of Appeals Judge - Mary Ellen Tabor,,No,,170,109,61
+Buena Vista,SL01 Storm Lake 01 City,Court of Appeals Judge - Mary Ellen Tabor,,No,,50,17,33
+Buena Vista,SL02 Storm Lake 02 City,Court of Appeals Judge - Mary Ellen Tabor,,No,,37,13,24
+Buena Vista,SL03,Court of Appeals Judge - Mary Ellen Tabor,,No,,80,41,39
+Buena Vista,SL04 Storm Lake 04 City,Court of Appeals Judge - Mary Ellen Tabor,,No,,70,42,28
+Buena Vista,BBLL,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,434,122,312
+Buena Vista,CFNP,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,589,207,382
+Buena Vista,EMNS,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,661,192,469
+Buena Vista,GHPW,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,455,281,174
+Buena Vista,SL01 Storm Lake 01 City,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,266,134,132
+Buena Vista,SL02 Storm Lake 02 City,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,133,59,74
+Buena Vista,SL03,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,462,255,207
+Buena Vista,SL04 Storm Lake 04 City,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,302,168,134
+Buena Vista,BBLL,Court of Appeals Judge - Samuel Langholz,,No,,147,46,101
+Buena Vista,CFNP,Court of Appeals Judge - Samuel Langholz,,No,,233,78,155
+Buena Vista,EMNS,Court of Appeals Judge - Samuel Langholz,,No,,229,71,158
+Buena Vista,GHPW,Court of Appeals Judge - Samuel Langholz,,No,,185,123,62
+Buena Vista,SL01 Storm Lake 01 City,Court of Appeals Judge - Samuel Langholz,,No,,72,34,38
+Buena Vista,SL02 Storm Lake 02 City,Court of Appeals Judge - Samuel Langholz,,No,,51,27,24
+Buena Vista,SL03,Court of Appeals Judge - Samuel Langholz,,No,,101,55,46
+Buena Vista,SL04 Storm Lake 04 City,Court of Appeals Judge - Samuel Langholz,,No,,104,64,40
+Buena Vista,BBLL,Court of Appeals Judge - Samuel Langholz,,Yes,,423,116,307
+Buena Vista,CFNP,Court of Appeals Judge - Samuel Langholz,,Yes,,598,216,382
+Buena Vista,EMNS,Court of Appeals Judge - Samuel Langholz,,Yes,,658,189,469
+Buena Vista,GHPW,Court of Appeals Judge - Samuel Langholz,,Yes,,441,269,172
+Buena Vista,SL01 Storm Lake 01 City,Court of Appeals Judge - Samuel Langholz,,Yes,,251,121,130
+Buena Vista,SL02 Storm Lake 02 City,Court of Appeals Judge - Samuel Langholz,,Yes,,130,52,78
+Buena Vista,SL03,Court of Appeals Judge - Samuel Langholz,,Yes,,444,243,201
+Buena Vista,SL04 Storm Lake 04 City,Court of Appeals Judge - Samuel Langholz,,Yes,,282,154,128
+Buena Vista,BBLL,Court of Appeals Judge - Tyler J. Buller,,No,,121,40,81
+Buena Vista,CFNP,Court of Appeals Judge - Tyler J. Buller,,No,,207,78,129
+Buena Vista,EMNS,Court of Appeals Judge - Tyler J. Buller,,No,,221,67,154
+Buena Vista,GHPW,Court of Appeals Judge - Tyler J. Buller,,No,,166,109,57
+Buena Vista,SL01 Storm Lake 01 City,Court of Appeals Judge - Tyler J. Buller,,No,,62,24,38
+Buena Vista,SL02 Storm Lake 02 City,Court of Appeals Judge - Tyler J. Buller,,No,,43,19,24
+Buena Vista,SL03,Court of Appeals Judge - Tyler J. Buller,,No,,93,50,43
+Buena Vista,SL04 Storm Lake 04 City,Court of Appeals Judge - Tyler J. Buller,,No,,84,52,32
+Buena Vista,BBLL,Court of Appeals Judge - Tyler J. Buller,,Yes,,441,114,327
+Buena Vista,CFNP,Court of Appeals Judge - Tyler J. Buller,,Yes,,606,209,397
+Buena Vista,EMNS,Court of Appeals Judge - Tyler J. Buller,,Yes,,654,185,469
+Buena Vista,GHPW,Court of Appeals Judge - Tyler J. Buller,,Yes,,447,274,173
+Buena Vista,SL01 Storm Lake 01 City,Court of Appeals Judge - Tyler J. Buller,,Yes,,246,123,123
+Buena Vista,SL02 Storm Lake 02 City,Court of Appeals Judge - Tyler J. Buller,,Yes,,131,55,76
+Buena Vista,SL03,Court of Appeals Judge - Tyler J. Buller,,Yes,,441,242,199
+Buena Vista,SL04 Storm Lake 04 City,Court of Appeals Judge - Tyler J. Buller,,Yes,,281,154,127
+Buena Vista,EMNS,Elk Township Trustee,,Craig A. Rehnstrom,,73,26,47
+Buena Vista,EMNS,Elk Township Trustee,,William G. Mattson,,79,27,52
+Buena Vista,EMNS,Elk Township Trustee,,Write-In,,1,1,0
+Buena Vista,CFNP,Fairfield Township Trustee,,James Peterson,,77,28,49
+Buena Vista,CFNP,Fairfield Township Trustee,,Robert Skog,,102,37,65
+Buena Vista,CFNP,Fairfield Township Trustee,,Write-In,,1,0,1
+Buena Vista,GHPW,Grant Township Trustee,,Bruce D. Richardson,,132,76,56
+Buena Vista,GHPW,Grant Township Trustee,,Dan P. Ehlers,,122,73,49
+Buena Vista,GHPW,Grant Township Trustee,,Write-In,,1,0,1
+Buena Vista,GHPW,Hayes Township Trustee,,Donald Jackson,,179,129,50
+Buena Vista,SL03,Hayes Township Trustee,,Donald Jackson,,6,4,2
+Buena Vista,GHPW,Hayes Township Trustee,,James Foell,,211,151,60
+Buena Vista,SL03,Hayes Township Trustee,,James Foell,,12,9,3
+Buena Vista,GHPW,Hayes Township Trustee,,Write-In,,7,0,7
+Buena Vista,SL03,Hayes Township Trustee,,Write-In,,0,0,0
+Buena Vista,BBLL,Lee Township Trustee,,Doyle Anderson,,2,0,2
+Buena Vista,BBLL,Lee Township Trustee,,Kale Glover,,2,2,0
+Buena Vista,BBLL,Lee Township Trustee,,Write-In,,14,3,11
+Buena Vista,BBLL,Lee Township Trustee To Fill a Vacancy,,David Miller,,1,0,1
+Buena Vista,BBLL,Lee Township Trustee To Fill a Vacancy,,Doyle Anderson,,1,0,1
+Buena Vista,BBLL,Lee Township Trustee To Fill a Vacancy,,Loren Anderson,,1,0,1
+Buena Vista,BBLL,Lee Township Trustee To Fill a Vacancy,,Nicole Glover,,1,1,0
+Buena Vista,BBLL,Lee Township Trustee To Fill a Vacancy,,Write-In,,4,0,4
+Buena Vista,BBLL,Lincoln Township Trustee,,Edwin Madsen,,8,0,8
+Buena Vista,BBLL,Lincoln Township Trustee,,Ronald F. Madsen,,77,45,32
+Buena Vista,BBLL,Lincoln Township Trustee,,Write-In,,2,1,1
+Buena Vista,EMNS,Maple Valley Township Trustee,,Carey Hinkeldey,,108,47,61
+Buena Vista,EMNS,Maple Valley Township Trustee,,Richard Marshall,,9,4,5
+Buena Vista,EMNS,Maple Valley Township Trustee,,Write-In,,5,2,3
+Buena Vista,CFNP,Newell Township Trustee,,James Tuttle,,98,63,35
+Buena Vista,CFNP,Newell Township Trustee,,Tom Olsen,,89,54,35
+Buena Vista,CFNP,Newell Township Trustee,,Write-In,,1,0,1
+Buena Vista,CFNP,Newell Township Trustee To Fill a Vacancy,,Aaron Nieland,,1,1,0
+Buena Vista,CFNP,Newell Township Trustee To Fill a Vacancy,,Brad Mahler,,1,1,0
+Buena Vista,CFNP,Newell Township Trustee To Fill a Vacancy,,Gary Morenz,,1,0,1
+Buena Vista,CFNP,Newell Township Trustee To Fill a Vacancy,,James Tuttle,,1,1,0
+Buena Vista,CFNP,Newell Township Trustee To Fill a Vacancy,,Kirk Brown,,1,0,1
+Buena Vista,CFNP,Newell Township Trustee To Fill a Vacancy,,Rod Rasmussen,,1,1,0
+Buena Vista,CFNP,Newell Township Trustee To Fill a Vacancy,,Write-In,,2,1,1
+Buena Vista,EMNS,Nokomis Township Clerk To Fill a Vacancy,,Megan Peterson,,144,51,93
+Buena Vista,EMNS,Nokomis Township Clerk To Fill a Vacancy,,Write-In,,1,0,1
+Buena Vista,EMNS,Nokomis Township Trustee,,Adam Friedrichsen,,3,1,2
+Buena Vista,EMNS,Nokomis Township Trustee,,Brian Nepple,,152,55,97
+Buena Vista,EMNS,Nokomis Township Trustee,,Write-In,,2,1,1
+Buena Vista,CFNP,Poland Township Trustee,,Joel Nagel,,71,29,42
+Buena Vista,CFNP,Poland Township Trustee,,Larry Erickson,,75,29,46
+Buena Vista,CFNP,Poland Township Trustee,,Write-In,,1,1,0
+Buena Vista,BBLL,President,,Chase Oliver and Mike ter Maat,LIB,4,1,3
+Buena Vista,CFNP,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Buena Vista,EMNS,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Buena Vista,GHPW,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Buena Vista,SL01 Storm Lake 01 City,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Buena Vista,SL02 Storm Lake 02 City,President,,Chase Oliver and Mike ter Maat,LIB,2,1,1
+Buena Vista,SL03,President,,Chase Oliver and Mike ter Maat,LIB,4,1,3
+Buena Vista,SL04 Storm Lake 04 City,President,,Chase Oliver and Mike ter Maat,LIB,4,0,4
+Buena Vista,BBLL,President,,Claudia De la Cruz and Karina Garcia,PSL,1,1,0
+Buena Vista,CFNP,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Buena Vista,EMNS,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Buena Vista,GHPW,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Buena Vista,SL01 Storm Lake 01 City,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Buena Vista,SL02 Storm Lake 02 City,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Buena Vista,SL03,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Buena Vista,SL04 Storm Lake 04 City,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Buena Vista,BBLL,President,,Donald J. Trump and JD Vance,REP,691,191,500
+Buena Vista,CFNP,President,,Donald J. Trump and JD Vance,REP,986,366,620
+Buena Vista,EMNS,President,,Donald J. Trump and JD Vance,REP,1026,311,715
+Buena Vista,GHPW,President,,Donald J. Trump and JD Vance,REP,823,457,366
+Buena Vista,SL01 Storm Lake 01 City,President,,Donald J. Trump and JD Vance,REP,334,170,164
+Buena Vista,SL02 Storm Lake 02 City,President,,Donald J. Trump and JD Vance,REP,147,72,75
+Buena Vista,SL03,President,,Donald J. Trump and JD Vance,REP,573,308,265
+Buena Vista,SL04 Storm Lake 04 City,President,,Donald J. Trump and JD Vance,REP,382,201,181
+Buena Vista,BBLL,President,,Kamala D. Harris and Tim Walz,DEM,202,87,115
+Buena Vista,CFNP,President,,Kamala D. Harris and Tim Walz,DEM,225,99,126
+Buena Vista,EMNS,President,,Kamala D. Harris and Tim Walz,DEM,358,153,205
+Buena Vista,GHPW,President,,Kamala D. Harris and Tim Walz,DEM,338,217,121
+Buena Vista,SL01 Storm Lake 01 City,President,,Kamala D. Harris and Tim Walz,DEM,375,176,199
+Buena Vista,SL02 Storm Lake 02 City,President,,Kamala D. Harris and Tim Walz,DEM,190,80,110
+Buena Vista,SL03,President,,Kamala D. Harris and Tim Walz,DEM,411,222,189
+Buena Vista,SL04 Storm Lake 04 City,President,,Kamala D. Harris and Tim Walz,DEM,363,188,175
+Buena Vista,BBLL,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,2,8
+Buena Vista,CFNP,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,8,2,6
+Buena Vista,EMNS,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,2,8
+Buena Vista,GHPW,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,8,6,2
+Buena Vista,SL01 Storm Lake 01 City,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,8,2,6
+Buena Vista,SL02 Storm Lake 02 City,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,2,1,1
+Buena Vista,SL03,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,2,2
+Buena Vista,SL04 Storm Lake 04 City,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,2,4
+Buena Vista,BBLL,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Buena Vista,CFNP,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Buena Vista,EMNS,President,,Shiva Ayyadurai and Crystal Ellis,,1,1,0
+Buena Vista,GHPW,President,,Shiva Ayyadurai and Crystal Ellis,,1,1,0
+Buena Vista,SL01 Storm Lake 01 City,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Buena Vista,SL02 Storm Lake 02 City,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Buena Vista,SL03,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Buena Vista,SL04 Storm Lake 04 City,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Buena Vista,BBLL,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Buena Vista,CFNP,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Buena Vista,EMNS,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,0,1
+Buena Vista,GHPW,President,,William P. Stodden and Stephanie H. Cholensky,SOC,3,0,3
+Buena Vista,SL01 Storm Lake 01 City,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Buena Vista,SL02 Storm Lake 02 City,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,1,0
+Buena Vista,SL03,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,0,1
+Buena Vista,SL04 Storm Lake 04 City,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Buena Vista,BBLL,President,,Write-In,,5,0,5
+Buena Vista,CFNP,President,,Write-In,,3,1,2
+Buena Vista,EMNS,President,,Write-In,,2,0,2
+Buena Vista,GHPW,President,,Write-In,,4,3,1
+Buena Vista,SL01 Storm Lake 01 City,President,,Write-In,,0,0,0
+Buena Vista,SL02 Storm Lake 02 City,President,,Write-In,,1,0,1
+Buena Vista,SL03,President,,Write-In,,5,1,4
+Buena Vista,SL04 Storm Lake 04 City,President,,Write-In,,1,1,0
+Buena Vista,GHPW,Providence Township Trustee,,DM McKenna,,1,0,1
+Buena Vista,GHPW,Providence Township Trustee,,Devin Miller,,1,1,0
+Buena Vista,GHPW,Providence Township Trustee,,Donald Hansen,,1,1,0
+Buena Vista,GHPW,Providence Township Trustee,,Josh Macennea,,1,0,1
+Buena Vista,GHPW,Providence Township Trustee,,Larry Lucht,,1,0,1
+Buena Vista,GHPW,Providence Township Trustee,,Quentin Bodholdt,,110,55,55
+Buena Vista,GHPW,Providence Township Trustee,,Tom Richter,,1,0,1
+Buena Vista,GHPW,Providence Township Trustee,,Write-In,,0,0,0
+Buena Vista,GHPW,Providence Township Trustee To Fill a Vacancy,,Bill Laven,,1,1,0
+Buena Vista,GHPW,Providence Township Trustee To Fill a Vacancy,,Brian Burke,,1,0,1
+Buena Vista,GHPW,Providence Township Trustee To Fill a Vacancy,,Devin Miller,,1,1,0
+Buena Vista,GHPW,Providence Township Trustee To Fill a Vacancy,,Heather Lucht,,1,0,1
+Buena Vista,GHPW,Providence Township Trustee To Fill a Vacancy,,Randy Sennert,,1,1,0
+Buena Vista,GHPW,Providence Township Trustee To Fill a Vacancy,,Write-In,,2,1,1
+Buena Vista,EMNS,Scott Township Trustee,,Allen Halverson,,2,0,2
+Buena Vista,EMNS,Scott Township Trustee,,Erik Morrow,,2,0,2
+Buena Vista,EMNS,Scott Township Trustee,,Trent Hatlen,,6,2,4
+Buena Vista,EMNS,Scott Township Trustee,,Write-In,,5,3,2
+Buena Vista,BBLL,Soil and Water Conservation District Commissioner,,Kristopher Ehlers,,520,153,367
+Buena Vista,CFNP,Soil and Water Conservation District Commissioner,,Kristopher Ehlers,,724,282,442
+Buena Vista,EMNS,Soil and Water Conservation District Commissioner,,Kristopher Ehlers,,784,254,530
+Buena Vista,GHPW,Soil and Water Conservation District Commissioner,,Kristopher Ehlers,,614,363,251
+Buena Vista,SL01 Storm Lake 01 City,Soil and Water Conservation District Commissioner,,Kristopher Ehlers,,230,117,113
+Buena Vista,SL02 Storm Lake 02 City,Soil and Water Conservation District Commissioner,,Kristopher Ehlers,,118,57,61
+Buena Vista,SL03,Soil and Water Conservation District Commissioner,,Kristopher Ehlers,,486,272,214
+Buena Vista,SL04 Storm Lake 04 City,Soil and Water Conservation District Commissioner,,Kristopher Ehlers,,299,167,132
+Buena Vista,BBLL,Soil and Water Conservation District Commissioner,,Mitchell Hogrefe,,540,157,383
+Buena Vista,CFNP,Soil and Water Conservation District Commissioner,,Mitchell Hogrefe,,794,315,479
+Buena Vista,EMNS,Soil and Water Conservation District Commissioner,,Mitchell Hogrefe,,836,263,573
+Buena Vista,GHPW,Soil and Water Conservation District Commissioner,,Mitchell Hogrefe,,691,402,289
+Buena Vista,SL01 Storm Lake 01 City,Soil and Water Conservation District Commissioner,,Mitchell Hogrefe,,259,136,123
+Buena Vista,SL02 Storm Lake 02 City,Soil and Water Conservation District Commissioner,,Mitchell Hogrefe,,133,59,74
+Buena Vista,SL03,Soil and Water Conservation District Commissioner,,Mitchell Hogrefe,,533,296,237
+Buena Vista,SL04 Storm Lake 04 City,Soil and Water Conservation District Commissioner,,Mitchell Hogrefe,,315,180,135
+Buena Vista,BBLL,Soil and Water Conservation District Commissioner,,Wade Nehring,,489,146,343
+Buena Vista,CFNP,Soil and Water Conservation District Commissioner,,Wade Nehring,,761,297,464
+Buena Vista,EMNS,Soil and Water Conservation District Commissioner,,Wade Nehring,,798,260,538
+Buena Vista,GHPW,Soil and Water Conservation District Commissioner,,Wade Nehring,,645,381,264
+Buena Vista,SL01 Storm Lake 01 City,Soil and Water Conservation District Commissioner,,Wade Nehring,,224,122,102
+Buena Vista,SL02 Storm Lake 02 City,Soil and Water Conservation District Commissioner,,Wade Nehring,,109,54,55
+Buena Vista,SL03,Soil and Water Conservation District Commissioner,,Wade Nehring,,491,279,212
+Buena Vista,SL04 Storm Lake 04 City,Soil and Water Conservation District Commissioner,,Wade Nehring,,279,161,118
+Buena Vista,BBLL,Soil and Water Conservation District Commissioner,,Write-In,,4,2,2
+Buena Vista,CFNP,Soil and Water Conservation District Commissioner,,Write-In,,4,2,2
+Buena Vista,EMNS,Soil and Water Conservation District Commissioner,,Write-In,,6,3,3
+Buena Vista,GHPW,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Buena Vista,SL01 Storm Lake 01 City,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
+Buena Vista,SL02 Storm Lake 02 City,Soil and Water Conservation District Commissioner,,Write-In,,3,3,0
+Buena Vista,SL03,Soil and Water Conservation District Commissioner,,Write-In,,5,2,3
+Buena Vista,SL04 Storm Lake 04 City,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Buena Vista,BBLL,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Robert R. Donahoo,,657,183,474
+Buena Vista,CFNP,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Robert R. Donahoo,,842,287,555
+Buena Vista,EMNS,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Robert R. Donahoo,,1002,300,702
+Buena Vista,GHPW,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Robert R. Donahoo,,723,409,314
+Buena Vista,SL01 Storm Lake 01 City,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Robert R. Donahoo,,298,150,148
+Buena Vista,SL02 Storm Lake 02 City,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Robert R. Donahoo,,169,75,94
+Buena Vista,SL03,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Robert R. Donahoo,,569,310,259
+Buena Vista,SL04 Storm Lake 04 City,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Robert R. Donahoo,,355,197,158
+Buena Vista,BBLL,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,1,0,1
+Buena Vista,CFNP,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,6,4,2
+Buena Vista,EMNS,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,6,0,6
+Buena Vista,GHPW,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,2,1,1
+Buena Vista,SL01 Storm Lake 01 City,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,2,1,1
+Buena Vista,SL02 Storm Lake 02 City,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,2,0,2
+Buena Vista,SL03,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,0,0,0
+Buena Vista,SL04 Storm Lake 04 City,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,2,0,2
+Buena Vista,EMNS,State House,5,Michael Schnoes,,308,97,211
+Buena Vista,EMNS,State House,5,Write-In,,3,1,2
+Buena Vista,EMNS,State House,5,Zachary M. Dieken,REP,852,257,595
+Buena Vista,BBLL,State House,6,Megan Jones,REP,722,210,512
+Buena Vista,CFNP,State House,6,Megan Jones,REP,990,370,620
+Buena Vista,GHPW,State House,6,Megan Jones,REP,853,487,366
+Buena Vista,SL01 Storm Lake 01 City,State House,6,Megan Jones,REP,370,196,174
+Buena Vista,SL02 Storm Lake 02 City,State House,6,Megan Jones,REP,194,88,106
+Buena Vista,SL03,State House,6,Megan Jones,REP,677,364,313
+Buena Vista,SL04 Storm Lake 04 City,State House,6,Megan Jones,REP,410,225,185
+Buena Vista,BBLL,State House,6,Write-In,,14,6,8
+Buena Vista,CFNP,State House,6,Write-In,,14,5,9
+Buena Vista,GHPW,State House,6,Write-In,,23,11,12
+Buena Vista,SL01 Storm Lake 01 City,State House,6,Write-In,,5,3,2
+Buena Vista,SL02 Storm Lake 02 City,State House,6,Write-In,,7,3,4
+Buena Vista,SL03,State House,6,Write-In,,8,4,4
+Buena Vista,SL04 Storm Lake 04 City,State House,6,Write-In,,18,11,7
+Buena Vista,BBLL,Supreme Court Justice - David May,,No,,131,46,85
+Buena Vista,CFNP,Supreme Court Justice - David May,,No,,212,74,138
+Buena Vista,EMNS,Supreme Court Justice - David May,,No,,232,83,149
+Buena Vista,GHPW,Supreme Court Justice - David May,,No,,208,146,62
+Buena Vista,SL01 Storm Lake 01 City,Supreme Court Justice - David May,,No,,79,35,44
+Buena Vista,SL02 Storm Lake 02 City,Supreme Court Justice - David May,,No,,61,31,30
+Buena Vista,SL03,Supreme Court Justice - David May,,No,,131,78,53
+Buena Vista,SL04 Storm Lake 04 City,Supreme Court Justice - David May,,No,,128,75,53
+Buena Vista,BBLL,Supreme Court Justice - David May,,Yes,,475,125,350
+Buena Vista,CFNP,Supreme Court Justice - David May,,Yes,,647,223,424
+Buena Vista,EMNS,Supreme Court Justice - David May,,Yes,,712,197,515
+Buena Vista,GHPW,Supreme Court Justice - David May,,Yes,,469,276,193
+Buena Vista,SL01 Storm Lake 01 City,Supreme Court Justice - David May,,Yes,,281,138,143
+Buena Vista,SL02 Storm Lake 02 City,Supreme Court Justice - David May,,Yes,,143,62,81
+Buena Vista,SL03,Supreme Court Justice - David May,,Yes,,463,244,219
+Buena Vista,SL04 Storm Lake 04 City,Supreme Court Justice - David May,,Yes,,292,156,136
+Buena Vista,BBLL,U.S. House,4,Randy Feenstra,REP,651,186,465
+Buena Vista,CFNP,U.S. House,4,Randy Feenstra,REP,918,338,580
+Buena Vista,EMNS,U.S. House,4,Randy Feenstra,REP,977,301,676
+Buena Vista,GHPW,U.S. House,4,Randy Feenstra,REP,797,444,353
+Buena Vista,SL01 Storm Lake 01 City,U.S. House,4,Randy Feenstra,REP,285,154,131
+Buena Vista,SL02 Storm Lake 02 City,U.S. House,4,Randy Feenstra,REP,138,67,71
+Buena Vista,SL03,U.S. House,4,Randy Feenstra,REP,557,312,245
+Buena Vista,SL04 Storm Lake 04 City,U.S. House,4,Randy Feenstra,REP,312,164,148
+Buena Vista,BBLL,U.S. House,4,Ryan Melton,DEM,196,77,119
+Buena Vista,CFNP,U.S. House,4,Ryan Melton,DEM,245,107,138
+Buena Vista,EMNS,U.S. House,4,Ryan Melton,DEM,340,139,201
+Buena Vista,GHPW,U.S. House,4,Ryan Melton,DEM,305,201,104
+Buena Vista,SL01 Storm Lake 01 City,U.S. House,4,Ryan Melton,DEM,294,137,157
+Buena Vista,SL02 Storm Lake 02 City,U.S. House,4,Ryan Melton,DEM,153,69,84
+Buena Vista,SL03,U.S. House,4,Ryan Melton,DEM,361,194,167
+Buena Vista,SL04 Storm Lake 04 City,U.S. House,4,Ryan Melton,DEM,315,182,133
+Buena Vista,BBLL,U.S. House,4,Write-In,,11,5,6
+Buena Vista,CFNP,U.S. House,4,Write-In,,4,4,0
+Buena Vista,EMNS,U.S. House,4,Write-In,,6,3,3
+Buena Vista,GHPW,U.S. House,4,Write-In,,1,0,1
+Buena Vista,SL01 Storm Lake 01 City,U.S. House,4,Write-In,,1,1,0
+Buena Vista,SL02 Storm Lake 02 City,U.S. House,4,Write-In,,1,0,1
+Buena Vista,SL03,U.S. House,4,Write-In,,0,0,0
+Buena Vista,SL04 Storm Lake 04 City,U.S. House,4,Write-In,,2,0,2
+Buena Vista,GHPW,Washington Township Trustee,,David Merten,,170,100,70
+Buena Vista,GHPW,Washington Township Trustee,,Robert Hartje,,134,81,53
+Buena Vista,GHPW,Washington Township Trustee,,Write-In,,2,0,2

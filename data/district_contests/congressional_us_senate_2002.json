@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2002,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "us_senate",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2002_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 142145,
+        "rep_votes": 103902,
+        "other_votes": 5882,
+        "total_votes": 251929,
+        "dem_candidate": "Tom Harkin",
+        "rep_candidate": "Greg Ganske",
+        "margin": -38243,
+        "margin_pct": -15.180070575439904,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "2": {
+        "dem_votes": 152416,
+        "rep_votes": 113301,
+        "other_votes": 5769,
+        "total_votes": 271486,
+        "dem_candidate": "Tom Harkin",
+        "rep_candidate": "Greg Ganske",
+        "margin": -39115,
+        "margin_pct": -14.40774109898853,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "3": {
+        "dem_votes": 129636,
+        "rep_votes": 103101,
+        "other_votes": 4008,
+        "total_votes": 236745,
+        "dem_candidate": "Tom Harkin",
+        "rep_candidate": "Greg Ganske",
+        "margin": -26535,
+        "margin_pct": -11.208262054108852,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "4": {
+        "dem_votes": 130081,
+        "rep_votes": 127588,
+        "other_votes": 5246,
+        "total_votes": 262915,
+        "dem_candidate": "Tom Harkin",
+        "rep_candidate": "Greg Ganske",
+        "margin": -2493,
+        "margin_pct": -0.9482152026320294,
+        "winner": "DEM",
+        "color": "#c7ddf0"
+      }
+    }
+  }
+}

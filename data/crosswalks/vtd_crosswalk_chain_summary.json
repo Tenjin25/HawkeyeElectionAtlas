@@ -1,0 +1,116 @@
+{
+  "inputs": {
+    "vtd00_archives": 99,
+    "vtd00": 2885,
+    "vtd10": 2525,
+    "vtd20": 2536,
+    "plan2": "data\\census\\IA_ProposedPlan2_Oct2021.zip"
+  },
+  "pairs": {
+    "00_to_10": {
+      "source_vtds": 2885,
+      "target_vtds": 2525,
+      "links": 6240,
+      "unmatched_source_vtds": 0,
+      "mean_source_coverage": 0.9999994647368976,
+      "min_source_coverage": 0.9993311975450614
+    },
+    "10_to_20": {
+      "source_vtds": 2525,
+      "target_vtds": 2536,
+      "links": 7319,
+      "unmatched_source_vtds": 0,
+      "mean_source_coverage": 0.9999638819790614,
+      "min_source_coverage": 0.9365999256690669
+    },
+    "00_to_20_chain_links": 14529,
+    "plan2": {
+      "00_to_congressional": {
+        "source_vtds": 2885,
+        "target_vtds": 4,
+        "links": 3072,
+        "unmatched_source_vtds": 0,
+        "mean_source_coverage": 0.9999693244397895,
+        "min_source_coverage": 0.9387941129759864
+      },
+      "10_to_congressional": {
+        "source_vtds": 2525,
+        "target_vtds": 4,
+        "links": 2638,
+        "unmatched_source_vtds": 0,
+        "mean_source_coverage": 0.9999638819790576,
+        "min_source_coverage": 0.9365999256687323
+      },
+      "20_to_congressional": {
+        "source_vtds": 2536,
+        "target_vtds": 4,
+        "links": 2536,
+        "unmatched_source_vtds": 0,
+        "mean_source_coverage": 0.9999999999999966,
+        "min_source_coverage": 0.9999999999993916
+      },
+      "00_to_house": {
+        "source_vtds": 2885,
+        "target_vtds": 100,
+        "links": 4140,
+        "unmatched_source_vtds": 0,
+        "mean_source_coverage": 0.9999693244397896,
+        "min_source_coverage": 0.938794112975986
+      },
+      "10_to_house": {
+        "source_vtds": 2525,
+        "target_vtds": 100,
+        "links": 3465,
+        "unmatched_source_vtds": 0,
+        "mean_source_coverage": 0.999963881979059,
+        "min_source_coverage": 0.9365999256687316
+      },
+      "20_to_house": {
+        "source_vtds": 2536,
+        "target_vtds": 100,
+        "links": 2570,
+        "unmatched_source_vtds": 0,
+        "mean_source_coverage": 0.9999999999999971,
+        "min_source_coverage": 0.9999999999993916
+      },
+      "00_to_senate": {
+        "source_vtds": 2885,
+        "target_vtds": 50,
+        "links": 3729,
+        "unmatched_source_vtds": 0,
+        "mean_source_coverage": 0.9999693244397898,
+        "min_source_coverage": 0.9387941129759864
+      },
+      "10_to_senate": {
+        "source_vtds": 2525,
+        "target_vtds": 50,
+        "links": 3171,
+        "unmatched_source_vtds": 0,
+        "mean_source_coverage": 0.9999638819790583,
+        "min_source_coverage": 0.9365999256687323
+      },
+      "20_to_senate": {
+        "source_vtds": 2536,
+        "target_vtds": 50,
+        "links": 2559,
+        "unmatched_source_vtds": 0,
+        "mean_source_coverage": 0.9999999999999968,
+        "min_source_coverage": 0.9999999999993916
+      }
+    }
+  },
+  "outputs": [
+    "data\\crosswalks\\vtd00_to_vtd10.csv",
+    "data\\crosswalks\\vtd10_to_vtd20.csv",
+    "data\\crosswalks\\vtd00_to_vtd20_chain.csv",
+    "data\\crosswalks\\vtd00_to_plan2_congressional.csv",
+    "data\\crosswalks\\vtd00_to_plan2_house.csv",
+    "data\\crosswalks\\vtd00_to_plan2_senate.csv",
+    "data\\crosswalks\\vtd10_to_plan2_congressional.csv",
+    "data\\crosswalks\\vtd10_to_plan2_house.csv",
+    "data\\crosswalks\\vtd10_to_plan2_senate.csv",
+    "data\\crosswalks\\vtd20_to_plan2_congressional.csv",
+    "data\\crosswalks\\vtd20_to_plan2_house.csv",
+    "data\\crosswalks\\vtd20_to_plan2_senate.csv"
+  ]
+}

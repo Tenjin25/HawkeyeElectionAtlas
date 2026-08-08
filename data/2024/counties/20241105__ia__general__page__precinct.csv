@@ -1,0 +1,521 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Page,Page County Courthouse 2,Amity Township - Public Measure C,,No,,38,21,17
+Page,Page County Courthouse 2,Amity Township - Public Measure C,,Yes,,45,18,27
+Page,Page County Courthouse 2,Amity Township Trustee,,Jacob Holmes,,6,0,6
+Page,Page County Courthouse 2,Amity Township Trustee,,Tyler Slough,,3,1,2
+Page,Page County Courthouse 2,Amity Township Trustee,,Write-In,,13,7,6
+Page,Page County Courthouse 2,Buchanan Township - Public Measure D,,No,,40,21,19
+Page,Page County Courthouse 2,Buchanan Township - Public Measure D,,Yes,,20,11,9
+Page,Page County Courthouse 2,Buchanan Township Trustee,,Ed Burch,,47,30,17
+Page,Page County Courthouse 2,Buchanan Township Trustee,,M. Scott Davison,,62,35,27
+Page,Page County Courthouse 2,Buchanan Township Trustee,,Write-In,,1,1,0
+Page,Clarinda 1,Constitutional Amendment 1,,No,,150,76,74
+Page,Clarinda 2,Constitutional Amendment 1,,No,,253,102,151
+Page,Essex City Hall,Constitutional Amendment 1,,No,,106,28,78
+Page,Page County Courthouse 1,Constitutional Amendment 1,,No,,117,69,48
+Page,Page County Courthouse 2,Constitutional Amendment 1,,No,,177,93,84
+Page,Shenandoah 1,Constitutional Amendment 1,,No,,112,22,90
+Page,Shenandoah 2,Constitutional Amendment 1,,No,,143,36,107
+Page,Shenandoah 3,Constitutional Amendment 1,,No,,160,42,118
+Page,Shenandoah Fire Station,Constitutional Amendment 1,,No,,147,59,88
+Page,Clarinda 1,Constitutional Amendment 1,,Yes,,617,250,367
+Page,Clarinda 2,Constitutional Amendment 1,,Yes,,927,415,512
+Page,Essex City Hall,Constitutional Amendment 1,,Yes,,464,95,369
+Page,Page County Courthouse 1,Constitutional Amendment 1,,Yes,,488,240,248
+Page,Page County Courthouse 2,Constitutional Amendment 1,,Yes,,610,326,284
+Page,Shenandoah 1,Constitutional Amendment 1,,Yes,,450,87,363
+Page,Shenandoah 2,Constitutional Amendment 1,,Yes,,607,166,441
+Page,Shenandoah 3,Constitutional Amendment 1,,Yes,,668,201,467
+Page,Shenandoah Fire Station,Constitutional Amendment 1,,Yes,,551,186,365
+Page,Clarinda 1,Constitutional Amendment 2,,No,,90,36,54
+Page,Clarinda 2,Constitutional Amendment 2,,No,,175,72,103
+Page,Essex City Hall,Constitutional Amendment 2,,No,,65,15,50
+Page,Page County Courthouse 1,Constitutional Amendment 2,,No,,66,39,27
+Page,Page County Courthouse 2,Constitutional Amendment 2,,No,,101,55,46
+Page,Shenandoah 1,Constitutional Amendment 2,,No,,71,12,59
+Page,Shenandoah 2,Constitutional Amendment 2,,No,,89,23,66
+Page,Shenandoah 3,Constitutional Amendment 2,,No,,112,25,87
+Page,Shenandoah Fire Station,Constitutional Amendment 2,,No,,62,27,35
+Page,Clarinda 1,Constitutional Amendment 2,,Yes,,659,280,379
+Page,Clarinda 2,Constitutional Amendment 2,,Yes,,994,439,555
+Page,Essex City Hall,Constitutional Amendment 2,,Yes,,493,105,388
+Page,Page County Courthouse 1,Constitutional Amendment 2,,Yes,,517,254,263
+Page,Page County Courthouse 2,Constitutional Amendment 2,,Yes,,679,362,317
+Page,Shenandoah 1,Constitutional Amendment 2,,Yes,,482,94,388
+Page,Shenandoah 2,Constitutional Amendment 2,,Yes,,654,180,474
+Page,Shenandoah 3,Constitutional Amendment 2,,Yes,,707,217,490
+Page,Shenandoah Fire Station,Constitutional Amendment 2,,Yes,,620,211,409
+Page,Clarinda 1,County Agricultural Extension Council Member,,Jacob Bryant,,447,179,268
+Page,Clarinda 2,County Agricultural Extension Council Member,,Jacob Bryant,,654,294,360
+Page,Essex City Hall,County Agricultural Extension Council Member,,Jacob Bryant,,352,73,279
+Page,Page County Courthouse 1,County Agricultural Extension Council Member,,Jacob Bryant,,345,167,178
+Page,Page County Courthouse 2,County Agricultural Extension Council Member,,Jacob Bryant,,520,266,254
+Page,Shenandoah 1,County Agricultural Extension Council Member,,Jacob Bryant,,301,59,242
+Page,Shenandoah 2,County Agricultural Extension Council Member,,Jacob Bryant,,408,105,303
+Page,Shenandoah 3,County Agricultural Extension Council Member,,Jacob Bryant,,493,140,353
+Page,Shenandoah Fire Station,County Agricultural Extension Council Member,,Jacob Bryant,,415,136,279
+Page,Clarinda 1,County Agricultural Extension Council Member,,Jamie L. Fowler,,434,173,261
+Page,Clarinda 2,County Agricultural Extension Council Member,,Jamie L. Fowler,,624,281,343
+Page,Essex City Hall,County Agricultural Extension Council Member,,Jamie L. Fowler,,329,78,251
+Page,Page County Courthouse 1,County Agricultural Extension Council Member,,Jamie L. Fowler,,321,151,170
+Page,Page County Courthouse 2,County Agricultural Extension Council Member,,Jamie L. Fowler,,404,204,200
+Page,Shenandoah 1,County Agricultural Extension Council Member,,Jamie L. Fowler,,308,65,243
+Page,Shenandoah 2,County Agricultural Extension Council Member,,Jamie L. Fowler,,422,113,309
+Page,Shenandoah 3,County Agricultural Extension Council Member,,Jamie L. Fowler,,496,137,359
+Page,Shenandoah Fire Station,County Agricultural Extension Council Member,,Jamie L. Fowler,,394,136,258
+Page,Clarinda 1,County Agricultural Extension Council Member,,Justin Wallick,,460,188,272
+Page,Clarinda 2,County Agricultural Extension Council Member,,Justin Wallick,,658,309,349
+Page,Essex City Hall,County Agricultural Extension Council Member,,Justin Wallick,,331,78,253
+Page,Page County Courthouse 1,County Agricultural Extension Council Member,,Justin Wallick,,401,195,206
+Page,Page County Courthouse 2,County Agricultural Extension Council Member,,Justin Wallick,,464,236,228
+Page,Shenandoah 1,County Agricultural Extension Council Member,,Justin Wallick,,272,55,217
+Page,Shenandoah 2,County Agricultural Extension Council Member,,Justin Wallick,,375,104,271
+Page,Shenandoah 3,County Agricultural Extension Council Member,,Justin Wallick,,467,130,337
+Page,Shenandoah Fire Station,County Agricultural Extension Council Member,,Justin Wallick,,389,137,252
+Page,Clarinda 1,County Agricultural Extension Council Member,,Kristin Marriott,,472,184,288
+Page,Clarinda 2,County Agricultural Extension Council Member,,Kristin Marriott,,697,311,386
+Page,Essex City Hall,County Agricultural Extension Council Member,,Kristin Marriott,,356,79,277
+Page,Page County Courthouse 1,County Agricultural Extension Council Member,,Kristin Marriott,,341,164,177
+Page,Page County Courthouse 2,County Agricultural Extension Council Member,,Kristin Marriott,,495,251,244
+Page,Shenandoah 1,County Agricultural Extension Council Member,,Kristin Marriott,,309,63,246
+Page,Shenandoah 2,County Agricultural Extension Council Member,,Kristin Marriott,,427,105,322
+Page,Shenandoah 3,County Agricultural Extension Council Member,,Kristin Marriott,,481,139,342
+Page,Shenandoah Fire Station,County Agricultural Extension Council Member,,Kristin Marriott,,419,145,274
+Page,Clarinda 1,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Page,Clarinda 2,County Agricultural Extension Council Member,,Write-In,,5,2,3
+Page,Essex City Hall,County Agricultural Extension Council Member,,Write-In,,12,1,11
+Page,Page County Courthouse 1,County Agricultural Extension Council Member,,Write-In,,4,0,4
+Page,Page County Courthouse 2,County Agricultural Extension Council Member,,Write-In,,9,7,2
+Page,Shenandoah 1,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Page,Shenandoah 2,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Page,Shenandoah 3,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Page,Shenandoah Fire Station,County Agricultural Extension Council Member,,Write-In,,4,3,1
+Page,Clarinda 1,County Auditor,,Melissa Wellhausen,REP,568,227,341
+Page,Clarinda 2,County Auditor,,Melissa Wellhausen,REP,887,388,499
+Page,Essex City Hall,County Auditor,,Melissa Wellhausen,REP,456,101,355
+Page,Page County Courthouse 1,County Auditor,,Melissa Wellhausen,REP,414,215,199
+Page,Page County Courthouse 2,County Auditor,,Melissa Wellhausen,REP,590,303,287
+Page,Shenandoah 1,County Auditor,,Melissa Wellhausen,REP,487,86,401
+Page,Shenandoah 2,County Auditor,,Melissa Wellhausen,REP,599,155,444
+Page,Shenandoah 3,County Auditor,,Melissa Wellhausen,REP,709,206,503
+Page,Shenandoah Fire Station,County Auditor,,Melissa Wellhausen,REP,537,181,356
+Page,Clarinda 1,County Auditor,,Write-In,,44,18,26
+Page,Clarinda 2,County Auditor,,Write-In,,57,24,33
+Page,Essex City Hall,County Auditor,,Write-In,,23,9,14
+Page,Page County Courthouse 1,County Auditor,,Write-In,,29,9,20
+Page,Page County Courthouse 2,County Auditor,,Write-In,,47,22,25
+Page,Shenandoah 1,County Auditor,,Write-In,,5,2,3
+Page,Shenandoah 2,County Auditor,,Write-In,,11,6,5
+Page,Shenandoah 3,County Auditor,,Write-In,,8,1,7
+Page,Shenandoah Fire Station,County Auditor,,Write-In,,21,10,11
+Page,Clarinda 1,County Sheriff,,Charles K.E. McCalla,REP,748,319,429
+Page,Clarinda 2,County Sheriff,,Charles K.E. McCalla,REP,1125,507,618
+Page,Essex City Hall,County Sheriff,,Charles K.E. McCalla,REP,508,118,390
+Page,Page County Courthouse 1,County Sheriff,,Charles K.E. McCalla,REP,591,299,292
+Page,Page County Courthouse 2,County Sheriff,,Charles K.E. McCalla,REP,781,409,372
+Page,Shenandoah 1,County Sheriff,,Charles K.E. McCalla,REP,501,95,406
+Page,Shenandoah 2,County Sheriff,,Charles K.E. McCalla,REP,614,156,458
+Page,Shenandoah 3,County Sheriff,,Charles K.E. McCalla,REP,719,203,516
+Page,Shenandoah Fire Station,County Sheriff,,Charles K.E. McCalla,REP,601,212,389
+Page,Clarinda 1,County Sheriff,,Write-In,,7,0,7
+Page,Clarinda 2,County Sheriff,,Write-In,,16,2,14
+Page,Essex City Hall,County Sheriff,,Write-In,,30,6,24
+Page,Page County Courthouse 1,County Sheriff,,Write-In,,11,5,6
+Page,Page County Courthouse 2,County Sheriff,,Write-In,,16,6,10
+Page,Shenandoah 1,County Sheriff,,Write-In,,15,3,12
+Page,Shenandoah 2,County Sheriff,,Write-In,,32,7,25
+Page,Shenandoah 3,County Sheriff,,Write-In,,31,10,21
+Page,Shenandoah Fire Station,County Sheriff,,Write-In,,44,13,31
+Page,Clarinda 1,County Supervisor,1,Brian Rogers,REP,678,279,399
+Page,Clarinda 2,County Supervisor,1,Brian Rogers,REP,1019,438,581
+Page,Essex City Hall,County Supervisor,1,Brian Rogers,REP,496,109,387
+Page,Page County Courthouse 1,County Supervisor,1,Brian Rogers,REP,551,276,275
+Page,Page County Courthouse 2,County Supervisor,1,Brian Rogers,REP,691,352,339
+Page,Shenandoah 1,County Supervisor,1,Brian Rogers,REP,493,90,403
+Page,Shenandoah 2,County Supervisor,1,Brian Rogers,REP,610,152,458
+Page,Shenandoah 3,County Supervisor,1,Brian Rogers,REP,703,194,509
+Page,Shenandoah Fire Station,County Supervisor,1,Brian Rogers,REP,579,193,386
+Page,Clarinda 1,County Supervisor,1,Write-In,,5,1,4
+Page,Clarinda 2,County Supervisor,1,Write-In,,13,3,10
+Page,Essex City Hall,County Supervisor,1,Write-In,,19,4,15
+Page,Page County Courthouse 1,County Supervisor,1,Write-In,,7,4,3
+Page,Page County Courthouse 2,County Supervisor,1,Write-In,,19,11,8
+Page,Shenandoah 1,County Supervisor,1,Write-In,,4,1,3
+Page,Shenandoah 2,County Supervisor,1,Write-In,,5,3,2
+Page,Shenandoah 3,County Supervisor,1,Write-In,,9,2,7
+Page,Shenandoah Fire Station,County Supervisor,1,Write-In,,22,10,12
+Page,Clarinda 1,County Supervisor,3,Judy Clark,REP,682,279,403
+Page,Clarinda 2,County Supervisor,3,Judy Clark,REP,1043,452,591
+Page,Essex City Hall,County Supervisor,3,Judy Clark,REP,503,113,390
+Page,Page County Courthouse 1,County Supervisor,3,Judy Clark,REP,500,246,254
+Page,Page County Courthouse 2,County Supervisor,3,Judy Clark,REP,652,330,322
+Page,Shenandoah 1,County Supervisor,3,Judy Clark,REP,502,94,408
+Page,Shenandoah 2,County Supervisor,3,Judy Clark,REP,636,160,476
+Page,Shenandoah 3,County Supervisor,3,Judy Clark,REP,760,223,537
+Page,Shenandoah Fire Station,County Supervisor,3,Judy Clark,REP,580,192,388
+Page,Clarinda 1,County Supervisor,3,Write-In,,11,3,8
+Page,Clarinda 2,County Supervisor,3,Write-In,,23,9,14
+Page,Essex City Hall,County Supervisor,3,Write-In,,15,2,13
+Page,Page County Courthouse 1,County Supervisor,3,Write-In,,11,5,6
+Page,Page County Courthouse 2,County Supervisor,3,Write-In,,29,17,12
+Page,Shenandoah 1,County Supervisor,3,Write-In,,4,1,3
+Page,Shenandoah 2,County Supervisor,3,Write-In,,3,1,2
+Page,Shenandoah 3,County Supervisor,3,Write-In,,5,0,5
+Page,Shenandoah Fire Station,County Supervisor,3,Write-In,,16,8,8
+Page,Clarinda 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,170,68,102
+Page,Clarinda 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,247,92,155
+Page,Essex City Hall,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,141,32,109
+Page,Page County Courthouse 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,117,62,55
+Page,Page County Courthouse 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,208,102,106
+Page,Shenandoah 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,138,31,107
+Page,Shenandoah 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,158,34,124
+Page,Shenandoah 3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,194,50,144
+Page,Shenandoah Fire Station,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,166,63,103
+Page,Clarinda 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,415,157,258
+Page,Clarinda 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,599,251,348
+Page,Essex City Hall,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,316,63,253
+Page,Page County Courthouse 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,260,124,136
+Page,Page County Courthouse 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,358,160,198
+Page,Shenandoah 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,319,51,268
+Page,Shenandoah 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,415,107,308
+Page,Shenandoah 3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,480,129,351
+Page,Shenandoah Fire Station,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,376,110,266
+Page,Clarinda 1,Court of Appeals Judge - Mary Ellen Tabor,,No,,169,65,104
+Page,Clarinda 2,Court of Appeals Judge - Mary Ellen Tabor,,No,,230,81,149
+Page,Essex City Hall,Court of Appeals Judge - Mary Ellen Tabor,,No,,149,33,116
+Page,Page County Courthouse 1,Court of Appeals Judge - Mary Ellen Tabor,,No,,130,72,58
+Page,Page County Courthouse 2,Court of Appeals Judge - Mary Ellen Tabor,,No,,210,99,111
+Page,Shenandoah 1,Court of Appeals Judge - Mary Ellen Tabor,,No,,140,28,112
+Page,Shenandoah 2,Court of Appeals Judge - Mary Ellen Tabor,,No,,160,32,128
+Page,Shenandoah 3,Court of Appeals Judge - Mary Ellen Tabor,,No,,189,50,139
+Page,Shenandoah Fire Station,Court of Appeals Judge - Mary Ellen Tabor,,No,,178,63,115
+Page,Clarinda 1,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,422,164,258
+Page,Clarinda 2,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,618,260,358
+Page,Essex City Hall,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,312,62,250
+Page,Page County Courthouse 1,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,255,120,135
+Page,Page County Courthouse 2,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,359,163,196
+Page,Shenandoah 1,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,317,55,262
+Page,Shenandoah 2,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,416,109,307
+Page,Shenandoah 3,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,489,131,358
+Page,Shenandoah Fire Station,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,360,102,258
+Page,Clarinda 1,Court of Appeals Judge - Samuel Langholz,,No,,192,79,113
+Page,Clarinda 2,Court of Appeals Judge - Samuel Langholz,,No,,270,100,170
+Page,Essex City Hall,Court of Appeals Judge - Samuel Langholz,,No,,149,34,115
+Page,Page County Courthouse 1,Court of Appeals Judge - Samuel Langholz,,No,,116,59,57
+Page,Page County Courthouse 2,Court of Appeals Judge - Samuel Langholz,,No,,216,105,111
+Page,Shenandoah 1,Court of Appeals Judge - Samuel Langholz,,No,,149,35,114
+Page,Shenandoah 2,Court of Appeals Judge - Samuel Langholz,,No,,182,46,136
+Page,Shenandoah 3,Court of Appeals Judge - Samuel Langholz,,No,,222,65,157
+Page,Shenandoah Fire Station,Court of Appeals Judge - Samuel Langholz,,No,,178,75,103
+Page,Clarinda 1,Court of Appeals Judge - Samuel Langholz,,Yes,,393,145,248
+Page,Clarinda 2,Court of Appeals Judge - Samuel Langholz,,Yes,,566,232,334
+Page,Essex City Hall,Court of Appeals Judge - Samuel Langholz,,Yes,,304,60,244
+Page,Page County Courthouse 1,Court of Appeals Judge - Samuel Langholz,,Yes,,268,129,139
+Page,Page County Courthouse 2,Court of Appeals Judge - Samuel Langholz,,Yes,,347,155,192
+Page,Shenandoah 1,Court of Appeals Judge - Samuel Langholz,,Yes,,310,47,263
+Page,Shenandoah 2,Court of Appeals Judge - Samuel Langholz,,Yes,,384,92,292
+Page,Shenandoah 3,Court of Appeals Judge - Samuel Langholz,,Yes,,456,114,342
+Page,Shenandoah Fire Station,Court of Appeals Judge - Samuel Langholz,,Yes,,354,92,262
+Page,Clarinda 1,Court of Appeals Judge - Tyler J. Buller,,No,,168,67,101
+Page,Clarinda 2,Court of Appeals Judge - Tyler J. Buller,,No,,249,98,151
+Page,Essex City Hall,Court of Appeals Judge - Tyler J. Buller,,No,,140,29,111
+Page,Page County Courthouse 1,Court of Appeals Judge - Tyler J. Buller,,No,,103,54,49
+Page,Page County Courthouse 2,Court of Appeals Judge - Tyler J. Buller,,No,,198,95,103
+Page,Shenandoah 1,Court of Appeals Judge - Tyler J. Buller,,No,,140,30,110
+Page,Shenandoah 2,Court of Appeals Judge - Tyler J. Buller,,No,,157,36,121
+Page,Shenandoah 3,Court of Appeals Judge - Tyler J. Buller,,No,,184,56,128
+Page,Shenandoah Fire Station,Court of Appeals Judge - Tyler J. Buller,,No,,168,63,105
+Page,Clarinda 1,Court of Appeals Judge - Tyler J. Buller,,Yes,,427,161,266
+Page,Clarinda 2,Court of Appeals Judge - Tyler J. Buller,,Yes,,613,246,367
+Page,Essex City Hall,Court of Appeals Judge - Tyler J. Buller,,Yes,,325,65,260
+Page,Page County Courthouse 1,Court of Appeals Judge - Tyler J. Buller,,Yes,,284,137,147
+Page,Page County Courthouse 2,Court of Appeals Judge - Tyler J. Buller,,Yes,,374,168,206
+Page,Shenandoah 1,Court of Appeals Judge - Tyler J. Buller,,Yes,,325,53,272
+Page,Shenandoah 2,Court of Appeals Judge - Tyler J. Buller,,Yes,,425,107,318
+Page,Shenandoah 3,Court of Appeals Judge - Tyler J. Buller,,Yes,,507,128,379
+Page,Shenandoah Fire Station,Court of Appeals Judge - Tyler J. Buller,,Yes,,372,104,268
+Page,Clarinda 1,District 4 Associate Judge - David W. Brooks,,No,,153,66,87
+Page,Clarinda 2,District 4 Associate Judge - David W. Brooks,,No,,231,84,147
+Page,Essex City Hall,District 4 Associate Judge - David W. Brooks,,No,,131,30,101
+Page,Page County Courthouse 1,District 4 Associate Judge - David W. Brooks,,No,,97,53,44
+Page,Page County Courthouse 2,District 4 Associate Judge - David W. Brooks,,No,,190,90,100
+Page,Shenandoah 1,District 4 Associate Judge - David W. Brooks,,No,,119,29,90
+Page,Shenandoah 2,District 4 Associate Judge - David W. Brooks,,No,,137,28,109
+Page,Shenandoah 3,District 4 Associate Judge - David W. Brooks,,No,,170,45,125
+Page,Shenandoah Fire Station,District 4 Associate Judge - David W. Brooks,,No,,153,63,90
+Page,Clarinda 1,District 4 Associate Judge - David W. Brooks,,Yes,,437,163,274
+Page,Clarinda 2,District 4 Associate Judge - David W. Brooks,,Yes,,631,266,365
+Page,Essex City Hall,District 4 Associate Judge - David W. Brooks,,Yes,,325,60,265
+Page,Page County Courthouse 1,District 4 Associate Judge - David W. Brooks,,Yes,,291,138,153
+Page,Page County Courthouse 2,District 4 Associate Judge - David W. Brooks,,Yes,,384,176,208
+Page,Shenandoah 1,District 4 Associate Judge - David W. Brooks,,Yes,,345,50,295
+Page,Shenandoah 2,District 4 Associate Judge - David W. Brooks,,Yes,,442,108,334
+Page,Shenandoah 3,District 4 Associate Judge - David W. Brooks,,Yes,,507,133,374
+Page,Shenandoah Fire Station,District 4 Associate Judge - David W. Brooks,,Yes,,384,103,281
+Page,Clarinda 1,District 4 Judge - Eric John Nelson,,No,,156,55,101
+Page,Clarinda 2,District 4 Judge - Eric John Nelson,,No,,236,85,151
+Page,Essex City Hall,District 4 Judge - Eric John Nelson,,No,,132,28,104
+Page,Page County Courthouse 1,District 4 Judge - Eric John Nelson,,No,,102,52,50
+Page,Page County Courthouse 2,District 4 Judge - Eric John Nelson,,No,,177,83,94
+Page,Shenandoah 1,District 4 Judge - Eric John Nelson,,No,,129,28,101
+Page,Shenandoah 2,District 4 Judge - Eric John Nelson,,No,,147,33,114
+Page,Shenandoah 3,District 4 Judge - Eric John Nelson,,No,,189,54,135
+Page,Shenandoah Fire Station,District 4 Judge - Eric John Nelson,,No,,148,58,90
+Page,Clarinda 1,District 4 Judge - Eric John Nelson,,Yes,,432,170,262
+Page,Clarinda 2,District 4 Judge - Eric John Nelson,,Yes,,610,254,356
+Page,Essex City Hall,District 4 Judge - Eric John Nelson,,Yes,,327,66,261
+Page,Page County Courthouse 1,District 4 Judge - Eric John Nelson,,Yes,,282,139,143
+Page,Page County Courthouse 2,District 4 Judge - Eric John Nelson,,Yes,,384,175,209
+Page,Shenandoah 1,District 4 Judge - Eric John Nelson,,Yes,,324,51,273
+Page,Shenandoah 2,District 4 Judge - Eric John Nelson,,Yes,,430,107,323
+Page,Shenandoah 3,District 4 Judge - Eric John Nelson,,Yes,,490,127,363
+Page,Shenandoah Fire Station,District 4 Judge - Eric John Nelson,,Yes,,392,110,282
+Page,Clarinda 1,District 4 Judge - Jennifer Benson Bahr,,No,,148,60,88
+Page,Clarinda 2,District 4 Judge - Jennifer Benson Bahr,,No,,227,81,146
+Page,Essex City Hall,District 4 Judge - Jennifer Benson Bahr,,No,,131,27,104
+Page,Page County Courthouse 1,District 4 Judge - Jennifer Benson Bahr,,No,,108,57,51
+Page,Page County Courthouse 2,District 4 Judge - Jennifer Benson Bahr,,No,,187,90,97
+Page,Shenandoah 1,District 4 Judge - Jennifer Benson Bahr,,No,,126,28,98
+Page,Shenandoah 2,District 4 Judge - Jennifer Benson Bahr,,No,,154,31,123
+Page,Shenandoah 3,District 4 Judge - Jennifer Benson Bahr,,No,,175,50,125
+Page,Shenandoah Fire Station,District 4 Judge - Jennifer Benson Bahr,,No,,159,60,99
+Page,Clarinda 1,District 4 Judge - Jennifer Benson Bahr,,Yes,,447,172,275
+Page,Clarinda 2,District 4 Judge - Jennifer Benson Bahr,,Yes,,627,259,368
+Page,Essex City Hall,District 4 Judge - Jennifer Benson Bahr,,Yes,,325,67,258
+Page,Page County Courthouse 1,District 4 Judge - Jennifer Benson Bahr,,Yes,,279,135,144
+Page,Page County Courthouse 2,District 4 Judge - Jennifer Benson Bahr,,Yes,,384,177,207
+Page,Shenandoah 1,District 4 Judge - Jennifer Benson Bahr,,Yes,,335,52,283
+Page,Shenandoah 2,District 4 Judge - Jennifer Benson Bahr,,Yes,,418,104,314
+Page,Shenandoah 3,District 4 Judge - Jennifer Benson Bahr,,Yes,,502,131,371
+Page,Shenandoah Fire Station,District 4 Judge - Jennifer Benson Bahr,,Yes,,383,107,276
+Page,Clarinda 1,Iowa Western Community College - Public Measure SB,,No,,382,177,205
+Page,Clarinda 2,Iowa Western Community College - Public Measure SB,,No,,567,241,326
+Page,Essex City Hall,Iowa Western Community College - Public Measure SB,,No,,259,63,196
+Page,Page County Courthouse 1,Iowa Western Community College - Public Measure SB,,No,,299,153,146
+Page,Page County Courthouse 2,Iowa Western Community College - Public Measure SB,,No,,444,242,202
+Page,Shenandoah 1,Iowa Western Community College - Public Measure SB,,No,,211,40,171
+Page,Shenandoah 2,Iowa Western Community College - Public Measure SB,,No,,289,85,204
+Page,Shenandoah 3,Iowa Western Community College - Public Measure SB,,No,,333,89,244
+Page,Shenandoah Fire Station,Iowa Western Community College - Public Measure SB,,No,,340,113,227
+Page,Clarinda 1,Iowa Western Community College - Public Measure SB,,Yes,,374,144,230
+Page,Clarinda 2,Iowa Western Community College - Public Measure SB,,Yes,,597,272,325
+Page,Essex City Hall,Iowa Western Community College - Public Measure SB,,Yes,,288,50,238
+Page,Page County Courthouse 1,Iowa Western Community College - Public Measure SB,,Yes,,211,111,100
+Page,Page County Courthouse 2,Iowa Western Community College - Public Measure SB,,Yes,,317,160,157
+Page,Shenandoah 1,Iowa Western Community College - Public Measure SB,,Yes,,333,63,270
+Page,Shenandoah 2,Iowa Western Community College - Public Measure SB,,Yes,,463,127,336
+Page,Shenandoah 3,Iowa Western Community College - Public Measure SB,,Yes,,477,146,331
+Page,Shenandoah Fire Station,Iowa Western Community College - Public Measure SB,,Yes,,335,117,218
+Page,Clarinda 1,Page County - Public Measure A,,No,,244,115,129
+Page,Clarinda 2,Page County - Public Measure A,,No,,369,156,213
+Page,Essex City Hall,Page County - Public Measure A,,No,,185,53,132
+Page,Page County Courthouse 1,Page County - Public Measure A,,No,,190,107,83
+Page,Page County Courthouse 2,Page County - Public Measure A,,No,,276,161,115
+Page,Shenandoah 1,Page County - Public Measure A,,No,,170,34,136
+Page,Shenandoah 2,Page County - Public Measure A,,No,,239,60,179
+Page,Shenandoah 3,Page County - Public Measure A,,No,,256,85,171
+Page,Shenandoah Fire Station,Page County - Public Measure A,,No,,237,91,146
+Page,Clarinda 1,Page County - Public Measure A,,Yes,,529,209,320
+Page,Clarinda 2,Page County - Public Measure A,,Yes,,807,366,441
+Page,Essex City Hall,Page County - Public Measure A,,Yes,,379,69,310
+Page,Page County Courthouse 1,Page County - Public Measure A,,Yes,,413,200,213
+Page,Page County Courthouse 2,Page County - Public Measure A,,Yes,,541,275,266
+Page,Shenandoah 1,Page County - Public Measure A,,Yes,,379,68,311
+Page,Shenandoah 2,Page County - Public Measure A,,Yes,,505,145,360
+Page,Shenandoah 3,Page County - Public Measure A,,Yes,,552,147,405
+Page,Shenandoah Fire Station,Page County - Public Measure A,,Yes,,460,155,305
+Page,Clarinda 1,Page County - Public Measure B,,No,,409,186,223
+Page,Clarinda 2,Page County - Public Measure B,,No,,613,273,340
+Page,Essex City Hall,Page County - Public Measure B,,No,,249,64,185
+Page,Page County Courthouse 1,Page County - Public Measure B,,No,,368,201,167
+Page,Page County Courthouse 2,Page County - Public Measure B,,No,,471,248,223
+Page,Shenandoah 1,Page County - Public Measure B,,No,,217,47,170
+Page,Shenandoah 2,Page County - Public Measure B,,No,,294,80,214
+Page,Shenandoah 3,Page County - Public Measure B,,No,,333,107,226
+Page,Shenandoah Fire Station,Page County - Public Measure B,,No,,316,112,204
+Page,Clarinda 1,Page County - Public Measure B,,Yes,,342,128,214
+Page,Clarinda 2,Page County - Public Measure B,,Yes,,553,239,314
+Page,Essex City Hall,Page County - Public Measure B,,Yes,,305,54,251
+Page,Page County Courthouse 1,Page County - Public Measure B,,Yes,,215,102,113
+Page,Page County Courthouse 2,Page County - Public Measure B,,Yes,,308,163,145
+Page,Shenandoah 1,Page County - Public Measure B,,Yes,,330,56,274
+Page,Shenandoah 2,Page County - Public Measure B,,Yes,,453,126,327
+Page,Shenandoah 3,Page County - Public Measure B,,Yes,,475,127,348
+Page,Shenandoah Fire Station,Page County - Public Measure B,,Yes,,366,123,243
+Page,Clarinda 1,President,,Chase Oliver and Mike ter Maat,LIB,4,1,3
+Page,Clarinda 2,President,,Chase Oliver and Mike ter Maat,LIB,8,2,6
+Page,Essex City Hall,President,,Chase Oliver and Mike ter Maat,LIB,4,1,3
+Page,Page County Courthouse 1,President,,Chase Oliver and Mike ter Maat,LIB,1,1,0
+Page,Page County Courthouse 2,President,,Chase Oliver and Mike ter Maat,LIB,3,2,1
+Page,Shenandoah 1,President,,Chase Oliver and Mike ter Maat,LIB,4,2,2
+Page,Shenandoah 2,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Page,Shenandoah 3,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Page,Shenandoah Fire Station,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Page,Clarinda 1,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Page,Clarinda 2,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Page,Essex City Hall,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Page,Page County Courthouse 1,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Page,Page County Courthouse 2,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Page,Shenandoah 1,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Page,Shenandoah 2,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Page,Shenandoah 3,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Page,Shenandoah Fire Station,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Page,Clarinda 1,President,,Donald J. Trump and JD Vance,REP,574,231,343
+Page,Clarinda 2,President,,Donald J. Trump and JD Vance,REP,881,362,519
+Page,Essex City Hall,President,,Donald J. Trump and JD Vance,REP,455,107,348
+Page,Page County Courthouse 1,President,,Donald J. Trump and JD Vance,REP,546,268,278
+Page,Page County Courthouse 2,President,,Donald J. Trump and JD Vance,REP,695,350,345
+Page,Shenandoah 1,President,,Donald J. Trump and JD Vance,REP,394,69,325
+Page,Shenandoah 2,President,,Donald J. Trump and JD Vance,REP,501,115,386
+Page,Shenandoah 3,President,,Donald J. Trump and JD Vance,REP,558,148,410
+Page,Shenandoah Fire Station,President,,Donald J. Trump and JD Vance,REP,549,185,364
+Page,Clarinda 1,President,,Kamala D. Harris and Tim Walz,DEM,234,119,115
+Page,Clarinda 2,President,,Kamala D. Harris and Tim Walz,DEM,403,215,188
+Page,Essex City Hall,President,,Kamala D. Harris and Tim Walz,DEM,133,27,106
+Page,Page County Courthouse 1,President,,Kamala D. Harris and Tim Walz,DEM,93,60,33
+Page,Page County Courthouse 2,President,,Kamala D. Harris and Tim Walz,DEM,190,125,65
+Page,Shenandoah 1,President,,Kamala D. Harris and Tim Walz,DEM,195,50,145
+Page,Shenandoah 2,President,,Kamala D. Harris and Tim Walz,DEM,292,114,178
+Page,Shenandoah 3,President,,Kamala D. Harris and Tim Walz,DEM,339,125,214
+Page,Shenandoah Fire Station,President,,Kamala D. Harris and Tim Walz,DEM,181,80,101
+Page,Clarinda 1,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,4,2
+Page,Clarinda 2,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,7,1,6
+Page,Essex City Hall,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,8,0,8
+Page,Page County Courthouse 1,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,4,1
+Page,Page County Courthouse 2,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,3,3
+Page,Shenandoah 1,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,3,0,3
+Page,Shenandoah 2,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,7,3,4
+Page,Shenandoah 3,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,2,2
+Page,Shenandoah Fire Station,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,1,4
+Page,Clarinda 1,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Page,Clarinda 2,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Page,Essex City Hall,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Page,Page County Courthouse 1,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Page,Page County Courthouse 2,President,,Shiva Ayyadurai and Crystal Ellis,,1,1,0
+Page,Shenandoah 1,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Page,Shenandoah 2,President,,Shiva Ayyadurai and Crystal Ellis,,1,1,0
+Page,Shenandoah 3,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Page,Shenandoah Fire Station,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Page,Clarinda 1,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,1,0
+Page,Clarinda 2,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Page,Essex City Hall,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Page,Page County Courthouse 1,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Page,Page County Courthouse 2,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Page,Shenandoah 1,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Page,Shenandoah 2,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Page,Shenandoah 3,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Page,Shenandoah Fire Station,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Page,Clarinda 1,President,,Write-In,,8,2,6
+Page,Clarinda 2,President,,Write-In,,3,1,2
+Page,Essex City Hall,President,,Write-In,,2,0,2
+Page,Page County Courthouse 1,President,,Write-In,,1,0,1
+Page,Page County Courthouse 2,President,,Write-In,,3,1,2
+Page,Shenandoah 1,President,,Write-In,,1,0,1
+Page,Shenandoah 2,President,,Write-In,,2,0,2
+Page,Shenandoah 3,President,,Write-In,,2,1,1
+Page,Shenandoah Fire Station,President,,Write-In,,3,2,1
+Page,Clarinda 1,Soil and Water Conservation District Commissioner,,Alan Nothwehr,,578,236,342
+Page,Clarinda 2,Soil and Water Conservation District Commissioner,,Alan Nothwehr,,848,387,461
+Page,Essex City Hall,Soil and Water Conservation District Commissioner,,Alan Nothwehr,,387,89,298
+Page,Page County Courthouse 1,Soil and Water Conservation District Commissioner,,Alan Nothwehr,,438,225,213
+Page,Page County Courthouse 2,Soil and Water Conservation District Commissioner,,Alan Nothwehr,,588,305,283
+Page,Shenandoah 1,Soil and Water Conservation District Commissioner,,Alan Nothwehr,,323,60,263
+Page,Shenandoah 2,Soil and Water Conservation District Commissioner,,Alan Nothwehr,,463,124,339
+Page,Shenandoah 3,Soil and Water Conservation District Commissioner,,Alan Nothwehr,,546,149,397
+Page,Shenandoah Fire Station,Soil and Water Conservation District Commissioner,,Alan Nothwehr,,485,172,313
+Page,Clarinda 1,Soil and Water Conservation District Commissioner,,Curtis Meier,,480,211,269
+Page,Clarinda 2,Soil and Water Conservation District Commissioner,,Curtis Meier,,739,350,389
+Page,Essex City Hall,Soil and Water Conservation District Commissioner,,Curtis Meier,,376,90,286
+Page,Page County Courthouse 1,Soil and Water Conservation District Commissioner,,Curtis Meier,,439,224,215
+Page,Page County Courthouse 2,Soil and Water Conservation District Commissioner,,Curtis Meier,,524,277,247
+Page,Shenandoah 1,Soil and Water Conservation District Commissioner,,Curtis Meier,,311,62,249
+Page,Shenandoah 2,Soil and Water Conservation District Commissioner,,Curtis Meier,,438,121,317
+Page,Shenandoah 3,Soil and Water Conservation District Commissioner,,Curtis Meier,,501,149,352
+Page,Shenandoah Fire Station,Soil and Water Conservation District Commissioner,,Curtis Meier,,459,166,293
+Page,Clarinda 1,Soil and Water Conservation District Commissioner,,Darwin Hanson,,466,203,263
+Page,Clarinda 2,Soil and Water Conservation District Commissioner,,Darwin Hanson,,699,327,372
+Page,Essex City Hall,Soil and Water Conservation District Commissioner,,Darwin Hanson,,359,87,272
+Page,Page County Courthouse 1,Soil and Water Conservation District Commissioner,,Darwin Hanson,,377,197,180
+Page,Page County Courthouse 2,Soil and Water Conservation District Commissioner,,Darwin Hanson,,454,243,211
+Page,Shenandoah 1,Soil and Water Conservation District Commissioner,,Darwin Hanson,,304,57,247
+Page,Shenandoah 2,Soil and Water Conservation District Commissioner,,Darwin Hanson,,426,110,316
+Page,Shenandoah 3,Soil and Water Conservation District Commissioner,,Darwin Hanson,,482,143,339
+Page,Shenandoah Fire Station,Soil and Water Conservation District Commissioner,,Darwin Hanson,,408,149,259
+Page,Clarinda 1,Soil and Water Conservation District Commissioner,,Write-In,,8,0,8
+Page,Clarinda 2,Soil and Water Conservation District Commissioner,,Write-In,,4,2,2
+Page,Essex City Hall,Soil and Water Conservation District Commissioner,,Write-In,,12,2,10
+Page,Page County Courthouse 1,Soil and Water Conservation District Commissioner,,Write-In,,7,2,5
+Page,Page County Courthouse 2,Soil and Water Conservation District Commissioner,,Write-In,,8,6,2
+Page,Shenandoah 1,Soil and Water Conservation District Commissioner,,Write-In,,5,0,5
+Page,Shenandoah 2,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
+Page,Shenandoah 3,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Page,Shenandoah Fire Station,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Page,Clarinda 1,State House,17,Devon Wood,REP,657,257,400
+Page,Clarinda 2,State House,17,Devon Wood,REP,974,414,560
+Page,Page County Courthouse 2,State House,17,Devon Wood,REP,703,351,352
+Page,Clarinda 1,State House,17,Write-In,,5,2,3
+Page,Clarinda 2,State House,17,Write-In,,12,4,8
+Page,Page County Courthouse 2,State House,17,Write-In,,11,5,6
+Page,Essex City Hall,State House,18,Thomas Jay Moore,REP,448,102,346
+Page,Page County Courthouse 1,State House,18,Thomas Jay Moore,REP,498,247,251
+Page,Shenandoah 1,State House,18,Thomas Jay Moore,REP,376,63,313
+Page,Shenandoah 2,State House,18,Thomas Jay Moore,REP,517,130,387
+Page,Shenandoah 3,State House,18,Thomas Jay Moore,REP,580,169,411
+Page,Shenandoah Fire Station,State House,18,Thomas Jay Moore,REP,548,173,375
+Page,Essex City Hall,State House,18,Tripp Narup,DEM,117,24,93
+Page,Page County Courthouse 1,State House,18,Tripp Narup,DEM,83,51,32
+Page,Shenandoah 1,State House,18,Tripp Narup,DEM,175,43,132
+Page,Shenandoah 2,State House,18,Tripp Narup,DEM,235,86,149
+Page,Shenandoah 3,State House,18,Tripp Narup,DEM,267,89,178
+Page,Shenandoah Fire Station,State House,18,Tripp Narup,DEM,147,71,76
+Page,Essex City Hall,State House,18,Write-In,,2,0,2
+Page,Page County Courthouse 1,State House,18,Write-In,,3,1,2
+Page,Shenandoah 1,State House,18,Write-In,,3,0,3
+Page,Shenandoah 2,State House,18,Write-In,,2,1,1
+Page,Shenandoah 3,State House,18,Write-In,,0,0,0
+Page,Shenandoah Fire Station,State House,18,Write-In,,2,2,0
+Page,Clarinda 1,Supreme Court Justice - David May,,No,,174,78,96
+Page,Clarinda 2,Supreme Court Justice - David May,,No,,277,114,163
+Page,Essex City Hall,Supreme Court Justice - David May,,No,,139,29,110
+Page,Page County Courthouse 1,Supreme Court Justice - David May,,No,,110,57,53
+Page,Page County Courthouse 2,Supreme Court Justice - David May,,No,,195,94,101
+Page,Shenandoah 1,Supreme Court Justice - David May,,No,,140,35,105
+Page,Shenandoah 2,Supreme Court Justice - David May,,No,,179,47,132
+Page,Shenandoah 3,Supreme Court Justice - David May,,No,,213,61,152
+Page,Shenandoah Fire Station,Supreme Court Justice - David May,,No,,176,76,100
+Page,Clarinda 1,Supreme Court Justice - David May,,Yes,,445,165,280
+Page,Clarinda 2,Supreme Court Justice - David May,,Yes,,624,252,372
+Page,Essex City Hall,Supreme Court Justice - David May,,Yes,,336,68,268
+Page,Page County Courthouse 1,Supreme Court Justice - David May,,Yes,,300,139,161
+Page,Page County Courthouse 2,Supreme Court Justice - David May,,Yes,,417,195,222
+Page,Shenandoah 1,Supreme Court Justice - David May,,Yes,,338,51,287
+Page,Shenandoah 2,Supreme Court Justice - David May,,Yes,,429,105,324
+Page,Shenandoah 3,Supreme Court Justice - David May,,Yes,,496,128,368
+Page,Shenandoah Fire Station,Supreme Court Justice - David May,,Yes,,383,99,284
+Page,Clarinda 1,U.S. House,3,Lanon Baccam,DEM,221,109,112
+Page,Clarinda 2,U.S. House,3,Lanon Baccam,DEM,388,191,197
+Page,Essex City Hall,U.S. House,3,Lanon Baccam,DEM,136,21,115
+Page,Page County Courthouse 1,U.S. House,3,Lanon Baccam,DEM,97,58,39
+Page,Page County Courthouse 2,U.S. House,3,Lanon Baccam,DEM,174,104,70
+Page,Shenandoah 1,U.S. House,3,Lanon Baccam,DEM,211,46,165
+Page,Shenandoah 2,U.S. House,3,Lanon Baccam,DEM,273,93,180
+Page,Shenandoah 3,U.S. House,3,Lanon Baccam,DEM,302,101,201
+Page,Shenandoah Fire Station,U.S. House,3,Lanon Baccam,DEM,167,73,94
+Page,Clarinda 1,U.S. House,3,Write-In,,1,0,1
+Page,Clarinda 2,U.S. House,3,Write-In,,3,2,1
+Page,Essex City Hall,U.S. House,3,Write-In,,2,0,2
+Page,Page County Courthouse 1,U.S. House,3,Write-In,,3,1,2
+Page,Page County Courthouse 2,U.S. House,3,Write-In,,0,0,0
+Page,Shenandoah 1,U.S. House,3,Write-In,,3,0,3
+Page,Shenandoah 2,U.S. House,3,Write-In,,5,2,3
+Page,Shenandoah 3,U.S. House,3,Write-In,,0,0,0
+Page,Shenandoah Fire Station,U.S. House,3,Write-In,,4,3,1
+Page,Clarinda 1,U.S. House,3,Zach Nunn,REP,570,235,335
+Page,Clarinda 2,U.S. House,3,Zach Nunn,REP,850,355,495
+Page,Essex City Hall,U.S. House,3,Zach Nunn,REP,448,113,335
+Page,Page County Courthouse 1,U.S. House,3,Zach Nunn,REP,527,260,267
+Page,Page County Courthouse 2,U.S. House,3,Zach Nunn,REP,679,346,333
+Page,Shenandoah 1,U.S. House,3,Zach Nunn,REP,368,69,299
+Page,Shenandoah 2,U.S. House,3,Zach Nunn,REP,504,126,378
+Page,Shenandoah 3,U.S. House,3,Zach Nunn,REP,577,167,410
+Page,Shenandoah Fire Station,U.S. House,3,Zach Nunn,REP,554,184,370

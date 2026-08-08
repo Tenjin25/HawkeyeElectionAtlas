@@ -1,0 +1,368 @@
+{
+  "files": [
+    {
+      "year": 1980,
+      "contest_type": "president",
+      "file": "president_1980.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 1984,
+      "contest_type": "president",
+      "file": "president_1984.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 1988,
+      "contest_type": "president",
+      "file": "president_1988.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 1992,
+      "contest_type": "president",
+      "file": "president_1992.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 1996,
+      "contest_type": "president",
+      "file": "president_1996.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 1998,
+      "contest_type": "us_senate",
+      "file": "us_senate_1998.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2000,
+      "contest_type": "president",
+      "file": "president_2000.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2002,
+      "contest_type": "attorney_general",
+      "file": "attorney_general_2002.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2002,
+      "contest_type": "auditor",
+      "file": "auditor_2002.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2002,
+      "contest_type": "agriculture_commissioner",
+      "file": "agriculture_commissioner_2002.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2002,
+      "contest_type": "secretary_of_state",
+      "file": "secretary_of_state_2002.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2002,
+      "contest_type": "treasurer",
+      "file": "treasurer_2002.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2002,
+      "contest_type": "us_senate",
+      "file": "us_senate_2002.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2004,
+      "contest_type": "president",
+      "file": "president_2004.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2004,
+      "contest_type": "us_senate",
+      "file": "us_senate_2004.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2006,
+      "contest_type": "attorney_general",
+      "file": "attorney_general_2006.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2006,
+      "contest_type": "auditor",
+      "file": "auditor_2006.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2006,
+      "contest_type": "agriculture_commissioner",
+      "file": "agriculture_commissioner_2006.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2006,
+      "contest_type": "secretary_of_state",
+      "file": "secretary_of_state_2006.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2006,
+      "contest_type": "treasurer",
+      "file": "treasurer_2006.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2008,
+      "contest_type": "president",
+      "file": "president_2008.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2008,
+      "contest_type": "us_senate",
+      "file": "us_senate_2008.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2010,
+      "contest_type": "attorney_general",
+      "file": "attorney_general_2010.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2010,
+      "contest_type": "auditor",
+      "file": "auditor_2010.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2010,
+      "contest_type": "governor",
+      "file": "governor_2010.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2010,
+      "contest_type": "agriculture_commissioner",
+      "file": "agriculture_commissioner_2010.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2010,
+      "contest_type": "secretary_of_state",
+      "file": "secretary_of_state_2010.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2010,
+      "contest_type": "treasurer",
+      "file": "treasurer_2010.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2010,
+      "contest_type": "us_senate",
+      "file": "us_senate_2010.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2012,
+      "contest_type": "president",
+      "file": "president_2012.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2014,
+      "contest_type": "attorney_general",
+      "file": "attorney_general_2014.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2014,
+      "contest_type": "auditor",
+      "file": "auditor_2014.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2014,
+      "contest_type": "governor",
+      "file": "governor_2014.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2014,
+      "contest_type": "agriculture_commissioner",
+      "file": "agriculture_commissioner_2014.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2014,
+      "contest_type": "secretary_of_state",
+      "file": "secretary_of_state_2014.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2014,
+      "contest_type": "treasurer",
+      "file": "treasurer_2014.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2014,
+      "contest_type": "us_senate",
+      "file": "us_senate_2014.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2016,
+      "contest_type": "president",
+      "file": "president_2016.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2016,
+      "contest_type": "us_senate",
+      "file": "us_senate_2016.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2018,
+      "contest_type": "attorney_general",
+      "file": "attorney_general_2018.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2018,
+      "contest_type": "auditor",
+      "file": "auditor_2018.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2018,
+      "contest_type": "governor",
+      "file": "governor_2018.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2018,
+      "contest_type": "agriculture_commissioner",
+      "file": "agriculture_commissioner_2018.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2018,
+      "contest_type": "secretary_of_state",
+      "file": "secretary_of_state_2018.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2018,
+      "contest_type": "treasurer",
+      "file": "treasurer_2018.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2020,
+      "contest_type": "president",
+      "file": "president_2020.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2020,
+      "contest_type": "us_senate",
+      "file": "us_senate_2020.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2022,
+      "contest_type": "attorney_general",
+      "file": "attorney_general_2022.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2022,
+      "contest_type": "governor",
+      "file": "governor_2022.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2022,
+      "contest_type": "secretary_of_state",
+      "file": "secretary_of_state_2022.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2022,
+      "contest_type": "us_senate",
+      "file": "us_senate_2022.json",
+      "rows": 99,
+      "scope": ""
+    },
+    {
+      "year": 2024,
+      "contest_type": "president",
+      "file": "president_2024.json",
+      "rows": 99,
+      "scope": ""
+    }
+  ]
+}

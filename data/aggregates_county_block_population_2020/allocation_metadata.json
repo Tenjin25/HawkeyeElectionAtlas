@@ -1,0 +1,44 @@
+{
+  "counties": 99,
+  "chambers": {
+    "congressional": {
+      "districts": 4,
+      "mapped_blocks": 175199,
+      "split_counties": 0,
+      "population": 3190369,
+      "crosswalk": "data/crosswalks/block20_to_plan2_congressional_equivalency.csv"
+    },
+    "house": {
+      "districts": 100,
+      "mapped_blocks": 175199,
+      "split_counties": 43,
+      "population": 3190369,
+      "crosswalk": "data/crosswalks/block20_to_plan2_house_equivalency.csv"
+    },
+    "senate": {
+      "districts": 50,
+      "mapped_blocks": 175199,
+      "split_counties": 25,
+      "population": 3190369,
+      "crosswalk": "data/crosswalks/block20_to_plan2_senate_equivalency.csv"
+    }
+  },
+  "allocation_method": "verified_county_votes_to_2020_census_blocks_by_population_to_iowa_plan2",
+  "lines_year": 2022,
+  "target_plan": "Iowa Plan 2 enacted in 2021",
+  "block_population": "data/census/block_population_2020.csv",
+  "years": [
+    2000,
+    2002,
+    2004,
+    2006,
+    2008,
+    2010,
+    2012,
+    2014,
+    2022,
+    2024
+  ],
+  "vote_coverage_pct": 100.0,
+  "geographic_precision": "county_population_disaggregation"
+}

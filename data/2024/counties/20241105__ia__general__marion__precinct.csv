@@ -1,0 +1,884 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Marion,CLAY,Constitutional Amendment 1,,No,,111,23,88
+Marion,DALLAS,Constitutional Amendment 1,,No,,163,41,122
+Marion,Franklin Township,Constitutional Amendment 1,,No,,36,8,28
+Marion,Indiana Township,Constitutional Amendment 1,,No,,66,19,47
+Marion,Knoxville Four,Constitutional Amendment 1,,No,,133,48,85
+Marion,Knoxville One,Constitutional Amendment 1,,No,,149,61,88
+Marion,Knoxville Three,Constitutional Amendment 1,,No,,255,82,173
+Marion,Knoxville Township,Constitutional Amendment 1,,No,,69,0,69
+Marion,Knoxville Two,Constitutional Amendment 1,,No,,168,66,102
+Marion,OTLEY,Constitutional Amendment 1,,No,,274,89,185
+Marion,PLEASANTVILLE,Constitutional Amendment 1,,No,,343,124,219
+Marion,Pella Four,Constitutional Amendment 1,,No,,251,75,176
+Marion,Pella One,Constitutional Amendment 1,,No,,315,97,218
+Marion,Pella Three,Constitutional Amendment 1,,No,,386,126,260
+Marion,Pella Two,Constitutional Amendment 1,,No,,343,121,222
+Marion,Union Township,Constitutional Amendment 1,,No,,57,28,29
+Marion,Washington Township,Constitutional Amendment 1,,No,,43,10,33
+Marion,CLAY,Constitutional Amendment 1,,Yes,,409,97,312
+Marion,DALLAS,Constitutional Amendment 1,,Yes,,641,130,511
+Marion,Franklin Township,Constitutional Amendment 1,,Yes,,153,57,96
+Marion,Indiana Township,Constitutional Amendment 1,,Yes,,323,101,222
+Marion,Knoxville Four,Constitutional Amendment 1,,Yes,,565,217,348
+Marion,Knoxville One,Constitutional Amendment 1,,Yes,,632,276,356
+Marion,Knoxville Three,Constitutional Amendment 1,,Yes,,915,357,558
+Marion,Knoxville Township,Constitutional Amendment 1,,Yes,,355,0,355
+Marion,Knoxville Two,Constitutional Amendment 1,,Yes,,643,269,374
+Marion,OTLEY,Constitutional Amendment 1,,Yes,,1039,391,648
+Marion,PLEASANTVILLE,Constitutional Amendment 1,,Yes,,1178,399,779
+Marion,Pella Four,Constitutional Amendment 1,,Yes,,1048,328,720
+Marion,Pella One,Constitutional Amendment 1,,Yes,,1132,378,754
+Marion,Pella Three,Constitutional Amendment 1,,Yes,,1300,446,854
+Marion,Pella Two,Constitutional Amendment 1,,Yes,,1220,450,770
+Marion,Union Township,Constitutional Amendment 1,,Yes,,174,96,78
+Marion,Washington Township,Constitutional Amendment 1,,Yes,,242,61,181
+Marion,CLAY,Constitutional Amendment 2,,No,,68,19,49
+Marion,DALLAS,Constitutional Amendment 2,,No,,154,37,117
+Marion,Franklin Township,Constitutional Amendment 2,,No,,31,11,20
+Marion,Indiana Township,Constitutional Amendment 2,,No,,59,21,38
+Marion,Knoxville Four,Constitutional Amendment 2,,No,,103,43,60
+Marion,Knoxville One,Constitutional Amendment 2,,No,,131,59,72
+Marion,Knoxville Three,Constitutional Amendment 2,,No,,205,87,118
+Marion,Knoxville Township,Constitutional Amendment 2,,No,,48,0,48
+Marion,Knoxville Two,Constitutional Amendment 2,,No,,130,56,74
+Marion,OTLEY,Constitutional Amendment 2,,No,,173,72,101
+Marion,PLEASANTVILLE,Constitutional Amendment 2,,No,,274,108,166
+Marion,Pella Four,Constitutional Amendment 2,,No,,150,45,105
+Marion,Pella One,Constitutional Amendment 2,,No,,203,67,136
+Marion,Pella Two,Constitutional Amendment 2,,No,,216,92,124
+Marion,Three Pella,Constitutional Amendment 2,,No,,261,103,158
+Marion,Township Washington,Constitutional Amendment 2,,No,,34,10,24
+Marion,Union Township,Constitutional Amendment 2,,No,,50,36,14
+Marion,CLAY,Constitutional Amendment 2,,Yes,,442,97,345
+Marion,DALLAS,Constitutional Amendment 2,,Yes,,640,132,508
+Marion,Franklin Township,Constitutional Amendment 2,,Yes,,157,55,102
+Marion,Indiana Township,Constitutional Amendment 2,,Yes,,325,99,226
+Marion,Knoxville Four,Constitutional Amendment 2,,Yes,,591,224,367
+Marion,Knoxville One,Constitutional Amendment 2,,Yes,,642,272,370
+Marion,Knoxville Three,Constitutional Amendment 2,,Yes,,946,343,603
+Marion,Knoxville Township,Constitutional Amendment 2,,Yes,,366,0,366
+Marion,Knoxville Two,Constitutional Amendment 2,,Yes,,665,270,395
+Marion,OTLEY,Constitutional Amendment 2,,Yes,,1110,394,716
+Marion,PLEASANTVILLE,Constitutional Amendment 2,,Yes,,1231,408,823
+Marion,Pella Four,Constitutional Amendment 2,,Yes,,1120,351,769
+Marion,Pella One,Constitutional Amendment 2,,Yes,,1226,405,821
+Marion,Pella Two,Constitutional Amendment 2,,Yes,,1322,466,856
+Marion,Three Pella,Constitutional Amendment 2,,Yes,,1400,458,942
+Marion,Township Washington,Constitutional Amendment 2,,Yes,,247,60,187
+Marion,Union Township,Constitutional Amendment 2,,Yes,,177,89,88
+Marion,CLAY,County Agricultural Extension Council Member,,Cindi Dale,,251,61,190
+Marion,DALLAS,County Agricultural Extension Council Member,,Cindi Dale,,402,77,325
+Marion,Franklin Township,County Agricultural Extension Council Member,,Cindi Dale,,106,36,70
+Marion,Indiana Township,County Agricultural Extension Council Member,,Cindi Dale,,188,60,128
+Marion,Knoxville One,County Agricultural Extension Council Member,,Cindi Dale,,400,177,223
+Marion,Knoxville Three,County Agricultural Extension Council Member,,Cindi Dale,,203,0,203
+Marion,Knoxville Two,County Agricultural Extension Council Member,,Cindi Dale,,437,181,256
+Marion,CLAY,County Agricultural Extension Council Member,,Petersen,,284,58,226
+Marion,DALLAS,County Agricultural Extension Council Member,,Petersen,,575,105,470
+Marion,Franklin Township,County Agricultural Extension Council Member,,Petersen,,123,42,81
+Marion,Indiana Township,County Agricultural Extension Council Member,,Petersen,,246,69,177
+Marion,Knoxville One,County Agricultural Extension Council Member,,Petersen,,421,182,239
+Marion,Knoxville Three,County Agricultural Extension Council Member,,Petersen,,237,0,237
+Marion,Knoxville Two,County Agricultural Extension Council Member,,Petersen,,454,175,279
+Marion,Indiana Township,County Agricultural Extension Council Member,,Sherry,,201,0,201
+Marion,CLAY,County Agricultural Extension Council Member,,Sneller,,306,69,237
+Marion,DALLAS,County Agricultural Extension Council Member,,Sneller,,370,69,301
+Marion,Franklin Township,County Agricultural Extension Council Member,,Sneller,,105,36,69
+Marion,Indiana Township,County Agricultural Extension Council Member,,Sneller,,201,63,138
+Marion,Knoxville One,County Agricultural Extension Council Member,,Sneller,,385,163,222
+Marion,Knoxville Three,County Agricultural Extension Council Member,,Sneller,,228,0,228
+Marion,Knoxville Two,County Agricultural Extension Council Member,,Sneller,,416,165,251
+Marion,CLAY,County Agricultural Extension Council Member,,Willemsen,,278,60,218
+Marion,DALLAS,County Agricultural Extension Council Member,,Willemsen,,376,69,307
+Marion,Franklin Township,County Agricultural Extension Council Member,,Willemsen,,107,36,71
+Marion,Indiana Township,County Agricultural Extension Council Member,,Willemsen,,196,66,130
+Marion,Knoxville One,County Agricultural Extension Council Member,,Willemsen,,375,163,212
+Marion,Knoxville Three,County Agricultural Extension Council Member,,Willemsen,,208,0,208
+Marion,Knoxville Two,County Agricultural Extension Council Member,,Willemsen,,399,160,239
+Marion,CLAY,County Agricultural Extension Council Member,,Write-in,,3,1,2
+Marion,DALLAS,County Agricultural Extension Council Member,,Write-in,,5,0,5
+Marion,Franklin Township,County Agricultural Extension Council Member,,Write-in,,3,1,2
+Marion,Knoxville One,County Agricultural Extension Council Member,,Write-in,,10,5,5
+Marion,Knoxville Three,County Agricultural Extension Council Member,,Write-in,,1,0,1
+Marion,Knoxville Two,County Agricultural Extension Council Member,,Write-in,,9,1,8
+Marion,CLAY,County Attorney To Fill a Vacancy,,Jared Harmon,REP,445,93,352
+Marion,DALLAS,County Attorney To Fill a Vacancy,,Jared Harmon,REP,644,113,531
+Marion,Franklin Township,County Attorney To Fill a Vacancy,,Jared Harmon,REP,153,46,107
+Marion,Indiana Township,County Attorney To Fill a Vacancy,,Jared Harmon,REP,326,89,237
+Marion,Knoxville Four,County Attorney To Fill a Vacancy,,Jared Harmon,REP,582,201,381
+Marion,Knoxville One,County Attorney To Fill a Vacancy,,Jared Harmon,REP,628,258,370
+Marion,Knoxville Three,County Attorney To Fill a Vacancy,,Jared Harmon,REP,986,343,643
+Marion,Knoxville Township,County Attorney To Fill a Vacancy,,Jared Harmon,REP,1227,0,1227
+Marion,LIBERTY,County Attorney To Fill a Vacancy,,Jared Harmon,REP,354,68,286
+Marion,OTLEY,County Attorney To Fill a Vacancy,,Jared Harmon,REP,1091,369,722
+Marion,PLEASANTVILLE,County Attorney To Fill a Vacancy,,Jared Harmon,REP,1200,360,840
+Marion,Pella Four,County Attorney To Fill a Vacancy,,Jared Harmon,REP,1064,319,745
+Marion,Pella One,County Attorney To Fill a Vacancy,,Jared Harmon,REP,1189,373,816
+Marion,Pella Two,County Attorney To Fill a Vacancy,,Jared Harmon,REP,1285,442,843
+Marion,Three Pella,County Attorney To Fill a Vacancy,,Jared Harmon,REP,1380,438,942
+Marion,Two Knoxville,County Attorney To Fill a Vacancy,,Jared Harmon,REP,659,262,397
+Marion,Union Township,County Attorney To Fill a Vacancy,,Jared Harmon,REP,181,89,92
+Marion,Washington Township,County Attorney To Fill a Vacancy,,Jared Harmon,REP,238,54,184
+Marion,CLAY,County Attorney To Fill a Vacancy,,Write-in,,4,0,4
+Marion,DALLAS,County Attorney To Fill a Vacancy,,Write-in,,6,2,4
+Marion,Franklin Township,County Attorney To Fill a Vacancy,,Write-in,,0,0,0
+Marion,Knoxville Four,County Attorney To Fill a Vacancy,,Write-in,,10,2,8
+Marion,Knoxville One,County Attorney To Fill a Vacancy,,Write-in,,8,4,4
+Marion,Knoxville Three,County Attorney To Fill a Vacancy,,Write-in,,9,0,9
+Marion,Knoxville Township,County Attorney To Fill a Vacancy,,Write-in,,6,0,6
+Marion,LIBERTY,County Attorney To Fill a Vacancy,,Write-in,,3,0,3
+Marion,OTLEY,County Attorney To Fill a Vacancy,,Write-in,,3,0,3
+Marion,PLEASANTVILLE,County Attorney To Fill a Vacancy,,Write-in,,6,3,3
+Marion,Pella Four,County Attorney To Fill a Vacancy,,Write-in,,10,5,5
+Marion,Pella One,County Attorney To Fill a Vacancy,,Write-in,,12,1,11
+Marion,Pella Two,County Attorney To Fill a Vacancy,,Write-in,,6,2,4
+Marion,Three Pella,County Attorney To Fill a Vacancy,,Write-in,,11,4,7
+Marion,Two Knoxville,County Attorney To Fill a Vacancy,,Write-in,,10,5,5
+Marion,Union Township,County Attorney To Fill a Vacancy,,Write-in,,5,1,4
+Marion,Washington Township,County Attorney To Fill a Vacancy,,Write-in,,3,0,3
+Marion,CLAY,County Auditor,,"Grandia, Jake REP",,476,107,369
+Marion,DALLAS,County Auditor,,"Grandia, Jake REP",,671,128,543
+Marion,Four Knoxville,County Auditor,,"Grandia, Jake REP",,614,219,395
+Marion,Franklin Township,County Auditor,,"Grandia, Jake REP",,163,54,109
+Marion,Indiana Township,County Auditor,,"Grandia, Jake REP",,336,94,242
+Marion,Knoxville One,County Auditor,,"Grandia, Jake REP",,665,286,379
+Marion,Knoxville Three,County Auditor,,"Grandia, Jake REP",,1031,370,661
+Marion,Knoxville Township,County Auditor,,"Grandia, Jake REP",,1312,0,1312
+Marion,Knoxville Two,County Auditor,,"Grandia, Jake REP",,697,289,408
+Marion,LIBERTY,County Auditor,,"Grandia, Jake REP",,381,76,305
+Marion,OTLEY,County Auditor,,"Grandia, Jake REP",,1177,418,759
+Marion,PLEASANTVILLE,County Auditor,,"Grandia, Jake REP",,1266,404,862
+Marion,Pella Four,County Auditor,,"Grandia, Jake REP",,1133,350,783
+Marion,Pella One,County Auditor,,"Grandia, Jake REP",,1301,427,874
+Marion,Pella Three,County Auditor,,"Grandia, Jake REP",,1493,487,1006
+Marion,Pella Two,County Auditor,,"Grandia, Jake REP",,1390,502,888
+Marion,Union Township,County Auditor,,"Grandia, Jake REP",,194,95,99
+Marion,Washington Township,County Auditor,,"Grandia, Jake REP",,251,55,196
+Marion,CLAY,County Auditor,,Write-in,,3,0,3
+Marion,DALLAS,County Auditor,,Write-in,,7,0,7
+Marion,Four Knoxville,County Auditor,,Write-in,,8,1,7
+Marion,Franklin Township,County Auditor,,Write-in,,2,0,2
+Marion,Indiana Township,County Auditor,,Write-in,,0,0,0
+Marion,Knoxville One,County Auditor,,Write-in,,6,4,2
+Marion,Knoxville Three,County Auditor,,Write-in,,8,2,6
+Marion,Knoxville Township,County Auditor,,Write-in,,5,0,5
+Marion,Knoxville Two,County Auditor,,Write-in,,8,4,4
+Marion,LIBERTY,County Auditor,,Write-in,,2,0,2
+Marion,OTLEY,County Auditor,,Write-in,,1,0,1
+Marion,PLEASANTVILLE,County Auditor,,Write-in,,4,0,4
+Marion,Pella Four,County Auditor,,Write-in,,11,5,6
+Marion,Pella One,County Auditor,,Write-in,,5,0,5
+Marion,Pella Three,County Auditor,,Write-in,,8,4,4
+Marion,Pella Two,County Auditor,,Write-in,,9,4,5
+Marion,Union Township,County Auditor,,Write-in,,4,2,2
+Marion,Washington Township,County Auditor,,Write-in,,1,0,1
+Marion,DALLAS,County Board of Supervisors,,"Combs,",,0,0,0
+Marion,Indiana Township,County Board of Supervisors,,"Combs,",,2,2,0
+Marion,Knoxville One,County Board of Supervisors,,"Combs,",,0,0,0
+Marion,Knoxville Three,County Board of Supervisors,,"Combs,",,0,0,0
+Marion,Knoxville Township,County Board of Supervisors,,"Combs,",,0,0,0
+Marion,Knoxville Two,County Board of Supervisors,,"Combs,",,0,0,0
+Marion,LIBERTY,County Board of Supervisors,,"Combs,",,0,0,0
+Marion,OTLEY,County Board of Supervisors,,"Combs,",,0,0,0
+Marion,One Pella,County Board of Supervisors,,"Combs,",,0,0,0
+Marion,PLEASANTVILLE,County Board of Supervisors,,"Combs,",,0,0,0
+Marion,Pella Four,County Board of Supervisors,,"Combs,",,0,0,0
+Marion,Pella Three,County Board of Supervisors,,"Combs,",,0,0,0
+Marion,Pella Two,County Board of Supervisors,,"Combs,",,0,0,0
+Marion,Union Township,County Board of Supervisors,,"Combs,",,0,0,0
+Marion,Washington Township,County Board of Supervisors,,"Combs,",,0,0,0
+Marion,CLAY,County Board of Supervisors,,James Mueller,REP,252,63,189
+Marion,DALLAS,County Board of Supervisors,,James Mueller,REP,390,76,314
+Marion,Franklin Township,County Board of Supervisors,,James Mueller,REP,107,35,72
+Marion,Indiana Township,County Board of Supervisors,,James Mueller,REP,178,53,125
+Marion,Knoxville Four,County Board of Supervisors,,James Mueller,REP,336,129,207
+Marion,Knoxville One,County Board of Supervisors,,James Mueller,REP,332,142,190
+Marion,Knoxville Three,County Board of Supervisors,,James Mueller,REP,493,190,303
+Marion,Knoxville Township,County Board of Supervisors,,James Mueller,REP,984,0,984
+Marion,Knoxville Two,County Board of Supervisors,,James Mueller,REP,370,163,207
+Marion,LIBERTY,County Board of Supervisors,,James Mueller,REP,199,42,157
+Marion,OTLEY,County Board of Supervisors,,James Mueller,REP,846,291,555
+Marion,One Pella,County Board of Supervisors,,James Mueller,REP,875,287,588
+Marion,PLEASANTVILLE,County Board of Supervisors,,James Mueller,REP,743,237,506
+Marion,Pella Four,County Board of Supervisors,,James Mueller,REP,780,244,536
+Marion,Pella Three,County Board of Supervisors,,James Mueller,REP,1054,353,701
+Marion,Pella Two,County Board of Supervisors,,James Mueller,REP,1005,374,631
+Marion,Union Township,County Board of Supervisors,,James Mueller,REP,106,50,56
+Marion,Washington Township,County Board of Supervisors,,James Mueller,REP,143,35,108
+Marion,CLAY,County Board of Supervisors,,Kacie Nicholson,DEM,127,31,96
+Marion,DALLAS,County Board of Supervisors,,Kacie Nicholson,DEM,309,75,234
+Marion,Franklin Township,County Board of Supervisors,,Kacie Nicholson,DEM,47,24,23
+Marion,Indiana Township,County Board of Supervisors,,Kacie Nicholson,DEM,141,57,84
+Marion,Knoxville Four,County Board of Supervisors,,Kacie Nicholson,DEM,306,128,178
+Marion,Knoxville One,County Board of Supervisors,,Kacie Nicholson,DEM,318,161,157
+Marion,Knoxville Three,County Board of Supervisors,,Kacie Nicholson,DEM,496,224,272
+Marion,Knoxville Township,County Board of Supervisors,,Kacie Nicholson,DEM,264,0,264
+Marion,Knoxville Two,County Board of Supervisors,,Kacie Nicholson,DEM,335,150,185
+Marion,LIBERTY,County Board of Supervisors,,Kacie Nicholson,DEM,122,32,90
+Marion,OTLEY,County Board of Supervisors,,Kacie Nicholson,DEM,370,167,203
+Marion,One Pella,County Board of Supervisors,,Kacie Nicholson,DEM,413,160,253
+Marion,PLEASANTVILLE,County Board of Supervisors,,Kacie Nicholson,DEM,558,234,324
+Marion,Pella Four,County Board of Supervisors,,Kacie Nicholson,DEM,380,124,256
+Marion,Pella Three,County Board of Supervisors,,Kacie Nicholson,DEM,527,195,332
+Marion,Pella Two,County Board of Supervisors,,Kacie Nicholson,DEM,414,169,245
+Marion,Union Township,County Board of Supervisors,,Kacie Nicholson,DEM,88,56,32
+Marion,Washington Township,County Board of Supervisors,,Kacie Nicholson,DEM,93,30,63
+Marion,CLAY,County Board of Supervisors,,Steve Mc REP,,407,89,318
+Marion,DALLAS,County Board of Supervisors,,Steve Mc REP,,437,85,352
+Marion,Franklin Township,County Board of Supervisors,,Steve Mc REP,,140,47,93
+Marion,Indiana Township,County Board of Supervisors,,Steve Mc REP,,265,71,194
+Marion,Knoxville Four,County Board of Supervisors,,Steve Mc REP,,432,170,262
+Marion,Knoxville One,County Board of Supervisors,,Steve Mc REP,,496,220,276
+Marion,Knoxville Three,County Board of Supervisors,,Steve Mc REP,,724,268,456
+Marion,Knoxville Township,County Board of Supervisors,,Steve Mc REP,,942,0,942
+Marion,Knoxville Two,County Board of Supervisors,,Steve Mc REP,,482,203,279
+Marion,LIBERTY,County Board of Supervisors,,Steve Mc REP,,334,70,264
+Marion,OTLEY,County Board of Supervisors,,Steve Mc REP,,781,280,501
+Marion,One Pella,County Board of Supervisors,,Steve Mc REP,,904,285,619
+Marion,PLEASANTVILLE,County Board of Supervisors,,Steve Mc REP,,881,276,605
+Marion,Pella Four,County Board of Supervisors,,Steve Mc REP,,708,243,465
+Marion,Pella Three,County Board of Supervisors,,Steve Mc REP,,1021,350,671
+Marion,Pella Two,County Board of Supervisors,,Steve Mc REP,,938,355,583
+Marion,Union Township,County Board of Supervisors,,Steve Mc REP,,143,69,74
+Marion,Washington Township,County Board of Supervisors,,Steve Mc REP,,200,46,154
+Marion,DALLAS,County Board of Supervisors,,Write-in,,26,2,24
+Marion,Indiana Township,County Board of Supervisors,,Write-in,,11,1,10
+Marion,Knoxville One,County Board of Supervisors,,Write-in,,14,0,14
+Marion,Knoxville Three,County Board of Supervisors,,Write-in,,18,2,16
+Marion,Knoxville Township,County Board of Supervisors,,Write-in,,12,0,12
+Marion,Knoxville Two,County Board of Supervisors,,Write-in,,24,13,11
+Marion,LIBERTY,County Board of Supervisors,,Write-in,,4,1,3
+Marion,OTLEY,County Board of Supervisors,,Write-in,,8,3,5
+Marion,One Pella,County Board of Supervisors,,Write-in,,13,4,9
+Marion,PLEASANTVILLE,County Board of Supervisors,,Write-in,,7,1,6
+Marion,Pella Four,County Board of Supervisors,,Write-in,,18,9,9
+Marion,Pella Three,County Board of Supervisors,,Write-in,,14,5,9
+Marion,Pella Two,County Board of Supervisors,,Write-in,,14,3,11
+Marion,Union Township,County Board of Supervisors,,Write-in,,3,1,2
+Marion,Washington Township,County Board of Supervisors,,Write-in,,3,1,2
+Marion,CLAY,County Sheriff,,Jason Sandholdt,REP,459,96,363
+Marion,DALLAS,County Sheriff,,Jason Sandholdt,REP,657,119,538
+Marion,Franklin Township,County Sheriff,,Jason Sandholdt,REP,151,45,106
+Marion,Indiana Township,County Sheriff,,Jason Sandholdt,REP,340,100,240
+Marion,Knoxville Four,County Sheriff,,Jason Sandholdt,REP,589,213,376
+Marion,Knoxville One,County Sheriff,,Jason Sandholdt,REP,679,290,389
+Marion,Knoxville Three,County Sheriff,,Jason Sandholdt,REP,1004,362,642
+Marion,Knoxville Township,County Sheriff,,Jason Sandholdt,REP,1296,0,1296
+Marion,Knoxville Two,County Sheriff,,Jason Sandholdt,REP,680,273,407
+Marion,LIBERTY,County Sheriff,,Jason Sandholdt,REP,377,72,305
+Marion,OTLEY,County Sheriff,,Jason Sandholdt,REP,1156,399,757
+Marion,PLEASANTVILLE,County Sheriff,,Jason Sandholdt,REP,1258,384,874
+Marion,Pella Four,County Sheriff,,Jason Sandholdt,REP,1111,333,778
+Marion,Pella One,County Sheriff,,Jason Sandholdt,REP,1278,409,869
+Marion,Pella Three,County Sheriff,,Jason Sandholdt,REP,1462,467,995
+Marion,Pella Two,County Sheriff,,Jason Sandholdt,REP,1368,491,877
+Marion,Union Township,County Sheriff,,Jason Sandholdt,REP,187,91,96
+Marion,Washington Township,County Sheriff,,Jason Sandholdt,REP,252,57,195
+Marion,CLAY,County Sheriff,,Write-in,,6,0,6
+Marion,DALLAS,County Sheriff,,Write-in,,23,5,18
+Marion,Franklin Township,County Sheriff,,Write-in,,7,2,5
+Marion,Indiana Township,County Sheriff,,Write-in,,11,2,9
+Marion,Knoxville Four,County Sheriff,,Write-in,,27,8,19
+Marion,Knoxville One,County Sheriff,,Write-in,,10,3,7
+Marion,Knoxville Three,County Sheriff,,Write-in,,28,8,20
+Marion,Knoxville Township,County Sheriff,,Write-in,,12,0,12
+Marion,Knoxville Two,County Sheriff,,Write-in,,23,6,17
+Marion,LIBERTY,County Sheriff,,Write-in,,6,0,6
+Marion,OTLEY,County Sheriff,,Write-in,,16,3,13
+Marion,PLEASANTVILLE,County Sheriff,,Write-in,,27,10,17
+Marion,Pella Four,County Sheriff,,Write-in,,15,7,8
+Marion,Pella One,County Sheriff,,Write-in,,21,4,17
+Marion,Pella Three,County Sheriff,,Write-in,,16,5,11
+Marion,Pella Two,County Sheriff,,Write-in,,17,4,13
+Marion,Union Township,County Sheriff,,Write-in,,10,3,7
+Marion,Washington Township,County Sheriff,,Write-in,,8,1,7
+Marion,CLAY,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,139,28,111
+Marion,DALLAS,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,279,55,224
+Marion,Franklin Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,47,11,36
+Marion,Indiana Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,115,33,82
+Marion,Knoxville Four,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,158,51,107
+Marion,Knoxville One,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,196,79,117
+Marion,Knoxville Three,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,288,103,185
+Marion,Knoxville Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,95,0,95
+Marion,Knoxville Two,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,163,53,110
+Marion,OTLEY,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,246,68,178
+Marion,PLEASANTVILLE,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,373,140,233
+Marion,Pella Four,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,210,69,141
+Marion,Pella One,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,256,66,190
+Marion,Pella Three,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,313,107,206
+Marion,Pella Two,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,323,102,221
+Marion,Union Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,64,33,31
+Marion,Washington Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,73,13,60
+Marion,CLAY,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,229,54,175
+Marion,DALLAS,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,345,66,279
+Marion,Franklin Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,98,30,68
+Marion,Indiana Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,180,58,122
+Marion,Knoxville Four,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,383,140,243
+Marion,Knoxville One,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,352,134,218
+Marion,Knoxville Three,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,575,177,398
+Marion,Knoxville Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,220,0,220
+Marion,Knoxville Two,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,421,164,257
+Marion,OTLEY,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,683,240,443
+Marion,PLEASANTVILLE,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,735,204,531
+Marion,Pella Four,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,669,195,474
+Marion,Pella One,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,772,249,523
+Marion,Pella Three,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,919,298,621
+Marion,Pella Two,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,791,281,510
+Marion,Union Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,102,52,50
+Marion,Washington Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,133,36,97
+Marion,CLAY,Court of Appeals Judge - Mary Ellen Tabor,,No,,146,27,119
+Marion,DALLAS,Court of Appeals Judge - Mary Ellen Tabor,,No,,263,55,208
+Marion,Franklin Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,49,11,38
+Marion,Indiana Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,112,35,77
+Marion,Knoxville Four,Court of Appeals Judge - Mary Ellen Tabor,,No,,159,53,106
+Marion,Knoxville One,Court of Appeals Judge - Mary Ellen Tabor,,No,,186,74,112
+Marion,Knoxville Three,Court of Appeals Judge - Mary Ellen Tabor,,No,,294,106,188
+Marion,Knoxville Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,112,0,112
+Marion,Knoxville Two,Court of Appeals Judge - Mary Ellen Tabor,,No,,163,49,114
+Marion,OTLEY,Court of Appeals Judge - Mary Ellen Tabor,,No,,313,96,217
+Marion,PLEASANTVILLE,Court of Appeals Judge - Mary Ellen Tabor,,No,,376,134,242
+Marion,Pella Four,Court of Appeals Judge - Mary Ellen Tabor,,No,,246,84,162
+Marion,Pella One,Court of Appeals Judge - Mary Ellen Tabor,,No,,273,67,206
+Marion,Pella Three,Court of Appeals Judge - Mary Ellen Tabor,,No,,372,129,243
+Marion,Pella Two,Court of Appeals Judge - Mary Ellen Tabor,,No,,360,118,242
+Marion,Union Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,63,34,29
+Marion,Washington Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,82,17,65
+Marion,CLAY,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,229,55,174
+Marion,DALLAS,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,358,66,292
+Marion,Franklin Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,95,29,66
+Marion,Indiana Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,187,56,131
+Marion,Knoxville Four,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,386,139,247
+Marion,Knoxville One,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,367,141,226
+Marion,Knoxville Three,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,571,178,393
+Marion,Knoxville Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,205,0,205
+Marion,Knoxville Two,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,422,169,253
+Marion,OTLEY,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,612,214,398
+Marion,PLEASANTVILLE,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,734,211,523
+Marion,Pella Four,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,632,176,456
+Marion,Pella One,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,746,245,501
+Marion,Pella Three,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,859,272,587
+Marion,Pella Two,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,759,266,493
+Marion,Union Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,103,52,51
+Marion,Washington Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,125,32,93
+Marion,CLAY,Court of Appeals Judge - Samuel Langholz,,No,,135,25,110
+Marion,DALLAS,Court of Appeals Judge - Samuel Langholz,,No,,260,53,207
+Marion,Four Pella,Court of Appeals Judge - Samuel Langholz,,No,,198,62,136
+Marion,Franklin Township,Court of Appeals Judge - Samuel Langholz,,No,,44,10,34
+Marion,Indiana Township,Court of Appeals Judge - Samuel Langholz,,No,,119,31,88
+Marion,Knoxville Four,Court of Appeals Judge - Samuel Langholz,,No,,184,64,120
+Marion,Knoxville One,Court of Appeals Judge - Samuel Langholz,,No,,204,85,119
+Marion,Knoxville Three,Court of Appeals Judge - Samuel Langholz,,No,,302,114,188
+Marion,Knoxville Township,Court of Appeals Judge - Samuel Langholz,,No,,101,0,101
+Marion,Knoxville Two,Court of Appeals Judge - Samuel Langholz,,No,,196,76,120
+Marion,OTLEY,Court of Appeals Judge - Samuel Langholz,,No,,249,88,161
+Marion,PLEASANTVILLE,Court of Appeals Judge - Samuel Langholz,,No,,390,142,248
+Marion,Pella One,Court of Appeals Judge - Samuel Langholz,,No,,271,85,186
+Marion,Pella Three,Court of Appeals Judge - Samuel Langholz,,No,,333,121,212
+Marion,Pella Two,Court of Appeals Judge - Samuel Langholz,,No,,323,122,201
+Marion,Union Township,Court of Appeals Judge - Samuel Langholz,,No,,68,40,28
+Marion,Washington Township,Court of Appeals Judge - Samuel Langholz,,No,,81,17,64
+Marion,CLAY,Court of Appeals Judge - Samuel Langholz,,Yes,,245,58,187
+Marion,DALLAS,Court of Appeals Judge - Samuel Langholz,,Yes,,373,70,303
+Marion,Four Pella,Court of Appeals Judge - Samuel Langholz,,Yes,,687,201,486
+Marion,Franklin Township,Court of Appeals Judge - Samuel Langholz,,Yes,,98,28,70
+Marion,Indiana Township,Court of Appeals Judge - Samuel Langholz,,Yes,,185,60,125
+Marion,Knoxville Four,Court of Appeals Judge - Samuel Langholz,,Yes,,367,130,237
+Marion,Knoxville One,Court of Appeals Judge - Samuel Langholz,,Yes,,362,138,224
+Marion,Knoxville Three,Court of Appeals Judge - Samuel Langholz,,Yes,,579,176,403
+Marion,Knoxville Township,Court of Appeals Judge - Samuel Langholz,,Yes,,221,0,221
+Marion,Knoxville Two,Court of Appeals Judge - Samuel Langholz,,Yes,,401,147,254
+Marion,OTLEY,Court of Appeals Judge - Samuel Langholz,,Yes,,688,226,462
+Marion,PLEASANTVILLE,Court of Appeals Judge - Samuel Langholz,,Yes,,734,211,523
+Marion,Pella One,Court of Appeals Judge - Samuel Langholz,,Yes,,768,233,535
+Marion,Pella Three,Court of Appeals Judge - Samuel Langholz,,Yes,,926,291,635
+Marion,Pella Two,Court of Appeals Judge - Samuel Langholz,,Yes,,801,257,544
+Marion,Union Township,Court of Appeals Judge - Samuel Langholz,,Yes,,99,46,53
+Marion,Washington Township,Court of Appeals Judge - Samuel Langholz,,Yes,,125,31,94
+Marion,CLAY,Court of Appeals Judge - Tyler J. Buller,,No,,138,27,111
+Marion,DALLAS,Court of Appeals Judge - Tyler J. Buller,,No,,253,52,201
+Marion,Franklin Township,Court of Appeals Judge - Tyler J. Buller,,No,,45,10,35
+Marion,Indiana Township,Court of Appeals Judge - Tyler J. Buller,,No,,112,37,75
+Marion,Knoxville Four,Court of Appeals Judge - Tyler J. Buller,,No,,185,71,114
+Marion,Knoxville One,Court of Appeals Judge - Tyler J. Buller,,No,,187,71,116
+Marion,Knoxville Three,Court of Appeals Judge - Tyler J. Buller,,No,,294,104,190
+Marion,Knoxville Township,Court of Appeals Judge - Tyler J. Buller,,No,,93,0,93
+Marion,Knoxville Two,Court of Appeals Judge - Tyler J. Buller,,No,,178,63,115
+Marion,OTLEY,Court of Appeals Judge - Tyler J. Buller,,No,,298,99,199
+Marion,PLEASANTVILLE,Court of Appeals Judge - Tyler J. Buller,,No,,397,146,251
+Marion,Pella Four,Court of Appeals Judge - Tyler J. Buller,,No,,228,77,151
+Marion,Pella One,Court of Appeals Judge - Tyler J. Buller,,No,,292,75,217
+Marion,Pella Three,Court of Appeals Judge - Tyler J. Buller,,No,,361,128,233
+Marion,Pella Two,Court of Appeals Judge - Tyler J. Buller,,No,,345,118,227
+Marion,Union Township,Court of Appeals Judge - Tyler J. Buller,,No,,62,35,27
+Marion,Washington Township,Court of Appeals Judge - Tyler J. Buller,,No,,86,19,67
+Marion,CLAY,Court of Appeals Judge - Tyler J. Buller,,Yes,,231,53,178
+Marion,DALLAS,Court of Appeals Judge - Tyler J. Buller,,Yes,,373,70,303
+Marion,Franklin Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,97,28,69
+Marion,Indiana Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,184,53,131
+Marion,Knoxville Four,Court of Appeals Judge - Tyler J. Buller,,Yes,,353,118,235
+Marion,Knoxville One,Court of Appeals Judge - Tyler J. Buller,,Yes,,368,150,218
+Marion,Knoxville Three,Court of Appeals Judge - Tyler J. Buller,,Yes,,555,172,383
+Marion,Knoxville Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,214,0,214
+Marion,Knoxville Two,Court of Appeals Judge - Tyler J. Buller,,Yes,,404,153,251
+Marion,OTLEY,Court of Appeals Judge - Tyler J. Buller,,Yes,,619,203,416
+Marion,PLEASANTVILLE,Court of Appeals Judge - Tyler J. Buller,,Yes,,701,195,506
+Marion,Pella Four,Court of Appeals Judge - Tyler J. Buller,,Yes,,644,181,463
+Marion,Pella One,Court of Appeals Judge - Tyler J. Buller,,Yes,,728,235,493
+Marion,Pella Three,Court of Appeals Judge - Tyler J. Buller,,Yes,,862,276,586
+Marion,Pella Two,Court of Appeals Judge - Tyler J. Buller,,Yes,,767,258,509
+Marion,Union Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,105,52,53
+Marion,Washington Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,118,30,88
+Marion,CLAY,District 5A Associate Judge - Kevin Parker,,No,,125,26,99
+Marion,DALLAS,District 5A Associate Judge - Kevin Parker,,No,,246,48,198
+Marion,Franklin Township,District 5A Associate Judge - Kevin Parker,,No,,45,12,33
+Marion,Indiana Township,District 5A Associate Judge - Kevin Parker,,No,,100,24,76
+Marion,Knoxville Four,District 5A Associate Judge - Kevin Parker,,No,,163,57,106
+Marion,Knoxville One,District 5A Associate Judge - Kevin Parker,,No,,179,68,111
+Marion,Knoxville Three,District 5A Associate Judge - Kevin Parker,,No,,270,93,177
+Marion,Knoxville Township,District 5A Associate Judge - Kevin Parker,,No,,95,0,95
+Marion,Knoxville Two,District 5A Associate Judge - Kevin Parker,,No,,157,57,100
+Marion,OTLEY,District 5A Associate Judge - Kevin Parker,,No,,293,104,189
+Marion,PLEASANTVILLE,District 5A Associate Judge - Kevin Parker,,No,,350,131,219
+Marion,Pella Four,District 5A Associate Judge - Kevin Parker,,No,,218,71,147
+Marion,Pella One,District 5A Associate Judge - Kevin Parker,,No,,265,58,207
+Marion,Pella Three,District 5A Associate Judge - Kevin Parker,,No,,335,120,215
+Marion,Pella Two,District 5A Associate Judge - Kevin Parker,,No,,315,109,206
+Marion,Union Township,District 5A Associate Judge - Kevin Parker,,No,,53,29,24
+Marion,Washington Township,District 5A Associate Judge - Kevin Parker,,No,,70,15,55
+Marion,CLAY,District 5A Associate Judge - Kevin Parker,,Yes,,240,52,188
+Marion,DALLAS,District 5A Associate Judge - Kevin Parker,,Yes,,372,67,305
+Marion,Franklin Township,District 5A Associate Judge - Kevin Parker,,Yes,,94,24,70
+Marion,Indiana Township,District 5A Associate Judge - Kevin Parker,,Yes,,197,65,132
+Marion,Knoxville Four,District 5A Associate Judge - Kevin Parker,,Yes,,371,130,241
+Marion,Knoxville One,District 5A Associate Judge - Kevin Parker,,Yes,,371,141,230
+Marion,Knoxville Three,District 5A Associate Judge - Kevin Parker,,Yes,,585,187,398
+Marion,Knoxville Township,District 5A Associate Judge - Kevin Parker,,Yes,,214,0,214
+Marion,Knoxville Two,District 5A Associate Judge - Kevin Parker,,Yes,,422,158,264
+Marion,OTLEY,District 5A Associate Judge - Kevin Parker,,Yes,,603,199,404
+Marion,PLEASANTVILLE,District 5A Associate Judge - Kevin Parker,,Yes,,735,198,537
+Marion,Pella Four,District 5A Associate Judge - Kevin Parker,,Yes,,630,173,457
+Marion,Pella One,District 5A Associate Judge - Kevin Parker,,Yes,,737,247,490
+Marion,Pella Three,District 5A Associate Judge - Kevin Parker,,Yes,,860,265,595
+Marion,Pella Two,District 5A Associate Judge - Kevin Parker,,Yes,,774,260,514
+Marion,Union Township,District 5A Associate Judge - Kevin Parker,,Yes,,111,53,58
+Marion,Washington Township,District 5A Associate Judge - Kevin Parker,,Yes,,137,32,105
+Marion,CLAY,District 5A Associate Judge - Virginia Cobb,,No,,123,25,98
+Marion,DALLAS,District 5A Associate Judge - Virginia Cobb,,No,,257,49,208
+Marion,Franklin Township,District 5A Associate Judge - Virginia Cobb,,No,,43,9,34
+Marion,Indiana Township,District 5A Associate Judge - Virginia Cobb,,No,,110,26,84
+Marion,Knoxville Four,District 5A Associate Judge - Virginia Cobb,,No,,147,48,99
+Marion,Knoxville Three,District 5A Associate Judge - Virginia Cobb,,No,,267,91,176
+Marion,Knoxville Township,District 5A Associate Judge - Virginia Cobb,,No,,99,0,99
+Marion,Knoxville Two,District 5A Associate Judge - Virginia Cobb,,No,,163,53,110
+Marion,OTLEY,District 5A Associate Judge - Virginia Cobb,,No,,231,77,154
+Marion,One Knoxville,District 5A Associate Judge - Virginia Cobb,,No,,180,71,109
+Marion,PLEASANTVILLE,District 5A Associate Judge - Virginia Cobb,,No,,334,120,214
+Marion,Pella Four,District 5A Associate Judge - Virginia Cobb,,No,,189,68,121
+Marion,Pella One,District 5A Associate Judge - Virginia Cobb,,No,,239,51,188
+Marion,Pella Three,District 5A Associate Judge - Virginia Cobb,,No,,274,94,180
+Marion,Pella Two,District 5A Associate Judge - Virginia Cobb,,No,,270,89,181
+Marion,Union Township,District 5A Associate Judge - Virginia Cobb,,No,,60,30,30
+Marion,Washington Township,District 5A Associate Judge - Virginia Cobb,,No,,67,10,57
+Marion,CLAY,District 5A Associate Judge - Virginia Cobb,,Yes,,249,59,190
+Marion,DALLAS,District 5A Associate Judge - Virginia Cobb,,Yes,,363,67,296
+Marion,Franklin Township,District 5A Associate Judge - Virginia Cobb,,Yes,,98,29,69
+Marion,Indiana Township,District 5A Associate Judge - Virginia Cobb,,Yes,,186,62,124
+Marion,Knoxville Four,District 5A Associate Judge - Virginia Cobb,,Yes,,394,140,254
+Marion,Knoxville Three,District 5A Associate Judge - Virginia Cobb,,Yes,,586,184,402
+Marion,Knoxville Township,District 5A Associate Judge - Virginia Cobb,,Yes,,209,0,209
+Marion,Knoxville Two,District 5A Associate Judge - Virginia Cobb,,Yes,,422,162,260
+Marion,OTLEY,District 5A Associate Judge - Virginia Cobb,,Yes,,672,226,446
+Marion,One Knoxville,District 5A Associate Judge - Virginia Cobb,,Yes,,374,142,232
+Marion,PLEASANTVILLE,District 5A Associate Judge - Virginia Cobb,,Yes,,756,215,541
+Marion,Pella Four,District 5A Associate Judge - Virginia Cobb,,Yes,,661,183,478
+Marion,Pella One,District 5A Associate Judge - Virginia Cobb,,Yes,,774,256,518
+Marion,Pella Three,District 5A Associate Judge - Virginia Cobb,,Yes,,932,294,638
+Marion,Pella Two,District 5A Associate Judge - Virginia Cobb,,Yes,,822,282,540
+Marion,Union Township,District 5A Associate Judge - Virginia Cobb,,Yes,,104,51,53
+Marion,Washington Township,District 5A Associate Judge - Virginia Cobb,,Yes,,138,38,100
+Marion,CLAY,District 5A Judge - Bradley McCall,,No,,133,31,102
+Marion,DALLAS,District 5A Judge - Bradley McCall,,No,,252,53,199
+Marion,Franklin Township,District 5A Judge - Bradley McCall,,No,,44,10,34
+Marion,Indiana Township,District 5A Judge - Bradley McCall,,No,,112,30,82
+Marion,Knoxville Four,District 5A Judge - Bradley McCall,,No,,157,53,104
+Marion,Knoxville One,District 5A Judge - Bradley McCall,,No,,172,69,103
+Marion,Knoxville Three,District 5A Judge - Bradley McCall,,No,,283,88,195
+Marion,Knoxville Township,District 5A Judge - Bradley McCall,,No,,102,0,102
+Marion,Knoxville Two,District 5A Judge - Bradley McCall,,No,,169,60,109
+Marion,OTLEY,District 5A Judge - Bradley McCall,,No,,294,110,184
+Marion,One Pella,District 5A Judge - Bradley McCall,,No,,283,67,216
+Marion,PLEASANTVILLE,District 5A Judge - Bradley McCall,,No,,365,134,231
+Marion,Pella Four,District 5A Judge - Bradley McCall,,No,,233,81,152
+Marion,Pella Three,District 5A Judge - Bradley McCall,,No,,345,128,217
+Marion,Pella Two,District 5A Judge - Bradley McCall,,No,,331,109,222
+Marion,Union Township,District 5A Judge - Bradley McCall,,No,,55,29,26
+Marion,Washington Township,District 5A Judge - Bradley McCall,,No,,78,16,62
+Marion,CLAY,District 5A Judge - Bradley McCall,,Yes,,233,48,185
+Marion,DALLAS,District 5A Judge - Bradley McCall,,Yes,,364,63,301
+Marion,Franklin Township,District 5A Judge - Bradley McCall,,Yes,,96,27,69
+Marion,Indiana Township,District 5A Judge - Bradley McCall,,Yes,,183,60,123
+Marion,Knoxville Four,District 5A Judge - Bradley McCall,,Yes,,375,131,244
+Marion,Knoxville One,District 5A Judge - Bradley McCall,,Yes,,375,142,233
+Marion,Knoxville Three,District 5A Judge - Bradley McCall,,Yes,,570,187,383
+Marion,Knoxville Township,District 5A Judge - Bradley McCall,,Yes,,206,0,206
+Marion,Knoxville Two,District 5A Judge - Bradley McCall,,Yes,,412,156,256
+Marion,OTLEY,District 5A Judge - Bradley McCall,,Yes,,620,202,418
+Marion,One Pella,District 5A Judge - Bradley McCall,,Yes,,725,243,482
+Marion,PLEASANTVILLE,District 5A Judge - Bradley McCall,,Yes,,711,191,520
+Marion,Pella Four,District 5A Judge - Bradley McCall,,Yes,,622,168,454
+Marion,Pella Three,District 5A Judge - Bradley McCall,,Yes,,859,258,601
+Marion,Pella Two,District 5A Judge - Bradley McCall,,Yes,,760,260,500
+Marion,Union Township,District 5A Judge - Bradley McCall,,Yes,,110,53,57
+Marion,Washington Township,District 5A Judge - Bradley McCall,,Yes,,126,31,95
+Marion,CLAY,District 5A Judge - Charles Sinnard,,No,,136,23,113
+Marion,DALLAS,District 5A Judge - Charles Sinnard,,No,,258,51,207
+Marion,Franklin Township,District 5A Judge - Charles Sinnard,,No,,43,9,34
+Marion,Indiana Township,District 5A Judge - Charles Sinnard,,No,,107,26,81
+Marion,Knoxville Four,District 5A Judge - Charles Sinnard,,No,,155,55,100
+Marion,Knoxville One,District 5A Judge - Charles Sinnard,,No,,181,62,119
+Marion,Knoxville Three,District 5A Judge - Charles Sinnard,,No,,272,91,181
+Marion,Knoxville Township,District 5A Judge - Charles Sinnard,,No,,93,0,93
+Marion,Knoxville Two,District 5A Judge - Charles Sinnard,,No,,161,53,108
+Marion,OTLEY,District 5A Judge - Charles Sinnard,,No,,223,76,147
+Marion,PLEASANTVILLE,District 5A Judge - Charles Sinnard,,No,,337,124,213
+Marion,Pella Four,District 5A Judge - Charles Sinnard,,No,,190,67,123
+Marion,Pella One,District 5A Judge - Charles Sinnard,,No,,238,61,177
+Marion,Pella Three,District 5A Judge - Charles Sinnard,,No,,263,87,176
+Marion,Pella Two,District 5A Judge - Charles Sinnard,,No,,271,96,175
+Marion,Union Township,District 5A Judge - Charles Sinnard,,No,,57,31,26
+Marion,Washington Township,District 5A Judge - Charles Sinnard,,No,,64,12,52
+Marion,CLAY,District 5A Judge - Charles Sinnard,,Yes,,228,56,172
+Marion,DALLAS,District 5A Judge - Charles Sinnard,,Yes,,357,63,294
+Marion,Franklin Township,District 5A Judge - Charles Sinnard,,Yes,,97,28,69
+Marion,Indiana Township,District 5A Judge - Charles Sinnard,,Yes,,187,63,124
+Marion,Knoxville Four,District 5A Judge - Charles Sinnard,,Yes,,377,130,247
+Marion,Knoxville One,District 5A Judge - Charles Sinnard,,Yes,,365,148,217
+Marion,Knoxville Three,District 5A Judge - Charles Sinnard,,Yes,,583,185,398
+Marion,Knoxville Township,District 5A Judge - Charles Sinnard,,Yes,,213,0,213
+Marion,Knoxville Two,District 5A Judge - Charles Sinnard,,Yes,,420,162,258
+Marion,OTLEY,District 5A Judge - Charles Sinnard,,Yes,,678,228,450
+Marion,PLEASANTVILLE,District 5A Judge - Charles Sinnard,,Yes,,748,208,540
+Marion,Pella Four,District 5A Judge - Charles Sinnard,,Yes,,662,182,480
+Marion,Pella One,District 5A Judge - Charles Sinnard,,Yes,,762,248,514
+Marion,Pella Three,District 5A Judge - Charles Sinnard,,Yes,,945,300,645
+Marion,Pella Two,District 5A Judge - Charles Sinnard,,Yes,,816,271,545
+Marion,Union Township,District 5A Judge - Charles Sinnard,,Yes,,107,53,54
+Marion,Washington Township,District 5A Judge - Charles Sinnard,,Yes,,139,35,104
+Marion,CLAY,District 5A Judge - David Faith,,No,,119,21,98
+Marion,DALLAS,District 5A Judge - David Faith,,No,,252,50,202
+Marion,Franklin Township,District 5A Judge - David Faith,,No,,40,9,31
+Marion,Indiana Township,District 5A Judge - David Faith,,No,,107,25,82
+Marion,Knoxville Four,District 5A Judge - David Faith,,No,,160,58,102
+Marion,Knoxville One,District 5A Judge - David Faith,,No,,178,66,112
+Marion,Knoxville Three,District 5A Judge - David Faith,,No,,255,90,165
+Marion,Knoxville Township,District 5A Judge - David Faith,,No,,84,0,84
+Marion,Knoxville Two,District 5A Judge - David Faith,,No,,143,47,96
+Marion,OTLEY,District 5A Judge - David Faith,,No,,214,74,140
+Marion,One Pella,District 5A Judge - David Faith,,No,,228,64,164
+Marion,PLEASANTVILLE,District 5A Judge - David Faith,,No,,337,124,213
+Marion,Pella Four,District 5A Judge - David Faith,,No,,178,63,115
+Marion,Pella Three,District 5A Judge - David Faith,,No,,256,98,158
+Marion,Pella Two,District 5A Judge - David Faith,,No,,249,89,160
+Marion,Union Township,District 5A Judge - David Faith,,No,,58,33,25
+Marion,Washington Township,District 5A Judge - David Faith,,No,,69,15,54
+Marion,CLAY,District 5A Judge - David Faith,,Yes,,252,62,190
+Marion,DALLAS,District 5A Judge - David Faith,,Yes,,367,66,301
+Marion,Franklin Township,District 5A Judge - David Faith,,Yes,,101,29,72
+Marion,Indiana Township,District 5A Judge - David Faith,,Yes,,193,65,128
+Marion,Knoxville Four,District 5A Judge - David Faith,,Yes,,381,133,248
+Marion,Knoxville One,District 5A Judge - David Faith,,Yes,,369,146,223
+Marion,Knoxville Three,District 5A Judge - David Faith,,Yes,,590,181,409
+Marion,Knoxville Township,District 5A Judge - David Faith,,Yes,,228,0,228
+Marion,Knoxville Two,District 5A Judge - David Faith,,Yes,,434,165,269
+Marion,OTLEY,District 5A Judge - David Faith,,Yes,,698,233,465
+Marion,One Pella,District 5A Judge - David Faith,,Yes,,786,247,539
+Marion,PLEASANTVILLE,District 5A Judge - David Faith,,Yes,,755,210,545
+Marion,Pella Four,District 5A Judge - David Faith,,Yes,,681,192,489
+Marion,Pella Three,District 5A Judge - David Faith,,Yes,,960,294,666
+Marion,Pella Two,District 5A Judge - David Faith,,Yes,,846,281,565
+Marion,Union Township,District 5A Judge - David Faith,,Yes,,105,51,54
+Marion,Washington Township,District 5A Judge - David Faith,,Yes,,136,35,101
+Marion,CLAY,District 5A Judge - Terry R. Rickers,,No,,135,29,106
+Marion,DALLAS,District 5A Judge - Terry R. Rickers,,No,,256,49,207
+Marion,Franklin Township,District 5A Judge - Terry R. Rickers,,No,,44,9,35
+Marion,Indiana Township,District 5A Judge - Terry R. Rickers,,No,,105,28,77
+Marion,Knoxville Four,District 5A Judge - Terry R. Rickers,,No,,157,49,108
+Marion,Knoxville One,District 5A Judge - Terry R. Rickers,,No,,182,68,114
+Marion,Knoxville Three,District 5A Judge - Terry R. Rickers,,No,,277,92,185
+Marion,Knoxville Township,District 5A Judge - Terry R. Rickers,,No,,98,0,98
+Marion,Knoxville Two,District 5A Judge - Terry R. Rickers,,No,,169,61,108
+Marion,OTLEY,District 5A Judge - Terry R. Rickers,,No,,242,78,164
+Marion,PLEASANTVILLE,District 5A Judge - Terry R. Rickers,,No,,335,120,215
+Marion,Pella Four,District 5A Judge - Terry R. Rickers,,No,,213,72,141
+Marion,Pella One,District 5A Judge - Terry R. Rickers,,No,,247,60,187
+Marion,Pella Two,District 5A Judge - Terry R. Rickers,,No,,295,105,190
+Marion,Three Pella,District 5A Judge - Terry R. Rickers,,No,,304,105,199
+Marion,Union Township,District 5A Judge - Terry R. Rickers,,No,,53,26,27
+Marion,Washington Township,District 5A Judge - Terry R. Rickers,,No,,73,11,62
+Marion,CLAY,District 5A Judge - Terry R. Rickers,,Yes,,229,50,179
+Marion,DALLAS,District 5A Judge - Terry R. Rickers,,Yes,,360,69,291
+Marion,Franklin Township,District 5A Judge - Terry R. Rickers,,Yes,,95,27,68
+Marion,Indiana Township,District 5A Judge - Terry R. Rickers,,Yes,,191,61,130
+Marion,Knoxville Four,District 5A Judge - Terry R. Rickers,,Yes,,372,134,238
+Marion,Knoxville One,District 5A Judge - Terry R. Rickers,,Yes,,367,145,222
+Marion,Knoxville Three,District 5A Judge - Terry R. Rickers,,Yes,,568,177,391
+Marion,Knoxville Township,District 5A Judge - Terry R. Rickers,,Yes,,212,0,212
+Marion,Knoxville Two,District 5A Judge - Terry R. Rickers,,Yes,,409,152,257
+Marion,OTLEY,District 5A Judge - Terry R. Rickers,,Yes,,668,231,437
+Marion,PLEASANTVILLE,District 5A Judge - Terry R. Rickers,,Yes,,753,212,541
+Marion,Pella Four,District 5A Judge - Terry R. Rickers,,Yes,,645,176,469
+Marion,Pella One,District 5A Judge - Terry R. Rickers,,Yes,,757,248,509
+Marion,Pella Two,District 5A Judge - Terry R. Rickers,,Yes,,790,264,526
+Marion,Three Pella,District 5A Judge - Terry R. Rickers,,Yes,,894,281,613
+Marion,Union Township,District 5A Judge - Terry R. Rickers,,Yes,,110,56,54
+Marion,Washington Township,District 5A Judge - Terry R. Rickers,,Yes,,134,36,98
+Marion,Franklin Township,Franklin Township Trustee,,Bill Wallace,,152,54,98
+Marion,Franklin Township,Franklin Township Trustee,,Susan D.,,123,53,70
+Marion,Indiana Township,Indiana Township Clerk To Fill a Vacancy,,Judy,,0,0,0
+Marion,Indiana Township,Indiana Township Clerk To Fill a Vacancy,,Uitermarkt,,325,90,235
+Marion,Indiana Township,Indiana Township Clerk To Fill a Vacancy,,Write-in,,3,1,2
+Marion,Indiana Township,Indiana Township Trustee,,Curtis,,0,0,0
+Marion,Indiana Township,Indiana Township Trustee,,Karl Kloster,,239,78,161
+Marion,Indiana Township,Indiana Township Trustee,,Lambirth,,292,90,202
+Marion,Indiana Township,Indiana Township Trustee,,Write-in,,11,0,11
+Marion,Indiana Township,Indiana Township Trustee To Fill a Vacancy,,Kevin Smith,,344,102,242
+Marion,Indiana Township,Indiana Township Trustee To Fill a Vacancy,,Write-in,,4,3,1
+Marion,Knoxville Township,Knoxville Township Trustee,,Leo Cowman,,1071,511,560
+Marion,Knoxville Township,Knoxville Township Trustee,,Tom Ramaeker,,1094,498,596
+Marion,Knoxville Township,Knoxville Township Trustee,,Write-in,,14,5,9
+Marion,Lake Prairie Township,Lake Prairie Township Trustee,,Bradley Rietveld,,1021,378,643
+Marion,Lake Prairie Township,Lake Prairie Township Trustee,,Dennis Fogle,,867,312,555
+Marion,Lake Prairie Township,Lake Prairie Township Trustee,,Write-in,,9,4,5
+Marion,PLEASANTVILLE,Pleasant Grove Township Trustee,,Aaron De,,340,99,241
+Marion,PLEASANTVILLE,Pleasant Grove Township Trustee,,Megan,,62,8,54
+Marion,PLEASANTVILLE,Pleasant Grove Township Trustee,,Norman Fry,,169,82,87
+Marion,PLEASANTVILLE,Pleasant Grove Township Trustee,,Richards,,245,83,162
+Marion,PLEASANTVILLE,Pleasant Grove Township Trustee,,Worthington,,183,63,120
+Marion,PLEASANTVILLE,Pleasant Grove Township Trustee To Fill a Vacancy,,Aubrey,,0,0,0
+Marion,PLEASANTVILLE,Pleasant Grove Township Trustee To Fill a Vacancy,,Burress,,489,146,343
+Marion,PLEASANTVILLE,Pleasant Grove Township Trustee To Fill a Vacancy,,Write-in,,32,15,17
+Marion,Lake Prairie Township,President,,Chase Oliver and Mike ter Maat,LIB,11,0,11
+Marion,Pella Four,President,,Chase Oliver and Mike ter Maat,LIB,11,0,11
+Marion,Pella Two,President,,Chase Oliver and Mike ter Maat,LIB,11,0,11
+Marion,CLAY,President,,Donald J. Trump and JD Vance,REP,431,92,339
+Marion,DALLAS,President,,Donald J. Trump and JD Vance,REP,569,104,465
+Marion,Franklin Township,President,,Donald J. Trump and JD Vance,REP,160,51,109
+Marion,Knoxville Four,President,,Donald J. Trump and JD Vance,REP,424,139,285
+Marion,Knoxville Township,President,,Donald J. Trump and JD Vance,REP,1262,547,715
+Marion,Knoxville Two,President,,Donald J. Trump and JD Vance,REP,534,198,336
+Marion,LIBERTY,President,,Donald J. Trump and JD Vance,REP,350,70,280
+Marion,Lake Prairie Township,President,,Donald J. Trump and JD Vance,REP,1160,424,736
+Marion,OTLEY,President,,Donald J. Trump and JD Vance,REP,1005,331,674
+Marion,One Knoxville,President,,Donald J. Trump and JD Vance,REP,508,199,309
+Marion,One Pella,President,,Donald J. Trump and JD Vance,REP,1037,293,744
+Marion,PLEASANTVILLE,President,,Donald J. Trump and JD Vance,REP,1106,316,790
+Marion,Pella Four,President,,Donald J. Trump and JD Vance,REP,952,274,678
+Marion,Pella Two,President,,Donald J. Trump and JD Vance,REP,1129,387,742
+Marion,Township Indiana,President,,Donald J. Trump and JD Vance,REP,294,71,223
+Marion,Union Township,President,,Donald J. Trump and JD Vance,REP,152,69,83
+Marion,Washington Township,President,,Donald J. Trump and JD Vance,REP,247,52,195
+Marion,CLAY,President,,Kamala D. Harris and Tim Walz,DEM,112,34,78
+Marion,DALLAS,President,,Kamala D. Harris and Tim Walz,DEM,280,77,203
+Marion,Franklin Township,President,,Kamala D. Harris and Tim Walz,DEM,40,21,19
+Marion,Knoxville Four,President,,Kamala D. Harris and Tim Walz,DEM,300,147,153
+Marion,Knoxville Township,President,,Kamala D. Harris and Tim Walz,DEM,522,320,202
+Marion,Knoxville Two,President,,Kamala D. Harris and Tim Walz,DEM,321,167,154
+Marion,LIBERTY,President,,Kamala D. Harris and Tim Walz,DEM,99,26,73
+Marion,Lake Prairie Township,President,,Kamala D. Harris and Tim Walz,DEM,297,117,180
+Marion,OTLEY,President,,Kamala D. Harris and Tim Walz,DEM,367,182,185
+Marion,One Knoxville,President,,Kamala D. Harris and Tim Walz,DEM,301,158,143
+Marion,One Pella,President,,Kamala D. Harris and Tim Walz,DEM,500,209,291
+Marion,PLEASANTVILLE,President,,Kamala D. Harris and Tim Walz,DEM,509,243,266
+Marion,Pella Four,President,,Kamala D. Harris and Tim Walz,DEM,447,164,283
+Marion,Pella Two,President,,Kamala D. Harris and Tim Walz,DEM,500,221,279
+Marion,Township Indiana,President,,Kamala D. Harris and Tim Walz,DEM,120,55,65
+Marion,Union Township,President,,Kamala D. Harris and Tim Walz,DEM,92,62,30
+Marion,Washington Township,President,,Kamala D. Harris and Tim Walz,DEM,68,30,38
+Marion,CLAY,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,0,10
+Marion,DALLAS,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,0,10
+Marion,Knoxville Township,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,23,11,12
+Marion,Lake Prairie Township,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,12,1,11
+Marion,One Knoxville,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,12,0,12
+Marion,Pella Four,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,11,1,10
+Marion,Pella Two,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,0,10
+Marion,One Pella,President,,Write-In,,15,5,10
+Marion,Pella Two,President,,Write-In,,10,0,10
+Marion,CLAY,Soil and Water Conservation District Commissioner,,Cindi M.,,282,60,222
+Marion,DALLAS,Soil and Water Conservation District Commissioner,,Cindi M.,,445,81,364
+Marion,Franklin Township,Soil and Water Conservation District Commissioner,,Cindi M.,,127,45,82
+Marion,Indiana Township,Soil and Water Conservation District Commissioner,,Cindi M.,,212,66,146
+Marion,Knoxville Four,Soil and Water Conservation District Commissioner,,Cindi M.,,441,165,276
+Marion,Knoxville One,Soil and Water Conservation District Commissioner,,Cindi M.,,447,189,258
+Marion,Knoxville Three,Soil and Water Conservation District Commissioner,,Cindi M.,,649,231,418
+Marion,Knoxville Township,Soil and Water Conservation District Commissioner,,Cindi M.,,228,0,228
+Marion,Knoxville Two,Soil and Water Conservation District Commissioner,,Cindi M.,,448,177,271
+Marion,OTLEY,Soil and Water Conservation District Commissioner,,Cindi M.,,774,274,500
+Marion,Pella One,Soil and Water Conservation District Commissioner,,Cindi M.,,783,275,508
+Marion,CLAY,Soil and Water Conservation District Commissioner,,Michael,,10,0,10
+Marion,DALLAS,Soil and Water Conservation District Commissioner,,Michael,,2,0,2
+Marion,Franklin Township,Soil and Water Conservation District Commissioner,,Michael,,6,5,1
+Marion,Indiana Township,Soil and Water Conservation District Commissioner,,Michael,,17,6,11
+Marion,Knoxville Four,Soil and Water Conservation District Commissioner,,Michael,,29,8,21
+Marion,Knoxville One,Soil and Water Conservation District Commissioner,,Michael,,25,16,9
+Marion,Knoxville Three,Soil and Water Conservation District Commissioner,,Michael,,47,13,34
+Marion,Knoxville Township,Soil and Water Conservation District Commissioner,,Michael,,5,0,5
+Marion,Knoxville Two,Soil and Water Conservation District Commissioner,,Michael,,32,12,20
+Marion,OTLEY,Soil and Water Conservation District Commissioner,,Michael,,12,7,5
+Marion,Pella One,Soil and Water Conservation District Commissioner,,Michael,,7,2,5
+Marion,CLAY,Soil and Water Conservation District Commissioner,,Vos Dale,,360,78,282
+Marion,DALLAS,Soil and Water Conservation District Commissioner,,Vos Dale,,501,92,409
+Marion,Franklin Township,Soil and Water Conservation District Commissioner,,Vos Dale,,127,39,88
+Marion,Indiana Township,Soil and Water Conservation District Commissioner,,Vos Dale,,264,72,192
+Marion,Knoxville Four,Soil and Water Conservation District Commissioner,,Vos Dale,,451,169,282
+Marion,Knoxville One,Soil and Water Conservation District Commissioner,,Vos Dale,,475,207,268
+Marion,Knoxville Three,Soil and Water Conservation District Commissioner,,Vos Dale,,719,257,462
+Marion,Knoxville Township,Soil and Water Conservation District Commissioner,,Vos Dale,,296,0,296
+Marion,Knoxville Two,Soil and Water Conservation District Commissioner,,Vos Dale,,508,204,304
+Marion,OTLEY,Soil and Water Conservation District Commissioner,,Vos Dale,,913,316,597
+Marion,Pella One,Soil and Water Conservation District Commissioner,,Vos Dale,,999,335,664
+Marion,CLAY,Soil and Water Conservation District Commissioner,,Write-in,,10,2,8
+Marion,DALLAS,Soil and Water Conservation District Commissioner,,Write-in,,19,1,18
+Marion,Franklin Township,Soil and Water Conservation District Commissioner,,Write-in,,4,1,3
+Marion,Indiana Township,Soil and Water Conservation District Commissioner,,Write-in,,6,1,5
+Marion,Knoxville Four,Soil and Water Conservation District Commissioner,,Write-in,,23,7,16
+Marion,Knoxville One,Soil and Water Conservation District Commissioner,,Write-in,,19,8,11
+Marion,Knoxville Three,Soil and Water Conservation District Commissioner,,Write-in,,32,10,22
+Marion,Knoxville Township,Soil and Water Conservation District Commissioner,,Write-in,,5,0,5
+Marion,Knoxville Two,Soil and Water Conservation District Commissioner,,Write-in,,12,4,8
+Marion,OTLEY,Soil and Water Conservation District Commissioner,,Write-in,,18,6,12
+Marion,Pella One,Soil and Water Conservation District Commissioner,,Write-in,,22,6,16
+Marion,Franklin Township,State House,21,Brooke Boden,REP,148,48,100
+Marion,Knoxville Four,State House,21,Brooke Boden,REP,417,149,268
+Marion,Knoxville One,State House,21,Brooke Boden,REP,485,192,293
+Marion,Knoxville Three,State House,21,Brooke Boden,REP,725,231,494
+Marion,Knoxville Township,State House,21,Brooke Boden,REP,1245,562,683
+Marion,Knoxville Two,State House,21,Brooke Boden,REP,507,207,300
+Marion,Union Township,State House,21,Brooke Boden,REP,151,71,80
+Marion,Franklin Township,State House,21,Spencer A. Waugh,DEM,47,23,24
+Marion,Knoxville Four,State House,21,Spencer A. Waugh,DEM,300,130,170
+Marion,Knoxville One,State House,21,Spencer A. Waugh,DEM,308,157,151
+Marion,Knoxville Three,State House,21,Spencer A. Waugh,DEM,485,223,262
+Marion,Knoxville Township,State House,21,Spencer A. Waugh,DEM,520,301,219
+Marion,Knoxville Two,State House,21,Spencer A. Waugh,DEM,327,149,178
+Marion,Union Township,State House,21,Spencer A. Waugh,DEM,86,58,28
+Marion,Franklin Township,State House,21,Write-in,,0,0,0
+Marion,Knoxville Four,State House,21,Write-in,,0,0,0
+Marion,Knoxville One,State House,21,Write-in,,1,0,1
+Marion,Knoxville Three,State House,21,Write-in,,4,1,3
+Marion,Knoxville Township,State House,21,Write-in,,3,2,1
+Marion,Knoxville Two,State House,21,Write-in,,1,0,1
+Marion,Union Township,State House,21,Write-in,,0,0,0
+Marion,CLAY,State House,37,Barb Kniff McCulla,REP,428,88,340
+Marion,DALLAS,State House,37,Barb Kniff McCulla,REP,608,109,499
+Marion,Indiana Township,State House,37,Barb Kniff McCulla,REP,311,80,231
+Marion,LIBERTY,State House,37,Barb Kniff McCulla,REP,352,66,286
+Marion,Lake Prairie Township,State House,37,Barb Kniff McCulla,REP,1290,462,828
+Marion,OTLEY,State House,37,Barb Kniff McCulla,REP,1113,377,736
+Marion,PLEASANTVILLE,State House,37,Barb Kniff McCulla,REP,1167,334,833
+Marion,Pella One,State House,37,Barb Kniff McCulla,REP,1247,373,874
+Marion,Pella Three,State House,37,Barb Kniff McCulla,REP,1089,0,1089
+Marion,Pella Two,State House,37,Barb Kniff McCulla,REP,1348,469,879
+Marion,Washington Township,State House,37,Barb Kniff McCulla,REP,226,51,175
+Marion,CLAY,State House,37,Write-in,,7,2,5
+Marion,DALLAS,State House,37,Write-in,,11,2,9
+Marion,Indiana Township,State House,37,Write-in,,1,0,1
+Marion,LIBERTY,State House,37,Write-in,,4,0,4
+Marion,Lake Prairie Township,State House,37,Write-in,,19,8,11
+Marion,OTLEY,State House,37,Write-in,,18,9,9
+Marion,PLEASANTVILLE,State House,37,Write-in,,15,7,8
+Marion,Pella One,State House,37,Write-in,,30,7,23
+Marion,Pella Three,State House,37,Write-in,,21,0,21
+Marion,Pella Two,State House,37,Write-in,,33,10,23
+Marion,Washington Township,State House,37,Write-in,,4,0,4
+Marion,CLAY,Supreme Court Justice - David May,,No,,135,30,105
+Marion,DALLAS,Supreme Court Justice - David May,,No,,255,52,203
+Marion,Franklin Township,Supreme Court Justice - David May,,No,,41,10,31
+Marion,Indiana Township,Supreme Court Justice - David May,,No,,116,35,81
+Marion,Knoxville Four,Supreme Court Justice - David May,,No,,198,80,118
+Marion,Knoxville One,Supreme Court Justice - David May,,No,,200,85,115
+Marion,Knoxville Three,Supreme Court Justice - David May,,No,,322,126,196
+Marion,Knoxville Township,Supreme Court Justice - David May,,No,,100,0,100
+Marion,Knoxville Two,Supreme Court Justice - David May,,No,,193,81,112
+Marion,OTLEY,Supreme Court Justice - David May,,No,,255,103,152
+Marion,One Pella,Supreme Court Justice - David May,,No,,294,92,202
+Marion,PLEASANTVILLE,Supreme Court Justice - David May,,No,,417,161,256
+Marion,Pella Four,Supreme Court Justice - David May,,No,,225,80,145
+Marion,Pella Three,Supreme Court Justice - David May,,No,,378,144,234
+Marion,Pella Two,Supreme Court Justice - David May,,No,,337,137,200
+Marion,Union Township,Supreme Court Justice - David May,,No,,64,36,28
+Marion,Washington Township,Supreme Court Justice - David May,,No,,71,22,49
+Marion,CLAY,Supreme Court Justice - David May,,Yes,,263,59,204
+Marion,DALLAS,Supreme Court Justice - David May,,Yes,,402,77,325
+Marion,Franklin Township,Supreme Court Justice - David May,,Yes,,103,30,73
+Marion,Indiana Township,Supreme Court Justice - David May,,Yes,,201,63,138
+Marion,Knoxville Four,Supreme Court Justice - David May,,Yes,,380,132,248
+Marion,Knoxville One,Supreme Court Justice - David May,,Yes,,393,152,241
+Marion,Knoxville Three,Supreme Court Justice - David May,,Yes,,611,191,420
+Marion,Knoxville Township,Supreme Court Justice - David May,,Yes,,235,0,235
+Marion,Knoxville Two,Supreme Court Justice - David May,,Yes,,446,164,282
+Marion,OTLEY,Supreme Court Justice - David May,,Yes,,741,243,498
+Marion,One Pella,Supreme Court Justice - David May,,Yes,,825,254,571
+Marion,PLEASANTVILLE,Supreme Court Justice - David May,,Yes,,776,227,549
+Marion,Pella Four,Supreme Court Justice - David May,,Yes,,726,208,518
+Marion,Pella Three,Supreme Court Justice - David May,,Yes,,951,292,659
+Marion,Pella Two,Supreme Court Justice - David May,,Yes,,859,273,586
+Marion,Union Township,Supreme Court Justice - David May,,Yes,,110,54,56
+Marion,Washington Township,Supreme Court Justice - David May,,Yes,,148,31,117
+Marion,CLAY,U.S. House,1,Christina DEM,,158,37,121
+Marion,DALLAS,U.S. House,1,Christina DEM,,335,77,258
+Marion,Franklin Township,U.S. House,1,Christina DEM,,58,26,32
+Marion,Indiana Township,U.S. House,1,Christina DEM,,148,60,88
+Marion,Knoxville Four,U.S. House,1,Christina DEM,,356,151,205
+Marion,Knoxville Three,U.S. House,1,Christina DEM,,582,249,333
+Marion,Knoxville Township,U.S. House,1,Christina DEM,,301,0,301
+Marion,LIBERTY,U.S. House,1,Christina DEM,,143,33,110
+Marion,OTLEY,U.S. House,1,Christina DEM,,385,181,204
+Marion,One Knoxville,U.S. House,1,Christina DEM,,348,168,180
+Marion,PLEASANTVILLE,U.S. House,1,Christina DEM,,592,262,330
+Marion,Pella Four,U.S. House,1,Christina DEM,,447,152,295
+Marion,Pella One,U.S. House,1,Christina DEM,,523,214,309
+Marion,Three Pella,U.S. House,1,Christina DEM,,590,208,382
+Marion,Two Knoxville,U.S. House,1,Christina DEM,,373,176,197
+Marion,Two Pella,U.S. House,1,Christina DEM,,514,223,291
+Marion,Union Township,U.S. House,1,Christina DEM,,100,68,32
+Marion,Washington Township,U.S. House,1,Christina DEM,,96,35,61
+Marion,CLAY,U.S. House,1,Miller-Meeks,REP,375,90,285
+Marion,DALLAS,U.S. House,1,Miller-Meeks,REP,489,99,390
+Marion,Franklin Township,U.S. House,1,Miller-Meeks,REP,139,45,94
+Marion,Indiana Township,U.S. House,1,Miller-Meeks,REP,265,66,199
+Marion,Knoxville Four,U.S. House,1,Miller-Meeks,REP,368,129,239
+Marion,Knoxville Three,U.S. House,1,Miller-Meeks,REP,645,219,426
+Marion,Knoxville Township,U.S. House,1,Miller-Meeks,REP,1159,0,1159
+Marion,LIBERTY,U.S. House,1,Miller-Meeks,REP,301,59,242
+Marion,OTLEY,U.S. House,1,Miller-Meeks,REP,980,324,656
+Marion,One Knoxville,U.S. House,1,Miller-Meeks,REP,449,185,264
+Marion,PLEASANTVILLE,U.S. House,1,Miller-Meeks,REP,984,282,702
+Marion,Pella Four,U.S. House,1,Miller-Meeks,REP,938,282,656
+Marion,Pella One,U.S. House,1,Miller-Meeks,REP,1014,289,725
+Marion,Three Pella,U.S. House,1,Miller-Meeks,REP,1171,390,781
+Marion,Two Knoxville,U.S. House,1,Miller-Meeks,REP,463,182,281
+Marion,Two Pella,U.S. House,1,Miller-Meeks,REP,1110,382,728
+Marion,Union Township,U.S. House,1,Miller-Meeks,REP,144,63,81
+Marion,Washington Township,U.S. House,1,Miller-Meeks,REP,212,47,165
+Marion,DALLAS,U.S. House,1,Write-in,,10,0,10
+Marion,Knoxville Township,U.S. House,1,Write-in,,5,0,5
+Marion,LIBERTY,U.S. House,1,Write-in,,2,0,2
+Marion,OTLEY,U.S. House,1,Write-in,,1,1,0
+Marion,PLEASANTVILLE,U.S. House,1,Write-in,,3,1,2
+Marion,Pella Four,U.S. House,1,Write-in,,3,1,2
+Marion,Pella One,U.S. House,1,Write-in,,3,1,2
+Marion,Three Pella,U.S. House,1,Write-in,,2,1,1
+Marion,Two Pella,U.S. House,1,Write-in,,2,1,1
+Marion,Washington Township,U.S. House,1,Write-in,,2,0,2
+Marion,Union Township,Union Township Trustee,,Robert Clark,,141,68,73
+Marion,Union Township,Union Township Trustee,,Schumacher,,167,82,85
+Marion,Washington Township,Washington Township Clerk To Fill a Vacancy,,Angie,,0,0,0
+Marion,Washington Township,Washington Township Clerk To Fill a Vacancy,,Heartsill,,252,62,190
+Marion,Washington Township,Washington Township Clerk To Fill a Vacancy,,Write-in,,3,0,3
+Marion,Washington Township,Washington Township Trustee,,John Pierce,,236,62,174
+Marion,Washington Township,Washington Township Trustee,,Joy Pierce,,238,56,182
+Marion,Washington Township,Washington Township Trustee,,Write-in,,8,0,8
+Marion,Washington Township,Washington Township Trustee To Fill a Vacancy,,Brad,,0,0,0
+Marion,Washington Township,Washington Township Trustee To Fill a Vacancy,,Heaberlin,,259,56,203
+Marion,Washington Township,Washington Township Trustee To Fill a Vacancy,,Write-in,,3,1,2

@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2016,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "us_senate",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
+    "geographic_precision": "precinct_crosswalk",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_verified/2016_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 152868,
+        "rep_votes": 219345,
+        "other_votes": 17198,
+        "total_votes": 389411,
+        "dem_candidate": "Patty Judge",
+        "rep_candidate": "Charles E Grassley",
+        "margin": 66477,
+        "margin_pct": 17.07116645395225,
+        "winner": "REP",
+        "color": "#e93a2d"
+      },
+      "2": {
+        "dem_votes": 149452,
+        "rep_votes": 237357,
+        "other_votes": 16619,
+        "total_votes": 403428,
+        "dem_candidate": "Patty Judge",
+        "rep_candidate": "Charles E Grassley",
+        "margin": 87905,
+        "margin_pct": 21.78951386616695,
+        "winner": "REP",
+        "color": "#cb181d"
+      },
+      "3": {
+        "dem_votes": 138774,
+        "rep_votes": 210612,
+        "other_votes": 15557,
+        "total_votes": 364943,
+        "dem_candidate": "Patty Judge",
+        "rep_candidate": "Charles E Grassley",
+        "margin": 71838,
+        "margin_pct": 19.684717887450915,
+        "winner": "REP",
+        "color": "#e93a2d"
+      },
+      "4": {
+        "dem_votes": 108366,
+        "rep_votes": 258693,
+        "other_votes": 16195,
+        "total_votes": 383254,
+        "dem_candidate": "Patty Judge",
+        "rep_candidate": "Charles E Grassley",
+        "margin": 150327,
+        "margin_pct": 39.22385676339973,
+        "winner": "REP",
+        "color": "#a50f15"
+      }
+    }
+  }
+}

@@ -1,0 +1,394 @@
+[
+  {
+    "county": "Adair",
+    "auditor_url": "https://adaircounty.iowa.gov/departments/auditor"
+  },
+  {
+    "county": "Adams",
+    "auditor_url": "https://adamscounty.iowa.gov"
+  },
+  {
+    "county": "Allamakee",
+    "auditor_url": "https://allamakeecounty.iowa.gov/auditor"
+  },
+  {
+    "county": "Appanoose",
+    "auditor_url": "https://appanoosecounty.iowa.gov"
+  },
+  {
+    "county": "Audubon",
+    "auditor_url": "https://www.auduboncountyia.gov"
+  },
+  {
+    "county": "Benton",
+    "auditor_url": "https://www.bentoncountyia.gov/departments/administration-business-finance/auditor"
+  },
+  {
+    "county": "Black Hawk",
+    "auditor_url": "https://www.blackhawkcounty.iowa.gov"
+  },
+  {
+    "county": "Boone",
+    "auditor_url": "https://www.boonecounty.iowa.gov"
+  },
+  {
+    "county": "Bremer",
+    "auditor_url": "https://www.bremercounty.iowa.gov"
+  },
+  {
+    "county": "Buchanan",
+    "auditor_url": "https://www.buchanancounty.iowa.gov/departments/auditor/index.php"
+  },
+  {
+    "county": "Buena Vista",
+    "auditor_url": "https://buenavistacounty.iowa.gov/index.php/elected-officials/auditor/buena-vista-county-elections"
+  },
+  {
+    "county": "Butler",
+    "auditor_url": "https://butlercounty.iowa.gov/departments/auditor"
+  },
+  {
+    "county": "Calhoun",
+    "auditor_url": "https://www.calhouncounty.iowa.gov"
+  },
+  {
+    "county": "Carroll",
+    "auditor_url": "https://carrollcountyiowa.org/pview.aspx?id=20961&catid=563"
+  },
+  {
+    "county": "Cass",
+    "auditor_url": "https://www.atlanticiowa.com/county/county-departments/auditors-office"
+  },
+  {
+    "county": "Cedar",
+    "auditor_url": "https://cedarcounty.iowa.gov"
+  },
+  {
+    "county": "Cerro Gordo",
+    "auditor_url": "https://www.cerrogordoauditor.gov"
+  },
+  {
+    "county": "Cherokee",
+    "auditor_url": "https://www.cherokeecounty.iowa.gov/departments/offices_a_-_e/auditor/index.php"
+  },
+  {
+    "county": "Chickasaw",
+    "auditor_url": "https://chickasawcounty.iowa.gov"
+  },
+  {
+    "county": "Clarke",
+    "auditor_url": "https://www.clarkecountyiowa.org"
+  },
+  {
+    "county": "Clay",
+    "auditor_url": "https://claycounty.iowa.gov"
+  },
+  {
+    "county": "Clayton",
+    "auditor_url": "https://www.claytoncountyia.gov"
+  },
+  {
+    "county": "Clinton",
+    "auditor_url": "https://elections.clintoncounty-ia.gov"
+  },
+  {
+    "county": "Crawford",
+    "auditor_url": "https://crawfordcounty.iowa.gov"
+  },
+  {
+    "county": "Dallas",
+    "auditor_url": "https://www.dallascountyiowa.gov"
+  },
+  {
+    "county": "Davis",
+    "auditor_url": "https://www.daviscountyiowa.gov"
+  },
+  {
+    "county": "Decatur",
+    "auditor_url": "https://www.decaturcountyiowa.gov"
+  },
+  {
+    "county": "Delaware",
+    "auditor_url": "https://delawarecountyelections.iowa.gov"
+  },
+  {
+    "county": "Des Moines",
+    "auditor_url": "https://www.desmoinescounty.iowa.gov"
+  },
+  {
+    "county": "Dickinson",
+    "auditor_url": "https://www.dickinsoncountyiowa.org/auditor"
+  },
+  {
+    "county": "Dubuque",
+    "auditor_url": "https://www.dubuquecountyiowa.gov/468/Elections"
+  },
+  {
+    "county": "Emmet",
+    "auditor_url": "https://emmetcounty.iowa.gov"
+  },
+  {
+    "county": "Fayette",
+    "auditor_url": "https://fayettecounty.iowa.gov/departments/auditor"
+  },
+  {
+    "county": "Floyd",
+    "auditor_url": "https://www.floydcoia.org/159/Auditor-Elections"
+  },
+  {
+    "county": "Franklin",
+    "auditor_url": "https://elections.franklincountyia.gov"
+  },
+  {
+    "county": "Fremont",
+    "auditor_url": "https://fremontcountyia.gov/vnews/display.v/SEC/County%7CAuditor"
+  },
+  {
+    "county": "Greene",
+    "auditor_url": "https://www.co.greene.ia.us/pview.aspx?id=15486&catid=659"
+  },
+  {
+    "county": "Grundy",
+    "auditor_url": "https://www.grundycountyiowa.gov/departments/auditor"
+  },
+  {
+    "county": "Guthrie",
+    "auditor_url": "https://guthriecounty.gov/government/county-offices/auditor/elections"
+  },
+  {
+    "county": "Hamilton",
+    "auditor_url": "https://www.hamiltoncounty.org/departments/auditor/index.php"
+  },
+  {
+    "county": "Hancock",
+    "auditor_url": "https://hancockcountyia.gov"
+  },
+  {
+    "county": "Hardin",
+    "auditor_url": "https://www.hardincountyia.gov"
+  },
+  {
+    "county": "Harrison",
+    "auditor_url": "https://harrisoncounty.iowa.gov"
+  },
+  {
+    "county": "Henry",
+    "auditor_url": "https://www.henrycountyiowa.us"
+  },
+  {
+    "county": "Howard",
+    "auditor_url": "https://www.howardcounty.iowa.gov"
+  },
+  {
+    "county": "Humboldt",
+    "auditor_url": "https://www.humboldtcounty.iowa.gov"
+  },
+  {
+    "county": "Ida",
+    "auditor_url": "https://idacounty.iowa.gov/detail/ida-county-auditor"
+  },
+  {
+    "county": "Iowa",
+    "auditor_url": "https://iowacounty.iowa.gov"
+  },
+  {
+    "county": "Jackson",
+    "auditor_url": "https://jacksoncounty.iowa.gov/auditor"
+  },
+  {
+    "county": "Jasper",
+    "auditor_url": "https://jaspercountyelections.iowa.gov"
+  },
+  {
+    "county": "Jefferson",
+    "auditor_url": "https://jeffersoncounty.iowa.gov/auditor"
+  },
+  {
+    "county": "Johnson",
+    "auditor_url": "https://johnsoncountyiowa.gov/auditor/elections"
+  },
+  {
+    "county": "Jones",
+    "auditor_url": "https://www.jonescountyiowa.gov/auditor"
+  },
+  {
+    "county": "Keokuk",
+    "auditor_url": "https://keokukcounty.iowa.gov"
+  },
+  {
+    "county": "Kossuth",
+    "auditor_url": "https://www.kossuthcounty.iowa.gov"
+  },
+  {
+    "county": "Lee",
+    "auditor_url": "https://leecounty.iowa.gov/pview.aspx?id=20892&catid=25"
+  },
+  {
+    "county": "Linn",
+    "auditor_url": "https://www.linncountyiowa.gov/auditor"
+  },
+  {
+    "county": "Louisa",
+    "auditor_url": "https://louisacountyia.gov/government/departments-a-f/louisa-county-auditor"
+  },
+  {
+    "county": "Lyon",
+    "auditor_url": "https://lyoncounty.iowa.gov"
+  },
+  {
+    "county": "Madison",
+    "auditor_url": "https://www.madisoncounty.iowa.gov"
+  },
+  {
+    "county": "Mahaska",
+    "auditor_url": "https://elections.mahaskacountyia.gov"
+  },
+  {
+    "county": "Marion",
+    "auditor_url": "https://marioncountyiowa.gov/auditor/elections_and_voting"
+  },
+  {
+    "county": "Marshall",
+    "auditor_url": "https://elections.marshallcountyia.gov"
+  },
+  {
+    "county": "Mills",
+    "auditor_url": "https://www.millscountyiowa.gov"
+  },
+  {
+    "county": "Mitchell",
+    "auditor_url": "https://mitchellcounty.iowa.gov/departments/countyauditor"
+  },
+  {
+    "county": "Monona",
+    "auditor_url": "https://www.mononacounty.iowa.gov/Auditor.html"
+  },
+  {
+    "county": "Monroe",
+    "auditor_url": "https://monroecounty.iowa.gov/offices/auditor"
+  },
+  {
+    "county": "Montgomery",
+    "auditor_url": "https://montgomerycountyia.gov"
+  },
+  {
+    "county": "Muscatine",
+    "auditor_url": "https://www.muscatinecountyiowa.gov"
+  },
+  {
+    "county": "O'Brien",
+    "auditor_url": "https://www.obriencounty.com"
+  },
+  {
+    "county": "Osceola",
+    "auditor_url": "https://www.osceolacountyia.org"
+  },
+  {
+    "county": "Page",
+    "auditor_url": "https://pagecounty.iowa.gov"
+  },
+  {
+    "county": "Palo Alto",
+    "auditor_url": "https://paloaltocounty.iowa.gov/departments/auditor"
+  },
+  {
+    "county": "Plymouth",
+    "auditor_url": "https://plymouthcountyiowa.gov"
+  },
+  {
+    "county": "Pocahontas",
+    "auditor_url": "https://pocahontascounty.iowa.gov/auditor"
+  },
+  {
+    "county": "Polk",
+    "auditor_url": "https://www.polkcountyiowa.gov/county-auditor/election"
+  },
+  {
+    "county": "Pottawattamie",
+    "auditor_url": "https://elections.pottcounty-ia.gov/elections"
+  },
+  {
+    "county": "Poweshiek",
+    "auditor_url": "https://poweshiekcounty.iowa.gov"
+  },
+  {
+    "county": "Ringgold",
+    "auditor_url": "https://www.ringgoldcounty.iowa.gov"
+  },
+  {
+    "county": "Sac",
+    "auditor_url": "https://saccountyiowa.gov"
+  },
+  {
+    "county": "Scott",
+    "auditor_url": "https://www.scottcountyiowa.gov/auditor"
+  },
+  {
+    "county": "Shelby",
+    "auditor_url": "https://shelbycounty.iowa.gov"
+  },
+  {
+    "county": "Sioux",
+    "auditor_url": "https://siouxcountyia.gov/departments/auditor"
+  },
+  {
+    "county": "Story",
+    "auditor_url": "https://www.storycountyiowa.gov/auditor"
+  },
+  {
+    "county": "Tama",
+    "auditor_url": "https://www.tamacounty.iowa.gov/auditor"
+  },
+  {
+    "county": "Taylor",
+    "auditor_url": "https://taylorcounty.iowa.gov/departments/auditors-office"
+  },
+  {
+    "county": "Union",
+    "auditor_url": "https://www.unioncountyiowa.gov"
+  },
+  {
+    "county": "Van Buren",
+    "auditor_url": "https://www.vanburencounty.iowa.gov/offices/administrative/auditor.php"
+  },
+  {
+    "county": "Wapello",
+    "auditor_url": "https://www.wapellocountyelections.org"
+  },
+  {
+    "county": "Warren",
+    "auditor_url": "https://www.warrencountyia.gov/government/county-government/auditor"
+  },
+  {
+    "county": "Washington",
+    "auditor_url": "https://washingtoncounty.iowa.gov/151/Auditor"
+  },
+  {
+    "county": "Wayne",
+    "auditor_url": "https://waynecountyelections.iowa.gov"
+  },
+  {
+    "county": "Webster",
+    "auditor_url": "https://www.webstercountyia.gov/departments/auditor_commissioner_of_elections/index.php"
+  },
+  {
+    "county": "Winnebago",
+    "auditor_url": "https://www.winnebagocountyiowa.gov/auditor"
+  },
+  {
+    "county": "Winneshiek",
+    "auditor_url": "https://winneshiekcounty.iowa.gov/departments/auditor"
+  },
+  {
+    "county": "Woodbury",
+    "auditor_url": "https://woodburycountyiowa.gov"
+  },
+  {
+    "county": "Worth",
+    "auditor_url": "https://elections.worthcountyiowa.gov"
+  },
+  {
+    "county": "Wright",
+    "auditor_url": "https://www.wrightcounty.org/departments/auditor/index.php"
+  }
+]

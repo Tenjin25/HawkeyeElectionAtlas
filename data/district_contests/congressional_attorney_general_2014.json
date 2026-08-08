@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2014,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "attorney_general",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2014_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 158923,
+        "rep_votes": 116900,
+        "other_votes": 320,
+        "total_votes": 276143,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Adam Gregg",
+        "margin": -42023,
+        "margin_pct": -15.217840032157252,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "2": {
+        "dem_votes": 175659,
+        "rep_votes": 119097,
+        "other_votes": 255,
+        "total_votes": 295011,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Adam Gregg",
+        "margin": -56562,
+        "margin_pct": -19.172844402412114,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "3": {
+        "dem_votes": 154315,
+        "rep_votes": 106932,
+        "other_votes": 417,
+        "total_votes": 261664,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Adam Gregg",
+        "margin": -47383,
+        "margin_pct": -18.108337409807998,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "4": {
+        "dem_votes": 127814,
+        "rep_votes": 138117,
+        "other_votes": 257,
+        "total_votes": 266188,
+        "dem_candidate": "Tom Miller",
+        "rep_candidate": "Adam Gregg",
+        "margin": 10303,
+        "margin_pct": 3.870572677956933,
+        "winner": "REP",
+        "color": "#fca793"
+      }
+    }
+  }
+}

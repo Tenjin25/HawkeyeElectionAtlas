@@ -1,0 +1,781 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Keokuk,AD-PR-WS,Adams Township Trustee,,Derek Hall,,91,42,49
+Keokuk,AD-PR-WS,Adams Township Trustee,,Write-In,,0,0,0
+Keokuk,BN-SR,Benton Township Trustee,,Donald Millikin,,131,35,96
+Keokuk,BN-SR,Benton Township Trustee,,Write-In,,1,0,1
+Keokuk,LF-CC,Clear Creek Township Trustee,,Christopher Berg,,118,55,63
+Keokuk,LF-CC,Clear Creek Township Trustee,,Write-In,,1,0,1
+Keokuk,AD-PR-WS,Constitutional Amendment 1,,No,,149,45,104
+Keokuk,BN-SR,Constitutional Amendment 1,,No,,130,29,101
+Keokuk,EL-WL-WN,Constitutional Amendment 1,,No,,79,27,52
+Keokuk,ER-LB,Constitutional Amendment 1,,No,,75,14,61
+Keokuk,JA-RL,Constitutional Amendment 1,,No,,111,24,87
+Keokuk,LF-CC,Constitutional Amendment 1,,No,,108,41,67
+Keokuk,SG-PL-VB,Constitutional Amendment 1,,No,,59,20,39
+Keokuk,SG1,Constitutional Amendment 1,,No,,40,14,26
+Keokuk,SG2,Constitutional Amendment 1,,No,,52,22,30
+Keokuk,SG3,Constitutional Amendment 1,,No,,34,9,25
+Keokuk,SG4,Constitutional Amendment 1,,No,,41,17,24
+Keokuk,AD-PR-WS,Constitutional Amendment 1,,Yes,,542,172,370
+Keokuk,BN-SR,Constitutional Amendment 1,,Yes,,443,109,334
+Keokuk,EL-WL-WN,Constitutional Amendment 1,,Yes,,275,102,173
+Keokuk,ER-LB,Constitutional Amendment 1,,Yes,,311,98,213
+Keokuk,JA-RL,Constitutional Amendment 1,,Yes,,481,140,341
+Keokuk,LF-CC,Constitutional Amendment 1,,Yes,,609,171,438
+Keokuk,SG-PL-VB,Constitutional Amendment 1,,Yes,,317,107,210
+Keokuk,SG1,Constitutional Amendment 1,,Yes,,208,70,138
+Keokuk,SG2,Constitutional Amendment 1,,Yes,,181,68,113
+Keokuk,SG3,Constitutional Amendment 1,,Yes,,149,58,91
+Keokuk,SG4,Constitutional Amendment 1,,Yes,,189,74,115
+Keokuk,AD-PR-WS,Constitutional Amendment 2,,No,,104,36,68
+Keokuk,BN-SR,Constitutional Amendment 2,,No,,76,15,61
+Keokuk,EL-WL-WN,Constitutional Amendment 2,,No,,41,9,32
+Keokuk,ER-LB,Constitutional Amendment 2,,No,,54,13,41
+Keokuk,JA-RL,Constitutional Amendment 2,,No,,53,14,39
+Keokuk,LF-CC,Constitutional Amendment 2,,No,,85,30,55
+Keokuk,SG-PL-VB,Constitutional Amendment 2,,No,,46,22,24
+Keokuk,SG1,Constitutional Amendment 2,,No,,33,11,22
+Keokuk,SG2,Constitutional Amendment 2,,No,,31,13,18
+Keokuk,SG3,Constitutional Amendment 2,,No,,20,7,13
+Keokuk,SG4,Constitutional Amendment 2,,No,,28,12,16
+Keokuk,AD-PR-WS,Constitutional Amendment 2,,Yes,,580,176,404
+Keokuk,BN-SR,Constitutional Amendment 2,,Yes,,485,119,366
+Keokuk,EL-WL-WN,Constitutional Amendment 2,,Yes,,307,114,193
+Keokuk,ER-LB,Constitutional Amendment 2,,Yes,,328,95,233
+Keokuk,JA-RL,Constitutional Amendment 2,,Yes,,535,152,383
+Keokuk,LF-CC,Constitutional Amendment 2,,Yes,,602,178,424
+Keokuk,SG-PL-VB,Constitutional Amendment 2,,Yes,,317,97,220
+Keokuk,SG1,Constitutional Amendment 2,,Yes,,216,74,142
+Keokuk,SG2,Constitutional Amendment 2,,Yes,,200,76,124
+Keokuk,SG3,Constitutional Amendment 2,,Yes,,156,56,100
+Keokuk,SG4,Constitutional Amendment 2,,Yes,,200,78,122
+Keokuk,AD-PR-WS,County Agricultural Extension Council Member,,Brian Kitzman,,407,114,293
+Keokuk,BN-SR,County Agricultural Extension Council Member,,Brian Kitzman,,287,65,222
+Keokuk,EL-WL-WN,County Agricultural Extension Council Member,,Brian Kitzman,,205,66,139
+Keokuk,ER-LB,County Agricultural Extension Council Member,,Brian Kitzman,,216,59,157
+Keokuk,JA-RL,County Agricultural Extension Council Member,,Brian Kitzman,,326,94,232
+Keokuk,LF-CC,County Agricultural Extension Council Member,,Brian Kitzman,,349,118,231
+Keokuk,SG-PL-VB,County Agricultural Extension Council Member,,Brian Kitzman,,224,72,152
+Keokuk,SG1,County Agricultural Extension Council Member,,Brian Kitzman,,138,44,94
+Keokuk,SG2,County Agricultural Extension Council Member,,Brian Kitzman,,116,50,66
+Keokuk,SG3,County Agricultural Extension Council Member,,Brian Kitzman,,97,40,57
+Keokuk,SG4,County Agricultural Extension Council Member,,Brian Kitzman,,139,53,86
+Keokuk,AD-PR-WS,County Agricultural Extension Council Member,,Justin Abell,,412,132,280
+Keokuk,BN-SR,County Agricultural Extension Council Member,,Justin Abell,,366,81,285
+Keokuk,EL-WL-WN,County Agricultural Extension Council Member,,Justin Abell,,199,72,127
+Keokuk,ER-LB,County Agricultural Extension Council Member,,Justin Abell,,220,71,149
+Keokuk,JA-RL,County Agricultural Extension Council Member,,Justin Abell,,371,99,272
+Keokuk,LF-CC,County Agricultural Extension Council Member,,Justin Abell,,367,116,251
+Keokuk,SG-PL-VB,County Agricultural Extension Council Member,,Justin Abell,,250,82,168
+Keokuk,SG1,County Agricultural Extension Council Member,,Justin Abell,,157,48,109
+Keokuk,SG2,County Agricultural Extension Council Member,,Justin Abell,,145,64,81
+Keokuk,SG3,County Agricultural Extension Council Member,,Justin Abell,,115,44,71
+Keokuk,SG4,County Agricultural Extension Council Member,,Justin Abell,,154,56,98
+Keokuk,AD-PR-WS,County Agricultural Extension Council Member,,Shirley Holm,,366,108,258
+Keokuk,BN-SR,County Agricultural Extension Council Member,,Shirley Holm,,276,62,214
+Keokuk,EL-WL-WN,County Agricultural Extension Council Member,,Shirley Holm,,198,72,126
+Keokuk,ER-LB,County Agricultural Extension Council Member,,Shirley Holm,,216,65,151
+Keokuk,JA-RL,County Agricultural Extension Council Member,,Shirley Holm,,330,100,230
+Keokuk,LF-CC,County Agricultural Extension Council Member,,Shirley Holm,,366,122,244
+Keokuk,SG-PL-VB,County Agricultural Extension Council Member,,Shirley Holm,,231,76,155
+Keokuk,SG1,County Agricultural Extension Council Member,,Shirley Holm,,175,57,118
+Keokuk,SG2,County Agricultural Extension Council Member,,Shirley Holm,,134,53,81
+Keokuk,SG3,County Agricultural Extension Council Member,,Shirley Holm,,111,40,71
+Keokuk,SG4,County Agricultural Extension Council Member,,Shirley Holm,,157,64,93
+Keokuk,AD-PR-WS,County Agricultural Extension Council Member,,Steven Menke,,355,107,248
+Keokuk,BN-SR,County Agricultural Extension Council Member,,Steven Menke,,293,60,233
+Keokuk,EL-WL-WN,County Agricultural Extension Council Member,,Steven Menke,,200,65,135
+Keokuk,ER-LB,County Agricultural Extension Council Member,,Steven Menke,,249,73,176
+Keokuk,JA-RL,County Agricultural Extension Council Member,,Steven Menke,,367,103,264
+Keokuk,LF-CC,County Agricultural Extension Council Member,,Steven Menke,,544,173,371
+Keokuk,SG-PL-VB,County Agricultural Extension Council Member,,Steven Menke,,273,93,180
+Keokuk,SG1,County Agricultural Extension Council Member,,Steven Menke,,155,49,106
+Keokuk,SG2,County Agricultural Extension Council Member,,Steven Menke,,136,58,78
+Keokuk,SG3,County Agricultural Extension Council Member,,Steven Menke,,112,43,69
+Keokuk,SG4,County Agricultural Extension Council Member,,Steven Menke,,151,57,94
+Keokuk,AD-PR-WS,County Agricultural Extension Council Member,,Write-In,,5,4,1
+Keokuk,BN-SR,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Keokuk,EL-WL-WN,County Agricultural Extension Council Member,,Write-In,,2,2,0
+Keokuk,ER-LB,County Agricultural Extension Council Member,,Write-In,,12,2,10
+Keokuk,JA-RL,County Agricultural Extension Council Member,,Write-In,,4,1,3
+Keokuk,LF-CC,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Keokuk,SG-PL-VB,County Agricultural Extension Council Member,,Write-In,,3,2,1
+Keokuk,SG1,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Keokuk,SG2,County Agricultural Extension Council Member,,Write-In,,1,1,0
+Keokuk,SG3,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Keokuk,SG4,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Keokuk,AD-PR-WS,County Auditor,,Christy Bates,REP,675,206,469
+Keokuk,BN-SR,County Auditor,,Christy Bates,REP,542,125,417
+Keokuk,EL-WL-WN,County Auditor,,Christy Bates,REP,343,128,215
+Keokuk,ER-LB,County Auditor,,Christy Bates,REP,369,119,250
+Keokuk,JA-RL,County Auditor,,Christy Bates,REP,587,166,421
+Keokuk,LF-CC,County Auditor,,Christy Bates,REP,642,210,432
+Keokuk,SG-PL-VB,County Auditor,,Christy Bates,REP,367,125,242
+Keokuk,SG1,County Auditor,,Christy Bates,REP,245,79,166
+Keokuk,SG2,County Auditor,,Christy Bates,REP,225,86,139
+Keokuk,SG3,County Auditor,,Christy Bates,REP,167,64,103
+Keokuk,SG4,County Auditor,,Christy Bates,REP,216,81,135
+Keokuk,AD-PR-WS,County Auditor,,Write-In,,2,1,1
+Keokuk,BN-SR,County Auditor,,Write-In,,4,1,3
+Keokuk,EL-WL-WN,County Auditor,,Write-In,,1,0,1
+Keokuk,ER-LB,County Auditor,,Write-In,,3,0,3
+Keokuk,JA-RL,County Auditor,,Write-In,,2,0,2
+Keokuk,LF-CC,County Auditor,,Write-In,,1,0,1
+Keokuk,SG-PL-VB,County Auditor,,Write-In,,3,0,3
+Keokuk,SG1,County Auditor,,Write-In,,0,0,0
+Keokuk,SG2,County Auditor,,Write-In,,2,0,2
+Keokuk,SG3,County Auditor,,Write-In,,1,0,1
+Keokuk,SG4,County Auditor,,Write-In,,1,1,0
+Keokuk,AD-PR-WS,County Board of Supervisors,,Dennis Boone,DEM,106,43,63
+Keokuk,BN-SR,County Board of Supervisors,,Dennis Boone,DEM,59,26,33
+Keokuk,EL-WL-WN,County Board of Supervisors,,Dennis Boone,DEM,27,9,18
+Keokuk,ER-LB,County Board of Supervisors,,Dennis Boone,DEM,86,28,58
+Keokuk,JA-RL,County Board of Supervisors,,Dennis Boone,DEM,48,18,30
+Keokuk,LF-CC,County Board of Supervisors,,Dennis Boone,DEM,90,33,57
+Keokuk,SG-PL-VB,County Board of Supervisors,,Dennis Boone,DEM,32,18,14
+Keokuk,SG1,County Board of Supervisors,,Dennis Boone,DEM,26,13,13
+Keokuk,SG2,County Board of Supervisors,,Dennis Boone,DEM,28,7,21
+Keokuk,SG3,County Board of Supervisors,,Dennis Boone,DEM,24,8,16
+Keokuk,SG4,County Board of Supervisors,,Dennis Boone,DEM,30,13,17
+Keokuk,AD-PR-WS,County Board of Supervisors,,Kevin Weber,REP,503,135,368
+Keokuk,BN-SR,County Board of Supervisors,,Kevin Weber,REP,321,64,257
+Keokuk,EL-WL-WN,County Board of Supervisors,,Kevin Weber,REP,279,109,170
+Keokuk,ER-LB,County Board of Supervisors,,Kevin Weber,REP,250,75,175
+Keokuk,JA-RL,County Board of Supervisors,,Kevin Weber,REP,335,75,260
+Keokuk,LF-CC,County Board of Supervisors,,Kevin Weber,REP,522,151,371
+Keokuk,SG-PL-VB,County Board of Supervisors,,Kevin Weber,REP,291,92,199
+Keokuk,SG1,County Board of Supervisors,,Kevin Weber,REP,204,61,143
+Keokuk,SG2,County Board of Supervisors,,Kevin Weber,REP,175,67,108
+Keokuk,SG3,County Board of Supervisors,,Kevin Weber,REP,136,48,88
+Keokuk,SG4,County Board of Supervisors,,Kevin Weber,REP,165,64,101
+Keokuk,AD-PR-WS,County Board of Supervisors,,Rob Wonderlich,,87,32,55
+Keokuk,BN-SR,County Board of Supervisors,,Rob Wonderlich,,190,47,143
+Keokuk,EL-WL-WN,County Board of Supervisors,,Rob Wonderlich,,63,13,50
+Keokuk,ER-LB,County Board of Supervisors,,Rob Wonderlich,,75,25,50
+Keokuk,JA-RL,County Board of Supervisors,,Rob Wonderlich,,244,78,166
+Keokuk,LF-CC,County Board of Supervisors,,Rob Wonderlich,,94,28,66
+Keokuk,SG-PL-VB,County Board of Supervisors,,Rob Wonderlich,,83,30,53
+Keokuk,SG1,County Board of Supervisors,,Rob Wonderlich,,32,10,22
+Keokuk,SG2,County Board of Supervisors,,Rob Wonderlich,,45,14,31
+Keokuk,SG3,County Board of Supervisors,,Rob Wonderlich,,28,11,17
+Keokuk,SG4,County Board of Supervisors,,Rob Wonderlich,,34,16,18
+Keokuk,AD-PR-WS,County Board of Supervisors,,Write-In,,2,2,0
+Keokuk,BN-SR,County Board of Supervisors,,Write-In,,1,1,0
+Keokuk,EL-WL-WN,County Board of Supervisors,,Write-In,,0,0,0
+Keokuk,ER-LB,County Board of Supervisors,,Write-In,,2,0,2
+Keokuk,JA-RL,County Board of Supervisors,,Write-In,,1,1,0
+Keokuk,LF-CC,County Board of Supervisors,,Write-In,,1,0,1
+Keokuk,SG-PL-VB,County Board of Supervisors,,Write-In,,6,3,3
+Keokuk,SG1,County Board of Supervisors,,Write-In,,1,1,0
+Keokuk,SG2,County Board of Supervisors,,Write-In,,2,1,1
+Keokuk,SG3,County Board of Supervisors,,Write-In,,2,0,2
+Keokuk,SG4,County Board of Supervisors,,Write-In,,1,0,1
+Keokuk,AD-PR-WS,County Sheriff,,Adam Clark,LIB,295,93,202
+Keokuk,BN-SR,County Sheriff,,Adam Clark,LIB,206,60,146
+Keokuk,EL-WL-WN,County Sheriff,,Adam Clark,LIB,127,49,78
+Keokuk,ER-LB,County Sheriff,,Adam Clark,LIB,136,44,92
+Keokuk,JA-RL,County Sheriff,,Adam Clark,LIB,254,86,168
+Keokuk,LF-CC,County Sheriff,,Adam Clark,LIB,238,92,146
+Keokuk,SG-PL-VB,County Sheriff,,Adam Clark,LIB,135,46,89
+Keokuk,SG1,County Sheriff,,Adam Clark,LIB,104,36,68
+Keokuk,SG2,County Sheriff,,Adam Clark,LIB,100,44,56
+Keokuk,SG3,County Sheriff,,Adam Clark,LIB,76,25,51
+Keokuk,SG4,County Sheriff,,Adam Clark,LIB,100,44,56
+Keokuk,AD-PR-WS,County Sheriff,,Casey J. Hinnah,REP,447,139,308
+Keokuk,BN-SR,County Sheriff,,Casey J. Hinnah,REP,384,82,302
+Keokuk,EL-WL-WN,County Sheriff,,Casey J. Hinnah,REP,258,90,168
+Keokuk,ER-LB,County Sheriff,,Casey J. Hinnah,REP,287,89,198
+Keokuk,JA-RL,County Sheriff,,Casey J. Hinnah,REP,379,88,291
+Keokuk,LF-CC,County Sheriff,,Casey J. Hinnah,REP,518,135,383
+Keokuk,SG-PL-VB,County Sheriff,,Casey J. Hinnah,REP,278,97,181
+Keokuk,SG1,County Sheriff,,Casey J. Hinnah,REP,170,50,120
+Keokuk,SG2,County Sheriff,,Casey J. Hinnah,REP,154,48,106
+Keokuk,SG3,County Sheriff,,Casey J. Hinnah,REP,120,45,75
+Keokuk,SG4,County Sheriff,,Casey J. Hinnah,REP,139,52,87
+Keokuk,AD-PR-WS,County Sheriff,,Write-In,,1,0,1
+Keokuk,BN-SR,County Sheriff,,Write-In,,1,0,1
+Keokuk,EL-WL-WN,County Sheriff,,Write-In,,0,0,0
+Keokuk,ER-LB,County Sheriff,,Write-In,,0,0,0
+Keokuk,JA-RL,County Sheriff,,Write-In,,0,0,0
+Keokuk,LF-CC,County Sheriff,,Write-In,,0,0,0
+Keokuk,SG-PL-VB,County Sheriff,,Write-In,,1,1,0
+Keokuk,SG1,County Sheriff,,Write-In,,2,0,2
+Keokuk,SG2,County Sheriff,,Write-In,,1,0,1
+Keokuk,SG3,County Sheriff,,Write-In,,0,0,0
+Keokuk,SG4,County Sheriff,,Write-In,,0,0,0
+Keokuk,AD-PR-WS,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,190,53,137
+Keokuk,BN-SR,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,139,19,120
+Keokuk,EL-WL-WN,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,113,36,77
+Keokuk,ER-LB,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,98,20,78
+Keokuk,JA-RL,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,125,25,100
+Keokuk,LF-CC,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,105,34,71
+Keokuk,SG-PL-VB,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,80,26,54
+Keokuk,SG1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,53,12,41
+Keokuk,SG2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,43,14,29
+Keokuk,SG3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,40,11,29
+Keokuk,SG4,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,43,12,31
+Keokuk,AD-PR-WS,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,305,84,221
+Keokuk,BN-SR,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,277,59,218
+Keokuk,EL-WL-WN,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,127,40,87
+Keokuk,ER-LB,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,187,49,138
+Keokuk,JA-RL,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,318,86,232
+Keokuk,LF-CC,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,265,79,186
+Keokuk,SG-PL-VB,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,139,38,101
+Keokuk,SG1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,126,39,87
+Keokuk,SG2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,101,37,64
+Keokuk,SG3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,79,21,58
+Keokuk,SG4,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,116,35,81
+Keokuk,AD-PR-WS,Court of Appeals Judge - Mary Ellen Tabor,,No,,179,51,128
+Keokuk,BN-SR,Court of Appeals Judge - Mary Ellen Tabor,,No,,143,27,116
+Keokuk,EL-WL-WN,Court of Appeals Judge - Mary Ellen Tabor,,No,,101,34,67
+Keokuk,ER-LB,Court of Appeals Judge - Mary Ellen Tabor,,No,,88,19,69
+Keokuk,JA-RL,Court of Appeals Judge - Mary Ellen Tabor,,No,,129,30,99
+Keokuk,LF-CC,Court of Appeals Judge - Mary Ellen Tabor,,No,,98,29,69
+Keokuk,SG-PL-VB,Court of Appeals Judge - Mary Ellen Tabor,,No,,78,24,54
+Keokuk,SG1,Court of Appeals Judge - Mary Ellen Tabor,,No,,50,8,42
+Keokuk,SG2,Court of Appeals Judge - Mary Ellen Tabor,,No,,38,10,28
+Keokuk,SG3,Court of Appeals Judge - Mary Ellen Tabor,,No,,36,13,23
+Keokuk,SG4,Court of Appeals Judge - Mary Ellen Tabor,,No,,44,13,31
+Keokuk,AD-PR-WS,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,307,80,227
+Keokuk,BN-SR,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,271,50,221
+Keokuk,EL-WL-WN,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,130,41,89
+Keokuk,ER-LB,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,191,45,146
+Keokuk,JA-RL,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,300,77,223
+Keokuk,LF-CC,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,259,82,177
+Keokuk,SG-PL-VB,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,140,40,100
+Keokuk,SG1,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,122,40,82
+Keokuk,SG2,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,98,38,60
+Keokuk,SG3,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,76,16,60
+Keokuk,SG4,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,106,31,75
+Keokuk,AD-PR-WS,Court of Appeals Judge - Samuel Langholz,,No,,187,58,129
+Keokuk,BN-SR,Court of Appeals Judge - Samuel Langholz,,No,,142,23,119
+Keokuk,EL-WL-WN,Court of Appeals Judge - Samuel Langholz,,No,,91,24,67
+Keokuk,ER-LB,Court of Appeals Judge - Samuel Langholz,,No,,101,23,78
+Keokuk,JA-RL,Court of Appeals Judge - Samuel Langholz,,No,,131,31,100
+Keokuk,LF-CC,Court of Appeals Judge - Samuel Langholz,,No,,111,38,73
+Keokuk,SG-PL-VB,Court of Appeals Judge - Samuel Langholz,,No,,77,28,49
+Keokuk,SG1,Court of Appeals Judge - Samuel Langholz,,No,,56,13,43
+Keokuk,SG2,Court of Appeals Judge - Samuel Langholz,,No,,49,15,34
+Keokuk,SG3,Court of Appeals Judge - Samuel Langholz,,No,,37,11,26
+Keokuk,SG4,Court of Appeals Judge - Samuel Langholz,,No,,46,9,37
+Keokuk,AD-PR-WS,Court of Appeals Judge - Samuel Langholz,,Yes,,295,77,218
+Keokuk,BN-SR,Court of Appeals Judge - Samuel Langholz,,Yes,,267,53,214
+Keokuk,EL-WL-WN,Court of Appeals Judge - Samuel Langholz,,Yes,,139,52,87
+Keokuk,ER-LB,Court of Appeals Judge - Samuel Langholz,,Yes,,177,42,135
+Keokuk,JA-RL,Court of Appeals Judge - Samuel Langholz,,Yes,,296,74,222
+Keokuk,LF-CC,Court of Appeals Judge - Samuel Langholz,,Yes,,247,75,172
+Keokuk,SG-PL-VB,Court of Appeals Judge - Samuel Langholz,,Yes,,138,38,100
+Keokuk,SG1,Court of Appeals Judge - Samuel Langholz,,Yes,,117,34,83
+Keokuk,SG2,Court of Appeals Judge - Samuel Langholz,,Yes,,90,34,56
+Keokuk,SG3,Court of Appeals Judge - Samuel Langholz,,Yes,,75,19,56
+Keokuk,SG4,Court of Appeals Judge - Samuel Langholz,,Yes,,106,36,70
+Keokuk,AD-PR-WS,Court of Appeals Judge - Tyler J. Buller,,No,,174,52,122
+Keokuk,BN-SR,Court of Appeals Judge - Tyler J. Buller,,No,,132,25,107
+Keokuk,EL-WL-WN,Court of Appeals Judge - Tyler J. Buller,,No,,97,31,66
+Keokuk,ER-LB,Court of Appeals Judge - Tyler J. Buller,,No,,94,23,71
+Keokuk,JA-RL,Court of Appeals Judge - Tyler J. Buller,,No,,114,30,84
+Keokuk,LF-CC,Court of Appeals Judge - Tyler J. Buller,,No,,100,34,66
+Keokuk,SG-PL-VB,Court of Appeals Judge - Tyler J. Buller,,No,,72,26,46
+Keokuk,SG1,Court of Appeals Judge - Tyler J. Buller,,No,,53,10,43
+Keokuk,SG2,Court of Appeals Judge - Tyler J. Buller,,No,,39,12,27
+Keokuk,SG3,Court of Appeals Judge - Tyler J. Buller,,No,,37,12,25
+Keokuk,SG4,Court of Appeals Judge - Tyler J. Buller,,No,,45,14,31
+Keokuk,AD-PR-WS,Court of Appeals Judge - Tyler J. Buller,,Yes,,306,78,228
+Keokuk,BN-SR,Court of Appeals Judge - Tyler J. Buller,,Yes,,278,52,226
+Keokuk,EL-WL-WN,Court of Appeals Judge - Tyler J. Buller,,Yes,,135,44,91
+Keokuk,ER-LB,Court of Appeals Judge - Tyler J. Buller,,Yes,,182,40,142
+Keokuk,JA-RL,Court of Appeals Judge - Tyler J. Buller,,Yes,,310,74,236
+Keokuk,LF-CC,Court of Appeals Judge - Tyler J. Buller,,Yes,,256,78,178
+Keokuk,SG-PL-VB,Court of Appeals Judge - Tyler J. Buller,,Yes,,143,38,105
+Keokuk,SG1,Court of Appeals Judge - Tyler J. Buller,,Yes,,118,37,81
+Keokuk,SG2,Court of Appeals Judge - Tyler J. Buller,,Yes,,97,36,61
+Keokuk,SG3,Court of Appeals Judge - Tyler J. Buller,,Yes,,72,16,56
+Keokuk,SG4,Court of Appeals Judge - Tyler J. Buller,,Yes,,107,31,76
+Keokuk,AD-PR-WS,District 8A Associate Judge - Daniel Perry Kitchen,,No,,165,51,114
+Keokuk,BN-SR,District 8A Associate Judge - Daniel Perry Kitchen,,No,,127,18,109
+Keokuk,EL-WL-WN,District 8A Associate Judge - Daniel Perry Kitchen,,No,,84,27,57
+Keokuk,ER-LB,District 8A Associate Judge - Daniel Perry Kitchen,,No,,95,21,74
+Keokuk,JA-RL,District 8A Associate Judge - Daniel Perry Kitchen,,No,,98,24,74
+Keokuk,LF-CC,District 8A Associate Judge - Daniel Perry Kitchen,,No,,77,26,51
+Keokuk,SG-PL-VB,District 8A Associate Judge - Daniel Perry Kitchen,,No,,67,19,48
+Keokuk,SG1,District 8A Associate Judge - Daniel Perry Kitchen,,No,,44,9,35
+Keokuk,SG2,District 8A Associate Judge - Daniel Perry Kitchen,,No,,39,15,24
+Keokuk,SG3,District 8A Associate Judge - Daniel Perry Kitchen,,No,,34,11,23
+Keokuk,SG4,District 8A Associate Judge - Daniel Perry Kitchen,,No,,33,8,25
+Keokuk,AD-PR-WS,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,315,83,232
+Keokuk,BN-SR,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,287,55,232
+Keokuk,EL-WL-WN,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,153,48,105
+Keokuk,ER-LB,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,179,45,134
+Keokuk,JA-RL,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,337,79,258
+Keokuk,LF-CC,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,309,96,213
+Keokuk,SG-PL-VB,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,157,45,112
+Keokuk,SG1,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,124,34,90
+Keokuk,SG2,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,99,34,65
+Keokuk,SG3,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,76,20,56
+Keokuk,SG4,District 8A Associate Judge - Daniel Perry Kitchen,,Yes,,128,42,86
+Keokuk,AD-PR-WS,District 8A Associate Judge - Patrick J. McAvan,,No,,172,55,117
+Keokuk,BN-SR,District 8A Associate Judge - Patrick J. McAvan,,No,,124,18,106
+Keokuk,EL-WL-WN,District 8A Associate Judge - Patrick J. McAvan,,No,,88,27,61
+Keokuk,ER-LB,District 8A Associate Judge - Patrick J. McAvan,,No,,83,23,60
+Keokuk,JA-RL,District 8A Associate Judge - Patrick J. McAvan,,No,,105,24,81
+Keokuk,LF-CC,District 8A Associate Judge - Patrick J. McAvan,,No,,80,22,58
+Keokuk,SG-PL-VB,District 8A Associate Judge - Patrick J. McAvan,,No,,64,20,44
+Keokuk,SG1,District 8A Associate Judge - Patrick J. McAvan,,No,,49,9,40
+Keokuk,SG2,District 8A Associate Judge - Patrick J. McAvan,,No,,39,12,27
+Keokuk,SG3,District 8A Associate Judge - Patrick J. McAvan,,No,,36,10,26
+Keokuk,SG4,District 8A Associate Judge - Patrick J. McAvan,,No,,38,7,31
+Keokuk,AD-PR-WS,District 8A Associate Judge - Patrick J. McAvan,,Yes,,309,80,229
+Keokuk,BN-SR,District 8A Associate Judge - Patrick J. McAvan,,Yes,,286,53,233
+Keokuk,EL-WL-WN,District 8A Associate Judge - Patrick J. McAvan,,Yes,,140,46,94
+Keokuk,ER-LB,District 8A Associate Judge - Patrick J. McAvan,,Yes,,188,42,146
+Keokuk,JA-RL,District 8A Associate Judge - Patrick J. McAvan,,Yes,,328,80,248
+Keokuk,LF-CC,District 8A Associate Judge - Patrick J. McAvan,,Yes,,264,87,177
+Keokuk,SG-PL-VB,District 8A Associate Judge - Patrick J. McAvan,,Yes,,155,45,110
+Keokuk,SG1,District 8A Associate Judge - Patrick J. McAvan,,Yes,,121,34,87
+Keokuk,SG2,District 8A Associate Judge - Patrick J. McAvan,,Yes,,95,34,61
+Keokuk,SG3,District 8A Associate Judge - Patrick J. McAvan,,Yes,,72,19,53
+Keokuk,SG4,District 8A Associate Judge - Patrick J. McAvan,,Yes,,112,36,76
+Keokuk,AD-PR-WS,District 8A Associate Judge - Richelle Mahaffey,,No,,166,49,117
+Keokuk,BN-SR,District 8A Associate Judge - Richelle Mahaffey,,No,,134,23,111
+Keokuk,EL-WL-WN,District 8A Associate Judge - Richelle Mahaffey,,No,,96,34,62
+Keokuk,ER-LB,District 8A Associate Judge - Richelle Mahaffey,,No,,96,20,76
+Keokuk,JA-RL,District 8A Associate Judge - Richelle Mahaffey,,No,,118,28,90
+Keokuk,LF-CC,District 8A Associate Judge - Richelle Mahaffey,,No,,91,33,58
+Keokuk,SG-PL-VB,District 8A Associate Judge - Richelle Mahaffey,,No,,78,27,51
+Keokuk,SG1,District 8A Associate Judge - Richelle Mahaffey,,No,,47,7,40
+Keokuk,SG2,District 8A Associate Judge - Richelle Mahaffey,,No,,38,12,26
+Keokuk,SG3,District 8A Associate Judge - Richelle Mahaffey,,No,,35,10,25
+Keokuk,SG4,District 8A Associate Judge - Richelle Mahaffey,,No,,44,11,33
+Keokuk,AD-PR-WS,District 8A Associate Judge - Richelle Mahaffey,,Yes,,317,82,235
+Keokuk,BN-SR,District 8A Associate Judge - Richelle Mahaffey,,Yes,,275,48,227
+Keokuk,EL-WL-WN,District 8A Associate Judge - Richelle Mahaffey,,Yes,,136,39,97
+Keokuk,ER-LB,District 8A Associate Judge - Richelle Mahaffey,,Yes,,175,45,130
+Keokuk,JA-RL,District 8A Associate Judge - Richelle Mahaffey,,Yes,,309,75,234
+Keokuk,LF-CC,District 8A Associate Judge - Richelle Mahaffey,,Yes,,257,76,181
+Keokuk,SG-PL-VB,District 8A Associate Judge - Richelle Mahaffey,,Yes,,142,38,104
+Keokuk,SG1,District 8A Associate Judge - Richelle Mahaffey,,Yes,,123,37,86
+Keokuk,SG2,District 8A Associate Judge - Richelle Mahaffey,,Yes,,98,37,61
+Keokuk,SG3,District 8A Associate Judge - Richelle Mahaffey,,Yes,,70,17,53
+Keokuk,SG4,District 8A Associate Judge - Richelle Mahaffey,,Yes,,105,34,71
+Keokuk,AD-PR-WS,District 8A Judge - Crystal S. Cronk,,No,,175,52,123
+Keokuk,BN-SR,District 8A Judge - Crystal S. Cronk,,No,,135,21,114
+Keokuk,EL-WL-WN,District 8A Judge - Crystal S. Cronk,,No,,85,24,61
+Keokuk,ER-LB,District 8A Judge - Crystal S. Cronk,,No,,93,22,71
+Keokuk,JA-RL,District 8A Judge - Crystal S. Cronk,,No,,112,22,90
+Keokuk,LF-CC,District 8A Judge - Crystal S. Cronk,,No,,94,29,65
+Keokuk,SG-PL-VB,District 8A Judge - Crystal S. Cronk,,No,,78,25,53
+Keokuk,SG1,District 8A Judge - Crystal S. Cronk,,No,,49,9,40
+Keokuk,SG2,District 8A Judge - Crystal S. Cronk,,No,,37,10,27
+Keokuk,SG3,District 8A Judge - Crystal S. Cronk,,No,,33,10,23
+Keokuk,SG4,District 8A Judge - Crystal S. Cronk,,No,,35,10,25
+Keokuk,AD-PR-WS,District 8A Judge - Crystal S. Cronk,,Yes,,311,82,229
+Keokuk,BN-SR,District 8A Judge - Crystal S. Cronk,,Yes,,279,55,224
+Keokuk,EL-WL-WN,District 8A Judge - Crystal S. Cronk,,Yes,,162,56,106
+Keokuk,ER-LB,District 8A Judge - Crystal S. Cronk,,Yes,,185,46,139
+Keokuk,JA-RL,District 8A Judge - Crystal S. Cronk,,Yes,,319,85,234
+Keokuk,LF-CC,District 8A Judge - Crystal S. Cronk,,Yes,,272,83,189
+Keokuk,SG-PL-VB,District 8A Judge - Crystal S. Cronk,,Yes,,151,41,110
+Keokuk,SG1,District 8A Judge - Crystal S. Cronk,,Yes,,120,35,85
+Keokuk,SG2,District 8A Judge - Crystal S. Cronk,,Yes,,104,41,63
+Keokuk,SG3,District 8A Judge - Crystal S. Cronk,,Yes,,83,23,60
+Keokuk,SG4,District 8A Judge - Crystal S. Cronk,,Yes,,126,42,84
+Keokuk,AD-PR-WS,District 8A Judge - Michael Carpenter,,No,,166,54,112
+Keokuk,BN-SR,District 8A Judge - Michael Carpenter,,No,,124,21,103
+Keokuk,EL-WL-WN,District 8A Judge - Michael Carpenter,,No,,92,30,62
+Keokuk,ER-LB,District 8A Judge - Michael Carpenter,,No,,83,22,61
+Keokuk,JA-RL,District 8A Judge - Michael Carpenter,,No,,103,23,80
+Keokuk,LF-CC,District 8A Judge - Michael Carpenter,,No,,89,31,58
+Keokuk,SG-PL-VB,District 8A Judge - Michael Carpenter,,No,,66,24,42
+Keokuk,SG1,District 8A Judge - Michael Carpenter,,No,,48,10,38
+Keokuk,SG2,District 8A Judge - Michael Carpenter,,No,,34,10,24
+Keokuk,SG3,District 8A Judge - Michael Carpenter,,No,,35,11,24
+Keokuk,SG4,District 8A Judge - Michael Carpenter,,No,,37,10,27
+Keokuk,AD-PR-WS,District 8A Judge - Michael Carpenter,,Yes,,314,79,235
+Keokuk,BN-SR,District 8A Judge - Michael Carpenter,,Yes,,282,51,231
+Keokuk,EL-WL-WN,District 8A Judge - Michael Carpenter,,Yes,,142,44,98
+Keokuk,ER-LB,District 8A Judge - Michael Carpenter,,Yes,,190,42,148
+Keokuk,JA-RL,District 8A Judge - Michael Carpenter,,Yes,,322,79,243
+Keokuk,LF-CC,District 8A Judge - Michael Carpenter,,Yes,,263,80,183
+Keokuk,SG-PL-VB,District 8A Judge - Michael Carpenter,,Yes,,150,40,110
+Keokuk,SG1,District 8A Judge - Michael Carpenter,,Yes,,123,36,87
+Keokuk,SG2,District 8A Judge - Michael Carpenter,,Yes,,102,38,64
+Keokuk,SG3,District 8A Judge - Michael Carpenter,,Yes,,72,17,55
+Keokuk,SG4,District 8A Judge - Michael Carpenter,,Yes,,111,33,78
+Keokuk,AD-PR-WS,District 8A Judge - Myron Gookin,,No,,177,52,125
+Keokuk,BN-SR,District 8A Judge - Myron Gookin,,No,,138,20,118
+Keokuk,EL-WL-WN,District 8A Judge - Myron Gookin,,No,,90,30,60
+Keokuk,ER-LB,District 8A Judge - Myron Gookin,,No,,86,22,64
+Keokuk,JA-RL,District 8A Judge - Myron Gookin,,No,,107,22,85
+Keokuk,LF-CC,District 8A Judge - Myron Gookin,,No,,95,30,65
+Keokuk,SG-PL-VB,District 8A Judge - Myron Gookin,,No,,75,22,53
+Keokuk,SG1,District 8A Judge - Myron Gookin,,No,,48,10,38
+Keokuk,SG2,District 8A Judge - Myron Gookin,,No,,40,10,30
+Keokuk,SG3,District 8A Judge - Myron Gookin,,No,,37,11,26
+Keokuk,SG4,District 8A Judge - Myron Gookin,,No,,44,12,32
+Keokuk,AD-PR-WS,District 8A Judge - Myron Gookin,,Yes,,305,80,225
+Keokuk,BN-SR,District 8A Judge - Myron Gookin,,Yes,,280,56,224
+Keokuk,EL-WL-WN,District 8A Judge - Myron Gookin,,Yes,,140,43,97
+Keokuk,ER-LB,District 8A Judge - Myron Gookin,,Yes,,186,45,141
+Keokuk,JA-RL,District 8A Judge - Myron Gookin,,Yes,,360,102,258
+Keokuk,LF-CC,District 8A Judge - Myron Gookin,,Yes,,255,84,171
+Keokuk,SG-PL-VB,District 8A Judge - Myron Gookin,,Yes,,146,42,104
+Keokuk,SG1,District 8A Judge - Myron Gookin,,Yes,,123,35,88
+Keokuk,SG2,District 8A Judge - Myron Gookin,,Yes,,94,37,57
+Keokuk,SG3,District 8A Judge - Myron Gookin,,Yes,,72,20,52
+Keokuk,SG4,District 8A Judge - Myron Gookin,,Yes,,108,32,76
+Keokuk,AD-PR-WS,District 8A Judge - Shawn R. Showers,,No,,175,52,123
+Keokuk,BN-SR,District 8A Judge - Shawn R. Showers,,No,,125,19,106
+Keokuk,EL-WL-WN,District 8A Judge - Shawn R. Showers,,No,,87,23,64
+Keokuk,ER-LB,District 8A Judge - Shawn R. Showers,,No,,92,21,71
+Keokuk,JA-RL,District 8A Judge - Shawn R. Showers,,No,,105,25,80
+Keokuk,LF-CC,District 8A Judge - Shawn R. Showers,,No,,87,26,61
+Keokuk,SG-PL-VB,District 8A Judge - Shawn R. Showers,,No,,65,20,45
+Keokuk,SG1,District 8A Judge - Shawn R. Showers,,No,,44,8,36
+Keokuk,SG2,District 8A Judge - Shawn R. Showers,,No,,39,12,27
+Keokuk,SG3,District 8A Judge - Shawn R. Showers,,No,,35,10,25
+Keokuk,SG4,District 8A Judge - Shawn R. Showers,,No,,33,4,29
+Keokuk,AD-PR-WS,District 8A Judge - Shawn R. Showers,,Yes,,310,84,226
+Keokuk,BN-SR,District 8A Judge - Shawn R. Showers,,Yes,,287,53,234
+Keokuk,EL-WL-WN,District 8A Judge - Shawn R. Showers,,Yes,,148,51,97
+Keokuk,ER-LB,District 8A Judge - Shawn R. Showers,,Yes,,179,43,136
+Keokuk,JA-RL,District 8A Judge - Shawn R. Showers,,Yes,,333,85,248
+Keokuk,LF-CC,District 8A Judge - Shawn R. Showers,,Yes,,285,96,189
+Keokuk,SG-PL-VB,District 8A Judge - Shawn R. Showers,,Yes,,160,46,114
+Keokuk,SG1,District 8A Judge - Shawn R. Showers,,Yes,,125,36,89
+Keokuk,SG2,District 8A Judge - Shawn R. Showers,,Yes,,99,36,63
+Keokuk,SG3,District 8A Judge - Shawn R. Showers,,Yes,,76,20,56
+Keokuk,SG4,District 8A Judge - Shawn R. Showers,,Yes,,119,42,77
+Keokuk,EL-WL-WN,East Lancaster Township Clerk To Fill a Vacancy,,Carla Dumont,,42,13,29
+Keokuk,EL-WL-WN,East Lancaster Township Clerk To Fill a Vacancy,,Write-In,,0,0,0
+Keokuk,EL-WL-WN,East Lancaster Township Clerk To Fill a Vacancy,,Xander Bell (Write-In),,3,1,2
+Keokuk,EL-WL-WN,East Lancaster Township Trustee,,Allen R. Dobbins,,41,12,29
+Keokuk,EL-WL-WN,East Lancaster Township Trustee,,David Bell (Write-In),,3,1,2
+Keokuk,EL-WL-WN,East Lancaster Township Trustee,,Write-In,,0,0,0
+Keokuk,ER-LB,English River Township Trustee,,Carol J. Trier,,103,27,76
+Keokuk,ER-LB,English River Township Trustee,,Write-In,,4,1,3
+Keokuk,ER-LB,English River Township Trustee To Fill a Vacancy,,Justin Render,,104,30,74
+Keokuk,ER-LB,English River Township Trustee To Fill a Vacancy,,Write-In,,2,1,1
+Keokuk,JA-RL,Jackson Township Trustee,,Scott Swanson,,102,54,48
+Keokuk,JA-RL,Jackson Township Trustee,,Write-In,,1,1,0
+Keokuk,AD-PR-WS,Keokuk County Hospital Trustee,,Cheryl Monroe,,457,132,325
+Keokuk,BN-SR,Keokuk County Hospital Trustee,,Cheryl Monroe,,368,74,294
+Keokuk,EL-WL-WN,Keokuk County Hospital Trustee,,Cheryl Monroe,,233,86,147
+Keokuk,ER-LB,Keokuk County Hospital Trustee,,Cheryl Monroe,,264,76,188
+Keokuk,JA-RL,Keokuk County Hospital Trustee,,Cheryl Monroe,,393,109,284
+Keokuk,LF-CC,Keokuk County Hospital Trustee,,Cheryl Monroe,,428,138,290
+Keokuk,SG-PL-VB,Keokuk County Hospital Trustee,,Cheryl Monroe,,290,93,197
+Keokuk,SG1,Keokuk County Hospital Trustee,,Cheryl Monroe,,193,64,129
+Keokuk,SG2,Keokuk County Hospital Trustee,,Cheryl Monroe,,161,61,100
+Keokuk,SG3,Keokuk County Hospital Trustee,,Cheryl Monroe,,136,47,89
+Keokuk,SG4,Keokuk County Hospital Trustee,,Cheryl Monroe,,176,71,105
+Keokuk,AD-PR-WS,Keokuk County Hospital Trustee,,Jerlyn Bowers,,423,136,287
+Keokuk,BN-SR,Keokuk County Hospital Trustee,,Jerlyn Bowers,,344,74,270
+Keokuk,EL-WL-WN,Keokuk County Hospital Trustee,,Jerlyn Bowers,,226,80,146
+Keokuk,ER-LB,Keokuk County Hospital Trustee,,Jerlyn Bowers,,236,74,162
+Keokuk,JA-RL,Keokuk County Hospital Trustee,,Jerlyn Bowers,,389,110,279
+Keokuk,LF-CC,Keokuk County Hospital Trustee,,Jerlyn Bowers,,383,127,256
+Keokuk,SG-PL-VB,Keokuk County Hospital Trustee,,Jerlyn Bowers,,265,88,177
+Keokuk,SG1,Keokuk County Hospital Trustee,,Jerlyn Bowers,,181,69,112
+Keokuk,SG2,Keokuk County Hospital Trustee,,Jerlyn Bowers,,153,62,91
+Keokuk,SG3,Keokuk County Hospital Trustee,,Jerlyn Bowers,,119,40,79
+Keokuk,SG4,Keokuk County Hospital Trustee,,Jerlyn Bowers,,166,64,102
+Keokuk,AD-PR-WS,Keokuk County Hospital Trustee,,Write-In,,3,3,0
+Keokuk,BN-SR,Keokuk County Hospital Trustee,,Write-In,,2,0,2
+Keokuk,EL-WL-WN,Keokuk County Hospital Trustee,,Write-In,,3,2,1
+Keokuk,ER-LB,Keokuk County Hospital Trustee,,Write-In,,7,2,5
+Keokuk,JA-RL,Keokuk County Hospital Trustee,,Write-In,,3,1,2
+Keokuk,LF-CC,Keokuk County Hospital Trustee,,Write-In,,3,0,3
+Keokuk,SG-PL-VB,Keokuk County Hospital Trustee,,Write-In,,0,0,0
+Keokuk,SG1,Keokuk County Hospital Trustee,,Write-In,,1,1,0
+Keokuk,SG2,Keokuk County Hospital Trustee,,Write-In,,2,0,2
+Keokuk,SG3,Keokuk County Hospital Trustee,,Write-In,,4,1,3
+Keokuk,SG4,Keokuk County Hospital Trustee,,Write-In,,1,1,0
+Keokuk,LF-CC,Lafayette Township Trustee,,Andy Conrad (Write-In),,1,1,0
+Keokuk,LF-CC,Lafayette Township Trustee,,Brandon Berg (Write-In),,1,0,1
+Keokuk,LF-CC,Lafayette Township Trustee,,Daniel Sieren (Write-In),,1,1,0
+Keokuk,LF-CC,Lafayette Township Trustee,,Dennis Striegel (Write-In),,1,0,1
+Keokuk,LF-CC,Lafayette Township Trustee,,Denny Lyle (Write-In),,1,0,1
+Keokuk,LF-CC,Lafayette Township Trustee,,Eric Adam (Write - In),,2,1,1
+Keokuk,LF-CC,Lafayette Township Trustee,,Mitch Sieren (Write-In),,1,0,1
+Keokuk,LF-CC,Lafayette Township Trustee,,Steve Menke (Write-In),,1,0,1
+Keokuk,LF-CC,Lafayette Township Trustee,,Write-In,,2,1,1
+Keokuk,ER-LB,Liberty Township Clerk To Fill a Vacancy,,Amy Kerr (Write-In),,2,0,2
+Keokuk,ER-LB,Liberty Township Clerk To Fill a Vacancy,,Dave Woods (Write-In),,1,0,1
+Keokuk,ER-LB,Liberty Township Clerk To Fill a Vacancy,,Meleah Mast (Write-In),,1,0,1
+Keokuk,ER-LB,Liberty Township Clerk To Fill a Vacancy,,Write-In,,1,0,1
+Keokuk,ER-LB,Liberty Township Trustee,,Andy Raleph (Write-In),,1,0,1
+Keokuk,ER-LB,Liberty Township Trustee,,Ben Mast (Write-In),,1,0,1
+Keokuk,ER-LB,Liberty Township Trustee,,Bryan Coffman (Write-In),,1,0,1
+Keokuk,ER-LB,Liberty Township Trustee,,Don R. Morrison (Write-In),,1,0,1
+Keokuk,ER-LB,Liberty Township Trustee,,Gary Sampson,,1,1,0
+Keokuk,ER-LB,Liberty Township Trustee,,Jamie Woods (Write-In),,1,0,1
+Keokuk,ER-LB,Liberty Township Trustee,,Steve Coffman (Write-In),,1,0,1
+Keokuk,ER-LB,Liberty Township Trustee,,Write-In,,1,0,1
+Keokuk,SG-PL-VB,Plank Township Trustee,,Bob Klett,,152,62,90
+Keokuk,SG-PL-VB,Plank Township Trustee,,Write-In,,1,0,1
+Keokuk,AD-PR-WS,Prairie Township Trustee,,Gary Bates,,102,27,75
+Keokuk,AD-PR-WS,Prairie Township Trustee,,Write-In,,2,0,2
+Keokuk,AD-PR-WS,Prairie Township Trustee To Fill a Vacancy,,Steve Van Zee (Write-In),,5,3,2
+Keokuk,AD-PR-WS,Prairie Township Trustee To Fill a Vacancy,,Write-In,,5,1,4
+Keokuk,AD-PR-WS,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Keokuk,BN-SR,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Keokuk,EL-WL-WN,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Keokuk,ER-LB,President,,Chase Oliver and Mike ter Maat,LIB,4,0,4
+Keokuk,JA-RL,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Keokuk,LF-CC,President,,Chase Oliver and Mike ter Maat,LIB,1,1,0
+Keokuk,SG-PL-VB,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Keokuk,SG1,President,,Chase Oliver and Mike ter Maat,LIB,2,1,1
+Keokuk,SG2,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Keokuk,SG3,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Keokuk,SG4,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Keokuk,AD-PR-WS,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Keokuk,BN-SR,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Keokuk,EL-WL-WN,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Keokuk,ER-LB,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Keokuk,JA-RL,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Keokuk,LF-CC,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Keokuk,SG-PL-VB,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Keokuk,SG1,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Keokuk,SG2,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Keokuk,SG3,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Keokuk,SG4,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Keokuk,AD-PR-WS,President,,Donald J. Trump and JD Vance,REP,580,163,417
+Keokuk,BN-SR,President,,Donald J. Trump and JD Vance,REP,502,107,395
+Keokuk,EL-WL-WN,President,,Donald J. Trump and JD Vance,REP,314,114,200
+Keokuk,ER-LB,President,,Donald J. Trump and JD Vance,REP,321,99,222
+Keokuk,JA-RL,President,,Donald J. Trump and JD Vance,REP,523,125,398
+Keokuk,LF-CC,President,,Donald J. Trump and JD Vance,REP,584,164,420
+Keokuk,SG-PL-VB,President,,Donald J. Trump and JD Vance,REP,342,103,239
+Keokuk,SG1,President,,Donald J. Trump and JD Vance,REP,195,50,145
+Keokuk,SG2,President,,Donald J. Trump and JD Vance,REP,196,65,131
+Keokuk,SG3,President,,Donald J. Trump and JD Vance,REP,143,51,92
+Keokuk,SG4,President,,Donald J. Trump and JD Vance,REP,169,55,114
+Keokuk,AD-PR-WS,President,,Kamala D. Harris and Tim Walz,DEM,181,78,103
+Keokuk,BN-SR,President,,Kamala D. Harris and Tim Walz,DEM,129,49,80
+Keokuk,EL-WL-WN,President,,Kamala D. Harris and Tim Walz,DEM,72,28,44
+Keokuk,ER-LB,President,,Kamala D. Harris and Tim Walz,DEM,129,50,79
+Keokuk,JA-RL,President,,Kamala D. Harris and Tim Walz,DEM,132,55,77
+Keokuk,LF-CC,President,,Kamala D. Harris and Tim Walz,DEM,204,76,128
+Keokuk,SG-PL-VB,President,,Kamala D. Harris and Tim Walz,DEM,82,50,32
+Keokuk,SG1,President,,Kamala D. Harris and Tim Walz,DEM,77,36,41
+Keokuk,SG2,President,,Kamala D. Harris and Tim Walz,DEM,73,34,39
+Keokuk,SG3,President,,Kamala D. Harris and Tim Walz,DEM,69,30,39
+Keokuk,SG4,President,,Kamala D. Harris and Tim Walz,DEM,71,43,28
+Keokuk,AD-PR-WS,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,1,0,1
+Keokuk,BN-SR,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,2,0,2
+Keokuk,EL-WL-WN,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,8,3,5
+Keokuk,ER-LB,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,0,4
+Keokuk,JA-RL,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,1,5
+Keokuk,LF-CC,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,7,3,4
+Keokuk,SG-PL-VB,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,2,1,1
+Keokuk,SG1,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,2,2
+Keokuk,SG2,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,1,0,1
+Keokuk,SG3,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,1,0,1
+Keokuk,SG4,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,2,4
+Keokuk,AD-PR-WS,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Keokuk,BN-SR,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Keokuk,EL-WL-WN,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Keokuk,ER-LB,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Keokuk,JA-RL,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Keokuk,LF-CC,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Keokuk,SG-PL-VB,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Keokuk,SG1,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Keokuk,SG2,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Keokuk,SG3,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Keokuk,SG4,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Keokuk,AD-PR-WS,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Keokuk,BN-SR,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Keokuk,EL-WL-WN,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Keokuk,ER-LB,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Keokuk,JA-RL,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Keokuk,LF-CC,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Keokuk,SG-PL-VB,President,,William P. Stodden and Stephanie H. Cholensky,SOC,1,0,1
+Keokuk,SG1,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Keokuk,SG2,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Keokuk,SG3,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Keokuk,SG4,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Keokuk,AD-PR-WS,President,,Write-In,,2,0,2
+Keokuk,BN-SR,President,,Write-In,,0,0,0
+Keokuk,EL-WL-WN,President,,Write-In,,1,0,1
+Keokuk,ER-LB,President,,Write-In,,0,0,0
+Keokuk,JA-RL,President,,Write-In,,1,0,1
+Keokuk,LF-CC,President,,Write-In,,1,0,1
+Keokuk,SG-PL-VB,President,,Write-In,,0,0,0
+Keokuk,SG1,President,,Write-In,,1,0,1
+Keokuk,SG2,President,,Write-In,,1,0,1
+Keokuk,SG3,President,,Write-In,,0,0,0
+Keokuk,SG4,President,,Write-In,,1,0,1
+Keokuk,JA-RL,Richland Township Trustee,,Brett Slaubaugh,,111,24,87
+Keokuk,JA-RL,Richland Township Trustee,,Write-In,,2,2,0
+Keokuk,SG-PL-VB,Sigourney Township Trustee,,Cathy Lippard (Write-In),,1,0,1
+Keokuk,SG-PL-VB,Sigourney Township Trustee,,Chad Weber (Write-In),,1,0,1
+Keokuk,SG-PL-VB,Sigourney Township Trustee,,Chris Webb (Write-In),,1,0,1
+Keokuk,SG-PL-VB,Sigourney Township Trustee,,Keith Epperson (Write-In),,2,1,1
+Keokuk,SG-PL-VB,Sigourney Township Trustee,,Ron Waechter (Write-In),,1,0,1
+Keokuk,SG-PL-VB,Sigourney Township Trustee,,Terry Steinhart (Write-In),,1,0,1
+Keokuk,SG-PL-VB,Sigourney Township Trustee,,Tom Neece (Write-In),,1,0,1
+Keokuk,SG-PL-VB,Sigourney Township Trustee,,Write-In,,2,0,2
+Keokuk,AD-PR-WS,Soil and Water Conservation District Commissioner,,Andrew J. Neff,,346,104,242
+Keokuk,BN-SR,Soil and Water Conservation District Commissioner,,Andrew J. Neff,,339,71,268
+Keokuk,EL-WL-WN,Soil and Water Conservation District Commissioner,,Andrew J. Neff,,188,67,121
+Keokuk,ER-LB,Soil and Water Conservation District Commissioner,,Andrew J. Neff,,203,60,143
+Keokuk,JA-RL,Soil and Water Conservation District Commissioner,,Andrew J. Neff,,413,113,300
+Keokuk,LF-CC,Soil and Water Conservation District Commissioner,,Andrew J. Neff,,393,138,255
+Keokuk,SG-PL-VB,Soil and Water Conservation District Commissioner,,Andrew J. Neff,,212,64,148
+Keokuk,SG1,Soil and Water Conservation District Commissioner,,Andrew J. Neff,,133,41,92
+Keokuk,SG2,Soil and Water Conservation District Commissioner,,Andrew J. Neff,,111,48,63
+Keokuk,SG3,Soil and Water Conservation District Commissioner,,Andrew J. Neff,,92,35,57
+Keokuk,SG4,Soil and Water Conservation District Commissioner,,Andrew J. Neff,,134,51,83
+Keokuk,AD-PR-WS,Soil and Water Conservation District Commissioner,,Clinton Mikesell,,453,144,309
+Keokuk,BN-SR,Soil and Water Conservation District Commissioner,,Clinton Mikesell,,269,61,208
+Keokuk,EL-WL-WN,Soil and Water Conservation District Commissioner,,Clinton Mikesell,,195,69,126
+Keokuk,ER-LB,Soil and Water Conservation District Commissioner,,Clinton Mikesell,,290,86,204
+Keokuk,JA-RL,Soil and Water Conservation District Commissioner,,Clinton Mikesell,,335,95,240
+Keokuk,LF-CC,Soil and Water Conservation District Commissioner,,Clinton Mikesell,,421,143,278
+Keokuk,SG-PL-VB,Soil and Water Conservation District Commissioner,,Clinton Mikesell,,276,89,187
+Keokuk,SG1,Soil and Water Conservation District Commissioner,,Clinton Mikesell,,167,58,109
+Keokuk,SG2,Soil and Water Conservation District Commissioner,,Clinton Mikesell,,138,57,81
+Keokuk,SG3,Soil and Water Conservation District Commissioner,,Clinton Mikesell,,106,42,64
+Keokuk,SG4,Soil and Water Conservation District Commissioner,,Clinton Mikesell,,139,55,84
+Keokuk,AD-PR-WS,Soil and Water Conservation District Commissioner,,David B. Klein,,402,114,288
+Keokuk,BN-SR,Soil and Water Conservation District Commissioner,,David B. Klein,,346,74,272
+Keokuk,EL-WL-WN,Soil and Water Conservation District Commissioner,,David B. Klein,,237,83,154
+Keokuk,ER-LB,Soil and Water Conservation District Commissioner,,David B. Klein,,228,65,163
+Keokuk,JA-RL,Soil and Water Conservation District Commissioner,,David B. Klein,,360,96,264
+Keokuk,LF-CC,Soil and Water Conservation District Commissioner,,David B. Klein,,405,134,271
+Keokuk,SG-PL-VB,Soil and Water Conservation District Commissioner,,David B. Klein,,273,86,187
+Keokuk,SG1,Soil and Water Conservation District Commissioner,,David B. Klein,,177,55,122
+Keokuk,SG2,Soil and Water Conservation District Commissioner,,David B. Klein,,145,58,87
+Keokuk,SG3,Soil and Water Conservation District Commissioner,,David B. Klein,,113,39,74
+Keokuk,SG4,Soil and Water Conservation District Commissioner,,David B. Klein,,171,62,109
+Keokuk,AD-PR-WS,Soil and Water Conservation District Commissioner,,Write-In,,4,3,1
+Keokuk,BN-SR,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Keokuk,EL-WL-WN,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Keokuk,ER-LB,Soil and Water Conservation District Commissioner,,Write-In,,11,3,8
+Keokuk,JA-RL,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Keokuk,LF-CC,Soil and Water Conservation District Commissioner,,Write-In,,5,0,5
+Keokuk,SG-PL-VB,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Keokuk,SG1,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Keokuk,SG2,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Keokuk,SG3,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Keokuk,SG4,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Keokuk,AD-PR-WS,State House,88,Helena Hayes,REP,608,175,433
+Keokuk,BN-SR,State House,88,Helena Hayes,REP,501,102,399
+Keokuk,EL-WL-WN,State House,88,Helena Hayes,REP,303,107,196
+Keokuk,ER-LB,State House,88,Helena Hayes,REP,326,94,232
+Keokuk,JA-RL,State House,88,Helena Hayes,REP,530,132,398
+Keokuk,LF-CC,State House,88,Helena Hayes,REP,555,179,376
+Keokuk,SG-PL-VB,State House,88,Helena Hayes,REP,305,94,211
+Keokuk,SG1,State House,88,Helena Hayes,REP,218,67,151
+Keokuk,SG2,State House,88,Helena Hayes,REP,185,65,120
+Keokuk,SG3,State House,88,Helena Hayes,REP,138,49,89
+Keokuk,SG4,State House,88,Helena Hayes,REP,182,63,119
+Keokuk,AD-PR-WS,State House,88,Write-In,,9,5,4
+Keokuk,BN-SR,State House,88,Write-In,,12,7,5
+Keokuk,EL-WL-WN,State House,88,Write-In,,2,2,0
+Keokuk,ER-LB,State House,88,Write-In,,5,2,3
+Keokuk,JA-RL,State House,88,Write-In,,2,0,2
+Keokuk,LF-CC,State House,88,Write-In,,5,1,4
+Keokuk,SG-PL-VB,State House,88,Write-In,,4,0,4
+Keokuk,SG1,State House,88,Write-In,,2,1,1
+Keokuk,SG2,State House,88,Write-In,,2,1,1
+Keokuk,SG3,State House,88,Write-In,,2,0,2
+Keokuk,SG4,State House,88,Write-In,,2,0,2
+Keokuk,AD-PR-WS,State Senate,44,Adrian Dickey,REP,521,143,378
+Keokuk,BN-SR,State Senate,44,Adrian Dickey,REP,468,99,369
+Keokuk,EL-WL-WN,State Senate,44,Adrian Dickey,REP,281,99,182
+Keokuk,ER-LB,State Senate,44,Adrian Dickey,REP,289,85,204
+Keokuk,JA-RL,State Senate,44,Adrian Dickey,REP,457,116,341
+Keokuk,LF-CC,State Senate,44,Adrian Dickey,REP,490,149,341
+Keokuk,SG-PL-VB,State Senate,44,Adrian Dickey,REP,289,88,201
+Keokuk,SG1,State Senate,44,Adrian Dickey,REP,176,53,123
+Keokuk,SG2,State Senate,44,Adrian Dickey,REP,162,57,105
+Keokuk,SG3,State Senate,44,Adrian Dickey,REP,114,37,77
+Keokuk,SG4,State Senate,44,Adrian Dickey,REP,142,45,97
+Keokuk,AD-PR-WS,State Senate,44,Lisa Ossian,,165,62,103
+Keokuk,BN-SR,State Senate,44,Lisa Ossian,,133,45,88
+Keokuk,EL-WL-WN,State Senate,44,Lisa Ossian,,72,28,44
+Keokuk,ER-LB,State Senate,44,Lisa Ossian,,105,33,72
+Keokuk,JA-RL,State Senate,44,Lisa Ossian,,181,58,123
+Keokuk,LF-CC,State Senate,44,Lisa Ossian,,199,69,130
+Keokuk,SG-PL-VB,State Senate,44,Lisa Ossian,,85,42,43
+Keokuk,SG1,State Senate,44,Lisa Ossian,,77,28,49
+Keokuk,SG2,State Senate,44,Lisa Ossian,,73,29,44
+Keokuk,SG3,State Senate,44,Lisa Ossian,,55,21,34
+Keokuk,SG4,State Senate,44,Lisa Ossian,,76,39,37
+Keokuk,AD-PR-WS,State Senate,44,Write-In,,1,0,1
+Keokuk,BN-SR,State Senate,44,Write-In,,0,0,0
+Keokuk,EL-WL-WN,State Senate,44,Write-In,,0,0,0
+Keokuk,ER-LB,State Senate,44,Write-In,,2,1,1
+Keokuk,JA-RL,State Senate,44,Write-In,,1,0,1
+Keokuk,LF-CC,State Senate,44,Write-In,,2,1,1
+Keokuk,SG-PL-VB,State Senate,44,Write-In,,0,0,0
+Keokuk,SG1,State Senate,44,Write-In,,0,0,0
+Keokuk,SG2,State Senate,44,Write-In,,0,0,0
+Keokuk,SG3,State Senate,44,Write-In,,0,0,0
+Keokuk,SG4,State Senate,44,Write-In,,0,0,0
+Keokuk,BN-SR,Steady Run Township Trustee,,Donald Brain,,100,27,73
+Keokuk,BN-SR,Steady Run Township Trustee,,Write-In,,0,0,0
+Keokuk,AD-PR-WS,Supreme Court Justice - David May,,No,,184,61,123
+Keokuk,BN-SR,Supreme Court Justice - David May,,No,,139,31,108
+Keokuk,EL-WL-WN,Supreme Court Justice - David May,,No,,88,28,60
+Keokuk,ER-LB,Supreme Court Justice - David May,,No,,98,26,72
+Keokuk,JA-RL,Supreme Court Justice - David May,,No,,122,27,95
+Keokuk,LF-CC,Supreme Court Justice - David May,,No,,120,43,77
+Keokuk,SG-PL-VB,Supreme Court Justice - David May,,No,,76,32,44
+Keokuk,SG1,Supreme Court Justice - David May,,No,,56,14,42
+Keokuk,SG2,Supreme Court Justice - David May,,No,,44,15,29
+Keokuk,SG3,Supreme Court Justice - David May,,No,,40,14,26
+Keokuk,SG4,Supreme Court Justice - David May,,No,,49,13,36
+Keokuk,AD-PR-WS,Supreme Court Justice - David May,,Yes,,348,89,259
+Keokuk,BN-SR,Supreme Court Justice - David May,,Yes,,305,58,247
+Keokuk,EL-WL-WN,Supreme Court Justice - David May,,Yes,,166,54,112
+Keokuk,ER-LB,Supreme Court Justice - David May,,Yes,,198,44,154
+Keokuk,JA-RL,Supreme Court Justice - David May,,Yes,,344,94,250
+Keokuk,LF-CC,Supreme Court Justice - David May,,Yes,,294,82,212
+Keokuk,SG-PL-VB,Supreme Court Justice - David May,,Yes,,163,41,122
+Keokuk,SG1,Supreme Court Justice - David May,,Yes,,134,39,95
+Keokuk,SG2,Supreme Court Justice - David May,,Yes,,113,42,71
+Keokuk,SG3,Supreme Court Justice - David May,,Yes,,85,23,62
+Keokuk,SG4,Supreme Court Justice - David May,,Yes,,122,40,82
+Keokuk,AD-PR-WS,U.S. House,1,Christina Bohannan,DEM,224,89,135
+Keokuk,BN-SR,U.S. House,1,Christina Bohannan,DEM,157,52,105
+Keokuk,EL-WL-WN,U.S. House,1,Christina Bohannan,DEM,99,35,64
+Keokuk,ER-LB,U.S. House,1,Christina Bohannan,DEM,148,53,95
+Keokuk,JA-RL,U.S. House,1,Christina Bohannan,DEM,177,60,117
+Keokuk,LF-CC,U.S. House,1,Christina Bohannan,DEM,262,90,172
+Keokuk,SG-PL-VB,U.S. House,1,Christina Bohannan,DEM,104,57,47
+Keokuk,SG1,U.S. House,1,Christina Bohannan,DEM,102,41,61
+Keokuk,SG2,U.S. House,1,Christina Bohannan,DEM,90,36,54
+Keokuk,SG3,U.S. House,1,Christina Bohannan,DEM,73,32,41
+Keokuk,SG4,U.S. House,1,Christina Bohannan,DEM,97,45,52
+Keokuk,AD-PR-WS,U.S. House,1,Mariannette Miller-Meeks,REP,519,148,371
+Keokuk,BN-SR,U.S. House,1,Mariannette Miller-Meeks,REP,453,95,358
+Keokuk,EL-WL-WN,U.S. House,1,Mariannette Miller-Meeks,REP,281,101,180
+Keokuk,ER-LB,U.S. House,1,Mariannette Miller-Meeks,REP,289,85,204
+Keokuk,JA-RL,U.S. House,1,Mariannette Miller-Meeks,REP,464,116,348
+Keokuk,LF-CC,U.S. House,1,Mariannette Miller-Meeks,REP,506,147,359
+Keokuk,SG-PL-VB,U.S. House,1,Mariannette Miller-Meeks,REP,310,90,220
+Keokuk,SG1,U.S. House,1,Mariannette Miller-Meeks,REP,174,48,126
+Keokuk,SG2,U.S. House,1,Mariannette Miller-Meeks,REP,160,54,106
+Keokuk,SG3,U.S. House,1,Mariannette Miller-Meeks,REP,122,42,80
+Keokuk,SG4,U.S. House,1,Mariannette Miller-Meeks,REP,141,54,87
+Keokuk,AD-PR-WS,U.S. House,1,Write-In,,3,0,3
+Keokuk,BN-SR,U.S. House,1,Write-In,,0,0,0
+Keokuk,EL-WL-WN,U.S. House,1,Write-In,,0,0,0
+Keokuk,ER-LB,U.S. House,1,Write-In,,1,0,1
+Keokuk,JA-RL,U.S. House,1,Write-In,,1,0,1
+Keokuk,LF-CC,U.S. House,1,Write-In,,0,0,0
+Keokuk,SG-PL-VB,U.S. House,1,Write-In,,1,0,1
+Keokuk,SG1,U.S. House,1,Write-In,,0,0,0
+Keokuk,SG2,U.S. House,1,Write-In,,0,0,0
+Keokuk,SG3,U.S. House,1,Write-In,,1,1,0
+Keokuk,SG4,U.S. House,1,Write-In,,0,0,0
+Keokuk,SG-PL-VB,Van Buren Township Trustee,,Leo Wehr,,118,34,84
+Keokuk,SG-PL-VB,Van Buren Township Trustee,,Write-In,,0,0,0
+Keokuk,EL-WL-WN,Warren Township Trustee,,Justin Boender,,85,28,57
+Keokuk,EL-WL-WN,Warren Township Trustee,,Write-In,,0,0,0
+Keokuk,AD-PR-WS,Washington Township Trustee,,Raymond D. Adams,,138,33,105
+Keokuk,AD-PR-WS,Washington Township Trustee,,Write-In,,0,0,0
+Keokuk,EL-WL-WN,West LancasterTownship Trustee,,Richard Wilkening,,92,42,50
+Keokuk,EL-WL-WN,West LancasterTownship Trustee,,Write-In,,0,0,0

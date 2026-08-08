@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2010,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "governor",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2010_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 131756,
+        "rep_votes": 140609,
+        "other_votes": 11620,
+        "total_votes": 283985,
+        "dem_candidate": "Chet Culver Patty Judge",
+        "rep_candidate": "Terry E Branstad Kim Reynolds",
+        "margin": 8853,
+        "margin_pct": 3.117418173495079,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "2": {
+        "dem_votes": 138488,
+        "rep_votes": 146413,
+        "other_votes": 9134,
+        "total_votes": 294035,
+        "dem_candidate": "Chet Culver Patty Judge",
+        "rep_candidate": "Terry E Branstad Kim Reynolds",
+        "margin": 7925,
+        "margin_pct": 2.6952573673202167,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "3": {
+        "dem_votes": 113914,
+        "rep_votes": 137679,
+        "other_votes": 13223,
+        "total_votes": 264816,
+        "dem_candidate": "Chet Culver Patty Judge",
+        "rep_candidate": "Terry E Branstad Kim Reynolds",
+        "margin": 23765,
+        "margin_pct": 8.97415564014259,
+        "winner": "REP",
+        "color": "#f7634b"
+      },
+      "4": {
+        "dem_votes": 100640,
+        "rep_votes": 167793,
+        "other_votes": 10744,
+        "total_votes": 279177,
+        "dem_candidate": "Chet Culver Patty Judge",
+        "rep_candidate": "Terry E Branstad Kim Reynolds",
+        "margin": 67153,
+        "margin_pct": 24.053915616257786,
+        "winner": "REP",
+        "color": "#cb181d"
+      }
+    }
+  }
+}

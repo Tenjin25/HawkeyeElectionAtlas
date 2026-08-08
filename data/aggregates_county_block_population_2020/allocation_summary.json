@@ -1,0 +1,214 @@
+{
+  "years": [
+    {
+      "year": 2000,
+      "source": "data/aggregates_verified/2000_contests_to_county.csv",
+      "outputs": {
+        "congressional": {
+          "rows": 16,
+          "districts": 4,
+          "output": "data/aggregates_county_block_population_2020/2000_contests_to_plan2_congressional.csv"
+        },
+        "house": {
+          "rows": 400,
+          "districts": 100,
+          "output": "data/aggregates_county_block_population_2020/2000_contests_to_plan2_house.csv"
+        },
+        "senate": {
+          "rows": 200,
+          "districts": 50,
+          "output": "data/aggregates_county_block_population_2020/2000_contests_to_plan2_senate.csv"
+        }
+      }
+    },
+    {
+      "year": 2002,
+      "source": "data/aggregates_verified/2002_contests_to_county.csv",
+      "outputs": {
+        "congressional": {
+          "rows": 112,
+          "districts": 4,
+          "output": "data/aggregates_county_block_population_2020/2002_contests_to_plan2_congressional.csv"
+        },
+        "house": {
+          "rows": 2800,
+          "districts": 100,
+          "output": "data/aggregates_county_block_population_2020/2002_contests_to_plan2_house.csv"
+        },
+        "senate": {
+          "rows": 1400,
+          "districts": 50,
+          "output": "data/aggregates_county_block_population_2020/2002_contests_to_plan2_senate.csv"
+        }
+      }
+    },
+    {
+      "year": 2004,
+      "source": "data/aggregates_verified/2004_contests_to_county.csv",
+      "outputs": {
+        "congressional": {
+          "rows": 32,
+          "districts": 4,
+          "output": "data/aggregates_county_block_population_2020/2004_contests_to_plan2_congressional.csv"
+        },
+        "house": {
+          "rows": 800,
+          "districts": 100,
+          "output": "data/aggregates_county_block_population_2020/2004_contests_to_plan2_house.csv"
+        },
+        "senate": {
+          "rows": 400,
+          "districts": 50,
+          "output": "data/aggregates_county_block_population_2020/2004_contests_to_plan2_senate.csv"
+        }
+      }
+    },
+    {
+      "year": 2006,
+      "source": "data/aggregates_verified/2006_contests_to_county.csv",
+      "outputs": {
+        "congressional": {
+          "rows": 48,
+          "districts": 4,
+          "output": "data/aggregates_county_block_population_2020/2006_contests_to_plan2_congressional.csv"
+        },
+        "house": {
+          "rows": 1200,
+          "districts": 100,
+          "output": "data/aggregates_county_block_population_2020/2006_contests_to_plan2_house.csv"
+        },
+        "senate": {
+          "rows": 600,
+          "districts": 50,
+          "output": "data/aggregates_county_block_population_2020/2006_contests_to_plan2_senate.csv"
+        }
+      }
+    },
+    {
+      "year": 2008,
+      "source": "data/aggregates_verified/2008_contests_to_county.csv",
+      "outputs": {
+        "congressional": {
+          "rows": 52,
+          "districts": 4,
+          "output": "data/aggregates_county_block_population_2020/2008_contests_to_plan2_congressional.csv"
+        },
+        "house": {
+          "rows": 1300,
+          "districts": 100,
+          "output": "data/aggregates_county_block_population_2020/2008_contests_to_plan2_house.csv"
+        },
+        "senate": {
+          "rows": 650,
+          "districts": 50,
+          "output": "data/aggregates_county_block_population_2020/2008_contests_to_plan2_senate.csv"
+        }
+      }
+    },
+    {
+      "year": 2010,
+      "source": "data/aggregates_verified/2010_contests_to_county.csv",
+      "outputs": {
+        "congressional": {
+          "rows": 108,
+          "districts": 4,
+          "output": "data/aggregates_county_block_population_2020/2010_contests_to_plan2_congressional.csv"
+        },
+        "house": {
+          "rows": 2700,
+          "districts": 100,
+          "output": "data/aggregates_county_block_population_2020/2010_contests_to_plan2_house.csv"
+        },
+        "senate": {
+          "rows": 1350,
+          "districts": 50,
+          "output": "data/aggregates_county_block_population_2020/2010_contests_to_plan2_senate.csv"
+        }
+      }
+    },
+    {
+      "year": 2012,
+      "source": "data/aggregates_verified/2012_contests_to_county.csv",
+      "outputs": {
+        "congressional": {
+          "rows": 44,
+          "districts": 4,
+          "output": "data/aggregates_county_block_population_2020/2012_contests_to_plan2_congressional.csv"
+        },
+        "house": {
+          "rows": 1100,
+          "districts": 100,
+          "output": "data/aggregates_county_block_population_2020/2012_contests_to_plan2_house.csv"
+        },
+        "senate": {
+          "rows": 550,
+          "districts": 50,
+          "output": "data/aggregates_county_block_population_2020/2012_contests_to_plan2_senate.csv"
+        }
+      }
+    },
+    {
+      "year": 2014,
+      "source": "data/aggregates_verified/2014_contests_to_county.csv",
+      "outputs": {
+        "congressional": {
+          "rows": 128,
+          "districts": 4,
+          "output": "data/aggregates_county_block_population_2020/2014_contests_to_plan2_congressional.csv"
+        },
+        "house": {
+          "rows": 3200,
+          "districts": 100,
+          "output": "data/aggregates_county_block_population_2020/2014_contests_to_plan2_house.csv"
+        },
+        "senate": {
+          "rows": 1600,
+          "districts": 50,
+          "output": "data/aggregates_county_block_population_2020/2014_contests_to_plan2_senate.csv"
+        }
+      }
+    },
+    {
+      "year": 2022,
+      "source": "data/aggregates_verified/2022_contests_to_county.csv",
+      "outputs": {
+        "congressional": {
+          "rows": 52,
+          "districts": 4,
+          "output": "data/aggregates_county_block_population_2020/2022_contests_to_plan2_congressional.csv"
+        },
+        "house": {
+          "rows": 1300,
+          "districts": 100,
+          "output": "data/aggregates_county_block_population_2020/2022_contests_to_plan2_house.csv"
+        },
+        "senate": {
+          "rows": 650,
+          "districts": 50,
+          "output": "data/aggregates_county_block_population_2020/2022_contests_to_plan2_senate.csv"
+        }
+      }
+    },
+    {
+      "year": 2024,
+      "source": "data/aggregates_verified/2024_contests_to_county.csv",
+      "outputs": {
+        "congressional": {
+          "rows": 32,
+          "districts": 4,
+          "output": "data/aggregates_county_block_population_2020/2024_contests_to_plan2_congressional.csv"
+        },
+        "house": {
+          "rows": 800,
+          "districts": 100,
+          "output": "data/aggregates_county_block_population_2020/2024_contests_to_plan2_house.csv"
+        },
+        "senate": {
+          "rows": 400,
+          "districts": 50,
+          "output": "data/aggregates_county_block_population_2020/2024_contests_to_plan2_senate.csv"
+        }
+      }
+    }
+  ]
+}

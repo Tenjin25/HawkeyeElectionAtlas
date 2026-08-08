@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2002,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "auditor",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2002_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 120600,
+        "rep_votes": 102899,
+        "other_votes": 12282,
+        "total_votes": 235781,
+        "dem_candidate": "Patrick J Deluhery",
+        "rep_candidate": "David A Vaudt",
+        "margin": -17701,
+        "margin_pct": -7.507390332554362,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "2": {
+        "dem_votes": 121589,
+        "rep_votes": 118877,
+        "other_votes": 13283,
+        "total_votes": 253749,
+        "dem_candidate": "Patrick J Deluhery",
+        "rep_candidate": "David A Vaudt",
+        "margin": -2712,
+        "margin_pct": -1.0687726848184622,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "3": {
+        "dem_votes": 103246,
+        "rep_votes": 109511,
+        "other_votes": 10313,
+        "total_votes": 223070,
+        "dem_candidate": "Patrick J Deluhery",
+        "rep_candidate": "David A Vaudt",
+        "margin": 6265,
+        "margin_pct": 2.8085354373066753,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "4": {
+        "dem_votes": 96605,
+        "rep_votes": 133182,
+        "other_votes": 13768,
+        "total_votes": 243555,
+        "dem_candidate": "Patrick J Deluhery",
+        "rep_candidate": "David A Vaudt",
+        "margin": 36577,
+        "margin_pct": 15.017963088419453,
+        "winner": "REP",
+        "color": "#e93a2d"
+      }
+    }
+  }
+}

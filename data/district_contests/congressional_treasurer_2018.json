@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2018,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "treasurer",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "population_weighted_precinct_to_vtd_to_plan2",
+    "geographic_precision": "precinct_crosswalk",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_verified/2018_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 181217,
+        "rep_votes": 133920,
+        "other_votes": 7800,
+        "total_votes": 322937,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "Jeremy N Davis",
+        "margin": -47297,
+        "margin_pct": -14.645890684560767,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "2": {
+        "dem_votes": 192777,
+        "rep_votes": 136409,
+        "other_votes": 8987,
+        "total_votes": 338173,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "Jeremy N Davis",
+        "margin": -56368,
+        "margin_pct": -16.668391622039607,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "3": {
+        "dem_votes": 191715,
+        "rep_votes": 124763,
+        "other_votes": 7831,
+        "total_votes": 324309,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "Jeremy N Davis",
+        "margin": -66952,
+        "margin_pct": -20.64450878637349,
+        "winner": "DEM",
+        "color": "#2876b5"
+      },
+      "4": {
+        "dem_votes": 143112,
+        "rep_votes": 156621,
+        "other_votes": 7031,
+        "total_votes": 306764,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "Jeremy N Davis",
+        "margin": 13509,
+        "margin_pct": 4.403710996075159,
+        "winner": "REP",
+        "color": "#fca793"
+      }
+    }
+  }
+}

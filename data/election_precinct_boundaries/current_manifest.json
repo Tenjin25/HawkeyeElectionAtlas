@@ -1,0 +1,397 @@
+{
+  "source": "https://sos.iowa.gov/shapefiles-county-precincts",
+  "files": [
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Adair%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Adair County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Adams%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Adams County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Allamakee%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Allamakee County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Appanoose%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Appanoose County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Audubon%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Audubon County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Benton%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Benton County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Black%20Hawk%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Black Hawk County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Boone%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Boone County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Bremer%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Bremer County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Buchananan%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Buchananan County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Buena%20Vista%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Buena Vista Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Butler%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Butler County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Calhoun%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Calhoun County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Carroll%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Carroll County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Cass%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Cass County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Cedar%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Cedar County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Cerro%20Gordo%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Cerro Gordo County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Cherokee%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Cherokee County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Chickasaw%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Chickasaw County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/City%20of%20Maquoketa%20Wards%20(Precincts%209-13)%20(1).zip",
+      "file": "data\\election_precinct_boundaries\\current\\City of Maquoketa Wards (Precincts 9-13) (1).zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Clarke%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Clarke County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Clay%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Clay County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Clayton%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Clayton County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Clinton%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Clinton County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Crawford%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Crawford County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Dallas%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Dallas County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Davis%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Davis County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Decatur%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Decatur County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Delaware%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Delaware County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Des%20Moines%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Des Moines County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Dickinson%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Dickinson County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Dubuque%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Dubuque County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Emmet%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Emmet County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Fayette%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Fayette County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Floyd%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Floyd County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Franklin%20County%20Hampton%20Precincts.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Franklin County Hampton Precincts.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Franklin%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Franklin County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Fremont%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Fremont County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Greene%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Greene County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Grundy%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Grundy County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Guthrie%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Guthrie County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Hamilton%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Hamilton County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Hancock%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Hancock County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Hardin%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Hardin County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Harrison%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Harrison County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Henry%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Henry County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Howard%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Howard County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Humboldt%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Humboldt County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Ida%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Ida County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Iowa%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Iowa County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Jackson%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Jackson County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Jasper%20County%20Precinct%20Boundaries%20(2).zip",
+      "file": "data\\election_precinct_boundaries\\current\\Jasper County Precinct Boundaries (2).zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Jefferson%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Jefferson County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Johnson%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Johnson County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Jones%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Jones County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Keokuk%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Keokuk County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Lee%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Lee County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Linn%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Linn County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Louisa%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Louisa County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Lucas%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Lucas County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Madison%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Madison County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Mahaska%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Mahaska County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Marion%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Marion County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Marshall%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Marshall County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Mills%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Mills County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Mitchell%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Mitchell County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Monona%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Monona County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Monroe%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Monroe County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Montgomery%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Montgomery County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Muscatine%20County%20Precinct%20Boundaries%20(1).zip",
+      "file": "data\\election_precinct_boundaries\\current\\Muscatine County Precinct Boundaries (1).zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Osceola%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Osceola County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Page%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Page County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Palo%20Alto%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Palo Alto County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Plymouth%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Plymouth County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Pocahontas%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Pocahontas County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Polk%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Polk County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Pottawattamie%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Pottawattamie County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Poweshiek%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Poweshiek County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Ringgold%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Ringgold County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Sac%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Sac County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Scott%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Scott County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Shelby%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Shelby County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Sioux%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Sioux County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Story%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Story County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Tama%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Tama County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Taylor%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Taylor County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Union%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Union County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Van%20Buren%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Van Buren County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Wapello%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Wapello County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Warren%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Warren County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Washington%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Washington County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Wayne%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Wayne County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Webster%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Webster County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Winnebago%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Winnebago County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Winneshiek%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Winneshiek County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Woodbury%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Woodbury County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Worth%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Worth County Precinct Boundaries.zip"
+    },
+    {
+      "url": "https://sos.iowa.gov/elections/pdf/shapefiles/County%20Precincts/elections/pdf/shapefiles/County%20Precincts/Wright%20County%20Precinct%20Boundaries.zip",
+      "file": "data\\election_precinct_boundaries\\current\\Wright County Precinct Boundaries.zip"
+    }
+  ]
+}

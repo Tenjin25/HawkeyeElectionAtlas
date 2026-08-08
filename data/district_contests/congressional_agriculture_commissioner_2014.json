@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2014,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "agriculture_commissioner",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2014_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 106013,
+        "rep_votes": 156418,
+        "other_votes": 10563,
+        "total_votes": 272994,
+        "dem_candidate": "Sherrie Taha",
+        "rep_candidate": "Bill Northey",
+        "margin": 50405,
+        "margin_pct": 18.46377576063943,
+        "winner": "REP",
+        "color": "#e93a2d"
+      },
+      "2": {
+        "dem_votes": 103889,
+        "rep_votes": 176220,
+        "other_votes": 10378,
+        "total_votes": 290487,
+        "dem_candidate": "Sherrie Taha",
+        "rep_candidate": "Bill Northey",
+        "margin": 72331,
+        "margin_pct": 24.89990946238558,
+        "winner": "REP",
+        "color": "#cb181d"
+      },
+      "3": {
+        "dem_votes": 91632,
+        "rep_votes": 157015,
+        "other_votes": 9266,
+        "total_votes": 257913,
+        "dem_candidate": "Sherrie Taha",
+        "rep_candidate": "Bill Northey",
+        "margin": 65383,
+        "margin_pct": 25.350796586445817,
+        "winner": "REP",
+        "color": "#cb181d"
+      },
+      "4": {
+        "dem_votes": 68675,
+        "rep_votes": 186128,
+        "other_votes": 10033,
+        "total_votes": 264836,
+        "dem_candidate": "Sherrie Taha",
+        "rep_candidate": "Bill Northey",
+        "margin": 117453,
+        "margin_pct": 44.34933317222734,
+        "winner": "REP",
+        "color": "#67000d"
+      }
+    }
+  }
+}

@@ -1,0 +1,1301 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Fayette,Auburn-Eden Township,Auburn Township Trustee,,Paul Bodensteiner,,6,1,5
+Fayette,Auburn-Eden Township,Auburn Township Trustee,,Write-In,,26,4,22
+Fayette,Banks-Fremont Township,Banks Township Trustee,,Greg Pagel,,141,40,101
+Fayette,Banks-Fremont Township,Banks Township Trustee,,Write-In,,4,1,3
+Fayette,Bethel-Windsor Township,Bethel Township Trustee,,Brad Niewoehner,,108,37,71
+Fayette,Bethel-Windsor Township,Bethel Township Trustee,,Write-In,,1,1,0
+Fayette,Center-Harlan Township,Center Township Trustee,,Roger Gamm,,7,1,6
+Fayette,Center-Harlan Township,Center Township Trustee,,Write-In,,12,5,7
+Fayette,Clermont Township,Clermont Township Trustee,,Robert Swenson,,130,53,77
+Fayette,Clermont Township,Clermont Township Trustee,,Write-In,,1,0,1
+Fayette,Auburn-Eden Township,Constitutional Amendment 1,,No,,85,29,56
+Fayette,Banks-Fremont Township,Constitutional Amendment 1,,No,,73,20,53
+Fayette,Bethel-Windsor Township,Constitutional Amendment 1,,No,,76,27,49
+Fayette,Center-Harlan Township,Constitutional Amendment 1,,No,,80,24,56
+Fayette,Clermont Township,Constitutional Amendment 1,,No,,59,21,38
+Fayette,Dover Township,Constitutional Amendment 1,,No,,45,9,36
+Fayette,Fairfield-Putnam Township,Constitutional Amendment 1,,No,,87,24,63
+Fayette,Illyria Township,Constitutional Amendment 1,,No,,66,14,52
+Fayette,Jefferson-Scott Township,Constitutional Amendment 1,,No,,76,36,40
+Fayette,Oelwein Ward 1,Constitutional Amendment 1,,No,,106,37,69
+Fayette,Oelwein Ward 2,Constitutional Amendment 1,,No,,90,19,71
+Fayette,Oelwein Ward 3,Constitutional Amendment 1,,No,,84,26,58
+Fayette,Oelwein Ward 4,Constitutional Amendment 1,,No,,130,57,73
+Fayette,Oran Township,Constitutional Amendment 1,,No,,78,18,60
+Fayette,Pleasant Valley Township,Constitutional Amendment 1,,No,,67,33,34
+Fayette,Smithfield-Westfield Town,Constitutional Amendment 1,,No,,136,55,81
+Fayette,Union Township,Constitutional Amendment 1,,No,,32,18,14
+Fayette,West Union Ward 1,Constitutional Amendment 1,,No,,65,38,27
+Fayette,West Union Ward 2,Constitutional Amendment 1,,No,,46,24,22
+Fayette,West Union Ward 3,Constitutional Amendment 1,,No,,64,26,38
+Fayette,Auburn-Eden Township,Constitutional Amendment 1,,Yes,,424,123,301
+Fayette,Banks-Fremont Township,Constitutional Amendment 1,,Yes,,347,80,267
+Fayette,Bethel-Windsor Township,Constitutional Amendment 1,,Yes,,381,97,284
+Fayette,Center-Harlan Township,Constitutional Amendment 1,,Yes,,454,118,336
+Fayette,Clermont Township,Constitutional Amendment 1,,Yes,,354,130,224
+Fayette,Dover Township,Constitutional Amendment 1,,Yes,,236,98,138
+Fayette,Fairfield-Putnam Township,Constitutional Amendment 1,,Yes,,358,71,287
+Fayette,Illyria Township,Constitutional Amendment 1,,Yes,,181,46,135
+Fayette,Jefferson-Scott Township,Constitutional Amendment 1,,Yes,,322,107,215
+Fayette,Oelwein Ward 1,Constitutional Amendment 1,,Yes,,473,118,355
+Fayette,Oelwein Ward 2,Constitutional Amendment 1,,Yes,,363,67,296
+Fayette,Oelwein Ward 3,Constitutional Amendment 1,,Yes,,364,69,295
+Fayette,Oelwein Ward 4,Constitutional Amendment 1,,Yes,,543,185,358
+Fayette,Oran Township,Constitutional Amendment 1,,Yes,,396,94,302
+Fayette,Pleasant Valley Township,Constitutional Amendment 1,,Yes,,355,117,238
+Fayette,Smithfield-Westfield Town,Constitutional Amendment 1,,Yes,,537,186,351
+Fayette,Union Township,Constitutional Amendment 1,,Yes,,170,55,115
+Fayette,West Union Ward 1,Constitutional Amendment 1,,Yes,,310,160,150
+Fayette,West Union Ward 2,Constitutional Amendment 1,,Yes,,236,97,139
+Fayette,West Union Ward 3,Constitutional Amendment 1,,Yes,,289,129,160
+Fayette,Auburn-Eden Township,Constitutional Amendment 2,,No,,65,25,40
+Fayette,Banks-Fremont Township,Constitutional Amendment 2,,No,,62,21,41
+Fayette,Bethel-Windsor Township,Constitutional Amendment 2,,No,,65,22,43
+Fayette,Center-Harlan Township,Constitutional Amendment 2,,No,,75,18,57
+Fayette,Clermont Township,Constitutional Amendment 2,,No,,50,21,29
+Fayette,Dover Township,Constitutional Amendment 2,,No,,33,13,20
+Fayette,Fairfield-Putnam Township,Constitutional Amendment 2,,No,,53,14,39
+Fayette,Illyria Township,Constitutional Amendment 2,,No,,48,7,41
+Fayette,Jefferson-Scott Township,Constitutional Amendment 2,,No,,56,28,28
+Fayette,Oelwein Ward 1,Constitutional Amendment 2,,No,,100,37,63
+Fayette,Oelwein Ward 2,Constitutional Amendment 2,,No,,91,11,80
+Fayette,Oelwein Ward 3,Constitutional Amendment 2,,No,,90,28,62
+Fayette,Oelwein Ward 4,Constitutional Amendment 2,,No,,130,48,82
+Fayette,Oran Township,Constitutional Amendment 2,,No,,80,23,57
+Fayette,Pleasant Valley Township,Constitutional Amendment 2,,No,,58,24,34
+Fayette,Smithfield-Westfield Town,Constitutional Amendment 2,,No,,107,43,64
+Fayette,Union Township,Constitutional Amendment 2,,No,,32,16,16
+Fayette,West Union Ward 1,Constitutional Amendment 2,,No,,56,29,27
+Fayette,West Union Ward 2,Constitutional Amendment 2,,No,,40,26,14
+Fayette,West Union Ward 3,Constitutional Amendment 2,,No,,52,27,25
+Fayette,Auburn-Eden Township,Constitutional Amendment 2,,Yes,,443,128,315
+Fayette,Banks-Fremont Township,Constitutional Amendment 2,,Yes,,356,79,277
+Fayette,Bethel-Windsor Township,Constitutional Amendment 2,,Yes,,391,104,287
+Fayette,Center-Harlan Township,Constitutional Amendment 2,,Yes,,457,122,335
+Fayette,Clermont Township,Constitutional Amendment 2,,Yes,,355,131,224
+Fayette,Dover Township,Constitutional Amendment 2,,Yes,,240,88,152
+Fayette,Fairfield-Putnam Township,Constitutional Amendment 2,,Yes,,397,86,311
+Fayette,Illyria Township,Constitutional Amendment 2,,Yes,,196,53,143
+Fayette,Jefferson-Scott Township,Constitutional Amendment 2,,Yes,,337,114,223
+Fayette,Oelwein Ward 1,Constitutional Amendment 2,,Yes,,478,117,361
+Fayette,Oelwein Ward 2,Constitutional Amendment 2,,Yes,,360,76,284
+Fayette,Oelwein Ward 3,Constitutional Amendment 2,,Yes,,360,69,291
+Fayette,Oelwein Ward 4,Constitutional Amendment 2,,Yes,,548,197,351
+Fayette,Oran Township,Constitutional Amendment 2,,Yes,,392,91,301
+Fayette,Pleasant Valley Township,Constitutional Amendment 2,,Yes,,365,128,237
+Fayette,Smithfield-Westfield Town,Constitutional Amendment 2,,Yes,,566,197,369
+Fayette,Union Township,Constitutional Amendment 2,,Yes,,170,57,113
+Fayette,West Union Ward 1,Constitutional Amendment 2,,Yes,,316,166,150
+Fayette,West Union Ward 2,Constitutional Amendment 2,,Yes,,242,94,148
+Fayette,West Union Ward 3,Constitutional Amendment 2,,Yes,,299,126,173
+Fayette,Auburn-Eden Township,County Agricultural Extension Council Member,,Dawn Jacobsen,,313,88,225
+Fayette,Banks-Fremont Township,County Agricultural Extension Council Member,,Dawn Jacobsen,,246,54,192
+Fayette,Bethel-Windsor Township,County Agricultural Extension Council Member,,Dawn Jacobsen,,307,97,210
+Fayette,Center-Harlan Township,County Agricultural Extension Council Member,,Dawn Jacobsen,,330,93,237
+Fayette,Clermont Township,County Agricultural Extension Council Member,,Dawn Jacobsen,,325,112,213
+Fayette,Dover Township,County Agricultural Extension Council Member,,Dawn Jacobsen,,198,71,127
+Fayette,Fairfield-Putnam Township,County Agricultural Extension Council Member,,Dawn Jacobsen,,267,62,205
+Fayette,Illyria Township,County Agricultural Extension Council Member,,Dawn Jacobsen,,164,41,123
+Fayette,Jefferson-Scott Township,County Agricultural Extension Council Member,,Dawn Jacobsen,,211,70,141
+Fayette,Oelwein Ward 1,County Agricultural Extension Council Member,,Dawn Jacobsen,,299,83,216
+Fayette,Oelwein Ward 2,County Agricultural Extension Council Member,,Dawn Jacobsen,,225,47,178
+Fayette,Oelwein Ward 3,County Agricultural Extension Council Member,,Dawn Jacobsen,,228,52,176
+Fayette,Oelwein Ward 4,County Agricultural Extension Council Member,,Dawn Jacobsen,,373,139,234
+Fayette,Oran Township,County Agricultural Extension Council Member,,Dawn Jacobsen,,258,60,198
+Fayette,Pleasant Valley Township,County Agricultural Extension Council Member,,Dawn Jacobsen,,321,120,201
+Fayette,Smithfield-Westfield Town,County Agricultural Extension Council Member,,Dawn Jacobsen,,375,131,244
+Fayette,Union Township,County Agricultural Extension Council Member,,Dawn Jacobsen,,147,44,103
+Fayette,West Union Ward 1,County Agricultural Extension Council Member,,Dawn Jacobsen,,255,129,126
+Fayette,West Union Ward 2,County Agricultural Extension Council Member,,Dawn Jacobsen,,171,75,96
+Fayette,West Union Ward 3,County Agricultural Extension Council Member,,Dawn Jacobsen,,224,88,136
+Fayette,Auburn-Eden Township,County Agricultural Extension Council Member,,Kathryn McClain,,278,76,202
+Fayette,Banks-Fremont Township,County Agricultural Extension Council Member,,Kathryn McClain,,268,62,206
+Fayette,Bethel-Windsor Township,County Agricultural Extension Council Member,,Kathryn McClain,,263,83,180
+Fayette,Center-Harlan Township,County Agricultural Extension Council Member,,Kathryn McClain,,321,98,223
+Fayette,Clermont Township,County Agricultural Extension Council Member,,Kathryn McClain,,234,81,153
+Fayette,Dover Township,County Agricultural Extension Council Member,,Kathryn McClain,,151,53,98
+Fayette,Fairfield-Putnam Township,County Agricultural Extension Council Member,,Kathryn McClain,,259,60,199
+Fayette,Illyria Township,County Agricultural Extension Council Member,,Kathryn McClain,,136,35,101
+Fayette,Jefferson-Scott Township,County Agricultural Extension Council Member,,Kathryn McClain,,211,68,143
+Fayette,Oelwein Ward 1,County Agricultural Extension Council Member,,Kathryn McClain,,288,80,208
+Fayette,Oelwein Ward 2,County Agricultural Extension Council Member,,Kathryn McClain,,231,50,181
+Fayette,Oelwein Ward 3,County Agricultural Extension Council Member,,Kathryn McClain,,213,56,157
+Fayette,Oelwein Ward 4,County Agricultural Extension Council Member,,Kathryn McClain,,355,126,229
+Fayette,Oran Township,County Agricultural Extension Council Member,,Kathryn McClain,,267,62,205
+Fayette,Pleasant Valley Township,County Agricultural Extension Council Member,,Kathryn McClain,,236,95,141
+Fayette,Smithfield-Westfield Town,County Agricultural Extension Council Member,,Kathryn McClain,,365,126,239
+Fayette,Union Township,County Agricultural Extension Council Member,,Kathryn McClain,,115,37,78
+Fayette,West Union Ward 1,County Agricultural Extension Council Member,,Kathryn McClain,,227,113,114
+Fayette,West Union Ward 2,County Agricultural Extension Council Member,,Kathryn McClain,,142,61,81
+Fayette,West Union Ward 3,County Agricultural Extension Council Member,,Kathryn McClain,,187,74,113
+Fayette,Auburn-Eden Township,County Agricultural Extension Council Member,,Linda Jacobsen,,327,87,240
+Fayette,Banks-Fremont Township,County Agricultural Extension Council Member,,Linda Jacobsen,,274,53,221
+Fayette,Bethel-Windsor Township,County Agricultural Extension Council Member,,Linda Jacobsen,,318,93,225
+Fayette,Center-Harlan Township,County Agricultural Extension Council Member,,Linda Jacobsen,,355,100,255
+Fayette,Clermont Township,County Agricultural Extension Council Member,,Linda Jacobsen,,269,96,173
+Fayette,Dover Township,County Agricultural Extension Council Member,,Linda Jacobsen,,179,62,117
+Fayette,Fairfield-Putnam Township,County Agricultural Extension Council Member,,Linda Jacobsen,,288,63,225
+Fayette,Illyria Township,County Agricultural Extension Council Member,,Linda Jacobsen,,148,40,108
+Fayette,Jefferson-Scott Township,County Agricultural Extension Council Member,,Linda Jacobsen,,216,69,147
+Fayette,Oelwein Ward 1,County Agricultural Extension Council Member,,Linda Jacobsen,,318,86,232
+Fayette,Oelwein Ward 2,County Agricultural Extension Council Member,,Linda Jacobsen,,246,49,197
+Fayette,Oelwein Ward 3,County Agricultural Extension Council Member,,Linda Jacobsen,,240,51,189
+Fayette,Oelwein Ward 4,County Agricultural Extension Council Member,,Linda Jacobsen,,391,140,251
+Fayette,Oran Township,County Agricultural Extension Council Member,,Linda Jacobsen,,299,64,235
+Fayette,Pleasant Valley Township,County Agricultural Extension Council Member,,Linda Jacobsen,,270,98,172
+Fayette,Smithfield-Westfield Town,County Agricultural Extension Council Member,,Linda Jacobsen,,371,131,240
+Fayette,Union Township,County Agricultural Extension Council Member,,Linda Jacobsen,,138,41,97
+Fayette,West Union Ward 1,County Agricultural Extension Council Member,,Linda Jacobsen,,255,125,130
+Fayette,West Union Ward 2,County Agricultural Extension Council Member,,Linda Jacobsen,,184,76,108
+Fayette,West Union Ward 3,County Agricultural Extension Council Member,,Linda Jacobsen,,227,90,137
+Fayette,Auburn-Eden Township,County Agricultural Extension Council Member,,Randall Roberts,,298,79,219
+Fayette,Banks-Fremont Township,County Agricultural Extension Council Member,,Randall Roberts,,273,55,218
+Fayette,Bethel-Windsor Township,County Agricultural Extension Council Member,,Randall Roberts,,297,93,204
+Fayette,Center-Harlan Township,County Agricultural Extension Council Member,,Randall Roberts,,351,100,251
+Fayette,Clermont Township,County Agricultural Extension Council Member,,Randall Roberts,,247,81,166
+Fayette,Dover Township,County Agricultural Extension Council Member,,Randall Roberts,,179,62,117
+Fayette,Fairfield-Putnam Township,County Agricultural Extension Council Member,,Randall Roberts,,334,73,261
+Fayette,Illyria Township,County Agricultural Extension Council Member,,Randall Roberts,,167,45,122
+Fayette,Jefferson-Scott Township,County Agricultural Extension Council Member,,Randall Roberts,,228,78,150
+Fayette,Oelwein Ward 1,County Agricultural Extension Council Member,,Randall Roberts,,330,97,233
+Fayette,Oelwein Ward 2,County Agricultural Extension Council Member,,Randall Roberts,,261,57,204
+Fayette,Oelwein Ward 3,County Agricultural Extension Council Member,,Randall Roberts,,239,54,185
+Fayette,Oelwein Ward 4,County Agricultural Extension Council Member,,Randall Roberts,,385,132,253
+Fayette,Oran Township,County Agricultural Extension Council Member,,Randall Roberts,,270,61,209
+Fayette,Pleasant Valley Township,County Agricultural Extension Council Member,,Randall Roberts,,255,93,162
+Fayette,Smithfield-Westfield Town,County Agricultural Extension Council Member,,Randall Roberts,,441,150,291
+Fayette,Union Township,County Agricultural Extension Council Member,,Randall Roberts,,129,39,90
+Fayette,West Union Ward 1,County Agricultural Extension Council Member,,Randall Roberts,,240,117,123
+Fayette,West Union Ward 2,County Agricultural Extension Council Member,,Randall Roberts,,153,55,98
+Fayette,West Union Ward 3,County Agricultural Extension Council Member,,Randall Roberts,,202,79,123
+Fayette,Auburn-Eden Township,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Fayette,Banks-Fremont Township,County Agricultural Extension Council Member,,Write-In,,5,0,5
+Fayette,Bethel-Windsor Township,County Agricultural Extension Council Member,,Write-In,,1,1,0
+Fayette,Center-Harlan Township,County Agricultural Extension Council Member,,Write-In,,10,0,10
+Fayette,Clermont Township,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Fayette,Dover Township,County Agricultural Extension Council Member,,Write-In,,3,2,1
+Fayette,Fairfield-Putnam Township,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Fayette,Illyria Township,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Fayette,Jefferson-Scott Township,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Fayette,Oelwein Ward 1,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Fayette,Oelwein Ward 2,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Fayette,Oelwein Ward 3,County Agricultural Extension Council Member,,Write-In,,5,0,5
+Fayette,Oelwein Ward 4,County Agricultural Extension Council Member,,Write-In,,6,1,5
+Fayette,Oran Township,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Fayette,Pleasant Valley Township,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Fayette,Smithfield-Westfield Town,County Agricultural Extension Council Member,,Write-In,,15,6,9
+Fayette,Union Township,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Fayette,West Union Ward 1,County Agricultural Extension Council Member,,Write-In,,7,5,2
+Fayette,West Union Ward 2,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Fayette,West Union Ward 3,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Fayette,Auburn-Eden Township,County Auditor,,Lori Moellers,REP,525,151,374
+Fayette,Banks-Fremont Township,County Auditor,,Lori Moellers,REP,422,94,328
+Fayette,Bethel-Windsor Township,County Auditor,,Lori Moellers,REP,475,131,344
+Fayette,Center-Harlan Township,County Auditor,,Lori Moellers,REP,533,141,392
+Fayette,Clermont Township,County Auditor,,Lori Moellers,REP,407,146,261
+Fayette,Dover Township,County Auditor,,Lori Moellers,REP,298,120,178
+Fayette,Fairfield-Putnam Township,County Auditor,,Lori Moellers,REP,452,101,351
+Fayette,Illyria Township,County Auditor,,Lori Moellers,REP,256,62,194
+Fayette,Jefferson-Scott Township,County Auditor,,Lori Moellers,REP,375,125,250
+Fayette,Oelwein Ward 1,County Auditor,,Lori Moellers,REP,541,138,403
+Fayette,Oelwein Ward 2,County Auditor,,Lori Moellers,REP,407,76,331
+Fayette,Oelwein Ward 3,County Auditor,,Lori Moellers,REP,411,83,328
+Fayette,Oelwein Ward 4,County Auditor,,Lori Moellers,REP,627,212,415
+Fayette,Oran Township,County Auditor,,Lori Moellers,REP,437,84,353
+Fayette,Pleasant Valley Township,County Auditor,,Lori Moellers,REP,438,157,281
+Fayette,Smithfield-Westfield Town,County Auditor,,Lori Moellers,REP,651,226,425
+Fayette,Union Township,County Auditor,,Lori Moellers,REP,212,77,135
+Fayette,West Union Ward 1,County Auditor,,Lori Moellers,REP,373,194,179
+Fayette,West Union Ward 2,County Auditor,,Lori Moellers,REP,275,121,154
+Fayette,West Union Ward 3,County Auditor,,Lori Moellers,REP,369,169,200
+Fayette,Auburn-Eden Township,County Auditor,,Write-In,,1,0,1
+Fayette,Banks-Fremont Township,County Auditor,,Write-In,,2,0,2
+Fayette,Bethel-Windsor Township,County Auditor,,Write-In,,4,0,4
+Fayette,Center-Harlan Township,County Auditor,,Write-In,,2,1,1
+Fayette,Clermont Township,County Auditor,,Write-In,,1,0,1
+Fayette,Dover Township,County Auditor,,Write-In,,5,2,3
+Fayette,Fairfield-Putnam Township,County Auditor,,Write-In,,4,2,2
+Fayette,Illyria Township,County Auditor,,Write-In,,3,1,2
+Fayette,Jefferson-Scott Township,County Auditor,,Write-In,,0,0,0
+Fayette,Oelwein Ward 1,County Auditor,,Write-In,,9,4,5
+Fayette,Oelwein Ward 2,County Auditor,,Write-In,,5,0,5
+Fayette,Oelwein Ward 3,County Auditor,,Write-In,,8,1,7
+Fayette,Oelwein Ward 4,County Auditor,,Write-In,,4,2,2
+Fayette,Oran Township,County Auditor,,Write-In,,10,6,4
+Fayette,Pleasant Valley Township,County Auditor,,Write-In,,3,0,3
+Fayette,Smithfield-Westfield Town,County Auditor,,Write-In,,7,2,5
+Fayette,Union Township,County Auditor,,Write-In,,0,0,0
+Fayette,West Union Ward 1,County Auditor,,Write-In,,2,2,0
+Fayette,West Union Ward 2,County Auditor,,Write-In,,0,0,0
+Fayette,West Union Ward 3,County Auditor,,Write-In,,0,0,0
+Fayette,Auburn-Eden Township,County Board of Supervisors,,Alex Popenhagen,REP,400,111,289
+Fayette,Banks-Fremont Township,County Board of Supervisors,,Alex Popenhagen,REP,332,74,258
+Fayette,Bethel-Windsor Township,County Board of Supervisors,,Alex Popenhagen,REP,367,87,280
+Fayette,Center-Harlan Township,County Board of Supervisors,,Alex Popenhagen,REP,365,99,266
+Fayette,Clermont Township,County Board of Supervisors,,Alex Popenhagen,REP,305,100,205
+Fayette,Dover Township,County Board of Supervisors,,Alex Popenhagen,REP,219,87,132
+Fayette,Fairfield-Putnam Township,County Board of Supervisors,,Alex Popenhagen,REP,334,70,264
+Fayette,Illyria Township,County Board of Supervisors,,Alex Popenhagen,REP,179,40,139
+Fayette,Jefferson-Scott Township,County Board of Supervisors,,Alex Popenhagen,REP,234,78,156
+Fayette,Oelwein Ward 1,County Board of Supervisors,,Alex Popenhagen,REP,294,65,229
+Fayette,Oelwein Ward 2,County Board of Supervisors,,Alex Popenhagen,REP,226,28,198
+Fayette,Oelwein Ward 3,County Board of Supervisors,,Alex Popenhagen,REP,226,42,184
+Fayette,Oelwein Ward 4,County Board of Supervisors,,Alex Popenhagen,REP,319,100,219
+Fayette,Oran Township,County Board of Supervisors,,Alex Popenhagen,REP,247,29,218
+Fayette,Pleasant Valley Township,County Board of Supervisors,,Alex Popenhagen,REP,285,102,183
+Fayette,Smithfield-Westfield Town,County Board of Supervisors,,Alex Popenhagen,REP,487,166,321
+Fayette,Union Township,County Board of Supervisors,,Alex Popenhagen,REP,166,62,104
+Fayette,West Union Ward 1,County Board of Supervisors,,Alex Popenhagen,REP,261,132,129
+Fayette,West Union Ward 2,County Board of Supervisors,,Alex Popenhagen,REP,196,87,109
+Fayette,West Union Ward 3,County Board of Supervisors,,Alex Popenhagen,REP,267,126,141
+Fayette,Auburn-Eden Township,County Board of Supervisors,,Lou Ann Milks,DEM,132,58,74
+Fayette,Banks-Fremont Township,County Board of Supervisors,,Lou Ann Milks,DEM,105,29,76
+Fayette,Bethel-Windsor Township,County Board of Supervisors,,Lou Ann Milks,DEM,111,55,56
+Fayette,Center-Harlan Township,County Board of Supervisors,,Lou Ann Milks,DEM,176,51,125
+Fayette,Clermont Township,County Board of Supervisors,,Lou Ann Milks,DEM,106,53,53
+Fayette,Dover Township,County Board of Supervisors,,Lou Ann Milks,DEM,48,20,28
+Fayette,Fairfield-Putnam Township,County Board of Supervisors,,Lou Ann Milks,DEM,133,39,94
+Fayette,Illyria Township,County Board of Supervisors,,Lou Ann Milks,DEM,76,19,57
+Fayette,Jefferson-Scott Township,County Board of Supervisors,,Lou Ann Milks,DEM,178,68,110
+Fayette,Oelwein Ward 1,County Board of Supervisors,,Lou Ann Milks,DEM,320,98,222
+Fayette,Oelwein Ward 2,County Board of Supervisors,,Lou Ann Milks,DEM,253,68,185
+Fayette,Oelwein Ward 3,County Board of Supervisors,,Lou Ann Milks,DEM,261,69,192
+Fayette,Oelwein Ward 4,County Board of Supervisors,,Lou Ann Milks,DEM,398,165,233
+Fayette,Oran Township,County Board of Supervisors,,Lou Ann Milks,DEM,232,86,146
+Fayette,Pleasant Valley Township,County Board of Supervisors,,Lou Ann Milks,DEM,139,59,80
+Fayette,Smithfield-Westfield Town,County Board of Supervisors,,Lou Ann Milks,DEM,212,86,126
+Fayette,Union Township,County Board of Supervisors,,Lou Ann Milks,DEM,54,26,28
+Fayette,West Union Ward 1,County Board of Supervisors,,Lou Ann Milks,DEM,105,70,35
+Fayette,West Union Ward 2,County Board of Supervisors,,Lou Ann Milks,DEM,77,47,30
+Fayette,West Union Ward 3,County Board of Supervisors,,Lou Ann Milks,DEM,96,45,51
+Fayette,Auburn-Eden Township,County Board of Supervisors,,Robert Sadler,,26,2,24
+Fayette,Banks-Fremont Township,County Board of Supervisors,,Robert Sadler,,20,5,15
+Fayette,Bethel-Windsor Township,County Board of Supervisors,,Robert Sadler,,29,1,28
+Fayette,Center-Harlan Township,County Board of Supervisors,,Robert Sadler,,27,0,27
+Fayette,Clermont Township,County Board of Supervisors,,Robert Sadler,,34,7,27
+Fayette,Dover Township,County Board of Supervisors,,Robert Sadler,,31,10,21
+Fayette,Fairfield-Putnam Township,County Board of Supervisors,,Robert Sadler,,14,0,14
+Fayette,Illyria Township,County Board of Supervisors,,Robert Sadler,,25,6,19
+Fayette,Jefferson-Scott Township,County Board of Supervisors,,Robert Sadler,,11,0,11
+Fayette,Oelwein Ward 1,County Board of Supervisors,,Robert Sadler,,17,2,15
+Fayette,Oelwein Ward 2,County Board of Supervisors,,Robert Sadler,,12,2,10
+Fayette,Oelwein Ward 3,County Board of Supervisors,,Robert Sadler,,23,1,22
+Fayette,Oelwein Ward 4,County Board of Supervisors,,Robert Sadler,,22,4,18
+Fayette,Oran Township,County Board of Supervisors,,Robert Sadler,,12,2,10
+Fayette,Pleasant Valley Township,County Board of Supervisors,,Robert Sadler,,48,12,36
+Fayette,Smithfield-Westfield Town,County Board of Supervisors,,Robert Sadler,,37,14,23
+Fayette,Union Township,County Board of Supervisors,,Robert Sadler,,15,3,12
+Fayette,West Union Ward 1,County Board of Supervisors,,Robert Sadler,,47,21,26
+Fayette,West Union Ward 2,County Board of Supervisors,,Robert Sadler,,40,11,29
+Fayette,West Union Ward 3,County Board of Supervisors,,Robert Sadler,,36,14,22
+Fayette,Auburn-Eden Township,County Board of Supervisors,,Write-In,,0,0,0
+Fayette,Banks-Fremont Township,County Board of Supervisors,,Write-In,,1,0,1
+Fayette,Bethel-Windsor Township,County Board of Supervisors,,Write-In,,0,0,0
+Fayette,Center-Harlan Township,County Board of Supervisors,,Write-In,,2,0,2
+Fayette,Clermont Township,County Board of Supervisors,,Write-In,,4,2,2
+Fayette,Dover Township,County Board of Supervisors,,Write-In,,3,1,2
+Fayette,Fairfield-Putnam Township,County Board of Supervisors,,Write-In,,9,2,7
+Fayette,Illyria Township,County Board of Supervisors,,Write-In,,0,0,0
+Fayette,Jefferson-Scott Township,County Board of Supervisors,,Write-In,,2,2,0
+Fayette,Oelwein Ward 1,County Board of Supervisors,,Write-In,,0,0,0
+Fayette,Oelwein Ward 2,County Board of Supervisors,,Write-In,,0,0,0
+Fayette,Oelwein Ward 3,County Board of Supervisors,,Write-In,,2,0,2
+Fayette,Oelwein Ward 4,County Board of Supervisors,,Write-In,,3,0,3
+Fayette,Oran Township,County Board of Supervisors,,Write-In,,0,0,0
+Fayette,Pleasant Valley Township,County Board of Supervisors,,Write-In,,2,2,0
+Fayette,Smithfield-Westfield Town,County Board of Supervisors,,Write-In,,4,0,4
+Fayette,Union Township,County Board of Supervisors,,Write-In,,1,0,1
+Fayette,West Union Ward 1,County Board of Supervisors,,Write-In,,2,2,0
+Fayette,West Union Ward 2,County Board of Supervisors,,Write-In,,0,0,0
+Fayette,West Union Ward 3,County Board of Supervisors,,Write-In,,0,0,0
+Fayette,Auburn-Eden Township,County Sheriff,,Marty Fisher,REP,520,162,358
+Fayette,Banks-Fremont Township,County Sheriff,,Marty Fisher,REP,422,96,326
+Fayette,Bethel-Windsor Township,County Sheriff,,Marty Fisher,REP,458,124,334
+Fayette,Center-Harlan Township,County Sheriff,,Marty Fisher,REP,528,140,388
+Fayette,Clermont Township,County Sheriff,,Marty Fisher,REP,362,135,227
+Fayette,Dover Township,County Sheriff,,Marty Fisher,REP,270,108,162
+Fayette,Fairfield-Putnam Township,County Sheriff,,Marty Fisher,REP,446,98,348
+Fayette,Illyria Township,County Sheriff,,Marty Fisher,REP,233,56,177
+Fayette,Jefferson-Scott Township,County Sheriff,,Marty Fisher,REP,378,129,249
+Fayette,Oelwein Ward 1,County Sheriff,,Marty Fisher,REP,539,143,396
+Fayette,Oelwein Ward 2,County Sheriff,,Marty Fisher,REP,419,78,341
+Fayette,Oelwein Ward 3,County Sheriff,,Marty Fisher,REP,414,86,328
+Fayette,Oelwein Ward 4,County Sheriff,,Marty Fisher,REP,615,208,407
+Fayette,Oran Township,County Sheriff,,Marty Fisher,REP,444,91,353
+Fayette,Pleasant Valley Township,County Sheriff,,Marty Fisher,REP,395,140,255
+Fayette,Smithfield-Westfield Town,County Sheriff,,Marty Fisher,REP,625,221,404
+Fayette,Union Township,County Sheriff,,Marty Fisher,REP,198,68,130
+Fayette,West Union Ward 1,County Sheriff,,Marty Fisher,REP,357,186,171
+Fayette,West Union Ward 2,County Sheriff,,Marty Fisher,REP,255,114,141
+Fayette,West Union Ward 3,County Sheriff,,Marty Fisher,REP,338,156,182
+Fayette,Auburn-Eden Township,County Sheriff,,Write-In,,11,3,8
+Fayette,Banks-Fremont Township,County Sheriff,,Write-In,,6,2,4
+Fayette,Bethel-Windsor Township,County Sheriff,,Write-In,,20,3,17
+Fayette,Center-Harlan Township,County Sheriff,,Write-In,,11,1,10
+Fayette,Clermont Township,County Sheriff,,Write-In,,23,4,19
+Fayette,Dover Township,County Sheriff,,Write-In,,20,9,11
+Fayette,Fairfield-Putnam Township,County Sheriff,,Write-In,,6,1,5
+Fayette,Illyria Township,County Sheriff,,Write-In,,14,0,14
+Fayette,Jefferson-Scott Township,County Sheriff,,Write-In,,2,0,2
+Fayette,Oelwein Ward 1,County Sheriff,,Write-In,,22,0,22
+Fayette,Oelwein Ward 2,County Sheriff,,Write-In,,16,0,16
+Fayette,Oelwein Ward 3,County Sheriff,,Write-In,,13,1,12
+Fayette,Oelwein Ward 4,County Sheriff,,Write-In,,17,4,13
+Fayette,Oran Township,County Sheriff,,Write-In,,8,3,5
+Fayette,Pleasant Valley Township,County Sheriff,,Write-In,,25,7,18
+Fayette,Smithfield-Westfield Town,County Sheriff,,Write-In,,22,7,15
+Fayette,Union Township,County Sheriff,,Write-In,,12,4,8
+Fayette,West Union Ward 1,County Sheriff,,Write-In,,13,3,10
+Fayette,West Union Ward 2,County Sheriff,,Write-In,,26,11,15
+Fayette,West Union Ward 3,County Sheriff,,Write-In,,23,7,16
+Fayette,Auburn-Eden Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,147,38,109
+Fayette,Banks-Fremont Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,120,36,84
+Fayette,Bethel-Windsor Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,116,29,87
+Fayette,Center-Harlan Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,135,33,102
+Fayette,Clermont Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,108,30,78
+Fayette,Dover Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,89,21,68
+Fayette,Fairfield-Putnam Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,120,22,98
+Fayette,Illyria Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,95,19,76
+Fayette,Jefferson-Scott Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,119,38,81
+Fayette,Oelwein Ward 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,185,52,133
+Fayette,Oelwein Ward 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,142,25,117
+Fayette,Oelwein Ward 3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,144,30,114
+Fayette,Oelwein Ward 4,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,208,68,140
+Fayette,Oran Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,119,34,85
+Fayette,Pleasant Valley Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,111,38,73
+Fayette,Smithfield-Westfield Town,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,145,51,94
+Fayette,Union Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,60,18,42
+Fayette,West Union Ward 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,89,41,48
+Fayette,West Union Ward 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,69,28,41
+Fayette,West Union Ward 3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,93,30,63
+Fayette,Auburn-Eden Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,255,64,191
+Fayette,Banks-Fremont Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,236,42,194
+Fayette,Bethel-Windsor Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,243,67,176
+Fayette,Center-Harlan Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,295,72,223
+Fayette,Clermont Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,223,79,144
+Fayette,Dover Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,127,50,77
+Fayette,Fairfield-Putnam Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,257,53,204
+Fayette,Illyria Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,109,28,81
+Fayette,Jefferson-Scott Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,166,53,113
+Fayette,Oelwein Ward 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,307,77,230
+Fayette,Oelwein Ward 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,250,44,206
+Fayette,Oelwein Ward 3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,243,44,199
+Fayette,Oelwein Ward 4,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,346,116,230
+Fayette,Oran Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,267,49,218
+Fayette,Pleasant Valley Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,219,77,142
+Fayette,Smithfield-Westfield Town,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,376,119,257
+Fayette,Union Township,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,109,38,71
+Fayette,West Union Ward 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,206,108,98
+Fayette,West Union Ward 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,153,55,98
+Fayette,West Union Ward 3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,188,78,110
+Fayette,Auburn-Eden Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,139,35,104
+Fayette,Banks-Fremont Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,118,32,86
+Fayette,Bethel-Windsor Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,102,28,74
+Fayette,Center-Harlan Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,127,32,95
+Fayette,Clermont Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,99,29,70
+Fayette,Dover Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,86,18,68
+Fayette,Fairfield-Putnam Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,130,30,100
+Fayette,Illyria Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,94,21,73
+Fayette,Jefferson-Scott Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,116,44,72
+Fayette,Oelwein Ward 1,Court of Appeals Judge - Mary Ellen Tabor,,No,,174,43,131
+Fayette,Oelwein Ward 2,Court of Appeals Judge - Mary Ellen Tabor,,No,,128,22,106
+Fayette,Oelwein Ward 3,Court of Appeals Judge - Mary Ellen Tabor,,No,,130,25,105
+Fayette,Oelwein Ward 4,Court of Appeals Judge - Mary Ellen Tabor,,No,,185,58,127
+Fayette,Oran Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,117,27,90
+Fayette,Pleasant Valley Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,113,39,74
+Fayette,Smithfield-Westfield Town,Court of Appeals Judge - Mary Ellen Tabor,,No,,144,51,93
+Fayette,Union Township,Court of Appeals Judge - Mary Ellen Tabor,,No,,56,17,39
+Fayette,West Union Ward 1,Court of Appeals Judge - Mary Ellen Tabor,,No,,72,32,40
+Fayette,West Union Ward 2,Court of Appeals Judge - Mary Ellen Tabor,,No,,71,25,46
+Fayette,West Union Ward 3,Court of Appeals Judge - Mary Ellen Tabor,,No,,89,30,59
+Fayette,Auburn-Eden Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,267,70,197
+Fayette,Banks-Fremont Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,237,46,191
+Fayette,Bethel-Windsor Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,256,67,189
+Fayette,Center-Harlan Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,306,71,235
+Fayette,Clermont Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,229,80,149
+Fayette,Dover Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,130,54,76
+Fayette,Fairfield-Putnam Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,245,45,200
+Fayette,Illyria Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,109,27,82
+Fayette,Jefferson-Scott Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,174,48,126
+Fayette,Oelwein Ward 1,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,310,84,226
+Fayette,Oelwein Ward 2,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,267,48,219
+Fayette,Oelwein Ward 3,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,255,47,208
+Fayette,Oelwein Ward 4,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,370,128,242
+Fayette,Oran Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,271,57,214
+Fayette,Pleasant Valley Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,219,76,143
+Fayette,Smithfield-Westfield Town,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,375,116,259
+Fayette,Union Township,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,112,39,73
+Fayette,West Union Ward 1,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,227,118,109
+Fayette,West Union Ward 2,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,152,56,96
+Fayette,West Union Ward 3,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,189,76,113
+Fayette,Auburn-Eden Township,Court of Appeals Judge - Samuel Langholz,,No,,143,40,103
+Fayette,Banks-Fremont Township,Court of Appeals Judge - Samuel Langholz,,No,,128,33,95
+Fayette,Bethel-Windsor Township,Court of Appeals Judge - Samuel Langholz,,No,,117,37,80
+Fayette,Center-Harlan Township,Court of Appeals Judge - Samuel Langholz,,No,,140,35,105
+Fayette,Clermont Township,Court of Appeals Judge - Samuel Langholz,,No,,103,35,68
+Fayette,Dover Township,Court of Appeals Judge - Samuel Langholz,,No,,87,28,59
+Fayette,Fairfield-Putnam Township,Court of Appeals Judge - Samuel Langholz,,No,,113,20,93
+Fayette,Illyria Township,Court of Appeals Judge - Samuel Langholz,,No,,98,23,75
+Fayette,Jefferson-Scott Township,Court of Appeals Judge - Samuel Langholz,,No,,113,39,74
+Fayette,Oelwein Ward 1,Court of Appeals Judge - Samuel Langholz,,No,,193,63,130
+Fayette,Oelwein Ward 2,Court of Appeals Judge - Samuel Langholz,,No,,141,22,119
+Fayette,Oelwein Ward 3,Court of Appeals Judge - Samuel Langholz,,No,,153,29,124
+Fayette,Oelwein Ward 4,Court of Appeals Judge - Samuel Langholz,,No,,220,75,145
+Fayette,Oran Township,Court of Appeals Judge - Samuel Langholz,,No,,130,42,88
+Fayette,Pleasant Valley Township,Court of Appeals Judge - Samuel Langholz,,No,,111,46,65
+Fayette,Smithfield-Westfield Town,Court of Appeals Judge - Samuel Langholz,,No,,161,56,105
+Fayette,Union Township,Court of Appeals Judge - Samuel Langholz,,No,,64,22,42
+Fayette,West Union Ward 1,Court of Appeals Judge - Samuel Langholz,,No,,86,48,38
+Fayette,West Union Ward 2,Court of Appeals Judge - Samuel Langholz,,No,,75,34,41
+Fayette,West Union Ward 3,Court of Appeals Judge - Samuel Langholz,,No,,93,35,58
+Fayette,Auburn-Eden Township,Court of Appeals Judge - Samuel Langholz,,Yes,,260,65,195
+Fayette,Banks-Fremont Township,Court of Appeals Judge - Samuel Langholz,,Yes,,223,42,181
+Fayette,Bethel-Windsor Township,Court of Appeals Judge - Samuel Langholz,,Yes,,240,56,184
+Fayette,Center-Harlan Township,Court of Appeals Judge - Samuel Langholz,,Yes,,295,71,224
+Fayette,Clermont Township,Court of Appeals Judge - Samuel Langholz,,Yes,,226,74,152
+Fayette,Dover Township,Court of Appeals Judge - Samuel Langholz,,Yes,,125,43,82
+Fayette,Fairfield-Putnam Township,Court of Appeals Judge - Samuel Langholz,,Yes,,259,54,205
+Fayette,Illyria Township,Court of Appeals Judge - Samuel Langholz,,Yes,,106,25,81
+Fayette,Jefferson-Scott Township,Court of Appeals Judge - Samuel Langholz,,Yes,,170,52,118
+Fayette,Oelwein Ward 1,Court of Appeals Judge - Samuel Langholz,,Yes,,291,62,229
+Fayette,Oelwein Ward 2,Court of Appeals Judge - Samuel Langholz,,Yes,,244,43,201
+Fayette,Oelwein Ward 3,Court of Appeals Judge - Samuel Langholz,,Yes,,228,42,186
+Fayette,Oelwein Ward 4,Court of Appeals Judge - Samuel Langholz,,Yes,,326,105,221
+Fayette,Oran Township,Court of Appeals Judge - Samuel Langholz,,Yes,,256,40,216
+Fayette,Pleasant Valley Township,Court of Appeals Judge - Samuel Langholz,,Yes,,220,69,151
+Fayette,Smithfield-Westfield Town,Court of Appeals Judge - Samuel Langholz,,Yes,,358,114,244
+Fayette,Union Township,Court of Appeals Judge - Samuel Langholz,,Yes,,101,32,69
+Fayette,West Union Ward 1,Court of Appeals Judge - Samuel Langholz,,Yes,,210,101,109
+Fayette,West Union Ward 2,Court of Appeals Judge - Samuel Langholz,,Yes,,148,47,101
+Fayette,West Union Ward 3,Court of Appeals Judge - Samuel Langholz,,Yes,,186,72,114
+Fayette,Auburn-Eden Township,Court of Appeals Judge - Tyler J. Buller,,No,,135,41,94
+Fayette,Banks-Fremont Township,Court of Appeals Judge - Tyler J. Buller,,No,,121,35,86
+Fayette,Bethel-Windsor Township,Court of Appeals Judge - Tyler J. Buller,,No,,101,30,71
+Fayette,Center-Harlan Township,Court of Appeals Judge - Tyler J. Buller,,No,,132,33,99
+Fayette,Clermont Township,Court of Appeals Judge - Tyler J. Buller,,No,,108,38,70
+Fayette,Dover Township,Court of Appeals Judge - Tyler J. Buller,,No,,92,25,67
+Fayette,Fairfield-Putnam Township,Court of Appeals Judge - Tyler J. Buller,,No,,116,19,97
+Fayette,Illyria Township,Court of Appeals Judge - Tyler J. Buller,,No,,91,21,70
+Fayette,Jefferson-Scott Township,Court of Appeals Judge - Tyler J. Buller,,No,,117,43,74
+Fayette,Oelwein Ward 1,Court of Appeals Judge - Tyler J. Buller,,No,,178,55,123
+Fayette,Oelwein Ward 2,Court of Appeals Judge - Tyler J. Buller,,No,,129,20,109
+Fayette,Oelwein Ward 3,Court of Appeals Judge - Tyler J. Buller,,No,,146,30,116
+Fayette,Oelwein Ward 4,Court of Appeals Judge - Tyler J. Buller,,No,,203,71,132
+Fayette,Oran Township,Court of Appeals Judge - Tyler J. Buller,,No,,126,39,87
+Fayette,Pleasant Valley Township,Court of Appeals Judge - Tyler J. Buller,,No,,116,40,76
+Fayette,Smithfield-Westfield Town,Court of Appeals Judge - Tyler J. Buller,,No,,148,55,93
+Fayette,Union Township,Court of Appeals Judge - Tyler J. Buller,,No,,59,19,40
+Fayette,West Union Ward 1,Court of Appeals Judge - Tyler J. Buller,,No,,87,44,43
+Fayette,West Union Ward 2,Court of Appeals Judge - Tyler J. Buller,,No,,60,28,32
+Fayette,West Union Ward 3,Court of Appeals Judge - Tyler J. Buller,,No,,86,33,53
+Fayette,Auburn-Eden Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,277,64,213
+Fayette,Banks-Fremont Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,239,44,195
+Fayette,Bethel-Windsor Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,265,65,200
+Fayette,Center-Harlan Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,303,73,230
+Fayette,Clermont Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,223,71,152
+Fayette,Dover Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,122,47,75
+Fayette,Fairfield-Putnam Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,263,55,208
+Fayette,Illyria Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,118,29,89
+Fayette,Jefferson-Scott Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,169,49,120
+Fayette,Oelwein Ward 1,Court of Appeals Judge - Tyler J. Buller,,Yes,,314,75,239
+Fayette,Oelwein Ward 2,Court of Appeals Judge - Tyler J. Buller,,Yes,,264,47,217
+Fayette,Oelwein Ward 3,Court of Appeals Judge - Tyler J. Buller,,Yes,,241,43,198
+Fayette,Oelwein Ward 4,Court of Appeals Judge - Tyler J. Buller,,Yes,,352,113,239
+Fayette,Oran Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,268,44,224
+Fayette,Pleasant Valley Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,218,77,141
+Fayette,Smithfield-Westfield Town,Court of Appeals Judge - Tyler J. Buller,,Yes,,384,120,264
+Fayette,Union Township,Court of Appeals Judge - Tyler J. Buller,,Yes,,108,36,72
+Fayette,West Union Ward 1,Court of Appeals Judge - Tyler J. Buller,,Yes,,216,110,106
+Fayette,West Union Ward 2,Court of Appeals Judge - Tyler J. Buller,,Yes,,168,58,110
+Fayette,West Union Ward 3,Court of Appeals Judge - Tyler J. Buller,,Yes,,204,82,122
+Fayette,Auburn-Eden Township,District 1B Associate Judge - Brook K. Jacobsen,,No,,122,32,90
+Fayette,Banks-Fremont Township,District 1B Associate Judge - Brook K. Jacobsen,,No,,99,26,73
+Fayette,Bethel-Windsor Township,District 1B Associate Judge - Brook K. Jacobsen,,No,,86,25,61
+Fayette,Center-Harlan Township,District 1B Associate Judge - Brook K. Jacobsen,,No,,105,23,82
+Fayette,Clermont Township,District 1B Associate Judge - Brook K. Jacobsen,,No,,77,25,52
+Fayette,Dover Township,District 1B Associate Judge - Brook K. Jacobsen,,No,,64,22,42
+Fayette,Fairfield-Putnam Township,District 1B Associate Judge - Brook K. Jacobsen,,No,,100,18,82
+Fayette,Illyria Township,District 1B Associate Judge - Brook K. Jacobsen,,No,,80,16,64
+Fayette,Jefferson-Scott Township,District 1B Associate Judge - Brook K. Jacobsen,,No,,97,33,64
+Fayette,Oelwein Ward 1,District 1B Associate Judge - Brook K. Jacobsen,,No,,152,42,110
+Fayette,Oelwein Ward 2,District 1B Associate Judge - Brook K. Jacobsen,,No,,108,16,92
+Fayette,Oelwein Ward 3,District 1B Associate Judge - Brook K. Jacobsen,,No,,122,33,89
+Fayette,Oelwein Ward 4,District 1B Associate Judge - Brook K. Jacobsen,,No,,170,63,107
+Fayette,Oran Township,District 1B Associate Judge - Brook K. Jacobsen,,No,,108,36,72
+Fayette,Pleasant Valley Township,District 1B Associate Judge - Brook K. Jacobsen,,No,,87,34,53
+Fayette,Smithfield-Westfield Town,District 1B Associate Judge - Brook K. Jacobsen,,No,,121,51,70
+Fayette,Union Township,District 1B Associate Judge - Brook K. Jacobsen,,No,,44,12,32
+Fayette,West Union Ward 1,District 1B Associate Judge - Brook K. Jacobsen,,No,,69,36,33
+Fayette,West Union Ward 2,District 1B Associate Judge - Brook K. Jacobsen,,No,,61,27,34
+Fayette,West Union Ward 3,District 1B Associate Judge - Brook K. Jacobsen,,No,,66,23,43
+Fayette,Auburn-Eden Township,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,288,74,214
+Fayette,Banks-Fremont Township,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,249,52,197
+Fayette,Bethel-Windsor Township,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,267,66,201
+Fayette,Center-Harlan Township,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,328,81,247
+Fayette,Clermont Township,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,249,81,168
+Fayette,Dover Township,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,152,51,101
+Fayette,Fairfield-Putnam Township,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,262,51,211
+Fayette,Illyria Township,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,120,28,92
+Fayette,Jefferson-Scott Township,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,188,59,129
+Fayette,Oelwein Ward 1,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,329,83,246
+Fayette,Oelwein Ward 2,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,275,51,224
+Fayette,Oelwein Ward 3,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,271,42,229
+Fayette,Oelwein Ward 4,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,385,123,262
+Fayette,Oran Township,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,271,39,232
+Fayette,Pleasant Valley Township,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,236,79,157
+Fayette,Smithfield-Westfield Town,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,401,120,281
+Fayette,Union Township,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,121,42,79
+Fayette,West Union Ward 1,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,227,113,114
+Fayette,West Union Ward 2,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,167,60,107
+Fayette,West Union Ward 3,District 1B Associate Judge - Brook K. Jacobsen,,Yes,,205,80,125
+Fayette,Auburn-Eden Township,District 1B Associate Judge - Patrick Wegman,,No,,125,35,90
+Fayette,Banks-Fremont Township,District 1B Associate Judge - Patrick Wegman,,No,,117,34,83
+Fayette,Bethel-Windsor Township,District 1B Associate Judge - Patrick Wegman,,No,,97,22,75
+Fayette,Center-Harlan Township,District 1B Associate Judge - Patrick Wegman,,No,,126,33,93
+Fayette,Clermont Township,District 1B Associate Judge - Patrick Wegman,,No,,82,24,58
+Fayette,Dover Township,District 1B Associate Judge - Patrick Wegman,,No,,84,22,62
+Fayette,Fairfield-Putnam Township,District 1B Associate Judge - Patrick Wegman,,No,,107,19,88
+Fayette,Illyria Township,District 1B Associate Judge - Patrick Wegman,,No,,79,15,64
+Fayette,Jefferson-Scott Township,District 1B Associate Judge - Patrick Wegman,,No,,112,41,71
+Fayette,Oelwein Ward 1,District 1B Associate Judge - Patrick Wegman,,No,,155,38,117
+Fayette,Oelwein Ward 2,District 1B Associate Judge - Patrick Wegman,,No,,120,17,103
+Fayette,Oelwein Ward 3,District 1B Associate Judge - Patrick Wegman,,No,,144,32,112
+Fayette,Oelwein Ward 4,District 1B Associate Judge - Patrick Wegman,,No,,190,69,121
+Fayette,Oran Township,District 1B Associate Judge - Patrick Wegman,,No,,108,36,72
+Fayette,Pleasant Valley Township,District 1B Associate Judge - Patrick Wegman,,No,,102,32,70
+Fayette,Smithfield-Westfield Town,District 1B Associate Judge - Patrick Wegman,,No,,140,53,87
+Fayette,Union Township,District 1B Associate Judge - Patrick Wegman,,No,,51,15,36
+Fayette,West Union Ward 1,District 1B Associate Judge - Patrick Wegman,,No,,82,37,45
+Fayette,West Union Ward 2,District 1B Associate Judge - Patrick Wegman,,No,,61,27,34
+Fayette,West Union Ward 3,District 1B Associate Judge - Patrick Wegman,,No,,75,28,47
+Fayette,Auburn-Eden Township,District 1B Associate Judge - Patrick Wegman,,Yes,,293,72,221
+Fayette,Banks-Fremont Township,District 1B Associate Judge - Patrick Wegman,,Yes,,229,44,185
+Fayette,Bethel-Windsor Township,District 1B Associate Judge - Patrick Wegman,,Yes,,259,71,188
+Fayette,Center-Harlan Township,District 1B Associate Judge - Patrick Wegman,,Yes,,301,67,234
+Fayette,Clermont Township,District 1B Associate Judge - Patrick Wegman,,Yes,,239,81,158
+Fayette,Dover Township,District 1B Associate Judge - Patrick Wegman,,Yes,,129,49,80
+Fayette,Fairfield-Putnam Township,District 1B Associate Judge - Patrick Wegman,,Yes,,254,47,207
+Fayette,Illyria Township,District 1B Associate Judge - Patrick Wegman,,Yes,,121,30,91
+Fayette,Jefferson-Scott Township,District 1B Associate Judge - Patrick Wegman,,Yes,,169,53,116
+Fayette,Oelwein Ward 1,District 1B Associate Judge - Patrick Wegman,,Yes,,326,85,241
+Fayette,Oelwein Ward 2,District 1B Associate Judge - Patrick Wegman,,Yes,,263,52,211
+Fayette,Oelwein Ward 3,District 1B Associate Judge - Patrick Wegman,,Yes,,240,43,197
+Fayette,Oelwein Ward 4,District 1B Associate Judge - Patrick Wegman,,Yes,,356,113,243
+Fayette,Oran Township,District 1B Associate Judge - Patrick Wegman,,Yes,,269,40,229
+Fayette,Pleasant Valley Township,District 1B Associate Judge - Patrick Wegman,,Yes,,218,81,137
+Fayette,Smithfield-Westfield Town,District 1B Associate Judge - Patrick Wegman,,Yes,,375,114,261
+Fayette,Union Township,District 1B Associate Judge - Patrick Wegman,,Yes,,112,39,73
+Fayette,West Union Ward 1,District 1B Associate Judge - Patrick Wegman,,Yes,,210,111,99
+Fayette,West Union Ward 2,District 1B Associate Judge - Patrick Wegman,,Yes,,162,57,105
+Fayette,West Union Ward 3,District 1B Associate Judge - Patrick Wegman,,Yes,,198,78,120
+Fayette,Auburn-Eden Township,District 1B Judge - Andrea J. Dryer,,No,,128,33,95
+Fayette,Banks-Fremont Township,District 1B Judge - Andrea J. Dryer,,No,,105,30,75
+Fayette,Bethel-Windsor Township,District 1B Judge - Andrea J. Dryer,,No,,102,29,73
+Fayette,Center-Harlan Township,District 1B Judge - Andrea J. Dryer,,No,,131,32,99
+Fayette,Clermont Township,District 1B Judge - Andrea J. Dryer,,No,,87,28,59
+Fayette,Dover Township,District 1B Judge - Andrea J. Dryer,,No,,83,19,64
+Fayette,Fairfield-Putnam Township,District 1B Judge - Andrea J. Dryer,,No,,117,22,95
+Fayette,Illyria Township,District 1B Judge - Andrea J. Dryer,,No,,86,18,68
+Fayette,Jefferson-Scott Township,District 1B Judge - Andrea J. Dryer,,No,,115,45,70
+Fayette,Oelwein Ward 1,District 1B Judge - Andrea J. Dryer,,No,,162,41,121
+Fayette,Oelwein Ward 2,District 1B Judge - Andrea J. Dryer,,No,,123,18,105
+Fayette,Oelwein Ward 3,District 1B Judge - Andrea J. Dryer,,No,,142,34,108
+Fayette,Oelwein Ward 4,District 1B Judge - Andrea J. Dryer,,No,,169,54,115
+Fayette,Oran Township,District 1B Judge - Andrea J. Dryer,,No,,94,25,69
+Fayette,Pleasant Valley Township,District 1B Judge - Andrea J. Dryer,,No,,107,34,73
+Fayette,Smithfield-Westfield Town,District 1B Judge - Andrea J. Dryer,,No,,130,50,80
+Fayette,Union Township,District 1B Judge - Andrea J. Dryer,,No,,48,14,34
+Fayette,West Union Ward 1,District 1B Judge - Andrea J. Dryer,,No,,73,34,39
+Fayette,West Union Ward 2,District 1B Judge - Andrea J. Dryer,,No,,65,28,37
+Fayette,West Union Ward 3,District 1B Judge - Andrea J. Dryer,,No,,74,24,50
+Fayette,Auburn-Eden Township,District 1B Judge - Andrea J. Dryer,,Yes,,275,69,206
+Fayette,Banks-Fremont Township,District 1B Judge - Andrea J. Dryer,,Yes,,250,46,204
+Fayette,Bethel-Windsor Township,District 1B Judge - Andrea J. Dryer,,Yes,,252,65,187
+Fayette,Center-Harlan Township,District 1B Judge - Andrea J. Dryer,,Yes,,297,69,228
+Fayette,Clermont Township,District 1B Judge - Andrea J. Dryer,,Yes,,234,77,157
+Fayette,Dover Township,District 1B Judge - Andrea J. Dryer,,Yes,,130,54,76
+Fayette,Fairfield-Putnam Township,District 1B Judge - Andrea J. Dryer,,Yes,,248,45,203
+Fayette,Illyria Township,District 1B Judge - Andrea J. Dryer,,Yes,,119,29,90
+Fayette,Jefferson-Scott Township,District 1B Judge - Andrea J. Dryer,,Yes,,172,49,123
+Fayette,Oelwein Ward 1,District 1B Judge - Andrea J. Dryer,,Yes,,330,83,247
+Fayette,Oelwein Ward 2,District 1B Judge - Andrea J. Dryer,,Yes,,263,51,212
+Fayette,Oelwein Ward 3,District 1B Judge - Andrea J. Dryer,,Yes,,256,44,212
+Fayette,Oelwein Ward 4,District 1B Judge - Andrea J. Dryer,,Yes,,385,133,252
+Fayette,Oran Township,District 1B Judge - Andrea J. Dryer,,Yes,,295,54,241
+Fayette,Pleasant Valley Township,District 1B Judge - Andrea J. Dryer,,Yes,,223,82,141
+Fayette,Smithfield-Westfield Town,District 1B Judge - Andrea J. Dryer,,Yes,,385,118,267
+Fayette,Union Township,District 1B Judge - Andrea J. Dryer,,Yes,,113,37,76
+Fayette,West Union Ward 1,District 1B Judge - Andrea J. Dryer,,Yes,,218,112,106
+Fayette,West Union Ward 2,District 1B Judge - Andrea J. Dryer,,Yes,,157,53,104
+Fayette,West Union Ward 3,District 1B Judge - Andrea J. Dryer,,Yes,,206,82,124
+Fayette,Auburn-Eden Township,District 1B Judge - David F. Staudt,,No,,134,34,100
+Fayette,Banks-Fremont Township,District 1B Judge - David F. Staudt,,No,,117,29,88
+Fayette,Bethel-Windsor Township,District 1B Judge - David F. Staudt,,No,,105,32,73
+Fayette,Center-Harlan Township,District 1B Judge - David F. Staudt,,No,,128,31,97
+Fayette,Clermont Township,District 1B Judge - David F. Staudt,,No,,82,23,59
+Fayette,Dover Township,District 1B Judge - David F. Staudt,,No,,86,25,61
+Fayette,Fairfield-Putnam Township,District 1B Judge - David F. Staudt,,No,,121,21,100
+Fayette,Illyria Township,District 1B Judge - David F. Staudt,,No,,88,20,68
+Fayette,Jefferson-Scott Township,District 1B Judge - David F. Staudt,,No,,118,47,71
+Fayette,Oelwein Ward 1,District 1B Judge - David F. Staudt,,No,,165,43,122
+Fayette,Oelwein Ward 2,District 1B Judge - David F. Staudt,,No,,128,18,110
+Fayette,Oelwein Ward 3,District 1B Judge - David F. Staudt,,No,,147,29,118
+Fayette,Oelwein Ward 4,District 1B Judge - David F. Staudt,,No,,197,68,129
+Fayette,Oran Township,District 1B Judge - David F. Staudt,,No,,97,30,67
+Fayette,Pleasant Valley Township,District 1B Judge - David F. Staudt,,No,,117,38,79
+Fayette,Smithfield-Westfield Town,District 1B Judge - David F. Staudt,,No,,148,57,91
+Fayette,Union Township,District 1B Judge - David F. Staudt,,No,,48,12,36
+Fayette,West Union Ward 1,District 1B Judge - David F. Staudt,,No,,88,41,47
+Fayette,West Union Ward 2,District 1B Judge - David F. Staudt,,No,,66,27,39
+Fayette,West Union Ward 3,District 1B Judge - David F. Staudt,,No,,82,30,52
+Fayette,Auburn-Eden Township,District 1B Judge - David F. Staudt,,Yes,,265,66,199
+Fayette,Banks-Fremont Township,District 1B Judge - David F. Staudt,,Yes,,236,46,190
+Fayette,Bethel-Windsor Township,District 1B Judge - David F. Staudt,,Yes,,244,61,183
+Fayette,Center-Harlan Township,District 1B Judge - David F. Staudt,,Yes,,297,67,230
+Fayette,Clermont Township,District 1B Judge - David F. Staudt,,Yes,,240,83,157
+Fayette,Dover Township,District 1B Judge - David F. Staudt,,Yes,,124,46,78
+Fayette,Fairfield-Putnam Township,District 1B Judge - David F. Staudt,,Yes,,246,46,200
+Fayette,Illyria Township,District 1B Judge - David F. Staudt,,Yes,,116,25,91
+Fayette,Jefferson-Scott Township,District 1B Judge - David F. Staudt,,Yes,,161,48,113
+Fayette,Oelwein Ward 1,District 1B Judge - David F. Staudt,,Yes,,319,80,239
+Fayette,Oelwein Ward 2,District 1B Judge - David F. Staudt,,Yes,,249,46,203
+Fayette,Oelwein Ward 3,District 1B Judge - David F. Staudt,,Yes,,239,45,194
+Fayette,Oelwein Ward 4,District 1B Judge - David F. Staudt,,Yes,,351,116,235
+Fayette,Oran Township,District 1B Judge - David F. Staudt,,Yes,,286,46,240
+Fayette,Pleasant Valley Township,District 1B Judge - David F. Staudt,,Yes,,206,73,133
+Fayette,Smithfield-Westfield Town,District 1B Judge - David F. Staudt,,Yes,,365,110,255
+Fayette,Union Township,District 1B Judge - David F. Staudt,,Yes,,113,38,75
+Fayette,West Union Ward 1,District 1B Judge - David F. Staudt,,Yes,,199,102,97
+Fayette,West Union Ward 2,District 1B Judge - David F. Staudt,,Yes,,155,52,103
+Fayette,West Union Ward 3,District 1B Judge - David F. Staudt,,Yes,,193,74,119
+Fayette,Auburn-Eden Township,District 1B Judge - John James Sullivan,,No,,124,37,87
+Fayette,Banks-Fremont Township,District 1B Judge - John James Sullivan,,No,,108,28,80
+Fayette,Bethel-Windsor Township,District 1B Judge - John James Sullivan,,No,,92,28,64
+Fayette,Center-Harlan Township,District 1B Judge - John James Sullivan,,No,,117,27,90
+Fayette,Clermont Township,District 1B Judge - John James Sullivan,,No,,89,35,54
+Fayette,Dover Township,District 1B Judge - John James Sullivan,,No,,70,23,47
+Fayette,Fairfield-Putnam Township,District 1B Judge - John James Sullivan,,No,,97,16,81
+Fayette,Illyria Township,District 1B Judge - John James Sullivan,,No,,77,18,59
+Fayette,Jefferson-Scott Township,District 1B Judge - John James Sullivan,,No,,97,37,60
+Fayette,Oelwein Ward 1,District 1B Judge - John James Sullivan,,No,,149,35,114
+Fayette,Oelwein Ward 2,District 1B Judge - John James Sullivan,,No,,101,16,85
+Fayette,Oelwein Ward 3,District 1B Judge - John James Sullivan,,No,,134,31,103
+Fayette,Oelwein Ward 4,District 1B Judge - John James Sullivan,,No,,173,60,113
+Fayette,Oran Township,District 1B Judge - John James Sullivan,,No,,101,33,68
+Fayette,Pleasant Valley Township,District 1B Judge - John James Sullivan,,No,,89,31,58
+Fayette,Smithfield-Westfield Town,District 1B Judge - John James Sullivan,,No,,137,47,90
+Fayette,Union Township,District 1B Judge - John James Sullivan,,No,,49,16,33
+Fayette,West Union Ward 1,District 1B Judge - John James Sullivan,,No,,71,36,35
+Fayette,West Union Ward 2,District 1B Judge - John James Sullivan,,No,,60,27,33
+Fayette,West Union Ward 3,District 1B Judge - John James Sullivan,,No,,80,32,48
+Fayette,Auburn-Eden Township,District 1B Judge - John James Sullivan,,Yes,,284,65,219
+Fayette,Banks-Fremont Township,District 1B Judge - John James Sullivan,,Yes,,251,48,203
+Fayette,Bethel-Windsor Township,District 1B Judge - John James Sullivan,,Yes,,269,69,200
+Fayette,Center-Harlan Township,District 1B Judge - John James Sullivan,,Yes,,324,80,244
+Fayette,Clermont Township,District 1B Judge - John James Sullivan,,Yes,,234,71,163
+Fayette,Dover Township,District 1B Judge - John James Sullivan,,Yes,,141,48,93
+Fayette,Fairfield-Putnam Township,District 1B Judge - John James Sullivan,,Yes,,275,53,222
+Fayette,Illyria Township,District 1B Judge - John James Sullivan,,Yes,,125,27,98
+Fayette,Jefferson-Scott Township,District 1B Judge - John James Sullivan,,Yes,,203,62,141
+Fayette,Oelwein Ward 1,District 1B Judge - John James Sullivan,,Yes,,359,94,265
+Fayette,Oelwein Ward 2,District 1B Judge - John James Sullivan,,Yes,,301,53,248
+Fayette,Oelwein Ward 3,District 1B Judge - John James Sullivan,,Yes,,278,51,227
+Fayette,Oelwein Ward 4,District 1B Judge - John James Sullivan,,Yes,,408,138,270
+Fayette,Oran Township,District 1B Judge - John James Sullivan,,Yes,,282,46,236
+Fayette,Pleasant Valley Township,District 1B Judge - John James Sullivan,,Yes,,240,85,155
+Fayette,Smithfield-Westfield Town,District 1B Judge - John James Sullivan,,Yes,,385,124,261
+Fayette,Union Township,District 1B Judge - John James Sullivan,,Yes,,113,36,77
+Fayette,West Union Ward 1,District 1B Judge - John James Sullivan,,Yes,,226,114,112
+Fayette,West Union Ward 2,District 1B Judge - John James Sullivan,,Yes,,165,57,108
+Fayette,West Union Ward 3,District 1B Judge - John James Sullivan,,Yes,,198,74,124
+Fayette,Auburn-Eden Township,District 1B Judge - Kellyann Lekar,,No,,134,33,101
+Fayette,Banks-Fremont Township,District 1B Judge - Kellyann Lekar,,No,,111,25,86
+Fayette,Bethel-Windsor Township,District 1B Judge - Kellyann Lekar,,No,,103,27,76
+Fayette,Center-Harlan Township,District 1B Judge - Kellyann Lekar,,No,,125,29,96
+Fayette,Clermont Township,District 1B Judge - Kellyann Lekar,,No,,83,26,57
+Fayette,Dover Township,District 1B Judge - Kellyann Lekar,,No,,82,20,62
+Fayette,Fairfield-Putnam Township,District 1B Judge - Kellyann Lekar,,No,,118,21,97
+Fayette,Illyria Township,District 1B Judge - Kellyann Lekar,,No,,87,18,69
+Fayette,Jefferson-Scott Township,District 1B Judge - Kellyann Lekar,,No,,104,36,68
+Fayette,Oelwein Ward 1,District 1B Judge - Kellyann Lekar,,No,,158,39,119
+Fayette,Oelwein Ward 2,District 1B Judge - Kellyann Lekar,,No,,139,20,119
+Fayette,Oelwein Ward 3,District 1B Judge - Kellyann Lekar,,No,,141,30,111
+Fayette,Oelwein Ward 4,District 1B Judge - Kellyann Lekar,,No,,177,61,116
+Fayette,Oran Township,District 1B Judge - Kellyann Lekar,,No,,103,24,79
+Fayette,Pleasant Valley Township,District 1B Judge - Kellyann Lekar,,No,,105,32,73
+Fayette,Smithfield-Westfield Town,District 1B Judge - Kellyann Lekar,,No,,140,53,87
+Fayette,Union Township,District 1B Judge - Kellyann Lekar,,No,,50,10,40
+Fayette,West Union Ward 1,District 1B Judge - Kellyann Lekar,,No,,71,32,39
+Fayette,West Union Ward 2,District 1B Judge - Kellyann Lekar,,No,,65,25,40
+Fayette,West Union Ward 3,District 1B Judge - Kellyann Lekar,,No,,78,26,52
+Fayette,Auburn-Eden Township,District 1B Judge - Kellyann Lekar,,Yes,,265,66,199
+Fayette,Banks-Fremont Township,District 1B Judge - Kellyann Lekar,,Yes,,246,54,192
+Fayette,Bethel-Windsor Township,District 1B Judge - Kellyann Lekar,,Yes,,245,64,181
+Fayette,Center-Harlan Township,District 1B Judge - Kellyann Lekar,,Yes,,300,70,230
+Fayette,Clermont Township,District 1B Judge - Kellyann Lekar,,Yes,,237,77,160
+Fayette,Dover Township,District 1B Judge - Kellyann Lekar,,Yes,,128,51,77
+Fayette,Fairfield-Putnam Township,District 1B Judge - Kellyann Lekar,,Yes,,247,48,199
+Fayette,Illyria Township,District 1B Judge - Kellyann Lekar,,Yes,,116,27,89
+Fayette,Jefferson-Scott Township,District 1B Judge - Kellyann Lekar,,Yes,,175,57,118
+Fayette,Oelwein Ward 1,District 1B Judge - Kellyann Lekar,,Yes,,330,84,246
+Fayette,Oelwein Ward 2,District 1B Judge - Kellyann Lekar,,Yes,,239,46,193
+Fayette,Oelwein Ward 3,District 1B Judge - Kellyann Lekar,,Yes,,254,45,209
+Fayette,Oelwein Ward 4,District 1B Judge - Kellyann Lekar,,Yes,,369,123,246
+Fayette,Oran Township,District 1B Judge - Kellyann Lekar,,Yes,,278,52,226
+Fayette,Pleasant Valley Township,District 1B Judge - Kellyann Lekar,,Yes,,217,79,138
+Fayette,Smithfield-Westfield Town,District 1B Judge - Kellyann Lekar,,Yes,,374,117,257
+Fayette,Union Township,District 1B Judge - Kellyann Lekar,,Yes,,112,42,70
+Fayette,West Union Ward 1,District 1B Judge - Kellyann Lekar,,Yes,,220,114,106
+Fayette,West Union Ward 2,District 1B Judge - Kellyann Lekar,,Yes,,155,54,101
+Fayette,West Union Ward 3,District 1B Judge - Kellyann Lekar,,Yes,,201,80,121
+Fayette,Dover Township,Dover Township Trustee,,Ray Steffens,,242,89,153
+Fayette,Dover Township,Dover Township Trustee,,Write-In,,12,3,9
+Fayette,Auburn-Eden Township,Eden Township Trustee,,Nathan Adams,,5,3,2
+Fayette,Auburn-Eden Township,Eden Township Trustee,,Write-In,,18,3,15
+Fayette,Fairfield-Putnam Township,Fairfield Township Trustee,,Terry Seedorff,,126,35,91
+Fayette,Fairfield-Putnam Township,Fairfield Township Trustee,,Write-In,,1,0,1
+Fayette,Banks-Fremont Township,Fremont Township Trustee,,Neal Rochford,,1,0,1
+Fayette,Banks-Fremont Township,Fremont Township Trustee,,Write-In,,8,2,6
+Fayette,Center-Harlan Township,Harlan Township Trustee,,Dennis Lee Byerly,,161,37,124
+Fayette,Center-Harlan Township,Harlan Township Trustee,,Write-In,,0,0,0
+Fayette,Illyria Township,Illyria Township Clerk To Fill a Vacancy,,Gloria Aylsworth,,4,0,4
+Fayette,Illyria Township,Illyria Township Clerk To Fill a Vacancy,,Write-In,,5,3,2
+Fayette,Illyria Township,Illyria Township Trustee,,James Opperman,,40,10,30
+Fayette,Illyria Township,Illyria Township Trustee,,Robert Opperman,,98,18,80
+Fayette,Illyria Township,Illyria Township Trustee,,Write-In,,0,0,0
+Fayette,Jefferson-Scott Township,Jefferson Township Trustee,,Patricia Taylor,,220,62,158
+Fayette,Jefferson-Scott Township,Jefferson Township Trustee,,Write-In,,4,3,1
+Fayette,Oran Township,Oran Township Trustee,,Joe Schmitz,,225,46,179
+Fayette,Oran Township,Oran Township Trustee,,Write-In,,7,2,5
+Fayette,Pleasant Valley Township,Pleas. Valley Township Trustee,,Terry Rose,,141,51,90
+Fayette,Pleasant Valley Township,Pleas. Valley Township Trustee,,Write-In,,1,1,0
+Fayette,Auburn-Eden Township,President,,Chase Oliver and Mike ter Maat,LIB,3,1,2
+Fayette,Banks-Fremont Township,President,,Chase Oliver and Mike ter Maat,LIB,1,1,0
+Fayette,Bethel-Windsor Township,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Fayette,Center-Harlan Township,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Fayette,Clermont Township,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Fayette,Dover Township,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Fayette,Fairfield-Putnam Township,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Fayette,Illyria Township,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Fayette,Jefferson-Scott Township,President,,Chase Oliver and Mike ter Maat,LIB,2,1,1
+Fayette,Oelwein Ward 1,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Fayette,Oelwein Ward 2,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Fayette,Oelwein Ward 3,President,,Chase Oliver and Mike ter Maat,LIB,3,1,2
+Fayette,Oelwein Ward 4,President,,Chase Oliver and Mike ter Maat,LIB,5,0,5
+Fayette,Oran Township,President,,Chase Oliver and Mike ter Maat,LIB,0,0,0
+Fayette,Pleasant Valley Township,President,,Chase Oliver and Mike ter Maat,LIB,6,0,6
+Fayette,Smithfield-Westfield Town,President,,Chase Oliver and Mike ter Maat,LIB,4,1,3
+Fayette,Union Township,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Fayette,West Union Ward 1,President,,Chase Oliver and Mike ter Maat,LIB,1,1,0
+Fayette,West Union Ward 2,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Fayette,West Union Ward 3,President,,Chase Oliver and Mike ter Maat,LIB,4,0,4
+Fayette,Auburn-Eden Township,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Fayette,Banks-Fremont Township,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Fayette,Bethel-Windsor Township,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Fayette,Center-Harlan Township,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Fayette,Clermont Township,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Fayette,Dover Township,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Fayette,Fairfield-Putnam Township,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Fayette,Illyria Township,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Fayette,Jefferson-Scott Township,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Fayette,Oelwein Ward 1,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Fayette,Oelwein Ward 2,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Fayette,Oelwein Ward 3,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Fayette,Oelwein Ward 4,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Fayette,Oran Township,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Fayette,Pleasant Valley Township,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Fayette,Smithfield-Westfield Town,President,,Claudia De la Cruz and Karina Garcia,PSL,2,0,2
+Fayette,Union Township,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Fayette,West Union Ward 1,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Fayette,West Union Ward 2,President,,Claudia De la Cruz and Karina Garcia,PSL,2,1,1
+Fayette,West Union Ward 3,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Fayette,Auburn-Eden Township,President,,Donald J. Trump and JD Vance,REP,417,113,304
+Fayette,Banks-Fremont Township,President,,Donald J. Trump and JD Vance,REP,357,73,284
+Fayette,Bethel-Windsor Township,President,,Donald J. Trump and JD Vance,REP,387,89,298
+Fayette,Center-Harlan Township,President,,Donald J. Trump and JD Vance,REP,402,98,304
+Fayette,Clermont Township,President,,Donald J. Trump and JD Vance,REP,325,103,222
+Fayette,Dover Township,President,,Donald J. Trump and JD Vance,REP,257,95,162
+Fayette,Fairfield-Putnam Township,President,,Donald J. Trump and JD Vance,REP,360,65,295
+Fayette,Illyria Township,President,,Donald J. Trump and JD Vance,REP,193,40,153
+Fayette,Jefferson-Scott Township,President,,Donald J. Trump and JD Vance,REP,283,81,202
+Fayette,Oelwein Ward 1,President,,Donald J. Trump and JD Vance,REP,365,67,298
+Fayette,Oelwein Ward 2,President,,Donald J. Trump and JD Vance,REP,283,33,250
+Fayette,Oelwein Ward 3,President,,Donald J. Trump and JD Vance,REP,278,40,238
+Fayette,Oelwein Ward 4,President,,Donald J. Trump and JD Vance,REP,388,106,282
+Fayette,Oran Township,President,,Donald J. Trump and JD Vance,REP,329,44,285
+Fayette,Pleasant Valley Township,President,,Donald J. Trump and JD Vance,REP,326,113,213
+Fayette,Smithfield-Westfield Town,President,,Donald J. Trump and JD Vance,REP,472,161,311
+Fayette,Union Township,President,,Donald J. Trump and JD Vance,REP,180,63,117
+Fayette,West Union Ward 1,President,,Donald J. Trump and JD Vance,REP,249,118,131
+Fayette,West Union Ward 2,President,,Donald J. Trump and JD Vance,REP,220,86,134
+Fayette,West Union Ward 3,President,,Donald J. Trump and JD Vance,REP,254,120,134
+Fayette,Auburn-Eden Township,President,,Kamala D. Harris and Tim Walz,DEM,168,75,93
+Fayette,Banks-Fremont Township,President,,Kamala D. Harris and Tim Walz,DEM,102,36,66
+Fayette,Bethel-Windsor Township,President,,Kamala D. Harris and Tim Walz,DEM,146,62,84
+Fayette,Center-Harlan Township,President,,Kamala D. Harris and Tim Walz,DEM,181,56,125
+Fayette,Clermont Township,President,,Kamala D. Harris and Tim Walz,DEM,132,71,61
+Fayette,Dover Township,President,,Kamala D. Harris and Tim Walz,DEM,62,34,28
+Fayette,Fairfield-Putnam Township,President,,Kamala D. Harris and Tim Walz,DEM,138,46,92
+Fayette,Illyria Township,President,,Kamala D. Harris and Tim Walz,DEM,92,26,66
+Fayette,Jefferson-Scott Township,President,,Kamala D. Harris and Tim Walz,DEM,150,71,79
+Fayette,Oelwein Ward 1,President,,Kamala D. Harris and Tim Walz,DEM,287,99,188
+Fayette,Oelwein Ward 2,President,,Kamala D. Harris and Tim Walz,DEM,227,69,158
+Fayette,Oelwein Ward 3,President,,Kamala D. Harris and Tim Walz,DEM,228,74,154
+Fayette,Oelwein Ward 4,President,,Kamala D. Harris and Tim Walz,DEM,351,160,191
+Fayette,Oran Township,President,,Kamala D. Harris and Tim Walz,DEM,172,75,97
+Fayette,Pleasant Valley Township,President,,Kamala D. Harris and Tim Walz,DEM,157,67,90
+Fayette,Smithfield-Westfield Town,President,,Kamala D. Harris and Tim Walz,DEM,266,107,159
+Fayette,Union Township,President,,Kamala D. Harris and Tim Walz,DEM,59,28,31
+Fayette,West Union Ward 1,President,,Kamala D. Harris and Tim Walz,DEM,164,105,59
+Fayette,West Union Ward 2,President,,Kamala D. Harris and Tim Walz,DEM,104,67,37
+Fayette,West Union Ward 3,President,,Kamala D. Harris and Tim Walz,DEM,148,72,76
+Fayette,Auburn-Eden Township,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,2,0,2
+Fayette,Banks-Fremont Township,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,9,2,7
+Fayette,Bethel-Windsor Township,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,2,2
+Fayette,Center-Harlan Township,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,2,0,2
+Fayette,Clermont Township,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,1,4
+Fayette,Dover Township,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,1,0,1
+Fayette,Fairfield-Putnam Township,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,3,0,3
+Fayette,Illyria Township,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,1,1,0
+Fayette,Jefferson-Scott Township,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,0,5
+Fayette,Oelwein Ward 1,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,0,4
+Fayette,Oelwein Ward 2,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,8,1,7
+Fayette,Oelwein Ward 3,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,1,9
+Fayette,Oelwein Ward 4,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,8,1,7
+Fayette,Oran Township,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,1,3
+Fayette,Pleasant Valley Township,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,2,3
+Fayette,Smithfield-Westfield Town,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,19,5,14
+Fayette,Union Township,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,2,0,2
+Fayette,West Union Ward 1,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,6,4,2
+Fayette,West Union Ward 2,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,3,1,2
+Fayette,West Union Ward 3,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,3,1,2
+Fayette,Auburn-Eden Township,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Banks-Fremont Township,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Bethel-Windsor Township,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Center-Harlan Township,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Clermont Township,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Dover Township,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Fairfield-Putnam Township,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Illyria Township,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Jefferson-Scott Township,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Oelwein Ward 1,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Oelwein Ward 2,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Oelwein Ward 3,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Oelwein Ward 4,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Oran Township,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Pleasant Valley Township,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Smithfield-Westfield Town,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Union Township,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,West Union Ward 1,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,West Union Ward 2,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,West Union Ward 3,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Fayette,Auburn-Eden Township,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,Banks-Fremont Township,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,Bethel-Windsor Township,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,Center-Harlan Township,President,,William P. Stodden and Stephanie H. Cholensky,SPA,1,1,0
+Fayette,Clermont Township,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,Dover Township,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,Fairfield-Putnam Township,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,Illyria Township,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,Jefferson-Scott Township,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,Oelwein Ward 1,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,Oelwein Ward 2,President,,William P. Stodden and Stephanie H. Cholensky,SPA,1,0,1
+Fayette,Oelwein Ward 3,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,Oelwein Ward 4,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,Oran Township,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,Pleasant Valley Township,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,Smithfield-Westfield Town,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,Union Township,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,West Union Ward 1,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,West Union Ward 2,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,West Union Ward 3,President,,William P. Stodden and Stephanie H. Cholensky,SPA,0,0,0
+Fayette,Auburn-Eden Township,President,,Write-In,,5,1,4
+Fayette,Banks-Fremont Township,President,,Write-In,,1,0,1
+Fayette,Bethel-Windsor Township,President,,Write-In,,3,0,3
+Fayette,Center-Harlan Township,President,,Write-In,,1,1,0
+Fayette,Clermont Township,President,,Write-In,,1,0,1
+Fayette,Dover Township,President,,Write-In,,1,0,1
+Fayette,Fairfield-Putnam Township,President,,Write-In,,3,1,2
+Fayette,Illyria Township,President,,Write-In,,0,0,0
+Fayette,Jefferson-Scott Township,President,,Write-In,,0,0,0
+Fayette,Oelwein Ward 1,President,,Write-In,,0,0,0
+Fayette,Oelwein Ward 2,President,,Write-In,,1,0,1
+Fayette,Oelwein Ward 3,President,,Write-In,,1,0,1
+Fayette,Oelwein Ward 4,President,,Write-In,,3,2,1
+Fayette,Oran Township,President,,Write-In,,0,0,0
+Fayette,Pleasant Valley Township,President,,Write-In,,2,0,2
+Fayette,Smithfield-Westfield Town,President,,Write-In,,7,1,6
+Fayette,Union Township,President,,Write-In,,1,0,1
+Fayette,West Union Ward 1,President,,Write-In,,1,0,1
+Fayette,West Union Ward 2,President,,Write-In,,0,0,0
+Fayette,West Union Ward 3,President,,Write-In,,0,0,0
+Fayette,Fairfield-Putnam Township,Putnam Township Trustee,,Doug Rueber,,141,32,109
+Fayette,Fairfield-Putnam Township,Putnam Township Trustee,,Write-In,,0,0,0
+Fayette,Jefferson-Scott Township,Scott Township Trustee,,Kim Rau,,15,6,9
+Fayette,Jefferson-Scott Township,Scott Township Trustee,,Write-In,,10,2,8
+Fayette,Smithfield-Westfield Town,Smithfield Township Trustee,,Dan Rosburg,,123,49,74
+Fayette,Smithfield-Westfield Town,Smithfield Township Trustee,,Write-In,,1,0,1
+Fayette,Auburn-Eden Township,Soil and Water Conservation District Commissioner,,Joseph Bahe,,118,38,80
+Fayette,Banks-Fremont Township,Soil and Water Conservation District Commissioner,,Joseph Bahe,,175,35,140
+Fayette,Bethel-Windsor Township,Soil and Water Conservation District Commissioner,,Joseph Bahe,,179,50,129
+Fayette,Center-Harlan Township,Soil and Water Conservation District Commissioner,,Joseph Bahe,,273,76,197
+Fayette,Clermont Township,Soil and Water Conservation District Commissioner,,Joseph Bahe,,137,38,99
+Fayette,Dover Township,Soil and Water Conservation District Commissioner,,Joseph Bahe,,91,40,51
+Fayette,Fairfield-Putnam Township,Soil and Water Conservation District Commissioner,,Joseph Bahe,,235,57,178
+Fayette,Illyria Township,Soil and Water Conservation District Commissioner,,Joseph Bahe,,90,19,71
+Fayette,Jefferson-Scott Township,Soil and Water Conservation District Commissioner,,Joseph Bahe,,295,97,198
+Fayette,Oelwein Ward 1,Soil and Water Conservation District Commissioner,,Joseph Bahe,,330,95,235
+Fayette,Oelwein Ward 2,Soil and Water Conservation District Commissioner,,Joseph Bahe,,208,44,164
+Fayette,Oelwein Ward 3,Soil and Water Conservation District Commissioner,,Joseph Bahe,,193,44,149
+Fayette,Oelwein Ward 4,Soil and Water Conservation District Commissioner,,Joseph Bahe,,390,135,255
+Fayette,Oran Township,Soil and Water Conservation District Commissioner,,Joseph Bahe,,206,48,158
+Fayette,Pleasant Valley Township,Soil and Water Conservation District Commissioner,,Joseph Bahe,,148,51,97
+Fayette,Smithfield-Westfield Town,Soil and Water Conservation District Commissioner,,Joseph Bahe,,255,87,168
+Fayette,Union Township,Soil and Water Conservation District Commissioner,,Joseph Bahe,,82,29,53
+Fayette,West Union Ward 1,Soil and Water Conservation District Commissioner,,Joseph Bahe,,145,69,76
+Fayette,West Union Ward 2,Soil and Water Conservation District Commissioner,,Joseph Bahe,,84,31,53
+Fayette,West Union Ward 3,Soil and Water Conservation District Commissioner,,Joseph Bahe,,94,34,60
+Fayette,Auburn-Eden Township,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,276,70,206
+Fayette,Banks-Fremont Township,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,274,61,213
+Fayette,Bethel-Windsor Township,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,246,79,167
+Fayette,Center-Harlan Township,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,360,90,270
+Fayette,Clermont Township,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,226,70,156
+Fayette,Dover Township,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,166,58,108
+Fayette,Fairfield-Putnam Township,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,208,46,162
+Fayette,Illyria Township,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,127,31,96
+Fayette,Jefferson-Scott Township,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,182,54,128
+Fayette,Oelwein Ward 1,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,268,76,192
+Fayette,Oelwein Ward 2,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,207,39,168
+Fayette,Oelwein Ward 3,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,213,41,172
+Fayette,Oelwein Ward 4,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,332,122,210
+Fayette,Oran Township,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,277,47,230
+Fayette,Pleasant Valley Township,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,232,80,152
+Fayette,Smithfield-Westfield Town,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,334,103,231
+Fayette,Union Township,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,119,48,71
+Fayette,West Union Ward 1,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,208,105,103
+Fayette,West Union Ward 2,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,166,65,101
+Fayette,West Union Ward 3,Soil and Water Conservation District Commissioner,,Scott G. Wedemeier,,208,87,121
+Fayette,Auburn-Eden Township,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,354,97,257
+Fayette,Banks-Fremont Township,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,220,43,177
+Fayette,Bethel-Windsor Township,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,240,78,162
+Fayette,Center-Harlan Township,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,270,73,197
+Fayette,Clermont Township,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,232,81,151
+Fayette,Dover Township,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,140,58,82
+Fayette,Fairfield-Putnam Township,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,181,39,142
+Fayette,Illyria Township,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,109,36,73
+Fayette,Jefferson-Scott Township,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,155,56,99
+Fayette,Oelwein Ward 1,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,275,77,198
+Fayette,Oelwein Ward 2,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,208,41,167
+Fayette,Oelwein Ward 3,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,222,48,174
+Fayette,Oelwein Ward 4,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,276,95,181
+Fayette,Oran Township,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,227,59,168
+Fayette,Pleasant Valley Township,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,217,87,130
+Fayette,Smithfield-Westfield Town,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,331,123,208
+Fayette,Union Township,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,109,36,73
+Fayette,West Union Ward 1,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,219,118,101
+Fayette,West Union Ward 2,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,146,71,75
+Fayette,West Union Ward 3,Soil and Water Conservation District Commissioner,,Susan E. Kuennen,,192,79,113
+Fayette,Auburn-Eden Township,Soil and Water Conservation District Commissioner,,Tim Bruihler,,144,43,101
+Fayette,Banks-Fremont Township,Soil and Water Conservation District Commissioner,,Tim Bruihler,,115,34,81
+Fayette,Bethel-Windsor Township,Soil and Water Conservation District Commissioner,,Tim Bruihler,,220,56,164
+Fayette,Center-Harlan Township,Soil and Water Conservation District Commissioner,,Tim Bruihler,,148,53,95
+Fayette,Clermont Township,Soil and Water Conservation District Commissioner,,Tim Bruihler,,107,38,69
+Fayette,Dover Township,Soil and Water Conservation District Commissioner,,Tim Bruihler,,80,25,55
+Fayette,Fairfield-Putnam Township,Soil and Water Conservation District Commissioner,,Tim Bruihler,,83,19,64
+Fayette,Illyria Township,Soil and Water Conservation District Commissioner,,Tim Bruihler,,59,17,42
+Fayette,Jefferson-Scott Township,Soil and Water Conservation District Commissioner,,Tim Bruihler,,69,25,44
+Fayette,Oelwein Ward 1,Soil and Water Conservation District Commissioner,,Tim Bruihler,,116,28,88
+Fayette,Oelwein Ward 2,Soil and Water Conservation District Commissioner,,Tim Bruihler,,100,17,83
+Fayette,Oelwein Ward 3,Soil and Water Conservation District Commissioner,,Tim Bruihler,,90,19,71
+Fayette,Oelwein Ward 4,Soil and Water Conservation District Commissioner,,Tim Bruihler,,147,53,94
+Fayette,Oran Township,Soil and Water Conservation District Commissioner,,Tim Bruihler,,99,25,74
+Fayette,Pleasant Valley Township,Soil and Water Conservation District Commissioner,,Tim Bruihler,,127,37,90
+Fayette,Smithfield-Westfield Town,Soil and Water Conservation District Commissioner,,Tim Bruihler,,163,55,108
+Fayette,Union Township,Soil and Water Conservation District Commissioner,,Tim Bruihler,,76,21,55
+Fayette,West Union Ward 1,Soil and Water Conservation District Commissioner,,Tim Bruihler,,141,71,70
+Fayette,West Union Ward 2,Soil and Water Conservation District Commissioner,,Tim Bruihler,,85,32,53
+Fayette,West Union Ward 3,Soil and Water Conservation District Commissioner,,Tim Bruihler,,126,53,73
+Fayette,Auburn-Eden Township,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,124,26,98
+Fayette,Banks-Fremont Township,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,102,25,77
+Fayette,Bethel-Windsor Township,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,122,28,94
+Fayette,Center-Harlan Township,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,147,37,110
+Fayette,Clermont Township,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,156,58,98
+Fayette,Dover Township,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,87,21,66
+Fayette,Fairfield-Putnam Township,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,280,64,216
+Fayette,Illyria Township,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,109,28,81
+Fayette,Jefferson-Scott Township,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,129,50,79
+Fayette,Oelwein Ward 1,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,131,36,95
+Fayette,Oelwein Ward 2,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,123,27,96
+Fayette,Oelwein Ward 3,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,85,20,65
+Fayette,Oelwein Ward 4,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,150,45,105
+Fayette,Oran Township,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,117,26,91
+Fayette,Pleasant Valley Township,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,144,38,106
+Fayette,Smithfield-Westfield Town,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,200,64,136
+Fayette,Union Township,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,56,11,45
+Fayette,West Union Ward 1,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,95,50,45
+Fayette,West Union Ward 2,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,66,19,47
+Fayette,West Union Ward 3,Soil and Water Conservation District Commissioner,,Tyler Wynthein,,67,25,42
+Fayette,Auburn-Eden Township,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Fayette,Banks-Fremont Township,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Fayette,Bethel-Windsor Township,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Fayette,Center-Harlan Township,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Fayette,Clermont Township,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Fayette,Dover Township,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Fayette,Fairfield-Putnam Township,Soil and Water Conservation District Commissioner,,Write-In,,5,2,3
+Fayette,Illyria Township,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Fayette,Jefferson-Scott Township,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Fayette,Oelwein Ward 1,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Fayette,Oelwein Ward 2,Soil and Water Conservation District Commissioner,,Write-In,,4,0,4
+Fayette,Oelwein Ward 3,Soil and Water Conservation District Commissioner,,Write-In,,11,2,9
+Fayette,Oelwein Ward 4,Soil and Water Conservation District Commissioner,,Write-In,,8,1,7
+Fayette,Oran Township,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Fayette,Pleasant Valley Township,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Fayette,Smithfield-Westfield Town,Soil and Water Conservation District Commissioner,,Write-In,,8,3,5
+Fayette,Union Township,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Fayette,West Union Ward 1,Soil and Water Conservation District Commissioner,,Write-In,,5,5,0
+Fayette,West Union Ward 2,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Fayette,West Union Ward 3,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Fayette,Auburn-Eden Township,State House,63,Michael R. Bergan,REP,480,132,348
+Fayette,Clermont Township,State House,63,Michael R. Bergan,REP,376,126,250
+Fayette,Dover Township,State House,63,Michael R. Bergan,REP,269,104,165
+Fayette,Auburn-Eden Township,State House,63,Write-In,,13,5,8
+Fayette,Clermont Township,State House,63,Write-In,,16,11,5
+Fayette,Dover Township,State House,63,Write-In,,13,6,7
+Fayette,Banks-Fremont Township,State House,68,Chad Ingels,REP,372,80,292
+Fayette,Bethel-Windsor Township,State House,68,Chad Ingels,REP,377,91,286
+Fayette,Center-Harlan Township,State House,68,Chad Ingels,REP,425,110,315
+Fayette,Fairfield-Putnam Township,State House,68,Chad Ingels,REP,377,77,300
+Fayette,Illyria Township,State House,68,Chad Ingels,REP,203,39,164
+Fayette,Jefferson-Scott Township,State House,68,Chad Ingels,REP,319,100,219
+Fayette,Oelwein Ward 1,State House,68,Chad Ingels,REP,388,79,309
+Fayette,Oelwein Ward 2,State House,68,Chad Ingels,REP,295,38,257
+Fayette,Oelwein Ward 3,State House,68,Chad Ingels,REP,298,44,254
+Fayette,Oelwein Ward 4,State House,68,Chad Ingels,REP,437,125,312
+Fayette,Oran Township,State House,68,Chad Ingels,REP,343,52,291
+Fayette,Pleasant Valley Township,State House,68,Chad Ingels,REP,335,111,224
+Fayette,Smithfield-Westfield Town,State House,68,Chad Ingels,REP,481,165,316
+Fayette,Union Township,State House,68,Chad Ingels,REP,182,64,118
+Fayette,West Union Ward 1,State House,68,Chad Ingels,REP,263,127,136
+Fayette,West Union Ward 2,State House,68,Chad Ingels,REP,216,85,131
+Fayette,West Union Ward 3,State House,68,Chad Ingels,REP,261,121,140
+Fayette,Banks-Fremont Township,State House,68,Tim O'Brien,DEM,92,31,61
+Fayette,Bethel-Windsor Township,State House,68,Tim O'Brien,DEM,136,54,82
+Fayette,Center-Harlan Township,State House,68,Tim O'Brien,DEM,152,42,110
+Fayette,Fairfield-Putnam Township,State House,68,Tim O'Brien,DEM,119,35,84
+Fayette,Illyria Township,State House,68,Tim O'Brien,DEM,77,25,52
+Fayette,Jefferson-Scott Township,State House,68,Tim O'Brien,DEM,113,54,59
+Fayette,Oelwein Ward 1,State House,68,Tim O'Brien,DEM,253,87,166
+Fayette,Oelwein Ward 2,State House,68,Tim O'Brien,DEM,201,61,140
+Fayette,Oelwein Ward 3,State House,68,Tim O'Brien,DEM,210,68,142
+Fayette,Oelwein Ward 4,State House,68,Tim O'Brien,DEM,307,143,164
+Fayette,Oran Township,State House,68,Tim O'Brien,DEM,155,69,86
+Fayette,Pleasant Valley Township,State House,68,Tim O'Brien,DEM,149,67,82
+Fayette,Smithfield-Westfield Town,State House,68,Tim O'Brien,DEM,271,104,167
+Fayette,Union Township,State House,68,Tim O'Brien,DEM,51,23,28
+Fayette,West Union Ward 1,State House,68,Tim O'Brien,DEM,149,93,56
+Fayette,West Union Ward 2,State House,68,Tim O'Brien,DEM,97,61,36
+Fayette,West Union Ward 3,State House,68,Tim O'Brien,DEM,132,62,70
+Fayette,Banks-Fremont Township,State House,68,Write-In,,0,0,0
+Fayette,Bethel-Windsor Township,State House,68,Write-In,,0,0,0
+Fayette,Center-Harlan Township,State House,68,Write-In,,0,0,0
+Fayette,Fairfield-Putnam Township,State House,68,Write-In,,1,0,1
+Fayette,Illyria Township,State House,68,Write-In,,0,0,0
+Fayette,Jefferson-Scott Township,State House,68,Write-In,,0,0,0
+Fayette,Oelwein Ward 1,State House,68,Write-In,,0,0,0
+Fayette,Oelwein Ward 2,State House,68,Write-In,,1,1,0
+Fayette,Oelwein Ward 3,State House,68,Write-In,,2,0,2
+Fayette,Oelwein Ward 4,State House,68,Write-In,,1,1,0
+Fayette,Oran Township,State House,68,Write-In,,0,0,0
+Fayette,Pleasant Valley Township,State House,68,Write-In,,0,0,0
+Fayette,Smithfield-Westfield Town,State House,68,Write-In,,1,0,1
+Fayette,Union Township,State House,68,Write-In,,1,0,1
+Fayette,West Union Ward 1,State House,68,Write-In,,1,1,0
+Fayette,West Union Ward 2,State House,68,Write-In,,1,0,1
+Fayette,West Union Ward 3,State House,68,Write-In,,0,0,0
+Fayette,Auburn-Eden Township,State Senate,32,Brian Bruening,DEM,145,62,83
+Fayette,Clermont Township,State Senate,32,Brian Bruening,DEM,117,60,57
+Fayette,Dover Township,State Senate,32,Brian Bruening,DEM,55,32,23
+Fayette,Auburn-Eden Township,State Senate,32,Mike Klimesh,REP,430,114,316
+Fayette,Clermont Township,State Senate,32,Mike Klimesh,REP,335,106,229
+Fayette,Dover Township,State Senate,32,Mike Klimesh,REP,255,93,162
+Fayette,Auburn-Eden Township,State Senate,32,Write-In,,0,0,0
+Fayette,Clermont Township,State Senate,32,Write-In,,0,0,0
+Fayette,Dover Township,State Senate,32,Write-In,,0,0,0
+Fayette,Banks-Fremont Township,State Senate,34,Dan Zumbach,REP,357,75,282
+Fayette,Bethel-Windsor Township,State Senate,34,Dan Zumbach,REP,366,94,272
+Fayette,Center-Harlan Township,State Senate,34,Dan Zumbach,REP,394,101,293
+Fayette,Fairfield-Putnam Township,State Senate,34,Dan Zumbach,REP,367,74,293
+Fayette,Illyria Township,State Senate,34,Dan Zumbach,REP,190,39,151
+Fayette,Jefferson-Scott Township,State Senate,34,Dan Zumbach,REP,296,88,208
+Fayette,Oelwein Ward 1,State Senate,34,Dan Zumbach,REP,340,69,271
+Fayette,Oelwein Ward 2,State Senate,34,Dan Zumbach,REP,261,34,227
+Fayette,Oelwein Ward 3,State Senate,34,Dan Zumbach,REP,259,38,221
+Fayette,Oelwein Ward 4,State Senate,34,Dan Zumbach,REP,390,116,274
+Fayette,Oran Township,State Senate,34,Dan Zumbach,REP,327,45,282
+Fayette,Pleasant Valley Township,State Senate,34,Dan Zumbach,REP,326,114,212
+Fayette,Smithfield-Westfield Town,State Senate,34,Dan Zumbach,REP,476,164,312
+Fayette,Union Township,State Senate,34,Dan Zumbach,REP,174,61,113
+Fayette,West Union Ward 1,State Senate,34,Dan Zumbach,REP,248,116,132
+Fayette,West Union Ward 2,State Senate,34,Dan Zumbach,REP,212,82,130
+Fayette,West Union Ward 3,State Senate,34,Dan Zumbach,REP,256,118,138
+Fayette,Banks-Fremont Township,State Senate,34,Joe Hegland,DEM,103,34,69
+Fayette,Bethel-Windsor Township,State Senate,34,Joe Hegland,DEM,144,52,92
+Fayette,Center-Harlan Township,State Senate,34,Joe Hegland,DEM,179,49,130
+Fayette,Fairfield-Putnam Township,State Senate,34,Joe Hegland,DEM,131,39,92
+Fayette,Illyria Township,State Senate,34,Joe Hegland,DEM,87,24,63
+Fayette,Jefferson-Scott Township,State Senate,34,Joe Hegland,DEM,136,64,72
+Fayette,Oelwein Ward 1,State Senate,34,Joe Hegland,DEM,293,98,195
+Fayette,Oelwein Ward 2,State Senate,34,Joe Hegland,DEM,234,68,166
+Fayette,Oelwein Ward 3,State Senate,34,Joe Hegland,DEM,241,73,168
+Fayette,Oelwein Ward 4,State Senate,34,Joe Hegland,DEM,349,150,199
+Fayette,Oran Township,State Senate,34,Joe Hegland,DEM,168,76,92
+Fayette,Pleasant Valley Township,State Senate,34,Joe Hegland,DEM,154,64,90
+Fayette,Smithfield-Westfield Town,State Senate,34,Joe Hegland,DEM,261,98,163
+Fayette,Union Township,State Senate,34,Joe Hegland,DEM,60,26,34
+Fayette,West Union Ward 1,State Senate,34,Joe Hegland,DEM,158,100,58
+Fayette,West Union Ward 2,State Senate,34,Joe Hegland,DEM,99,62,37
+Fayette,West Union Ward 3,State Senate,34,Joe Hegland,DEM,131,61,70
+Fayette,Banks-Fremont Township,State Senate,34,Write-In,,1,0,1
+Fayette,Bethel-Windsor Township,State Senate,34,Write-In,,0,0,0
+Fayette,Center-Harlan Township,State Senate,34,Write-In,,0,0,0
+Fayette,Fairfield-Putnam Township,State Senate,34,Write-In,,1,0,1
+Fayette,Illyria Township,State Senate,34,Write-In,,0,0,0
+Fayette,Jefferson-Scott Township,State Senate,34,Write-In,,0,0,0
+Fayette,Oelwein Ward 1,State Senate,34,Write-In,,0,0,0
+Fayette,Oelwein Ward 2,State Senate,34,Write-In,,1,0,1
+Fayette,Oelwein Ward 3,State Senate,34,Write-In,,2,0,2
+Fayette,Oelwein Ward 4,State Senate,34,Write-In,,0,0,0
+Fayette,Oran Township,State Senate,34,Write-In,,0,0,0
+Fayette,Pleasant Valley Township,State Senate,34,Write-In,,0,0,0
+Fayette,Smithfield-Westfield Town,State Senate,34,Write-In,,1,0,1
+Fayette,Union Township,State Senate,34,Write-In,,0,0,0
+Fayette,West Union Ward 1,State Senate,34,Write-In,,0,0,0
+Fayette,West Union Ward 2,State Senate,34,Write-In,,0,0,0
+Fayette,West Union Ward 3,State Senate,34,Write-In,,1,1,0
+Fayette,Auburn-Eden Township,Supreme Court Justice - David May,,No,,156,48,108
+Fayette,Banks-Fremont Township,Supreme Court Justice - David May,,No,,124,28,96
+Fayette,Bethel-Windsor Township,Supreme Court Justice - David May,,No,,113,35,78
+Fayette,Center-Harlan Township,Supreme Court Justice - David May,,No,,141,34,107
+Fayette,Clermont Township,Supreme Court Justice - David May,,No,,97,33,64
+Fayette,Dover Township,Supreme Court Justice - David May,,No,,73,28,45
+Fayette,Fairfield-Putnam Township,Supreme Court Justice - David May,,No,,115,26,89
+Fayette,Illyria Township,Supreme Court Justice - David May,,No,,100,23,77
+Fayette,Jefferson-Scott Township,Supreme Court Justice - David May,,No,,112,37,75
+Fayette,Oelwein Ward 1,Supreme Court Justice - David May,,No,,205,60,145
+Fayette,Oelwein Ward 2,Supreme Court Justice - David May,,No,,144,28,116
+Fayette,Oelwein Ward 3,Supreme Court Justice - David May,,No,,170,38,132
+Fayette,Oelwein Ward 4,Supreme Court Justice - David May,,No,,236,92,144
+Fayette,Oran Township,Supreme Court Justice - David May,,No,,142,51,91
+Fayette,Pleasant Valley Township,Supreme Court Justice - David May,,No,,118,50,68
+Fayette,Smithfield-Westfield Town,Supreme Court Justice - David May,,No,,169,73,96
+Fayette,Union Township,Supreme Court Justice - David May,,No,,64,25,39
+Fayette,West Union Ward 1,Supreme Court Justice - David May,,No,,101,58,43
+Fayette,West Union Ward 2,Supreme Court Justice - David May,,No,,80,35,45
+Fayette,West Union Ward 3,Supreme Court Justice - David May,,No,,92,42,50
+Fayette,Auburn-Eden Township,Supreme Court Justice - David May,,Yes,,283,72,211
+Fayette,Banks-Fremont Township,Supreme Court Justice - David May,,Yes,,248,54,194
+Fayette,Bethel-Windsor Township,Supreme Court Justice - David May,,Yes,,266,67,199
+Fayette,Center-Harlan Township,Supreme Court Justice - David May,,Yes,,306,72,234
+Fayette,Clermont Township,Supreme Court Justice - David May,,Yes,,250,85,165
+Fayette,Dover Township,Supreme Court Justice - David May,,Yes,,153,50,103
+Fayette,Fairfield-Putnam Township,Supreme Court Justice - David May,,Yes,,276,54,222
+Fayette,Illyria Township,Supreme Court Justice - David May,,Yes,,117,28,89
+Fayette,Jefferson-Scott Township,Supreme Court Justice - David May,,Yes,,193,64,129
+Fayette,Oelwein Ward 1,Supreme Court Justice - David May,,Yes,,310,76,234
+Fayette,Oelwein Ward 2,Supreme Court Justice - David May,,Yes,,269,47,222
+Fayette,Oelwein Ward 3,Supreme Court Justice - David May,,Yes,,235,42,193
+Fayette,Oelwein Ward 4,Supreme Court Justice - David May,,Yes,,346,106,240
+Fayette,Oran Township,Supreme Court Justice - David May,,Yes,,268,40,228
+Fayette,Pleasant Valley Township,Supreme Court Justice - David May,,Yes,,234,76,158
+Fayette,Smithfield-Westfield Town,Supreme Court Justice - David May,,Yes,,381,113,268
+Fayette,Union Township,Supreme Court Justice - David May,,Yes,,110,32,78
+Fayette,West Union Ward 1,Supreme Court Justice - David May,,Yes,,215,108,107
+Fayette,West Union Ward 2,Supreme Court Justice - David May,,Yes,,162,60,102
+Fayette,West Union Ward 3,Supreme Court Justice - David May,,Yes,,204,77,127
+Fayette,Auburn-Eden Township,U.S. House,2,Ashley Hinson,REP,436,118,318
+Fayette,Banks-Fremont Township,U.S. House,2,Ashley Hinson,REP,368,78,290
+Fayette,Bethel-Windsor Township,U.S. House,2,Ashley Hinson,REP,391,89,302
+Fayette,Center-Harlan Township,U.S. House,2,Ashley Hinson,REP,417,104,313
+Fayette,Clermont Township,U.S. House,2,Ashley Hinson,REP,334,104,230
+Fayette,Dover Township,U.S. House,2,Ashley Hinson,REP,259,95,164
+Fayette,Fairfield-Putnam Township,U.S. House,2,Ashley Hinson,REP,365,74,291
+Fayette,Illyria Township,U.S. House,2,Ashley Hinson,REP,197,37,160
+Fayette,Jefferson-Scott Township,U.S. House,2,Ashley Hinson,REP,292,88,204
+Fayette,Oelwein Ward 1,U.S. House,2,Ashley Hinson,REP,360,71,289
+Fayette,Oelwein Ward 2,U.S. House,2,Ashley Hinson,REP,275,38,237
+Fayette,Oelwein Ward 3,U.S. House,2,Ashley Hinson,REP,274,44,230
+Fayette,Oelwein Ward 4,U.S. House,2,Ashley Hinson,REP,412,125,287
+Fayette,Oran Township,U.S. House,2,Ashley Hinson,REP,336,49,287
+Fayette,Pleasant Valley Township,U.S. House,2,Ashley Hinson,REP,334,112,222
+Fayette,Smithfield-Westfield Town,U.S. House,2,Ashley Hinson,REP,494,167,327
+Fayette,Union Township,U.S. House,2,Ashley Hinson,REP,183,65,118
+Fayette,West Union Ward 1,U.S. House,2,Ashley Hinson,REP,265,129,136
+Fayette,West Union Ward 2,U.S. House,2,Ashley Hinson,REP,219,85,134
+Fayette,West Union Ward 3,U.S. House,2,Ashley Hinson,REP,260,123,137
+Fayette,Auburn-Eden Township,U.S. House,2,Jody Madlom Puffett,,7,2,5
+Fayette,Banks-Fremont Township,U.S. House,2,Jody Madlom Puffett,,4,1,3
+Fayette,Bethel-Windsor Township,U.S. House,2,Jody Madlom Puffett,,3,1,2
+Fayette,Center-Harlan Township,U.S. House,2,Jody Madlom Puffett,,5,0,5
+Fayette,Clermont Township,U.S. House,2,Jody Madlom Puffett,,5,1,4
+Fayette,Dover Township,U.S. House,2,Jody Madlom Puffett,,4,2,2
+Fayette,Fairfield-Putnam Township,U.S. House,2,Jody Madlom Puffett,,8,0,8
+Fayette,Illyria Township,U.S. House,2,Jody Madlom Puffett,,3,2,1
+Fayette,Jefferson-Scott Township,U.S. House,2,Jody Madlom Puffett,,8,2,6
+Fayette,Oelwein Ward 1,U.S. House,2,Jody Madlom Puffett,,15,4,11
+Fayette,Oelwein Ward 2,U.S. House,2,Jody Madlom Puffett,,9,0,9
+Fayette,Oelwein Ward 3,U.S. House,2,Jody Madlom Puffett,,14,2,12
+Fayette,Oelwein Ward 4,U.S. House,2,Jody Madlom Puffett,,11,3,8
+Fayette,Oran Township,U.S. House,2,Jody Madlom Puffett,,4,1,3
+Fayette,Pleasant Valley Township,U.S. House,2,Jody Madlom Puffett,,5,1,4
+Fayette,Smithfield-Westfield Town,U.S. House,2,Jody Madlom Puffett,,11,3,8
+Fayette,Union Township,U.S. House,2,Jody Madlom Puffett,,4,0,4
+Fayette,West Union Ward 1,U.S. House,2,Jody Madlom Puffett,,2,1,1
+Fayette,West Union Ward 2,U.S. House,2,Jody Madlom Puffett,,6,3,3
+Fayette,West Union Ward 3,U.S. House,2,Jody Madlom Puffett,,3,1,2
+Fayette,Auburn-Eden Township,U.S. House,2,Sarah Corkery,DEM,143,65,78
+Fayette,Banks-Fremont Township,U.S. House,2,Sarah Corkery,DEM,96,33,63
+Fayette,Bethel-Windsor Township,U.S. House,2,Sarah Corkery,DEM,128,55,73
+Fayette,Center-Harlan Township,U.S. House,2,Sarah Corkery,DEM,165,49,116
+Fayette,Clermont Township,U.S. House,2,Sarah Corkery,DEM,116,60,56
+Fayette,Dover Township,U.S. House,2,Sarah Corkery,DEM,52,29,23
+Fayette,Fairfield-Putnam Township,U.S. House,2,Sarah Corkery,DEM,127,41,86
+Fayette,Illyria Township,U.S. House,2,Sarah Corkery,DEM,85,27,58
+Fayette,Jefferson-Scott Township,U.S. House,2,Sarah Corkery,DEM,136,64,72
+Fayette,Oelwein Ward 1,U.S. House,2,Sarah Corkery,DEM,267,92,175
+Fayette,Oelwein Ward 2,U.S. House,2,Sarah Corkery,DEM,221,64,157
+Fayette,Oelwein Ward 3,U.S. House,2,Sarah Corkery,DEM,222,68,154
+Fayette,Oelwein Ward 4,U.S. House,2,Sarah Corkery,DEM,324,140,184
+Fayette,Oran Township,U.S. House,2,Sarah Corkery,DEM,164,70,94
+Fayette,Pleasant Valley Township,U.S. House,2,Sarah Corkery,DEM,146,67,79
+Fayette,Smithfield-Westfield Town,U.S. House,2,Sarah Corkery,DEM,248,102,146
+Fayette,Union Township,U.S. House,2,Sarah Corkery,DEM,52,25,27
+Fayette,West Union Ward 1,U.S. House,2,Sarah Corkery,DEM,150,93,57
+Fayette,West Union Ward 2,U.S. House,2,Sarah Corkery,DEM,97,63,34
+Fayette,West Union Ward 3,U.S. House,2,Sarah Corkery,DEM,131,62,69
+Fayette,Auburn-Eden Township,U.S. House,2,Write-In,,1,0,1
+Fayette,Banks-Fremont Township,U.S. House,2,Write-In,,0,0,0
+Fayette,Bethel-Windsor Township,U.S. House,2,Write-In,,0,0,0
+Fayette,Center-Harlan Township,U.S. House,2,Write-In,,0,0,0
+Fayette,Clermont Township,U.S. House,2,Write-In,,0,0,0
+Fayette,Dover Township,U.S. House,2,Write-In,,0,0,0
+Fayette,Fairfield-Putnam Township,U.S. House,2,Write-In,,1,0,1
+Fayette,Illyria Township,U.S. House,2,Write-In,,0,0,0
+Fayette,Jefferson-Scott Township,U.S. House,2,Write-In,,0,0,0
+Fayette,Oelwein Ward 1,U.S. House,2,Write-In,,0,0,0
+Fayette,Oelwein Ward 2,U.S. House,2,Write-In,,0,0,0
+Fayette,Oelwein Ward 3,U.S. House,2,Write-In,,2,0,2
+Fayette,Oelwein Ward 4,U.S. House,2,Write-In,,0,0,0
+Fayette,Oran Township,U.S. House,2,Write-In,,0,0,0
+Fayette,Pleasant Valley Township,U.S. House,2,Write-In,,0,0,0
+Fayette,Smithfield-Westfield Town,U.S. House,2,Write-In,,2,0,2
+Fayette,Union Township,U.S. House,2,Write-In,,0,0,0
+Fayette,West Union Ward 1,U.S. House,2,Write-In,,0,0,0
+Fayette,West Union Ward 2,U.S. House,2,Write-In,,0,0,0
+Fayette,West Union Ward 3,U.S. House,2,Write-In,,0,0,0
+Fayette,Union Township,Union Township Trustee,,Paul C. Spies,,192,64,128
+Fayette,Union Township,Union Township Trustee,,Write-In,,2,1,1
+Fayette,Smithfield-Westfield Town,Westfield Township Trustee,,Paul Skrade,,2,1,1
+Fayette,Smithfield-Westfield Town,Westfield Township Trustee,,Write-In,,6,2,4
+Fayette,Bethel-Windsor Township,Windsor Township Trustee,,Dwane Koch,,140,45,95
+Fayette,Bethel-Windsor Township,Windsor Township Trustee,,Write-In,,1,0,1

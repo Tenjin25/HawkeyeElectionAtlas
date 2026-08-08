@@ -1,0 +1,723 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Delaware,Adams/Hazel Green,Constitutional Amendment 1,,No,,87,24,63
+Delaware,Colony,Constitutional Amendment 1,,No,,49,7,42
+Delaware,Delaware,Constitutional Amendment 1,,No,,96,36,60
+Delaware,Delhi/Delaware Corp,Constitutional Amendment 1,,No,,95,25,70
+Delaware,Honey Creek/Elk,Constitutional Amendment 1,,No,,127,26,101
+Delaware,Manchester Ward 1,Constitutional Amendment 1,,No,,99,43,56
+Delaware,Manchester Ward 2,Constitutional Amendment 1,,No,,118,46,72
+Delaware,Manchester Ward 3,Constitutional Amendment 1,,No,,140,52,88
+Delaware,Milo/Prairie,Constitutional Amendment 1,,No,,157,70,87
+Delaware,Oneida/N Fork/Bremen,Constitutional Amendment 1,,No,,195,57,138
+Delaware,Richland/Coffins Grove,Constitutional Amendment 1,,No,,97,36,61
+Delaware,South Fork/Union,Constitutional Amendment 1,,No,,111,27,84
+Delaware,Adams/Hazel Green,Constitutional Amendment 1,,Yes,,451,112,339
+Delaware,Colony,Constitutional Amendment 1,,Yes,,334,64,270
+Delaware,Delaware,Constitutional Amendment 1,,Yes,,471,179,292
+Delaware,Delhi/Delaware Corp,Constitutional Amendment 1,,Yes,,512,151,361
+Delaware,Honey Creek/Elk,Constitutional Amendment 1,,Yes,,563,137,426
+Delaware,Manchester Ward 1,Constitutional Amendment 1,,Yes,,541,223,318
+Delaware,Manchester Ward 2,Constitutional Amendment 1,,Yes,,703,318,385
+Delaware,Manchester Ward 3,Constitutional Amendment 1,,Yes,,716,243,473
+Delaware,Milo/Prairie,Constitutional Amendment 1,,Yes,,869,340,529
+Delaware,Oneida/N Fork/Bremen,Constitutional Amendment 1,,Yes,,1194,379,815
+Delaware,Richland/Coffins Grove,Constitutional Amendment 1,,Yes,,489,159,330
+Delaware,South Fork/Union,Constitutional Amendment 1,,Yes,,530,110,420
+Delaware,Adams/Hazel Green,Constitutional Amendment 2,,No,,64,18,46
+Delaware,Colony,Constitutional Amendment 2,,No,,44,7,37
+Delaware,Delaware,Constitutional Amendment 2,,No,,78,26,52
+Delaware,Delhi/Delaware Corp,Constitutional Amendment 2,,No,,71,24,47
+Delaware,Honey Creek/Elk,Constitutional Amendment 2,,No,,89,16,73
+Delaware,Manchester Ward 1,Constitutional Amendment 2,,No,,85,31,54
+Delaware,Manchester Ward 2,Constitutional Amendment 2,,No,,93,37,56
+Delaware,Manchester Ward 3,Constitutional Amendment 2,,No,,114,49,65
+Delaware,Milo/Prairie,Constitutional Amendment 2,,No,,131,63,68
+Delaware,Oneida/N Fork/Bremen,Constitutional Amendment 2,,No,,139,46,93
+Delaware,Richland/Coffins Grove,Constitutional Amendment 2,,No,,96,34,62
+Delaware,South Fork/Union,Constitutional Amendment 2,,No,,91,27,64
+Delaware,Adams/Hazel Green,Constitutional Amendment 2,,Yes,,476,117,359
+Delaware,Colony,Constitutional Amendment 2,,Yes,,337,64,273
+Delaware,Delaware,Constitutional Amendment 2,,Yes,,483,184,299
+Delaware,Delhi/Delaware Corp,Constitutional Amendment 2,,Yes,,531,153,378
+Delaware,Honey Creek/Elk,Constitutional Amendment 2,,Yes,,598,147,451
+Delaware,Manchester Ward 1,Constitutional Amendment 2,,Yes,,547,234,313
+Delaware,Manchester Ward 2,Constitutional Amendment 2,,Yes,,721,324,397
+Delaware,Manchester Ward 3,Constitutional Amendment 2,,Yes,,736,241,495
+Delaware,Milo/Prairie,Constitutional Amendment 2,,Yes,,889,345,544
+Delaware,Oneida/N Fork/Bremen,Constitutional Amendment 2,,Yes,,1245,384,861
+Delaware,Richland/Coffins Grove,Constitutional Amendment 2,,Yes,,476,157,319
+Delaware,South Fork/Union,Constitutional Amendment 2,,Yes,,546,110,436
+Delaware,Adams/Hazel Green,County Agricultural Extension Council Member,,Jamie Helmrichs,,398,106,292
+Delaware,Colony,County Agricultural Extension Council Member,,Jamie Helmrichs,,276,48,228
+Delaware,Delaware,County Agricultural Extension Council Member,,Jamie Helmrichs,,383,156,227
+Delaware,Delhi/Delaware Corp,County Agricultural Extension Council Member,,Jamie Helmrichs,,391,105,286
+Delaware,Honey Creek/Elk,County Agricultural Extension Council Member,,Jamie Helmrichs,,478,113,365
+Delaware,Manchester Ward 1,County Agricultural Extension Council Member,,Jamie Helmrichs,,391,176,215
+Delaware,Manchester Ward 2,County Agricultural Extension Council Member,,Jamie Helmrichs,,567,244,323
+Delaware,Manchester Ward 3,County Agricultural Extension Council Member,,Jamie Helmrichs,,577,171,406
+Delaware,Milo/Prairie,County Agricultural Extension Council Member,,Jamie Helmrichs,,729,277,452
+Delaware,Oneida/N Fork/Bremen,County Agricultural Extension Council Member,,Jamie Helmrichs,,952,270,682
+Delaware,Richland/Coffins Grove,County Agricultural Extension Council Member,,Jamie Helmrichs,,405,130,275
+Delaware,South Fork/Union,County Agricultural Extension Council Member,,Jamie Helmrichs,,416,81,335
+Delaware,Adams/Hazel Green,County Agricultural Extension Council Member,,Roger Helmrichs,,366,102,264
+Delaware,Colony,County Agricultural Extension Council Member,,Roger Helmrichs,,248,45,203
+Delaware,Delaware,County Agricultural Extension Council Member,,Roger Helmrichs,,386,165,221
+Delaware,Delhi/Delaware Corp,County Agricultural Extension Council Member,,Roger Helmrichs,,363,101,262
+Delaware,Honey Creek/Elk,County Agricultural Extension Council Member,,Roger Helmrichs,,471,119,352
+Delaware,Manchester Ward 1,County Agricultural Extension Council Member,,Roger Helmrichs,,382,177,205
+Delaware,Manchester Ward 2,County Agricultural Extension Council Member,,Roger Helmrichs,,563,243,320
+Delaware,Manchester Ward 3,County Agricultural Extension Council Member,,Roger Helmrichs,,550,181,369
+Delaware,Milo/Prairie,County Agricultural Extension Council Member,,Roger Helmrichs,,702,273,429
+Delaware,Oneida/N Fork/Bremen,County Agricultural Extension Council Member,,Roger Helmrichs,,904,266,638
+Delaware,Richland/Coffins Grove,County Agricultural Extension Council Member,,Roger Helmrichs,,422,129,293
+Delaware,South Fork/Union,County Agricultural Extension Council Member,,Roger Helmrichs,,366,80,286
+Delaware,Adams/Hazel Green,County Agricultural Extension Council Member,,Tammy Eibey,,381,105,276
+Delaware,Colony,County Agricultural Extension Council Member,,Tammy Eibey,,258,47,211
+Delaware,Delaware,County Agricultural Extension Council Member,,Tammy Eibey,,381,156,225
+Delaware,Delhi/Delaware Corp,County Agricultural Extension Council Member,,Tammy Eibey,,350,101,249
+Delaware,Honey Creek/Elk,County Agricultural Extension Council Member,,Tammy Eibey,,459,116,343
+Delaware,Manchester Ward 1,County Agricultural Extension Council Member,,Tammy Eibey,,358,169,189
+Delaware,Manchester Ward 2,County Agricultural Extension Council Member,,Tammy Eibey,,555,249,306
+Delaware,Manchester Ward 3,County Agricultural Extension Council Member,,Tammy Eibey,,547,182,365
+Delaware,Milo/Prairie,County Agricultural Extension Council Member,,Tammy Eibey,,728,289,439
+Delaware,Oneida/N Fork/Bremen,County Agricultural Extension Council Member,,Tammy Eibey,,899,256,643
+Delaware,Richland/Coffins Grove,County Agricultural Extension Council Member,,Tammy Eibey,,392,129,263
+Delaware,South Fork/Union,County Agricultural Extension Council Member,,Tammy Eibey,,358,80,278
+Delaware,Adams/Hazel Green,County Agricultural Extension Council Member,,Terry Gudenkauf,,449,115,334
+Delaware,Colony,County Agricultural Extension Council Member,,Terry Gudenkauf,,281,49,232
+Delaware,Delaware,County Agricultural Extension Council Member,,Terry Gudenkauf,,435,166,269
+Delaware,Delhi/Delaware Corp,County Agricultural Extension Council Member,,Terry Gudenkauf,,430,118,312
+Delaware,Honey Creek/Elk,County Agricultural Extension Council Member,,Terry Gudenkauf,,506,125,381
+Delaware,Manchester Ward 1,County Agricultural Extension Council Member,,Terry Gudenkauf,,404,183,221
+Delaware,Manchester Ward 2,County Agricultural Extension Council Member,,Terry Gudenkauf,,585,249,336
+Delaware,Manchester Ward 3,County Agricultural Extension Council Member,,Terry Gudenkauf,,602,191,411
+Delaware,Milo/Prairie,County Agricultural Extension Council Member,,Terry Gudenkauf,,824,311,513
+Delaware,Oneida/N Fork/Bremen,County Agricultural Extension Council Member,,Terry Gudenkauf,,998,279,719
+Delaware,Richland/Coffins Grove,County Agricultural Extension Council Member,,Terry Gudenkauf,,431,129,302
+Delaware,South Fork/Union,County Agricultural Extension Council Member,,Terry Gudenkauf,,442,95,347
+Delaware,Adams/Hazel Green,County Agricultural Extension Council Member,,Write-In,,4,1,3
+Delaware,Colony,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Delaware,Delaware,County Agricultural Extension Council Member,,Write-In,,4,1,3
+Delaware,Delhi/Delaware Corp,County Agricultural Extension Council Member,,Write-In,,9,0,9
+Delaware,Honey Creek/Elk,County Agricultural Extension Council Member,,Write-In,,4,0,4
+Delaware,Manchester Ward 1,County Agricultural Extension Council Member,,Write-In,,2,2,0
+Delaware,Manchester Ward 2,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Delaware,Manchester Ward 3,County Agricultural Extension Council Member,,Write-In,,6,4,2
+Delaware,Milo/Prairie,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Delaware,Oneida/N Fork/Bremen,County Agricultural Extension Council Member,,Write-In,,9,5,4
+Delaware,Richland/Coffins Grove,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Delaware,South Fork/Union,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Delaware,Adams/Hazel Green,County Auditor,,Carla K. Becker,REP,520,132,388
+Delaware,Colony,County Auditor,,Carla K. Becker,REP,381,66,315
+Delaware,Delaware,County Auditor,,Carla K. Becker,REP,556,222,334
+Delaware,Delhi/Delaware Corp,County Auditor,,Carla K. Becker,REP,585,161,424
+Delaware,Honey Creek/Elk,County Auditor,,Carla K. Becker,REP,705,185,520
+Delaware,Manchester Ward 1,County Auditor,,Carla K. Becker,REP,594,256,338
+Delaware,Manchester Ward 2,County Auditor,,Carla K. Becker,REP,786,350,436
+Delaware,Manchester Ward 3,County Auditor,,Carla K. Becker,REP,802,268,534
+Delaware,Milo/Prairie,County Auditor,,Carla K. Becker,REP,979,390,589
+Delaware,Oneida/N Fork/Bremen,County Auditor,,Carla K. Becker,REP,1397,441,956
+Delaware,Richland/Coffins Grove,County Auditor,,Carla K. Becker,REP,586,184,402
+Delaware,South Fork/Union,County Auditor,,Carla K. Becker,REP,618,128,490
+Delaware,Adams/Hazel Green,County Auditor,,Write-In,,3,0,3
+Delaware,Colony,County Auditor,,Write-In,,4,3,1
+Delaware,Delaware,County Auditor,,Write-In,,11,6,5
+Delaware,Delhi/Delaware Corp,County Auditor,,Write-In,,8,1,7
+Delaware,Honey Creek/Elk,County Auditor,,Write-In,,3,0,3
+Delaware,Manchester Ward 1,County Auditor,,Write-In,,11,3,8
+Delaware,Manchester Ward 2,County Auditor,,Write-In,,13,5,8
+Delaware,Manchester Ward 3,County Auditor,,Write-In,,4,1,3
+Delaware,Milo/Prairie,County Auditor,,Write-In,,12,2,10
+Delaware,Oneida/N Fork/Bremen,County Auditor,,Write-In,,9,2,7
+Delaware,Richland/Coffins Grove,County Auditor,,Write-In,,3,0,3
+Delaware,South Fork/Union,County Auditor,,Write-In,,3,0,3
+Delaware,Adams/Hazel Green,County Public Hospital Trustee,,Chris Tegeler,,399,110,289
+Delaware,Colony,County Public Hospital Trustee,,Chris Tegeler,,279,51,228
+Delaware,Delaware,County Public Hospital Trustee,,Chris Tegeler,,456,192,264
+Delaware,Delhi/Delaware Corp,County Public Hospital Trustee,,Chris Tegeler,,422,119,303
+Delaware,Honey Creek/Elk,County Public Hospital Trustee,,Chris Tegeler,,537,145,392
+Delaware,Manchester Ward 1,County Public Hospital Trustee,,Chris Tegeler,,433,202,231
+Delaware,Manchester Ward 2,County Public Hospital Trustee,,Chris Tegeler,,666,313,353
+Delaware,Manchester Ward 3,County Public Hospital Trustee,,Chris Tegeler,,639,228,411
+Delaware,Milo/Prairie,County Public Hospital Trustee,,Chris Tegeler,,820,324,496
+Delaware,Oneida/N Fork/Bremen,County Public Hospital Trustee,,Chris Tegeler,,973,277,696
+Delaware,Richland/Coffins Grove,County Public Hospital Trustee,,Chris Tegeler,,460,147,313
+Delaware,South Fork/Union,County Public Hospital Trustee,,Chris Tegeler,,394,84,310
+Delaware,Adams/Hazel Green,County Public Hospital Trustee,,Jane Sherman,,397,105,292
+Delaware,Colony,County Public Hospital Trustee,,Jane Sherman,,297,54,243
+Delaware,Delaware,County Public Hospital Trustee,,Jane Sherman,,403,159,244
+Delaware,Delhi/Delaware Corp,County Public Hospital Trustee,,Jane Sherman,,405,114,291
+Delaware,Honey Creek/Elk,County Public Hospital Trustee,,Jane Sherman,,550,135,415
+Delaware,Manchester Ward 1,County Public Hospital Trustee,,Jane Sherman,,400,185,215
+Delaware,Manchester Ward 2,County Public Hospital Trustee,,Jane Sherman,,596,264,332
+Delaware,Manchester Ward 3,County Public Hospital Trustee,,Jane Sherman,,622,210,412
+Delaware,Milo/Prairie,County Public Hospital Trustee,,Jane Sherman,,758,299,459
+Delaware,Oneida/N Fork/Bremen,County Public Hospital Trustee,,Jane Sherman,,967,276,691
+Delaware,Richland/Coffins Grove,County Public Hospital Trustee,,Jane Sherman,,411,131,280
+Delaware,South Fork/Union,County Public Hospital Trustee,,Jane Sherman,,418,93,325
+Delaware,Adams/Hazel Green,County Public Hospital Trustee,,Steve Palmer,,400,106,294
+Delaware,Colony,County Public Hospital Trustee,,Steve Palmer,,259,47,212
+Delaware,Delaware,County Public Hospital Trustee,,Steve Palmer,,461,185,276
+Delaware,Delhi/Delaware Corp,County Public Hospital Trustee,,Steve Palmer,,419,123,296
+Delaware,Honey Creek/Elk,County Public Hospital Trustee,,Steve Palmer,,494,129,365
+Delaware,Manchester Ward 1,County Public Hospital Trustee,,Steve Palmer,,442,198,244
+Delaware,Manchester Ward 2,County Public Hospital Trustee,,Steve Palmer,,658,288,370
+Delaware,Manchester Ward 3,County Public Hospital Trustee,,Steve Palmer,,695,237,458
+Delaware,Milo/Prairie,County Public Hospital Trustee,,Steve Palmer,,819,329,490
+Delaware,Oneida/N Fork/Bremen,County Public Hospital Trustee,,Steve Palmer,,932,274,658
+Delaware,Richland/Coffins Grove,County Public Hospital Trustee,,Steve Palmer,,459,139,320
+Delaware,South Fork/Union,County Public Hospital Trustee,,Steve Palmer,,409,88,321
+Delaware,Adams/Hazel Green,County Public Hospital Trustee,,Write-In,,5,0,5
+Delaware,Colony,County Public Hospital Trustee,,Write-In,,0,0,0
+Delaware,Delaware,County Public Hospital Trustee,,Write-In,,3,0,3
+Delaware,Delhi/Delaware Corp,County Public Hospital Trustee,,Write-In,,6,2,4
+Delaware,Honey Creek/Elk,County Public Hospital Trustee,,Write-In,,3,1,2
+Delaware,Manchester Ward 1,County Public Hospital Trustee,,Write-In,,2,1,1
+Delaware,Manchester Ward 2,County Public Hospital Trustee,,Write-In,,3,1,2
+Delaware,Manchester Ward 3,County Public Hospital Trustee,,Write-In,,6,3,3
+Delaware,Milo/Prairie,County Public Hospital Trustee,,Write-In,,9,0,9
+Delaware,Oneida/N Fork/Bremen,County Public Hospital Trustee,,Write-In,,2,0,2
+Delaware,Richland/Coffins Grove,County Public Hospital Trustee,,Write-In,,2,0,2
+Delaware,South Fork/Union,County Public Hospital Trustee,,Write-In,,2,0,2
+Delaware,Adams/Hazel Green,County Sheriff,,Travis Hemesath,REP,525,131,394
+Delaware,Colony,County Sheriff,,Travis Hemesath,REP,382,68,314
+Delaware,Delaware,County Sheriff,,Travis Hemesath,REP,577,224,353
+Delaware,Delhi/Delaware Corp,County Sheriff,,Travis Hemesath,REP,578,152,426
+Delaware,Honey Creek/Elk,County Sheriff,,Travis Hemesath,REP,732,191,541
+Delaware,Manchester Ward 1,County Sheriff,,Travis Hemesath,REP,608,253,355
+Delaware,Manchester Ward 2,County Sheriff,,Travis Hemesath,REP,796,348,448
+Delaware,Manchester Ward 3,County Sheriff,,Travis Hemesath,REP,802,258,544
+Delaware,Milo/Prairie,County Sheriff,,Travis Hemesath,REP,976,379,597
+Delaware,Oneida/N Fork/Bremen,County Sheriff,,Travis Hemesath,REP,1383,430,953
+Delaware,Richland/Coffins Grove,County Sheriff,,Travis Hemesath,REP,580,183,397
+Delaware,South Fork/Union,County Sheriff,,Travis Hemesath,REP,602,122,480
+Delaware,Adams/Hazel Green,County Sheriff,,Write-In,,4,0,4
+Delaware,Colony,County Sheriff,,Write-In,,0,0,0
+Delaware,Delaware,County Sheriff,,Write-In,,5,2,3
+Delaware,Delhi/Delaware Corp,County Sheriff,,Write-In,,12,1,11
+Delaware,Honey Creek/Elk,County Sheriff,,Write-In,,2,0,2
+Delaware,Manchester Ward 1,County Sheriff,,Write-In,,6,2,4
+Delaware,Manchester Ward 2,County Sheriff,,Write-In,,11,3,8
+Delaware,Manchester Ward 3,County Sheriff,,Write-In,,5,1,4
+Delaware,Milo/Prairie,County Sheriff,,Write-In,,11,2,9
+Delaware,Oneida/N Fork/Bremen,County Sheriff,,Write-In,,13,2,11
+Delaware,Richland/Coffins Grove,County Sheriff,,Write-In,,3,0,3
+Delaware,South Fork/Union,County Sheriff,,Write-In,,10,1,9
+Delaware,Adams/Hazel Green,County Supervisor,1,Jeff Madlom,REP,505,121,384
+Delaware,Colony,County Supervisor,1,Jeff Madlom,REP,364,61,303
+Delaware,Delaware,County Supervisor,1,Jeff Madlom,REP,547,209,338
+Delaware,Delhi/Delaware Corp,County Supervisor,1,Jeff Madlom,REP,570,148,422
+Delaware,Honey Creek/Elk,County Supervisor,1,Jeff Madlom,REP,685,186,499
+Delaware,Manchester Ward 1,County Supervisor,1,Jeff Madlom,REP,579,243,336
+Delaware,Manchester Ward 2,County Supervisor,1,Jeff Madlom,REP,756,319,437
+Delaware,Manchester Ward 3,County Supervisor,1,Jeff Madlom,REP,754,231,523
+Delaware,Milo/Prairie,County Supervisor,1,Jeff Madlom,REP,933,352,581
+Delaware,Oneida/N Fork/Bremen,County Supervisor,1,Jeff Madlom,REP,1336,407,929
+Delaware,Richland/Coffins Grove,County Supervisor,1,Jeff Madlom,REP,535,156,379
+Delaware,South Fork/Union,County Supervisor,1,Jeff Madlom,REP,583,119,464
+Delaware,Adams/Hazel Green,County Supervisor,1,Write-In,,4,1,3
+Delaware,Colony,County Supervisor,1,Write-In,,1,0,1
+Delaware,Delaware,County Supervisor,1,Write-In,,10,5,5
+Delaware,Delhi/Delaware Corp,County Supervisor,1,Write-In,,9,2,7
+Delaware,Honey Creek/Elk,County Supervisor,1,Write-In,,6,2,4
+Delaware,Manchester Ward 1,County Supervisor,1,Write-In,,8,2,6
+Delaware,Manchester Ward 2,County Supervisor,1,Write-In,,8,2,6
+Delaware,Manchester Ward 3,County Supervisor,1,Write-In,,9,5,4
+Delaware,Milo/Prairie,County Supervisor,1,Write-In,,8,0,8
+Delaware,Oneida/N Fork/Bremen,County Supervisor,1,Write-In,,7,2,5
+Delaware,Richland/Coffins Grove,County Supervisor,1,Write-In,,5,0,5
+Delaware,South Fork/Union,County Supervisor,1,Write-In,,4,0,4
+Delaware,Adams/Hazel Green,County Supervisor,2,Dan Wheeler,REP,511,123,388
+Delaware,Colony,County Supervisor,2,Dan Wheeler,REP,385,71,314
+Delaware,Delaware,County Supervisor,2,Dan Wheeler,REP,552,215,337
+Delaware,Delhi/Delaware Corp,County Supervisor,2,Dan Wheeler,REP,585,153,432
+Delaware,Honey Creek/Elk,County Supervisor,2,Dan Wheeler,REP,696,180,516
+Delaware,Manchester Ward 1,County Supervisor,2,Dan Wheeler,REP,566,229,337
+Delaware,Manchester Ward 2,County Supervisor,2,Dan Wheeler,REP,752,315,437
+Delaware,Manchester Ward 3,County Supervisor,2,Dan Wheeler,REP,761,232,529
+Delaware,Milo/Prairie,County Supervisor,2,Dan Wheeler,REP,960,366,594
+Delaware,Oneida/N Fork/Bremen,County Supervisor,2,Dan Wheeler,REP,1431,445,986
+Delaware,Richland/Coffins Grove,County Supervisor,2,Dan Wheeler,REP,553,159,394
+Delaware,South Fork/Union,County Supervisor,2,Dan Wheeler,REP,603,120,483
+Delaware,Adams/Hazel Green,County Supervisor,2,Write-In,,4,1,3
+Delaware,Colony,County Supervisor,2,Write-In,,0,0,0
+Delaware,Delaware,County Supervisor,2,Write-In,,4,1,3
+Delaware,Delhi/Delaware Corp,County Supervisor,2,Write-In,,4,2,2
+Delaware,Honey Creek/Elk,County Supervisor,2,Write-In,,4,0,4
+Delaware,Manchester Ward 1,County Supervisor,2,Write-In,,4,2,2
+Delaware,Manchester Ward 2,County Supervisor,2,Write-In,,5,2,3
+Delaware,Manchester Ward 3,County Supervisor,2,Write-In,,2,1,1
+Delaware,Milo/Prairie,County Supervisor,2,Write-In,,3,0,3
+Delaware,Oneida/N Fork/Bremen,County Supervisor,2,Write-In,,6,1,5
+Delaware,Richland/Coffins Grove,County Supervisor,2,Write-In,,2,0,2
+Delaware,South Fork/Union,County Supervisor,2,Write-In,,2,0,2
+Delaware,Adams/Hazel Green,County Treasurer To Fill a Vacancy,,Jenny Eschen,REP,514,131,383
+Delaware,Colony,County Treasurer To Fill a Vacancy,,Jenny Eschen,REP,376,68,308
+Delaware,Delaware,County Treasurer To Fill a Vacancy,,Jenny Eschen,REP,575,226,349
+Delaware,Delhi/Delaware Corp,County Treasurer To Fill a Vacancy,,Jenny Eschen,REP,577,154,423
+Delaware,Honey Creek/Elk,County Treasurer To Fill a Vacancy,,Jenny Eschen,REP,707,192,515
+Delaware,Manchester Ward 1,County Treasurer To Fill a Vacancy,,Jenny Eschen,REP,588,241,347
+Delaware,Manchester Ward 2,County Treasurer To Fill a Vacancy,,Jenny Eschen,REP,803,351,452
+Delaware,Manchester Ward 3,County Treasurer To Fill a Vacancy,,Jenny Eschen,REP,797,257,540
+Delaware,Milo/Prairie,County Treasurer To Fill a Vacancy,,Jenny Eschen,REP,977,379,598
+Delaware,Oneida/N Fork/Bremen,County Treasurer To Fill a Vacancy,,Jenny Eschen,REP,1374,424,950
+Delaware,Richland/Coffins Grove,County Treasurer To Fill a Vacancy,,Jenny Eschen,REP,593,188,405
+Delaware,South Fork/Union,County Treasurer To Fill a Vacancy,,Jenny Eschen,REP,586,112,474
+Delaware,Adams/Hazel Green,County Treasurer To Fill a Vacancy,,Write-In,,3,0,3
+Delaware,Colony,County Treasurer To Fill a Vacancy,,Write-In,,0,0,0
+Delaware,Delaware,County Treasurer To Fill a Vacancy,,Write-In,,4,1,3
+Delaware,Delhi/Delaware Corp,County Treasurer To Fill a Vacancy,,Write-In,,2,0,2
+Delaware,Honey Creek/Elk,County Treasurer To Fill a Vacancy,,Write-In,,2,0,2
+Delaware,Manchester Ward 1,County Treasurer To Fill a Vacancy,,Write-In,,4,2,2
+Delaware,Manchester Ward 2,County Treasurer To Fill a Vacancy,,Write-In,,2,1,1
+Delaware,Manchester Ward 3,County Treasurer To Fill a Vacancy,,Write-In,,6,2,4
+Delaware,Milo/Prairie,County Treasurer To Fill a Vacancy,,Write-In,,2,0,2
+Delaware,Oneida/N Fork/Bremen,County Treasurer To Fill a Vacancy,,Write-In,,6,1,5
+Delaware,Richland/Coffins Grove,County Treasurer To Fill a Vacancy,,Write-In,,2,0,2
+Delaware,South Fork/Union,County Treasurer To Fill a Vacancy,,Write-In,,3,0,3
+Delaware,Adams/Hazel Green,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,129,29,100
+Delaware,Colony,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,93,15,78
+Delaware,Delaware,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,108,43,65
+Delaware,Delhi/Delaware Corp,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,128,21,107
+Delaware,Honey Creek/Elk,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,148,21,127
+Delaware,Manchester Ward 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,140,52,88
+Delaware,Manchester Ward 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,145,65,80
+Delaware,Manchester Ward 3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,193,68,125
+Delaware,Milo/Prairie,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,240,100,140
+Delaware,Oneida/N Fork/Bremen,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,266,68,198
+Delaware,Richland/Coffins Grove,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,137,43,94
+Delaware,South Fork/Union,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,154,23,131
+Delaware,Adams/Hazel Green,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,323,73,250
+Delaware,Colony,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,233,40,193
+Delaware,Delaware,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,341,107,234
+Delaware,Delhi/Delaware Corp,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,358,96,262
+Delaware,Honey Creek/Elk,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,430,104,326
+Delaware,Manchester Ward 1,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,346,152,194
+Delaware,Manchester Ward 2,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,492,193,299
+Delaware,Manchester Ward 3,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,488,141,347
+Delaware,Milo/Prairie,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,594,202,392
+Delaware,Oneida/N Fork/Bremen,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,855,247,608
+Delaware,Richland/Coffins Grove,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,300,90,210
+Delaware,South Fork/Union,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,349,84,265
+Delaware,Adams/Hazel Green,Court of Appeals Judge - Mary Ellen Tabor,,No,,120,26,94
+Delaware,Colony,Court of Appeals Judge - Mary Ellen Tabor,,No,,93,16,77
+Delaware,Delaware,Court of Appeals Judge - Mary Ellen Tabor,,No,,113,43,70
+Delaware,Delhi/Delaware Corp,Court of Appeals Judge - Mary Ellen Tabor,,No,,125,25,100
+Delaware,Honey Creek/Elk,Court of Appeals Judge - Mary Ellen Tabor,,No,,156,30,126
+Delaware,Manchester Ward 1,Court of Appeals Judge - Mary Ellen Tabor,,No,,136,47,89
+Delaware,Manchester Ward 2,Court of Appeals Judge - Mary Ellen Tabor,,No,,129,55,74
+Delaware,Manchester Ward 3,Court of Appeals Judge - Mary Ellen Tabor,,No,,170,54,116
+Delaware,Milo/Prairie,Court of Appeals Judge - Mary Ellen Tabor,,No,,245,100,145
+Delaware,Oneida/N Fork/Bremen,Court of Appeals Judge - Mary Ellen Tabor,,No,,250,67,183
+Delaware,Richland/Coffins Grove,Court of Appeals Judge - Mary Ellen Tabor,,No,,140,41,99
+Delaware,South Fork/Union,Court of Appeals Judge - Mary Ellen Tabor,,No,,141,23,118
+Delaware,Adams/Hazel Green,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,341,80,261
+Delaware,Colony,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,240,41,199
+Delaware,Delaware,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,349,113,236
+Delaware,Delhi/Delaware Corp,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,376,96,280
+Delaware,Honey Creek/Elk,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,436,101,335
+Delaware,Manchester Ward 1,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,364,161,203
+Delaware,Manchester Ward 2,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,524,210,314
+Delaware,Manchester Ward 3,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,527,161,366
+Delaware,Milo/Prairie,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,605,217,388
+Delaware,Oneida/N Fork/Bremen,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,892,254,638
+Delaware,Richland/Coffins Grove,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,318,100,218
+Delaware,South Fork/Union,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,377,88,289
+Delaware,Adams/Hazel Green,Court of Appeals Judge - Samuel Langholz,,No,,136,34,102
+Delaware,Colony,Court of Appeals Judge - Samuel Langholz,,No,,90,14,76
+Delaware,Delaware,Court of Appeals Judge - Samuel Langholz,,No,,114,45,69
+Delaware,Delhi/Delaware Corp,Court of Appeals Judge - Samuel Langholz,,No,,124,27,97
+Delaware,Honey Creek/Elk,Court of Appeals Judge - Samuel Langholz,,No,,151,25,126
+Delaware,Manchester Ward 1,Court of Appeals Judge - Samuel Langholz,,No,,150,59,91
+Delaware,Manchester Ward 2,Court of Appeals Judge - Samuel Langholz,,No,,154,67,87
+Delaware,Manchester Ward 3,Court of Appeals Judge - Samuel Langholz,,No,,195,73,122
+Delaware,Milo/Prairie,Court of Appeals Judge - Samuel Langholz,,No,,236,106,130
+Delaware,Oneida/N Fork/Bremen,Court of Appeals Judge - Samuel Langholz,,No,,274,82,192
+Delaware,Richland/Coffins Grove,Court of Appeals Judge - Samuel Langholz,,No,,137,46,91
+Delaware,South Fork/Union,Court of Appeals Judge - Samuel Langholz,,No,,165,32,133
+Delaware,Adams/Hazel Green,Court of Appeals Judge - Samuel Langholz,,Yes,,304,64,240
+Delaware,Colony,Court of Appeals Judge - Samuel Langholz,,Yes,,231,41,190
+Delaware,Delaware,Court of Appeals Judge - Samuel Langholz,,Yes,,330,101,229
+Delaware,Delhi/Delaware Corp,Court of Appeals Judge - Samuel Langholz,,Yes,,363,96,267
+Delaware,Honey Creek/Elk,Court of Appeals Judge - Samuel Langholz,,Yes,,422,97,325
+Delaware,Manchester Ward 1,Court of Appeals Judge - Samuel Langholz,,Yes,,325,137,188
+Delaware,Manchester Ward 2,Court of Appeals Judge - Samuel Langholz,,Yes,,473,187,286
+Delaware,Manchester Ward 3,Court of Appeals Judge - Samuel Langholz,,Yes,,488,137,351
+Delaware,Milo/Prairie,Court of Appeals Judge - Samuel Langholz,,Yes,,592,197,395
+Delaware,Oneida/N Fork/Bremen,Court of Appeals Judge - Samuel Langholz,,Yes,,843,234,609
+Delaware,Richland/Coffins Grove,Court of Appeals Judge - Samuel Langholz,,Yes,,297,86,211
+Delaware,South Fork/Union,Court of Appeals Judge - Samuel Langholz,,Yes,,325,71,254
+Delaware,Adams/Hazel Green,Court of Appeals Judge - Tyler J. Buller,,No,,122,29,93
+Delaware,Colony,Court of Appeals Judge - Tyler J. Buller,,No,,90,15,75
+Delaware,Delaware,Court of Appeals Judge - Tyler J. Buller,,No,,110,38,72
+Delaware,Delhi/Delaware Corp,Court of Appeals Judge - Tyler J. Buller,,No,,110,20,90
+Delaware,Honey Creek/Elk,Court of Appeals Judge - Tyler J. Buller,,No,,147,26,121
+Delaware,Manchester Ward 1,Court of Appeals Judge - Tyler J. Buller,,No,,144,53,91
+Delaware,Manchester Ward 2,Court of Appeals Judge - Tyler J. Buller,,No,,149,62,87
+Delaware,Manchester Ward 3,Court of Appeals Judge - Tyler J. Buller,,No,,196,70,126
+Delaware,Milo/Prairie,Court of Appeals Judge - Tyler J. Buller,,No,,235,107,128
+Delaware,Oneida/N Fork/Bremen,Court of Appeals Judge - Tyler J. Buller,,No,,252,72,180
+Delaware,Richland/Coffins Grove,Court of Appeals Judge - Tyler J. Buller,,No,,132,41,91
+Delaware,South Fork/Union,Court of Appeals Judge - Tyler J. Buller,,No,,159,25,134
+Delaware,Adams/Hazel Green,Court of Appeals Judge - Tyler J. Buller,,Yes,,318,70,248
+Delaware,Colony,Court of Appeals Judge - Tyler J. Buller,,Yes,,222,37,185
+Delaware,Delaware,Court of Appeals Judge - Tyler J. Buller,,Yes,,332,107,225
+Delaware,Delhi/Delaware Corp,Court of Appeals Judge - Tyler J. Buller,,Yes,,375,98,277
+Delaware,Honey Creek/Elk,Court of Appeals Judge - Tyler J. Buller,,Yes,,416,94,322
+Delaware,Manchester Ward 1,Court of Appeals Judge - Tyler J. Buller,,Yes,,329,145,184
+Delaware,Manchester Ward 2,Court of Appeals Judge - Tyler J. Buller,,Yes,,481,192,289
+Delaware,Manchester Ward 3,Court of Appeals Judge - Tyler J. Buller,,Yes,,476,131,345
+Delaware,Milo/Prairie,Court of Appeals Judge - Tyler J. Buller,,Yes,,587,197,390
+Delaware,Oneida/N Fork/Bremen,Court of Appeals Judge - Tyler J. Buller,,Yes,,854,239,615
+Delaware,Richland/Coffins Grove,Court of Appeals Judge - Tyler J. Buller,,Yes,,297,89,208
+Delaware,South Fork/Union,Court of Appeals Judge - Tyler J. Buller,,Yes,,333,79,254
+Delaware,Adams/Hazel Green,District 1A Associate Judge - Robert James Richter,,No,,107,23,84
+Delaware,Colony,District 1A Associate Judge - Robert James Richter,,No,,73,11,62
+Delaware,Delaware,District 1A Associate Judge - Robert James Richter,,No,,98,37,61
+Delaware,Delhi/Delaware Corp,District 1A Associate Judge - Robert James Richter,,No,,104,19,85
+Delaware,Honey Creek/Elk,District 1A Associate Judge - Robert James Richter,,No,,123,20,103
+Delaware,Manchester Ward 1,District 1A Associate Judge - Robert James Richter,,No,,121,40,81
+Delaware,Manchester Ward 2,District 1A Associate Judge - Robert James Richter,,No,,109,48,61
+Delaware,Manchester Ward 3,District 1A Associate Judge - Robert James Richter,,No,,154,49,105
+Delaware,Milo/Prairie,District 1A Associate Judge - Robert James Richter,,No,,213,94,119
+Delaware,Oneida/N Fork/Bremen,District 1A Associate Judge - Robert James Richter,,No,,208,64,144
+Delaware,Richland/Coffins Grove,District 1A Associate Judge - Robert James Richter,,No,,118,38,80
+Delaware,South Fork/Union,District 1A Associate Judge - Robert James Richter,,No,,129,24,105
+Delaware,Adams/Hazel Green,District 1A Associate Judge - Robert James Richter,,Yes,,341,78,263
+Delaware,Colony,District 1A Associate Judge - Robert James Richter,,Yes,,254,40,214
+Delaware,Delaware,District 1A Associate Judge - Robert James Richter,,Yes,,363,115,248
+Delaware,Delhi/Delaware Corp,District 1A Associate Judge - Robert James Richter,,Yes,,393,102,291
+Delaware,Honey Creek/Elk,District 1A Associate Judge - Robert James Richter,,Yes,,464,104,360
+Delaware,Manchester Ward 1,District 1A Associate Judge - Robert James Richter,,Yes,,375,169,206
+Delaware,Manchester Ward 2,District 1A Associate Judge - Robert James Richter,,Yes,,537,215,322
+Delaware,Manchester Ward 3,District 1A Associate Judge - Robert James Richter,,Yes,,535,163,372
+Delaware,Milo/Prairie,District 1A Associate Judge - Robert James Richter,,Yes,,618,210,408
+Delaware,Oneida/N Fork/Bremen,District 1A Associate Judge - Robert James Richter,,Yes,,935,259,676
+Delaware,Richland/Coffins Grove,District 1A Associate Judge - Robert James Richter,,Yes,,325,97,228
+Delaware,South Fork/Union,District 1A Associate Judge - Robert James Richter,,Yes,,382,83,299
+Delaware,Adams/Hazel Green,District 1A Judge - Monica Ackley,,No,,128,28,100
+Delaware,Colony,District 1A Judge - Monica Ackley,,No,,84,15,69
+Delaware,Delaware,District 1A Judge - Monica Ackley,,No,,114,46,68
+Delaware,Delhi/Delaware Corp,District 1A Judge - Monica Ackley,,No,,129,25,104
+Delaware,Honey Creek/Elk,District 1A Judge - Monica Ackley,,No,,140,30,110
+Delaware,Manchester Ward 1,District 1A Judge - Monica Ackley,,No,,137,51,86
+Delaware,Manchester Ward 2,District 1A Judge - Monica Ackley,,No,,140,56,84
+Delaware,Manchester Ward 3,District 1A Judge - Monica Ackley,,No,,163,57,106
+Delaware,Milo/Prairie,District 1A Judge - Monica Ackley,,No,,244,105,139
+Delaware,Oneida/N Fork/Bremen,District 1A Judge - Monica Ackley,,No,,249,76,173
+Delaware,Richland/Coffins Grove,District 1A Judge - Monica Ackley,,No,,128,43,85
+Delaware,South Fork/Union,District 1A Judge - Monica Ackley,,No,,136,19,117
+Delaware,Adams/Hazel Green,District 1A Judge - Monica Ackley,,Yes,,324,75,249
+Delaware,Colony,District 1A Judge - Monica Ackley,,Yes,,247,37,210
+Delaware,Delaware,District 1A Judge - Monica Ackley,,Yes,,343,104,239
+Delaware,Delhi/Delaware Corp,District 1A Judge - Monica Ackley,,Yes,,374,97,277
+Delaware,Honey Creek/Elk,District 1A Judge - Monica Ackley,,Yes,,449,96,353
+Delaware,Manchester Ward 1,District 1A Judge - Monica Ackley,,Yes,,366,163,203
+Delaware,Manchester Ward 2,District 1A Judge - Monica Ackley,,Yes,,515,208,307
+Delaware,Manchester Ward 3,District 1A Judge - Monica Ackley,,Yes,,536,161,375
+Delaware,Milo/Prairie,District 1A Judge - Monica Ackley,,Yes,,598,204,394
+Delaware,Oneida/N Fork/Bremen,District 1A Judge - Monica Ackley,,Yes,,915,256,659
+Delaware,Richland/Coffins Grove,District 1A Judge - Monica Ackley,,Yes,,327,94,233
+Delaware,South Fork/Union,District 1A Judge - Monica Ackley,,Yes,,387,88,299
+Delaware,Adams/Hazel Green,District 1A Judge - Thomas A. Bitter,,No,,131,25,106
+Delaware,Colony,District 1A Judge - Thomas A. Bitter,,No,,91,10,81
+Delaware,Delaware,District 1A Judge - Thomas A. Bitter,,No,,129,37,92
+Delaware,Delhi/Delaware Corp,District 1A Judge - Thomas A. Bitter,,No,,134,19,115
+Delaware,Honey Creek/Elk,District 1A Judge - Thomas A. Bitter,,No,,161,23,138
+Delaware,Manchester Ward 1,District 1A Judge - Thomas A. Bitter,,No,,148,44,104
+Delaware,Manchester Ward 2,District 1A Judge - Thomas A. Bitter,,No,,155,53,102
+Delaware,Manchester Ward 3,District 1A Judge - Thomas A. Bitter,,No,,203,52,151
+Delaware,Milo/Prairie,District 1A Judge - Thomas A. Bitter,,No,,248,97,151
+Delaware,Oneida/N Fork/Bremen,District 1A Judge - Thomas A. Bitter,,No,,265,61,204
+Delaware,Richland/Coffins Grove,District 1A Judge - Thomas A. Bitter,,No,,132,38,94
+Delaware,South Fork/Union,District 1A Judge - Thomas A. Bitter,,No,,161,23,138
+Delaware,Adams/Hazel Green,District 1A Judge - Thomas A. Bitter,,Yes,,314,75,239
+Delaware,Colony,District 1A Judge - Thomas A. Bitter,,Yes,,236,40,196
+Delaware,Delaware,District 1A Judge - Thomas A. Bitter,,Yes,,324,111,213
+Delaware,Delhi/Delaware Corp,District 1A Judge - Thomas A. Bitter,,Yes,,356,103,253
+Delaware,Honey Creek/Elk,District 1A Judge - Thomas A. Bitter,,Yes,,429,105,324
+Delaware,Manchester Ward 1,District 1A Judge - Thomas A. Bitter,,Yes,,344,161,183
+Delaware,Manchester Ward 2,District 1A Judge - Thomas A. Bitter,,Yes,,484,202,282
+Delaware,Manchester Ward 3,District 1A Judge - Thomas A. Bitter,,Yes,,484,157,327
+Delaware,Milo/Prairie,District 1A Judge - Thomas A. Bitter,,Yes,,585,209,376
+Delaware,Oneida/N Fork/Bremen,District 1A Judge - Thomas A. Bitter,,Yes,,902,272,630
+Delaware,Richland/Coffins Grove,District 1A Judge - Thomas A. Bitter,,Yes,,308,98,210
+Delaware,South Fork/Union,District 1A Judge - Thomas A. Bitter,,Yes,,351,82,269
+Delaware,South Fork/Union,Monticello School - Public Measure MD,,No,,30,5,25
+Delaware,South Fork/Union,Monticello School - Public Measure MD,,Yes,,31,9,22
+Delaware,Adams/Hazel Green,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Delaware,Colony,President,,Chase Oliver and Mike ter Maat,LIB,4,1,3
+Delaware,Delaware,President,,Chase Oliver and Mike ter Maat,LIB,2,1,1
+Delaware,Delhi/Delaware Corp,President,,Chase Oliver and Mike ter Maat,LIB,1,0,1
+Delaware,Honey Creek/Elk,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Delaware,Manchester Ward 1,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Delaware,Manchester Ward 2,President,,Chase Oliver and Mike ter Maat,LIB,5,0,5
+Delaware,Manchester Ward 3,President,,Chase Oliver and Mike ter Maat,LIB,12,1,11
+Delaware,Milo/Prairie,President,,Chase Oliver and Mike ter Maat,LIB,8,6,2
+Delaware,Oneida/N Fork/Bremen,President,,Chase Oliver and Mike ter Maat,LIB,5,2,3
+Delaware,Richland/Coffins Grove,President,,Chase Oliver and Mike ter Maat,LIB,3,1,2
+Delaware,South Fork/Union,President,,Chase Oliver and Mike ter Maat,LIB,6,4,2
+Delaware,Adams/Hazel Green,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Delaware,Colony,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Delaware,Delaware,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Delaware,Delhi/Delaware Corp,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Delaware,Honey Creek/Elk,President,,Claudia De la Cruz and Karina Garcia,PSL,1,1,0
+Delaware,Manchester Ward 1,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Delaware,Manchester Ward 2,President,,Claudia De la Cruz and Karina Garcia,PSL,1,1,0
+Delaware,Manchester Ward 3,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Delaware,Milo/Prairie,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Delaware,Oneida/N Fork/Bremen,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Delaware,Richland/Coffins Grove,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Delaware,South Fork/Union,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Delaware,Adams/Hazel Green,President,,Donald J. Trump and JD Vance,REP,415,95,320
+Delaware,Colony,President,,Donald J. Trump and JD Vance,REP,333,58,275
+Delaware,Delaware,President,,Donald J. Trump and JD Vance,REP,482,191,291
+Delaware,Delhi/Delaware Corp,President,,Donald J. Trump and JD Vance,REP,505,138,367
+Delaware,Honey Creek/Elk,President,,Donald J. Trump and JD Vance,REP,627,161,466
+Delaware,Manchester Ward 1,President,,Donald J. Trump and JD Vance,REP,463,170,293
+Delaware,Manchester Ward 2,President,,Donald J. Trump and JD Vance,REP,567,242,325
+Delaware,Manchester Ward 3,President,,Donald J. Trump and JD Vance,REP,579,174,405
+Delaware,Milo/Prairie,President,,Donald J. Trump and JD Vance,REP,802,296,506
+Delaware,Oneida/N Fork/Bremen,President,,Donald J. Trump and JD Vance,REP,1246,390,856
+Delaware,Richland/Coffins Grove,President,,Donald J. Trump and JD Vance,REP,477,143,334
+Delaware,South Fork/Union,President,,Donald J. Trump and JD Vance,REP,488,83,405
+Delaware,Adams/Hazel Green,President,,Kamala D. Harris and Tim Walz,DEM,172,58,114
+Delaware,Colony,President,,Kamala D. Harris and Tim Walz,DEM,90,20,70
+Delaware,Delaware,President,,Kamala D. Harris and Tim Walz,DEM,164,83,81
+Delaware,Delhi/Delaware Corp,President,,Kamala D. Harris and Tim Walz,DEM,182,67,115
+Delaware,Honey Creek/Elk,President,,Kamala D. Harris and Tim Walz,DEM,176,49,127
+Delaware,Manchester Ward 1,President,,Kamala D. Harris and Tim Walz,DEM,319,171,148
+Delaware,Manchester Ward 2,President,,Kamala D. Harris and Tim Walz,DEM,358,191,167
+Delaware,Manchester Ward 3,President,,Kamala D. Harris and Tim Walz,DEM,401,179,222
+Delaware,Milo/Prairie,President,,Kamala D. Harris and Tim Walz,DEM,321,168,153
+Delaware,Oneida/N Fork/Bremen,President,,Kamala D. Harris and Tim Walz,DEM,335,140,195
+Delaware,Richland/Coffins Grove,President,,Kamala D. Harris and Tim Walz,DEM,218,90,128
+Delaware,South Fork/Union,President,,Kamala D. Harris and Tim Walz,DEM,242,85,157
+Delaware,Adams/Hazel Green,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,11,5,6
+Delaware,Colony,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,3,2,1
+Delaware,Delaware,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,3,1,2
+Delaware,Delhi/Delaware Corp,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,7,5,2
+Delaware,Honey Creek/Elk,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,13,7,6
+Delaware,Manchester Ward 1,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,2,2
+Delaware,Manchester Ward 2,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,6,4
+Delaware,Manchester Ward 3,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,0,4
+Delaware,Milo/Prairie,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,4,6
+Delaware,Oneida/N Fork/Bremen,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,11,2,9
+Delaware,Richland/Coffins Grove,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,1,4
+Delaware,South Fork/Union,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,10,1,9
+Delaware,Adams/Hazel Green,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Delaware,Colony,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Delaware,Delaware,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Delaware,Delhi/Delaware Corp,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Delaware,Honey Creek/Elk,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Delaware,Manchester Ward 1,President,,Shiva Ayyadurai and Crystal Ellis,,1,0,1
+Delaware,Manchester Ward 2,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Delaware,Manchester Ward 3,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Delaware,Milo/Prairie,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Delaware,Oneida/N Fork/Bremen,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Delaware,Richland/Coffins Grove,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Delaware,South Fork/Union,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Delaware,Adams/Hazel Green,President,,William P. Stodden and Stephanie H. Cholensky,SPU,1,0,1
+Delaware,Colony,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Delaware,Delaware,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Delaware,Delhi/Delaware Corp,President,,William P. Stodden and Stephanie H. Cholensky,SPU,1,0,1
+Delaware,Honey Creek/Elk,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Delaware,Manchester Ward 1,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Delaware,Manchester Ward 2,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Delaware,Manchester Ward 3,President,,William P. Stodden and Stephanie H. Cholensky,SPU,1,0,1
+Delaware,Milo/Prairie,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Delaware,Oneida/N Fork/Bremen,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Delaware,Richland/Coffins Grove,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Delaware,South Fork/Union,President,,William P. Stodden and Stephanie H. Cholensky,SPU,0,0,0
+Delaware,Adams/Hazel Green,President,,Write-In,,2,1,1
+Delaware,Colony,President,,Write-In,,1,0,1
+Delaware,Delaware,President,,Write-In,,3,0,3
+Delaware,Delhi/Delaware Corp,President,,Write-In,,0,0,0
+Delaware,Honey Creek/Elk,President,,Write-In,,2,2,0
+Delaware,Manchester Ward 1,President,,Write-In,,2,1,1
+Delaware,Manchester Ward 2,President,,Write-In,,1,0,1
+Delaware,Manchester Ward 3,President,,Write-In,,3,2,1
+Delaware,Milo/Prairie,President,,Write-In,,4,1,3
+Delaware,Oneida/N Fork/Bremen,President,,Write-In,,6,5,1
+Delaware,Richland/Coffins Grove,President,,Write-In,,2,1,1
+Delaware,South Fork/Union,President,,Write-In,,0,0,0
+Delaware,Adams/Hazel Green,Soil and Water Conservation District Commissioner,,Chris Eibey,,415,109,306
+Delaware,Colony,Soil and Water Conservation District Commissioner,,Chris Eibey,,253,47,206
+Delaware,Delaware,Soil and Water Conservation District Commissioner,,Chris Eibey,,416,166,250
+Delaware,Delhi/Delaware Corp,Soil and Water Conservation District Commissioner,,Chris Eibey,,367,106,261
+Delaware,Honey Creek/Elk,Soil and Water Conservation District Commissioner,,Chris Eibey,,484,129,355
+Delaware,Manchester Ward 1,Soil and Water Conservation District Commissioner,,Chris Eibey,,378,176,202
+Delaware,Manchester Ward 2,Soil and Water Conservation District Commissioner,,Chris Eibey,,591,267,324
+Delaware,Manchester Ward 3,Soil and Water Conservation District Commissioner,,Chris Eibey,,590,195,395
+Delaware,Milo/Prairie,Soil and Water Conservation District Commissioner,,Chris Eibey,,784,309,475
+Delaware,Oneida/N Fork/Bremen,Soil and Water Conservation District Commissioner,,Chris Eibey,,880,260,620
+Delaware,Richland/Coffins Grove,Soil and Water Conservation District Commissioner,,Chris Eibey,,418,126,292
+Delaware,South Fork/Union,Soil and Water Conservation District Commissioner,,Chris Eibey,,357,85,272
+Delaware,Adams/Hazel Green,Soil and Water Conservation District Commissioner,,David J. Guthrie,,380,99,281
+Delaware,Colony,Soil and Water Conservation District Commissioner,,David J. Guthrie,,276,47,229
+Delaware,Delaware,Soil and Water Conservation District Commissioner,,David J. Guthrie,,364,133,231
+Delaware,Delhi/Delaware Corp,Soil and Water Conservation District Commissioner,,David J. Guthrie,,435,125,310
+Delaware,Honey Creek/Elk,Soil and Water Conservation District Commissioner,,David J. Guthrie,,453,105,348
+Delaware,Manchester Ward 1,Soil and Water Conservation District Commissioner,,David J. Guthrie,,362,168,194
+Delaware,Manchester Ward 2,Soil and Water Conservation District Commissioner,,David J. Guthrie,,540,233,307
+Delaware,Manchester Ward 3,Soil and Water Conservation District Commissioner,,David J. Guthrie,,528,175,353
+Delaware,Milo/Prairie,Soil and Water Conservation District Commissioner,,David J. Guthrie,,715,277,438
+Delaware,Oneida/N Fork/Bremen,Soil and Water Conservation District Commissioner,,David J. Guthrie,,957,280,677
+Delaware,Richland/Coffins Grove,Soil and Water Conservation District Commissioner,,David J. Guthrie,,373,111,262
+Delaware,South Fork/Union,Soil and Water Conservation District Commissioner,,David J. Guthrie,,536,108,428
+Delaware,Adams/Hazel Green,Soil and Water Conservation District Commissioner,,Joe Hoeger,,385,103,282
+Delaware,Colony,Soil and Water Conservation District Commissioner,,Joe Hoeger,,295,51,244
+Delaware,Delaware,Soil and Water Conservation District Commissioner,,Joe Hoeger,,401,152,249
+Delaware,Delhi/Delaware Corp,Soil and Water Conservation District Commissioner,,Joe Hoeger,,426,111,315
+Delaware,Honey Creek/Elk,Soil and Water Conservation District Commissioner,,Joe Hoeger,,519,128,391
+Delaware,Manchester Ward 1,Soil and Water Conservation District Commissioner,,Joe Hoeger,,409,187,222
+Delaware,Manchester Ward 2,Soil and Water Conservation District Commissioner,,Joe Hoeger,,587,248,339
+Delaware,Manchester Ward 3,Soil and Water Conservation District Commissioner,,Joe Hoeger,,602,194,408
+Delaware,Milo/Prairie,Soil and Water Conservation District Commissioner,,Joe Hoeger,,737,283,454
+Delaware,Oneida/N Fork/Bremen,Soil and Water Conservation District Commissioner,,Joe Hoeger,,1041,293,748
+Delaware,Richland/Coffins Grove,Soil and Water Conservation District Commissioner,,Joe Hoeger,,393,117,276
+Delaware,South Fork/Union,Soil and Water Conservation District Commissioner,,Joe Hoeger,,405,95,310
+Delaware,Adams/Hazel Green,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Delaware,Colony,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Delaware,Delaware,Soil and Water Conservation District Commissioner,,Write-In,,5,1,4
+Delaware,Delhi/Delaware Corp,Soil and Water Conservation District Commissioner,,Write-In,,5,1,4
+Delaware,Honey Creek/Elk,Soil and Water Conservation District Commissioner,,Write-In,,8,2,6
+Delaware,Manchester Ward 1,Soil and Water Conservation District Commissioner,,Write-In,,3,3,0
+Delaware,Manchester Ward 2,Soil and Water Conservation District Commissioner,,Write-In,,4,2,2
+Delaware,Manchester Ward 3,Soil and Water Conservation District Commissioner,,Write-In,,5,2,3
+Delaware,Milo/Prairie,Soil and Water Conservation District Commissioner,,Write-In,,6,1,5
+Delaware,Oneida/N Fork/Bremen,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
+Delaware,Richland/Coffins Grove,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Delaware,South Fork/Union,Soil and Water Conservation District Commissioner,,Write-In,,4,0,4
+Delaware,Adams/Hazel Green,State House,67,Craig Johnson,REP,492,118,374
+Delaware,Colony,State House,67,Craig Johnson,REP,368,61,307
+Delaware,Delaware,State House,67,Craig Johnson,REP,524,201,323
+Delaware,Delhi/Delaware Corp,State House,67,Craig Johnson,REP,569,148,421
+Delaware,Honey Creek/Elk,State House,67,Craig Johnson,REP,680,175,505
+Delaware,Manchester Ward 1,State House,67,Craig Johnson,REP,547,219,328
+Delaware,Manchester Ward 2,State House,67,Craig Johnson,REP,711,298,413
+Delaware,Manchester Ward 3,State House,67,Craig Johnson,REP,730,229,501
+Delaware,Milo/Prairie,State House,67,Craig Johnson,REP,930,352,578
+Delaware,Oneida/N Fork/Bremen,State House,67,Craig Johnson,REP,1368,426,942
+Delaware,Richland/Coffins Grove,State House,67,Craig Johnson,REP,530,149,381
+Delaware,South Fork/Union,State House,67,Craig Johnson,REP,596,116,480
+Delaware,Adams/Hazel Green,State House,67,Write-In,,3,2,1
+Delaware,Colony,State House,67,Write-In,,0,0,0
+Delaware,Delaware,State House,67,Write-In,,6,1,5
+Delaware,Delhi/Delaware Corp,State House,67,Write-In,,4,1,3
+Delaware,Honey Creek/Elk,State House,67,Write-In,,4,0,4
+Delaware,Manchester Ward 1,State House,67,Write-In,,7,3,4
+Delaware,Manchester Ward 2,State House,67,Write-In,,9,3,6
+Delaware,Manchester Ward 3,State House,67,Write-In,,6,3,3
+Delaware,Milo/Prairie,State House,67,Write-In,,4,1,3
+Delaware,Oneida/N Fork/Bremen,State House,67,Write-In,,8,3,5
+Delaware,Richland/Coffins Grove,State House,67,Write-In,,5,1,4
+Delaware,South Fork/Union,State House,67,Write-In,,4,1,3
+Delaware,Adams/Hazel Green,State Senate,34,Dan Zumbach,REP,422,104,318
+Delaware,Colony,State Senate,34,Dan Zumbach,REP,335,62,273
+Delaware,Delaware,State Senate,34,Dan Zumbach,REP,441,175,266
+Delaware,Delhi/Delaware Corp,State Senate,34,Dan Zumbach,REP,511,131,380
+Delaware,Honey Creek/Elk,State Senate,34,Dan Zumbach,REP,601,164,437
+Delaware,Manchester Ward 1,State Senate,34,Dan Zumbach,REP,441,180,261
+Delaware,Manchester Ward 2,State Senate,34,Dan Zumbach,REP,544,248,296
+Delaware,Manchester Ward 3,State Senate,34,Dan Zumbach,REP,555,177,378
+Delaware,Milo/Prairie,State Senate,34,Dan Zumbach,REP,794,300,494
+Delaware,Oneida/N Fork/Bremen,State Senate,34,Dan Zumbach,REP,1274,401,873
+Delaware,Richland/Coffins Grove,State Senate,34,Dan Zumbach,REP,462,144,318
+Delaware,South Fork/Union,State Senate,34,Dan Zumbach,REP,528,99,429
+Delaware,Adams/Hazel Green,State Senate,34,Joe Hegland,DEM,174,52,122
+Delaware,Colony,State Senate,34,Joe Hegland,DEM,85,18,67
+Delaware,Delaware,State Senate,34,Joe Hegland,DEM,203,95,108
+Delaware,Delhi/Delaware Corp,State Senate,34,Joe Hegland,DEM,167,73,94
+Delaware,Honey Creek/Elk,State Senate,34,Joe Hegland,DEM,197,50,147
+Delaware,Manchester Ward 1,State Senate,34,Joe Hegland,DEM,331,152,179
+Delaware,Manchester Ward 2,State Senate,34,Joe Hegland,DEM,387,188,199
+Delaware,Manchester Ward 3,State Senate,34,Joe Hegland,DEM,423,167,256
+Delaware,Milo/Prairie,State Senate,34,Joe Hegland,DEM,335,170,165
+Delaware,Oneida/N Fork/Bremen,State Senate,34,Joe Hegland,DEM,288,115,173
+Delaware,Richland/Coffins Grove,State Senate,34,Joe Hegland,DEM,229,87,142
+Delaware,South Fork/Union,State Senate,34,Joe Hegland,DEM,201,67,134
+Delaware,Adams/Hazel Green,State Senate,34,Write-In,,0,0,0
+Delaware,Colony,State Senate,34,Write-In,,0,0,0
+Delaware,Delaware,State Senate,34,Write-In,,1,0,1
+Delaware,Delhi/Delaware Corp,State Senate,34,Write-In,,1,0,1
+Delaware,Honey Creek/Elk,State Senate,34,Write-In,,1,0,1
+Delaware,Manchester Ward 1,State Senate,34,Write-In,,1,1,0
+Delaware,Manchester Ward 2,State Senate,34,Write-In,,0,0,0
+Delaware,Manchester Ward 3,State Senate,34,Write-In,,1,0,1
+Delaware,Milo/Prairie,State Senate,34,Write-In,,0,0,0
+Delaware,Oneida/N Fork/Bremen,State Senate,34,Write-In,,1,0,1
+Delaware,Richland/Coffins Grove,State Senate,34,Write-In,,2,1,1
+Delaware,South Fork/Union,State Senate,34,Write-In,,0,0,0
+Delaware,Adams/Hazel Green,Supreme Court Justice - David May,,No,,145,38,107
+Delaware,Colony,Supreme Court Justice - David May,,No,,91,13,78
+Delaware,Delaware,Supreme Court Justice - David May,,No,,109,50,59
+Delaware,Delhi/Delaware Corp,Supreme Court Justice - David May,,No,,146,36,110
+Delaware,Honey Creek/Elk,Supreme Court Justice - David May,,No,,158,28,130
+Delaware,Manchester Ward 1,Supreme Court Justice - David May,,No,,151,58,93
+Delaware,Manchester Ward 2,Supreme Court Justice - David May,,No,,189,82,107
+Delaware,Manchester Ward 3,Supreme Court Justice - David May,,No,,218,90,128
+Delaware,Milo/Prairie,Supreme Court Justice - David May,,No,,259,124,135
+Delaware,Oneida/N Fork/Bremen,Supreme Court Justice - David May,,No,,276,92,184
+Delaware,Richland/Coffins Grove,Supreme Court Justice - David May,,No,,148,54,94
+Delaware,South Fork/Union,Supreme Court Justice - David May,,No,,180,39,141
+Delaware,Adams/Hazel Green,Supreme Court Justice - David May,,Yes,,333,71,262
+Delaware,Colony,Supreme Court Justice - David May,,Yes,,251,45,206
+Delaware,Delaware,Supreme Court Justice - David May,,Yes,,369,115,254
+Delaware,Delhi/Delaware Corp,Supreme Court Justice - David May,,Yes,,380,96,284
+Delaware,Honey Creek/Elk,Supreme Court Justice - David May,,Yes,,459,109,350
+Delaware,Manchester Ward 1,Supreme Court Justice - David May,,Yes,,375,162,213
+Delaware,Manchester Ward 2,Supreme Court Justice - David May,,Yes,,502,203,299
+Delaware,Manchester Ward 3,Supreme Court Justice - David May,,Yes,,523,151,372
+Delaware,Milo/Prairie,Supreme Court Justice - David May,,Yes,,641,219,422
+Delaware,Oneida/N Fork/Bremen,Supreme Court Justice - David May,,Yes,,926,251,675
+Delaware,Richland/Coffins Grove,Supreme Court Justice - David May,,Yes,,349,103,246
+Delaware,South Fork/Union,Supreme Court Justice - David May,,Yes,,366,74,292
+Delaware,Adams/Hazel Green,U.S. House,2,Ashley Hinson,REP,420,103,317
+Delaware,Colony,U.S. House,2,Ashley Hinson,REP,339,62,277
+Delaware,Delaware,U.S. House,2,Ashley Hinson,REP,468,185,283
+Delaware,Delhi/Delaware Corp,U.S. House,2,Ashley Hinson,REP,517,138,379
+Delaware,Honey Creek/Elk,U.S. House,2,Ashley Hinson,REP,618,164,454
+Delaware,Manchester Ward 1,U.S. House,2,Ashley Hinson,REP,444,178,266
+Delaware,Manchester Ward 2,U.S. House,2,Ashley Hinson,REP,587,251,336
+Delaware,Manchester Ward 3,U.S. House,2,Ashley Hinson,REP,607,182,425
+Delaware,Milo/Prairie,U.S. House,2,Ashley Hinson,REP,801,305,496
+Delaware,Oneida/N Fork/Bremen,U.S. House,2,Ashley Hinson,REP,1274,403,871
+Delaware,Richland/Coffins Grove,U.S. House,2,Ashley Hinson,REP,475,146,329
+Delaware,South Fork/Union,U.S. House,2,Ashley Hinson,REP,494,90,404
+Delaware,Adams/Hazel Green,U.S. House,2,Jody Madlom Puffett,,36,5,31
+Delaware,Colony,U.S. House,2,Jody Madlom Puffett,,10,0,10
+Delaware,Delaware,U.S. House,2,Jody Madlom Puffett,,48,23,25
+Delaware,Delhi/Delaware Corp,U.S. House,2,Jody Madlom Puffett,,19,4,15
+Delaware,Honey Creek/Elk,U.S. House,2,Jody Madlom Puffett,,30,12,18
+Delaware,Manchester Ward 1,U.S. House,2,Jody Madlom Puffett,,44,15,29
+Delaware,Manchester Ward 2,U.S. House,2,Jody Madlom Puffett,,42,22,20
+Delaware,Manchester Ward 3,U.S. House,2,Jody Madlom Puffett,,50,15,35
+Delaware,Milo/Prairie,U.S. House,2,Jody Madlom Puffett,,42,12,30
+Delaware,Oneida/N Fork/Bremen,U.S. House,2,Jody Madlom Puffett,,20,5,15
+Delaware,Richland/Coffins Grove,U.S. House,2,Jody Madlom Puffett,,36,9,27
+Delaware,South Fork/Union,U.S. House,2,Jody Madlom Puffett,,16,5,11
+Delaware,Adams/Hazel Green,U.S. House,2,Sarah Corkery,DEM,143,51,92
+Delaware,Colony,U.S. House,2,Sarah Corkery,DEM,78,19,59
+Delaware,Delaware,U.S. House,2,Sarah Corkery,DEM,130,64,66
+Delaware,Delhi/Delaware Corp,U.S. House,2,Sarah Corkery,DEM,151,62,89
+Delaware,Honey Creek/Elk,U.S. House,2,Sarah Corkery,DEM,162,42,120
+Delaware,Manchester Ward 1,U.S. House,2,Sarah Corkery,DEM,285,143,142
+Delaware,Manchester Ward 2,U.S. House,2,Sarah Corkery,DEM,304,162,142
+Delaware,Manchester Ward 3,U.S. House,2,Sarah Corkery,DEM,328,154,174
+Delaware,Milo/Prairie,U.S. House,2,Sarah Corkery,DEM,284,152,132
+Delaware,Oneida/N Fork/Bremen,U.S. House,2,Sarah Corkery,DEM,293,121,172
+Delaware,Richland/Coffins Grove,U.S. House,2,Sarah Corkery,DEM,187,79,108
+Delaware,South Fork/Union,U.S. House,2,Sarah Corkery,DEM,225,75,150
+Delaware,Adams/Hazel Green,U.S. House,2,Write-In,,0,0,0
+Delaware,Colony,U.S. House,2,Write-In,,0,0,0
+Delaware,Delaware,U.S. House,2,Write-In,,1,0,1
+Delaware,Delhi/Delaware Corp,U.S. House,2,Write-In,,0,0,0
+Delaware,Honey Creek/Elk,U.S. House,2,Write-In,,0,0,0
+Delaware,Manchester Ward 1,U.S. House,2,Write-In,,0,0,0
+Delaware,Manchester Ward 2,U.S. House,2,Write-In,,0,0,0
+Delaware,Manchester Ward 3,U.S. House,2,Write-In,,0,0,0
+Delaware,Milo/Prairie,U.S. House,2,Write-In,,0,0,0
+Delaware,Oneida/N Fork/Bremen,U.S. House,2,Write-In,,0,0,0
+Delaware,Richland/Coffins Grove,U.S. House,2,Write-In,,0,0,0
+Delaware,South Fork/Union,U.S. House,2,Write-In,,0,0,0

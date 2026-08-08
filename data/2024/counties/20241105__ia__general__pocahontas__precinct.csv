@@ -1,0 +1,518 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Pocahontas,Palmer,Bellville Township Trustee,,Allan Fischer,,63,16,47
+Pocahontas,Palmer,Bellville Township Trustee,,Matthew Condon,,60,12,48
+Pocahontas,Palmer,Bellville Township Trustee,,Write-In,,1,0,1
+Pocahontas,Palmer,Bellville Township Trustee To Fill a Vacancy,,Jennifer Bullington,,1,0,1
+Pocahontas,Palmer,Bellville Township Trustee To Fill a Vacancy,,Write-In,,3,0,3
+Pocahontas,Fonda,Cedar Township Trustee,,Brent Wells,,1,1,0
+Pocahontas,Fonda,Cedar Township Trustee,,Heather Schachtner Kramer,,3,2,1
+Pocahontas,Fonda,Cedar Township Trustee,,Write-In,,6,4,2
+Pocahontas,Courthouse,Center Township Trustee,,Kendra L. Winegarden,,0,0,0
+Pocahontas,Havelock,Center Township Trustee,,Kendra L. Winegarden,,4,2,2
+Pocahontas,Hinde Center,Center Township Trustee,,Kendra L. Winegarden,,3,0,3
+Pocahontas,Rolfe,Center Township Trustee,,Kendra L. Winegarden,,16,12,4
+Pocahontas,Courthouse,Center Township Trustee,,Matthew Kopriva,,0,0,0
+Pocahontas,Havelock,Center Township Trustee,,Matthew Kopriva,,3,1,2
+Pocahontas,Hinde Center,Center Township Trustee,,Matthew Kopriva,,3,1,2
+Pocahontas,Rolfe,Center Township Trustee,,Matthew Kopriva,,16,12,4
+Pocahontas,Courthouse,Center Township Trustee,,Write-In,,0,0,0
+Pocahontas,Havelock,Center Township Trustee,,Write-In,,0,0,0
+Pocahontas,Hinde Center,Center Township Trustee,,Write-In,,0,0,0
+Pocahontas,Rolfe,Center Township Trustee,,Write-In,,0,0,0
+Pocahontas,Fonda,Colfax Township Trustee,,Brian Aden,,61,17,44
+Pocahontas,Fonda,Colfax Township Trustee,,Bruce Passow,,61,21,40
+Pocahontas,Fonda,Colfax Township Trustee,,Write-In,,0,0,0
+Pocahontas,Courthouse,Constitutional Amendment 1,,No,,100,44,56
+Pocahontas,Fonda,Constitutional Amendment 1,,No,,88,39,49
+Pocahontas,Havelock,Constitutional Amendment 1,,No,,52,20,32
+Pocahontas,Hinde Center,Constitutional Amendment 1,,No,,65,20,45
+Pocahontas,Laurens,Constitutional Amendment 1,,No,,100,26,74
+Pocahontas,Palmer,Constitutional Amendment 1,,No,,64,18,46
+Pocahontas,Rolfe,Constitutional Amendment 1,,No,,57,19,38
+Pocahontas,Courthouse,Constitutional Amendment 1,,Yes,,560,277,283
+Pocahontas,Fonda,Constitutional Amendment 1,,Yes,,524,218,306
+Pocahontas,Havelock,Constitutional Amendment 1,,Yes,,212,77,135
+Pocahontas,Hinde Center,Constitutional Amendment 1,,Yes,,263,106,157
+Pocahontas,Laurens,Constitutional Amendment 1,,Yes,,462,118,344
+Pocahontas,Palmer,Constitutional Amendment 1,,Yes,,310,87,223
+Pocahontas,Rolfe,Constitutional Amendment 1,,Yes,,310,96,214
+Pocahontas,Courthouse,Constitutional Amendment 2,,No,,69,32,37
+Pocahontas,Fonda,Constitutional Amendment 2,,No,,74,32,42
+Pocahontas,Havelock,Constitutional Amendment 2,,No,,40,20,20
+Pocahontas,Hinde Center,Constitutional Amendment 2,,No,,38,10,28
+Pocahontas,Laurens,Constitutional Amendment 2,,No,,66,15,51
+Pocahontas,Palmer,Constitutional Amendment 2,,No,,33,7,26
+Pocahontas,Rolfe,Constitutional Amendment 2,,No,,40,13,27
+Pocahontas,Courthouse,Constitutional Amendment 2,,Yes,,588,287,301
+Pocahontas,Fonda,Constitutional Amendment 2,,Yes,,538,223,315
+Pocahontas,Havelock,Constitutional Amendment 2,,Yes,,227,80,147
+Pocahontas,Hinde Center,Constitutional Amendment 2,,Yes,,287,114,173
+Pocahontas,Laurens,Constitutional Amendment 2,,Yes,,479,127,352
+Pocahontas,Palmer,Constitutional Amendment 2,,Yes,,338,97,241
+Pocahontas,Rolfe,Constitutional Amendment 2,,Yes,,325,102,223
+Pocahontas,Courthouse,County Agricultural Extension Council Member,,Grant Theesfeld,,1,1,0
+Pocahontas,Fonda,County Agricultural Extension Council Member,,Grant Theesfeld,,7,1,6
+Pocahontas,Havelock,County Agricultural Extension Council Member,,Grant Theesfeld,,1,0,1
+Pocahontas,Hinde Center,County Agricultural Extension Council Member,,Grant Theesfeld,,0,0,0
+Pocahontas,Laurens,County Agricultural Extension Council Member,,Grant Theesfeld,,0,0,0
+Pocahontas,Palmer,County Agricultural Extension Council Member,,Grant Theesfeld,,4,0,4
+Pocahontas,Rolfe,County Agricultural Extension Council Member,,Grant Theesfeld,,1,0,1
+Pocahontas,Courthouse,County Agricultural Extension Council Member,,Mary Roberts,,355,184,171
+Pocahontas,Fonda,County Agricultural Extension Council Member,,Mary Roberts,,413,163,250
+Pocahontas,Havelock,County Agricultural Extension Council Member,,Mary Roberts,,156,59,97
+Pocahontas,Hinde Center,County Agricultural Extension Council Member,,Mary Roberts,,171,64,107
+Pocahontas,Laurens,County Agricultural Extension Council Member,,Mary Roberts,,293,88,205
+Pocahontas,Palmer,County Agricultural Extension Council Member,,Mary Roberts,,224,60,164
+Pocahontas,Rolfe,County Agricultural Extension Council Member,,Mary Roberts,,207,70,137
+Pocahontas,Courthouse,County Agricultural Extension Council Member,,Matt Aden,,492,233,259
+Pocahontas,Fonda,County Agricultural Extension Council Member,,Matt Aden,,467,184,283
+Pocahontas,Havelock,County Agricultural Extension Council Member,,Matt Aden,,218,85,133
+Pocahontas,Hinde Center,County Agricultural Extension Council Member,,Matt Aden,,245,86,159
+Pocahontas,Laurens,County Agricultural Extension Council Member,,Matt Aden,,340,98,242
+Pocahontas,Palmer,County Agricultural Extension Council Member,,Matt Aden,,311,85,226
+Pocahontas,Rolfe,County Agricultural Extension Council Member,,Matt Aden,,273,87,186
+Pocahontas,Courthouse,County Agricultural Extension Council Member,,Tiffany Clark,,397,207,190
+Pocahontas,Fonda,County Agricultural Extension Council Member,,Tiffany Clark,,387,161,226
+Pocahontas,Havelock,County Agricultural Extension Council Member,,Tiffany Clark,,170,66,104
+Pocahontas,Hinde Center,County Agricultural Extension Council Member,,Tiffany Clark,,187,63,124
+Pocahontas,Laurens,County Agricultural Extension Council Member,,Tiffany Clark,,293,90,203
+Pocahontas,Palmer,County Agricultural Extension Council Member,,Tiffany Clark,,250,65,185
+Pocahontas,Rolfe,County Agricultural Extension Council Member,,Tiffany Clark,,226,81,145
+Pocahontas,Courthouse,County Agricultural Extension Council Member,,Write-In,,7,3,4
+Pocahontas,Fonda,County Agricultural Extension Council Member,,Write-In,,10,4,6
+Pocahontas,Havelock,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Pocahontas,Hinde Center,County Agricultural Extension Council Member,,Write-In,,4,0,4
+Pocahontas,Laurens,County Agricultural Extension Council Member,,Write-In,,7,2,5
+Pocahontas,Palmer,County Agricultural Extension Council Member,,Write-In,,7,3,4
+Pocahontas,Rolfe,County Agricultural Extension Council Member,,Write-In,,4,0,4
+Pocahontas,Courthouse,County Auditor,,Wanita Nita Hinrickson,REP,634,310,324
+Pocahontas,Fonda,County Auditor,,Wanita Nita Hinrickson,REP,615,244,371
+Pocahontas,Havelock,County Auditor,,Wanita Nita Hinrickson,REP,262,95,167
+Pocahontas,Hinde Center,County Auditor,,Wanita Nita Hinrickson,REP,317,119,198
+Pocahontas,Laurens,County Auditor,,Wanita Nita Hinrickson,REP,498,129,369
+Pocahontas,Palmer,County Auditor,,Wanita Nita Hinrickson,REP,344,95,249
+Pocahontas,Rolfe,County Auditor,,Wanita Nita Hinrickson,REP,354,118,236
+Pocahontas,Courthouse,County Auditor,,Write-In,,4,2,2
+Pocahontas,Fonda,County Auditor,,Write-In,,1,0,1
+Pocahontas,Havelock,County Auditor,,Write-In,,2,1,1
+Pocahontas,Hinde Center,County Auditor,,Write-In,,1,0,1
+Pocahontas,Laurens,County Auditor,,Write-In,,1,0,1
+Pocahontas,Palmer,County Auditor,,Write-In,,1,0,1
+Pocahontas,Rolfe,County Auditor,,Write-In,,2,0,2
+Pocahontas,Courthouse,County Sheriff,,Steven E Nelson,REP,612,299,313
+Pocahontas,Fonda,County Sheriff,,Steven E Nelson,REP,615,241,374
+Pocahontas,Havelock,County Sheriff,,Steven E Nelson,REP,263,94,169
+Pocahontas,Hinde Center,County Sheriff,,Steven E Nelson,REP,319,119,200
+Pocahontas,Laurens,County Sheriff,,Steven E Nelson,REP,514,126,388
+Pocahontas,Palmer,County Sheriff,,Steven E Nelson,REP,352,97,255
+Pocahontas,Rolfe,County Sheriff,,Steven E Nelson,REP,361,109,252
+Pocahontas,Courthouse,County Sheriff,,Write-In,,3,1,2
+Pocahontas,Fonda,County Sheriff,,Write-In,,7,2,5
+Pocahontas,Havelock,County Sheriff,,Write-In,,5,3,2
+Pocahontas,Hinde Center,County Sheriff,,Write-In,,2,0,2
+Pocahontas,Laurens,County Sheriff,,Write-In,,2,0,2
+Pocahontas,Palmer,County Sheriff,,Write-In,,3,0,3
+Pocahontas,Rolfe,County Sheriff,,Write-In,,7,1,6
+Pocahontas,Havelock,County Supervisor,1,Jeffrey K. Ives,DEM,134,56,78
+Pocahontas,Rolfe,County Supervisor,1,Jeffrey K. Ives,DEM,184,55,129
+Pocahontas,Havelock,County Supervisor,1,Peter Seehusen,REP,151,49,102
+Pocahontas,Rolfe,County Supervisor,1,Peter Seehusen,REP,231,76,155
+Pocahontas,Havelock,County Supervisor,1,Write-In,,1,0,1
+Pocahontas,Rolfe,County Supervisor,1,Write-In,,3,1,2
+Pocahontas,Courthouse,County Supervisor,3,Kyle Smith,REP,576,275,301
+Pocahontas,Courthouse,County Supervisor,3,Write-In,,10,6,4
+Pocahontas,Fonda,County Supervisor,5,Kevin Wells,,112,7,105
+Pocahontas,Fonda,County Supervisor,5,Louis Stauter,,497,234,263
+Pocahontas,Fonda,County Supervisor,5,Write-In,,9,1,8
+Pocahontas,Courthouse,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,153,61,92
+Pocahontas,Fonda,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,116,51,65
+Pocahontas,Havelock,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,58,21,37
+Pocahontas,Hinde Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,74,31,43
+Pocahontas,Laurens,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,108,22,86
+Pocahontas,Palmer,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,81,22,59
+Pocahontas,Rolfe,Court of Appeals Judge - Mary Elizabeth Chicchelly,,No,,86,29,57
+Pocahontas,Courthouse,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,326,144,182
+Pocahontas,Fonda,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,322,114,208
+Pocahontas,Havelock,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,133,46,87
+Pocahontas,Hinde Center,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,170,52,118
+Pocahontas,Laurens,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,269,73,196
+Pocahontas,Palmer,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,194,46,148
+Pocahontas,Rolfe,Court of Appeals Judge - Mary Elizabeth Chicchelly,,Yes,,157,48,109
+Pocahontas,Courthouse,Court of Appeals Judge - Mary Ellen Tabor,,No,,150,61,89
+Pocahontas,Fonda,Court of Appeals Judge - Mary Ellen Tabor,,No,,102,47,55
+Pocahontas,Havelock,Court of Appeals Judge - Mary Ellen Tabor,,No,,60,25,35
+Pocahontas,Hinde Center,Court of Appeals Judge - Mary Ellen Tabor,,No,,68,28,40
+Pocahontas,Laurens,Court of Appeals Judge - Mary Ellen Tabor,,No,,105,22,83
+Pocahontas,Palmer,Court of Appeals Judge - Mary Ellen Tabor,,No,,82,26,56
+Pocahontas,Rolfe,Court of Appeals Judge - Mary Ellen Tabor,,No,,88,29,59
+Pocahontas,Courthouse,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,339,150,189
+Pocahontas,Fonda,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,349,120,229
+Pocahontas,Havelock,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,141,47,94
+Pocahontas,Hinde Center,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,186,59,127
+Pocahontas,Laurens,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,292,78,214
+Pocahontas,Palmer,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,199,46,153
+Pocahontas,Rolfe,Court of Appeals Judge - Mary Ellen Tabor,,Yes,,168,49,119
+Pocahontas,Courthouse,Court of Appeals Judge - Samuel Langholz,,No,,162,72,90
+Pocahontas,Fonda,Court of Appeals Judge - Samuel Langholz,,No,,126,55,71
+Pocahontas,Havelock,Court of Appeals Judge - Samuel Langholz,,No,,58,20,38
+Pocahontas,Hinde Center,Court of Appeals Judge - Samuel Langholz,,No,,74,36,38
+Pocahontas,Laurens,Court of Appeals Judge - Samuel Langholz,,No,,102,21,81
+Pocahontas,Palmer,Court of Appeals Judge - Samuel Langholz,,No,,81,19,62
+Pocahontas,Rolfe,Court of Appeals Judge - Samuel Langholz,,No,,88,31,57
+Pocahontas,Courthouse,Court of Appeals Judge - Samuel Langholz,,Yes,,319,137,182
+Pocahontas,Fonda,Court of Appeals Judge - Samuel Langholz,,Yes,,313,112,201
+Pocahontas,Havelock,Court of Appeals Judge - Samuel Langholz,,Yes,,135,46,89
+Pocahontas,Hinde Center,Court of Appeals Judge - Samuel Langholz,,Yes,,166,43,123
+Pocahontas,Laurens,Court of Appeals Judge - Samuel Langholz,,Yes,,274,77,197
+Pocahontas,Palmer,Court of Appeals Judge - Samuel Langholz,,Yes,,196,49,147
+Pocahontas,Rolfe,Court of Appeals Judge - Samuel Langholz,,Yes,,154,44,110
+Pocahontas,Courthouse,Court of Appeals Judge - Tyler J. Buller,,No,,144,55,89
+Pocahontas,Fonda,Court of Appeals Judge - Tyler J. Buller,,No,,112,52,60
+Pocahontas,Havelock,Court of Appeals Judge - Tyler J. Buller,,No,,52,18,34
+Pocahontas,Hinde Center,Court of Appeals Judge - Tyler J. Buller,,No,,68,32,36
+Pocahontas,Laurens,Court of Appeals Judge - Tyler J. Buller,,No,,104,23,81
+Pocahontas,Palmer,Court of Appeals Judge - Tyler J. Buller,,No,,77,21,56
+Pocahontas,Rolfe,Court of Appeals Judge - Tyler J. Buller,,No,,85,33,52
+Pocahontas,Courthouse,Court of Appeals Judge - Tyler J. Buller,,Yes,,331,143,188
+Pocahontas,Fonda,Court of Appeals Judge - Tyler J. Buller,,Yes,,334,117,217
+Pocahontas,Havelock,Court of Appeals Judge - Tyler J. Buller,,Yes,,138,48,90
+Pocahontas,Hinde Center,Court of Appeals Judge - Tyler J. Buller,,Yes,,179,52,127
+Pocahontas,Laurens,Court of Appeals Judge - Tyler J. Buller,,Yes,,274,75,199
+Pocahontas,Palmer,Court of Appeals Judge - Tyler J. Buller,,Yes,,201,50,151
+Pocahontas,Rolfe,Court of Appeals Judge - Tyler J. Buller,,Yes,,162,43,119
+Pocahontas,Havelock,Cummins Township Clerk To Fill a Vacancy,,Barb Hauswirth,,4,2,2
+Pocahontas,Havelock,Cummins Township Clerk To Fill a Vacancy,,Write-In,,1,0,1
+Pocahontas,Havelock,Cummins Township Trustee,,Dean Pedersen,,42,13,29
+Pocahontas,Havelock,Cummins Township Trustee,,Roger Hauswirth,,62,22,40
+Pocahontas,Havelock,Cummins Township Trustee,,Write-In,,0,0,0
+Pocahontas,Rolfe,Des Moines Township Trustee,,Glenn Munson,,57,20,37
+Pocahontas,Rolfe,Des Moines Township Trustee,,Jeff Wiuff,,51,17,34
+Pocahontas,Rolfe,Des Moines Township Trustee,,Write-In,,0,0,0
+Pocahontas,Courthouse,District 2B Associate Judge - Ashley Beisch,,No,,122,47,75
+Pocahontas,Fonda,District 2B Associate Judge - Ashley Beisch,,No,,97,44,53
+Pocahontas,Havelock,District 2B Associate Judge - Ashley Beisch,,No,,53,22,31
+Pocahontas,Hinde Center,District 2B Associate Judge - Ashley Beisch,,No,,60,22,38
+Pocahontas,Laurens,District 2B Associate Judge - Ashley Beisch,,No,,103,22,81
+Pocahontas,Palmer,District 2B Associate Judge - Ashley Beisch,,No,,73,17,56
+Pocahontas,Rolfe,District 2B Associate Judge - Ashley Beisch,,No,,79,29,50
+Pocahontas,Courthouse,District 2B Associate Judge - Ashley Beisch,,Yes,,349,154,195
+Pocahontas,Fonda,District 2B Associate Judge - Ashley Beisch,,Yes,,343,121,222
+Pocahontas,Havelock,District 2B Associate Judge - Ashley Beisch,,Yes,,139,46,93
+Pocahontas,Hinde Center,District 2B Associate Judge - Ashley Beisch,,Yes,,183,57,126
+Pocahontas,Laurens,District 2B Associate Judge - Ashley Beisch,,Yes,,269,72,197
+Pocahontas,Palmer,District 2B Associate Judge - Ashley Beisch,,Yes,,201,50,151
+Pocahontas,Rolfe,District 2B Associate Judge - Ashley Beisch,,Yes,,162,46,116
+Pocahontas,Courthouse,District 2B Associate Judge - Hans Becker,,No,,133,48,85
+Pocahontas,Fonda,District 2B Associate Judge - Hans Becker,,No,,115,50,65
+Pocahontas,Havelock,District 2B Associate Judge - Hans Becker,,No,,51,20,31
+Pocahontas,Hinde Center,District 2B Associate Judge - Hans Becker,,No,,66,27,39
+Pocahontas,Laurens,District 2B Associate Judge - Hans Becker,,No,,92,19,73
+Pocahontas,Palmer,District 2B Associate Judge - Hans Becker,,No,,64,16,48
+Pocahontas,Rolfe,District 2B Associate Judge - Hans Becker,,No,,71,25,46
+Pocahontas,Courthouse,District 2B Associate Judge - Hans Becker,,Yes,,341,153,188
+Pocahontas,Fonda,District 2B Associate Judge - Hans Becker,,Yes,,322,114,208
+Pocahontas,Havelock,District 2B Associate Judge - Hans Becker,,Yes,,136,43,93
+Pocahontas,Hinde Center,District 2B Associate Judge - Hans Becker,,Yes,,173,50,123
+Pocahontas,Laurens,District 2B Associate Judge - Hans Becker,,Yes,,270,71,199
+Pocahontas,Palmer,District 2B Associate Judge - Hans Becker,,Yes,,206,50,156
+Pocahontas,Rolfe,District 2B Associate Judge - Hans Becker,,Yes,,168,50,118
+Pocahontas,Courthouse,District 2B Associate Judge - Hunter Thorpe,,No,,133,55,78
+Pocahontas,Fonda,District 2B Associate Judge - Hunter Thorpe,,No,,121,52,69
+Pocahontas,Havelock,District 2B Associate Judge - Hunter Thorpe,,No,,55,22,33
+Pocahontas,Hinde Center,District 2B Associate Judge - Hunter Thorpe,,No,,62,27,35
+Pocahontas,Laurens,District 2B Associate Judge - Hunter Thorpe,,No,,101,22,79
+Pocahontas,Palmer,District 2B Associate Judge - Hunter Thorpe,,No,,65,16,49
+Pocahontas,Rolfe,District 2B Associate Judge - Hunter Thorpe,,No,,77,28,49
+Pocahontas,Courthouse,District 2B Associate Judge - Hunter Thorpe,,Yes,,336,142,194
+Pocahontas,Fonda,District 2B Associate Judge - Hunter Thorpe,,Yes,,312,109,203
+Pocahontas,Havelock,District 2B Associate Judge - Hunter Thorpe,,Yes,,133,43,90
+Pocahontas,Hinde Center,District 2B Associate Judge - Hunter Thorpe,,Yes,,177,50,127
+Pocahontas,Laurens,District 2B Associate Judge - Hunter Thorpe,,Yes,,258,68,190
+Pocahontas,Palmer,District 2B Associate Judge - Hunter Thorpe,,Yes,,204,49,155
+Pocahontas,Rolfe,District 2B Associate Judge - Hunter Thorpe,,Yes,,160,47,113
+Pocahontas,Courthouse,District 2B Associate Judge - Joseph B. McCarville,,No,,142,59,83
+Pocahontas,Fonda,District 2B Associate Judge - Joseph B. McCarville,,No,,107,46,61
+Pocahontas,Havelock,District 2B Associate Judge - Joseph B. McCarville,,No,,58,24,34
+Pocahontas,Hinde Center,District 2B Associate Judge - Joseph B. McCarville,,No,,64,27,37
+Pocahontas,Laurens,District 2B Associate Judge - Joseph B. McCarville,,No,,92,17,75
+Pocahontas,Palmer,District 2B Associate Judge - Joseph B. McCarville,,No,,66,19,47
+Pocahontas,Rolfe,District 2B Associate Judge - Joseph B. McCarville,,No,,72,27,45
+Pocahontas,Courthouse,District 2B Associate Judge - Joseph B. McCarville,,Yes,,338,146,192
+Pocahontas,Fonda,District 2B Associate Judge - Joseph B. McCarville,,Yes,,332,118,214
+Pocahontas,Havelock,District 2B Associate Judge - Joseph B. McCarville,,Yes,,131,42,89
+Pocahontas,Hinde Center,District 2B Associate Judge - Joseph B. McCarville,,Yes,,178,51,127
+Pocahontas,Laurens,District 2B Associate Judge - Joseph B. McCarville,,Yes,,278,77,201
+Pocahontas,Palmer,District 2B Associate Judge - Joseph B. McCarville,,Yes,,215,52,163
+Pocahontas,Rolfe,District 2B Associate Judge - Joseph B. McCarville,,Yes,,170,49,121
+Pocahontas,Courthouse,District 2B Associate Judge - Kathryn E. Austin,,No,,130,53,77
+Pocahontas,Fonda,District 2B Associate Judge - Kathryn E. Austin,,No,,102,46,56
+Pocahontas,Havelock,District 2B Associate Judge - Kathryn E. Austin,,No,,54,21,33
+Pocahontas,Hinde Center,District 2B Associate Judge - Kathryn E. Austin,,No,,61,26,35
+Pocahontas,Laurens,District 2B Associate Judge - Kathryn E. Austin,,No,,105,22,83
+Pocahontas,Palmer,District 2B Associate Judge - Kathryn E. Austin,,No,,73,18,55
+Pocahontas,Rolfe,District 2B Associate Judge - Kathryn E. Austin,,No,,78,29,49
+Pocahontas,Courthouse,District 2B Associate Judge - Kathryn E. Austin,,Yes,,340,146,194
+Pocahontas,Fonda,District 2B Associate Judge - Kathryn E. Austin,,Yes,,335,116,219
+Pocahontas,Havelock,District 2B Associate Judge - Kathryn E. Austin,,Yes,,133,44,89
+Pocahontas,Hinde Center,District 2B Associate Judge - Kathryn E. Austin,,Yes,,178,50,128
+Pocahontas,Laurens,District 2B Associate Judge - Kathryn E. Austin,,Yes,,262,69,193
+Pocahontas,Palmer,District 2B Associate Judge - Kathryn E. Austin,,Yes,,201,48,153
+Pocahontas,Rolfe,District 2B Associate Judge - Kathryn E. Austin,,Yes,,158,46,112
+Pocahontas,Courthouse,District 2B Associate Judge - Paul G. Crawford,,No,,136,51,85
+Pocahontas,Fonda,District 2B Associate Judge - Paul G. Crawford,,No,,108,51,57
+Pocahontas,Havelock,District 2B Associate Judge - Paul G. Crawford,,No,,54,21,33
+Pocahontas,Hinde Center,District 2B Associate Judge - Paul G. Crawford,,No,,64,26,38
+Pocahontas,Laurens,District 2B Associate Judge - Paul G. Crawford,,No,,99,24,75
+Pocahontas,Palmer,District 2B Associate Judge - Paul G. Crawford,,No,,70,20,50
+Pocahontas,Rolfe,District 2B Associate Judge - Paul G. Crawford,,No,,81,27,54
+Pocahontas,Courthouse,District 2B Associate Judge - Paul G. Crawford,,Yes,,334,147,187
+Pocahontas,Fonda,District 2B Associate Judge - Paul G. Crawford,,Yes,,330,115,215
+Pocahontas,Havelock,District 2B Associate Judge - Paul G. Crawford,,Yes,,134,44,90
+Pocahontas,Hinde Center,District 2B Associate Judge - Paul G. Crawford,,Yes,,174,50,124
+Pocahontas,Laurens,District 2B Associate Judge - Paul G. Crawford,,Yes,,264,69,195
+Pocahontas,Palmer,District 2B Associate Judge - Paul G. Crawford,,Yes,,203,47,156
+Pocahontas,Rolfe,District 2B Associate Judge - Paul G. Crawford,,Yes,,157,48,109
+Pocahontas,Courthouse,District 2B Judge - Adria Kester,,No,,143,57,86
+Pocahontas,Fonda,District 2B Judge - Adria Kester,,No,,120,56,64
+Pocahontas,Havelock,District 2B Judge - Adria Kester,,No,,60,22,38
+Pocahontas,Hinde Center,District 2B Judge - Adria Kester,,No,,65,24,41
+Pocahontas,Laurens,District 2B Judge - Adria Kester,,No,,108,26,82
+Pocahontas,Palmer,District 2B Judge - Adria Kester,,No,,76,18,58
+Pocahontas,Rolfe,District 2B Judge - Adria Kester,,No,,86,27,59
+Pocahontas,Courthouse,District 2B Judge - Adria Kester,,Yes,,333,147,186
+Pocahontas,Fonda,District 2B Judge - Adria Kester,,Yes,,318,107,211
+Pocahontas,Havelock,District 2B Judge - Adria Kester,,Yes,,130,42,88
+Pocahontas,Hinde Center,District 2B Judge - Adria Kester,,Yes,,178,54,124
+Pocahontas,Laurens,District 2B Judge - Adria Kester,,Yes,,261,67,194
+Pocahontas,Palmer,District 2B Judge - Adria Kester,,Yes,,200,49,151
+Pocahontas,Rolfe,District 2B Judge - Adria Kester,,Yes,,156,48,108
+Pocahontas,Courthouse,District 2B Judge - Derek Johnson,,No,,147,56,91
+Pocahontas,Fonda,District 2B Judge - Derek Johnson,,No,,103,48,55
+Pocahontas,Havelock,District 2B Judge - Derek Johnson,,No,,45,18,27
+Pocahontas,Hinde Center,District 2B Judge - Derek Johnson,,No,,71,29,42
+Pocahontas,Laurens,District 2B Judge - Derek Johnson,,No,,94,21,73
+Pocahontas,Palmer,District 2B Judge - Derek Johnson,,No,,66,19,47
+Pocahontas,Rolfe,District 2B Judge - Derek Johnson,,No,,80,28,52
+Pocahontas,Courthouse,District 2B Judge - Derek Johnson,,Yes,,336,146,190
+Pocahontas,Fonda,District 2B Judge - Derek Johnson,,Yes,,343,124,219
+Pocahontas,Havelock,District 2B Judge - Derek Johnson,,Yes,,147,48,99
+Pocahontas,Hinde Center,District 2B Judge - Derek Johnson,,Yes,,177,50,127
+Pocahontas,Laurens,District 2B Judge - Derek Johnson,,Yes,,280,72,208
+Pocahontas,Palmer,District 2B Judge - Derek Johnson,,Yes,,214,51,163
+Pocahontas,Rolfe,District 2B Judge - Derek Johnson,,Yes,,168,47,121
+Pocahontas,Courthouse,District 2B Judge - Kurt John Stoebe,,No,,133,52,81
+Pocahontas,Fonda,District 2B Judge - Kurt John Stoebe,,No,,107,49,58
+Pocahontas,Havelock,District 2B Judge - Kurt John Stoebe,,No,,55,23,32
+Pocahontas,Hinde Center,District 2B Judge - Kurt John Stoebe,,No,,73,33,40
+Pocahontas,Laurens,District 2B Judge - Kurt John Stoebe,,No,,77,18,59
+Pocahontas,Palmer,District 2B Judge - Kurt John Stoebe,,No,,66,16,50
+Pocahontas,Rolfe,District 2B Judge - Kurt John Stoebe,,No,,80,28,52
+Pocahontas,Courthouse,District 2B Judge - Kurt John Stoebe,,Yes,,375,168,207
+Pocahontas,Fonda,District 2B Judge - Kurt John Stoebe,,Yes,,337,120,217
+Pocahontas,Havelock,District 2B Judge - Kurt John Stoebe,,Yes,,143,47,96
+Pocahontas,Hinde Center,District 2B Judge - Kurt John Stoebe,,Yes,,185,52,133
+Pocahontas,Laurens,District 2B Judge - Kurt John Stoebe,,Yes,,306,76,230
+Pocahontas,Palmer,District 2B Judge - Kurt John Stoebe,,Yes,,225,58,167
+Pocahontas,Rolfe,District 2B Judge - Kurt John Stoebe,,Yes,,189,57,132
+Pocahontas,Fonda,Dover Township Clerk To Fill a Vacancy,,Tom Johnson,,2,0,2
+Pocahontas,Fonda,Dover Township Clerk To Fill a Vacancy,,Write-In,,1,0,1
+Pocahontas,Fonda,Dover Township Trustee,,Reed Russell,,42,20,22
+Pocahontas,Fonda,Dover Township Trustee,,Scott Schumann,,57,27,30
+Pocahontas,Fonda,Dover Township Trustee,,Write-In,,1,0,1
+Pocahontas,Rolfe,Garfield Township Trustee,,Terry Applegate,,56,18,38
+Pocahontas,Rolfe,Garfield Township Trustee,,William Kemna,,54,15,39
+Pocahontas,Rolfe,Garfield Township Trustee,,Write-In,,0,0,0
+Pocahontas,Fonda,Grant Township Clerk To Fill a Vacancy,,David Johnston,,81,52,29
+Pocahontas,Fonda,Grant Township Clerk To Fill a Vacancy,,Write-In,,0,0,0
+Pocahontas,Fonda,Grant Township Trustee,,Mark Samuelson,,76,48,28
+Pocahontas,Fonda,Grant Township Trustee,,Michael C. Plantz,,58,36,22
+Pocahontas,Fonda,Grant Township Trustee,,Write-In,,0,0,0
+Pocahontas,Hinde Center,Lake Township Trustee,,Donald Trexel,,9,7,2
+Pocahontas,Palmer,Lake Township Trustee,,Donald Trexel,,75,31,44
+Pocahontas,Hinde Center,Lake Township Trustee,,Write-In,,0,0,0
+Pocahontas,Palmer,Lake Township Trustee,,Write-In,,1,0,1
+Pocahontas,Hinde Center,Lake Township Trustee To Fill a Vacancy,,James Peters,,9,7,2
+Pocahontas,Palmer,Lake Township Trustee To Fill a Vacancy,,James Peters,,76,31,45
+Pocahontas,Hinde Center,Lake Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
+Pocahontas,Palmer,Lake Township Trustee To Fill a Vacancy,,Write-In,,1,0,1
+Pocahontas,Hinde Center,Lincoln Township Trustee,,Alan Francis,,21,4,17
+Pocahontas,Palmer,Lincoln Township Trustee,,Alan Francis,,44,13,31
+Pocahontas,Hinde Center,Lincoln Township Trustee,,Allan B. Nelson,,19,6,13
+Pocahontas,Palmer,Lincoln Township Trustee,,Allan B. Nelson,,35,10,25
+Pocahontas,Hinde Center,Lincoln Township Trustee,,Write-In,,0,0,0
+Pocahontas,Palmer,Lincoln Township Trustee,,Write-In,,0,0,0
+Pocahontas,Palmer,Lizard Township Trustee,,Rob Swartzendruber,,66,14,52
+Pocahontas,Palmer,Lizard Township Trustee,,Sheri Vetter,,82,17,65
+Pocahontas,Palmer,Lizard Township Trustee,,Write-In,,1,0,1
+Pocahontas,Fonda,Marshall Township Trustee,,Brian Kinkade,,58,34,24
+Pocahontas,Fonda,Marshall Township Trustee,,Terry Meyer,,61,38,23
+Pocahontas,Fonda,Marshall Township Trustee,,Write-In,,0,0,0
+Pocahontas,Havelock,Powhatan Township Trustee,,David Krischel,,4,2,2
+Pocahontas,Havelock,Powhatan Township Trustee,,Norman Zaugg,,60,31,29
+Pocahontas,Havelock,Powhatan Township Trustee,,Write-In,,0,0,0
+Pocahontas,Courthouse,President,,Chase Oliver and Mike ter Maat,LIB,5,3,2
+Pocahontas,Fonda,President,,Chase Oliver and Mike ter Maat,LIB,3,1,2
+Pocahontas,Havelock,President,,Chase Oliver and Mike ter Maat,LIB,2,0,2
+Pocahontas,Hinde Center,President,,Chase Oliver and Mike ter Maat,LIB,1,1,0
+Pocahontas,Laurens,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Pocahontas,Palmer,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Pocahontas,Rolfe,President,,Chase Oliver and Mike ter Maat,LIB,3,0,3
+Pocahontas,Courthouse,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Pocahontas,Fonda,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Pocahontas,Havelock,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Pocahontas,Hinde Center,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Pocahontas,Laurens,President,,Claudia De la Cruz and Karina Garcia,PSL,1,0,1
+Pocahontas,Palmer,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Pocahontas,Rolfe,President,,Claudia De la Cruz and Karina Garcia,PSL,0,0,0
+Pocahontas,Courthouse,President,,Donald J. Trump and JD Vance,REP,535,248,287
+Pocahontas,Fonda,President,,Donald J. Trump and JD Vance,REP,547,208,339
+Pocahontas,Havelock,President,,Donald J. Trump and JD Vance,REP,226,72,154
+Pocahontas,Hinde Center,President,,Donald J. Trump and JD Vance,REP,261,92,169
+Pocahontas,Laurens,President,,Donald J. Trump and JD Vance,REP,483,113,370
+Pocahontas,Palmer,President,,Donald J. Trump and JD Vance,REP,341,97,244
+Pocahontas,Rolfe,President,,Donald J. Trump and JD Vance,REP,334,100,234
+Pocahontas,Courthouse,President,,Kamala D. Harris and Tim Walz,DEM,183,116,67
+Pocahontas,Fonda,President,,Kamala D. Harris and Tim Walz,DEM,163,76,87
+Pocahontas,Havelock,President,,Kamala D. Harris and Tim Walz,DEM,66,35,31
+Pocahontas,Hinde Center,President,,Kamala D. Harris and Tim Walz,DEM,94,49,45
+Pocahontas,Laurens,President,,Kamala D. Harris and Tim Walz,DEM,156,41,115
+Pocahontas,Palmer,President,,Kamala D. Harris and Tim Walz,DEM,49,13,36
+Pocahontas,Rolfe,President,,Kamala D. Harris and Tim Walz,DEM,85,33,52
+Pocahontas,Courthouse,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,1,4
+Pocahontas,Fonda,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,3,2
+Pocahontas,Havelock,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,1,0,1
+Pocahontas,Hinde Center,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,1,0,1
+Pocahontas,Laurens,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,7,1,6
+Pocahontas,Palmer,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,5,0,5
+Pocahontas,Rolfe,President,,Robert F. Kennedy Jr and Nicole Shanahan,WTP,4,0,4
+Pocahontas,Courthouse,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pocahontas,Fonda,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pocahontas,Havelock,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pocahontas,Hinde Center,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pocahontas,Laurens,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pocahontas,Palmer,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pocahontas,Rolfe,President,,Shiva Ayyadurai and Crystal Ellis,,0,0,0
+Pocahontas,Courthouse,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pocahontas,Fonda,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pocahontas,Havelock,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pocahontas,Hinde Center,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pocahontas,Laurens,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pocahontas,Palmer,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pocahontas,Rolfe,President,,William P. Stodden and Stephanie H. Cholensky,SOC,0,0,0
+Pocahontas,Courthouse,President,,Write-In,,2,1,1
+Pocahontas,Fonda,President,,Write-In,,2,0,2
+Pocahontas,Havelock,President,,Write-In,,1,0,1
+Pocahontas,Hinde Center,President,,Write-In,,0,0,0
+Pocahontas,Laurens,President,,Write-In,,3,1,2
+Pocahontas,Palmer,President,,Write-In,,0,0,0
+Pocahontas,Rolfe,President,,Write-In,,1,1,0
+Pocahontas,Rolfe,Roosevelt Township Trustee,,Mick Reigelsberger,,29,21,8
+Pocahontas,Rolfe,Roosevelt Township Trustee,,Tom Sefcik,,25,17,8
+Pocahontas,Rolfe,Roosevelt Township Trustee,,Write-In,,0,0,0
+Pocahontas,Havelock,Sherman Township Trustee,,Cody Bunda,,1,0,1
+Pocahontas,Havelock,Sherman Township Trustee,,Write-In,,1,0,1
+Pocahontas,Havelock,Sherman Township Trustee,,Zachary Kopriva,,69,21,48
+Pocahontas,Courthouse,Soil and Water Conservation District Commissioner,,Jon H. Olson,,423,209,214
+Pocahontas,Fonda,Soil and Water Conservation District Commissioner,,Jon H. Olson,,399,172,227
+Pocahontas,Havelock,Soil and Water Conservation District Commissioner,,Jon H. Olson,,178,70,108
+Pocahontas,Hinde Center,Soil and Water Conservation District Commissioner,,Jon H. Olson,,201,67,134
+Pocahontas,Laurens,Soil and Water Conservation District Commissioner,,Jon H. Olson,,326,93,233
+Pocahontas,Palmer,Soil and Water Conservation District Commissioner,,Jon H. Olson,,267,74,193
+Pocahontas,Rolfe,Soil and Water Conservation District Commissioner,,Jon H. Olson,,242,77,165
+Pocahontas,Courthouse,Soil and Water Conservation District Commissioner,,Rick Wadle,,434,205,229
+Pocahontas,Fonda,Soil and Water Conservation District Commissioner,,Rick Wadle,,539,207,332
+Pocahontas,Havelock,Soil and Water Conservation District Commissioner,,Rick Wadle,,198,78,120
+Pocahontas,Hinde Center,Soil and Water Conservation District Commissioner,,Rick Wadle,,226,83,143
+Pocahontas,Laurens,Soil and Water Conservation District Commissioner,,Rick Wadle,,340,95,245
+Pocahontas,Palmer,Soil and Water Conservation District Commissioner,,Rick Wadle,,268,69,199
+Pocahontas,Rolfe,Soil and Water Conservation District Commissioner,,Rick Wadle,,248,84,164
+Pocahontas,Courthouse,Soil and Water Conservation District Commissioner,,Shawn Burke,,0,0,0
+Pocahontas,Fonda,Soil and Water Conservation District Commissioner,,Shawn Burke,,2,0,2
+Pocahontas,Havelock,Soil and Water Conservation District Commissioner,,Shawn Burke,,0,0,0
+Pocahontas,Hinde Center,Soil and Water Conservation District Commissioner,,Shawn Burke,,0,0,0
+Pocahontas,Laurens,Soil and Water Conservation District Commissioner,,Shawn Burke,,0,0,0
+Pocahontas,Palmer,Soil and Water Conservation District Commissioner,,Shawn Burke,,1,1,0
+Pocahontas,Rolfe,Soil and Water Conservation District Commissioner,,Shawn Burke,,0,0,0
+Pocahontas,Courthouse,Soil and Water Conservation District Commissioner,,Write-In,,11,4,7
+Pocahontas,Fonda,Soil and Water Conservation District Commissioner,,Write-In,,12,3,9
+Pocahontas,Havelock,Soil and Water Conservation District Commissioner,,Write-In,,4,2,2
+Pocahontas,Hinde Center,Soil and Water Conservation District Commissioner,,Write-In,,6,0,6
+Pocahontas,Laurens,Soil and Water Conservation District Commissioner,,Write-In,,7,5,2
+Pocahontas,Palmer,Soil and Water Conservation District Commissioner,,Write-In,,5,2,3
+Pocahontas,Rolfe,Soil and Water Conservation District Commissioner,,Write-In,,6,0,6
+Pocahontas,Courthouse,State House,7,Martin Podraza,,91,55,36
+Pocahontas,Fonda,State House,7,Martin Podraza,,112,42,70
+Pocahontas,Havelock,State House,7,Martin Podraza,,30,19,11
+Pocahontas,Hinde Center,State House,7,Martin Podraza,,53,27,26
+Pocahontas,Laurens,State House,7,Martin Podraza,,79,19,60
+Pocahontas,Palmer,State House,7,Martin Podraza,,41,8,33
+Pocahontas,Rolfe,State House,7,Martin Podraza,,58,19,39
+Pocahontas,Courthouse,State House,7,Mike Sexton,REP,547,254,293
+Pocahontas,Fonda,State House,7,Mike Sexton,REP,537,210,327
+Pocahontas,Havelock,State House,7,Mike Sexton,REP,234,77,157
+Pocahontas,Hinde Center,State House,7,Mike Sexton,REP,267,99,168
+Pocahontas,Laurens,State House,7,Mike Sexton,REP,479,117,362
+Pocahontas,Palmer,State House,7,Mike Sexton,REP,337,99,238
+Pocahontas,Rolfe,State House,7,Mike Sexton,REP,326,103,223
+Pocahontas,Courthouse,State House,7,Write-In,,3,2,1
+Pocahontas,Fonda,State House,7,Write-In,,1,0,1
+Pocahontas,Havelock,State House,7,Write-In,,1,0,1
+Pocahontas,Hinde Center,State House,7,Write-In,,0,0,0
+Pocahontas,Laurens,State House,7,Write-In,,3,0,3
+Pocahontas,Palmer,State House,7,Write-In,,0,0,0
+Pocahontas,Rolfe,State House,7,Write-In,,1,0,1
+Pocahontas,Courthouse,State Senate,4,Tim Kraayenbrink,REP,573,266,307
+Pocahontas,Fonda,State Senate,4,Tim Kraayenbrink,REP,578,227,351
+Pocahontas,Havelock,State Senate,4,Tim Kraayenbrink,REP,238,75,163
+Pocahontas,Hinde Center,State Senate,4,Tim Kraayenbrink,REP,287,105,182
+Pocahontas,Laurens,State Senate,4,Tim Kraayenbrink,REP,482,116,366
+Pocahontas,Palmer,State Senate,4,Tim Kraayenbrink,REP,350,96,254
+Pocahontas,Rolfe,State Senate,4,Tim Kraayenbrink,REP,349,104,245
+Pocahontas,Courthouse,State Senate,4,Write-In,,6,3,3
+Pocahontas,Fonda,State Senate,4,Write-In,,4,0,4
+Pocahontas,Havelock,State Senate,4,Write-In,,4,2,2
+Pocahontas,Hinde Center,State Senate,4,Write-In,,3,1,2
+Pocahontas,Laurens,State Senate,4,Write-In,,9,2,7
+Pocahontas,Palmer,State Senate,4,Write-In,,1,0,1
+Pocahontas,Rolfe,State Senate,4,Write-In,,4,1,3
+Pocahontas,Courthouse,Supreme Court Justice - David May,,No,,146,67,79
+Pocahontas,Fonda,Supreme Court Justice - David May,,No,,111,57,54
+Pocahontas,Havelock,Supreme Court Justice - David May,,No,,66,30,36
+Pocahontas,Hinde Center,Supreme Court Justice - David May,,No,,72,32,40
+Pocahontas,Laurens,Supreme Court Justice - David May,,No,,121,32,89
+Pocahontas,Palmer,Supreme Court Justice - David May,,No,,72,19,53
+Pocahontas,Rolfe,Supreme Court Justice - David May,,No,,80,37,43
+Pocahontas,Courthouse,Supreme Court Justice - David May,,Yes,,365,156,209
+Pocahontas,Fonda,Supreme Court Justice - David May,,Yes,,361,125,236
+Pocahontas,Havelock,Supreme Court Justice - David May,,Yes,,148,47,101
+Pocahontas,Hinde Center,Supreme Court Justice - David May,,Yes,,189,56,133
+Pocahontas,Laurens,Supreme Court Justice - David May,,Yes,,301,74,227
+Pocahontas,Palmer,Supreme Court Justice - David May,,Yes,,227,57,170
+Pocahontas,Rolfe,Supreme Court Justice - David May,,Yes,,188,43,145
+Pocahontas,Fonda,Swan Lake Township Trustee,,Ronald D. Egertsen,,23,14,9
+Pocahontas,Laurens,Swan Lake Township Trustee,,Ronald D. Egertsen,,53,19,34
+Pocahontas,Fonda,Swan Lake Township Trustee,,Taylor Roewe,,21,11,10
+Pocahontas,Laurens,Swan Lake Township Trustee,,Taylor Roewe,,59,20,39
+Pocahontas,Fonda,Swan Lake Township Trustee,,Write-In,,0,0,0
+Pocahontas,Laurens,Swan Lake Township Trustee,,Write-In,,0,0,0
+Pocahontas,Courthouse,U.S. House,4,Randy Feenstra,REP,531,258,273
+Pocahontas,Fonda,U.S. House,4,Randy Feenstra,REP,536,200,336
+Pocahontas,Havelock,U.S. House,4,Randy Feenstra,REP,232,74,158
+Pocahontas,Hinde Center,U.S. House,4,Randy Feenstra,REP,254,95,159
+Pocahontas,Laurens,U.S. House,4,Randy Feenstra,REP,461,110,351
+Pocahontas,Palmer,U.S. House,4,Randy Feenstra,REP,335,97,238
+Pocahontas,Rolfe,U.S. House,4,Randy Feenstra,REP,319,102,217
+Pocahontas,Courthouse,U.S. House,4,Ryan Melton,DEM,159,93,66
+Pocahontas,Fonda,U.S. House,4,Ryan Melton,DEM,140,70,70
+Pocahontas,Havelock,U.S. House,4,Ryan Melton,DEM,58,32,26
+Pocahontas,Hinde Center,U.S. House,4,Ryan Melton,DEM,88,42,46
+Pocahontas,Laurens,U.S. House,4,Ryan Melton,DEM,135,34,101
+Pocahontas,Palmer,U.S. House,4,Ryan Melton,DEM,54,12,42
+Pocahontas,Rolfe,U.S. House,4,Ryan Melton,DEM,82,26,56
+Pocahontas,Courthouse,U.S. House,4,Write-In,,4,1,3
+Pocahontas,Fonda,U.S. House,4,Write-In,,3,2,1
+Pocahontas,Havelock,U.S. House,4,Write-In,,1,0,1
+Pocahontas,Hinde Center,U.S. House,4,Write-In,,0,0,0
+Pocahontas,Laurens,U.S. House,4,Write-In,,2,0,2
+Pocahontas,Palmer,U.S. House,4,Write-In,,0,0,0
+Pocahontas,Rolfe,U.S. House,4,Write-In,,0,0,0
