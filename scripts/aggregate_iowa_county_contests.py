@@ -5,10 +5,36 @@ from __future__ import annotations
 
 import argparse
 import csv
+import html
+import re
 from collections import defaultdict
 from pathlib import Path
 
-from aggregate_iowa_contests import clean, is_relevant_contest
+
+def clean(value: object) -> str:
+    value = html.unescape(str(value or "")).upper().replace("&", " AND ")
+    value = re.sub(r"[â€™'`]", "", value)
+    value = re.sub(r"[^A-Z0-9]+", " ", value)
+    return re.sub(r"\s+", " ", value).strip()
+
+
+def is_relevant_contest(office: object) -> bool:
+    text = clean(office)
+    if not text:
+        return False
+    if "PRESIDENT" in text or "US SENATE" in text or "U S SENATE" in text:
+        return True
+    if any(marker in text for marker in (
+        "COUNTY", "TOWNSHIP", " TWP", "CITY", "SCHOOL", "HOSPITAL", "JUDGE",
+        "SUPERVISOR", "HOUSE", "STATE SENATE", "U S HOUSE", "SOIL AND WATER",
+    )):
+        return False
+    statewide_markers = (
+        "GOVERNOR", "LIEUTENANT GOVERNOR", "SECRETARY OF STATE", "ATTORNEY GENERAL",
+        "AUDITOR OF STATE", "TREASURER OF STATE", "SECRETARY OF AGRICULTURE",
+        "AGRICULTURE COMMISSIONER", "COMMISSIONER OF AGRICULTURE",
+    )
+    return any(marker in text for marker in statewide_markers)
 
 
 def main() -> int:

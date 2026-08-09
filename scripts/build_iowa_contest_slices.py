@@ -159,8 +159,17 @@ def main() -> int:
     output_dir = args.output_dir
     output_dir.mkdir(parents=True, exist_ok=True)
     counties = load_counties()
-    manifest = []
     selected_years = set(args.year or [])
+    manifest = []
+    # A targeted rebuild should replace only its requested year(s), not erase
+    # the catalog entries for every other historical contest.
+    manifest_path = output_dir / "manifest.json"
+    if selected_years and manifest_path.exists():
+        try:
+            existing = json.loads(manifest_path.read_text(encoding="utf-8")).get("files", [])
+            manifest = [entry for entry in existing if int(entry.get("year", 0)) not in selected_years]
+        except (OSError, ValueError, TypeError):
+            manifest = []
     sources = {int(path.name[:4]): path for path in args.source_dir.glob("*_contests_to_vtd20.csv")}
     # County aggregates come directly from official result rows and therefore
     # remain complete even when some precinct geometry cannot be matched.
@@ -242,7 +251,8 @@ def main() -> int:
         for path in output_dir.glob("*.json"):
             if path.name not in expected_files:
                 path.unlink()
-    (output_dir / "manifest.json").write_text(json.dumps({"files": manifest}, indent=2) + "\n", encoding="utf-8")
+    manifest.sort(key=lambda entry: (int(entry.get("year", 0)), str(entry.get("contest_type", ""))))
+    manifest_path.write_text(json.dumps({"files": manifest}, indent=2) + "\n", encoding="utf-8")
     print({"slices": len(manifest), "source": str(args.source_dir), "output": str(output_dir)})
     return 0
 

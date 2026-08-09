@@ -176,6 +176,13 @@ def input_paths(year: int, root: Path) -> list[Path]:
     if year == 2018:
         return [root / "data/2018/20181106__ia__general__precinct.csv"]
     if year == 2022:
+        # The statewide combined export is incomplete: it omits Auditor,
+        # Treasurer, and Secretary of Agriculture.  The 99 county exports
+        # contain the complete certified ballot, so use them as the canonical
+        # 2022 source.
+        county_files = sorted((root / "data/2022/counties").glob("*__precinct.csv"))
+        if county_files:
+            return county_files
         return [root / "data/2022/20221108__ia__general__precinct.csv"]
     return [root / f"data/{year}/{year}1108__ia__general__precinct.csv" if year == 2016 else root / f"data/{year}/{year}1103__ia__general__precinct.csv" if year == 2020 else root / f"data/{year}/{year}1105__ia__general__precinct.csv"]
 

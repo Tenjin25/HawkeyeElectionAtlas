@@ -72,6 +72,16 @@
     },
     {
       "year": 2002,
+      "contest_type": "agriculture_commissioner",
+      "file": "agriculture_commissioner_2002.json",
+      "rows": 99,
+      "scope": "",
+      "dem_total": 490561,
+      "rep_total": 446136,
+      "major_party_contested": true
+    },
+    {
+      "year": 2002,
       "contest_type": "attorney_general",
       "file": "attorney_general_2002.json",
       "rows": 99,
@@ -98,16 +108,6 @@
       "scope": "",
       "dem_total": 540449,
       "rep_total": 456612,
-      "major_party_contested": true
-    },
-    {
-      "year": 2002,
-      "contest_type": "agriculture_commissioner",
-      "file": "agriculture_commissioner_2002.json",
-      "rows": 99,
-      "scope": "",
-      "dem_total": 490561,
-      "rep_total": 446136,
       "major_party_contested": true
     },
     {
@@ -162,22 +162,22 @@
     },
     {
       "year": 2006,
-      "contest_type": "governor",
-      "file": "governor_2006.json",
-      "rows": 99,
-      "scope": "",
-      "dem_total": 569021,
-      "rep_total": 467425,
-      "major_party_contested": true
-    },
-    {
-      "year": 2006,
       "contest_type": "agriculture_commissioner",
       "file": "agriculture_commissioner_2006.json",
       "rows": 99,
       "scope": "",
       "dem_total": 495873,
       "rep_total": 523539,
+      "major_party_contested": true
+    },
+    {
+      "year": 2006,
+      "contest_type": "governor",
+      "file": "governor_2006.json",
+      "rows": 99,
+      "scope": "",
+      "dem_total": 569021,
+      "rep_total": 467425,
       "major_party_contested": true
     },
     {
@@ -212,6 +212,16 @@
     },
     {
       "year": 2010,
+      "contest_type": "agriculture_commissioner",
+      "file": "agriculture_commissioner_2010.json",
+      "rows": 99,
+      "scope": "",
+      "dem_total": 398428,
+      "rep_total": 674572,
+      "major_party_contested": true
+    },
+    {
+      "year": 2010,
       "contest_type": "attorney_general",
       "file": "attorney_general_2010.json",
       "rows": 99,
@@ -238,16 +248,6 @@
       "scope": "",
       "dem_total": 484798,
       "rep_total": 592494,
-      "major_party_contested": true
-    },
-    {
-      "year": 2010,
-      "contest_type": "agriculture_commissioner",
-      "file": "agriculture_commissioner_2010.json",
-      "rows": 99,
-      "scope": "",
-      "dem_total": 398428,
-      "rep_total": 674572,
       "major_party_contested": true
     },
     {
@@ -292,6 +292,16 @@
     },
     {
       "year": 2014,
+      "contest_type": "agriculture_commissioner",
+      "file": "agriculture_commissioner_2014.json",
+      "rows": 99,
+      "scope": "",
+      "dem_total": 370209,
+      "rep_total": 675781,
+      "major_party_contested": true
+    },
+    {
+      "year": 2014,
       "contest_type": "attorney_general",
       "file": "attorney_general_2014.json",
       "rows": 99,
@@ -318,16 +328,6 @@
       "scope": "",
       "dem_total": 420778,
       "rep_total": 666023,
-      "major_party_contested": true
-    },
-    {
-      "year": 2014,
-      "contest_type": "agriculture_commissioner",
-      "file": "agriculture_commissioner_2014.json",
-      "rows": 99,
-      "scope": "",
-      "dem_total": 370209,
-      "rep_total": 675781,
       "major_party_contested": true
     },
     {
@@ -382,6 +382,16 @@
     },
     {
       "year": 2018,
+      "contest_type": "agriculture_commissioner",
+      "file": "agriculture_commissioner_2018.json",
+      "rows": 99,
+      "scope": "",
+      "dem_total": 601644,
+      "rep_total": 649249,
+      "major_party_contested": true
+    },
+    {
+      "year": 2018,
       "contest_type": "auditor",
       "file": "auditor_2018.json",
       "rows": 99,
@@ -398,16 +408,6 @@
       "scope": "",
       "dem_total": 629815,
       "rep_total": 664719,
-      "major_party_contested": true
-    },
-    {
-      "year": 2018,
-      "contest_type": "agriculture_commissioner",
-      "file": "agriculture_commissioner_2018.json",
-      "rows": 99,
-      "scope": "",
-      "dem_total": 601644,
-      "rep_total": 649249,
       "major_party_contested": true
     },
     {
@@ -452,12 +452,32 @@
     },
     {
       "year": 2022,
+      "contest_type": "agriculture_commissioner",
+      "file": "agriculture_commissioner_2022.json",
+      "rows": 99,
+      "scope": "",
+      "dem_total": 463652,
+      "rep_total": 730285,
+      "major_party_contested": true
+    },
+    {
+      "year": 2022,
       "contest_type": "attorney_general",
       "file": "attorney_general_2022.json",
       "rows": 99,
       "scope": "",
       "dem_total": 590890,
       "rep_total": 611432,
+      "major_party_contested": true
+    },
+    {
+      "year": 2022,
+      "contest_type": "auditor",
+      "file": "auditor_2022.json",
+      "rows": 99,
+      "scope": "",
+      "dem_total": 600719,
+      "rep_total": 597826,
       "major_party_contested": true
     },
     {
@@ -478,6 +498,16 @@
       "scope": "",
       "dem_total": 480474,
       "rep_total": 723250,
+      "major_party_contested": true
+    },
+    {
+      "year": 2022,
+      "contest_type": "treasurer",
+      "file": "treasurer_2022.json",
+      "rows": 99,
+      "scope": "",
+      "dem_total": 584021,
+      "rep_total": 614943,
       "major_party_contested": true
     },
     {
