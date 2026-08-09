@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2022,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "agriculture_commissioner",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2022_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 127300,
+        "rep_votes": 174288,
+        "other_votes": 172,
+        "total_votes": 301760,
+        "dem_candidate": "John Norwood",
+        "rep_candidate": "Mike Naig",
+        "margin": 46988,
+        "margin_pct": 15.571314952279957,
+        "winner": "REP",
+        "color": "#e93a2d"
+      },
+      "2": {
+        "dem_votes": 123068,
+        "rep_votes": 188379,
+        "other_votes": 169,
+        "total_votes": 311616,
+        "dem_candidate": "John Norwood",
+        "rep_candidate": "Mike Naig",
+        "margin": 65311,
+        "margin_pct": 20.958808276853564,
+        "winner": "REP",
+        "color": "#cb181d"
+      },
+      "3": {
+        "dem_votes": 133622,
+        "rep_votes": 171126,
+        "other_votes": 272,
+        "total_votes": 305020,
+        "dem_candidate": "John Norwood",
+        "rep_candidate": "Mike Naig",
+        "margin": 37504,
+        "margin_pct": 12.295587174611502,
+        "winner": "REP",
+        "color": "#e93a2d"
+      },
+      "4": {
+        "dem_votes": 79662,
+        "rep_votes": 196492,
+        "other_votes": 157,
+        "total_votes": 276311,
+        "dem_candidate": "John Norwood",
+        "rep_candidate": "Mike Naig",
+        "margin": 116830,
+        "margin_pct": 42.28206622248119,
+        "winner": "REP",
+        "color": "#67000d"
+      }
+    }
+  }
+}

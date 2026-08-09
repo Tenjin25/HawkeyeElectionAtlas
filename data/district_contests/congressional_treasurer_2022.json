@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2022,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "treasurer",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2022_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 150418,
+        "rep_votes": 152699,
+        "other_votes": 151,
+        "total_votes": 303268,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "Roby Smith",
+        "margin": 2281,
+        "margin_pct": 0.7521400213672395,
+        "winner": "REP",
+        "color": "#f4c9c5"
+      },
+      "2": {
+        "dem_votes": 156415,
+        "rep_votes": 156483,
+        "other_votes": 130,
+        "total_votes": 313028,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "Roby Smith",
+        "margin": 68,
+        "margin_pct": 0.021723296318540194,
+        "winner": "REP",
+        "color": "#f7f7f7"
+      },
+      "3": {
+        "dem_votes": 168552,
+        "rep_votes": 138662,
+        "other_votes": 250,
+        "total_votes": 307464,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "Roby Smith",
+        "margin": -29890,
+        "margin_pct": -9.721463325787735,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "4": {
+        "dem_votes": 108636,
+        "rep_votes": 167099,
+        "other_votes": 136,
+        "total_votes": 275871,
+        "dem_candidate": "Michael L Fitzgerald",
+        "rep_candidate": "Roby Smith",
+        "margin": 58463,
+        "margin_pct": 21.19215140409829,
+        "winner": "REP",
+        "color": "#cb181d"
+      }
+    }
+  }
+}

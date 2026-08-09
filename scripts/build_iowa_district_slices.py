@@ -415,7 +415,14 @@ def main() -> int:
                 {contest_type for slice_year, _, contest_type in slices if slice_year == year}
             )
 
+    # A targeted rebuild must retain catalog entries for years not being rebuilt.
+    # (The JSON slices themselves are already left in place unless --clean is used.)
     manifest = []
+    manifest_path = args.output_dir / "manifest.json"
+    if args.year and manifest_path.exists():
+        existing = json.loads(manifest_path.read_text(encoding="utf-8")).get("files", [])
+        selected_years = set(years)
+        manifest.extend(entry for entry in existing if entry.get("year") not in selected_years)
     for (year, scope, contest_type), payload in sorted(slices.items()):
         filename = f"{scope}_{contest_type}_{year}.json"
         output = args.output_dir / filename

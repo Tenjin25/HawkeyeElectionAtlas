@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2022,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "auditor",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2022_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 156086,
+        "rep_votes": 146638,
+        "other_votes": 193,
+        "total_votes": 302917,
+        "dem_candidate": "Rob Sand",
+        "rep_candidate": "Todd Halbur",
+        "margin": -9448,
+        "margin_pct": -3.1190061964168403,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "2": {
+        "dem_votes": 165231,
+        "rep_votes": 148239,
+        "other_votes": 141,
+        "total_votes": 313611,
+        "dem_candidate": "Rob Sand",
+        "rep_candidate": "Todd Halbur",
+        "margin": -16992,
+        "margin_pct": -5.418177296076987,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "3": {
+        "dem_votes": 170464,
+        "rep_votes": 136279,
+        "other_votes": 314,
+        "total_votes": 307057,
+        "dem_candidate": "Rob Sand",
+        "rep_candidate": "Todd Halbur",
+        "margin": -34185,
+        "margin_pct": -11.133112093194423,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "4": {
+        "dem_votes": 108938,
+        "rep_votes": 166670,
+        "other_votes": 178,
+        "total_votes": 275786,
+        "dem_candidate": "Rob Sand",
+        "rep_candidate": "Todd Halbur",
+        "margin": 57732,
+        "margin_pct": 20.93362244638959,
+        "winner": "REP",
+        "color": "#cb181d"
+      }
+    }
+  }
+}

@@ -173,17 +173,17 @@
       "source": "data/aggregates_verified/2022_contests_to_county.csv",
       "outputs": {
         "congressional": {
-          "rows": 52,
+          "rows": 88,
           "districts": 4,
           "output": "data/aggregates_county_block_population_2020/2022_contests_to_plan2_congressional.csv"
         },
         "house": {
-          "rows": 1300,
+          "rows": 2200,
           "districts": 100,
           "output": "data/aggregates_county_block_population_2020/2022_contests_to_plan2_house.csv"
         },
         "senate": {
-          "rows": 650,
+          "rows": 1100,
           "districts": 50,
           "output": "data/aggregates_county_block_population_2020/2022_contests_to_plan2_senate.csv"
         }

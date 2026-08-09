@@ -6,16 +6,24 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import re
 from collections import defaultdict
 from pathlib import Path
 
-from aggregate_iowa_contests import clean
 from build_iowa_contest_slices import load_counties
 
 
 ROOT = Path(__file__).resolve().parents[1]
 CHAMBERS = ("congressional", "house", "senate")
 EXPECTED_DISTRICTS = {"congressional": 4, "house": 100, "senate": 50}
+
+
+def clean(value: object) -> str:
+    """Normalize source labels without importing GIS-only dependencies."""
+    value = str(value or "").upper().replace("&", " AND ")
+    value = re.sub(r"[’'`]", "", value)
+    value = re.sub(r"[^A-Z0-9]+", " ", value)
+    return re.sub(r"\s+", " ", value).strip()
 
 
 def load_population(path: Path) -> dict[str, int]:
@@ -119,7 +127,7 @@ def allocate_year(
 
         output = output_dir / f"{year}_contests_to_plan2_{chamber}.csv"
         with output.open("w", encoding="utf-8", newline="") as handle:
-            writer = csv.writer(handle)
+            writer = csv.writer(handle, lineterminator="\n")
             writer.writerow(["year", "plan2_district", "office", "district", "candidate", "party", "votes"])
             for (target, office, district, candidate, party), votes in sorted(
                 allocated.items(), key=lambda item: (int(item[0][0]), item[0][1:])
@@ -172,12 +180,21 @@ def main() -> int:
     summary["geographic_precision"] = "county_population_disaggregation"
 
     results = [allocate_year(year, sources[year], args.output_dir, shares) for year in years]
-    (args.output_dir / "allocation_metadata.json").write_text(
+    metadata_path = args.output_dir / "allocation_metadata.json"
+    if metadata_path.exists():
+        previous_metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
+        summary["years"] = sorted(set(previous_metadata.get("years", [])) | set(years))
+    metadata_path.write_text(
         json.dumps(summary, indent=2) + "\n",
         encoding="utf-8",
     )
-    (args.output_dir / "allocation_summary.json").write_text(
-        json.dumps({"years": results}, indent=2) + "\n",
+    results_path = args.output_dir / "allocation_summary.json"
+    previous_results = []
+    if results_path.exists():
+        previous_results = json.loads(results_path.read_text(encoding="utf-8")).get("years", [])
+    merged_results = [result for result in previous_results if result.get("year") not in years] + results
+    results_path.write_text(
+        json.dumps({"years": sorted(merged_results, key=lambda result: result["year"])}, indent=2) + "\n",
         encoding="utf-8",
     )
     print({"years": years, "population_blocks": len(population), "output": str(args.output_dir)})

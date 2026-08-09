@@ -108,7 +108,7 @@ def main() -> int:
     contested = {key for key, options in contest_options.items() if len(options) > 1}
     args.output.parent.mkdir(parents=True, exist_ok=True)
     with args.output.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.writer(handle)
+        writer = csv.writer(handle, lineterminator="\n")
         writer.writerow(["year", "county", "office", "district", "candidate", "party", "votes"])
         for (county, office, district, candidate, party), votes in sorted(totals.items()):
             if (office, district) in contested:
