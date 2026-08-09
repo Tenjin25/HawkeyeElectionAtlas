@@ -136,7 +136,9 @@ def candidate_label(value: object, contest_type: str, year: int, party: str) -> 
     normalized = CONTEST_CANDIDATES.get((year, contest_type), {}).get(party)
     if normalized:
         return normalized
-    label = str(value or "").strip().title()
+    # A handful of 2024 U.S. House source rows encode the party in the
+    # candidate cell (for example, "Christina DEM") rather than `party`.
+    label = re.sub(r"\s+(?:DEM(?:OCRAT(?:IC)?)?|REP(?:UBLICAN)?)\s*$", "", str(value or ""), flags=re.IGNORECASE).strip().title()
     if year == 2024 and contest_type == "us_house" and label == "Miller-Meeks":
         return "Mariannette Miller-Meeks"
     return label
@@ -144,6 +146,16 @@ def candidate_label(value: object, contest_type: str, year: int, party: str) -> 
 
 def normalized_office(value: object) -> str:
     return re.sub(r"[^A-Z0-9]+", " ", str(value or "").upper()).strip()
+
+
+def normalized_party(value: object, candidate: object) -> str:
+    party = str(value or "").strip().upper()
+    if party:
+        return party
+    suffix = re.search(r"\s+(DEM(?:OCRAT(?:IC)?)?|REP(?:UBLICAN)?)\s*$", str(candidate or ""), flags=re.IGNORECASE)
+    if not suffix:
+        return ""
+    return "DEM" if suffix.group(1).upper().startswith("DEM") else "REP"
 
 
 def build_native_district_slices(source: Path, year: int, lines_year: int) -> dict[tuple[str, str], dict]:
@@ -168,7 +180,7 @@ def build_native_district_slices(source: Path, year: int, lines_year: int) -> di
                 continue
             district = str(int(district_raw))
             bucket = grouped[(scope, contest_type, district)]
-            party = str(row.get("party") or "").strip().upper()
+            party = normalized_party(row.get("party"), row.get("candidate"))
             votes = float(row.get("votes") or 0)
             candidate = candidate_label(row.get("candidate"), contest_type, year, party)
             if party == "DEM" or party.startswith("DEMOCRAT"):
@@ -251,7 +263,7 @@ def build_scope_slices(
             if not district:
                 continue
             bucket = grouped[(contest_type, district)]
-            party = str(row.get("party") or "").strip().upper()
+            party = normalized_party(row.get("party"), row.get("candidate"))
             votes = float(row.get("votes") or 0)
             if party == "DEM" or party.startswith("DEMOCRAT"):
                 bucket["dem_votes"] += votes

@@ -16,16 +16,16 @@
   "general": {
     "results": {
       "1": {
-        "dem_votes": 199493,
+        "dem_votes": 205542,
         "rep_votes": 205784,
-        "other_votes": 6996,
+        "other_votes": 947,
         "dem_candidate": "Christina Bohannan",
         "rep_candidate": "Mariannette Miller-Meeks",
         "total_votes": 412273,
-        "margin": 6291,
-        "margin_pct": 1.5259306333424696,
+        "margin": 242,
+        "margin_pct": 0.05869896888712091,
         "winner": "REP",
-        "color": "#fca793"
+        "color": "#f7f7f7"
       },
       "2": {
         "dem_votes": 169740,
