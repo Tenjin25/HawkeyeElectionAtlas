@@ -860,16 +860,16 @@
     },
     {
       "county": "MONONA",
-      "dem_votes": 0,
-      "rep_votes": 0,
-      "other_votes": 0,
-      "total_votes": 0,
+      "dem_votes": 1171,
+      "rep_votes": 2556,
+      "other_votes": 70,
+      "total_votes": 3797,
       "dem_candidate": "Fred Hubbell",
       "rep_candidate": "Kim Reynolds",
-      "margin": 0,
-      "margin_pct": 0,
-      "winner": "Fred Hubbell",
-      "color": "#f7f7f7"
+      "margin": 1385,
+      "margin_pct": 36.4761653937319,
+      "winner": "Kim Reynolds",
+      "color": "#a50f15"
     },
     {
       "county": "MONROE",

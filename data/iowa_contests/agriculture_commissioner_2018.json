@@ -860,16 +860,16 @@
     },
     {
       "county": "MONONA",
-      "dem_votes": 0,
-      "rep_votes": 0,
-      "other_votes": 0,
-      "total_votes": 0,
+      "dem_votes": 1272,
+      "rep_votes": 2303,
+      "other_votes": 118,
+      "total_votes": 3693,
       "dem_candidate": "Tim Gannon",
       "rep_candidate": "Mike Naig",
-      "margin": 0,
-      "margin_pct": 0,
-      "winner": "Tim Gannon",
-      "color": "#f7f7f7"
+      "margin": 1031,
+      "margin_pct": 27.91768210127268,
+      "winner": "Mike Naig",
+      "color": "#cb181d"
     },
     {
       "county": "MONROE",

@@ -10561,16 +10561,16 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div>
 
-    <script src="./js/atlas-classification.js?v=2026-08-08-iowa-ribbon-v3"></script>
-    <script src="./js/atlas-core.js?v=2026-08-08-iowa-ribbon-v3"></script>
-    <script src="./js/atlas-data.js?v=2026-08-08-iowa-ribbon-v3"></script>
-    <script src="./js/atlas-display.js?v=2026-08-08-iowa-ribbon-v3"></script>
-    <script src="./js/atlas-election.js?v=2026-08-08-iowa-ribbon-v3"></script>
-    <script src="./js/atlas-manifest.js?v=2026-08-08-iowa-ribbon-v3"></script>
-    <script src="./js/atlas-regions.js?v=2026-08-08-iowa-ribbon-v3"></script>
-    <script src="./js/atlas-trends.js?v=2026-08-08-iowa-ribbon-v3"></script>
-    <script src="./js/atlas-turnout.js?v=2026-08-08-iowa-ribbon-v3"></script>
-    <script src="./js/atlas-url-state.js?v=2026-08-08-iowa-ribbon-v3"></script>
+    <script src="./js/atlas-classification.js?v=2026-08-08-iowa-ribbon-v4"></script>
+    <script src="./js/atlas-core.js?v=2026-08-08-iowa-ribbon-v4"></script>
+    <script src="./js/atlas-data.js?v=2026-08-08-iowa-ribbon-v4"></script>
+    <script src="./js/atlas-display.js?v=2026-08-08-iowa-ribbon-v4"></script>
+    <script src="./js/atlas-election.js?v=2026-08-08-iowa-ribbon-v4"></script>
+    <script src="./js/atlas-manifest.js?v=2026-08-08-iowa-ribbon-v4"></script>
+    <script src="./js/atlas-regions.js?v=2026-08-08-iowa-ribbon-v4"></script>
+    <script src="./js/atlas-trends.js?v=2026-08-08-iowa-ribbon-v4"></script>
+    <script src="./js/atlas-turnout.js?v=2026-08-08-iowa-ribbon-v4"></script>
+    <script src="./js/atlas-url-state.js?v=2026-08-08-iowa-ribbon-v4"></script>
     <script>
     // --- CONFIG ---
     const ATLAS_CREATOR_SIGNATURE = Object.freeze({
@@ -10603,8 +10603,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-08-08-iowa-ribbon-v3';
-    const APP_BUILD_ID = '2026-08-08-iowa-ribbon-v3';
+    const DATA_CACHE_BUSTER = '2026-08-08-iowa-ribbon-v4';
+    const APP_BUILD_ID = '2026-08-08-iowa-ribbon-v4';
 
     function withCacheBuster(path) {
       return window.AtlasData.withCacheBuster(path, DATA_CACHE_BUSTER);
@@ -20181,11 +20181,11 @@ document.addEventListener('DOMContentLoaded', function() {
           if (modeledDef?.groupLabel) return modeledDef.groupLabel;
 	        if (contestType === 'president') return 'US President';
 	        if (contestType === 'us_senate') return 'US Senate';
-	        if (contestType === 'governor') return 'Iowa Governor';
-	        if (contestType === 'lieutenant_governor') return 'Iowa Lieutenant Governor';
-	        if (contestType === 'attorney_general') return 'Iowa Attorney General';
-	        if (contestType === 'secretary_of_state') return 'Iowa Secretary of State';
-	        if (contestType === 'treasurer') return 'Iowa Treasurer';
+	        if (contestType === 'governor') return 'Governor';
+	        if (contestType === 'lieutenant_governor') return 'Lieutenant Governor';
+	        if (contestType === 'attorney_general') return 'Attorney General';
+	        if (contestType === 'secretary_of_state') return 'Secretary of State';
+	        if (contestType === 'treasurer') return 'Treasurer';
 	        if (contestType === 'auditor') return 'Auditor';
 	        if (contestType === 'labor_commissioner') return 'Labor Commissioner';
 	        if (contestType === 'insurance_commissioner') return 'Insurance Commissioner';
@@ -20204,11 +20204,11 @@ document.addEventListener('DOMContentLoaded', function() {
 	      const groupOrder = [
 	        'US President',
 	        'US Senate',
-	        'Iowa Governor',
-	        'Iowa Lieutenant Governor',
-	        'Iowa Attorney General',
-	        'Iowa Secretary of State',
-	        'Iowa Treasurer',
+	        'Governor',
+	        'Lieutenant Governor',
+	        'Attorney General',
+	        'Secretary of State',
+	        'Treasurer',
 	        'Auditor',
 	        'Labor Commissioner',
 	        'Insurance Commissioner',
@@ -20365,11 +20365,11 @@ document.addEventListener('DOMContentLoaded', function() {
 	      function groupLabelForContestType(contestType) {
 	        if (contestType === 'president') return 'US President';
 	        if (contestType === 'us_senate') return 'US Senate';
-	        if (contestType === 'governor') return 'Iowa Governor';
-	        if (contestType === 'lieutenant_governor') return 'Iowa Lieutenant Governor';
-	        if (contestType === 'attorney_general') return 'Iowa Attorney General';
-	        if (contestType === 'secretary_of_state') return 'Iowa Secretary of State';
-	        if (contestType === 'treasurer') return 'Iowa Treasurer';
+	        if (contestType === 'governor') return 'Governor';
+	        if (contestType === 'lieutenant_governor') return 'Lieutenant Governor';
+	        if (contestType === 'attorney_general') return 'Attorney General';
+	        if (contestType === 'secretary_of_state') return 'Secretary of State';
+	        if (contestType === 'treasurer') return 'Treasurer';
 	        if (contestType === 'auditor') return 'Auditor';
 	        if (contestType === 'labor_commissioner') return 'Labor Commissioner';
 	        if (contestType === 'insurance_commissioner') return 'Insurance Commissioner';
@@ -20381,11 +20381,11 @@ document.addEventListener('DOMContentLoaded', function() {
 	      const groupOrder = [
 	        'US President',
 	        'US Senate',
-	        'Iowa Governor',
-	        'Iowa Lieutenant Governor',
-	        'Iowa Attorney General',
-	        'Iowa Secretary of State',
-	        'Iowa Treasurer',
+	        'Governor',
+	        'Lieutenant Governor',
+	        'Attorney General',
+	        'Secretary of State',
+	        'Treasurer',
 	        'Auditor',
 	        'Labor Commissioner',
 	        'Insurance Commissioner',
@@ -21223,13 +21223,20 @@ document.addEventListener('DOMContentLoaded', function() {
     function toTitleCaseName(raw) {
       const s = (raw || '').toString().trim();
       if (!s) return '';
+      // A lone capital between a given name and surname is a middle initial.
+      // Source files are inconsistent about punctuation, so make its display
+      // conventional without modifying the source value used for data joins.
+      const addMiddleInitialPeriods = (value) => String(value || '').replace(
+        /(^|\s)([A-Z])(?=\s+[A-Z][A-Za-z'\-]+)/g,
+        '$1$2.'
+      );
       // If it's already mixed-case, keep it.
       const hasLower = /[a-z]/.test(s);
       const hasUpper = /[A-Z]/.test(s);
       if (hasLower && hasUpper) {
-        return s
+        return addMiddleInitialPeriods(s
           .replace(/\bSt (?=[A-Z])/g, 'St. ')
-          .replace(/\bMt (?=[A-Z])/g, 'Mt. ');
+          .replace(/\bMt (?=[A-Z])/g, 'Mt. '));
       }
 
       const lower = s.toLowerCase();
@@ -21241,9 +21248,9 @@ document.addEventListener('DOMContentLoaded', function() {
         if (p.startsWith("o'") && p.length > 2) return "O'" + p[2].toUpperCase() + p.slice(3);
         return p.charAt(0).toUpperCase() + p.slice(1);
       }).join('');
-      return titled
+      return addMiddleInitialPeriods(titled
         .replace(/\bSt (?=[A-Z])/g, 'St. ')
-        .replace(/\bMt (?=[A-Z])/g, 'Mt. ');
+        .replace(/\bMt (?=[A-Z])/g, 'Mt. '));
     }
 
     function displayCountyName(raw) {

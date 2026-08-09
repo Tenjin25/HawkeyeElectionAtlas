@@ -860,16 +860,16 @@
     },
     {
       "county": "MONONA",
-      "dem_votes": 0,
-      "rep_votes": 0,
-      "other_votes": 0,
-      "total_votes": 0,
+      "dem_votes": 1658,
+      "rep_votes": 1924,
+      "other_votes": 104,
+      "total_votes": 3686,
       "dem_candidate": "Rob Sand",
       "rep_candidate": "Mary Mosiman",
-      "margin": 0,
-      "margin_pct": 0,
-      "winner": "Rob Sand",
-      "color": "#f7f7f7"
+      "margin": 266,
+      "margin_pct": 7.216494845360824,
+      "winner": "Mary Mosiman",
+      "color": "#f7634b"
     },
     {
       "county": "MONROE",

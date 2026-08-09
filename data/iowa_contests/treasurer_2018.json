@@ -860,16 +860,16 @@
     },
     {
       "county": "MONONA",
-      "dem_votes": 0,
-      "rep_votes": 0,
-      "other_votes": 0,
-      "total_votes": 0,
+      "dem_votes": 1605,
+      "rep_votes": 1978,
+      "other_votes": 84,
+      "total_votes": 3667,
       "dem_candidate": "Michael L Fitzgerald",
       "rep_candidate": "Jeremy N Davis",
-      "margin": 0,
-      "margin_pct": 0,
-      "winner": "Michael L Fitzgerald",
-      "color": "#f7f7f7"
+      "margin": 373,
+      "margin_pct": 10.171802563403327,
+      "winner": "Jeremy N Davis",
+      "color": "#e93a2d"
     },
     {
       "county": "MONROE",
