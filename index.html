@@ -2838,7 +2838,7 @@ body.focus-active #hover-tooltip[data-context="preview"] {
     --state-red-strong: #9d1428;
     --state-gold: #d6a756;
     --state-gold-pale: #f4e6b3;
-    --state-ribbon: linear-gradient(90deg, var(--state-blue) 0 31%, #f8fafc 31% 48%, var(--state-gold) 48% 52%, #f8fafc 52% 69%, var(--state-red) 69% 100%);
+    --state-ribbon: linear-gradient(90deg, var(--state-blue) 0%, #176da8 38%, var(--state-gold) 50%, #ba3547 62%, var(--state-red) 100%);
     --state-accent-gradient: linear-gradient(135deg, var(--state-blue-strong) 0%, var(--state-blue) 72%, #8d6a2b 100%);
     --ia-control-active: linear-gradient(135deg, #003d73 0%, #005a9c 78%, #9b762f 100%);
     --ia-control-active-strong: linear-gradient(135deg, #002b5c 0%, #004b87 74%, #7c5b22 100%);
@@ -7215,10 +7215,12 @@ body.focus-active #hover-tooltip[data-context="preview"] {
     content: '';
     position: absolute;
     top: 0;
-    left: 0;
-    right: 0;
+    left: 12px;
+    right: 12px;
     height: 4px;
+    border-radius: 0 0 999px 999px;
     background: var(--state-ribbon);
+    opacity: 0.95;
   }
 
   .vote-counter-context {
@@ -9040,7 +9042,7 @@ body.focus-active #hover-tooltip[data-context="preview"] {
 
   /* Ribbon + UI aesthetic polish */
   :root {
-    --state-ribbon: linear-gradient(90deg, #004b87 0 31%, #f8fafc 31% 48%, #d6a756 48% 52%, #f8fafc 52% 69%, #c8102e 69% 100%);
+    --state-ribbon: linear-gradient(90deg, #004b87 0%, #176da8 38%, #d6a756 50%, #ba3547 62%, #c8102e 100%);
     --state-accent-gradient: linear-gradient(136deg, #002b5c 0%, #004b87 76%, #8d6a2b 100%);
     --ui-bg: rgba(255, 255, 255, 0.95);
     --ui-border: rgba(18, 33, 52, 0.15);
@@ -9350,6 +9352,126 @@ body.focus-active #hover-tooltip[data-context="preview"] {
     color: var(--state-blue-strong);
     background: rgba(244, 230, 179, 0.62);
     border-color: rgba(214, 167, 86, 0.48);
+  }
+
+  /* Mobile search ribbon: keep the whole first-use flow in the half sheet.
+     The dock opens this panel at half height, so a stacked submit button and
+     wrapping chip row made the useful context fall below an inner scrollbar. */
+  @media (max-width: 768px) {
+    .map-topbar.mobile-sheet-panel {
+      padding: 10px 12px 12px !important;
+      border: 1px solid rgba(148, 163, 184, 0.28) !important;
+      background:
+        radial-gradient(circle at 100% 0%, rgba(214, 167, 86, 0.18), transparent 38%),
+        linear-gradient(145deg, rgba(8, 26, 48, 0.98), rgba(19, 46, 79, 0.96)) !important;
+    }
+
+    .map-topbar.mobile-sheet-panel .mobile-sheet-grab {
+      min-height: 26px !important;
+      margin: -4px auto 3px;
+      padding: 5px 0 3px;
+    }
+
+    .map-topbar.mobile-sheet-panel .map-topbar-meta {
+      align-items: center;
+      gap: 9px;
+    }
+
+    .map-topbar.mobile-sheet-panel .map-topbar-badge {
+      flex: 0 0 auto;
+      padding: 6px 8px;
+      font-size: 9px;
+    }
+
+    .map-topbar.mobile-sheet-panel .map-topbar-copy strong {
+      font-size: 13px;
+      line-height: 1.18;
+    }
+
+    .map-topbar.mobile-sheet-panel .map-topbar-copy span {
+      display: none;
+    }
+
+    .map-topbar.mobile-sheet-panel .fly-search-bar {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 94px;
+      gap: 8px;
+      align-items: stretch;
+      margin-top: 10px;
+    }
+
+    .map-topbar.mobile-sheet-panel .fly-search-field,
+    .map-topbar.mobile-sheet-panel .fly-search-submit {
+      min-height: 46px !important;
+    }
+
+    .map-topbar.mobile-sheet-panel .fly-search-submit {
+      width: 94px;
+      padding: 0 10px;
+      border-radius: 13px;
+      font-size: 13px;
+    }
+
+    .map-topbar.mobile-sheet-panel .map-topbar-quick-stats {
+      display: inline-block;
+      margin: 8px 0 0;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: rgba(148, 163, 184, 0.16);
+      color: rgba(226, 232, 240, 0.94);
+      font-size: 11px;
+    }
+
+    .map-topbar.mobile-sheet-panel .map-topbar-mode-hint {
+      margin-top: 4px;
+      font-size: 10px;
+      color: rgba(191, 219, 254, 0.86);
+    }
+
+    .map-topbar.mobile-sheet-panel .map-topbar-hints {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 6px;
+      margin-top: 9px;
+      overflow: visible;
+    }
+
+    .map-topbar.mobile-sheet-panel .fly-search-chip {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 0;
+      min-height: 36px;
+      padding: 6px 5px;
+      border-radius: 10px;
+      font-size: 10px;
+      font-weight: 800;
+      line-height: 1.1;
+      text-align: center;
+    }
+
+    .map-topbar.mobile-sheet-panel .fly-search-chip:last-child {
+      grid-column: span 2;
+    }
+
+    .map-topbar.mobile-sheet-panel .context-banner {
+      gap: 6px;
+      margin-top: 9px;
+    }
+
+    .map-topbar.mobile-sheet-panel .context-banner-item {
+      min-height: 48px;
+      padding: 7px 8px;
+      border-radius: 11px;
+    }
+
+    .map-topbar.mobile-sheet-panel .context-banner-label {
+      font-size: 9px;
+    }
+
+    .map-topbar.mobile-sheet-panel .context-banner-value {
+      font-size: 12px;
+    }
   }
 
   #legend-bellwether-chip,
