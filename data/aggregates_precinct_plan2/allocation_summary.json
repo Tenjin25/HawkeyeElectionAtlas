@@ -2,27 +2,27 @@
   "years": [
     {
       "year": 2022,
-      "source": "data/2022/20221108__ia__general__precinct.csv",
+      "source": "data/2022/counties",
       "official_totals": "data/aggregates_verified/2022_contests_to_county.csv",
       "matches": {
-        "direct": 21424,
-        "single_district_county": 65
+        "single_district_county": 110,
+        "direct": 36256
       },
       "calibration": {
-        "candidate_precinct_seed": 1250,
-        "county_population_fallback": 37
+        "candidate_precinct_seed": 2110,
+        "county_population_fallback": 68
       },
       "house": {
         "output": "data/aggregates_precinct_plan2/2022_contests_to_plan2_house.csv",
-        "rows": 1300,
+        "rows": 2200,
         "districts": 100
       },
       "senate": {
         "output": "data/aggregates_precinct_plan2/2022_contests_to_plan2_senate.csv",
-        "rows": 650,
+        "rows": 1100,
         "districts": 50
       },
-      "statewide_rows": 21489
+      "statewide_rows": 36366
     },
     {
       "year": 2024,

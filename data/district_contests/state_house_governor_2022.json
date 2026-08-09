@@ -880,16 +880,16 @@
         "color": "#f7634b"
       },
       "73": {
-        "dem_votes": 7004,
-        "rep_votes": 7091,
-        "other_votes": 431,
-        "total_votes": 14526,
+        "dem_votes": 7077,
+        "rep_votes": 7013,
+        "other_votes": 433,
+        "total_votes": 14523,
         "dem_candidate": "Deidre DeJear",
         "rep_candidate": "Kim Reynolds",
-        "margin": 87,
-        "margin_pct": 0.5989260636100785,
-        "winner": "REP",
-        "color": "#f4c9c5"
+        "margin": -64,
+        "margin_pct": -0.4406803002134545,
+        "winner": "DEM",
+        "color": "#f7f7f7"
       },
       "74": {
         "dem_votes": 6928,
@@ -1000,14 +1000,14 @@
         "color": "#a50f15"
       },
       "83": {
-        "dem_votes": 6353,
-        "rep_votes": 8980,
-        "other_votes": 496,
-        "total_votes": 15829,
+        "dem_votes": 6280,
+        "rep_votes": 9058,
+        "other_votes": 494,
+        "total_votes": 15832,
         "dem_candidate": "Deidre DeJear",
         "rep_candidate": "Kim Reynolds",
-        "margin": 2627,
-        "margin_pct": 16.59612104365405,
+        "margin": 2778,
+        "margin_pct": 17.546740778170793,
         "winner": "REP",
         "color": "#e93a2d"
       },

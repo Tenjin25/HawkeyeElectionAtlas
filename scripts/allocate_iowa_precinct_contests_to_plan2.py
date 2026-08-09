@@ -7,20 +7,43 @@ import argparse
 import csv
 import difflib
 import json
+import re
 from collections import defaultdict
 from pathlib import Path
 
-from aggregate_iowa_contests import clean, precinct_key
-from allocate_iowa_county_contests_to_plan2 import build_county_district_shares, load_population
+from allocate_iowa_county_contests_to_plan2 import build_county_district_shares, clean, load_population
 from build_iowa_district_slices import OFFICE_TYPES
 
 
 ROOT = Path(__file__).resolve().parents[1]
 INPUTS = {
-    2022: ROOT / "data/2022/20221108__ia__general__precinct.csv",
+    2022: ROOT / "data/2022/counties",
     2024: ROOT / "data/2024/20241105__ia__general__precinct.csv",
 }
 CHAMBERS = ("house", "senate")
+
+
+def precinct_key(value: object) -> str:
+    """Normalize precinct labels without importing GIS-only dependencies."""
+    text = clean(value)
+    text = re.sub(r"(?<=[A-Z])(?=\d)|(?<=\d)(?=[A-Z])", " ", text)
+    text = re.sub(r"\b(WLOO|WL)\b", "WATERLOO", text)
+    text = re.sub(r"\bCF\b", "CEDAR FALLS", text)
+    text = re.sub(r"\bW(?=\s*\d)", "WARD ", text)
+    text = re.sub(r"\bP(?=\s*\d)", "PRECINCT ", text)
+    text = re.sub(r"\b(\d+)(?:ST|ND|RD|TH)\b", r"\1", text)
+    text = " ".join({"I": "1", "II": "2", "III": "3", "IV": "4", "V": "5", "VI": "6"}.get(token, token) for token in text.split())
+    text = " ".join(str(int(token)) if token.isdigit() else token for token in text.split())
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def source_files(source: Path) -> list[Path]:
+    if source.is_dir():
+        files = sorted(source.glob("*__precinct.csv"))
+        if not files:
+            raise FileNotFoundError(f"No county precinct files in {source}")
+        return files
+    return [source]
 
 
 def normalized_office(value: object) -> str:
@@ -105,8 +128,10 @@ def find_links(
 
 
 def allocate_year(year: int, source: Path, output_dir: Path, population_fallback: dict) -> dict:
-    with source.open(encoding="utf-8-sig", newline="") as handle:
-        rows = list(csv.DictReader(handle))
+    rows = []
+    for source_file in source_files(source):
+        with source_file.open(encoding="utf-8-sig", newline="") as handle:
+            rows.extend(csv.DictReader(handle))
     house_links, county_links, county_precincts = build_house_links(rows)
     for county, links in population_fallback.items():
         county_links.setdefault(county, links)
@@ -240,11 +265,21 @@ def main() -> int:
         "split_precinct_method": "reported_state_house_ballot_vote_share",
         "years": years,
     }
-    (args.output_dir / "allocation_metadata.json").write_text(
+    metadata_path = args.output_dir / "allocation_metadata.json"
+    if metadata_path.exists():
+        previous_metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
+        metadata["years"] = sorted(set(previous_metadata.get("years", [])) | set(years))
+    metadata_path.write_text(
         json.dumps(metadata, indent=2) + "\n", encoding="utf-8"
     )
-    (args.output_dir / "allocation_summary.json").write_text(
-        json.dumps({"years": results}, indent=2) + "\n", encoding="utf-8"
+    results_path = args.output_dir / "allocation_summary.json"
+    previous_results = []
+    if results_path.exists():
+        previous_results = json.loads(results_path.read_text(encoding="utf-8")).get("years", [])
+    merged_results = [result for result in previous_results if result.get("year") not in years] + results
+    results_path.write_text(
+        json.dumps({"years": sorted(merged_results, key=lambda result: result["year"])}, indent=2) + "\n",
+        encoding="utf-8",
     )
     print({"years": years, "output": str(args.output_dir)})
     return 0

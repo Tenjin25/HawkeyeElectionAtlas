@@ -448,14 +448,14 @@
         "color": "#8bbde0"
       },
       "37": {
-        "dem_votes": 14872,
-        "rep_votes": 12402,
+        "dem_votes": 14960,
+        "rep_votes": 12311,
         "other_votes": 33,
-        "total_votes": 27307,
+        "total_votes": 27304,
         "dem_candidate": "Michael Franken",
         "rep_candidate": "Chuck Grassley",
-        "margin": -2470,
-        "margin_pct": -9.045299739993409,
+        "margin": -2649,
+        "margin_pct": -9.70187518312335,
         "winner": "DEM",
         "color": "#6baed6"
       },
@@ -508,14 +508,14 @@
         "color": "#e93a2d"
       },
       "42": {
-        "dem_votes": 12136,
-        "rep_votes": 17925,
+        "dem_votes": 12048,
+        "rep_votes": 18016,
         "other_votes": 52,
-        "total_votes": 30113,
+        "total_votes": 30116,
         "dem_candidate": "Michael Franken",
         "rep_candidate": "Chuck Grassley",
-        "margin": 5789,
-        "margin_pct": 19.224255305017763,
+        "margin": 5968,
+        "margin_pct": 19.816708726258465,
         "winner": "REP",
         "color": "#e93a2d"
       },

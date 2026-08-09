@@ -448,14 +448,14 @@
         "color": "#4795d2"
       },
       "37": {
-        "dem_votes": 16087,
-        "rep_votes": 10868,
+        "dem_votes": 16143,
+        "rep_votes": 10809,
         "other_votes": 14,
-        "total_votes": 26969,
+        "total_votes": 26966,
         "dem_candidate": "Tom Miller",
         "rep_candidate": "Brenna Bird",
-        "margin": -5219,
-        "margin_pct": -19.35184841855464,
+        "margin": -5334,
+        "margin_pct": -19.780464288363124,
         "winner": "DEM",
         "color": "#4795d2"
       },
@@ -508,14 +508,14 @@
         "color": "#f7634b"
       },
       "42": {
-        "dem_votes": 13750,
-        "rep_votes": 16017,
+        "dem_votes": 13694,
+        "rep_votes": 16076,
         "other_votes": 15,
-        "total_votes": 29782,
+        "total_votes": 29785,
         "dem_candidate": "Tom Miller",
         "rep_candidate": "Brenna Bird",
-        "margin": 2267,
-        "margin_pct": 7.611980390840105,
+        "margin": 2382,
+        "margin_pct": 7.997314084270606,
         "winner": "REP",
         "color": "#f7634b"
       },
