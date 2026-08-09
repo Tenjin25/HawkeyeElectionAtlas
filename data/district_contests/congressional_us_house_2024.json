@@ -10,20 +10,20 @@
     "allocation_method": "direct_precinct_vote_aggregation_by_reported_district",
     "geographic_precision": "native_district_results",
     "target_plan": "Iowa Plan 2 enacted in 2021",
-    "source": "data/2024/20241105__ia__general__precinct.csv",
+    "source": "data/2024/20241105__ia__general__county.csv",
     "source_scope": "congressional"
   },
   "general": {
     "results": {
       "1": {
-        "dem_votes": 205542,
-        "rep_votes": 205784,
-        "other_votes": 947,
+        "dem_votes": 206156,
+        "rep_votes": 206955,
+        "other_votes": 967,
         "dem_candidate": "Christina Bohannan",
         "rep_candidate": "Mariannette Miller-Meeks",
-        "total_votes": 412273,
-        "margin": 242,
-        "margin_pct": 0.05869896888712091,
+        "total_votes": 414078,
+        "margin": 799,
+        "margin_pct": 0.19295881452286767,
         "winner": "REP",
         "color": "#f7f7f7"
       },
@@ -52,14 +52,14 @@
         "color": "#fca793"
       },
       "4": {
-        "dem_votes": 121673,
-        "rep_votes": 249589,
-        "other_votes": 1119,
+        "dem_votes": 122175,
+        "rep_votes": 250522,
+        "other_votes": 1127,
         "dem_candidate": "Ryan Melton",
         "rep_candidate": "Randy Feenstra",
-        "total_votes": 372381,
-        "margin": 127916,
-        "margin_pct": 34.350839597079336,
+        "total_votes": 373824,
+        "margin": 128347,
+        "margin_pct": 34.33353663756206,
         "winner": "REP",
         "color": "#a50f15"
       }

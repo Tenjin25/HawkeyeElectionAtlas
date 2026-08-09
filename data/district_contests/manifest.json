@@ -2427,8 +2427,8 @@
       "allocation_method": "direct_precinct_vote_aggregation_by_reported_district",
       "geographic_precision": "native_district_results",
       "target_plan": "Iowa Plan 2 enacted in 2021",
-      "dem_total": 694917,
-      "rep_total": 902459,
+      "dem_total": 696033,
+      "rep_total": 904563,
       "major_party_contested": true
     },
     {

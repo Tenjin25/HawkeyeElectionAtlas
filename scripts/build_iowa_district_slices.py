@@ -64,9 +64,24 @@ NATIVE_DISTRICT_INPUTS = {
     2022: ROOT / "data/2022/20221108__ia__general__precinct.csv",
     2024: ROOT / "data/2024/20241105__ia__general__precinct.csv",
 }
+NATIVE_OFFICIAL_INPUTS = {
+    # The precinct export omits some certified 2024 U.S. House votes.  The
+    # accompanying county canvass has the final certified district totals.
+    2024: ROOT / "data/2024/20241105__ia__general__county.csv",
+}
 NATIVE_DISTRICT_COUNTS = {
     2022: {"congressional": 4, "state_house": 100, "state_senate": 34},
     2024: {"congressional": 4, "state_house": 100, "state_senate": 25},
+}
+OFFICIAL_US_HOUSE_PARTIES_2024 = {
+    "ASHLEY HINSON": "REP",
+    "CHRISTINA BOHANNAN": "DEM",
+    "LANON BACCAM": "DEM",
+    "MARIANNETTE MILLER MEEKS": "REP",
+    "RANDY FEENSTRA": "REP",
+    "RYAN MELTON": "DEM",
+    "SARAH CORKERY": "DEM",
+    "ZACH NUNN": "REP",
 }
 
 
@@ -158,6 +173,10 @@ def normalized_party(value: object, candidate: object) -> str:
     return "DEM" if suffix.group(1).upper().startswith("DEM") else "REP"
 
 
+def normalized_candidate(value: object) -> str:
+    return re.sub(r"[^A-Z0-9]+", " ", str(value or "").upper()).strip()
+
+
 def build_native_district_slices(source: Path, year: int, lines_year: int) -> dict[tuple[str, str], dict]:
     """Aggregate district-specific legislative and U.S. House votes by reported district."""
     grouped = defaultdict(
@@ -175,6 +194,9 @@ def build_native_district_slices(source: Path, year: int, lines_year: int) -> di
             if not contest:
                 continue
             scope, contest_type = contest
+            # Use the certified county canvass for this one race below.
+            if contest_type == "us_house" and year in NATIVE_OFFICIAL_INPUTS:
+                continue
             district_raw = str(row.get("district") or "").strip()
             if not district_raw:
                 continue
@@ -192,6 +214,31 @@ def build_native_district_slices(source: Path, year: int, lines_year: int) -> di
             else:
                 bucket["other_votes"] += votes
 
+    official_source = NATIVE_OFFICIAL_INPUTS.get(year)
+    if official_source:
+        with official_source.open(encoding="utf-8-sig", newline="") as handle:
+            for row in csv.DictReader(handle):
+                contest = NATIVE_DISTRICT_CONTESTS.get(normalized_office(row.get("office")))
+                if contest != ("congressional", "us_house"):
+                    continue
+                district_raw = str(row.get("district") or "").strip()
+                if not district_raw:
+                    continue
+                district = str(int(district_raw))
+                candidate_raw = row.get("candidate")
+                party = OFFICIAL_US_HOUSE_PARTIES_2024.get(normalized_candidate(candidate_raw), "")
+                votes = float(row.get("votes") or 0)
+                bucket = grouped[("congressional", "us_house", district)]
+                candidate = candidate_label(candidate_raw, "us_house", year, party)
+                if party == "DEM":
+                    bucket["dem_votes"] += votes
+                    bucket["dem_candidates"][candidate] += votes
+                elif party == "REP":
+                    bucket["rep_votes"] += votes
+                    bucket["rep_candidates"][candidate] += votes
+                else:
+                    bucket["other_votes"] += votes
+
     results_by_contest = defaultdict(dict)
     for (scope, contest_type, district), bucket in grouped.items():
         dem_candidates = bucket.pop("dem_candidates")
@@ -203,6 +250,7 @@ def build_native_district_slices(source: Path, year: int, lines_year: int) -> di
     slices = {}
     for (scope, contest_type), results in results_by_contest.items():
         integerize_results(results)
+        result_source = official_source if contest_type == "us_house" and official_source else source
         slices[(scope, contest_type)] = {
             "meta": {
                 "state": "IA",
@@ -215,7 +263,7 @@ def build_native_district_slices(source: Path, year: int, lines_year: int) -> di
                 "allocation_method": "direct_precinct_vote_aggregation_by_reported_district",
                 "geographic_precision": "native_district_results",
                 "target_plan": "Iowa Plan 2 enacted in 2021",
-                "source": source.relative_to(ROOT).as_posix(),
+                "source": result_source.relative_to(ROOT).as_posix(),
                 "source_scope": scope,
             },
             "general": {"results": dict(sorted(results.items(), key=lambda item: int(item[0])))},
