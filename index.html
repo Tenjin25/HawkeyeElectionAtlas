@@ -10297,9 +10297,9 @@ document.addEventListener('DOMContentLoaded', function() {
     <script src="./js/atlas-display.js"></script>
     <script src="./js/atlas-election.js"></script>
     <script src="./js/atlas-manifest.js"></script>
-    <script src="./js/atlas-regions.js"></script>
+    <script src="./js/atlas-regions.js?v=2026-08-08-obrien-county-color"></script>
     <script src="./js/atlas-trends.js"></script>
-    <script src="./js/atlas-turnout.js"></script>
+    <script src="./js/atlas-turnout.js?v=2026-08-08-obrien-county-color"></script>
     <script src="./js/atlas-url-state.js"></script>
     <script>
     // --- CONFIG ---
@@ -10333,8 +10333,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-08-08-iowa-legislative-contests-layer-state';
-    const APP_BUILD_ID = '2026-08-08-iowa-legislative-contests-layer-state';
+    const DATA_CACHE_BUSTER = '2026-08-08-obrien-county-color';
+    const APP_BUILD_ID = '2026-08-08-obrien-county-color';
 
     function withCacheBuster(path) {
       return window.AtlasData.withCacheBuster(path, DATA_CACHE_BUSTER);
@@ -10485,6 +10485,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function normalizeRegionCountyName(name) {
       return window.AtlasRegions.normalizeCountyName(name);
+    }
+
+    function countyFeatureNameExpression() {
+      return window.AtlasRegions.countyFeatureNameExpression();
     }
 
     function getRegionCountySet(regionKey) {
@@ -13078,7 +13082,8 @@ document.addEventListener('DOMContentLoaded', function() {
       return window.AtlasTurnout.buildCountyExpression(
         baseOpacity,
         currentCountyTurnoutTotals,
-        turnoutBivariateEnabled
+        turnoutBivariateEnabled,
+        countyFeatureNameExpression()
       );
     }
 
@@ -24898,7 +24903,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function bellwetherCountyNameExpr() {
-      return ['upcase', ['coalesce', ['get', 'NAME20'], ['get', 'CountyName'], ['get', 'NAME'], ['get', 'county_nam'], ['get', 'COUNTYNAME'], ['get', 'County'], ['get', 'name']]];
+      return countyFeatureNameExpression();
     }
 
     function syncBellwetherCountyLayerFilter() {
@@ -25106,7 +25111,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
       const countyExpr = [
         'match',
-        ['upcase', ['coalesce', ['get', 'NAME20'], ['get', 'CountyName'], ['get', 'COUNTYNAME'], ['get', 'county_nam'], ['get', 'NAME']]]
+        countyFeatureNameExpression()
       ];
       Object.entries(countyTotals).forEach(([countyNorm, totals]) => {
         const signed = signedCountyMarginPctDisplayValue(totals.dem, totals.rep, totals.total);
@@ -25460,7 +25465,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
       }
 
-      const countyNameExpr = ['upcase', ['coalesce', ['get', 'NAME20'], ['get', 'CountyName'], ['get', 'COUNTYNAME'], ['get', 'county_nam'], ['get', 'NAME'], ['get', 'name']]];
+      const countyNameExpr = countyFeatureNameExpression();
       const filter = ['in', countyNameExpr, ['literal', listUpper]];
       try { map.setFilter(layerId, filter); } catch (_) {}
       try { map.setLayoutProperty(layerId, 'visibility', 'visible'); } catch (_) {}
@@ -34507,7 +34512,7 @@ document.addEventListener('DOMContentLoaded', function() {
             );
             countyExpr.push([
               '==',
-              ['upcase', ['coalesce', ['get', 'NAME20'], ['get', 'CountyName'], ['get', 'COUNTYNAME'], ['get', 'county_nam'], ['get', 'NAME']]],
+              countyFeatureNameExpression(),
               countyNorm
             ]);
             countyExpr.push(color);
@@ -34583,7 +34588,7 @@ document.addEventListener('DOMContentLoaded', function() {
               : colorForPopulationChangeMode(countyPct);
             countyExpr.push([
               '==',
-              ['upcase', ['coalesce', ['get', 'NAME20'], ['get', 'CountyName'], ['get', 'COUNTYNAME'], ['get', 'county_nam'], ['get', 'NAME']]],
+              countyFeatureNameExpression(),
               countyNorm
             ]);
             countyExpr.push(color);
@@ -34688,7 +34693,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const expr = cachedCountyExpr?.expr || (() => {
         const out = [
           'match',
-          ['upcase', ['coalesce', ['get', 'NAME20'], ['get', 'CountyName'], ['get', 'COUNTYNAME'], ['get', 'county_nam'], ['get', 'NAME']]]
+          countyFeatureNameExpression()
         ];
         const fillMap = new Map();
         let countiesProcessed = 0;
@@ -34786,9 +34791,9 @@ document.addEventListener('DOMContentLoaded', function() {
           const f = flipInfo(prevSigned, curSigned);
           if (!f.flipped) continue;
           const toColor = colorForFlipMode(f.to);
-          flipColorExpr.push(['==', ['upcase', ['coalesce', ['get', 'NAME20'], ['get', 'CountyName'], ['get', 'COUNTYNAME'], ['get', 'county_nam'], ['get', 'NAME']]], countyNorm]);
+          flipColorExpr.push(['==', countyFeatureNameExpression(), countyNorm]);
           flipColorExpr.push(toColor);
-          flipWidthExpr.push(['==', ['upcase', ['coalesce', ['get', 'NAME20'], ['get', 'CountyName'], ['get', 'COUNTYNAME'], ['get', 'county_nam'], ['get', 'NAME']]], countyNorm]);
+          flipWidthExpr.push(['==', countyFeatureNameExpression(), countyNorm]);
           flipWidthExpr.push(3);
         }
         flipColorExpr.push('rgba(15,23,42,0.35)');

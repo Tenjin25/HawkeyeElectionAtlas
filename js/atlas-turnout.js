@@ -36,16 +36,18 @@
     return Math.max(0.24, baseOpacity - 0.18);
   }
 
-  function buildCountyExpression(baseOpacity, totals, enabled = true) {
+  function buildCountyExpression(baseOpacity, totals, enabled = true, countyNameExpression = null) {
     const entries = Object.entries(totals || {});
     if (!enabled || !entries.length) return baseOpacity;
     const meta = buildOpacityMeta(entries.map(([, total]) => total));
     if (!meta) return baseOpacity;
+    const featureCountyName = countyNameExpression ||
+      ['upcase', ['coalesce', ['get', 'county_norm'], ['get', 'NAME20'], ['get', 'CountyName'], ['get', 'COUNTYNAME'], ['get', 'county_nam'], ['get', 'NAME'], '']];
     const expression = ['case'];
     entries.forEach(([countyNorm, totalVotes]) => {
       expression.push([
         '==',
-        ['upcase', ['coalesce', ['get', 'NAME20'], ['get', 'CountyName'], ['get', 'COUNTYNAME'], ['get', 'county_nam'], ['get', 'NAME']]],
+        featureCountyName,
         countyNorm
       ]);
       expression.push(opacityFromTotal(totalVotes, meta, baseOpacity));

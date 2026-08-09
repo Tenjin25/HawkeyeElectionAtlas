@@ -22,6 +22,35 @@
     return IOWA_COUNTY_ALIASES[compact] || normalized;
   }
 
+  function countyFeatureNameExpression() {
+    const rawName = [
+      'upcase',
+      ['coalesce',
+        ['get', 'county_norm'],
+        ['get', 'NAME20'],
+        ['get', 'CountyName'],
+        ['get', 'COUNTYNAME'],
+        ['get', 'county_nam'],
+        ['get', 'NAME'],
+        ['get', 'County'],
+        ['get', 'name'],
+        ''
+      ]
+    ];
+
+    // Mapbox expressions cannot call normalizeCountyName(). Canonicalize the
+    // source spellings here so paint/filter joins use the election-data keys.
+    return [
+      'match',
+      rawName,
+      ["O'BRIEN", 'O\u2019BRIEN', 'OBREIN'],
+      'OBRIEN',
+      ['VAN', 'VANBUREN'],
+      'VAN BUREN',
+      rawName
+    ];
+  }
+
   function getCountySet(counties) {
     return new Set(
       (Array.isArray(counties) ? counties : [])
@@ -73,6 +102,7 @@
 
   return {
     normalizeCountyName,
+    countyFeatureNameExpression,
     getCountySet,
     aggregateContestRows
   };
