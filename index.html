@@ -9263,6 +9263,154 @@ body.focus-active #hover-tooltip[data-context="preview"] {
     }
   }
 
+  /* Iowa color consolidation: keep party/result colors semantic while every
+     non-party control uses the atlas blue, gold, and neutral surfaces. */
+  #help-btn,
+  #accessibility-toggle,
+  #label-toggle {
+    color: #ffffff !important;
+    -webkit-text-fill-color: #ffffff !important;
+    background: var(--ia-control-idle) !important;
+    border-color: rgba(214, 167, 86, 0.42) !important;
+    box-shadow: var(--ia-control-shadow) !important;
+  }
+
+  #help-btn:hover,
+  #accessibility-toggle:hover,
+  #label-toggle:hover,
+  #accessibility-toggle[aria-pressed="true"],
+  #label-toggle[aria-pressed="true"] {
+    background: var(--ia-control-active) !important;
+    border-color: rgba(214, 167, 86, 0.76) !important;
+    box-shadow: 0 0 0 2px var(--ia-control-ring), var(--ia-control-shadow) !important;
+  }
+
+  .minimize-btn,
+  #main-controls .controls-header #controls-minimize-btn,
+  #legend-minimize-btn {
+    background: linear-gradient(180deg, var(--state-blue) 0%, var(--state-blue-strong) 100%) !important;
+    border: 1px solid rgba(214, 167, 86, 0.58) !important;
+    box-shadow: 0 8px 18px rgba(0, 43, 92, 0.24) !important;
+  }
+
+  .control-group-primary {
+    border-color: rgba(214, 167, 86, 0.34) !important;
+  }
+
+  #contestSelect {
+    box-shadow: 0 14px 30px rgba(0, 75, 135, 0.10), inset 0 1px 0 rgba(255, 255, 255, 0.78) !important;
+  }
+
+  .contest-onboard-hint {
+    background: rgba(244, 230, 179, 0.58) !important;
+    border-color: rgba(214, 167, 86, 0.42) !important;
+  }
+
+  .contest-onboard-kicker {
+    color: var(--state-blue) !important;
+  }
+
+  .contest-loading-indicator::before {
+    background: rgba(214, 167, 86, 0.84);
+    box-shadow: 0 0 0 4px rgba(214, 167, 86, 0.18);
+  }
+
+  .contest-loading-indicator[data-variant="spin"]::before {
+    background: transparent;
+    box-shadow: none;
+    border-color: rgba(0, 75, 135, 0.24);
+    border-top-color: var(--state-blue);
+  }
+
+  .desktop-fly-group {
+    background: linear-gradient(180deg, rgba(244, 230, 179, 0.44) 0%, rgba(248, 250, 252, 0.94) 100%) !important;
+    border-color: rgba(214, 167, 86, 0.34) !important;
+  }
+
+  .desktop-fly-submit {
+    background: var(--state-accent-gradient) !important;
+    border: 1px solid rgba(214, 167, 86, 0.62) !important;
+    box-shadow: 0 12px 24px rgba(0, 43, 92, 0.24) !important;
+  }
+
+  #desktop-fly-search:focus {
+    border-color: rgba(0, 75, 135, 0.72) !important;
+    box-shadow: 0 0 0 3px rgba(214, 167, 86, 0.22) !important;
+  }
+
+  .desktop-quick-stats,
+  .desktop-statewide-tag,
+  .control-summary-pill-scenario {
+    color: var(--state-blue-strong) !important;
+    background: rgba(244, 230, 179, 0.68) !important;
+    border-color: rgba(214, 167, 86, 0.42) !important;
+  }
+
+  .desktop-fly-chip:hover {
+    color: var(--state-blue-strong);
+    background: rgba(244, 230, 179, 0.62);
+    border-color: rgba(214, 167, 86, 0.48);
+  }
+
+  #legend-bellwether-chip,
+  #legend-bellwether-chip[data-enabled="false"] {
+    color: var(--state-blue-strong);
+    background: rgba(244, 230, 179, 0.82);
+    border-color: rgba(214, 167, 86, 0.58);
+  }
+
+  #legend-bellwether-chip[data-enabled="true"] {
+    color: #ffffff;
+    background: var(--state-accent-gradient);
+    border-color: rgba(214, 167, 86, 0.78);
+    box-shadow: 0 0 0 2px var(--ia-control-ring);
+  }
+
+  .meta-chip.shift .dot {
+    background: var(--state-gold);
+  }
+
+  .meta-chip.flip.dem .dot { background: #2563eb; }
+  .meta-chip.flip.rep .dot { background: #dc2626; }
+
+  .vote-counter {
+    border-color: rgba(73, 96, 127, 0.24) !important;
+  }
+
+  #pop-change-metric {
+    border-color: rgba(97, 126, 161, 0.44) !important;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.98) 0%, rgba(246, 249, 253, 0.98) 100%) !important;
+    color: #14263c !important;
+  }
+
+  #scenario-swing {
+    appearance: none;
+    height: 7px;
+    border-radius: 999px;
+    border: 1px solid rgba(73, 96, 127, 0.24);
+    background: linear-gradient(90deg, #4795d2 0%, #c7ddf0 43%, #f7f7f7 50%, #f4c9c5 57%, #e93a2d 100%);
+    accent-color: var(--state-blue);
+  }
+
+  #scenario-swing::-webkit-slider-thumb {
+    appearance: none;
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    border: 2px solid var(--state-blue-strong);
+    background: var(--state-gold-pale);
+    box-shadow: 0 2px 7px rgba(0, 43, 92, 0.28);
+  }
+
+  #scenario-swing::-moz-range-thumb {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 2px solid var(--state-blue-strong);
+    background: var(--state-gold-pale);
+    box-shadow: 0 2px 7px rgba(0, 43, 92, 0.28);
+  }
+
 </style>
 </head>
 <body>
@@ -9892,7 +10040,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <div class="contest-toolbar">
                   <label>Quick tools</label>
                   <div class="contest-tools-row">
-                    <button id="accessibility-toggle" title="Accessibility: Color Blind Mode" data-testid="tool-colorblind" aria-label="Toggle color blind mode" aria-pressed="false">&#9855;</button>
+                    <button id="accessibility-toggle" title="Accessibility: Color Blind Mode" data-testid="tool-colorblind" aria-label="Toggle color blind mode" aria-pressed="false">CB</button>
                     <button id="label-toggle" title="Toggle County Labels" data-testid="tool-labels" aria-label="Toggle county labels" aria-pressed="true">Aa</button>
                     <button id="precinct-toggle" title="Enable Precinct Overlay (Zoom 8.5+)" data-testid="tool-precinct-overlay" aria-label="Toggle precinct overlay" aria-pressed="false">Precincts Off</button>
                     <button id="split-ticket-toggle" title="Overlay Governor over President to highlight split-ticket patterns" class="tool-chip-btn" type="button" data-testid="tool-split-ticket" aria-label="Toggle split ticket comparison" aria-pressed="false">Pres-Gov</button>
@@ -9987,9 +10135,9 @@ document.addEventListener('DOMContentLoaded', function() {
               </summary>
               <div class="scenario-row">
                 <label for="scenario-swing">Swing-O-Meter</label>
-                <input id="scenario-swing" type="range" min="-15" max="15" step="0.5" value="0" data-testid="scenario-swing" aria-label="Democratic swing percentage" />
+                <input id="scenario-swing" type="range" min="-15" max="15" step="0.5" value="0" data-testid="scenario-swing" aria-label="Partisan swing percentage; negative Democratic, positive Republican" />
                 <span class="scenario-value" id="scenario-swing-value">0.0%</span>
-                <div class="scenario-help">Direct shift for quick what-if testing. Positive is more Democratic, negative is more Republican.</div>
+                <div class="scenario-help">Direct shift for quick what-if testing. Negative is more Democratic; positive is more Republican.</div>
               </div>
               <div class="scenario-row scenario-row-actions">
                 <span></span>
@@ -10022,7 +10170,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <div class="scenario-help">Used by Pop Change mode in county view.</div>
               </div>
               <div class="controls-panel-note">
-                Positive swing shifts margins toward Democrats. Negative values shift toward Republicans.
+                Negative values shift margins toward Democrats. Positive values shift toward Republicans.
               </div>
             </details>
             <details class="control-group control-group-analytics controls-disclosure" id="analytics-disclosure">
@@ -10291,16 +10439,16 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div>
 
-    <script src="./js/atlas-classification.js"></script>
-    <script src="./js/atlas-core.js"></script>
-    <script src="./js/atlas-data.js"></script>
-    <script src="./js/atlas-display.js"></script>
-    <script src="./js/atlas-election.js"></script>
-    <script src="./js/atlas-manifest.js"></script>
-    <script src="./js/atlas-regions.js?v=2026-08-08-obrien-county-color"></script>
-    <script src="./js/atlas-trends.js"></script>
-    <script src="./js/atlas-turnout.js?v=2026-08-08-obrien-county-color"></script>
-    <script src="./js/atlas-url-state.js"></script>
+    <script src="./js/atlas-classification.js?v=2026-08-08-iowa-ui-colors-v2"></script>
+    <script src="./js/atlas-core.js?v=2026-08-08-iowa-ui-colors-v2"></script>
+    <script src="./js/atlas-data.js?v=2026-08-08-iowa-ui-colors-v2"></script>
+    <script src="./js/atlas-display.js?v=2026-08-08-iowa-ui-colors-v2"></script>
+    <script src="./js/atlas-election.js?v=2026-08-08-iowa-ui-colors-v2"></script>
+    <script src="./js/atlas-manifest.js?v=2026-08-08-iowa-ui-colors-v2"></script>
+    <script src="./js/atlas-regions.js?v=2026-08-08-iowa-ui-colors-v2"></script>
+    <script src="./js/atlas-trends.js?v=2026-08-08-iowa-ui-colors-v2"></script>
+    <script src="./js/atlas-turnout.js?v=2026-08-08-iowa-ui-colors-v2"></script>
+    <script src="./js/atlas-url-state.js?v=2026-08-08-iowa-ui-colors-v2"></script>
     <script>
     // --- CONFIG ---
     const ATLAS_CREATOR_SIGNATURE = Object.freeze({
@@ -10333,8 +10481,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-08-08-obrien-county-color';
-    const APP_BUILD_ID = '2026-08-08-obrien-county-color';
+    const DATA_CACHE_BUSTER = '2026-08-08-iowa-ui-colors-v2';
+    const APP_BUILD_ID = '2026-08-08-iowa-ui-colors-v2';
 
     function withCacheBuster(path) {
       return window.AtlasData.withCacheBuster(path, DATA_CACHE_BUSTER);
@@ -12659,7 +12807,7 @@ document.addEventListener('DOMContentLoaded', function() {
       hint.classList.add('is-visible');
       hint.innerHTML = `
         <span class="spinner" aria-hidden="true" style="display:inline-flex;align-items:center;justify-content:center;width:14px;height:14px;">
-          <svg width="14" height="14" viewBox="0 0 50 50"><circle cx="25" cy="25" r="20" fill="none" stroke="#2563eb" stroke-width="5" stroke-linecap="round" stroke-dasharray="31.4 31.4" transform="rotate(-90 25 25)"/></svg>
+          <svg width="14" height="14" viewBox="0 0 50 50"><circle cx="25" cy="25" r="20" fill="none" stroke="#004b87" stroke-width="5" stroke-linecap="round" stroke-dasharray="31.4 31.4" transform="rotate(-90 25 25)"/></svg>
         </span>
         <span>Loading ${y} lines (first-time load can take <b>10–30s</b>)…</span>
       `;
@@ -13368,7 +13516,11 @@ document.addEventListener('DOMContentLoaded', function() {
       const n = Number(rawValue || 0);
       scenarioSwingPct = Number.isFinite(n) ? Math.max(-15, Math.min(15, n)) : 0;
       const labelEl = document.getElementById('scenario-swing-value');
-      if (labelEl) labelEl.textContent = `${scenarioSwingPct.toFixed(1)}%`;
+      if (labelEl) {
+        labelEl.textContent = scenarioSwingPct > 0
+          ? `R +${scenarioSwingPct.toFixed(1)}%`
+          : (scenarioSwingPct < 0 ? `D +${Math.abs(scenarioSwingPct).toFixed(1)}%` : '0.0%');
+      }
     }
 
     // (saveUIState/restoreUIState defined above as no-ops)
@@ -20061,7 +20213,7 @@ document.addEventListener('DOMContentLoaded', function() {
         spinner.id = 'contest-loading-spinner';
         spinner.className = 'spinner';
         spinner.style.marginLeft = '8px';
-        spinner.innerHTML = '<svg width="18" height="18" viewBox="0 0 50 50"><circle cx="25" cy="25" r="20" fill="none" stroke="#2563eb" stroke-width="5" stroke-linecap="round" stroke-dasharray="31.4 31.4" transform="rotate(-90 25 25)"/></svg>';
+        spinner.innerHTML = '<svg width="18" height="18" viewBox="0 0 50 50"><circle cx="25" cy="25" r="20" fill="none" stroke="#004b87" stroke-width="5" stroke-linecap="round" stroke-dasharray="31.4 31.4" transform="rotate(-90 25 25)"/></svg>';
         sel.parentNode.insertBefore(spinner, sel.nextSibling);
       }
 	      const contestTypes = [
@@ -26503,7 +26655,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
       if (isBellwetherCounty(norm)) {
-        chips.push('<span class="result-chip" style="background:rgba(168,85,247,0.16);color:#581c87;border-color:rgba(216,180,254,0.55);">Barometer County</span>');
+        chips.push('<span class="result-chip" style="background:rgba(244,230,179,0.78);color:#002b5c;border-color:rgba(214,167,86,0.58);">Barometer County</span>');
       }
 
       const splitInsight = getSplitTicketCountyInsight(norm, contestType, demVotes, repVotes, totalVotes);
@@ -28186,7 +28338,7 @@ document.addEventListener('DOMContentLoaded', function() {
       if (countySubhead) {
         const strengthPillClass = partyTone === 'rep' ? 'rep' : (partyTone === 'dem' ? 'dem' : '');
         const bellwetherPill = isBellwetherCounty(norm)
-          ? `<span class="pill" style="background:rgba(168,85,247,0.12);border-color:rgba(216,180,254,0.55);color:#581c87;">Barometer</span>`
+          ? `<span class="pill" style="background:rgba(244,230,179,0.72);border-color:rgba(214,167,86,0.58);color:#002b5c;">Barometer</span>`
           : '';
         countySubhead.innerHTML = `
           <span class="pill ${escapeHtml(strengthPillClass)}"><strong>${escapeHtml(winner === 'Tie' ? 'Even' : shortCandidateLabel(winnerCandidate, winner === 'Republican' ? 'R' : 'D'))}</strong> ${escapeHtml(marginShort)}</span>

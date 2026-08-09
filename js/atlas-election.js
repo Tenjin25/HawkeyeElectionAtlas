@@ -23,8 +23,8 @@
     const originalTwoParty = Math.max(0, dem + rep);
     if (originalTwoParty <= 0) return finalizeVoteSet(dem, rep, other, total);
     const deltaVotes = (swing / 200) * total;
-    dem = Math.max(0, dem + deltaVotes);
-    rep = Math.max(0, rep - deltaVotes);
+    dem = Math.max(0, dem - deltaVotes);
+    rep = Math.max(0, rep + deltaVotes);
     const adjustedTwoParty = dem + rep;
     if (adjustedTwoParty > 0) {
       const scale = originalTwoParty / adjustedTwoParty;
