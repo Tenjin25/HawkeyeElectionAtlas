@@ -39,7 +39,7 @@ PRESIDENTIAL_CANDIDATES = {
     2012: {"DEM": "Barack Obama", "REP": "Mitt Romney"},
     2016: {"DEM": "Hillary Clinton", "REP": "Donald J. Trump"},
     2020: {"DEM": "Joe Biden", "REP": "Donald J. Trump"},
-    2024: {"DEM": "Kamala Harris", "REP": "Donald J. Trump"},
+    2024: {"DEM": "Kamala D. Harris", "REP": "Donald J. Trump"},
 }
 CONTEST_CANDIDATES = {
     (2002, "governor"): {"DEM": "Tom Vilsack", "REP": "Doug Gross"},
