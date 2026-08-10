@@ -10561,16 +10561,16 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div>
 
-    <script src="./js/atlas-classification.js?v=2026-08-09-static-root-cleanup-v2"></script>
-    <script src="./js/atlas-core.js?v=2026-08-09-static-root-cleanup-v2"></script>
-    <script src="./js/atlas-data.js?v=2026-08-09-static-root-cleanup-v2"></script>
-    <script src="./js/atlas-display.js?v=2026-08-09-static-root-cleanup-v2"></script>
-    <script src="./js/atlas-election.js?v=2026-08-09-static-root-cleanup-v2"></script>
-    <script src="./js/atlas-manifest.js?v=2026-08-09-static-root-cleanup-v2"></script>
-    <script src="./js/atlas-regions.js?v=2026-08-09-static-root-cleanup-v2"></script>
-    <script src="./js/atlas-trends.js?v=2026-08-09-static-root-cleanup-v2"></script>
-    <script src="./js/atlas-turnout.js?v=2026-08-09-static-root-cleanup-v2"></script>
-    <script src="./js/atlas-url-state.js?v=2026-08-09-static-root-cleanup-v2"></script>
+    <script src="./js/atlas-classification.js?v=2026-08-10-pop-change-csv-v1"></script>
+    <script src="./js/atlas-core.js?v=2026-08-10-pop-change-csv-v1"></script>
+    <script src="./js/atlas-data.js?v=2026-08-10-pop-change-csv-v1"></script>
+    <script src="./js/atlas-display.js?v=2026-08-10-pop-change-csv-v1"></script>
+    <script src="./js/atlas-election.js?v=2026-08-10-pop-change-csv-v1"></script>
+    <script src="./js/atlas-manifest.js?v=2026-08-10-pop-change-csv-v1"></script>
+    <script src="./js/atlas-regions.js?v=2026-08-10-pop-change-csv-v1"></script>
+    <script src="./js/atlas-trends.js?v=2026-08-10-pop-change-csv-v1"></script>
+    <script src="./js/atlas-turnout.js?v=2026-08-10-pop-change-csv-v1"></script>
+    <script src="./js/atlas-url-state.js?v=2026-08-10-pop-change-csv-v1"></script>
     <script>
     // --- CONFIG ---
     const ATLAS_CREATOR_SIGNATURE = Object.freeze({
@@ -10603,8 +10603,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-08-09-static-root-cleanup-v2';
-    const APP_BUILD_ID = '2026-08-09-static-root-cleanup-v2';
+    const DATA_CACHE_BUSTER = '2026-08-10-pop-change-csv-v1';
+    const APP_BUILD_ID = '2026-08-10-pop-change-csv-v1';
 
     function withCacheBuster(path) {
       return window.AtlasData.withCacheBuster(path, DATA_CACHE_BUSTER);
@@ -10654,7 +10654,7 @@ document.addEventListener('DOMContentLoaded', function() {
         state_senate: withBase('./data/census/plan2_state_senate.geojson'),
         state_senate_2022: withBase('./data/census/plan2_state_senate.geojson'),
         county_demographics: null,
-        county_population_estimates: null,
+        county_population_estimates: withBase('./data/county_population_estimates_2025.csv'),
         precinct_demographics: null,
         cvap_aggregates: {},
         election: null,
@@ -23107,7 +23107,7 @@ document.addEventListener('DOMContentLoaded', function() {
           changePct2023To2024: Number.isFinite(changePct2023To2024) ? changePct2023To2024 : NaN
         };
 
-        if (countyNorm === 'NORTH CAROLINA') statewide = entry;
+        if (countyNorm === 'IOWA STATE' || countyNorm === 'NORTH CAROLINA') statewide = entry;
         else byNorm.set(countyNorm, entry);
       });
       return { byNorm, statewide };
