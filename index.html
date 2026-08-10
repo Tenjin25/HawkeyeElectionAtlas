@@ -10561,16 +10561,16 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div>
 
-    <script src="./js/atlas-classification.js?v=2026-08-09-us-house-2024-v2"></script>
-    <script src="./js/atlas-core.js?v=2026-08-09-us-house-2024-v2"></script>
-    <script src="./js/atlas-data.js?v=2026-08-09-us-house-2024-v2"></script>
-    <script src="./js/atlas-display.js?v=2026-08-09-us-house-2024-v2"></script>
-    <script src="./js/atlas-election.js?v=2026-08-09-us-house-2024-v2"></script>
-    <script src="./js/atlas-manifest.js?v=2026-08-09-us-house-2024-v2"></script>
-    <script src="./js/atlas-regions.js?v=2026-08-09-us-house-2024-v2"></script>
-    <script src="./js/atlas-trends.js?v=2026-08-09-us-house-2024-v2"></script>
-    <script src="./js/atlas-turnout.js?v=2026-08-09-us-house-2024-v2"></script>
-    <script src="./js/atlas-url-state.js?v=2026-08-09-us-house-2024-v2"></script>
+    <script src="./js/atlas-classification.js?v=2026-08-09-static-root-cleanup-v2"></script>
+    <script src="./js/atlas-core.js?v=2026-08-09-static-root-cleanup-v2"></script>
+    <script src="./js/atlas-data.js?v=2026-08-09-static-root-cleanup-v2"></script>
+    <script src="./js/atlas-display.js?v=2026-08-09-static-root-cleanup-v2"></script>
+    <script src="./js/atlas-election.js?v=2026-08-09-static-root-cleanup-v2"></script>
+    <script src="./js/atlas-manifest.js?v=2026-08-09-static-root-cleanup-v2"></script>
+    <script src="./js/atlas-regions.js?v=2026-08-09-static-root-cleanup-v2"></script>
+    <script src="./js/atlas-trends.js?v=2026-08-09-static-root-cleanup-v2"></script>
+    <script src="./js/atlas-turnout.js?v=2026-08-09-static-root-cleanup-v2"></script>
+    <script src="./js/atlas-url-state.js?v=2026-08-09-static-root-cleanup-v2"></script>
     <script>
     // --- CONFIG ---
     const ATLAS_CREATOR_SIGNATURE = Object.freeze({
@@ -10603,8 +10603,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-08-09-us-house-2024-v2';
-    const APP_BUILD_ID = '2026-08-09-us-house-2024-v2';
+    const DATA_CACHE_BUSTER = '2026-08-09-static-root-cleanup-v2';
+    const APP_BUILD_ID = '2026-08-09-static-root-cleanup-v2';
 
     function withCacheBuster(path) {
       return window.AtlasData.withCacheBuster(path, DATA_CACHE_BUSTER);
@@ -10638,62 +10638,45 @@ document.addEventListener('DOMContentLoaded', function() {
         precincts: withBase('./data/election_precinct_boundaries/vest/ia_2020.geojson'),
         precincts_fallback_vtd20: withBase('./data/census/tl_2020_19_vtd20.geojson'),
         precinct_centroids: withBase('./data/election_precinct_boundaries/vest/ia_2020.geojson'),
-        precinct_aliases: withBase('./data/precinct_alias_index.json'),
-        precinct_friendly_names: withBase('./data/precinct_friendly_names.json'),
-        precinct_stable_to_nconemap_old_to_new: withBase('./data/crosswalks/precinct_stable_to_nconemap_2026_07_best_old_to_new.csv'),
-        precinct_sbe2006_to_onemap: withBase('./data/mappings/sbe2006_to_onemap_precinct_bridge.json'),
-        precinct_sbe2006_to_onemap_weights: withBase('./data/mappings/sbe2006_to_onemap_precinct_weights.json'),
-        precinct_sbe2012_to_onemap_weights: withBase('./data/crosswalks/precinct_sbe_2012_to_onemap_2025_vap.csv'),
-        precinct_variant_overrides: withBase('./data/mappings/precinct_variant_overrides.json'),
+        // Optional name/alias bridges are not included in this static Iowa build.
+        // Leave them unset so the browser does not request non-existent files.
+        precinct_aliases: null,
+        precinct_friendly_names: null,
+        precinct_stable_to_nconemap_old_to_new: null,
+        precinct_sbe2006_to_onemap: null,
+        precinct_sbe2006_to_onemap_weights: null,
+        precinct_sbe2012_to_onemap_weights: null,
+        precinct_variant_overrides: null,
         districts: withBase('./data/census/plan2_congressional.geojson'),
         districts_2022: withBase('./data/census/plan2_congressional.geojson'),
-        districts_2024: withBase('./data/census/plan2_congressional.geojson'),
-        districts_2026: withBase('./data/census/plan2_congressional.geojson'),
         state_house: withBase('./data/census/plan2_state_house.geojson'),
         state_house_2022: withBase('./data/census/plan2_state_house.geojson'),
-        state_house_2024: withBase('./data/census/plan2_state_house.geojson'),
         state_senate: withBase('./data/census/plan2_state_senate.geojson'),
         state_senate_2022: withBase('./data/census/plan2_state_senate.geojson'),
-        state_senate_2024: withBase('./data/census/plan2_state_senate.geojson'),
-        county_demographics: withBase('./data/county_demographics_2020_dp1.json'),
-        county_population_estimates: withBase('./data/iowa_county_population_estimates_2025.csv'),
-        precinct_demographics: withBase('./data/precinct_demographics_2020_vap.csv'),
-        cvap_aggregates: {
-          county_2020: withBase('./data/cvap_aggregates/county_2020__cvap24.csv'),
-          precinct_2020: withBase('./data/cvap_aggregates/precinct_2020__cvap24.csv'),
-          cd118_2022: withBase('./data/cvap_aggregates/cd118_2022_lines__cvap24.csv'),
-          cd119_2024: withBase('./data/cvap_aggregates/cd119_2024_lines__cvap24.csv'),
-          state_house_2022: withBase('./data/cvap_aggregates/state_house_2022_lines__cvap24.csv'),
-          state_house_2024: withBase('./data/cvap_aggregates/state_house_2024_lines__cvap24.csv'),
-          state_senate_2022: withBase('./data/cvap_aggregates/state_senate_2022_lines__cvap24.csv'),
-          state_senate_2024: withBase('./data/cvap_aggregates/state_senate_2024_lines__cvap24.csv')
-        },
-        election: withBase('./data/nc_elections_aggregated.json'),
-        county_contests_dir: withBase('./data/county_contests'),
-        district_election: withBase('./data/nc_district_results_2022_lines.json'),
+        county_demographics: null,
+        county_population_estimates: null,
+        precinct_demographics: null,
+        cvap_aggregates: {},
+        election: null,
+        county_contests_dir: null,
+        district_election: null,
         district_contests_dir: withBase('./data/district_contests'),
-        district_contests_2020_2024_dir: withBase('./data/district_contests_2020_2024'),
+        district_contests_2020_2024_dir: null,
         district_contests_dirs: {
-          '2022': withBase('./data/district_contests'),
-          '2024': withBase('./data/district_contests_2024_lines'),
-          '2026': withBase('./data/district_contests_2026_lines')
+          '2022': withBase('./data/district_contests')
         },
-        districts_info: withBase('./data/nc_congressional_districts.csv'),
-        state_house_info: withBase('./data/nc_state_house_districts.csv'),
-        state_senate_info: withBase('./data/nc_state_senate_districts.csv'),
-        district_descriptions: withBase('./data/district_descriptions.json'),
+        districts_info: null,
+        state_house_info: null,
+        state_senate_info: null,
+        district_descriptions: null,
         contests_dir: withBase('./data/iowa_contests'),
-        reports_match_year_summary: withBase('./data/reports/precinct_match_year_summary_fresh_2026-03-19.csv'),
-        reports_top_unmatched: withBase('./data/reports/precinct_match_top_unmatched_file_county.csv'),
+        reports_match_year_summary: null,
+        reports_top_unmatched: null,
         crosswalks: {
-          congressional: withBase('./data/crosswalks/precinct_to_cd118.csv'),
-          congressional_2022: withBase('./data/crosswalks/precinct_to_cd118.csv'),
-          congressional_2024: withBase('./data/crosswalks/precinct_to_cd119.csv'),
-          congressional_2026: withBase('./data/crosswalks/precinct_to_cd2026_sl2025_95.csv'),
-          state_house_2022: withBase('./data/crosswalks/precinct_to_2022_state_house.csv'),
-          state_house_2024: withBase('./data/crosswalks/precinct_to_2024_state_house.csv'),
-          state_senate_2022: withBase('./data/crosswalks/precinct_to_2022_state_senate.csv'),
-          state_senate_2024: withBase('./data/crosswalks/precinct_to_2024_state_senate.csv')
+          congressional: withBase('./data/crosswalks/election_precinct20_to_plan2_congressional.csv'),
+          congressional_2022: withBase('./data/crosswalks/election_precinct20_to_plan2_congressional.csv'),
+          state_house_2022: withBase('./data/crosswalks/election_precinct20_to_plan2_house.csv'),
+          state_senate_2022: withBase('./data/crosswalks/election_precinct20_to_plan2_senate.csv')
         }
       },
       center: [-93.5, 42.0],
@@ -15576,12 +15559,9 @@ document.addEventListener('DOMContentLoaded', function() {
 	      });
 	    }
 
-	    const PRESIDENT_OPEN_ELECTIONS_CSV = {
-	      2000: withBase('./data/2000/20001107__nc__general__precinct.csv'),
-	      2004: withBase('./data/2004/20041102__nc__general__precinct.csv'),
-	      2012: withBase('./data/2012/20121106__nc__general__precinct.csv'),
-	      2008: withBase('./data/2008/20081104__nc__general__precinct.csv')
-	    };
+	    // Presidential contest slices are supplied by data/iowa_contests/manifest.json.
+	    // Do not retain stale NC OpenElections fallbacks in the static Iowa build.
+	    const PRESIDENT_OPEN_ELECTIONS_CSV = {};
 
 	    async function loadPresidentSliceFromOpenElectionsCSV(year) {
 	      const y = Number(year);
@@ -31679,11 +31659,7 @@ document.addEventListener('DOMContentLoaded', function() {
         try {
           countiesGeoJSON = await loadJSON(CONFIG.paths.counties);
         } catch (_) {
-          try {
-            countiesGeoJSON = await loadJSON(withBase('./data/tl_2020_37_county20.geojson'));
-          } catch (_) {
-            countiesGeoJSON = null;
-          }
+          countiesGeoJSON = null;
         }
         if (countiesGeoJSON && countiesGeoJSON.features) {
           window.countiesData = countiesGeoJSON;
@@ -33336,8 +33312,7 @@ document.addEventListener('DOMContentLoaded', function() {
           try {
             counties = await loadJSON(CONFIG.paths.counties);
           } catch (_) {
-            // Fallback for alternate local layouts.
-            counties = await loadJSON(withBase('./data/tl_2020_37_county20.geojson'));
+            throw new Error(`County geometry unavailable: ${CONFIG.paths.counties}`);
           }
           map.addSource('counties', { type: 'geojson', data: counties });
           window.countiesData = counties;

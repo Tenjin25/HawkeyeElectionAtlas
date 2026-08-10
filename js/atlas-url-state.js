@@ -17,9 +17,8 @@
   }
 
   function normalizeDistrictLinesYear(raw) {
-    const year = Number(raw);
-    if (year === 2026) return 2026;
-    if (year === 2024) return 2024;
+    // This static build only includes Iowa's 2022 Plan 2 geometry and slices.
+    // Treat legacy/shared URLs for later line years as the available 2022 layer.
     return 2022;
   }
 
