@@ -557,7 +557,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <!-- Regular + Bold only: matches the earlier incognito/system-ui rendering. -->
-    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&family=IBM+Plex+Sans:wght@400;700&display=swap&v=2026-08-15-ia-typography-v2" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&family=IBM+Plex+Sans:wght@400;700&display=swap&v=2026-08-15-ia-typography-v3" rel="stylesheet">
     <style>
 html, body {
   height: 100vh;
@@ -579,13 +579,6 @@ body {
   touch-action: pan-x pan-y;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-/* Keep native controls on the same atlas type system in every browser mode. */
-button,
-input,
-select,
-textarea {
-  font: inherit;
 }
 #map {
   position: absolute;
@@ -10552,16 +10545,16 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div>
 
-    <script src="./js/atlas-classification.js?v=2026-08-15-ia-typography-v2"></script>
-    <script src="./js/atlas-core.js?v=2026-08-15-ia-typography-v2"></script>
-    <script src="./js/atlas-data.js?v=2026-08-15-ia-typography-v2"></script>
-    <script src="./js/atlas-display.js?v=2026-08-15-ia-typography-v2"></script>
-    <script src="./js/atlas-election.js?v=2026-08-15-ia-typography-v2"></script>
-    <script src="./js/atlas-manifest.js?v=2026-08-15-ia-typography-v2"></script>
-    <script src="./js/atlas-regions.js?v=2026-08-15-ia-typography-v2"></script>
-    <script src="./js/atlas-trends.js?v=2026-08-15-ia-typography-v2"></script>
-    <script src="./js/atlas-turnout.js?v=2026-08-15-ia-typography-v2"></script>
-    <script src="./js/atlas-url-state.js?v=2026-08-15-ia-typography-v2"></script>
+    <script src="./js/atlas-classification.js?v=2026-08-15-ia-typography-v3"></script>
+    <script src="./js/atlas-core.js?v=2026-08-15-ia-typography-v3"></script>
+    <script src="./js/atlas-data.js?v=2026-08-15-ia-typography-v3"></script>
+    <script src="./js/atlas-display.js?v=2026-08-15-ia-typography-v3"></script>
+    <script src="./js/atlas-election.js?v=2026-08-15-ia-typography-v3"></script>
+    <script src="./js/atlas-manifest.js?v=2026-08-15-ia-typography-v3"></script>
+    <script src="./js/atlas-regions.js?v=2026-08-15-ia-typography-v3"></script>
+    <script src="./js/atlas-trends.js?v=2026-08-15-ia-typography-v3"></script>
+    <script src="./js/atlas-turnout.js?v=2026-08-15-ia-typography-v3"></script>
+    <script src="./js/atlas-url-state.js?v=2026-08-15-ia-typography-v3"></script>
     <script>
     // --- CONFIG ---
     const ATLAS_CREATOR_SIGNATURE = Object.freeze({
@@ -10594,8 +10587,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Cache destroyer token for static data requests.
     // Bump this value when you want browsers/CDNs to fetch fresh files immediately.
-    const DATA_CACHE_BUSTER = '2026-08-15-ia-typography-v2';
-    const APP_BUILD_ID = '2026-08-15-ia-typography-v2';
+    const DATA_CACHE_BUSTER = '2026-08-15-ia-typography-v3';
+    const APP_BUILD_ID = '2026-08-15-ia-typography-v3';
 
     function withCacheBuster(path) {
       return window.AtlasData.withCacheBuster(path, DATA_CACHE_BUSTER);
