@@ -32,3 +32,12 @@ git lfs install
 ```
 
 The rendered atlas assets remain ordinary repository files so the static application can load them directly.
+
+## CVAP data attribution
+
+Citizen Voting Age Population (CVAP) totals use the U.S. Census Bureau's 2020-2024 American Community Survey five-year CVAP Special Tabulation. Precinct and legacy-boundary aggregates use the Redistricting Data Hub's **2024 CVAP Data Disaggregated to 2020 Census Blocks**.
+
+- Census source: https://www.census.gov/programs-surveys/decennial-census/about/voting-rights/cvap/2020-2024-CVAP.html
+- Block-level source and processing: https://redistrictingdatahub.org/
+
+Credit: **U.S. Census Bureau; Redistricting Data Hub.**
