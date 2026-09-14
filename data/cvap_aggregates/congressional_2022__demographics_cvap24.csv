@@ -1,0 +1,5 @@
+district,name,total_population,white_vap_pct,black_vap_pct,hispanic_vap_pct,native_vap_pct,asian_vap_pct,pacific_vap_pct,multiracial_vap_pct
+1,District 1,605861,88.54,3.46,4.34,0.09,1.54,0.04,0.23
+2,District 2,602838,91.28,3.1,2.51,0.21,1.07,0.05,0.22
+3,District 3,585537,86.36,3.92,5.02,0.07,2.7,0.04,0.23
+4,District 4,586707,89.28,1.61,5.73,0.29,1.26,0.12,0.16
