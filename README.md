@@ -14,6 +14,15 @@ python -m http.server 8000
 
 Then open `http://localhost:8000/`.
 
+## Current polling sites
+
+The **Polling Sites** switch under More shows a separate point layer of current polling locations. It loads `data/ia_current_polling_sites.geojson`, built from the tracked current polling-place source by `scripts/build_current_polling_sites.py`. The builder adds denomination suffixes only where the site and affiliation were independently verified; the source URL is stored with each such point. The current points are separate from the 2020 precinct polygons and their historical election results.
+
+Rebuild the displayed point layer after updating its source:
+
+```powershell
+python scripts/build_current_polling_sites.py
+```
 ## Project layout
 
 - `index.html` contains the map interface and application orchestration.
