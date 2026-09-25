@@ -9779,6 +9779,13 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     };
   }
+  const pollingSitesBtn = document.getElementById('polling-sites-toggle');
+  if (pollingSitesBtn) {
+    pollingSitesBtn.onclick = () => toggleCurrentPollingSites().catch(err => {
+      console.warn('Current polling sites failed to load:', err);
+      setStatus('Current polling sites could not be loaded.');
+    });
+  }
   const districtLines2022Btn = document.getElementById('district-lines-2022');
   if (districtLines2022Btn) {
     districtLines2022Btn.onclick = function() {
@@ -10303,6 +10310,7 @@ document.addEventListener('DOMContentLoaded', function() {
                   <details class="contest-tools-more" aria-label="More tools">
                     <summary class="tool-chip-btn tool-chip-btn-muted" role="button">More</summary>
                     <div class="contest-tools-row contest-tools-row-more">
+                      <button id="polling-sites-toggle" title="Show current polling-site points; these are separate from 2020 precinct election results" class="tool-chip-btn tool-chip-btn-muted" type="button" aria-label="Toggle current polling sites" aria-pressed="false">Polling Sites Off</button>
                       <button id="follow-hover-toggle" title="Auto-update hover tooltip while panning (mobile)" class="tool-chip-btn tool-chip-btn-muted" type="button" data-testid="tool-follow-hover" aria-label="Toggle auto hover while panning" aria-pressed="false">Auto Hover Off</button>
                       <button id="gps-locate-btn" title="Find my precinct by GPS" class="tool-chip-btn" type="button" data-testid="tool-gps" aria-label="Find my precinct by GPS">Find My Precinct</button>
                       <button id="reset-view-btn" title="Reset map camera and clear pinned focus" class="tool-chip-btn tool-chip-btn-muted" type="button" data-testid="tool-reset-view" aria-label="Reset map view">Reset View</button>
@@ -10759,6 +10767,7 @@ document.addEventListener('DOMContentLoaded', function() {
         precincts: withBase('./data/election_precinct_boundaries/vest/ia_2020.geojson'),
         precincts_fallback_vtd20: withBase('./data/census/tl_2020_19_vtd20.geojson'),
         precinct_centroids: withBase('./data/election_precinct_boundaries/vest/ia_2020.geojson'),
+        polling_sites_current: withBase('./data/ia_current_polling_sites.geojson'),
         // Optional name/alias bridges are not included in this static Iowa build.
         // Leave them unset so the browser does not request non-existent files.
         precinct_aliases: null,
@@ -11031,6 +11040,10 @@ document.addEventListener('DOMContentLoaded', function() {
       basemapOriginalVisibility.clear();
       captureBasemapLayers();
       setBasemapVisible(basemapVisible, { persist: false, announce: false });
+      if (currentPollingSitesEnabled && currentPollingSitesData) addCurrentPollingSitesLayer();
+      if (currentPollingSitesEnabled) map.once('idle', () => {
+        if (map.getLayer('current-polling-sites')) map.moveLayer('current-polling-sites');
+      });
     });
 
     const IS_COARSE_POINTER = (() => {
@@ -11166,6 +11179,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const layers = [
         'precinct-dot',
         'precinct-dot-missing',
+        'current-polling-sites',
         'precinct-fill',
         'county-fill',
         'district-fill',
@@ -11899,6 +11913,10 @@ document.addEventListener('DOMContentLoaded', function() {
     let populationChangeMetric = 'pct'; // 'pct' | 'abs'
     let previousElectionData = null; // For shift mode
     let precinctsEnabled = false;
+    let currentPollingSitesEnabled = false;
+    let currentPollingSitesData = null;
+    let currentPollingSitesPromise = null;
+    let currentPollingSitesWired = false;
     let precinctSourceLoaded = false;
     let precinctLoadInFlight = false;
     let precinctLoadPromise = null;
@@ -29520,6 +29538,9 @@ document.addEventListener('DOMContentLoaded', function() {
         });
         // Add county click event handler
         map.on('click', 'county-fill', async (e) => {
+          if (e?.originalEvent?.defaultPrevented) return;
+          if (currentPollingSitesEnabled && map.getLayer('current-polling-sites') &&
+              map.queryRenderedFeatures(e.point, { layers: ['current-polling-sites'] }).length) return;
           try {
             if (precinctsEnabled && e?.point) {
               const precinctHitLayers = [
@@ -29997,6 +30018,8 @@ document.addEventListener('DOMContentLoaded', function() {
       applySelectedPrecinctHighlightFilter();
 
       const handlePrecinctPolygonClick = (e) => {
+        if (currentPollingSitesEnabled && map.getLayer('current-polling-sites') &&
+            map.queryRenderedFeatures(e.point, { layers: ['current-polling-sites'] }).length) return;
         try {
           if (e?.originalEvent?.defaultPrevented) return;
           try { e?.originalEvent?.preventDefault?.(); } catch (_) {}
@@ -31005,6 +31028,80 @@ document.addEventListener('DOMContentLoaded', function() {
 
       wirePrecinctDotHover('precinct-dot');
       wirePrecinctDotHover('precinct-dot-missing');
+    }
+
+    function addCurrentPollingSitesLayer() {
+      if (!currentPollingSitesData || !map.isStyleLoaded()) return;
+      if (!map.getSource('current-polling-sites')) {
+        map.addSource('current-polling-sites', { type: 'geojson', data: currentPollingSitesData });
+      }
+      if (!map.getLayer('current-polling-sites')) {
+        map.addLayer({
+          id: 'current-polling-sites',
+          type: 'circle',
+          source: 'current-polling-sites',
+          layout: { visibility: currentPollingSitesEnabled ? 'visible' : 'none' },
+          paint: {
+            'circle-radius': ['interpolate', ['linear'], ['zoom'], 5, 1.5, 9, 4.5, 13, 7],
+            'circle-color': '#f59e0b',
+            'circle-opacity': 0.9,
+            'circle-stroke-color': '#1e293b',
+            'circle-stroke-width': ['interpolate', ['linear'], ['zoom'], 5, 0.5, 9, 1]
+          }
+        });
+      }
+      if (currentPollingSitesWired) return;
+      currentPollingSitesWired = true;
+      map.on('mouseenter', 'current-polling-sites', () => { map.getCanvas().style.cursor = 'pointer'; });
+      map.on('mouseleave', 'current-polling-sites', () => { map.getCanvas().style.cursor = ''; });
+      map.on('click', 'current-polling-sites', (event) => {
+        const feature = event.features?.[0];
+        if (!feature) return;
+        event.originalEvent?.preventDefault?.();
+        const p = feature.properties || {};
+        const box = document.createElement('div');
+        const title = document.createElement('strong');
+        title.textContent = p.name || 'Polling site';
+        box.appendChild(title);
+        const detail = document.createElement('div');
+        detail.textContent = [p.address, p.city, p.zip].filter(Boolean).join(', ');
+        box.appendChild(detail);
+        const context = document.createElement('div');
+        context.textContent = `${p.county || 'Iowa'} · ${p.precinct || 'Current polling site'}`;
+        box.appendChild(context);
+        const note = document.createElement('small');
+        note.textContent = 'Current polling location · separate from 2020 precinct results';
+        box.appendChild(note);
+        new mapboxgl.Popup({ closeButton: true, maxWidth: '320px' })
+          .setLngLat(feature.geometry.coordinates)
+          .setDOMContent(box)
+          .addTo(map);
+      });
+    }
+
+    async function toggleCurrentPollingSites() {
+      const button = document.getElementById('polling-sites-toggle');
+      if (currentPollingSitesEnabled) {
+        currentPollingSitesEnabled = false;
+        if (map.getLayer('current-polling-sites')) map.setLayoutProperty('current-polling-sites', 'visibility', 'none');
+      } else {
+        if (!currentPollingSitesData) {
+          if (button) button.textContent = 'Polling Sites Loading';
+          currentPollingSitesPromise ||= loadJSON(CONFIG.paths.polling_sites_current);
+          try { currentPollingSitesData = await currentPollingSitesPromise; }
+          finally { currentPollingSitesPromise = null; }
+        }
+        currentPollingSitesEnabled = true;
+        addCurrentPollingSitesLayer();
+        if (map.getLayer('current-polling-sites')) map.setLayoutProperty('current-polling-sites', 'visibility', 'visible');
+      }
+      if (button) {
+        button.textContent = currentPollingSitesEnabled ? 'Polling Sites On' : 'Polling Sites Off';
+        button.setAttribute('aria-pressed', String(currentPollingSitesEnabled));
+      }
+      setStatus(currentPollingSitesEnabled
+        ? 'Current polling locations shown as gold points; precinct election results are separate.'
+        : 'Current polling locations hidden.');
     }
 
     function updatePrecinctVisibility() {
