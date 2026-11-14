@@ -1,0 +1,619 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Attorney General,,Brenna Bird,REP,466,167,299
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Attorney General,,Brenna Bird,REP,554,193,361
+Palo Alto,Emmetsburg Ward 1,Attorney General,,Brenna Bird,REP,271,114,157
+Palo Alto,Emmetsburg Ward 2,Attorney General,,Brenna Bird,REP,220,80,140
+Palo Alto,GR/pt WL/pt LI,Attorney General,,Brenna Bird,REP,271,54,217
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Attorney General,,Brenna Bird,REP,314,105,209
+Palo Alto,RV/pt HL,Attorney General,,Brenna Bird,REP,206,60,146
+Palo Alto,WB/pt FV,Attorney General,,Brenna Bird,REP,396,58,338
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Attorney General,,Nate Willems,DEM,238,114,124
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Attorney General,,Nate Willems,DEM,264,124,140
+Palo Alto,Emmetsburg Ward 1,Attorney General,,Nate Willems,DEM,170,85,85
+Palo Alto,Emmetsburg Ward 2,Attorney General,,Nate Willems,DEM,195,94,101
+Palo Alto,GR/pt WL/pt LI,Attorney General,,Nate Willems,DEM,136,32,104
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Attorney General,,Nate Willems,DEM,68,35,33
+Palo Alto,RV/pt HL,Attorney General,,Nate Willems,DEM,110,43,67
+Palo Alto,WB/pt FV,Attorney General,,Nate Willems,DEM,88,21,67
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Attorney General,,Write-In,,0,0,0
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Attorney General,,Write-In,,0,0,0
+Palo Alto,Emmetsburg Ward 1,Attorney General,,Write-In,,0,0,0
+Palo Alto,Emmetsburg Ward 2,Attorney General,,Write-In,,0,0,0
+Palo Alto,GR/pt WL/pt LI,Attorney General,,Write-In,,1,0,1
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Attorney General,,Write-In,,0,0,0
+Palo Alto,RV/pt HL,Attorney General,,Write-In,,0,0,0
+Palo Alto,WB/pt FV,Attorney General,,Write-In,,1,0,1
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Auditor of State,,Chris Cournoyer,REP,450,155,295
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Auditor of State,,Chris Cournoyer,REP,533,178,355
+Palo Alto,Emmetsburg Ward 1,Auditor of State,,Chris Cournoyer,REP,275,115,160
+Palo Alto,Emmetsburg Ward 2,Auditor of State,,Chris Cournoyer,REP,218,78,140
+Palo Alto,GR/pt WL/pt LI,Auditor of State,,Chris Cournoyer,REP,269,52,217
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Auditor of State,,Chris Cournoyer,REP,308,103,205
+Palo Alto,RV/pt HL,Auditor of State,,Chris Cournoyer,REP,203,56,147
+Palo Alto,WB/pt FV,Auditor of State,,Chris Cournoyer,REP,400,57,343
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Auditor of State,,Taylor Wettach,DEM,233,117,116
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Auditor of State,,Taylor Wettach,DEM,272,134,138
+Palo Alto,Emmetsburg Ward 1,Auditor of State,,Taylor Wettach,DEM,165,81,84
+Palo Alto,Emmetsburg Ward 2,Auditor of State,,Taylor Wettach,DEM,194,100,94
+Palo Alto,GR/pt WL/pt LI,Auditor of State,,Taylor Wettach,DEM,137,33,104
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Auditor of State,,Taylor Wettach,DEM,71,34,37
+Palo Alto,RV/pt HL,Auditor of State,,Taylor Wettach,DEM,111,45,66
+Palo Alto,WB/pt FV,Auditor of State,,Taylor Wettach,DEM,82,23,59
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Auditor of State,,Write-In,,1,0,1
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Auditor of State,,Write-In,,0,0,0
+Palo Alto,Emmetsburg Ward 1,Auditor of State,,Write-In,,1,0,1
+Palo Alto,Emmetsburg Ward 2,Auditor of State,,Write-In,,0,0,0
+Palo Alto,GR/pt WL/pt LI,Auditor of State,,Write-In,,1,0,1
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Auditor of State,,Write-In,,1,0,1
+Palo Alto,RV/pt HL,Auditor of State,,Write-In,,0,0,0
+Palo Alto,WB/pt FV,Auditor of State,,Write-In,,1,0,1
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Constitutional Amendment 1,,No,,254,105,149
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Constitutional Amendment 1,,No,,322,121,201
+Palo Alto,Emmetsburg Ward 1,Constitutional Amendment 1,,No,,148,68,80
+Palo Alto,Emmetsburg Ward 2,Constitutional Amendment 1,,No,,159,66,93
+Palo Alto,GR/pt WL/pt LI,Constitutional Amendment 1,,No,,132,27,105
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Constitutional Amendment 1,,No,,99,32,67
+Palo Alto,RV/pt HL,Constitutional Amendment 1,,No,,84,24,60
+Palo Alto,WB/pt FV,Constitutional Amendment 1,,No,,120,29,91
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Constitutional Amendment 1,,Yes,,381,150,231
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Constitutional Amendment 1,,Yes,,410,148,262
+Palo Alto,Emmetsburg Ward 1,Constitutional Amendment 1,,Yes,,260,114,146
+Palo Alto,Emmetsburg Ward 2,Constitutional Amendment 1,,Yes,,206,80,126
+Palo Alto,GR/pt WL/pt LI,Constitutional Amendment 1,,Yes,,222,46,176
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Constitutional Amendment 1,,Yes,,251,90,161
+Palo Alto,RV/pt HL,Constitutional Amendment 1,,Yes,,187,58,129
+Palo Alto,WB/pt FV,Constitutional Amendment 1,,Yes,,281,44,237
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Agricultural Extension Council Member,,Allison Miller,,361,150,211
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Agricultural Extension Council Member,,Allison Miller,,481,176,305
+Palo Alto,Emmetsburg Ward 1,County Agricultural Extension Council Member,,Allison Miller,,255,114,141
+Palo Alto,Emmetsburg Ward 2,County Agricultural Extension Council Member,,Allison Miller,,222,99,123
+Palo Alto,GR/pt WL/pt LI,County Agricultural Extension Council Member,,Allison Miller,,218,38,180
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Agricultural Extension Council Member,,Allison Miller,,224,73,151
+Palo Alto,RV/pt HL,County Agricultural Extension Council Member,,Allison Miller,,160,51,109
+Palo Alto,WB/pt FV,County Agricultural Extension Council Member,,Allison Miller,,304,49,255
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Agricultural Extension Council Member,,Diane Nelson,,435,176,259
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Agricultural Extension Council Member,,Diane Nelson,,534,204,330
+Palo Alto,Emmetsburg Ward 1,County Agricultural Extension Council Member,,Diane Nelson,,301,138,163
+Palo Alto,Emmetsburg Ward 2,County Agricultural Extension Council Member,,Diane Nelson,,253,112,141
+Palo Alto,GR/pt WL/pt LI,County Agricultural Extension Council Member,,Diane Nelson,,240,37,203
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Agricultural Extension Council Member,,Diane Nelson,,247,84,163
+Palo Alto,RV/pt HL,County Agricultural Extension Council Member,,Diane Nelson,,179,50,129
+Palo Alto,WB/pt FV,County Agricultural Extension Council Member,,Diane Nelson,,291,48,243
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Agricultural Extension Council Member,,Mollie Veldboom,,487,196,291
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Agricultural Extension Council Member,,Mollie Veldboom,,577,212,365
+Palo Alto,Emmetsburg Ward 1,County Agricultural Extension Council Member,,Mollie Veldboom,,333,152,181
+Palo Alto,Emmetsburg Ward 2,County Agricultural Extension Council Member,,Mollie Veldboom,,292,127,165
+Palo Alto,GR/pt WL/pt LI,County Agricultural Extension Council Member,,Mollie Veldboom,,234,38,196
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Agricultural Extension Council Member,,Mollie Veldboom,,244,84,160
+Palo Alto,RV/pt HL,County Agricultural Extension Council Member,,Mollie Veldboom,,159,47,112
+Palo Alto,WB/pt FV,County Agricultural Extension Council Member,,Mollie Veldboom,,287,47,240
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Agricultural Extension Council Member,,Roberta Hersom,,414,177,237
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Agricultural Extension Council Member,,Roberta Hersom,,538,211,327
+Palo Alto,Emmetsburg Ward 1,County Agricultural Extension Council Member,,Roberta Hersom,,299,143,156
+Palo Alto,Emmetsburg Ward 2,County Agricultural Extension Council Member,,Roberta Hersom,,254,118,136
+Palo Alto,GR/pt WL/pt LI,County Agricultural Extension Council Member,,Roberta Hersom,,225,38,187
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Agricultural Extension Council Member,,Roberta Hersom,,244,84,160
+Palo Alto,RV/pt HL,County Agricultural Extension Council Member,,Roberta Hersom,,159,49,110
+Palo Alto,WB/pt FV,County Agricultural Extension Council Member,,Roberta Hersom,,281,47,234
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Agricultural Extension Council Member,,Samantha Graham,,373,152,221
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Agricultural Extension Council Member,,Samantha Graham,,460,161,299
+Palo Alto,Emmetsburg Ward 1,County Agricultural Extension Council Member,,Samantha Graham,,253,113,140
+Palo Alto,Emmetsburg Ward 2,County Agricultural Extension Council Member,,Samantha Graham,,223,99,124
+Palo Alto,GR/pt WL/pt LI,County Agricultural Extension Council Member,,Samantha Graham,,222,38,184
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Agricultural Extension Council Member,,Samantha Graham,,218,69,149
+Palo Alto,RV/pt HL,County Agricultural Extension Council Member,,Samantha Graham,,176,50,126
+Palo Alto,WB/pt FV,County Agricultural Extension Council Member,,Samantha Graham,,279,44,235
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Agricultural Extension Council Member,,Write-In,,2,1,1
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Agricultural Extension Council Member,,Write-In,,4,3,1
+Palo Alto,Emmetsburg Ward 1,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Palo Alto,Emmetsburg Ward 2,County Agricultural Extension Council Member,,Write-In,,8,7,1
+Palo Alto,GR/pt WL/pt LI,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Agricultural Extension Council Member,,Write-In,,3,2,1
+Palo Alto,RV/pt HL,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Palo Alto,WB/pt FV,County Agricultural Extension Council Member,,Write-In,,8,0,8
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Attorney,,Anne Quail,REP,588,221,367
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Attorney,,Anne Quail,REP,713,265,448
+Palo Alto,Emmetsburg Ward 1,County Attorney,,Anne Quail,REP,369,164,205
+Palo Alto,Emmetsburg Ward 2,County Attorney,,Anne Quail,REP,328,121,207
+Palo Alto,GR/pt WL/pt LI,County Attorney,,Anne Quail,REP,340,67,273
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Attorney,,Anne Quail,REP,354,123,231
+Palo Alto,RV/pt HL,County Attorney,,Anne Quail,REP,256,82,174
+Palo Alto,WB/pt FV,County Attorney,,Anne Quail,REP,443,71,372
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Attorney,,Write-In,,8,4,4
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Attorney,,Write-In,,4,0,4
+Palo Alto,Emmetsburg Ward 1,County Attorney,,Write-In,,2,1,1
+Palo Alto,Emmetsburg Ward 2,County Attorney,,Write-In,,8,4,4
+Palo Alto,GR/pt WL/pt LI,County Attorney,,Write-In,,4,2,2
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Attorney,,Write-In,,0,0,0
+Palo Alto,RV/pt HL,County Attorney,,Write-In,,2,1,1
+Palo Alto,WB/pt FV,County Attorney,,Write-In,,1,0,1
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Hospital Trustee,,Cindy Magee,,441,181,260
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Hospital Trustee,,Cindy Magee,,541,206,335
+Palo Alto,Emmetsburg Ward 1,County Hospital Trustee,,Cindy Magee,,312,148,164
+Palo Alto,Emmetsburg Ward 2,County Hospital Trustee,,Cindy Magee,,267,120,147
+Palo Alto,GR/pt WL/pt LI,County Hospital Trustee,,Cindy Magee,,234,40,194
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Hospital Trustee,,Cindy Magee,,245,87,158
+Palo Alto,RV/pt HL,County Hospital Trustee,,Cindy Magee,,192,60,132
+Palo Alto,WB/pt FV,County Hospital Trustee,,Cindy Magee,,293,47,246
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Hospital Trustee,,Mark Hobart,,467,185,282
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Hospital Trustee,,Mark Hobart,,553,203,350
+Palo Alto,Emmetsburg Ward 1,County Hospital Trustee,,Mark Hobart,,310,139,171
+Palo Alto,Emmetsburg Ward 2,County Hospital Trustee,,Mark Hobart,,263,117,146
+Palo Alto,GR/pt WL/pt LI,County Hospital Trustee,,Mark Hobart,,244,45,199
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Hospital Trustee,,Mark Hobart,,249,87,162
+Palo Alto,RV/pt HL,County Hospital Trustee,,Mark Hobart,,177,54,123
+Palo Alto,WB/pt FV,County Hospital Trustee,,Mark Hobart,,289,47,242
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Hospital Trustee,,Mary Cooper,,442,180,262
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Hospital Trustee,,Mary Cooper,,520,189,331
+Palo Alto,Emmetsburg Ward 1,County Hospital Trustee,,Mary Cooper,,311,141,170
+Palo Alto,Emmetsburg Ward 2,County Hospital Trustee,,Mary Cooper,,250,114,136
+Palo Alto,GR/pt WL/pt LI,County Hospital Trustee,,Mary Cooper,,237,43,194
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Hospital Trustee,,Mary Cooper,,244,86,158
+Palo Alto,RV/pt HL,County Hospital Trustee,,Mary Cooper,,197,64,133
+Palo Alto,WB/pt FV,County Hospital Trustee,,Mary Cooper,,290,47,243
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Hospital Trustee,,Mikel Jones,,454,183,271
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Hospital Trustee,,Mikel Jones,,520,192,328
+Palo Alto,Emmetsburg Ward 1,County Hospital Trustee,,Mikel Jones,,306,135,171
+Palo Alto,Emmetsburg Ward 2,County Hospital Trustee,,Mikel Jones,,256,114,142
+Palo Alto,GR/pt WL/pt LI,County Hospital Trustee,,Mikel Jones,,234,40,194
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Hospital Trustee,,Mikel Jones,,237,83,154
+Palo Alto,RV/pt HL,County Hospital Trustee,,Mikel Jones,,174,53,121
+Palo Alto,WB/pt FV,County Hospital Trustee,,Mikel Jones,,285,48,237
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Hospital Trustee,,Nick Steinkamp,,467,186,281
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Hospital Trustee,,Nick Steinkamp,,560,208,352
+Palo Alto,Emmetsburg Ward 1,County Hospital Trustee,,Nick Steinkamp,,324,147,177
+Palo Alto,Emmetsburg Ward 2,County Hospital Trustee,,Nick Steinkamp,,264,113,151
+Palo Alto,GR/pt WL/pt LI,County Hospital Trustee,,Nick Steinkamp,,254,48,206
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Hospital Trustee,,Nick Steinkamp,,258,85,173
+Palo Alto,RV/pt HL,County Hospital Trustee,,Nick Steinkamp,,203,61,142
+Palo Alto,WB/pt FV,County Hospital Trustee,,Nick Steinkamp,,292,46,246
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Hospital Trustee,,Write-In,,5,0,5
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Hospital Trustee,,Write-In,,10,8,2
+Palo Alto,Emmetsburg Ward 1,County Hospital Trustee,,Write-In,,5,5,0
+Palo Alto,Emmetsburg Ward 2,County Hospital Trustee,,Write-In,,7,5,2
+Palo Alto,GR/pt WL/pt LI,County Hospital Trustee,,Write-In,,6,0,6
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Hospital Trustee,,Write-In,,2,0,2
+Palo Alto,RV/pt HL,County Hospital Trustee,,Write-In,,0,0,0
+Palo Alto,WB/pt FV,County Hospital Trustee,,Write-In,,5,0,5
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Recorder,,Sue Ruppert,REP,623,233,390
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Recorder,,Sue Ruppert,REP,739,278,461
+Palo Alto,Emmetsburg Ward 1,County Recorder,,Sue Ruppert,REP,381,170,211
+Palo Alto,Emmetsburg Ward 2,County Recorder,,Sue Ruppert,REP,342,131,211
+Palo Alto,GR/pt WL/pt LI,County Recorder,,Sue Ruppert,REP,352,70,282
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Recorder,,Sue Ruppert,REP,360,125,235
+Palo Alto,RV/pt HL,County Recorder,,Sue Ruppert,REP,265,85,180
+Palo Alto,WB/pt FV,County Recorder,,Sue Ruppert,REP,464,74,390
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Recorder,,Write-In,,4,1,3
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Recorder,,Write-In,,7,2,5
+Palo Alto,Emmetsburg Ward 1,County Recorder,,Write-In,,1,0,1
+Palo Alto,Emmetsburg Ward 2,County Recorder,,Write-In,,4,2,2
+Palo Alto,GR/pt WL/pt LI,County Recorder,,Write-In,,3,2,1
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Recorder,,Write-In,,4,4,0
+Palo Alto,RV/pt HL,County Recorder,,Write-In,,3,2,1
+Palo Alto,WB/pt FV,County Recorder,,Write-In,,0,0,0
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Supervisor,1,Keith Wirtz,REP,349,123,226
+Palo Alto,WB/pt FV,County Supervisor,1,Keith Wirtz,REP,444,71,373
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Supervisor,1,Write-In,,3,1,2
+Palo Alto,WB/pt FV,County Supervisor,1,Write-In,,4,0,4
+Palo Alto,Emmetsburg Ward 1,County Supervisor,2,Craig Merrill,REP,372,165,207
+Palo Alto,Emmetsburg Ward 2,County Supervisor,2,Craig Merrill,REP,334,124,210
+Palo Alto,Emmetsburg Ward 1,County Supervisor,2,Write-In,,3,0,3
+Palo Alto,Emmetsburg Ward 2,County Supervisor,2,Write-In,,5,2,3
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Supervisor,5,Aaron Dietrich,REP,409,137,272
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Supervisor,5,Linus Solberg,DEM,326,145,181
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Supervisor,5,NPY Matt Reding,,87,34,53
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Supervisor,5,Write-In,,0,0,0
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Treasurer,,Robin Jamison,REP,622,233,389
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Treasurer,,Robin Jamison,REP,738,281,457
+Palo Alto,Emmetsburg Ward 1,County Treasurer,,Robin Jamison,REP,373,168,205
+Palo Alto,Emmetsburg Ward 2,County Treasurer,,Robin Jamison,REP,337,129,208
+Palo Alto,GR/pt WL/pt LI,County Treasurer,,Robin Jamison,REP,353,70,283
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Treasurer,,Robin Jamison,REP,356,125,231
+Palo Alto,RV/pt HL,County Treasurer,,Robin Jamison,REP,272,86,186
+Palo Alto,WB/pt FV,County Treasurer,,Robin Jamison,REP,454,75,379
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",County Treasurer,,Write-In,,7,1,6
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",County Treasurer,,Write-In,,7,2,5
+Palo Alto,Emmetsburg Ward 1,County Treasurer,,Write-In,,2,1,1
+Palo Alto,Emmetsburg Ward 2,County Treasurer,,Write-In,,4,2,2
+Palo Alto,GR/pt WL/pt LI,County Treasurer,,Write-In,,5,2,3
+Palo Alto,ML/EL/RL/BO/GO/pt SL,County Treasurer,,Write-In,,0,0,0
+Palo Alto,RV/pt HL,County Treasurer,,Write-In,,2,1,1
+Palo Alto,WB/pt FV,County Treasurer,,Write-In,,2,0,2
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Court of Appeals Judge - John M. Sandy,,No,,129,47,82
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Court of Appeals Judge - John M. Sandy,,No,,111,42,69
+Palo Alto,Emmetsburg Ward 1,Court of Appeals Judge - John M. Sandy,,No,,60,25,35
+Palo Alto,Emmetsburg Ward 2,Court of Appeals Judge - John M. Sandy,,No,,48,23,25
+Palo Alto,GR/pt WL/pt LI,Court of Appeals Judge - John M. Sandy,,No,,62,15,47
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Court of Appeals Judge - John M. Sandy,,No,,57,16,41
+Palo Alto,RV/pt HL,Court of Appeals Judge - John M. Sandy,,No,,44,13,31
+Palo Alto,WB/pt FV,Court of Appeals Judge - John M. Sandy,,No,,73,9,64
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Court of Appeals Judge - John M. Sandy,,Yes,,392,136,256
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Court of Appeals Judge - John M. Sandy,,Yes,,482,163,319
+Palo Alto,Emmetsburg Ward 1,Court of Appeals Judge - John M. Sandy,,Yes,,262,112,150
+Palo Alto,Emmetsburg Ward 2,Court of Appeals Judge - John M. Sandy,,Yes,,252,105,147
+Palo Alto,GR/pt WL/pt LI,Court of Appeals Judge - John M. Sandy,,Yes,,267,47,220
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Court of Appeals Judge - John M. Sandy,,Yes,,224,76,148
+Palo Alto,RV/pt HL,Court of Appeals Judge - John M. Sandy,,Yes,,196,60,136
+Palo Alto,WB/pt FV,Court of Appeals Judge - John M. Sandy,,Yes,,264,43,221
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Court of Appeals Judge - Julie A. Schumacher,,No,,115,42,73
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Court of Appeals Judge - Julie A. Schumacher,,No,,128,46,82
+Palo Alto,Emmetsburg Ward 1,Court of Appeals Judge - Julie A. Schumacher,,No,,47,21,26
+Palo Alto,Emmetsburg Ward 2,Court of Appeals Judge - Julie A. Schumacher,,No,,46,19,27
+Palo Alto,GR/pt WL/pt LI,Court of Appeals Judge - Julie A. Schumacher,,No,,55,12,43
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Court of Appeals Judge - Julie A. Schumacher,,No,,56,20,36
+Palo Alto,RV/pt HL,Court of Appeals Judge - Julie A. Schumacher,,No,,40,9,31
+Palo Alto,WB/pt FV,Court of Appeals Judge - Julie A. Schumacher,,No,,71,11,60
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Court of Appeals Judge - Julie A. Schumacher,,Yes,,374,132,242
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Court of Appeals Judge - Julie A. Schumacher,,Yes,,452,157,295
+Palo Alto,Emmetsburg Ward 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,259,109,150
+Palo Alto,Emmetsburg Ward 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,243,101,142
+Palo Alto,GR/pt WL/pt LI,Court of Appeals Judge - Julie A. Schumacher,,Yes,,247,47,200
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Court of Appeals Judge - Julie A. Schumacher,,Yes,,219,71,148
+Palo Alto,RV/pt HL,Court of Appeals Judge - Julie A. Schumacher,,Yes,,194,62,132
+Palo Alto,WB/pt FV,Court of Appeals Judge - Julie A. Schumacher,,Yes,,261,40,221
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Court of Appeals Judge - Sharon Soorholtz Greer,,No,,121,49,72
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Court of Appeals Judge - Sharon Soorholtz Greer,,No,,136,51,85
+Palo Alto,Emmetsburg Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,57,23,34
+Palo Alto,Emmetsburg Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,47,21,26
+Palo Alto,GR/pt WL/pt LI,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,68,16,52
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,75,29,46
+Palo Alto,RV/pt HL,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,47,14,33
+Palo Alto,WB/pt FV,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,90,11,79
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,376,128,248
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,448,151,297
+Palo Alto,Emmetsburg Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,257,112,145
+Palo Alto,Emmetsburg Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,242,100,142
+Palo Alto,GR/pt WL/pt LI,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,239,43,196
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,198,61,137
+Palo Alto,RV/pt HL,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,189,56,133
+Palo Alto,WB/pt FV,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,243,40,203
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",District 3A Associate Judge - Jennifer Bennett Finn,,No,,114,43,71
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",District 3A Associate Judge - Jennifer Bennett Finn,,No,,131,47,84
+Palo Alto,Emmetsburg Ward 1,District 3A Associate Judge - Jennifer Bennett Finn,,No,,57,23,34
+Palo Alto,Emmetsburg Ward 2,District 3A Associate Judge - Jennifer Bennett Finn,,No,,50,25,25
+Palo Alto,GR/pt WL/pt LI,District 3A Associate Judge - Jennifer Bennett Finn,,No,,61,15,46
+Palo Alto,ML/EL/RL/BO/GO/pt SL,District 3A Associate Judge - Jennifer Bennett Finn,,No,,66,25,41
+Palo Alto,RV/pt HL,District 3A Associate Judge - Jennifer Bennett Finn,,No,,40,10,30
+Palo Alto,WB/pt FV,District 3A Associate Judge - Jennifer Bennett Finn,,No,,87,11,76
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,371,131,240
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,441,153,288
+Palo Alto,Emmetsburg Ward 1,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,248,107,141
+Palo Alto,Emmetsburg Ward 2,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,240,98,142
+Palo Alto,GR/pt WL/pt LI,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,247,46,201
+Palo Alto,ML/EL/RL/BO/GO/pt SL,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,199,59,140
+Palo Alto,RV/pt HL,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,192,60,132
+Palo Alto,WB/pt FV,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,244,38,206
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",District 3A Associate Judge - Kristi Busse,,No,,115,41,74
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",District 3A Associate Judge - Kristi Busse,,No,,116,42,74
+Palo Alto,Emmetsburg Ward 1,District 3A Associate Judge - Kristi Busse,,No,,49,23,26
+Palo Alto,Emmetsburg Ward 2,District 3A Associate Judge - Kristi Busse,,No,,50,25,25
+Palo Alto,GR/pt WL/pt LI,District 3A Associate Judge - Kristi Busse,,No,,60,14,46
+Palo Alto,ML/EL/RL/BO/GO/pt SL,District 3A Associate Judge - Kristi Busse,,No,,61,23,38
+Palo Alto,RV/pt HL,District 3A Associate Judge - Kristi Busse,,No,,43,10,33
+Palo Alto,WB/pt FV,District 3A Associate Judge - Kristi Busse,,No,,70,9,61
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",District 3A Associate Judge - Kristi Busse,,Yes,,380,135,245
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",District 3A Associate Judge - Kristi Busse,,Yes,,460,157,303
+Palo Alto,Emmetsburg Ward 1,District 3A Associate Judge - Kristi Busse,,Yes,,258,108,150
+Palo Alto,Emmetsburg Ward 2,District 3A Associate Judge - Kristi Busse,,Yes,,241,96,145
+Palo Alto,GR/pt WL/pt LI,District 3A Associate Judge - Kristi Busse,,Yes,,246,47,199
+Palo Alto,ML/EL/RL/BO/GO/pt SL,District 3A Associate Judge - Kristi Busse,,Yes,,209,66,143
+Palo Alto,RV/pt HL,District 3A Associate Judge - Kristi Busse,,Yes,,190,59,131
+Palo Alto,WB/pt FV,District 3A Associate Judge - Kristi Busse,,Yes,,257,40,217
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",District 3A Judge - Adam Miller,,No,,111,40,71
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",District 3A Judge - Adam Miller,,No,,110,42,68
+Palo Alto,Emmetsburg Ward 1,District 3A Judge - Adam Miller,,No,,49,23,26
+Palo Alto,Emmetsburg Ward 2,District 3A Judge - Adam Miller,,No,,45,19,26
+Palo Alto,GR/pt WL/pt LI,District 3A Judge - Adam Miller,,No,,56,14,42
+Palo Alto,ML/EL/RL/BO/GO/pt SL,District 3A Judge - Adam Miller,,No,,58,23,35
+Palo Alto,RV/pt HL,District 3A Judge - Adam Miller,,No,,49,14,35
+Palo Alto,WB/pt FV,District 3A Judge - Adam Miller,,No,,65,8,57
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",District 3A Judge - Adam Miller,,Yes,,372,131,241
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",District 3A Judge - Adam Miller,,Yes,,455,154,301
+Palo Alto,Emmetsburg Ward 1,District 3A Judge - Adam Miller,,Yes,,255,107,148
+Palo Alto,Emmetsburg Ward 2,District 3A Judge - Adam Miller,,Yes,,239,99,140
+Palo Alto,GR/pt WL/pt LI,District 3A Judge - Adam Miller,,Yes,,246,45,201
+Palo Alto,ML/EL/RL/BO/GO/pt SL,District 3A Judge - Adam Miller,,Yes,,210,64,146
+Palo Alto,RV/pt HL,District 3A Judge - Adam Miller,,Yes,,184,55,129
+Palo Alto,WB/pt FV,District 3A Judge - Adam Miller,,Yes,,254,41,213
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",District 3A Judge - Andrew J. Smith,,No,,123,45,78
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",District 3A Judge - Andrew J. Smith,,No,,116,44,72
+Palo Alto,Emmetsburg Ward 1,District 3A Judge - Andrew J. Smith,,No,,47,22,25
+Palo Alto,Emmetsburg Ward 2,District 3A Judge - Andrew J. Smith,,No,,52,20,32
+Palo Alto,GR/pt WL/pt LI,District 3A Judge - Andrew J. Smith,,No,,62,13,49
+Palo Alto,ML/EL/RL/BO/GO/pt SL,District 3A Judge - Andrew J. Smith,,No,,68,29,39
+Palo Alto,RV/pt HL,District 3A Judge - Andrew J. Smith,,No,,52,15,37
+Palo Alto,WB/pt FV,District 3A Judge - Andrew J. Smith,,No,,77,11,66
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",District 3A Judge - Andrew J. Smith,,Yes,,362,128,234
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",District 3A Judge - Andrew J. Smith,,Yes,,455,157,298
+Palo Alto,Emmetsburg Ward 1,District 3A Judge - Andrew J. Smith,,Yes,,261,108,153
+Palo Alto,Emmetsburg Ward 2,District 3A Judge - Andrew J. Smith,,Yes,,231,97,134
+Palo Alto,GR/pt WL/pt LI,District 3A Judge - Andrew J. Smith,,Yes,,237,43,194
+Palo Alto,ML/EL/RL/BO/GO/pt SL,District 3A Judge - Andrew J. Smith,,Yes,,200,55,145
+Palo Alto,RV/pt HL,District 3A Judge - Andrew J. Smith,,Yes,,178,53,125
+Palo Alto,WB/pt FV,District 3A Judge - Andrew J. Smith,,Yes,,241,36,205
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",District 3A Judge - Carl J. Petersen,,No,,108,40,68
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",District 3A Judge - Carl J. Petersen,,No,,117,49,68
+Palo Alto,Emmetsburg Ward 1,District 3A Judge - Carl J. Petersen,,No,,51,21,30
+Palo Alto,Emmetsburg Ward 2,District 3A Judge - Carl J. Petersen,,No,,48,19,29
+Palo Alto,GR/pt WL/pt LI,District 3A Judge - Carl J. Petersen,,No,,57,13,44
+Palo Alto,ML/EL/RL/BO/GO/pt SL,District 3A Judge - Carl J. Petersen,,No,,53,18,35
+Palo Alto,RV/pt HL,District 3A Judge - Carl J. Petersen,,No,,48,13,35
+Palo Alto,WB/pt FV,District 3A Judge - Carl J. Petersen,,No,,65,8,57
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",District 3A Judge - Carl J. Petersen,,Yes,,379,133,246
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",District 3A Judge - Carl J. Petersen,,Yes,,450,148,302
+Palo Alto,Emmetsburg Ward 1,District 3A Judge - Carl J. Petersen,,Yes,,256,110,146
+Palo Alto,Emmetsburg Ward 2,District 3A Judge - Carl J. Petersen,,Yes,,237,101,136
+Palo Alto,GR/pt WL/pt LI,District 3A Judge - Carl J. Petersen,,Yes,,243,45,198
+Palo Alto,ML/EL/RL/BO/GO/pt SL,District 3A Judge - Carl J. Petersen,,Yes,,216,67,149
+Palo Alto,RV/pt HL,District 3A Judge - Carl J. Petersen,,Yes,,184,56,128
+Palo Alto,WB/pt FV,District 3A Judge - Carl J. Petersen,,Yes,,255,40,215
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",District 3A Judge - Charles Borth,,No,,125,49,76
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",District 3A Judge - Charles Borth,,No,,118,49,69
+Palo Alto,Emmetsburg Ward 1,District 3A Judge - Charles Borth,,No,,52,27,25
+Palo Alto,Emmetsburg Ward 2,District 3A Judge - Charles Borth,,No,,43,17,26
+Palo Alto,GR/pt WL/pt LI,District 3A Judge - Charles Borth,,No,,61,15,46
+Palo Alto,ML/EL/RL/BO/GO/pt SL,District 3A Judge - Charles Borth,,No,,61,21,40
+Palo Alto,RV/pt HL,District 3A Judge - Charles Borth,,No,,58,15,43
+Palo Alto,WB/pt FV,District 3A Judge - Charles Borth,,No,,75,11,64
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",District 3A Judge - Charles Borth,,Yes,,362,125,237
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",District 3A Judge - Charles Borth,,Yes,,445,146,299
+Palo Alto,Emmetsburg Ward 1,District 3A Judge - Charles Borth,,Yes,,254,104,150
+Palo Alto,Emmetsburg Ward 2,District 3A Judge - Charles Borth,,Yes,,240,99,141
+Palo Alto,GR/pt WL/pt LI,District 3A Judge - Charles Borth,,Yes,,248,44,204
+Palo Alto,ML/EL/RL/BO/GO/pt SL,District 3A Judge - Charles Borth,,Yes,,209,67,142
+Palo Alto,RV/pt HL,District 3A Judge - Charles Borth,,Yes,,177,52,125
+Palo Alto,WB/pt FV,District 3A Judge - Charles Borth,,Yes,,246,38,208
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Emmetsburg School - Public Measure A,,No,,224,77,147
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Emmetsburg School - Public Measure A,,No,,352,141,211
+Palo Alto,Emmetsburg Ward 1,Emmetsburg School - Public Measure A,,No,,191,88,103
+Palo Alto,Emmetsburg Ward 2,Emmetsburg School - Public Measure A,,No,,160,73,87
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Emmetsburg School - Public Measure A,,No,,61,34,27
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Emmetsburg School - Public Measure A,,Yes,,242,104,138
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Emmetsburg School - Public Measure A,,Yes,,360,134,226
+Palo Alto,Emmetsburg Ward 1,Emmetsburg School - Public Measure A,,Yes,,258,112,146
+Palo Alto,Emmetsburg Ward 2,Emmetsburg School - Public Measure A,,Yes,,256,98,158
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Emmetsburg School - Public Measure A,,Yes,,49,25,24
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Fairfield Township - Public Measure B,,No,,29,15,14
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Fairfield Township - Public Measure B,,Yes,,35,11,24
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Fairfield Township Clerk,,Jana Mathisen,,64,24,40
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Fairfield Township Clerk,,Write-In,,0,0,0
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Fairfield Township Trustee,,AJ Osborn,,66,26,40
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Fairfield Township Trustee,,Write-In,,0,0,0
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Governor,,Rob Sand and Dave Muhlbauer,DEM,294,141,153
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Governor,,Rob Sand and Dave Muhlbauer,DEM,312,140,172
+Palo Alto,Emmetsburg Ward 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,203,104,99
+Palo Alto,Emmetsburg Ward 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,206,106,100
+Palo Alto,GR/pt WL/pt LI,Governor,,Rob Sand and Dave Muhlbauer,DEM,161,35,126
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Governor,,Rob Sand and Dave Muhlbauer,DEM,91,40,51
+Palo Alto,RV/pt HL,Governor,,Rob Sand and Dave Muhlbauer,DEM,129,53,76
+Palo Alto,WB/pt FV,Governor,,Rob Sand and Dave Muhlbauer,DEM,118,27,91
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Governor,,Write-In,,0,0,0
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Governor,,Write-In,,0,0,0
+Palo Alto,Emmetsburg Ward 1,Governor,,Write-In,,0,0,0
+Palo Alto,Emmetsburg Ward 2,Governor,,Write-In,,0,0,0
+Palo Alto,GR/pt WL/pt LI,Governor,,Write-In,,2,0,2
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Governor,,Write-In,,0,0,0
+Palo Alto,RV/pt HL,Governor,,Write-In,,0,0,0
+Palo Alto,WB/pt FV,Governor,,Write-In,,0,0,0
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Governor,,Zach Lahn and Derek Wulf,REP,425,143,282
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Governor,,Zach Lahn and Derek Wulf,REP,511,176,335
+Palo Alto,Emmetsburg Ward 1,Governor,,Zach Lahn and Derek Wulf,REP,251,101,150
+Palo Alto,Emmetsburg Ward 2,Governor,,Zach Lahn and Derek Wulf,REP,217,73,144
+Palo Alto,GR/pt WL/pt LI,Governor,,Zach Lahn and Derek Wulf,REP,248,51,197
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Governor,,Zach Lahn and Derek Wulf,REP,297,98,199
+Palo Alto,RV/pt HL,Governor,,Zach Lahn and Derek Wulf,REP,195,53,142
+Palo Alto,WB/pt FV,Governor,,Zach Lahn and Derek Wulf,REP,373,53,320
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",North Union School - Public Measure HF,,No,,31,13,18
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",North Union School - Public Measure HF,,Yes,,9,0,9
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Pocahontas Area School - Public Measure RQ,,No,,0,0,0
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Pocahontas Area School - Public Measure RQ,,Yes,,4,1,3
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Secretary of Agriculture,,Chris Jones,DEM,176,87,89
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Secretary of Agriculture,,Chris Jones,DEM,185,93,92
+Palo Alto,Emmetsburg Ward 1,Secretary of Agriculture,,Chris Jones,DEM,115,63,52
+Palo Alto,Emmetsburg Ward 2,Secretary of Agriculture,,Chris Jones,DEM,145,79,66
+Palo Alto,GR/pt WL/pt LI,Secretary of Agriculture,,Chris Jones,DEM,116,29,87
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Secretary of Agriculture,,Chris Jones,DEM,44,18,26
+Palo Alto,RV/pt HL,Secretary of Agriculture,,Chris Jones,DEM,91,38,53
+Palo Alto,WB/pt FV,Secretary of Agriculture,,Chris Jones,DEM,57,14,43
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Secretary of Agriculture,,Mike Naig,REP,548,202,346
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Secretary of Agriculture,,Mike Naig,REP,636,223,413
+Palo Alto,Emmetsburg Ward 1,Secretary of Agriculture,,Mike Naig,REP,337,142,195
+Palo Alto,Emmetsburg Ward 2,Secretary of Agriculture,,Mike Naig,REP,276,100,176
+Palo Alto,GR/pt WL/pt LI,Secretary of Agriculture,,Mike Naig,REP,296,57,239
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Secretary of Agriculture,,Mike Naig,REP,342,122,220
+Palo Alto,RV/pt HL,Secretary of Agriculture,,Mike Naig,REP,227,66,161
+Palo Alto,WB/pt FV,Secretary of Agriculture,,Mike Naig,REP,430,65,365
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Secretary of Agriculture,,Write-In,,1,0,1
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Secretary of Agriculture,,Write-In,,2,1,1
+Palo Alto,Emmetsburg Ward 1,Secretary of Agriculture,,Write-In,,0,0,0
+Palo Alto,Emmetsburg Ward 2,Secretary of Agriculture,,Write-In,,0,0,0
+Palo Alto,GR/pt WL/pt LI,Secretary of Agriculture,,Write-In,,0,0,0
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Secretary of Agriculture,,Write-In,,0,0,0
+Palo Alto,RV/pt HL,Secretary of Agriculture,,Write-In,,0,0,0
+Palo Alto,WB/pt FV,Secretary of Agriculture,,Write-In,,1,0,1
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Secretary of State,,Paul D. Pate,REP,481,168,313
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Secretary of State,,Paul D. Pate,REP,564,190,374
+Palo Alto,Emmetsburg Ward 1,Secretary of State,,Paul D. Pate,REP,287,114,173
+Palo Alto,Emmetsburg Ward 2,Secretary of State,,Paul D. Pate,REP,236,84,152
+Palo Alto,GR/pt WL/pt LI,Secretary of State,,Paul D. Pate,REP,279,54,225
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Secretary of State,,Paul D. Pate,REP,320,110,210
+Palo Alto,RV/pt HL,Secretary of State,,Paul D. Pate,REP,208,54,154
+Palo Alto,WB/pt FV,Secretary of State,,Paul D. Pate,REP,411,61,350
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Secretary of State,,Ryan Peterman,DEM,223,116,107
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Secretary of State,,Ryan Peterman,DEM,247,122,125
+Palo Alto,Emmetsburg Ward 1,Secretary of State,,Ryan Peterman,DEM,157,84,73
+Palo Alto,Emmetsburg Ward 2,Secretary of State,,Ryan Peterman,DEM,184,96,88
+Palo Alto,GR/pt WL/pt LI,Secretary of State,,Ryan Peterman,DEM,131,32,99
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Secretary of State,,Ryan Peterman,DEM,64,30,34
+Palo Alto,RV/pt HL,Secretary of State,,Ryan Peterman,DEM,109,48,61
+Palo Alto,WB/pt FV,Secretary of State,,Ryan Peterman,DEM,75,19,56
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Secretary of State,,Write-In,,1,0,1
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Secretary of State,,Write-In,,0,0,0
+Palo Alto,Emmetsburg Ward 1,Secretary of State,,Write-In,,0,0,0
+Palo Alto,Emmetsburg Ward 2,Secretary of State,,Write-In,,0,0,0
+Palo Alto,GR/pt WL/pt LI,Secretary of State,,Write-In,,0,0,0
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Secretary of State,,Write-In,,0,0,0
+Palo Alto,RV/pt HL,Secretary of State,,Write-In,,0,0,0
+Palo Alto,WB/pt FV,Secretary of State,,Write-In,,1,0,1
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Silver Lake Township - Public Measure C,,No,,14,8,6
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Silver Lake Township - Public Measure C,,No,,4,0,4
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Silver Lake Township - Public Measure C,,Yes,,23,11,12
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Silver Lake Township - Public Measure C,,Yes,,14,6,8
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Silver Lake Township Clerk,,Jake Treybal,,35,16,19
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Silver Lake Township Clerk,,Jake Treybal,,18,6,12
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Silver Lake Township Clerk,,Write-In,,0,0,0
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Silver Lake Township Clerk,,Write-In,,0,0,0
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Silver Lake Township Trustee,,Kyle Licht,,34,16,18
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Silver Lake Township Trustee,,Kyle Licht,,18,6,12
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Silver Lake Township Trustee,,Write-In,,0,0,0
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Silver Lake Township Trustee,,Write-In,,0,0,0
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Soil and Water Conservation District Commissioner,,Dexter Knobloch,,2,0,2
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Soil and Water Conservation District Commissioner,,Dexter Knobloch,,5,2,3
+Palo Alto,Emmetsburg Ward 1,Soil and Water Conservation District Commissioner,,Dexter Knobloch,,0,0,0
+Palo Alto,Emmetsburg Ward 2,Soil and Water Conservation District Commissioner,,Dexter Knobloch,,0,0,0
+Palo Alto,GR/pt WL/pt LI,Soil and Water Conservation District Commissioner,,Dexter Knobloch,,0,0,0
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Soil and Water Conservation District Commissioner,,Dexter Knobloch,,0,0,0
+Palo Alto,RV/pt HL,Soil and Water Conservation District Commissioner,,Dexter Knobloch,,0,0,0
+Palo Alto,WB/pt FV,Soil and Water Conservation District Commissioner,,Dexter Knobloch,,6,2,4
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Soil and Water Conservation District Commissioner,,Jerry Joyce,,563,214,349
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Soil and Water Conservation District Commissioner,,Jerry Joyce,,651,231,420
+Palo Alto,Emmetsburg Ward 1,Soil and Water Conservation District Commissioner,,Jerry Joyce,,346,156,190
+Palo Alto,Emmetsburg Ward 2,Soil and Water Conservation District Commissioner,,Jerry Joyce,,307,120,187
+Palo Alto,GR/pt WL/pt LI,Soil and Water Conservation District Commissioner,,Jerry Joyce,,321,57,264
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Soil and Water Conservation District Commissioner,,Jerry Joyce,,302,99,203
+Palo Alto,RV/pt HL,Soil and Water Conservation District Commissioner,,Jerry Joyce,,236,71,165
+Palo Alto,WB/pt FV,Soil and Water Conservation District Commissioner,,Jerry Joyce,,367,66,301
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Soil and Water Conservation District Commissioner,,Write-In,,9,0,9
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Soil and Water Conservation District Commissioner,,Write-In,,10,4,6
+Palo Alto,Emmetsburg Ward 1,Soil and Water Conservation District Commissioner,,Write-In,,2,2,0
+Palo Alto,Emmetsburg Ward 2,Soil and Water Conservation District Commissioner,,Write-In,,7,5,2
+Palo Alto,GR/pt WL/pt LI,Soil and Water Conservation District Commissioner,,Write-In,,8,2,6
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Soil and Water Conservation District Commissioner,,Write-In,,8,1,7
+Palo Alto,RV/pt HL,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Palo Alto,WB/pt FV,Soil and Water Conservation District Commissioner,,Write-In,,12,1,11
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",State House,10,John H. Wills,REP,541,194,347
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",State House,10,John H. Wills,REP,636,213,423
+Palo Alto,Emmetsburg Ward 1,State House,10,John H. Wills,REP,332,139,193
+Palo Alto,Emmetsburg Ward 2,State House,10,John H. Wills,REP,291,99,192
+Palo Alto,GR/pt WL/pt LI,State House,10,John H. Wills,REP,324,59,265
+Palo Alto,ML/EL/RL/BO/GO/pt SL,State House,10,John H. Wills,REP,340,115,225
+Palo Alto,RV/pt HL,State House,10,John H. Wills,REP,239,67,172
+Palo Alto,WB/pt FV,State House,10,John H. Wills,REP,426,63,363
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",State House,10,Write-In,,10,1,9
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",State House,10,Write-In,,4,4,0
+Palo Alto,Emmetsburg Ward 1,State House,10,Write-In,,3,1,2
+Palo Alto,Emmetsburg Ward 2,State House,10,Write-In,,7,4,3
+Palo Alto,GR/pt WL/pt LI,State House,10,Write-In,,6,4,2
+Palo Alto,ML/EL/RL/BO/GO/pt SL,State House,10,Write-In,,1,0,1
+Palo Alto,RV/pt HL,State House,10,Write-In,,4,2,2
+Palo Alto,WB/pt FV,State House,10,Write-In,,4,2,2
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",State Senate,5,Dave Rowley,REP,474,173,301
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",State Senate,5,Dave Rowley,REP,563,198,365
+Palo Alto,Emmetsburg Ward 1,State Senate,5,Dave Rowley,REP,303,128,175
+Palo Alto,Emmetsburg Ward 2,State Senate,5,Dave Rowley,REP,255,87,168
+Palo Alto,GR/pt WL/pt LI,State Senate,5,Dave Rowley,REP,269,50,219
+Palo Alto,ML/EL/RL/BO/GO/pt SL,State Senate,5,Dave Rowley,REP,312,110,202
+Palo Alto,RV/pt HL,State Senate,5,Dave Rowley,REP,205,54,151
+Palo Alto,WB/pt FV,State Senate,5,Dave Rowley,REP,411,61,350
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",State Senate,5,NPY Rachel Gravert,,184,81,103
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",State Senate,5,NPY Rachel Gravert,,195,84,111
+Palo Alto,Emmetsburg Ward 1,State Senate,5,NPY Rachel Gravert,,106,50,56
+Palo Alto,Emmetsburg Ward 2,State Senate,5,NPY Rachel Gravert,,126,67,59
+Palo Alto,GR/pt WL/pt LI,State Senate,5,NPY Rachel Gravert,,121,32,89
+Palo Alto,ML/EL/RL/BO/GO/pt SL,State Senate,5,NPY Rachel Gravert,,61,23,38
+Palo Alto,RV/pt HL,State Senate,5,NPY Rachel Gravert,,80,34,46
+Palo Alto,WB/pt FV,State Senate,5,NPY Rachel Gravert,,51,12,39
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",State Senate,5,Write-In,,4,2,2
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",State Senate,5,Write-In,,1,1,0
+Palo Alto,Emmetsburg Ward 1,State Senate,5,Write-In,,2,1,1
+Palo Alto,Emmetsburg Ward 2,State Senate,5,Write-In,,0,0,0
+Palo Alto,GR/pt WL/pt LI,State Senate,5,Write-In,,1,0,1
+Palo Alto,ML/EL/RL/BO/GO/pt SL,State Senate,5,Write-In,,0,0,0
+Palo Alto,RV/pt HL,State Senate,5,Write-In,,2,2,0
+Palo Alto,WB/pt FV,State Senate,5,Write-In,,1,1,0
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Treasurer of State,,John Norwood,DEM,244,126,118
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Treasurer of State,,John Norwood,DEM,267,127,140
+Palo Alto,Emmetsburg Ward 1,Treasurer of State,,John Norwood,DEM,164,83,81
+Palo Alto,Emmetsburg Ward 2,Treasurer of State,,John Norwood,DEM,191,98,93
+Palo Alto,GR/pt WL/pt LI,Treasurer of State,,John Norwood,DEM,138,32,106
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Treasurer of State,,John Norwood,DEM,70,33,37
+Palo Alto,RV/pt HL,Treasurer of State,,John Norwood,DEM,113,46,67
+Palo Alto,WB/pt FV,Treasurer of State,,John Norwood,DEM,83,19,64
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Treasurer of State,,Roby Smith,REP,448,152,296
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Treasurer of State,,Roby Smith,REP,538,182,356
+Palo Alto,Emmetsburg Ward 1,Treasurer of State,,Roby Smith,REP,272,110,162
+Palo Alto,Emmetsburg Ward 2,Treasurer of State,,Roby Smith,REP,222,79,143
+Palo Alto,GR/pt WL/pt LI,Treasurer of State,,Roby Smith,REP,266,52,214
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Treasurer of State,,Roby Smith,REP,307,104,203
+Palo Alto,RV/pt HL,Treasurer of State,,Roby Smith,REP,199,55,144
+Palo Alto,WB/pt FV,Treasurer of State,,Roby Smith,REP,398,60,338
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",Treasurer of State,,Write-In,,0,0,0
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",Treasurer of State,,Write-In,,0,0,0
+Palo Alto,Emmetsburg Ward 1,Treasurer of State,,Write-In,,0,0,0
+Palo Alto,Emmetsburg Ward 2,Treasurer of State,,Write-In,,0,0,0
+Palo Alto,GR/pt WL/pt LI,Treasurer of State,,Write-In,,0,0,0
+Palo Alto,ML/EL/RL/BO/GO/pt SL,Treasurer of State,,Write-In,,0,0,0
+Palo Alto,RV/pt HL,Treasurer of State,,Write-In,,1,0,1
+Palo Alto,WB/pt FV,Treasurer of State,,Write-In,,0,0,0
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",U.S. House,4,Chris McGowan,REP,451,155,296
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",U.S. House,4,Chris McGowan,REP,536,182,354
+Palo Alto,Emmetsburg Ward 1,U.S. House,4,Chris McGowan,REP,273,112,161
+Palo Alto,Emmetsburg Ward 2,U.S. House,4,Chris McGowan,REP,222,76,146
+Palo Alto,GR/pt WL/pt LI,U.S. House,4,Chris McGowan,REP,263,51,212
+Palo Alto,ML/EL/RL/BO/GO/pt SL,U.S. House,4,Chris McGowan,REP,309,101,208
+Palo Alto,RV/pt HL,U.S. House,4,Chris McGowan,REP,203,52,151
+Palo Alto,WB/pt FV,U.S. House,4,Chris McGowan,REP,393,56,337
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",U.S. House,4,Dave Dawson,DEM,249,127,122
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",U.S. House,4,Dave Dawson,DEM,268,129,139
+Palo Alto,Emmetsburg Ward 1,U.S. House,4,Dave Dawson,DEM,167,87,80
+Palo Alto,Emmetsburg Ward 2,U.S. House,4,Dave Dawson,DEM,191,100,91
+Palo Alto,GR/pt WL/pt LI,U.S. House,4,Dave Dawson,DEM,138,32,106
+Palo Alto,ML/EL/RL/BO/GO/pt SL,U.S. House,4,Dave Dawson,DEM,74,36,38
+Palo Alto,RV/pt HL,U.S. House,4,Dave Dawson,DEM,110,47,63
+Palo Alto,WB/pt FV,U.S. House,4,Dave Dawson,DEM,90,24,66
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",U.S. House,4,Write-In,,1,0,1
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",U.S. House,4,Write-In,,0,0,0
+Palo Alto,Emmetsburg Ward 1,U.S. House,4,Write-In,,1,0,1
+Palo Alto,Emmetsburg Ward 2,U.S. House,4,Write-In,,1,0,1
+Palo Alto,GR/pt WL/pt LI,U.S. House,4,Write-In,,0,0,0
+Palo Alto,ML/EL/RL/BO/GO/pt SL,U.S. House,4,Write-In,,0,0,0
+Palo Alto,RV/pt HL,U.S. House,4,Write-In,,0,0,0
+Palo Alto,WB/pt FV,U.S. House,4,Write-In,,0,0,0
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",U.S. Senate,,Ashley Hinson,REP,425,149,276
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",U.S. Senate,,Ashley Hinson,REP,504,172,332
+Palo Alto,Emmetsburg Ward 1,U.S. Senate,,Ashley Hinson,REP,256,108,148
+Palo Alto,Emmetsburg Ward 2,U.S. Senate,,Ashley Hinson,REP,207,73,134
+Palo Alto,GR/pt WL/pt LI,U.S. Senate,,Ashley Hinson,REP,248,49,199
+Palo Alto,ML/EL/RL/BO/GO/pt SL,U.S. Senate,,Ashley Hinson,REP,297,100,197
+Palo Alto,RV/pt HL,U.S. Senate,,Ashley Hinson,REP,187,50,137
+Palo Alto,WB/pt FV,U.S. Senate,,Ashley Hinson,REP,382,55,327
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",U.S. Senate,,Josh Turek,DEM,273,136,137
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",U.S. Senate,,Josh Turek,DEM,292,136,156
+Palo Alto,Emmetsburg Ward 1,U.S. Senate,,Josh Turek,DEM,173,85,88
+Palo Alto,Emmetsburg Ward 2,U.S. Senate,,Josh Turek,DEM,198,100,98
+Palo Alto,GR/pt WL/pt LI,U.S. Senate,,Josh Turek,DEM,145,35,110
+Palo Alto,ML/EL/RL/BO/GO/pt SL,U.S. Senate,,Josh Turek,DEM,77,34,43
+Palo Alto,RV/pt HL,U.S. Senate,,Josh Turek,DEM,116,44,72
+Palo Alto,WB/pt FV,U.S. Senate,,Josh Turek,DEM,95,24,71
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",U.S. Senate,,Thomas Laehn,LIB,24,3,21
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",U.S. Senate,,Thomas Laehn,LIB,27,8,19
+Palo Alto,Emmetsburg Ward 1,U.S. Senate,,Thomas Laehn,LIB,18,9,9
+Palo Alto,Emmetsburg Ward 2,U.S. Senate,,Thomas Laehn,LIB,16,6,10
+Palo Alto,GR/pt WL/pt LI,U.S. Senate,,Thomas Laehn,LIB,16,0,16
+Palo Alto,ML/EL/RL/BO/GO/pt SL,U.S. Senate,,Thomas Laehn,LIB,16,6,10
+Palo Alto,RV/pt HL,U.S. Senate,,Thomas Laehn,LIB,13,6,7
+Palo Alto,WB/pt FV,U.S. Senate,,Thomas Laehn,LIB,10,1,9
+Palo Alto,"EM Ward 3/EM/pts SL,HL,LI",U.S. Senate,,Write-In,,0,0,0
+Palo Alto,"EM Ward 4/FR/NV/ptsFV,FF,",U.S. Senate,,Write-In,,1,1,0
+Palo Alto,Emmetsburg Ward 1,U.S. Senate,,Write-In,,0,0,0
+Palo Alto,Emmetsburg Ward 2,U.S. Senate,,Write-In,,1,0,1
+Palo Alto,GR/pt WL/pt LI,U.S. Senate,,Write-In,,1,0,1
+Palo Alto,ML/EL/RL/BO/GO/pt SL,U.S. Senate,,Write-In,,0,0,0
+Palo Alto,RV/pt HL,U.S. Senate,,Write-In,,0,0,0
+Palo Alto,WB/pt FV,U.S. Senate,,Write-In,,1,0,1
+Palo Alto,WB/pt FV,West Bend Township - Public Measure D,,No,,33,7,26
+Palo Alto,WB/pt FV,West Bend Township - Public Measure D,,Yes,,47,5,42
+Palo Alto,WB/pt FV,West Bend Township Clerk,,Donald E. Banwart,,85,14,71
+Palo Alto,WB/pt FV,West Bend Township Clerk,,Write-In,,2,0,2
+Palo Alto,WB/pt FV,West Bend Township Trustee,,Jeffrey Gambell,,89,14,75
+Palo Alto,WB/pt FV,West Bend Township Trustee,,Write-In,,0,0,0

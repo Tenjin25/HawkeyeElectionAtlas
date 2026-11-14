@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2026,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "auditor",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2026_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 178305,
+        "rep_votes": 160007,
+        "other_votes": 376,
+        "total_votes": 338688,
+        "dem_candidate": "Taylor Wettach",
+        "rep_candidate": "Chris Cournoyer",
+        "margin": -18298,
+        "margin_pct": -5.4026124338624335,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "2": {
+        "dem_votes": 177924,
+        "rep_votes": 163442,
+        "other_votes": 316,
+        "total_votes": 341682,
+        "dem_candidate": "Taylor Wettach",
+        "rep_candidate": "Chris Cournoyer",
+        "margin": -14482,
+        "margin_pct": -4.238443933247874,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "3": {
+        "dem_votes": 188165,
+        "rep_votes": 157067,
+        "other_votes": 438,
+        "total_votes": 345670,
+        "dem_candidate": "Taylor Wettach",
+        "rep_candidate": "Chris Cournoyer",
+        "margin": -31098,
+        "margin_pct": -8.996441692944138,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "4": {
+        "dem_votes": 122376,
+        "rep_votes": 179848,
+        "other_votes": 279,
+        "total_votes": 302503,
+        "dem_candidate": "Taylor Wettach",
+        "rep_candidate": "Chris Cournoyer",
+        "margin": 57472,
+        "margin_pct": 18.998819846414747,
+        "winner": "REP",
+        "color": "#e93a2d"
+      }
+    }
+  }
+}

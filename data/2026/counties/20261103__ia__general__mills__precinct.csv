@@ -1,0 +1,830 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Mills,PCT 7 - Henderson/Anderson,Anderson Township Clerk,,Write-In,,13,5,8
+Mills,PCT 7 - Henderson/Anderson,Anderson Township Trustee,,Write-In,,19,5,14
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Attorney General,,Brenna Bird,REP,214,35,179
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Attorney General,,Brenna Bird,REP,186,79,107
+Mills,PCT 11 - Silver City/Ingraham,Attorney General,,Brenna Bird,REP,178,35,143
+Mills,PCT 2 - Glenwood Township,Attorney General,,Brenna Bird,REP,371,154,217
+Mills,PCT 3 - Glenwood Ward 1,Attorney General,,Brenna Bird,REP,280,130,150
+Mills,PCT 4 - Glenwood Ward 2,Attorney General,,Brenna Bird,REP,309,98,211
+Mills,PCT 5 - Glenwood Ward 3,Attorney General,,Brenna Bird,REP,352,132,220
+Mills,PCT 6 - Deer Creek and White Cloud,Attorney General,,Brenna Bird,REP,104,42,62
+Mills,PCT 7 - Henderson/Anderson,Attorney General,,Brenna Bird,REP,127,15,112
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Attorney General,,Brenna Bird,REP,757,251,506
+Mills,PCT 9 - Oak/St Marys,Attorney General,,Brenna Bird,REP,1013,370,643
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Attorney General,,Nate Willems,DEM,99,17,82
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Attorney General,,Nate Willems,DEM,83,38,45
+Mills,PCT 11 - Silver City/Ingraham,Attorney General,,Nate Willems,DEM,79,20,59
+Mills,PCT 2 - Glenwood Township,Attorney General,,Nate Willems,DEM,219,140,79
+Mills,PCT 3 - Glenwood Ward 1,Attorney General,,Nate Willems,DEM,196,117,79
+Mills,PCT 4 - Glenwood Ward 2,Attorney General,,Nate Willems,DEM,258,115,143
+Mills,PCT 5 - Glenwood Ward 3,Attorney General,,Nate Willems,DEM,287,154,133
+Mills,PCT 6 - Deer Creek and White Cloud,Attorney General,,Nate Willems,DEM,46,17,29
+Mills,PCT 7 - Henderson/Anderson,Attorney General,,Nate Willems,DEM,60,16,44
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Attorney General,,Nate Willems,DEM,431,178,253
+Mills,PCT 9 - Oak/St Marys,Attorney General,,Nate Willems,DEM,464,233,231
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Attorney General,,Write-In,,0,0,0
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Attorney General,,Write-In,,0,0,0
+Mills,PCT 11 - Silver City/Ingraham,Attorney General,,Write-In,,0,0,0
+Mills,PCT 2 - Glenwood Township,Attorney General,,Write-In,,1,0,1
+Mills,PCT 3 - Glenwood Ward 1,Attorney General,,Write-In,,1,0,1
+Mills,PCT 4 - Glenwood Ward 2,Attorney General,,Write-In,,2,1,1
+Mills,PCT 5 - Glenwood Ward 3,Attorney General,,Write-In,,1,0,1
+Mills,PCT 6 - Deer Creek and White Cloud,Attorney General,,Write-In,,0,0,0
+Mills,PCT 7 - Henderson/Anderson,Attorney General,,Write-In,,0,0,0
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Attorney General,,Write-In,,2,1,1
+Mills,PCT 9 - Oak/St Marys,Attorney General,,Write-In,,0,0,0
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Auditor of State,,Chris Cournoyer,REP,226,36,190
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Auditor of State,,Chris Cournoyer,REP,186,79,107
+Mills,PCT 11 - Silver City/Ingraham,Auditor of State,,Chris Cournoyer,REP,176,35,141
+Mills,PCT 2 - Glenwood Township,Auditor of State,,Chris Cournoyer,REP,389,163,226
+Mills,PCT 3 - Glenwood Ward 1,Auditor of State,,Chris Cournoyer,REP,287,132,155
+Mills,PCT 4 - Glenwood Ward 2,Auditor of State,,Chris Cournoyer,REP,308,93,215
+Mills,PCT 5 - Glenwood Ward 3,Auditor of State,,Chris Cournoyer,REP,363,138,225
+Mills,PCT 6 - Deer Creek and White Cloud,Auditor of State,,Chris Cournoyer,REP,112,43,69
+Mills,PCT 7 - Henderson/Anderson,Auditor of State,,Chris Cournoyer,REP,129,15,114
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Auditor of State,,Chris Cournoyer,REP,775,253,522
+Mills,PCT 9 - Oak/St Marys,Auditor of State,,Chris Cournoyer,REP,1021,374,647
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Auditor of State,,Taylor Wettach,DEM,87,17,70
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Auditor of State,,Taylor Wettach,DEM,79,38,41
+Mills,PCT 11 - Silver City/Ingraham,Auditor of State,,Taylor Wettach,DEM,77,19,58
+Mills,PCT 2 - Glenwood Township,Auditor of State,,Taylor Wettach,DEM,208,135,73
+Mills,PCT 3 - Glenwood Ward 1,Auditor of State,,Taylor Wettach,DEM,184,111,73
+Mills,PCT 4 - Glenwood Ward 2,Auditor of State,,Taylor Wettach,DEM,263,119,144
+Mills,PCT 5 - Glenwood Ward 3,Auditor of State,,Taylor Wettach,DEM,271,148,123
+Mills,PCT 6 - Deer Creek and White Cloud,Auditor of State,,Taylor Wettach,DEM,40,16,24
+Mills,PCT 7 - Henderson/Anderson,Auditor of State,,Taylor Wettach,DEM,54,14,40
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Auditor of State,,Taylor Wettach,DEM,416,175,241
+Mills,PCT 9 - Oak/St Marys,Auditor of State,,Taylor Wettach,DEM,451,224,227
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Auditor of State,,Write-In,,1,0,1
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Auditor of State,,Write-In,,0,0,0
+Mills,PCT 11 - Silver City/Ingraham,Auditor of State,,Write-In,,0,0,0
+Mills,PCT 2 - Glenwood Township,Auditor of State,,Write-In,,1,0,1
+Mills,PCT 3 - Glenwood Ward 1,Auditor of State,,Write-In,,0,0,0
+Mills,PCT 4 - Glenwood Ward 2,Auditor of State,,Write-In,,0,0,0
+Mills,PCT 5 - Glenwood Ward 3,Auditor of State,,Write-In,,1,0,1
+Mills,PCT 6 - Deer Creek and White Cloud,Auditor of State,,Write-In,,0,0,0
+Mills,PCT 7 - Henderson/Anderson,Auditor of State,,Write-In,,0,0,0
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Auditor of State,,Write-In,,2,1,1
+Mills,PCT 9 - Oak/St Marys,Auditor of State,,Write-In,,0,0,0
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Constitutional Amendment 1,,No,,97,14,83
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Constitutional Amendment 1,,No,,59,30,29
+Mills,PCT 11 - Silver City/Ingraham,Constitutional Amendment 1,,No,,60,11,49
+Mills,PCT 2 - Glenwood Township,Constitutional Amendment 1,,No,,175,94,81
+Mills,PCT 3 - Glenwood Ward 1,Constitutional Amendment 1,,No,,162,95,67
+Mills,PCT 4 - Glenwood Ward 2,Constitutional Amendment 1,,No,,195,81,114
+Mills,PCT 5 - Glenwood Ward 3,Constitutional Amendment 1,,No,,226,125,101
+Mills,PCT 6 - Deer Creek and White Cloud,Constitutional Amendment 1,,No,,35,12,23
+Mills,PCT 7 - Henderson/Anderson,Constitutional Amendment 1,,No,,52,13,39
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Constitutional Amendment 1,,No,,304,114,190
+Mills,PCT 9 - Oak/St Marys,Constitutional Amendment 1,,No,,354,174,180
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Constitutional Amendment 1,,Yes,,190,37,153
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Constitutional Amendment 1,,Yes,,185,77,108
+Mills,PCT 11 - Silver City/Ingraham,Constitutional Amendment 1,,Yes,,181,42,139
+Mills,PCT 2 - Glenwood Township,Constitutional Amendment 1,,Yes,,399,190,209
+Mills,PCT 3 - Glenwood Ward 1,Constitutional Amendment 1,,Yes,,293,143,150
+Mills,PCT 4 - Glenwood Ward 2,Constitutional Amendment 1,,Yes,,350,125,225
+Mills,PCT 5 - Glenwood Ward 3,Constitutional Amendment 1,,Yes,,399,156,243
+Mills,PCT 6 - Deer Creek and White Cloud,Constitutional Amendment 1,,Yes,,106,43,63
+Mills,PCT 7 - Henderson/Anderson,Constitutional Amendment 1,,Yes,,128,16,112
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Constitutional Amendment 1,,Yes,,839,297,542
+Mills,PCT 9 - Oak/St Marys,Constitutional Amendment 1,,Yes,,1008,388,620
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,County Agricultural Extension Council Member,,Jennifer Graalfs,,175,26,149
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,County Agricultural Extension Council Member,,Jennifer Graalfs,,111,54,57
+Mills,PCT 11 - Silver City/Ingraham,County Agricultural Extension Council Member,,Jennifer Graalfs,,161,33,128
+Mills,PCT 2 - Glenwood Township,County Agricultural Extension Council Member,,Jennifer Graalfs,,335,153,182
+Mills,PCT 3 - Glenwood Ward 1,County Agricultural Extension Council Member,,Jennifer Graalfs,,265,138,127
+Mills,PCT 4 - Glenwood Ward 2,County Agricultural Extension Council Member,,Jennifer Graalfs,,301,95,206
+Mills,PCT 5 - Glenwood Ward 3,County Agricultural Extension Council Member,,Jennifer Graalfs,,368,170,198
+Mills,PCT 6 - Deer Creek and White Cloud,County Agricultural Extension Council Member,,Jennifer Graalfs,,91,35,56
+Mills,PCT 7 - Henderson/Anderson,County Agricultural Extension Council Member,,Jennifer Graalfs,,105,12,93
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,County Agricultural Extension Council Member,,Jennifer Graalfs,,685,240,445
+Mills,PCT 9 - Oak/St Marys,County Agricultural Extension Council Member,,Jennifer Graalfs,,742,295,447
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,County Agricultural Extension Council Member,,Joe Goerge,,182,25,157
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,County Agricultural Extension Council Member,,Joe Goerge,,113,56,57
+Mills,PCT 11 - Silver City/Ingraham,County Agricultural Extension Council Member,,Joe Goerge,,157,31,126
+Mills,PCT 2 - Glenwood Township,County Agricultural Extension Council Member,,Joe Goerge,,336,154,182
+Mills,PCT 3 - Glenwood Ward 1,County Agricultural Extension Council Member,,Joe Goerge,,270,149,121
+Mills,PCT 4 - Glenwood Ward 2,County Agricultural Extension Council Member,,Joe Goerge,,289,102,187
+Mills,PCT 5 - Glenwood Ward 3,County Agricultural Extension Council Member,,Joe Goerge,,386,177,209
+Mills,PCT 6 - Deer Creek and White Cloud,County Agricultural Extension Council Member,,Joe Goerge,,98,38,60
+Mills,PCT 7 - Henderson/Anderson,County Agricultural Extension Council Member,,Joe Goerge,,106,14,92
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,County Agricultural Extension Council Member,,Joe Goerge,,734,254,480
+Mills,PCT 9 - Oak/St Marys,County Agricultural Extension Council Member,,Joe Goerge,,746,308,438
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,County Agricultural Extension Council Member,,Lori Rew,,195,33,162
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,County Agricultural Extension Council Member,,Lori Rew,,113,57,56
+Mills,PCT 11 - Silver City/Ingraham,County Agricultural Extension Council Member,,Lori Rew,,156,29,127
+Mills,PCT 2 - Glenwood Township,County Agricultural Extension Council Member,,Lori Rew,,319,153,166
+Mills,PCT 3 - Glenwood Ward 1,County Agricultural Extension Council Member,,Lori Rew,,253,136,117
+Mills,PCT 4 - Glenwood Ward 2,County Agricultural Extension Council Member,,Lori Rew,,287,93,194
+Mills,PCT 5 - Glenwood Ward 3,County Agricultural Extension Council Member,,Lori Rew,,370,167,203
+Mills,PCT 6 - Deer Creek and White Cloud,County Agricultural Extension Council Member,,Lori Rew,,95,38,57
+Mills,PCT 7 - Henderson/Anderson,County Agricultural Extension Council Member,,Lori Rew,,113,14,99
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,County Agricultural Extension Council Member,,Lori Rew,,719,251,468
+Mills,PCT 9 - Oak/St Marys,County Agricultural Extension Council Member,,Lori Rew,,720,291,429
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,County Agricultural Extension Council Member,,Melissa Smith,,210,36,174
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,County Agricultural Extension Council Member,,Melissa Smith,,122,60,62
+Mills,PCT 11 - Silver City/Ingraham,County Agricultural Extension Council Member,,Melissa Smith,,167,33,134
+Mills,PCT 2 - Glenwood Township,County Agricultural Extension Council Member,,Melissa Smith,,325,153,172
+Mills,PCT 3 - Glenwood Ward 1,County Agricultural Extension Council Member,,Melissa Smith,,263,138,125
+Mills,PCT 4 - Glenwood Ward 2,County Agricultural Extension Council Member,,Melissa Smith,,297,102,195
+Mills,PCT 5 - Glenwood Ward 3,County Agricultural Extension Council Member,,Melissa Smith,,371,171,200
+Mills,PCT 6 - Deer Creek and White Cloud,County Agricultural Extension Council Member,,Melissa Smith,,108,41,67
+Mills,PCT 7 - Henderson/Anderson,County Agricultural Extension Council Member,,Melissa Smith,,116,18,98
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,County Agricultural Extension Council Member,,Melissa Smith,,770,265,505
+Mills,PCT 9 - Oak/St Marys,County Agricultural Extension Council Member,,Melissa Smith,,775,306,469
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,County Agricultural Extension Council Member,,Shirley Miller,,193,29,164
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,County Agricultural Extension Council Member,,Shirley Miller,,118,54,64
+Mills,PCT 11 - Silver City/Ingraham,County Agricultural Extension Council Member,,Shirley Miller,,161,34,127
+Mills,PCT 2 - Glenwood Township,County Agricultural Extension Council Member,,Shirley Miller,,307,151,156
+Mills,PCT 3 - Glenwood Ward 1,County Agricultural Extension Council Member,,Shirley Miller,,248,130,118
+Mills,PCT 4 - Glenwood Ward 2,County Agricultural Extension Council Member,,Shirley Miller,,280,92,188
+Mills,PCT 5 - Glenwood Ward 3,County Agricultural Extension Council Member,,Shirley Miller,,337,154,183
+Mills,PCT 6 - Deer Creek and White Cloud,County Agricultural Extension Council Member,,Shirley Miller,,90,35,55
+Mills,PCT 7 - Henderson/Anderson,County Agricultural Extension Council Member,,Shirley Miller,,107,13,94
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,County Agricultural Extension Council Member,,Shirley Miller,,678,234,444
+Mills,PCT 9 - Oak/St Marys,County Agricultural Extension Council Member,,Shirley Miller,,712,287,425
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,County Agricultural Extension Council Member,,Write-In,,7,3,4
+Mills,PCT 11 - Silver City/Ingraham,County Agricultural Extension Council Member,,Write-In,,4,3,1
+Mills,PCT 2 - Glenwood Township,County Agricultural Extension Council Member,,Write-In,,3,2,1
+Mills,PCT 3 - Glenwood Ward 1,County Agricultural Extension Council Member,,Write-In,,8,3,5
+Mills,PCT 4 - Glenwood Ward 2,County Agricultural Extension Council Member,,Write-In,,11,6,5
+Mills,PCT 5 - Glenwood Ward 3,County Agricultural Extension Council Member,,Write-In,,6,4,2
+Mills,PCT 6 - Deer Creek and White Cloud,County Agricultural Extension Council Member,,Write-In,,1,1,0
+Mills,PCT 7 - Henderson/Anderson,County Agricultural Extension Council Member,,Write-In,,9,2,7
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,County Agricultural Extension Council Member,,Write-In,,21,5,16
+Mills,PCT 9 - Oak/St Marys,County Agricultural Extension Council Member,,Write-In,,35,1,34
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,County Attorney,,DeShawne Bird-Sell,REP,264,42,222
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,County Attorney,,DeShawne Bird-Sell,REP,210,96,114
+Mills,PCT 11 - Silver City/Ingraham,County Attorney,,DeShawne Bird-Sell,REP,210,45,165
+Mills,PCT 2 - Glenwood Township,County Attorney,,DeShawne Bird-Sell,REP,461,217,244
+Mills,PCT 3 - Glenwood Ward 1,County Attorney,,DeShawne Bird-Sell,REP,391,193,198
+Mills,PCT 4 - Glenwood Ward 2,County Attorney,,DeShawne Bird-Sell,REP,433,153,280
+Mills,PCT 5 - Glenwood Ward 3,County Attorney,,DeShawne Bird-Sell,REP,517,211,306
+Mills,PCT 6 - Deer Creek and White Cloud,County Attorney,,DeShawne Bird-Sell,REP,130,48,82
+Mills,PCT 7 - Henderson/Anderson,County Attorney,,DeShawne Bird-Sell,REP,150,21,129
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,County Attorney,,DeShawne Bird-Sell,REP,963,336,627
+Mills,PCT 9 - Oak/St Marys,County Attorney,,DeShawne Bird-Sell,REP,1155,441,714
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,County Attorney,,Write-In,,4,3,1
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,County Attorney,,Write-In,,5,5,0
+Mills,PCT 11 - Silver City/Ingraham,County Attorney,,Write-In,,7,2,5
+Mills,PCT 2 - Glenwood Township,County Attorney,,Write-In,,10,4,6
+Mills,PCT 3 - Glenwood Ward 1,County Attorney,,Write-In,,14,11,3
+Mills,PCT 4 - Glenwood Ward 2,County Attorney,,Write-In,,26,10,16
+Mills,PCT 5 - Glenwood Ward 3,County Attorney,,Write-In,,15,10,5
+Mills,PCT 6 - Deer Creek and White Cloud,County Attorney,,Write-In,,2,2,0
+Mills,PCT 7 - Henderson/Anderson,County Attorney,,Write-In,,4,2,2
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,County Attorney,,Write-In,,20,10,10
+Mills,PCT 9 - Oak/St Marys,County Attorney,,Write-In,,28,10,18
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,County Board of Supervisors,,David Farmer,REP,273,42,231
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,County Board of Supervisors,,David Farmer,REP,199,88,111
+Mills,PCT 11 - Silver City/Ingraham,County Board of Supervisors,,David Farmer,REP,212,42,170
+Mills,PCT 2 - Glenwood Township,County Board of Supervisors,,David Farmer,REP,458,208,250
+Mills,PCT 3 - Glenwood Ward 1,County Board of Supervisors,,David Farmer,REP,383,186,197
+Mills,PCT 4 - Glenwood Ward 2,County Board of Supervisors,,David Farmer,REP,435,156,279
+Mills,PCT 5 - Glenwood Ward 3,County Board of Supervisors,,David Farmer,REP,508,210,298
+Mills,PCT 6 - Deer Creek and White Cloud,County Board of Supervisors,,David Farmer,REP,130,48,82
+Mills,PCT 7 - Henderson/Anderson,County Board of Supervisors,,David Farmer,REP,152,22,130
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,County Board of Supervisors,,David Farmer,REP,985,344,641
+Mills,PCT 9 - Oak/St Marys,County Board of Supervisors,,David Farmer,REP,1174,446,728
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,County Board of Supervisors,,Write-In,,4,3,1
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,County Board of Supervisors,,Write-In,,16,10,6
+Mills,PCT 11 - Silver City/Ingraham,County Board of Supervisors,,Write-In,,7,2,5
+Mills,PCT 2 - Glenwood Township,County Board of Supervisors,,Write-In,,16,7,9
+Mills,PCT 3 - Glenwood Ward 1,County Board of Supervisors,,Write-In,,19,14,5
+Mills,PCT 4 - Glenwood Ward 2,County Board of Supervisors,,Write-In,,29,6,23
+Mills,PCT 5 - Glenwood Ward 3,County Board of Supervisors,,Write-In,,18,9,9
+Mills,PCT 6 - Deer Creek and White Cloud,County Board of Supervisors,,Write-In,,6,3,3
+Mills,PCT 7 - Henderson/Anderson,County Board of Supervisors,,Write-In,,6,3,3
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,County Board of Supervisors,,Write-In,,24,9,15
+Mills,PCT 9 - Oak/St Marys,County Board of Supervisors,,Write-In,,36,17,19
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,County Recorder,,Lori Murphy,REP,265,41,224
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,County Recorder,,Lori Murphy,REP,205,91,114
+Mills,PCT 11 - Silver City/Ingraham,County Recorder,,Lori Murphy,REP,221,44,177
+Mills,PCT 2 - Glenwood Township,County Recorder,,Lori Murphy,REP,464,212,252
+Mills,PCT 3 - Glenwood Ward 1,County Recorder,,Lori Murphy,REP,393,191,202
+Mills,PCT 4 - Glenwood Ward 2,County Recorder,,Lori Murphy,REP,437,152,285
+Mills,PCT 5 - Glenwood Ward 3,County Recorder,,Lori Murphy,REP,512,211,301
+Mills,PCT 6 - Deer Creek and White Cloud,County Recorder,,Lori Murphy,REP,132,48,84
+Mills,PCT 7 - Henderson/Anderson,County Recorder,,Lori Murphy,REP,158,22,136
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,County Recorder,,Lori Murphy,REP,971,339,632
+Mills,PCT 9 - Oak/St Marys,County Recorder,,Lori Murphy,REP,1183,452,731
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,County Recorder,,Write-In,,3,2,1
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,County Recorder,,Write-In,,5,4,1
+Mills,PCT 11 - Silver City/Ingraham,County Recorder,,Write-In,,3,1,2
+Mills,PCT 2 - Glenwood Township,County Recorder,,Write-In,,7,4,3
+Mills,PCT 3 - Glenwood Ward 1,County Recorder,,Write-In,,9,8,1
+Mills,PCT 4 - Glenwood Ward 2,County Recorder,,Write-In,,14,4,10
+Mills,PCT 5 - Glenwood Ward 3,County Recorder,,Write-In,,13,8,5
+Mills,PCT 6 - Deer Creek and White Cloud,County Recorder,,Write-In,,1,1,0
+Mills,PCT 7 - Henderson/Anderson,County Recorder,,Write-In,,2,1,1
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,County Recorder,,Write-In,,13,5,8
+Mills,PCT 9 - Oak/St Marys,County Recorder,,Write-In,,18,6,12
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,County Treasurer,,Melissa Loghry,REP,267,44,223
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,County Treasurer,,Melissa Loghry,REP,205,92,113
+Mills,PCT 11 - Silver City/Ingraham,County Treasurer,,Melissa Loghry,REP,221,44,177
+Mills,PCT 2 - Glenwood Township,County Treasurer,,Melissa Loghry,REP,479,222,257
+Mills,PCT 3 - Glenwood Ward 1,County Treasurer,,Melissa Loghry,REP,395,194,201
+Mills,PCT 4 - Glenwood Ward 2,County Treasurer,,Melissa Loghry,REP,433,152,281
+Mills,PCT 5 - Glenwood Ward 3,County Treasurer,,Melissa Loghry,REP,516,215,301
+Mills,PCT 6 - Deer Creek and White Cloud,County Treasurer,,Melissa Loghry,REP,129,48,81
+Mills,PCT 7 - Henderson/Anderson,County Treasurer,,Melissa Loghry,REP,156,21,135
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,County Treasurer,,Melissa Loghry,REP,988,346,642
+Mills,PCT 9 - Oak/St Marys,County Treasurer,,Melissa Loghry,REP,1187,452,735
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,County Treasurer,,Write-In,,3,2,1
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,County Treasurer,,Write-In,,5,4,1
+Mills,PCT 11 - Silver City/Ingraham,County Treasurer,,Write-In,,4,1,3
+Mills,PCT 2 - Glenwood Township,County Treasurer,,Write-In,,5,2,3
+Mills,PCT 3 - Glenwood Ward 1,County Treasurer,,Write-In,,11,9,2
+Mills,PCT 4 - Glenwood Ward 2,County Treasurer,,Write-In,,17,4,13
+Mills,PCT 5 - Glenwood Ward 3,County Treasurer,,Write-In,,13,7,6
+Mills,PCT 6 - Deer Creek and White Cloud,County Treasurer,,Write-In,,3,3,0
+Mills,PCT 7 - Henderson/Anderson,County Treasurer,,Write-In,,2,1,1
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,County Treasurer,,Write-In,,15,5,10
+Mills,PCT 9 - Oak/St Marys,County Treasurer,,Write-In,,22,8,14
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Court of Appeals Judge - John M. Sandy,,No,,67,11,56
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Court of Appeals Judge - John M. Sandy,,No,,55,26,29
+Mills,PCT 11 - Silver City/Ingraham,Court of Appeals Judge - John M. Sandy,,No,,57,13,44
+Mills,PCT 2 - Glenwood Township,Court of Appeals Judge - John M. Sandy,,No,,117,54,63
+Mills,PCT 3 - Glenwood Ward 1,Court of Appeals Judge - John M. Sandy,,No,,132,65,67
+Mills,PCT 4 - Glenwood Ward 2,Court of Appeals Judge - John M. Sandy,,No,,149,54,95
+Mills,PCT 5 - Glenwood Ward 3,Court of Appeals Judge - John M. Sandy,,No,,145,74,71
+Mills,PCT 6 - Deer Creek and White Cloud,Court of Appeals Judge - John M. Sandy,,No,,38,10,28
+Mills,PCT 7 - Henderson/Anderson,Court of Appeals Judge - John M. Sandy,,No,,51,8,43
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Court of Appeals Judge - John M. Sandy,,No,,246,89,157
+Mills,PCT 9 - Oak/St Marys,Court of Appeals Judge - John M. Sandy,,No,,304,117,187
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Court of Appeals Judge - John M. Sandy,,Yes,,164,27,137
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Court of Appeals Judge - John M. Sandy,,Yes,,102,57,45
+Mills,PCT 11 - Silver City/Ingraham,Court of Appeals Judge - John M. Sandy,,Yes,,120,23,97
+Mills,PCT 2 - Glenwood Township,Court of Appeals Judge - John M. Sandy,,Yes,,278,130,148
+Mills,PCT 3 - Glenwood Ward 1,Court of Appeals Judge - John M. Sandy,,Yes,,227,122,105
+Mills,PCT 4 - Glenwood Ward 2,Court of Appeals Judge - John M. Sandy,,Yes,,266,101,165
+Mills,PCT 5 - Glenwood Ward 3,Court of Appeals Judge - John M. Sandy,,Yes,,322,126,196
+Mills,PCT 6 - Deer Creek and White Cloud,Court of Appeals Judge - John M. Sandy,,Yes,,65,29,36
+Mills,PCT 7 - Henderson/Anderson,Court of Appeals Judge - John M. Sandy,,Yes,,84,12,72
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Court of Appeals Judge - John M. Sandy,,Yes,,578,201,377
+Mills,PCT 9 - Oak/St Marys,Court of Appeals Judge - John M. Sandy,,Yes,,680,262,418
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Court of Appeals Judge - Julie A. Schumacher,,No,,61,7,54
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Court of Appeals Judge - Julie A. Schumacher,,No,,45,17,28
+Mills,PCT 11 - Silver City/Ingraham,Court of Appeals Judge - Julie A. Schumacher,,No,,49,11,38
+Mills,PCT 2 - Glenwood Township,Court of Appeals Judge - Julie A. Schumacher,,No,,104,45,59
+Mills,PCT 3 - Glenwood Ward 1,Court of Appeals Judge - Julie A. Schumacher,,No,,117,60,57
+Mills,PCT 4 - Glenwood Ward 2,Court of Appeals Judge - Julie A. Schumacher,,No,,124,43,81
+Mills,PCT 5 - Glenwood Ward 3,Court of Appeals Judge - Julie A. Schumacher,,No,,133,63,70
+Mills,PCT 6 - Deer Creek and White Cloud,Court of Appeals Judge - Julie A. Schumacher,,No,,40,12,28
+Mills,PCT 7 - Henderson/Anderson,Court of Appeals Judge - Julie A. Schumacher,,No,,51,8,43
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Court of Appeals Judge - Julie A. Schumacher,,No,,231,75,156
+Mills,PCT 9 - Oak/St Marys,Court of Appeals Judge - Julie A. Schumacher,,No,,282,110,172
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Court of Appeals Judge - Julie A. Schumacher,,Yes,,168,31,137
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Court of Appeals Judge - Julie A. Schumacher,,Yes,,115,68,47
+Mills,PCT 11 - Silver City/Ingraham,Court of Appeals Judge - Julie A. Schumacher,,Yes,,134,27,107
+Mills,PCT 2 - Glenwood Township,Court of Appeals Judge - Julie A. Schumacher,,Yes,,291,140,151
+Mills,PCT 3 - Glenwood Ward 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,244,128,116
+Mills,PCT 4 - Glenwood Ward 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,291,109,182
+Mills,PCT 5 - Glenwood Ward 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,333,133,200
+Mills,PCT 6 - Deer Creek and White Cloud,Court of Appeals Judge - Julie A. Schumacher,,Yes,,62,27,35
+Mills,PCT 7 - Henderson/Anderson,Court of Appeals Judge - Julie A. Schumacher,,Yes,,83,12,71
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Court of Appeals Judge - Julie A. Schumacher,,Yes,,597,215,382
+Mills,PCT 9 - Oak/St Marys,Court of Appeals Judge - Julie A. Schumacher,,Yes,,711,274,437
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,65,9,56
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,50,25,25
+Mills,PCT 11 - Silver City/Ingraham,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,57,14,43
+Mills,PCT 2 - Glenwood Township,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,121,56,65
+Mills,PCT 3 - Glenwood Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,126,66,60
+Mills,PCT 4 - Glenwood Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,133,45,88
+Mills,PCT 5 - Glenwood Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,143,69,74
+Mills,PCT 6 - Deer Creek and White Cloud,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,41,11,30
+Mills,PCT 7 - Henderson/Anderson,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,51,9,42
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,244,79,165
+Mills,PCT 9 - Oak/St Marys,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,309,121,188
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,168,31,137
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,109,59,50
+Mills,PCT 11 - Silver City/Ingraham,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,123,23,100
+Mills,PCT 2 - Glenwood Township,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,278,132,146
+Mills,PCT 3 - Glenwood Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,236,124,112
+Mills,PCT 4 - Glenwood Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,284,109,175
+Mills,PCT 5 - Glenwood Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,327,130,197
+Mills,PCT 6 - Deer Creek and White Cloud,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,63,28,35
+Mills,PCT 7 - Henderson/Anderson,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,83,11,72
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,592,217,375
+Mills,PCT 9 - Oak/St Marys,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,685,264,421
+Mills,PCT 6 - Deer Creek and White Cloud,Deer Creek Township Clerk,,Write-In,,29,12,17
+Mills,PCT 6 - Deer Creek and White Cloud,Deer Creek Township Trustee,,Write-In,,28,10,18
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Associate Judge - Ashley N. West-Joons,,No,,69,13,56
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Associate Judge - Ashley N. West-Joons,,No,,53,28,25
+Mills,PCT 11 - Silver City/Ingraham,District 4 Associate Judge - Ashley N. West-Joons,,No,,58,17,41
+Mills,PCT 2 - Glenwood Township,District 4 Associate Judge - Ashley N. West-Joons,,No,,120,60,60
+Mills,PCT 3 - Glenwood Ward 1,District 4 Associate Judge - Ashley N. West-Joons,,No,,142,74,68
+Mills,PCT 4 - Glenwood Ward 2,District 4 Associate Judge - Ashley N. West-Joons,,No,,141,47,94
+Mills,PCT 5 - Glenwood Ward 3,District 4 Associate Judge - Ashley N. West-Joons,,No,,157,79,78
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Associate Judge - Ashley N. West-Joons,,No,,45,15,30
+Mills,PCT 7 - Henderson/Anderson,District 4 Associate Judge - Ashley N. West-Joons,,No,,52,9,43
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Associate Judge - Ashley N. West-Joons,,No,,279,99,180
+Mills,PCT 9 - Oak/St Marys,District 4 Associate Judge - Ashley N. West-Joons,,No,,349,133,216
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,160,23,137
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,97,50,47
+Mills,PCT 11 - Silver City/Ingraham,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,120,19,101
+Mills,PCT 2 - Glenwood Township,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,272,122,150
+Mills,PCT 3 - Glenwood Ward 1,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,216,113,103
+Mills,PCT 4 - Glenwood Ward 2,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,267,102,165
+Mills,PCT 5 - Glenwood Ward 3,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,301,117,184
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,55,24,31
+Mills,PCT 7 - Henderson/Anderson,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,80,10,70
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,544,192,352
+Mills,PCT 9 - Oak/St Marys,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,617,236,381
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Associate Judge - Matthew A. Schuling,,No,,62,10,52
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Associate Judge - Matthew A. Schuling,,No,,46,21,25
+Mills,PCT 11 - Silver City/Ingraham,District 4 Associate Judge - Matthew A. Schuling,,No,,56,15,41
+Mills,PCT 2 - Glenwood Township,District 4 Associate Judge - Matthew A. Schuling,,No,,105,49,56
+Mills,PCT 3 - Glenwood Ward 1,District 4 Associate Judge - Matthew A. Schuling,,No,,132,63,69
+Mills,PCT 4 - Glenwood Ward 2,District 4 Associate Judge - Matthew A. Schuling,,No,,130,44,86
+Mills,PCT 5 - Glenwood Ward 3,District 4 Associate Judge - Matthew A. Schuling,,No,,135,64,71
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Associate Judge - Matthew A. Schuling,,No,,37,10,27
+Mills,PCT 7 - Henderson/Anderson,District 4 Associate Judge - Matthew A. Schuling,,No,,46,7,39
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Associate Judge - Matthew A. Schuling,,No,,244,85,159
+Mills,PCT 9 - Oak/St Marys,District 4 Associate Judge - Matthew A. Schuling,,No,,295,109,186
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Associate Judge - Matthew A. Schuling,,Yes,,163,26,137
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Associate Judge - Matthew A. Schuling,,Yes,,101,56,45
+Mills,PCT 11 - Silver City/Ingraham,District 4 Associate Judge - Matthew A. Schuling,,Yes,,120,21,99
+Mills,PCT 2 - Glenwood Township,District 4 Associate Judge - Matthew A. Schuling,,Yes,,287,132,155
+Mills,PCT 3 - Glenwood Ward 1,District 4 Associate Judge - Matthew A. Schuling,,Yes,,225,124,101
+Mills,PCT 4 - Glenwood Ward 2,District 4 Associate Judge - Matthew A. Schuling,,Yes,,278,105,173
+Mills,PCT 5 - Glenwood Ward 3,District 4 Associate Judge - Matthew A. Schuling,,Yes,,314,125,189
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Associate Judge - Matthew A. Schuling,,Yes,,65,29,36
+Mills,PCT 7 - Henderson/Anderson,District 4 Associate Judge - Matthew A. Schuling,,Yes,,86,12,74
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Associate Judge - Matthew A. Schuling,,Yes,,571,203,368
+Mills,PCT 9 - Oak/St Marys,District 4 Associate Judge - Matthew A. Schuling,,Yes,,664,256,408
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Associate Judge - Scott Strait,,No,,67,10,57
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Associate Judge - Scott Strait,,No,,44,21,23
+Mills,PCT 11 - Silver City/Ingraham,District 4 Associate Judge - Scott Strait,,No,,53,15,38
+Mills,PCT 2 - Glenwood Township,District 4 Associate Judge - Scott Strait,,No,,114,56,58
+Mills,PCT 3 - Glenwood Ward 1,District 4 Associate Judge - Scott Strait,,No,,131,63,68
+Mills,PCT 4 - Glenwood Ward 2,District 4 Associate Judge - Scott Strait,,No,,137,47,90
+Mills,PCT 5 - Glenwood Ward 3,District 4 Associate Judge - Scott Strait,,No,,141,68,73
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Associate Judge - Scott Strait,,No,,34,10,24
+Mills,PCT 7 - Henderson/Anderson,District 4 Associate Judge - Scott Strait,,No,,53,7,46
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Associate Judge - Scott Strait,,No,,237,83,154
+Mills,PCT 9 - Oak/St Marys,District 4 Associate Judge - Scott Strait,,No,,304,115,189
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Associate Judge - Scott Strait,,Yes,,159,26,133
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Associate Judge - Scott Strait,,Yes,,102,56,46
+Mills,PCT 11 - Silver City/Ingraham,District 4 Associate Judge - Scott Strait,,Yes,,125,22,103
+Mills,PCT 2 - Glenwood Township,District 4 Associate Judge - Scott Strait,,Yes,,278,126,152
+Mills,PCT 3 - Glenwood Ward 1,District 4 Associate Judge - Scott Strait,,Yes,,226,122,104
+Mills,PCT 4 - Glenwood Ward 2,District 4 Associate Judge - Scott Strait,,Yes,,269,99,170
+Mills,PCT 5 - Glenwood Ward 3,District 4 Associate Judge - Scott Strait,,Yes,,310,121,189
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Associate Judge - Scott Strait,,Yes,,68,29,39
+Mills,PCT 7 - Henderson/Anderson,District 4 Associate Judge - Scott Strait,,Yes,,80,12,68
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Associate Judge - Scott Strait,,Yes,,580,206,374
+Mills,PCT 9 - Oak/St Marys,District 4 Associate Judge - Scott Strait,,Yes,,654,250,404
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Judge - Amy L. Zacharias,,No,,57,9,48
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Judge - Amy L. Zacharias,,No,,48,24,24
+Mills,PCT 11 - Silver City/Ingraham,District 4 Judge - Amy L. Zacharias,,No,,50,12,38
+Mills,PCT 2 - Glenwood Township,District 4 Judge - Amy L. Zacharias,,No,,107,49,58
+Mills,PCT 3 - Glenwood Ward 1,District 4 Judge - Amy L. Zacharias,,No,,128,66,62
+Mills,PCT 4 - Glenwood Ward 2,District 4 Judge - Amy L. Zacharias,,No,,127,41,86
+Mills,PCT 5 - Glenwood Ward 3,District 4 Judge - Amy L. Zacharias,,No,,136,65,71
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Judge - Amy L. Zacharias,,No,,43,10,33
+Mills,PCT 7 - Henderson/Anderson,District 4 Judge - Amy L. Zacharias,,No,,47,9,38
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Judge - Amy L. Zacharias,,No,,242,80,162
+Mills,PCT 9 - Oak/St Marys,District 4 Judge - Amy L. Zacharias,,No,,296,113,183
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Judge - Amy L. Zacharias,,Yes,,173,30,143
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Judge - Amy L. Zacharias,,Yes,,105,57,48
+Mills,PCT 11 - Silver City/Ingraham,District 4 Judge - Amy L. Zacharias,,Yes,,130,25,105
+Mills,PCT 2 - Glenwood Township,District 4 Judge - Amy L. Zacharias,,Yes,,289,138,151
+Mills,PCT 3 - Glenwood Ward 1,District 4 Judge - Amy L. Zacharias,,Yes,,231,119,112
+Mills,PCT 4 - Glenwood Ward 2,District 4 Judge - Amy L. Zacharias,,Yes,,279,105,174
+Mills,PCT 5 - Glenwood Ward 3,District 4 Judge - Amy L. Zacharias,,Yes,,326,133,193
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Judge - Amy L. Zacharias,,Yes,,58,28,30
+Mills,PCT 7 - Henderson/Anderson,District 4 Judge - Amy L. Zacharias,,Yes,,86,11,75
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Judge - Amy L. Zacharias,,Yes,,574,211,363
+Mills,PCT 9 - Oak/St Marys,District 4 Judge - Amy L. Zacharias,,Yes,,673,257,416
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Judge - Craig Michael Dreismeier,,No,,62,10,52
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Judge - Craig Michael Dreismeier,,No,,41,19,22
+Mills,PCT 11 - Silver City/Ingraham,District 4 Judge - Craig Michael Dreismeier,,No,,62,15,47
+Mills,PCT 2 - Glenwood Township,District 4 Judge - Craig Michael Dreismeier,,No,,116,50,66
+Mills,PCT 3 - Glenwood Ward 1,District 4 Judge - Craig Michael Dreismeier,,No,,133,66,67
+Mills,PCT 4 - Glenwood Ward 2,District 4 Judge - Craig Michael Dreismeier,,No,,138,51,87
+Mills,PCT 5 - Glenwood Ward 3,District 4 Judge - Craig Michael Dreismeier,,No,,143,72,71
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Judge - Craig Michael Dreismeier,,No,,37,10,27
+Mills,PCT 7 - Henderson/Anderson,District 4 Judge - Craig Michael Dreismeier,,No,,51,7,44
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Judge - Craig Michael Dreismeier,,No,,241,84,157
+Mills,PCT 9 - Oak/St Marys,District 4 Judge - Craig Michael Dreismeier,,No,,308,119,189
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Judge - Craig Michael Dreismeier,,Yes,,167,29,138
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Judge - Craig Michael Dreismeier,,Yes,,114,63,51
+Mills,PCT 11 - Silver City/Ingraham,District 4 Judge - Craig Michael Dreismeier,,Yes,,117,22,95
+Mills,PCT 2 - Glenwood Township,District 4 Judge - Craig Michael Dreismeier,,Yes,,280,132,148
+Mills,PCT 3 - Glenwood Ward 1,District 4 Judge - Craig Michael Dreismeier,,Yes,,226,121,105
+Mills,PCT 4 - Glenwood Ward 2,District 4 Judge - Craig Michael Dreismeier,,Yes,,275,100,175
+Mills,PCT 5 - Glenwood Ward 3,District 4 Judge - Craig Michael Dreismeier,,Yes,,332,132,200
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Judge - Craig Michael Dreismeier,,Yes,,66,29,37
+Mills,PCT 7 - Henderson/Anderson,District 4 Judge - Craig Michael Dreismeier,,Yes,,82,12,70
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Judge - Craig Michael Dreismeier,,Yes,,589,210,379
+Mills,PCT 9 - Oak/St Marys,District 4 Judge - Craig Michael Dreismeier,,Yes,,668,255,413
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Judge - Donna Bothwell,,No,,59,8,51
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Judge - Donna Bothwell,,No,,55,30,25
+Mills,PCT 11 - Silver City/Ingraham,District 4 Judge - Donna Bothwell,,No,,56,13,43
+Mills,PCT 2 - Glenwood Township,District 4 Judge - Donna Bothwell,,No,,118,53,65
+Mills,PCT 3 - Glenwood Ward 1,District 4 Judge - Donna Bothwell,,No,,128,70,58
+Mills,PCT 4 - Glenwood Ward 2,District 4 Judge - Donna Bothwell,,No,,136,47,89
+Mills,PCT 5 - Glenwood Ward 3,District 4 Judge - Donna Bothwell,,No,,142,70,72
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Judge - Donna Bothwell,,No,,40,10,30
+Mills,PCT 7 - Henderson/Anderson,District 4 Judge - Donna Bothwell,,No,,47,9,38
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Judge - Donna Bothwell,,No,,242,79,163
+Mills,PCT 9 - Oak/St Marys,District 4 Judge - Donna Bothwell,,No,,312,125,187
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Judge - Donna Bothwell,,Yes,,167,28,139
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Judge - Donna Bothwell,,Yes,,97,50,47
+Mills,PCT 11 - Silver City/Ingraham,District 4 Judge - Donna Bothwell,,Yes,,122,22,100
+Mills,PCT 2 - Glenwood Township,District 4 Judge - Donna Bothwell,,Yes,,280,132,148
+Mills,PCT 3 - Glenwood Ward 1,District 4 Judge - Donna Bothwell,,Yes,,228,114,114
+Mills,PCT 4 - Glenwood Ward 2,District 4 Judge - Donna Bothwell,,Yes,,273,100,173
+Mills,PCT 5 - Glenwood Ward 3,District 4 Judge - Donna Bothwell,,Yes,,323,129,194
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Judge - Donna Bothwell,,Yes,,61,29,32
+Mills,PCT 7 - Henderson/Anderson,District 4 Judge - Donna Bothwell,,Yes,,90,11,79
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Judge - Donna Bothwell,,Yes,,576,212,364
+Mills,PCT 9 - Oak/St Marys,District 4 Judge - Donna Bothwell,,Yes,,654,244,410
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Judge - Justin R. Wyatt,,No,,58,10,48
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Judge - Justin R. Wyatt,,No,,43,19,24
+Mills,PCT 11 - Silver City/Ingraham,District 4 Judge - Justin R. Wyatt,,No,,50,12,38
+Mills,PCT 2 - Glenwood Township,District 4 Judge - Justin R. Wyatt,,No,,105,47,58
+Mills,PCT 3 - Glenwood Ward 1,District 4 Judge - Justin R. Wyatt,,No,,122,59,63
+Mills,PCT 4 - Glenwood Ward 2,District 4 Judge - Justin R. Wyatt,,No,,139,51,88
+Mills,PCT 5 - Glenwood Ward 3,District 4 Judge - Justin R. Wyatt,,No,,126,63,63
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Judge - Justin R. Wyatt,,No,,34,10,24
+Mills,PCT 7 - Henderson/Anderson,District 4 Judge - Justin R. Wyatt,,No,,50,8,42
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Judge - Justin R. Wyatt,,No,,223,76,147
+Mills,PCT 9 - Oak/St Marys,District 4 Judge - Justin R. Wyatt,,No,,288,112,176
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Judge - Justin R. Wyatt,,Yes,,172,28,144
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Judge - Justin R. Wyatt,,Yes,,119,65,54
+Mills,PCT 11 - Silver City/Ingraham,District 4 Judge - Justin R. Wyatt,,Yes,,134,24,110
+Mills,PCT 2 - Glenwood Township,District 4 Judge - Justin R. Wyatt,,Yes,,309,145,164
+Mills,PCT 3 - Glenwood Ward 1,District 4 Judge - Justin R. Wyatt,,Yes,,245,134,111
+Mills,PCT 4 - Glenwood Ward 2,District 4 Judge - Justin R. Wyatt,,Yes,,276,102,174
+Mills,PCT 5 - Glenwood Ward 3,District 4 Judge - Justin R. Wyatt,,Yes,,358,139,219
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Judge - Justin R. Wyatt,,Yes,,69,30,39
+Mills,PCT 7 - Henderson/Anderson,District 4 Judge - Justin R. Wyatt,,Yes,,86,12,74
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Judge - Justin R. Wyatt,,Yes,,617,231,386
+Mills,PCT 9 - Oak/St Marys,District 4 Judge - Justin R. Wyatt,,Yes,,687,264,423
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Judge - Margaret J. Reyes,,No,,67,11,56
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Judge - Margaret J. Reyes,,No,,58,28,30
+Mills,PCT 11 - Silver City/Ingraham,District 4 Judge - Margaret J. Reyes,,No,,56,13,43
+Mills,PCT 2 - Glenwood Township,District 4 Judge - Margaret J. Reyes,,No,,131,59,72
+Mills,PCT 3 - Glenwood Ward 1,District 4 Judge - Margaret J. Reyes,,No,,135,71,64
+Mills,PCT 4 - Glenwood Ward 2,District 4 Judge - Margaret J. Reyes,,No,,136,45,91
+Mills,PCT 5 - Glenwood Ward 3,District 4 Judge - Margaret J. Reyes,,No,,150,74,76
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Judge - Margaret J. Reyes,,No,,41,10,31
+Mills,PCT 7 - Henderson/Anderson,District 4 Judge - Margaret J. Reyes,,No,,48,9,39
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Judge - Margaret J. Reyes,,No,,301,97,204
+Mills,PCT 9 - Oak/St Marys,District 4 Judge - Margaret J. Reyes,,No,,313,116,197
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Judge - Margaret J. Reyes,,Yes,,160,27,133
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Judge - Margaret J. Reyes,,Yes,,101,54,47
+Mills,PCT 11 - Silver City/Ingraham,District 4 Judge - Margaret J. Reyes,,Yes,,125,24,101
+Mills,PCT 2 - Glenwood Township,District 4 Judge - Margaret J. Reyes,,Yes,,283,133,150
+Mills,PCT 3 - Glenwood Ward 1,District 4 Judge - Margaret J. Reyes,,Yes,,230,120,110
+Mills,PCT 4 - Glenwood Ward 2,District 4 Judge - Margaret J. Reyes,,Yes,,278,104,174
+Mills,PCT 5 - Glenwood Ward 3,District 4 Judge - Margaret J. Reyes,,Yes,,321,127,194
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Judge - Margaret J. Reyes,,Yes,,61,29,32
+Mills,PCT 7 - Henderson/Anderson,District 4 Judge - Margaret J. Reyes,,Yes,,86,11,75
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Judge - Margaret J. Reyes,,Yes,,546,199,347
+Mills,PCT 9 - Oak/St Marys,District 4 Judge - Margaret J. Reyes,,Yes,,676,263,413
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Judge - Michael Donn Hooper,,No,,66,12,54
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Judge - Michael Donn Hooper,,No,,48,19,29
+Mills,PCT 11 - Silver City/Ingraham,District 4 Judge - Michael Donn Hooper,,No,,56,12,44
+Mills,PCT 2 - Glenwood Township,District 4 Judge - Michael Donn Hooper,,No,,116,58,58
+Mills,PCT 3 - Glenwood Ward 1,District 4 Judge - Michael Donn Hooper,,No,,135,72,63
+Mills,PCT 4 - Glenwood Ward 2,District 4 Judge - Michael Donn Hooper,,No,,140,51,89
+Mills,PCT 5 - Glenwood Ward 3,District 4 Judge - Michael Donn Hooper,,No,,133,61,72
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Judge - Michael Donn Hooper,,No,,38,10,28
+Mills,PCT 7 - Henderson/Anderson,District 4 Judge - Michael Donn Hooper,,No,,51,9,42
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Judge - Michael Donn Hooper,,No,,231,78,153
+Mills,PCT 9 - Oak/St Marys,District 4 Judge - Michael Donn Hooper,,No,,305,119,186
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,District 4 Judge - Michael Donn Hooper,,Yes,,160,25,135
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,District 4 Judge - Michael Donn Hooper,,Yes,,105,60,45
+Mills,PCT 11 - Silver City/Ingraham,District 4 Judge - Michael Donn Hooper,,Yes,,120,25,95
+Mills,PCT 2 - Glenwood Township,District 4 Judge - Michael Donn Hooper,,Yes,,279,125,154
+Mills,PCT 3 - Glenwood Ward 1,District 4 Judge - Michael Donn Hooper,,Yes,,223,115,108
+Mills,PCT 4 - Glenwood Ward 2,District 4 Judge - Michael Donn Hooper,,Yes,,264,96,168
+Mills,PCT 5 - Glenwood Ward 3,District 4 Judge - Michael Donn Hooper,,Yes,,324,134,190
+Mills,PCT 6 - Deer Creek and White Cloud,District 4 Judge - Michael Donn Hooper,,Yes,,62,29,33
+Mills,PCT 7 - Henderson/Anderson,District 4 Judge - Michael Donn Hooper,,Yes,,83,11,72
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,District 4 Judge - Michael Donn Hooper,,Yes,,577,207,370
+Mills,PCT 9 - Oak/St Marys,District 4 Judge - Michael Donn Hooper,,Yes,,657,246,411
+Mills,PCT 2 - Glenwood Township,Glenwood Township Clerk,,Write-In,,25,11,14
+Mills,PCT 4 - Glenwood Ward 2,Glenwood Township Clerk,,Write-In,,0,0,0
+Mills,PCT 2 - Glenwood Township,Glenwood Township Trustee,,Write-In,,31,16,15
+Mills,PCT 4 - Glenwood Ward 2,Glenwood Township Trustee,,Write-In,,0,0,0
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Governor,,Rob Sand and Dave Muhlbauer,DEM,106,17,89
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Governor,,Rob Sand and Dave Muhlbauer,DEM,99,45,54
+Mills,PCT 11 - Silver City/Ingraham,Governor,,Rob Sand and Dave Muhlbauer,DEM,92,20,72
+Mills,PCT 2 - Glenwood Township,Governor,,Rob Sand and Dave Muhlbauer,DEM,232,145,87
+Mills,PCT 3 - Glenwood Ward 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,209,126,83
+Mills,PCT 4 - Glenwood Ward 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,292,124,168
+Mills,PCT 5 - Glenwood Ward 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,324,163,161
+Mills,PCT 6 - Deer Creek and White Cloud,Governor,,Rob Sand and Dave Muhlbauer,DEM,50,19,31
+Mills,PCT 7 - Henderson/Anderson,Governor,,Rob Sand and Dave Muhlbauer,DEM,62,11,51
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Governor,,Rob Sand and Dave Muhlbauer,DEM,475,198,277
+Mills,PCT 9 - Oak/St Marys,Governor,,Rob Sand and Dave Muhlbauer,DEM,509,245,264
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Governor,,Write-In,,0,0,0
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Governor,,Write-In,,0,0,0
+Mills,PCT 11 - Silver City/Ingraham,Governor,,Write-In,,1,1,0
+Mills,PCT 2 - Glenwood Township,Governor,,Write-In,,1,0,1
+Mills,PCT 3 - Glenwood Ward 1,Governor,,Write-In,,2,0,2
+Mills,PCT 4 - Glenwood Ward 2,Governor,,Write-In,,1,0,1
+Mills,PCT 5 - Glenwood Ward 3,Governor,,Write-In,,0,0,0
+Mills,PCT 6 - Deer Creek and White Cloud,Governor,,Write-In,,1,1,0
+Mills,PCT 7 - Henderson/Anderson,Governor,,Write-In,,0,0,0
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Governor,,Write-In,,0,0,0
+Mills,PCT 9 - Oak/St Marys,Governor,,Write-In,,1,0,1
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Governor,,Zach Lahn and Derek Wulf,REP,210,36,174
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Governor,,Zach Lahn and Derek Wulf,REP,172,73,99
+Mills,PCT 11 - Silver City/Ingraham,Governor,,Zach Lahn and Derek Wulf,REP,165,34,131
+Mills,PCT 2 - Glenwood Township,Governor,,Zach Lahn and Derek Wulf,REP,374,157,217
+Mills,PCT 3 - Glenwood Ward 1,Governor,,Zach Lahn and Derek Wulf,REP,271,125,146
+Mills,PCT 4 - Glenwood Ward 2,Governor,,Zach Lahn and Derek Wulf,REP,291,92,199
+Mills,PCT 5 - Glenwood Ward 3,Governor,,Zach Lahn and Derek Wulf,REP,338,132,206
+Mills,PCT 6 - Deer Creek and White Cloud,Governor,,Zach Lahn and Derek Wulf,REP,107,41,66
+Mills,PCT 7 - Henderson/Anderson,Governor,,Zach Lahn and Derek Wulf,REP,125,19,106
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Governor,,Zach Lahn and Derek Wulf,REP,732,238,494
+Mills,PCT 9 - Oak/St Marys,Governor,,Zach Lahn and Derek Wulf,REP,1000,363,637
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Indian Creek Township Clerk,,Write-In,,12,1,11
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Indian Creek Township Trustee,,Write-In,,16,1,15
+Mills,PCT 11 - Silver City/Ingraham,Ingraham Township Clerk,,Write-In,,17,3,14
+Mills,PCT 11 - Silver City/Ingraham,Ingraham Township Trustee,,Write-In,,20,4,16
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Lyons Township Clerk,,Write-In,,11,3,8
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Lyons Township Trustee,,Write-In,,20,7,13
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Mills County - Public Measure O,,No,,115,17,98
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Mills County - Public Measure O,,No,,104,52,52
+Mills,PCT 11 - Silver City/Ingraham,Mills County - Public Measure O,,No,,104,30,74
+Mills,PCT 2 - Glenwood Township,Mills County - Public Measure O,,No,,243,115,128
+Mills,PCT 3 - Glenwood Ward 1,Mills County - Public Measure O,,No,,200,102,98
+Mills,PCT 4 - Glenwood Ward 2,Mills County - Public Measure O,,No,,237,87,150
+Mills,PCT 5 - Glenwood Ward 3,Mills County - Public Measure O,,No,,240,113,127
+Mills,PCT 6 - Deer Creek and White Cloud,Mills County - Public Measure O,,No,,69,32,37
+Mills,PCT 7 - Henderson/Anderson,Mills County - Public Measure O,,No,,67,14,53
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Mills County - Public Measure O,,No,,451,182,269
+Mills,PCT 9 - Oak/St Marys,Mills County - Public Measure O,,No,,533,218,315
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Mills County - Public Measure O,,Yes,,183,36,147
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Mills County - Public Measure O,,Yes,,147,60,87
+Mills,PCT 11 - Silver City/Ingraham,Mills County - Public Measure O,,Yes,,149,23,126
+Mills,PCT 2 - Glenwood Township,Mills County - Public Measure O,,Yes,,333,170,163
+Mills,PCT 3 - Glenwood Ward 1,Mills County - Public Measure O,,Yes,,271,145,126
+Mills,PCT 4 - Glenwood Ward 2,Mills County - Public Measure O,,Yes,,322,124,198
+Mills,PCT 5 - Glenwood Ward 3,Mills County - Public Measure O,,Yes,,390,174,216
+Mills,PCT 6 - Deer Creek and White Cloud,Mills County - Public Measure O,,Yes,,77,27,50
+Mills,PCT 7 - Henderson/Anderson,Mills County - Public Measure O,,Yes,,112,16,96
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Mills County - Public Measure O,,Yes,,704,231,473
+Mills,PCT 9 - Oak/St Marys,Mills County - Public Measure O,,Yes,,851,342,509
+Mills,PCT 9 - Oak/St Marys,Oak Township Clerk,,Write-In,,106,31,75
+Mills,PCT 9 - Oak/St Marys,Oak Township Trustee,,Write-In,,151,51,100
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Plattville Township Clerk,,Write-In,,7,5,2
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Plattville Township Trustee,,Write-In,,8,6,2
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Rawles Township Clerk,,Write-In,,18,13,5
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Rawles Township Trustee,,Write-In,,23,14,9
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Secretary of Agriculture,,Chris Jones,DEM,83,13,70
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Secretary of Agriculture,,Chris Jones,DEM,80,37,43
+Mills,PCT 11 - Silver City/Ingraham,Secretary of Agriculture,,Chris Jones,DEM,79,18,61
+Mills,PCT 2 - Glenwood Township,Secretary of Agriculture,,Chris Jones,DEM,199,130,69
+Mills,PCT 3 - Glenwood Ward 1,Secretary of Agriculture,,Chris Jones,DEM,188,111,77
+Mills,PCT 4 - Glenwood Ward 2,Secretary of Agriculture,,Chris Jones,DEM,260,119,141
+Mills,PCT 5 - Glenwood Ward 3,Secretary of Agriculture,,Chris Jones,DEM,264,144,120
+Mills,PCT 6 - Deer Creek and White Cloud,Secretary of Agriculture,,Chris Jones,DEM,35,13,22
+Mills,PCT 7 - Henderson/Anderson,Secretary of Agriculture,,Chris Jones,DEM,52,13,39
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Secretary of Agriculture,,Chris Jones,DEM,383,169,214
+Mills,PCT 9 - Oak/St Marys,Secretary of Agriculture,,Chris Jones,DEM,444,219,225
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Secretary of Agriculture,,Mike Naig,REP,232,41,191
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Secretary of Agriculture,,Mike Naig,REP,188,81,107
+Mills,PCT 11 - Silver City/Ingraham,Secretary of Agriculture,,Mike Naig,REP,180,36,144
+Mills,PCT 2 - Glenwood Township,Secretary of Agriculture,,Mike Naig,REP,400,168,232
+Mills,PCT 3 - Glenwood Ward 1,Secretary of Agriculture,,Mike Naig,REP,286,135,151
+Mills,PCT 4 - Glenwood Ward 2,Secretary of Agriculture,,Mike Naig,REP,312,96,216
+Mills,PCT 5 - Glenwood Ward 3,Secretary of Agriculture,,Mike Naig,REP,378,146,232
+Mills,PCT 6 - Deer Creek and White Cloud,Secretary of Agriculture,,Mike Naig,REP,118,45,73
+Mills,PCT 7 - Henderson/Anderson,Secretary of Agriculture,,Mike Naig,REP,132,17,115
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Secretary of Agriculture,,Mike Naig,REP,813,259,554
+Mills,PCT 9 - Oak/St Marys,Secretary of Agriculture,,Mike Naig,REP,1039,383,656
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Secretary of Agriculture,,Write-In,,1,1,0
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Secretary of Agriculture,,Write-In,,0,0,0
+Mills,PCT 11 - Silver City/Ingraham,Secretary of Agriculture,,Write-In,,0,0,0
+Mills,PCT 2 - Glenwood Township,Secretary of Agriculture,,Write-In,,1,0,1
+Mills,PCT 3 - Glenwood Ward 1,Secretary of Agriculture,,Write-In,,0,0,0
+Mills,PCT 4 - Glenwood Ward 2,Secretary of Agriculture,,Write-In,,0,0,0
+Mills,PCT 5 - Glenwood Ward 3,Secretary of Agriculture,,Write-In,,0,0,0
+Mills,PCT 6 - Deer Creek and White Cloud,Secretary of Agriculture,,Write-In,,1,1,0
+Mills,PCT 7 - Henderson/Anderson,Secretary of Agriculture,,Write-In,,0,0,0
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Secretary of Agriculture,,Write-In,,0,0,0
+Mills,PCT 9 - Oak/St Marys,Secretary of Agriculture,,Write-In,,0,0,0
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Secretary of State,,Paul D. Pate,REP,218,34,184
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Secretary of State,,Paul D. Pate,REP,179,78,101
+Mills,PCT 11 - Silver City/Ingraham,Secretary of State,,Paul D. Pate,REP,179,36,143
+Mills,PCT 2 - Glenwood Township,Secretary of State,,Paul D. Pate,REP,390,164,226
+Mills,PCT 3 - Glenwood Ward 1,Secretary of State,,Paul D. Pate,REP,279,129,150
+Mills,PCT 4 - Glenwood Ward 2,Secretary of State,,Paul D. Pate,REP,306,94,212
+Mills,PCT 5 - Glenwood Ward 3,Secretary of State,,Paul D. Pate,REP,362,139,223
+Mills,PCT 6 - Deer Creek and White Cloud,Secretary of State,,Paul D. Pate,REP,111,43,68
+Mills,PCT 7 - Henderson/Anderson,Secretary of State,,Paul D. Pate,REP,130,16,114
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Secretary of State,,Paul D. Pate,REP,779,247,532
+Mills,PCT 9 - Oak/St Marys,Secretary of State,,Paul D. Pate,REP,1018,369,649
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Secretary of State,,Ryan Peterman,DEM,96,19,77
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Secretary of State,,Ryan Peterman,DEM,89,40,49
+Mills,PCT 11 - Silver City/Ingraham,Secretary of State,,Ryan Peterman,DEM,78,19,59
+Mills,PCT 2 - Glenwood Township,Secretary of State,,Ryan Peterman,DEM,212,137,75
+Mills,PCT 3 - Glenwood Ward 1,Secretary of State,,Ryan Peterman,DEM,196,118,78
+Mills,PCT 4 - Glenwood Ward 2,Secretary of State,,Ryan Peterman,DEM,270,121,149
+Mills,PCT 5 - Glenwood Ward 3,Secretary of State,,Ryan Peterman,DEM,275,146,129
+Mills,PCT 6 - Deer Creek and White Cloud,Secretary of State,,Ryan Peterman,DEM,42,16,26
+Mills,PCT 7 - Henderson/Anderson,Secretary of State,,Ryan Peterman,DEM,54,13,41
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Secretary of State,,Ryan Peterman,DEM,415,179,236
+Mills,PCT 9 - Oak/St Marys,Secretary of State,,Ryan Peterman,DEM,459,230,229
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Secretary of State,,Write-In,,1,0,1
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Secretary of State,,Write-In,,0,0,0
+Mills,PCT 11 - Silver City/Ingraham,Secretary of State,,Write-In,,0,0,0
+Mills,PCT 2 - Glenwood Township,Secretary of State,,Write-In,,1,0,1
+Mills,PCT 3 - Glenwood Ward 1,Secretary of State,,Write-In,,0,0,0
+Mills,PCT 4 - Glenwood Ward 2,Secretary of State,,Write-In,,0,0,0
+Mills,PCT 5 - Glenwood Ward 3,Secretary of State,,Write-In,,0,0,0
+Mills,PCT 6 - Deer Creek and White Cloud,Secretary of State,,Write-In,,0,0,0
+Mills,PCT 7 - Henderson/Anderson,Secretary of State,,Write-In,,0,0,0
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Secretary of State,,Write-In,,1,1,0
+Mills,PCT 9 - Oak/St Marys,Secretary of State,,Write-In,,0,0,0
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Silver Creek Township Clerk,,Write-In,,4,2,2
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Silver Creek Township Trustee,,Write-In,,10,2,8
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Soil and Water Conservation District Commissioner,,Carol Vinton,,168,33,135
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Soil and Water Conservation District Commissioner,,Carol Vinton,,150,72,78
+Mills,PCT 11 - Silver City/Ingraham,Soil and Water Conservation District Commissioner,,Carol Vinton,,177,40,137
+Mills,PCT 2 - Glenwood Township,Soil and Water Conservation District Commissioner,,Carol Vinton,,359,165,194
+Mills,PCT 3 - Glenwood Ward 1,Soil and Water Conservation District Commissioner,,Carol Vinton,,313,157,156
+Mills,PCT 4 - Glenwood Ward 2,Soil and Water Conservation District Commissioner,,Carol Vinton,,360,125,235
+Mills,PCT 5 - Glenwood Ward 3,Soil and Water Conservation District Commissioner,,Carol Vinton,,413,188,225
+Mills,PCT 6 - Deer Creek and White Cloud,Soil and Water Conservation District Commissioner,,Carol Vinton,,92,35,57
+Mills,PCT 7 - Henderson/Anderson,Soil and Water Conservation District Commissioner,,Carol Vinton,,106,17,89
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Soil and Water Conservation District Commissioner,,Carol Vinton,,772,272,500
+Mills,PCT 9 - Oak/St Marys,Soil and Water Conservation District Commissioner,,Carol Vinton,,861,336,525
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Soil and Water Conservation District Commissioner,,Stephen McGrew,,252,43,209
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Soil and Water Conservation District Commissioner,,Stephen McGrew,,130,60,70
+Mills,PCT 11 - Silver City/Ingraham,Soil and Water Conservation District Commissioner,,Stephen McGrew,,170,35,135
+Mills,PCT 2 - Glenwood Township,Soil and Water Conservation District Commissioner,,Stephen McGrew,,363,170,193
+Mills,PCT 3 - Glenwood Ward 1,Soil and Water Conservation District Commissioner,,Stephen McGrew,,295,162,133
+Mills,PCT 4 - Glenwood Ward 2,Soil and Water Conservation District Commissioner,,Stephen McGrew,,317,119,198
+Mills,PCT 5 - Glenwood Ward 3,Soil and Water Conservation District Commissioner,,Stephen McGrew,,404,188,216
+Mills,PCT 6 - Deer Creek and White Cloud,Soil and Water Conservation District Commissioner,,Stephen McGrew,,114,43,71
+Mills,PCT 7 - Henderson/Anderson,Soil and Water Conservation District Commissioner,,Stephen McGrew,,139,21,118
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Soil and Water Conservation District Commissioner,,Stephen McGrew,,813,290,523
+Mills,PCT 9 - Oak/St Marys,Soil and Water Conservation District Commissioner,,Stephen McGrew,,813,338,475
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Mills,PCT 11 - Silver City/Ingraham,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Mills,PCT 2 - Glenwood Township,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Mills,PCT 3 - Glenwood Ward 1,Soil and Water Conservation District Commissioner,,Write-In,,10,6,4
+Mills,PCT 4 - Glenwood Ward 2,Soil and Water Conservation District Commissioner,,Write-In,,11,5,6
+Mills,PCT 5 - Glenwood Ward 3,Soil and Water Conservation District Commissioner,,Write-In,,9,1,8
+Mills,PCT 6 - Deer Creek and White Cloud,Soil and Water Conservation District Commissioner,,Write-In,,2,2,0
+Mills,PCT 7 - Henderson/Anderson,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Soil and Water Conservation District Commissioner,,Write-In,,13,8,5
+Mills,PCT 9 - Oak/St Marys,Soil and Water Conservation District Commissioner,,Write-In,,28,8,20
+Mills,PCT 9 - Oak/St Marys,St Marys Township Clerk,,Write-In,,9,5,4
+Mills,PCT 9 - Oak/St Marys,St Marys Township Trustee,,Write-In,,11,5,6
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,State House,16,David A. Sieck,REP,216,35,181
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,State House,16,David A. Sieck,REP,185,80,105
+Mills,PCT 11 - Silver City/Ingraham,State House,16,David A. Sieck,REP,182,37,145
+Mills,PCT 2 - Glenwood Township,State House,16,David A. Sieck,REP,402,174,228
+Mills,PCT 3 - Glenwood Ward 1,State House,16,David A. Sieck,REP,304,145,159
+Mills,PCT 4 - Glenwood Ward 2,State House,16,David A. Sieck,REP,332,107,225
+Mills,PCT 5 - Glenwood Ward 3,State House,16,David A. Sieck,REP,400,157,243
+Mills,PCT 6 - Deer Creek and White Cloud,State House,16,David A. Sieck,REP,113,44,69
+Mills,PCT 7 - Henderson/Anderson,State House,16,David A. Sieck,REP,125,16,109
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,State House,16,David A. Sieck,REP,793,252,541
+Mills,PCT 9 - Oak/St Marys,State House,16,David A. Sieck,REP,1042,388,654
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,State House,16,Jack Goodman,DEM,95,16,79
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,State House,16,Jack Goodman,DEM,86,39,47
+Mills,PCT 11 - Silver City/Ingraham,State House,16,Jack Goodman,DEM,76,18,58
+Mills,PCT 2 - Glenwood Township,State House,16,Jack Goodman,DEM,198,127,71
+Mills,PCT 3 - Glenwood Ward 1,State House,16,Jack Goodman,DEM,181,107,74
+Mills,PCT 4 - Glenwood Ward 2,State House,16,Jack Goodman,DEM,242,108,134
+Mills,PCT 5 - Glenwood Ward 3,State House,16,Jack Goodman,DEM,248,132,116
+Mills,PCT 6 - Deer Creek and White Cloud,State House,16,Jack Goodman,DEM,39,14,25
+Mills,PCT 7 - Henderson/Anderson,State House,16,Jack Goodman,DEM,58,14,44
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,State House,16,Jack Goodman,DEM,402,174,228
+Mills,PCT 9 - Oak/St Marys,State House,16,Jack Goodman,DEM,435,210,225
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,State House,16,Write-In,,1,0,1
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,State House,16,Write-In,,0,0,0
+Mills,PCT 11 - Silver City/Ingraham,State House,16,Write-In,,0,0,0
+Mills,PCT 2 - Glenwood Township,State House,16,Write-In,,1,0,1
+Mills,PCT 3 - Glenwood Ward 1,State House,16,Write-In,,0,0,0
+Mills,PCT 4 - Glenwood Ward 2,State House,16,Write-In,,1,1,0
+Mills,PCT 5 - Glenwood Ward 3,State House,16,Write-In,,0,0,0
+Mills,PCT 6 - Deer Creek and White Cloud,State House,16,Write-In,,0,0,0
+Mills,PCT 7 - Henderson/Anderson,State House,16,Write-In,,1,1,0
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,State House,16,Write-In,,2,2,0
+Mills,PCT 9 - Oak/St Marys,State House,16,Write-In,,2,2,0
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Treasurer of State,,John Norwood,DEM,92,16,76
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Treasurer of State,,John Norwood,DEM,83,39,44
+Mills,PCT 11 - Silver City/Ingraham,Treasurer of State,,John Norwood,DEM,75,17,58
+Mills,PCT 2 - Glenwood Township,Treasurer of State,,John Norwood,DEM,206,135,71
+Mills,PCT 3 - Glenwood Ward 1,Treasurer of State,,John Norwood,DEM,190,110,80
+Mills,PCT 4 - Glenwood Ward 2,Treasurer of State,,John Norwood,DEM,269,121,148
+Mills,PCT 5 - Glenwood Ward 3,Treasurer of State,,John Norwood,DEM,279,150,129
+Mills,PCT 6 - Deer Creek and White Cloud,Treasurer of State,,John Norwood,DEM,43,16,27
+Mills,PCT 7 - Henderson/Anderson,Treasurer of State,,John Norwood,DEM,56,12,44
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Treasurer of State,,John Norwood,DEM,410,177,233
+Mills,PCT 9 - Oak/St Marys,Treasurer of State,,John Norwood,DEM,455,224,231
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Treasurer of State,,Roby Smith,REP,218,36,182
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Treasurer of State,,Roby Smith,REP,185,78,107
+Mills,PCT 11 - Silver City/Ingraham,Treasurer of State,,Roby Smith,REP,179,36,143
+Mills,PCT 2 - Glenwood Township,Treasurer of State,,Roby Smith,REP,389,162,227
+Mills,PCT 3 - Glenwood Ward 1,Treasurer of State,,Roby Smith,REP,282,135,147
+Mills,PCT 4 - Glenwood Ward 2,Treasurer of State,,Roby Smith,REP,301,92,209
+Mills,PCT 5 - Glenwood Ward 3,Treasurer of State,,Roby Smith,REP,356,136,220
+Mills,PCT 6 - Deer Creek and White Cloud,Treasurer of State,,Roby Smith,REP,110,43,67
+Mills,PCT 7 - Henderson/Anderson,Treasurer of State,,Roby Smith,REP,126,16,110
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Treasurer of State,,Roby Smith,REP,776,249,527
+Mills,PCT 9 - Oak/St Marys,Treasurer of State,,Roby Smith,REP,1015,373,642
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,Treasurer of State,,Write-In,,2,1,1
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,Treasurer of State,,Write-In,,0,0,0
+Mills,PCT 11 - Silver City/Ingraham,Treasurer of State,,Write-In,,0,0,0
+Mills,PCT 2 - Glenwood Township,Treasurer of State,,Write-In,,1,0,1
+Mills,PCT 3 - Glenwood Ward 1,Treasurer of State,,Write-In,,0,0,0
+Mills,PCT 4 - Glenwood Ward 2,Treasurer of State,,Write-In,,0,0,0
+Mills,PCT 5 - Glenwood Ward 3,Treasurer of State,,Write-In,,0,0,0
+Mills,PCT 6 - Deer Creek and White Cloud,Treasurer of State,,Write-In,,0,0,0
+Mills,PCT 7 - Henderson/Anderson,Treasurer of State,,Write-In,,0,0,0
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,Treasurer of State,,Write-In,,3,2,1
+Mills,PCT 9 - Oak/St Marys,Treasurer of State,,Write-In,,0,0,0
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,U.S. House,4,Chris McGowan,REP,209,38,171
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,U.S. House,4,Chris McGowan,REP,179,76,103
+Mills,PCT 11 - Silver City/Ingraham,U.S. House,4,Chris McGowan,REP,175,33,142
+Mills,PCT 2 - Glenwood Township,U.S. House,4,Chris McGowan,REP,380,160,220
+Mills,PCT 3 - Glenwood Ward 1,U.S. House,4,Chris McGowan,REP,269,128,141
+Mills,PCT 4 - Glenwood Ward 2,U.S. House,4,Chris McGowan,REP,291,89,202
+Mills,PCT 5 - Glenwood Ward 3,U.S. House,4,Chris McGowan,REP,356,131,225
+Mills,PCT 6 - Deer Creek and White Cloud,U.S. House,4,Chris McGowan,REP,104,39,65
+Mills,PCT 7 - Henderson/Anderson,U.S. House,4,Chris McGowan,REP,124,16,108
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,U.S. House,4,Chris McGowan,REP,753,242,511
+Mills,PCT 9 - Oak/St Marys,U.S. House,4,Chris McGowan,REP,995,362,633
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,U.S. House,4,Dave Dawson,DEM,95,16,79
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,U.S. House,4,Dave Dawson,DEM,85,37,48
+Mills,PCT 11 - Silver City/Ingraham,U.S. House,4,Dave Dawson,DEM,78,20,58
+Mills,PCT 2 - Glenwood Township,U.S. House,4,Dave Dawson,DEM,216,137,79
+Mills,PCT 3 - Glenwood Ward 1,U.S. House,4,Dave Dawson,DEM,196,113,83
+Mills,PCT 4 - Glenwood Ward 2,U.S. House,4,Dave Dawson,DEM,267,117,150
+Mills,PCT 5 - Glenwood Ward 3,U.S. House,4,Dave Dawson,DEM,276,148,128
+Mills,PCT 6 - Deer Creek and White Cloud,U.S. House,4,Dave Dawson,DEM,45,17,28
+Mills,PCT 7 - Henderson/Anderson,U.S. House,4,Dave Dawson,DEM,55,12,43
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,U.S. House,4,Dave Dawson,DEM,421,179,242
+Mills,PCT 9 - Oak/St Marys,U.S. House,4,Dave Dawson,DEM,470,229,241
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,U.S. House,4,Write-In,,2,0,2
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,U.S. House,4,Write-In,,1,1,0
+Mills,PCT 11 - Silver City/Ingraham,U.S. House,4,Write-In,,1,0,1
+Mills,PCT 2 - Glenwood Township,U.S. House,4,Write-In,,1,0,1
+Mills,PCT 3 - Glenwood Ward 1,U.S. House,4,Write-In,,1,0,1
+Mills,PCT 4 - Glenwood Ward 2,U.S. House,4,Write-In,,3,0,3
+Mills,PCT 5 - Glenwood Ward 3,U.S. House,4,Write-In,,2,1,1
+Mills,PCT 6 - Deer Creek and White Cloud,U.S. House,4,Write-In,,0,0,0
+Mills,PCT 7 - Henderson/Anderson,U.S. House,4,Write-In,,0,0,0
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,U.S. House,4,Write-In,,3,1,2
+Mills,PCT 9 - Oak/St Marys,U.S. House,4,Write-In,,0,0,0
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,U.S. Senate,,Ashley Hinson,REP,187,33,154
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,U.S. Senate,,Ashley Hinson,REP,166,72,94
+Mills,PCT 11 - Silver City/Ingraham,U.S. Senate,,Ashley Hinson,REP,157,31,126
+Mills,PCT 2 - Glenwood Township,U.S. Senate,,Ashley Hinson,REP,369,156,213
+Mills,PCT 3 - Glenwood Ward 1,U.S. Senate,,Ashley Hinson,REP,246,112,134
+Mills,PCT 4 - Glenwood Ward 2,U.S. Senate,,Ashley Hinson,REP,266,85,181
+Mills,PCT 5 - Glenwood Ward 3,U.S. Senate,,Ashley Hinson,REP,321,122,199
+Mills,PCT 6 - Deer Creek and White Cloud,U.S. Senate,,Ashley Hinson,REP,102,41,61
+Mills,PCT 7 - Henderson/Anderson,U.S. Senate,,Ashley Hinson,REP,113,16,97
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,U.S. Senate,,Ashley Hinson,REP,719,233,486
+Mills,PCT 9 - Oak/St Marys,U.S. Senate,,Ashley Hinson,REP,971,361,610
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,U.S. Senate,,Josh Turek,DEM,105,19,86
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,U.S. Senate,,Josh Turek,DEM,91,42,49
+Mills,PCT 11 - Silver City/Ingraham,U.S. Senate,,Josh Turek,DEM,89,20,69
+Mills,PCT 2 - Glenwood Township,U.S. Senate,,Josh Turek,DEM,215,140,75
+Mills,PCT 3 - Glenwood Ward 1,U.S. Senate,,Josh Turek,DEM,199,117,82
+Mills,PCT 4 - Glenwood Ward 2,U.S. Senate,,Josh Turek,DEM,274,118,156
+Mills,PCT 5 - Glenwood Ward 3,U.S. Senate,,Josh Turek,DEM,300,160,140
+Mills,PCT 6 - Deer Creek and White Cloud,U.S. Senate,,Josh Turek,DEM,41,16,25
+Mills,PCT 7 - Henderson/Anderson,U.S. Senate,,Josh Turek,DEM,60,12,48
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,U.S. Senate,,Josh Turek,DEM,421,179,242
+Mills,PCT 9 - Oak/St Marys,U.S. Senate,,Josh Turek,DEM,480,233,247
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,U.S. Senate,,Thomas Laehn,LIB,14,1,13
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,U.S. Senate,,Thomas Laehn,LIB,11,2,9
+Mills,PCT 11 - Silver City/Ingraham,U.S. Senate,,Thomas Laehn,LIB,6,1,5
+Mills,PCT 2 - Glenwood Township,U.S. Senate,,Thomas Laehn,LIB,18,3,15
+Mills,PCT 3 - Glenwood Ward 1,U.S. Senate,,Thomas Laehn,LIB,28,15,13
+Mills,PCT 4 - Glenwood Ward 2,U.S. Senate,,Thomas Laehn,LIB,32,9,23
+Mills,PCT 5 - Glenwood Ward 3,U.S. Senate,,Thomas Laehn,LIB,33,8,25
+Mills,PCT 6 - Deer Creek and White Cloud,U.S. Senate,,Thomas Laehn,LIB,8,0,8
+Mills,PCT 7 - Henderson/Anderson,U.S. Senate,,Thomas Laehn,LIB,10,2,8
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,U.S. Senate,,Thomas Laehn,LIB,47,18,29
+Mills,PCT 9 - Oak/St Marys,U.S. Senate,,Thomas Laehn,LIB,36,6,30
+Mills,PCT 1 - Emerson/Hastings/Indian Creek,U.S. Senate,,Write-In,,0,0,0
+Mills,PCT 10 - Pacific Junction/Lyons/Plattville,U.S. Senate,,Write-In,,0,0,0
+Mills,PCT 11 - Silver City/Ingraham,U.S. Senate,,Write-In,,2,0,2
+Mills,PCT 2 - Glenwood Township,U.S. Senate,,Write-In,,0,0,0
+Mills,PCT 3 - Glenwood Ward 1,U.S. Senate,,Write-In,,0,0,0
+Mills,PCT 4 - Glenwood Ward 2,U.S. Senate,,Write-In,,1,0,1
+Mills,PCT 5 - Glenwood Ward 3,U.S. Senate,,Write-In,,1,0,1
+Mills,PCT 6 - Deer Creek and White Cloud,U.S. Senate,,Write-In,,0,0,0
+Mills,PCT 7 - Henderson/Anderson,U.S. Senate,,Write-In,,0,0,0
+Mills,PCT 8 - Malvern/Tabor/Silver Creek/Center/Rawles,U.S. Senate,,Write-In,,0,0,0
+Mills,PCT 9 - Oak/St Marys,U.S. Senate,,Write-In,,0,0,0
+Mills,PCT 6 - Deer Creek and White Cloud,White Cloud Township Clerk,,Write-In,,6,2,4
+Mills,PCT 6 - Deer Creek and White Cloud,White Cloud Township Trustee,,Write-In,,8,2,6

@@ -1,0 +1,737 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Poweshiek,"1st Ward, GR - 06GR",Attorney General,,Brenna Bird,REP,194,54,140
+Poweshiek,"2nd Ward, GR - 07GR",Attorney General,,Brenna Bird,REP,455,100,355
+Poweshiek,"3rd Ward, GR - 08GR",Attorney General,,Brenna Bird,REP,291,69,222
+Poweshiek,"4th Ward, GR - 09GR",Attorney General,,Brenna Bird,REP,355,110,245
+Poweshiek,BMWJ,Attorney General,,Brenna Bird,REP,804,173,631
+Poweshiek,CGWS,Attorney General,,Brenna Bird,REP,549,193,356
+Poweshiek,DRL,Attorney General,,Brenna Bird,REP,217,43,174
+Poweshiek,JUPS,Attorney General,,Brenna Bird,REP,620,257,363
+Poweshiek,MS,Attorney General,,Brenna Bird,REP,215,52,163
+Poweshiek,Montezuma - 11MO,Attorney General,,Brenna Bird,REP,377,113,264
+Poweshiek,"1st Ward, GR - 06GR",Attorney General,,Nate Willems,DEM,742,392,350
+Poweshiek,"2nd Ward, GR - 07GR",Attorney General,,Nate Willems,DEM,683,303,380
+Poweshiek,"3rd Ward, GR - 08GR",Attorney General,,Nate Willems,DEM,519,194,325
+Poweshiek,"4th Ward, GR - 09GR",Attorney General,,Nate Willems,DEM,595,311,284
+Poweshiek,BMWJ,Attorney General,,Nate Willems,DEM,500,213,287
+Poweshiek,CGWS,Attorney General,,Nate Willems,DEM,240,95,145
+Poweshiek,DRL,Attorney General,,Nate Willems,DEM,92,30,62
+Poweshiek,JUPS,Attorney General,,Nate Willems,DEM,223,132,91
+Poweshiek,MS,Attorney General,,Nate Willems,DEM,121,49,72
+Poweshiek,Montezuma - 11MO,Attorney General,,Nate Willems,DEM,150,58,92
+Poweshiek,"1st Ward, GR - 06GR",Attorney General,,Write-In,,0,0,0
+Poweshiek,"2nd Ward, GR - 07GR",Attorney General,,Write-In,,2,1,1
+Poweshiek,"3rd Ward, GR - 08GR",Attorney General,,Write-In,,1,0,1
+Poweshiek,"4th Ward, GR - 09GR",Attorney General,,Write-In,,1,0,1
+Poweshiek,BMWJ,Attorney General,,Write-In,,1,0,1
+Poweshiek,CGWS,Attorney General,,Write-In,,0,0,0
+Poweshiek,DRL,Attorney General,,Write-In,,0,0,0
+Poweshiek,JUPS,Attorney General,,Write-In,,0,0,0
+Poweshiek,MS,Attorney General,,Write-In,,0,0,0
+Poweshiek,Montezuma - 11MO,Attorney General,,Write-In,,0,0,0
+Poweshiek,"1st Ward, GR - 06GR",Auditor of State,,Chris Cournoyer,REP,199,57,142
+Poweshiek,"2nd Ward, GR - 07GR",Auditor of State,,Chris Cournoyer,REP,462,105,357
+Poweshiek,"3rd Ward, GR - 08GR",Auditor of State,,Chris Cournoyer,REP,302,71,231
+Poweshiek,"4th Ward, GR - 09GR",Auditor of State,,Chris Cournoyer,REP,364,113,251
+Poweshiek,BMWJ,Auditor of State,,Chris Cournoyer,REP,805,169,636
+Poweshiek,CGWS,Auditor of State,,Chris Cournoyer,REP,557,192,365
+Poweshiek,DRL,Auditor of State,,Chris Cournoyer,REP,231,47,184
+Poweshiek,JUPS,Auditor of State,,Chris Cournoyer,REP,633,254,379
+Poweshiek,MS,Auditor of State,,Chris Cournoyer,REP,222,52,170
+Poweshiek,Montezuma - 11MO,Auditor of State,,Chris Cournoyer,REP,378,106,272
+Poweshiek,"1st Ward, GR - 06GR",Auditor of State,,Taylor Wettach,DEM,731,385,346
+Poweshiek,"2nd Ward, GR - 07GR",Auditor of State,,Taylor Wettach,DEM,671,294,377
+Poweshiek,"3rd Ward, GR - 08GR",Auditor of State,,Taylor Wettach,DEM,504,190,314
+Poweshiek,"4th Ward, GR - 09GR",Auditor of State,,Taylor Wettach,DEM,586,307,279
+Poweshiek,BMWJ,Auditor of State,,Taylor Wettach,DEM,494,214,280
+Poweshiek,CGWS,Auditor of State,,Taylor Wettach,DEM,228,96,132
+Poweshiek,DRL,Auditor of State,,Taylor Wettach,DEM,81,28,53
+Poweshiek,JUPS,Auditor of State,,Taylor Wettach,DEM,211,140,71
+Poweshiek,MS,Auditor of State,,Taylor Wettach,DEM,114,49,65
+Poweshiek,Montezuma - 11MO,Auditor of State,,Taylor Wettach,DEM,142,62,80
+Poweshiek,"1st Ward, GR - 06GR",Auditor of State,,Write-In,,0,0,0
+Poweshiek,"2nd Ward, GR - 07GR",Auditor of State,,Write-In,,0,0,0
+Poweshiek,"3rd Ward, GR - 08GR",Auditor of State,,Write-In,,2,0,2
+Poweshiek,"4th Ward, GR - 09GR",Auditor of State,,Write-In,,0,0,0
+Poweshiek,BMWJ,Auditor of State,,Write-In,,0,0,0
+Poweshiek,CGWS,Auditor of State,,Write-In,,0,0,0
+Poweshiek,DRL,Auditor of State,,Write-In,,0,0,0
+Poweshiek,JUPS,Auditor of State,,Write-In,,0,0,0
+Poweshiek,MS,Auditor of State,,Write-In,,0,0,0
+Poweshiek,Montezuma - 11MO,Auditor of State,,Write-In,,0,0,0
+Poweshiek,BMWJ,Bear Creek Township Clerk,,Susie Brau,,117,21,96
+Poweshiek,BMWJ,Bear Creek Township Clerk,,Write-In,,0,0,0
+Poweshiek,BMWJ,Bear Creek Township Trustee,,Danny Brau,,122,22,100
+Poweshiek,BMWJ,Bear Creek Township Trustee,,Write-In,,0,0,0
+Poweshiek,CGWS,Chester Township Clerk,,Lance Veldboom,,119,40,79
+Poweshiek,CGWS,Chester Township Clerk,,Write-In,,2,0,2
+Poweshiek,CGWS,Chester Township Trustee,,Randy Lidtka,,129,46,83
+Poweshiek,CGWS,Chester Township Trustee,,Write-In,,2,0,2
+Poweshiek,"1st Ward, GR - 06GR",Constitutional Amendment 1,,No,,600,321,279
+Poweshiek,"2nd Ward, GR - 07GR",Constitutional Amendment 1,,No,,627,270,357
+Poweshiek,"3rd Ward, GR - 08GR",Constitutional Amendment 1,,No,,409,158,251
+Poweshiek,"4th Ward, GR - 09GR",Constitutional Amendment 1,,No,,501,252,249
+Poweshiek,BMWJ,Constitutional Amendment 1,,No,,405,153,252
+Poweshiek,CGWS,Constitutional Amendment 1,,No,,225,88,137
+Poweshiek,DRL,Constitutional Amendment 1,,No,,109,30,79
+Poweshiek,JUPS,Constitutional Amendment 1,,No,,212,106,106
+Poweshiek,MS,Constitutional Amendment 1,,No,,94,31,63
+Poweshiek,Montezuma - 11MO,Constitutional Amendment 1,,No,,154,46,108
+Poweshiek,"1st Ward, GR - 06GR",Constitutional Amendment 1,,Yes,,297,110,187
+Poweshiek,"2nd Ward, GR - 07GR",Constitutional Amendment 1,,Yes,,474,119,355
+Poweshiek,"3rd Ward, GR - 08GR",Constitutional Amendment 1,,Yes,,347,91,256
+Poweshiek,"4th Ward, GR - 09GR",Constitutional Amendment 1,,Yes,,387,146,241
+Poweshiek,BMWJ,Constitutional Amendment 1,,Yes,,804,196,608
+Poweshiek,CGWS,Constitutional Amendment 1,,Yes,,504,186,318
+Poweshiek,DRL,Constitutional Amendment 1,,Yes,,194,41,153
+Poweshiek,JUPS,Constitutional Amendment 1,,Yes,,543,238,305
+Poweshiek,MS,Constitutional Amendment 1,,Yes,,207,59,148
+Poweshiek,Montezuma - 11MO,Constitutional Amendment 1,,Yes,,332,106,226
+Poweshiek,"1st Ward, GR - 06GR",County Agricultural Extension Council Member,,Bailey Asberry,,481,212,269
+Poweshiek,"2nd Ward, GR - 07GR",County Agricultural Extension Council Member,,Bailey Asberry,,710,234,476
+Poweshiek,"3rd Ward, GR - 08GR",County Agricultural Extension Council Member,,Bailey Asberry,,447,149,298
+Poweshiek,"4th Ward, GR - 09GR",County Agricultural Extension Council Member,,Bailey Asberry,,529,240,289
+Poweshiek,BMWJ,County Agricultural Extension Council Member,,Bailey Asberry,,729,182,547
+Poweshiek,CGWS,County Agricultural Extension Council Member,,Bailey Asberry,,478,151,327
+Poweshiek,DRL,County Agricultural Extension Council Member,,Bailey Asberry,,180,39,141
+Poweshiek,JUPS,County Agricultural Extension Council Member,,Bailey Asberry,,413,182,231
+Poweshiek,MS,County Agricultural Extension Council Member,,Bailey Asberry,,193,52,141
+Poweshiek,Montezuma - 11MO,County Agricultural Extension Council Member,,Bailey Asberry,,304,77,227
+Poweshiek,"1st Ward, GR - 06GR",County Agricultural Extension Council Member,,Christina Sporer,,452,202,250
+Poweshiek,"2nd Ward, GR - 07GR",County Agricultural Extension Council Member,,Christina Sporer,,642,235,407
+Poweshiek,"3rd Ward, GR - 08GR",County Agricultural Extension Council Member,,Christina Sporer,,366,132,234
+Poweshiek,"4th Ward, GR - 09GR",County Agricultural Extension Council Member,,Christina Sporer,,475,233,242
+Poweshiek,BMWJ,County Agricultural Extension Council Member,,Christina Sporer,,665,173,492
+Poweshiek,CGWS,County Agricultural Extension Council Member,,Christina Sporer,,405,135,270
+Poweshiek,DRL,County Agricultural Extension Council Member,,Christina Sporer,,161,39,122
+Poweshiek,JUPS,County Agricultural Extension Council Member,,Christina Sporer,,358,162,196
+Poweshiek,MS,County Agricultural Extension Council Member,,Christina Sporer,,156,42,114
+Poweshiek,Montezuma - 11MO,County Agricultural Extension Council Member,,Christina Sporer,,250,63,187
+Poweshiek,"1st Ward, GR - 06GR",County Agricultural Extension Council Member,,Gabrielle M. Axmear,,434,181,253
+Poweshiek,"2nd Ward, GR - 07GR",County Agricultural Extension Council Member,,Gabrielle M. Axmear,,632,222,410
+Poweshiek,"3rd Ward, GR - 08GR",County Agricultural Extension Council Member,,Gabrielle M. Axmear,,378,128,250
+Poweshiek,"4th Ward, GR - 09GR",County Agricultural Extension Council Member,,Gabrielle M. Axmear,,502,234,268
+Poweshiek,BMWJ,County Agricultural Extension Council Member,,Gabrielle M. Axmear,,725,180,545
+Poweshiek,CGWS,County Agricultural Extension Council Member,,Gabrielle M. Axmear,,482,155,327
+Poweshiek,DRL,County Agricultural Extension Council Member,,Gabrielle M. Axmear,,175,41,134
+Poweshiek,JUPS,County Agricultural Extension Council Member,,Gabrielle M. Axmear,,412,181,231
+Poweshiek,MS,County Agricultural Extension Council Member,,Gabrielle M. Axmear,,217,52,165
+Poweshiek,Montezuma - 11MO,County Agricultural Extension Council Member,,Gabrielle M. Axmear,,292,76,216
+Poweshiek,"1st Ward, GR - 06GR",County Agricultural Extension Council Member,,Jennifer Bos,,412,178,234
+Poweshiek,"2nd Ward, GR - 07GR",County Agricultural Extension Council Member,,Jennifer Bos,,608,215,393
+Poweshiek,"3rd Ward, GR - 08GR",County Agricultural Extension Council Member,,Jennifer Bos,,383,134,249
+Poweshiek,"4th Ward, GR - 09GR",County Agricultural Extension Council Member,,Jennifer Bos,,463,222,241
+Poweshiek,BMWJ,County Agricultural Extension Council Member,,Jennifer Bos,,713,175,538
+Poweshiek,CGWS,County Agricultural Extension Council Member,,Jennifer Bos,,443,155,288
+Poweshiek,DRL,County Agricultural Extension Council Member,,Jennifer Bos,,204,41,163
+Poweshiek,JUPS,County Agricultural Extension Council Member,,Jennifer Bos,,422,181,241
+Poweshiek,MS,County Agricultural Extension Council Member,,Jennifer Bos,,175,47,128
+Poweshiek,Montezuma - 11MO,County Agricultural Extension Council Member,,Jennifer Bos,,326,82,244
+Poweshiek,"1st Ward, GR - 06GR",County Agricultural Extension Council Member,,Kristin Davidson,,412,176,236
+Poweshiek,"2nd Ward, GR - 07GR",County Agricultural Extension Council Member,,Kristin Davidson,,617,216,401
+Poweshiek,"3rd Ward, GR - 08GR",County Agricultural Extension Council Member,,Kristin Davidson,,375,132,243
+Poweshiek,"4th Ward, GR - 09GR",County Agricultural Extension Council Member,,Kristin Davidson,,458,228,230
+Poweshiek,BMWJ,County Agricultural Extension Council Member,,Kristin Davidson,,804,196,608
+Poweshiek,CGWS,County Agricultural Extension Council Member,,Kristin Davidson,,444,149,295
+Poweshiek,DRL,County Agricultural Extension Council Member,,Kristin Davidson,,178,42,136
+Poweshiek,JUPS,County Agricultural Extension Council Member,,Kristin Davidson,,399,169,230
+Poweshiek,MS,County Agricultural Extension Council Member,,Kristin Davidson,,187,48,139
+Poweshiek,Montezuma - 11MO,County Agricultural Extension Council Member,,Kristin Davidson,,269,68,201
+Poweshiek,"1st Ward, GR - 06GR",County Agricultural Extension Council Member,,Write-In,,15,3,12
+Poweshiek,"2nd Ward, GR - 07GR",County Agricultural Extension Council Member,,Write-In,,4,2,2
+Poweshiek,"3rd Ward, GR - 08GR",County Agricultural Extension Council Member,,Write-In,,19,6,13
+Poweshiek,"4th Ward, GR - 09GR",County Agricultural Extension Council Member,,Write-In,,18,4,14
+Poweshiek,BMWJ,County Agricultural Extension Council Member,,Write-In,,7,1,6
+Poweshiek,CGWS,County Agricultural Extension Council Member,,Write-In,,5,0,5
+Poweshiek,DRL,County Agricultural Extension Council Member,,Write-In,,10,1,9
+Poweshiek,JUPS,County Agricultural Extension Council Member,,Write-In,,4,2,2
+Poweshiek,MS,County Agricultural Extension Council Member,,Write-In,,10,0,10
+Poweshiek,Montezuma - 11MO,County Agricultural Extension Council Member,,Write-In,,6,1,5
+Poweshiek,"1st Ward, GR - 06GR",County Attorney,,Bart K. Klaver,REP,448,169,279
+Poweshiek,"2nd Ward, GR - 07GR",County Attorney,,Bart K. Klaver,REP,770,219,551
+Poweshiek,"3rd Ward, GR - 08GR",County Attorney,,Bart K. Klaver,REP,522,138,384
+Poweshiek,"4th Ward, GR - 09GR",County Attorney,,Bart K. Klaver,REP,600,227,373
+Poweshiek,BMWJ,County Attorney,,Bart K. Klaver,REP,1026,246,780
+Poweshiek,CGWS,County Attorney,,Bart K. Klaver,REP,659,224,435
+Poweshiek,DRL,County Attorney,,Bart K. Klaver,REP,267,54,213
+Poweshiek,JUPS,County Attorney,,Bart K. Klaver,REP,705,298,407
+Poweshiek,MS,County Attorney,,Bart K. Klaver,REP,267,64,203
+Poweshiek,Montezuma - 11MO,County Attorney,,Bart K. Klaver,REP,450,131,319
+Poweshiek,"1st Ward, GR - 06GR",County Attorney,,Write-In,,30,20,10
+Poweshiek,"2nd Ward, GR - 07GR",County Attorney,,Write-In,,18,8,10
+Poweshiek,"3rd Ward, GR - 08GR",County Attorney,,Write-In,,23,5,18
+Poweshiek,"4th Ward, GR - 09GR",County Attorney,,Write-In,,32,13,19
+Poweshiek,BMWJ,County Attorney,,Write-In,,13,3,10
+Poweshiek,CGWS,County Attorney,,Write-In,,12,5,7
+Poweshiek,DRL,County Attorney,,Write-In,,5,3,2
+Poweshiek,JUPS,County Attorney,,Write-In,,10,2,8
+Poweshiek,MS,County Attorney,,Write-In,,5,1,4
+Poweshiek,Montezuma - 11MO,County Attorney,,Write-In,,2,1,1
+Poweshiek,"1st Ward, GR - 06GR",County Board of Supervisors,,Diana Dawley,DEM,668,360,308
+Poweshiek,"2nd Ward, GR - 07GR",County Board of Supervisors,,Diana Dawley,DEM,676,290,386
+Poweshiek,"3rd Ward, GR - 08GR",County Board of Supervisors,,Diana Dawley,DEM,425,164,261
+Poweshiek,"4th Ward, GR - 09GR",County Board of Supervisors,,Diana Dawley,DEM,568,316,252
+Poweshiek,BMWJ,County Board of Supervisors,,Diana Dawley,DEM,480,184,296
+Poweshiek,CGWS,County Board of Supervisors,,Diana Dawley,DEM,314,124,190
+Poweshiek,DRL,County Board of Supervisors,,Diana Dawley,DEM,91,27,64
+Poweshiek,JUPS,County Board of Supervisors,,Diana Dawley,DEM,270,144,126
+Poweshiek,MS,County Board of Supervisors,,Diana Dawley,DEM,111,48,63
+Poweshiek,Montezuma - 11MO,County Board of Supervisors,,Diana Dawley,DEM,159,64,95
+Poweshiek,"1st Ward, GR - 06GR",County Board of Supervisors,,Jason Roudabush,DEM,680,357,323
+Poweshiek,"2nd Ward, GR - 07GR",County Board of Supervisors,,Jason Roudabush,DEM,651,276,375
+Poweshiek,"3rd Ward, GR - 08GR",County Board of Supervisors,,Jason Roudabush,DEM,477,187,290
+Poweshiek,"4th Ward, GR - 09GR",County Board of Supervisors,,Jason Roudabush,DEM,561,289,272
+Poweshiek,BMWJ,County Board of Supervisors,,Jason Roudabush,DEM,707,229,478
+Poweshiek,CGWS,County Board of Supervisors,,Jason Roudabush,DEM,321,136,185
+Poweshiek,DRL,County Board of Supervisors,,Jason Roudabush,DEM,146,47,99
+Poweshiek,JUPS,County Board of Supervisors,,Jason Roudabush,DEM,326,179,147
+Poweshiek,MS,County Board of Supervisors,,Jason Roudabush,DEM,164,54,110
+Poweshiek,Montezuma - 11MO,County Board of Supervisors,,Jason Roudabush,DEM,242,76,166
+Poweshiek,"1st Ward, GR - 06GR",County Board of Supervisors,,Jeff Tindle,REP,195,51,144
+Poweshiek,"2nd Ward, GR - 07GR",County Board of Supervisors,,Jeff Tindle,REP,434,97,337
+Poweshiek,"3rd Ward, GR - 08GR",County Board of Supervisors,,Jeff Tindle,REP,297,70,227
+Poweshiek,"4th Ward, GR - 09GR",County Board of Supervisors,,Jeff Tindle,REP,339,101,238
+Poweshiek,BMWJ,County Board of Supervisors,,Jeff Tindle,REP,773,174,599
+Poweshiek,CGWS,County Board of Supervisors,,Jeff Tindle,REP,537,186,351
+Poweshiek,DRL,County Board of Supervisors,,Jeff Tindle,REP,240,52,188
+Poweshiek,JUPS,County Board of Supervisors,,Jeff Tindle,REP,637,264,373
+Poweshiek,MS,County Board of Supervisors,,Jeff Tindle,REP,216,53,163
+Poweshiek,Montezuma - 11MO,County Board of Supervisors,,Jeff Tindle,REP,414,121,293
+Poweshiek,"1st Ward, GR - 06GR",County Board of Supervisors,,Write-In,,2,1,1
+Poweshiek,"2nd Ward, GR - 07GR",County Board of Supervisors,,Write-In,,1,0,1
+Poweshiek,"3rd Ward, GR - 08GR",County Board of Supervisors,,Write-In,,5,0,5
+Poweshiek,"4th Ward, GR - 09GR",County Board of Supervisors,,Write-In,,3,0,3
+Poweshiek,BMWJ,County Board of Supervisors,,Write-In,,7,0,7
+Poweshiek,CGWS,County Board of Supervisors,,Write-In,,7,2,5
+Poweshiek,DRL,County Board of Supervisors,,Write-In,,2,0,2
+Poweshiek,JUPS,County Board of Supervisors,,Write-In,,12,2,10
+Poweshiek,MS,County Board of Supervisors,,Write-In,,3,0,3
+Poweshiek,Montezuma - 11MO,County Board of Supervisors,,Write-In,,7,1,6
+Poweshiek,"1st Ward, GR - 06GR",County Recorder,,Jodi L. Meyer,REP,449,168,281
+Poweshiek,"2nd Ward, GR - 07GR",County Recorder,,Jodi L. Meyer,REP,751,215,536
+Poweshiek,"3rd Ward, GR - 08GR",County Recorder,,Jodi L. Meyer,REP,520,136,384
+Poweshiek,"4th Ward, GR - 09GR",County Recorder,,Jodi L. Meyer,REP,598,228,370
+Poweshiek,BMWJ,County Recorder,,Jodi L. Meyer,REP,1042,249,793
+Poweshiek,CGWS,County Recorder,,Jodi L. Meyer,REP,659,225,434
+Poweshiek,DRL,County Recorder,,Jodi L. Meyer,REP,275,59,216
+Poweshiek,JUPS,County Recorder,,Jodi L. Meyer,REP,718,300,418
+Poweshiek,MS,County Recorder,,Jodi L. Meyer,REP,275,67,208
+Poweshiek,Montezuma - 11MO,County Recorder,,Jodi L. Meyer,REP,467,139,328
+Poweshiek,"1st Ward, GR - 06GR",County Recorder,,Write-In,,27,20,7
+Poweshiek,"2nd Ward, GR - 07GR",County Recorder,,Write-In,,21,10,11
+Poweshiek,"3rd Ward, GR - 08GR",County Recorder,,Write-In,,23,5,18
+Poweshiek,"4th Ward, GR - 09GR",County Recorder,,Write-In,,26,12,14
+Poweshiek,BMWJ,County Recorder,,Write-In,,7,3,4
+Poweshiek,CGWS,County Recorder,,Write-In,,9,2,7
+Poweshiek,DRL,County Recorder,,Write-In,,4,2,2
+Poweshiek,JUPS,County Recorder,,Write-In,,8,3,5
+Poweshiek,MS,County Recorder,,Write-In,,2,0,2
+Poweshiek,Montezuma - 11MO,County Recorder,,Write-In,,3,0,3
+Poweshiek,"1st Ward, GR - 06GR",County Treasurer,,Jennifer Anderson,REP,452,171,281
+Poweshiek,"2nd Ward, GR - 07GR",County Treasurer,,Jennifer Anderson,REP,749,212,537
+Poweshiek,"3rd Ward, GR - 08GR",County Treasurer,,Jennifer Anderson,REP,519,137,382
+Poweshiek,"4th Ward, GR - 09GR",County Treasurer,,Jennifer Anderson,REP,596,226,370
+Poweshiek,BMWJ,County Treasurer,,Jennifer Anderson,REP,1044,251,793
+Poweshiek,CGWS,County Treasurer,,Jennifer Anderson,REP,658,222,436
+Poweshiek,DRL,County Treasurer,,Jennifer Anderson,REP,273,59,214
+Poweshiek,JUPS,County Treasurer,,Jennifer Anderson,REP,696,292,404
+Poweshiek,MS,County Treasurer,,Jennifer Anderson,REP,272,67,205
+Poweshiek,Montezuma - 11MO,County Treasurer,,Jennifer Anderson,REP,448,136,312
+Poweshiek,"1st Ward, GR - 06GR",County Treasurer,,Write-In,,26,18,8
+Poweshiek,"2nd Ward, GR - 07GR",County Treasurer,,Write-In,,26,13,13
+Poweshiek,"3rd Ward, GR - 08GR",County Treasurer,,Write-In,,28,7,21
+Poweshiek,"4th Ward, GR - 09GR",County Treasurer,,Write-In,,33,13,20
+Poweshiek,BMWJ,County Treasurer,,Write-In,,8,3,5
+Poweshiek,CGWS,County Treasurer,,Write-In,,10,4,6
+Poweshiek,DRL,County Treasurer,,Write-In,,5,2,3
+Poweshiek,JUPS,County Treasurer,,Write-In,,14,4,10
+Poweshiek,MS,County Treasurer,,Write-In,,5,2,3
+Poweshiek,Montezuma - 11MO,County Treasurer,,Write-In,,8,1,7
+Poweshiek,"1st Ward, GR - 06GR",Court of Appeals Judge - John M. Sandy,,No,,145,72,73
+Poweshiek,"2nd Ward, GR - 07GR",Court of Appeals Judge - John M. Sandy,,No,,240,78,162
+Poweshiek,"3rd Ward, GR - 08GR",Court of Appeals Judge - John M. Sandy,,No,,177,54,123
+Poweshiek,"4th Ward, GR - 09GR",Court of Appeals Judge - John M. Sandy,,No,,164,52,112
+Poweshiek,BMWJ,Court of Appeals Judge - John M. Sandy,,No,,260,76,184
+Poweshiek,CGWS,Court of Appeals Judge - John M. Sandy,,No,,137,51,86
+Poweshiek,DRL,Court of Appeals Judge - John M. Sandy,,No,,62,16,46
+Poweshiek,JUPS,Court of Appeals Judge - John M. Sandy,,No,,152,67,85
+Poweshiek,MS,Court of Appeals Judge - John M. Sandy,,No,,66,22,44
+Poweshiek,Montezuma - 11MO,Court of Appeals Judge - John M. Sandy,,No,,69,26,43
+Poweshiek,"1st Ward, GR - 06GR",Court of Appeals Judge - John M. Sandy,,Yes,,449,201,248
+Poweshiek,"2nd Ward, GR - 07GR",Court of Appeals Judge - John M. Sandy,,Yes,,612,203,409
+Poweshiek,"3rd Ward, GR - 08GR",Court of Appeals Judge - John M. Sandy,,Yes,,428,134,294
+Poweshiek,"4th Ward, GR - 09GR",Court of Appeals Judge - John M. Sandy,,Yes,,491,229,262
+Poweshiek,BMWJ,Court of Appeals Judge - John M. Sandy,,Yes,,655,149,506
+Poweshiek,CGWS,Court of Appeals Judge - John M. Sandy,,Yes,,410,137,273
+Poweshiek,DRL,Court of Appeals Judge - John M. Sandy,,Yes,,169,28,141
+Poweshiek,JUPS,Court of Appeals Judge - John M. Sandy,,Yes,,395,172,223
+Poweshiek,MS,Court of Appeals Judge - John M. Sandy,,Yes,,175,43,132
+Poweshiek,Montezuma - 11MO,Court of Appeals Judge - John M. Sandy,,Yes,,300,75,225
+Poweshiek,"1st Ward, GR - 06GR",Court of Appeals Judge - Julie A. Schumacher,,No,,117,57,60
+Poweshiek,"2nd Ward, GR - 07GR",Court of Appeals Judge - Julie A. Schumacher,,No,,200,60,140
+Poweshiek,"3rd Ward, GR - 08GR",Court of Appeals Judge - Julie A. Schumacher,,No,,139,43,96
+Poweshiek,"4th Ward, GR - 09GR",Court of Appeals Judge - Julie A. Schumacher,,No,,146,49,97
+Poweshiek,BMWJ,Court of Appeals Judge - Julie A. Schumacher,,No,,243,65,178
+Poweshiek,CGWS,Court of Appeals Judge - Julie A. Schumacher,,No,,128,47,81
+Poweshiek,DRL,Court of Appeals Judge - Julie A. Schumacher,,No,,45,15,30
+Poweshiek,JUPS,Court of Appeals Judge - Julie A. Schumacher,,No,,140,59,81
+Poweshiek,MS,Court of Appeals Judge - Julie A. Schumacher,,No,,65,22,43
+Poweshiek,Montezuma - 11MO,Court of Appeals Judge - Julie A. Schumacher,,No,,64,23,41
+Poweshiek,"1st Ward, GR - 06GR",Court of Appeals Judge - Julie A. Schumacher,,Yes,,488,221,267
+Poweshiek,"2nd Ward, GR - 07GR",Court of Appeals Judge - Julie A. Schumacher,,Yes,,661,226,435
+Poweshiek,"3rd Ward, GR - 08GR",Court of Appeals Judge - Julie A. Schumacher,,Yes,,478,153,325
+Poweshiek,"4th Ward, GR - 09GR",Court of Appeals Judge - Julie A. Schumacher,,Yes,,529,239,290
+Poweshiek,BMWJ,Court of Appeals Judge - Julie A. Schumacher,,Yes,,687,167,520
+Poweshiek,CGWS,Court of Appeals Judge - Julie A. Schumacher,,Yes,,432,150,282
+Poweshiek,DRL,Court of Appeals Judge - Julie A. Schumacher,,Yes,,196,30,166
+Poweshiek,JUPS,Court of Appeals Judge - Julie A. Schumacher,,Yes,,422,187,235
+Poweshiek,MS,Court of Appeals Judge - Julie A. Schumacher,,Yes,,181,45,136
+Poweshiek,Montezuma - 11MO,Court of Appeals Judge - Julie A. Schumacher,,Yes,,310,84,226
+Poweshiek,"1st Ward, GR - 06GR",Court of Appeals Judge - Sharon Soorholtz Greer,,No,,124,53,71
+Poweshiek,"2nd Ward, GR - 07GR",Court of Appeals Judge - Sharon Soorholtz Greer,,No,,205,63,142
+Poweshiek,"3rd Ward, GR - 08GR",Court of Appeals Judge - Sharon Soorholtz Greer,,No,,154,45,109
+Poweshiek,"4th Ward, GR - 09GR",Court of Appeals Judge - Sharon Soorholtz Greer,,No,,151,48,103
+Poweshiek,BMWJ,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,246,63,183
+Poweshiek,CGWS,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,144,54,90
+Poweshiek,DRL,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,55,14,41
+Poweshiek,JUPS,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,157,61,96
+Poweshiek,MS,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,70,20,50
+Poweshiek,Montezuma - 11MO,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,70,21,49
+Poweshiek,"1st Ward, GR - 06GR",Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,478,224,254
+Poweshiek,"2nd Ward, GR - 07GR",Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,651,219,432
+Poweshiek,"3rd Ward, GR - 08GR",Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,449,147,302
+Poweshiek,"4th Ward, GR - 09GR",Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,510,235,275
+Poweshiek,BMWJ,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,682,170,512
+Poweshiek,CGWS,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,410,137,273
+Poweshiek,DRL,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,179,31,148
+Poweshiek,JUPS,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,399,184,215
+Poweshiek,MS,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,174,46,128
+Poweshiek,Montezuma - 11MO,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,295,80,215
+Poweshiek,DRL,Deep River Township Clerk,,Donald Cranston,,75,20,55
+Poweshiek,DRL,Deep River Township Clerk,,Write-In,,0,0,0
+Poweshiek,DRL,Deep River Township Trustee,,Matthew Ranfeld,,71,19,52
+Poweshiek,DRL,Deep River Township Trustee,,Write-In,,0,0,0
+Poweshiek,"1st Ward, GR - 06GR",District 8A Associate Judge - Jennifer Nicole Jensen,,No,,114,49,65
+Poweshiek,"2nd Ward, GR - 07GR",District 8A Associate Judge - Jennifer Nicole Jensen,,No,,197,62,135
+Poweshiek,"3rd Ward, GR - 08GR",District 8A Associate Judge - Jennifer Nicole Jensen,,No,,137,41,96
+Poweshiek,"4th Ward, GR - 09GR",District 8A Associate Judge - Jennifer Nicole Jensen,,No,,136,43,93
+Poweshiek,BMWJ,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,223,53,170
+Poweshiek,CGWS,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,130,49,81
+Poweshiek,DRL,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,46,11,35
+Poweshiek,JUPS,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,138,58,80
+Poweshiek,MS,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,66,20,46
+Poweshiek,Montezuma - 11MO,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,65,21,44
+Poweshiek,"1st Ward, GR - 06GR",District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,480,224,256
+Poweshiek,"2nd Ward, GR - 07GR",District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,661,222,439
+Poweshiek,"3rd Ward, GR - 08GR",District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,474,152,322
+Poweshiek,"4th Ward, GR - 09GR",District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,515,235,280
+Poweshiek,BMWJ,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,697,173,524
+Poweshiek,CGWS,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,421,141,280
+Poweshiek,DRL,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,182,32,150
+Poweshiek,JUPS,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,409,177,232
+Poweshiek,MS,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,181,47,134
+Poweshiek,Montezuma - 11MO,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,309,82,227
+Poweshiek,"1st Ward, GR - 06GR",District 8A Associate Judge - Susan Cole,,No,,118,51,67
+Poweshiek,"2nd Ward, GR - 07GR",District 8A Associate Judge - Susan Cole,,No,,196,60,136
+Poweshiek,"3rd Ward, GR - 08GR",District 8A Associate Judge - Susan Cole,,No,,157,46,111
+Poweshiek,"4th Ward, GR - 09GR",District 8A Associate Judge - Susan Cole,,No,,142,45,97
+Poweshiek,BMWJ,District 8A Associate Judge - Susan Cole,,No,,237,56,181
+Poweshiek,CGWS,District 8A Associate Judge - Susan Cole,,No,,135,47,88
+Poweshiek,DRL,District 8A Associate Judge - Susan Cole,,No,,48,12,36
+Poweshiek,JUPS,District 8A Associate Judge - Susan Cole,,No,,141,62,79
+Poweshiek,MS,District 8A Associate Judge - Susan Cole,,No,,65,19,46
+Poweshiek,Montezuma - 11MO,District 8A Associate Judge - Susan Cole,,No,,66,22,44
+Poweshiek,"1st Ward, GR - 06GR",District 8A Associate Judge - Susan Cole,,Yes,,470,218,252
+Poweshiek,"2nd Ward, GR - 07GR",District 8A Associate Judge - Susan Cole,,Yes,,650,219,431
+Poweshiek,"3rd Ward, GR - 08GR",District 8A Associate Judge - Susan Cole,,Yes,,449,145,304
+Poweshiek,"4th Ward, GR - 09GR",District 8A Associate Judge - Susan Cole,,Yes,,499,230,269
+Poweshiek,BMWJ,District 8A Associate Judge - Susan Cole,,Yes,,678,167,511
+Poweshiek,CGWS,District 8A Associate Judge - Susan Cole,,Yes,,412,142,270
+Poweshiek,DRL,District 8A Associate Judge - Susan Cole,,Yes,,176,30,146
+Poweshiek,JUPS,District 8A Associate Judge - Susan Cole,,Yes,,403,175,228
+Poweshiek,MS,District 8A Associate Judge - Susan Cole,,Yes,,174,47,127
+Poweshiek,Montezuma - 11MO,District 8A Associate Judge - Susan Cole,,Yes,,301,77,224
+Poweshiek,"1st Ward, GR - 06GR",District 8A Judge - Amber L. Thompson,,No,,108,52,56
+Poweshiek,"2nd Ward, GR - 07GR",District 8A Judge - Amber L. Thompson,,No,,201,62,139
+Poweshiek,"3rd Ward, GR - 08GR",District 8A Judge - Amber L. Thompson,,No,,144,40,104
+Poweshiek,"4th Ward, GR - 09GR",District 8A Judge - Amber L. Thompson,,No,,140,44,96
+Poweshiek,BMWJ,District 8A Judge - Amber L. Thompson,,No,,227,58,169
+Poweshiek,CGWS,District 8A Judge - Amber L. Thompson,,No,,130,47,83
+Poweshiek,DRL,District 8A Judge - Amber L. Thompson,,No,,42,12,30
+Poweshiek,JUPS,District 8A Judge - Amber L. Thompson,,No,,135,56,79
+Poweshiek,MS,District 8A Judge - Amber L. Thompson,,No,,61,19,42
+Poweshiek,Montezuma - 11MO,District 8A Judge - Amber L. Thompson,,No,,61,22,39
+Poweshiek,"1st Ward, GR - 06GR",District 8A Judge - Amber L. Thompson,,Yes,,482,218,264
+Poweshiek,"2nd Ward, GR - 07GR",District 8A Judge - Amber L. Thompson,,Yes,,658,222,436
+Poweshiek,"3rd Ward, GR - 08GR",District 8A Judge - Amber L. Thompson,,Yes,,466,152,314
+Poweshiek,"4th Ward, GR - 09GR",District 8A Judge - Amber L. Thompson,,Yes,,515,235,280
+Poweshiek,BMWJ,District 8A Judge - Amber L. Thompson,,Yes,,694,168,526
+Poweshiek,CGWS,District 8A Judge - Amber L. Thompson,,Yes,,420,139,281
+Poweshiek,DRL,District 8A Judge - Amber L. Thompson,,Yes,,193,31,162
+Poweshiek,JUPS,District 8A Judge - Amber L. Thompson,,Yes,,412,182,230
+Poweshiek,MS,District 8A Judge - Amber L. Thompson,,Yes,,180,47,133
+Poweshiek,Montezuma - 11MO,District 8A Judge - Amber L. Thompson,,Yes,,313,83,230
+Poweshiek,"1st Ward, GR - 06GR",District 8A Judge - Dustin Hite,,No,,191,101,90
+Poweshiek,"2nd Ward, GR - 07GR",District 8A Judge - Dustin Hite,,No,,253,82,171
+Poweshiek,"3rd Ward, GR - 08GR",District 8A Judge - Dustin Hite,,No,,189,62,127
+Poweshiek,"4th Ward, GR - 09GR",District 8A Judge - Dustin Hite,,No,,189,64,125
+Poweshiek,BMWJ,District 8A Judge - Dustin Hite,,No,,263,75,188
+Poweshiek,CGWS,District 8A Judge - Dustin Hite,,No,,134,52,82
+Poweshiek,DRL,District 8A Judge - Dustin Hite,,No,,57,16,41
+Poweshiek,JUPS,District 8A Judge - Dustin Hite,,No,,144,63,81
+Poweshiek,MS,District 8A Judge - Dustin Hite,,No,,67,22,45
+Poweshiek,Montezuma - 11MO,District 8A Judge - Dustin Hite,,No,,66,27,39
+Poweshiek,"1st Ward, GR - 06GR",District 8A Judge - Dustin Hite,,Yes,,394,171,223
+Poweshiek,"2nd Ward, GR - 07GR",District 8A Judge - Dustin Hite,,Yes,,602,203,399
+Poweshiek,"3rd Ward, GR - 08GR",District 8A Judge - Dustin Hite,,Yes,,414,126,288
+Poweshiek,"4th Ward, GR - 09GR",District 8A Judge - Dustin Hite,,Yes,,458,217,241
+Poweshiek,BMWJ,District 8A Judge - Dustin Hite,,Yes,,650,150,500
+Poweshiek,CGWS,District 8A Judge - Dustin Hite,,Yes,,425,140,285
+Poweshiek,DRL,District 8A Judge - Dustin Hite,,Yes,,175,28,147
+Poweshiek,JUPS,District 8A Judge - Dustin Hite,,Yes,,419,182,237
+Poweshiek,MS,District 8A Judge - Dustin Hite,,Yes,,175,43,132
+Poweshiek,Montezuma - 11MO,District 8A Judge - Dustin Hite,,Yes,,312,79,233
+Poweshiek,"1st Ward, GR - 06GR",Governor,,Rob Sand and Dave Muhlbauer,DEM,789,405,384
+Poweshiek,"2nd Ward, GR - 07GR",Governor,,Rob Sand and Dave Muhlbauer,DEM,753,320,433
+Poweshiek,"3rd Ward, GR - 08GR",Governor,,Rob Sand and Dave Muhlbauer,DEM,561,206,355
+Poweshiek,"4th Ward, GR - 09GR",Governor,,Rob Sand and Dave Muhlbauer,DEM,644,324,320
+Poweshiek,BMWJ,Governor,,Rob Sand and Dave Muhlbauer,DEM,579,231,348
+Poweshiek,CGWS,Governor,,Rob Sand and Dave Muhlbauer,DEM,288,116,172
+Poweshiek,DRL,Governor,,Rob Sand and Dave Muhlbauer,DEM,102,33,69
+Poweshiek,JUPS,Governor,,Rob Sand and Dave Muhlbauer,DEM,300,172,128
+Poweshiek,MS,Governor,,Rob Sand and Dave Muhlbauer,DEM,136,54,82
+Poweshiek,Montezuma - 11MO,Governor,,Rob Sand and Dave Muhlbauer,DEM,200,77,123
+Poweshiek,"1st Ward, GR - 06GR",Governor,,Write-In,,1,0,1
+Poweshiek,"2nd Ward, GR - 07GR",Governor,,Write-In,,3,1,2
+Poweshiek,"3rd Ward, GR - 08GR",Governor,,Write-In,,2,0,2
+Poweshiek,"4th Ward, GR - 09GR",Governor,,Write-In,,1,1,0
+Poweshiek,BMWJ,Governor,,Write-In,,5,1,4
+Poweshiek,CGWS,Governor,,Write-In,,1,0,1
+Poweshiek,DRL,Governor,,Write-In,,2,1,1
+Poweshiek,JUPS,Governor,,Write-In,,1,0,1
+Poweshiek,MS,Governor,,Write-In,,0,0,0
+Poweshiek,Montezuma - 11MO,Governor,,Write-In,,0,0,0
+Poweshiek,"1st Ward, GR - 06GR",Governor,,Zach Lahn and Derek Wulf,REP,173,48,125
+Poweshiek,"2nd Ward, GR - 07GR",Governor,,Zach Lahn and Derek Wulf,REP,398,86,312
+Poweshiek,"3rd Ward, GR - 08GR",Governor,,Zach Lahn and Derek Wulf,REP,264,58,206
+Poweshiek,"4th Ward, GR - 09GR",Governor,,Zach Lahn and Derek Wulf,REP,333,99,234
+Poweshiek,BMWJ,Governor,,Zach Lahn and Derek Wulf,REP,750,163,587
+Poweshiek,CGWS,Governor,,Zach Lahn and Derek Wulf,REP,510,177,333
+Poweshiek,DRL,Governor,,Zach Lahn and Derek Wulf,REP,216,44,172
+Poweshiek,JUPS,Governor,,Zach Lahn and Derek Wulf,REP,567,227,340
+Poweshiek,MS,Governor,,Zach Lahn and Derek Wulf,REP,204,48,156
+Poweshiek,Montezuma - 11MO,Governor,,Zach Lahn and Derek Wulf,REP,341,99,242
+Poweshiek,CGWS,Grant Township Clerk,,Duane Roland,,197,54,143
+Poweshiek,CGWS,Grant Township Clerk,,Write-In,,0,0,0
+Poweshiek,CGWS,Grant Township Trustee,,Write-In,,0,0,0
+Poweshiek,CGWS,Grant Township Trustee,,Zach Van Arkel,,207,58,149
+Poweshiek,JUPS,Jackson Township Trustee,,Donald J. Armstrong,,123,45,78
+Poweshiek,JUPS,Jackson Township Trustee,,Mike Phillips,,131,48,83
+Poweshiek,JUPS,Jackson Township Trustee,,Write-In,,0,0,0
+Poweshiek,JUPS,Jackson Township Trustee,,Write-In,,0,0,0
+Poweshiek,BMWJ,Jefferson Township Clerk,,Michael S. Fredericks,,75,22,53
+Poweshiek,BMWJ,Jefferson Township Clerk,,Write-In,,0,0,0
+Poweshiek,BMWJ,Jefferson Township Trustee,,Dean Papesh,,73,21,52
+Poweshiek,BMWJ,Jefferson Township Trustee,,Write-In,,1,0,1
+Poweshiek,BMWJ,Kirkwood Community College - Public Measure NC,,No,,62,16,46
+Poweshiek,DRL,Kirkwood Community College - Public Measure NC,,No,,60,7,53
+Poweshiek,BMWJ,Kirkwood Community College - Public Measure NC,,Yes,,131,40,91
+Poweshiek,DRL,Kirkwood Community College - Public Measure NC,,Yes,,98,22,76
+Poweshiek,DRL,Lincoln Township Clerk,,Laurie Grier,,91,24,67
+Poweshiek,DRL,Lincoln Township Clerk,,Write-In,,0,0,0
+Poweshiek,DRL,Lincoln Township Trustee,,David Wayne King,,90,23,67
+Poweshiek,DRL,Lincoln Township Trustee,,Write-In,,2,0,2
+Poweshiek,BMWJ,Madison Township Clerk,,Russ Schuck,,272,97,175
+Poweshiek,BMWJ,Madison Township Clerk,,Write-In,,1,0,1
+Poweshiek,BMWJ,Madison Township Trustee,,Marvin Keller,,282,100,182
+Poweshiek,BMWJ,Madison Township Trustee,,Write-In,,1,0,1
+Poweshiek,BMWJ,Madison Township Trustee To Fill a Vacancy,,Wayne Ross,,276,98,178
+Poweshiek,BMWJ,Madison Township Trustee To Fill a Vacancy,,Write-In,,1,0,1
+Poweshiek,MS,Malcom Township Clerk,,Faye Klenk,,119,30,89
+Poweshiek,MS,Malcom Township Clerk,,Write-In,,0,0,0
+Poweshiek,MS,Malcom Township Trustee,,Rusty Massengale,,117,29,88
+Poweshiek,MS,Malcom Township Trustee,,Write-In,,1,0,1
+Poweshiek,JUPS,Pleasant Township Clerk,,Write-In,,11,6,5
+Poweshiek,JUPS,Pleasant Township Trustee,,Write-In,,17,7,10
+Poweshiek,JUPS,Scott Township Clerk,,Stacy Helm,,87,26,61
+Poweshiek,JUPS,Scott Township Clerk,,Write-In,,0,0,0
+Poweshiek,JUPS,Scott Township Trustee,,Jessica Lacaeyse,,90,26,64
+Poweshiek,JUPS,Scott Township Trustee,,Write-In,,0,0,0
+Poweshiek,JUPS,Scott Township Trustee To Fill a Vacancy,,Joel Lacaeyse,,86,26,60
+Poweshiek,JUPS,Scott Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
+Poweshiek,"1st Ward, GR - 06GR",Secretary of Agriculture,,Chris Jones,DEM,720,379,341
+Poweshiek,"2nd Ward, GR - 07GR",Secretary of Agriculture,,Chris Jones,DEM,649,288,361
+Poweshiek,"3rd Ward, GR - 08GR",Secretary of Agriculture,,Chris Jones,DEM,476,185,291
+Poweshiek,"4th Ward, GR - 09GR",Secretary of Agriculture,,Chris Jones,DEM,550,284,266
+Poweshiek,BMWJ,Secretary of Agriculture,,Chris Jones,DEM,435,193,242
+Poweshiek,CGWS,Secretary of Agriculture,,Chris Jones,DEM,206,84,122
+Poweshiek,DRL,Secretary of Agriculture,,Chris Jones,DEM,72,28,44
+Poweshiek,JUPS,Secretary of Agriculture,,Chris Jones,DEM,190,119,71
+Poweshiek,MS,Secretary of Agriculture,,Chris Jones,DEM,98,43,55
+Poweshiek,Montezuma - 11MO,Secretary of Agriculture,,Chris Jones,DEM,117,50,67
+Poweshiek,"1st Ward, GR - 06GR",Secretary of Agriculture,,Mike Naig,REP,215,68,147
+Poweshiek,"2nd Ward, GR - 07GR",Secretary of Agriculture,,Mike Naig,REP,497,116,381
+Poweshiek,"3rd Ward, GR - 08GR",Secretary of Agriculture,,Mike Naig,REP,325,76,249
+Poweshiek,"4th Ward, GR - 09GR",Secretary of Agriculture,,Mike Naig,REP,400,135,265
+Poweshiek,BMWJ,Secretary of Agriculture,,Mike Naig,REP,871,190,681
+Poweshiek,CGWS,Secretary of Agriculture,,Mike Naig,REP,587,208,379
+Poweshiek,DRL,Secretary of Agriculture,,Mike Naig,REP,242,47,195
+Poweshiek,JUPS,Secretary of Agriculture,,Mike Naig,REP,658,273,385
+Poweshiek,MS,Secretary of Agriculture,,Mike Naig,REP,240,58,182
+Poweshiek,Montezuma - 11MO,Secretary of Agriculture,,Mike Naig,REP,409,120,289
+Poweshiek,"1st Ward, GR - 06GR",Secretary of Agriculture,,Write-In,,0,0,0
+Poweshiek,"2nd Ward, GR - 07GR",Secretary of Agriculture,,Write-In,,0,0,0
+Poweshiek,"3rd Ward, GR - 08GR",Secretary of Agriculture,,Write-In,,3,0,3
+Poweshiek,"4th Ward, GR - 09GR",Secretary of Agriculture,,Write-In,,0,0,0
+Poweshiek,BMWJ,Secretary of Agriculture,,Write-In,,0,0,0
+Poweshiek,CGWS,Secretary of Agriculture,,Write-In,,1,0,1
+Poweshiek,DRL,Secretary of Agriculture,,Write-In,,0,0,0
+Poweshiek,JUPS,Secretary of Agriculture,,Write-In,,1,0,1
+Poweshiek,MS,Secretary of Agriculture,,Write-In,,0,0,0
+Poweshiek,Montezuma - 11MO,Secretary of Agriculture,,Write-In,,0,0,0
+Poweshiek,"1st Ward, GR - 06GR",Secretary of State,,Paul D. Pate,REP,220,64,156
+Poweshiek,"2nd Ward, GR - 07GR",Secretary of State,,Paul D. Pate,REP,519,124,395
+Poweshiek,"3rd Ward, GR - 08GR",Secretary of State,,Paul D. Pate,REP,323,74,249
+Poweshiek,"4th Ward, GR - 09GR",Secretary of State,,Paul D. Pate,REP,408,136,272
+Poweshiek,BMWJ,Secretary of State,,Paul D. Pate,REP,895,196,699
+Poweshiek,CGWS,Secretary of State,,Paul D. Pate,REP,591,203,388
+Poweshiek,DRL,Secretary of State,,Paul D. Pate,REP,245,49,196
+Poweshiek,JUPS,Secretary of State,,Paul D. Pate,REP,670,276,394
+Poweshiek,MS,Secretary of State,,Paul D. Pate,REP,229,53,176
+Poweshiek,Montezuma - 11MO,Secretary of State,,Paul D. Pate,REP,410,120,290
+Poweshiek,"1st Ward, GR - 06GR",Secretary of State,,Ryan Peterman,DEM,721,385,336
+Poweshiek,"2nd Ward, GR - 07GR",Secretary of State,,Ryan Peterman,DEM,623,278,345
+Poweshiek,"3rd Ward, GR - 08GR",Secretary of State,,Ryan Peterman,DEM,488,189,299
+Poweshiek,"4th Ward, GR - 09GR",Secretary of State,,Ryan Peterman,DEM,555,289,266
+Poweshiek,BMWJ,Secretary of State,,Ryan Peterman,DEM,423,192,231
+Poweshiek,CGWS,Secretary of State,,Ryan Peterman,DEM,202,88,114
+Poweshiek,DRL,Secretary of State,,Ryan Peterman,DEM,69,27,42
+Poweshiek,JUPS,Secretary of State,,Ryan Peterman,DEM,187,121,66
+Poweshiek,MS,Secretary of State,,Ryan Peterman,DEM,106,47,59
+Poweshiek,Montezuma - 11MO,Secretary of State,,Ryan Peterman,DEM,118,50,68
+Poweshiek,"1st Ward, GR - 06GR",Secretary of State,,Write-In,,0,0,0
+Poweshiek,"2nd Ward, GR - 07GR",Secretary of State,,Write-In,,0,0,0
+Poweshiek,"3rd Ward, GR - 08GR",Secretary of State,,Write-In,,2,0,2
+Poweshiek,"4th Ward, GR - 09GR",Secretary of State,,Write-In,,0,0,0
+Poweshiek,BMWJ,Secretary of State,,Write-In,,0,0,0
+Poweshiek,CGWS,Secretary of State,,Write-In,,0,0,0
+Poweshiek,DRL,Secretary of State,,Write-In,,0,0,0
+Poweshiek,JUPS,Secretary of State,,Write-In,,0,0,0
+Poweshiek,MS,Secretary of State,,Write-In,,0,0,0
+Poweshiek,Montezuma - 11MO,Secretary of State,,Write-In,,0,0,0
+Poweshiek,MS,Sheridan Township Clerk,,Write-In,,4,2,2
+Poweshiek,MS,Sheridan Township Trustee,,Write-In,,5,3,2
+Poweshiek,"1st Ward, GR - 06GR",Soil and Water Conservation District Commissioner,,John Mann,,491,206,285
+Poweshiek,"2nd Ward, GR - 07GR",Soil and Water Conservation District Commissioner,,John Mann,,704,244,460
+Poweshiek,"3rd Ward, GR - 08GR",Soil and Water Conservation District Commissioner,,John Mann,,457,149,308
+Poweshiek,"4th Ward, GR - 09GR",Soil and Water Conservation District Commissioner,,John Mann,,564,251,313
+Poweshiek,BMWJ,Soil and Water Conservation District Commissioner,,John Mann,,865,222,643
+Poweshiek,CGWS,Soil and Water Conservation District Commissioner,,John Mann,,531,179,352
+Poweshiek,DRL,Soil and Water Conservation District Commissioner,,John Mann,,232,50,182
+Poweshiek,JUPS,Soil and Water Conservation District Commissioner,,John Mann,,565,239,326
+Poweshiek,MS,Soil and Water Conservation District Commissioner,,John Mann,,243,61,182
+Poweshiek,Montezuma - 11MO,Soil and Water Conservation District Commissioner,,John Mann,,421,125,296
+Poweshiek,"1st Ward, GR - 06GR",Soil and Water Conservation District Commissioner,,Mike Phillips,,501,211,290
+Poweshiek,"2nd Ward, GR - 07GR",Soil and Water Conservation District Commissioner,,Mike Phillips,,697,232,465
+Poweshiek,"3rd Ward, GR - 08GR",Soil and Water Conservation District Commissioner,,Mike Phillips,,454,144,310
+Poweshiek,"4th Ward, GR - 09GR",Soil and Water Conservation District Commissioner,,Mike Phillips,,554,251,303
+Poweshiek,BMWJ,Soil and Water Conservation District Commissioner,,Mike Phillips,,783,201,582
+Poweshiek,CGWS,Soil and Water Conservation District Commissioner,,Mike Phillips,,489,170,319
+Poweshiek,DRL,Soil and Water Conservation District Commissioner,,Mike Phillips,,221,49,172
+Poweshiek,JUPS,Soil and Water Conservation District Commissioner,,Mike Phillips,,524,234,290
+Poweshiek,MS,Soil and Water Conservation District Commissioner,,Mike Phillips,,208,57,151
+Poweshiek,Montezuma - 11MO,Soil and Water Conservation District Commissioner,,Mike Phillips,,378,102,276
+Poweshiek,"1st Ward, GR - 06GR",Soil and Water Conservation District Commissioner,,Write-In,,9,4,5
+Poweshiek,"2nd Ward, GR - 07GR",Soil and Water Conservation District Commissioner,,Write-In,,6,3,3
+Poweshiek,"3rd Ward, GR - 08GR",Soil and Water Conservation District Commissioner,,Write-In,,14,4,10
+Poweshiek,"4th Ward, GR - 09GR",Soil and Water Conservation District Commissioner,,Write-In,,9,4,5
+Poweshiek,BMWJ,Soil and Water Conservation District Commissioner,,Write-In,,7,0,7
+Poweshiek,CGWS,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Poweshiek,DRL,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Poweshiek,JUPS,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Poweshiek,MS,Soil and Water Conservation District Commissioner,,Write-In,,4,0,4
+Poweshiek,Montezuma - 11MO,Soil and Water Conservation District Commissioner,,Write-In,,2,2,0
+Poweshiek,"1st Ward, GR - 06GR",State House,53,Berleen Wobeter,DEM,737,394,343
+Poweshiek,"2nd Ward, GR - 07GR",State House,53,Berleen Wobeter,DEM,685,302,383
+Poweshiek,"3rd Ward, GR - 08GR",State House,53,Berleen Wobeter,DEM,494,194,300
+Poweshiek,"4th Ward, GR - 09GR",State House,53,Berleen Wobeter,DEM,585,307,278
+Poweshiek,BMWJ,State House,53,Berleen Wobeter,DEM,463,201,262
+Poweshiek,CGWS,State House,53,Berleen Wobeter,DEM,229,94,135
+Poweshiek,DRL,State House,53,Berleen Wobeter,DEM,74,27,47
+Poweshiek,JUPS,State House,53,Berleen Wobeter,DEM,202,131,71
+Poweshiek,MS,State House,53,Berleen Wobeter,DEM,114,50,64
+Poweshiek,Montezuma - 11MO,State House,53,Berleen Wobeter,DEM,128,54,74
+Poweshiek,"1st Ward, GR - 06GR",State House,53,Dean Fisher,REP,197,53,144
+Poweshiek,"2nd Ward, GR - 07GR",State House,53,Dean Fisher,REP,448,98,350
+Poweshiek,"3rd Ward, GR - 08GR",State House,53,Dean Fisher,REP,308,66,242
+Poweshiek,"4th Ward, GR - 09GR",State House,53,Dean Fisher,REP,362,108,254
+Poweshiek,BMWJ,State House,53,Dean Fisher,REP,831,178,653
+Poweshiek,CGWS,State House,53,Dean Fisher,REP,553,196,357
+Poweshiek,DRL,State House,53,Dean Fisher,REP,238,45,193
+Poweshiek,JUPS,State House,53,Dean Fisher,REP,637,258,379
+Poweshiek,MS,State House,53,Dean Fisher,REP,222,53,169
+Poweshiek,Montezuma - 11MO,State House,53,Dean Fisher,REP,388,111,277
+Poweshiek,"1st Ward, GR - 06GR",State House,53,Write-In,,2,0,2
+Poweshiek,"2nd Ward, GR - 07GR",State House,53,Write-In,,1,0,1
+Poweshiek,"3rd Ward, GR - 08GR",State House,53,Write-In,,2,0,2
+Poweshiek,"4th Ward, GR - 09GR",State House,53,Write-In,,2,1,1
+Poweshiek,BMWJ,State House,53,Write-In,,1,1,0
+Poweshiek,CGWS,State House,53,Write-In,,0,0,0
+Poweshiek,DRL,State House,53,Write-In,,2,2,0
+Poweshiek,JUPS,State House,53,Write-In,,0,0,0
+Poweshiek,MS,State House,53,Write-In,,0,0,0
+Poweshiek,Montezuma - 11MO,State House,53,Write-In,,0,0,0
+Poweshiek,"1st Ward, GR - 06GR",State Senate,27,Annette Sweeney,REP,408,147,261
+Poweshiek,"2nd Ward, GR - 07GR",State Senate,27,Annette Sweeney,REP,704,192,512
+Poweshiek,"3rd Ward, GR - 08GR",State Senate,27,Annette Sweeney,REP,497,122,375
+Poweshiek,"4th Ward, GR - 09GR",State Senate,27,Annette Sweeney,REP,567,214,353
+Poweshiek,BMWJ,State Senate,27,Annette Sweeney,REP,993,233,760
+Poweshiek,CGWS,State Senate,27,Annette Sweeney,REP,636,217,419
+Poweshiek,DRL,State Senate,27,Annette Sweeney,REP,262,46,216
+Poweshiek,JUPS,State Senate,27,Annette Sweeney,REP,701,288,413
+Poweshiek,MS,State Senate,27,Annette Sweeney,REP,264,62,202
+Poweshiek,Montezuma - 11MO,State Senate,27,Annette Sweeney,REP,435,124,311
+Poweshiek,"1st Ward, GR - 06GR",State Senate,27,Write-In,,53,37,16
+Poweshiek,"2nd Ward, GR - 07GR",State Senate,27,Write-In,,52,29,23
+Poweshiek,"3rd Ward, GR - 08GR",State Senate,27,Write-In,,36,11,25
+Poweshiek,"4th Ward, GR - 09GR",State Senate,27,Write-In,,47,20,27
+Poweshiek,BMWJ,State Senate,27,Write-In,,22,5,17
+Poweshiek,CGWS,State Senate,27,Write-In,,14,6,8
+Poweshiek,DRL,State Senate,27,Write-In,,9,4,5
+Poweshiek,JUPS,State Senate,27,Write-In,,9,5,4
+Poweshiek,MS,State Senate,27,Write-In,,6,3,3
+Poweshiek,Montezuma - 11MO,State Senate,27,Write-In,,2,0,2
+Poweshiek,CGWS,Sugar Creek Township Clerk,,Verlan Vos,,118,56,62
+Poweshiek,CGWS,Sugar Creek Township Clerk,,Write-In,,1,0,1
+Poweshiek,CGWS,Sugar Creek Township Trustee,,Fritz James,,113,53,60
+Poweshiek,CGWS,Sugar Creek Township Trustee,,Write-In,,4,1,3
+Poweshiek,"1st Ward, GR - 06GR",Treasurer of State,,John Norwood,DEM,727,387,340
+Poweshiek,"2nd Ward, GR - 07GR",Treasurer of State,,John Norwood,DEM,663,296,367
+Poweshiek,"3rd Ward, GR - 08GR",Treasurer of State,,John Norwood,DEM,499,194,305
+Poweshiek,"4th Ward, GR - 09GR",Treasurer of State,,John Norwood,DEM,573,301,272
+Poweshiek,BMWJ,Treasurer of State,,John Norwood,DEM,472,205,267
+Poweshiek,CGWS,Treasurer of State,,John Norwood,DEM,230,103,127
+Poweshiek,DRL,Treasurer of State,,John Norwood,DEM,83,30,53
+Poweshiek,JUPS,Treasurer of State,,John Norwood,DEM,207,135,72
+Poweshiek,MS,Treasurer of State,,John Norwood,DEM,112,49,63
+Poweshiek,Montezuma - 11MO,Treasurer of State,,John Norwood,DEM,133,56,77
+Poweshiek,"1st Ward, GR - 06GR",Treasurer of State,,Roby Smith,REP,197,57,140
+Poweshiek,"2nd Ward, GR - 07GR",Treasurer of State,,Roby Smith,REP,467,102,365
+Poweshiek,"3rd Ward, GR - 08GR",Treasurer of State,,Roby Smith,REP,304,66,238
+Poweshiek,"4th Ward, GR - 09GR",Treasurer of State,,Roby Smith,REP,378,122,256
+Poweshiek,BMWJ,Treasurer of State,,Roby Smith,REP,825,176,649
+Poweshiek,CGWS,Treasurer of State,,Roby Smith,REP,547,182,365
+Poweshiek,DRL,Treasurer of State,,Roby Smith,REP,226,44,182
+Poweshiek,JUPS,Treasurer of State,,Roby Smith,REP,631,255,376
+Poweshiek,MS,Treasurer of State,,Roby Smith,REP,222,52,170
+Poweshiek,Montezuma - 11MO,Treasurer of State,,Roby Smith,REP,382,111,271
+Poweshiek,"1st Ward, GR - 06GR",Treasurer of State,,Write-In,,1,0,1
+Poweshiek,"2nd Ward, GR - 07GR",Treasurer of State,,Write-In,,0,0,0
+Poweshiek,"3rd Ward, GR - 08GR",Treasurer of State,,Write-In,,2,0,2
+Poweshiek,"4th Ward, GR - 09GR",Treasurer of State,,Write-In,,0,0,0
+Poweshiek,BMWJ,Treasurer of State,,Write-In,,0,0,0
+Poweshiek,CGWS,Treasurer of State,,Write-In,,0,0,0
+Poweshiek,DRL,Treasurer of State,,Write-In,,0,0,0
+Poweshiek,JUPS,Treasurer of State,,Write-In,,2,1,1
+Poweshiek,MS,Treasurer of State,,Write-In,,0,0,0
+Poweshiek,Montezuma - 11MO,Treasurer of State,,Write-In,,0,0,0
+Poweshiek,"1st Ward, GR - 06GR",U.S. House,2,Dave Bushaw,,11,3,8
+Poweshiek,"2nd Ward, GR - 07GR",U.S. House,2,Dave Bushaw,,9,1,8
+Poweshiek,"3rd Ward, GR - 08GR",U.S. House,2,Dave Bushaw,,14,5,9
+Poweshiek,"4th Ward, GR - 09GR",U.S. House,2,Dave Bushaw,,16,6,10
+Poweshiek,BMWJ,U.S. House,2,Dave Bushaw,,24,4,20
+Poweshiek,CGWS,U.S. House,2,Dave Bushaw,,4,0,4
+Poweshiek,DRL,U.S. House,2,Dave Bushaw,,7,3,4
+Poweshiek,JUPS,U.S. House,2,Dave Bushaw,,7,2,5
+Poweshiek,MS,U.S. House,2,Dave Bushaw,,7,2,5
+Poweshiek,Montezuma - 11MO,U.S. House,2,Dave Bushaw,,8,1,7
+Poweshiek,"1st Ward, GR - 06GR",U.S. House,2,Joe Mitchell,REP,186,48,138
+Poweshiek,"2nd Ward, GR - 07GR",U.S. House,2,Joe Mitchell,REP,440,97,343
+Poweshiek,"3rd Ward, GR - 08GR",U.S. House,2,Joe Mitchell,REP,282,64,218
+Poweshiek,"4th Ward, GR - 09GR",U.S. House,2,Joe Mitchell,REP,335,97,238
+Poweshiek,BMWJ,U.S. House,2,Joe Mitchell,REP,769,169,600
+Poweshiek,CGWS,U.S. House,2,Joe Mitchell,REP,536,188,348
+Poweshiek,DRL,U.S. House,2,Joe Mitchell,REP,207,40,167
+Poweshiek,JUPS,U.S. House,2,Joe Mitchell,REP,606,241,365
+Poweshiek,MS,U.S. House,2,Joe Mitchell,REP,215,49,166
+Poweshiek,Montezuma - 11MO,U.S. House,2,Joe Mitchell,REP,358,104,254
+Poweshiek,"1st Ward, GR - 06GR",U.S. House,2,Lindsay James,DEM,737,395,342
+Poweshiek,"2nd Ward, GR - 07GR",U.S. House,2,Lindsay James,DEM,662,292,370
+Poweshiek,"3rd Ward, GR - 08GR",U.S. House,2,Lindsay James,DEM,482,183,299
+Poweshiek,"4th Ward, GR - 09GR",U.S. House,2,Lindsay James,DEM,564,292,272
+Poweshiek,BMWJ,U.S. House,2,Lindsay James,DEM,451,201,250
+Poweshiek,CGWS,U.S. House,2,Lindsay James,DEM,223,92,131
+Poweshiek,DRL,U.S. House,2,Lindsay James,DEM,76,26,50
+Poweshiek,JUPS,U.S. House,2,Lindsay James,DEM,215,138,77
+Poweshiek,MS,U.S. House,2,Lindsay James,DEM,112,51,61
+Poweshiek,Montezuma - 11MO,U.S. House,2,Lindsay James,DEM,133,56,77
+Poweshiek,"1st Ward, GR - 06GR",U.S. House,2,Rick Stewart,LIB,10,5,5
+Poweshiek,"2nd Ward, GR - 07GR",U.S. House,2,Rick Stewart,LIB,20,5,15
+Poweshiek,"3rd Ward, GR - 08GR",U.S. House,2,Rick Stewart,LIB,27,4,23
+Poweshiek,"4th Ward, GR - 09GR",U.S. House,2,Rick Stewart,LIB,30,9,21
+Poweshiek,BMWJ,U.S. House,2,Rick Stewart,LIB,45,6,39
+Poweshiek,CGWS,U.S. House,2,Rick Stewart,LIB,25,6,19
+Poweshiek,DRL,U.S. House,2,Rick Stewart,LIB,12,2,10
+Poweshiek,JUPS,U.S. House,2,Rick Stewart,LIB,10,3,7
+Poweshiek,MS,U.S. House,2,Rick Stewart,LIB,1,0,1
+Poweshiek,Montezuma - 11MO,U.S. House,2,Rick Stewart,LIB,18,6,12
+Poweshiek,"1st Ward, GR - 06GR",U.S. House,2,Write-In,,1,0,1
+Poweshiek,"2nd Ward, GR - 07GR",U.S. House,2,Write-In,,0,0,0
+Poweshiek,"3rd Ward, GR - 08GR",U.S. House,2,Write-In,,2,0,2
+Poweshiek,"4th Ward, GR - 09GR",U.S. House,2,Write-In,,1,1,0
+Poweshiek,BMWJ,U.S. House,2,Write-In,,1,0,1
+Poweshiek,CGWS,U.S. House,2,Write-In,,1,0,1
+Poweshiek,DRL,U.S. House,2,Write-In,,0,0,0
+Poweshiek,JUPS,U.S. House,2,Write-In,,0,0,0
+Poweshiek,MS,U.S. House,2,Write-In,,0,0,0
+Poweshiek,Montezuma - 11MO,U.S. House,2,Write-In,,0,0,0
+Poweshiek,"1st Ward, GR - 06GR",U.S. Senate,,Ashley Hinson,REP,182,48,134
+Poweshiek,"2nd Ward, GR - 07GR",U.S. Senate,,Ashley Hinson,REP,432,98,334
+Poweshiek,"3rd Ward, GR - 08GR",U.S. Senate,,Ashley Hinson,REP,270,60,210
+Poweshiek,"4th Ward, GR - 09GR",U.S. Senate,,Ashley Hinson,REP,340,105,235
+Poweshiek,BMWJ,U.S. Senate,,Ashley Hinson,REP,776,166,610
+Poweshiek,CGWS,U.S. Senate,,Ashley Hinson,REP,527,182,345
+Poweshiek,DRL,U.S. Senate,,Ashley Hinson,REP,221,45,176
+Poweshiek,JUPS,U.S. Senate,,Ashley Hinson,REP,597,241,356
+Poweshiek,MS,U.S. Senate,,Ashley Hinson,REP,204,48,156
+Poweshiek,Montezuma - 11MO,U.S. Senate,,Ashley Hinson,REP,363,104,259
+Poweshiek,"1st Ward, GR - 06GR",U.S. Senate,,Josh Turek,DEM,760,399,361
+Poweshiek,"2nd Ward, GR - 07GR",U.S. Senate,,Josh Turek,DEM,674,295,379
+Poweshiek,"3rd Ward, GR - 08GR",U.S. Senate,,Josh Turek,DEM,500,189,311
+Poweshiek,"4th Ward, GR - 09GR",U.S. Senate,,Josh Turek,DEM,585,301,284
+Poweshiek,BMWJ,U.S. Senate,,Josh Turek,DEM,489,209,280
+Poweshiek,CGWS,U.S. Senate,,Josh Turek,DEM,237,103,134
+Poweshiek,DRL,U.S. Senate,,Josh Turek,DEM,79,27,52
+Poweshiek,JUPS,U.S. Senate,,Josh Turek,DEM,233,144,89
+Poweshiek,MS,U.S. Senate,,Josh Turek,DEM,118,51,67
+Poweshiek,Montezuma - 11MO,U.S. Senate,,Josh Turek,DEM,146,62,84
+Poweshiek,"1st Ward, GR - 06GR",U.S. Senate,,Thomas Laehn,LIB,19,7,12
+Poweshiek,"2nd Ward, GR - 07GR",U.S. Senate,,Thomas Laehn,LIB,34,8,26
+Poweshiek,"3rd Ward, GR - 08GR",U.S. Senate,,Thomas Laehn,LIB,41,8,33
+Poweshiek,"4th Ward, GR - 09GR",U.S. Senate,,Thomas Laehn,LIB,40,13,27
+Poweshiek,BMWJ,U.S. Senate,,Thomas Laehn,LIB,44,11,33
+Poweshiek,CGWS,U.S. Senate,,Thomas Laehn,LIB,29,5,24
+Poweshiek,DRL,U.S. Senate,,Thomas Laehn,LIB,11,3,8
+Poweshiek,JUPS,U.S. Senate,,Thomas Laehn,LIB,17,2,15
+Poweshiek,MS,U.S. Senate,,Thomas Laehn,LIB,17,4,13
+Poweshiek,Montezuma - 11MO,U.S. Senate,,Thomas Laehn,LIB,21,5,16
+Poweshiek,"1st Ward, GR - 06GR",U.S. Senate,,Write-In,,0,0,0
+Poweshiek,"2nd Ward, GR - 07GR",U.S. Senate,,Write-In,,0,0,0
+Poweshiek,"3rd Ward, GR - 08GR",U.S. Senate,,Write-In,,3,1,2
+Poweshiek,"4th Ward, GR - 09GR",U.S. Senate,,Write-In,,1,0,1
+Poweshiek,BMWJ,U.S. Senate,,Write-In,,1,0,1
+Poweshiek,CGWS,U.S. Senate,,Write-In,,2,0,2
+Poweshiek,DRL,U.S. Senate,,Write-In,,0,0,0
+Poweshiek,JUPS,U.S. Senate,,Write-In,,0,0,0
+Poweshiek,MS,U.S. Senate,,Write-In,,0,0,0
+Poweshiek,Montezuma - 11MO,U.S. Senate,,Write-In,,0,0,0
+Poweshiek,JUPS,Union Township Clerk,,Write-In,,13,8,5
+Poweshiek,JUPS,Union Township Trustee,,Write-In,,21,12,9
+Poweshiek,BMWJ,Warren Township Clerk,,Tricia Kilmer,,107,30,77
+Poweshiek,BMWJ,Warren Township Clerk,,Write-In,,0,0,0
+Poweshiek,BMWJ,Warren Township Trustee,,Jim Clayton,,108,31,77
+Poweshiek,BMWJ,Warren Township Trustee,,Write-In,,1,0,1
+Poweshiek,CGWS,Washington Township Clerk,,Peter Schalmo,,175,61,114
+Poweshiek,CGWS,Washington Township Clerk,,Write-In,,0,0,0
+Poweshiek,CGWS,Washington Township Trustee,,Jordan Harms,,176,59,117
+Poweshiek,CGWS,Washington Township Trustee,,Write-In,,1,0,1

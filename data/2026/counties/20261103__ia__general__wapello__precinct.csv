@@ -1,0 +1,1608 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Wapello,AD/BL/PO,Adams Township Clerk,,Lori Orman,,172,55,117
+Wapello,AD/BL/PO,Adams Township Clerk,,Write-In,,2,2,0
+Wapello,AD/BL/PO,Adams Township Trustee,,Mike Orman,,149,48,101
+Wapello,AD/BL/PO,Adams Township Trustee,,Scott Sandeen,,169,56,113
+Wapello,AD/BL/PO,Adams Township Trustee,,Write-In,,0,0,0
+Wapello,AGT/AGC/PL,Agency Township Clerk,,Danielle Batterson,,190,58,132
+Wapello,AGT/AGC/PL,Agency Township Clerk,,Write-In,,0,0,0
+Wapello,AGT/AGC/PL,Agency Township Trustee,,Carleton Leigh Dial,,180,55,125
+Wapello,AGT/AGC/PL,Agency Township Trustee,,Write-In,,8,2,6
+Wapello,AD/BL/PO,Attorney General,,Brenna Bird,REP,411,87,324
+Wapello,AGT/AGC/PL,Attorney General,,Brenna Bird,REP,386,71,315
+Wapello,CB/EV,Attorney General,,Brenna Bird,REP,232,21,211
+Wapello,CN,Attorney General,,Brenna Bird,REP,421,168,253
+Wapello,CP,Attorney General,,Brenna Bird,REP,79,29,50
+Wapello,CS/CH,Attorney General,,Brenna Bird,REP,65,5,60
+Wapello,DA,Attorney General,,Brenna Bird,REP,156,50,106
+Wapello,GR,Attorney General,,Brenna Bird,REP,280,65,215
+Wapello,HI,Attorney General,,Brenna Bird,REP,107,21,86
+Wapello,KE,Attorney General,,Brenna Bird,REP,261,57,204
+Wapello,OT/01,Attorney General,,Brenna Bird,REP,321,119,202
+Wapello,OT/02,Attorney General,,Brenna Bird,REP,451,180,271
+Wapello,OT/03,Attorney General,,Brenna Bird,REP,548,206,342
+Wapello,OT/04,Attorney General,,Brenna Bird,REP,176,56,120
+Wapello,OT/05,Attorney General,,Brenna Bird,REP,208,98,110
+Wapello,OT/06,Attorney General,,Brenna Bird,REP,235,69,166
+Wapello,OT/07,Attorney General,,Brenna Bird,REP,240,55,185
+Wapello,OT/08,Attorney General,,Brenna Bird,REP,358,82,276
+Wapello,OT/09,Attorney General,,Brenna Bird,REP,407,141,266
+Wapello,OT/10,Attorney General,,Brenna Bird,REP,341,94,247
+Wapello,RL/KV,Attorney General,,Brenna Bird,REP,205,41,164
+Wapello,WA/EL,Attorney General,,Brenna Bird,REP,312,29,283
+Wapello,AD/BL/PO,Attorney General,,Nate Willems,DEM,160,83,77
+Wapello,AGT/AGC/PL,Attorney General,,Nate Willems,DEM,201,83,118
+Wapello,CB/EV,Attorney General,,Nate Willems,DEM,126,34,92
+Wapello,CN,Attorney General,,Nate Willems,DEM,183,103,80
+Wapello,CP,Attorney General,,Nate Willems,DEM,14,5,9
+Wapello,CS/CH,Attorney General,,Nate Willems,DEM,21,3,18
+Wapello,DA,Attorney General,,Nate Willems,DEM,80,40,40
+Wapello,GR,Attorney General,,Nate Willems,DEM,95,46,49
+Wapello,HI,Attorney General,,Nate Willems,DEM,33,9,24
+Wapello,KE,Attorney General,,Nate Willems,DEM,115,57,58
+Wapello,OT/01,Attorney General,,Nate Willems,DEM,311,146,165
+Wapello,OT/02,Attorney General,,Nate Willems,DEM,493,246,247
+Wapello,OT/03,Attorney General,,Nate Willems,DEM,594,292,302
+Wapello,OT/04,Attorney General,,Nate Willems,DEM,222,88,134
+Wapello,OT/05,Attorney General,,Nate Willems,DEM,282,168,114
+Wapello,OT/06,Attorney General,,Nate Willems,DEM,259,132,127
+Wapello,OT/07,Attorney General,,Nate Willems,DEM,262,119,143
+Wapello,OT/08,Attorney General,,Nate Willems,DEM,329,150,179
+Wapello,OT/09,Attorney General,,Nate Willems,DEM,422,201,221
+Wapello,OT/10,Attorney General,,Nate Willems,DEM,352,154,198
+Wapello,RL/KV,Attorney General,,Nate Willems,DEM,96,47,49
+Wapello,WA/EL,Attorney General,,Nate Willems,DEM,133,31,102
+Wapello,AD/BL/PO,Attorney General,,Write-In,,1,0,1
+Wapello,AGT/AGC/PL,Attorney General,,Write-In,,2,0,2
+Wapello,CB/EV,Attorney General,,Write-In,,1,1,0
+Wapello,CN,Attorney General,,Write-In,,1,0,1
+Wapello,CP,Attorney General,,Write-In,,0,0,0
+Wapello,CS/CH,Attorney General,,Write-In,,0,0,0
+Wapello,DA,Attorney General,,Write-In,,0,0,0
+Wapello,GR,Attorney General,,Write-In,,0,0,0
+Wapello,HI,Attorney General,,Write-In,,0,0,0
+Wapello,KE,Attorney General,,Write-In,,0,0,0
+Wapello,OT/01,Attorney General,,Write-In,,0,0,0
+Wapello,OT/02,Attorney General,,Write-In,,1,0,1
+Wapello,OT/03,Attorney General,,Write-In,,0,0,0
+Wapello,OT/04,Attorney General,,Write-In,,0,0,0
+Wapello,OT/05,Attorney General,,Write-In,,0,0,0
+Wapello,OT/06,Attorney General,,Write-In,,0,0,0
+Wapello,OT/07,Attorney General,,Write-In,,0,0,0
+Wapello,OT/08,Attorney General,,Write-In,,3,1,2
+Wapello,OT/09,Attorney General,,Write-In,,1,1,0
+Wapello,OT/10,Attorney General,,Write-In,,0,0,0
+Wapello,RL/KV,Attorney General,,Write-In,,0,0,0
+Wapello,WA/EL,Attorney General,,Write-In,,0,0,0
+Wapello,AD/BL/PO,Auditor of State,,Chris Cournoyer,REP,392,82,310
+Wapello,AGT/AGC/PL,Auditor of State,,Chris Cournoyer,REP,377,73,304
+Wapello,CB/EV,Auditor of State,,Chris Cournoyer,REP,237,21,216
+Wapello,CN,Auditor of State,,Chris Cournoyer,REP,412,163,249
+Wapello,CP,Auditor of State,,Chris Cournoyer,REP,70,26,44
+Wapello,CS/CH,Auditor of State,,Chris Cournoyer,REP,58,5,53
+Wapello,DA,Auditor of State,,Chris Cournoyer,REP,155,46,109
+Wapello,GR,Auditor of State,,Chris Cournoyer,REP,271,65,206
+Wapello,HI,Auditor of State,,Chris Cournoyer,REP,106,22,84
+Wapello,KE,Auditor of State,,Chris Cournoyer,REP,259,55,204
+Wapello,OT/01,Auditor of State,,Chris Cournoyer,REP,309,114,195
+Wapello,OT/02,Auditor of State,,Chris Cournoyer,REP,447,178,269
+Wapello,OT/03,Auditor of State,,Chris Cournoyer,REP,530,198,332
+Wapello,OT/04,Auditor of State,,Chris Cournoyer,REP,174,52,122
+Wapello,OT/05,Auditor of State,,Chris Cournoyer,REP,204,98,106
+Wapello,OT/06,Auditor of State,,Chris Cournoyer,REP,230,68,162
+Wapello,OT/07,Auditor of State,,Chris Cournoyer,REP,236,55,181
+Wapello,OT/08,Auditor of State,,Chris Cournoyer,REP,352,76,276
+Wapello,OT/09,Auditor of State,,Chris Cournoyer,REP,424,147,277
+Wapello,OT/10,Auditor of State,,Chris Cournoyer,REP,339,94,245
+Wapello,RL/KV,Auditor of State,,Chris Cournoyer,REP,206,39,167
+Wapello,WA/EL,Auditor of State,,Chris Cournoyer,REP,311,30,281
+Wapello,AD/BL/PO,Auditor of State,,Taylor Wettach,DEM,173,87,86
+Wapello,AGT/AGC/PL,Auditor of State,,Taylor Wettach,DEM,209,82,127
+Wapello,CB/EV,Auditor of State,,Taylor Wettach,DEM,121,33,88
+Wapello,CN,Auditor of State,,Taylor Wettach,DEM,184,103,81
+Wapello,CP,Auditor of State,,Taylor Wettach,DEM,19,6,13
+Wapello,CS/CH,Auditor of State,,Taylor Wettach,DEM,24,3,21
+Wapello,DA,Auditor of State,,Taylor Wettach,DEM,79,43,36
+Wapello,GR,Auditor of State,,Taylor Wettach,DEM,101,45,56
+Wapello,HI,Auditor of State,,Taylor Wettach,DEM,34,8,26
+Wapello,KE,Auditor of State,,Taylor Wettach,DEM,120,60,60
+Wapello,OT/01,Auditor of State,,Taylor Wettach,DEM,317,149,168
+Wapello,OT/02,Auditor of State,,Taylor Wettach,DEM,493,246,247
+Wapello,OT/03,Auditor of State,,Taylor Wettach,DEM,605,297,308
+Wapello,OT/04,Auditor of State,,Taylor Wettach,DEM,217,89,128
+Wapello,OT/05,Auditor of State,,Taylor Wettach,DEM,282,165,117
+Wapello,OT/06,Auditor of State,,Taylor Wettach,DEM,259,130,129
+Wapello,OT/07,Auditor of State,,Taylor Wettach,DEM,262,121,141
+Wapello,OT/08,Auditor of State,,Taylor Wettach,DEM,330,155,175
+Wapello,OT/09,Auditor of State,,Taylor Wettach,DEM,408,196,212
+Wapello,OT/10,Auditor of State,,Taylor Wettach,DEM,353,153,200
+Wapello,RL/KV,Auditor of State,,Taylor Wettach,DEM,96,50,46
+Wapello,WA/EL,Auditor of State,,Taylor Wettach,DEM,133,31,102
+Wapello,AD/BL/PO,Auditor of State,,Write-In,,1,0,1
+Wapello,AGT/AGC/PL,Auditor of State,,Write-In,,0,0,0
+Wapello,CB/EV,Auditor of State,,Write-In,,0,0,0
+Wapello,CN,Auditor of State,,Write-In,,2,1,1
+Wapello,CP,Auditor of State,,Write-In,,0,0,0
+Wapello,CS/CH,Auditor of State,,Write-In,,0,0,0
+Wapello,DA,Auditor of State,,Write-In,,0,0,0
+Wapello,GR,Auditor of State,,Write-In,,0,0,0
+Wapello,HI,Auditor of State,,Write-In,,0,0,0
+Wapello,KE,Auditor of State,,Write-In,,0,0,0
+Wapello,OT/01,Auditor of State,,Write-In,,0,0,0
+Wapello,OT/02,Auditor of State,,Write-In,,0,0,0
+Wapello,OT/03,Auditor of State,,Write-In,,0,0,0
+Wapello,OT/04,Auditor of State,,Write-In,,0,0,0
+Wapello,OT/05,Auditor of State,,Write-In,,0,0,0
+Wapello,OT/06,Auditor of State,,Write-In,,1,0,1
+Wapello,OT/07,Auditor of State,,Write-In,,0,0,0
+Wapello,OT/08,Auditor of State,,Write-In,,3,1,2
+Wapello,OT/09,Auditor of State,,Write-In,,0,0,0
+Wapello,OT/10,Auditor of State,,Write-In,,1,0,1
+Wapello,RL/KV,Auditor of State,,Write-In,,0,0,0
+Wapello,WA/EL,Auditor of State,,Write-In,,0,0,0
+Wapello,CS/CH,Cass Township Clerk,,Write-In,,3,1,2
+Wapello,CS/CH,Cass Township Trustee,,Glenn E. Harter,,52,4,48
+Wapello,CS/CH,Cass Township Trustee,,Randal Maloy,,39,2,37
+Wapello,CS/CH,Cass Township Trustee,,Write-In,,1,1,0
+Wapello,CN,Center Township Clerk,,Carolyn J. Walker,,472,196,276
+Wapello,OT/01,Center Township Clerk,,Carolyn J. Walker,,96,42,54
+Wapello,OT/03,Center Township Clerk,,Carolyn J. Walker,,8,5,3
+Wapello,OT/07,Center Township Clerk,,Carolyn J. Walker,,5,2,3
+Wapello,CN,Center Township Clerk,,Write-In,,5,0,5
+Wapello,OT/01,Center Township Clerk,,Write-In,,0,0,0
+Wapello,OT/03,Center Township Clerk,,Write-In,,0,0,0
+Wapello,OT/07,Center Township Clerk,,Write-In,,0,0,0
+Wapello,CN,Center Township Trustee,,David Yeager,,422,172,250
+Wapello,OT/01,Center Township Trustee,,David Yeager,,90,41,49
+Wapello,OT/03,Center Township Trustee,,David Yeager,,7,4,3
+Wapello,OT/07,Center Township Trustee,,David Yeager,,3,2,1
+Wapello,CN,Center Township Trustee,,Jerry Angle,,352,153,199
+Wapello,OT/01,Center Township Trustee,,Jerry Angle,,74,29,45
+Wapello,OT/03,Center Township Trustee,,Jerry Angle,,8,5,3
+Wapello,OT/07,Center Township Trustee,,Jerry Angle,,4,1,3
+Wapello,CN,Center Township Trustee,,Write-In,,12,4,8
+Wapello,OT/01,Center Township Trustee,,Write-In,,1,1,0
+Wapello,OT/03,Center Township Trustee,,Write-In,,1,1,0
+Wapello,OT/07,Center Township Trustee,,Write-In,,0,0,0
+Wapello,CB/EV,Columbia Township Clerk,,Megan Lehman,,86,8,78
+Wapello,CB/EV,Columbia Township Clerk,,Write-In,,0,0,0
+Wapello,CB/EV,Columbia Township Trustee,,Brad Lehman,,80,8,72
+Wapello,CB/EV,Columbia Township Trustee,,Duane Akers,,70,8,62
+Wapello,CB/EV,Columbia Township Trustee,,Write-In,,3,0,3
+Wapello,CP,Competine Township Clerk,,Joan Sterling,,85,31,54
+Wapello,CP,Competine Township Clerk,,Write-In,,0,0,0
+Wapello,CP,Competine Township Trustee,,James D. Sterling,,86,30,56
+Wapello,CP,Competine Township Trustee,,William S. Wilkening,,73,28,45
+Wapello,CP,Competine Township Trustee,,Write-In,,1,0,1
+Wapello,AD/BL/PO,Constitutional Amendment 1,,No,,189,64,125
+Wapello,AGT/AGC/PL,Constitutional Amendment 1,,No,,218,69,149
+Wapello,CB/EV,Constitutional Amendment 1,,No,,140,28,112
+Wapello,CN,Constitutional Amendment 1,,No,,205,93,112
+Wapello,CP,Constitutional Amendment 1,,No,,15,3,12
+Wapello,CS/CH,Constitutional Amendment 1,,No,,23,3,20
+Wapello,DA,Constitutional Amendment 1,,No,,79,33,46
+Wapello,GR,Constitutional Amendment 1,,No,,110,41,69
+Wapello,HI,Constitutional Amendment 1,,No,,39,7,32
+Wapello,KE,Constitutional Amendment 1,,No,,122,42,80
+Wapello,OT/01,Constitutional Amendment 1,,No,,228,95,133
+Wapello,OT/02,Constitutional Amendment 1,,No,,363,172,191
+Wapello,OT/03,Constitutional Amendment 1,,No,,436,202,234
+Wapello,OT/04,Constitutional Amendment 1,,No,,142,56,86
+Wapello,OT/05,Constitutional Amendment 1,,No,,193,116,77
+Wapello,OT/06,Constitutional Amendment 1,,No,,198,86,112
+Wapello,OT/07,Constitutional Amendment 1,,No,,222,82,140
+Wapello,OT/08,Constitutional Amendment 1,,No,,271,110,161
+Wapello,OT/09,Constitutional Amendment 1,,No,,314,131,183
+Wapello,OT/10,Constitutional Amendment 1,,No,,267,114,153
+Wapello,RL/KV,Constitutional Amendment 1,,No,,95,35,60
+Wapello,WA/EL,Constitutional Amendment 1,,No,,166,25,141
+Wapello,AD/BL/PO,Constitutional Amendment 1,,Yes,,346,94,252
+Wapello,AGT/AGC/PL,Constitutional Amendment 1,,Yes,,335,81,254
+Wapello,CB/EV,Constitutional Amendment 1,,Yes,,212,25,187
+Wapello,CN,Constitutional Amendment 1,,Yes,,350,151,199
+Wapello,CP,Constitutional Amendment 1,,Yes,,69,26,43
+Wapello,CS/CH,Constitutional Amendment 1,,Yes,,58,5,53
+Wapello,DA,Constitutional Amendment 1,,Yes,,140,48,92
+Wapello,GR,Constitutional Amendment 1,,Yes,,242,69,173
+Wapello,HI,Constitutional Amendment 1,,Yes,,93,21,72
+Wapello,KE,Constitutional Amendment 1,,Yes,,232,68,164
+Wapello,OT/01,Constitutional Amendment 1,,Yes,,360,151,209
+Wapello,OT/02,Constitutional Amendment 1,,Yes,,513,220,293
+Wapello,OT/03,Constitutional Amendment 1,,Yes,,635,267,368
+Wapello,OT/04,Constitutional Amendment 1,,Yes,,215,80,135
+Wapello,OT/05,Constitutional Amendment 1,,Yes,,242,122,120
+Wapello,OT/06,Constitutional Amendment 1,,Yes,,267,100,167
+Wapello,OT/07,Constitutional Amendment 1,,Yes,,253,77,176
+Wapello,OT/08,Constitutional Amendment 1,,Yes,,357,104,253
+Wapello,OT/09,Constitutional Amendment 1,,Yes,,434,183,251
+Wapello,OT/10,Constitutional Amendment 1,,Yes,,364,116,248
+Wapello,RL/KV,Constitutional Amendment 1,,Yes,,166,46,120
+Wapello,WA/EL,Constitutional Amendment 1,,Yes,,260,35,225
+Wapello,AD/BL/PO,County Agricultural Extension Council Member,,Angela Mach,,339,111,228
+Wapello,AGT/AGC/PL,County Agricultural Extension Council Member,,Angela Mach,,353,89,264
+Wapello,CB/EV,County Agricultural Extension Council Member,,Angela Mach,,219,30,189
+Wapello,CN,County Agricultural Extension Council Member,,Angela Mach,,341,144,197
+Wapello,CP,County Agricultural Extension Council Member,,Angela Mach,,58,23,35
+Wapello,CS/CH,County Agricultural Extension Council Member,,Angela Mach,,52,6,46
+Wapello,DA,County Agricultural Extension Council Member,,Angela Mach,,133,46,87
+Wapello,GR,County Agricultural Extension Council Member,,Angela Mach,,204,55,149
+Wapello,HI,County Agricultural Extension Council Member,,Angela Mach,,100,19,81
+Wapello,KE,County Agricultural Extension Council Member,,Angela Mach,,219,60,159
+Wapello,OT/01,County Agricultural Extension Council Member,,Angela Mach,,356,148,208
+Wapello,OT/02,County Agricultural Extension Council Member,,Angela Mach,,527,229,298
+Wapello,OT/03,County Agricultural Extension Council Member,,Angela Mach,,646,274,372
+Wapello,OT/04,County Agricultural Extension Council Member,,Angela Mach,,170,69,101
+Wapello,OT/05,County Agricultural Extension Council Member,,Angela Mach,,268,147,121
+Wapello,OT/06,County Agricultural Extension Council Member,,Angela Mach,,292,120,172
+Wapello,OT/07,County Agricultural Extension Council Member,,Angela Mach,,267,91,176
+Wapello,OT/08,County Agricultural Extension Council Member,,Angela Mach,,361,119,242
+Wapello,OT/09,County Agricultural Extension Council Member,,Angela Mach,,464,195,269
+Wapello,OT/10,County Agricultural Extension Council Member,,Angela Mach,,387,129,258
+Wapello,RL/KV,County Agricultural Extension Council Member,,Angela Mach,,157,49,108
+Wapello,WA/EL,County Agricultural Extension Council Member,,Angela Mach,,282,35,247
+Wapello,AD/BL/PO,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,351,112,239
+Wapello,AGT/AGC/PL,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,365,78,287
+Wapello,CB/EV,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,234,28,206
+Wapello,CN,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,343,147,196
+Wapello,CP,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,60,23,37
+Wapello,CS/CH,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,58,8,50
+Wapello,DA,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,136,52,84
+Wapello,GR,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,209,56,153
+Wapello,HI,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,88,14,74
+Wapello,KE,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,201,60,141
+Wapello,OT/01,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,317,125,192
+Wapello,OT/02,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,526,231,295
+Wapello,OT/03,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,594,260,334
+Wapello,OT/04,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,154,73,81
+Wapello,OT/05,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,254,135,119
+Wapello,OT/06,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,286,118,168
+Wapello,OT/07,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,233,75,158
+Wapello,OT/08,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,350,113,237
+Wapello,OT/09,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,415,178,237
+Wapello,OT/10,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,359,124,235
+Wapello,RL/KV,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,171,49,122
+Wapello,WA/EL,County Agricultural Extension Council Member,,Melissa J. Reed-Appel,,280,31,249
+Wapello,AD/BL/PO,County Agricultural Extension Council Member,,Tierney Lain,,337,109,228
+Wapello,AGT/AGC/PL,County Agricultural Extension Council Member,,Tierney Lain,,330,74,256
+Wapello,CB/EV,County Agricultural Extension Council Member,,Tierney Lain,,219,28,191
+Wapello,CN,County Agricultural Extension Council Member,,Tierney Lain,,308,133,175
+Wapello,CP,County Agricultural Extension Council Member,,Tierney Lain,,58,21,37
+Wapello,CS/CH,County Agricultural Extension Council Member,,Tierney Lain,,45,5,40
+Wapello,DA,County Agricultural Extension Council Member,,Tierney Lain,,126,43,83
+Wapello,GR,County Agricultural Extension Council Member,,Tierney Lain,,196,53,143
+Wapello,HI,County Agricultural Extension Council Member,,Tierney Lain,,93,16,77
+Wapello,KE,County Agricultural Extension Council Member,,Tierney Lain,,198,63,135
+Wapello,OT/01,County Agricultural Extension Council Member,,Tierney Lain,,298,126,172
+Wapello,OT/02,County Agricultural Extension Council Member,,Tierney Lain,,491,223,268
+Wapello,OT/03,County Agricultural Extension Council Member,,Tierney Lain,,584,252,332
+Wapello,OT/04,County Agricultural Extension Council Member,,Tierney Lain,,143,60,83
+Wapello,OT/05,County Agricultural Extension Council Member,,Tierney Lain,,241,125,116
+Wapello,OT/06,County Agricultural Extension Council Member,,Tierney Lain,,235,91,144
+Wapello,OT/07,County Agricultural Extension Council Member,,Tierney Lain,,234,80,154
+Wapello,OT/08,County Agricultural Extension Council Member,,Tierney Lain,,325,108,217
+Wapello,OT/09,County Agricultural Extension Council Member,,Tierney Lain,,404,178,226
+Wapello,OT/10,County Agricultural Extension Council Member,,Tierney Lain,,346,120,226
+Wapello,RL/KV,County Agricultural Extension Council Member,,Tierney Lain,,145,44,101
+Wapello,WA/EL,County Agricultural Extension Council Member,,Tierney Lain,,271,31,240
+Wapello,AD/BL/PO,County Agricultural Extension Council Member,,Write-In,,30,9,21
+Wapello,AGT/AGC/PL,County Agricultural Extension Council Member,,Write-In,,30,11,19
+Wapello,CB/EV,County Agricultural Extension Council Member,,Write-In,,10,1,9
+Wapello,CN,County Agricultural Extension Council Member,,Write-In,,23,5,18
+Wapello,CP,County Agricultural Extension Council Member,,Write-In,,10,3,7
+Wapello,CS/CH,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Wapello,DA,County Agricultural Extension Council Member,,Write-In,,7,3,4
+Wapello,GR,County Agricultural Extension Council Member,,Write-In,,9,0,9
+Wapello,HI,County Agricultural Extension Council Member,,Write-In,,8,1,7
+Wapello,KE,County Agricultural Extension Council Member,,Write-In,,9,3,6
+Wapello,OT/01,County Agricultural Extension Council Member,,Write-In,,19,5,14
+Wapello,OT/02,County Agricultural Extension Council Member,,Write-In,,32,13,19
+Wapello,OT/03,County Agricultural Extension Council Member,,Write-In,,58,35,23
+Wapello,OT/04,County Agricultural Extension Council Member,,Write-In,,21,9,12
+Wapello,OT/05,County Agricultural Extension Council Member,,Write-In,,23,6,17
+Wapello,OT/06,County Agricultural Extension Council Member,,Write-In,,20,9,11
+Wapello,OT/07,County Agricultural Extension Council Member,,Write-In,,7,2,5
+Wapello,OT/08,County Agricultural Extension Council Member,,Write-In,,27,12,15
+Wapello,OT/09,County Agricultural Extension Council Member,,Write-In,,26,15,11
+Wapello,OT/10,County Agricultural Extension Council Member,,Write-In,,31,15,16
+Wapello,RL/KV,County Agricultural Extension Council Member,,Write-In,,14,2,12
+Wapello,WA/EL,County Agricultural Extension Council Member,,Write-In,,17,3,14
+Wapello,AD/BL/PO,County Attorney,,Steviee Grove,REP,497,132,365
+Wapello,AGT/AGC/PL,County Attorney,,Steviee Grove,REP,486,107,379
+Wapello,CB/EV,County Attorney,,Steviee Grove,REP,310,35,275
+Wapello,CN,County Attorney,,Steviee Grove,REP,496,205,291
+Wapello,CP,County Attorney,,Steviee Grove,REP,79,27,52
+Wapello,CS/CH,County Attorney,,Steviee Grove,REP,73,5,68
+Wapello,DA,County Attorney,,Steviee Grove,REP,202,69,133
+Wapello,GR,County Attorney,,Steviee Grove,REP,306,74,232
+Wapello,HI,County Attorney,,Steviee Grove,REP,123,27,96
+Wapello,KE,County Attorney,,Steviee Grove,REP,323,87,236
+Wapello,OT/01,County Attorney,,Steviee Grove,REP,451,176,275
+Wapello,OT/02,County Attorney,,Steviee Grove,REP,686,285,401
+Wapello,OT/03,County Attorney,,Steviee Grove,REP,806,314,492
+Wapello,OT/04,County Attorney,,Steviee Grove,REP,228,83,145
+Wapello,OT/05,County Attorney,,Steviee Grove,REP,332,165,167
+Wapello,OT/06,County Attorney,,Steviee Grove,REP,339,120,219
+Wapello,OT/07,County Attorney,,Steviee Grove,REP,351,102,249
+Wapello,OT/08,County Attorney,,Steviee Grove,REP,500,136,364
+Wapello,OT/09,County Attorney,,Steviee Grove,REP,597,233,364
+Wapello,OT/10,County Attorney,,Steviee Grove,REP,498,149,349
+Wapello,RL/KV,County Attorney,,Steviee Grove,REP,247,56,191
+Wapello,WA/EL,County Attorney,,Steviee Grove,REP,388,44,344
+Wapello,AD/BL/PO,County Attorney,,Write-In,,5,2,3
+Wapello,AGT/AGC/PL,County Attorney,,Write-In,,8,3,5
+Wapello,CB/EV,County Attorney,,Write-In,,4,2,2
+Wapello,CN,County Attorney,,Write-In,,9,3,6
+Wapello,CP,County Attorney,,Write-In,,0,0,0
+Wapello,CS/CH,County Attorney,,Write-In,,1,0,1
+Wapello,DA,County Attorney,,Write-In,,1,1,0
+Wapello,GR,County Attorney,,Write-In,,4,1,3
+Wapello,HI,County Attorney,,Write-In,,1,1,0
+Wapello,KE,County Attorney,,Write-In,,3,0,3
+Wapello,OT/01,County Attorney,,Write-In,,12,2,10
+Wapello,OT/02,County Attorney,,Write-In,,16,5,11
+Wapello,OT/03,County Attorney,,Write-In,,34,17,17
+Wapello,OT/04,County Attorney,,Write-In,,8,4,4
+Wapello,OT/05,County Attorney,,Write-In,,13,7,6
+Wapello,OT/06,County Attorney,,Write-In,,7,4,3
+Wapello,OT/07,County Attorney,,Write-In,,10,4,6
+Wapello,OT/08,County Attorney,,Write-In,,19,11,8
+Wapello,OT/09,County Attorney,,Write-In,,12,3,9
+Wapello,OT/10,County Attorney,,Write-In,,23,15,8
+Wapello,RL/KV,County Attorney,,Write-In,,0,0,0
+Wapello,WA/EL,County Attorney,,Write-In,,4,2,2
+Wapello,AD/BL/PO,County Auditor To Fill a Vacancy,,Danielle Weller,REP,500,132,368
+Wapello,AGT/AGC/PL,County Auditor To Fill a Vacancy,,Danielle Weller,REP,499,111,388
+Wapello,CB/EV,County Auditor To Fill a Vacancy,,Danielle Weller,REP,308,35,273
+Wapello,CN,County Auditor To Fill a Vacancy,,Danielle Weller,REP,510,212,298
+Wapello,CP,County Auditor To Fill a Vacancy,,Danielle Weller,REP,79,26,53
+Wapello,CS/CH,County Auditor To Fill a Vacancy,,Danielle Weller,REP,74,5,69
+Wapello,DA,County Auditor To Fill a Vacancy,,Danielle Weller,REP,206,73,133
+Wapello,GR,County Auditor To Fill a Vacancy,,Danielle Weller,REP,314,75,239
+Wapello,HI,County Auditor To Fill a Vacancy,,Danielle Weller,REP,125,27,98
+Wapello,KE,County Auditor To Fill a Vacancy,,Danielle Weller,REP,323,86,237
+Wapello,OT/01,County Auditor To Fill a Vacancy,,Danielle Weller,REP,456,180,276
+Wapello,OT/02,County Auditor To Fill a Vacancy,,Danielle Weller,REP,702,294,408
+Wapello,OT/03,County Auditor To Fill a Vacancy,,Danielle Weller,REP,852,333,519
+Wapello,OT/04,County Auditor To Fill a Vacancy,,Danielle Weller,REP,233,84,149
+Wapello,OT/05,County Auditor To Fill a Vacancy,,Danielle Weller,REP,333,171,162
+Wapello,OT/06,County Auditor To Fill a Vacancy,,Danielle Weller,REP,345,122,223
+Wapello,OT/07,County Auditor To Fill a Vacancy,,Danielle Weller,REP,359,105,254
+Wapello,OT/08,County Auditor To Fill a Vacancy,,Danielle Weller,REP,510,138,372
+Wapello,OT/09,County Auditor To Fill a Vacancy,,Danielle Weller,REP,611,240,371
+Wapello,OT/10,County Auditor To Fill a Vacancy,,Danielle Weller,REP,514,158,356
+Wapello,RL/KV,County Auditor To Fill a Vacancy,,Danielle Weller,REP,253,60,193
+Wapello,WA/EL,County Auditor To Fill a Vacancy,,Danielle Weller,REP,388,44,344
+Wapello,AD/BL/PO,County Auditor To Fill a Vacancy,,Write-In,,7,2,5
+Wapello,AGT/AGC/PL,County Auditor To Fill a Vacancy,,Write-In,,7,3,4
+Wapello,CB/EV,County Auditor To Fill a Vacancy,,Write-In,,4,1,3
+Wapello,CN,County Auditor To Fill a Vacancy,,Write-In,,8,3,5
+Wapello,CP,County Auditor To Fill a Vacancy,,Write-In,,0,0,0
+Wapello,CS/CH,County Auditor To Fill a Vacancy,,Write-In,,0,0,0
+Wapello,DA,County Auditor To Fill a Vacancy,,Write-In,,1,1,0
+Wapello,GR,County Auditor To Fill a Vacancy,,Write-In,,2,1,1
+Wapello,HI,County Auditor To Fill a Vacancy,,Write-In,,1,1,0
+Wapello,KE,County Auditor To Fill a Vacancy,,Write-In,,3,0,3
+Wapello,OT/01,County Auditor To Fill a Vacancy,,Write-In,,13,3,10
+Wapello,OT/02,County Auditor To Fill a Vacancy,,Write-In,,16,5,11
+Wapello,OT/03,County Auditor To Fill a Vacancy,,Write-In,,24,12,12
+Wapello,OT/04,County Auditor To Fill a Vacancy,,Write-In,,8,4,4
+Wapello,OT/05,County Auditor To Fill a Vacancy,,Write-In,,11,5,6
+Wapello,OT/06,County Auditor To Fill a Vacancy,,Write-In,,6,4,2
+Wapello,OT/07,County Auditor To Fill a Vacancy,,Write-In,,10,3,7
+Wapello,OT/08,County Auditor To Fill a Vacancy,,Write-In,,13,9,4
+Wapello,OT/09,County Auditor To Fill a Vacancy,,Write-In,,14,5,9
+Wapello,OT/10,County Auditor To Fill a Vacancy,,Write-In,,21,14,7
+Wapello,RL/KV,County Auditor To Fill a Vacancy,,Write-In,,0,0,0
+Wapello,WA/EL,County Auditor To Fill a Vacancy,,Write-In,,4,1,3
+Wapello,AD/BL/PO,County Board of Supervisors,,Bryan Ziegler,REP,324,73,251
+Wapello,AGT/AGC/PL,County Board of Supervisors,,Bryan Ziegler,REP,294,65,229
+Wapello,CB/EV,County Board of Supervisors,,Bryan Ziegler,REP,222,19,203
+Wapello,CN,County Board of Supervisors,,Bryan Ziegler,REP,343,142,201
+Wapello,CP,County Board of Supervisors,,Bryan Ziegler,REP,60,21,39
+Wapello,CS/CH,County Board of Supervisors,,Bryan Ziegler,REP,45,3,42
+Wapello,DA,County Board of Supervisors,,Bryan Ziegler,REP,118,37,81
+Wapello,GR,County Board of Supervisors,,Bryan Ziegler,REP,232,54,178
+Wapello,HI,County Board of Supervisors,,Bryan Ziegler,REP,79,14,65
+Wapello,KE,County Board of Supervisors,,Bryan Ziegler,REP,227,52,175
+Wapello,OT/01,County Board of Supervisors,,Bryan Ziegler,REP,272,99,173
+Wapello,OT/02,County Board of Supervisors,,Bryan Ziegler,REP,452,183,269
+Wapello,OT/03,County Board of Supervisors,,Bryan Ziegler,REP,505,191,314
+Wapello,OT/04,County Board of Supervisors,,Bryan Ziegler,REP,154,53,101
+Wapello,OT/05,County Board of Supervisors,,Bryan Ziegler,REP,192,90,102
+Wapello,OT/06,County Board of Supervisors,,Bryan Ziegler,REP,207,63,144
+Wapello,OT/07,County Board of Supervisors,,Bryan Ziegler,REP,200,49,151
+Wapello,OT/08,County Board of Supervisors,,Bryan Ziegler,REP,300,65,235
+Wapello,OT/09,County Board of Supervisors,,Bryan Ziegler,REP,359,128,231
+Wapello,OT/10,County Board of Supervisors,,Bryan Ziegler,REP,298,90,208
+Wapello,RL/KV,County Board of Supervisors,,Bryan Ziegler,REP,179,37,142
+Wapello,WA/EL,County Board of Supervisors,,Bryan Ziegler,REP,275,25,250
+Wapello,AD/BL/PO,County Board of Supervisors,,Darren Batterson,REP,388,91,297
+Wapello,AGT/AGC/PL,County Board of Supervisors,,Darren Batterson,REP,404,78,326
+Wapello,CB/EV,County Board of Supervisors,,Darren Batterson,REP,206,20,186
+Wapello,CN,County Board of Supervisors,,Darren Batterson,REP,371,152,219
+Wapello,CP,County Board of Supervisors,,Darren Batterson,REP,71,25,46
+Wapello,CS/CH,County Board of Supervisors,,Darren Batterson,REP,59,5,54
+Wapello,DA,County Board of Supervisors,,Darren Batterson,REP,135,41,94
+Wapello,GR,County Board of Supervisors,,Darren Batterson,REP,255,64,191
+Wapello,HI,County Board of Supervisors,,Darren Batterson,REP,102,22,80
+Wapello,KE,County Board of Supervisors,,Darren Batterson,REP,235,53,182
+Wapello,OT/01,County Board of Supervisors,,Darren Batterson,REP,295,111,184
+Wapello,OT/02,County Board of Supervisors,,Darren Batterson,REP,420,160,260
+Wapello,OT/03,County Board of Supervisors,,Darren Batterson,REP,512,182,330
+Wapello,OT/04,County Board of Supervisors,,Darren Batterson,REP,169,51,118
+Wapello,OT/05,County Board of Supervisors,,Darren Batterson,REP,179,88,91
+Wapello,OT/06,County Board of Supervisors,,Darren Batterson,REP,217,62,155
+Wapello,OT/07,County Board of Supervisors,,Darren Batterson,REP,222,51,171
+Wapello,OT/08,County Board of Supervisors,,Darren Batterson,REP,345,82,263
+Wapello,OT/09,County Board of Supervisors,,Darren Batterson,REP,411,147,264
+Wapello,OT/10,County Board of Supervisors,,Darren Batterson,REP,307,82,225
+Wapello,RL/KV,County Board of Supervisors,,Darren Batterson,REP,193,39,154
+Wapello,WA/EL,County Board of Supervisors,,Darren Batterson,REP,290,22,268
+Wapello,AD/BL/PO,County Board of Supervisors,,Dennis Willhoit,DEM,147,74,73
+Wapello,AGT/AGC/PL,County Board of Supervisors,,Dennis Willhoit,DEM,187,65,122
+Wapello,CB/EV,County Board of Supervisors,,Dennis Willhoit,DEM,112,30,82
+Wapello,CN,County Board of Supervisors,,Dennis Willhoit,DEM,180,94,86
+Wapello,CP,County Board of Supervisors,,Dennis Willhoit,DEM,18,6,12
+Wapello,CS/CH,County Board of Supervisors,,Dennis Willhoit,DEM,26,4,22
+Wapello,DA,County Board of Supervisors,,Dennis Willhoit,DEM,79,38,41
+Wapello,GR,County Board of Supervisors,,Dennis Willhoit,DEM,99,44,55
+Wapello,HI,County Board of Supervisors,,Dennis Willhoit,DEM,29,4,25
+Wapello,KE,County Board of Supervisors,,Dennis Willhoit,DEM,94,48,46
+Wapello,OT/01,County Board of Supervisors,,Dennis Willhoit,DEM,260,127,133
+Wapello,OT/02,County Board of Supervisors,,Dennis Willhoit,DEM,432,214,218
+Wapello,OT/03,County Board of Supervisors,,Dennis Willhoit,DEM,534,274,260
+Wapello,OT/04,County Board of Supervisors,,Dennis Willhoit,DEM,174,72,102
+Wapello,OT/05,County Board of Supervisors,,Dennis Willhoit,DEM,239,147,92
+Wapello,OT/06,County Board of Supervisors,,Dennis Willhoit,DEM,230,117,113
+Wapello,OT/07,County Board of Supervisors,,Dennis Willhoit,DEM,209,103,106
+Wapello,OT/08,County Board of Supervisors,,Dennis Willhoit,DEM,265,123,142
+Wapello,OT/09,County Board of Supervisors,,Dennis Willhoit,DEM,333,172,161
+Wapello,OT/10,County Board of Supervisors,,Dennis Willhoit,DEM,313,143,170
+Wapello,RL/KV,County Board of Supervisors,,Dennis Willhoit,DEM,77,41,36
+Wapello,WA/EL,County Board of Supervisors,,Dennis Willhoit,DEM,119,32,87
+Wapello,AD/BL/PO,County Board of Supervisors,,Laurie L. Fountain,DEM,169,77,92
+Wapello,AGT/AGC/PL,County Board of Supervisors,,Laurie L. Fountain,DEM,186,67,119
+Wapello,CB/EV,County Board of Supervisors,,Laurie L. Fountain,DEM,129,33,96
+Wapello,CN,County Board of Supervisors,,Laurie L. Fountain,DEM,211,109,102
+Wapello,CP,County Board of Supervisors,,Laurie L. Fountain,DEM,18,8,10
+Wapello,CS/CH,County Board of Supervisors,,Laurie L. Fountain,DEM,30,3,27
+Wapello,DA,County Board of Supervisors,,Laurie L. Fountain,DEM,100,45,55
+Wapello,GR,County Board of Supervisors,,Laurie L. Fountain,DEM,113,48,65
+Wapello,HI,County Board of Supervisors,,Laurie L. Fountain,DEM,41,12,29
+Wapello,KE,County Board of Supervisors,,Laurie L. Fountain,DEM,129,60,69
+Wapello,OT/01,County Board of Supervisors,,Laurie L. Fountain,DEM,317,146,171
+Wapello,OT/02,County Board of Supervisors,,Laurie L. Fountain,DEM,446,230,216
+Wapello,OT/03,County Board of Supervisors,,Laurie L. Fountain,DEM,593,291,302
+Wapello,OT/04,County Board of Supervisors,,Laurie L. Fountain,DEM,188,76,112
+Wapello,OT/05,County Board of Supervisors,,Laurie L. Fountain,DEM,256,155,101
+Wapello,OT/06,County Board of Supervisors,,Laurie L. Fountain,DEM,240,121,119
+Wapello,OT/07,County Board of Supervisors,,Laurie L. Fountain,DEM,277,118,159
+Wapello,OT/08,County Board of Supervisors,,Laurie L. Fountain,DEM,306,140,166
+Wapello,OT/09,County Board of Supervisors,,Laurie L. Fountain,DEM,401,197,204
+Wapello,OT/10,County Board of Supervisors,,Laurie L. Fountain,DEM,330,143,187
+Wapello,RL/KV,County Board of Supervisors,,Laurie L. Fountain,DEM,92,51,41
+Wapello,WA/EL,County Board of Supervisors,,Laurie L. Fountain,DEM,113,29,84
+Wapello,AD/BL/PO,County Board of Supervisors,,Write-In,,6,0,6
+Wapello,AGT/AGC/PL,County Board of Supervisors,,Write-In,,2,0,2
+Wapello,CB/EV,County Board of Supervisors,,Write-In,,0,0,0
+Wapello,CN,County Board of Supervisors,,Write-In,,2,1,1
+Wapello,CP,County Board of Supervisors,,Write-In,,1,0,1
+Wapello,CS/CH,County Board of Supervisors,,Write-In,,1,0,1
+Wapello,DA,County Board of Supervisors,,Write-In,,0,0,0
+Wapello,GR,County Board of Supervisors,,Write-In,,1,1,0
+Wapello,HI,County Board of Supervisors,,Write-In,,3,0,3
+Wapello,KE,County Board of Supervisors,,Write-In,,0,0,0
+Wapello,OT/01,County Board of Supervisors,,Write-In,,1,0,1
+Wapello,OT/02,County Board of Supervisors,,Write-In,,1,1,0
+Wapello,OT/03,County Board of Supervisors,,Write-In,,4,2,2
+Wapello,OT/04,County Board of Supervisors,,Write-In,,1,1,0
+Wapello,OT/05,County Board of Supervisors,,Write-In,,2,1,1
+Wapello,OT/06,County Board of Supervisors,,Write-In,,0,0,0
+Wapello,OT/07,County Board of Supervisors,,Write-In,,0,0,0
+Wapello,OT/08,County Board of Supervisors,,Write-In,,8,3,5
+Wapello,OT/09,County Board of Supervisors,,Write-In,,3,0,3
+Wapello,OT/10,County Board of Supervisors,,Write-In,,1,0,1
+Wapello,RL/KV,County Board of Supervisors,,Write-In,,2,0,2
+Wapello,WA/EL,County Board of Supervisors,,Write-In,,1,0,1
+Wapello,AD/BL/PO,County Recorder,,Autum L. Wonderlin,REP,502,134,368
+Wapello,AGT/AGC/PL,County Recorder,,Autum L. Wonderlin,REP,492,107,385
+Wapello,CB/EV,County Recorder,,Autum L. Wonderlin,REP,310,34,276
+Wapello,CN,County Recorder,,Autum L. Wonderlin,REP,504,208,296
+Wapello,CP,County Recorder,,Autum L. Wonderlin,REP,79,27,52
+Wapello,CS/CH,County Recorder,,Autum L. Wonderlin,REP,74,6,68
+Wapello,DA,County Recorder,,Autum L. Wonderlin,REP,205,70,135
+Wapello,GR,County Recorder,,Autum L. Wonderlin,REP,313,75,238
+Wapello,HI,County Recorder,,Autum L. Wonderlin,REP,125,27,98
+Wapello,KE,County Recorder,,Autum L. Wonderlin,REP,323,85,238
+Wapello,OT/01,County Recorder,,Autum L. Wonderlin,REP,460,183,277
+Wapello,OT/02,County Recorder,,Autum L. Wonderlin,REP,689,283,406
+Wapello,OT/03,County Recorder,,Autum L. Wonderlin,REP,842,328,514
+Wapello,OT/04,County Recorder,,Autum L. Wonderlin,REP,236,86,150
+Wapello,OT/05,County Recorder,,Autum L. Wonderlin,REP,334,169,165
+Wapello,OT/06,County Recorder,,Autum L. Wonderlin,REP,345,121,224
+Wapello,OT/07,County Recorder,,Autum L. Wonderlin,REP,358,106,252
+Wapello,OT/08,County Recorder,,Autum L. Wonderlin,REP,514,140,374
+Wapello,OT/09,County Recorder,,Autum L. Wonderlin,REP,608,236,372
+Wapello,OT/10,County Recorder,,Autum L. Wonderlin,REP,509,156,353
+Wapello,RL/KV,County Recorder,,Autum L. Wonderlin,REP,247,57,190
+Wapello,WA/EL,County Recorder,,Autum L. Wonderlin,REP,393,45,348
+Wapello,AD/BL/PO,County Recorder,,Write-In,,5,2,3
+Wapello,AGT/AGC/PL,County Recorder,,Write-In,,6,3,3
+Wapello,CB/EV,County Recorder,,Write-In,,4,2,2
+Wapello,CN,County Recorder,,Write-In,,9,3,6
+Wapello,CP,County Recorder,,Write-In,,0,0,0
+Wapello,CS/CH,County Recorder,,Write-In,,0,0,0
+Wapello,DA,County Recorder,,Write-In,,1,1,0
+Wapello,GR,County Recorder,,Write-In,,2,1,1
+Wapello,HI,County Recorder,,Write-In,,1,1,0
+Wapello,KE,County Recorder,,Write-In,,3,0,3
+Wapello,OT/01,County Recorder,,Write-In,,12,2,10
+Wapello,OT/02,County Recorder,,Write-In,,16,6,10
+Wapello,OT/03,County Recorder,,Write-In,,23,11,12
+Wapello,OT/04,County Recorder,,Write-In,,8,4,4
+Wapello,OT/05,County Recorder,,Write-In,,12,6,6
+Wapello,OT/06,County Recorder,,Write-In,,7,5,2
+Wapello,OT/07,County Recorder,,Write-In,,9,2,7
+Wapello,OT/08,County Recorder,,Write-In,,15,11,4
+Wapello,OT/09,County Recorder,,Write-In,,13,4,9
+Wapello,OT/10,County Recorder,,Write-In,,22,15,7
+Wapello,RL/KV,County Recorder,,Write-In,,1,0,1
+Wapello,WA/EL,County Recorder,,Write-In,,4,1,3
+Wapello,AD/BL/PO,County Treasurer,,Valerie McElroy,REP,509,137,372
+Wapello,AGT/AGC/PL,County Treasurer,,Valerie McElroy,REP,500,108,392
+Wapello,CB/EV,County Treasurer,,Valerie McElroy,REP,313,34,279
+Wapello,CN,County Treasurer,,Valerie McElroy,REP,510,211,299
+Wapello,CP,County Treasurer,,Valerie McElroy,REP,81,27,54
+Wapello,CS/CH,County Treasurer,,Valerie McElroy,REP,75,6,69
+Wapello,DA,County Treasurer,,Valerie McElroy,REP,207,73,134
+Wapello,GR,County Treasurer,,Valerie McElroy,REP,312,75,237
+Wapello,HI,County Treasurer,,Valerie McElroy,REP,127,28,99
+Wapello,KE,County Treasurer,,Valerie McElroy,REP,327,87,240
+Wapello,OT/01,County Treasurer,,Valerie McElroy,REP,464,184,280
+Wapello,OT/02,County Treasurer,,Valerie McElroy,REP,698,289,409
+Wapello,OT/03,County Treasurer,,Valerie McElroy,REP,840,327,513
+Wapello,OT/04,County Treasurer,,Valerie McElroy,REP,246,89,157
+Wapello,OT/05,County Treasurer,,Valerie McElroy,REP,337,170,167
+Wapello,OT/06,County Treasurer,,Valerie McElroy,REP,352,122,230
+Wapello,OT/07,County Treasurer,,Valerie McElroy,REP,364,108,256
+Wapello,OT/08,County Treasurer,,Valerie McElroy,REP,525,145,380
+Wapello,OT/09,County Treasurer,,Valerie McElroy,REP,615,236,379
+Wapello,OT/10,County Treasurer,,Valerie McElroy,REP,512,151,361
+Wapello,RL/KV,County Treasurer,,Valerie McElroy,REP,251,59,192
+Wapello,WA/EL,County Treasurer,,Valerie McElroy,REP,397,47,350
+Wapello,AD/BL/PO,County Treasurer,,Write-In,,6,3,3
+Wapello,AGT/AGC/PL,County Treasurer,,Write-In,,7,4,3
+Wapello,CB/EV,County Treasurer,,Write-In,,4,2,2
+Wapello,CN,County Treasurer,,Write-In,,9,3,6
+Wapello,CP,County Treasurer,,Write-In,,0,0,0
+Wapello,CS/CH,County Treasurer,,Write-In,,1,1,0
+Wapello,DA,County Treasurer,,Write-In,,1,1,0
+Wapello,GR,County Treasurer,,Write-In,,2,1,1
+Wapello,HI,County Treasurer,,Write-In,,0,0,0
+Wapello,KE,County Treasurer,,Write-In,,3,0,3
+Wapello,OT/01,County Treasurer,,Write-In,,15,2,13
+Wapello,OT/02,County Treasurer,,Write-In,,14,6,8
+Wapello,OT/03,County Treasurer,,Write-In,,25,12,13
+Wapello,OT/04,County Treasurer,,Write-In,,9,5,4
+Wapello,OT/05,County Treasurer,,Write-In,,15,8,7
+Wapello,OT/06,County Treasurer,,Write-In,,6,4,2
+Wapello,OT/07,County Treasurer,,Write-In,,11,3,8
+Wapello,OT/08,County Treasurer,,Write-In,,12,9,3
+Wapello,OT/09,County Treasurer,,Write-In,,13,4,9
+Wapello,OT/10,County Treasurer,,Write-In,,24,15,9
+Wapello,RL/KV,County Treasurer,,Write-In,,1,0,1
+Wapello,WA/EL,County Treasurer,,Write-In,,3,1,2
+Wapello,AD/BL/PO,Court of Appeals Judge - John M. Sandy,,No,,140,41,99
+Wapello,AGT/AGC/PL,Court of Appeals Judge - John M. Sandy,,No,,136,31,105
+Wapello,CB/EV,Court of Appeals Judge - John M. Sandy,,No,,89,22,67
+Wapello,CN,Court of Appeals Judge - John M. Sandy,,No,,137,55,82
+Wapello,CP,Court of Appeals Judge - John M. Sandy,,No,,14,1,13
+Wapello,CS/CH,Court of Appeals Judge - John M. Sandy,,No,,13,2,11
+Wapello,DA,Court of Appeals Judge - John M. Sandy,,No,,58,23,35
+Wapello,GR,Court of Appeals Judge - John M. Sandy,,No,,86,32,54
+Wapello,HI,Court of Appeals Judge - John M. Sandy,,No,,37,7,30
+Wapello,KE,Court of Appeals Judge - John M. Sandy,,No,,94,23,71
+Wapello,OT/01,Court of Appeals Judge - John M. Sandy,,No,,160,61,99
+Wapello,OT/02,Court of Appeals Judge - John M. Sandy,,No,,183,77,106
+Wapello,OT/03,Court of Appeals Judge - John M. Sandy,,No,,220,90,130
+Wapello,OT/04,Court of Appeals Judge - John M. Sandy,,No,,97,45,52
+Wapello,OT/05,Court of Appeals Judge - John M. Sandy,,No,,118,61,57
+Wapello,OT/06,Court of Appeals Judge - John M. Sandy,,No,,133,45,88
+Wapello,OT/07,Court of Appeals Judge - John M. Sandy,,No,,129,45,84
+Wapello,OT/08,Court of Appeals Judge - John M. Sandy,,No,,188,65,123
+Wapello,OT/09,Court of Appeals Judge - John M. Sandy,,No,,191,69,122
+Wapello,OT/10,Court of Appeals Judge - John M. Sandy,,No,,140,47,93
+Wapello,RL/KV,Court of Appeals Judge - John M. Sandy,,No,,75,24,51
+Wapello,WA/EL,Court of Appeals Judge - John M. Sandy,,No,,127,18,109
+Wapello,AD/BL/PO,Court of Appeals Judge - John M. Sandy,,Yes,,308,87,221
+Wapello,AGT/AGC/PL,Court of Appeals Judge - John M. Sandy,,Yes,,332,83,249
+Wapello,CB/EV,Court of Appeals Judge - John M. Sandy,,Yes,,218,24,194
+Wapello,CN,Court of Appeals Judge - John M. Sandy,,Yes,,323,136,187
+Wapello,CP,Court of Appeals Judge - John M. Sandy,,Yes,,54,18,36
+Wapello,CS/CH,Court of Appeals Judge - John M. Sandy,,Yes,,50,5,45
+Wapello,DA,Court of Appeals Judge - John M. Sandy,,Yes,,102,38,64
+Wapello,GR,Court of Appeals Judge - John M. Sandy,,Yes,,187,46,141
+Wapello,HI,Court of Appeals Judge - John M. Sandy,,Yes,,75,15,60
+Wapello,KE,Court of Appeals Judge - John M. Sandy,,Yes,,188,53,135
+Wapello,OT/01,Court of Appeals Judge - John M. Sandy,,Yes,,329,137,192
+Wapello,OT/02,Court of Appeals Judge - John M. Sandy,,Yes,,522,226,296
+Wapello,OT/03,Court of Appeals Judge - John M. Sandy,,Yes,,634,275,359
+Wapello,OT/04,Court of Appeals Judge - John M. Sandy,,Yes,,169,65,104
+Wapello,OT/05,Court of Appeals Judge - John M. Sandy,,Yes,,272,152,120
+Wapello,OT/06,Court of Appeals Judge - John M. Sandy,,Yes,,262,114,148
+Wapello,OT/07,Court of Appeals Judge - John M. Sandy,,Yes,,269,84,185
+Wapello,OT/08,Court of Appeals Judge - John M. Sandy,,Yes,,346,108,238
+Wapello,OT/09,Court of Appeals Judge - John M. Sandy,,Yes,,437,184,253
+Wapello,OT/10,Court of Appeals Judge - John M. Sandy,,Yes,,392,127,265
+Wapello,RL/KV,Court of Appeals Judge - John M. Sandy,,Yes,,158,48,110
+Wapello,WA/EL,Court of Appeals Judge - John M. Sandy,,Yes,,248,32,216
+Wapello,AD/BL/PO,Court of Appeals Judge - Julie A. Schumacher,,No,,131,41,90
+Wapello,AGT/AGC/PL,Court of Appeals Judge - Julie A. Schumacher,,No,,142,32,110
+Wapello,CB/EV,Court of Appeals Judge - Julie A. Schumacher,,No,,84,18,66
+Wapello,CN,Court of Appeals Judge - Julie A. Schumacher,,No,,141,54,87
+Wapello,CP,Court of Appeals Judge - Julie A. Schumacher,,No,,13,0,13
+Wapello,CS/CH,Court of Appeals Judge - Julie A. Schumacher,,No,,18,2,16
+Wapello,DA,Court of Appeals Judge - Julie A. Schumacher,,No,,56,23,33
+Wapello,GR,Court of Appeals Judge - Julie A. Schumacher,,No,,88,30,58
+Wapello,HI,Court of Appeals Judge - Julie A. Schumacher,,No,,40,8,32
+Wapello,KE,Court of Appeals Judge - Julie A. Schumacher,,No,,97,23,74
+Wapello,OT/01,Court of Appeals Judge - Julie A. Schumacher,,No,,160,62,98
+Wapello,OT/02,Court of Appeals Judge - Julie A. Schumacher,,No,,179,70,109
+Wapello,OT/03,Court of Appeals Judge - Julie A. Schumacher,,No,,224,87,137
+Wapello,OT/04,Court of Appeals Judge - Julie A. Schumacher,,No,,88,42,46
+Wapello,OT/05,Court of Appeals Judge - Julie A. Schumacher,,No,,126,61,65
+Wapello,OT/06,Court of Appeals Judge - Julie A. Schumacher,,No,,136,42,94
+Wapello,OT/07,Court of Appeals Judge - Julie A. Schumacher,,No,,117,42,75
+Wapello,OT/08,Court of Appeals Judge - Julie A. Schumacher,,No,,187,63,124
+Wapello,OT/09,Court of Appeals Judge - Julie A. Schumacher,,No,,198,67,131
+Wapello,OT/10,Court of Appeals Judge - Julie A. Schumacher,,No,,141,43,98
+Wapello,RL/KV,Court of Appeals Judge - Julie A. Schumacher,,No,,79,28,51
+Wapello,WA/EL,Court of Appeals Judge - Julie A. Schumacher,,No,,127,15,112
+Wapello,AD/BL/PO,Court of Appeals Judge - Julie A. Schumacher,,Yes,,309,88,221
+Wapello,AGT/AGC/PL,Court of Appeals Judge - Julie A. Schumacher,,Yes,,320,80,240
+Wapello,CB/EV,Court of Appeals Judge - Julie A. Schumacher,,Yes,,217,28,189
+Wapello,CN,Court of Appeals Judge - Julie A. Schumacher,,Yes,,317,136,181
+Wapello,CP,Court of Appeals Judge - Julie A. Schumacher,,Yes,,53,18,35
+Wapello,CS/CH,Court of Appeals Judge - Julie A. Schumacher,,Yes,,44,5,39
+Wapello,DA,Court of Appeals Judge - Julie A. Schumacher,,Yes,,103,37,66
+Wapello,GR,Court of Appeals Judge - Julie A. Schumacher,,Yes,,182,45,137
+Wapello,HI,Court of Appeals Judge - Julie A. Schumacher,,Yes,,72,15,57
+Wapello,KE,Court of Appeals Judge - Julie A. Schumacher,,Yes,,180,50,130
+Wapello,OT/01,Court of Appeals Judge - Julie A. Schumacher,,Yes,,324,137,187
+Wapello,OT/02,Court of Appeals Judge - Julie A. Schumacher,,Yes,,525,230,295
+Wapello,OT/03,Court of Appeals Judge - Julie A. Schumacher,,Yes,,627,275,352
+Wapello,OT/04,Court of Appeals Judge - Julie A. Schumacher,,Yes,,174,66,108
+Wapello,OT/05,Court of Appeals Judge - Julie A. Schumacher,,Yes,,261,149,112
+Wapello,OT/06,Court of Appeals Judge - Julie A. Schumacher,,Yes,,254,116,138
+Wapello,OT/07,Court of Appeals Judge - Julie A. Schumacher,,Yes,,271,85,186
+Wapello,OT/08,Court of Appeals Judge - Julie A. Schumacher,,Yes,,337,107,230
+Wapello,OT/09,Court of Appeals Judge - Julie A. Schumacher,,Yes,,416,177,239
+Wapello,OT/10,Court of Appeals Judge - Julie A. Schumacher,,Yes,,385,135,250
+Wapello,RL/KV,Court of Appeals Judge - Julie A. Schumacher,,Yes,,152,44,108
+Wapello,WA/EL,Court of Appeals Judge - Julie A. Schumacher,,Yes,,241,32,209
+Wapello,AD/BL/PO,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,144,42,102
+Wapello,AGT/AGC/PL,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,155,33,122
+Wapello,CB/EV,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,91,20,71
+Wapello,CN,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,142,52,90
+Wapello,CP,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,14,1,13
+Wapello,CS/CH,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,16,2,14
+Wapello,DA,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,54,22,32
+Wapello,GR,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,92,32,60
+Wapello,HI,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,41,8,33
+Wapello,KE,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,97,24,73
+Wapello,OT/01,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,171,66,105
+Wapello,OT/02,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,188,74,114
+Wapello,OT/03,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,232,92,140
+Wapello,OT/04,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,89,43,46
+Wapello,OT/05,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,121,56,65
+Wapello,OT/06,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,138,47,91
+Wapello,OT/07,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,133,45,88
+Wapello,OT/08,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,190,64,126
+Wapello,OT/09,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,194,62,132
+Wapello,OT/10,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,145,43,102
+Wapello,RL/KV,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,77,27,50
+Wapello,WA/EL,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,137,17,120
+Wapello,AD/BL/PO,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,297,87,210
+Wapello,AGT/AGC/PL,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,303,77,226
+Wapello,CB/EV,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,210,27,183
+Wapello,CN,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,312,136,176
+Wapello,CP,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,51,16,35
+Wapello,CS/CH,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,46,5,41
+Wapello,DA,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,102,36,66
+Wapello,GR,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,180,44,136
+Wapello,HI,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,72,15,57
+Wapello,KE,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,181,50,131
+Wapello,OT/01,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,310,131,179
+Wapello,OT/02,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,503,222,281
+Wapello,OT/03,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,607,267,340
+Wapello,OT/04,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,167,64,103
+Wapello,OT/05,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,261,150,111
+Wapello,OT/06,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,249,106,143
+Wapello,OT/07,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,255,83,172
+Wapello,OT/08,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,335,102,233
+Wapello,OT/09,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,408,174,234
+Wapello,OT/10,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,378,131,247
+Wapello,RL/KV,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,152,44,108
+Wapello,WA/EL,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,224,31,193
+Wapello,DA,Dahlonega Township Clerk,,Nancy Manson,,197,73,124
+Wapello,DA,Dahlonega Township Clerk,,Write-In,,1,0,1
+Wapello,DA,Dahlonega Township Trustee,,Dan Quinn,,151,60,91
+Wapello,DA,Dahlonega Township Trustee,,Jon Simplot,,168,61,107
+Wapello,DA,Dahlonega Township Trustee,,Write-In,,1,0,1
+Wapello,AD/BL/PO,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,129,37,92
+Wapello,AGT/AGC/PL,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,132,29,103
+Wapello,CB/EV,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,85,20,65
+Wapello,CN,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,126,43,83
+Wapello,CP,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,13,0,13
+Wapello,CS/CH,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,17,2,15
+Wapello,DA,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,54,22,32
+Wapello,GR,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,86,31,55
+Wapello,HI,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,38,7,31
+Wapello,KE,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,88,25,63
+Wapello,OT/01,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,157,59,98
+Wapello,OT/02,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,171,69,102
+Wapello,OT/03,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,206,84,122
+Wapello,OT/04,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,86,38,48
+Wapello,OT/05,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,112,54,58
+Wapello,OT/06,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,126,38,88
+Wapello,OT/07,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,121,45,76
+Wapello,OT/08,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,178,57,121
+Wapello,OT/09,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,180,60,120
+Wapello,OT/10,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,134,41,93
+Wapello,RL/KV,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,78,27,51
+Wapello,WA/EL,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,124,17,107
+Wapello,AD/BL/PO,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,312,90,222
+Wapello,AGT/AGC/PL,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,329,82,247
+Wapello,CB/EV,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,221,27,194
+Wapello,CN,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,329,142,187
+Wapello,CP,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,54,18,36
+Wapello,CS/CH,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,48,5,43
+Wapello,DA,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,109,41,68
+Wapello,GR,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,185,44,141
+Wapello,HI,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,76,15,61
+Wapello,KE,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,192,52,140
+Wapello,OT/01,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,332,138,194
+Wapello,OT/02,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,538,234,304
+Wapello,OT/03,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,648,281,367
+Wapello,OT/04,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,176,73,103
+Wapello,OT/05,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,273,155,118
+Wapello,OT/06,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,268,124,144
+Wapello,OT/07,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,278,82,196
+Wapello,OT/08,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,356,115,241
+Wapello,OT/09,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,429,183,246
+Wapello,OT/10,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,404,139,265
+Wapello,RL/KV,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,157,46,111
+Wapello,WA/EL,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,244,32,212
+Wapello,AD/BL/PO,District 8A Associate Judge - Susan Cole,,No,,134,39,95
+Wapello,AGT/AGC/PL,District 8A Associate Judge - Susan Cole,,No,,137,30,107
+Wapello,CB/EV,District 8A Associate Judge - Susan Cole,,No,,84,19,65
+Wapello,CN,District 8A Associate Judge - Susan Cole,,No,,126,46,80
+Wapello,CP,District 8A Associate Judge - Susan Cole,,No,,14,0,14
+Wapello,CS/CH,District 8A Associate Judge - Susan Cole,,No,,20,2,18
+Wapello,DA,District 8A Associate Judge - Susan Cole,,No,,53,20,33
+Wapello,GR,District 8A Associate Judge - Susan Cole,,No,,85,31,54
+Wapello,HI,District 8A Associate Judge - Susan Cole,,No,,37,7,30
+Wapello,KE,District 8A Associate Judge - Susan Cole,,No,,95,25,70
+Wapello,OT/01,District 8A Associate Judge - Susan Cole,,No,,172,63,109
+Wapello,OT/02,District 8A Associate Judge - Susan Cole,,No,,182,72,110
+Wapello,OT/03,District 8A Associate Judge - Susan Cole,,No,,225,86,139
+Wapello,OT/04,District 8A Associate Judge - Susan Cole,,No,,81,38,43
+Wapello,OT/05,District 8A Associate Judge - Susan Cole,,No,,117,54,63
+Wapello,OT/06,District 8A Associate Judge - Susan Cole,,No,,128,45,83
+Wapello,OT/07,District 8A Associate Judge - Susan Cole,,No,,125,45,80
+Wapello,OT/08,District 8A Associate Judge - Susan Cole,,No,,180,59,121
+Wapello,OT/09,District 8A Associate Judge - Susan Cole,,No,,191,62,129
+Wapello,OT/10,District 8A Associate Judge - Susan Cole,,No,,139,42,97
+Wapello,RL/KV,District 8A Associate Judge - Susan Cole,,No,,78,29,49
+Wapello,WA/EL,District 8A Associate Judge - Susan Cole,,No,,129,19,110
+Wapello,AD/BL/PO,District 8A Associate Judge - Susan Cole,,Yes,,307,89,218
+Wapello,AGT/AGC/PL,District 8A Associate Judge - Susan Cole,,Yes,,320,78,242
+Wapello,CB/EV,District 8A Associate Judge - Susan Cole,,Yes,,217,28,189
+Wapello,CN,District 8A Associate Judge - Susan Cole,,Yes,,328,138,190
+Wapello,CP,District 8A Associate Judge - Susan Cole,,Yes,,53,18,35
+Wapello,CS/CH,District 8A Associate Judge - Susan Cole,,Yes,,45,5,40
+Wapello,DA,District 8A Associate Judge - Susan Cole,,Yes,,108,42,66
+Wapello,GR,District 8A Associate Judge - Susan Cole,,Yes,,185,44,141
+Wapello,HI,District 8A Associate Judge - Susan Cole,,Yes,,78,16,62
+Wapello,KE,District 8A Associate Judge - Susan Cole,,Yes,,183,51,132
+Wapello,OT/01,District 8A Associate Judge - Susan Cole,,Yes,,304,130,174
+Wapello,OT/02,District 8A Associate Judge - Susan Cole,,Yes,,517,226,291
+Wapello,OT/03,District 8A Associate Judge - Susan Cole,,Yes,,623,278,345
+Wapello,OT/04,District 8A Associate Judge - Susan Cole,,Yes,,174,67,107
+Wapello,OT/05,District 8A Associate Judge - Susan Cole,,Yes,,264,151,113
+Wapello,OT/06,District 8A Associate Judge - Susan Cole,,Yes,,264,115,149
+Wapello,OT/07,District 8A Associate Judge - Susan Cole,,Yes,,266,80,186
+Wapello,OT/08,District 8A Associate Judge - Susan Cole,,Yes,,352,115,237
+Wapello,OT/09,District 8A Associate Judge - Susan Cole,,Yes,,414,180,234
+Wapello,OT/10,District 8A Associate Judge - Susan Cole,,Yes,,390,136,254
+Wapello,RL/KV,District 8A Associate Judge - Susan Cole,,Yes,,152,43,109
+Wapello,WA/EL,District 8A Associate Judge - Susan Cole,,Yes,,234,30,204
+Wapello,AD/BL/PO,District 8A Judge - Amber L. Thompson,,No,,131,38,93
+Wapello,AGT/AGC/PL,District 8A Judge - Amber L. Thompson,,No,,135,30,105
+Wapello,CB/EV,District 8A Judge - Amber L. Thompson,,No,,82,19,63
+Wapello,CN,District 8A Judge - Amber L. Thompson,,No,,133,47,86
+Wapello,CP,District 8A Judge - Amber L. Thompson,,No,,14,1,13
+Wapello,CS/CH,District 8A Judge - Amber L. Thompson,,No,,19,2,17
+Wapello,DA,District 8A Judge - Amber L. Thompson,,No,,50,21,29
+Wapello,GR,District 8A Judge - Amber L. Thompson,,No,,84,30,54
+Wapello,HI,District 8A Judge - Amber L. Thompson,,No,,36,7,29
+Wapello,KE,District 8A Judge - Amber L. Thompson,,No,,88,23,65
+Wapello,OT/01,District 8A Judge - Amber L. Thompson,,No,,160,58,102
+Wapello,OT/02,District 8A Judge - Amber L. Thompson,,No,,178,70,108
+Wapello,OT/03,District 8A Judge - Amber L. Thompson,,No,,213,85,128
+Wapello,OT/04,District 8A Judge - Amber L. Thompson,,No,,84,38,46
+Wapello,OT/05,District 8A Judge - Amber L. Thompson,,No,,109,52,57
+Wapello,OT/06,District 8A Judge - Amber L. Thompson,,No,,120,38,82
+Wapello,OT/07,District 8A Judge - Amber L. Thompson,,No,,114,40,74
+Wapello,OT/08,District 8A Judge - Amber L. Thompson,,No,,175,58,117
+Wapello,OT/09,District 8A Judge - Amber L. Thompson,,No,,183,60,123
+Wapello,OT/10,District 8A Judge - Amber L. Thompson,,No,,137,39,98
+Wapello,RL/KV,District 8A Judge - Amber L. Thompson,,No,,76,28,48
+Wapello,WA/EL,District 8A Judge - Amber L. Thompson,,No,,125,17,108
+Wapello,AD/BL/PO,District 8A Judge - Amber L. Thompson,,Yes,,310,89,221
+Wapello,AGT/AGC/PL,District 8A Judge - Amber L. Thompson,,Yes,,330,82,248
+Wapello,CB/EV,District 8A Judge - Amber L. Thompson,,Yes,,223,29,194
+Wapello,CN,District 8A Judge - Amber L. Thompson,,Yes,,326,140,186
+Wapello,CP,District 8A Judge - Amber L. Thompson,,Yes,,56,18,38
+Wapello,CS/CH,District 8A Judge - Amber L. Thompson,,Yes,,46,5,41
+Wapello,DA,District 8A Judge - Amber L. Thompson,,Yes,,113,41,72
+Wapello,GR,District 8A Judge - Amber L. Thompson,,Yes,,191,46,145
+Wapello,HI,District 8A Judge - Amber L. Thompson,,Yes,,78,15,63
+Wapello,KE,District 8A Judge - Amber L. Thompson,,Yes,,195,55,140
+Wapello,OT/01,District 8A Judge - Amber L. Thompson,,Yes,,328,139,189
+Wapello,OT/02,District 8A Judge - Amber L. Thompson,,Yes,,533,234,299
+Wapello,OT/03,District 8A Judge - Amber L. Thompson,,Yes,,641,281,360
+Wapello,OT/04,District 8A Judge - Amber L. Thompson,,Yes,,177,69,108
+Wapello,OT/05,District 8A Judge - Amber L. Thompson,,Yes,,276,159,117
+Wapello,OT/06,District 8A Judge - Amber L. Thompson,,Yes,,274,124,150
+Wapello,OT/07,District 8A Judge - Amber L. Thompson,,Yes,,282,86,196
+Wapello,OT/08,District 8A Judge - Amber L. Thompson,,Yes,,357,114,243
+Wapello,OT/09,District 8A Judge - Amber L. Thompson,,Yes,,432,189,243
+Wapello,OT/10,District 8A Judge - Amber L. Thompson,,Yes,,400,142,258
+Wapello,RL/KV,District 8A Judge - Amber L. Thompson,,Yes,,156,44,112
+Wapello,WA/EL,District 8A Judge - Amber L. Thompson,,Yes,,254,35,219
+Wapello,AD/BL/PO,District 8A Judge - Dustin Hite,,No,,127,39,88
+Wapello,AGT/AGC/PL,District 8A Judge - Dustin Hite,,No,,133,33,100
+Wapello,CB/EV,District 8A Judge - Dustin Hite,,No,,81,21,60
+Wapello,CN,District 8A Judge - Dustin Hite,,No,,137,54,83
+Wapello,CP,District 8A Judge - Dustin Hite,,No,,15,1,14
+Wapello,CS/CH,District 8A Judge - Dustin Hite,,No,,17,3,14
+Wapello,DA,District 8A Judge - Dustin Hite,,No,,57,22,35
+Wapello,GR,District 8A Judge - Dustin Hite,,No,,81,27,54
+Wapello,HI,District 8A Judge - Dustin Hite,,No,,36,8,28
+Wapello,KE,District 8A Judge - Dustin Hite,,No,,87,22,65
+Wapello,OT/01,District 8A Judge - Dustin Hite,,No,,172,68,104
+Wapello,OT/02,District 8A Judge - Dustin Hite,,No,,194,82,112
+Wapello,OT/03,District 8A Judge - Dustin Hite,,No,,228,89,139
+Wapello,OT/04,District 8A Judge - Dustin Hite,,No,,95,45,50
+Wapello,OT/05,District 8A Judge - Dustin Hite,,No,,129,69,60
+Wapello,OT/06,District 8A Judge - Dustin Hite,,No,,144,52,92
+Wapello,OT/07,District 8A Judge - Dustin Hite,,No,,126,47,79
+Wapello,OT/08,District 8A Judge - Dustin Hite,,No,,184,69,115
+Wapello,OT/09,District 8A Judge - Dustin Hite,,No,,188,70,118
+Wapello,OT/10,District 8A Judge - Dustin Hite,,No,,143,50,93
+Wapello,RL/KV,District 8A Judge - Dustin Hite,,No,,74,23,51
+Wapello,WA/EL,District 8A Judge - Dustin Hite,,No,,122,20,102
+Wapello,AD/BL/PO,District 8A Judge - Dustin Hite,,Yes,,311,88,223
+Wapello,AGT/AGC/PL,District 8A Judge - Dustin Hite,,Yes,,321,76,245
+Wapello,CB/EV,District 8A Judge - Dustin Hite,,Yes,,220,25,195
+Wapello,CN,District 8A Judge - Dustin Hite,,Yes,,319,133,186
+Wapello,CP,District 8A Judge - Dustin Hite,,Yes,,53,18,35
+Wapello,CS/CH,District 8A Judge - Dustin Hite,,Yes,,45,4,41
+Wapello,DA,District 8A Judge - Dustin Hite,,Yes,,104,38,66
+Wapello,GR,District 8A Judge - Dustin Hite,,Yes,,180,44,136
+Wapello,HI,District 8A Judge - Dustin Hite,,Yes,,74,12,62
+Wapello,KE,District 8A Judge - Dustin Hite,,Yes,,192,56,136
+Wapello,OT/01,District 8A Judge - Dustin Hite,,Yes,,306,123,183
+Wapello,OT/02,District 8A Judge - Dustin Hite,,Yes,,506,219,287
+Wapello,OT/03,District 8A Judge - Dustin Hite,,Yes,,622,275,347
+Wapello,OT/04,District 8A Judge - Dustin Hite,,Yes,,157,58,99
+Wapello,OT/05,District 8A Judge - Dustin Hite,,Yes,,253,137,116
+Wapello,OT/06,District 8A Judge - Dustin Hite,,Yes,,246,106,140
+Wapello,OT/07,District 8A Judge - Dustin Hite,,Yes,,268,81,187
+Wapello,OT/08,District 8A Judge - Dustin Hite,,Yes,,339,98,241
+Wapello,OT/09,District 8A Judge - Dustin Hite,,Yes,,410,169,241
+Wapello,OT/10,District 8A Judge - Dustin Hite,,Yes,,377,123,254
+Wapello,RL/KV,District 8A Judge - Dustin Hite,,Yes,,157,45,112
+Wapello,WA/EL,District 8A Judge - Dustin Hite,,Yes,,234,29,205
+Wapello,AGT/AGC/PL,Fairfield School - Public Measure LR,,No,,0,0,0
+Wapello,AGT/AGC/PL,Fairfield School - Public Measure LR,,Yes,,0,0,0
+Wapello,AD/BL/PO,Governor,,Rob Sand and Dave Muhlbauer,DEM,202,90,112
+Wapello,AGT/AGC/PL,Governor,,Rob Sand and Dave Muhlbauer,DEM,270,90,180
+Wapello,CB/EV,Governor,,Rob Sand and Dave Muhlbauer,DEM,150,36,114
+Wapello,CN,Governor,,Rob Sand and Dave Muhlbauer,DEM,237,117,120
+Wapello,CP,Governor,,Rob Sand and Dave Muhlbauer,DEM,24,12,12
+Wapello,CS/CH,Governor,,Rob Sand and Dave Muhlbauer,DEM,38,3,35
+Wapello,DA,Governor,,Rob Sand and Dave Muhlbauer,DEM,102,45,57
+Wapello,GR,Governor,,Rob Sand and Dave Muhlbauer,DEM,122,44,78
+Wapello,HI,Governor,,Rob Sand and Dave Muhlbauer,DEM,42,10,32
+Wapello,KE,Governor,,Rob Sand and Dave Muhlbauer,DEM,147,64,83
+Wapello,OT/01,Governor,,Rob Sand and Dave Muhlbauer,DEM,363,164,199
+Wapello,OT/02,Governor,,Rob Sand and Dave Muhlbauer,DEM,551,271,280
+Wapello,OT/03,Governor,,Rob Sand and Dave Muhlbauer,DEM,682,318,364
+Wapello,OT/04,Governor,,Rob Sand and Dave Muhlbauer,DEM,268,99,169
+Wapello,OT/05,Governor,,Rob Sand and Dave Muhlbauer,DEM,305,176,129
+Wapello,OT/06,Governor,,Rob Sand and Dave Muhlbauer,DEM,283,139,144
+Wapello,OT/07,Governor,,Rob Sand and Dave Muhlbauer,DEM,292,122,170
+Wapello,OT/08,Governor,,Rob Sand and Dave Muhlbauer,DEM,366,159,207
+Wapello,OT/09,Governor,,Rob Sand and Dave Muhlbauer,DEM,468,221,247
+Wapello,OT/10,Governor,,Rob Sand and Dave Muhlbauer,DEM,391,162,229
+Wapello,RL/KV,Governor,,Rob Sand and Dave Muhlbauer,DEM,118,52,66
+Wapello,WA/EL,Governor,,Rob Sand and Dave Muhlbauer,DEM,170,36,134
+Wapello,AD/BL/PO,Governor,,Write-In,,1,0,1
+Wapello,AGT/AGC/PL,Governor,,Write-In,,0,0,0
+Wapello,CB/EV,Governor,,Write-In,,0,0,0
+Wapello,CN,Governor,,Write-In,,0,0,0
+Wapello,CP,Governor,,Write-In,,0,0,0
+Wapello,CS/CH,Governor,,Write-In,,1,1,0
+Wapello,DA,Governor,,Write-In,,0,0,0
+Wapello,GR,Governor,,Write-In,,0,0,0
+Wapello,HI,Governor,,Write-In,,0,0,0
+Wapello,KE,Governor,,Write-In,,0,0,0
+Wapello,OT/01,Governor,,Write-In,,0,0,0
+Wapello,OT/02,Governor,,Write-In,,1,1,0
+Wapello,OT/03,Governor,,Write-In,,1,0,1
+Wapello,OT/04,Governor,,Write-In,,0,0,0
+Wapello,OT/05,Governor,,Write-In,,1,0,1
+Wapello,OT/06,Governor,,Write-In,,1,0,1
+Wapello,OT/07,Governor,,Write-In,,1,1,0
+Wapello,OT/08,Governor,,Write-In,,1,0,1
+Wapello,OT/09,Governor,,Write-In,,0,0,0
+Wapello,OT/10,Governor,,Write-In,,0,0,0
+Wapello,RL/KV,Governor,,Write-In,,0,0,0
+Wapello,WA/EL,Governor,,Write-In,,0,0,0
+Wapello,AD/BL/PO,Governor,,Zach Lahn and Derek Wulf,REP,375,80,295
+Wapello,AGT/AGC/PL,Governor,,Zach Lahn and Derek Wulf,REP,339,66,273
+Wapello,CB/EV,Governor,,Zach Lahn and Derek Wulf,REP,215,21,194
+Wapello,CN,Governor,,Zach Lahn and Derek Wulf,REP,381,157,224
+Wapello,CP,Governor,,Zach Lahn and Derek Wulf,REP,69,22,47
+Wapello,CS/CH,Governor,,Zach Lahn and Derek Wulf,REP,49,4,45
+Wapello,DA,Governor,,Zach Lahn and Derek Wulf,REP,139,46,93
+Wapello,GR,Governor,,Zach Lahn and Derek Wulf,REP,258,68,190
+Wapello,HI,Governor,,Zach Lahn and Derek Wulf,REP,98,20,78
+Wapello,KE,Governor,,Zach Lahn and Derek Wulf,REP,236,52,184
+Wapello,OT/01,Governor,,Zach Lahn and Derek Wulf,REP,277,106,171
+Wapello,OT/02,Governor,,Zach Lahn and Derek Wulf,REP,413,160,253
+Wapello,OT/03,Governor,,Zach Lahn and Derek Wulf,REP,486,184,302
+Wapello,OT/04,Governor,,Zach Lahn and Derek Wulf,REP,153,49,104
+Wapello,OT/05,Governor,,Zach Lahn and Derek Wulf,REP,189,90,99
+Wapello,OT/06,Governor,,Zach Lahn and Derek Wulf,REP,210,61,149
+Wapello,OT/07,Governor,,Zach Lahn and Derek Wulf,REP,216,54,162
+Wapello,OT/08,Governor,,Zach Lahn and Derek Wulf,REP,328,73,255
+Wapello,OT/09,Governor,,Zach Lahn and Derek Wulf,REP,379,132,247
+Wapello,OT/10,Governor,,Zach Lahn and Derek Wulf,REP,312,87,225
+Wapello,RL/KV,Governor,,Zach Lahn and Derek Wulf,REP,187,36,151
+Wapello,WA/EL,Governor,,Zach Lahn and Derek Wulf,REP,283,25,258
+Wapello,GR,Green Township Clerk,,Derek Ziegler,,282,74,208
+Wapello,GR,Green Township Clerk,,Write-In,,9,2,7
+Wapello,GR,Green Township Trustee,,Caleb Ziegler,,281,75,206
+Wapello,GR,Green Township Trustee,,Write-In,,39,6,33
+Wapello,HI,Highland Township Clerk,,Julie Bayliss,,128,26,102
+Wapello,HI,Highland Township Clerk,,Write-In,,1,0,1
+Wapello,HI,Highland Township Trustee,,Rusty Zook,,115,21,94
+Wapello,HI,Highland Township Trustee,,Tony Bayliss,,105,20,85
+Wapello,HI,Highland Township Trustee,,Write-In,,1,0,1
+Wapello,KE,Keokuk Township Clerk,,Tasha Robertson,,282,79,203
+Wapello,KE,Keokuk Township Clerk,,Write-In,,1,0,1
+Wapello,KE,Keokuk Township Trustee,,Edward E. McDowell,,293,80,213
+Wapello,KE,Keokuk Township Trustee,,Write-In,,7,0,7
+Wapello,KE,Keokuk Township Trustee To Fill a Vacancy,,Write-In,,30,4,26
+Wapello,AGT/AGC/PL,Pekin School - Public Measure MN,,No,,2,0,2
+Wapello,CP,Pekin School - Public Measure MN,,No,,34,9,25
+Wapello,DA,Pekin School - Public Measure MN,,No,,0,0,0
+Wapello,HI,Pekin School - Public Measure MN,,No,,26,2,24
+Wapello,AGT/AGC/PL,Pekin School - Public Measure MN,,Yes,,2,0,2
+Wapello,CP,Pekin School - Public Measure MN,,Yes,,59,25,34
+Wapello,DA,Pekin School - Public Measure MN,,Yes,,0,0,0
+Wapello,HI,Pekin School - Public Measure MN,,Yes,,45,4,41
+Wapello,AGT/AGC/PL,Pleasant Township Clerk,,Write-In,,11,2,9
+Wapello,AGT/AGC/PL,Pleasant Township Trustee,,Write-In,,28,6,22
+Wapello,AD/BL/PO,Polk Township Clerk,,Laura See,,232,65,167
+Wapello,AD/BL/PO,Polk Township Clerk,,Write-In,,1,1,0
+Wapello,AD/BL/PO,Polk Township Trustee,,Aaron Angle,,213,62,151
+Wapello,AD/BL/PO,Polk Township Trustee,,Charles Harris,,184,58,126
+Wapello,AD/BL/PO,Polk Township Trustee,,Write-In,,7,2,5
+Wapello,RL/KV,Richland Township Clerk,,Charlene Doyle,,177,58,119
+Wapello,RL/KV,Richland Township Clerk,,Write-In,,2,0,2
+Wapello,RL/KV,Richland Township Trustee,,Perry Middlesworth,,166,53,113
+Wapello,RL/KV,Richland Township Trustee,,Tom Doyle,,139,43,96
+Wapello,RL/KV,Richland Township Trustee,,Write-In,,4,0,4
+Wapello,AD/BL/PO,Secretary of Agriculture,,Chris Jones,DEM,141,73,68
+Wapello,AGT/AGC/PL,Secretary of Agriculture,,Chris Jones,DEM,193,81,112
+Wapello,CB/EV,Secretary of Agriculture,,Chris Jones,DEM,112,31,81
+Wapello,CN,Secretary of Agriculture,,Chris Jones,DEM,179,96,83
+Wapello,CP,Secretary of Agriculture,,Chris Jones,DEM,14,4,10
+Wapello,CS/CH,Secretary of Agriculture,,Chris Jones,DEM,24,3,21
+Wapello,DA,Secretary of Agriculture,,Chris Jones,DEM,80,41,39
+Wapello,GR,Secretary of Agriculture,,Chris Jones,DEM,100,43,57
+Wapello,HI,Secretary of Agriculture,,Chris Jones,DEM,27,7,20
+Wapello,KE,Secretary of Agriculture,,Chris Jones,DEM,113,55,58
+Wapello,OT/01,Secretary of Agriculture,,Chris Jones,DEM,312,144,168
+Wapello,OT/02,Secretary of Agriculture,,Chris Jones,DEM,478,234,244
+Wapello,OT/03,Secretary of Agriculture,,Chris Jones,DEM,581,284,297
+Wapello,OT/04,Secretary of Agriculture,,Chris Jones,DEM,231,90,141
+Wapello,OT/05,Secretary of Agriculture,,Chris Jones,DEM,275,167,108
+Wapello,OT/06,Secretary of Agriculture,,Chris Jones,DEM,258,131,127
+Wapello,OT/07,Secretary of Agriculture,,Chris Jones,DEM,264,121,143
+Wapello,OT/08,Secretary of Agriculture,,Chris Jones,DEM,327,154,173
+Wapello,OT/09,Secretary of Agriculture,,Chris Jones,DEM,408,192,216
+Wapello,OT/10,Secretary of Agriculture,,Chris Jones,DEM,346,150,196
+Wapello,RL/KV,Secretary of Agriculture,,Chris Jones,DEM,92,47,45
+Wapello,WA/EL,Secretary of Agriculture,,Chris Jones,DEM,122,30,92
+Wapello,AD/BL/PO,Secretary of Agriculture,,Mike Naig,REP,427,95,332
+Wapello,AGT/AGC/PL,Secretary of Agriculture,,Mike Naig,REP,396,73,323
+Wapello,CB/EV,Secretary of Agriculture,,Mike Naig,REP,249,24,225
+Wapello,CN,Secretary of Agriculture,,Mike Naig,REP,422,172,250
+Wapello,CP,Secretary of Agriculture,,Mike Naig,REP,79,30,49
+Wapello,CS/CH,Secretary of Agriculture,,Mike Naig,REP,62,5,57
+Wapello,DA,Secretary of Agriculture,,Mike Naig,REP,159,51,108
+Wapello,GR,Secretary of Agriculture,,Mike Naig,REP,278,69,209
+Wapello,HI,Secretary of Agriculture,,Mike Naig,REP,112,23,89
+Wapello,KE,Secretary of Agriculture,,Mike Naig,REP,264,59,205
+Wapello,OT/01,Secretary of Agriculture,,Mike Naig,REP,317,121,196
+Wapello,OT/02,Secretary of Agriculture,,Mike Naig,REP,468,191,277
+Wapello,OT/03,Secretary of Agriculture,,Mike Naig,REP,558,214,344
+Wapello,OT/04,Secretary of Agriculture,,Mike Naig,REP,163,52,111
+Wapello,OT/05,Secretary of Agriculture,,Mike Naig,REP,215,97,118
+Wapello,OT/06,Secretary of Agriculture,,Mike Naig,REP,236,70,166
+Wapello,OT/07,Secretary of Agriculture,,Mike Naig,REP,234,54,180
+Wapello,OT/08,Secretary of Agriculture,,Mike Naig,REP,359,80,279
+Wapello,OT/09,Secretary of Agriculture,,Mike Naig,REP,423,156,267
+Wapello,OT/10,Secretary of Agriculture,,Mike Naig,REP,345,97,248
+Wapello,RL/KV,Secretary of Agriculture,,Mike Naig,REP,211,41,170
+Wapello,WA/EL,Secretary of Agriculture,,Mike Naig,REP,322,30,292
+Wapello,AD/BL/PO,Secretary of Agriculture,,Write-In,,1,0,1
+Wapello,AGT/AGC/PL,Secretary of Agriculture,,Write-In,,1,0,1
+Wapello,CB/EV,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,CN,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,CP,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,CS/CH,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,DA,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,GR,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,HI,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,KE,Secretary of Agriculture,,Write-In,,1,0,1
+Wapello,OT/01,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,OT/02,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,OT/03,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,OT/04,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,OT/05,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,OT/06,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,OT/07,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,OT/08,Secretary of Agriculture,,Write-In,,2,0,2
+Wapello,OT/09,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,OT/10,Secretary of Agriculture,,Write-In,,1,0,1
+Wapello,RL/KV,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,WA/EL,Secretary of Agriculture,,Write-In,,0,0,0
+Wapello,AD/BL/PO,Secretary of State,,Paul D. Pate,REP,421,93,328
+Wapello,AGT/AGC/PL,Secretary of State,,Paul D. Pate,REP,398,75,323
+Wapello,CB/EV,Secretary of State,,Paul D. Pate,REP,253,25,228
+Wapello,CN,Secretary of State,,Paul D. Pate,REP,437,171,266
+Wapello,CP,Secretary of State,,Paul D. Pate,REP,77,28,49
+Wapello,CS/CH,Secretary of State,,Paul D. Pate,REP,64,5,59
+Wapello,DA,Secretary of State,,Paul D. Pate,REP,163,52,111
+Wapello,GR,Secretary of State,,Paul D. Pate,REP,283,70,213
+Wapello,HI,Secretary of State,,Paul D. Pate,REP,112,24,88
+Wapello,KE,Secretary of State,,Paul D. Pate,REP,267,60,207
+Wapello,OT/01,Secretary of State,,Paul D. Pate,REP,325,119,206
+Wapello,OT/02,Secretary of State,,Paul D. Pate,REP,473,189,284
+Wapello,OT/03,Secretary of State,,Paul D. Pate,REP,572,212,360
+Wapello,OT/04,Secretary of State,,Paul D. Pate,REP,180,55,125
+Wapello,OT/05,Secretary of State,,Paul D. Pate,REP,216,102,114
+Wapello,OT/06,Secretary of State,,Paul D. Pate,REP,238,73,165
+Wapello,OT/07,Secretary of State,,Paul D. Pate,REP,251,57,194
+Wapello,OT/08,Secretary of State,,Paul D. Pate,REP,355,78,277
+Wapello,OT/09,Secretary of State,,Paul D. Pate,REP,442,161,281
+Wapello,OT/10,Secretary of State,,Paul D. Pate,REP,346,96,250
+Wapello,RL/KV,Secretary of State,,Paul D. Pate,REP,219,43,176
+Wapello,WA/EL,Secretary of State,,Paul D. Pate,REP,328,32,296
+Wapello,AD/BL/PO,Secretary of State,,Ryan Peterman,DEM,148,76,72
+Wapello,AGT/AGC/PL,Secretary of State,,Ryan Peterman,DEM,198,80,118
+Wapello,CB/EV,Secretary of State,,Ryan Peterman,DEM,109,31,78
+Wapello,CN,Secretary of State,,Ryan Peterman,DEM,168,100,68
+Wapello,CP,Secretary of State,,Ryan Peterman,DEM,15,5,10
+Wapello,CS/CH,Secretary of State,,Ryan Peterman,DEM,22,3,19
+Wapello,DA,Secretary of State,,Ryan Peterman,DEM,74,39,35
+Wapello,GR,Secretary of State,,Ryan Peterman,DEM,96,43,53
+Wapello,HI,Secretary of State,,Ryan Peterman,DEM,28,6,22
+Wapello,KE,Secretary of State,,Ryan Peterman,DEM,112,55,57
+Wapello,OT/01,Secretary of State,,Ryan Peterman,DEM,308,148,160
+Wapello,OT/02,Secretary of State,,Ryan Peterman,DEM,471,237,234
+Wapello,OT/03,Secretary of State,,Ryan Peterman,DEM,571,283,288
+Wapello,OT/04,Secretary of State,,Ryan Peterman,DEM,222,91,131
+Wapello,OT/05,Secretary of State,,Ryan Peterman,DEM,273,163,110
+Wapello,OT/06,Secretary of State,,Ryan Peterman,DEM,256,127,129
+Wapello,OT/07,Secretary of State,,Ryan Peterman,DEM,252,120,132
+Wapello,OT/08,Secretary of State,,Ryan Peterman,DEM,329,154,175
+Wapello,OT/09,Secretary of State,,Ryan Peterman,DEM,398,188,210
+Wapello,OT/10,Secretary of State,,Ryan Peterman,DEM,350,150,200
+Wapello,RL/KV,Secretary of State,,Ryan Peterman,DEM,86,46,40
+Wapello,WA/EL,Secretary of State,,Ryan Peterman,DEM,118,29,89
+Wapello,AD/BL/PO,Secretary of State,,Write-In,,1,0,1
+Wapello,AGT/AGC/PL,Secretary of State,,Write-In,,0,0,0
+Wapello,CB/EV,Secretary of State,,Write-In,,0,0,0
+Wapello,CN,Secretary of State,,Write-In,,0,0,0
+Wapello,CP,Secretary of State,,Write-In,,0,0,0
+Wapello,CS/CH,Secretary of State,,Write-In,,0,0,0
+Wapello,DA,Secretary of State,,Write-In,,0,0,0
+Wapello,GR,Secretary of State,,Write-In,,0,0,0
+Wapello,HI,Secretary of State,,Write-In,,0,0,0
+Wapello,KE,Secretary of State,,Write-In,,0,0,0
+Wapello,OT/01,Secretary of State,,Write-In,,1,0,1
+Wapello,OT/02,Secretary of State,,Write-In,,3,1,2
+Wapello,OT/03,Secretary of State,,Write-In,,1,1,0
+Wapello,OT/04,Secretary of State,,Write-In,,0,0,0
+Wapello,OT/05,Secretary of State,,Write-In,,2,1,1
+Wapello,OT/06,Secretary of State,,Write-In,,0,0,0
+Wapello,OT/07,Secretary of State,,Write-In,,1,0,1
+Wapello,OT/08,Secretary of State,,Write-In,,2,0,2
+Wapello,OT/09,Secretary of State,,Write-In,,0,0,0
+Wapello,OT/10,Secretary of State,,Write-In,,1,1,0
+Wapello,RL/KV,Secretary of State,,Write-In,,0,0,0
+Wapello,WA/EL,Secretary of State,,Write-In,,0,0,0
+Wapello,AD/BL/PO,Soil and Water Conservation District Commissioner,,Connie Beinhart,,408,122,286
+Wapello,AGT/AGC/PL,Soil and Water Conservation District Commissioner,,Connie Beinhart,,366,89,277
+Wapello,CB/EV,Soil and Water Conservation District Commissioner,,Connie Beinhart,,241,32,209
+Wapello,CN,Soil and Water Conservation District Commissioner,,Connie Beinhart,,361,160,201
+Wapello,CP,Soil and Water Conservation District Commissioner,,Connie Beinhart,,71,26,45
+Wapello,CS/CH,Soil and Water Conservation District Commissioner,,Connie Beinhart,,52,5,47
+Wapello,DA,Soil and Water Conservation District Commissioner,,Connie Beinhart,,162,58,104
+Wapello,GR,Soil and Water Conservation District Commissioner,,Connie Beinhart,,237,68,169
+Wapello,HI,Soil and Water Conservation District Commissioner,,Connie Beinhart,,92,17,75
+Wapello,KE,Soil and Water Conservation District Commissioner,,Connie Beinhart,,212,61,151
+Wapello,OT/01,Soil and Water Conservation District Commissioner,,Connie Beinhart,,359,153,206
+Wapello,OT/02,Soil and Water Conservation District Commissioner,,Connie Beinhart,,551,249,302
+Wapello,OT/03,Soil and Water Conservation District Commissioner,,Connie Beinhart,,643,274,369
+Wapello,OT/04,Soil and Water Conservation District Commissioner,,Connie Beinhart,,177,79,98
+Wapello,OT/05,Soil and Water Conservation District Commissioner,,Connie Beinhart,,272,143,129
+Wapello,OT/06,Soil and Water Conservation District Commissioner,,Connie Beinhart,,315,120,195
+Wapello,OT/07,Soil and Water Conservation District Commissioner,,Connie Beinhart,,268,92,176
+Wapello,OT/08,Soil and Water Conservation District Commissioner,,Connie Beinhart,,393,127,266
+Wapello,OT/09,Soil and Water Conservation District Commissioner,,Connie Beinhart,,461,190,271
+Wapello,OT/10,Soil and Water Conservation District Commissioner,,Connie Beinhart,,390,130,260
+Wapello,RL/KV,Soil and Water Conservation District Commissioner,,Connie Beinhart,,180,58,122
+Wapello,WA/EL,Soil and Water Conservation District Commissioner,,Connie Beinhart,,295,36,259
+Wapello,AD/BL/PO,Soil and Water Conservation District Commissioner,,Keith Lewis,,401,121,280
+Wapello,AGT/AGC/PL,Soil and Water Conservation District Commissioner,,Keith Lewis,,421,106,315
+Wapello,CB/EV,Soil and Water Conservation District Commissioner,,Keith Lewis,,262,35,227
+Wapello,CN,Soil and Water Conservation District Commissioner,,Keith Lewis,,402,168,234
+Wapello,CP,Soil and Water Conservation District Commissioner,,Keith Lewis,,69,26,43
+Wapello,CS/CH,Soil and Water Conservation District Commissioner,,Keith Lewis,,53,5,48
+Wapello,DA,Soil and Water Conservation District Commissioner,,Keith Lewis,,158,59,99
+Wapello,GR,Soil and Water Conservation District Commissioner,,Keith Lewis,,241,62,179
+Wapello,HI,Soil and Water Conservation District Commissioner,,Keith Lewis,,110,22,88
+Wapello,KE,Soil and Water Conservation District Commissioner,,Keith Lewis,,248,67,181
+Wapello,OT/01,Soil and Water Conservation District Commissioner,,Keith Lewis,,390,154,236
+Wapello,OT/02,Soil and Water Conservation District Commissioner,,Keith Lewis,,617,270,347
+Wapello,OT/03,Soil and Water Conservation District Commissioner,,Keith Lewis,,765,329,436
+Wapello,OT/04,Soil and Water Conservation District Commissioner,,Keith Lewis,,185,78,107
+Wapello,OT/05,Soil and Water Conservation District Commissioner,,Keith Lewis,,285,152,133
+Wapello,OT/06,Soil and Water Conservation District Commissioner,,Keith Lewis,,316,128,188
+Wapello,OT/07,Soil and Water Conservation District Commissioner,,Keith Lewis,,289,98,191
+Wapello,OT/08,Soil and Water Conservation District Commissioner,,Keith Lewis,,404,133,271
+Wapello,OT/09,Soil and Water Conservation District Commissioner,,Keith Lewis,,510,206,304
+Wapello,OT/10,Soil and Water Conservation District Commissioner,,Keith Lewis,,432,147,285
+Wapello,RL/KV,Soil and Water Conservation District Commissioner,,Keith Lewis,,195,57,138
+Wapello,WA/EL,Soil and Water Conservation District Commissioner,,Keith Lewis,,314,39,275
+Wapello,AD/BL/PO,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Wapello,AGT/AGC/PL,Soil and Water Conservation District Commissioner,,Write-In,,5,1,4
+Wapello,CB/EV,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Wapello,CN,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
+Wapello,CP,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Wapello,CS/CH,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Wapello,DA,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Wapello,GR,Soil and Water Conservation District Commissioner,,Write-In,,4,3,1
+Wapello,HI,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Wapello,KE,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Wapello,OT/01,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
+Wapello,OT/02,Soil and Water Conservation District Commissioner,,Write-In,,5,2,3
+Wapello,OT/03,Soil and Water Conservation District Commissioner,,Write-In,,14,8,6
+Wapello,OT/04,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Wapello,OT/05,Soil and Water Conservation District Commissioner,,Write-In,,9,2,7
+Wapello,OT/06,Soil and Water Conservation District Commissioner,,Write-In,,7,4,3
+Wapello,OT/07,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
+Wapello,OT/08,Soil and Water Conservation District Commissioner,,Write-In,,11,7,4
+Wapello,OT/09,Soil and Water Conservation District Commissioner,,Write-In,,8,2,6
+Wapello,OT/10,Soil and Water Conservation District Commissioner,,Write-In,,8,3,5
+Wapello,RL/KV,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Wapello,WA/EL,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Wapello,AGT/AGC/PL,State House,25,Hans C. Wilz,REP,403,81,322
+Wapello,CN,State House,25,Hans C. Wilz,REP,425,165,260
+Wapello,CP,State House,25,Hans C. Wilz,REP,75,26,49
+Wapello,DA,State House,25,Hans C. Wilz,REP,164,52,112
+Wapello,GR,State House,25,Hans C. Wilz,REP,280,68,212
+Wapello,KE,State House,25,Hans C. Wilz,REP,267,59,208
+Wapello,OT/01,State House,25,Hans C. Wilz,REP,339,125,214
+Wapello,OT/02,State House,25,Hans C. Wilz,REP,515,199,316
+Wapello,OT/03,State House,25,Hans C. Wilz,REP,640,223,417
+Wapello,OT/04,State House,25,Hans C. Wilz,REP,182,54,128
+Wapello,OT/05,State House,25,Hans C. Wilz,REP,230,109,121
+Wapello,OT/06,State House,25,Hans C. Wilz,REP,250,72,178
+Wapello,OT/07,State House,25,Hans C. Wilz,REP,259,54,205
+Wapello,OT/08,State House,25,Hans C. Wilz,REP,381,87,294
+Wapello,OT/09,State House,25,Hans C. Wilz,REP,447,159,288
+Wapello,OT/10,State House,25,Hans C. Wilz,REP,352,100,252
+Wapello,WA/EL,State House,25,Hans C. Wilz,REP,317,26,291
+Wapello,AGT/AGC/PL,State House,25,Kolton Jones,DEM,191,74,117
+Wapello,CN,State House,25,Kolton Jones,DEM,179,104,75
+Wapello,CP,State House,25,Kolton Jones,DEM,14,6,8
+Wapello,DA,State House,25,Kolton Jones,DEM,72,36,36
+Wapello,GR,State House,25,Kolton Jones,DEM,93,43,50
+Wapello,KE,State House,25,Kolton Jones,DEM,111,55,56
+Wapello,OT/01,State House,25,Kolton Jones,DEM,295,141,154
+Wapello,OT/02,State House,25,Kolton Jones,DEM,437,228,209
+Wapello,OT/03,State House,25,Kolton Jones,DEM,514,272,242
+Wapello,OT/04,State House,25,Kolton Jones,DEM,217,85,132
+Wapello,OT/05,State House,25,Kolton Jones,DEM,259,158,101
+Wapello,OT/06,State House,25,Kolton Jones,DEM,243,126,117
+Wapello,OT/07,State House,25,Kolton Jones,DEM,241,120,121
+Wapello,OT/08,State House,25,Kolton Jones,DEM,307,147,160
+Wapello,OT/09,State House,25,Kolton Jones,DEM,380,185,195
+Wapello,OT/10,State House,25,Kolton Jones,DEM,340,147,193
+Wapello,WA/EL,State House,25,Kolton Jones,DEM,130,34,96
+Wapello,AGT/AGC/PL,State House,25,Write-In,,0,0,0
+Wapello,CN,State House,25,Write-In,,0,0,0
+Wapello,CP,State House,25,Write-In,,0,0,0
+Wapello,DA,State House,25,Write-In,,0,0,0
+Wapello,GR,State House,25,Write-In,,2,1,1
+Wapello,KE,State House,25,Write-In,,0,0,0
+Wapello,OT/01,State House,25,Write-In,,0,0,0
+Wapello,OT/02,State House,25,Write-In,,1,0,1
+Wapello,OT/03,State House,25,Write-In,,0,0,0
+Wapello,OT/04,State House,25,Write-In,,0,0,0
+Wapello,OT/05,State House,25,Write-In,,0,0,0
+Wapello,OT/06,State House,25,Write-In,,0,0,0
+Wapello,OT/07,State House,25,Write-In,,2,0,2
+Wapello,OT/08,State House,25,Write-In,,3,1,2
+Wapello,OT/09,State House,25,Write-In,,0,0,0
+Wapello,OT/10,State House,25,Write-In,,1,0,1
+Wapello,WA/EL,State House,25,Write-In,,1,0,1
+Wapello,AD/BL/PO,State House,26,Austin Harris,REP,396,81,315
+Wapello,CB/EV,State House,26,Austin Harris,REP,240,22,218
+Wapello,CS/CH,State House,26,Austin Harris,REP,60,4,56
+Wapello,HI,State House,26,Austin Harris,REP,103,21,82
+Wapello,RL/KV,State House,26,Austin Harris,REP,204,38,166
+Wapello,AD/BL/PO,State House,26,Brett Mohler,DEM,166,87,79
+Wapello,CB/EV,State House,26,Brett Mohler,DEM,120,34,86
+Wapello,CS/CH,State House,26,Brett Mohler,DEM,25,4,21
+Wapello,HI,State House,26,Brett Mohler,DEM,35,8,27
+Wapello,RL/KV,State House,26,Brett Mohler,DEM,95,48,47
+Wapello,AD/BL/PO,State House,26,Write-In,,0,0,0
+Wapello,CB/EV,State House,26,Write-In,,0,0,0
+Wapello,CS/CH,State House,26,Write-In,,0,0,0
+Wapello,HI,State House,26,Write-In,,0,0,0
+Wapello,RL/KV,State House,26,Write-In,,0,0,0
+Wapello,AD/BL/PO,State Senate,13,Brenda Case,DEM,166,84,82
+Wapello,AGT/AGC/PL,State Senate,13,Brenda Case,DEM,196,83,113
+Wapello,CB/EV,State Senate,13,Brenda Case,DEM,121,34,87
+Wapello,CN,State Senate,13,Brenda Case,DEM,181,99,82
+Wapello,CP,State Senate,13,Brenda Case,DEM,17,6,11
+Wapello,CS/CH,State Senate,13,Brenda Case,DEM,27,4,23
+Wapello,DA,State Senate,13,Brenda Case,DEM,85,44,41
+Wapello,GR,State Senate,13,Brenda Case,DEM,100,44,56
+Wapello,HI,State Senate,13,Brenda Case,DEM,35,7,28
+Wapello,KE,State Senate,13,Brenda Case,DEM,115,59,56
+Wapello,OT/01,State Senate,13,Brenda Case,DEM,313,148,165
+Wapello,OT/02,State Senate,13,Brenda Case,DEM,482,242,240
+Wapello,OT/03,State Senate,13,Brenda Case,DEM,594,294,300
+Wapello,OT/04,State Senate,13,Brenda Case,DEM,220,89,131
+Wapello,OT/05,State Senate,13,Brenda Case,DEM,287,169,118
+Wapello,OT/06,State Senate,13,Brenda Case,DEM,252,131,121
+Wapello,OT/07,State Senate,13,Brenda Case,DEM,255,117,138
+Wapello,OT/08,State Senate,13,Brenda Case,DEM,330,153,177
+Wapello,OT/09,State Senate,13,Brenda Case,DEM,388,195,193
+Wapello,OT/10,State Senate,13,Brenda Case,DEM,356,155,201
+Wapello,RL/KV,State Senate,13,Brenda Case,DEM,93,48,45
+Wapello,WA/EL,State Senate,13,Brenda Case,DEM,129,31,98
+Wapello,AD/BL/PO,State Senate,13,Jeff Kulmatycki,REP,400,85,315
+Wapello,AGT/AGC/PL,State Senate,13,Jeff Kulmatycki,REP,395,69,326
+Wapello,CB/EV,State Senate,13,Jeff Kulmatycki,REP,237,22,215
+Wapello,CN,State Senate,13,Jeff Kulmatycki,REP,415,168,247
+Wapello,CP,State Senate,13,Jeff Kulmatycki,REP,72,26,46
+Wapello,CS/CH,State Senate,13,Jeff Kulmatycki,REP,57,4,53
+Wapello,DA,State Senate,13,Jeff Kulmatycki,REP,150,44,106
+Wapello,GR,State Senate,13,Jeff Kulmatycki,REP,276,67,209
+Wapello,HI,State Senate,13,Jeff Kulmatycki,REP,103,21,82
+Wapello,KE,State Senate,13,Jeff Kulmatycki,REP,260,54,206
+Wapello,OT/01,State Senate,13,Jeff Kulmatycki,REP,321,119,202
+Wapello,OT/02,State Senate,13,Jeff Kulmatycki,REP,464,182,282
+Wapello,OT/03,State Senate,13,Jeff Kulmatycki,REP,551,201,350
+Wapello,OT/04,State Senate,13,Jeff Kulmatycki,REP,180,55,125
+Wapello,OT/05,State Senate,13,Jeff Kulmatycki,REP,198,95,103
+Wapello,OT/06,State Senate,13,Jeff Kulmatycki,REP,240,67,173
+Wapello,OT/07,State Senate,13,Jeff Kulmatycki,REP,247,54,193
+Wapello,OT/08,State Senate,13,Jeff Kulmatycki,REP,353,81,272
+Wapello,OT/09,State Senate,13,Jeff Kulmatycki,REP,438,149,289
+Wapello,OT/10,State Senate,13,Jeff Kulmatycki,REP,333,93,240
+Wapello,RL/KV,State Senate,13,Jeff Kulmatycki,REP,207,39,168
+Wapello,WA/EL,State Senate,13,Jeff Kulmatycki,REP,315,28,287
+Wapello,AD/BL/PO,State Senate,13,Write-In,,0,0,0
+Wapello,AGT/AGC/PL,State Senate,13,Write-In,,0,0,0
+Wapello,CB/EV,State Senate,13,Write-In,,0,0,0
+Wapello,CN,State Senate,13,Write-In,,1,0,1
+Wapello,CP,State Senate,13,Write-In,,0,0,0
+Wapello,CS/CH,State Senate,13,Write-In,,0,0,0
+Wapello,DA,State Senate,13,Write-In,,0,0,0
+Wapello,GR,State Senate,13,Write-In,,0,0,0
+Wapello,HI,State Senate,13,Write-In,,0,0,0
+Wapello,KE,State Senate,13,Write-In,,0,0,0
+Wapello,OT/01,State Senate,13,Write-In,,0,0,0
+Wapello,OT/02,State Senate,13,Write-In,,0,0,0
+Wapello,OT/03,State Senate,13,Write-In,,0,0,0
+Wapello,OT/04,State Senate,13,Write-In,,0,0,0
+Wapello,OT/05,State Senate,13,Write-In,,0,0,0
+Wapello,OT/06,State Senate,13,Write-In,,0,0,0
+Wapello,OT/07,State Senate,13,Write-In,,0,0,0
+Wapello,OT/08,State Senate,13,Write-In,,4,1,3
+Wapello,OT/09,State Senate,13,Write-In,,0,0,0
+Wapello,OT/10,State Senate,13,Write-In,,0,0,0
+Wapello,RL/KV,State Senate,13,Write-In,,1,0,1
+Wapello,WA/EL,State Senate,13,Write-In,,0,0,0
+Wapello,AD/BL/PO,Treasurer of State,,John Norwood,DEM,163,83,80
+Wapello,AGT/AGC/PL,Treasurer of State,,John Norwood,DEM,197,83,114
+Wapello,CB/EV,Treasurer of State,,John Norwood,DEM,121,33,88
+Wapello,CN,Treasurer of State,,John Norwood,DEM,173,96,77
+Wapello,CP,Treasurer of State,,John Norwood,DEM,15,6,9
+Wapello,CS/CH,Treasurer of State,,John Norwood,DEM,24,3,21
+Wapello,DA,Treasurer of State,,John Norwood,DEM,80,42,38
+Wapello,GR,Treasurer of State,,John Norwood,DEM,99,44,55
+Wapello,HI,Treasurer of State,,John Norwood,DEM,36,9,27
+Wapello,KE,Treasurer of State,,John Norwood,DEM,116,61,55
+Wapello,OT/01,Treasurer of State,,John Norwood,DEM,320,148,172
+Wapello,OT/02,Treasurer of State,,John Norwood,DEM,481,244,237
+Wapello,OT/03,Treasurer of State,,John Norwood,DEM,589,300,289
+Wapello,OT/04,Treasurer of State,,John Norwood,DEM,217,90,127
+Wapello,OT/05,Treasurer of State,,John Norwood,DEM,279,167,112
+Wapello,OT/06,Treasurer of State,,John Norwood,DEM,253,127,126
+Wapello,OT/07,Treasurer of State,,John Norwood,DEM,266,121,145
+Wapello,OT/08,Treasurer of State,,John Norwood,DEM,325,154,171
+Wapello,OT/09,Treasurer of State,,John Norwood,DEM,414,203,211
+Wapello,OT/10,Treasurer of State,,John Norwood,DEM,355,156,199
+Wapello,RL/KV,Treasurer of State,,John Norwood,DEM,89,49,40
+Wapello,WA/EL,Treasurer of State,,John Norwood,DEM,130,31,99
+Wapello,AD/BL/PO,Treasurer of State,,Roby Smith,REP,402,85,317
+Wapello,AGT/AGC/PL,Treasurer of State,,Roby Smith,REP,385,70,315
+Wapello,CB/EV,Treasurer of State,,Roby Smith,REP,238,21,217
+Wapello,CN,Treasurer of State,,Roby Smith,REP,425,172,253
+Wapello,CP,Treasurer of State,,Roby Smith,REP,74,26,48
+Wapello,CS/CH,Treasurer of State,,Roby Smith,REP,59,5,54
+Wapello,DA,Treasurer of State,,Roby Smith,REP,154,47,107
+Wapello,GR,Treasurer of State,,Roby Smith,REP,272,68,204
+Wapello,HI,Treasurer of State,,Roby Smith,REP,104,21,83
+Wapello,KE,Treasurer of State,,Roby Smith,REP,262,54,208
+Wapello,OT/01,Treasurer of State,,Roby Smith,REP,309,115,194
+Wapello,OT/02,Treasurer of State,,Roby Smith,REP,457,179,278
+Wapello,OT/03,Treasurer of State,,Roby Smith,REP,541,197,344
+Wapello,OT/04,Treasurer of State,,Roby Smith,REP,182,55,127
+Wapello,OT/05,Treasurer of State,,Roby Smith,REP,210,98,112
+Wapello,OT/06,Treasurer of State,,Roby Smith,REP,236,70,166
+Wapello,OT/07,Treasurer of State,,Roby Smith,REP,231,53,178
+Wapello,OT/08,Treasurer of State,,Roby Smith,REP,359,79,280
+Wapello,OT/09,Treasurer of State,,Roby Smith,REP,417,142,275
+Wapello,OT/10,Treasurer of State,,Roby Smith,REP,331,90,241
+Wapello,RL/KV,Treasurer of State,,Roby Smith,REP,210,38,172
+Wapello,WA/EL,Treasurer of State,,Roby Smith,REP,313,29,284
+Wapello,AD/BL/PO,Treasurer of State,,Write-In,,1,0,1
+Wapello,AGT/AGC/PL,Treasurer of State,,Write-In,,1,0,1
+Wapello,CB/EV,Treasurer of State,,Write-In,,0,0,0
+Wapello,CN,Treasurer of State,,Write-In,,0,0,0
+Wapello,CP,Treasurer of State,,Write-In,,0,0,0
+Wapello,CS/CH,Treasurer of State,,Write-In,,0,0,0
+Wapello,DA,Treasurer of State,,Write-In,,0,0,0
+Wapello,GR,Treasurer of State,,Write-In,,1,0,1
+Wapello,HI,Treasurer of State,,Write-In,,0,0,0
+Wapello,KE,Treasurer of State,,Write-In,,0,0,0
+Wapello,OT/01,Treasurer of State,,Write-In,,0,0,0
+Wapello,OT/02,Treasurer of State,,Write-In,,0,0,0
+Wapello,OT/03,Treasurer of State,,Write-In,,0,0,0
+Wapello,OT/04,Treasurer of State,,Write-In,,0,0,0
+Wapello,OT/05,Treasurer of State,,Write-In,,0,0,0
+Wapello,OT/06,Treasurer of State,,Write-In,,0,0,0
+Wapello,OT/07,Treasurer of State,,Write-In,,0,0,0
+Wapello,OT/08,Treasurer of State,,Write-In,,2,1,1
+Wapello,OT/09,Treasurer of State,,Write-In,,0,0,0
+Wapello,OT/10,Treasurer of State,,Write-In,,1,0,1
+Wapello,RL/KV,Treasurer of State,,Write-In,,0,0,0
+Wapello,WA/EL,Treasurer of State,,Write-In,,0,0,0
+Wapello,AD/BL/PO,U.S. House,3,Sarah Trone Garriott,DEM,154,76,78
+Wapello,AGT/AGC/PL,U.S. House,3,Sarah Trone Garriott,DEM,192,80,112
+Wapello,CB/EV,U.S. House,3,Sarah Trone Garriott,DEM,118,36,82
+Wapello,CN,U.S. House,3,Sarah Trone Garriott,DEM,179,102,77
+Wapello,CP,U.S. House,3,Sarah Trone Garriott,DEM,15,6,9
+Wapello,CS/CH,U.S. House,3,Sarah Trone Garriott,DEM,24,4,20
+Wapello,DA,U.S. House,3,Sarah Trone Garriott,DEM,82,42,40
+Wapello,GR,U.S. House,3,Sarah Trone Garriott,DEM,94,41,53
+Wapello,HI,U.S. House,3,Sarah Trone Garriott,DEM,28,6,22
+Wapello,KE,U.S. House,3,Sarah Trone Garriott,DEM,112,56,56
+Wapello,OT/01,U.S. House,3,Sarah Trone Garriott,DEM,293,140,153
+Wapello,OT/02,U.S. House,3,Sarah Trone Garriott,DEM,482,248,234
+Wapello,OT/03,U.S. House,3,Sarah Trone Garriott,DEM,584,289,295
+Wapello,OT/04,U.S. House,3,Sarah Trone Garriott,DEM,227,95,132
+Wapello,OT/05,U.S. House,3,Sarah Trone Garriott,DEM,277,166,111
+Wapello,OT/06,U.S. House,3,Sarah Trone Garriott,DEM,245,129,116
+Wapello,OT/07,U.S. House,3,Sarah Trone Garriott,DEM,257,115,142
+Wapello,OT/08,U.S. House,3,Sarah Trone Garriott,DEM,307,145,162
+Wapello,OT/09,U.S. House,3,Sarah Trone Garriott,DEM,401,195,206
+Wapello,OT/10,U.S. House,3,Sarah Trone Garriott,DEM,336,150,186
+Wapello,RL/KV,U.S. House,3,Sarah Trone Garriott,DEM,94,49,45
+Wapello,WA/EL,U.S. House,3,Sarah Trone Garriott,DEM,124,29,95
+Wapello,AD/BL/PO,U.S. House,3,Write-In,,0,0,0
+Wapello,AGT/AGC/PL,U.S. House,3,Write-In,,0,0,0
+Wapello,CB/EV,U.S. House,3,Write-In,,0,0,0
+Wapello,CN,U.S. House,3,Write-In,,0,0,0
+Wapello,CP,U.S. House,3,Write-In,,0,0,0
+Wapello,CS/CH,U.S. House,3,Write-In,,1,1,0
+Wapello,DA,U.S. House,3,Write-In,,0,0,0
+Wapello,GR,U.S. House,3,Write-In,,1,1,0
+Wapello,HI,U.S. House,3,Write-In,,0,0,0
+Wapello,KE,U.S. House,3,Write-In,,0,0,0
+Wapello,OT/01,U.S. House,3,Write-In,,2,0,2
+Wapello,OT/02,U.S. House,3,Write-In,,0,0,0
+Wapello,OT/03,U.S. House,3,Write-In,,1,0,1
+Wapello,OT/04,U.S. House,3,Write-In,,0,0,0
+Wapello,OT/05,U.S. House,3,Write-In,,3,1,2
+Wapello,OT/06,U.S. House,3,Write-In,,2,0,2
+Wapello,OT/07,U.S. House,3,Write-In,,0,0,0
+Wapello,OT/08,U.S. House,3,Write-In,,2,0,2
+Wapello,OT/09,U.S. House,3,Write-In,,0,0,0
+Wapello,OT/10,U.S. House,3,Write-In,,1,0,1
+Wapello,RL/KV,U.S. House,3,Write-In,,0,0,0
+Wapello,WA/EL,U.S. House,3,Write-In,,0,0,0
+Wapello,AD/BL/PO,U.S. House,3,Zach Nunn,REP,413,90,323
+Wapello,AGT/AGC/PL,U.S. House,3,Zach Nunn,REP,402,74,328
+Wapello,CB/EV,U.S. House,3,Zach Nunn,REP,242,20,222
+Wapello,CN,U.S. House,3,Zach Nunn,REP,435,169,266
+Wapello,CP,U.S. House,3,Zach Nunn,REP,77,27,50
+Wapello,CS/CH,U.S. House,3,Zach Nunn,REP,60,3,57
+Wapello,DA,U.S. House,3,Zach Nunn,REP,156,48,108
+Wapello,GR,U.S. House,3,Zach Nunn,REP,279,65,214
+Wapello,HI,U.S. House,3,Zach Nunn,REP,113,24,89
+Wapello,KE,U.S. House,3,Zach Nunn,REP,268,57,211
+Wapello,OT/01,U.S. House,3,Zach Nunn,REP,334,124,210
+Wapello,OT/02,U.S. House,3,Zach Nunn,REP,474,181,293
+Wapello,OT/03,U.S. House,3,Zach Nunn,REP,565,204,361
+Wapello,OT/04,U.S. House,3,Zach Nunn,REP,178,52,126
+Wapello,OT/05,U.S. House,3,Zach Nunn,REP,212,100,112
+Wapello,OT/06,U.S. House,3,Zach Nunn,REP,239,68,171
+Wapello,OT/07,U.S. House,3,Zach Nunn,REP,246,61,185
+Wapello,OT/08,U.S. House,3,Zach Nunn,REP,370,83,287
+Wapello,OT/09,U.S. House,3,Zach Nunn,REP,432,152,280
+Wapello,OT/10,U.S. House,3,Zach Nunn,REP,354,98,256
+Wapello,RL/KV,U.S. House,3,Zach Nunn,REP,203,38,165
+Wapello,WA/EL,U.S. House,3,Zach Nunn,REP,328,31,297
+Wapello,AD/BL/PO,U.S. Senate,,Ashley Hinson,REP,369,77,292
+Wapello,AGT/AGC/PL,U.S. Senate,,Ashley Hinson,REP,351,64,287
+Wapello,CB/EV,U.S. Senate,,Ashley Hinson,REP,221,22,199
+Wapello,CN,U.S. Senate,,Ashley Hinson,REP,389,159,230
+Wapello,CP,U.S. Senate,,Ashley Hinson,REP,72,25,47
+Wapello,CS/CH,U.S. Senate,,Ashley Hinson,REP,52,4,48
+Wapello,DA,U.S. Senate,,Ashley Hinson,REP,140,44,96
+Wapello,GR,U.S. Senate,,Ashley Hinson,REP,257,60,197
+Wapello,HI,U.S. Senate,,Ashley Hinson,REP,96,20,76
+Wapello,KE,U.S. Senate,,Ashley Hinson,REP,236,54,182
+Wapello,OT/01,U.S. Senate,,Ashley Hinson,REP,286,113,173
+Wapello,OT/02,U.S. Senate,,Ashley Hinson,REP,427,168,259
+Wapello,OT/03,U.S. Senate,,Ashley Hinson,REP,504,191,313
+Wapello,OT/04,U.S. Senate,,Ashley Hinson,REP,153,47,106
+Wapello,OT/05,U.S. Senate,,Ashley Hinson,REP,188,86,102
+Wapello,OT/06,U.S. Senate,,Ashley Hinson,REP,211,65,146
+Wapello,OT/07,U.S. Senate,,Ashley Hinson,REP,211,51,160
+Wapello,OT/08,U.S. Senate,,Ashley Hinson,REP,333,76,257
+Wapello,OT/09,U.S. Senate,,Ashley Hinson,REP,381,132,249
+Wapello,OT/10,U.S. Senate,,Ashley Hinson,REP,314,89,225
+Wapello,RL/KV,U.S. Senate,,Ashley Hinson,REP,198,37,161
+Wapello,WA/EL,U.S. Senate,,Ashley Hinson,REP,282,25,257
+Wapello,AD/BL/PO,U.S. Senate,,Josh Turek,DEM,177,89,88
+Wapello,AGT/AGC/PL,U.S. Senate,,Josh Turek,DEM,217,86,131
+Wapello,CB/EV,U.S. Senate,,Josh Turek,DEM,120,32,88
+Wapello,CN,U.S. Senate,,Josh Turek,DEM,204,108,96
+Wapello,CP,U.S. Senate,,Josh Turek,DEM,17,7,10
+Wapello,CS/CH,U.S. Senate,,Josh Turek,DEM,29,4,25
+Wapello,DA,U.S. Senate,,Josh Turek,DEM,87,45,42
+Wapello,GR,U.S. Senate,,Josh Turek,DEM,106,43,63
+Wapello,HI,U.S. Senate,,Josh Turek,DEM,35,7,28
+Wapello,KE,U.S. Senate,,Josh Turek,DEM,116,56,60
+Wapello,OT/01,U.S. Senate,,Josh Turek,DEM,320,149,171
+Wapello,OT/02,U.S. Senate,,Josh Turek,DEM,513,257,256
+Wapello,OT/03,U.S. Senate,,Josh Turek,DEM,617,301,316
+Wapello,OT/04,U.S. Senate,,Josh Turek,DEM,231,93,138
+Wapello,OT/05,U.S. Senate,,Josh Turek,DEM,283,172,111
+Wapello,OT/06,U.S. Senate,,Josh Turek,DEM,254,127,127
+Wapello,OT/07,U.S. Senate,,Josh Turek,DEM,270,121,149
+Wapello,OT/08,U.S. Senate,,Josh Turek,DEM,327,151,176
+Wapello,OT/09,U.S. Senate,,Josh Turek,DEM,429,204,225
+Wapello,OT/10,U.S. Senate,,Josh Turek,DEM,364,154,210
+Wapello,RL/KV,U.S. Senate,,Josh Turek,DEM,98,49,49
+Wapello,WA/EL,U.S. Senate,,Josh Turek,DEM,147,33,114
+Wapello,AD/BL/PO,U.S. Senate,,Thomas Laehn,LIB,26,4,22
+Wapello,AGT/AGC/PL,U.S. Senate,,Thomas Laehn,LIB,29,3,26
+Wapello,CB/EV,U.S. Senate,,Thomas Laehn,LIB,24,2,22
+Wapello,CN,U.S. Senate,,Thomas Laehn,LIB,21,5,16
+Wapello,CP,U.S. Senate,,Thomas Laehn,LIB,1,1,0
+Wapello,CS/CH,U.S. Senate,,Thomas Laehn,LIB,3,0,3
+Wapello,DA,U.S. Senate,,Thomas Laehn,LIB,12,2,10
+Wapello,GR,U.S. Senate,,Thomas Laehn,LIB,14,9,5
+Wapello,HI,U.S. Senate,,Thomas Laehn,LIB,10,3,7
+Wapello,KE,U.S. Senate,,Thomas Laehn,LIB,27,4,23
+Wapello,OT/01,U.S. Senate,,Thomas Laehn,LIB,34,7,27
+Wapello,OT/02,U.S. Senate,,Thomas Laehn,LIB,19,3,16
+Wapello,OT/03,U.S. Senate,,Thomas Laehn,LIB,35,7,28
+Wapello,OT/04,U.S. Senate,,Thomas Laehn,LIB,23,6,17
+Wapello,OT/05,U.S. Senate,,Thomas Laehn,LIB,17,7,10
+Wapello,OT/06,U.S. Senate,,Thomas Laehn,LIB,26,6,20
+Wapello,OT/07,U.S. Senate,,Thomas Laehn,LIB,24,3,21
+Wapello,OT/08,U.S. Senate,,Thomas Laehn,LIB,27,6,21
+Wapello,OT/09,U.S. Senate,,Thomas Laehn,LIB,32,12,20
+Wapello,OT/10,U.S. Senate,,Thomas Laehn,LIB,19,3,16
+Wapello,RL/KV,U.S. Senate,,Thomas Laehn,LIB,7,1,6
+Wapello,WA/EL,U.S. Senate,,Thomas Laehn,LIB,21,2,19
+Wapello,AD/BL/PO,U.S. Senate,,Write-In,,1,0,1
+Wapello,AGT/AGC/PL,U.S. Senate,,Write-In,,1,0,1
+Wapello,CB/EV,U.S. Senate,,Write-In,,0,0,0
+Wapello,CN,U.S. Senate,,Write-In,,0,0,0
+Wapello,CP,U.S. Senate,,Write-In,,0,0,0
+Wapello,CS/CH,U.S. Senate,,Write-In,,0,0,0
+Wapello,DA,U.S. Senate,,Write-In,,1,0,1
+Wapello,GR,U.S. Senate,,Write-In,,1,0,1
+Wapello,HI,U.S. Senate,,Write-In,,0,0,0
+Wapello,KE,U.S. Senate,,Write-In,,0,0,0
+Wapello,OT/01,U.S. Senate,,Write-In,,0,0,0
+Wapello,OT/02,U.S. Senate,,Write-In,,0,0,0
+Wapello,OT/03,U.S. Senate,,Write-In,,1,0,1
+Wapello,OT/04,U.S. Senate,,Write-In,,1,0,1
+Wapello,OT/05,U.S. Senate,,Write-In,,1,0,1
+Wapello,OT/06,U.S. Senate,,Write-In,,2,1,1
+Wapello,OT/07,U.S. Senate,,Write-In,,1,0,1
+Wapello,OT/08,U.S. Senate,,Write-In,,1,0,1
+Wapello,OT/09,U.S. Senate,,Write-In,,0,0,0
+Wapello,OT/10,U.S. Senate,,Write-In,,1,1,0
+Wapello,RL/KV,U.S. Senate,,Write-In,,0,0,0
+Wapello,WA/EL,U.S. Senate,,Write-In,,0,0,0
+Wapello,AD/BL/PO,Wapello County - Public Measure A,,No,,401,118,283
+Wapello,AGT/AGC/PL,Wapello County - Public Measure A,,No,,416,104,312
+Wapello,CB/EV,Wapello County - Public Measure A,,No,,217,40,177
+Wapello,CN,Wapello County - Public Measure A,,No,,406,177,229
+Wapello,CP,Wapello County - Public Measure A,,No,,52,16,36
+Wapello,CS/CH,Wapello County - Public Measure A,,No,,62,4,58
+Wapello,DA,Wapello County - Public Measure A,,No,,147,57,90
+Wapello,GR,Wapello County - Public Measure A,,No,,262,73,189
+Wapello,HI,Wapello County - Public Measure A,,No,,75,16,59
+Wapello,KE,Wapello County - Public Measure A,,No,,276,81,195
+Wapello,OT/01,Wapello County - Public Measure A,,No,,431,168,263
+Wapello,OT/02,Wapello County - Public Measure A,,No,,551,232,319
+Wapello,OT/03,Wapello County - Public Measure A,,No,,680,268,412
+Wapello,OT/04,Wapello County - Public Measure A,,No,,256,95,161
+Wapello,OT/05,Wapello County - Public Measure A,,No,,274,144,130
+Wapello,OT/06,Wapello County - Public Measure A,,No,,333,121,212
+Wapello,OT/07,Wapello County - Public Measure A,,No,,328,102,226
+Wapello,OT/08,Wapello County - Public Measure A,,No,,453,138,315
+Wapello,OT/09,Wapello County - Public Measure A,,No,,526,195,331
+Wapello,OT/10,Wapello County - Public Measure A,,No,,426,149,277
+Wapello,RL/KV,Wapello County - Public Measure A,,No,,196,63,133
+Wapello,WA/EL,Wapello County - Public Measure A,,No,,316,47,269
+Wapello,AD/BL/PO,Wapello County - Public Measure A,,Yes,,153,46,107
+Wapello,AGT/AGC/PL,Wapello County - Public Measure A,,Yes,,155,48,107
+Wapello,CB/EV,Wapello County - Public Measure A,,Yes,,134,13,121
+Wapello,CN,Wapello County - Public Measure A,,Yes,,176,83,93
+Wapello,CP,Wapello County - Public Measure A,,Yes,,35,14,21
+Wapello,CS/CH,Wapello County - Public Measure A,,Yes,,21,4,17
+Wapello,DA,Wapello County - Public Measure A,,Yes,,74,28,46
+Wapello,GR,Wapello County - Public Measure A,,Yes,,95,39,56
+Wapello,HI,Wapello County - Public Measure A,,Yes,,60,14,46
+Wapello,KE,Wapello County - Public Measure A,,Yes,,92,32,60
+Wapello,OT/01,Wapello County - Public Measure A,,Yes,,182,90,92
+Wapello,OT/02,Wapello County - Public Measure A,,Yes,,353,168,185
+Wapello,OT/03,Wapello County - Public Measure A,,Yes,,420,210,210
+Wapello,OT/04,Wapello County - Public Measure A,,Yes,,114,44,70
+Wapello,OT/05,Wapello County - Public Measure A,,Yes,,171,102,69
+Wapello,OT/06,Wapello County - Public Measure A,,Yes,,147,72,75
+Wapello,OT/07,Wapello County - Public Measure A,,Yes,,159,63,96
+Wapello,OT/08,Wapello County - Public Measure A,,Yes,,196,82,114
+Wapello,OT/09,Wapello County - Public Measure A,,Yes,,258,129,129
+Wapello,OT/10,Wapello County - Public Measure A,,Yes,,215,82,133
+Wapello,RL/KV,Wapello County - Public Measure A,,Yes,,84,27,57
+Wapello,WA/EL,Wapello County - Public Measure A,,Yes,,123,13,110
+Wapello,WA/EL,Washington Township Clerk,,Lori Ann Franklin,,132,22,110
+Wapello,WA/EL,Washington Township Clerk,,Write-In,,0,0,0
+Wapello,WA/EL,Washington Township Trustee,,Dave Weir,,113,18,95
+Wapello,WA/EL,Washington Township Trustee,,Doug Manley,,108,16,92
+Wapello,WA/EL,Washington Township Trustee,,Write-In,,1,0,1

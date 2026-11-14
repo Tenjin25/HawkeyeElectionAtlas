@@ -19,6 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 INPUTS = {
     2022: ROOT / "data/2022/counties",
     2024: ROOT / "data/2024/20241105__ia__general__precinct.csv",
+    2026: ROOT / "data/2026/20261103__ia__general__precinct.csv",
 }
 CHAMBERS = ("house", "senate")
 

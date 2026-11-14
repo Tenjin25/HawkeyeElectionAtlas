@@ -1,0 +1,949 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Cass,Atlantic Ward 1,Attorney General,,Brenna Bird,REP,197,62,135
+Cass,Atlantic Ward 2,Attorney General,,Brenna Bird,REP,181,78,103
+Cass,Atlantic Ward 3,Attorney General,,Brenna Bird,REP,364,141,223
+Cass,Atlantic Ward 4,Attorney General,,Brenna Bird,REP,355,133,222
+Cass,Atlantic Ward 5,Attorney General,,Brenna Bird,REP,399,140,259
+Cass,Bear Grove/Cass/Lewis,Attorney General,,Brenna Bird,REP,275,52,223
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Attorney General,,Brenna Bird,REP,527,158,369
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Attorney General,,Brenna Bird,REP,411,132,279
+Cass,Noble/Pleasant/Griswold,Attorney General,,Brenna Bird,REP,441,64,377
+Cass,Union/Cumberland,Attorney General,,Brenna Bird,REP,127,20,107
+Cass,Victoria/Edna/East Massena Township,Attorney General,,Brenna Bird,REP,125,35,90
+Cass,West Massena Township/Massena,Attorney General,,Brenna Bird,REP,114,10,104
+Cass,Atlantic Ward 1,Attorney General,,Nate Willems,DEM,161,76,85
+Cass,Atlantic Ward 2,Attorney General,,Nate Willems,DEM,153,75,78
+Cass,Atlantic Ward 3,Attorney General,,Nate Willems,DEM,223,98,125
+Cass,Atlantic Ward 4,Attorney General,,Nate Willems,DEM,188,90,98
+Cass,Atlantic Ward 5,Attorney General,,Nate Willems,DEM,233,128,105
+Cass,Bear Grove/Cass/Lewis,Attorney General,,Nate Willems,DEM,123,56,67
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Attorney General,,Nate Willems,DEM,204,77,127
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Attorney General,,Nate Willems,DEM,136,55,81
+Cass,Noble/Pleasant/Griswold,Attorney General,,Nate Willems,DEM,180,64,116
+Cass,Union/Cumberland,Attorney General,,Nate Willems,DEM,36,14,22
+Cass,Victoria/Edna/East Massena Township,Attorney General,,Nate Willems,DEM,36,15,21
+Cass,West Massena Township/Massena,Attorney General,,Nate Willems,DEM,55,12,43
+Cass,Atlantic Ward 1,Attorney General,,Write-In,,1,0,1
+Cass,Atlantic Ward 2,Attorney General,,Write-In,,0,0,0
+Cass,Atlantic Ward 3,Attorney General,,Write-In,,0,0,0
+Cass,Atlantic Ward 4,Attorney General,,Write-In,,0,0,0
+Cass,Atlantic Ward 5,Attorney General,,Write-In,,0,0,0
+Cass,Bear Grove/Cass/Lewis,Attorney General,,Write-In,,0,0,0
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Attorney General,,Write-In,,0,0,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Attorney General,,Write-In,,0,0,0
+Cass,Noble/Pleasant/Griswold,Attorney General,,Write-In,,0,0,0
+Cass,Union/Cumberland,Attorney General,,Write-In,,0,0,0
+Cass,Victoria/Edna/East Massena Township,Attorney General,,Write-In,,0,0,0
+Cass,West Massena Township/Massena,Attorney General,,Write-In,,0,0,0
+Cass,Atlantic Ward 1,Auditor of State,,Chris Cournoyer,REP,194,62,132
+Cass,Atlantic Ward 2,Auditor of State,,Chris Cournoyer,REP,183,78,105
+Cass,Atlantic Ward 3,Auditor of State,,Chris Cournoyer,REP,350,132,218
+Cass,Atlantic Ward 4,Auditor of State,,Chris Cournoyer,REP,346,133,213
+Cass,Atlantic Ward 5,Auditor of State,,Chris Cournoyer,REP,383,141,242
+Cass,Bear Grove/Cass/Lewis,Auditor of State,,Chris Cournoyer,REP,269,49,220
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Auditor of State,,Chris Cournoyer,REP,502,151,351
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Auditor of State,,Chris Cournoyer,REP,401,131,270
+Cass,Noble/Pleasant/Griswold,Auditor of State,,Chris Cournoyer,REP,448,67,381
+Cass,Union/Cumberland,Auditor of State,,Chris Cournoyer,REP,123,18,105
+Cass,Victoria/Edna/East Massena Township,Auditor of State,,Chris Cournoyer,REP,128,35,93
+Cass,West Massena Township/Massena,Auditor of State,,Chris Cournoyer,REP,110,10,100
+Cass,Atlantic Ward 1,Auditor of State,,Taylor Wettach,DEM,165,75,90
+Cass,Atlantic Ward 2,Auditor of State,,Taylor Wettach,DEM,154,76,78
+Cass,Atlantic Ward 3,Auditor of State,,Taylor Wettach,DEM,229,104,125
+Cass,Atlantic Ward 4,Auditor of State,,Taylor Wettach,DEM,188,87,101
+Cass,Atlantic Ward 5,Auditor of State,,Taylor Wettach,DEM,236,123,113
+Cass,Bear Grove/Cass/Lewis,Auditor of State,,Taylor Wettach,DEM,114,56,58
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Auditor of State,,Taylor Wettach,DEM,217,79,138
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Auditor of State,,Taylor Wettach,DEM,135,51,84
+Cass,Noble/Pleasant/Griswold,Auditor of State,,Taylor Wettach,DEM,174,61,113
+Cass,Union/Cumberland,Auditor of State,,Taylor Wettach,DEM,38,15,23
+Cass,Victoria/Edna/East Massena Township,Auditor of State,,Taylor Wettach,DEM,35,15,20
+Cass,West Massena Township/Massena,Auditor of State,,Taylor Wettach,DEM,55,12,43
+Cass,Atlantic Ward 1,Auditor of State,,Write-In,,1,1,0
+Cass,Atlantic Ward 2,Auditor of State,,Write-In,,0,0,0
+Cass,Atlantic Ward 3,Auditor of State,,Write-In,,1,0,1
+Cass,Atlantic Ward 4,Auditor of State,,Write-In,,0,0,0
+Cass,Atlantic Ward 5,Auditor of State,,Write-In,,0,0,0
+Cass,Bear Grove/Cass/Lewis,Auditor of State,,Write-In,,0,0,0
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Auditor of State,,Write-In,,0,0,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Auditor of State,,Write-In,,1,0,1
+Cass,Noble/Pleasant/Griswold,Auditor of State,,Write-In,,0,0,0
+Cass,Union/Cumberland,Auditor of State,,Write-In,,0,0,0
+Cass,Victoria/Edna/East Massena Township,Auditor of State,,Write-In,,0,0,0
+Cass,West Massena Township/Massena,Auditor of State,,Write-In,,0,0,0
+Cass,Atlantic Ward 1,Constitutional Amendment 1,,No,,129,49,80
+Cass,Atlantic Ward 2,Constitutional Amendment 1,,No,,99,40,59
+Cass,Atlantic Ward 3,Constitutional Amendment 1,,No,,207,72,135
+Cass,Atlantic Ward 4,Constitutional Amendment 1,,No,,160,72,88
+Cass,Atlantic Ward 5,Constitutional Amendment 1,,No,,198,76,122
+Cass,Bear Grove/Cass/Lewis,Constitutional Amendment 1,,No,,88,30,58
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Constitutional Amendment 1,,No,,195,66,129
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Constitutional Amendment 1,,No,,134,50,84
+Cass,Noble/Pleasant/Griswold,Constitutional Amendment 1,,No,,200,50,150
+Cass,Union/Cumberland,Constitutional Amendment 1,,No,,53,13,40
+Cass,Victoria/Edna/East Massena Township,Constitutional Amendment 1,,No,,38,10,28
+Cass,West Massena Township/Massena,Constitutional Amendment 1,,No,,75,10,65
+Cass,Atlantic Ward 1,Constitutional Amendment 1,,Yes,,150,50,100
+Cass,Atlantic Ward 2,Constitutional Amendment 1,,Yes,,177,81,96
+Cass,Atlantic Ward 3,Constitutional Amendment 1,,Yes,,301,113,188
+Cass,Atlantic Ward 4,Constitutional Amendment 1,,Yes,,269,103,166
+Cass,Atlantic Ward 5,Constitutional Amendment 1,,Yes,,325,130,195
+Cass,Bear Grove/Cass/Lewis,Constitutional Amendment 1,,Yes,,216,51,165
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Constitutional Amendment 1,,Yes,,386,110,276
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Constitutional Amendment 1,,Yes,,319,95,224
+Cass,Noble/Pleasant/Griswold,Constitutional Amendment 1,,Yes,,323,54,269
+Cass,Union/Cumberland,Constitutional Amendment 1,,Yes,,88,18,70
+Cass,Victoria/Edna/East Massena Township,Constitutional Amendment 1,,Yes,,91,27,64
+Cass,West Massena Township/Massena,Constitutional Amendment 1,,Yes,,77,7,70
+Cass,Atlantic Ward 1,County Agricultural Extension Council Member,,Beth Ann McDermott,,186,67,119
+Cass,Atlantic Ward 2,County Agricultural Extension Council Member,,Beth Ann McDermott,,198,86,112
+Cass,Atlantic Ward 3,County Agricultural Extension Council Member,,Beth Ann McDermott,,307,125,182
+Cass,Atlantic Ward 4,County Agricultural Extension Council Member,,Beth Ann McDermott,,311,128,183
+Cass,Atlantic Ward 5,County Agricultural Extension Council Member,,Beth Ann McDermott,,387,149,238
+Cass,Bear Grove/Cass/Lewis,County Agricultural Extension Council Member,,Beth Ann McDermott,,230,55,175
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Agricultural Extension Council Member,,Beth Ann McDermott,,480,144,336
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Agricultural Extension Council Member,,Beth Ann McDermott,,346,118,228
+Cass,Noble/Pleasant/Griswold,County Agricultural Extension Council Member,,Beth Ann McDermott,,382,73,309
+Cass,Union/Cumberland,County Agricultural Extension Council Member,,Beth Ann McDermott,,103,20,83
+Cass,Victoria/Edna/East Massena Township,County Agricultural Extension Council Member,,Beth Ann McDermott,,105,26,79
+Cass,West Massena Township/Massena,County Agricultural Extension Council Member,,Beth Ann McDermott,,123,13,110
+Cass,Atlantic Ward 1,County Agricultural Extension Council Member,,Chad Becker,,151,60,91
+Cass,Atlantic Ward 2,County Agricultural Extension Council Member,,Chad Becker,,160,68,92
+Cass,Atlantic Ward 3,County Agricultural Extension Council Member,,Chad Becker,,266,103,163
+Cass,Atlantic Ward 4,County Agricultural Extension Council Member,,Chad Becker,,256,114,142
+Cass,Atlantic Ward 5,County Agricultural Extension Council Member,,Chad Becker,,344,134,210
+Cass,Bear Grove/Cass/Lewis,County Agricultural Extension Council Member,,Chad Becker,,181,50,131
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Agricultural Extension Council Member,,Chad Becker,,413,112,301
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Agricultural Extension Council Member,,Chad Becker,,305,87,218
+Cass,Noble/Pleasant/Griswold,County Agricultural Extension Council Member,,Chad Becker,,360,59,301
+Cass,Union/Cumberland,County Agricultural Extension Council Member,,Chad Becker,,108,25,83
+Cass,Victoria/Edna/East Massena Township,County Agricultural Extension Council Member,,Chad Becker,,105,28,77
+Cass,West Massena Township/Massena,County Agricultural Extension Council Member,,Chad Becker,,133,18,115
+Cass,Atlantic Ward 1,County Agricultural Extension Council Member,,Coleen Babe,,133,54,79
+Cass,Atlantic Ward 2,County Agricultural Extension Council Member,,Coleen Babe,,155,63,92
+Cass,Atlantic Ward 3,County Agricultural Extension Council Member,,Coleen Babe,,241,89,152
+Cass,Atlantic Ward 4,County Agricultural Extension Council Member,,Coleen Babe,,203,75,128
+Cass,Atlantic Ward 5,County Agricultural Extension Council Member,,Coleen Babe,,243,94,149
+Cass,Bear Grove/Cass/Lewis,County Agricultural Extension Council Member,,Coleen Babe,,137,32,105
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Agricultural Extension Council Member,,Coleen Babe,,309,86,223
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Agricultural Extension Council Member,,Coleen Babe,,288,80,208
+Cass,Noble/Pleasant/Griswold,County Agricultural Extension Council Member,,Coleen Babe,,214,44,170
+Cass,Union/Cumberland,County Agricultural Extension Council Member,,Coleen Babe,,73,12,61
+Cass,Victoria/Edna/East Massena Township,County Agricultural Extension Council Member,,Coleen Babe,,68,20,48
+Cass,West Massena Township/Massena,County Agricultural Extension Council Member,,Coleen Babe,,67,6,61
+Cass,Atlantic Ward 1,County Agricultural Extension Council Member,,Kim Tibken,,150,54,96
+Cass,Atlantic Ward 2,County Agricultural Extension Council Member,,Kim Tibken,,155,68,87
+Cass,Atlantic Ward 3,County Agricultural Extension Council Member,,Kim Tibken,,235,91,144
+Cass,Atlantic Ward 4,County Agricultural Extension Council Member,,Kim Tibken,,238,92,146
+Cass,Atlantic Ward 5,County Agricultural Extension Council Member,,Kim Tibken,,317,119,198
+Cass,Bear Grove/Cass/Lewis,County Agricultural Extension Council Member,,Kim Tibken,,165,42,123
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Agricultural Extension Council Member,,Kim Tibken,,417,120,297
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Agricultural Extension Council Member,,Kim Tibken,,246,70,176
+Cass,Noble/Pleasant/Griswold,County Agricultural Extension Council Member,,Kim Tibken,,307,54,253
+Cass,Union/Cumberland,County Agricultural Extension Council Member,,Kim Tibken,,98,21,77
+Cass,Victoria/Edna/East Massena Township,County Agricultural Extension Council Member,,Kim Tibken,,104,29,75
+Cass,West Massena Township/Massena,County Agricultural Extension Council Member,,Kim Tibken,,129,12,117
+Cass,Atlantic Ward 1,County Agricultural Extension Council Member,,Michelle Behrends,,167,59,108
+Cass,Atlantic Ward 2,County Agricultural Extension Council Member,,Michelle Behrends,,166,70,96
+Cass,Atlantic Ward 3,County Agricultural Extension Council Member,,Michelle Behrends,,307,119,188
+Cass,Atlantic Ward 4,County Agricultural Extension Council Member,,Michelle Behrends,,291,114,177
+Cass,Atlantic Ward 5,County Agricultural Extension Council Member,,Michelle Behrends,,341,129,212
+Cass,Bear Grove/Cass/Lewis,County Agricultural Extension Council Member,,Michelle Behrends,,203,53,150
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Agricultural Extension Council Member,,Michelle Behrends,,452,140,312
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Agricultural Extension Council Member,,Michelle Behrends,,341,103,238
+Cass,Noble/Pleasant/Griswold,County Agricultural Extension Council Member,,Michelle Behrends,,309,58,251
+Cass,Union/Cumberland,County Agricultural Extension Council Member,,Michelle Behrends,,102,16,86
+Cass,Victoria/Edna/East Massena Township,County Agricultural Extension Council Member,,Michelle Behrends,,102,29,73
+Cass,West Massena Township/Massena,County Agricultural Extension Council Member,,Michelle Behrends,,125,14,111
+Cass,Atlantic Ward 1,County Agricultural Extension Council Member,,Todd M. Weppler,,164,64,100
+Cass,Atlantic Ward 2,County Agricultural Extension Council Member,,Todd M. Weppler,,169,66,103
+Cass,Atlantic Ward 3,County Agricultural Extension Council Member,,Todd M. Weppler,,284,101,183
+Cass,Atlantic Ward 4,County Agricultural Extension Council Member,,Todd M. Weppler,,274,118,156
+Cass,Atlantic Ward 5,County Agricultural Extension Council Member,,Todd M. Weppler,,348,138,210
+Cass,Bear Grove/Cass/Lewis,County Agricultural Extension Council Member,,Todd M. Weppler,,221,65,156
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Agricultural Extension Council Member,,Todd M. Weppler,,353,104,249
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Agricultural Extension Council Member,,Todd M. Weppler,,290,94,196
+Cass,Noble/Pleasant/Griswold,County Agricultural Extension Council Member,,Todd M. Weppler,,431,73,358
+Cass,Union/Cumberland,County Agricultural Extension Council Member,,Todd M. Weppler,,76,16,60
+Cass,Victoria/Edna/East Massena Township,County Agricultural Extension Council Member,,Todd M. Weppler,,81,24,57
+Cass,West Massena Township/Massena,County Agricultural Extension Council Member,,Todd M. Weppler,,90,8,82
+Cass,Atlantic Ward 1,County Agricultural Extension Council Member,,Write-In,,4,2,2
+Cass,Atlantic Ward 2,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Cass,Atlantic Ward 3,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Cass,Atlantic Ward 4,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Cass,Atlantic Ward 5,County Agricultural Extension Council Member,,Write-In,,5,1,4
+Cass,Bear Grove/Cass/Lewis,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Agricultural Extension Council Member,,Write-In,,5,1,4
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Agricultural Extension Council Member,,Write-In,,8,2,6
+Cass,Noble/Pleasant/Griswold,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Cass,Union/Cumberland,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Cass,Victoria/Edna/East Massena Township,County Agricultural Extension Council Member,,Write-In,,1,1,0
+Cass,West Massena Township/Massena,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Cass,Atlantic Ward 1,County Attorney,,Vanessa Strazdas,REP,260,90,170
+Cass,Atlantic Ward 2,County Attorney,,Vanessa Strazdas,REP,222,96,126
+Cass,Atlantic Ward 3,County Attorney,,Vanessa Strazdas,REP,424,161,263
+Cass,Atlantic Ward 4,County Attorney,,Vanessa Strazdas,REP,389,154,235
+Cass,Atlantic Ward 5,County Attorney,,Vanessa Strazdas,REP,500,199,301
+Cass,Bear Grove/Cass/Lewis,County Attorney,,Vanessa Strazdas,REP,285,63,222
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Attorney,,Vanessa Strazdas,REP,562,168,394
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Attorney,,Vanessa Strazdas,REP,428,145,283
+Cass,Noble/Pleasant/Griswold,County Attorney,,Vanessa Strazdas,REP,520,90,430
+Cass,Union/Cumberland,County Attorney,,Vanessa Strazdas,REP,134,20,114
+Cass,Victoria/Edna/East Massena Township,County Attorney,,Vanessa Strazdas,REP,112,35,77
+Cass,West Massena Township/Massena,County Attorney,,Vanessa Strazdas,REP,104,12,92
+Cass,Atlantic Ward 1,County Attorney,,Write-In,,13,3,10
+Cass,Atlantic Ward 2,County Attorney,,Write-In,,4,1,3
+Cass,Atlantic Ward 3,County Attorney,,Write-In,,13,2,11
+Cass,Atlantic Ward 4,County Attorney,,Write-In,,12,3,9
+Cass,Atlantic Ward 5,County Attorney,,Write-In,,11,3,8
+Cass,Bear Grove/Cass/Lewis,County Attorney,,Write-In,,3,1,2
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Attorney,,Write-In,,14,7,7
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Attorney,,Write-In,,10,3,7
+Cass,Noble/Pleasant/Griswold,County Attorney,,Write-In,,14,0,14
+Cass,Union/Cumberland,County Attorney,,Write-In,,3,1,2
+Cass,Victoria/Edna/East Massena Township,County Attorney,,Write-In,,3,1,2
+Cass,West Massena Township/Massena,County Attorney,,Write-In,,9,1,8
+Cass,Atlantic Ward 1,County Hospital Trustee,,Joanne Lorence,,177,73,104
+Cass,Atlantic Ward 2,County Hospital Trustee,,Joanne Lorence,,184,76,108
+Cass,Atlantic Ward 3,County Hospital Trustee,,Joanne Lorence,,329,124,205
+Cass,Atlantic Ward 4,County Hospital Trustee,,Joanne Lorence,,317,136,181
+Cass,Atlantic Ward 5,County Hospital Trustee,,Joanne Lorence,,404,158,246
+Cass,Bear Grove/Cass/Lewis,County Hospital Trustee,,Joanne Lorence,,190,56,134
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Hospital Trustee,,Joanne Lorence,,415,127,288
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Hospital Trustee,,Joanne Lorence,,312,97,215
+Cass,Noble/Pleasant/Griswold,County Hospital Trustee,,Joanne Lorence,,373,62,311
+Cass,Union/Cumberland,County Hospital Trustee,,Joanne Lorence,,93,20,73
+Cass,Victoria/Edna/East Massena Township,County Hospital Trustee,,Joanne Lorence,,87,19,68
+Cass,West Massena Township/Massena,County Hospital Trustee,,Joanne Lorence,,105,9,96
+Cass,Atlantic Ward 1,County Hospital Trustee,,Julie Pollock,,198,81,117
+Cass,Atlantic Ward 2,County Hospital Trustee,,Julie Pollock,,195,84,111
+Cass,Atlantic Ward 3,County Hospital Trustee,,Julie Pollock,,315,120,195
+Cass,Atlantic Ward 4,County Hospital Trustee,,Julie Pollock,,310,131,179
+Cass,Atlantic Ward 5,County Hospital Trustee,,Julie Pollock,,404,167,237
+Cass,Bear Grove/Cass/Lewis,County Hospital Trustee,,Julie Pollock,,188,57,131
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Hospital Trustee,,Julie Pollock,,554,173,381
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Hospital Trustee,,Julie Pollock,,320,97,223
+Cass,Noble/Pleasant/Griswold,County Hospital Trustee,,Julie Pollock,,390,63,327
+Cass,Union/Cumberland,County Hospital Trustee,,Julie Pollock,,100,24,76
+Cass,Victoria/Edna/East Massena Township,County Hospital Trustee,,Julie Pollock,,98,27,71
+Cass,West Massena Township/Massena,County Hospital Trustee,,Julie Pollock,,117,10,107
+Cass,Atlantic Ward 1,County Hospital Trustee,,Mary Strong,,215,81,134
+Cass,Atlantic Ward 2,County Hospital Trustee,,Mary Strong,,209,94,115
+Cass,Atlantic Ward 3,County Hospital Trustee,,Mary Strong,,347,130,217
+Cass,Atlantic Ward 4,County Hospital Trustee,,Mary Strong,,343,143,200
+Cass,Atlantic Ward 5,County Hospital Trustee,,Mary Strong,,433,173,260
+Cass,Bear Grove/Cass/Lewis,County Hospital Trustee,,Mary Strong,,199,59,140
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Hospital Trustee,,Mary Strong,,472,145,327
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Hospital Trustee,,Mary Strong,,347,112,235
+Cass,Noble/Pleasant/Griswold,County Hospital Trustee,,Mary Strong,,402,63,339
+Cass,Union/Cumberland,County Hospital Trustee,,Mary Strong,,99,24,75
+Cass,Victoria/Edna/East Massena Township,County Hospital Trustee,,Mary Strong,,92,22,70
+Cass,West Massena Township/Massena,County Hospital Trustee,,Mary Strong,,112,10,102
+Cass,Atlantic Ward 1,County Hospital Trustee,,Mike Klocke,,173,70,103
+Cass,Atlantic Ward 2,County Hospital Trustee,,Mike Klocke,,166,73,93
+Cass,Atlantic Ward 3,County Hospital Trustee,,Mike Klocke,,300,112,188
+Cass,Atlantic Ward 4,County Hospital Trustee,,Mike Klocke,,292,125,167
+Cass,Atlantic Ward 5,County Hospital Trustee,,Mike Klocke,,394,156,238
+Cass,Bear Grove/Cass/Lewis,County Hospital Trustee,,Mike Klocke,,185,53,132
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Hospital Trustee,,Mike Klocke,,459,133,326
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Hospital Trustee,,Mike Klocke,,313,89,224
+Cass,Noble/Pleasant/Griswold,County Hospital Trustee,,Mike Klocke,,387,58,329
+Cass,Union/Cumberland,County Hospital Trustee,,Mike Klocke,,100,22,78
+Cass,Victoria/Edna/East Massena Township,County Hospital Trustee,,Mike Klocke,,114,29,85
+Cass,West Massena Township/Massena,County Hospital Trustee,,Mike Klocke,,140,17,123
+Cass,Atlantic Ward 1,County Hospital Trustee,,Write-In,,2,1,1
+Cass,Atlantic Ward 2,County Hospital Trustee,,Write-In,,0,0,0
+Cass,Atlantic Ward 3,County Hospital Trustee,,Write-In,,3,0,3
+Cass,Atlantic Ward 4,County Hospital Trustee,,Write-In,,1,0,1
+Cass,Atlantic Ward 5,County Hospital Trustee,,Write-In,,4,1,3
+Cass,Bear Grove/Cass/Lewis,County Hospital Trustee,,Write-In,,0,0,0
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Hospital Trustee,,Write-In,,4,1,3
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Hospital Trustee,,Write-In,,9,1,8
+Cass,Noble/Pleasant/Griswold,County Hospital Trustee,,Write-In,,2,0,2
+Cass,Union/Cumberland,County Hospital Trustee,,Write-In,,0,0,0
+Cass,Victoria/Edna/East Massena Township,County Hospital Trustee,,Write-In,,1,1,0
+Cass,West Massena Township/Massena,County Hospital Trustee,,Write-In,,1,1,0
+Cass,Atlantic Ward 1,County Recorder,,Mary Ward,REP,287,105,182
+Cass,Atlantic Ward 2,County Recorder,,Mary Ward,REP,248,106,142
+Cass,Atlantic Ward 3,County Recorder,,Mary Ward,REP,462,178,284
+Cass,Atlantic Ward 4,County Recorder,,Mary Ward,REP,438,172,266
+Cass,Atlantic Ward 5,County Recorder,,Mary Ward,REP,534,218,316
+Cass,Bear Grove/Cass/Lewis,County Recorder,,Mary Ward,REP,316,71,245
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Recorder,,Mary Ward,REP,636,193,443
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Recorder,,Mary Ward,REP,481,166,315
+Cass,Noble/Pleasant/Griswold,County Recorder,,Mary Ward,REP,553,99,454
+Cass,Union/Cumberland,County Recorder,,Mary Ward,REP,145,26,119
+Cass,Victoria/Edna/East Massena Township,County Recorder,,Mary Ward,REP,141,40,101
+Cass,West Massena Township/Massena,County Recorder,,Mary Ward,REP,143,18,125
+Cass,Atlantic Ward 1,County Recorder,,Write-In,,6,3,3
+Cass,Atlantic Ward 2,County Recorder,,Write-In,,2,1,1
+Cass,Atlantic Ward 3,County Recorder,,Write-In,,5,0,5
+Cass,Atlantic Ward 4,County Recorder,,Write-In,,4,1,3
+Cass,Atlantic Ward 5,County Recorder,,Write-In,,4,1,3
+Cass,Bear Grove/Cass/Lewis,County Recorder,,Write-In,,1,1,0
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Recorder,,Write-In,,4,2,2
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Recorder,,Write-In,,4,1,3
+Cass,Noble/Pleasant/Griswold,County Recorder,,Write-In,,5,0,5
+Cass,Union/Cumberland,County Recorder,,Write-In,,1,0,1
+Cass,Victoria/Edna/East Massena Township,County Recorder,,Write-In,,1,1,0
+Cass,West Massena Township/Massena,County Recorder,,Write-In,,2,0,2
+Cass,Atlantic Ward 2,County Supervisor,2,Mark T. O'Brien,REP,242,100,142
+Cass,Atlantic Ward 3,County Supervisor,2,Mark T. O'Brien,REP,461,184,277
+Cass,Atlantic Ward 2,County Supervisor,2,Write-In,,2,1,1
+Cass,Atlantic Ward 3,County Supervisor,2,Write-In,,9,1,8
+Cass,Atlantic Ward 4,County Supervisor,3,Wendy Richter,REP,426,172,254
+Cass,Atlantic Ward 5,County Supervisor,3,Wendy Richter,REP,542,217,325
+Cass,Atlantic Ward 4,County Supervisor,3,Write-In,,7,2,5
+Cass,Atlantic Ward 5,County Supervisor,3,Write-In,,6,1,5
+Cass,Atlantic Ward 1,County Treasurer,,Tracey J. Marshall,REP,287,103,184
+Cass,Atlantic Ward 2,County Treasurer,,Tracey J. Marshall,REP,253,106,147
+Cass,Atlantic Ward 3,County Treasurer,,Tracey J. Marshall,REP,471,185,286
+Cass,Atlantic Ward 4,County Treasurer,,Tracey J. Marshall,REP,429,170,259
+Cass,Atlantic Ward 5,County Treasurer,,Tracey J. Marshall,REP,545,220,325
+Cass,Bear Grove/Cass/Lewis,County Treasurer,,Tracey J. Marshall,REP,312,73,239
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Treasurer,,Tracey J. Marshall,REP,623,187,436
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Treasurer,,Tracey J. Marshall,REP,488,171,317
+Cass,Noble/Pleasant/Griswold,County Treasurer,,Tracey J. Marshall,REP,571,104,467
+Cass,Union/Cumberland,County Treasurer,,Tracey J. Marshall,REP,138,23,115
+Cass,Victoria/Edna/East Massena Township,County Treasurer,,Tracey J. Marshall,REP,133,39,94
+Cass,West Massena Township/Massena,County Treasurer,,Tracey J. Marshall,REP,137,15,122
+Cass,Atlantic Ward 1,County Treasurer,,Write-In,,9,4,5
+Cass,Atlantic Ward 2,County Treasurer,,Write-In,,2,0,2
+Cass,Atlantic Ward 3,County Treasurer,,Write-In,,8,0,8
+Cass,Atlantic Ward 4,County Treasurer,,Write-In,,8,4,4
+Cass,Atlantic Ward 5,County Treasurer,,Write-In,,5,2,3
+Cass,Bear Grove/Cass/Lewis,County Treasurer,,Write-In,,3,0,3
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Treasurer,,Write-In,,8,2,6
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Treasurer,,Write-In,,5,2,3
+Cass,Noble/Pleasant/Griswold,County Treasurer,,Write-In,,8,0,8
+Cass,Union/Cumberland,County Treasurer,,Write-In,,3,1,2
+Cass,Victoria/Edna/East Massena Township,County Treasurer,,Write-In,,1,1,0
+Cass,West Massena Township/Massena,County Treasurer,,Write-In,,4,1,3
+Cass,Atlantic Ward 1,Court of Appeals Judge - John M. Sandy,,No,,89,25,64
+Cass,Atlantic Ward 2,Court of Appeals Judge - John M. Sandy,,No,,90,38,52
+Cass,Atlantic Ward 3,Court of Appeals Judge - John M. Sandy,,No,,111,38,73
+Cass,Atlantic Ward 4,Court of Appeals Judge - John M. Sandy,,No,,115,46,69
+Cass,Atlantic Ward 5,Court of Appeals Judge - John M. Sandy,,No,,110,45,65
+Cass,Bear Grove/Cass/Lewis,Court of Appeals Judge - John M. Sandy,,No,,94,29,65
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Court of Appeals Judge - John M. Sandy,,No,,165,45,120
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Court of Appeals Judge - John M. Sandy,,No,,135,42,93
+Cass,Noble/Pleasant/Griswold,Court of Appeals Judge - John M. Sandy,,No,,168,30,138
+Cass,Union/Cumberland,Court of Appeals Judge - John M. Sandy,,No,,54,11,43
+Cass,Victoria/Edna/East Massena Township,Court of Appeals Judge - John M. Sandy,,No,,35,10,25
+Cass,West Massena Township/Massena,Court of Appeals Judge - John M. Sandy,,No,,53,8,45
+Cass,Atlantic Ward 1,Court of Appeals Judge - John M. Sandy,,Yes,,163,68,95
+Cass,Atlantic Ward 2,Court of Appeals Judge - John M. Sandy,,Yes,,136,53,83
+Cass,Atlantic Ward 3,Court of Appeals Judge - John M. Sandy,,Yes,,244,88,156
+Cass,Atlantic Ward 4,Court of Appeals Judge - John M. Sandy,,Yes,,220,90,130
+Cass,Atlantic Ward 5,Court of Appeals Judge - John M. Sandy,,Yes,,315,115,200
+Cass,Bear Grove/Cass/Lewis,Court of Appeals Judge - John M. Sandy,,Yes,,125,31,94
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Court of Appeals Judge - John M. Sandy,,Yes,,358,102,256
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Court of Appeals Judge - John M. Sandy,,Yes,,248,69,179
+Cass,Noble/Pleasant/Griswold,Court of Appeals Judge - John M. Sandy,,Yes,,308,50,258
+Cass,Union/Cumberland,Court of Appeals Judge - John M. Sandy,,Yes,,61,11,50
+Cass,Victoria/Edna/East Massena Township,Court of Appeals Judge - John M. Sandy,,Yes,,61,17,44
+Cass,West Massena Township/Massena,Court of Appeals Judge - John M. Sandy,,Yes,,63,7,56
+Cass,Atlantic Ward 1,Court of Appeals Judge - Julie A. Schumacher,,No,,86,22,64
+Cass,Atlantic Ward 2,Court of Appeals Judge - Julie A. Schumacher,,No,,81,35,46
+Cass,Atlantic Ward 3,Court of Appeals Judge - Julie A. Schumacher,,No,,104,39,65
+Cass,Atlantic Ward 4,Court of Appeals Judge - Julie A. Schumacher,,No,,113,44,69
+Cass,Atlantic Ward 5,Court of Appeals Judge - Julie A. Schumacher,,No,,112,49,63
+Cass,Bear Grove/Cass/Lewis,Court of Appeals Judge - Julie A. Schumacher,,No,,86,28,58
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Court of Appeals Judge - Julie A. Schumacher,,No,,166,47,119
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Court of Appeals Judge - Julie A. Schumacher,,No,,128,36,92
+Cass,Noble/Pleasant/Griswold,Court of Appeals Judge - Julie A. Schumacher,,No,,161,27,134
+Cass,Union/Cumberland,Court of Appeals Judge - Julie A. Schumacher,,No,,55,10,45
+Cass,Victoria/Edna/East Massena Township,Court of Appeals Judge - Julie A. Schumacher,,No,,36,10,26
+Cass,West Massena Township/Massena,Court of Appeals Judge - Julie A. Schumacher,,No,,49,8,41
+Cass,Atlantic Ward 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,166,69,97
+Cass,Atlantic Ward 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,143,55,88
+Cass,Atlantic Ward 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,250,91,159
+Cass,Atlantic Ward 4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,219,87,132
+Cass,Atlantic Ward 5,Court of Appeals Judge - Julie A. Schumacher,,Yes,,305,108,197
+Cass,Bear Grove/Cass/Lewis,Court of Appeals Judge - Julie A. Schumacher,,Yes,,131,31,100
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Court of Appeals Judge - Julie A. Schumacher,,Yes,,354,98,256
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Court of Appeals Judge - Julie A. Schumacher,,Yes,,252,74,178
+Cass,Noble/Pleasant/Griswold,Court of Appeals Judge - Julie A. Schumacher,,Yes,,317,53,264
+Cass,Union/Cumberland,Court of Appeals Judge - Julie A. Schumacher,,Yes,,59,12,47
+Cass,Victoria/Edna/East Massena Township,Court of Appeals Judge - Julie A. Schumacher,,Yes,,57,17,40
+Cass,West Massena Township/Massena,Court of Appeals Judge - Julie A. Schumacher,,Yes,,65,7,58
+Cass,Atlantic Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,96,25,71
+Cass,Atlantic Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,90,35,55
+Cass,Atlantic Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,111,38,73
+Cass,Atlantic Ward 4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,125,47,78
+Cass,Atlantic Ward 5,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,119,50,69
+Cass,Bear Grove/Cass/Lewis,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,98,33,65
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,183,46,137
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,141,41,100
+Cass,Noble/Pleasant/Griswold,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,167,29,138
+Cass,Union/Cumberland,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,59,13,46
+Cass,Victoria/Edna/East Massena Township,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,40,10,30
+Cass,West Massena Township/Massena,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,54,9,45
+Cass,Atlantic Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,152,66,86
+Cass,Atlantic Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,134,53,81
+Cass,Atlantic Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,236,88,148
+Cass,Atlantic Ward 4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,205,83,122
+Cass,Atlantic Ward 5,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,291,103,188
+Cass,Bear Grove/Cass/Lewis,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,116,27,89
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,334,95,239
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,238,67,171
+Cass,Noble/Pleasant/Griswold,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,301,49,252
+Cass,Union/Cumberland,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,53,8,45
+Cass,Victoria/Edna/East Massena Township,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,57,17,40
+Cass,West Massena Township/Massena,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,58,6,52
+Cass,Atlantic Ward 1,District 4 Associate Judge - Ashley N. West-Joons,,No,,95,23,72
+Cass,Atlantic Ward 2,District 4 Associate Judge - Ashley N. West-Joons,,No,,86,37,49
+Cass,Atlantic Ward 3,District 4 Associate Judge - Ashley N. West-Joons,,No,,116,44,72
+Cass,Atlantic Ward 4,District 4 Associate Judge - Ashley N. West-Joons,,No,,119,47,72
+Cass,Atlantic Ward 5,District 4 Associate Judge - Ashley N. West-Joons,,No,,125,56,69
+Cass,Bear Grove/Cass/Lewis,District 4 Associate Judge - Ashley N. West-Joons,,No,,96,28,68
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Associate Judge - Ashley N. West-Joons,,No,,182,56,126
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Associate Judge - Ashley N. West-Joons,,No,,143,39,104
+Cass,Noble/Pleasant/Griswold,District 4 Associate Judge - Ashley N. West-Joons,,No,,170,27,143
+Cass,Union/Cumberland,District 4 Associate Judge - Ashley N. West-Joons,,No,,58,14,44
+Cass,Victoria/Edna/East Massena Township,District 4 Associate Judge - Ashley N. West-Joons,,No,,39,11,28
+Cass,West Massena Township/Massena,District 4 Associate Judge - Ashley N. West-Joons,,No,,55,11,44
+Cass,Atlantic Ward 1,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,147,64,83
+Cass,Atlantic Ward 2,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,143,55,88
+Cass,Atlantic Ward 3,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,229,81,148
+Cass,Atlantic Ward 4,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,204,81,123
+Cass,Atlantic Ward 5,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,284,93,191
+Cass,Bear Grove/Cass/Lewis,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,114,28,86
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,327,82,245
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,233,68,165
+Cass,Noble/Pleasant/Griswold,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,293,50,243
+Cass,Union/Cumberland,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,55,9,46
+Cass,Victoria/Edna/East Massena Township,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,54,16,38
+Cass,West Massena Township/Massena,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,55,3,52
+Cass,Atlantic Ward 1,District 4 Associate Judge - Matthew A. Schuling,,No,,87,24,63
+Cass,Atlantic Ward 2,District 4 Associate Judge - Matthew A. Schuling,,No,,90,36,54
+Cass,Atlantic Ward 3,District 4 Associate Judge - Matthew A. Schuling,,No,,109,40,69
+Cass,Atlantic Ward 4,District 4 Associate Judge - Matthew A. Schuling,,No,,107,45,62
+Cass,Atlantic Ward 5,District 4 Associate Judge - Matthew A. Schuling,,No,,116,48,68
+Cass,Bear Grove/Cass/Lewis,District 4 Associate Judge - Matthew A. Schuling,,No,,89,27,62
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Associate Judge - Matthew A. Schuling,,No,,173,47,126
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Associate Judge - Matthew A. Schuling,,No,,135,40,95
+Cass,Noble/Pleasant/Griswold,District 4 Associate Judge - Matthew A. Schuling,,No,,157,28,129
+Cass,Union/Cumberland,District 4 Associate Judge - Matthew A. Schuling,,No,,51,11,40
+Cass,Victoria/Edna/East Massena Township,District 4 Associate Judge - Matthew A. Schuling,,No,,33,10,23
+Cass,West Massena Township/Massena,District 4 Associate Judge - Matthew A. Schuling,,No,,51,8,43
+Cass,Atlantic Ward 1,District 4 Associate Judge - Matthew A. Schuling,,Yes,,158,65,93
+Cass,Atlantic Ward 2,District 4 Associate Judge - Matthew A. Schuling,,Yes,,132,52,80
+Cass,Atlantic Ward 3,District 4 Associate Judge - Matthew A. Schuling,,Yes,,233,82,151
+Cass,Atlantic Ward 4,District 4 Associate Judge - Matthew A. Schuling,,Yes,,207,79,128
+Cass,Atlantic Ward 5,District 4 Associate Judge - Matthew A. Schuling,,Yes,,283,96,187
+Cass,Bear Grove/Cass/Lewis,District 4 Associate Judge - Matthew A. Schuling,,Yes,,116,27,89
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Associate Judge - Matthew A. Schuling,,Yes,,331,91,240
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Associate Judge - Matthew A. Schuling,,Yes,,238,65,173
+Cass,Noble/Pleasant/Griswold,District 4 Associate Judge - Matthew A. Schuling,,Yes,,306,48,258
+Cass,Union/Cumberland,District 4 Associate Judge - Matthew A. Schuling,,Yes,,61,11,50
+Cass,Victoria/Edna/East Massena Township,District 4 Associate Judge - Matthew A. Schuling,,Yes,,59,17,42
+Cass,West Massena Township/Massena,District 4 Associate Judge - Matthew A. Schuling,,Yes,,61,7,54
+Cass,Atlantic Ward 1,District 4 Associate Judge - Scott Strait,,No,,82,24,58
+Cass,Atlantic Ward 2,District 4 Associate Judge - Scott Strait,,No,,86,36,50
+Cass,Atlantic Ward 3,District 4 Associate Judge - Scott Strait,,No,,108,40,68
+Cass,Atlantic Ward 4,District 4 Associate Judge - Scott Strait,,No,,105,47,58
+Cass,Atlantic Ward 5,District 4 Associate Judge - Scott Strait,,No,,110,48,62
+Cass,Bear Grove/Cass/Lewis,District 4 Associate Judge - Scott Strait,,No,,89,29,60
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Associate Judge - Scott Strait,,No,,174,50,124
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Associate Judge - Scott Strait,,No,,132,38,94
+Cass,Noble/Pleasant/Griswold,District 4 Associate Judge - Scott Strait,,No,,160,30,130
+Cass,Union/Cumberland,District 4 Associate Judge - Scott Strait,,No,,55,9,46
+Cass,Victoria/Edna/East Massena Township,District 4 Associate Judge - Scott Strait,,No,,34,10,24
+Cass,West Massena Township/Massena,District 4 Associate Judge - Scott Strait,,No,,50,8,42
+Cass,Atlantic Ward 1,District 4 Associate Judge - Scott Strait,,Yes,,163,64,99
+Cass,Atlantic Ward 2,District 4 Associate Judge - Scott Strait,,Yes,,136,53,83
+Cass,Atlantic Ward 3,District 4 Associate Judge - Scott Strait,,Yes,,231,81,150
+Cass,Atlantic Ward 4,District 4 Associate Judge - Scott Strait,,Yes,,213,78,135
+Cass,Atlantic Ward 5,District 4 Associate Judge - Scott Strait,,Yes,,291,97,194
+Cass,Bear Grove/Cass/Lewis,District 4 Associate Judge - Scott Strait,,Yes,,119,27,92
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Associate Judge - Scott Strait,,Yes,,334,88,246
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Associate Judge - Scott Strait,,Yes,,238,65,173
+Cass,Noble/Pleasant/Griswold,District 4 Associate Judge - Scott Strait,,Yes,,309,48,261
+Cass,Union/Cumberland,District 4 Associate Judge - Scott Strait,,Yes,,57,12,45
+Cass,Victoria/Edna/East Massena Township,District 4 Associate Judge - Scott Strait,,Yes,,58,17,41
+Cass,West Massena Township/Massena,District 4 Associate Judge - Scott Strait,,Yes,,63,7,56
+Cass,Atlantic Ward 1,District 4 Judge - Amy L. Zacharias,,No,,86,20,66
+Cass,Atlantic Ward 2,District 4 Judge - Amy L. Zacharias,,No,,89,37,52
+Cass,Atlantic Ward 3,District 4 Judge - Amy L. Zacharias,,No,,108,43,65
+Cass,Atlantic Ward 4,District 4 Judge - Amy L. Zacharias,,No,,119,44,75
+Cass,Atlantic Ward 5,District 4 Judge - Amy L. Zacharias,,No,,111,46,65
+Cass,Bear Grove/Cass/Lewis,District 4 Judge - Amy L. Zacharias,,No,,90,26,64
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Judge - Amy L. Zacharias,,No,,195,58,137
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Judge - Amy L. Zacharias,,No,,138,37,101
+Cass,Noble/Pleasant/Griswold,District 4 Judge - Amy L. Zacharias,,No,,174,30,144
+Cass,Union/Cumberland,District 4 Judge - Amy L. Zacharias,,No,,59,13,46
+Cass,Victoria/Edna/East Massena Township,District 4 Judge - Amy L. Zacharias,,No,,54,11,43
+Cass,West Massena Township/Massena,District 4 Judge - Amy L. Zacharias,,No,,81,9,72
+Cass,Atlantic Ward 1,District 4 Judge - Amy L. Zacharias,,Yes,,163,68,95
+Cass,Atlantic Ward 2,District 4 Judge - Amy L. Zacharias,,Yes,,140,55,85
+Cass,Atlantic Ward 3,District 4 Judge - Amy L. Zacharias,,Yes,,243,83,160
+Cass,Atlantic Ward 4,District 4 Judge - Amy L. Zacharias,,Yes,,208,84,124
+Cass,Atlantic Ward 5,District 4 Judge - Amy L. Zacharias,,Yes,,299,100,199
+Cass,Bear Grove/Cass/Lewis,District 4 Judge - Amy L. Zacharias,,Yes,,124,31,93
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Judge - Amy L. Zacharias,,Yes,,332,87,245
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Judge - Amy L. Zacharias,,Yes,,243,72,171
+Cass,Noble/Pleasant/Griswold,District 4 Judge - Amy L. Zacharias,,Yes,,298,48,250
+Cass,Union/Cumberland,District 4 Judge - Amy L. Zacharias,,Yes,,57,10,47
+Cass,Victoria/Edna/East Massena Township,District 4 Judge - Amy L. Zacharias,,Yes,,48,17,31
+Cass,West Massena Township/Massena,District 4 Judge - Amy L. Zacharias,,Yes,,50,7,43
+Cass,Atlantic Ward 1,District 4 Judge - Craig Michael Dreismeier,,No,,89,24,65
+Cass,Atlantic Ward 2,District 4 Judge - Craig Michael Dreismeier,,No,,90,37,53
+Cass,Atlantic Ward 3,District 4 Judge - Craig Michael Dreismeier,,No,,110,38,72
+Cass,Atlantic Ward 4,District 4 Judge - Craig Michael Dreismeier,,No,,120,51,69
+Cass,Atlantic Ward 5,District 4 Judge - Craig Michael Dreismeier,,No,,123,49,74
+Cass,Bear Grove/Cass/Lewis,District 4 Judge - Craig Michael Dreismeier,,No,,92,30,62
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Judge - Craig Michael Dreismeier,,No,,173,50,123
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Judge - Craig Michael Dreismeier,,No,,139,41,98
+Cass,Noble/Pleasant/Griswold,District 4 Judge - Craig Michael Dreismeier,,No,,160,30,130
+Cass,Union/Cumberland,District 4 Judge - Craig Michael Dreismeier,,No,,51,9,42
+Cass,Victoria/Edna/East Massena Township,District 4 Judge - Craig Michael Dreismeier,,No,,39,10,29
+Cass,West Massena Township/Massena,District 4 Judge - Craig Michael Dreismeier,,No,,56,9,47
+Cass,Atlantic Ward 1,District 4 Judge - Craig Michael Dreismeier,,Yes,,153,64,89
+Cass,Atlantic Ward 2,District 4 Judge - Craig Michael Dreismeier,,Yes,,131,51,80
+Cass,Atlantic Ward 3,District 4 Judge - Craig Michael Dreismeier,,Yes,,233,88,145
+Cass,Atlantic Ward 4,District 4 Judge - Craig Michael Dreismeier,,Yes,,197,73,124
+Cass,Atlantic Ward 5,District 4 Judge - Craig Michael Dreismeier,,Yes,,280,96,184
+Cass,Bear Grove/Cass/Lewis,District 4 Judge - Craig Michael Dreismeier,,Yes,,118,24,94
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Judge - Craig Michael Dreismeier,,Yes,,330,89,241
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Judge - Craig Michael Dreismeier,,Yes,,231,62,169
+Cass,Noble/Pleasant/Griswold,District 4 Judge - Craig Michael Dreismeier,,Yes,,303,47,256
+Cass,Union/Cumberland,District 4 Judge - Craig Michael Dreismeier,,Yes,,60,12,48
+Cass,Victoria/Edna/East Massena Township,District 4 Judge - Craig Michael Dreismeier,,Yes,,55,17,38
+Cass,West Massena Township/Massena,District 4 Judge - Craig Michael Dreismeier,,Yes,,57,7,50
+Cass,Atlantic Ward 1,District 4 Judge - Donna Bothwell,,No,,93,23,70
+Cass,Atlantic Ward 2,District 4 Judge - Donna Bothwell,,No,,86,34,52
+Cass,Atlantic Ward 3,District 4 Judge - Donna Bothwell,,No,,116,37,79
+Cass,Atlantic Ward 4,District 4 Judge - Donna Bothwell,,No,,114,43,71
+Cass,Atlantic Ward 5,District 4 Judge - Donna Bothwell,,No,,113,43,70
+Cass,Bear Grove/Cass/Lewis,District 4 Judge - Donna Bothwell,,No,,89,26,63
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Judge - Donna Bothwell,,No,,180,52,128
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Judge - Donna Bothwell,,No,,135,38,97
+Cass,Noble/Pleasant/Griswold,District 4 Judge - Donna Bothwell,,No,,168,26,142
+Cass,Union/Cumberland,District 4 Judge - Donna Bothwell,,No,,56,11,45
+Cass,Victoria/Edna/East Massena Township,District 4 Judge - Donna Bothwell,,No,,36,9,27
+Cass,West Massena Township/Massena,District 4 Judge - Donna Bothwell,,No,,51,8,43
+Cass,Atlantic Ward 1,District 4 Judge - Donna Bothwell,,Yes,,148,64,84
+Cass,Atlantic Ward 2,District 4 Judge - Donna Bothwell,,Yes,,134,52,82
+Cass,Atlantic Ward 3,District 4 Judge - Donna Bothwell,,Yes,,229,89,140
+Cass,Atlantic Ward 4,District 4 Judge - Donna Bothwell,,Yes,,207,81,126
+Cass,Atlantic Ward 5,District 4 Judge - Donna Bothwell,,Yes,,289,103,186
+Cass,Bear Grove/Cass/Lewis,District 4 Judge - Donna Bothwell,,Yes,,120,30,90
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Judge - Donna Bothwell,,Yes,,324,88,236
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Judge - Donna Bothwell,,Yes,,237,67,170
+Cass,Noble/Pleasant/Griswold,District 4 Judge - Donna Bothwell,,Yes,,292,52,240
+Cass,Union/Cumberland,District 4 Judge - Donna Bothwell,,Yes,,53,9,44
+Cass,Victoria/Edna/East Massena Township,District 4 Judge - Donna Bothwell,,Yes,,56,18,38
+Cass,West Massena Township/Massena,District 4 Judge - Donna Bothwell,,Yes,,61,7,54
+Cass,Atlantic Ward 1,District 4 Judge - Justin R. Wyatt,,No,,88,24,64
+Cass,Atlantic Ward 2,District 4 Judge - Justin R. Wyatt,,No,,89,34,55
+Cass,Atlantic Ward 3,District 4 Judge - Justin R. Wyatt,,No,,107,39,68
+Cass,Atlantic Ward 4,District 4 Judge - Justin R. Wyatt,,No,,110,46,64
+Cass,Atlantic Ward 5,District 4 Judge - Justin R. Wyatt,,No,,113,48,65
+Cass,Bear Grove/Cass/Lewis,District 4 Judge - Justin R. Wyatt,,No,,84,28,56
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Judge - Justin R. Wyatt,,No,,172,51,121
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Judge - Justin R. Wyatt,,No,,132,39,93
+Cass,Noble/Pleasant/Griswold,District 4 Judge - Justin R. Wyatt,,No,,150,26,124
+Cass,Union/Cumberland,District 4 Judge - Justin R. Wyatt,,No,,50,10,40
+Cass,Victoria/Edna/East Massena Township,District 4 Judge - Justin R. Wyatt,,No,,37,10,27
+Cass,West Massena Township/Massena,District 4 Judge - Justin R. Wyatt,,No,,53,9,44
+Cass,Atlantic Ward 1,District 4 Judge - Justin R. Wyatt,,Yes,,158,64,94
+Cass,Atlantic Ward 2,District 4 Judge - Justin R. Wyatt,,Yes,,132,54,78
+Cass,Atlantic Ward 3,District 4 Judge - Justin R. Wyatt,,Yes,,239,85,154
+Cass,Atlantic Ward 4,District 4 Judge - Justin R. Wyatt,,Yes,,207,79,128
+Cass,Atlantic Ward 5,District 4 Judge - Justin R. Wyatt,,Yes,,287,98,189
+Cass,Bear Grove/Cass/Lewis,District 4 Judge - Justin R. Wyatt,,Yes,,125,28,97
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Judge - Justin R. Wyatt,,Yes,,328,85,243
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Judge - Justin R. Wyatt,,Yes,,240,68,172
+Cass,Noble/Pleasant/Griswold,District 4 Judge - Justin R. Wyatt,,Yes,,315,51,264
+Cass,Union/Cumberland,District 4 Judge - Justin R. Wyatt,,Yes,,59,11,48
+Cass,Victoria/Edna/East Massena Township,District 4 Judge - Justin R. Wyatt,,Yes,,53,16,37
+Cass,West Massena Township/Massena,District 4 Judge - Justin R. Wyatt,,Yes,,62,8,54
+Cass,Atlantic Ward 1,District 4 Judge - Margaret J. Reyes,,No,,89,22,67
+Cass,Atlantic Ward 2,District 4 Judge - Margaret J. Reyes,,No,,92,41,51
+Cass,Atlantic Ward 3,District 4 Judge - Margaret J. Reyes,,No,,111,40,71
+Cass,Atlantic Ward 4,District 4 Judge - Margaret J. Reyes,,No,,128,44,84
+Cass,Atlantic Ward 5,District 4 Judge - Margaret J. Reyes,,No,,130,53,77
+Cass,Bear Grove/Cass/Lewis,District 4 Judge - Margaret J. Reyes,,No,,92,29,63
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Judge - Margaret J. Reyes,,No,,185,56,129
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Judge - Margaret J. Reyes,,No,,142,37,105
+Cass,Noble/Pleasant/Griswold,District 4 Judge - Margaret J. Reyes,,No,,167,27,140
+Cass,Union/Cumberland,District 4 Judge - Margaret J. Reyes,,No,,56,11,45
+Cass,Victoria/Edna/East Massena Township,District 4 Judge - Margaret J. Reyes,,No,,35,10,25
+Cass,West Massena Township/Massena,District 4 Judge - Margaret J. Reyes,,No,,47,8,39
+Cass,Atlantic Ward 1,District 4 Judge - Margaret J. Reyes,,Yes,,153,66,87
+Cass,Atlantic Ward 2,District 4 Judge - Margaret J. Reyes,,Yes,,137,51,86
+Cass,Atlantic Ward 3,District 4 Judge - Margaret J. Reyes,,Yes,,241,90,151
+Cass,Atlantic Ward 4,District 4 Judge - Margaret J. Reyes,,Yes,,197,81,116
+Cass,Atlantic Ward 5,District 4 Judge - Margaret J. Reyes,,Yes,,275,91,184
+Cass,Bear Grove/Cass/Lewis,District 4 Judge - Margaret J. Reyes,,Yes,,120,28,92
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Judge - Margaret J. Reyes,,Yes,,325,84,241
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Judge - Margaret J. Reyes,,Yes,,234,69,165
+Cass,Noble/Pleasant/Griswold,District 4 Judge - Margaret J. Reyes,,Yes,,304,50,254
+Cass,Union/Cumberland,District 4 Judge - Margaret J. Reyes,,Yes,,52,9,43
+Cass,Victoria/Edna/East Massena Township,District 4 Judge - Margaret J. Reyes,,Yes,,58,17,41
+Cass,West Massena Township/Massena,District 4 Judge - Margaret J. Reyes,,Yes,,66,9,57
+Cass,Atlantic Ward 1,District 4 Judge - Michael Donn Hooper,,No,,84,24,60
+Cass,Atlantic Ward 2,District 4 Judge - Michael Donn Hooper,,No,,92,36,56
+Cass,Atlantic Ward 3,District 4 Judge - Michael Donn Hooper,,No,,95,37,58
+Cass,Atlantic Ward 4,District 4 Judge - Michael Donn Hooper,,No,,107,47,60
+Cass,Atlantic Ward 5,District 4 Judge - Michael Donn Hooper,,No,,109,43,66
+Cass,Bear Grove/Cass/Lewis,District 4 Judge - Michael Donn Hooper,,No,,91,30,61
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Judge - Michael Donn Hooper,,No,,157,43,114
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Judge - Michael Donn Hooper,,No,,129,38,91
+Cass,Noble/Pleasant/Griswold,District 4 Judge - Michael Donn Hooper,,No,,164,28,136
+Cass,Union/Cumberland,District 4 Judge - Michael Donn Hooper,,No,,52,11,41
+Cass,Victoria/Edna/East Massena Township,District 4 Judge - Michael Donn Hooper,,No,,32,9,23
+Cass,West Massena Township/Massena,District 4 Judge - Michael Donn Hooper,,No,,50,9,41
+Cass,Atlantic Ward 1,District 4 Judge - Michael Donn Hooper,,Yes,,164,68,96
+Cass,Atlantic Ward 2,District 4 Judge - Michael Donn Hooper,,Yes,,134,55,79
+Cass,Atlantic Ward 3,District 4 Judge - Michael Donn Hooper,,Yes,,270,100,170
+Cass,Atlantic Ward 4,District 4 Judge - Michael Donn Hooper,,Yes,,231,87,144
+Cass,Atlantic Ward 5,District 4 Judge - Michael Donn Hooper,,Yes,,310,113,197
+Cass,Bear Grove/Cass/Lewis,District 4 Judge - Michael Donn Hooper,,Yes,,126,27,99
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Judge - Michael Donn Hooper,,Yes,,357,99,258
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Judge - Michael Donn Hooper,,Yes,,252,67,185
+Cass,Noble/Pleasant/Griswold,District 4 Judge - Michael Donn Hooper,,Yes,,308,51,257
+Cass,Union/Cumberland,District 4 Judge - Michael Donn Hooper,,Yes,,63,11,52
+Cass,Victoria/Edna/East Massena Township,District 4 Judge - Michael Donn Hooper,,Yes,,63,18,45
+Cass,West Massena Township/Massena,District 4 Judge - Michael Donn Hooper,,Yes,,65,8,57
+Cass,Victoria/Edna/East Massena Township,Edna Township Clerk,,Write-In,,12,2,10
+Cass,Victoria/Edna/East Massena Township,Edna Township Trustee,,Write-In,,27,3,24
+Cass,Atlantic Ward 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,186,84,102
+Cass,Atlantic Ward 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,172,82,90
+Cass,Atlantic Ward 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,270,121,149
+Cass,Atlantic Ward 4,Governor,,Rob Sand and Dave Muhlbauer,DEM,225,101,124
+Cass,Atlantic Ward 5,Governor,,Rob Sand and Dave Muhlbauer,DEM,283,141,142
+Cass,Bear Grove/Cass/Lewis,Governor,,Rob Sand and Dave Muhlbauer,DEM,146,62,84
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Governor,,Rob Sand and Dave Muhlbauer,DEM,267,92,175
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Governor,,Rob Sand and Dave Muhlbauer,DEM,159,60,99
+Cass,Noble/Pleasant/Griswold,Governor,,Rob Sand and Dave Muhlbauer,DEM,227,70,157
+Cass,Union/Cumberland,Governor,,Rob Sand and Dave Muhlbauer,DEM,54,20,34
+Cass,Victoria/Edna/East Massena Township,Governor,,Rob Sand and Dave Muhlbauer,DEM,46,17,29
+Cass,West Massena Township/Massena,Governor,,Rob Sand and Dave Muhlbauer,DEM,76,14,62
+Cass,Atlantic Ward 1,Governor,,Write-In,,0,0,0
+Cass,Atlantic Ward 2,Governor,,Write-In,,0,0,0
+Cass,Atlantic Ward 3,Governor,,Write-In,,0,0,0
+Cass,Atlantic Ward 4,Governor,,Write-In,,2,0,2
+Cass,Atlantic Ward 5,Governor,,Write-In,,0,0,0
+Cass,Bear Grove/Cass/Lewis,Governor,,Write-In,,0,0,0
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Governor,,Write-In,,0,0,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Governor,,Write-In,,0,0,0
+Cass,Noble/Pleasant/Griswold,Governor,,Write-In,,0,0,0
+Cass,Union/Cumberland,Governor,,Write-In,,0,0,0
+Cass,Victoria/Edna/East Massena Township,Governor,,Write-In,,0,0,0
+Cass,West Massena Township/Massena,Governor,,Write-In,,1,0,1
+Cass,Atlantic Ward 1,Governor,,Zach Lahn and Derek Wulf,REP,186,59,127
+Cass,Atlantic Ward 2,Governor,,Zach Lahn and Derek Wulf,REP,170,72,98
+Cass,Atlantic Ward 3,Governor,,Zach Lahn and Derek Wulf,REP,328,122,206
+Cass,Atlantic Ward 4,Governor,,Zach Lahn and Derek Wulf,REP,335,124,211
+Cass,Atlantic Ward 5,Governor,,Zach Lahn and Derek Wulf,REP,372,143,229
+Cass,Bear Grove/Cass/Lewis,Governor,,Zach Lahn and Derek Wulf,REP,261,46,215
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Governor,,Zach Lahn and Derek Wulf,REP,474,144,330
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Governor,,Zach Lahn and Derek Wulf,REP,399,128,271
+Cass,Noble/Pleasant/Griswold,Governor,,Zach Lahn and Derek Wulf,REP,411,63,348
+Cass,Union/Cumberland,Governor,,Zach Lahn and Derek Wulf,REP,116,17,99
+Cass,Victoria/Edna/East Massena Township,Governor,,Zach Lahn and Derek Wulf,REP,124,35,89
+Cass,West Massena Township/Massena,Governor,,Zach Lahn and Derek Wulf,REP,97,10,87
+Cass,Atlantic Ward 1,Secretary of Agriculture,,Chris Jones,DEM,164,72,92
+Cass,Atlantic Ward 2,Secretary of Agriculture,,Chris Jones,DEM,156,76,80
+Cass,Atlantic Ward 3,Secretary of Agriculture,,Chris Jones,DEM,209,95,114
+Cass,Atlantic Ward 4,Secretary of Agriculture,,Chris Jones,DEM,179,83,96
+Cass,Atlantic Ward 5,Secretary of Agriculture,,Chris Jones,DEM,220,115,105
+Cass,Bear Grove/Cass/Lewis,Secretary of Agriculture,,Chris Jones,DEM,107,49,58
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Secretary of Agriculture,,Chris Jones,DEM,180,69,111
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Secretary of Agriculture,,Chris Jones,DEM,123,52,71
+Cass,Noble/Pleasant/Griswold,Secretary of Agriculture,,Chris Jones,DEM,164,59,105
+Cass,Union/Cumberland,Secretary of Agriculture,,Chris Jones,DEM,34,14,20
+Cass,Victoria/Edna/East Massena Township,Secretary of Agriculture,,Chris Jones,DEM,28,15,13
+Cass,West Massena Township/Massena,Secretary of Agriculture,,Chris Jones,DEM,52,12,40
+Cass,Atlantic Ward 1,Secretary of Agriculture,,Mike Naig,REP,196,66,130
+Cass,Atlantic Ward 2,Secretary of Agriculture,,Mike Naig,REP,181,78,103
+Cass,Atlantic Ward 3,Secretary of Agriculture,,Mike Naig,REP,371,139,232
+Cass,Atlantic Ward 4,Secretary of Agriculture,,Mike Naig,REP,360,136,224
+Cass,Atlantic Ward 5,Secretary of Agriculture,,Mike Naig,REP,414,154,260
+Cass,Bear Grove/Cass/Lewis,Secretary of Agriculture,,Mike Naig,REP,288,60,228
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Secretary of Agriculture,,Mike Naig,REP,547,163,384
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Secretary of Agriculture,,Mike Naig,REP,432,135,297
+Cass,Noble/Pleasant/Griswold,Secretary of Agriculture,,Mike Naig,REP,462,71,391
+Cass,Union/Cumberland,Secretary of Agriculture,,Mike Naig,REP,129,20,109
+Cass,Victoria/Edna/East Massena Township,Secretary of Agriculture,,Mike Naig,REP,134,35,99
+Cass,West Massena Township/Massena,Secretary of Agriculture,,Mike Naig,REP,117,10,107
+Cass,Atlantic Ward 1,Secretary of Agriculture,,Write-In,,0,0,0
+Cass,Atlantic Ward 2,Secretary of Agriculture,,Write-In,,0,0,0
+Cass,Atlantic Ward 3,Secretary of Agriculture,,Write-In,,0,0,0
+Cass,Atlantic Ward 4,Secretary of Agriculture,,Write-In,,0,0,0
+Cass,Atlantic Ward 5,Secretary of Agriculture,,Write-In,,0,0,0
+Cass,Bear Grove/Cass/Lewis,Secretary of Agriculture,,Write-In,,0,0,0
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Secretary of Agriculture,,Write-In,,0,0,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Secretary of Agriculture,,Write-In,,0,0,0
+Cass,Noble/Pleasant/Griswold,Secretary of Agriculture,,Write-In,,0,0,0
+Cass,Union/Cumberland,Secretary of Agriculture,,Write-In,,0,0,0
+Cass,Victoria/Edna/East Massena Township,Secretary of Agriculture,,Write-In,,0,0,0
+Cass,West Massena Township/Massena,Secretary of Agriculture,,Write-In,,0,0,0
+Cass,Atlantic Ward 1,Secretary of State,,Paul D. Pate,REP,203,68,135
+Cass,Atlantic Ward 2,Secretary of State,,Paul D. Pate,REP,187,79,108
+Cass,Atlantic Ward 3,Secretary of State,,Paul D. Pate,REP,357,136,221
+Cass,Atlantic Ward 4,Secretary of State,,Paul D. Pate,REP,370,138,232
+Cass,Atlantic Ward 5,Secretary of State,,Paul D. Pate,REP,422,156,266
+Cass,Bear Grove/Cass/Lewis,Secretary of State,,Paul D. Pate,REP,282,53,229
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Secretary of State,,Paul D. Pate,REP,541,159,382
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Secretary of State,,Paul D. Pate,REP,415,135,280
+Cass,Noble/Pleasant/Griswold,Secretary of State,,Paul D. Pate,REP,460,76,384
+Cass,Union/Cumberland,Secretary of State,,Paul D. Pate,REP,130,22,108
+Cass,Victoria/Edna/East Massena Township,Secretary of State,,Paul D. Pate,REP,130,35,95
+Cass,West Massena Township/Massena,Secretary of State,,Paul D. Pate,REP,120,10,110
+Cass,Atlantic Ward 1,Secretary of State,,Ryan Peterman,DEM,157,71,86
+Cass,Atlantic Ward 2,Secretary of State,,Ryan Peterman,DEM,151,75,76
+Cass,Atlantic Ward 3,Secretary of State,,Ryan Peterman,DEM,227,103,124
+Cass,Atlantic Ward 4,Secretary of State,,Ryan Peterman,DEM,173,83,90
+Cass,Atlantic Ward 5,Secretary of State,,Ryan Peterman,DEM,212,116,96
+Cass,Bear Grove/Cass/Lewis,Secretary of State,,Ryan Peterman,DEM,113,55,58
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Secretary of State,,Ryan Peterman,DEM,187,72,115
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Secretary of State,,Ryan Peterman,DEM,131,50,81
+Cass,Noble/Pleasant/Griswold,Secretary of State,,Ryan Peterman,DEM,169,56,113
+Cass,Union/Cumberland,Secretary of State,,Ryan Peterman,DEM,35,13,22
+Cass,Victoria/Edna/East Massena Township,Secretary of State,,Ryan Peterman,DEM,32,14,18
+Cass,West Massena Township/Massena,Secretary of State,,Ryan Peterman,DEM,50,12,38
+Cass,Atlantic Ward 1,Secretary of State,,Write-In,,1,0,1
+Cass,Atlantic Ward 2,Secretary of State,,Write-In,,0,0,0
+Cass,Atlantic Ward 3,Secretary of State,,Write-In,,0,0,0
+Cass,Atlantic Ward 4,Secretary of State,,Write-In,,0,0,0
+Cass,Atlantic Ward 5,Secretary of State,,Write-In,,0,0,0
+Cass,Bear Grove/Cass/Lewis,Secretary of State,,Write-In,,0,0,0
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Secretary of State,,Write-In,,0,0,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Secretary of State,,Write-In,,0,0,0
+Cass,Noble/Pleasant/Griswold,Secretary of State,,Write-In,,0,0,0
+Cass,Union/Cumberland,Secretary of State,,Write-In,,0,0,0
+Cass,Victoria/Edna/East Massena Township,Secretary of State,,Write-In,,0,0,0
+Cass,West Massena Township/Massena,Secretary of State,,Write-In,,0,0,0
+Cass,Atlantic Ward 1,Soil and Water Conservation District Commissioner,,Gregory D. Zellmer,,231,86,145
+Cass,Atlantic Ward 2,Soil and Water Conservation District Commissioner,,Gregory D. Zellmer,,222,98,124
+Cass,Atlantic Ward 3,Soil and Water Conservation District Commissioner,,Gregory D. Zellmer,,406,155,251
+Cass,Atlantic Ward 4,Soil and Water Conservation District Commissioner,,Gregory D. Zellmer,,393,159,234
+Cass,Atlantic Ward 5,Soil and Water Conservation District Commissioner,,Gregory D. Zellmer,,467,193,274
+Cass,Bear Grove/Cass/Lewis,Soil and Water Conservation District Commissioner,,Gregory D. Zellmer,,266,68,198
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Soil and Water Conservation District Commissioner,,Gregory D. Zellmer,,535,164,371
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Soil and Water Conservation District Commissioner,,Gregory D. Zellmer,,438,135,303
+Cass,Noble/Pleasant/Griswold,Soil and Water Conservation District Commissioner,,Gregory D. Zellmer,,453,73,380
+Cass,Union/Cumberland,Soil and Water Conservation District Commissioner,,Gregory D. Zellmer,,113,20,93
+Cass,Victoria/Edna/East Massena Township,Soil and Water Conservation District Commissioner,,Gregory D. Zellmer,,109,32,77
+Cass,West Massena Township/Massena,Soil and Water Conservation District Commissioner,,Gregory D. Zellmer,,121,13,108
+Cass,Atlantic Ward 1,Soil and Water Conservation District Commissioner,,John J. Hansen,,186,70,116
+Cass,Atlantic Ward 2,Soil and Water Conservation District Commissioner,,John J. Hansen,,171,77,94
+Cass,Atlantic Ward 3,Soil and Water Conservation District Commissioner,,John J. Hansen,,306,112,194
+Cass,Atlantic Ward 4,Soil and Water Conservation District Commissioner,,John J. Hansen,,307,126,181
+Cass,Atlantic Ward 5,Soil and Water Conservation District Commissioner,,John J. Hansen,,373,146,227
+Cass,Bear Grove/Cass/Lewis,Soil and Water Conservation District Commissioner,,John J. Hansen,,203,55,148
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Soil and Water Conservation District Commissioner,,John J. Hansen,,453,133,320
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Soil and Water Conservation District Commissioner,,John J. Hansen,,352,113,239
+Cass,Noble/Pleasant/Griswold,Soil and Water Conservation District Commissioner,,John J. Hansen,,411,64,347
+Cass,Union/Cumberland,Soil and Water Conservation District Commissioner,,John J. Hansen,,92,18,74
+Cass,Victoria/Edna/East Massena Township,Soil and Water Conservation District Commissioner,,John J. Hansen,,99,26,73
+Cass,West Massena Township/Massena,Soil and Water Conservation District Commissioner,,John J. Hansen,,112,6,106
+Cass,Atlantic Ward 1,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Cass,Atlantic Ward 2,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Cass,Atlantic Ward 3,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Cass,Atlantic Ward 4,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Cass,Atlantic Ward 5,Soil and Water Conservation District Commissioner,,Write-In,,5,3,2
+Cass,Bear Grove/Cass/Lewis,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Soil and Water Conservation District Commissioner,,Write-In,,12,4,8
+Cass,Noble/Pleasant/Griswold,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Cass,Union/Cumberland,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Cass,Victoria/Edna/East Massena Township,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Cass,West Massena Township/Massena,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Cass,Atlantic Ward 1,State House,18,Thomas Jay Moore,REP,201,67,134
+Cass,Atlantic Ward 2,State House,18,Thomas Jay Moore,REP,181,74,107
+Cass,Atlantic Ward 3,State House,18,Thomas Jay Moore,REP,366,140,226
+Cass,Atlantic Ward 4,State House,18,Thomas Jay Moore,REP,377,137,240
+Cass,Atlantic Ward 5,State House,18,Thomas Jay Moore,REP,416,155,261
+Cass,Bear Grove/Cass/Lewis,State House,18,Thomas Jay Moore,REP,278,51,227
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,State House,18,Thomas Jay Moore,REP,530,157,373
+Cass,Brighton/Grove/Pymosa/Washington/Marne,State House,18,Thomas Jay Moore,REP,429,138,291
+Cass,Noble/Pleasant/Griswold,State House,18,Thomas Jay Moore,REP,483,81,402
+Cass,Union/Cumberland,State House,18,Thomas Jay Moore,REP,129,22,107
+Cass,Victoria/Edna/East Massena Township,State House,18,Thomas Jay Moore,REP,133,37,96
+Cass,West Massena Township/Massena,State House,18,Thomas Jay Moore,REP,120,13,107
+Cass,Atlantic Ward 1,State House,18,Tripp Narup,DEM,146,67,79
+Cass,Atlantic Ward 2,State House,18,Tripp Narup,DEM,150,76,74
+Cass,Atlantic Ward 3,State House,18,Tripp Narup,DEM,205,92,113
+Cass,Atlantic Ward 4,State House,18,Tripp Narup,DEM,161,82,79
+Cass,Atlantic Ward 5,State House,18,Tripp Narup,DEM,212,118,94
+Cass,Bear Grove/Cass/Lewis,State House,18,Tripp Narup,DEM,110,55,55
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,State House,18,Tripp Narup,DEM,184,71,113
+Cass,Brighton/Grove/Pymosa/Washington/Marne,State House,18,Tripp Narup,DEM,112,44,68
+Cass,Noble/Pleasant/Griswold,State House,18,Tripp Narup,DEM,148,49,99
+Cass,Union/Cumberland,State House,18,Tripp Narup,DEM,34,14,20
+Cass,Victoria/Edna/East Massena Township,State House,18,Tripp Narup,DEM,30,13,17
+Cass,West Massena Township/Massena,State House,18,Tripp Narup,DEM,47,11,36
+Cass,Atlantic Ward 1,State House,18,Write-In,,0,0,0
+Cass,Atlantic Ward 2,State House,18,Write-In,,0,0,0
+Cass,Atlantic Ward 3,State House,18,Write-In,,2,1,1
+Cass,Atlantic Ward 4,State House,18,Write-In,,1,0,1
+Cass,Atlantic Ward 5,State House,18,Write-In,,0,0,0
+Cass,Bear Grove/Cass/Lewis,State House,18,Write-In,,0,0,0
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,State House,18,Write-In,,1,1,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,State House,18,Write-In,,0,0,0
+Cass,Noble/Pleasant/Griswold,State House,18,Write-In,,1,0,1
+Cass,Union/Cumberland,State House,18,Write-In,,0,0,0
+Cass,Victoria/Edna/East Massena Township,State House,18,Write-In,,0,0,0
+Cass,West Massena Township/Massena,State House,18,Write-In,,0,0,0
+Cass,Atlantic Ward 1,State Senate,9,James Uhlenkamp,DEM,146,67,79
+Cass,Atlantic Ward 2,State Senate,9,James Uhlenkamp,DEM,141,69,72
+Cass,Atlantic Ward 3,State Senate,9,James Uhlenkamp,DEM,191,85,106
+Cass,Atlantic Ward 4,State Senate,9,James Uhlenkamp,DEM,160,80,80
+Cass,Atlantic Ward 5,State Senate,9,James Uhlenkamp,DEM,185,110,75
+Cass,Bear Grove/Cass/Lewis,State Senate,9,James Uhlenkamp,DEM,107,54,53
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,State Senate,9,James Uhlenkamp,DEM,169,67,102
+Cass,Brighton/Grove/Pymosa/Washington/Marne,State Senate,9,James Uhlenkamp,DEM,112,47,65
+Cass,Noble/Pleasant/Griswold,State Senate,9,James Uhlenkamp,DEM,159,52,107
+Cass,Union/Cumberland,State Senate,9,James Uhlenkamp,DEM,35,15,20
+Cass,Victoria/Edna/East Massena Township,State Senate,9,James Uhlenkamp,DEM,27,11,16
+Cass,West Massena Township/Massena,State Senate,9,James Uhlenkamp,DEM,44,11,33
+Cass,Atlantic Ward 1,State Senate,9,Steve Baier,REP,212,71,141
+Cass,Atlantic Ward 2,State Senate,9,Steve Baier,REP,194,82,112
+Cass,Atlantic Ward 3,State Senate,9,Steve Baier,REP,395,150,245
+Cass,Atlantic Ward 4,State Senate,9,Steve Baier,REP,384,141,243
+Cass,Atlantic Ward 5,State Senate,9,Steve Baier,REP,448,162,286
+Cass,Bear Grove/Cass/Lewis,State Senate,9,Steve Baier,REP,281,52,229
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,State Senate,9,Steve Baier,REP,552,162,390
+Cass,Brighton/Grove/Pymosa/Washington/Marne,State Senate,9,Steve Baier,REP,433,137,296
+Cass,Noble/Pleasant/Griswold,State Senate,9,Steve Baier,REP,469,80,389
+Cass,Union/Cumberland,State Senate,9,Steve Baier,REP,133,21,112
+Cass,Victoria/Edna/East Massena Township,State Senate,9,Steve Baier,REP,135,38,97
+Cass,West Massena Township/Massena,State Senate,9,Steve Baier,REP,122,12,110
+Cass,Atlantic Ward 1,State Senate,9,Write-In,,0,0,0
+Cass,Atlantic Ward 2,State Senate,9,Write-In,,0,0,0
+Cass,Atlantic Ward 3,State Senate,9,Write-In,,0,0,0
+Cass,Atlantic Ward 4,State Senate,9,Write-In,,0,0,0
+Cass,Atlantic Ward 5,State Senate,9,Write-In,,0,0,0
+Cass,Bear Grove/Cass/Lewis,State Senate,9,Write-In,,2,0,2
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,State Senate,9,Write-In,,1,1,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,State Senate,9,Write-In,,1,0,1
+Cass,Noble/Pleasant/Griswold,State Senate,9,Write-In,,1,0,1
+Cass,Union/Cumberland,State Senate,9,Write-In,,1,0,1
+Cass,Victoria/Edna/East Massena Township,State Senate,9,Write-In,,0,0,0
+Cass,West Massena Township/Massena,State Senate,9,Write-In,,0,0,0
+Cass,Atlantic Ward 1,Treasurer of State,,John Norwood,DEM,172,77,95
+Cass,Atlantic Ward 2,Treasurer of State,,John Norwood,DEM,161,80,81
+Cass,Atlantic Ward 3,Treasurer of State,,John Norwood,DEM,221,103,118
+Cass,Atlantic Ward 4,Treasurer of State,,John Norwood,DEM,177,84,93
+Cass,Atlantic Ward 5,Treasurer of State,,John Norwood,DEM,222,114,108
+Cass,Bear Grove/Cass/Lewis,Treasurer of State,,John Norwood,DEM,113,56,57
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Treasurer of State,,John Norwood,DEM,218,79,139
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Treasurer of State,,John Norwood,DEM,139,54,85
+Cass,Noble/Pleasant/Griswold,Treasurer of State,,John Norwood,DEM,172,59,113
+Cass,Union/Cumberland,Treasurer of State,,John Norwood,DEM,39,15,24
+Cass,Victoria/Edna/East Massena Township,Treasurer of State,,John Norwood,DEM,32,15,17
+Cass,West Massena Township/Massena,Treasurer of State,,John Norwood,DEM,56,12,44
+Cass,Atlantic Ward 1,Treasurer of State,,Roby Smith,REP,188,61,127
+Cass,Atlantic Ward 2,Treasurer of State,,Roby Smith,REP,177,74,103
+Cass,Atlantic Ward 3,Treasurer of State,,Roby Smith,REP,347,127,220
+Cass,Atlantic Ward 4,Treasurer of State,,Roby Smith,REP,347,133,214
+Cass,Atlantic Ward 5,Treasurer of State,,Roby Smith,REP,400,151,249
+Cass,Bear Grove/Cass/Lewis,Treasurer of State,,Roby Smith,REP,268,50,218
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Treasurer of State,,Roby Smith,REP,496,147,349
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Treasurer of State,,Roby Smith,REP,397,129,268
+Cass,Noble/Pleasant/Griswold,Treasurer of State,,Roby Smith,REP,447,68,379
+Cass,Union/Cumberland,Treasurer of State,,Roby Smith,REP,122,18,104
+Cass,Victoria/Edna/East Massena Township,Treasurer of State,,Roby Smith,REP,128,35,93
+Cass,West Massena Township/Massena,Treasurer of State,,Roby Smith,REP,110,10,100
+Cass,Atlantic Ward 1,Treasurer of State,,Write-In,,0,0,0
+Cass,Atlantic Ward 2,Treasurer of State,,Write-In,,0,0,0
+Cass,Atlantic Ward 3,Treasurer of State,,Write-In,,1,0,1
+Cass,Atlantic Ward 4,Treasurer of State,,Write-In,,0,0,0
+Cass,Atlantic Ward 5,Treasurer of State,,Write-In,,0,0,0
+Cass,Bear Grove/Cass/Lewis,Treasurer of State,,Write-In,,0,0,0
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Treasurer of State,,Write-In,,0,0,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Treasurer of State,,Write-In,,0,0,0
+Cass,Noble/Pleasant/Griswold,Treasurer of State,,Write-In,,0,0,0
+Cass,Union/Cumberland,Treasurer of State,,Write-In,,0,0,0
+Cass,Victoria/Edna/East Massena Township,Treasurer of State,,Write-In,,0,0,0
+Cass,West Massena Township/Massena,Treasurer of State,,Write-In,,0,0,0
+Cass,Atlantic Ward 1,U.S. House,3,Sarah Trone Garriott,DEM,163,76,87
+Cass,Atlantic Ward 2,U.S. House,3,Sarah Trone Garriott,DEM,155,75,80
+Cass,Atlantic Ward 3,U.S. House,3,Sarah Trone Garriott,DEM,225,104,121
+Cass,Atlantic Ward 4,U.S. House,3,Sarah Trone Garriott,DEM,188,83,105
+Cass,Atlantic Ward 5,U.S. House,3,Sarah Trone Garriott,DEM,233,121,112
+Cass,Bear Grove/Cass/Lewis,U.S. House,3,Sarah Trone Garriott,DEM,122,56,66
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,U.S. House,3,Sarah Trone Garriott,DEM,210,78,132
+Cass,Brighton/Grove/Pymosa/Washington/Marne,U.S. House,3,Sarah Trone Garriott,DEM,130,53,77
+Cass,Noble/Pleasant/Griswold,U.S. House,3,Sarah Trone Garriott,DEM,183,63,120
+Cass,Union/Cumberland,U.S. House,3,Sarah Trone Garriott,DEM,37,15,22
+Cass,Victoria/Edna/East Massena Township,U.S. House,3,Sarah Trone Garriott,DEM,35,17,18
+Cass,West Massena Township/Massena,U.S. House,3,Sarah Trone Garriott,DEM,49,12,37
+Cass,Atlantic Ward 1,U.S. House,3,Write-In,,1,0,1
+Cass,Atlantic Ward 2,U.S. House,3,Write-In,,0,0,0
+Cass,Atlantic Ward 3,U.S. House,3,Write-In,,0,0,0
+Cass,Atlantic Ward 4,U.S. House,3,Write-In,,0,0,0
+Cass,Atlantic Ward 5,U.S. House,3,Write-In,,1,0,1
+Cass,Bear Grove/Cass/Lewis,U.S. House,3,Write-In,,1,0,1
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,U.S. House,3,Write-In,,1,1,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,U.S. House,3,Write-In,,0,0,0
+Cass,Noble/Pleasant/Griswold,U.S. House,3,Write-In,,1,0,1
+Cass,Union/Cumberland,U.S. House,3,Write-In,,1,0,1
+Cass,Victoria/Edna/East Massena Township,U.S. House,3,Write-In,,0,0,0
+Cass,West Massena Township/Massena,U.S. House,3,Write-In,,0,0,0
+Cass,Atlantic Ward 1,U.S. House,3,Zach Nunn,REP,201,63,138
+Cass,Atlantic Ward 2,U.S. House,3,Zach Nunn,REP,181,76,105
+Cass,Atlantic Ward 3,U.S. House,3,Zach Nunn,REP,351,130,221
+Cass,Atlantic Ward 4,U.S. House,3,Zach Nunn,REP,360,135,225
+Cass,Atlantic Ward 5,U.S. House,3,Zach Nunn,REP,395,152,243
+Cass,Bear Grove/Cass/Lewis,U.S. House,3,Zach Nunn,REP,277,52,225
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,U.S. House,3,Zach Nunn,REP,519,152,367
+Cass,Brighton/Grove/Pymosa/Washington/Marne,U.S. House,3,Zach Nunn,REP,420,134,286
+Cass,Noble/Pleasant/Griswold,U.S. House,3,Zach Nunn,REP,445,66,379
+Cass,Union/Cumberland,U.S. House,3,Zach Nunn,REP,129,21,108
+Cass,Victoria/Edna/East Massena Township,U.S. House,3,Zach Nunn,REP,131,34,97
+Cass,West Massena Township/Massena,U.S. House,3,Zach Nunn,REP,122,12,110
+Cass,Atlantic Ward 1,U.S. Senate,,Ashley Hinson,REP,177,57,120
+Cass,Atlantic Ward 2,U.S. Senate,,Ashley Hinson,REP,167,70,97
+Cass,Atlantic Ward 3,U.S. Senate,,Ashley Hinson,REP,331,127,204
+Cass,Atlantic Ward 4,U.S. Senate,,Ashley Hinson,REP,331,121,210
+Cass,Atlantic Ward 5,U.S. Senate,,Ashley Hinson,REP,360,134,226
+Cass,Bear Grove/Cass/Lewis,U.S. Senate,,Ashley Hinson,REP,264,52,212
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,U.S. Senate,,Ashley Hinson,REP,477,147,330
+Cass,Brighton/Grove/Pymosa/Washington/Marne,U.S. Senate,,Ashley Hinson,REP,385,129,256
+Cass,Noble/Pleasant/Griswold,U.S. Senate,,Ashley Hinson,REP,412,62,350
+Cass,Union/Cumberland,U.S. Senate,,Ashley Hinson,REP,123,19,104
+Cass,Victoria/Edna/East Massena Township,U.S. Senate,,Ashley Hinson,REP,120,36,84
+Cass,West Massena Township/Massena,U.S. Senate,,Ashley Hinson,REP,105,12,93
+Cass,Atlantic Ward 1,U.S. Senate,,Josh Turek,DEM,174,79,95
+Cass,Atlantic Ward 2,U.S. Senate,,Josh Turek,DEM,155,76,79
+Cass,Atlantic Ward 3,U.S. Senate,,Josh Turek,DEM,234,106,128
+Cass,Atlantic Ward 4,U.S. Senate,,Josh Turek,DEM,194,90,104
+Cass,Atlantic Ward 5,U.S. Senate,,Josh Turek,DEM,248,135,113
+Cass,Bear Grove/Cass/Lewis,U.S. Senate,,Josh Turek,DEM,121,54,67
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,U.S. Senate,,Josh Turek,DEM,228,82,146
+Cass,Brighton/Grove/Pymosa/Washington/Marne,U.S. Senate,,Josh Turek,DEM,147,56,91
+Cass,Noble/Pleasant/Griswold,U.S. Senate,,Josh Turek,DEM,191,66,125
+Cass,Union/Cumberland,U.S. Senate,,Josh Turek,DEM,37,15,22
+Cass,Victoria/Edna/East Massena Township,U.S. Senate,,Josh Turek,DEM,41,15,26
+Cass,West Massena Township/Massena,U.S. Senate,,Josh Turek,DEM,59,12,47
+Cass,Atlantic Ward 1,U.S. Senate,,Thomas Laehn,LIB,14,3,11
+Cass,Atlantic Ward 2,U.S. Senate,,Thomas Laehn,LIB,13,5,8
+Cass,Atlantic Ward 3,U.S. Senate,,Thomas Laehn,LIB,19,3,16
+Cass,Atlantic Ward 4,U.S. Senate,,Thomas Laehn,LIB,19,7,12
+Cass,Atlantic Ward 5,U.S. Senate,,Thomas Laehn,LIB,29,7,22
+Cass,Bear Grove/Cass/Lewis,U.S. Senate,,Thomas Laehn,LIB,16,3,13
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,U.S. Senate,,Thomas Laehn,LIB,24,2,22
+Cass,Brighton/Grove/Pymosa/Washington/Marne,U.S. Senate,,Thomas Laehn,LIB,16,3,13
+Cass,Noble/Pleasant/Griswold,U.S. Senate,,Thomas Laehn,LIB,29,3,26
+Cass,Union/Cumberland,U.S. Senate,,Thomas Laehn,LIB,7,2,5
+Cass,Victoria/Edna/East Massena Township,U.S. Senate,,Thomas Laehn,LIB,6,0,6
+Cass,West Massena Township/Massena,U.S. Senate,,Thomas Laehn,LIB,9,0,9
+Cass,Atlantic Ward 1,U.S. Senate,,Write-In,,0,0,0
+Cass,Atlantic Ward 2,U.S. Senate,,Write-In,,0,0,0
+Cass,Atlantic Ward 3,U.S. Senate,,Write-In,,0,0,0
+Cass,Atlantic Ward 4,U.S. Senate,,Write-In,,2,0,2
+Cass,Atlantic Ward 5,U.S. Senate,,Write-In,,0,0,0
+Cass,Bear Grove/Cass/Lewis,U.S. Senate,,Write-In,,0,0,0
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,U.S. Senate,,Write-In,,2,1,1
+Cass,Brighton/Grove/Pymosa/Washington/Marne,U.S. Senate,,Write-In,,2,0,2
+Cass,Noble/Pleasant/Griswold,U.S. Senate,,Write-In,,1,0,1
+Cass,Union/Cumberland,U.S. Senate,,Write-In,,0,0,0
+Cass,Victoria/Edna/East Massena Township,U.S. Senate,,Write-In,,0,0,0
+Cass,West Massena Township/Massena,U.S. Senate,,Write-In,,0,0,0
+Cass,Union/Cumberland,Union Township Clerk,,Write-In,,24,2,22
+Cass,Union/Cumberland,Union Township Trustee,,Write-In,,46,3,43

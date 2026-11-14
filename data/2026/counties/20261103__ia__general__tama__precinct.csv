@@ -1,0 +1,943 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Tama,Chelsea,Attorney General,,Brenna Bird,REP,175,30,145
+Tama,Clutier,Attorney General,,Brenna Bird,REP,211,33,178
+Tama,Dysart,Attorney General,,Brenna Bird,REP,658,98,560
+Tama,Elberon,Attorney General,,Brenna Bird,REP,136,18,118
+Tama,Garwin,Attorney General,,Brenna Bird,REP,151,32,119
+Tama,Gladbrook,Attorney General,,Brenna Bird,REP,520,98,422
+Tama,Indian Settlement,Attorney General,,Brenna Bird,REP,17,3,14
+Tama,Lincoln,Attorney General,,Brenna Bird,REP,233,27,206
+Tama,Montour,Attorney General,,Brenna Bird,REP,400,69,331
+Tama,Tama,Attorney General,,Brenna Bird,REP,432,89,343
+Tama,Toledo,Attorney General,,Brenna Bird,REP,445,129,316
+Tama,Traer,Attorney General,,Brenna Bird,REP,484,85,399
+Tama,Chelsea,Attorney General,,Nate Willems,DEM,89,27,62
+Tama,Clutier,Attorney General,,Nate Willems,DEM,114,19,95
+Tama,Dysart,Attorney General,,Nate Willems,DEM,419,110,309
+Tama,Elberon,Attorney General,,Nate Willems,DEM,70,12,58
+Tama,Garwin,Attorney General,,Nate Willems,DEM,145,39,106
+Tama,Gladbrook,Attorney General,,Nate Willems,DEM,269,72,197
+Tama,Indian Settlement,Attorney General,,Nate Willems,DEM,337,18,319
+Tama,Lincoln,Attorney General,,Nate Willems,DEM,89,18,71
+Tama,Montour,Attorney General,,Nate Willems,DEM,228,68,160
+Tama,Tama,Attorney General,,Nate Willems,DEM,496,175,321
+Tama,Toledo,Attorney General,,Nate Willems,DEM,533,209,324
+Tama,Traer,Attorney General,,Nate Willems,DEM,312,62,250
+Tama,Chelsea,Attorney General,,Write-In,,1,0,1
+Tama,Clutier,Attorney General,,Write-In,,0,0,0
+Tama,Dysart,Attorney General,,Write-In,,1,0,1
+Tama,Elberon,Attorney General,,Write-In,,1,0,1
+Tama,Garwin,Attorney General,,Write-In,,0,0,0
+Tama,Gladbrook,Attorney General,,Write-In,,0,0,0
+Tama,Indian Settlement,Attorney General,,Write-In,,0,0,0
+Tama,Lincoln,Attorney General,,Write-In,,0,0,0
+Tama,Montour,Attorney General,,Write-In,,0,0,0
+Tama,Tama,Attorney General,,Write-In,,1,1,0
+Tama,Toledo,Attorney General,,Write-In,,2,0,2
+Tama,Traer,Attorney General,,Write-In,,3,0,3
+Tama,Chelsea,Auditor of State,,Chris Cournoyer,REP,177,33,144
+Tama,Clutier,Auditor of State,,Chris Cournoyer,REP,214,33,181
+Tama,Dysart,Auditor of State,,Chris Cournoyer,REP,670,104,566
+Tama,Elberon,Auditor of State,,Chris Cournoyer,REP,141,17,124
+Tama,Garwin,Auditor of State,,Chris Cournoyer,REP,151,33,118
+Tama,Gladbrook,Auditor of State,,Chris Cournoyer,REP,515,88,427
+Tama,Indian Settlement,Auditor of State,,Chris Cournoyer,REP,13,4,9
+Tama,Lincoln,Auditor of State,,Chris Cournoyer,REP,228,28,200
+Tama,Montour,Auditor of State,,Chris Cournoyer,REP,406,71,335
+Tama,Tama,Auditor of State,,Chris Cournoyer,REP,428,88,340
+Tama,Toledo,Auditor of State,,Chris Cournoyer,REP,441,130,311
+Tama,Traer,Auditor of State,,Chris Cournoyer,REP,488,88,400
+Tama,Chelsea,Auditor of State,,Taylor Wettach,DEM,87,25,62
+Tama,Clutier,Auditor of State,,Taylor Wettach,DEM,106,18,88
+Tama,Dysart,Auditor of State,,Taylor Wettach,DEM,400,102,298
+Tama,Elberon,Auditor of State,,Taylor Wettach,DEM,67,12,55
+Tama,Garwin,Auditor of State,,Taylor Wettach,DEM,143,38,105
+Tama,Gladbrook,Auditor of State,,Taylor Wettach,DEM,274,78,196
+Tama,Indian Settlement,Auditor of State,,Taylor Wettach,DEM,343,17,326
+Tama,Lincoln,Auditor of State,,Taylor Wettach,DEM,87,17,70
+Tama,Montour,Auditor of State,,Taylor Wettach,DEM,218,65,153
+Tama,Tama,Auditor of State,,Taylor Wettach,DEM,501,179,322
+Tama,Toledo,Auditor of State,,Taylor Wettach,DEM,534,206,328
+Tama,Traer,Auditor of State,,Taylor Wettach,DEM,306,59,247
+Tama,Chelsea,Auditor of State,,Write-In,,1,0,1
+Tama,Clutier,Auditor of State,,Write-In,,0,0,0
+Tama,Dysart,Auditor of State,,Write-In,,1,0,1
+Tama,Elberon,Auditor of State,,Write-In,,0,0,0
+Tama,Garwin,Auditor of State,,Write-In,,0,0,0
+Tama,Gladbrook,Auditor of State,,Write-In,,1,0,1
+Tama,Indian Settlement,Auditor of State,,Write-In,,1,0,1
+Tama,Lincoln,Auditor of State,,Write-In,,0,0,0
+Tama,Montour,Auditor of State,,Write-In,,0,0,0
+Tama,Tama,Auditor of State,,Write-In,,0,0,0
+Tama,Toledo,Auditor of State,,Write-In,,1,0,1
+Tama,Traer,Auditor of State,,Write-In,,1,0,1
+Tama,Dysart,Buckingham Township Clerk,,Adam Clapp,,138,36,102
+Tama,Dysart,Buckingham Township Clerk,,Write-In,,0,0,0
+Tama,Dysart,Buckingham Township Trustee,,Richard Ruzicka,,141,36,105
+Tama,Dysart,Buckingham Township Trustee,,Write-In,,0,0,0
+Tama,Garwin,Carlton Township Clerk,,Jill Aldrich,,15,1,14
+Tama,Gladbrook,Carlton Township Clerk,,Jill Aldrich,,53,13,40
+Tama,Montour,Carlton Township Clerk,,Jill Aldrich,,100,26,74
+Tama,Garwin,Carlton Township Clerk,,Write-In,,0,0,0
+Tama,Gladbrook,Carlton Township Clerk,,Write-In,,1,0,1
+Tama,Montour,Carlton Township Clerk,,Write-In,,1,0,1
+Tama,Garwin,Carlton Township Trustee,,Allen Aldrich,,15,1,14
+Tama,Gladbrook,Carlton Township Trustee,,Allen Aldrich,,58,13,45
+Tama,Montour,Carlton Township Trustee,,Allen Aldrich,,100,26,74
+Tama,Garwin,Carlton Township Trustee,,Write-In,,0,0,0
+Tama,Gladbrook,Carlton Township Trustee,,Write-In,,0,0,0
+Tama,Montour,Carlton Township Trustee,,Write-In,,1,0,1
+Tama,Clutier,Carroll Township Clerk,,Sheryl Jesina,,102,20,82
+Tama,Clutier,Carroll Township Clerk,,Write-In,,0,0,0
+Tama,Clutier,Carroll Township Trustee,,Mark Pokorny,,98,19,79
+Tama,Clutier,Carroll Township Trustee,,Write-In,,0,0,0
+Tama,Dysart,Clark Township Clerk,,Phillip McKenna,,95,20,75
+Tama,Dysart,Clark Township Clerk,,Write-In,,0,0,0
+Tama,Dysart,Clark Township Trustee,,Write-In,,13,2,11
+Tama,Montour,Columbia Township Clerk,,Lloyd Chyma,,130,39,91
+Tama,Montour,Columbia Township Clerk,,Write-In,,1,1,0
+Tama,Montour,Columbia Township Trustee,,Corey Timm,,129,36,93
+Tama,Montour,Columbia Township Trustee,,Write-In,,3,3,0
+Tama,Chelsea,Constitutional Amendment 1,,No,,87,25,62
+Tama,Clutier,Constitutional Amendment 1,,No,,114,16,98
+Tama,Dysart,Constitutional Amendment 1,,No,,377,72,305
+Tama,Elberon,Constitutional Amendment 1,,No,,83,9,74
+Tama,Garwin,Constitutional Amendment 1,,No,,100,28,72
+Tama,Gladbrook,Constitutional Amendment 1,,No,,240,62,178
+Tama,Indian Settlement,Constitutional Amendment 1,,No,,170,9,161
+Tama,Lincoln,Constitutional Amendment 1,,No,,103,12,91
+Tama,Montour,Constitutional Amendment 1,,No,,223,43,180
+Tama,Tama,Constitutional Amendment 1,,No,,350,115,235
+Tama,Toledo,Constitutional Amendment 1,,No,,377,129,248
+Tama,Traer,Constitutional Amendment 1,,No,,251,52,199
+Tama,Chelsea,Constitutional Amendment 1,,Yes,,153,30,123
+Tama,Clutier,Constitutional Amendment 1,,Yes,,175,33,142
+Tama,Dysart,Constitutional Amendment 1,,Yes,,610,124,486
+Tama,Elberon,Constitutional Amendment 1,,Yes,,99,15,84
+Tama,Garwin,Constitutional Amendment 1,,Yes,,158,34,124
+Tama,Gladbrook,Constitutional Amendment 1,,Yes,,458,76,382
+Tama,Indian Settlement,Constitutional Amendment 1,,Yes,,112,11,101
+Tama,Lincoln,Constitutional Amendment 1,,Yes,,203,31,172
+Tama,Montour,Constitutional Amendment 1,,Yes,,354,79,275
+Tama,Tama,Constitutional Amendment 1,,Yes,,445,119,326
+Tama,Toledo,Constitutional Amendment 1,,Yes,,499,159,340
+Tama,Traer,Constitutional Amendment 1,,Yes,,473,75,398
+Tama,Chelsea,County Agricultural Extension Council Member,,Clinton Murty,,171,32,139
+Tama,Clutier,County Agricultural Extension Council Member,,Clinton Murty,,206,34,172
+Tama,Dysart,County Agricultural Extension Council Member,,Clinton Murty,,626,120,506
+Tama,Elberon,County Agricultural Extension Council Member,,Clinton Murty,,133,19,114
+Tama,Garwin,County Agricultural Extension Council Member,,Clinton Murty,,159,42,117
+Tama,Gladbrook,County Agricultural Extension Council Member,,Clinton Murty,,506,91,415
+Tama,Indian Settlement,County Agricultural Extension Council Member,,Clinton Murty,,97,15,82
+Tama,Lincoln,County Agricultural Extension Council Member,,Clinton Murty,,207,23,184
+Tama,Montour,County Agricultural Extension Council Member,,Clinton Murty,,362,82,280
+Tama,Tama,County Agricultural Extension Council Member,,Clinton Murty,,474,126,348
+Tama,Toledo,County Agricultural Extension Council Member,,Clinton Murty,,535,170,365
+Tama,Traer,County Agricultural Extension Council Member,,Clinton Murty,,489,93,396
+Tama,Chelsea,County Agricultural Extension Council Member,,Donald Linnenbrink,,156,28,128
+Tama,Clutier,County Agricultural Extension Council Member,,Donald Linnenbrink,,183,29,154
+Tama,Dysart,County Agricultural Extension Council Member,,Donald Linnenbrink,,631,119,512
+Tama,Elberon,County Agricultural Extension Council Member,,Donald Linnenbrink,,122,15,107
+Tama,Garwin,County Agricultural Extension Council Member,,Donald Linnenbrink,,153,39,114
+Tama,Gladbrook,County Agricultural Extension Council Member,,Donald Linnenbrink,,517,99,418
+Tama,Indian Settlement,County Agricultural Extension Council Member,,Donald Linnenbrink,,93,13,80
+Tama,Lincoln,County Agricultural Extension Council Member,,Donald Linnenbrink,,213,27,186
+Tama,Montour,County Agricultural Extension Council Member,,Donald Linnenbrink,,343,76,267
+Tama,Tama,County Agricultural Extension Council Member,,Donald Linnenbrink,,430,111,319
+Tama,Toledo,County Agricultural Extension Council Member,,Donald Linnenbrink,,459,145,314
+Tama,Traer,County Agricultural Extension Council Member,,Donald Linnenbrink,,455,89,366
+Tama,Chelsea,County Agricultural Extension Council Member,,Jackie Skala,,173,32,141
+Tama,Clutier,County Agricultural Extension Council Member,,Jackie Skala,,210,34,176
+Tama,Dysart,County Agricultural Extension Council Member,,Jackie Skala,,608,117,491
+Tama,Elberon,County Agricultural Extension Council Member,,Jackie Skala,,131,18,113
+Tama,Garwin,County Agricultural Extension Council Member,,Jackie Skala,,167,43,124
+Tama,Gladbrook,County Agricultural Extension Council Member,,Jackie Skala,,476,92,384
+Tama,Indian Settlement,County Agricultural Extension Council Member,,Jackie Skala,,143,16,127
+Tama,Lincoln,County Agricultural Extension Council Member,,Jackie Skala,,192,23,169
+Tama,Montour,County Agricultural Extension Council Member,,Jackie Skala,,386,84,302
+Tama,Tama,County Agricultural Extension Council Member,,Jackie Skala,,544,157,387
+Tama,Toledo,County Agricultural Extension Council Member,,Jackie Skala,,586,187,399
+Tama,Traer,County Agricultural Extension Council Member,,Jackie Skala,,475,92,383
+Tama,Chelsea,County Agricultural Extension Council Member,,Judith Morrison,,155,28,127
+Tama,Clutier,County Agricultural Extension Council Member,,Judith Morrison,,205,31,174
+Tama,Dysart,County Agricultural Extension Council Member,,Judith Morrison,,647,125,522
+Tama,Elberon,County Agricultural Extension Council Member,,Judith Morrison,,123,16,107
+Tama,Garwin,County Agricultural Extension Council Member,,Judith Morrison,,153,37,116
+Tama,Gladbrook,County Agricultural Extension Council Member,,Judith Morrison,,463,90,373
+Tama,Indian Settlement,County Agricultural Extension Council Member,,Judith Morrison,,99,15,84
+Tama,Lincoln,County Agricultural Extension Council Member,,Judith Morrison,,202,23,179
+Tama,Montour,County Agricultural Extension Council Member,,Judith Morrison,,329,72,257
+Tama,Tama,County Agricultural Extension Council Member,,Judith Morrison,,434,115,319
+Tama,Toledo,County Agricultural Extension Council Member,,Judith Morrison,,472,146,326
+Tama,Traer,County Agricultural Extension Council Member,,Judith Morrison,,562,105,457
+Tama,Chelsea,County Agricultural Extension Council Member,,Sandy Supianoski,,199,38,161
+Tama,Clutier,County Agricultural Extension Council Member,,Sandy Supianoski,,185,29,156
+Tama,Dysart,County Agricultural Extension Council Member,,Sandy Supianoski,,609,118,491
+Tama,Elberon,County Agricultural Extension Council Member,,Sandy Supianoski,,125,16,109
+Tama,Garwin,County Agricultural Extension Council Member,,Sandy Supianoski,,158,38,120
+Tama,Gladbrook,County Agricultural Extension Council Member,,Sandy Supianoski,,450,91,359
+Tama,Indian Settlement,County Agricultural Extension Council Member,,Sandy Supianoski,,118,16,102
+Tama,Lincoln,County Agricultural Extension Council Member,,Sandy Supianoski,,185,21,164
+Tama,Montour,County Agricultural Extension Council Member,,Sandy Supianoski,,352,77,275
+Tama,Tama,County Agricultural Extension Council Member,,Sandy Supianoski,,513,146,367
+Tama,Toledo,County Agricultural Extension Council Member,,Sandy Supianoski,,563,180,383
+Tama,Traer,County Agricultural Extension Council Member,,Sandy Supianoski,,458,84,374
+Tama,Chelsea,County Agricultural Extension Council Member,,Write-In,,8,0,8
+Tama,Clutier,County Agricultural Extension Council Member,,Write-In,,12,0,12
+Tama,Dysart,County Agricultural Extension Council Member,,Write-In,,12,4,8
+Tama,Elberon,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Tama,Garwin,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Tama,Gladbrook,County Agricultural Extension Council Member,,Write-In,,19,1,18
+Tama,Indian Settlement,County Agricultural Extension Council Member,,Write-In,,5,0,5
+Tama,Lincoln,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Tama,Montour,County Agricultural Extension Council Member,,Write-In,,6,4,2
+Tama,Tama,County Agricultural Extension Council Member,,Write-In,,23,5,18
+Tama,Toledo,County Agricultural Extension Council Member,,Write-In,,19,7,12
+Tama,Traer,County Agricultural Extension Council Member,,Write-In,,15,6,9
+Tama,Chelsea,County Agricultural Extension Council To Fill a Vacancy,,Cathy Gethmann,,199,36,163
+Tama,Clutier,County Agricultural Extension Council To Fill a Vacancy,,Cathy Gethmann,,241,38,203
+Tama,Dysart,County Agricultural Extension Council To Fill a Vacancy,,Cathy Gethmann,,728,137,591
+Tama,Elberon,County Agricultural Extension Council To Fill a Vacancy,,Cathy Gethmann,,153,19,134
+Tama,Garwin,County Agricultural Extension Council To Fill a Vacancy,,Cathy Gethmann,,206,49,157
+Tama,Gladbrook,County Agricultural Extension Council To Fill a Vacancy,,Cathy Gethmann,,627,129,498
+Tama,Indian Settlement,County Agricultural Extension Council To Fill a Vacancy,,Cathy Gethmann,,182,17,165
+Tama,Lincoln,County Agricultural Extension Council To Fill a Vacancy,,Cathy Gethmann,,249,29,220
+Tama,Montour,County Agricultural Extension Council To Fill a Vacancy,,Cathy Gethmann,,448,86,362
+Tama,Tama,County Agricultural Extension Council To Fill a Vacancy,,Cathy Gethmann,,615,166,449
+Tama,Toledo,County Agricultural Extension Council To Fill a Vacancy,,Cathy Gethmann,,693,211,482
+Tama,Traer,County Agricultural Extension Council To Fill a Vacancy,,Cathy Gethmann,,606,113,493
+Tama,Chelsea,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,1,0,1
+Tama,Clutier,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,2,1,1
+Tama,Dysart,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,11,4,7
+Tama,Elberon,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,1,0,1
+Tama,Garwin,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,0,0,0
+Tama,Gladbrook,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,5,0,5
+Tama,Indian Settlement,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,2,0,2
+Tama,Lincoln,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,0,0,0
+Tama,Montour,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,1,1,0
+Tama,Tama,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,5,0,5
+Tama,Toledo,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,5,2,3
+Tama,Traer,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,1,0,1
+Tama,Chelsea,County Attorney,,Brent D. Heeren,REP,211,39,172
+Tama,Clutier,County Attorney,,Brent D. Heeren,REP,267,38,229
+Tama,Dysart,County Attorney,,Brent D. Heeren,REP,869,147,722
+Tama,Elberon,County Attorney,,Brent D. Heeren,REP,176,23,153
+Tama,Garwin,County Attorney,,Brent D. Heeren,REP,213,44,169
+Tama,Gladbrook,County Attorney,,Brent D. Heeren,REP,634,115,519
+Tama,Indian Settlement,County Attorney,,Brent D. Heeren,REP,93,10,83
+Tama,Lincoln,County Attorney,,Brent D. Heeren,REP,262,32,230
+Tama,Montour,County Attorney,,Brent D. Heeren,REP,497,94,403
+Tama,Tama,County Attorney,,Brent D. Heeren,REP,618,161,457
+Tama,Toledo,County Attorney,,Brent D. Heeren,REP,699,220,479
+Tama,Traer,County Attorney,,Brent D. Heeren,REP,663,111,552
+Tama,Chelsea,County Attorney,,Write-In,,6,0,6
+Tama,Clutier,County Attorney,,Write-In,,2,0,2
+Tama,Dysart,County Attorney,,Write-In,,11,6,5
+Tama,Elberon,County Attorney,,Write-In,,5,1,4
+Tama,Garwin,County Attorney,,Write-In,,8,3,5
+Tama,Gladbrook,County Attorney,,Write-In,,10,4,6
+Tama,Indian Settlement,County Attorney,,Write-In,,19,1,18
+Tama,Lincoln,County Attorney,,Write-In,,2,0,2
+Tama,Montour,County Attorney,,Write-In,,10,5,5
+Tama,Tama,County Attorney,,Write-In,,44,8,36
+Tama,Toledo,County Attorney,,Write-In,,40,13,27
+Tama,Traer,County Attorney,,Write-In,,13,0,13
+Tama,Chelsea,County Recorder,,Amelia Kemper,REP,225,41,184
+Tama,Clutier,County Recorder,,Amelia Kemper,REP,266,41,225
+Tama,Dysart,County Recorder,,Amelia Kemper,REP,872,145,727
+Tama,Elberon,County Recorder,,Amelia Kemper,REP,182,24,158
+Tama,Garwin,County Recorder,,Amelia Kemper,REP,223,47,176
+Tama,Gladbrook,County Recorder,,Amelia Kemper,REP,640,115,525
+Tama,Indian Settlement,County Recorder,,Amelia Kemper,REP,103,11,92
+Tama,Lincoln,County Recorder,,Amelia Kemper,REP,261,32,229
+Tama,Montour,County Recorder,,Amelia Kemper,REP,513,101,412
+Tama,Tama,County Recorder,,Amelia Kemper,REP,671,157,514
+Tama,Toledo,County Recorder,,Amelia Kemper,REP,762,248,514
+Tama,Traer,County Recorder,,Amelia Kemper,REP,666,110,556
+Tama,Chelsea,County Recorder,,Write-In,,4,3,1
+Tama,Clutier,County Recorder,,Write-In,,4,2,2
+Tama,Dysart,County Recorder,,Write-In,,10,4,6
+Tama,Elberon,County Recorder,,Write-In,,2,0,2
+Tama,Garwin,County Recorder,,Write-In,,4,1,3
+Tama,Gladbrook,County Recorder,,Write-In,,5,1,4
+Tama,Indian Settlement,County Recorder,,Write-In,,19,1,18
+Tama,Lincoln,County Recorder,,Write-In,,3,0,3
+Tama,Montour,County Recorder,,Write-In,,7,4,3
+Tama,Tama,County Recorder,,Write-In,,22,8,14
+Tama,Toledo,County Recorder,,Write-In,,23,5,18
+Tama,Traer,County Recorder,,Write-In,,9,0,9
+Tama,Tama,County Supervisor,2,David W. Turner,REP,600,142,458
+Tama,Tama,County Supervisor,2,Write-In,,37,10,27
+Tama,Gladbrook,County Supervisor,3,Heather Knebel,REP,543,92,451
+Tama,Traer,County Supervisor,3,Heather Knebel,REP,625,97,528
+Tama,Gladbrook,County Supervisor,3,Write-In,,62,14,48
+Tama,Traer,County Supervisor,3,Write-In,,36,4,32
+Tama,Chelsea,County Treasurer,,Kathy Holtz,REP,179,32,147
+Tama,Clutier,County Treasurer,,Kathy Holtz,REP,234,36,198
+Tama,Dysart,County Treasurer,,Kathy Holtz,REP,846,139,707
+Tama,Elberon,County Treasurer,,Kathy Holtz,REP,164,26,138
+Tama,Garwin,County Treasurer,,Kathy Holtz,REP,194,38,156
+Tama,Gladbrook,County Treasurer,,Kathy Holtz,REP,543,94,449
+Tama,Indian Settlement,County Treasurer,,Kathy Holtz,REP,94,12,82
+Tama,Lincoln,County Treasurer,,Kathy Holtz,REP,243,31,212
+Tama,Montour,County Treasurer,,Kathy Holtz,REP,452,90,362
+Tama,Tama,County Treasurer,,Kathy Holtz,REP,549,145,404
+Tama,Toledo,County Treasurer,,Kathy Holtz,REP,600,219,381
+Tama,Traer,County Treasurer,,Kathy Holtz,REP,624,99,525
+Tama,Chelsea,County Treasurer,,Write-In,,50,14,36
+Tama,Clutier,County Treasurer,,Write-In,,48,6,42
+Tama,Dysart,County Treasurer,,Write-In,,46,13,33
+Tama,Elberon,County Treasurer,,Write-In,,23,2,21
+Tama,Garwin,County Treasurer,,Write-In,,43,19,24
+Tama,Gladbrook,County Treasurer,,Write-In,,118,29,89
+Tama,Indian Settlement,County Treasurer,,Write-In,,33,1,32
+Tama,Lincoln,County Treasurer,,Write-In,,36,4,32
+Tama,Montour,County Treasurer,,Write-In,,78,18,60
+Tama,Tama,County Treasurer,,Write-In,,202,51,151
+Tama,Toledo,County Treasurer,,Write-In,,247,65,182
+Tama,Traer,County Treasurer,,Write-In,,55,12,43
+Tama,Chelsea,Court of Appeals Judge - John M. Sandy,,No,,81,13,68
+Tama,Clutier,Court of Appeals Judge - John M. Sandy,,No,,79,14,65
+Tama,Dysart,Court of Appeals Judge - John M. Sandy,,No,,247,34,213
+Tama,Elberon,Court of Appeals Judge - John M. Sandy,,No,,56,4,52
+Tama,Garwin,Court of Appeals Judge - John M. Sandy,,No,,67,23,44
+Tama,Gladbrook,Court of Appeals Judge - John M. Sandy,,No,,179,38,141
+Tama,Indian Settlement,Court of Appeals Judge - John M. Sandy,,No,,114,5,109
+Tama,Lincoln,Court of Appeals Judge - John M. Sandy,,No,,62,13,49
+Tama,Montour,Court of Appeals Judge - John M. Sandy,,No,,181,38,143
+Tama,Tama,Court of Appeals Judge - John M. Sandy,,No,,213,56,157
+Tama,Toledo,Court of Appeals Judge - John M. Sandy,,No,,250,83,167
+Tama,Traer,Court of Appeals Judge - John M. Sandy,,No,,178,28,150
+Tama,Chelsea,Court of Appeals Judge - John M. Sandy,,Yes,,121,27,94
+Tama,Clutier,Court of Appeals Judge - John M. Sandy,,Yes,,174,29,145
+Tama,Dysart,Court of Appeals Judge - John M. Sandy,,Yes,,553,117,436
+Tama,Elberon,Court of Appeals Judge - John M. Sandy,,Yes,,98,16,82
+Tama,Garwin,Court of Appeals Judge - John M. Sandy,,Yes,,142,27,115
+Tama,Gladbrook,Court of Appeals Judge - John M. Sandy,,Yes,,395,73,322
+Tama,Indian Settlement,Court of Appeals Judge - John M. Sandy,,Yes,,114,12,102
+Tama,Lincoln,Court of Appeals Judge - John M. Sandy,,Yes,,169,19,150
+Tama,Montour,Court of Appeals Judge - John M. Sandy,,Yes,,296,57,239
+Tama,Tama,Court of Appeals Judge - John M. Sandy,,Yes,,452,118,334
+Tama,Toledo,Court of Appeals Judge - John M. Sandy,,Yes,,480,149,331
+Tama,Traer,Court of Appeals Judge - John M. Sandy,,Yes,,435,78,357
+Tama,Chelsea,Court of Appeals Judge - Julie A. Schumacher,,No,,75,12,63
+Tama,Clutier,Court of Appeals Judge - Julie A. Schumacher,,No,,79,13,66
+Tama,Dysart,Court of Appeals Judge - Julie A. Schumacher,,No,,224,30,194
+Tama,Elberon,Court of Appeals Judge - Julie A. Schumacher,,No,,55,4,51
+Tama,Garwin,Court of Appeals Judge - Julie A. Schumacher,,No,,69,23,46
+Tama,Gladbrook,Court of Appeals Judge - Julie A. Schumacher,,No,,164,35,129
+Tama,Indian Settlement,Court of Appeals Judge - Julie A. Schumacher,,No,,99,5,94
+Tama,Lincoln,Court of Appeals Judge - Julie A. Schumacher,,No,,53,12,41
+Tama,Montour,Court of Appeals Judge - Julie A. Schumacher,,No,,164,37,127
+Tama,Tama,Court of Appeals Judge - Julie A. Schumacher,,No,,190,51,139
+Tama,Toledo,Court of Appeals Judge - Julie A. Schumacher,,No,,229,74,155
+Tama,Traer,Court of Appeals Judge - Julie A. Schumacher,,No,,158,26,132
+Tama,Chelsea,Court of Appeals Judge - Julie A. Schumacher,,Yes,,125,28,97
+Tama,Clutier,Court of Appeals Judge - Julie A. Schumacher,,Yes,,171,30,141
+Tama,Dysart,Court of Appeals Judge - Julie A. Schumacher,,Yes,,576,122,454
+Tama,Elberon,Court of Appeals Judge - Julie A. Schumacher,,Yes,,103,16,87
+Tama,Garwin,Court of Appeals Judge - Julie A. Schumacher,,Yes,,142,28,114
+Tama,Gladbrook,Court of Appeals Judge - Julie A. Schumacher,,Yes,,417,80,337
+Tama,Indian Settlement,Court of Appeals Judge - Julie A. Schumacher,,Yes,,131,13,118
+Tama,Lincoln,Court of Appeals Judge - Julie A. Schumacher,,Yes,,179,19,160
+Tama,Montour,Court of Appeals Judge - Julie A. Schumacher,,Yes,,317,58,259
+Tama,Tama,Court of Appeals Judge - Julie A. Schumacher,,Yes,,477,125,352
+Tama,Toledo,Court of Appeals Judge - Julie A. Schumacher,,Yes,,508,160,348
+Tama,Traer,Court of Appeals Judge - Julie A. Schumacher,,Yes,,454,80,374
+Tama,Chelsea,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,82,14,68
+Tama,Clutier,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,78,8,70
+Tama,Dysart,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,245,33,212
+Tama,Elberon,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,55,4,51
+Tama,Garwin,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,68,20,48
+Tama,Gladbrook,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,164,31,133
+Tama,Indian Settlement,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,105,4,101
+Tama,Lincoln,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,59,13,46
+Tama,Montour,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,183,38,145
+Tama,Tama,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,196,46,150
+Tama,Toledo,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,246,79,167
+Tama,Traer,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,163,30,133
+Tama,Chelsea,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,123,27,96
+Tama,Clutier,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,174,35,139
+Tama,Dysart,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,563,122,441
+Tama,Elberon,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,101,16,85
+Tama,Garwin,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,147,32,115
+Tama,Gladbrook,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,429,87,342
+Tama,Indian Settlement,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,125,13,112
+Tama,Lincoln,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,177,19,158
+Tama,Montour,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,309,62,247
+Tama,Tama,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,476,129,347
+Tama,Toledo,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,499,159,340
+Tama,Traer,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,450,74,376
+Tama,Gladbrook,Crystal Township Clerk,,Penny Peters,,88,25,63
+Tama,Gladbrook,Crystal Township Clerk,,Write-In,,0,0,0
+Tama,Gladbrook,Crystal Township Trustee,,Dave Mauderer,,94,28,66
+Tama,Gladbrook,Crystal Township Trustee,,Write-In,,0,0,0
+Tama,Chelsea,District 6 Associate Judge - Angie Johnston,,No,,75,12,63
+Tama,Clutier,District 6 Associate Judge - Angie Johnston,,No,,69,7,62
+Tama,Dysart,District 6 Associate Judge - Angie Johnston,,No,,238,30,208
+Tama,Elberon,District 6 Associate Judge - Angie Johnston,,No,,60,5,55
+Tama,Garwin,District 6 Associate Judge - Angie Johnston,,No,,57,13,44
+Tama,Gladbrook,District 6 Associate Judge - Angie Johnston,,No,,163,33,130
+Tama,Indian Settlement,District 6 Associate Judge - Angie Johnston,,No,,98,3,95
+Tama,Lincoln,District 6 Associate Judge - Angie Johnston,,No,,51,10,41
+Tama,Montour,District 6 Associate Judge - Angie Johnston,,No,,177,43,134
+Tama,Tama,District 6 Associate Judge - Angie Johnston,,No,,201,51,150
+Tama,Toledo,District 6 Associate Judge - Angie Johnston,,No,,234,74,160
+Tama,Traer,District 6 Associate Judge - Angie Johnston,,No,,157,20,137
+Tama,Chelsea,District 6 Associate Judge - Angie Johnston,,Yes,,123,25,98
+Tama,Clutier,District 6 Associate Judge - Angie Johnston,,Yes,,180,37,143
+Tama,Dysart,District 6 Associate Judge - Angie Johnston,,Yes,,572,122,450
+Tama,Elberon,District 6 Associate Judge - Angie Johnston,,Yes,,99,15,84
+Tama,Garwin,District 6 Associate Judge - Angie Johnston,,Yes,,146,35,111
+Tama,Gladbrook,District 6 Associate Judge - Angie Johnston,,Yes,,414,82,332
+Tama,Indian Settlement,District 6 Associate Judge - Angie Johnston,,Yes,,126,13,113
+Tama,Lincoln,District 6 Associate Judge - Angie Johnston,,Yes,,179,24,155
+Tama,Montour,District 6 Associate Judge - Angie Johnston,,Yes,,299,51,248
+Tama,Tama,District 6 Associate Judge - Angie Johnston,,Yes,,466,123,343
+Tama,Toledo,District 6 Associate Judge - Angie Johnston,,Yes,,502,157,345
+Tama,Traer,District 6 Associate Judge - Angie Johnston,,Yes,,453,88,365
+Tama,Chelsea,District 6 Associate Judge - Casey D. Jones,,No,,77,14,63
+Tama,Clutier,District 6 Associate Judge - Casey D. Jones,,No,,70,8,62
+Tama,Dysart,District 6 Associate Judge - Casey D. Jones,,No,,214,28,186
+Tama,Elberon,District 6 Associate Judge - Casey D. Jones,,No,,53,4,49
+Tama,Garwin,District 6 Associate Judge - Casey D. Jones,,No,,51,17,34
+Tama,Gladbrook,District 6 Associate Judge - Casey D. Jones,,No,,166,35,131
+Tama,Indian Settlement,District 6 Associate Judge - Casey D. Jones,,No,,100,4,96
+Tama,Lincoln,District 6 Associate Judge - Casey D. Jones,,No,,57,14,43
+Tama,Montour,District 6 Associate Judge - Casey D. Jones,,No,,166,36,130
+Tama,Tama,District 6 Associate Judge - Casey D. Jones,,No,,171,43,128
+Tama,Toledo,District 6 Associate Judge - Casey D. Jones,,No,,234,79,155
+Tama,Traer,District 6 Associate Judge - Casey D. Jones,,No,,145,22,123
+Tama,Chelsea,District 6 Associate Judge - Casey D. Jones,,Yes,,127,26,101
+Tama,Clutier,District 6 Associate Judge - Casey D. Jones,,Yes,,184,36,148
+Tama,Dysart,District 6 Associate Judge - Casey D. Jones,,Yes,,598,123,475
+Tama,Elberon,District 6 Associate Judge - Casey D. Jones,,Yes,,105,15,90
+Tama,Garwin,District 6 Associate Judge - Casey D. Jones,,Yes,,157,33,124
+Tama,Gladbrook,District 6 Associate Judge - Casey D. Jones,,Yes,,420,83,337
+Tama,Indian Settlement,District 6 Associate Judge - Casey D. Jones,,Yes,,126,13,113
+Tama,Lincoln,District 6 Associate Judge - Casey D. Jones,,Yes,,176,18,158
+Tama,Montour,District 6 Associate Judge - Casey D. Jones,,Yes,,318,60,258
+Tama,Tama,District 6 Associate Judge - Casey D. Jones,,Yes,,506,134,372
+Tama,Toledo,District 6 Associate Judge - Casey D. Jones,,Yes,,508,154,354
+Tama,Traer,District 6 Associate Judge - Casey D. Jones,,Yes,,474,88,386
+Tama,Chelsea,District 6 Associate Judge - Kristin Schneider,,No,,83,12,71
+Tama,Clutier,District 6 Associate Judge - Kristin Schneider,,No,,80,15,65
+Tama,Dysart,District 6 Associate Judge - Kristin Schneider,,No,,256,36,220
+Tama,Elberon,District 6 Associate Judge - Kristin Schneider,,No,,56,4,52
+Tama,Garwin,District 6 Associate Judge - Kristin Schneider,,No,,60,17,43
+Tama,Gladbrook,District 6 Associate Judge - Kristin Schneider,,No,,167,35,132
+Tama,Indian Settlement,District 6 Associate Judge - Kristin Schneider,,No,,110,4,106
+Tama,Lincoln,District 6 Associate Judge - Kristin Schneider,,No,,55,15,40
+Tama,Montour,District 6 Associate Judge - Kristin Schneider,,No,,178,40,138
+Tama,Tama,District 6 Associate Judge - Kristin Schneider,,No,,205,56,149
+Tama,Toledo,District 6 Associate Judge - Kristin Schneider,,No,,231,69,162
+Tama,Traer,District 6 Associate Judge - Kristin Schneider,,No,,167,30,137
+Tama,Chelsea,District 6 Associate Judge - Kristin Schneider,,Yes,,110,24,86
+Tama,Clutier,District 6 Associate Judge - Kristin Schneider,,Yes,,163,29,134
+Tama,Dysart,District 6 Associate Judge - Kristin Schneider,,Yes,,548,112,436
+Tama,Elberon,District 6 Associate Judge - Kristin Schneider,,Yes,,99,15,84
+Tama,Garwin,District 6 Associate Judge - Kristin Schneider,,Yes,,144,30,114
+Tama,Gladbrook,District 6 Associate Judge - Kristin Schneider,,Yes,,408,79,329
+Tama,Indian Settlement,District 6 Associate Judge - Kristin Schneider,,Yes,,119,13,106
+Tama,Lincoln,District 6 Associate Judge - Kristin Schneider,,Yes,,176,18,158
+Tama,Montour,District 6 Associate Judge - Kristin Schneider,,Yes,,301,54,247
+Tama,Tama,District 6 Associate Judge - Kristin Schneider,,Yes,,461,116,345
+Tama,Toledo,District 6 Associate Judge - Kristin Schneider,,Yes,,500,157,343
+Tama,Traer,District 6 Associate Judge - Kristin Schneider,,Yes,,438,77,361
+Tama,Chelsea,District 6 Judge - Jason D. Besler,,No,,80,12,68
+Tama,Clutier,District 6 Judge - Jason D. Besler,,No,,75,10,65
+Tama,Dysart,District 6 Judge - Jason D. Besler,,No,,238,33,205
+Tama,Elberon,District 6 Judge - Jason D. Besler,,No,,58,4,54
+Tama,Garwin,District 6 Judge - Jason D. Besler,,No,,60,19,41
+Tama,Gladbrook,District 6 Judge - Jason D. Besler,,No,,186,39,147
+Tama,Indian Settlement,District 6 Judge - Jason D. Besler,,No,,114,5,109
+Tama,Lincoln,District 6 Judge - Jason D. Besler,,No,,56,13,43
+Tama,Montour,District 6 Judge - Jason D. Besler,,No,,190,43,147
+Tama,Tama,District 6 Judge - Jason D. Besler,,No,,216,54,162
+Tama,Toledo,District 6 Judge - Jason D. Besler,,No,,251,82,169
+Tama,Traer,District 6 Judge - Jason D. Besler,,No,,167,29,138
+Tama,Chelsea,District 6 Judge - Jason D. Besler,,Yes,,123,28,95
+Tama,Clutier,District 6 Judge - Jason D. Besler,,Yes,,178,31,147
+Tama,Dysart,District 6 Judge - Jason D. Besler,,Yes,,571,119,452
+Tama,Elberon,District 6 Judge - Jason D. Besler,,Yes,,101,14,87
+Tama,Garwin,District 6 Judge - Jason D. Besler,,Yes,,148,31,117
+Tama,Gladbrook,District 6 Judge - Jason D. Besler,,Yes,,388,73,315
+Tama,Indian Settlement,District 6 Judge - Jason D. Besler,,Yes,,112,11,101
+Tama,Lincoln,District 6 Judge - Jason D. Besler,,Yes,,178,19,159
+Tama,Montour,District 6 Judge - Jason D. Besler,,Yes,,293,52,241
+Tama,Tama,District 6 Judge - Jason D. Besler,,Yes,,450,117,333
+Tama,Toledo,District 6 Judge - Jason D. Besler,,Yes,,477,146,331
+Tama,Traer,District 6 Judge - Jason D. Besler,,Yes,,444,80,364
+Tama,Chelsea,District 6 Judge - Mark Fisher,,No,,81,14,67
+Tama,Clutier,District 6 Judge - Mark Fisher,,No,,75,14,61
+Tama,Dysart,District 6 Judge - Mark Fisher,,No,,232,34,198
+Tama,Elberon,District 6 Judge - Mark Fisher,,No,,61,5,56
+Tama,Garwin,District 6 Judge - Mark Fisher,,No,,61,20,41
+Tama,Gladbrook,District 6 Judge - Mark Fisher,,No,,176,41,135
+Tama,Indian Settlement,District 6 Judge - Mark Fisher,,No,,133,6,127
+Tama,Lincoln,District 6 Judge - Mark Fisher,,No,,55,12,43
+Tama,Montour,District 6 Judge - Mark Fisher,,No,,186,39,147
+Tama,Tama,District 6 Judge - Mark Fisher,,No,,226,67,159
+Tama,Toledo,District 6 Judge - Mark Fisher,,No,,258,86,172
+Tama,Traer,District 6 Judge - Mark Fisher,,No,,169,29,140
+Tama,Chelsea,District 6 Judge - Mark Fisher,,Yes,,123,27,96
+Tama,Clutier,District 6 Judge - Mark Fisher,,Yes,,181,29,152
+Tama,Dysart,District 6 Judge - Mark Fisher,,Yes,,587,118,469
+Tama,Elberon,District 6 Judge - Mark Fisher,,Yes,,96,15,81
+Tama,Garwin,District 6 Judge - Mark Fisher,,Yes,,146,30,116
+Tama,Gladbrook,District 6 Judge - Mark Fisher,,Yes,,412,73,339
+Tama,Indian Settlement,District 6 Judge - Mark Fisher,,Yes,,99,12,87
+Tama,Lincoln,District 6 Judge - Mark Fisher,,Yes,,181,20,161
+Tama,Montour,District 6 Judge - Mark Fisher,,Yes,,304,57,247
+Tama,Tama,District 6 Judge - Mark Fisher,,Yes,,446,109,337
+Tama,Toledo,District 6 Judge - Mark Fisher,,Yes,,485,147,338
+Tama,Traer,District 6 Judge - Mark Fisher,,Yes,,448,81,367
+Tama,Chelsea,District 6 Judge - Michael Harris,,No,,83,17,66
+Tama,Clutier,District 6 Judge - Michael Harris,,No,,72,11,61
+Tama,Dysart,District 6 Judge - Michael Harris,,No,,233,31,202
+Tama,Elberon,District 6 Judge - Michael Harris,,No,,61,4,57
+Tama,Garwin,District 6 Judge - Michael Harris,,No,,59,19,40
+Tama,Gladbrook,District 6 Judge - Michael Harris,,No,,176,38,138
+Tama,Indian Settlement,District 6 Judge - Michael Harris,,No,,110,5,105
+Tama,Lincoln,District 6 Judge - Michael Harris,,No,,56,12,44
+Tama,Montour,District 6 Judge - Michael Harris,,No,,173,38,135
+Tama,Tama,District 6 Judge - Michael Harris,,No,,213,59,154
+Tama,Toledo,District 6 Judge - Michael Harris,,No,,241,76,165
+Tama,Traer,District 6 Judge - Michael Harris,,No,,170,26,144
+Tama,Chelsea,District 6 Judge - Michael Harris,,Yes,,120,23,97
+Tama,Clutier,District 6 Judge - Michael Harris,,Yes,,175,31,144
+Tama,Dysart,District 6 Judge - Michael Harris,,Yes,,568,120,448
+Tama,Elberon,District 6 Judge - Michael Harris,,Yes,,94,15,79
+Tama,Garwin,District 6 Judge - Michael Harris,,Yes,,145,30,115
+Tama,Gladbrook,District 6 Judge - Michael Harris,,Yes,,398,74,324
+Tama,Indian Settlement,District 6 Judge - Michael Harris,,Yes,,114,12,102
+Tama,Lincoln,District 6 Judge - Michael Harris,,Yes,,178,20,158
+Tama,Montour,District 6 Judge - Michael Harris,,Yes,,305,57,248
+Tama,Tama,District 6 Judge - Michael Harris,,Yes,,454,114,340
+Tama,Toledo,District 6 Judge - Michael Harris,,Yes,,475,148,327
+Tama,Traer,District 6 Judge - Michael Harris,,Yes,,436,81,355
+Tama,Dysart,Geneseo Township Clerk,,Angela Coverdale,,161,49,112
+Tama,Dysart,Geneseo Township Clerk,,Write-In,,1,0,1
+Tama,Dysart,Geneseo Township Trustee,,Write-In,,22,10,12
+Tama,Chelsea,Governor,,Rob Sand and Dave Muhlbauer,DEM,115,30,85
+Tama,Clutier,Governor,,Rob Sand and Dave Muhlbauer,DEM,127,19,108
+Tama,Dysart,Governor,,Rob Sand and Dave Muhlbauer,DEM,483,118,365
+Tama,Elberon,Governor,,Rob Sand and Dave Muhlbauer,DEM,86,14,72
+Tama,Garwin,Governor,,Rob Sand and Dave Muhlbauer,DEM,163,42,121
+Tama,Gladbrook,Governor,,Rob Sand and Dave Muhlbauer,DEM,342,93,249
+Tama,Indian Settlement,Governor,,Rob Sand and Dave Muhlbauer,DEM,350,18,332
+Tama,Lincoln,Governor,,Rob Sand and Dave Muhlbauer,DEM,103,21,82
+Tama,Montour,Governor,,Rob Sand and Dave Muhlbauer,DEM,270,73,197
+Tama,Tama,Governor,,Rob Sand and Dave Muhlbauer,DEM,577,194,383
+Tama,Toledo,Governor,,Rob Sand and Dave Muhlbauer,DEM,624,241,383
+Tama,Traer,Governor,,Rob Sand and Dave Muhlbauer,DEM,359,67,292
+Tama,Chelsea,Governor,,Write-In,,1,0,1
+Tama,Clutier,Governor,,Write-In,,2,0,2
+Tama,Dysart,Governor,,Write-In,,2,1,1
+Tama,Elberon,Governor,,Write-In,,0,0,0
+Tama,Garwin,Governor,,Write-In,,0,0,0
+Tama,Gladbrook,Governor,,Write-In,,5,0,5
+Tama,Indian Settlement,Governor,,Write-In,,0,0,0
+Tama,Lincoln,Governor,,Write-In,,0,0,0
+Tama,Montour,Governor,,Write-In,,2,0,2
+Tama,Tama,Governor,,Write-In,,1,0,1
+Tama,Toledo,Governor,,Write-In,,1,0,1
+Tama,Traer,Governor,,Write-In,,2,0,2
+Tama,Chelsea,Governor,,Zach Lahn and Derek Wulf,REP,159,30,129
+Tama,Clutier,Governor,,Zach Lahn and Derek Wulf,REP,194,32,162
+Tama,Dysart,Governor,,Zach Lahn and Derek Wulf,REP,607,92,515
+Tama,Elberon,Governor,,Zach Lahn and Derek Wulf,REP,126,16,110
+Tama,Garwin,Governor,,Zach Lahn and Derek Wulf,REP,141,31,110
+Tama,Gladbrook,Governor,,Zach Lahn and Derek Wulf,REP,462,79,383
+Tama,Indian Settlement,Governor,,Zach Lahn and Derek Wulf,REP,10,2,8
+Tama,Lincoln,Governor,,Zach Lahn and Derek Wulf,REP,223,25,198
+Tama,Montour,Governor,,Zach Lahn and Derek Wulf,REP,366,64,302
+Tama,Tama,Governor,,Zach Lahn and Derek Wulf,REP,379,83,296
+Tama,Toledo,Governor,,Zach Lahn and Derek Wulf,REP,400,111,289
+Tama,Traer,Governor,,Zach Lahn and Derek Wulf,REP,449,79,370
+Tama,Lincoln,Grant Township Clerk,,Write-In,,5,1,4
+Tama,Lincoln,Grant Township Trustee,,Vincent Moye,,111,16,95
+Tama,Lincoln,Grant Township Trustee,,Write-In,,3,2,1
+Tama,Montour,Highland Township Clerk,,Write-In,,6,2,4
+Tama,Montour,Highland Township Trustee,,Write-In,,9,1,8
+Tama,Garwin,Howard Township Clerk,,David Chizek,,60,23,37
+Tama,Gladbrook,Howard Township Clerk,,David Chizek,,31,10,21
+Tama,Garwin,Howard Township Clerk,,Write-In,,2,1,1
+Tama,Gladbrook,Howard Township Clerk,,Write-In,,1,0,1
+Tama,Garwin,Howard Township Trustee,,Write-In,,11,4,7
+Tama,Gladbrook,Howard Township Trustee,,Write-In,,8,2,6
+Tama,Indian Settlement,Indian Village Township Clerk,,Brian Hempy,,99,8,91
+Tama,Montour,Indian Village Township Clerk,,Brian Hempy,,165,29,136
+Tama,Indian Settlement,Indian Village Township Clerk,,Write-In,,6,1,5
+Tama,Montour,Indian Village Township Clerk,,Write-In,,0,0,0
+Tama,Indian Settlement,Indian Village Township Trustee,,James C. Lacina,,98,9,89
+Tama,Montour,Indian Village Township Trustee,,James C. Lacina,,157,26,131
+Tama,Indian Settlement,Indian Village Township Trustee,,Write-In,,5,1,4
+Tama,Montour,Indian Village Township Trustee,,Write-In,,2,1,1
+Tama,Chelsea,Kirkwood Community College - Public Measure NC,,No,,42,15,27
+Tama,Clutier,Kirkwood Community College - Public Measure NC,,No,,8,5,3
+Tama,Elberon,Kirkwood Community College - Public Measure NC,,No,,49,5,44
+Tama,Chelsea,Kirkwood Community College - Public Measure NC,,Yes,,33,9,24
+Tama,Clutier,Kirkwood Community College - Public Measure NC,,Yes,,6,2,4
+Tama,Elberon,Kirkwood Community College - Public Measure NC,,Yes,,58,8,50
+Tama,Lincoln,Lincoln Township Clerk,,Debra Wentzien,,121,11,110
+Tama,Lincoln,Lincoln Township Clerk,,Write-In,,0,0,0
+Tama,Lincoln,Lincoln Township Trustee,,Darryl Widmayer,,119,9,110
+Tama,Lincoln,Lincoln Township Trustee,,Write-In,,0,0,0
+Tama,Clutier,Oneida Township Clerk,,Chris Behrens,,80,11,69
+Tama,Clutier,Oneida Township Clerk,,Write-In,,10,4,6
+Tama,Clutier,Oneida Township Trustee,,Marvin D. Dostal,,90,14,76
+Tama,Clutier,Oneida Township Trustee,,Write-In,,2,0,2
+Tama,Tama,Otter Creek Township Clerk,,Brenda Doyle,,114,32,82
+Tama,Tama,Otter Creek Township Clerk,,Write-In,,0,0,0
+Tama,Tama,Otter Creek Township Trustee,,James H. Smith,,111,32,79
+Tama,Tama,Otter Creek Township Trustee,,Write-In,,1,0,1
+Tama,Traer,Perry Township Clerk,,Mike Reuman,,100,25,75
+Tama,Traer,Perry Township Clerk,,Write-In,,0,0,0
+Tama,Traer,Perry Township Trustee,,Ryan McLean,,97,24,73
+Tama,Traer,Perry Township Trustee,,Write-In,,2,1,1
+Tama,Chelsea,Public Measure TX,,No,,102,14,88
+Tama,Clutier,Public Measure TX,,No,,159,22,137
+Tama,Dysart,Public Measure TX,,No,,594,103,491
+Tama,Elberon,Public Measure TX,,No,,89,14,75
+Tama,Garwin,Public Measure TX,,No,,114,22,92
+Tama,Gladbrook,Public Measure TX,,No,,228,60,168
+Tama,Indian Settlement,Public Measure TX,,No,,171,6,165
+Tama,Lincoln,Public Measure TX,,No,,117,15,102
+Tama,Montour,Public Measure TX,,No,,224,49,175
+Tama,Tama,Public Measure TX,,No,,342,90,252
+Tama,Toledo,Public Measure TX,,No,,341,100,241
+Tama,Traer,Public Measure TX,,No,,401,69,332
+Tama,Chelsea,Public Measure TX,,Yes,,155,45,110
+Tama,Clutier,Public Measure TX,,Yes,,154,27,127
+Tama,Dysart,Public Measure TX,,Yes,,430,100,330
+Tama,Elberon,Public Measure TX,,Yes,,107,12,95
+Tama,Garwin,Public Measure TX,,Yes,,168,48,120
+Tama,Gladbrook,Public Measure TX,,Yes,,555,109,446
+Tama,Indian Settlement,Public Measure TX,,Yes,,128,14,114
+Tama,Lincoln,Public Measure TX,,Yes,,186,28,158
+Tama,Montour,Public Measure TX,,Yes,,375,81,294
+Tama,Tama,Public Measure TX,,Yes,,532,169,363
+Tama,Toledo,Public Measure TX,,Yes,,631,231,400
+Tama,Traer,Public Measure TX,,Yes,,362,72,290
+Tama,Chelsea,Richland Township Clerk,,Patrick Henry,,70,18,52
+Tama,Chelsea,Richland Township Clerk,,Write-In,,1,0,1
+Tama,Chelsea,Richland Township Trustee,,Randy Upah,,69,17,52
+Tama,Chelsea,Richland Township Trustee,,Write-In,,1,1,0
+Tama,Chelsea,Salt Creek Township Clerk,,Jamie Kupka,,117,27,90
+Tama,Chelsea,Salt Creek Township Clerk,,Write-In,,3,1,2
+Tama,Chelsea,Salt Creek Township Trustee,,James Poduska,,121,28,93
+Tama,Chelsea,Salt Creek Township Trustee,,Write-In,,3,1,2
+Tama,Chelsea,Secretary of Agriculture,,Chris Jones,DEM,70,20,50
+Tama,Clutier,Secretary of Agriculture,,Chris Jones,DEM,84,16,68
+Tama,Dysart,Secretary of Agriculture,,Chris Jones,DEM,345,94,251
+Tama,Elberon,Secretary of Agriculture,,Chris Jones,DEM,60,12,48
+Tama,Garwin,Secretary of Agriculture,,Chris Jones,DEM,125,32,93
+Tama,Gladbrook,Secretary of Agriculture,,Chris Jones,DEM,224,62,162
+Tama,Indian Settlement,Secretary of Agriculture,,Chris Jones,DEM,347,19,328
+Tama,Lincoln,Secretary of Agriculture,,Chris Jones,DEM,69,15,54
+Tama,Montour,Secretary of Agriculture,,Chris Jones,DEM,197,58,139
+Tama,Tama,Secretary of Agriculture,,Chris Jones,DEM,458,163,295
+Tama,Toledo,Secretary of Agriculture,,Chris Jones,DEM,469,184,285
+Tama,Traer,Secretary of Agriculture,,Chris Jones,DEM,273,57,216
+Tama,Chelsea,Secretary of Agriculture,,Mike Naig,REP,198,38,160
+Tama,Clutier,Secretary of Agriculture,,Mike Naig,REP,241,36,205
+Tama,Dysart,Secretary of Agriculture,,Mike Naig,REP,736,112,624
+Tama,Elberon,Secretary of Agriculture,,Mike Naig,REP,152,19,133
+Tama,Garwin,Secretary of Agriculture,,Mike Naig,REP,172,41,131
+Tama,Gladbrook,Secretary of Agriculture,,Mike Naig,REP,576,108,468
+Tama,Indian Settlement,Secretary of Agriculture,,Mike Naig,REP,12,2,10
+Tama,Lincoln,Secretary of Agriculture,,Mike Naig,REP,257,31,226
+Tama,Montour,Secretary of Agriculture,,Mike Naig,REP,435,78,357
+Tama,Tama,Secretary of Agriculture,,Mike Naig,REP,476,104,372
+Tama,Toledo,Secretary of Agriculture,,Mike Naig,REP,519,156,363
+Tama,Traer,Secretary of Agriculture,,Mike Naig,REP,533,90,443
+Tama,Chelsea,Secretary of Agriculture,,Write-In,,2,0,2
+Tama,Clutier,Secretary of Agriculture,,Write-In,,0,0,0
+Tama,Dysart,Secretary of Agriculture,,Write-In,,2,1,1
+Tama,Elberon,Secretary of Agriculture,,Write-In,,0,0,0
+Tama,Garwin,Secretary of Agriculture,,Write-In,,0,0,0
+Tama,Gladbrook,Secretary of Agriculture,,Write-In,,1,0,1
+Tama,Indian Settlement,Secretary of Agriculture,,Write-In,,0,0,0
+Tama,Lincoln,Secretary of Agriculture,,Write-In,,0,0,0
+Tama,Montour,Secretary of Agriculture,,Write-In,,0,0,0
+Tama,Tama,Secretary of Agriculture,,Write-In,,0,0,0
+Tama,Toledo,Secretary of Agriculture,,Write-In,,2,0,2
+Tama,Traer,Secretary of Agriculture,,Write-In,,1,0,1
+Tama,Chelsea,Secretary of State,,Paul D. Pate,REP,191,37,154
+Tama,Clutier,Secretary of State,,Paul D. Pate,REP,241,36,205
+Tama,Dysart,Secretary of State,,Paul D. Pate,REP,729,114,615
+Tama,Elberon,Secretary of State,,Paul D. Pate,REP,149,18,131
+Tama,Garwin,Secretary of State,,Paul D. Pate,REP,171,39,132
+Tama,Gladbrook,Secretary of State,,Paul D. Pate,REP,566,104,462
+Tama,Indian Settlement,Secretary of State,,Paul D. Pate,REP,15,3,12
+Tama,Lincoln,Secretary of State,,Paul D. Pate,REP,247,31,216
+Tama,Montour,Secretary of State,,Paul D. Pate,REP,434,77,357
+Tama,Tama,Secretary of State,,Paul D. Pate,REP,477,101,376
+Tama,Toledo,Secretary of State,,Paul D. Pate,REP,518,155,363
+Tama,Traer,Secretary of State,,Paul D. Pate,REP,528,92,436
+Tama,Chelsea,Secretary of State,,Ryan Peterman,DEM,80,23,57
+Tama,Clutier,Secretary of State,,Ryan Peterman,DEM,85,16,69
+Tama,Dysart,Secretary of State,,Ryan Peterman,DEM,354,95,259
+Tama,Elberon,Secretary of State,,Ryan Peterman,DEM,61,12,49
+Tama,Garwin,Secretary of State,,Ryan Peterman,DEM,123,33,90
+Tama,Gladbrook,Secretary of State,,Ryan Peterman,DEM,232,67,165
+Tama,Indian Settlement,Secretary of State,,Ryan Peterman,DEM,342,18,324
+Tama,Lincoln,Secretary of State,,Ryan Peterman,DEM,75,15,60
+Tama,Montour,Secretary of State,,Ryan Peterman,DEM,195,60,135
+Tama,Tama,Secretary of State,,Ryan Peterman,DEM,460,166,294
+Tama,Toledo,Secretary of State,,Ryan Peterman,DEM,481,188,293
+Tama,Traer,Secretary of State,,Ryan Peterman,DEM,273,55,218
+Tama,Chelsea,Secretary of State,,Write-In,,0,0,0
+Tama,Clutier,Secretary of State,,Write-In,,0,0,0
+Tama,Dysart,Secretary of State,,Write-In,,2,0,2
+Tama,Elberon,Secretary of State,,Write-In,,0,0,0
+Tama,Garwin,Secretary of State,,Write-In,,0,0,0
+Tama,Gladbrook,Secretary of State,,Write-In,,2,0,2
+Tama,Indian Settlement,Secretary of State,,Write-In,,1,0,1
+Tama,Lincoln,Secretary of State,,Write-In,,1,0,1
+Tama,Montour,Secretary of State,,Write-In,,0,0,0
+Tama,Tama,Secretary of State,,Write-In,,1,1,0
+Tama,Toledo,Secretary of State,,Write-In,,1,0,1
+Tama,Traer,Secretary of State,,Write-In,,2,1,1
+Tama,Chelsea,Soil and Water Conservation District Commissioner,,Write-In,,30,8,22
+Tama,Clutier,Soil and Water Conservation District Commissioner,,Write-In,,39,9,30
+Tama,Dysart,Soil and Water Conservation District Commissioner,,Write-In,,76,20,56
+Tama,Elberon,Soil and Water Conservation District Commissioner,,Write-In,,18,0,18
+Tama,Garwin,Soil and Water Conservation District Commissioner,,Write-In,,25,5,20
+Tama,Gladbrook,Soil and Water Conservation District Commissioner,,Write-In,,86,22,64
+Tama,Indian Settlement,Soil and Water Conservation District Commissioner,,Write-In,,14,2,12
+Tama,Lincoln,Soil and Water Conservation District Commissioner,,Write-In,,21,2,19
+Tama,Montour,Soil and Water Conservation District Commissioner,,Write-In,,35,14,21
+Tama,Tama,Soil and Water Conservation District Commissioner,,Write-In,,55,7,48
+Tama,Toledo,Soil and Water Conservation District Commissioner,,Write-In,,71,23,48
+Tama,Traer,Soil and Water Conservation District Commissioner,,Write-In,,73,12,61
+Tama,Gladbrook,Spring Creek Township Clerk,,Logan Koester,,154,29,125
+Tama,Gladbrook,Spring Creek Township Clerk,,Write-In,,6,0,6
+Tama,Gladbrook,Spring Creek Township Trustee,,Brett Thompson Miller,,166,30,136
+Tama,Gladbrook,Spring Creek Township Trustee,,Write-In,,0,0,0
+Tama,Chelsea,State House,53,Berleen Wobeter,DEM,97,27,70
+Tama,Clutier,State House,53,Berleen Wobeter,DEM,112,18,94
+Tama,Elberon,State House,53,Berleen Wobeter,DEM,72,13,59
+Tama,Garwin,State House,53,Berleen Wobeter,DEM,154,39,115
+Tama,Gladbrook,State House,53,Berleen Wobeter,DEM,298,78,220
+Tama,Indian Settlement,State House,53,Berleen Wobeter,DEM,345,20,325
+Tama,Lincoln,State House,53,Berleen Wobeter,DEM,100,18,82
+Tama,Montour,State House,53,Berleen Wobeter,DEM,245,72,173
+Tama,Tama,State House,53,Berleen Wobeter,DEM,566,193,373
+Tama,Toledo,State House,53,Berleen Wobeter,DEM,592,220,372
+Tama,Chelsea,State House,53,Dean Fisher,REP,174,32,142
+Tama,Clutier,State House,53,Dean Fisher,REP,212,34,178
+Tama,Elberon,State House,53,Dean Fisher,REP,140,17,123
+Tama,Garwin,State House,53,Dean Fisher,REP,138,32,106
+Tama,Gladbrook,State House,53,Dean Fisher,REP,498,90,408
+Tama,Indian Settlement,State House,53,Dean Fisher,REP,14,1,13
+Tama,Lincoln,State House,53,Dean Fisher,REP,225,28,197
+Tama,Montour,State House,53,Dean Fisher,REP,380,65,315
+Tama,Tama,State House,53,Dean Fisher,REP,376,77,299
+Tama,Toledo,State House,53,Dean Fisher,REP,406,127,279
+Tama,Chelsea,State House,53,Write-In,,0,0,0
+Tama,Clutier,State House,53,Write-In,,0,0,0
+Tama,Elberon,State House,53,Write-In,,0,0,0
+Tama,Garwin,State House,53,Write-In,,0,0,0
+Tama,Gladbrook,State House,53,Write-In,,3,0,3
+Tama,Indian Settlement,State House,53,Write-In,,0,0,0
+Tama,Lincoln,State House,53,Write-In,,0,0,0
+Tama,Montour,State House,53,Write-In,,1,0,1
+Tama,Tama,State House,53,Write-In,,0,0,0
+Tama,Toledo,State House,53,Write-In,,3,0,3
+Tama,Dysart,State House,76,Calvin Horn,DEM,369,103,266
+Tama,Traer,State House,76,Calvin Horn,DEM,273,59,214
+Tama,Dysart,State House,76,Matt Reisetter,REP,707,105,602
+Tama,Traer,State House,76,Matt Reisetter,REP,522,87,435
+Tama,Dysart,State House,76,Write-In,,1,0,1
+Tama,Traer,State House,76,Write-In,,1,0,1
+Tama,Chelsea,State Senate,27,Annette Sweeney,REP,206,40,166
+Tama,Clutier,State Senate,27,Annette Sweeney,REP,250,38,212
+Tama,Elberon,State Senate,27,Annette Sweeney,REP,171,21,150
+Tama,Garwin,State Senate,27,Annette Sweeney,REP,215,44,171
+Tama,Gladbrook,State Senate,27,Annette Sweeney,REP,633,115,518
+Tama,Indian Settlement,State Senate,27,Annette Sweeney,REP,90,8,82
+Tama,Lincoln,State Senate,27,Annette Sweeney,REP,247,28,219
+Tama,Montour,State Senate,27,Annette Sweeney,REP,496,97,399
+Tama,Tama,State Senate,27,Annette Sweeney,REP,614,144,470
+Tama,Toledo,State Senate,27,Annette Sweeney,REP,669,195,474
+Tama,Chelsea,State Senate,27,Write-In,,6,1,5
+Tama,Clutier,State Senate,27,Write-In,,8,2,6
+Tama,Elberon,State Senate,27,Write-In,,3,0,3
+Tama,Garwin,State Senate,27,Write-In,,10,5,5
+Tama,Gladbrook,State Senate,27,Write-In,,22,7,15
+Tama,Indian Settlement,State Senate,27,Write-In,,22,2,20
+Tama,Lincoln,State Senate,27,Write-In,,26,3,23
+Tama,Montour,State Senate,27,Write-In,,10,4,6
+Tama,Tama,State Senate,27,Write-In,,37,12,25
+Tama,Toledo,State Senate,27,Write-In,,47,25,22
+Tama,Indian Settlement,Tama Township Clerk,,Judy Welch,,13,0,13
+Tama,Montour,Tama Township Clerk,,Judy Welch,,1,0,1
+Tama,Tama,Tama Township Clerk,,Judy Welch,,19,4,15
+Tama,Indian Settlement,Tama Township Clerk,,Write-In,,1,0,1
+Tama,Montour,Tama Township Clerk,,Write-In,,0,0,0
+Tama,Tama,Tama Township Clerk,,Write-In,,0,0,0
+Tama,Indian Settlement,Tama Township Trustee,,Write-In,,1,0,1
+Tama,Montour,Tama Township Trustee,,Write-In,,0,0,0
+Tama,Tama,Tama Township Trustee,,Write-In,,0,0,0
+Tama,Indian Settlement,Toledo Township Clerk,,Brock Rohrs,,51,6,45
+Tama,Toledo,Toledo Township Clerk,,Brock Rohrs,,183,67,116
+Tama,Indian Settlement,Toledo Township Clerk,,Write-In,,3,0,3
+Tama,Toledo,Toledo Township Clerk,,Write-In,,1,0,1
+Tama,Indian Settlement,Toledo Township Trustee,,Sam Ferriss,,54,6,48
+Tama,Toledo,Toledo Township Trustee,,Sam Ferriss,,196,71,125
+Tama,Indian Settlement,Toledo Township Trustee,,Write-In,,2,0,2
+Tama,Toledo,Toledo Township Trustee,,Write-In,,1,0,1
+Tama,Chelsea,Treasurer of State,,John Norwood,DEM,85,24,61
+Tama,Clutier,Treasurer of State,,John Norwood,DEM,103,18,85
+Tama,Dysart,Treasurer of State,,John Norwood,DEM,388,103,285
+Tama,Elberon,Treasurer of State,,John Norwood,DEM,69,12,57
+Tama,Garwin,Treasurer of State,,John Norwood,DEM,142,37,105
+Tama,Gladbrook,Treasurer of State,,John Norwood,DEM,263,73,190
+Tama,Indian Settlement,Treasurer of State,,John Norwood,DEM,343,18,325
+Tama,Lincoln,Treasurer of State,,John Norwood,DEM,82,18,64
+Tama,Montour,Treasurer of State,,John Norwood,DEM,211,64,147
+Tama,Tama,Treasurer of State,,John Norwood,DEM,491,177,314
+Tama,Toledo,Treasurer of State,,John Norwood,DEM,521,205,316
+Tama,Traer,Treasurer of State,,John Norwood,DEM,302,60,242
+Tama,Chelsea,Treasurer of State,,Roby Smith,REP,179,35,144
+Tama,Clutier,Treasurer of State,,Roby Smith,REP,214,33,181
+Tama,Dysart,Treasurer of State,,Roby Smith,REP,680,104,576
+Tama,Elberon,Treasurer of State,,Roby Smith,REP,139,17,122
+Tama,Garwin,Treasurer of State,,Roby Smith,REP,151,34,117
+Tama,Gladbrook,Treasurer of State,,Roby Smith,REP,521,92,429
+Tama,Indian Settlement,Treasurer of State,,Roby Smith,REP,13,3,10
+Tama,Lincoln,Treasurer of State,,Roby Smith,REP,238,27,211
+Tama,Montour,Treasurer of State,,Roby Smith,REP,415,73,342
+Tama,Tama,Treasurer of State,,Roby Smith,REP,439,90,349
+Tama,Toledo,Treasurer of State,,Roby Smith,REP,449,131,318
+Tama,Traer,Treasurer of State,,Roby Smith,REP,495,88,407
+Tama,Chelsea,Treasurer of State,,Write-In,,1,0,1
+Tama,Clutier,Treasurer of State,,Write-In,,1,0,1
+Tama,Dysart,Treasurer of State,,Write-In,,2,0,2
+Tama,Elberon,Treasurer of State,,Write-In,,0,0,0
+Tama,Garwin,Treasurer of State,,Write-In,,0,0,0
+Tama,Gladbrook,Treasurer of State,,Write-In,,1,0,1
+Tama,Indian Settlement,Treasurer of State,,Write-In,,1,0,1
+Tama,Lincoln,Treasurer of State,,Write-In,,0,0,0
+Tama,Montour,Treasurer of State,,Write-In,,1,0,1
+Tama,Tama,Treasurer of State,,Write-In,,2,2,0
+Tama,Toledo,Treasurer of State,,Write-In,,3,2,1
+Tama,Traer,Treasurer of State,,Write-In,,1,0,1
+Tama,Chelsea,U.S. House,2,Dave Bushaw,,6,1,5
+Tama,Clutier,U.S. House,2,Dave Bushaw,,6,1,5
+Tama,Dysart,U.S. House,2,Dave Bushaw,,24,2,22
+Tama,Elberon,U.S. House,2,Dave Bushaw,,1,0,1
+Tama,Garwin,U.S. House,2,Dave Bushaw,,5,0,5
+Tama,Gladbrook,U.S. House,2,Dave Bushaw,,22,5,17
+Tama,Indian Settlement,U.S. House,2,Dave Bushaw,,7,1,6
+Tama,Lincoln,U.S. House,2,Dave Bushaw,,7,0,7
+Tama,Montour,U.S. House,2,Dave Bushaw,,4,1,3
+Tama,Tama,U.S. House,2,Dave Bushaw,,11,3,8
+Tama,Toledo,U.S. House,2,Dave Bushaw,,13,2,11
+Tama,Traer,U.S. House,2,Dave Bushaw,,28,3,25
+Tama,Chelsea,U.S. House,2,Joe Mitchell,REP,171,33,138
+Tama,Clutier,U.S. House,2,Joe Mitchell,REP,209,33,176
+Tama,Dysart,U.S. House,2,Joe Mitchell,REP,642,98,544
+Tama,Elberon,U.S. House,2,Joe Mitchell,REP,135,16,119
+Tama,Garwin,U.S. House,2,Joe Mitchell,REP,142,30,112
+Tama,Gladbrook,U.S. House,2,Joe Mitchell,REP,494,85,409
+Tama,Indian Settlement,U.S. House,2,Joe Mitchell,REP,10,2,8
+Tama,Lincoln,U.S. House,2,Joe Mitchell,REP,218,24,194
+Tama,Montour,U.S. House,2,Joe Mitchell,REP,400,68,332
+Tama,Tama,U.S. House,2,Joe Mitchell,REP,410,86,324
+Tama,Toledo,U.S. House,2,Joe Mitchell,REP,434,126,308
+Tama,Traer,U.S. House,2,Joe Mitchell,REP,476,82,394
+Tama,Chelsea,U.S. House,2,Lindsay James,DEM,87,26,61
+Tama,Clutier,U.S. House,2,Lindsay James,DEM,96,18,78
+Tama,Dysart,U.S. House,2,Lindsay James,DEM,379,105,274
+Tama,Elberon,U.S. House,2,Lindsay James,DEM,65,12,53
+Tama,Garwin,U.S. House,2,Lindsay James,DEM,135,39,96
+Tama,Gladbrook,U.S. House,2,Lindsay James,DEM,244,70,174
+Tama,Indian Settlement,U.S. House,2,Lindsay James,DEM,328,17,311
+Tama,Lincoln,U.S. House,2,Lindsay James,DEM,85,19,66
+Tama,Montour,U.S. House,2,Lindsay James,DEM,195,60,135
+Tama,Tama,U.S. House,2,Lindsay James,DEM,473,169,304
+Tama,Toledo,U.S. House,2,Lindsay James,DEM,515,199,316
+Tama,Traer,U.S. House,2,Lindsay James,DEM,270,56,214
+Tama,Chelsea,U.S. House,2,Rick Stewart,LIB,4,0,4
+Tama,Clutier,U.S. House,2,Rick Stewart,LIB,10,0,10
+Tama,Dysart,U.S. House,2,Rick Stewart,LIB,38,5,33
+Tama,Elberon,U.S. House,2,Rick Stewart,LIB,5,1,4
+Tama,Garwin,U.S. House,2,Rick Stewart,LIB,11,2,9
+Tama,Gladbrook,U.S. House,2,Rick Stewart,LIB,36,8,28
+Tama,Indian Settlement,U.S. House,2,Rick Stewart,LIB,11,1,10
+Tama,Lincoln,U.S. House,2,Rick Stewart,LIB,11,2,9
+Tama,Montour,U.S. House,2,Rick Stewart,LIB,29,7,22
+Tama,Tama,U.S. House,2,Rick Stewart,LIB,35,6,29
+Tama,Toledo,U.S. House,2,Rick Stewart,LIB,29,8,21
+Tama,Traer,U.S. House,2,Rick Stewart,LIB,27,6,21
+Tama,Chelsea,U.S. House,2,Write-In,,1,0,1
+Tama,Clutier,U.S. House,2,Write-In,,0,0,0
+Tama,Dysart,U.S. House,2,Write-In,,1,0,1
+Tama,Elberon,U.S. House,2,Write-In,,1,0,1
+Tama,Garwin,U.S. House,2,Write-In,,0,0,0
+Tama,Gladbrook,U.S. House,2,Write-In,,0,0,0
+Tama,Indian Settlement,U.S. House,2,Write-In,,1,0,1
+Tama,Lincoln,U.S. House,2,Write-In,,0,0,0
+Tama,Montour,U.S. House,2,Write-In,,0,0,0
+Tama,Tama,U.S. House,2,Write-In,,0,0,0
+Tama,Toledo,U.S. House,2,Write-In,,1,0,1
+Tama,Traer,U.S. House,2,Write-In,,1,0,1
+Tama,Chelsea,U.S. Senate,,Ashley Hinson,REP,168,32,136
+Tama,Clutier,U.S. Senate,,Ashley Hinson,REP,209,32,177
+Tama,Dysart,U.S. Senate,,Ashley Hinson,REP,665,104,561
+Tama,Elberon,U.S. Senate,,Ashley Hinson,REP,139,18,121
+Tama,Garwin,U.S. Senate,,Ashley Hinson,REP,150,35,115
+Tama,Gladbrook,U.S. Senate,,Ashley Hinson,REP,505,87,418
+Tama,Indian Settlement,U.S. Senate,,Ashley Hinson,REP,15,2,13
+Tama,Lincoln,U.S. Senate,,Ashley Hinson,REP,229,27,202
+Tama,Montour,U.S. Senate,,Ashley Hinson,REP,393,69,324
+Tama,Tama,U.S. Senate,,Ashley Hinson,REP,409,85,324
+Tama,Toledo,U.S. Senate,,Ashley Hinson,REP,450,129,321
+Tama,Traer,U.S. Senate,,Ashley Hinson,REP,470,81,389
+Tama,Chelsea,U.S. Senate,,Josh Turek,DEM,96,27,69
+Tama,Clutier,U.S. Senate,,Josh Turek,DEM,109,20,89
+Tama,Dysart,U.S. Senate,,Josh Turek,DEM,399,103,296
+Tama,Elberon,U.S. Senate,,Josh Turek,DEM,66,11,55
+Tama,Garwin,U.S. Senate,,Josh Turek,DEM,144,36,108
+Tama,Gladbrook,U.S. Senate,,Josh Turek,DEM,260,74,186
+Tama,Indian Settlement,U.S. Senate,,Josh Turek,DEM,336,19,317
+Tama,Lincoln,U.S. Senate,,Josh Turek,DEM,85,18,67
+Tama,Montour,U.S. Senate,,Josh Turek,DEM,216,63,153
+Tama,Tama,U.S. Senate,,Josh Turek,DEM,498,176,322
+Tama,Toledo,U.S. Senate,,Josh Turek,DEM,524,205,319
+Tama,Traer,U.S. Senate,,Josh Turek,DEM,302,60,242
+Tama,Chelsea,U.S. Senate,,Thomas Laehn,LIB,8,1,7
+Tama,Clutier,U.S. Senate,,Thomas Laehn,LIB,9,0,9
+Tama,Dysart,U.S. Senate,,Thomas Laehn,LIB,28,4,24
+Tama,Elberon,U.S. Senate,,Thomas Laehn,LIB,9,1,8
+Tama,Garwin,U.S. Senate,,Thomas Laehn,LIB,8,2,6
+Tama,Gladbrook,U.S. Senate,,Thomas Laehn,LIB,38,9,29
+Tama,Indian Settlement,U.S. Senate,,Thomas Laehn,LIB,11,0,11
+Tama,Lincoln,U.S. Senate,,Thomas Laehn,LIB,12,2,10
+Tama,Montour,U.S. Senate,,Thomas Laehn,LIB,24,4,20
+Tama,Tama,U.S. Senate,,Thomas Laehn,LIB,41,11,30
+Tama,Toledo,U.S. Senate,,Thomas Laehn,LIB,35,8,27
+Tama,Traer,U.S. Senate,,Thomas Laehn,LIB,32,6,26
+Tama,Chelsea,U.S. Senate,,Write-In,,0,0,0
+Tama,Clutier,U.S. Senate,,Write-In,,0,0,0
+Tama,Dysart,U.S. Senate,,Write-In,,0,0,0
+Tama,Elberon,U.S. Senate,,Write-In,,1,0,1
+Tama,Garwin,U.S. Senate,,Write-In,,0,0,0
+Tama,Gladbrook,U.S. Senate,,Write-In,,2,0,2
+Tama,Indian Settlement,U.S. Senate,,Write-In,,0,0,0
+Tama,Lincoln,U.S. Senate,,Write-In,,1,0,1
+Tama,Montour,U.S. Senate,,Write-In,,0,0,0
+Tama,Tama,U.S. Senate,,Write-In,,0,0,0
+Tama,Toledo,U.S. Senate,,Write-In,,2,1,1
+Tama,Traer,U.S. Senate,,Write-In,,3,0,3
+Tama,Clutier,York Township Clerk,,Lorie Kesl,,29,9,20
+Tama,Elberon,York Township Clerk,,Lorie Kesl,,101,19,82
+Tama,Clutier,York Township Clerk,,Write-In,,0,0,0
+Tama,Elberon,York Township Clerk,,Write-In,,3,0,3
+Tama,Clutier,York Township Trustee,,Steve Kesl,,28,9,19
+Tama,Elberon,York Township Trustee,,Steve Kesl,,104,20,84
+Tama,Clutier,York Township Trustee,,Write-In,,2,0,2
+Tama,Elberon,York Township Trustee,,Write-In,,2,0,2

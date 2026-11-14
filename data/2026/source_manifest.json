@@ -1,0 +1,1005 @@
+{
+  "election": "2026 General Election",
+  "election_date": "2026-11-03",
+  "status": "unofficial",
+  "state_election_id": "127077",
+  "state_version": "385624",
+  "state_settings_url": "https://electionresults.iowa.gov/IA/127077/385624/json/en/electionsettings.json",
+  "state_updated_at": "11/4/2026 12:25:40 PM CST",
+  "precincts_reporting": 1659,
+  "precincts_participating": 1659,
+  "counties": [
+    {
+      "county": "Adair",
+      "slug": "Adair",
+      "election_id": "127078",
+      "version": "384979",
+      "report_url": "https://electionresults.iowa.gov/IA/Adair/127078/384979/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:59:31 PM CST",
+      "precincts": 5,
+      "rows": 356
+    },
+    {
+      "county": "Adams",
+      "slug": "Adams",
+      "election_id": "127079",
+      "version": "384888",
+      "report_url": "https://electionresults.iowa.gov/IA/Adams/127079/384888/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:44:51 PM CST",
+      "precincts": 5,
+      "rows": 302
+    },
+    {
+      "county": "Allamakee",
+      "slug": "Allamakee",
+      "election_id": "127080",
+      "version": "385099",
+      "report_url": "https://electionresults.iowa.gov/IA/Allamakee/127080/385099/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:29:17 PM CST",
+      "precincts": 10,
+      "rows": 793
+    },
+    {
+      "county": "Appanoose",
+      "slug": "Appanoose",
+      "election_id": "127081",
+      "version": "384445",
+      "report_url": "https://electionresults.iowa.gov/IA/Appanoose/127081/384445/reports/detailxml.zip",
+      "timestamp": "11/3/2026 8:54:17 PM CST",
+      "precincts": 11,
+      "rows": 757
+    },
+    {
+      "county": "Audubon",
+      "slug": "Audubon",
+      "election_id": "127082",
+      "version": "385878",
+      "report_url": "https://electionresults.iowa.gov/IA/Audubon/127082/385878/reports/detailxml.zip",
+      "timestamp": "11/6/2026 10:06:11 AM CST",
+      "precincts": 2,
+      "rows": 198
+    },
+    {
+      "county": "Benton",
+      "slug": "Benton",
+      "election_id": "127083",
+      "version": "384845",
+      "report_url": "https://electionresults.iowa.gov/IA/Benton/127083/384845/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:39:25 PM CST",
+      "precincts": 18,
+      "rows": 1398
+    },
+    {
+      "county": "Black Hawk",
+      "slug": "Black_Hawk",
+      "election_id": "127084",
+      "version": "384733",
+      "report_url": "https://electionresults.iowa.gov/IA/Black_Hawk/127084/384733/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:37:33 PM CST",
+      "precincts": 59,
+      "rows": 3872
+    },
+    {
+      "county": "Boone",
+      "slug": "Boone",
+      "election_id": "127085",
+      "version": "384695",
+      "report_url": "https://electionresults.iowa.gov/IA/Boone/127085/384695/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:20:18 PM CST",
+      "precincts": 15,
+      "rows": 1124
+    },
+    {
+      "county": "Bremer",
+      "slug": "Bremer",
+      "election_id": "127086",
+      "version": "384749",
+      "report_url": "https://electionresults.iowa.gov/IA/Bremer/127086/384749/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:18:20 PM CST",
+      "precincts": 14,
+      "rows": 1078
+    },
+    {
+      "county": "Buchanan",
+      "slug": "Buchanan",
+      "election_id": "127087",
+      "version": "384582",
+      "report_url": "https://electionresults.iowa.gov/IA/Buchanan/127087/384582/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:06:30 PM CST",
+      "precincts": 14,
+      "rows": 1037
+    },
+    {
+      "county": "Buena Vista",
+      "slug": "Buena_Vista",
+      "election_id": "127088",
+      "version": "385096",
+      "report_url": "https://electionresults.iowa.gov/IA/Buena_Vista/127088/385096/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:27:19 PM CST",
+      "precincts": 8,
+      "rows": 671
+    },
+    {
+      "county": "Butler",
+      "slug": "Butler",
+      "election_id": "127089",
+      "version": "385926",
+      "report_url": "https://electionresults.iowa.gov/IA/Butler/127089/385926/reports/detailxml.zip",
+      "timestamp": "11/6/2026 11:28:47 AM CST",
+      "precincts": 8,
+      "rows": 682
+    },
+    {
+      "county": "Calhoun",
+      "slug": "Calhoun",
+      "election_id": "127090",
+      "version": "384542",
+      "report_url": "https://electionresults.iowa.gov/IA/Calhoun/127090/384542/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:01:13 PM CST",
+      "precincts": 6,
+      "rows": 476
+    },
+    {
+      "county": "Carroll",
+      "slug": "Carroll",
+      "election_id": "127091",
+      "version": "384774",
+      "report_url": "https://electionresults.iowa.gov/IA/Carroll/127091/384774/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:34:52 PM CST",
+      "precincts": 13,
+      "rows": 939
+    },
+    {
+      "county": "Cass",
+      "slug": "Cass",
+      "election_id": "127092",
+      "version": "385614",
+      "report_url": "https://electionresults.iowa.gov/IA/Cass/127092/385614/reports/detailxml.zip",
+      "timestamp": "11/4/2026 10:59:53 AM CST",
+      "precincts": 12,
+      "rows": 948
+    },
+    {
+      "county": "Cedar",
+      "slug": "Cedar",
+      "election_id": "127093",
+      "version": "385005",
+      "report_url": "https://electionresults.iowa.gov/IA/Cedar/127093/385005/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:05:15 PM CST",
+      "precincts": 12,
+      "rows": 988
+    },
+    {
+      "county": "Cerro Gordo",
+      "slug": "Cerro_Gordo",
+      "election_id": "127094",
+      "version": "384584",
+      "report_url": "https://electionresults.iowa.gov/IA/Cerro_Gordo/127094/384584/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:06:55 PM CST",
+      "precincts": 23,
+      "rows": 1607
+    },
+    {
+      "county": "Cherokee",
+      "slug": "Cherokee",
+      "election_id": "127095",
+      "version": "385850",
+      "report_url": "https://electionresults.iowa.gov/IA/Cherokee/127095/385850/reports/detailxml.zip",
+      "timestamp": "11/6/2026 8:34:16 AM CST",
+      "precincts": 7,
+      "rows": 502
+    },
+    {
+      "county": "Chickasaw",
+      "slug": "Chickasaw",
+      "election_id": "127096",
+      "version": "384740",
+      "report_url": "https://electionresults.iowa.gov/IA/Chickasaw/127096/384740/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:25:21 PM CST",
+      "precincts": 9,
+      "rows": 664
+    },
+    {
+      "county": "Clarke",
+      "slug": "Clarke",
+      "election_id": "127097",
+      "version": "384699",
+      "report_url": "https://electionresults.iowa.gov/IA/Clarke/127097/384699/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:35:51 PM CST",
+      "precincts": 7,
+      "rows": 491
+    },
+    {
+      "county": "Clay",
+      "slug": "Clay",
+      "election_id": "127098",
+      "version": "385995",
+      "report_url": "https://electionresults.iowa.gov/IA/Clay/127098/385995/reports/detailxml.zip",
+      "timestamp": "11/6/2026 2:52:36 PM CST",
+      "precincts": 12,
+      "rows": 894
+    },
+    {
+      "county": "Clayton",
+      "slug": "Clayton",
+      "election_id": "127099",
+      "version": "384747",
+      "report_url": "https://electionresults.iowa.gov/IA/Clayton/127099/384747/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:25:59 PM CST",
+      "precincts": 12,
+      "rows": 799
+    },
+    {
+      "county": "Clinton",
+      "slug": "Clinton",
+      "election_id": "127100",
+      "version": "385265",
+      "report_url": "https://electionresults.iowa.gov/IA/Clinton/127100/385265/reports/detailxml.zip",
+      "timestamp": "11/3/2026 11:28:23 PM CST",
+      "precincts": 24,
+      "rows": 1873
+    },
+    {
+      "county": "Crawford",
+      "slug": "Crawford",
+      "election_id": "127101",
+      "version": "384540",
+      "report_url": "https://electionresults.iowa.gov/IA/Crawford/127101/384540/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:02:58 PM CST",
+      "precincts": 8,
+      "rows": 570
+    },
+    {
+      "county": "Dallas",
+      "slug": "Dallas",
+      "election_id": "127102",
+      "version": "385563",
+      "report_url": "https://electionresults.iowa.gov/IA/Dallas/127102/385563/reports/detailxml.zip",
+      "timestamp": "11/4/2026 3:21:36 AM CST",
+      "precincts": 46,
+      "rows": 3940
+    },
+    {
+      "county": "Davis",
+      "slug": "Davis",
+      "election_id": "127103",
+      "version": "384630",
+      "report_url": "https://electionresults.iowa.gov/IA/Davis/127103/384630/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:15:57 PM CST",
+      "precincts": 8,
+      "rows": 631
+    },
+    {
+      "county": "Decatur",
+      "slug": "Decatur",
+      "election_id": "127104",
+      "version": "385974",
+      "report_url": "https://electionresults.iowa.gov/IA/Decatur/127104/385974/reports/detailxml.zip",
+      "timestamp": "11/6/2026 2:01:39 PM CST",
+      "precincts": 4,
+      "rows": 365
+    },
+    {
+      "county": "Delaware",
+      "slug": "Delaware",
+      "election_id": "127105",
+      "version": "384672",
+      "report_url": "https://electionresults.iowa.gov/IA/Delaware/127105/384672/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:17:49 PM CST",
+      "precincts": 12,
+      "rows": 824
+    },
+    {
+      "county": "Des Moines",
+      "slug": "Des_Moines",
+      "election_id": "127106",
+      "version": "384638",
+      "report_url": "https://electionresults.iowa.gov/IA/Des_Moines/127106/384638/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:14:12 PM CST",
+      "precincts": 17,
+      "rows": 1053
+    },
+    {
+      "county": "Dickinson",
+      "slug": "Dickinson",
+      "election_id": "127107",
+      "version": "384769",
+      "report_url": "https://electionresults.iowa.gov/IA/Dickinson/127107/384769/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:30:14 PM CST",
+      "precincts": 12,
+      "rows": 844
+    },
+    {
+      "county": "Dubuque",
+      "slug": "Dubuque",
+      "election_id": "127108",
+      "version": "384606",
+      "report_url": "https://electionresults.iowa.gov/IA/Dubuque/127108/384606/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:17:08 PM CST",
+      "precincts": 34,
+      "rows": 2619
+    },
+    {
+      "county": "Emmet",
+      "slug": "Emmet",
+      "election_id": "127109",
+      "version": "384946",
+      "report_url": "https://electionresults.iowa.gov/IA/Emmet/127109/384946/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:57:02 PM CST",
+      "precincts": 11,
+      "rows": 723
+    },
+    {
+      "county": "Fayette",
+      "slug": "Fayette",
+      "election_id": "127110",
+      "version": "385949",
+      "report_url": "https://electionresults.iowa.gov/IA/Fayette/127110/385949/reports/detailxml.zip",
+      "timestamp": "11/6/2026 12:53:51 PM CST",
+      "precincts": 20,
+      "rows": 1410
+    },
+    {
+      "county": "Floyd",
+      "slug": "Floyd",
+      "election_id": "127111",
+      "version": "384860",
+      "report_url": "https://electionresults.iowa.gov/IA/Floyd/127111/384860/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:42:42 PM CST",
+      "precincts": 8,
+      "rows": 661
+    },
+    {
+      "county": "Franklin",
+      "slug": "Franklin",
+      "election_id": "127112",
+      "version": "384902",
+      "report_url": "https://electionresults.iowa.gov/IA/Franklin/127112/384902/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:46:45 PM CST",
+      "precincts": 12,
+      "rows": 910
+    },
+    {
+      "county": "Fremont",
+      "slug": "Fremont",
+      "election_id": "127113",
+      "version": "386019",
+      "report_url": "https://electionresults.iowa.gov/IA/Fremont/127113/386019/reports/detailxml.zip",
+      "timestamp": "11/6/2026 4:24:13 PM CST",
+      "precincts": 5,
+      "rows": 418
+    },
+    {
+      "county": "Greene",
+      "slug": "Greene",
+      "election_id": "127114",
+      "version": "384666",
+      "report_url": "https://electionresults.iowa.gov/IA/Greene/127114/384666/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:28:08 PM CST",
+      "precincts": 6,
+      "rows": 508
+    },
+    {
+      "county": "Grundy",
+      "slug": "Grundy",
+      "election_id": "127115",
+      "version": "384931",
+      "report_url": "https://electionresults.iowa.gov/IA/Grundy/127115/384931/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:52:01 PM CST",
+      "precincts": 7,
+      "rows": 443
+    },
+    {
+      "county": "Guthrie",
+      "slug": "Guthrie",
+      "election_id": "127116",
+      "version": "384881",
+      "report_url": "https://electionresults.iowa.gov/IA/Guthrie/127116/384881/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:44:01 PM CST",
+      "precincts": 6,
+      "rows": 471
+    },
+    {
+      "county": "Hamilton",
+      "slug": "Hamilton",
+      "election_id": "127117",
+      "version": "384813",
+      "report_url": "https://electionresults.iowa.gov/IA/Hamilton/127117/384813/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:33:58 PM CST",
+      "precincts": 7,
+      "rows": 537
+    },
+    {
+      "county": "Hancock",
+      "slug": "Hancock",
+      "election_id": "127118",
+      "version": "384708",
+      "report_url": "https://electionresults.iowa.gov/IA/Hancock/127118/384708/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:34:21 PM CST",
+      "precincts": 10,
+      "rows": 797
+    },
+    {
+      "county": "Hardin",
+      "slug": "Hardin",
+      "election_id": "127119",
+      "version": "385109",
+      "report_url": "https://electionresults.iowa.gov/IA/Hardin/127119/385109/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:29:35 PM CST",
+      "precincts": 8,
+      "rows": 610
+    },
+    {
+      "county": "Harrison",
+      "slug": "Harrison",
+      "election_id": "127120",
+      "version": "384909",
+      "report_url": "https://electionresults.iowa.gov/IA/Harrison/127120/384909/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:47:29 PM CST",
+      "precincts": 11,
+      "rows": 951
+    },
+    {
+      "county": "Henry",
+      "slug": "Henry",
+      "election_id": "127121",
+      "version": "385228",
+      "report_url": "https://electionresults.iowa.gov/IA/Henry/127121/385228/reports/detailxml.zip",
+      "timestamp": "11/3/2026 11:11:00 PM CST",
+      "precincts": 9,
+      "rows": 651
+    },
+    {
+      "county": "Howard",
+      "slug": "Howard",
+      "election_id": "127122",
+      "version": "385753",
+      "report_url": "https://electionresults.iowa.gov/IA/Howard/127122/385753/reports/detailxml.zip",
+      "timestamp": "11/5/2026 1:42:22 PM CST",
+      "precincts": 9,
+      "rows": 730
+    },
+    {
+      "county": "Humboldt",
+      "slug": "Humboldt",
+      "election_id": "127123",
+      "version": "384455",
+      "report_url": "https://electionresults.iowa.gov/IA/Humboldt/127123/384455/reports/detailxml.zip",
+      "timestamp": "11/3/2026 8:54:27 PM CST",
+      "precincts": 6,
+      "rows": 491
+    },
+    {
+      "county": "Ida",
+      "slug": "Ida",
+      "election_id": "127124",
+      "version": "384752",
+      "report_url": "https://electionresults.iowa.gov/IA/Ida/127124/384752/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:26:29 PM CST",
+      "precincts": 7,
+      "rows": 491
+    },
+    {
+      "county": "Iowa",
+      "slug": "Iowa",
+      "election_id": "127125",
+      "version": "385304",
+      "report_url": "https://electionresults.iowa.gov/IA/Iowa/127125/385304/reports/detailxml.zip",
+      "timestamp": "11/3/2026 11:47:40 PM CST",
+      "precincts": 11,
+      "rows": 818
+    },
+    {
+      "county": "Jackson",
+      "slug": "Jackson",
+      "election_id": "127126",
+      "version": "384815",
+      "report_url": "https://electionresults.iowa.gov/IA/Jackson/127126/384815/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:35:50 PM CST",
+      "precincts": 13,
+      "rows": 1134
+    },
+    {
+      "county": "Jasper",
+      "slug": "Jasper",
+      "election_id": "127127",
+      "version": "385736",
+      "report_url": "https://electionresults.iowa.gov/IA/Jasper/127127/385736/reports/detailxml.zip",
+      "timestamp": "11/5/2026 11:21:46 AM CST",
+      "precincts": 23,
+      "rows": 1839
+    },
+    {
+      "county": "Jefferson",
+      "slug": "Jefferson",
+      "election_id": "127128",
+      "version": "385114",
+      "report_url": "https://electionresults.iowa.gov/IA/Jefferson/127128/385114/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:38:04 PM CST",
+      "precincts": 12,
+      "rows": 918
+    },
+    {
+      "county": "Johnson",
+      "slug": "Johnson",
+      "election_id": "127129",
+      "version": "384984",
+      "report_url": "https://electionresults.iowa.gov/IA/Johnson/127129/384984/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:00:24 PM CST",
+      "precincts": 65,
+      "rows": 4879
+    },
+    {
+      "county": "Jones",
+      "slug": "Jones",
+      "election_id": "127130",
+      "version": "385842",
+      "report_url": "https://electionresults.iowa.gov/IA/Jones/127130/385842/reports/detailxml.zip",
+      "timestamp": "11/6/2026 8:20:20 AM CST",
+      "precincts": 14,
+      "rows": 1147
+    },
+    {
+      "county": "Keokuk",
+      "slug": "Keokuk",
+      "election_id": "127131",
+      "version": "384546",
+      "report_url": "https://electionresults.iowa.gov/IA/Keokuk/127131/384546/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:01:45 PM CST",
+      "precincts": 11,
+      "rows": 902
+    },
+    {
+      "county": "Kossuth",
+      "slug": "Kossuth",
+      "election_id": "127132",
+      "version": "384744",
+      "report_url": "https://electionresults.iowa.gov/IA/Kossuth/127132/384744/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:34:17 PM CST",
+      "precincts": 20,
+      "rows": 1424
+    },
+    {
+      "county": "Lee",
+      "slug": "Lee",
+      "election_id": "127133",
+      "version": "385618",
+      "report_url": "https://electionresults.iowa.gov/IA/Lee/127133/385618/reports/detailxml.zip",
+      "timestamp": "11/4/2026 11:24:45 AM CST",
+      "precincts": 22,
+      "rows": 1324
+    },
+    {
+      "county": "Linn",
+      "slug": "Linn",
+      "election_id": "127134",
+      "version": "385054",
+      "report_url": "https://electionresults.iowa.gov/IA/Linn/127134/385054/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:16:49 PM CST",
+      "precincts": 94,
+      "rows": 6905
+    },
+    {
+      "county": "Louisa",
+      "slug": "Louisa",
+      "election_id": "127135",
+      "version": "384614",
+      "report_url": "https://electionresults.iowa.gov/IA/Louisa/127135/384614/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:11:08 PM CST",
+      "precincts": 5,
+      "rows": 338
+    },
+    {
+      "county": "Lucas",
+      "slug": "Lucas",
+      "election_id": "127136",
+      "version": "385211",
+      "report_url": "https://electionresults.iowa.gov/IA/Lucas/127136/385211/reports/detailxml.zip",
+      "timestamp": "11/3/2026 11:04:00 PM CST",
+      "precincts": 7,
+      "rows": 435
+    },
+    {
+      "county": "Lyon",
+      "slug": "Lyon",
+      "election_id": "127137",
+      "version": "384579",
+      "report_url": "https://electionresults.iowa.gov/IA/Lyon/127137/384579/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:06:14 PM CST",
+      "precincts": 10,
+      "rows": 658
+    },
+    {
+      "county": "Madison",
+      "slug": "Madison",
+      "election_id": "127138",
+      "version": "385629",
+      "report_url": "https://electionresults.iowa.gov/IA/Madison/127138/385629/reports/detailxml.zip",
+      "timestamp": "11/4/2026 12:57:36 PM CST",
+      "precincts": 10,
+      "rows": 768
+    },
+    {
+      "county": "Mahaska",
+      "slug": "Mahaska",
+      "election_id": "127139",
+      "version": "385610",
+      "report_url": "https://electionresults.iowa.gov/IA/Mahaska/127139/385610/reports/detailxml.zip",
+      "timestamp": "11/4/2026 10:33:40 AM CST",
+      "precincts": 9,
+      "rows": 683
+    },
+    {
+      "county": "Marion",
+      "slug": "Marion",
+      "election_id": "127140",
+      "version": "384795",
+      "report_url": "https://electionresults.iowa.gov/IA/Marion/127140/384795/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:43:55 PM CST",
+      "precincts": 19,
+      "rows": 1391
+    },
+    {
+      "county": "Marshall",
+      "slug": "Marshall",
+      "election_id": "127141",
+      "version": "384847",
+      "report_url": "https://electionresults.iowa.gov/IA/Marshall/127141/384847/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:39:51 PM CST",
+      "precincts": 15,
+      "rows": 1124
+    },
+    {
+      "county": "Mills",
+      "slug": "Mills",
+      "election_id": "127142",
+      "version": "384937",
+      "report_url": "https://electionresults.iowa.gov/IA/Mills/127142/384937/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:54:21 PM CST",
+      "precincts": 11,
+      "rows": 829
+    },
+    {
+      "county": "Mitchell",
+      "slug": "Mitchell",
+      "election_id": "127143",
+      "version": "385024",
+      "report_url": "https://electionresults.iowa.gov/IA/Mitchell/127143/385024/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:15:19 PM CST",
+      "precincts": 12,
+      "rows": 995
+    },
+    {
+      "county": "Monona",
+      "slug": "Monona",
+      "election_id": "127144",
+      "version": "384973",
+      "report_url": "https://electionresults.iowa.gov/IA/Monona/127144/384973/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:05:39 PM CST",
+      "precincts": 10,
+      "rows": 690
+    },
+    {
+      "county": "Monroe",
+      "slug": "Monroe",
+      "election_id": "127145",
+      "version": "385935",
+      "report_url": "https://electionresults.iowa.gov/IA/Monroe/127145/385935/reports/detailxml.zip",
+      "timestamp": "11/6/2026 12:00:42 PM CST",
+      "precincts": 7,
+      "rows": 508
+    },
+    {
+      "county": "Montgomery",
+      "slug": "Montgomery",
+      "election_id": "127146",
+      "version": "384893",
+      "report_url": "https://electionresults.iowa.gov/IA/Montgomery/127146/384893/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:45:34 PM CST",
+      "precincts": 7,
+      "rows": 556
+    },
+    {
+      "county": "Muscatine",
+      "slug": "Muscatine",
+      "election_id": "127147",
+      "version": "385180",
+      "report_url": "https://electionresults.iowa.gov/IA/Muscatine/127147/385180/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:58:49 PM CST",
+      "precincts": 25,
+      "rows": 1947
+    },
+    {
+      "county": "O'Brien",
+      "slug": "O'Brien",
+      "election_id": "127148",
+      "version": "385776",
+      "report_url": "https://electionresults.iowa.gov/IA/O'Brien/127148/385776/reports/detailxml.zip",
+      "timestamp": "11/5/2026 3:53:46 PM CST",
+      "precincts": 9,
+      "rows": 639
+    },
+    {
+      "county": "Osceola",
+      "slug": "Osceola",
+      "election_id": "127149",
+      "version": "384741",
+      "report_url": "https://electionresults.iowa.gov/IA/Osceola/127149/384741/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:25:24 PM CST",
+      "precincts": 8,
+      "rows": 550
+    },
+    {
+      "county": "Page",
+      "slug": "Page",
+      "election_id": "127150",
+      "version": "384800",
+      "report_url": "https://electionresults.iowa.gov/IA/Page/127150/384800/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:32:49 PM CST",
+      "precincts": 9,
+      "rows": 756
+    },
+    {
+      "county": "Palo Alto",
+      "slug": "Palo_Alto",
+      "election_id": "127151",
+      "version": "385771",
+      "report_url": "https://electionresults.iowa.gov/IA/Palo_Alto/127151/385771/reports/detailxml.zip",
+      "timestamp": "11/5/2026 3:39:19 PM CST",
+      "precincts": 8,
+      "rows": 618
+    },
+    {
+      "county": "Plymouth",
+      "slug": "Plymouth",
+      "election_id": "127152",
+      "version": "384871",
+      "report_url": "https://electionresults.iowa.gov/IA/Plymouth/127152/384871/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:42:52 PM CST",
+      "precincts": 11,
+      "rows": 834
+    },
+    {
+      "county": "Pocahontas",
+      "slug": "Pocahontas",
+      "election_id": "127153",
+      "version": "384745",
+      "report_url": "https://electionresults.iowa.gov/IA/Pocahontas/127153/384745/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:29:04 PM CST",
+      "precincts": 7,
+      "rows": 570
+    },
+    {
+      "county": "Polk",
+      "slug": "Polk",
+      "election_id": "127154",
+      "version": "385135",
+      "report_url": "https://electionresults.iowa.gov/IA/Polk/127154/385135/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:35:59 PM CST",
+      "precincts": 176,
+      "rows": 16046
+    },
+    {
+      "county": "Pottawattamie",
+      "slug": "Pottawattamie",
+      "election_id": "127155",
+      "version": "385964",
+      "report_url": "https://electionresults.iowa.gov/IA/Pottawattamie/127155/385964/reports/detailxml.zip",
+      "timestamp": "11/6/2026 1:44:23 PM CST",
+      "precincts": 40,
+      "rows": 3150
+    },
+    {
+      "county": "Poweshiek",
+      "slug": "Poweshiek",
+      "election_id": "127156",
+      "version": "384882",
+      "report_url": "https://electionresults.iowa.gov/IA/Poweshiek/127156/384882/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:44:02 PM CST",
+      "precincts": 10,
+      "rows": 736
+    },
+    {
+      "county": "Ringgold",
+      "slug": "Ringgold",
+      "election_id": "127157",
+      "version": "384573",
+      "report_url": "https://electionresults.iowa.gov/IA/Ringgold/127157/384573/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:11:38 PM CST",
+      "precincts": 7,
+      "rows": 499
+    },
+    {
+      "county": "Sac",
+      "slug": "Sac",
+      "election_id": "127158",
+      "version": "384819",
+      "report_url": "https://electionresults.iowa.gov/IA/Sac/127158/384819/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:36:31 PM CST",
+      "precincts": 9,
+      "rows": 667
+    },
+    {
+      "county": "Scott",
+      "slug": "Scott",
+      "election_id": "127159",
+      "version": "384855",
+      "report_url": "https://electionresults.iowa.gov/IA/Scott/127159/384855/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:45:05 PM CST",
+      "precincts": 66,
+      "rows": 5674
+    },
+    {
+      "county": "Shelby",
+      "slug": "Shelby",
+      "election_id": "127160",
+      "version": "384784",
+      "report_url": "https://electionresults.iowa.gov/IA/Shelby/127160/384784/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:38:18 PM CST",
+      "precincts": 11,
+      "rows": 868
+    },
+    {
+      "county": "Sioux",
+      "slug": "Sioux",
+      "election_id": "127161",
+      "version": "384557",
+      "report_url": "https://electionresults.iowa.gov/IA/Sioux/127161/384557/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:07:31 PM CST",
+      "precincts": 17,
+      "rows": 1113
+    },
+    {
+      "county": "Story",
+      "slug": "Story",
+      "election_id": "127162",
+      "version": "385598",
+      "report_url": "https://electionresults.iowa.gov/IA/Story/127162/385598/reports/detailxml.zip",
+      "timestamp": "11/4/2026 9:52:19 AM CST",
+      "precincts": 45,
+      "rows": 3570
+    },
+    {
+      "county": "Tama",
+      "slug": "Tama",
+      "election_id": "127163",
+      "version": "384857",
+      "report_url": "https://electionresults.iowa.gov/IA/Tama/127163/384857/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:41:33 PM CST",
+      "precincts": 12,
+      "rows": 942
+    },
+    {
+      "county": "Taylor",
+      "slug": "Taylor",
+      "election_id": "127164",
+      "version": "385132",
+      "report_url": "https://electionresults.iowa.gov/IA/Taylor/127164/385132/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:34:41 PM CST",
+      "precincts": 5,
+      "rows": 370
+    },
+    {
+      "county": "Union",
+      "slug": "Union",
+      "election_id": "127165",
+      "version": "385913",
+      "report_url": "https://electionresults.iowa.gov/IA/Union/127165/385913/reports/detailxml.zip",
+      "timestamp": "11/6/2026 11:02:49 AM CST",
+      "precincts": 9,
+      "rows": 572
+    },
+    {
+      "county": "Van Buren",
+      "slug": "Van_Buren",
+      "election_id": "127166",
+      "version": "384611",
+      "report_url": "https://electionresults.iowa.gov/IA/Van_Buren/127166/384611/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:10:49 PM CST",
+      "precincts": 4,
+      "rows": 343
+    },
+    {
+      "county": "Wapello",
+      "slug": "Wapello",
+      "election_id": "127167",
+      "version": "385119",
+      "report_url": "https://electionresults.iowa.gov/IA/Wapello/127167/385119/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:31:39 PM CST",
+      "precincts": 22,
+      "rows": 1607
+    },
+    {
+      "county": "Warren",
+      "slug": "Warren",
+      "election_id": "127168",
+      "version": "385009",
+      "report_url": "https://electionresults.iowa.gov/IA/Warren/127168/385009/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:07:43 PM CST",
+      "precincts": 37,
+      "rows": 2655
+    },
+    {
+      "county": "Washington",
+      "slug": "Washington",
+      "election_id": "127169",
+      "version": "384876",
+      "report_url": "https://electionresults.iowa.gov/IA/Washington/127169/384876/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:46:10 PM CST",
+      "precincts": 10,
+      "rows": 704
+    },
+    {
+      "county": "Wayne",
+      "slug": "Wayne",
+      "election_id": "127170",
+      "version": "384563",
+      "report_url": "https://electionresults.iowa.gov/IA/Wayne/127170/384563/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:11:31 PM CST",
+      "precincts": 4,
+      "rows": 338
+    },
+    {
+      "county": "Webster",
+      "slug": "Webster",
+      "election_id": "127171",
+      "version": "385065",
+      "report_url": "https://electionresults.iowa.gov/IA/Webster/127171/385065/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:17:46 PM CST",
+      "precincts": 19,
+      "rows": 1338
+    },
+    {
+      "county": "Winnebago",
+      "slug": "Winnebago",
+      "election_id": "127172",
+      "version": "384831",
+      "report_url": "https://electionresults.iowa.gov/IA/Winnebago/127172/384831/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:38:07 PM CST",
+      "precincts": 10,
+      "rows": 704
+    },
+    {
+      "county": "Winneshiek",
+      "slug": "Winneshiek",
+      "election_id": "127173",
+      "version": "384807",
+      "report_url": "https://electionresults.iowa.gov/IA/Winneshiek/127173/384807/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:44:18 PM CST",
+      "precincts": 12,
+      "rows": 955
+    },
+    {
+      "county": "Woodbury",
+      "slug": "Woodbury",
+      "election_id": "127174",
+      "version": "384977",
+      "report_url": "https://electionresults.iowa.gov/IA/Woodbury/127174/384977/reports/detailxml.zip",
+      "timestamp": "11/3/2026 9:59:03 PM CST",
+      "precincts": 44,
+      "rows": 3231
+    },
+    {
+      "county": "Worth",
+      "slug": "Worth",
+      "election_id": "127175",
+      "version": "385089",
+      "report_url": "https://electionresults.iowa.gov/IA/Worth/127175/385089/reports/detailxml.zip",
+      "timestamp": "11/3/2026 10:25:25 PM CST",
+      "precincts": 7,
+      "rows": 544
+    },
+    {
+      "county": "Wright",
+      "slug": "Wright",
+      "election_id": "127176",
+      "version": "385653",
+      "report_url": "https://electionresults.iowa.gov/IA/Wright/127176/385653/reports/detailxml.zip",
+      "timestamp": "11/4/2026 3:18:21 PM CST",
+      "precincts": 10,
+      "rows": 690
+    }
+  ],
+  "combined_output": "data/2026/20261103__ia__general__precinct.csv",
+  "combined_rows": 127592
+}

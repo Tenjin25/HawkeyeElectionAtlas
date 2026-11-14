@@ -1,0 +1,1392 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Marion,Clay,Attorney General,,Brenna Bird,REP,308,55,253
+Marion,Dallas,Attorney General,,Brenna Bird,REP,374,69,305
+Marion,Franklin,Attorney General,,Brenna Bird,REP,123,38,85
+Marion,Indiana,Attorney General,,Brenna Bird,REP,230,42,188
+Marion,Knoxville Four/Knoxville School,Attorney General,,Brenna Bird,REP,321,116,205
+Marion,Knoxville One/Knoxville School,Attorney General,,Brenna Bird,REP,335,137,198
+Marion,Knoxville Three/Knoxville School,Attorney General,,Brenna Bird,REP,513,178,335
+Marion,Knoxville Township,Attorney General,,Brenna Bird,REP,967,390,577
+Marion,Knoxville Two/Knoxville School,Attorney General,,Brenna Bird,REP,377,114,263
+Marion,Lake Prairie,Attorney General,,Brenna Bird,REP,1003,268,735
+Marion,Liberty,Attorney General,,Brenna Bird,REP,251,42,209
+Marion,Otley,Attorney General,,Brenna Bird,REP,832,249,583
+Marion,Pella Four,Attorney General,,Brenna Bird,REP,688,149,539
+Marion,Pella One,Attorney General,,Brenna Bird,REP,855,189,666
+Marion,Pella Three,Attorney General,,Brenna Bird,REP,1039,223,816
+Marion,Pella Two,Attorney General,,Brenna Bird,REP,936,221,715
+Marion,Pleasantville,Attorney General,,Brenna Bird,REP,746,140,606
+Marion,Union,Attorney General,,Brenna Bird,REP,131,52,79
+Marion,Washington,Attorney General,,Brenna Bird,REP,180,22,158
+Marion,Clay,Attorney General,,Nate Willems,DEM,113,32,81
+Marion,Dallas,Attorney General,,Nate Willems,DEM,269,64,205
+Marion,Franklin,Attorney General,,Nate Willems,DEM,41,23,18
+Marion,Indiana,Attorney General,,Nate Willems,DEM,118,51,67
+Marion,Knoxville Four/Knoxville School,Attorney General,,Nate Willems,DEM,283,131,152
+Marion,Knoxville One/Knoxville School,Attorney General,,Nate Willems,DEM,313,151,162
+Marion,Knoxville Three/Knoxville School,Attorney General,,Nate Willems,DEM,495,234,261
+Marion,Knoxville Township,Attorney General,,Nate Willems,DEM,534,304,230
+Marion,Knoxville Two/Knoxville School,Attorney General,,Nate Willems,DEM,290,147,143
+Marion,Lake Prairie,Attorney General,,Nate Willems,DEM,278,89,189
+Marion,Liberty,Attorney General,,Nate Willems,DEM,113,18,95
+Marion,Otley,Attorney General,,Nate Willems,DEM,367,154,213
+Marion,Pella Four,Attorney General,,Nate Willems,DEM,376,98,278
+Marion,Pella One,Attorney General,,Nate Willems,DEM,411,133,278
+Marion,Pella Three,Attorney General,,Nate Willems,DEM,518,165,353
+Marion,Pella Two,Attorney General,,Nate Willems,DEM,447,174,273
+Marion,Pleasantville,Attorney General,,Nate Willems,DEM,526,196,330
+Marion,Union,Attorney General,,Nate Willems,DEM,92,63,29
+Marion,Washington,Attorney General,,Nate Willems,DEM,68,25,43
+Marion,Clay,Attorney General,,Write-In,,0,0,0
+Marion,Dallas,Attorney General,,Write-In,,2,1,1
+Marion,Franklin,Attorney General,,Write-In,,0,0,0
+Marion,Indiana,Attorney General,,Write-In,,0,0,0
+Marion,Knoxville Four/Knoxville School,Attorney General,,Write-In,,1,0,1
+Marion,Knoxville One/Knoxville School,Attorney General,,Write-In,,2,1,1
+Marion,Knoxville Three/Knoxville School,Attorney General,,Write-In,,2,2,0
+Marion,Knoxville Township,Attorney General,,Write-In,,4,1,3
+Marion,Knoxville Two/Knoxville School,Attorney General,,Write-In,,1,0,1
+Marion,Lake Prairie,Attorney General,,Write-In,,0,0,0
+Marion,Liberty,Attorney General,,Write-In,,1,0,1
+Marion,Otley,Attorney General,,Write-In,,4,0,4
+Marion,Pella Four,Attorney General,,Write-In,,2,0,2
+Marion,Pella One,Attorney General,,Write-In,,4,0,4
+Marion,Pella Three,Attorney General,,Write-In,,0,0,0
+Marion,Pella Two,Attorney General,,Write-In,,1,0,1
+Marion,Pleasantville,Attorney General,,Write-In,,1,0,1
+Marion,Union,Attorney General,,Write-In,,0,0,0
+Marion,Washington,Attorney General,,Write-In,,1,0,1
+Marion,Clay,Auditor of State,,Chris Cournoyer,REP,302,55,247
+Marion,Dallas,Auditor of State,,Chris Cournoyer,REP,375,67,308
+Marion,Franklin,Auditor of State,,Chris Cournoyer,REP,124,36,88
+Marion,Indiana,Auditor of State,,Chris Cournoyer,REP,223,42,181
+Marion,Knoxville Four/Knoxville School,Auditor of State,,Chris Cournoyer,REP,313,112,201
+Marion,Knoxville One/Knoxville School,Auditor of State,,Chris Cournoyer,REP,334,128,206
+Marion,Knoxville Three/Knoxville School,Auditor of State,,Chris Cournoyer,REP,489,166,323
+Marion,Knoxville Township,Auditor of State,,Chris Cournoyer,REP,978,384,594
+Marion,Knoxville Two/Knoxville School,Auditor of State,,Chris Cournoyer,REP,366,111,255
+Marion,Lake Prairie,Auditor of State,,Chris Cournoyer,REP,1009,273,736
+Marion,Liberty,Auditor of State,,Chris Cournoyer,REP,253,41,212
+Marion,Otley,Auditor of State,,Chris Cournoyer,REP,832,243,589
+Marion,Pella Four,Auditor of State,,Chris Cournoyer,REP,697,152,545
+Marion,Pella One,Auditor of State,,Chris Cournoyer,REP,852,188,664
+Marion,Pella Three,Auditor of State,,Chris Cournoyer,REP,1031,214,817
+Marion,Pella Two,Auditor of State,,Chris Cournoyer,REP,938,221,717
+Marion,Pleasantville,Auditor of State,,Chris Cournoyer,REP,751,145,606
+Marion,Union,Auditor of State,,Chris Cournoyer,REP,123,47,76
+Marion,Washington,Auditor of State,,Chris Cournoyer,REP,180,22,158
+Marion,Clay,Auditor of State,,Taylor Wettach,DEM,118,31,87
+Marion,Dallas,Auditor of State,,Taylor Wettach,DEM,263,66,197
+Marion,Franklin,Auditor of State,,Taylor Wettach,DEM,39,24,15
+Marion,Indiana,Auditor of State,,Taylor Wettach,DEM,125,50,75
+Marion,Knoxville Four/Knoxville School,Auditor of State,,Taylor Wettach,DEM,287,135,152
+Marion,Knoxville One/Knoxville School,Auditor of State,,Taylor Wettach,DEM,309,157,152
+Marion,Knoxville Three/Knoxville School,Auditor of State,,Taylor Wettach,DEM,510,246,264
+Marion,Knoxville Township,Auditor of State,,Taylor Wettach,DEM,510,304,206
+Marion,Knoxville Two/Knoxville School,Auditor of State,,Taylor Wettach,DEM,293,147,146
+Marion,Lake Prairie,Auditor of State,,Taylor Wettach,DEM,259,80,179
+Marion,Liberty,Auditor of State,,Taylor Wettach,DEM,106,18,88
+Marion,Otley,Auditor of State,,Taylor Wettach,DEM,358,154,204
+Marion,Pella Four,Auditor of State,,Taylor Wettach,DEM,358,94,264
+Marion,Pella One,Auditor of State,,Taylor Wettach,DEM,405,132,273
+Marion,Pella Three,Auditor of State,,Taylor Wettach,DEM,499,170,329
+Marion,Pella Two,Auditor of State,,Taylor Wettach,DEM,427,170,257
+Marion,Pleasantville,Auditor of State,,Taylor Wettach,DEM,510,191,319
+Marion,Union,Auditor of State,,Taylor Wettach,DEM,95,65,30
+Marion,Washington,Auditor of State,,Taylor Wettach,DEM,66,25,41
+Marion,Clay,Auditor of State,,Write-In,,0,0,0
+Marion,Dallas,Auditor of State,,Write-In,,0,0,0
+Marion,Franklin,Auditor of State,,Write-In,,0,0,0
+Marion,Indiana,Auditor of State,,Write-In,,0,0,0
+Marion,Knoxville Four/Knoxville School,Auditor of State,,Write-In,,1,0,1
+Marion,Knoxville One/Knoxville School,Auditor of State,,Write-In,,0,0,0
+Marion,Knoxville Three/Knoxville School,Auditor of State,,Write-In,,0,0,0
+Marion,Knoxville Township,Auditor of State,,Write-In,,1,0,1
+Marion,Knoxville Two/Knoxville School,Auditor of State,,Write-In,,1,0,1
+Marion,Lake Prairie,Auditor of State,,Write-In,,0,0,0
+Marion,Liberty,Auditor of State,,Write-In,,0,0,0
+Marion,Otley,Auditor of State,,Write-In,,1,0,1
+Marion,Pella Four,Auditor of State,,Write-In,,2,0,2
+Marion,Pella One,Auditor of State,,Write-In,,1,0,1
+Marion,Pella Three,Auditor of State,,Write-In,,0,0,0
+Marion,Pella Two,Auditor of State,,Write-In,,1,0,1
+Marion,Pleasantville,Auditor of State,,Write-In,,1,0,1
+Marion,Union,Auditor of State,,Write-In,,0,0,0
+Marion,Washington,Auditor of State,,Write-In,,1,0,1
+Marion,Clay,Clay Township Clerk,,Twyla Findley,,258,49,209
+Marion,Clay,Clay Township Clerk,,Write-In,,10,0,10
+Marion,Clay,Clay Township Trustee,,Dee Alexander,,291,56,235
+Marion,Clay,Clay Township Trustee,,Write-In,,1,0,1
+Marion,Clay,Constitutional Amendment 1,,No,,122,21,101
+Marion,Dallas,Constitutional Amendment 1,,No,,212,45,167
+Marion,Franklin,Constitutional Amendment 1,,No,,40,17,23
+Marion,Indiana,Constitutional Amendment 1,,No,,110,31,79
+Marion,Knoxville Four/Knoxville School,Constitutional Amendment 1,,No,,240,94,146
+Marion,Knoxville One/Knoxville School,Constitutional Amendment 1,,No,,245,111,134
+Marion,Knoxville Three/Knoxville School,Constitutional Amendment 1,,No,,424,191,233
+Marion,Knoxville Township,Constitutional Amendment 1,,No,,490,233,257
+Marion,Knoxville Two/Knoxville School,Constitutional Amendment 1,,No,,250,106,144
+Marion,Lake Prairie,Constitutional Amendment 1,,No,,275,73,202
+Marion,Liberty,Constitutional Amendment 1,,No,,106,20,86
+Marion,Otley,Constitutional Amendment 1,,No,,316,107,209
+Marion,Pella Four,Constitutional Amendment 1,,No,,350,87,263
+Marion,Pella One,Constitutional Amendment 1,,No,,369,103,266
+Marion,Pella Three,Constitutional Amendment 1,,No,,471,148,323
+Marion,Pella Two,Constitutional Amendment 1,,No,,439,144,295
+Marion,Pleasantville,Constitutional Amendment 1,,No,,425,124,301
+Marion,Union,Constitutional Amendment 1,,No,,84,45,39
+Marion,Washington,Constitutional Amendment 1,,No,,90,21,69
+Marion,Clay,Constitutional Amendment 1,,Yes,,280,59,221
+Marion,Dallas,Constitutional Amendment 1,,Yes,,369,65,304
+Marion,Franklin,Constitutional Amendment 1,,Yes,,110,39,71
+Marion,Indiana,Constitutional Amendment 1,,Yes,,214,59,155
+Marion,Knoxville Four/Knoxville School,Constitutional Amendment 1,,Yes,,346,142,204
+Marion,Knoxville One/Knoxville School,Constitutional Amendment 1,,Yes,,384,168,216
+Marion,Knoxville Three/Knoxville School,Constitutional Amendment 1,,Yes,,533,192,341
+Marion,Knoxville Township,Constitutional Amendment 1,,Yes,,946,429,517
+Marion,Knoxville Two/Knoxville School,Constitutional Amendment 1,,Yes,,379,134,245
+Marion,Lake Prairie,Constitutional Amendment 1,,Yes,,916,259,657
+Marion,Liberty,Constitutional Amendment 1,,Yes,,227,37,190
+Marion,Otley,Constitutional Amendment 1,,Yes,,818,270,548
+Marion,Pella Four,Constitutional Amendment 1,,Yes,,633,152,481
+Marion,Pella One,Constitutional Amendment 1,,Yes,,818,190,628
+Marion,Pella Three,Constitutional Amendment 1,,Yes,,977,213,764
+Marion,Pella Two,Constitutional Amendment 1,,Yes,,865,222,643
+Marion,Pleasantville,Constitutional Amendment 1,,Yes,,740,181,559
+Marion,Union,Constitutional Amendment 1,,Yes,,123,63,60
+Marion,Washington,Constitutional Amendment 1,,Yes,,143,20,123
+Marion,Clay,County Agricultural Extension Council Member,,Debra Kearney,,252,48,204
+Marion,Dallas,County Agricultural Extension Council Member,,Debra Kearney,,334,60,274
+Marion,Franklin,County Agricultural Extension Council Member,,Debra Kearney,,109,36,73
+Marion,Indiana,County Agricultural Extension Council Member,,Debra Kearney,,199,47,152
+Marion,Knoxville Four/Knoxville School,County Agricultural Extension Council Member,,Debra Kearney,,384,138,246
+Marion,Knoxville One/Knoxville School,County Agricultural Extension Council Member,,Debra Kearney,,367,154,213
+Marion,Knoxville Three/Knoxville School,County Agricultural Extension Council Member,,Debra Kearney,,566,202,364
+Marion,Knoxville Township,County Agricultural Extension Council Member,,Debra Kearney,,869,367,502
+Marion,Knoxville Two/Knoxville School,County Agricultural Extension Council Member,,Debra Kearney,,391,145,246
+Marion,Lake Prairie,County Agricultural Extension Council Member,,Debra Kearney,,767,195,572
+Marion,Liberty,County Agricultural Extension Council Member,,Debra Kearney,,212,30,182
+Marion,Otley,County Agricultural Extension Council Member,,Debra Kearney,,694,197,497
+Marion,Pella Four,County Agricultural Extension Council Member,,Debra Kearney,,587,137,450
+Marion,Pella One,County Agricultural Extension Council Member,,Debra Kearney,,696,153,543
+Marion,Pella Three,County Agricultural Extension Council Member,,Debra Kearney,,852,198,654
+Marion,Pella Two,County Agricultural Extension Council Member,,Debra Kearney,,776,194,582
+Marion,Pleasantville,County Agricultural Extension Council Member,,Debra Kearney,,600,133,467
+Marion,Union,County Agricultural Extension Council Member,,Debra Kearney,,111,48,63
+Marion,Washington,County Agricultural Extension Council Member,,Debra Kearney,,152,27,125
+Marion,Clay,County Agricultural Extension Council Member,,Dustie Wentz,,223,42,181
+Marion,Dallas,County Agricultural Extension Council Member,,Dustie Wentz,,306,54,252
+Marion,Franklin,County Agricultural Extension Council Member,,Dustie Wentz,,105,34,71
+Marion,Indiana,County Agricultural Extension Council Member,,Dustie Wentz,,179,42,137
+Marion,Knoxville Four/Knoxville School,County Agricultural Extension Council Member,,Dustie Wentz,,313,113,200
+Marion,Knoxville One/Knoxville School,County Agricultural Extension Council Member,,Dustie Wentz,,330,137,193
+Marion,Knoxville Three/Knoxville School,County Agricultural Extension Council Member,,Dustie Wentz,,470,175,295
+Marion,Knoxville Township,County Agricultural Extension Council Member,,Dustie Wentz,,761,323,438
+Marion,Knoxville Two/Knoxville School,County Agricultural Extension Council Member,,Dustie Wentz,,323,122,201
+Marion,Lake Prairie,County Agricultural Extension Council Member,,Dustie Wentz,,735,185,550
+Marion,Liberty,County Agricultural Extension Council Member,,Dustie Wentz,,185,27,158
+Marion,Otley,County Agricultural Extension Council Member,,Dustie Wentz,,669,192,477
+Marion,Pella Four,County Agricultural Extension Council Member,,Dustie Wentz,,554,129,425
+Marion,Pella One,County Agricultural Extension Council Member,,Dustie Wentz,,644,144,500
+Marion,Pella Three,County Agricultural Extension Council Member,,Dustie Wentz,,824,191,633
+Marion,Pella Two,County Agricultural Extension Council Member,,Dustie Wentz,,744,195,549
+Marion,Pleasantville,County Agricultural Extension Council Member,,Dustie Wentz,,683,155,528
+Marion,Union,County Agricultural Extension Council Member,,Dustie Wentz,,127,53,74
+Marion,Washington,County Agricultural Extension Council Member,,Dustie Wentz,,116,19,97
+Marion,Clay,County Agricultural Extension Council Member,,Erin Cook,,230,42,188
+Marion,Dallas,County Agricultural Extension Council Member,,Erin Cook,,336,57,279
+Marion,Franklin,County Agricultural Extension Council Member,,Erin Cook,,116,41,75
+Marion,Indiana,County Agricultural Extension Council Member,,Erin Cook,,192,45,147
+Marion,Knoxville Four/Knoxville School,County Agricultural Extension Council Member,,Erin Cook,,358,127,231
+Marion,Knoxville One/Knoxville School,County Agricultural Extension Council Member,,Erin Cook,,350,143,207
+Marion,Knoxville Three/Knoxville School,County Agricultural Extension Council Member,,Erin Cook,,527,189,338
+Marion,Knoxville Township,County Agricultural Extension Council Member,,Erin Cook,,839,355,484
+Marion,Knoxville Two/Knoxville School,County Agricultural Extension Council Member,,Erin Cook,,348,125,223
+Marion,Lake Prairie,County Agricultural Extension Council Member,,Erin Cook,,746,189,557
+Marion,Liberty,County Agricultural Extension Council Member,,Erin Cook,,204,29,175
+Marion,Otley,County Agricultural Extension Council Member,,Erin Cook,,685,198,487
+Marion,Pella Four,County Agricultural Extension Council Member,,Erin Cook,,573,133,440
+Marion,Pella One,County Agricultural Extension Council Member,,Erin Cook,,684,153,531
+Marion,Pella Three,County Agricultural Extension Council Member,,Erin Cook,,850,199,651
+Marion,Pella Two,County Agricultural Extension Council Member,,Erin Cook,,765,195,570
+Marion,Pleasantville,County Agricultural Extension Council Member,,Erin Cook,,874,210,664
+Marion,Union,County Agricultural Extension Council Member,,Erin Cook,,141,60,81
+Marion,Washington,County Agricultural Extension Council Member,,Erin Cook,,131,21,110
+Marion,Clay,County Agricultural Extension Council Member,,Merrie Putz,,219,42,177
+Marion,Dallas,County Agricultural Extension Council Member,,Merrie Putz,,408,73,335
+Marion,Franklin,County Agricultural Extension Council Member,,Merrie Putz,,114,41,73
+Marion,Indiana,County Agricultural Extension Council Member,,Merrie Putz,,190,43,147
+Marion,Knoxville Four/Knoxville School,County Agricultural Extension Council Member,,Merrie Putz,,311,117,194
+Marion,Knoxville One/Knoxville School,County Agricultural Extension Council Member,,Merrie Putz,,319,134,185
+Marion,Knoxville Three/Knoxville School,County Agricultural Extension Council Member,,Merrie Putz,,457,165,292
+Marion,Knoxville Township,County Agricultural Extension Council Member,,Merrie Putz,,747,319,428
+Marion,Knoxville Two/Knoxville School,County Agricultural Extension Council Member,,Merrie Putz,,316,114,202
+Marion,Lake Prairie,County Agricultural Extension Council Member,,Merrie Putz,,723,185,538
+Marion,Liberty,County Agricultural Extension Council Member,,Merrie Putz,,178,27,151
+Marion,Otley,County Agricultural Extension Council Member,,Merrie Putz,,659,197,462
+Marion,Pella Four,County Agricultural Extension Council Member,,Merrie Putz,,537,126,411
+Marion,Pella One,County Agricultural Extension Council Member,,Merrie Putz,,641,148,493
+Marion,Pella Three,County Agricultural Extension Council Member,,Merrie Putz,,799,187,612
+Marion,Pella Two,County Agricultural Extension Council Member,,Merrie Putz,,732,189,543
+Marion,Pleasantville,County Agricultural Extension Council Member,,Merrie Putz,,573,130,443
+Marion,Union,County Agricultural Extension Council Member,,Merrie Putz,,104,47,57
+Marion,Washington,County Agricultural Extension Council Member,,Merrie Putz,,123,21,102
+Marion,Clay,County Agricultural Extension Council Member,,Robert Poppe,,227,44,183
+Marion,Dallas,County Agricultural Extension Council Member,,Robert Poppe,,300,56,244
+Marion,Franklin,County Agricultural Extension Council Member,,Robert Poppe,,104,34,70
+Marion,Indiana,County Agricultural Extension Council Member,,Robert Poppe,,193,44,149
+Marion,Knoxville Four/Knoxville School,County Agricultural Extension Council Member,,Robert Poppe,,322,117,205
+Marion,Knoxville One/Knoxville School,County Agricultural Extension Council Member,,Robert Poppe,,331,134,197
+Marion,Knoxville Three/Knoxville School,County Agricultural Extension Council Member,,Robert Poppe,,477,176,301
+Marion,Knoxville Township,County Agricultural Extension Council Member,,Robert Poppe,,790,335,455
+Marion,Knoxville Two/Knoxville School,County Agricultural Extension Council Member,,Robert Poppe,,330,127,203
+Marion,Lake Prairie,County Agricultural Extension Council Member,,Robert Poppe,,727,188,539
+Marion,Liberty,County Agricultural Extension Council Member,,Robert Poppe,,185,29,156
+Marion,Otley,County Agricultural Extension Council Member,,Robert Poppe,,660,191,469
+Marion,Pella Four,County Agricultural Extension Council Member,,Robert Poppe,,549,129,420
+Marion,Pella One,County Agricultural Extension Council Member,,Robert Poppe,,650,150,500
+Marion,Pella Three,County Agricultural Extension Council Member,,Robert Poppe,,828,189,639
+Marion,Pella Two,County Agricultural Extension Council Member,,Robert Poppe,,757,197,560
+Marion,Pleasantville,County Agricultural Extension Council Member,,Robert Poppe,,561,124,437
+Marion,Union,County Agricultural Extension Council Member,,Robert Poppe,,105,46,59
+Marion,Washington,County Agricultural Extension Council Member,,Robert Poppe,,131,22,109
+Marion,Clay,County Agricultural Extension Council Member,,Write-In,,6,1,5
+Marion,Dallas,County Agricultural Extension Council Member,,Write-In,,8,0,8
+Marion,Franklin,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Marion,Indiana,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Marion,Knoxville Four/Knoxville School,County Agricultural Extension Council Member,,Write-In,,13,1,12
+Marion,Knoxville One/Knoxville School,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Marion,Knoxville Three/Knoxville School,County Agricultural Extension Council Member,,Write-In,,15,6,9
+Marion,Knoxville Township,County Agricultural Extension Council Member,,Write-In,,19,2,17
+Marion,Knoxville Two/Knoxville School,County Agricultural Extension Council Member,,Write-In,,9,1,8
+Marion,Lake Prairie,County Agricultural Extension Council Member,,Write-In,,7,0,7
+Marion,Liberty,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Marion,Otley,County Agricultural Extension Council Member,,Write-In,,18,9,9
+Marion,Pella Four,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Marion,Pella One,County Agricultural Extension Council Member,,Write-In,,8,4,4
+Marion,Pella Three,County Agricultural Extension Council Member,,Write-In,,11,1,10
+Marion,Pella Two,County Agricultural Extension Council Member,,Write-In,,20,2,18
+Marion,Pleasantville,County Agricultural Extension Council Member,,Write-In,,8,2,6
+Marion,Union,County Agricultural Extension Council Member,,Write-In,,6,5,1
+Marion,Washington,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Marion,Clay,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,255,47,208
+Marion,Dallas,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,360,65,295
+Marion,Franklin,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,114,36,78
+Marion,Indiana,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,226,47,179
+Marion,Knoxville Four/Knoxville School,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,386,136,250
+Marion,Knoxville One/Knoxville School,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,406,164,242
+Marion,Knoxville Three/Knoxville School,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,595,201,394
+Marion,Knoxville Township,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,964,394,570
+Marion,Knoxville Two/Knoxville School,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,406,147,259
+Marion,Lake Prairie,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,796,201,595
+Marion,Liberty,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,234,33,201
+Marion,Otley,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,737,204,533
+Marion,Pella Four,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,598,136,462
+Marion,Pella One,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,729,159,570
+Marion,Pella Three,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,891,201,690
+Marion,Pella Two,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,808,205,603
+Marion,Pleasantville,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,774,181,593
+Marion,Union,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,138,57,81
+Marion,Washington,County Agricultural Extension Council To Fill a Vacancy,,Levi Collins,,158,25,133
+Marion,Clay,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,230,44,186
+Marion,Dallas,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,339,61,278
+Marion,Franklin,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,97,33,64
+Marion,Indiana,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,190,49,141
+Marion,Knoxville Four/Knoxville School,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,337,123,214
+Marion,Knoxville One/Knoxville School,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,339,151,188
+Marion,Knoxville Three/Knoxville School,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,519,194,325
+Marion,Knoxville Township,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,805,354,451
+Marion,Knoxville Two/Knoxville School,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,339,129,210
+Marion,Lake Prairie,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,764,201,563
+Marion,Liberty,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,198,30,168
+Marion,Otley,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,688,210,478
+Marion,Pella Four,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,595,145,450
+Marion,Pella One,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,687,166,521
+Marion,Pella Three,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,865,204,661
+Marion,Pella Two,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,786,217,569
+Marion,Pleasantville,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,615,141,474
+Marion,Union,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,113,50,63
+Marion,Washington,County Agricultural Extension Council To Fill a Vacancy,,Terri Frank,,130,26,104
+Marion,Clay,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,4,1,3
+Marion,Dallas,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,4,0,4
+Marion,Franklin,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,2,0,2
+Marion,Indiana,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,1,0,1
+Marion,Knoxville Four/Knoxville School,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,9,0,9
+Marion,Knoxville One/Knoxville School,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,3,0,3
+Marion,Knoxville Three/Knoxville School,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,7,5,2
+Marion,Knoxville Township,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,10,3,7
+Marion,Knoxville Two/Knoxville School,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,5,2,3
+Marion,Lake Prairie,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,1,0,1
+Marion,Liberty,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,2,0,2
+Marion,Otley,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,7,4,3
+Marion,Pella Four,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,2,0,2
+Marion,Pella One,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,5,1,4
+Marion,Pella Three,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,8,1,7
+Marion,Pella Two,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,7,0,7
+Marion,Pleasantville,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,9,3,6
+Marion,Union,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,3,2,1
+Marion,Washington,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,1,0,1
+Marion,Clay,County Attorney,,Jared Harmon,REP,372,71,301
+Marion,Dallas,County Attorney,,Jared Harmon,REP,484,83,401
+Marion,Franklin,County Attorney,,Jared Harmon,REP,135,39,96
+Marion,Indiana,County Attorney,,Jared Harmon,REP,285,58,227
+Marion,Knoxville Four/Knoxville School,County Attorney,,Jared Harmon,REP,483,186,297
+Marion,Knoxville One/Knoxville School,County Attorney,,Jared Harmon,REP,505,215,290
+Marion,Knoxville Three/Knoxville School,County Attorney,,Jared Harmon,REP,765,284,481
+Marion,Knoxville Township,County Attorney,,Jared Harmon,REP,1220,511,709
+Marion,Knoxville Two/Knoxville School,County Attorney,,Jared Harmon,REP,514,175,339
+Marion,Lake Prairie,County Attorney,,Jared Harmon,REP,1114,295,819
+Marion,Liberty,County Attorney,,Jared Harmon,REP,306,48,258
+Marion,Otley,County Attorney,,Jared Harmon,REP,986,295,691
+Marion,Pella Four,County Attorney,,Jared Harmon,REP,857,196,661
+Marion,Pella One,County Attorney,,Jared Harmon,REP,1022,232,790
+Marion,Pella Three,County Attorney,,Jared Harmon,REP,1220,260,960
+Marion,Pella Two,County Attorney,,Jared Harmon,REP,1114,283,831
+Marion,Pleasantville,County Attorney,,Jared Harmon,REP,970,202,768
+Marion,Union,County Attorney,,Jared Harmon,REP,163,64,99
+Marion,Washington,County Attorney,,Jared Harmon,REP,213,30,183
+Marion,Clay,County Attorney,,Write-In,,5,0,5
+Marion,Dallas,County Attorney,,Write-In,,10,0,10
+Marion,Franklin,County Attorney,,Write-In,,1,1,0
+Marion,Indiana,County Attorney,,Write-In,,1,0,1
+Marion,Knoxville Four/Knoxville School,County Attorney,,Write-In,,9,0,9
+Marion,Knoxville One/Knoxville School,County Attorney,,Write-In,,11,2,9
+Marion,Knoxville Three/Knoxville School,County Attorney,,Write-In,,15,3,12
+Marion,Knoxville Township,County Attorney,,Write-In,,8,1,7
+Marion,Knoxville Two/Knoxville School,County Attorney,,Write-In,,11,4,7
+Marion,Lake Prairie,County Attorney,,Write-In,,7,1,6
+Marion,Liberty,County Attorney,,Write-In,,8,2,6
+Marion,Otley,County Attorney,,Write-In,,10,3,7
+Marion,Pella Four,County Attorney,,Write-In,,15,2,13
+Marion,Pella One,County Attorney,,Write-In,,14,0,14
+Marion,Pella Three,County Attorney,,Write-In,,11,4,7
+Marion,Pella Two,County Attorney,,Write-In,,11,0,11
+Marion,Pleasantville,County Attorney,,Write-In,,17,3,14
+Marion,Union,County Attorney,,Write-In,,5,2,3
+Marion,Washington,County Attorney,,Write-In,,1,0,1
+Marion,Clay,County Board of Supervisors,,Kisha Jahner,REP,368,70,298
+Marion,Dallas,County Board of Supervisors,,Kisha Jahner,REP,482,82,400
+Marion,Franklin,County Board of Supervisors,,Kisha Jahner,REP,130,37,93
+Marion,Indiana,County Board of Supervisors,,Kisha Jahner,REP,285,56,229
+Marion,Knoxville Four/Knoxville School,County Board of Supervisors,,Kisha Jahner,REP,478,182,296
+Marion,Knoxville One/Knoxville School,County Board of Supervisors,,Kisha Jahner,REP,507,216,291
+Marion,Knoxville Three/Knoxville School,County Board of Supervisors,,Kisha Jahner,REP,768,297,471
+Marion,Knoxville Township,County Board of Supervisors,,Kisha Jahner,REP,1219,516,703
+Marion,Knoxville Two/Knoxville School,County Board of Supervisors,,Kisha Jahner,REP,524,186,338
+Marion,Lake Prairie,County Board of Supervisors,,Kisha Jahner,REP,1112,292,820
+Marion,Liberty,County Board of Supervisors,,Kisha Jahner,REP,312,51,261
+Marion,Otley,County Board of Supervisors,,Kisha Jahner,REP,986,297,689
+Marion,Pella Four,County Board of Supervisors,,Kisha Jahner,REP,856,196,660
+Marion,Pella One,County Board of Supervisors,,Kisha Jahner,REP,1023,229,794
+Marion,Pella Three,County Board of Supervisors,,Kisha Jahner,REP,1209,253,956
+Marion,Pella Two,County Board of Supervisors,,Kisha Jahner,REP,1112,280,832
+Marion,Pleasantville,County Board of Supervisors,,Kisha Jahner,REP,976,200,776
+Marion,Union,County Board of Supervisors,,Kisha Jahner,REP,163,68,95
+Marion,Washington,County Board of Supervisors,,Kisha Jahner,REP,218,35,183
+Marion,Clay,County Board of Supervisors,,Write-In,,6,0,6
+Marion,Dallas,County Board of Supervisors,,Write-In,,18,2,16
+Marion,Franklin,County Board of Supervisors,,Write-In,,3,1,2
+Marion,Indiana,County Board of Supervisors,,Write-In,,3,2,1
+Marion,Knoxville Four/Knoxville School,County Board of Supervisors,,Write-In,,16,2,14
+Marion,Knoxville One/Knoxville School,County Board of Supervisors,,Write-In,,16,3,13
+Marion,Knoxville Three/Knoxville School,County Board of Supervisors,,Write-In,,29,3,26
+Marion,Knoxville Township,County Board of Supervisors,,Write-In,,28,9,19
+Marion,Knoxville Two/Knoxville School,County Board of Supervisors,,Write-In,,19,6,13
+Marion,Lake Prairie,County Board of Supervisors,,Write-In,,13,5,8
+Marion,Liberty,County Board of Supervisors,,Write-In,,7,1,6
+Marion,Otley,County Board of Supervisors,,Write-In,,14,2,12
+Marion,Pella Four,County Board of Supervisors,,Write-In,,18,2,16
+Marion,Pella One,County Board of Supervisors,,Write-In,,22,4,18
+Marion,Pella Three,County Board of Supervisors,,Write-In,,20,6,14
+Marion,Pella Two,County Board of Supervisors,,Write-In,,26,5,21
+Marion,Pleasantville,County Board of Supervisors,,Write-In,,16,4,12
+Marion,Union,County Board of Supervisors,,Write-In,,5,1,4
+Marion,Washington,County Board of Supervisors,,Write-In,,2,0,2
+Marion,Clay,County Recorder,,Naomi E. Ellis,REP,371,71,300
+Marion,Dallas,County Recorder,,Naomi E. Ellis,REP,484,82,402
+Marion,Franklin,County Recorder,,Naomi E. Ellis,REP,133,39,94
+Marion,Indiana,County Recorder,,Naomi E. Ellis,REP,288,59,229
+Marion,Knoxville Four/Knoxville School,County Recorder,,Naomi E. Ellis,REP,498,190,308
+Marion,Knoxville One/Knoxville School,County Recorder,,Naomi E. Ellis,REP,513,217,296
+Marion,Knoxville Three/Knoxville School,County Recorder,,Naomi E. Ellis,REP,773,282,491
+Marion,Knoxville Township,County Recorder,,Naomi E. Ellis,REP,1234,517,717
+Marion,Knoxville Two/Knoxville School,County Recorder,,Naomi E. Ellis,REP,524,180,344
+Marion,Lake Prairie,County Recorder,,Naomi E. Ellis,REP,1111,293,818
+Marion,Liberty,County Recorder,,Naomi E. Ellis,REP,314,50,264
+Marion,Otley,County Recorder,,Naomi E. Ellis,REP,988,297,691
+Marion,Pella Four,County Recorder,,Naomi E. Ellis,REP,858,196,662
+Marion,Pella One,County Recorder,,Naomi E. Ellis,REP,1029,234,795
+Marion,Pella Three,County Recorder,,Naomi E. Ellis,REP,1217,253,964
+Marion,Pella Two,County Recorder,,Naomi E. Ellis,REP,1109,277,832
+Marion,Pleasantville,County Recorder,,Naomi E. Ellis,REP,978,201,777
+Marion,Union,County Recorder,,Naomi E. Ellis,REP,168,67,101
+Marion,Washington,County Recorder,,Naomi E. Ellis,REP,216,33,183
+Marion,Clay,County Recorder,,Write-In,,4,0,4
+Marion,Dallas,County Recorder,,Write-In,,9,1,8
+Marion,Franklin,County Recorder,,Write-In,,1,1,0
+Marion,Indiana,County Recorder,,Write-In,,2,2,0
+Marion,Knoxville Four/Knoxville School,County Recorder,,Write-In,,7,1,6
+Marion,Knoxville One/Knoxville School,County Recorder,,Write-In,,12,3,9
+Marion,Knoxville Three/Knoxville School,County Recorder,,Write-In,,10,3,7
+Marion,Knoxville Township,County Recorder,,Write-In,,8,1,7
+Marion,Knoxville Two/Knoxville School,County Recorder,,Write-In,,9,3,6
+Marion,Lake Prairie,County Recorder,,Write-In,,7,1,6
+Marion,Liberty,County Recorder,,Write-In,,4,2,2
+Marion,Otley,County Recorder,,Write-In,,13,3,10
+Marion,Pella Four,County Recorder,,Write-In,,12,1,11
+Marion,Pella One,County Recorder,,Write-In,,12,0,12
+Marion,Pella Three,County Recorder,,Write-In,,12,4,8
+Marion,Pella Two,County Recorder,,Write-In,,12,0,12
+Marion,Pleasantville,County Recorder,,Write-In,,13,3,10
+Marion,Union,County Recorder,,Write-In,,4,1,3
+Marion,Washington,County Recorder,,Write-In,,2,0,2
+Marion,Clay,County Treasurer,,Michaela Bigaouette,REP,376,77,299
+Marion,Dallas,County Treasurer,,Michaela Bigaouette,REP,497,85,412
+Marion,Franklin,County Treasurer,,Michaela Bigaouette,REP,137,41,96
+Marion,Indiana,County Treasurer,,Michaela Bigaouette,REP,285,58,227
+Marion,Knoxville Four/Knoxville School,County Treasurer,,Michaela Bigaouette,REP,514,200,314
+Marion,Knoxville One/Knoxville School,County Treasurer,,Michaela Bigaouette,REP,521,223,298
+Marion,Knoxville Three/Knoxville School,County Treasurer,,Michaela Bigaouette,REP,805,304,501
+Marion,Knoxville Township,County Treasurer,,Michaela Bigaouette,REP,1263,535,728
+Marion,Knoxville Two/Knoxville School,County Treasurer,,Michaela Bigaouette,REP,535,187,348
+Marion,Lake Prairie,County Treasurer,,Michaela Bigaouette,REP,1131,306,825
+Marion,Liberty,County Treasurer,,Michaela Bigaouette,REP,319,51,268
+Marion,Otley,County Treasurer,,Michaela Bigaouette,REP,1009,311,698
+Marion,Pella Four,County Treasurer,,Michaela Bigaouette,REP,864,199,665
+Marion,Pella One,County Treasurer,,Michaela Bigaouette,REP,1041,236,805
+Marion,Pella Three,County Treasurer,,Michaela Bigaouette,REP,1245,268,977
+Marion,Pella Two,County Treasurer,,Michaela Bigaouette,REP,1129,293,836
+Marion,Pleasantville,County Treasurer,,Michaela Bigaouette,REP,995,215,780
+Marion,Union,County Treasurer,,Michaela Bigaouette,REP,168,69,99
+Marion,Washington,County Treasurer,,Michaela Bigaouette,REP,223,37,186
+Marion,Clay,County Treasurer,,Write-In,,8,0,8
+Marion,Dallas,County Treasurer,,Write-In,,13,2,11
+Marion,Franklin,County Treasurer,,Write-In,,1,1,0
+Marion,Indiana,County Treasurer,,Write-In,,2,2,0
+Marion,Knoxville Four/Knoxville School,County Treasurer,,Write-In,,7,0,7
+Marion,Knoxville One/Knoxville School,County Treasurer,,Write-In,,12,3,9
+Marion,Knoxville Three/Knoxville School,County Treasurer,,Write-In,,10,0,10
+Marion,Knoxville Township,County Treasurer,,Write-In,,6,0,6
+Marion,Knoxville Two/Knoxville School,County Treasurer,,Write-In,,11,4,7
+Marion,Lake Prairie,County Treasurer,,Write-In,,8,1,7
+Marion,Liberty,County Treasurer,,Write-In,,6,2,4
+Marion,Otley,County Treasurer,,Write-In,,10,2,8
+Marion,Pella Four,County Treasurer,,Write-In,,12,1,11
+Marion,Pella One,County Treasurer,,Write-In,,14,2,12
+Marion,Pella Three,County Treasurer,,Write-In,,11,3,8
+Marion,Pella Two,County Treasurer,,Write-In,,13,1,12
+Marion,Pleasantville,County Treasurer,,Write-In,,13,2,11
+Marion,Union,County Treasurer,,Write-In,,5,1,4
+Marion,Washington,County Treasurer,,Write-In,,3,0,3
+Marion,Clay,Court of Appeals Judge - John M. Sandy,,No,,98,14,84
+Marion,Dallas,Court of Appeals Judge - John M. Sandy,,No,,174,31,143
+Marion,Franklin,Court of Appeals Judge - John M. Sandy,,No,,48,18,30
+Marion,Indiana,Court of Appeals Judge - John M. Sandy,,No,,93,23,70
+Marion,Knoxville Four/Knoxville School,Court of Appeals Judge - John M. Sandy,,No,,136,35,101
+Marion,Knoxville One/Knoxville School,Court of Appeals Judge - John M. Sandy,,No,,138,59,79
+Marion,Knoxville Three/Knoxville School,Court of Appeals Judge - John M. Sandy,,No,,218,85,133
+Marion,Knoxville Township,Court of Appeals Judge - John M. Sandy,,No,,276,108,168
+Marion,Knoxville Two/Knoxville School,Court of Appeals Judge - John M. Sandy,,No,,119,40,79
+Marion,Lake Prairie,Court of Appeals Judge - John M. Sandy,,No,,175,37,138
+Marion,Liberty,Court of Appeals Judge - John M. Sandy,,No,,71,7,64
+Marion,Otley,Court of Appeals Judge - John M. Sandy,,No,,193,50,143
+Marion,Pella Four,Court of Appeals Judge - John M. Sandy,,No,,147,34,113
+Marion,Pella One,Court of Appeals Judge - John M. Sandy,,No,,188,43,145
+Marion,Pella Three,Court of Appeals Judge - John M. Sandy,,No,,210,59,151
+Marion,Pella Two,Court of Appeals Judge - John M. Sandy,,No,,234,73,161
+Marion,Pleasantville,Court of Appeals Judge - John M. Sandy,,No,,285,81,204
+Marion,Union,Court of Appeals Judge - John M. Sandy,,No,,56,29,27
+Marion,Washington,Court of Appeals Judge - John M. Sandy,,No,,65,14,51
+Marion,Clay,Court of Appeals Judge - John M. Sandy,,Yes,,223,47,176
+Marion,Dallas,Court of Appeals Judge - John M. Sandy,,Yes,,310,55,255
+Marion,Franklin,Court of Appeals Judge - John M. Sandy,,Yes,,80,23,57
+Marion,Indiana,Court of Appeals Judge - John M. Sandy,,Yes,,169,44,125
+Marion,Knoxville Four/Knoxville School,Court of Appeals Judge - John M. Sandy,,Yes,,310,123,187
+Marion,Knoxville One/Knoxville School,Court of Appeals Judge - John M. Sandy,,Yes,,334,131,203
+Marion,Knoxville Three/Knoxville School,Court of Appeals Judge - John M. Sandy,,Yes,,507,182,325
+Marion,Knoxville Township,Court of Appeals Judge - John M. Sandy,,Yes,,775,331,444
+Marion,Knoxville Two/Knoxville School,Court of Appeals Judge - John M. Sandy,,Yes,,348,132,216
+Marion,Lake Prairie,Court of Appeals Judge - John M. Sandy,,Yes,,737,179,558
+Marion,Liberty,Court of Appeals Judge - John M. Sandy,,Yes,,190,30,160
+Marion,Otley,Court of Appeals Judge - John M. Sandy,,Yes,,682,217,465
+Marion,Pella Four,Court of Appeals Judge - John M. Sandy,,Yes,,582,138,444
+Marion,Pella One,Court of Appeals Judge - John M. Sandy,,Yes,,697,161,536
+Marion,Pella Three,Court of Appeals Judge - John M. Sandy,,Yes,,868,203,665
+Marion,Pella Two,Court of Appeals Judge - John M. Sandy,,Yes,,745,183,562
+Marion,Pleasantville,Court of Appeals Judge - John M. Sandy,,Yes,,605,134,471
+Marion,Union,Court of Appeals Judge - John M. Sandy,,Yes,,99,42,57
+Marion,Washington,Court of Appeals Judge - John M. Sandy,,Yes,,112,15,97
+Marion,Clay,Court of Appeals Judge - Julie A. Schumacher,,No,,91,15,76
+Marion,Dallas,Court of Appeals Judge - Julie A. Schumacher,,No,,176,30,146
+Marion,Franklin,Court of Appeals Judge - Julie A. Schumacher,,No,,43,17,26
+Marion,Indiana,Court of Appeals Judge - Julie A. Schumacher,,No,,94,23,71
+Marion,Knoxville Four/Knoxville School,Court of Appeals Judge - Julie A. Schumacher,,No,,126,30,96
+Marion,Knoxville One/Knoxville School,Court of Appeals Judge - Julie A. Schumacher,,No,,130,59,71
+Marion,Knoxville Three/Knoxville School,Court of Appeals Judge - Julie A. Schumacher,,No,,202,76,126
+Marion,Knoxville Township,Court of Appeals Judge - Julie A. Schumacher,,No,,278,104,174
+Marion,Knoxville Two/Knoxville School,Court of Appeals Judge - Julie A. Schumacher,,No,,110,36,74
+Marion,Lake Prairie,Court of Appeals Judge - Julie A. Schumacher,,No,,189,35,154
+Marion,Liberty,Court of Appeals Judge - Julie A. Schumacher,,No,,74,8,66
+Marion,Otley,Court of Appeals Judge - Julie A. Schumacher,,No,,195,48,147
+Marion,Pella Four,Court of Appeals Judge - Julie A. Schumacher,,No,,139,34,105
+Marion,Pella One,Court of Appeals Judge - Julie A. Schumacher,,No,,195,43,152
+Marion,Pella Three,Court of Appeals Judge - Julie A. Schumacher,,No,,205,55,150
+Marion,Pella Two,Court of Appeals Judge - Julie A. Schumacher,,No,,222,60,162
+Marion,Pleasantville,Court of Appeals Judge - Julie A. Schumacher,,No,,263,79,184
+Marion,Union,Court of Appeals Judge - Julie A. Schumacher,,No,,51,26,25
+Marion,Washington,Court of Appeals Judge - Julie A. Schumacher,,No,,61,13,48
+Marion,Clay,Court of Appeals Judge - Julie A. Schumacher,,Yes,,229,46,183
+Marion,Dallas,Court of Appeals Judge - Julie A. Schumacher,,Yes,,302,51,251
+Marion,Franklin,Court of Appeals Judge - Julie A. Schumacher,,Yes,,83,24,59
+Marion,Indiana,Court of Appeals Judge - Julie A. Schumacher,,Yes,,168,44,124
+Marion,Knoxville Four/Knoxville School,Court of Appeals Judge - Julie A. Schumacher,,Yes,,320,129,191
+Marion,Knoxville One/Knoxville School,Court of Appeals Judge - Julie A. Schumacher,,Yes,,345,137,208
+Marion,Knoxville Three/Knoxville School,Court of Appeals Judge - Julie A. Schumacher,,Yes,,527,190,337
+Marion,Knoxville Township,Court of Appeals Judge - Julie A. Schumacher,,Yes,,764,332,432
+Marion,Knoxville Two/Knoxville School,Court of Appeals Judge - Julie A. Schumacher,,Yes,,364,140,224
+Marion,Lake Prairie,Court of Appeals Judge - Julie A. Schumacher,,Yes,,722,179,543
+Marion,Liberty,Court of Appeals Judge - Julie A. Schumacher,,Yes,,184,29,155
+Marion,Otley,Court of Appeals Judge - Julie A. Schumacher,,Yes,,682,221,461
+Marion,Pella Four,Court of Appeals Judge - Julie A. Schumacher,,Yes,,591,141,450
+Marion,Pella One,Court of Appeals Judge - Julie A. Schumacher,,Yes,,680,157,523
+Marion,Pella Three,Court of Appeals Judge - Julie A. Schumacher,,Yes,,867,204,663
+Marion,Pella Two,Court of Appeals Judge - Julie A. Schumacher,,Yes,,762,198,564
+Marion,Pleasantville,Court of Appeals Judge - Julie A. Schumacher,,Yes,,637,141,496
+Marion,Union,Court of Appeals Judge - Julie A. Schumacher,,Yes,,108,47,61
+Marion,Washington,Court of Appeals Judge - Julie A. Schumacher,,Yes,,117,18,99
+Marion,Clay,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,102,20,82
+Marion,Dallas,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,194,31,163
+Marion,Franklin,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,50,18,32
+Marion,Indiana,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,99,25,74
+Marion,Knoxville Four/Knoxville School,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,144,35,109
+Marion,Knoxville One/Knoxville School,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,142,60,82
+Marion,Knoxville Three/Knoxville School,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,216,80,136
+Marion,Knoxville Township,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,318,116,202
+Marion,Knoxville Two/Knoxville School,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,131,47,84
+Marion,Lake Prairie,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,231,49,182
+Marion,Liberty,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,85,12,73
+Marion,Otley,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,245,57,188
+Marion,Pella Four,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,181,46,135
+Marion,Pella One,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,224,43,181
+Marion,Pella Three,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,260,63,197
+Marion,Pella Two,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,275,69,206
+Marion,Pleasantville,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,314,80,234
+Marion,Union,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,63,32,31
+Marion,Washington,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,71,16,55
+Marion,Clay,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,212,38,174
+Marion,Dallas,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,286,52,234
+Marion,Franklin,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,78,24,54
+Marion,Indiana,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,162,42,120
+Marion,Knoxville Four/Knoxville School,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,297,120,177
+Marion,Knoxville One/Knoxville School,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,324,131,193
+Marion,Knoxville Three/Knoxville School,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,499,180,319
+Marion,Knoxville Township,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,709,304,405
+Marion,Knoxville Two/Knoxville School,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,331,124,207
+Marion,Lake Prairie,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,679,163,516
+Marion,Liberty,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,170,25,145
+Marion,Otley,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,626,211,415
+Marion,Pella Four,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,548,129,419
+Marion,Pella One,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,647,157,490
+Marion,Pella Three,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,814,196,618
+Marion,Pella Two,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,702,187,515
+Marion,Pleasantville,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,579,135,444
+Marion,Union,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,93,39,54
+Marion,Washington,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,106,13,93
+Marion,Dallas,Dallas Township Clerk,,Write-In,,23,2,21
+Marion,Dallas,Dallas Township Trustee,,Write-In,,26,3,23
+Marion,Clay,District 5A Associate Judge - Mark F. Schlenker,,No,,97,17,80
+Marion,Dallas,District 5A Associate Judge - Mark F. Schlenker,,No,,173,29,144
+Marion,Franklin,District 5A Associate Judge - Mark F. Schlenker,,No,,53,23,30
+Marion,Indiana,District 5A Associate Judge - Mark F. Schlenker,,No,,87,18,69
+Marion,Knoxville Four/Knoxville School,District 5A Associate Judge - Mark F. Schlenker,,No,,133,35,98
+Marion,Knoxville One/Knoxville School,District 5A Associate Judge - Mark F. Schlenker,,No,,153,64,89
+Marion,Knoxville Three/Knoxville School,District 5A Associate Judge - Mark F. Schlenker,,No,,228,82,146
+Marion,Knoxville Township,District 5A Associate Judge - Mark F. Schlenker,,No,,304,121,183
+Marion,Knoxville Two/Knoxville School,District 5A Associate Judge - Mark F. Schlenker,,No,,131,48,83
+Marion,Lake Prairie,District 5A Associate Judge - Mark F. Schlenker,,No,,212,43,169
+Marion,Liberty,District 5A Associate Judge - Mark F. Schlenker,,No,,82,10,72
+Marion,Otley,District 5A Associate Judge - Mark F. Schlenker,,No,,212,59,153
+Marion,Pella Four,District 5A Associate Judge - Mark F. Schlenker,,No,,159,39,120
+Marion,Pella One,District 5A Associate Judge - Mark F. Schlenker,,No,,204,41,163
+Marion,Pella Three,District 5A Associate Judge - Mark F. Schlenker,,No,,247,64,183
+Marion,Pella Two,District 5A Associate Judge - Mark F. Schlenker,,No,,269,83,186
+Marion,Pleasantville,District 5A Associate Judge - Mark F. Schlenker,,No,,307,79,228
+Marion,Union,District 5A Associate Judge - Mark F. Schlenker,,No,,55,27,28
+Marion,Washington,District 5A Associate Judge - Mark F. Schlenker,,No,,62,15,47
+Marion,Clay,District 5A Associate Judge - Mark F. Schlenker,,Yes,,216,41,175
+Marion,Dallas,District 5A Associate Judge - Mark F. Schlenker,,Yes,,302,55,247
+Marion,Franklin,District 5A Associate Judge - Mark F. Schlenker,,Yes,,74,18,56
+Marion,Indiana,District 5A Associate Judge - Mark F. Schlenker,,Yes,,167,41,126
+Marion,Knoxville Four/Knoxville School,District 5A Associate Judge - Mark F. Schlenker,,Yes,,299,117,182
+Marion,Knoxville One/Knoxville School,District 5A Associate Judge - Mark F. Schlenker,,Yes,,306,117,189
+Marion,Knoxville Three/Knoxville School,District 5A Associate Judge - Mark F. Schlenker,,Yes,,470,173,297
+Marion,Knoxville Township,District 5A Associate Judge - Mark F. Schlenker,,Yes,,711,299,412
+Marion,Knoxville Two/Knoxville School,District 5A Associate Judge - Mark F. Schlenker,,Yes,,332,127,205
+Marion,Lake Prairie,District 5A Associate Judge - Mark F. Schlenker,,Yes,,677,167,510
+Marion,Liberty,District 5A Associate Judge - Mark F. Schlenker,,Yes,,169,24,145
+Marion,Otley,District 5A Associate Judge - Mark F. Schlenker,,Yes,,640,197,443
+Marion,Pella Four,District 5A Associate Judge - Mark F. Schlenker,,Yes,,554,125,429
+Marion,Pella One,District 5A Associate Judge - Mark F. Schlenker,,Yes,,649,149,500
+Marion,Pella Three,District 5A Associate Judge - Mark F. Schlenker,,Yes,,812,190,622
+Marion,Pella Two,District 5A Associate Judge - Mark F. Schlenker,,Yes,,697,171,526
+Marion,Pleasantville,District 5A Associate Judge - Mark F. Schlenker,,Yes,,571,130,441
+Marion,Union,District 5A Associate Judge - Mark F. Schlenker,,Yes,,100,42,58
+Marion,Washington,District 5A Associate Judge - Mark F. Schlenker,,Yes,,109,15,94
+Marion,Clay,District 5A Associate Judge - Steven W. Guiter,,No,,97,16,81
+Marion,Dallas,District 5A Associate Judge - Steven W. Guiter,,No,,163,30,133
+Marion,Franklin,District 5A Associate Judge - Steven W. Guiter,,No,,39,14,25
+Marion,Indiana,District 5A Associate Judge - Steven W. Guiter,,No,,84,22,62
+Marion,Knoxville Four/Knoxville School,District 5A Associate Judge - Steven W. Guiter,,No,,115,32,83
+Marion,Knoxville One/Knoxville School,District 5A Associate Judge - Steven W. Guiter,,No,,105,37,68
+Marion,Knoxville Three/Knoxville School,District 5A Associate Judge - Steven W. Guiter,,No,,195,72,123
+Marion,Knoxville Township,District 5A Associate Judge - Steven W. Guiter,,No,,241,88,153
+Marion,Knoxville Two/Knoxville School,District 5A Associate Judge - Steven W. Guiter,,No,,99,35,64
+Marion,Lake Prairie,District 5A Associate Judge - Steven W. Guiter,,No,,178,42,136
+Marion,Liberty,District 5A Associate Judge - Steven W. Guiter,,No,,69,7,62
+Marion,Otley,District 5A Associate Judge - Steven W. Guiter,,No,,190,46,144
+Marion,Pella Four,District 5A Associate Judge - Steven W. Guiter,,No,,141,35,106
+Marion,Pella One,District 5A Associate Judge - Steven W. Guiter,,No,,188,42,146
+Marion,Pella Three,District 5A Associate Judge - Steven W. Guiter,,No,,202,51,151
+Marion,Pella Two,District 5A Associate Judge - Steven W. Guiter,,No,,215,62,153
+Marion,Pleasantville,District 5A Associate Judge - Steven W. Guiter,,No,,262,74,188
+Marion,Union,District 5A Associate Judge - Steven W. Guiter,,No,,50,25,25
+Marion,Washington,District 5A Associate Judge - Steven W. Guiter,,No,,52,13,39
+Marion,Clay,District 5A Associate Judge - Steven W. Guiter,,Yes,,236,48,188
+Marion,Dallas,District 5A Associate Judge - Steven W. Guiter,,Yes,,334,66,268
+Marion,Franklin,District 5A Associate Judge - Steven W. Guiter,,Yes,,92,31,61
+Marion,Indiana,District 5A Associate Judge - Steven W. Guiter,,Yes,,184,44,140
+Marion,Knoxville Four/Knoxville School,District 5A Associate Judge - Steven W. Guiter,,Yes,,366,147,219
+Marion,Knoxville One/Knoxville School,District 5A Associate Judge - Steven W. Guiter,,Yes,,405,175,230
+Marion,Knoxville Three/Knoxville School,District 5A Associate Judge - Steven W. Guiter,,Yes,,580,220,360
+Marion,Knoxville Township,District 5A Associate Judge - Steven W. Guiter,,Yes,,887,397,490
+Marion,Knoxville Two/Knoxville School,District 5A Associate Judge - Steven W. Guiter,,Yes,,419,167,252
+Marion,Lake Prairie,District 5A Associate Judge - Steven W. Guiter,,Yes,,727,173,554
+Marion,Liberty,District 5A Associate Judge - Steven W. Guiter,,Yes,,197,31,166
+Marion,Otley,District 5A Associate Judge - Steven W. Guiter,,Yes,,680,216,464
+Marion,Pella Four,District 5A Associate Judge - Steven W. Guiter,,Yes,,587,136,451
+Marion,Pella One,District 5A Associate Judge - Steven W. Guiter,,Yes,,693,161,532
+Marion,Pella Three,District 5A Associate Judge - Steven W. Guiter,,Yes,,865,206,659
+Marion,Pella Two,District 5A Associate Judge - Steven W. Guiter,,Yes,,758,188,570
+Marion,Pleasantville,District 5A Associate Judge - Steven W. Guiter,,Yes,,644,150,494
+Marion,Union,District 5A Associate Judge - Steven W. Guiter,,Yes,,110,48,62
+Marion,Washington,District 5A Associate Judge - Steven W. Guiter,,Yes,,136,22,114
+Marion,Clay,District 5A Judge - Michael K. Jacobsen,,No,,94,11,83
+Marion,Dallas,District 5A Judge - Michael K. Jacobsen,,No,,181,29,152
+Marion,Franklin,District 5A Judge - Michael K. Jacobsen,,No,,48,18,30
+Marion,Indiana,District 5A Judge - Michael K. Jacobsen,,No,,86,22,64
+Marion,Knoxville Four/Knoxville School,District 5A Judge - Michael K. Jacobsen,,No,,122,29,93
+Marion,Knoxville One/Knoxville School,District 5A Judge - Michael K. Jacobsen,,No,,137,59,78
+Marion,Knoxville Three/Knoxville School,District 5A Judge - Michael K. Jacobsen,,No,,212,81,131
+Marion,Knoxville Township,District 5A Judge - Michael K. Jacobsen,,No,,289,111,178
+Marion,Knoxville Two/Knoxville School,District 5A Judge - Michael K. Jacobsen,,No,,115,39,76
+Marion,Lake Prairie,District 5A Judge - Michael K. Jacobsen,,No,,219,47,172
+Marion,Liberty,District 5A Judge - Michael K. Jacobsen,,No,,73,9,64
+Marion,Otley,District 5A Judge - Michael K. Jacobsen,,No,,245,61,184
+Marion,Pella Four,District 5A Judge - Michael K. Jacobsen,,No,,168,45,123
+Marion,Pella One,District 5A Judge - Michael K. Jacobsen,,No,,205,37,168
+Marion,Pella Three,District 5A Judge - Michael K. Jacobsen,,No,,228,53,175
+Marion,Pella Two,District 5A Judge - Michael K. Jacobsen,,No,,255,67,188
+Marion,Pleasantville,District 5A Judge - Michael K. Jacobsen,,No,,309,80,229
+Marion,Union,District 5A Judge - Michael K. Jacobsen,,No,,55,29,26
+Marion,Washington,District 5A Judge - Michael K. Jacobsen,,No,,66,14,52
+Marion,Clay,District 5A Judge - Michael K. Jacobsen,,Yes,,220,47,173
+Marion,Dallas,District 5A Judge - Michael K. Jacobsen,,Yes,,286,51,235
+Marion,Franklin,District 5A Judge - Michael K. Jacobsen,,Yes,,78,22,56
+Marion,Indiana,District 5A Judge - Michael K. Jacobsen,,Yes,,169,42,127
+Marion,Knoxville Four/Knoxville School,District 5A Judge - Michael K. Jacobsen,,Yes,,309,119,190
+Marion,Knoxville One/Knoxville School,District 5A Judge - Michael K. Jacobsen,,Yes,,324,125,199
+Marion,Knoxville Three/Knoxville School,District 5A Judge - Michael K. Jacobsen,,Yes,,487,173,314
+Marion,Knoxville Township,District 5A Judge - Michael K. Jacobsen,,Yes,,730,308,422
+Marion,Knoxville Two/Knoxville School,District 5A Judge - Michael K. Jacobsen,,Yes,,344,130,214
+Marion,Lake Prairie,District 5A Judge - Michael K. Jacobsen,,Yes,,674,165,509
+Marion,Liberty,District 5A Judge - Michael K. Jacobsen,,Yes,,179,25,154
+Marion,Otley,District 5A Judge - Michael K. Jacobsen,,Yes,,619,202,417
+Marion,Pella Four,District 5A Judge - Michael K. Jacobsen,,Yes,,555,123,432
+Marion,Pella One,District 5A Judge - Michael K. Jacobsen,,Yes,,659,157,502
+Marion,Pella Three,District 5A Judge - Michael K. Jacobsen,,Yes,,827,198,629
+Marion,Pella Two,District 5A Judge - Michael K. Jacobsen,,Yes,,718,185,533
+Marion,Pleasantville,District 5A Judge - Michael K. Jacobsen,,Yes,,573,130,443
+Marion,Union,District 5A Judge - Michael K. Jacobsen,,Yes,,103,42,61
+Marion,Washington,District 5A Judge - Michael K. Jacobsen,,Yes,,110,16,94
+Marion,Clay,District 5A Judge - Nicholas Bailey,,No,,85,11,74
+Marion,Dallas,District 5A Judge - Nicholas Bailey,,No,,180,28,152
+Marion,Franklin,District 5A Judge - Nicholas Bailey,,No,,43,15,28
+Marion,Indiana,District 5A Judge - Nicholas Bailey,,No,,88,22,66
+Marion,Knoxville Four/Knoxville School,District 5A Judge - Nicholas Bailey,,No,,131,32,99
+Marion,Knoxville One/Knoxville School,District 5A Judge - Nicholas Bailey,,No,,120,51,69
+Marion,Knoxville Three/Knoxville School,District 5A Judge - Nicholas Bailey,,No,,210,75,135
+Marion,Knoxville Township,District 5A Judge - Nicholas Bailey,,No,,258,96,162
+Marion,Knoxville Two/Knoxville School,District 5A Judge - Nicholas Bailey,,No,,107,37,70
+Marion,Lake Prairie,District 5A Judge - Nicholas Bailey,,No,,168,34,134
+Marion,Liberty,District 5A Judge - Nicholas Bailey,,No,,71,8,63
+Marion,Otley,District 5A Judge - Nicholas Bailey,,No,,184,46,138
+Marion,Pella Four,District 5A Judge - Nicholas Bailey,,No,,135,34,101
+Marion,Pella One,District 5A Judge - Nicholas Bailey,,No,,177,38,139
+Marion,Pella Three,District 5A Judge - Nicholas Bailey,,No,,186,47,139
+Marion,Pella Two,District 5A Judge - Nicholas Bailey,,No,,213,57,156
+Marion,Pleasantville,District 5A Judge - Nicholas Bailey,,No,,278,76,202
+Marion,Union,District 5A Judge - Nicholas Bailey,,No,,52,26,26
+Marion,Washington,District 5A Judge - Nicholas Bailey,,No,,54,12,42
+Marion,Clay,District 5A Judge - Nicholas Bailey,,Yes,,236,51,185
+Marion,Dallas,District 5A Judge - Nicholas Bailey,,Yes,,296,55,241
+Marion,Franklin,District 5A Judge - Nicholas Bailey,,Yes,,84,26,58
+Marion,Indiana,District 5A Judge - Nicholas Bailey,,Yes,,170,43,127
+Marion,Knoxville Four/Knoxville School,District 5A Judge - Nicholas Bailey,,Yes,,310,122,188
+Marion,Knoxville One/Knoxville School,District 5A Judge - Nicholas Bailey,,Yes,,346,135,211
+Marion,Knoxville Three/Knoxville School,District 5A Judge - Nicholas Bailey,,Yes,,497,179,318
+Marion,Knoxville Township,District 5A Judge - Nicholas Bailey,,Yes,,773,330,443
+Marion,Knoxville Two/Knoxville School,District 5A Judge - Nicholas Bailey,,Yes,,363,136,227
+Marion,Lake Prairie,District 5A Judge - Nicholas Bailey,,Yes,,731,177,554
+Marion,Liberty,District 5A Judge - Nicholas Bailey,,Yes,,192,28,164
+Marion,Otley,District 5A Judge - Nicholas Bailey,,Yes,,683,217,466
+Marion,Pella Four,District 5A Judge - Nicholas Bailey,,Yes,,590,135,455
+Marion,Pella One,District 5A Judge - Nicholas Bailey,,Yes,,692,158,534
+Marion,Pella Three,District 5A Judge - Nicholas Bailey,,Yes,,878,209,669
+Marion,Pella Two,District 5A Judge - Nicholas Bailey,,Yes,,758,195,563
+Marion,Pleasantville,District 5A Judge - Nicholas Bailey,,Yes,,612,135,477
+Marion,Union,District 5A Judge - Nicholas Bailey,,Yes,,103,44,59
+Marion,Washington,District 5A Judge - Nicholas Bailey,,Yes,,122,18,104
+Marion,Clay,District 5A Judge - Thomas P. Murphy,,No,,91,11,80
+Marion,Dallas,District 5A Judge - Thomas P. Murphy,,No,,176,30,146
+Marion,Franklin,District 5A Judge - Thomas P. Murphy,,No,,46,19,27
+Marion,Indiana,District 5A Judge - Thomas P. Murphy,,No,,95,22,73
+Marion,Knoxville Four/Knoxville School,District 5A Judge - Thomas P. Murphy,,No,,127,31,96
+Marion,Knoxville One/Knoxville School,District 5A Judge - Thomas P. Murphy,,No,,135,58,77
+Marion,Knoxville Three/Knoxville School,District 5A Judge - Thomas P. Murphy,,No,,204,74,130
+Marion,Knoxville Township,District 5A Judge - Thomas P. Murphy,,No,,267,98,169
+Marion,Knoxville Two/Knoxville School,District 5A Judge - Thomas P. Murphy,,No,,115,36,79
+Marion,Lake Prairie,District 5A Judge - Thomas P. Murphy,,No,,195,38,157
+Marion,Liberty,District 5A Judge - Thomas P. Murphy,,No,,74,9,65
+Marion,Otley,District 5A Judge - Thomas P. Murphy,,No,,204,51,153
+Marion,Pella Four,District 5A Judge - Thomas P. Murphy,,No,,141,35,106
+Marion,Pella One,District 5A Judge - Thomas P. Murphy,,No,,181,39,142
+Marion,Pella Three,District 5A Judge - Thomas P. Murphy,,No,,198,52,146
+Marion,Pella Two,District 5A Judge - Thomas P. Murphy,,No,,218,59,159
+Marion,Pleasantville,District 5A Judge - Thomas P. Murphy,,No,,274,72,202
+Marion,Union,District 5A Judge - Thomas P. Murphy,,No,,52,27,25
+Marion,Washington,District 5A Judge - Thomas P. Murphy,,No,,64,12,52
+Marion,Clay,District 5A Judge - Thomas P. Murphy,,Yes,,224,47,177
+Marion,Dallas,District 5A Judge - Thomas P. Murphy,,Yes,,295,52,243
+Marion,Franklin,District 5A Judge - Thomas P. Murphy,,Yes,,80,22,58
+Marion,Indiana,District 5A Judge - Thomas P. Murphy,,Yes,,161,42,119
+Marion,Knoxville Four/Knoxville School,District 5A Judge - Thomas P. Murphy,,Yes,,305,119,186
+Marion,Knoxville One/Knoxville School,District 5A Judge - Thomas P. Murphy,,Yes,,325,125,200
+Marion,Knoxville Three/Knoxville School,District 5A Judge - Thomas P. Murphy,,Yes,,500,179,321
+Marion,Knoxville Township,District 5A Judge - Thomas P. Murphy,,Yes,,758,327,431
+Marion,Knoxville Two/Knoxville School,District 5A Judge - Thomas P. Murphy,,Yes,,351,134,217
+Marion,Lake Prairie,District 5A Judge - Thomas P. Murphy,,Yes,,703,172,531
+Marion,Liberty,District 5A Judge - Thomas P. Murphy,,Yes,,184,26,158
+Marion,Otley,District 5A Judge - Thomas P. Murphy,,Yes,,650,207,443
+Marion,Pella Four,District 5A Judge - Thomas P. Murphy,,Yes,,580,134,446
+Marion,Pella One,District 5A Judge - Thomas P. Murphy,,Yes,,678,153,525
+Marion,Pella Three,District 5A Judge - Thomas P. Murphy,,Yes,,855,199,656
+Marion,Pella Two,District 5A Judge - Thomas P. Murphy,,Yes,,745,190,555
+Marion,Pleasantville,District 5A Judge - Thomas P. Murphy,,Yes,,610,136,474
+Marion,Union,District 5A Judge - Thomas P. Murphy,,Yes,,103,43,60
+Marion,Washington,District 5A Judge - Thomas P. Murphy,,Yes,,110,17,93
+Marion,Franklin,Franklin Township Clerk,,David Van Rheenen,,139,48,91
+Marion,Franklin,Franklin Township Clerk,,Write-In,,2,0,2
+Marion,Franklin,Franklin Township Trustee,,Steve Becker,,144,50,94
+Marion,Franklin,Franklin Township Trustee,,Write-In,,2,0,2
+Marion,Clay,Governor,,Rob Sand and Dave Muhlbauer,DEM,150,37,113
+Marion,Dallas,Governor,,Rob Sand and Dave Muhlbauer,DEM,308,69,239
+Marion,Franklin,Governor,,Rob Sand and Dave Muhlbauer,DEM,50,26,24
+Marion,Indiana,Governor,,Rob Sand and Dave Muhlbauer,DEM,142,58,84
+Marion,Knoxville Four/Knoxville School,Governor,,Rob Sand and Dave Muhlbauer,DEM,377,168,209
+Marion,Knoxville One/Knoxville School,Governor,,Rob Sand and Dave Muhlbauer,DEM,388,185,203
+Marion,Knoxville Three/Knoxville School,Governor,,Rob Sand and Dave Muhlbauer,DEM,603,281,322
+Marion,Knoxville Township,Governor,,Rob Sand and Dave Muhlbauer,DEM,649,365,284
+Marion,Knoxville Two/Knoxville School,Governor,,Rob Sand and Dave Muhlbauer,DEM,372,178,194
+Marion,Lake Prairie,Governor,,Rob Sand and Dave Muhlbauer,DEM,346,113,233
+Marion,Liberty,Governor,,Rob Sand and Dave Muhlbauer,DEM,137,23,114
+Marion,Otley,Governor,,Rob Sand and Dave Muhlbauer,DEM,470,193,277
+Marion,Pella Four,Governor,,Rob Sand and Dave Muhlbauer,DEM,447,115,332
+Marion,Pella One,Governor,,Rob Sand and Dave Muhlbauer,DEM,492,156,336
+Marion,Pella Three,Governor,,Rob Sand and Dave Muhlbauer,DEM,605,187,418
+Marion,Pella Two,Governor,,Rob Sand and Dave Muhlbauer,DEM,507,187,320
+Marion,Pleasantville,Governor,,Rob Sand and Dave Muhlbauer,DEM,624,216,408
+Marion,Union,Governor,,Rob Sand and Dave Muhlbauer,DEM,111,72,39
+Marion,Washington,Governor,,Rob Sand and Dave Muhlbauer,DEM,87,27,60
+Marion,Clay,Governor,,Write-In,,0,0,0
+Marion,Dallas,Governor,,Write-In,,2,1,1
+Marion,Franklin,Governor,,Write-In,,0,0,0
+Marion,Indiana,Governor,,Write-In,,0,0,0
+Marion,Knoxville Four/Knoxville School,Governor,,Write-In,,3,0,3
+Marion,Knoxville One/Knoxville School,Governor,,Write-In,,4,4,0
+Marion,Knoxville Three/Knoxville School,Governor,,Write-In,,2,1,1
+Marion,Knoxville Township,Governor,,Write-In,,3,0,3
+Marion,Knoxville Two/Knoxville School,Governor,,Write-In,,0,0,0
+Marion,Lake Prairie,Governor,,Write-In,,0,0,0
+Marion,Liberty,Governor,,Write-In,,2,0,2
+Marion,Otley,Governor,,Write-In,,3,0,3
+Marion,Pella Four,Governor,,Write-In,,1,0,1
+Marion,Pella One,Governor,,Write-In,,1,0,1
+Marion,Pella Three,Governor,,Write-In,,3,1,2
+Marion,Pella Two,Governor,,Write-In,,0,0,0
+Marion,Pleasantville,Governor,,Write-In,,3,0,3
+Marion,Union,Governor,,Write-In,,0,0,0
+Marion,Washington,Governor,,Write-In,,0,0,0
+Marion,Clay,Governor,,Zach Lahn and Derek Wulf,REP,282,51,231
+Marion,Dallas,Governor,,Zach Lahn and Derek Wulf,REP,340,64,276
+Marion,Franklin,Governor,,Zach Lahn and Derek Wulf,REP,118,37,81
+Marion,Indiana,Governor,,Zach Lahn and Derek Wulf,REP,209,37,172
+Marion,Knoxville Four/Knoxville School,Governor,,Zach Lahn and Derek Wulf,REP,259,96,163
+Marion,Knoxville One/Knoxville School,Governor,,Zach Lahn and Derek Wulf,REP,282,112,170
+Marion,Knoxville Three/Knoxville School,Governor,,Zach Lahn and Derek Wulf,REP,433,146,287
+Marion,Knoxville Township,Governor,,Zach Lahn and Derek Wulf,REP,889,347,542
+Marion,Knoxville Two/Knoxville School,Governor,,Zach Lahn and Derek Wulf,REP,319,93,226
+Marion,Lake Prairie,Governor,,Zach Lahn and Derek Wulf,REP,954,249,705
+Marion,Liberty,Governor,,Zach Lahn and Derek Wulf,REP,232,38,194
+Marion,Otley,Governor,,Zach Lahn and Derek Wulf,REP,757,220,537
+Marion,Pella Four,Governor,,Zach Lahn and Derek Wulf,REP,657,143,514
+Marion,Pella One,Governor,,Zach Lahn and Derek Wulf,REP,815,173,642
+Marion,Pella Three,Governor,,Zach Lahn and Derek Wulf,REP,972,202,770
+Marion,Pella Two,Governor,,Zach Lahn and Derek Wulf,REP,905,218,687
+Marion,Pleasantville,Governor,,Zach Lahn and Derek Wulf,REP,673,124,549
+Marion,Union,Governor,,Zach Lahn and Derek Wulf,REP,109,41,68
+Marion,Washington,Governor,,Zach Lahn and Derek Wulf,REP,169,23,146
+Marion,Indiana,Indiana Township Clerk,,Judy Uitermarkt,,283,64,219
+Marion,Indiana,Indiana Township Clerk,,Write-In,,7,2,5
+Marion,Indiana,Indiana Township Trustee,,Kevin Smith,,297,63,234
+Marion,Indiana,Indiana Township Trustee,,Write-In,,6,3,3
+Marion,Clay,Knoxville School - Public Measure ON,,No,,109,20,89
+Marion,Franklin,Knoxville School - Public Measure ON,,No,,1,1,0
+Marion,Indiana,Knoxville School - Public Measure ON,,No,,28,8,20
+Marion,Knoxville Four/Knoxville School,Knoxville School - Public Measure ON,,No,,315,145,170
+Marion,Knoxville One/Knoxville School,Knoxville School - Public Measure ON,,No,,366,168,198
+Marion,Knoxville Three/Knoxville School,Knoxville School - Public Measure ON,,No,,498,211,287
+Marion,Knoxville Township,Knoxville School - Public Measure ON,,No,,866,374,492
+Marion,Knoxville Two/Knoxville School,Knoxville School - Public Measure ON,,No,,347,134,213
+Marion,Lake Prairie,Knoxville School - Public Measure ON,,No,,0,0,0
+Marion,Otley,Knoxville School - Public Measure ON,,No,,30,19,11
+Marion,Union,Knoxville School - Public Measure ON,,No,,74,39,35
+Marion,Washington,Knoxville School - Public Measure ON,,No,,147,22,125
+Marion,Clay,Knoxville School - Public Measure ON,,Yes,,63,8,55
+Marion,Franklin,Knoxville School - Public Measure ON,,Yes,,4,1,3
+Marion,Indiana,Knoxville School - Public Measure ON,,Yes,,9,5,4
+Marion,Knoxville Four/Knoxville School,Knoxville School - Public Measure ON,,Yes,,324,122,202
+Marion,Knoxville One/Knoxville School,Knoxville School - Public Measure ON,,Yes,,305,132,173
+Marion,Knoxville Three/Knoxville School,Knoxville School - Public Measure ON,,Yes,,517,202,315
+Marion,Knoxville Township,Knoxville School - Public Measure ON,,Yes,,589,289,300
+Marion,Knoxville Two/Knoxville School,Knoxville School - Public Measure ON,,Yes,,327,128,199
+Marion,Lake Prairie,Knoxville School - Public Measure ON,,Yes,,0,0,0
+Marion,Otley,Knoxville School - Public Measure ON,,Yes,,36,21,15
+Marion,Union,Knoxville School - Public Measure ON,,Yes,,57,37,20
+Marion,Washington,Knoxville School - Public Measure ON,,Yes,,61,17,44
+Marion,Knoxville Township,Knoxville Township Clerk,,Lisa Seddon,,1123,471,652
+Marion,Knoxville Township,Knoxville Township Clerk,,Write-In,,8,1,7
+Marion,Knoxville Township,Knoxville Township Trustee,,Janet J. Ritchie,,1188,509,679
+Marion,Knoxville Township,Knoxville Township Trustee,,Write-In,,14,6,8
+Marion,Lake Prairie,Lake Prairie Township Clerk,,Dennis Fogle,,1009,261,748
+Marion,Lake Prairie,Lake Prairie Township Clerk,,Write-In,,3,0,3
+Marion,Lake Prairie,Lake Prairie Township Trustee,,Jason Harthoorn,,1074,282,792
+Marion,Lake Prairie,Lake Prairie Township Trustee,,Write-In,,7,1,6
+Marion,Liberty,Liberty Township Clerk,,Tiffani Weldon,,122,28,94
+Marion,Liberty,Liberty Township Clerk,,Write-In,,2,0,2
+Marion,Liberty,Liberty Township Trustee,,Write-In,,16,3,13
+Marion,Otley,PCM School - Public Measure LL,,No,,165,60,105
+Marion,Otley,PCM School - Public Measure LL,,Yes,,126,53,73
+Marion,Pleasantville,Pleasant Grove Township Clerk,,Ky Sage,,462,114,348
+Marion,Pleasantville,Pleasant Grove Township Clerk,,Write-In,,8,2,6
+Marion,Pleasantville,Pleasant Grove Township Trustee,,Blake Hilsabeck,,497,117,380
+Marion,Pleasantville,Pleasant Grove Township Trustee,,Write-In,,12,3,9
+Marion,Pleasantville,Pleasant Grove Township Trustee To Fill a Vacancy,,Aubrey Burress,,446,107,339
+Marion,Pleasantville,Pleasant Grove Township Trustee To Fill a Vacancy,,Write-In,,17,6,11
+Marion,Otley,Red Rock Township Clerk,,Angela Clark,,277,115,162
+Marion,Otley,Red Rock Township Clerk,,Write-In,,2,1,1
+Marion,Otley,Red Rock Township Trustee,,Michael R. Wood,,272,115,157
+Marion,Otley,Red Rock Township Trustee,,Write-In,,3,1,2
+Marion,Clay,Secretary of Agriculture,,Chris Jones,DEM,101,26,75
+Marion,Dallas,Secretary of Agriculture,,Chris Jones,DEM,249,62,187
+Marion,Franklin,Secretary of Agriculture,,Chris Jones,DEM,33,17,16
+Marion,Indiana,Secretary of Agriculture,,Chris Jones,DEM,115,47,68
+Marion,Knoxville Four/Knoxville School,Secretary of Agriculture,,Chris Jones,DEM,264,119,145
+Marion,Knoxville One/Knoxville School,Secretary of Agriculture,,Chris Jones,DEM,284,133,151
+Marion,Knoxville Three/Knoxville School,Secretary of Agriculture,,Chris Jones,DEM,479,226,253
+Marion,Knoxville Township,Secretary of Agriculture,,Chris Jones,DEM,465,262,203
+Marion,Knoxville Two/Knoxville School,Secretary of Agriculture,,Chris Jones,DEM,276,139,137
+Marion,Lake Prairie,Secretary of Agriculture,,Chris Jones,DEM,225,73,152
+Marion,Liberty,Secretary of Agriculture,,Chris Jones,DEM,92,22,70
+Marion,Otley,Secretary of Agriculture,,Chris Jones,DEM,324,140,184
+Marion,Pella Four,Secretary of Agriculture,,Chris Jones,DEM,343,93,250
+Marion,Pella One,Secretary of Agriculture,,Chris Jones,DEM,372,115,257
+Marion,Pella Three,Secretary of Agriculture,,Chris Jones,DEM,461,155,306
+Marion,Pella Two,Secretary of Agriculture,,Chris Jones,DEM,396,153,243
+Marion,Pleasantville,Secretary of Agriculture,,Chris Jones,DEM,465,171,294
+Marion,Union,Secretary of Agriculture,,Chris Jones,DEM,89,58,31
+Marion,Washington,Secretary of Agriculture,,Chris Jones,DEM,55,25,30
+Marion,Clay,Secretary of Agriculture,,Mike Naig,REP,320,60,260
+Marion,Dallas,Secretary of Agriculture,,Mike Naig,REP,395,70,325
+Marion,Franklin,Secretary of Agriculture,,Mike Naig,REP,128,42,86
+Marion,Indiana,Secretary of Agriculture,,Mike Naig,REP,233,46,187
+Marion,Knoxville Four/Knoxville School,Secretary of Agriculture,,Mike Naig,REP,337,128,209
+Marion,Knoxville One/Knoxville School,Secretary of Agriculture,,Mike Naig,REP,356,149,207
+Marion,Knoxville Three/Knoxville School,Secretary of Agriculture,,Mike Naig,REP,520,187,333
+Marion,Knoxville Township,Secretary of Agriculture,,Mike Naig,REP,1039,434,605
+Marion,Knoxville Two/Knoxville School,Secretary of Agriculture,,Mike Naig,REP,388,123,265
+Marion,Lake Prairie,Secretary of Agriculture,,Mike Naig,REP,1059,284,775
+Marion,Liberty,Secretary of Agriculture,,Mike Naig,REP,271,38,233
+Marion,Otley,Secretary of Agriculture,,Mike Naig,REP,879,263,616
+Marion,Pella Four,Secretary of Agriculture,,Mike Naig,REP,728,158,570
+Marion,Pella One,Secretary of Agriculture,,Mike Naig,REP,901,209,692
+Marion,Pella Three,Secretary of Agriculture,,Mike Naig,REP,1090,232,858
+Marion,Pella Two,Secretary of Agriculture,,Mike Naig,REP,980,243,737
+Marion,Pleasantville,Secretary of Agriculture,,Mike Naig,REP,794,165,629
+Marion,Union,Secretary of Agriculture,,Mike Naig,REP,132,55,77
+Marion,Washington,Secretary of Agriculture,,Mike Naig,REP,191,21,170
+Marion,Clay,Secretary of Agriculture,,Write-In,,1,1,0
+Marion,Dallas,Secretary of Agriculture,,Write-In,,0,0,0
+Marion,Franklin,Secretary of Agriculture,,Write-In,,0,0,0
+Marion,Indiana,Secretary of Agriculture,,Write-In,,0,0,0
+Marion,Knoxville Four/Knoxville School,Secretary of Agriculture,,Write-In,,2,0,2
+Marion,Knoxville One/Knoxville School,Secretary of Agriculture,,Write-In,,0,0,0
+Marion,Knoxville Three/Knoxville School,Secretary of Agriculture,,Write-In,,1,0,1
+Marion,Knoxville Township,Secretary of Agriculture,,Write-In,,2,0,2
+Marion,Knoxville Two/Knoxville School,Secretary of Agriculture,,Write-In,,2,1,1
+Marion,Lake Prairie,Secretary of Agriculture,,Write-In,,0,0,0
+Marion,Liberty,Secretary of Agriculture,,Write-In,,0,0,0
+Marion,Otley,Secretary of Agriculture,,Write-In,,1,0,1
+Marion,Pella Four,Secretary of Agriculture,,Write-In,,2,0,2
+Marion,Pella One,Secretary of Agriculture,,Write-In,,1,0,1
+Marion,Pella Three,Secretary of Agriculture,,Write-In,,0,0,0
+Marion,Pella Two,Secretary of Agriculture,,Write-In,,2,0,2
+Marion,Pleasantville,Secretary of Agriculture,,Write-In,,1,0,1
+Marion,Union,Secretary of Agriculture,,Write-In,,0,0,0
+Marion,Washington,Secretary of Agriculture,,Write-In,,2,0,2
+Marion,Clay,Secretary of State,,Paul D. Pate,REP,314,59,255
+Marion,Dallas,Secretary of State,,Paul D. Pate,REP,393,69,324
+Marion,Franklin,Secretary of State,,Paul D. Pate,REP,129,43,86
+Marion,Indiana,Secretary of State,,Paul D. Pate,REP,239,44,195
+Marion,Knoxville Four/Knoxville School,Secretary of State,,Paul D. Pate,REP,335,124,211
+Marion,Knoxville One/Knoxville School,Secretary of State,,Paul D. Pate,REP,365,148,217
+Marion,Knoxville Three/Knoxville School,Secretary of State,,Paul D. Pate,REP,538,189,349
+Marion,Knoxville Township,Secretary of State,,Paul D. Pate,REP,1035,427,608
+Marion,Knoxville Two/Knoxville School,Secretary of State,,Paul D. Pate,REP,400,132,268
+Marion,Lake Prairie,Secretary of State,,Paul D. Pate,REP,1048,283,765
+Marion,Liberty,Secretary of State,,Paul D. Pate,REP,270,43,227
+Marion,Otley,Secretary of State,,Paul D. Pate,REP,867,263,604
+Marion,Pella Four,Secretary of State,,Paul D. Pate,REP,729,162,567
+Marion,Pella One,Secretary of State,,Paul D. Pate,REP,902,205,697
+Marion,Pella Three,Secretary of State,,Paul D. Pate,REP,1086,233,853
+Marion,Pella Two,Secretary of State,,Paul D. Pate,REP,985,252,733
+Marion,Pleasantville,Secretary of State,,Paul D. Pate,REP,802,158,644
+Marion,Union,Secretary of State,,Paul D. Pate,REP,128,51,77
+Marion,Washington,Secretary of State,,Paul D. Pate,REP,192,24,168
+Marion,Clay,Secretary of State,,Ryan Peterman,DEM,109,28,81
+Marion,Dallas,Secretary of State,,Ryan Peterman,DEM,250,64,186
+Marion,Franklin,Secretary of State,,Ryan Peterman,DEM,37,19,18
+Marion,Indiana,Secretary of State,,Ryan Peterman,DEM,109,49,60
+Marion,Knoxville Four/Knoxville School,Secretary of State,,Ryan Peterman,DEM,268,123,145
+Marion,Knoxville One/Knoxville School,Secretary of State,,Ryan Peterman,DEM,288,142,146
+Marion,Knoxville Three/Knoxville School,Secretary of State,,Ryan Peterman,DEM,467,224,243
+Marion,Knoxville Township,Secretary of State,,Ryan Peterman,DEM,468,271,197
+Marion,Knoxville Two/Knoxville School,Secretary of State,,Ryan Peterman,DEM,268,130,138
+Marion,Lake Prairie,Secretary of State,,Ryan Peterman,DEM,233,75,158
+Marion,Liberty,Secretary of State,,Ryan Peterman,DEM,94,17,77
+Marion,Otley,Secretary of State,,Ryan Peterman,DEM,331,136,195
+Marion,Pella Four,Secretary of State,,Ryan Peterman,DEM,338,88,250
+Marion,Pella One,Secretary of State,,Ryan Peterman,DEM,369,118,251
+Marion,Pella Three,Secretary of State,,Ryan Peterman,DEM,461,156,305
+Marion,Pella Two,Secretary of State,,Ryan Peterman,DEM,392,146,246
+Marion,Pleasantville,Secretary of State,,Ryan Peterman,DEM,468,179,289
+Marion,Union,Secretary of State,,Ryan Peterman,DEM,92,62,30
+Marion,Washington,Secretary of State,,Ryan Peterman,DEM,60,24,36
+Marion,Clay,Secretary of State,,Write-In,,0,0,0
+Marion,Dallas,Secretary of State,,Write-In,,0,0,0
+Marion,Franklin,Secretary of State,,Write-In,,0,0,0
+Marion,Indiana,Secretary of State,,Write-In,,0,0,0
+Marion,Knoxville Four/Knoxville School,Secretary of State,,Write-In,,1,0,1
+Marion,Knoxville One/Knoxville School,Secretary of State,,Write-In,,0,0,0
+Marion,Knoxville Three/Knoxville School,Secretary of State,,Write-In,,1,0,1
+Marion,Knoxville Township,Secretary of State,,Write-In,,2,1,1
+Marion,Knoxville Two/Knoxville School,Secretary of State,,Write-In,,0,0,0
+Marion,Lake Prairie,Secretary of State,,Write-In,,1,0,1
+Marion,Liberty,Secretary of State,,Write-In,,0,0,0
+Marion,Otley,Secretary of State,,Write-In,,1,0,1
+Marion,Pella Four,Secretary of State,,Write-In,,1,0,1
+Marion,Pella One,Secretary of State,,Write-In,,1,0,1
+Marion,Pella Three,Secretary of State,,Write-In,,0,0,0
+Marion,Pella Two,Secretary of State,,Write-In,,1,0,1
+Marion,Pleasantville,Secretary of State,,Write-In,,1,0,1
+Marion,Union,Secretary of State,,Write-In,,0,0,0
+Marion,Washington,Secretary of State,,Write-In,,1,0,1
+Marion,Clay,Soil and Water Conservation District Commissioner,,Justin Petersen,,285,58,227
+Marion,Dallas,Soil and Water Conservation District Commissioner,,Justin Petersen,,463,78,385
+Marion,Franklin,Soil and Water Conservation District Commissioner,,Justin Petersen,,129,47,82
+Marion,Indiana,Soil and Water Conservation District Commissioner,,Justin Petersen,,252,59,193
+Marion,Knoxville Four/Knoxville School,Soil and Water Conservation District Commissioner,,Justin Petersen,,406,151,255
+Marion,Knoxville One/Knoxville School,Soil and Water Conservation District Commissioner,,Justin Petersen,,416,177,239
+Marion,Knoxville Three/Knoxville School,Soil and Water Conservation District Commissioner,,Justin Petersen,,634,233,401
+Marion,Knoxville Township,Soil and Water Conservation District Commissioner,,Justin Petersen,,994,417,577
+Marion,Knoxville Two/Knoxville School,Soil and Water Conservation District Commissioner,,Justin Petersen,,429,153,276
+Marion,Lake Prairie,Soil and Water Conservation District Commissioner,,Justin Petersen,,866,218,648
+Marion,Liberty,Soil and Water Conservation District Commissioner,,Justin Petersen,,247,39,208
+Marion,Otley,Soil and Water Conservation District Commissioner,,Justin Petersen,,766,227,539
+Marion,Pella Four,Soil and Water Conservation District Commissioner,,Justin Petersen,,645,151,494
+Marion,Pella One,Soil and Water Conservation District Commissioner,,Justin Petersen,,762,166,596
+Marion,Pella Three,Soil and Water Conservation District Commissioner,,Justin Petersen,,947,215,732
+Marion,Pella Two,Soil and Water Conservation District Commissioner,,Justin Petersen,,858,226,632
+Marion,Pleasantville,Soil and Water Conservation District Commissioner,,Justin Petersen,,755,174,581
+Marion,Union,Soil and Water Conservation District Commissioner,,Justin Petersen,,143,61,82
+Marion,Washington,Soil and Water Conservation District Commissioner,,Justin Petersen,,192,36,156
+Marion,Clay,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,240,48,192
+Marion,Dallas,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,321,62,259
+Marion,Franklin,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,109,37,72
+Marion,Indiana,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,203,47,156
+Marion,Knoxville Four/Knoxville School,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,354,133,221
+Marion,Knoxville One/Knoxville School,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,357,146,211
+Marion,Knoxville Three/Knoxville School,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,548,194,354
+Marion,Knoxville Township,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,835,365,470
+Marion,Knoxville Two/Knoxville School,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,376,145,231
+Marion,Lake Prairie,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,781,204,577
+Marion,Liberty,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,208,33,175
+Marion,Otley,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,709,207,502
+Marion,Pella Four,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,623,144,479
+Marion,Pella One,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,718,161,557
+Marion,Pella Three,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,907,213,694
+Marion,Pella Two,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,820,215,605
+Marion,Pleasantville,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,675,155,520
+Marion,Union,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,118,53,65
+Marion,Washington,Soil and Water Conservation District Commissioner,,Kelsey Willardson,,123,18,105
+Marion,Clay,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
+Marion,Dallas,Soil and Water Conservation District Commissioner,,Write-In,,11,2,9
+Marion,Franklin,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Marion,Indiana,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Marion,Knoxville Four/Knoxville School,Soil and Water Conservation District Commissioner,,Write-In,,8,0,8
+Marion,Knoxville One/Knoxville School,Soil and Water Conservation District Commissioner,,Write-In,,7,2,5
+Marion,Knoxville Three/Knoxville School,Soil and Water Conservation District Commissioner,,Write-In,,8,3,5
+Marion,Knoxville Township,Soil and Water Conservation District Commissioner,,Write-In,,15,7,8
+Marion,Knoxville Two/Knoxville School,Soil and Water Conservation District Commissioner,,Write-In,,14,1,13
+Marion,Lake Prairie,Soil and Water Conservation District Commissioner,,Write-In,,5,0,5
+Marion,Liberty,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Marion,Otley,Soil and Water Conservation District Commissioner,,Write-In,,12,4,8
+Marion,Pella Four,Soil and Water Conservation District Commissioner,,Write-In,,7,1,6
+Marion,Pella One,Soil and Water Conservation District Commissioner,,Write-In,,13,2,11
+Marion,Pella Three,Soil and Water Conservation District Commissioner,,Write-In,,6,1,5
+Marion,Pella Two,Soil and Water Conservation District Commissioner,,Write-In,,11,1,10
+Marion,Pleasantville,Soil and Water Conservation District Commissioner,,Write-In,,11,2,9
+Marion,Union,Soil and Water Conservation District Commissioner,,Write-In,,3,2,1
+Marion,Washington,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Marion,Franklin,State House,21,Brooke Boden,REP,119,35,84
+Marion,Knoxville Four/Knoxville School,State House,21,Brooke Boden,REP,305,113,192
+Marion,Knoxville One/Knoxville School,State House,21,Brooke Boden,REP,337,134,203
+Marion,Knoxville Three/Knoxville School,State House,21,Brooke Boden,REP,525,174,351
+Marion,Knoxville Township,State House,21,Brooke Boden,REP,994,400,594
+Marion,Knoxville Two/Knoxville School,State House,21,Brooke Boden,REP,375,118,257
+Marion,Union,State House,21,Brooke Boden,REP,126,49,77
+Marion,Franklin,State House,21,Spencer A. Waugh,DEM,40,24,16
+Marion,Knoxville Four/Knoxville School,State House,21,Spencer A. Waugh,DEM,310,140,170
+Marion,Knoxville One/Knoxville School,State House,21,Spencer A. Waugh,DEM,312,156,156
+Marion,Knoxville Three/Knoxville School,State House,21,Spencer A. Waugh,DEM,492,240,252
+Marion,Knoxville Township,State House,21,Spencer A. Waugh,DEM,511,300,211
+Marion,Knoxville Two/Knoxville School,State House,21,Spencer A. Waugh,DEM,297,144,153
+Marion,Union,State House,21,Spencer A. Waugh,DEM,91,63,28
+Marion,Franklin,State House,21,Write-In,,0,0,0
+Marion,Knoxville Four/Knoxville School,State House,21,Write-In,,1,0,1
+Marion,Knoxville One/Knoxville School,State House,21,Write-In,,0,0,0
+Marion,Knoxville Three/Knoxville School,State House,21,Write-In,,1,1,0
+Marion,Knoxville Township,State House,21,Write-In,,0,0,0
+Marion,Knoxville Two/Knoxville School,State House,21,Write-In,,0,0,0
+Marion,Union,State House,21,Write-In,,0,0,0
+Marion,Clay,State House,37,Jason Sandholdt,REP,356,66,290
+Marion,Dallas,State House,37,Jason Sandholdt,REP,487,79,408
+Marion,Indiana,State House,37,Jason Sandholdt,REP,282,58,224
+Marion,Lake Prairie,State House,37,Jason Sandholdt,REP,1143,307,836
+Marion,Liberty,State House,37,Jason Sandholdt,REP,310,50,260
+Marion,Otley,State House,37,Jason Sandholdt,REP,1029,307,722
+Marion,Pella Four,State House,37,Jason Sandholdt,REP,887,203,684
+Marion,Pella One,State House,37,Jason Sandholdt,REP,1057,250,807
+Marion,Pella Three,State House,37,Jason Sandholdt,REP,1262,263,999
+Marion,Pella Two,State House,37,Jason Sandholdt,REP,1153,295,858
+Marion,Pleasantville,State House,37,Jason Sandholdt,REP,977,208,769
+Marion,Washington,State House,37,Jason Sandholdt,REP,213,31,182
+Marion,Clay,State House,37,Write-In,,9,1,8
+Marion,Dallas,State House,37,Write-In,,18,5,13
+Marion,Indiana,State House,37,Write-In,,5,2,3
+Marion,Lake Prairie,State House,37,Write-In,,13,3,10
+Marion,Liberty,State House,37,Write-In,,9,1,8
+Marion,Otley,State House,37,Write-In,,23,7,16
+Marion,Pella Four,State House,37,Write-In,,16,1,15
+Marion,Pella One,State House,37,Write-In,,20,2,18
+Marion,Pella Three,State House,37,Write-In,,21,8,13
+Marion,Pella Two,State House,37,Write-In,,23,3,20
+Marion,Pleasantville,State House,37,Write-In,,37,8,29
+Marion,Washington,State House,37,Write-In,,6,0,6
+Marion,Franklin,State Senate,11,Hollie Arlene Zajicek,REP,116,33,83
+Marion,Knoxville Four/Knoxville School,State Senate,11,Hollie Arlene Zajicek,REP,306,110,196
+Marion,Knoxville One/Knoxville School,State Senate,11,Hollie Arlene Zajicek,REP,330,125,205
+Marion,Knoxville Three/Knoxville School,State Senate,11,Hollie Arlene Zajicek,REP,491,161,330
+Marion,Knoxville Township,State Senate,11,Hollie Arlene Zajicek,REP,993,390,603
+Marion,Knoxville Two/Knoxville School,State Senate,11,Hollie Arlene Zajicek,REP,367,113,254
+Marion,Union,State Senate,11,Hollie Arlene Zajicek,REP,127,50,77
+Marion,Franklin,State Senate,11,Sinikka Waugh,DEM,44,26,18
+Marion,Knoxville Four/Knoxville School,State Senate,11,Sinikka Waugh,DEM,300,136,164
+Marion,Knoxville One/Knoxville School,State Senate,11,Sinikka Waugh,DEM,309,159,150
+Marion,Knoxville Three/Knoxville School,State Senate,11,Sinikka Waugh,DEM,503,243,260
+Marion,Knoxville Township,State Senate,11,Sinikka Waugh,DEM,493,298,195
+Marion,Knoxville Two/Knoxville School,State Senate,11,Sinikka Waugh,DEM,297,148,149
+Marion,Union,State Senate,11,Sinikka Waugh,DEM,91,61,30
+Marion,Franklin,State Senate,11,Write-In,,0,0,0
+Marion,Knoxville Four/Knoxville School,State Senate,11,Write-In,,1,0,1
+Marion,Knoxville One/Knoxville School,State Senate,11,Write-In,,0,0,0
+Marion,Knoxville Three/Knoxville School,State Senate,11,Write-In,,1,0,1
+Marion,Knoxville Township,State Senate,11,Write-In,,5,2,3
+Marion,Knoxville Two/Knoxville School,State Senate,11,Write-In,,2,0,2
+Marion,Union,State Senate,11,Write-In,,0,0,0
+Marion,Clay,State Senate,19,Barb Kniff McCulla,REP,307,53,254
+Marion,Dallas,State Senate,19,Barb Kniff McCulla,REP,356,64,292
+Marion,Indiana,State Senate,19,Barb Kniff McCulla,REP,223,41,182
+Marion,Lake Prairie,State Senate,19,Barb Kniff McCulla,REP,1046,277,769
+Marion,Liberty,State Senate,19,Barb Kniff McCulla,REP,249,38,211
+Marion,Otley,State Senate,19,Barb Kniff McCulla,REP,866,250,616
+Marion,Pella Four,State Senate,19,Barb Kniff McCulla,REP,740,162,578
+Marion,Pella One,State Senate,19,Barb Kniff McCulla,REP,904,210,694
+Marion,Pella Three,State Senate,19,Barb Kniff McCulla,REP,1077,229,848
+Marion,Pella Two,State Senate,19,Barb Kniff McCulla,REP,992,249,743
+Marion,Pleasantville,State Senate,19,Barb Kniff McCulla,REP,713,138,575
+Marion,Washington,State Senate,19,Barb Kniff McCulla,REP,178,21,157
+Marion,Clay,State Senate,19,Write-In,,0,0,0
+Marion,Dallas,State Senate,19,Write-In,,0,0,0
+Marion,Indiana,State Senate,19,Write-In,,1,0,1
+Marion,Lake Prairie,State Senate,19,Write-In,,1,0,1
+Marion,Liberty,State Senate,19,Write-In,,2,0,2
+Marion,Otley,State Senate,19,Write-In,,1,0,1
+Marion,Pella Four,State Senate,19,Write-In,,2,0,2
+Marion,Pella One,State Senate,19,Write-In,,2,0,2
+Marion,Pella Three,State Senate,19,Write-In,,1,0,1
+Marion,Pella Two,State Senate,19,Write-In,,2,0,2
+Marion,Pleasantville,State Senate,19,Write-In,,1,0,1
+Marion,Washington,State Senate,19,Write-In,,1,0,1
+Marion,Clay,State Senate,19,Zachary Mecham,DEM,115,31,84
+Marion,Dallas,State Senate,19,Zachary Mecham,DEM,282,68,214
+Marion,Indiana,State Senate,19,Zachary Mecham,DEM,121,53,68
+Marion,Lake Prairie,State Senate,19,Zachary Mecham,DEM,237,83,154
+Marion,Liberty,State Senate,19,Zachary Mecham,DEM,110,20,90
+Marion,Otley,State Senate,19,Zachary Mecham,DEM,334,151,183
+Marion,Pella Four,State Senate,19,Zachary Mecham,DEM,335,90,245
+Marion,Pella One,State Senate,19,Zachary Mecham,DEM,372,114,258
+Marion,Pella Three,State Senate,19,Zachary Mecham,DEM,463,158,305
+Marion,Pella Two,State Senate,19,Zachary Mecham,DEM,399,150,249
+Marion,Pleasantville,State Senate,19,Zachary Mecham,DEM,558,197,361
+Marion,Washington,State Senate,19,Zachary Mecham,DEM,69,27,42
+Marion,Otley,Summit Township Clerk,,JoAnn Van Wyk,,644,158,486
+Marion,Otley,Summit Township Clerk,,Write-In,,2,0,2
+Marion,Otley,Summit Township Trustee,,Doug De Haan,,685,177,508
+Marion,Otley,Summit Township Trustee,,Write-In,,4,2,2
+Marion,Clay,Treasurer of State,,John Norwood,DEM,115,32,83
+Marion,Dallas,Treasurer of State,,John Norwood,DEM,256,62,194
+Marion,Franklin,Treasurer of State,,John Norwood,DEM,44,24,20
+Marion,Indiana,Treasurer of State,,John Norwood,DEM,122,53,69
+Marion,Knoxville Four/Knoxville School,Treasurer of State,,John Norwood,DEM,285,133,152
+Marion,Knoxville One/Knoxville School,Treasurer of State,,John Norwood,DEM,307,150,157
+Marion,Knoxville Three/Knoxville School,Treasurer of State,,John Norwood,DEM,495,245,250
+Marion,Knoxville Township,Treasurer of State,,John Norwood,DEM,511,300,211
+Marion,Knoxville Two/Knoxville School,Treasurer of State,,John Norwood,DEM,285,147,138
+Marion,Lake Prairie,Treasurer of State,,John Norwood,DEM,253,84,169
+Marion,Liberty,Treasurer of State,,John Norwood,DEM,100,17,83
+Marion,Otley,Treasurer of State,,John Norwood,DEM,348,152,196
+Marion,Pella Four,Treasurer of State,,John Norwood,DEM,357,94,263
+Marion,Pella One,Treasurer of State,,John Norwood,DEM,403,135,268
+Marion,Pella Three,Treasurer of State,,John Norwood,DEM,493,168,325
+Marion,Pella Two,Treasurer of State,,John Norwood,DEM,425,159,266
+Marion,Pleasantville,Treasurer of State,,John Norwood,DEM,506,191,315
+Marion,Union,Treasurer of State,,John Norwood,DEM,98,64,34
+Marion,Washington,Treasurer of State,,John Norwood,DEM,67,27,40
+Marion,Clay,Treasurer of State,,Roby Smith,REP,304,55,249
+Marion,Dallas,Treasurer of State,,Roby Smith,REP,373,66,307
+Marion,Franklin,Treasurer of State,,Roby Smith,REP,118,35,83
+Marion,Indiana,Treasurer of State,,Roby Smith,REP,227,41,186
+Marion,Knoxville Four/Knoxville School,Treasurer of State,,Roby Smith,REP,314,111,203
+Marion,Knoxville One/Knoxville School,Treasurer of State,,Roby Smith,REP,331,132,199
+Marion,Knoxville Three/Knoxville School,Treasurer of State,,Roby Smith,REP,493,165,328
+Marion,Knoxville Township,Treasurer of State,,Roby Smith,REP,967,383,584
+Marion,Knoxville Two/Knoxville School,Treasurer of State,,Roby Smith,REP,372,113,259
+Marion,Lake Prairie,Treasurer of State,,Roby Smith,REP,1007,266,741
+Marion,Liberty,Treasurer of State,,Roby Smith,REP,260,42,218
+Marion,Otley,Treasurer of State,,Roby Smith,REP,831,243,588
+Marion,Pella Four,Treasurer of State,,Roby Smith,REP,684,149,535
+Marion,Pella One,Treasurer of State,,Roby Smith,REP,845,184,661
+Marion,Pella Three,Treasurer of State,,Roby Smith,REP,1034,216,818
+Marion,Pella Two,Treasurer of State,,Roby Smith,REP,938,227,711
+Marion,Pleasantville,Treasurer of State,,Roby Smith,REP,748,140,608
+Marion,Union,Treasurer of State,,Roby Smith,REP,120,47,73
+Marion,Washington,Treasurer of State,,Roby Smith,REP,179,20,159
+Marion,Clay,Treasurer of State,,Write-In,,1,0,1
+Marion,Dallas,Treasurer of State,,Write-In,,1,0,1
+Marion,Franklin,Treasurer of State,,Write-In,,0,0,0
+Marion,Indiana,Treasurer of State,,Write-In,,0,0,0
+Marion,Knoxville Four/Knoxville School,Treasurer of State,,Write-In,,1,0,1
+Marion,Knoxville One/Knoxville School,Treasurer of State,,Write-In,,0,0,0
+Marion,Knoxville Three/Knoxville School,Treasurer of State,,Write-In,,0,0,0
+Marion,Knoxville Township,Treasurer of State,,Write-In,,1,0,1
+Marion,Knoxville Two/Knoxville School,Treasurer of State,,Write-In,,2,1,1
+Marion,Lake Prairie,Treasurer of State,,Write-In,,0,0,0
+Marion,Liberty,Treasurer of State,,Write-In,,0,0,0
+Marion,Otley,Treasurer of State,,Write-In,,1,0,1
+Marion,Pella Four,Treasurer of State,,Write-In,,2,0,2
+Marion,Pella One,Treasurer of State,,Write-In,,1,0,1
+Marion,Pella Three,Treasurer of State,,Write-In,,0,0,0
+Marion,Pella Two,Treasurer of State,,Write-In,,0,0,0
+Marion,Pleasantville,Treasurer of State,,Write-In,,1,0,1
+Marion,Union,Treasurer of State,,Write-In,,0,0,0
+Marion,Washington,Treasurer of State,,Write-In,,1,0,1
+Marion,Clay,U.S. House,1,Christina Bohannan,DEM,123,34,89
+Marion,Dallas,U.S. House,1,Christina Bohannan,DEM,261,65,196
+Marion,Franklin,U.S. House,1,Christina Bohannan,DEM,42,23,19
+Marion,Indiana,U.S. House,1,Christina Bohannan,DEM,115,51,64
+Marion,Knoxville Four/Knoxville School,U.S. House,1,Christina Bohannan,DEM,308,142,166
+Marion,Knoxville One/Knoxville School,U.S. House,1,Christina Bohannan,DEM,307,150,157
+Marion,Knoxville Three/Knoxville School,U.S. House,1,Christina Bohannan,DEM,510,249,261
+Marion,Knoxville Township,U.S. House,1,Christina Bohannan,DEM,519,294,225
+Marion,Knoxville Two/Knoxville School,U.S. House,1,Christina Bohannan,DEM,293,151,142
+Marion,Lake Prairie,U.S. House,1,Christina Bohannan,DEM,271,88,183
+Marion,Liberty,U.S. House,1,Christina Bohannan,DEM,105,19,86
+Marion,Otley,U.S. House,1,Christina Bohannan,DEM,360,153,207
+Marion,Pella Four,U.S. House,1,Christina Bohannan,DEM,366,102,264
+Marion,Pella One,U.S. House,1,Christina Bohannan,DEM,431,141,290
+Marion,Pella Three,U.S. House,1,Christina Bohannan,DEM,533,165,368
+Marion,Pella Two,U.S. House,1,Christina Bohannan,DEM,433,167,266
+Marion,Pleasantville,U.S. House,1,Christina Bohannan,DEM,525,191,334
+Marion,Union,U.S. House,1,Christina Bohannan,DEM,95,66,29
+Marion,Washington,U.S. House,1,Christina Bohannan,DEM,67,27,40
+Marion,Clay,U.S. House,1,Mariannette Miller-Meeks,REP,285,50,235
+Marion,Dallas,U.S. House,1,Mariannette Miller-Meeks,REP,347,63,284
+Marion,Franklin,U.S. House,1,Mariannette Miller-Meeks,REP,114,34,80
+Marion,Indiana,U.S. House,1,Mariannette Miller-Meeks,REP,218,42,176
+Marion,Knoxville Four/Knoxville School,U.S. House,1,Mariannette Miller-Meeks,REP,282,105,177
+Marion,Knoxville One/Knoxville School,U.S. House,1,Mariannette Miller-Meeks,REP,299,123,176
+Marion,Knoxville Three/Knoxville School,U.S. House,1,Mariannette Miller-Meeks,REP,443,147,296
+Marion,Knoxville Township,U.S. House,1,Mariannette Miller-Meeks,REP,932,376,556
+Marion,Knoxville Two/Knoxville School,U.S. House,1,Mariannette Miller-Meeks,REP,343,102,241
+Marion,Lake Prairie,U.S. House,1,Mariannette Miller-Meeks,REP,976,256,720
+Marion,Liberty,U.S. House,1,Mariannette Miller-Meeks,REP,236,38,198
+Marion,Otley,U.S. House,1,Mariannette Miller-Meeks,REP,808,239,569
+Marion,Pella Four,U.S. House,1,Mariannette Miller-Meeks,REP,676,146,530
+Marion,Pella One,U.S. House,1,Mariannette Miller-Meeks,REP,813,174,639
+Marion,Pella Three,U.S. House,1,Mariannette Miller-Meeks,REP,986,208,778
+Marion,Pella Two,U.S. House,1,Mariannette Miller-Meeks,REP,898,213,685
+Marion,Pleasantville,U.S. House,1,Mariannette Miller-Meeks,REP,708,133,575
+Marion,Union,U.S. House,1,Mariannette Miller-Meeks,REP,119,47,72
+Marion,Washington,U.S. House,1,Mariannette Miller-Meeks,REP,175,21,154
+Marion,Clay,U.S. House,1,Michael Bridgford,,18,2,16
+Marion,Dallas,U.S. House,1,Michael Bridgford,,29,2,27
+Marion,Franklin,U.S. House,1,Michael Bridgford,,7,2,5
+Marion,Indiana,U.S. House,1,Michael Bridgford,,11,1,10
+Marion,Knoxville Four/Knoxville School,U.S. House,1,Michael Bridgford,,26,10,16
+Marion,Knoxville One/Knoxville School,U.S. House,1,Michael Bridgford,,47,17,30
+Marion,Knoxville Three/Knoxville School,U.S. House,1,Michael Bridgford,,46,14,32
+Marion,Knoxville Township,U.S. House,1,Michael Bridgford,,47,14,33
+Marion,Knoxville Two/Knoxville School,U.S. House,1,Michael Bridgford,,35,10,25
+Marion,Lake Prairie,U.S. House,1,Michael Bridgford,,32,8,24
+Marion,Liberty,U.S. House,1,Michael Bridgford,,22,1,21
+Marion,Otley,U.S. House,1,Michael Bridgford,,42,10,32
+Marion,Pella Four,U.S. House,1,Michael Bridgford,,44,7,37
+Marion,Pella One,U.S. House,1,Michael Bridgford,,35,6,29
+Marion,Pella Three,U.S. House,1,Michael Bridgford,,38,8,30
+Marion,Pella Two,U.S. House,1,Michael Bridgford,,48,13,35
+Marion,Pleasantville,U.S. House,1,Michael Bridgford,,47,8,39
+Marion,Union,U.S. House,1,Michael Bridgford,,6,0,6
+Marion,Washington,U.S. House,1,Michael Bridgford,,6,0,6
+Marion,Clay,U.S. House,1,Write-In,,0,0,0
+Marion,Dallas,U.S. House,1,Write-In,,1,1,0
+Marion,Franklin,U.S. House,1,Write-In,,0,0,0
+Marion,Indiana,U.S. House,1,Write-In,,0,0,0
+Marion,Knoxville Four/Knoxville School,U.S. House,1,Write-In,,2,0,2
+Marion,Knoxville One/Knoxville School,U.S. House,1,Write-In,,2,1,1
+Marion,Knoxville Three/Knoxville School,U.S. House,1,Write-In,,2,2,0
+Marion,Knoxville Township,U.S. House,1,Write-In,,0,0,0
+Marion,Knoxville Two/Knoxville School,U.S. House,1,Write-In,,1,0,1
+Marion,Lake Prairie,U.S. House,1,Write-In,,1,0,1
+Marion,Liberty,U.S. House,1,Write-In,,0,0,0
+Marion,Otley,U.S. House,1,Write-In,,1,0,1
+Marion,Pella Four,U.S. House,1,Write-In,,0,0,0
+Marion,Pella One,U.S. House,1,Write-In,,3,1,2
+Marion,Pella Three,U.S. House,1,Write-In,,0,0,0
+Marion,Pella Two,U.S. House,1,Write-In,,1,0,1
+Marion,Pleasantville,U.S. House,1,Write-In,,0,0,0
+Marion,Union,U.S. House,1,Write-In,,0,0,0
+Marion,Washington,U.S. House,1,Write-In,,1,0,1
+Marion,Clay,U.S. Senate,,Ashley Hinson,REP,292,51,241
+Marion,Dallas,U.S. Senate,,Ashley Hinson,REP,342,64,278
+Marion,Franklin,U.S. Senate,,Ashley Hinson,REP,115,34,81
+Marion,Indiana,U.S. Senate,,Ashley Hinson,REP,208,40,168
+Marion,Knoxville Four/Knoxville School,U.S. Senate,,Ashley Hinson,REP,284,108,176
+Marion,Knoxville One/Knoxville School,U.S. Senate,,Ashley Hinson,REP,302,123,179
+Marion,Knoxville Three/Knoxville School,U.S. Senate,,Ashley Hinson,REP,461,153,308
+Marion,Knoxville Township,U.S. Senate,,Ashley Hinson,REP,941,378,563
+Marion,Knoxville Two/Knoxville School,U.S. Senate,,Ashley Hinson,REP,349,107,242
+Marion,Lake Prairie,U.S. Senate,,Ashley Hinson,REP,966,256,710
+Marion,Liberty,U.S. Senate,,Ashley Hinson,REP,249,39,210
+Marion,Otley,U.S. Senate,,Ashley Hinson,REP,797,236,561
+Marion,Pella Four,U.S. Senate,,Ashley Hinson,REP,670,148,522
+Marion,Pella One,U.S. Senate,,Ashley Hinson,REP,809,175,634
+Marion,Pella Three,U.S. Senate,,Ashley Hinson,REP,979,204,775
+Marion,Pella Two,U.S. Senate,,Ashley Hinson,REP,885,212,673
+Marion,Pleasantville,U.S. Senate,,Ashley Hinson,REP,704,136,568
+Marion,Union,U.S. Senate,,Ashley Hinson,REP,115,45,70
+Marion,Washington,U.S. Senate,,Ashley Hinson,REP,177,22,155
+Marion,Clay,U.S. Senate,,Josh Turek,DEM,119,33,86
+Marion,Dallas,U.S. Senate,,Josh Turek,DEM,272,65,207
+Marion,Franklin,U.S. Senate,,Josh Turek,DEM,42,25,17
+Marion,Indiana,U.S. Senate,,Josh Turek,DEM,126,50,76
+Marion,Knoxville Four/Knoxville School,U.S. Senate,,Josh Turek,DEM,307,140,167
+Marion,Knoxville One/Knoxville School,U.S. Senate,,Josh Turek,DEM,311,152,159
+Marion,Knoxville Three/Knoxville School,U.S. Senate,,Josh Turek,DEM,512,251,261
+Marion,Knoxville Township,U.S. Senate,,Josh Turek,DEM,514,297,217
+Marion,Knoxville Two/Knoxville School,U.S. Senate,,Josh Turek,DEM,296,149,147
+Marion,Lake Prairie,U.S. Senate,,Josh Turek,DEM,286,91,195
+Marion,Liberty,U.S. Senate,,Josh Turek,DEM,93,16,77
+Marion,Otley,U.S. Senate,,Josh Turek,DEM,374,158,216
+Marion,Pella Four,U.S. Senate,,Josh Turek,DEM,391,104,287
+Marion,Pella One,U.S. Senate,,Josh Turek,DEM,435,139,296
+Marion,Pella Three,U.S. Senate,,Josh Turek,DEM,547,172,375
+Marion,Pella Two,U.S. Senate,,Josh Turek,DEM,452,165,287
+Marion,Pleasantville,U.S. Senate,,Josh Turek,DEM,533,188,345
+Marion,Union,U.S. Senate,,Josh Turek,DEM,98,65,33
+Marion,Washington,U.S. Senate,,Josh Turek,DEM,67,25,42
+Marion,Clay,U.S. Senate,,Thomas Laehn,LIB,13,3,10
+Marion,Dallas,U.S. Senate,,Thomas Laehn,LIB,29,2,27
+Marion,Franklin,U.S. Senate,,Thomas Laehn,LIB,8,2,6
+Marion,Indiana,U.S. Senate,,Thomas Laehn,LIB,11,4,7
+Marion,Knoxville Four/Knoxville School,U.S. Senate,,Thomas Laehn,LIB,27,9,18
+Marion,Knoxville One/Knoxville School,U.S. Senate,,Thomas Laehn,LIB,39,14,25
+Marion,Knoxville Three/Knoxville School,U.S. Senate,,Thomas Laehn,LIB,38,13,25
+Marion,Knoxville Township,U.S. Senate,,Thomas Laehn,LIB,52,13,39
+Marion,Knoxville Two/Knoxville School,U.S. Senate,,Thomas Laehn,LIB,28,5,23
+Marion,Lake Prairie,U.S. Senate,,Thomas Laehn,LIB,31,5,26
+Marion,Liberty,U.S. Senate,,Thomas Laehn,LIB,19,1,18
+Marion,Otley,U.S. Senate,,Thomas Laehn,LIB,42,9,33
+Marion,Pella Four,U.S. Senate,,Thomas Laehn,LIB,30,3,27
+Marion,Pella One,U.S. Senate,,Thomas Laehn,LIB,39,6,33
+Marion,Pella Three,U.S. Senate,,Thomas Laehn,LIB,30,6,24
+Marion,Pella Two,U.S. Senate,,Thomas Laehn,LIB,40,14,26
+Marion,Pleasantville,U.S. Senate,,Thomas Laehn,LIB,43,9,34
+Marion,Union,U.S. Senate,,Thomas Laehn,LIB,8,3,5
+Marion,Washington,U.S. Senate,,Thomas Laehn,LIB,7,1,6
+Marion,Clay,U.S. Senate,,Write-In,,0,0,0
+Marion,Dallas,U.S. Senate,,Write-In,,2,1,1
+Marion,Franklin,U.S. Senate,,Write-In,,0,0,0
+Marion,Indiana,U.S. Senate,,Write-In,,0,0,0
+Marion,Knoxville Four/Knoxville School,U.S. Senate,,Write-In,,1,0,1
+Marion,Knoxville One/Knoxville School,U.S. Senate,,Write-In,,1,0,1
+Marion,Knoxville Three/Knoxville School,U.S. Senate,,Write-In,,0,0,0
+Marion,Knoxville Township,U.S. Senate,,Write-In,,0,0,0
+Marion,Knoxville Two/Knoxville School,U.S. Senate,,Write-In,,0,0,0
+Marion,Lake Prairie,U.S. Senate,,Write-In,,0,0,0
+Marion,Liberty,U.S. Senate,,Write-In,,0,0,0
+Marion,Otley,U.S. Senate,,Write-In,,2,0,2
+Marion,Pella Four,U.S. Senate,,Write-In,,0,0,0
+Marion,Pella One,U.S. Senate,,Write-In,,1,0,1
+Marion,Pella Three,U.S. Senate,,Write-In,,0,0,0
+Marion,Pella Two,U.S. Senate,,Write-In,,2,0,2
+Marion,Pleasantville,U.S. Senate,,Write-In,,2,0,2
+Marion,Union,U.S. Senate,,Write-In,,0,0,0
+Marion,Washington,U.S. Senate,,Write-In,,0,0,0
+Marion,Union,Union Township Clerk,,Julie Derby,,164,70,94
+Marion,Union,Union Township Clerk,,Write-In,,1,1,0
+Marion,Union,Union Township Trustee,,Marion Friday,,163,68,95
+Marion,Union,Union Township Trustee,,Write-In,,3,1,2
+Marion,Washington,Washington Township Clerk,,Angie Heartsill,,205,34,171
+Marion,Washington,Washington Township Clerk,,Write-In,,1,0,1
+Marion,Washington,Washington Township Trustee,,Brad Heaberlin,,214,37,177
+Marion,Washington,Washington Township Trustee,,Write-In,,4,0,4

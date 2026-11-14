@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2026,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "attorney_general",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2026_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 181426,
+        "rep_votes": 158680,
+        "other_votes": 406,
+        "total_votes": 340512,
+        "dem_candidate": "Nate Willems",
+        "rep_candidate": "Brenna Bird",
+        "margin": -22746,
+        "margin_pct": -6.67994079503806,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "2": {
+        "dem_votes": 181538,
+        "rep_votes": 161234,
+        "other_votes": 324,
+        "total_votes": 343096,
+        "dem_candidate": "Nate Willems",
+        "rep_candidate": "Brenna Bird",
+        "margin": -20304,
+        "margin_pct": -5.917877212208828,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "3": {
+        "dem_votes": 193595,
+        "rep_votes": 157857,
+        "other_votes": 532,
+        "total_votes": 351984,
+        "dem_candidate": "Nate Willems",
+        "rep_candidate": "Brenna Bird",
+        "margin": -35738,
+        "margin_pct": -10.1533024228374,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "4": {
+        "dem_votes": 124686,
+        "rep_votes": 179836,
+        "other_votes": 295,
+        "total_votes": 304817,
+        "dem_candidate": "Nate Willems",
+        "rep_candidate": "Brenna Bird",
+        "margin": 55150,
+        "margin_pct": 18.092822906858867,
+        "winner": "REP",
+        "color": "#e93a2d"
+      }
+    }
+  }
+}

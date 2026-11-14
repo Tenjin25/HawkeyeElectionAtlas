@@ -1,0 +1,668 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Sac,Auburn,Attorney General,,Brenna Bird,REP,138,12,126
+Sac,Early,Attorney General,,Brenna Bird,REP,200,23,177
+Sac,Lake View,Attorney General,,Brenna Bird,REP,602,138,464
+Sac,Lytton,Attorney General,,Brenna Bird,REP,173,35,138
+Sac,Nemaha,Attorney General,,Brenna Bird,REP,115,22,93
+Sac,Odebolt,Attorney General,,Brenna Bird,REP,443,46,397
+Sac,Sac City,Attorney General,,Brenna Bird,REP,552,181,371
+Sac,Schaller,Attorney General,,Brenna Bird,REP,315,62,253
+Sac,Wall Lake,Attorney General,,Brenna Bird,REP,374,73,301
+Sac,Auburn,Attorney General,,Nate Willems,DEM,48,9,39
+Sac,Early,Attorney General,,Nate Willems,DEM,101,15,86
+Sac,Lake View,Attorney General,,Nate Willems,DEM,258,88,170
+Sac,Lytton,Attorney General,,Nate Willems,DEM,74,28,46
+Sac,Nemaha,Attorney General,,Nate Willems,DEM,38,14,24
+Sac,Odebolt,Attorney General,,Nate Willems,DEM,133,32,101
+Sac,Sac City,Attorney General,,Nate Willems,DEM,389,162,227
+Sac,Schaller,Attorney General,,Nate Willems,DEM,145,32,113
+Sac,Wall Lake,Attorney General,,Nate Willems,DEM,89,32,57
+Sac,Auburn,Attorney General,,Write-In,,0,0,0
+Sac,Early,Attorney General,,Write-In,,0,0,0
+Sac,Lake View,Attorney General,,Write-In,,0,0,0
+Sac,Lytton,Attorney General,,Write-In,,1,1,0
+Sac,Nemaha,Attorney General,,Write-In,,0,0,0
+Sac,Odebolt,Attorney General,,Write-In,,0,0,0
+Sac,Sac City,Attorney General,,Write-In,,4,2,2
+Sac,Schaller,Attorney General,,Write-In,,0,0,0
+Sac,Wall Lake,Attorney General,,Write-In,,0,0,0
+Sac,Auburn,Auditor of State,,Chris Cournoyer,REP,136,10,126
+Sac,Early,Auditor of State,,Chris Cournoyer,REP,210,23,187
+Sac,Lake View,Auditor of State,,Chris Cournoyer,REP,598,133,465
+Sac,Lytton,Auditor of State,,Chris Cournoyer,REP,176,35,141
+Sac,Nemaha,Auditor of State,,Chris Cournoyer,REP,110,21,89
+Sac,Odebolt,Auditor of State,,Chris Cournoyer,REP,441,45,396
+Sac,Sac City,Auditor of State,,Chris Cournoyer,REP,530,181,349
+Sac,Schaller,Auditor of State,,Chris Cournoyer,REP,318,55,263
+Sac,Wall Lake,Auditor of State,,Chris Cournoyer,REP,369,66,303
+Sac,Auburn,Auditor of State,,Taylor Wettach,DEM,46,10,36
+Sac,Early,Auditor of State,,Taylor Wettach,DEM,91,15,76
+Sac,Lake View,Auditor of State,,Taylor Wettach,DEM,241,92,149
+Sac,Lytton,Auditor of State,,Taylor Wettach,DEM,69,30,39
+Sac,Nemaha,Auditor of State,,Taylor Wettach,DEM,39,14,25
+Sac,Odebolt,Auditor of State,,Taylor Wettach,DEM,123,31,92
+Sac,Sac City,Auditor of State,,Taylor Wettach,DEM,388,155,233
+Sac,Schaller,Auditor of State,,Taylor Wettach,DEM,133,36,97
+Sac,Wall Lake,Auditor of State,,Taylor Wettach,DEM,81,32,49
+Sac,Auburn,Auditor of State,,Write-In,,0,0,0
+Sac,Early,Auditor of State,,Write-In,,0,0,0
+Sac,Lake View,Auditor of State,,Write-In,,1,0,1
+Sac,Lytton,Auditor of State,,Write-In,,0,0,0
+Sac,Nemaha,Auditor of State,,Write-In,,0,0,0
+Sac,Odebolt,Auditor of State,,Write-In,,0,0,0
+Sac,Sac City,Auditor of State,,Write-In,,4,2,2
+Sac,Schaller,Auditor of State,,Write-In,,0,0,0
+Sac,Wall Lake,Auditor of State,,Write-In,,0,0,0
+Sac,Auburn,Constitutional Amendment 1,,No,,85,10,75
+Sac,Early,Constitutional Amendment 1,,No,,128,13,115
+Sac,Lake View,Constitutional Amendment 1,,No,,346,106,240
+Sac,Lytton,Constitutional Amendment 1,,No,,104,32,72
+Sac,Nemaha,Constitutional Amendment 1,,No,,56,15,41
+Sac,Odebolt,Constitutional Amendment 1,,No,,215,34,181
+Sac,Sac City,Constitutional Amendment 1,,No,,415,174,241
+Sac,Schaller,Constitutional Amendment 1,,No,,156,28,128
+Sac,Wall Lake,Constitutional Amendment 1,,No,,141,34,107
+Sac,Auburn,Constitutional Amendment 1,,Yes,,87,9,78
+Sac,Early,Constitutional Amendment 1,,Yes,,162,23,139
+Sac,Lake View,Constitutional Amendment 1,,Yes,,427,102,325
+Sac,Lytton,Constitutional Amendment 1,,Yes,,124,26,98
+Sac,Nemaha,Constitutional Amendment 1,,Yes,,94,18,76
+Sac,Odebolt,Constitutional Amendment 1,,Yes,,305,39,266
+Sac,Sac City,Constitutional Amendment 1,,Yes,,460,148,312
+Sac,Schaller,Constitutional Amendment 1,,Yes,,267,56,211
+Sac,Wall Lake,Constitutional Amendment 1,,Yes,,286,59,227
+Sac,Auburn,County Agricultural Extension Council Member,,Aaron Jacobson,,96,6,90
+Sac,Early,County Agricultural Extension Council Member,,Aaron Jacobson,,184,22,162
+Sac,Lake View,County Agricultural Extension Council Member,,Aaron Jacobson,,491,113,378
+Sac,Lytton,County Agricultural Extension Council Member,,Aaron Jacobson,,163,37,126
+Sac,Nemaha,County Agricultural Extension Council Member,,Aaron Jacobson,,108,25,83
+Sac,Odebolt,County Agricultural Extension Council Member,,Aaron Jacobson,,336,49,287
+Sac,Sac City,County Agricultural Extension Council Member,,Aaron Jacobson,,566,198,368
+Sac,Schaller,County Agricultural Extension Council Member,,Aaron Jacobson,,322,58,264
+Sac,Wall Lake,County Agricultural Extension Council Member,,Aaron Jacobson,,277,51,226
+Sac,Auburn,County Agricultural Extension Council Member,,Jacob Joe Petzenhauser,,131,12,119
+Sac,Early,County Agricultural Extension Council Member,,Jacob Joe Petzenhauser,,170,22,148
+Sac,Lake View,County Agricultural Extension Council Member,,Jacob Joe Petzenhauser,,539,130,409
+Sac,Lytton,County Agricultural Extension Council Member,,Jacob Joe Petzenhauser,,181,39,142
+Sac,Nemaha,County Agricultural Extension Council Member,,Jacob Joe Petzenhauser,,102,25,77
+Sac,Odebolt,County Agricultural Extension Council Member,,Jacob Joe Petzenhauser,,318,51,267
+Sac,Sac City,County Agricultural Extension Council Member,,Jacob Joe Petzenhauser,,576,203,373
+Sac,Schaller,County Agricultural Extension Council Member,,Jacob Joe Petzenhauser,,266,46,220
+Sac,Wall Lake,County Agricultural Extension Council Member,,Jacob Joe Petzenhauser,,281,53,228
+Sac,Auburn,County Agricultural Extension Council Member,,Julie Steinkamp,,111,9,102
+Sac,Early,County Agricultural Extension Council Member,,Julie Steinkamp,,205,24,181
+Sac,Lake View,County Agricultural Extension Council Member,,Julie Steinkamp,,565,133,432
+Sac,Lytton,County Agricultural Extension Council Member,,Julie Steinkamp,,178,41,137
+Sac,Nemaha,County Agricultural Extension Council Member,,Julie Steinkamp,,106,26,80
+Sac,Odebolt,County Agricultural Extension Council Member,,Julie Steinkamp,,362,47,315
+Sac,Sac City,County Agricultural Extension Council Member,,Julie Steinkamp,,596,210,386
+Sac,Schaller,County Agricultural Extension Council Member,,Julie Steinkamp,,306,56,250
+Sac,Wall Lake,County Agricultural Extension Council Member,,Julie Steinkamp,,350,75,275
+Sac,Auburn,County Agricultural Extension Council Member,,Kristine Spotts,,92,7,85
+Sac,Early,County Agricultural Extension Council Member,,Kristine Spotts,,177,22,155
+Sac,Lake View,County Agricultural Extension Council Member,,Kristine Spotts,,511,115,396
+Sac,Lytton,County Agricultural Extension Council Member,,Kristine Spotts,,170,40,130
+Sac,Nemaha,County Agricultural Extension Council Member,,Kristine Spotts,,104,25,79
+Sac,Odebolt,County Agricultural Extension Council Member,,Kristine Spotts,,345,53,292
+Sac,Sac City,County Agricultural Extension Council Member,,Kristine Spotts,,662,236,426
+Sac,Schaller,County Agricultural Extension Council Member,,Kristine Spotts,,274,51,223
+Sac,Wall Lake,County Agricultural Extension Council Member,,Kristine Spotts,,287,58,229
+Sac,Auburn,County Agricultural Extension Council Member,,Marsha Phillips,,111,8,103
+Sac,Early,County Agricultural Extension Council Member,,Marsha Phillips,,182,25,157
+Sac,Lake View,County Agricultural Extension Council Member,,Marsha Phillips,,598,141,457
+Sac,Lytton,County Agricultural Extension Council Member,,Marsha Phillips,,165,41,124
+Sac,Nemaha,County Agricultural Extension Council Member,,Marsha Phillips,,100,26,74
+Sac,Odebolt,County Agricultural Extension Council Member,,Marsha Phillips,,335,51,284
+Sac,Sac City,County Agricultural Extension Council Member,,Marsha Phillips,,630,227,403
+Sac,Schaller,County Agricultural Extension Council Member,,Marsha Phillips,,273,51,222
+Sac,Wall Lake,County Agricultural Extension Council Member,,Marsha Phillips,,332,73,259
+Sac,Auburn,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Sac,Early,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Sac,Lake View,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Sac,Lytton,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Sac,Nemaha,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Sac,Odebolt,County Agricultural Extension Council Member,,Write-In,,1,1,0
+Sac,Sac City,County Agricultural Extension Council Member,,Write-In,,11,2,9
+Sac,Schaller,County Agricultural Extension Council Member,,Write-In,,6,0,6
+Sac,Wall Lake,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Sac,Auburn,County Attorney,,Benjamin Smith,REP,138,8,130
+Sac,Early,County Attorney,,Benjamin Smith,REP,247,30,217
+Sac,Lake View,County Attorney,,Benjamin Smith,REP,634,157,477
+Sac,Lytton,County Attorney,,Benjamin Smith,REP,199,46,153
+Sac,Nemaha,County Attorney,,Benjamin Smith,REP,130,26,104
+Sac,Odebolt,County Attorney,,Benjamin Smith,REP,452,57,395
+Sac,Sac City,County Attorney,,Benjamin Smith,REP,723,256,467
+Sac,Schaller,County Attorney,,Benjamin Smith,REP,359,73,286
+Sac,Wall Lake,County Attorney,,Benjamin Smith,REP,343,78,265
+Sac,Auburn,County Attorney,,Write-In,,7,1,6
+Sac,Early,County Attorney,,Write-In,,7,0,7
+Sac,Lake View,County Attorney,,Write-In,,34,7,27
+Sac,Lytton,County Attorney,,Write-In,,3,0,3
+Sac,Nemaha,County Attorney,,Write-In,,0,0,0
+Sac,Odebolt,County Attorney,,Write-In,,15,2,13
+Sac,Sac City,County Attorney,,Write-In,,28,10,18
+Sac,Schaller,County Attorney,,Write-In,,17,1,16
+Sac,Wall Lake,County Attorney,,Write-In,,29,3,26
+Sac,Auburn,County Auditor To Fill a Vacancy,,Renee Roland,REP,155,13,142
+Sac,Early,County Auditor To Fill a Vacancy,,Renee Roland,REP,268,32,236
+Sac,Lake View,County Auditor To Fill a Vacancy,,Renee Roland,REP,726,173,553
+Sac,Lytton,County Auditor To Fill a Vacancy,,Renee Roland,REP,233,59,174
+Sac,Nemaha,County Auditor To Fill a Vacancy,,Renee Roland,REP,130,29,101
+Sac,Odebolt,County Auditor To Fill a Vacancy,,Renee Roland,REP,489,59,430
+Sac,Sac City,County Auditor To Fill a Vacancy,,Renee Roland,REP,832,296,536
+Sac,Schaller,County Auditor To Fill a Vacancy,,Renee Roland,REP,399,80,319
+Sac,Wall Lake,County Auditor To Fill a Vacancy,,Renee Roland,REP,416,87,329
+Sac,Auburn,County Auditor To Fill a Vacancy,,Write-In,,1,0,1
+Sac,Early,County Auditor To Fill a Vacancy,,Write-In,,1,0,1
+Sac,Lake View,County Auditor To Fill a Vacancy,,Write-In,,9,2,7
+Sac,Lytton,County Auditor To Fill a Vacancy,,Write-In,,0,0,0
+Sac,Nemaha,County Auditor To Fill a Vacancy,,Write-In,,1,0,1
+Sac,Odebolt,County Auditor To Fill a Vacancy,,Write-In,,3,2,1
+Sac,Sac City,County Auditor To Fill a Vacancy,,Write-In,,13,1,12
+Sac,Schaller,County Auditor To Fill a Vacancy,,Write-In,,5,0,5
+Sac,Wall Lake,County Auditor To Fill a Vacancy,,Write-In,,4,0,4
+Sac,Auburn,County Recorder,,Bethany Burns,REP,153,10,143
+Sac,Early,County Recorder,,Bethany Burns,REP,267,31,236
+Sac,Lake View,County Recorder,,Bethany Burns,REP,751,184,567
+Sac,Lytton,County Recorder,,Bethany Burns,REP,230,54,176
+Sac,Nemaha,County Recorder,,Bethany Burns,REP,133,29,104
+Sac,Odebolt,County Recorder,,Bethany Burns,REP,500,65,435
+Sac,Sac City,County Recorder,,Bethany Burns,REP,857,299,558
+Sac,Schaller,County Recorder,,Bethany Burns,REP,397,77,320
+Sac,Wall Lake,County Recorder,,Bethany Burns,REP,435,89,346
+Sac,Auburn,County Recorder,,Write-In,,1,0,1
+Sac,Early,County Recorder,,Write-In,,1,0,1
+Sac,Lake View,County Recorder,,Write-In,,7,4,3
+Sac,Lytton,County Recorder,,Write-In,,2,1,1
+Sac,Nemaha,County Recorder,,Write-In,,0,0,0
+Sac,Odebolt,County Recorder,,Write-In,,1,0,1
+Sac,Sac City,County Recorder,,Write-In,,12,3,9
+Sac,Schaller,County Recorder,,Write-In,,4,1,3
+Sac,Wall Lake,County Recorder,,Write-In,,2,0,2
+Sac,Auburn,County Sheriff To Fill a Vacancy,,Joel Suggitt,REP,153,10,143
+Sac,Early,County Sheriff To Fill a Vacancy,,Joel Suggitt,REP,262,32,230
+Sac,Lake View,County Sheriff To Fill a Vacancy,,Joel Suggitt,REP,727,170,557
+Sac,Lytton,County Sheriff To Fill a Vacancy,,Joel Suggitt,REP,233,61,172
+Sac,Nemaha,County Sheriff To Fill a Vacancy,,Joel Suggitt,REP,140,30,110
+Sac,Odebolt,County Sheriff To Fill a Vacancy,,Joel Suggitt,REP,475,62,413
+Sac,Sac City,County Sheriff To Fill a Vacancy,,Joel Suggitt,REP,813,281,532
+Sac,Schaller,County Sheriff To Fill a Vacancy,,Joel Suggitt,REP,391,73,318
+Sac,Wall Lake,County Sheriff To Fill a Vacancy,,Joel Suggitt,REP,418,87,331
+Sac,Auburn,County Sheriff To Fill a Vacancy,,Write-In,,2,0,2
+Sac,Early,County Sheriff To Fill a Vacancy,,Write-In,,8,1,7
+Sac,Lake View,County Sheriff To Fill a Vacancy,,Write-In,,16,4,12
+Sac,Lytton,County Sheriff To Fill a Vacancy,,Write-In,,6,3,3
+Sac,Nemaha,County Sheriff To Fill a Vacancy,,Write-In,,1,1,0
+Sac,Odebolt,County Sheriff To Fill a Vacancy,,Write-In,,8,1,7
+Sac,Sac City,County Sheriff To Fill a Vacancy,,Write-In,,35,16,19
+Sac,Schaller,County Sheriff To Fill a Vacancy,,Write-In,,7,0,7
+Sac,Wall Lake,County Sheriff To Fill a Vacancy,,Write-In,,7,0,7
+Sac,Lytton,County Supervisor,2,Mike Fischer,REP,215,52,163
+Sac,Nemaha,County Supervisor,2,Mike Fischer,REP,132,29,103
+Sac,Sac City,County Supervisor,2,Mike Fischer,REP,805,284,521
+Sac,Lytton,County Supervisor,2,Write-In,,3,0,3
+Sac,Nemaha,County Supervisor,2,Write-In,,1,0,1
+Sac,Sac City,County Supervisor,2,Write-In,,17,3,14
+Sac,Auburn,County Supervisor,3,James L. Wissler,REP,155,10,145
+Sac,Lake View,County Supervisor,3,James L. Wissler,REP,717,172,545
+Sac,Wall Lake,County Supervisor,3,James L. Wissler,REP,437,89,348
+Sac,Auburn,County Supervisor,3,Write-In,,1,0,1
+Sac,Lake View,County Supervisor,3,Write-In,,13,3,10
+Sac,Wall Lake,County Supervisor,3,Write-In,,2,0,2
+Sac,Auburn,County Treasurer,,Tina Roth,REP,163,12,151
+Sac,Early,County Treasurer,,Tina Roth,REP,269,29,240
+Sac,Lake View,County Treasurer,,Tina Roth,REP,756,183,573
+Sac,Lytton,County Treasurer,,Tina Roth,REP,222,51,171
+Sac,Nemaha,County Treasurer,,Tina Roth,REP,138,29,109
+Sac,Odebolt,County Treasurer,,Tina Roth,REP,518,65,453
+Sac,Sac City,County Treasurer,,Tina Roth,REP,839,302,537
+Sac,Schaller,County Treasurer,,Tina Roth,REP,398,75,323
+Sac,Wall Lake,County Treasurer,,Tina Roth,REP,449,94,355
+Sac,Auburn,County Treasurer,,Write-In,,1,0,1
+Sac,Early,County Treasurer,,Write-In,,2,0,2
+Sac,Lake View,County Treasurer,,Write-In,,5,1,4
+Sac,Lytton,County Treasurer,,Write-In,,1,0,1
+Sac,Nemaha,County Treasurer,,Write-In,,0,0,0
+Sac,Odebolt,County Treasurer,,Write-In,,1,0,1
+Sac,Sac City,County Treasurer,,Write-In,,9,2,7
+Sac,Schaller,County Treasurer,,Write-In,,6,0,6
+Sac,Wall Lake,County Treasurer,,Write-In,,2,0,2
+Sac,Auburn,Court of Appeals Judge - John M. Sandy,,No,,29,7,22
+Sac,Early,Court of Appeals Judge - John M. Sandy,,No,,63,3,60
+Sac,Lake View,Court of Appeals Judge - John M. Sandy,,No,,143,42,101
+Sac,Lytton,Court of Appeals Judge - John M. Sandy,,No,,38,6,32
+Sac,Nemaha,Court of Appeals Judge - John M. Sandy,,No,,37,3,34
+Sac,Odebolt,Court of Appeals Judge - John M. Sandy,,No,,87,12,75
+Sac,Sac City,Court of Appeals Judge - John M. Sandy,,No,,179,58,121
+Sac,Schaller,Court of Appeals Judge - John M. Sandy,,No,,56,11,45
+Sac,Wall Lake,Court of Appeals Judge - John M. Sandy,,No,,60,11,49
+Sac,Auburn,Court of Appeals Judge - John M. Sandy,,Yes,,92,6,86
+Sac,Early,Court of Appeals Judge - John M. Sandy,,Yes,,162,16,146
+Sac,Lake View,Court of Appeals Judge - John M. Sandy,,Yes,,422,90,332
+Sac,Lytton,Court of Appeals Judge - John M. Sandy,,Yes,,140,32,108
+Sac,Nemaha,Court of Appeals Judge - John M. Sandy,,Yes,,70,18,52
+Sac,Odebolt,Court of Appeals Judge - John M. Sandy,,Yes,,264,37,227
+Sac,Sac City,Court of Appeals Judge - John M. Sandy,,Yes,,448,145,303
+Sac,Schaller,Court of Appeals Judge - John M. Sandy,,Yes,,274,46,228
+Sac,Wall Lake,Court of Appeals Judge - John M. Sandy,,Yes,,259,51,208
+Sac,Auburn,Court of Appeals Judge - Julie A. Schumacher,,No,,23,6,17
+Sac,Early,Court of Appeals Judge - Julie A. Schumacher,,No,,53,1,52
+Sac,Lake View,Court of Appeals Judge - Julie A. Schumacher,,No,,132,39,93
+Sac,Lytton,Court of Appeals Judge - Julie A. Schumacher,,No,,38,7,31
+Sac,Nemaha,Court of Appeals Judge - Julie A. Schumacher,,No,,31,3,28
+Sac,Odebolt,Court of Appeals Judge - Julie A. Schumacher,,No,,75,10,65
+Sac,Sac City,Court of Appeals Judge - Julie A. Schumacher,,No,,168,58,110
+Sac,Schaller,Court of Appeals Judge - Julie A. Schumacher,,No,,58,9,49
+Sac,Wall Lake,Court of Appeals Judge - Julie A. Schumacher,,No,,62,9,53
+Sac,Auburn,Court of Appeals Judge - Julie A. Schumacher,,Yes,,97,7,90
+Sac,Early,Court of Appeals Judge - Julie A. Schumacher,,Yes,,167,17,150
+Sac,Lake View,Court of Appeals Judge - Julie A. Schumacher,,Yes,,437,95,342
+Sac,Lytton,Court of Appeals Judge - Julie A. Schumacher,,Yes,,137,31,106
+Sac,Nemaha,Court of Appeals Judge - Julie A. Schumacher,,Yes,,74,19,55
+Sac,Odebolt,Court of Appeals Judge - Julie A. Schumacher,,Yes,,275,42,233
+Sac,Sac City,Court of Appeals Judge - Julie A. Schumacher,,Yes,,458,143,315
+Sac,Schaller,Court of Appeals Judge - Julie A. Schumacher,,Yes,,269,46,223
+Sac,Wall Lake,Court of Appeals Judge - Julie A. Schumacher,,Yes,,252,54,198
+Sac,Auburn,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,25,7,18
+Sac,Early,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,72,3,69
+Sac,Lake View,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,153,44,109
+Sac,Lytton,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,44,8,36
+Sac,Nemaha,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,38,3,35
+Sac,Odebolt,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,92,15,77
+Sac,Sac City,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,185,62,123
+Sac,Schaller,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,65,11,54
+Sac,Wall Lake,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,71,10,61
+Sac,Auburn,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,92,6,86
+Sac,Early,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,147,14,133
+Sac,Lake View,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,395,83,312
+Sac,Lytton,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,129,29,100
+Sac,Nemaha,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,68,18,50
+Sac,Odebolt,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,249,33,216
+Sac,Sac City,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,437,139,298
+Sac,Schaller,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,259,42,217
+Sac,Wall Lake,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,233,52,181
+Sac,Auburn,District 2B Associate Judge - Joseph L. Tofilon,,No,,26,5,21
+Sac,Early,District 2B Associate Judge - Joseph L. Tofilon,,No,,69,5,64
+Sac,Lake View,District 2B Associate Judge - Joseph L. Tofilon,,No,,146,41,105
+Sac,Lytton,District 2B Associate Judge - Joseph L. Tofilon,,No,,44,11,33
+Sac,Nemaha,District 2B Associate Judge - Joseph L. Tofilon,,No,,35,3,32
+Sac,Odebolt,District 2B Associate Judge - Joseph L. Tofilon,,No,,89,16,73
+Sac,Sac City,District 2B Associate Judge - Joseph L. Tofilon,,No,,176,57,119
+Sac,Schaller,District 2B Associate Judge - Joseph L. Tofilon,,No,,59,10,49
+Sac,Wall Lake,District 2B Associate Judge - Joseph L. Tofilon,,No,,80,16,64
+Sac,Auburn,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,90,6,84
+Sac,Early,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,153,13,140
+Sac,Lake View,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,400,90,310
+Sac,Lytton,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,126,26,100
+Sac,Nemaha,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,72,18,54
+Sac,Odebolt,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,257,33,224
+Sac,Sac City,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,439,140,299
+Sac,Schaller,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,263,43,220
+Sac,Wall Lake,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,222,44,178
+Sac,Auburn,District 2B Associate Judge - Stephen A. Owen,,No,,23,5,18
+Sac,Early,District 2B Associate Judge - Stephen A. Owen,,No,,61,5,56
+Sac,Lake View,District 2B Associate Judge - Stephen A. Owen,,No,,141,42,99
+Sac,Lytton,District 2B Associate Judge - Stephen A. Owen,,No,,44,9,35
+Sac,Nemaha,District 2B Associate Judge - Stephen A. Owen,,No,,31,3,28
+Sac,Odebolt,District 2B Associate Judge - Stephen A. Owen,,No,,84,14,70
+Sac,Sac City,District 2B Associate Judge - Stephen A. Owen,,No,,177,58,119
+Sac,Schaller,District 2B Associate Judge - Stephen A. Owen,,No,,53,10,43
+Sac,Wall Lake,District 2B Associate Judge - Stephen A. Owen,,No,,65,16,49
+Sac,Auburn,District 2B Associate Judge - Stephen A. Owen,,Yes,,92,6,86
+Sac,Early,District 2B Associate Judge - Stephen A. Owen,,Yes,,159,12,147
+Sac,Lake View,District 2B Associate Judge - Stephen A. Owen,,Yes,,410,89,321
+Sac,Lytton,District 2B Associate Judge - Stephen A. Owen,,Yes,,125,27,98
+Sac,Nemaha,District 2B Associate Judge - Stephen A. Owen,,Yes,,76,19,57
+Sac,Odebolt,District 2B Associate Judge - Stephen A. Owen,,Yes,,257,34,223
+Sac,Sac City,District 2B Associate Judge - Stephen A. Owen,,Yes,,440,142,298
+Sac,Schaller,District 2B Associate Judge - Stephen A. Owen,,Yes,,272,45,227
+Sac,Wall Lake,District 2B Associate Judge - Stephen A. Owen,,Yes,,238,44,194
+Sac,Auburn,District 2B Judge - Amy Moore,,No,,21,5,16
+Sac,Early,District 2B Judge - Amy Moore,,No,,53,1,52
+Sac,Lake View,District 2B Judge - Amy Moore,,No,,148,41,107
+Sac,Lytton,District 2B Judge - Amy Moore,,No,,40,8,32
+Sac,Nemaha,District 2B Judge - Amy Moore,,No,,34,3,31
+Sac,Odebolt,District 2B Judge - Amy Moore,,No,,82,12,70
+Sac,Sac City,District 2B Judge - Amy Moore,,No,,176,60,116
+Sac,Schaller,District 2B Judge - Amy Moore,,No,,60,10,50
+Sac,Wall Lake,District 2B Judge - Amy Moore,,No,,73,12,61
+Sac,Auburn,District 2B Judge - Amy Moore,,Yes,,96,8,88
+Sac,Early,District 2B Judge - Amy Moore,,Yes,,169,17,152
+Sac,Lake View,District 2B Judge - Amy Moore,,Yes,,395,90,305
+Sac,Lytton,District 2B Judge - Amy Moore,,Yes,,130,29,101
+Sac,Nemaha,District 2B Judge - Amy Moore,,Yes,,71,17,54
+Sac,Odebolt,District 2B Judge - Amy Moore,,Yes,,259,37,222
+Sac,Sac City,District 2B Judge - Amy Moore,,Yes,,437,139,298
+Sac,Schaller,District 2B Judge - Amy Moore,,Yes,,262,44,218
+Sac,Wall Lake,District 2B Judge - Amy Moore,,Yes,,227,50,177
+Sac,Auburn,District 2B Judge - Angela L. Doyle,,No,,23,4,19
+Sac,Early,District 2B Judge - Angela L. Doyle,,No,,58,1,57
+Sac,Lake View,District 2B Judge - Angela L. Doyle,,No,,142,41,101
+Sac,Lytton,District 2B Judge - Angela L. Doyle,,No,,42,9,33
+Sac,Nemaha,District 2B Judge - Angela L. Doyle,,No,,36,3,33
+Sac,Odebolt,District 2B Judge - Angela L. Doyle,,No,,83,10,73
+Sac,Sac City,District 2B Judge - Angela L. Doyle,,No,,171,56,115
+Sac,Schaller,District 2B Judge - Angela L. Doyle,,No,,61,12,49
+Sac,Wall Lake,District 2B Judge - Angela L. Doyle,,No,,72,9,63
+Sac,Auburn,District 2B Judge - Angela L. Doyle,,Yes,,93,8,85
+Sac,Early,District 2B Judge - Angela L. Doyle,,Yes,,162,16,146
+Sac,Lake View,District 2B Judge - Angela L. Doyle,,Yes,,404,89,315
+Sac,Lytton,District 2B Judge - Angela L. Doyle,,Yes,,131,29,102
+Sac,Nemaha,District 2B Judge - Angela L. Doyle,,Yes,,71,18,53
+Sac,Odebolt,District 2B Judge - Angela L. Doyle,,Yes,,255,37,218
+Sac,Sac City,District 2B Judge - Angela L. Doyle,,Yes,,448,143,305
+Sac,Schaller,District 2B Judge - Angela L. Doyle,,Yes,,258,42,216
+Sac,Wall Lake,District 2B Judge - Angela L. Doyle,,Yes,,232,53,179
+Sac,Auburn,District 2B Judge - Ashley Sparks,,No,,24,6,18
+Sac,Early,District 2B Judge - Ashley Sparks,,No,,63,3,60
+Sac,Lake View,District 2B Judge - Ashley Sparks,,No,,137,36,101
+Sac,Lytton,District 2B Judge - Ashley Sparks,,No,,39,7,32
+Sac,Nemaha,District 2B Judge - Ashley Sparks,,No,,36,3,33
+Sac,Odebolt,District 2B Judge - Ashley Sparks,,No,,86,13,73
+Sac,Sac City,District 2B Judge - Ashley Sparks,,No,,163,58,105
+Sac,Schaller,District 2B Judge - Ashley Sparks,,No,,57,9,48
+Sac,Wall Lake,District 2B Judge - Ashley Sparks,,No,,66,10,56
+Sac,Auburn,District 2B Judge - Ashley Sparks,,Yes,,93,7,86
+Sac,Early,District 2B Judge - Ashley Sparks,,Yes,,159,15,144
+Sac,Lake View,District 2B Judge - Ashley Sparks,,Yes,,415,96,319
+Sac,Lytton,District 2B Judge - Ashley Sparks,,Yes,,138,31,107
+Sac,Nemaha,District 2B Judge - Ashley Sparks,,Yes,,73,19,54
+Sac,Odebolt,District 2B Judge - Ashley Sparks,,Yes,,256,36,220
+Sac,Sac City,District 2B Judge - Ashley Sparks,,Yes,,458,144,314
+Sac,Schaller,District 2B Judge - Ashley Sparks,,Yes,,266,43,223
+Sac,Wall Lake,District 2B Judge - Ashley Sparks,,Yes,,242,52,190
+Sac,Auburn,District 2B Judge - Bethany Currie,,No,,27,7,20
+Sac,Early,District 2B Judge - Bethany Currie,,No,,56,2,54
+Sac,Lake View,District 2B Judge - Bethany Currie,,No,,141,38,103
+Sac,Lytton,District 2B Judge - Bethany Currie,,No,,42,10,32
+Sac,Nemaha,District 2B Judge - Bethany Currie,,No,,34,3,31
+Sac,Odebolt,District 2B Judge - Bethany Currie,,No,,87,12,75
+Sac,Sac City,District 2B Judge - Bethany Currie,,No,,173,62,111
+Sac,Schaller,District 2B Judge - Bethany Currie,,No,,55,11,44
+Sac,Wall Lake,District 2B Judge - Bethany Currie,,No,,65,8,57
+Sac,Auburn,District 2B Judge - Bethany Currie,,Yes,,90,6,84
+Sac,Early,District 2B Judge - Bethany Currie,,Yes,,163,15,148
+Sac,Lake View,District 2B Judge - Bethany Currie,,Yes,,407,94,313
+Sac,Lytton,District 2B Judge - Bethany Currie,,Yes,,128,26,102
+Sac,Nemaha,District 2B Judge - Bethany Currie,,Yes,,73,18,55
+Sac,Odebolt,District 2B Judge - Bethany Currie,,Yes,,256,33,223
+Sac,Sac City,District 2B Judge - Bethany Currie,,Yes,,445,140,305
+Sac,Schaller,District 2B Judge - Bethany Currie,,Yes,,269,42,227
+Sac,Wall Lake,District 2B Judge - Bethany Currie,,Yes,,242,54,188
+Sac,Auburn,District 2B Judge - Christopher Polking,,No,,24,3,21
+Sac,Early,District 2B Judge - Christopher Polking,,No,,68,4,64
+Sac,Lake View,District 2B Judge - Christopher Polking,,No,,140,37,103
+Sac,Lytton,District 2B Judge - Christopher Polking,,No,,45,10,35
+Sac,Nemaha,District 2B Judge - Christopher Polking,,No,,33,2,31
+Sac,Odebolt,District 2B Judge - Christopher Polking,,No,,93,14,79
+Sac,Sac City,District 2B Judge - Christopher Polking,,No,,180,60,120
+Sac,Schaller,District 2B Judge - Christopher Polking,,No,,65,9,56
+Sac,Wall Lake,District 2B Judge - Christopher Polking,,No,,63,12,51
+Sac,Auburn,District 2B Judge - Christopher Polking,,Yes,,102,10,92
+Sac,Early,District 2B Judge - Christopher Polking,,Yes,,152,14,138
+Sac,Lake View,District 2B Judge - Christopher Polking,,Yes,,434,102,332
+Sac,Lytton,District 2B Judge - Christopher Polking,,Yes,,129,29,100
+Sac,Nemaha,District 2B Judge - Christopher Polking,,Yes,,74,18,56
+Sac,Odebolt,District 2B Judge - Christopher Polking,,Yes,,252,35,217
+Sac,Sac City,District 2B Judge - Christopher Polking,,Yes,,442,141,301
+Sac,Schaller,District 2B Judge - Christopher Polking,,Yes,,253,43,210
+Sac,Wall Lake,District 2B Judge - Christopher Polking,,Yes,,247,49,198
+Sac,Schaller,Eden Township Clerk,,Laura Foell,,72,28,44
+Sac,Schaller,Eden Township Clerk,,Write-In,,1,1,0
+Sac,Schaller,Eden Township Trustee,,Alan Movall,,75,28,47
+Sac,Schaller,Eden Township Trustee,,Write-In,,1,1,0
+Sac,Schaller,Eureka Township Clerk,,Pamela Currie,,64,13,51
+Sac,Schaller,Eureka Township Clerk,,Write-In,,0,0,0
+Sac,Schaller,Eureka Township Trustee,,Jarid Currie,,70,14,56
+Sac,Schaller,Eureka Township Trustee,,Write-In,,0,0,0
+Sac,Auburn,Governor,,Rob Sand and Dave Muhlbauer,DEM,69,13,56
+Sac,Early,Governor,,Rob Sand and Dave Muhlbauer,DEM,116,19,97
+Sac,Lake View,Governor,,Rob Sand and Dave Muhlbauer,DEM,294,103,191
+Sac,Lytton,Governor,,Rob Sand and Dave Muhlbauer,DEM,94,34,60
+Sac,Nemaha,Governor,,Rob Sand and Dave Muhlbauer,DEM,60,20,40
+Sac,Odebolt,Governor,,Rob Sand and Dave Muhlbauer,DEM,163,39,124
+Sac,Sac City,Governor,,Rob Sand and Dave Muhlbauer,DEM,475,188,287
+Sac,Schaller,Governor,,Rob Sand and Dave Muhlbauer,DEM,178,45,133
+Sac,Wall Lake,Governor,,Rob Sand and Dave Muhlbauer,DEM,119,41,78
+Sac,Auburn,Governor,,Write-In,,0,0,0
+Sac,Early,Governor,,Write-In,,1,0,1
+Sac,Lake View,Governor,,Write-In,,1,0,1
+Sac,Lytton,Governor,,Write-In,,0,0,0
+Sac,Nemaha,Governor,,Write-In,,0,0,0
+Sac,Odebolt,Governor,,Write-In,,0,0,0
+Sac,Sac City,Governor,,Write-In,,4,1,3
+Sac,Schaller,Governor,,Write-In,,0,0,0
+Sac,Wall Lake,Governor,,Write-In,,0,0,0
+Sac,Auburn,Governor,,Zach Lahn and Derek Wulf,REP,127,9,118
+Sac,Early,Governor,,Zach Lahn and Derek Wulf,REP,188,21,167
+Sac,Lake View,Governor,,Zach Lahn and Derek Wulf,REP,571,123,448
+Sac,Lytton,Governor,,Zach Lahn and Derek Wulf,REP,162,34,128
+Sac,Nemaha,Governor,,Zach Lahn and Derek Wulf,REP,105,18,87
+Sac,Odebolt,Governor,,Zach Lahn and Derek Wulf,REP,429,41,388
+Sac,Sac City,Governor,,Zach Lahn and Derek Wulf,REP,493,168,325
+Sac,Schaller,Governor,,Zach Lahn and Derek Wulf,REP,290,50,240
+Sac,Wall Lake,Governor,,Zach Lahn and Derek Wulf,REP,360,63,297
+Sac,Sac City,Jackson Township - Public Measure B,,No,,24,8,16
+Sac,Sac City,Jackson Township - Public Measure B,,Yes,,77,39,38
+Sac,Sac City,Jackson Township Clerk,,Write-In,,5,2,3
+Sac,Sac City,Jackson Township Trustee,,Loren Burbach,,99,45,54
+Sac,Sac City,Jackson Township Trustee,,Write-In,,1,0,1
+Sac,Auburn,Sac County - Public Measure A,,No,,79,7,72
+Sac,Early,Sac County - Public Measure A,,No,,157,16,141
+Sac,Lake View,Sac County - Public Measure A,,No,,406,98,308
+Sac,Lytton,Sac County - Public Measure A,,No,,96,25,71
+Sac,Nemaha,Sac County - Public Measure A,,No,,68,11,57
+Sac,Odebolt,Sac County - Public Measure A,,No,,227,28,199
+Sac,Sac City,Sac County - Public Measure A,,No,,343,96,247
+Sac,Schaller,Sac County - Public Measure A,,No,,195,36,159
+Sac,Wall Lake,Sac County - Public Measure A,,No,,249,41,208
+Sac,Auburn,Sac County - Public Measure A,,Yes,,104,13,91
+Sac,Early,Sac County - Public Measure A,,Yes,,147,21,126
+Sac,Lake View,Sac County - Public Measure A,,Yes,,440,126,314
+Sac,Lytton,Sac County - Public Measure A,,Yes,,152,38,114
+Sac,Nemaha,Sac County - Public Measure A,,Yes,,90,24,66
+Sac,Odebolt,Sac County - Public Measure A,,Yes,,351,50,301
+Sac,Sac City,Sac County - Public Measure A,,Yes,,623,261,362
+Sac,Schaller,Sac County - Public Measure A,,Yes,,248,52,196
+Sac,Wall Lake,Sac County - Public Measure A,,Yes,,222,58,164
+Sac,Auburn,Sac Township Clerk,,Write-In,,8,1,7
+Sac,Auburn,Sac Township Trustee,,Robert Kent,,79,6,73
+Sac,Auburn,Sac Township Trustee,,Write-In,,0,0,0
+Sac,Auburn,Secretary of Agriculture,,Chris Jones,DEM,51,12,39
+Sac,Early,Secretary of Agriculture,,Chris Jones,DEM,82,12,70
+Sac,Lake View,Secretary of Agriculture,,Chris Jones,DEM,224,83,141
+Sac,Lytton,Secretary of Agriculture,,Chris Jones,DEM,56,26,30
+Sac,Nemaha,Secretary of Agriculture,,Chris Jones,DEM,33,12,21
+Sac,Odebolt,Secretary of Agriculture,,Chris Jones,DEM,113,26,87
+Sac,Sac City,Secretary of Agriculture,,Chris Jones,DEM,361,152,209
+Sac,Schaller,Secretary of Agriculture,,Chris Jones,DEM,115,29,86
+Sac,Wall Lake,Secretary of Agriculture,,Chris Jones,DEM,75,30,45
+Sac,Auburn,Secretary of Agriculture,,Mike Naig,REP,131,9,122
+Sac,Early,Secretary of Agriculture,,Mike Naig,REP,223,27,196
+Sac,Lake View,Secretary of Agriculture,,Mike Naig,REP,629,145,484
+Sac,Lytton,Secretary of Agriculture,,Mike Naig,REP,192,39,153
+Sac,Nemaha,Secretary of Agriculture,,Mike Naig,REP,124,24,100
+Sac,Odebolt,Secretary of Agriculture,,Mike Naig,REP,466,53,413
+Sac,Sac City,Secretary of Agriculture,,Mike Naig,REP,579,195,384
+Sac,Schaller,Secretary of Agriculture,,Mike Naig,REP,348,66,282
+Sac,Wall Lake,Secretary of Agriculture,,Mike Naig,REP,394,75,319
+Sac,Auburn,Secretary of Agriculture,,Write-In,,0,0,0
+Sac,Early,Secretary of Agriculture,,Write-In,,0,0,0
+Sac,Lake View,Secretary of Agriculture,,Write-In,,1,1,0
+Sac,Lytton,Secretary of Agriculture,,Write-In,,1,1,0
+Sac,Nemaha,Secretary of Agriculture,,Write-In,,0,0,0
+Sac,Odebolt,Secretary of Agriculture,,Write-In,,0,0,0
+Sac,Sac City,Secretary of Agriculture,,Write-In,,3,1,2
+Sac,Schaller,Secretary of Agriculture,,Write-In,,0,0,0
+Sac,Wall Lake,Secretary of Agriculture,,Write-In,,0,0,0
+Sac,Auburn,Secretary of State,,Paul D. Pate,REP,140,12,128
+Sac,Early,Secretary of State,,Paul D. Pate,REP,213,21,192
+Sac,Lake View,Secretary of State,,Paul D. Pate,REP,633,145,488
+Sac,Lytton,Secretary of State,,Paul D. Pate,REP,183,36,147
+Sac,Nemaha,Secretary of State,,Paul D. Pate,REP,119,24,95
+Sac,Odebolt,Secretary of State,,Paul D. Pate,REP,459,48,411
+Sac,Sac City,Secretary of State,,Paul D. Pate,REP,566,184,382
+Sac,Schaller,Secretary of State,,Paul D. Pate,REP,342,65,277
+Sac,Wall Lake,Secretary of State,,Paul D. Pate,REP,389,73,316
+Sac,Auburn,Secretary of State,,Ryan Peterman,DEM,43,9,34
+Sac,Early,Secretary of State,,Ryan Peterman,DEM,84,16,68
+Sac,Lake View,Secretary of State,,Ryan Peterman,DEM,213,81,132
+Sac,Lytton,Secretary of State,,Ryan Peterman,DEM,61,28,33
+Sac,Nemaha,Secretary of State,,Ryan Peterman,DEM,33,12,21
+Sac,Odebolt,Secretary of State,,Ryan Peterman,DEM,120,30,90
+Sac,Sac City,Secretary of State,,Ryan Peterman,DEM,358,152,206
+Sac,Schaller,Secretary of State,,Ryan Peterman,DEM,118,28,90
+Sac,Wall Lake,Secretary of State,,Ryan Peterman,DEM,77,30,47
+Sac,Auburn,Secretary of State,,Write-In,,0,0,0
+Sac,Early,Secretary of State,,Write-In,,0,0,0
+Sac,Lake View,Secretary of State,,Write-In,,0,0,0
+Sac,Lytton,Secretary of State,,Write-In,,0,0,0
+Sac,Nemaha,Secretary of State,,Write-In,,0,0,0
+Sac,Odebolt,Secretary of State,,Write-In,,0,0,0
+Sac,Sac City,Secretary of State,,Write-In,,3,1,2
+Sac,Schaller,Secretary of State,,Write-In,,0,0,0
+Sac,Wall Lake,Secretary of State,,Write-In,,0,0,0
+Sac,Auburn,Soil and Water Conservation District Commissioner,,James Frederick,,106,7,99
+Sac,Early,Soil and Water Conservation District Commissioner,,James Frederick,,160,21,139
+Sac,Lake View,Soil and Water Conservation District Commissioner,,James Frederick,,545,135,410
+Sac,Lytton,Soil and Water Conservation District Commissioner,,James Frederick,,181,49,132
+Sac,Nemaha,Soil and Water Conservation District Commissioner,,James Frederick,,109,24,85
+Sac,Odebolt,Soil and Water Conservation District Commissioner,,James Frederick,,349,50,299
+Sac,Sac City,Soil and Water Conservation District Commissioner,,James Frederick,,638,228,410
+Sac,Schaller,Soil and Water Conservation District Commissioner,,James Frederick,,261,51,210
+Sac,Wall Lake,Soil and Water Conservation District Commissioner,,James Frederick,,301,70,231
+Sac,Auburn,Soil and Water Conservation District Commissioner,,Steven Pickhinke,,108,8,100
+Sac,Early,Soil and Water Conservation District Commissioner,,Steven Pickhinke,,246,27,219
+Sac,Lake View,Soil and Water Conservation District Commissioner,,Steven Pickhinke,,581,133,448
+Sac,Lytton,Soil and Water Conservation District Commissioner,,Steven Pickhinke,,175,44,131
+Sac,Nemaha,Soil and Water Conservation District Commissioner,,Steven Pickhinke,,131,26,105
+Sac,Odebolt,Soil and Water Conservation District Commissioner,,Steven Pickhinke,,390,53,337
+Sac,Sac City,Soil and Water Conservation District Commissioner,,Steven Pickhinke,,651,238,413
+Sac,Schaller,Soil and Water Conservation District Commissioner,,Steven Pickhinke,,355,70,285
+Sac,Wall Lake,Soil and Water Conservation District Commissioner,,Steven Pickhinke,,341,73,268
+Sac,Auburn,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Sac,Early,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Sac,Lake View,Soil and Water Conservation District Commissioner,,Write-In,,5,1,4
+Sac,Lytton,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Sac,Nemaha,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Sac,Odebolt,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Sac,Sac City,Soil and Water Conservation District Commissioner,,Write-In,,7,2,5
+Sac,Schaller,Soil and Water Conservation District Commissioner,,Write-In,,8,1,7
+Sac,Wall Lake,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Sac,Auburn,State House,7,Rachel Burns,DEM,46,12,34
+Sac,Early,State House,7,Rachel Burns,DEM,94,15,79
+Sac,Lake View,State House,7,Rachel Burns,DEM,245,93,152
+Sac,Lytton,State House,7,Rachel Burns,DEM,68,29,39
+Sac,Nemaha,State House,7,Rachel Burns,DEM,41,17,24
+Sac,Odebolt,State House,7,Rachel Burns,DEM,125,29,96
+Sac,Sac City,State House,7,Rachel Burns,DEM,396,157,239
+Sac,Schaller,State House,7,Rachel Burns,DEM,128,31,97
+Sac,Wall Lake,State House,7,Rachel Burns,DEM,83,33,50
+Sac,Auburn,State House,7,Wendy Larson,REP,138,7,131
+Sac,Early,State House,7,Wendy Larson,REP,208,24,184
+Sac,Lake View,State House,7,Wendy Larson,REP,607,133,474
+Sac,Lytton,State House,7,Wendy Larson,REP,184,36,148
+Sac,Nemaha,State House,7,Wendy Larson,REP,112,20,92
+Sac,Odebolt,State House,7,Wendy Larson,REP,462,49,413
+Sac,Sac City,State House,7,Wendy Larson,REP,551,190,361
+Sac,Schaller,State House,7,Wendy Larson,REP,328,62,266
+Sac,Wall Lake,State House,7,Wendy Larson,REP,392,70,322
+Sac,Auburn,State House,7,Write-In,,0,0,0
+Sac,Early,State House,7,Write-In,,0,0,0
+Sac,Lake View,State House,7,Write-In,,2,0,2
+Sac,Lytton,State House,7,Write-In,,0,0,0
+Sac,Nemaha,State House,7,Write-In,,0,0,0
+Sac,Odebolt,State House,7,Write-In,,0,0,0
+Sac,Sac City,State House,7,Write-In,,3,1,2
+Sac,Schaller,State House,7,Write-In,,1,1,0
+Sac,Wall Lake,State House,7,Write-In,,0,0,0
+Sac,Auburn,Treasurer of State,,John Norwood,DEM,49,12,37
+Sac,Early,Treasurer of State,,John Norwood,DEM,84,15,69
+Sac,Lake View,Treasurer of State,,John Norwood,DEM,241,88,153
+Sac,Lytton,Treasurer of State,,John Norwood,DEM,63,29,34
+Sac,Nemaha,Treasurer of State,,John Norwood,DEM,37,17,20
+Sac,Odebolt,Treasurer of State,,John Norwood,DEM,116,30,86
+Sac,Sac City,Treasurer of State,,John Norwood,DEM,373,151,222
+Sac,Schaller,Treasurer of State,,John Norwood,DEM,132,32,100
+Sac,Wall Lake,Treasurer of State,,John Norwood,DEM,77,31,46
+Sac,Auburn,Treasurer of State,,Roby Smith,REP,130,8,122
+Sac,Early,Treasurer of State,,Roby Smith,REP,213,22,191
+Sac,Lake View,Treasurer of State,,Roby Smith,REP,595,134,461
+Sac,Lytton,Treasurer of State,,Roby Smith,REP,178,35,143
+Sac,Nemaha,Treasurer of State,,Roby Smith,REP,113,19,94
+Sac,Odebolt,Treasurer of State,,Roby Smith,REP,446,46,400
+Sac,Sac City,Treasurer of State,,Roby Smith,REP,534,180,354
+Sac,Schaller,Treasurer of State,,Roby Smith,REP,317,56,261
+Sac,Wall Lake,Treasurer of State,,Roby Smith,REP,374,69,305
+Sac,Auburn,Treasurer of State,,Write-In,,0,0,0
+Sac,Early,Treasurer of State,,Write-In,,0,0,0
+Sac,Lake View,Treasurer of State,,Write-In,,1,0,1
+Sac,Lytton,Treasurer of State,,Write-In,,0,0,0
+Sac,Nemaha,Treasurer of State,,Write-In,,0,0,0
+Sac,Odebolt,Treasurer of State,,Write-In,,0,0,0
+Sac,Sac City,Treasurer of State,,Write-In,,4,1,3
+Sac,Schaller,Treasurer of State,,Write-In,,0,0,0
+Sac,Wall Lake,Treasurer of State,,Write-In,,0,0,0
+Sac,Auburn,U.S. House,4,Chris McGowan,REP,131,10,121
+Sac,Early,U.S. House,4,Chris McGowan,REP,208,21,187
+Sac,Lake View,U.S. House,4,Chris McGowan,REP,603,130,473
+Sac,Lytton,U.S. House,4,Chris McGowan,REP,171,34,137
+Sac,Nemaha,U.S. House,4,Chris McGowan,REP,115,20,95
+Sac,Odebolt,U.S. House,4,Chris McGowan,REP,443,44,399
+Sac,Sac City,U.S. House,4,Chris McGowan,REP,531,174,357
+Sac,Schaller,U.S. House,4,Chris McGowan,REP,321,56,265
+Sac,Wall Lake,U.S. House,4,Chris McGowan,REP,379,70,309
+Sac,Auburn,U.S. House,4,Dave Dawson,DEM,52,11,41
+Sac,Early,U.S. House,4,Dave Dawson,DEM,91,16,75
+Sac,Lake View,U.S. House,4,Dave Dawson,DEM,241,94,147
+Sac,Lytton,U.S. House,4,Dave Dawson,DEM,74,29,45
+Sac,Nemaha,U.S. House,4,Dave Dawson,DEM,38,16,22
+Sac,Odebolt,U.S. House,4,Dave Dawson,DEM,131,34,97
+Sac,Sac City,U.S. House,4,Dave Dawson,DEM,388,162,226
+Sac,Schaller,U.S. House,4,Dave Dawson,DEM,135,36,99
+Sac,Wall Lake,U.S. House,4,Dave Dawson,DEM,81,31,50
+Sac,Auburn,U.S. House,4,Write-In,,0,0,0
+Sac,Early,U.S. House,4,Write-In,,0,0,0
+Sac,Lake View,U.S. House,4,Write-In,,2,1,1
+Sac,Lytton,U.S. House,4,Write-In,,0,0,0
+Sac,Nemaha,U.S. House,4,Write-In,,0,0,0
+Sac,Odebolt,U.S. House,4,Write-In,,0,0,0
+Sac,Sac City,U.S. House,4,Write-In,,4,1,3
+Sac,Schaller,U.S. House,4,Write-In,,1,1,0
+Sac,Wall Lake,U.S. House,4,Write-In,,0,0,0
+Sac,Auburn,U.S. Senate,,Ashley Hinson,REP,128,7,121
+Sac,Early,U.S. Senate,,Ashley Hinson,REP,192,23,169
+Sac,Lake View,U.S. Senate,,Ashley Hinson,REP,573,131,442
+Sac,Lytton,U.S. Senate,,Ashley Hinson,REP,164,32,132
+Sac,Nemaha,U.S. Senate,,Ashley Hinson,REP,108,20,88
+Sac,Odebolt,U.S. Senate,,Ashley Hinson,REP,431,43,388
+Sac,Sac City,U.S. Senate,,Ashley Hinson,REP,511,165,346
+Sac,Schaller,U.S. Senate,,Ashley Hinson,REP,292,54,238
+Sac,Wall Lake,U.S. Senate,,Ashley Hinson,REP,369,68,301
+Sac,Auburn,U.S. Senate,,Josh Turek,DEM,58,14,44
+Sac,Early,U.S. Senate,,Josh Turek,DEM,99,17,82
+Sac,Lake View,U.S. Senate,,Josh Turek,DEM,257,90,167
+Sac,Lytton,U.S. Senate,,Josh Turek,DEM,78,32,46
+Sac,Nemaha,U.S. Senate,,Josh Turek,DEM,44,17,27
+Sac,Odebolt,U.S. Senate,,Josh Turek,DEM,136,36,100
+Sac,Sac City,U.S. Senate,,Josh Turek,DEM,401,164,237
+Sac,Schaller,U.S. Senate,,Josh Turek,DEM,157,37,120
+Sac,Wall Lake,U.S. Senate,,Josh Turek,DEM,96,36,60
+Sac,Auburn,U.S. Senate,,Thomas Laehn,LIB,8,0,8
+Sac,Early,U.S. Senate,,Thomas Laehn,LIB,11,0,11
+Sac,Lake View,U.S. Senate,,Thomas Laehn,LIB,35,7,28
+Sac,Lytton,U.S. Senate,,Thomas Laehn,LIB,10,2,8
+Sac,Nemaha,U.S. Senate,,Thomas Laehn,LIB,8,1,7
+Sac,Odebolt,U.S. Senate,,Thomas Laehn,LIB,18,1,17
+Sac,Sac City,U.S. Senate,,Thomas Laehn,LIB,50,18,32
+Sac,Schaller,U.S. Senate,,Thomas Laehn,LIB,20,5,15
+Sac,Wall Lake,U.S. Senate,,Thomas Laehn,LIB,15,1,14
+Sac,Auburn,U.S. Senate,,Write-In,,0,0,0
+Sac,Early,U.S. Senate,,Write-In,,0,0,0
+Sac,Lake View,U.S. Senate,,Write-In,,0,0,0
+Sac,Lytton,U.S. Senate,,Write-In,,0,0,0
+Sac,Nemaha,U.S. Senate,,Write-In,,0,0,0
+Sac,Odebolt,U.S. Senate,,Write-In,,0,0,0
+Sac,Sac City,U.S. Senate,,Write-In,,0,0,0
+Sac,Schaller,U.S. Senate,,Write-In,,1,0,1
+Sac,Wall Lake,U.S. Senate,,Write-In,,0,0,0

@@ -1,0 +1,339 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Wayne,A01,Attorney General,,Brenna Bird,REP,387,102,285
+Wayne,C02,Attorney General,,Brenna Bird,REP,500,215,285
+Wayne,H03,Attorney General,,Brenna Bird,REP,352,99,253
+Wayne,S04,Attorney General,,Brenna Bird,REP,335,73,262
+Wayne,A01,Attorney General,,Nate Willems,DEM,119,52,67
+Wayne,C02,Attorney General,,Nate Willems,DEM,253,127,126
+Wayne,H03,Attorney General,,Nate Willems,DEM,161,61,100
+Wayne,S04,Attorney General,,Nate Willems,DEM,148,62,86
+Wayne,A01,Attorney General,,Write-In,,0,0,0
+Wayne,C02,Attorney General,,Write-In,,0,0,0
+Wayne,H03,Attorney General,,Write-In,,0,0,0
+Wayne,S04,Attorney General,,Write-In,,1,0,1
+Wayne,A01,Auditor of State,,Chris Cournoyer,REP,380,98,282
+Wayne,C02,Auditor of State,,Chris Cournoyer,REP,499,210,289
+Wayne,H03,Auditor of State,,Chris Cournoyer,REP,362,104,258
+Wayne,S04,Auditor of State,,Chris Cournoyer,REP,334,72,262
+Wayne,A01,Auditor of State,,Taylor Wettach,DEM,115,52,63
+Wayne,C02,Auditor of State,,Taylor Wettach,DEM,237,120,117
+Wayne,H03,Auditor of State,,Taylor Wettach,DEM,160,59,101
+Wayne,S04,Auditor of State,,Taylor Wettach,DEM,140,60,80
+Wayne,A01,Auditor of State,,Write-In,,1,0,1
+Wayne,C02,Auditor of State,,Write-In,,0,0,0
+Wayne,H03,Auditor of State,,Write-In,,0,0,0
+Wayne,S04,Auditor of State,,Write-In,,3,1,2
+Wayne,C02,Benton Township Clerk,,Denise Goben,,90,53,37
+Wayne,C02,Benton Township Clerk,,Write-In,,0,0,0
+Wayne,C02,Benton Township Trustee,,Jane Cooley,,69,39,30
+Wayne,C02,Benton Township Trustee,,Richard Crawford,,70,44,26
+Wayne,C02,Benton Township Trustee,,Write-In,,1,0,1
+Wayne,H03,Clay Township Clerk,,Logan Wallace,,74,24,50
+Wayne,H03,Clay Township Clerk,,Write-In,,1,0,1
+Wayne,H03,Clay Township Trustee,,Chuck McCullough,,62,19,43
+Wayne,H03,Clay Township Trustee,,Eric Couchman,,73,26,47
+Wayne,H03,Clay Township Trustee,,Write-In,,2,0,2
+Wayne,A01,Clinton Township Clerk,,Jennie Clow,,38,9,29
+Wayne,A01,Clinton Township Clerk,,Write-In,,0,0,0
+Wayne,A01,Clinton Township Trustee,,Jerry Clow,,35,9,26
+Wayne,A01,Clinton Township Trustee,,Ralph Richardson,,31,8,23
+Wayne,A01,Clinton Township Trustee,,Write-In,,1,0,1
+Wayne,A01,Constitutional Amendment 1,,No,,146,34,112
+Wayne,C02,Constitutional Amendment 1,,No,,246,121,125
+Wayne,H03,Constitutional Amendment 1,,No,,176,56,120
+Wayne,S04,Constitutional Amendment 1,,No,,148,41,107
+Wayne,A01,Constitutional Amendment 1,,Yes,,292,95,197
+Wayne,C02,Constitutional Amendment 1,,Yes,,422,169,253
+Wayne,H03,Constitutional Amendment 1,,Yes,,282,84,198
+Wayne,S04,Constitutional Amendment 1,,Yes,,283,71,212
+Wayne,C02,Corydon Township Clerk,,Brenda Dodson,,101,42,59
+Wayne,C02,Corydon Township Clerk,,Write-In,,0,0,0
+Wayne,C02,Corydon Township Trustee,,Chase Clark,,74,32,42
+Wayne,C02,Corydon Township Trustee,,Dennis Campbell,,88,38,50
+Wayne,C02,Corydon Township Trustee,,Write-In,,0,0,0
+Wayne,A01,County Agricultural Extension Council Member,,Amy Wood,,396,114,282
+Wayne,C02,County Agricultural Extension Council Member,,Amy Wood,,573,255,318
+Wayne,H03,County Agricultural Extension Council Member,,Amy Wood,,371,107,264
+Wayne,S04,County Agricultural Extension Council Member,,Amy Wood,,342,95,247
+Wayne,A01,County Agricultural Extension Council Member,,Dave Daughton,,397,109,288
+Wayne,C02,County Agricultural Extension Council Member,,Dave Daughton,,587,263,324
+Wayne,H03,County Agricultural Extension Council Member,,Dave Daughton,,352,105,247
+Wayne,S04,County Agricultural Extension Council Member,,Dave Daughton,,343,93,250
+Wayne,A01,County Agricultural Extension Council Member,,Julie Rector,,332,94,238
+Wayne,C02,County Agricultural Extension Council Member,,Julie Rector,,468,218,250
+Wayne,H03,County Agricultural Extension Council Member,,Julie Rector,,312,94,218
+Wayne,S04,County Agricultural Extension Council Member,,Julie Rector,,283,83,200
+Wayne,A01,County Agricultural Extension Council Member,,Kristy Knutson,,336,96,240
+Wayne,C02,County Agricultural Extension Council Member,,Kristy Knutson,,486,225,261
+Wayne,H03,County Agricultural Extension Council Member,,Kristy Knutson,,321,92,229
+Wayne,S04,County Agricultural Extension Council Member,,Kristy Knutson,,291,86,205
+Wayne,A01,County Agricultural Extension Council Member,,Lindsey Westphal,,342,94,248
+Wayne,C02,County Agricultural Extension Council Member,,Lindsey Westphal,,490,219,271
+Wayne,H03,County Agricultural Extension Council Member,,Lindsey Westphal,,314,95,219
+Wayne,S04,County Agricultural Extension Council Member,,Lindsey Westphal,,330,87,243
+Wayne,A01,County Agricultural Extension Council Member,,Write-In,,9,2,7
+Wayne,C02,County Agricultural Extension Council Member,,Write-In,,4,1,3
+Wayne,H03,County Agricultural Extension Council Member,,Write-In,,1,1,0
+Wayne,S04,County Agricultural Extension Council Member,,Write-In,,9,2,7
+Wayne,A01,County Attorney,,Alan M. Wilson,REP,401,120,281
+Wayne,C02,County Attorney,,Alan M. Wilson,REP,589,260,329
+Wayne,H03,County Attorney,,Alan M. Wilson,REP,396,108,288
+Wayne,S04,County Attorney,,Alan M. Wilson,REP,350,91,259
+Wayne,A01,County Attorney,,Write-In,,20,5,15
+Wayne,C02,County Attorney,,Write-In,,30,8,22
+Wayne,H03,County Attorney,,Write-In,,10,0,10
+Wayne,S04,County Attorney,,Write-In,,21,6,15
+Wayne,A01,County Board of Supervisors,,Christopher Moore,R,354,106,248
+Wayne,C02,County Board of Supervisors,,Christopher Moore,R,609,275,334
+Wayne,H03,County Board of Supervisors,,Christopher Moore,R,334,102,232
+Wayne,S04,County Board of Supervisors,,Christopher Moore,R,356,87,269
+Wayne,A01,County Board of Supervisors,,Lance K. Lange,REP,400,119,281
+Wayne,C02,County Board of Supervisors,,Lance K. Lange,REP,514,242,272
+Wayne,H03,County Board of Supervisors,,Lance K. Lange,REP,391,121,270
+Wayne,S04,County Board of Supervisors,,Lance K. Lange,REP,326,89,237
+Wayne,A01,County Board of Supervisors,,Write-In,,18,2,16
+Wayne,C02,County Board of Supervisors,,Write-In,,12,4,8
+Wayne,H03,County Board of Supervisors,,Write-In,,8,1,7
+Wayne,S04,County Board of Supervisors,,Write-In,,29,7,22
+Wayne,A01,County Hospital Trustee,,Darrell Cook,,338,95,243
+Wayne,C02,County Hospital Trustee,,Darrell Cook,,474,212,262
+Wayne,H03,County Hospital Trustee,,Darrell Cook,,308,92,216
+Wayne,S04,County Hospital Trustee,,Darrell Cook,,297,80,217
+Wayne,A01,County Hospital Trustee,,DeWayne Watters,,355,99,256
+Wayne,C02,County Hospital Trustee,,DeWayne Watters,,488,222,266
+Wayne,H03,County Hospital Trustee,,DeWayne Watters,,315,99,216
+Wayne,S04,County Hospital Trustee,,DeWayne Watters,,333,89,244
+Wayne,A01,County Hospital Trustee,,Jason Gibbs,,378,107,271
+Wayne,C02,County Hospital Trustee,,Jason Gibbs,,545,242,303
+Wayne,H03,County Hospital Trustee,,Jason Gibbs,,338,102,236
+Wayne,S04,County Hospital Trustee,,Jason Gibbs,,312,84,228
+Wayne,A01,County Hospital Trustee,,Jill Tueth,,328,95,233
+Wayne,C02,County Hospital Trustee,,Jill Tueth,,494,233,261
+Wayne,H03,County Hospital Trustee,,Jill Tueth,,374,107,267
+Wayne,S04,County Hospital Trustee,,Jill Tueth,,303,84,219
+Wayne,A01,County Hospital Trustee,,Misty Smotherman,,316,93,223
+Wayne,C02,County Hospital Trustee,,Misty Smotherman,,480,218,262
+Wayne,H03,County Hospital Trustee,,Misty Smotherman,,302,85,217
+Wayne,S04,County Hospital Trustee,,Misty Smotherman,,299,84,215
+Wayne,A01,County Hospital Trustee,,Write-In,,9,3,6
+Wayne,C02,County Hospital Trustee,,Write-In,,9,4,5
+Wayne,H03,County Hospital Trustee,,Write-In,,5,5,0
+Wayne,S04,County Hospital Trustee,,Write-In,,6,0,6
+Wayne,A01,County Recorder,,Angie Horton,DEM,428,130,298
+Wayne,C02,County Recorder,,Angie Horton,DEM,621,276,345
+Wayne,H03,County Recorder,,Angie Horton,DEM,441,131,310
+Wayne,S04,County Recorder,,Angie Horton,DEM,388,116,272
+Wayne,A01,County Recorder,,Write-In,,7,1,6
+Wayne,C02,County Recorder,,Write-In,,10,1,9
+Wayne,H03,County Recorder,,Write-In,,7,3,4
+Wayne,S04,County Recorder,,Write-In,,15,2,13
+Wayne,A01,County Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,38,12,26
+Wayne,C02,County Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,42,19,23
+Wayne,H03,County Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,27,9,18
+Wayne,S04,County Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,41,13,28
+Wayne,A01,County Treasurer,,Amanda Cooper,REP,469,133,336
+Wayne,C02,County Treasurer,,Amanda Cooper,REP,678,296,382
+Wayne,H03,County Treasurer,,Amanda Cooper,REP,462,137,325
+Wayne,S04,County Treasurer,,Amanda Cooper,REP,437,120,317
+Wayne,A01,County Treasurer,,Write-In,,6,4,2
+Wayne,C02,County Treasurer,,Write-In,,7,2,5
+Wayne,H03,County Treasurer,,Write-In,,4,0,4
+Wayne,S04,County Treasurer,,Write-In,,6,1,5
+Wayne,A01,Court of Appeals Judge - John M. Sandy,,No,,101,21,80
+Wayne,C02,Court of Appeals Judge - John M. Sandy,,No,,126,46,80
+Wayne,H03,Court of Appeals Judge - John M. Sandy,,No,,97,33,64
+Wayne,S04,Court of Appeals Judge - John M. Sandy,,No,,110,29,81
+Wayne,A01,Court of Appeals Judge - John M. Sandy,,Yes,,298,90,208
+Wayne,C02,Court of Appeals Judge - John M. Sandy,,Yes,,442,185,257
+Wayne,H03,Court of Appeals Judge - John M. Sandy,,Yes,,291,75,216
+Wayne,S04,Court of Appeals Judge - John M. Sandy,,Yes,,277,70,207
+Wayne,A01,Court of Appeals Judge - Julie A. Schumacher,,No,,94,17,77
+Wayne,C02,Court of Appeals Judge - Julie A. Schumacher,,No,,132,48,84
+Wayne,H03,Court of Appeals Judge - Julie A. Schumacher,,No,,96,31,65
+Wayne,S04,Court of Appeals Judge - Julie A. Schumacher,,No,,116,25,91
+Wayne,A01,Court of Appeals Judge - Julie A. Schumacher,,Yes,,296,92,204
+Wayne,C02,Court of Appeals Judge - Julie A. Schumacher,,Yes,,420,172,248
+Wayne,H03,Court of Appeals Judge - Julie A. Schumacher,,Yes,,285,76,209
+Wayne,S04,Court of Appeals Judge - Julie A. Schumacher,,Yes,,266,71,195
+Wayne,A01,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,100,18,82
+Wayne,C02,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,138,51,87
+Wayne,H03,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,108,33,75
+Wayne,S04,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,130,29,101
+Wayne,A01,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,286,87,199
+Wayne,C02,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,413,168,245
+Wayne,H03,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,273,74,199
+Wayne,S04,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,254,70,184
+Wayne,A01,District 5B Associate Judge - Andrew Zimmerman,,No,,104,24,80
+Wayne,C02,District 5B Associate Judge - Andrew Zimmerman,,No,,122,43,79
+Wayne,H03,District 5B Associate Judge - Andrew Zimmerman,,No,,112,37,75
+Wayne,S04,District 5B Associate Judge - Andrew Zimmerman,,No,,114,31,83
+Wayne,A01,District 5B Associate Judge - Andrew Zimmerman,,Yes,,289,88,201
+Wayne,C02,District 5B Associate Judge - Andrew Zimmerman,,Yes,,432,180,252
+Wayne,H03,District 5B Associate Judge - Andrew Zimmerman,,Yes,,273,73,200
+Wayne,S04,District 5B Associate Judge - Andrew Zimmerman,,Yes,,272,66,206
+Wayne,A01,District 5B Judge - Elisabeth S. Reynoldson,,No,,101,16,85
+Wayne,C02,District 5B Judge - Elisabeth S. Reynoldson,,No,,139,54,85
+Wayne,H03,District 5B Judge - Elisabeth S. Reynoldson,,No,,94,29,65
+Wayne,S04,District 5B Judge - Elisabeth S. Reynoldson,,No,,111,26,85
+Wayne,A01,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,294,95,199
+Wayne,C02,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,417,166,251
+Wayne,H03,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,299,82,217
+Wayne,S04,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,276,72,204
+Wayne,A01,Governor,,Rob Sand and Dave Muhlbauer,DEM,156,61,95
+Wayne,C02,Governor,,Rob Sand and Dave Muhlbauer,DEM,299,148,151
+Wayne,H03,Governor,,Rob Sand and Dave Muhlbauer,DEM,202,70,132
+Wayne,S04,Governor,,Rob Sand and Dave Muhlbauer,DEM,188,69,119
+Wayne,A01,Governor,,Write-In,,1,1,0
+Wayne,C02,Governor,,Write-In,,0,0,0
+Wayne,H03,Governor,,Write-In,,1,0,1
+Wayne,S04,Governor,,Write-In,,0,0,0
+Wayne,A01,Governor,,Zach Lahn and Derek Wulf,REP,351,91,260
+Wayne,C02,Governor,,Zach Lahn and Derek Wulf,REP,464,199,265
+Wayne,H03,Governor,,Zach Lahn and Derek Wulf,REP,328,96,232
+Wayne,S04,Governor,,Zach Lahn and Derek Wulf,REP,306,68,238
+Wayne,A01,Grand River Township Clerk,,Jani Ellis,,16,3,13
+Wayne,A01,Grand River Township Clerk,,Write-In,,0,0,0
+Wayne,A01,Grand River Township Trustee,,Cole Ellis,,14,2,12
+Wayne,A01,Grand River Township Trustee,,Mike Ellis,,15,3,12
+Wayne,A01,Grand River Township Trustee,,Write-In,,0,0,0
+Wayne,A01,Howard Township Clerk,,Lois Phillips,,24,7,17
+Wayne,A01,Howard Township Clerk,,Write-In,,0,0,0
+Wayne,A01,Howard Township Trustee,,Arthur Snider,,24,7,17
+Wayne,A01,Howard Township Trustee,,Don Liggett,,23,6,17
+Wayne,A01,Howard Township Trustee,,Write-In,,0,0,0
+Wayne,A01,Jackson Township Clerk,,Nick Sulser,,62,24,38
+Wayne,A01,Jackson Township Clerk,,Write-In,,0,0,0
+Wayne,A01,Jackson Township Trustee,,Gabe Hook,,59,22,37
+Wayne,A01,Jackson Township Trustee,,Tyson Polsdofer,,54,21,33
+Wayne,A01,Jackson Township Trustee,,Write-In,,0,0,0
+Wayne,A01,Jefferson Township Clerk,,Sheena Robinson,,49,18,31
+Wayne,A01,Jefferson Township Clerk,,Write-In,,1,0,1
+Wayne,A01,Jefferson Township Trustee,,Richard Casey,,46,17,29
+Wayne,A01,Jefferson Township Trustee,,Write-In,,3,0,3
+Wayne,A01,Jefferson Township Trustee,,Zachary Robinson,,45,18,27
+Wayne,S04,Monroe Township Clerk,,Stacey Westphal,,13,2,11
+Wayne,S04,Monroe Township Clerk,,Write-In,,0,0,0
+Wayne,S04,Monroe Township Trustee,,Donna Keller,,12,2,10
+Wayne,S04,Monroe Township Trustee,,Tom Lenig,,11,2,9
+Wayne,S04,Monroe Township Trustee,,Write-In,,0,0,0
+Wayne,H03,Richman Township Clerk,,Amy Peplinski,,41,13,28
+Wayne,H03,Richman Township Clerk,,Write-In,,1,0,1
+Wayne,H03,Richman Township Trustee,,Sheri Shanks,,33,12,21
+Wayne,H03,Richman Township Trustee,,Tyler Anderson,,47,15,32
+Wayne,H03,Richman Township Trustee,,Write-In,,0,0,0
+Wayne,A01,Secretary of Agriculture,,Chris Jones,DEM,103,45,58
+Wayne,C02,Secretary of Agriculture,,Chris Jones,DEM,227,116,111
+Wayne,H03,Secretary of Agriculture,,Chris Jones,DEM,140,54,86
+Wayne,S04,Secretary of Agriculture,,Chris Jones,DEM,128,55,73
+Wayne,A01,Secretary of Agriculture,,Mike Naig,REP,399,107,292
+Wayne,C02,Secretary of Agriculture,,Mike Naig,REP,517,220,297
+Wayne,H03,Secretary of Agriculture,,Mike Naig,REP,385,111,274
+Wayne,S04,Secretary of Agriculture,,Mike Naig,REP,356,80,276
+Wayne,A01,Secretary of Agriculture,,Write-In,,0,0,0
+Wayne,C02,Secretary of Agriculture,,Write-In,,2,2,0
+Wayne,H03,Secretary of Agriculture,,Write-In,,0,0,0
+Wayne,S04,Secretary of Agriculture,,Write-In,,2,1,1
+Wayne,A01,Secretary of State,,Paul D. Pate,REP,398,105,293
+Wayne,C02,Secretary of State,,Paul D. Pate,REP,530,227,303
+Wayne,H03,Secretary of State,,Paul D. Pate,REP,382,110,272
+Wayne,S04,Secretary of State,,Paul D. Pate,REP,353,76,277
+Wayne,A01,Secretary of State,,Ryan Peterman,DEM,105,47,58
+Wayne,C02,Secretary of State,,Ryan Peterman,DEM,215,106,109
+Wayne,H03,Secretary of State,,Ryan Peterman,DEM,137,53,84
+Wayne,S04,Secretary of State,,Ryan Peterman,DEM,128,57,71
+Wayne,A01,Secretary of State,,Write-In,,1,0,1
+Wayne,C02,Secretary of State,,Write-In,,1,1,0
+Wayne,H03,Secretary of State,,Write-In,,0,0,0
+Wayne,S04,Secretary of State,,Write-In,,2,1,1
+Wayne,A01,Soil and Water Conservation District Commissioner,,Justin Hopkins,,395,114,281
+Wayne,C02,Soil and Water Conservation District Commissioner,,Justin Hopkins,,569,243,326
+Wayne,H03,Soil and Water Conservation District Commissioner,,Justin Hopkins,,344,103,241
+Wayne,S04,Soil and Water Conservation District Commissioner,,Justin Hopkins,,377,94,283
+Wayne,A01,Soil and Water Conservation District Commissioner,,Mary Ellen Miller,,304,87,217
+Wayne,C02,Soil and Water Conservation District Commissioner,,Mary Ellen Miller,,466,210,256
+Wayne,H03,Soil and Water Conservation District Commissioner,,Mary Ellen Miller,,301,82,219
+Wayne,S04,Soil and Water Conservation District Commissioner,,Mary Ellen Miller,,292,83,209
+Wayne,A01,Soil and Water Conservation District Commissioner,,Write-In,,11,7,4
+Wayne,C02,Soil and Water Conservation District Commissioner,,Write-In,,8,5,3
+Wayne,H03,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Wayne,S04,Soil and Water Conservation District Commissioner,,Write-In,,8,3,5
+Wayne,S04,South Fork Township Clerk,,Lisa Kent,,89,30,59
+Wayne,S04,South Fork Township Clerk,,Write-In,,0,0,0
+Wayne,S04,South Fork Township Trustee,,Dale Clark,,72,21,51
+Wayne,S04,South Fork Township Trustee,,Doug Kent,,88,31,57
+Wayne,S04,South Fork Township Trustee,,Write-In,,2,0,2
+Wayne,A01,State House,24,Sam Wengryn,REP,375,93,282
+Wayne,C02,State House,24,Sam Wengryn,REP,482,197,285
+Wayne,H03,State House,24,Sam Wengryn,REP,353,103,250
+Wayne,S04,State House,24,Sam Wengryn,REP,328,70,258
+Wayne,A01,State House,24,Sonya Hicks,DEM,124,57,67
+Wayne,C02,State House,24,Sonya Hicks,DEM,263,136,127
+Wayne,H03,State House,24,Sonya Hicks,DEM,162,58,104
+Wayne,S04,State House,24,Sonya Hicks,DEM,147,62,85
+Wayne,A01,State House,24,Write-In,,0,0,0
+Wayne,C02,State House,24,Write-In,,1,0,1
+Wayne,H03,State House,24,Write-In,,0,0,0
+Wayne,S04,State House,24,Write-In,,1,0,1
+Wayne,A01,Treasurer of State,,John Norwood,DEM,123,54,69
+Wayne,C02,Treasurer of State,,John Norwood,DEM,226,117,109
+Wayne,H03,Treasurer of State,,John Norwood,DEM,163,60,103
+Wayne,S04,Treasurer of State,,John Norwood,DEM,135,59,76
+Wayne,A01,Treasurer of State,,Roby Smith,REP,377,97,280
+Wayne,C02,Treasurer of State,,Roby Smith,REP,510,211,299
+Wayne,H03,Treasurer of State,,Roby Smith,REP,353,101,252
+Wayne,S04,Treasurer of State,,Roby Smith,REP,343,75,268
+Wayne,A01,Treasurer of State,,Write-In,,0,0,0
+Wayne,C02,Treasurer of State,,Write-In,,1,1,0
+Wayne,H03,Treasurer of State,,Write-In,,0,0,0
+Wayne,S04,Treasurer of State,,Write-In,,1,0,1
+Wayne,A01,U.S. House,3,Sarah Trone Garriott,DEM,112,54,58
+Wayne,C02,U.S. House,3,Sarah Trone Garriott,DEM,226,119,107
+Wayne,H03,U.S. House,3,Sarah Trone Garriott,DEM,152,59,93
+Wayne,S04,U.S. House,3,Sarah Trone Garriott,DEM,140,63,77
+Wayne,A01,U.S. House,3,Write-In,,1,0,1
+Wayne,C02,U.S. House,3,Write-In,,0,0,0
+Wayne,H03,U.S. House,3,Write-In,,1,0,1
+Wayne,S04,U.S. House,3,Write-In,,3,0,3
+Wayne,A01,U.S. House,3,Zach Nunn,REP,391,98,293
+Wayne,C02,U.S. House,3,Zach Nunn,REP,528,222,306
+Wayne,H03,U.S. House,3,Zach Nunn,REP,370,105,265
+Wayne,S04,U.S. House,3,Zach Nunn,REP,333,71,262
+Wayne,A01,U.S. Senate,,Ashley Hinson,REP,356,89,267
+Wayne,C02,U.S. Senate,,Ashley Hinson,REP,479,206,273
+Wayne,H03,U.S. Senate,,Ashley Hinson,REP,338,96,242
+Wayne,S04,U.S. Senate,,Ashley Hinson,REP,310,65,245
+Wayne,A01,U.S. Senate,,Josh Turek,DEM,128,54,74
+Wayne,C02,U.S. Senate,,Josh Turek,DEM,251,126,125
+Wayne,H03,U.S. Senate,,Josh Turek,DEM,168,64,104
+Wayne,S04,U.S. Senate,,Josh Turek,DEM,145,63,82
+Wayne,A01,U.S. Senate,,Thomas Laehn,LIB,17,6,11
+Wayne,C02,U.S. Senate,,Thomas Laehn,LIB,24,6,18
+Wayne,H03,U.S. Senate,,Thomas Laehn,LIB,19,4,15
+Wayne,S04,U.S. Senate,,Thomas Laehn,LIB,19,6,13
+Wayne,A01,U.S. Senate,,Write-In,,0,0,0
+Wayne,C02,U.S. Senate,,Write-In,,0,0,0
+Wayne,H03,U.S. Senate,,Write-In,,0,0,0
+Wayne,S04,U.S. Senate,,Write-In,,2,0,2
+Wayne,H03,Union Township Clerk,,Write-In,,16,5,11
+Wayne,H03,Union Township Trustee,,Brent Werts,,65,30,35
+Wayne,H03,Union Township Trustee,,Chad Lukavsky,,57,22,35
+Wayne,H03,Union Township Trustee,,Write-In,,0,0,0
+Wayne,S04,Walnut Township Clerk,,Ray Cook,,43,9,34
+Wayne,S04,Walnut Township Clerk,,Write-In,,0,0,0
+Wayne,S04,Walnut Township Trustee,,Don DeVore,,43,9,34
+Wayne,S04,Walnut Township Trustee,,Thomas E. Sager,,39,9,30
+Wayne,S04,Walnut Township Trustee,,Write-In,,0,0,0
+Wayne,A01,Warren Township Clerk,,Jean Wampler,,54,17,37
+Wayne,A01,Warren Township Clerk,,Write-In,,0,0,0
+Wayne,A01,Warren Township Trustee,,Rhonda Bennett,,51,15,36
+Wayne,A01,Warren Township Trustee,,Tim Couchman,,54,14,40
+Wayne,A01,Warren Township Trustee,,Write-In,,0,0,0
+Wayne,H03,Washington Township Clerk,,Cheri Nyberg,,69,24,45
+Wayne,H03,Washington Township Clerk,,Write-In,,0,0,0
+Wayne,H03,Washington Township Trustee,,Randy Hullinger,,75,25,50
+Wayne,H03,Washington Township Trustee,,Write-In,,13,3,10
+Wayne,S04,Wright Township Clerk,,Angie Carpenter,,87,23,64
+Wayne,S04,Wright Township Clerk,,Write-In,,0,0,0
+Wayne,S04,Wright Township Trustee,,Doug Carpenter,,76,22,54
+Wayne,S04,Wright Township Trustee,,Timothy Alexander,,65,17,48
+Wayne,S04,Wright Township Trustee,,Write-In,,6,2,4

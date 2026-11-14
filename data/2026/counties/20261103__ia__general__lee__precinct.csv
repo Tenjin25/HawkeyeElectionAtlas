@@ -1,0 +1,1325 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Lee,CE CH,Attorney General,,Brenna Bird,REP,553,164,389
+Lee,DM JK,Attorney General,,Brenna Bird,REP,594,179,415
+Lee,EMO,Attorney General,,Brenna Bird,REP,269,42,227
+Lee,FM1,Attorney General,,Brenna Bird,REP,214,77,137
+Lee,FM2,Attorney General,,Brenna Bird,REP,261,116,145
+Lee,FM3,Attorney General,,Brenna Bird,REP,250,92,158
+Lee,FM4A,Attorney General,,Brenna Bird,REP,235,106,129
+Lee,FM4B,Attorney General,,Brenna Bird,REP,99,38,61
+Lee,FM5,Attorney General,,Brenna Bird,REP,347,150,197
+Lee,GBDNPR,Attorney General,,Brenna Bird,REP,487,187,300
+Lee,JF WMO,Attorney General,,Brenna Bird,REP,400,130,270
+Lee,KE1,Attorney General,,Brenna Bird,REP,170,45,125
+Lee,KE2A,Attorney General,,Brenna Bird,REP,111,19,92
+Lee,KE2B,Attorney General,,Brenna Bird,REP,27,3,24
+Lee,KE3,Attorney General,,Brenna Bird,REP,165,42,123
+Lee,KE4,Attorney General,,Brenna Bird,REP,139,16,123
+Lee,KE5,Attorney General,,Brenna Bird,REP,292,58,234
+Lee,KE6,Attorney General,,Brenna Bird,REP,150,46,104
+Lee,KE7,Attorney General,,Brenna Bird,REP,302,79,223
+Lee,MR FR,Attorney General,,Brenna Bird,REP,511,128,383
+Lee,WP,Attorney General,,Brenna Bird,REP,501,144,357
+Lee,WS,Attorney General,,Brenna Bird,REP,420,161,259
+Lee,CE CH,Attorney General,,Nate Willems,DEM,211,96,115
+Lee,DM JK,Attorney General,,Nate Willems,DEM,293,157,136
+Lee,EMO,Attorney General,,Nate Willems,DEM,194,60,134
+Lee,FM1,Attorney General,,Nate Willems,DEM,294,154,140
+Lee,FM2,Attorney General,,Nate Willems,DEM,353,165,188
+Lee,FM3,Attorney General,,Nate Willems,DEM,398,198,200
+Lee,FM4A,Attorney General,,Nate Willems,DEM,296,177,119
+Lee,FM4B,Attorney General,,Nate Willems,DEM,131,88,43
+Lee,FM5,Attorney General,,Nate Willems,DEM,437,275,162
+Lee,GBDNPR,Attorney General,,Nate Willems,DEM,273,158,115
+Lee,JF WMO,Attorney General,,Nate Willems,DEM,191,98,93
+Lee,KE1,Attorney General,,Nate Willems,DEM,174,75,99
+Lee,KE2A,Attorney General,,Nate Willems,DEM,127,40,87
+Lee,KE2B,Attorney General,,Nate Willems,DEM,30,3,27
+Lee,KE3,Attorney General,,Nate Willems,DEM,203,80,123
+Lee,KE4,Attorney General,,Nate Willems,DEM,145,61,84
+Lee,KE5,Attorney General,,Nate Willems,DEM,293,122,171
+Lee,KE6,Attorney General,,Nate Willems,DEM,206,84,122
+Lee,KE7,Attorney General,,Nate Willems,DEM,252,109,143
+Lee,MR FR,Attorney General,,Nate Willems,DEM,250,107,143
+Lee,WP,Attorney General,,Nate Willems,DEM,313,168,145
+Lee,WS,Attorney General,,Nate Willems,DEM,271,151,120
+Lee,CE CH,Attorney General,,Write-In,,0,0,0
+Lee,DM JK,Attorney General,,Write-In,,0,0,0
+Lee,EMO,Attorney General,,Write-In,,2,0,2
+Lee,FM1,Attorney General,,Write-In,,1,1,0
+Lee,FM2,Attorney General,,Write-In,,0,0,0
+Lee,FM3,Attorney General,,Write-In,,1,1,0
+Lee,FM4A,Attorney General,,Write-In,,0,0,0
+Lee,FM4B,Attorney General,,Write-In,,0,0,0
+Lee,FM5,Attorney General,,Write-In,,1,0,1
+Lee,GBDNPR,Attorney General,,Write-In,,2,0,2
+Lee,JF WMO,Attorney General,,Write-In,,1,0,1
+Lee,KE1,Attorney General,,Write-In,,1,0,1
+Lee,KE2A,Attorney General,,Write-In,,1,1,0
+Lee,KE2B,Attorney General,,Write-In,,0,0,0
+Lee,KE3,Attorney General,,Write-In,,1,1,0
+Lee,KE4,Attorney General,,Write-In,,0,0,0
+Lee,KE5,Attorney General,,Write-In,,0,0,0
+Lee,KE6,Attorney General,,Write-In,,0,0,0
+Lee,KE7,Attorney General,,Write-In,,0,0,0
+Lee,MR FR,Attorney General,,Write-In,,0,0,0
+Lee,WP,Attorney General,,Write-In,,0,0,0
+Lee,WS,Attorney General,,Write-In,,0,0,0
+Lee,CE CH,Auditor of State,,Chris Cournoyer,REP,552,166,386
+Lee,DM JK,Auditor of State,,Chris Cournoyer,REP,600,180,420
+Lee,EMO,Auditor of State,,Chris Cournoyer,REP,264,37,227
+Lee,FM1,Auditor of State,,Chris Cournoyer,REP,222,80,142
+Lee,FM2,Auditor of State,,Chris Cournoyer,REP,263,113,150
+Lee,FM3,Auditor of State,,Chris Cournoyer,REP,260,98,162
+Lee,FM4A,Auditor of State,,Chris Cournoyer,REP,242,104,138
+Lee,FM4B,Auditor of State,,Chris Cournoyer,REP,102,43,59
+Lee,FM5,Auditor of State,,Chris Cournoyer,REP,339,147,192
+Lee,GBDNPR,Auditor of State,,Chris Cournoyer,REP,476,177,299
+Lee,JF WMO,Auditor of State,,Chris Cournoyer,REP,385,123,262
+Lee,KE1,Auditor of State,,Chris Cournoyer,REP,167,45,122
+Lee,KE2A,Auditor of State,,Chris Cournoyer,REP,106,18,88
+Lee,KE2B,Auditor of State,,Chris Cournoyer,REP,27,3,24
+Lee,KE3,Auditor of State,,Chris Cournoyer,REP,171,43,128
+Lee,KE4,Auditor of State,,Chris Cournoyer,REP,138,17,121
+Lee,KE5,Auditor of State,,Chris Cournoyer,REP,299,63,236
+Lee,KE6,Auditor of State,,Chris Cournoyer,REP,151,47,104
+Lee,KE7,Auditor of State,,Chris Cournoyer,REP,312,79,233
+Lee,MR FR,Auditor of State,,Chris Cournoyer,REP,486,115,371
+Lee,WP,Auditor of State,,Chris Cournoyer,REP,487,137,350
+Lee,WS,Auditor of State,,Chris Cournoyer,REP,418,158,260
+Lee,CE CH,Auditor of State,,Taylor Wettach,DEM,211,96,115
+Lee,DM JK,Auditor of State,,Taylor Wettach,DEM,292,160,132
+Lee,EMO,Auditor of State,,Taylor Wettach,DEM,200,66,134
+Lee,FM1,Auditor of State,,Taylor Wettach,DEM,282,150,132
+Lee,FM2,Auditor of State,,Taylor Wettach,DEM,348,165,183
+Lee,FM3,Auditor of State,,Taylor Wettach,DEM,384,192,192
+Lee,FM4A,Auditor of State,,Taylor Wettach,DEM,288,177,111
+Lee,FM4B,Auditor of State,,Taylor Wettach,DEM,126,82,44
+Lee,FM5,Auditor of State,,Taylor Wettach,DEM,443,274,169
+Lee,GBDNPR,Auditor of State,,Taylor Wettach,DEM,289,167,122
+Lee,JF WMO,Auditor of State,,Taylor Wettach,DEM,201,102,99
+Lee,KE1,Auditor of State,,Taylor Wettach,DEM,178,77,101
+Lee,KE2A,Auditor of State,,Taylor Wettach,DEM,131,41,90
+Lee,KE2B,Auditor of State,,Taylor Wettach,DEM,30,3,27
+Lee,KE3,Auditor of State,,Taylor Wettach,DEM,198,80,118
+Lee,KE4,Auditor of State,,Taylor Wettach,DEM,146,60,86
+Lee,KE5,Auditor of State,,Taylor Wettach,DEM,283,117,166
+Lee,KE6,Auditor of State,,Taylor Wettach,DEM,203,82,121
+Lee,KE7,Auditor of State,,Taylor Wettach,DEM,242,109,133
+Lee,MR FR,Auditor of State,,Taylor Wettach,DEM,269,118,151
+Lee,WP,Auditor of State,,Taylor Wettach,DEM,322,174,148
+Lee,WS,Auditor of State,,Taylor Wettach,DEM,278,157,121
+Lee,CE CH,Auditor of State,,Write-In,,0,0,0
+Lee,DM JK,Auditor of State,,Write-In,,0,0,0
+Lee,EMO,Auditor of State,,Write-In,,1,0,1
+Lee,FM1,Auditor of State,,Write-In,,0,0,0
+Lee,FM2,Auditor of State,,Write-In,,0,0,0
+Lee,FM3,Auditor of State,,Write-In,,1,1,0
+Lee,FM4A,Auditor of State,,Write-In,,0,0,0
+Lee,FM4B,Auditor of State,,Write-In,,0,0,0
+Lee,FM5,Auditor of State,,Write-In,,0,0,0
+Lee,GBDNPR,Auditor of State,,Write-In,,1,0,1
+Lee,JF WMO,Auditor of State,,Write-In,,1,0,1
+Lee,KE1,Auditor of State,,Write-In,,1,0,1
+Lee,KE2A,Auditor of State,,Write-In,,0,0,0
+Lee,KE2B,Auditor of State,,Write-In,,0,0,0
+Lee,KE3,Auditor of State,,Write-In,,0,0,0
+Lee,KE4,Auditor of State,,Write-In,,0,0,0
+Lee,KE5,Auditor of State,,Write-In,,1,0,1
+Lee,KE6,Auditor of State,,Write-In,,1,1,0
+Lee,KE7,Auditor of State,,Write-In,,1,1,0
+Lee,MR FR,Auditor of State,,Write-In,,0,0,0
+Lee,WP,Auditor of State,,Write-In,,0,0,0
+Lee,WS,Auditor of State,,Write-In,,0,0,0
+Lee,CE CH,Cedar Township Clerk,,Robert W. Moeller,,87,33,54
+Lee,CE CH,Cedar Township Clerk,,Write-In,,0,0,0
+Lee,CE CH,Cedar Township Trustee,,Philip Peitz,,89,33,56
+Lee,CE CH,Cedar Township Trustee,,Write-In,,1,1,0
+Lee,CE CH,Charleston Township Clerk,,Joan Crowe,,211,54,157
+Lee,CE CH,Charleston Township Clerk,,Write-In,,0,0,0
+Lee,CE CH,Charleston Township Trustee,,Write-In,,38,11,27
+Lee,CE CH,Charleston Township Trustee To Fill a Vacancy,,Write-In,,30,9,21
+Lee,CE CH,Constitutional Amendment 1,,No,,260,101,159
+Lee,DM JK,Constitutional Amendment 1,,No,,302,131,171
+Lee,EMO,Constitutional Amendment 1,,No,,156,43,113
+Lee,FM1,Constitutional Amendment 1,,No,,216,97,119
+Lee,FM2,Constitutional Amendment 1,,No,,255,121,134
+Lee,FM3,Constitutional Amendment 1,,No,,277,138,139
+Lee,FM4A,Constitutional Amendment 1,,No,,210,123,87
+Lee,FM4B,Constitutional Amendment 1,,No,,81,43,38
+Lee,FM5,Constitutional Amendment 1,,No,,328,186,142
+Lee,GBDNPR,Constitutional Amendment 1,,No,,249,128,121
+Lee,JF WMO,Constitutional Amendment 1,,No,,183,70,113
+Lee,KE1,Constitutional Amendment 1,,No,,136,54,82
+Lee,KE2A,Constitutional Amendment 1,,No,,87,22,65
+Lee,KE2B,Constitutional Amendment 1,,No,,25,3,22
+Lee,KE3,Constitutional Amendment 1,,No,,152,48,104
+Lee,KE4,Constitutional Amendment 1,,No,,112,36,76
+Lee,KE5,Constitutional Amendment 1,,No,,249,83,166
+Lee,KE6,Constitutional Amendment 1,,No,,139,58,81
+Lee,KE7,Constitutional Amendment 1,,No,,195,77,118
+Lee,MR FR,Constitutional Amendment 1,,No,,249,93,156
+Lee,WP,Constitutional Amendment 1,,No,,245,109,136
+Lee,WS,Constitutional Amendment 1,,No,,252,122,130
+Lee,CE CH,Constitutional Amendment 1,,Yes,,463,142,321
+Lee,DM JK,Constitutional Amendment 1,,Yes,,549,188,361
+Lee,EMO,Constitutional Amendment 1,,Yes,,284,52,232
+Lee,FM1,Constitutional Amendment 1,,Yes,,261,121,140
+Lee,FM2,Constitutional Amendment 1,,Yes,,310,130,180
+Lee,FM3,Constitutional Amendment 1,,Yes,,335,136,199
+Lee,FM4A,Constitutional Amendment 1,,Yes,,276,142,134
+Lee,FM4B,Constitutional Amendment 1,,Yes,,125,70,55
+Lee,FM5,Constitutional Amendment 1,,Yes,,401,194,207
+Lee,GBDNPR,Constitutional Amendment 1,,Yes,,458,187,271
+Lee,JF WMO,Constitutional Amendment 1,,Yes,,367,142,225
+Lee,KE1,Constitutional Amendment 1,,Yes,,181,58,123
+Lee,KE2A,Constitutional Amendment 1,,Yes,,135,30,105
+Lee,KE2B,Constitutional Amendment 1,,Yes,,29,3,26
+Lee,KE3,Constitutional Amendment 1,,Yes,,184,63,121
+Lee,KE4,Constitutional Amendment 1,,Yes,,143,28,115
+Lee,KE5,Constitutional Amendment 1,,Yes,,302,83,219
+Lee,KE6,Constitutional Amendment 1,,Yes,,179,59,120
+Lee,KE7,Constitutional Amendment 1,,Yes,,303,94,209
+Lee,MR FR,Constitutional Amendment 1,,Yes,,468,119,349
+Lee,WP,Constitutional Amendment 1,,Yes,,497,185,312
+Lee,WS,Constitutional Amendment 1,,Yes,,401,169,232
+Lee,CE CH,County Agricultural Extension Council Member,,Jamie Kramer,,491,154,337
+Lee,DM JK,County Agricultural Extension Council Member,,Jamie Kramer,,536,182,354
+Lee,EMO,County Agricultural Extension Council Member,,Jamie Kramer,,276,55,221
+Lee,FM1,County Agricultural Extension Council Member,,Jamie Kramer,,262,115,147
+Lee,FM2,County Agricultural Extension Council Member,,Jamie Kramer,,284,118,166
+Lee,FM3,County Agricultural Extension Council Member,,Jamie Kramer,,325,147,178
+Lee,FM4A,County Agricultural Extension Council Member,,Jamie Kramer,,279,146,133
+Lee,FM4B,County Agricultural Extension Council Member,,Jamie Kramer,,137,75,62
+Lee,FM5,County Agricultural Extension Council Member,,Jamie Kramer,,385,194,191
+Lee,GBDNPR,County Agricultural Extension Council Member,,Jamie Kramer,,430,186,244
+Lee,JF WMO,County Agricultural Extension Council Member,,Jamie Kramer,,338,118,220
+Lee,KE1,County Agricultural Extension Council Member,,Jamie Kramer,,168,64,104
+Lee,KE2A,County Agricultural Extension Council Member,,Jamie Kramer,,115,32,83
+Lee,KE2B,County Agricultural Extension Council Member,,Jamie Kramer,,28,2,26
+Lee,KE3,County Agricultural Extension Council Member,,Jamie Kramer,,201,61,140
+Lee,KE4,County Agricultural Extension Council Member,,Jamie Kramer,,147,35,112
+Lee,KE5,County Agricultural Extension Council Member,,Jamie Kramer,,329,94,235
+Lee,KE6,County Agricultural Extension Council Member,,Jamie Kramer,,191,69,122
+Lee,KE7,County Agricultural Extension Council Member,,Jamie Kramer,,327,114,213
+Lee,MR FR,County Agricultural Extension Council Member,,Jamie Kramer,,545,155,390
+Lee,WP,County Agricultural Extension Council Member,,Jamie Kramer,,455,184,271
+Lee,WS,County Agricultural Extension Council Member,,Jamie Kramer,,378,152,226
+Lee,CE CH,County Agricultural Extension Council Member,,Lizabeth Moeller,,486,156,330
+Lee,DM JK,County Agricultural Extension Council Member,,Lizabeth Moeller,,512,185,327
+Lee,EMO,County Agricultural Extension Council Member,,Lizabeth Moeller,,275,59,216
+Lee,FM1,County Agricultural Extension Council Member,,Lizabeth Moeller,,264,116,148
+Lee,FM2,County Agricultural Extension Council Member,,Lizabeth Moeller,,293,120,173
+Lee,FM3,County Agricultural Extension Council Member,,Lizabeth Moeller,,327,146,181
+Lee,FM4A,County Agricultural Extension Council Member,,Lizabeth Moeller,,276,149,127
+Lee,FM4B,County Agricultural Extension Council Member,,Lizabeth Moeller,,133,75,58
+Lee,FM5,County Agricultural Extension Council Member,,Lizabeth Moeller,,405,206,199
+Lee,GBDNPR,County Agricultural Extension Council Member,,Lizabeth Moeller,,439,193,246
+Lee,JF WMO,County Agricultural Extension Council Member,,Lizabeth Moeller,,319,115,204
+Lee,KE1,County Agricultural Extension Council Member,,Lizabeth Moeller,,173,63,110
+Lee,KE2A,County Agricultural Extension Council Member,,Lizabeth Moeller,,117,32,85
+Lee,KE2B,County Agricultural Extension Council Member,,Lizabeth Moeller,,26,1,25
+Lee,KE3,County Agricultural Extension Council Member,,Lizabeth Moeller,,212,69,143
+Lee,KE4,County Agricultural Extension Council Member,,Lizabeth Moeller,,151,36,115
+Lee,KE5,County Agricultural Extension Council Member,,Lizabeth Moeller,,325,96,229
+Lee,KE6,County Agricultural Extension Council Member,,Lizabeth Moeller,,198,74,124
+Lee,KE7,County Agricultural Extension Council Member,,Lizabeth Moeller,,311,111,200
+Lee,MR FR,County Agricultural Extension Council Member,,Lizabeth Moeller,,545,168,377
+Lee,WP,County Agricultural Extension Council Member,,Lizabeth Moeller,,476,192,284
+Lee,WS,County Agricultural Extension Council Member,,Lizabeth Moeller,,387,161,226
+Lee,CE CH,County Agricultural Extension Council Member,,Miles Wellman,,498,157,341
+Lee,DM JK,County Agricultural Extension Council Member,,Miles Wellman,,527,184,343
+Lee,EMO,County Agricultural Extension Council Member,,Miles Wellman,,258,57,201
+Lee,FM1,County Agricultural Extension Council Member,,Miles Wellman,,260,113,147
+Lee,FM2,County Agricultural Extension Council Member,,Miles Wellman,,301,128,173
+Lee,FM3,County Agricultural Extension Council Member,,Miles Wellman,,341,146,195
+Lee,FM4A,County Agricultural Extension Council Member,,Miles Wellman,,291,151,140
+Lee,FM4B,County Agricultural Extension Council Member,,Miles Wellman,,145,79,66
+Lee,FM5,County Agricultural Extension Council Member,,Miles Wellman,,420,219,201
+Lee,GBDNPR,County Agricultural Extension Council Member,,Miles Wellman,,471,210,261
+Lee,JF WMO,County Agricultural Extension Council Member,,Miles Wellman,,322,119,203
+Lee,KE1,County Agricultural Extension Council Member,,Miles Wellman,,169,63,106
+Lee,KE2A,County Agricultural Extension Council Member,,Miles Wellman,,113,27,86
+Lee,KE2B,County Agricultural Extension Council Member,,Miles Wellman,,23,1,22
+Lee,KE3,County Agricultural Extension Council Member,,Miles Wellman,,203,67,136
+Lee,KE4,County Agricultural Extension Council Member,,Miles Wellman,,142,31,111
+Lee,KE5,County Agricultural Extension Council Member,,Miles Wellman,,319,96,223
+Lee,KE6,County Agricultural Extension Council Member,,Miles Wellman,,193,68,125
+Lee,KE7,County Agricultural Extension Council Member,,Miles Wellman,,306,114,192
+Lee,MR FR,County Agricultural Extension Council Member,,Miles Wellman,,535,163,372
+Lee,WP,County Agricultural Extension Council Member,,Miles Wellman,,518,205,313
+Lee,WS,County Agricultural Extension Council Member,,Miles Wellman,,406,167,239
+Lee,CE CH,County Agricultural Extension Council Member,,Roger Fullenkamp,,519,167,352
+Lee,DM JK,County Agricultural Extension Council Member,,Roger Fullenkamp,,539,192,347
+Lee,EMO,County Agricultural Extension Council Member,,Roger Fullenkamp,,275,59,216
+Lee,FM1,County Agricultural Extension Council Member,,Roger Fullenkamp,,294,124,170
+Lee,FM2,County Agricultural Extension Council Member,,Roger Fullenkamp,,343,139,204
+Lee,FM3,County Agricultural Extension Council Member,,Roger Fullenkamp,,372,169,203
+Lee,FM4A,County Agricultural Extension Council Member,,Roger Fullenkamp,,332,175,157
+Lee,FM4B,County Agricultural Extension Council Member,,Roger Fullenkamp,,149,79,70
+Lee,FM5,County Agricultural Extension Council Member,,Roger Fullenkamp,,450,221,229
+Lee,GBDNPR,County Agricultural Extension Council Member,,Roger Fullenkamp,,497,221,276
+Lee,JF WMO,County Agricultural Extension Council Member,,Roger Fullenkamp,,335,120,215
+Lee,KE1,County Agricultural Extension Council Member,,Roger Fullenkamp,,175,64,111
+Lee,KE2A,County Agricultural Extension Council Member,,Roger Fullenkamp,,126,31,95
+Lee,KE2B,County Agricultural Extension Council Member,,Roger Fullenkamp,,27,2,25
+Lee,KE3,County Agricultural Extension Council Member,,Roger Fullenkamp,,215,66,149
+Lee,KE4,County Agricultural Extension Council Member,,Roger Fullenkamp,,150,33,117
+Lee,KE5,County Agricultural Extension Council Member,,Roger Fullenkamp,,330,98,232
+Lee,KE6,County Agricultural Extension Council Member,,Roger Fullenkamp,,202,71,131
+Lee,KE7,County Agricultural Extension Council Member,,Roger Fullenkamp,,319,108,211
+Lee,MR FR,County Agricultural Extension Council Member,,Roger Fullenkamp,,551,164,387
+Lee,WP,County Agricultural Extension Council Member,,Roger Fullenkamp,,568,216,352
+Lee,WS,County Agricultural Extension Council Member,,Roger Fullenkamp,,416,172,244
+Lee,CE CH,County Agricultural Extension Council Member,,Russ Schwartz,,493,150,343
+Lee,DM JK,County Agricultural Extension Council Member,,Russ Schwartz,,502,175,327
+Lee,EMO,County Agricultural Extension Council Member,,Russ Schwartz,,250,50,200
+Lee,FM1,County Agricultural Extension Council Member,,Russ Schwartz,,244,103,141
+Lee,FM2,County Agricultural Extension Council Member,,Russ Schwartz,,276,113,163
+Lee,FM3,County Agricultural Extension Council Member,,Russ Schwartz,,315,140,175
+Lee,FM4A,County Agricultural Extension Council Member,,Russ Schwartz,,258,134,124
+Lee,FM4B,County Agricultural Extension Council Member,,Russ Schwartz,,123,69,54
+Lee,FM5,County Agricultural Extension Council Member,,Russ Schwartz,,375,189,186
+Lee,GBDNPR,County Agricultural Extension Council Member,,Russ Schwartz,,438,195,243
+Lee,JF WMO,County Agricultural Extension Council Member,,Russ Schwartz,,298,107,191
+Lee,KE1,County Agricultural Extension Council Member,,Russ Schwartz,,162,58,104
+Lee,KE2A,County Agricultural Extension Council Member,,Russ Schwartz,,107,27,80
+Lee,KE2B,County Agricultural Extension Council Member,,Russ Schwartz,,24,1,23
+Lee,KE3,County Agricultural Extension Council Member,,Russ Schwartz,,203,67,136
+Lee,KE4,County Agricultural Extension Council Member,,Russ Schwartz,,134,30,104
+Lee,KE5,County Agricultural Extension Council Member,,Russ Schwartz,,312,91,221
+Lee,KE6,County Agricultural Extension Council Member,,Russ Schwartz,,173,63,110
+Lee,KE7,County Agricultural Extension Council Member,,Russ Schwartz,,298,108,190
+Lee,MR FR,County Agricultural Extension Council Member,,Russ Schwartz,,521,160,361
+Lee,WP,County Agricultural Extension Council Member,,Russ Schwartz,,498,191,307
+Lee,WS,County Agricultural Extension Council Member,,Russ Schwartz,,367,148,219
+Lee,CE CH,County Agricultural Extension Council Member,,Write-In,,19,8,11
+Lee,DM JK,County Agricultural Extension Council Member,,Write-In,,7,2,5
+Lee,EMO,County Agricultural Extension Council Member,,Write-In,,6,0,6
+Lee,FM1,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Lee,FM2,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Lee,FM3,County Agricultural Extension Council Member,,Write-In,,16,8,8
+Lee,FM4A,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Lee,FM4B,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Lee,FM5,County Agricultural Extension Council Member,,Write-In,,4,3,1
+Lee,GBDNPR,County Agricultural Extension Council Member,,Write-In,,7,4,3
+Lee,JF WMO,County Agricultural Extension Council Member,,Write-In,,8,5,3
+Lee,KE1,County Agricultural Extension Council Member,,Write-In,,5,0,5
+Lee,KE2A,County Agricultural Extension Council Member,,Write-In,,5,1,4
+Lee,KE2B,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Lee,KE3,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Lee,KE4,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Lee,KE5,County Agricultural Extension Council Member,,Write-In,,4,0,4
+Lee,KE6,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Lee,KE7,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Lee,MR FR,County Agricultural Extension Council Member,,Write-In,,6,0,6
+Lee,WP,County Agricultural Extension Council Member,,Write-In,,8,4,4
+Lee,WS,County Agricultural Extension Council Member,,Write-In,,4,2,2
+Lee,CE CH,County Attorney,,Ross J. Braden,REP,662,208,454
+Lee,DM JK,County Attorney,,Ross J. Braden,REP,756,254,502
+Lee,EMO,County Attorney,,Ross J. Braden,REP,381,72,309
+Lee,FM1,County Attorney,,Ross J. Braden,REP,383,155,228
+Lee,FM2,County Attorney,,Ross J. Braden,REP,440,185,255
+Lee,FM3,County Attorney,,Ross J. Braden,REP,479,192,287
+Lee,FM4A,County Attorney,,Ross J. Braden,REP,392,186,206
+Lee,FM4B,County Attorney,,Ross J. Braden,REP,186,91,95
+Lee,FM5,County Attorney,,Ross J. Braden,REP,569,273,296
+Lee,GBDNPR,County Attorney,,Ross J. Braden,REP,623,259,364
+Lee,JF WMO,County Attorney,,Ross J. Braden,REP,478,170,308
+Lee,KE1,County Attorney,,Ross J. Braden,REP,237,72,165
+Lee,KE2A,County Attorney,,Ross J. Braden,REP,174,41,133
+Lee,KE2B,County Attorney,,Ross J. Braden,REP,46,5,41
+Lee,KE3,County Attorney,,Ross J. Braden,REP,259,74,185
+Lee,KE4,County Attorney,,Ross J. Braden,REP,218,41,177
+Lee,KE5,County Attorney,,Ross J. Braden,REP,442,113,329
+Lee,KE6,County Attorney,,Ross J. Braden,REP,247,78,169
+Lee,KE7,County Attorney,,Ross J. Braden,REP,431,127,304
+Lee,MR FR,County Attorney,,Ross J. Braden,REP,655,176,479
+Lee,WP,County Attorney,,Ross J. Braden,REP,683,244,439
+Lee,WS,County Attorney,,Ross J. Braden,REP,575,234,341
+Lee,CE CH,County Attorney,,Write-In,,3,1,2
+Lee,DM JK,County Attorney,,Write-In,,8,2,6
+Lee,EMO,County Attorney,,Write-In,,7,0,7
+Lee,FM1,County Attorney,,Write-In,,9,3,6
+Lee,FM2,County Attorney,,Write-In,,15,6,9
+Lee,FM3,County Attorney,,Write-In,,8,2,6
+Lee,FM4A,County Attorney,,Write-In,,5,1,4
+Lee,FM4B,County Attorney,,Write-In,,0,0,0
+Lee,FM5,County Attorney,,Write-In,,11,5,6
+Lee,GBDNPR,County Attorney,,Write-In,,5,1,4
+Lee,JF WMO,County Attorney,,Write-In,,6,5,1
+Lee,KE1,County Attorney,,Write-In,,8,5,3
+Lee,KE2A,County Attorney,,Write-In,,10,3,7
+Lee,KE2B,County Attorney,,Write-In,,2,0,2
+Lee,KE3,County Attorney,,Write-In,,11,5,6
+Lee,KE4,County Attorney,,Write-In,,3,1,2
+Lee,KE5,County Attorney,,Write-In,,10,3,7
+Lee,KE6,County Attorney,,Write-In,,4,1,3
+Lee,KE7,County Attorney,,Write-In,,10,3,7
+Lee,MR FR,County Attorney,,Write-In,,3,0,3
+Lee,WP,County Attorney,,Write-In,,3,0,3
+Lee,WS,County Attorney,,Write-In,,6,3,3
+Lee,CE CH,County Recorder,,Nancy Booten,REP,669,206,463
+Lee,DM JK,County Recorder,,Nancy Booten,REP,737,244,493
+Lee,EMO,County Recorder,,Nancy Booten,REP,379,71,308
+Lee,FM1,County Recorder,,Nancy Booten,REP,379,154,225
+Lee,FM2,County Recorder,,Nancy Booten,REP,459,199,260
+Lee,FM3,County Recorder,,Nancy Booten,REP,498,203,295
+Lee,FM4A,County Recorder,,Nancy Booten,REP,399,191,208
+Lee,FM4B,County Recorder,,Nancy Booten,REP,189,93,96
+Lee,FM5,County Recorder,,Nancy Booten,REP,577,283,294
+Lee,GBDNPR,County Recorder,,Nancy Booten,REP,647,276,371
+Lee,JF WMO,County Recorder,,Nancy Booten,REP,492,179,313
+Lee,KE1,County Recorder,,Nancy Booten,REP,243,76,167
+Lee,KE2A,County Recorder,,Nancy Booten,REP,181,42,139
+Lee,KE2B,County Recorder,,Nancy Booten,REP,46,4,42
+Lee,KE3,County Recorder,,Nancy Booten,REP,255,71,184
+Lee,KE4,County Recorder,,Nancy Booten,REP,219,43,176
+Lee,KE5,County Recorder,,Nancy Booten,REP,436,107,329
+Lee,KE6,County Recorder,,Nancy Booten,REP,247,80,167
+Lee,KE7,County Recorder,,Nancy Booten,REP,432,128,304
+Lee,MR FR,County Recorder,,Nancy Booten,REP,662,176,486
+Lee,WP,County Recorder,,Nancy Booten,REP,687,240,447
+Lee,WS,County Recorder,,Nancy Booten,REP,582,239,343
+Lee,CE CH,County Recorder,,Write-In,,2,1,1
+Lee,DM JK,County Recorder,,Write-In,,9,3,6
+Lee,EMO,County Recorder,,Write-In,,9,0,9
+Lee,FM1,County Recorder,,Write-In,,9,2,7
+Lee,FM2,County Recorder,,Write-In,,10,3,7
+Lee,FM3,County Recorder,,Write-In,,10,3,7
+Lee,FM4A,County Recorder,,Write-In,,3,1,2
+Lee,FM4B,County Recorder,,Write-In,,1,0,1
+Lee,FM5,County Recorder,,Write-In,,12,4,8
+Lee,GBDNPR,County Recorder,,Write-In,,6,2,4
+Lee,JF WMO,County Recorder,,Write-In,,4,2,2
+Lee,KE1,County Recorder,,Write-In,,7,5,2
+Lee,KE2A,County Recorder,,Write-In,,8,2,6
+Lee,KE2B,County Recorder,,Write-In,,1,0,1
+Lee,KE3,County Recorder,,Write-In,,11,6,5
+Lee,KE4,County Recorder,,Write-In,,2,0,2
+Lee,KE5,County Recorder,,Write-In,,10,3,7
+Lee,KE6,County Recorder,,Write-In,,4,1,3
+Lee,KE7,County Recorder,,Write-In,,12,5,7
+Lee,MR FR,County Recorder,,Write-In,,2,0,2
+Lee,WP,County Recorder,,Write-In,,2,0,2
+Lee,WS,County Recorder,,Write-In,,2,1,1
+Lee,FM1,County Supervisor,2,Chris Greenwald,DEM,316,157,159
+Lee,FM2,County Supervisor,2,Chris Greenwald,DEM,352,172,180
+Lee,FM3,County Supervisor,2,Chris Greenwald,DEM,366,186,180
+Lee,FM4B,County Supervisor,2,Chris Greenwald,DEM,126,83,43
+Lee,FM1,County Supervisor,2,Tom Schulz,REP,165,68,97
+Lee,FM2,County Supervisor,2,Tom Schulz,REP,226,97,129
+Lee,FM3,County Supervisor,2,Tom Schulz,REP,227,89,138
+Lee,FM4B,County Supervisor,2,Tom Schulz,REP,75,32,43
+Lee,FM1,County Supervisor,2,Write-In,,27,9,18
+Lee,FM2,County Supervisor,2,Write-In,,30,12,18
+Lee,FM3,County Supervisor,2,Write-In,,54,16,38
+Lee,FM4B,County Supervisor,2,Write-In,,26,10,16
+Lee,CE CH,County Supervisor,3,Christopher Seeley Brown,REP,661,206,455
+Lee,FM4A,County Supervisor,3,Christopher Seeley Brown,REP,347,160,187
+Lee,FM5,County Supervisor,3,Christopher Seeley Brown,REP,511,232,279
+Lee,JF WMO,County Supervisor,3,Christopher Seeley Brown,REP,452,155,297
+Lee,CE CH,County Supervisor,3,Write-In,,7,2,5
+Lee,FM4A,County Supervisor,3,Write-In,,22,8,14
+Lee,FM5,County Supervisor,3,Write-In,,37,17,20
+Lee,JF WMO,County Supervisor,3,Write-In,,10,6,4
+Lee,CE CH,County Treasurer,,Becky Gaylord,REP,668,208,460
+Lee,DM JK,County Treasurer,,Becky Gaylord,REP,753,253,500
+Lee,EMO,County Treasurer,,Becky Gaylord,REP,388,74,314
+Lee,FM1,County Treasurer,,Becky Gaylord,REP,391,160,231
+Lee,FM2,County Treasurer,,Becky Gaylord,REP,454,195,259
+Lee,FM3,County Treasurer,,Becky Gaylord,REP,494,205,289
+Lee,FM4A,County Treasurer,,Becky Gaylord,REP,404,194,210
+Lee,FM4B,County Treasurer,,Becky Gaylord,REP,190,94,96
+Lee,FM5,County Treasurer,,Becky Gaylord,REP,582,283,299
+Lee,GBDNPR,County Treasurer,,Becky Gaylord,REP,658,280,378
+Lee,JF WMO,County Treasurer,,Becky Gaylord,REP,484,172,312
+Lee,KE1,County Treasurer,,Becky Gaylord,REP,254,79,175
+Lee,KE2A,County Treasurer,,Becky Gaylord,REP,182,44,138
+Lee,KE2B,County Treasurer,,Becky Gaylord,REP,48,5,43
+Lee,KE3,County Treasurer,,Becky Gaylord,REP,259,75,184
+Lee,KE4,County Treasurer,,Becky Gaylord,REP,215,43,172
+Lee,KE5,County Treasurer,,Becky Gaylord,REP,444,109,335
+Lee,KE6,County Treasurer,,Becky Gaylord,REP,250,80,170
+Lee,KE7,County Treasurer,,Becky Gaylord,REP,444,133,311
+Lee,MR FR,County Treasurer,,Becky Gaylord,REP,674,182,492
+Lee,WP,County Treasurer,,Becky Gaylord,REP,690,243,447
+Lee,WS,County Treasurer,,Becky Gaylord,REP,587,242,345
+Lee,CE CH,County Treasurer,,Write-In,,3,1,2
+Lee,DM JK,County Treasurer,,Write-In,,12,4,8
+Lee,EMO,County Treasurer,,Write-In,,11,0,11
+Lee,FM1,County Treasurer,,Write-In,,10,2,8
+Lee,FM2,County Treasurer,,Write-In,,10,4,6
+Lee,FM3,County Treasurer,,Write-In,,12,1,11
+Lee,FM4A,County Treasurer,,Write-In,,4,1,3
+Lee,FM4B,County Treasurer,,Write-In,,2,0,2
+Lee,FM5,County Treasurer,,Write-In,,12,4,8
+Lee,GBDNPR,County Treasurer,,Write-In,,6,2,4
+Lee,JF WMO,County Treasurer,,Write-In,,3,2,1
+Lee,KE1,County Treasurer,,Write-In,,10,7,3
+Lee,KE2A,County Treasurer,,Write-In,,8,2,6
+Lee,KE2B,County Treasurer,,Write-In,,1,0,1
+Lee,KE3,County Treasurer,,Write-In,,14,6,8
+Lee,KE4,County Treasurer,,Write-In,,6,1,5
+Lee,KE5,County Treasurer,,Write-In,,19,7,12
+Lee,KE6,County Treasurer,,Write-In,,5,1,4
+Lee,KE7,County Treasurer,,Write-In,,14,5,9
+Lee,MR FR,County Treasurer,,Write-In,,3,1,2
+Lee,WP,County Treasurer,,Write-In,,4,1,3
+Lee,WS,County Treasurer,,Write-In,,4,1,3
+Lee,CE CH,Court of Appeals Judge - John M. Sandy,,No,,164,50,114
+Lee,DM JK,Court of Appeals Judge - John M. Sandy,,No,,178,53,125
+Lee,EMO,Court of Appeals Judge - John M. Sandy,,No,,79,16,63
+Lee,FM1,Court of Appeals Judge - John M. Sandy,,No,,81,34,47
+Lee,FM2,Court of Appeals Judge - John M. Sandy,,No,,113,49,64
+Lee,FM3,Court of Appeals Judge - John M. Sandy,,No,,127,51,76
+Lee,FM4A,Court of Appeals Judge - John M. Sandy,,No,,97,50,47
+Lee,FM4B,Court of Appeals Judge - John M. Sandy,,No,,37,23,14
+Lee,FM5,Court of Appeals Judge - John M. Sandy,,No,,136,63,73
+Lee,GBDNPR,Court of Appeals Judge - John M. Sandy,,No,,137,53,84
+Lee,JF WMO,Court of Appeals Judge - John M. Sandy,,No,,114,41,73
+Lee,KE1,Court of Appeals Judge - John M. Sandy,,No,,65,28,37
+Lee,KE2A,Court of Appeals Judge - John M. Sandy,,No,,57,10,47
+Lee,KE2B,Court of Appeals Judge - John M. Sandy,,No,,8,0,8
+Lee,KE3,Court of Appeals Judge - John M. Sandy,,No,,84,27,57
+Lee,KE4,Court of Appeals Judge - John M. Sandy,,No,,61,21,40
+Lee,KE5,Court of Appeals Judge - John M. Sandy,,No,,117,40,77
+Lee,KE6,Court of Appeals Judge - John M. Sandy,,No,,83,32,51
+Lee,KE7,Court of Appeals Judge - John M. Sandy,,No,,98,32,66
+Lee,MR FR,Court of Appeals Judge - John M. Sandy,,No,,134,39,95
+Lee,WP,Court of Appeals Judge - John M. Sandy,,No,,141,57,84
+Lee,WS,Court of Appeals Judge - John M. Sandy,,No,,106,43,63
+Lee,CE CH,Court of Appeals Judge - John M. Sandy,,Yes,,426,133,293
+Lee,DM JK,Court of Appeals Judge - John M. Sandy,,Yes,,526,198,328
+Lee,EMO,Court of Appeals Judge - John M. Sandy,,Yes,,290,57,233
+Lee,FM1,Court of Appeals Judge - John M. Sandy,,Yes,,313,131,182
+Lee,FM2,Court of Appeals Judge - John M. Sandy,,Yes,,337,141,196
+Lee,FM3,Court of Appeals Judge - John M. Sandy,,Yes,,379,171,208
+Lee,FM4A,Court of Appeals Judge - John M. Sandy,,Yes,,320,171,149
+Lee,FM4B,Court of Appeals Judge - John M. Sandy,,Yes,,146,73,73
+Lee,FM5,Court of Appeals Judge - John M. Sandy,,Yes,,466,229,237
+Lee,GBDNPR,Court of Appeals Judge - John M. Sandy,,Yes,,426,180,246
+Lee,JF WMO,Court of Appeals Judge - John M. Sandy,,Yes,,351,125,226
+Lee,KE1,Court of Appeals Judge - John M. Sandy,,Yes,,199,66,133
+Lee,KE2A,Court of Appeals Judge - John M. Sandy,,Yes,,137,33,104
+Lee,KE2B,Court of Appeals Judge - John M. Sandy,,Yes,,34,2,32
+Lee,KE3,Court of Appeals Judge - John M. Sandy,,Yes,,207,64,143
+Lee,KE4,Court of Appeals Judge - John M. Sandy,,Yes,,168,36,132
+Lee,KE5,Court of Appeals Judge - John M. Sandy,,Yes,,351,94,257
+Lee,KE6,Court of Appeals Judge - John M. Sandy,,Yes,,199,65,134
+Lee,KE7,Court of Appeals Judge - John M. Sandy,,Yes,,338,119,219
+Lee,MR FR,Court of Appeals Judge - John M. Sandy,,Yes,,498,139,359
+Lee,WP,Court of Appeals Judge - John M. Sandy,,Yes,,438,176,262
+Lee,WS,Court of Appeals Judge - John M. Sandy,,Yes,,406,160,246
+Lee,CE CH,Court of Appeals Judge - Julie A. Schumacher,,No,,159,42,117
+Lee,DM JK,Court of Appeals Judge - Julie A. Schumacher,,No,,170,54,116
+Lee,EMO,Court of Appeals Judge - Julie A. Schumacher,,No,,72,12,60
+Lee,FM1,Court of Appeals Judge - Julie A. Schumacher,,No,,73,30,43
+Lee,FM2,Court of Appeals Judge - Julie A. Schumacher,,No,,113,48,65
+Lee,FM3,Court of Appeals Judge - Julie A. Schumacher,,No,,114,47,67
+Lee,FM4A,Court of Appeals Judge - Julie A. Schumacher,,No,,84,41,43
+Lee,FM4B,Court of Appeals Judge - Julie A. Schumacher,,No,,36,23,13
+Lee,FM5,Court of Appeals Judge - Julie A. Schumacher,,No,,125,60,65
+Lee,GBDNPR,Court of Appeals Judge - Julie A. Schumacher,,No,,128,49,79
+Lee,JF WMO,Court of Appeals Judge - Julie A. Schumacher,,No,,108,39,69
+Lee,KE1,Court of Appeals Judge - Julie A. Schumacher,,No,,64,24,40
+Lee,KE2A,Court of Appeals Judge - Julie A. Schumacher,,No,,51,4,47
+Lee,KE2B,Court of Appeals Judge - Julie A. Schumacher,,No,,9,0,9
+Lee,KE3,Court of Appeals Judge - Julie A. Schumacher,,No,,85,29,56
+Lee,KE4,Court of Appeals Judge - Julie A. Schumacher,,No,,54,19,35
+Lee,KE5,Court of Appeals Judge - Julie A. Schumacher,,No,,110,37,73
+Lee,KE6,Court of Appeals Judge - Julie A. Schumacher,,No,,80,25,55
+Lee,KE7,Court of Appeals Judge - Julie A. Schumacher,,No,,88,24,64
+Lee,MR FR,Court of Appeals Judge - Julie A. Schumacher,,No,,131,41,90
+Lee,WP,Court of Appeals Judge - Julie A. Schumacher,,No,,137,56,81
+Lee,WS,Court of Appeals Judge - Julie A. Schumacher,,No,,107,43,64
+Lee,CE CH,Court of Appeals Judge - Julie A. Schumacher,,Yes,,428,138,290
+Lee,DM JK,Court of Appeals Judge - Julie A. Schumacher,,Yes,,533,196,337
+Lee,EMO,Court of Appeals Judge - Julie A. Schumacher,,Yes,,296,61,235
+Lee,FM1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,313,129,184
+Lee,FM2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,341,142,199
+Lee,FM3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,384,170,214
+Lee,FM4A,Court of Appeals Judge - Julie A. Schumacher,,Yes,,329,178,151
+Lee,FM4B,Court of Appeals Judge - Julie A. Schumacher,,Yes,,148,74,74
+Lee,FM5,Court of Appeals Judge - Julie A. Schumacher,,Yes,,476,231,245
+Lee,GBDNPR,Court of Appeals Judge - Julie A. Schumacher,,Yes,,443,192,251
+Lee,JF WMO,Court of Appeals Judge - Julie A. Schumacher,,Yes,,351,125,226
+Lee,KE1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,199,67,132
+Lee,KE2A,Court of Appeals Judge - Julie A. Schumacher,,Yes,,141,38,103
+Lee,KE2B,Court of Appeals Judge - Julie A. Schumacher,,Yes,,34,3,31
+Lee,KE3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,203,61,142
+Lee,KE4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,171,38,133
+Lee,KE5,Court of Appeals Judge - Julie A. Schumacher,,Yes,,355,94,261
+Lee,KE6,Court of Appeals Judge - Julie A. Schumacher,,Yes,,202,70,132
+Lee,KE7,Court of Appeals Judge - Julie A. Schumacher,,Yes,,343,124,219
+Lee,MR FR,Court of Appeals Judge - Julie A. Schumacher,,Yes,,496,136,360
+Lee,WP,Court of Appeals Judge - Julie A. Schumacher,,Yes,,433,173,260
+Lee,WS,Court of Appeals Judge - Julie A. Schumacher,,Yes,,402,156,246
+Lee,CE CH,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,159,42,117
+Lee,DM JK,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,184,54,130
+Lee,EMO,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,82,13,69
+Lee,FM1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,85,33,52
+Lee,FM2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,117,49,68
+Lee,FM3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,121,49,72
+Lee,FM4A,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,85,41,44
+Lee,FM4B,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,43,27,16
+Lee,FM5,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,131,65,66
+Lee,GBDNPR,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,143,52,91
+Lee,JF WMO,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,118,41,77
+Lee,KE1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,65,26,39
+Lee,KE2A,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,55,6,49
+Lee,KE2B,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,8,0,8
+Lee,KE3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,90,28,62
+Lee,KE4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,57,16,41
+Lee,KE5,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,118,41,77
+Lee,KE6,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,92,31,61
+Lee,KE7,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,96,27,69
+Lee,MR FR,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,146,41,105
+Lee,WP,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,143,55,88
+Lee,WS,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,122,48,74
+Lee,CE CH,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,424,137,287
+Lee,DM JK,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,509,191,318
+Lee,EMO,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,288,61,227
+Lee,FM1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,297,126,171
+Lee,FM2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,331,141,190
+Lee,FM3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,373,165,208
+Lee,FM4A,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,322,175,147
+Lee,FM4B,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,140,69,71
+Lee,FM5,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,446,210,236
+Lee,GBDNPR,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,416,185,231
+Lee,JF WMO,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,338,120,218
+Lee,KE1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,196,64,132
+Lee,KE2A,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,136,34,102
+Lee,KE2B,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,35,3,32
+Lee,KE3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,200,62,138
+Lee,KE4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,165,40,125
+Lee,KE5,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,347,91,256
+Lee,KE6,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,189,66,123
+Lee,KE7,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,328,120,208
+Lee,MR FR,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,483,137,346
+Lee,WP,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,420,173,247
+Lee,WS,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,384,149,235
+Lee,GBDNPR,Denmark Township Clerk,,Randolph Woodroffe,,265,129,136
+Lee,GBDNPR,Denmark Township Clerk,,Write-In,,4,1,3
+Lee,GBDNPR,Denmark Township Trustee,,Todd Ross,,289,144,145
+Lee,GBDNPR,Denmark Township Trustee,,Write-In,,7,3,4
+Lee,GBDNPR,Denmark Township Trustee To Fill a Vacancy,,Write-In,,37,20,17
+Lee,DM JK,Des Moines Township Clerk,,Jason Newberry,,235,96,139
+Lee,DM JK,Des Moines Township Clerk,,Write-In,,7,5,2
+Lee,DM JK,Des Moines Township Trustee,,Joseph M. Bryant,,206,84,122
+Lee,DM JK,Des Moines Township Trustee,,Write-In,,13,7,6
+Lee,CE CH,District 8B Associate Judge - Emily S. Dean,,No,,170,49,121
+Lee,DM JK,District 8B Associate Judge - Emily S. Dean,,No,,183,57,126
+Lee,EMO,District 8B Associate Judge - Emily S. Dean,,No,,71,12,59
+Lee,FM1,District 8B Associate Judge - Emily S. Dean,,No,,76,26,50
+Lee,FM2,District 8B Associate Judge - Emily S. Dean,,No,,112,48,64
+Lee,FM3,District 8B Associate Judge - Emily S. Dean,,No,,138,57,81
+Lee,FM4A,District 8B Associate Judge - Emily S. Dean,,No,,109,52,57
+Lee,FM4B,District 8B Associate Judge - Emily S. Dean,,No,,42,28,14
+Lee,FM5,District 8B Associate Judge - Emily S. Dean,,No,,140,62,78
+Lee,GBDNPR,District 8B Associate Judge - Emily S. Dean,,No,,141,59,82
+Lee,JF WMO,District 8B Associate Judge - Emily S. Dean,,No,,119,43,76
+Lee,KE1,District 8B Associate Judge - Emily S. Dean,,No,,60,23,37
+Lee,KE2A,District 8B Associate Judge - Emily S. Dean,,No,,40,5,35
+Lee,KE2B,District 8B Associate Judge - Emily S. Dean,,No,,7,0,7
+Lee,KE3,District 8B Associate Judge - Emily S. Dean,,No,,85,24,61
+Lee,KE4,District 8B Associate Judge - Emily S. Dean,,No,,53,18,35
+Lee,KE5,District 8B Associate Judge - Emily S. Dean,,No,,110,38,72
+Lee,KE6,District 8B Associate Judge - Emily S. Dean,,No,,79,29,50
+Lee,KE7,District 8B Associate Judge - Emily S. Dean,,No,,88,25,63
+Lee,MR FR,District 8B Associate Judge - Emily S. Dean,,No,,133,39,94
+Lee,WP,District 8B Associate Judge - Emily S. Dean,,No,,146,61,85
+Lee,WS,District 8B Associate Judge - Emily S. Dean,,No,,129,60,69
+Lee,CE CH,District 8B Associate Judge - Emily S. Dean,,Yes,,439,141,298
+Lee,DM JK,District 8B Associate Judge - Emily S. Dean,,Yes,,534,197,337
+Lee,EMO,District 8B Associate Judge - Emily S. Dean,,Yes,,312,69,243
+Lee,FM1,District 8B Associate Judge - Emily S. Dean,,Yes,,347,158,189
+Lee,FM2,District 8B Associate Judge - Emily S. Dean,,Yes,,383,170,213
+Lee,FM3,District 8B Associate Judge - Emily S. Dean,,Yes,,409,182,227
+Lee,FM4A,District 8B Associate Judge - Emily S. Dean,,Yes,,340,188,152
+Lee,FM4B,District 8B Associate Judge - Emily S. Dean,,Yes,,155,78,77
+Lee,FM5,District 8B Associate Judge - Emily S. Dean,,Yes,,510,266,244
+Lee,GBDNPR,District 8B Associate Judge - Emily S. Dean,,Yes,,466,201,265
+Lee,JF WMO,District 8B Associate Judge - Emily S. Dean,,Yes,,381,145,236
+Lee,KE1,District 8B Associate Judge - Emily S. Dean,,Yes,,212,73,139
+Lee,KE2A,District 8B Associate Judge - Emily S. Dean,,Yes,,158,37,121
+Lee,KE2B,District 8B Associate Judge - Emily S. Dean,,Yes,,38,4,34
+Lee,KE3,District 8B Associate Judge - Emily S. Dean,,Yes,,219,72,147
+Lee,KE4,District 8B Associate Judge - Emily S. Dean,,Yes,,180,40,140
+Lee,KE5,District 8B Associate Judge - Emily S. Dean,,Yes,,366,95,271
+Lee,KE6,District 8B Associate Judge - Emily S. Dean,,Yes,,212,72,140
+Lee,KE7,District 8B Associate Judge - Emily S. Dean,,Yes,,349,127,222
+Lee,MR FR,District 8B Associate Judge - Emily S. Dean,,Yes,,530,155,375
+Lee,WP,District 8B Associate Judge - Emily S. Dean,,Yes,,490,189,301
+Lee,WS,District 8B Associate Judge - Emily S. Dean,,Yes,,437,175,262
+Lee,CE CH,District 8B Judge - Wyatt P. Peterson,,No,,160,48,112
+Lee,DM JK,District 8B Judge - Wyatt P. Peterson,,No,,165,47,118
+Lee,EMO,District 8B Judge - Wyatt P. Peterson,,No,,75,16,59
+Lee,FM1,District 8B Judge - Wyatt P. Peterson,,No,,78,29,49
+Lee,FM2,District 8B Judge - Wyatt P. Peterson,,No,,119,52,67
+Lee,FM3,District 8B Judge - Wyatt P. Peterson,,No,,120,50,70
+Lee,FM4A,District 8B Judge - Wyatt P. Peterson,,No,,85,43,42
+Lee,FM4B,District 8B Judge - Wyatt P. Peterson,,No,,41,24,17
+Lee,FM5,District 8B Judge - Wyatt P. Peterson,,No,,134,61,73
+Lee,GBDNPR,District 8B Judge - Wyatt P. Peterson,,No,,124,44,80
+Lee,JF WMO,District 8B Judge - Wyatt P. Peterson,,No,,111,40,71
+Lee,KE1,District 8B Judge - Wyatt P. Peterson,,No,,60,24,36
+Lee,KE2A,District 8B Judge - Wyatt P. Peterson,,No,,49,6,43
+Lee,KE2B,District 8B Judge - Wyatt P. Peterson,,No,,7,0,7
+Lee,KE3,District 8B Judge - Wyatt P. Peterson,,No,,85,24,61
+Lee,KE4,District 8B Judge - Wyatt P. Peterson,,No,,59,21,38
+Lee,KE5,District 8B Judge - Wyatt P. Peterson,,No,,110,38,72
+Lee,KE6,District 8B Judge - Wyatt P. Peterson,,No,,77,25,52
+Lee,KE7,District 8B Judge - Wyatt P. Peterson,,No,,87,24,63
+Lee,MR FR,District 8B Judge - Wyatt P. Peterson,,No,,124,36,88
+Lee,WP,District 8B Judge - Wyatt P. Peterson,,No,,130,50,80
+Lee,WS,District 8B Judge - Wyatt P. Peterson,,No,,99,41,58
+Lee,CE CH,District 8B Judge - Wyatt P. Peterson,,Yes,,441,138,303
+Lee,DM JK,District 8B Judge - Wyatt P. Peterson,,Yes,,547,205,342
+Lee,EMO,District 8B Judge - Wyatt P. Peterson,,Yes,,298,59,239
+Lee,FM1,District 8B Judge - Wyatt P. Peterson,,Yes,,317,136,181
+Lee,FM2,District 8B Judge - Wyatt P. Peterson,,Yes,,340,143,197
+Lee,FM3,District 8B Judge - Wyatt P. Peterson,,Yes,,392,172,220
+Lee,FM4A,District 8B Judge - Wyatt P. Peterson,,Yes,,340,182,158
+Lee,FM4B,District 8B Judge - Wyatt P. Peterson,,Yes,,145,74,71
+Lee,FM5,District 8B Judge - Wyatt P. Peterson,,Yes,,480,240,240
+Lee,GBDNPR,District 8B Judge - Wyatt P. Peterson,,Yes,,454,198,256
+Lee,JF WMO,District 8B Judge - Wyatt P. Peterson,,Yes,,359,130,229
+Lee,KE1,District 8B Judge - Wyatt P. Peterson,,Yes,,206,69,137
+Lee,KE2A,District 8B Judge - Wyatt P. Peterson,,Yes,,147,37,110
+Lee,KE2B,District 8B Judge - Wyatt P. Peterson,,Yes,,38,4,34
+Lee,KE3,District 8B Judge - Wyatt P. Peterson,,Yes,,213,70,143
+Lee,KE4,District 8B Judge - Wyatt P. Peterson,,Yes,,172,37,135
+Lee,KE5,District 8B Judge - Wyatt P. Peterson,,Yes,,359,96,263
+Lee,KE6,District 8B Judge - Wyatt P. Peterson,,Yes,,211,74,137
+Lee,KE7,District 8B Judge - Wyatt P. Peterson,,Yes,,348,124,224
+Lee,MR FR,District 8B Judge - Wyatt P. Peterson,,Yes,,511,143,368
+Lee,WP,District 8B Judge - Wyatt P. Peterson,,Yes,,449,181,268
+Lee,WS,District 8B Judge - Wyatt P. Peterson,,Yes,,420,164,256
+Lee,MR FR,Franklin Township Clerk,,Write-In,,12,6,6
+Lee,MR FR,Franklin Township Trustee,,Write-In,,12,7,5
+Lee,CE CH,Governor,,Rob Sand and Dave Muhlbauer,DEM,257,104,153
+Lee,DM JK,Governor,,Rob Sand and Dave Muhlbauer,DEM,333,170,163
+Lee,EMO,Governor,,Rob Sand and Dave Muhlbauer,DEM,223,64,159
+Lee,FM1,Governor,,Rob Sand and Dave Muhlbauer,DEM,323,170,153
+Lee,FM2,Governor,,Rob Sand and Dave Muhlbauer,DEM,385,181,204
+Lee,FM3,Governor,,Rob Sand and Dave Muhlbauer,DEM,429,213,216
+Lee,FM4A,Governor,,Rob Sand and Dave Muhlbauer,DEM,326,191,135
+Lee,FM4B,Governor,,Rob Sand and Dave Muhlbauer,DEM,149,92,57
+Lee,FM5,Governor,,Rob Sand and Dave Muhlbauer,DEM,480,293,187
+Lee,GBDNPR,Governor,,Rob Sand and Dave Muhlbauer,DEM,324,187,137
+Lee,JF WMO,Governor,,Rob Sand and Dave Muhlbauer,DEM,239,111,128
+Lee,KE1,Governor,,Rob Sand and Dave Muhlbauer,DEM,195,82,113
+Lee,KE2A,Governor,,Rob Sand and Dave Muhlbauer,DEM,140,41,99
+Lee,KE2B,Governor,,Rob Sand and Dave Muhlbauer,DEM,30,3,27
+Lee,KE3,Governor,,Rob Sand and Dave Muhlbauer,DEM,209,84,125
+Lee,KE4,Governor,,Rob Sand and Dave Muhlbauer,DEM,154,57,97
+Lee,KE5,Governor,,Rob Sand and Dave Muhlbauer,DEM,315,126,189
+Lee,KE6,Governor,,Rob Sand and Dave Muhlbauer,DEM,212,87,125
+Lee,KE7,Governor,,Rob Sand and Dave Muhlbauer,DEM,282,115,167
+Lee,MR FR,Governor,,Rob Sand and Dave Muhlbauer,DEM,333,125,208
+Lee,WP,Governor,,Rob Sand and Dave Muhlbauer,DEM,379,187,192
+Lee,WS,Governor,,Rob Sand and Dave Muhlbauer,DEM,318,167,151
+Lee,CE CH,Governor,,Write-In,,2,0,2
+Lee,DM JK,Governor,,Write-In,,0,0,0
+Lee,EMO,Governor,,Write-In,,3,1,2
+Lee,FM1,Governor,,Write-In,,0,0,0
+Lee,FM2,Governor,,Write-In,,1,0,1
+Lee,FM3,Governor,,Write-In,,2,1,1
+Lee,FM4A,Governor,,Write-In,,0,0,0
+Lee,FM4B,Governor,,Write-In,,0,0,0
+Lee,FM5,Governor,,Write-In,,1,0,1
+Lee,GBDNPR,Governor,,Write-In,,1,0,1
+Lee,JF WMO,Governor,,Write-In,,0,0,0
+Lee,KE1,Governor,,Write-In,,1,0,1
+Lee,KE2A,Governor,,Write-In,,0,0,0
+Lee,KE2B,Governor,,Write-In,,0,0,0
+Lee,KE3,Governor,,Write-In,,0,0,0
+Lee,KE4,Governor,,Write-In,,0,0,0
+Lee,KE5,Governor,,Write-In,,0,0,0
+Lee,KE6,Governor,,Write-In,,0,0,0
+Lee,KE7,Governor,,Write-In,,0,0,0
+Lee,MR FR,Governor,,Write-In,,0,0,0
+Lee,WP,Governor,,Write-In,,0,0,0
+Lee,WS,Governor,,Write-In,,1,1,0
+Lee,CE CH,Governor,,Zach Lahn and Derek Wulf,REP,515,159,356
+Lee,DM JK,Governor,,Zach Lahn and Derek Wulf,REP,570,172,398
+Lee,EMO,Governor,,Zach Lahn and Derek Wulf,REP,246,37,209
+Lee,FM1,Governor,,Zach Lahn and Derek Wulf,REP,192,65,127
+Lee,FM2,Governor,,Zach Lahn and Derek Wulf,REP,240,106,134
+Lee,FM3,Governor,,Zach Lahn and Derek Wulf,REP,233,85,148
+Lee,FM4A,Governor,,Zach Lahn and Derek Wulf,REP,219,100,119
+Lee,FM4B,Governor,,Zach Lahn and Derek Wulf,REP,84,36,48
+Lee,FM5,Governor,,Zach Lahn and Derek Wulf,REP,318,136,182
+Lee,GBDNPR,Governor,,Zach Lahn and Derek Wulf,REP,453,169,284
+Lee,JF WMO,Governor,,Zach Lahn and Derek Wulf,REP,360,120,240
+Lee,KE1,Governor,,Zach Lahn and Derek Wulf,REP,157,42,115
+Lee,KE2A,Governor,,Zach Lahn and Derek Wulf,REP,101,20,81
+Lee,KE2B,Governor,,Zach Lahn and Derek Wulf,REP,27,3,24
+Lee,KE3,Governor,,Zach Lahn and Derek Wulf,REP,159,40,119
+Lee,KE4,Governor,,Zach Lahn and Derek Wulf,REP,134,20,114
+Lee,KE5,Governor,,Zach Lahn and Derek Wulf,REP,283,56,227
+Lee,KE6,Governor,,Zach Lahn and Derek Wulf,REP,146,43,103
+Lee,KE7,Governor,,Zach Lahn and Derek Wulf,REP,280,74,206
+Lee,MR FR,Governor,,Zach Lahn and Derek Wulf,REP,442,114,328
+Lee,WP,Governor,,Zach Lahn and Derek Wulf,REP,455,131,324
+Lee,WS,Governor,,Zach Lahn and Derek Wulf,REP,394,155,239
+Lee,GBDNPR,Green Bay Township Clerk,,Charles Rump,,244,86,158
+Lee,GBDNPR,Green Bay Township Clerk,,Write-In,,1,0,1
+Lee,GBDNPR,Green Bay Township Trustee,,Thomas K. Gregg,,248,86,162
+Lee,GBDNPR,Green Bay Township Trustee,,Write-In,,4,1,3
+Lee,CE CH,Harrison Township Clerk,,Barb Schau,,123,39,84
+Lee,CE CH,Harrison Township Clerk,,Write-In,,0,0,0
+Lee,CE CH,Harrison Township Trustee,,Leon Schau,,122,39,83
+Lee,CE CH,Harrison Township Trustee,,Write-In,,2,0,2
+Lee,DM JK,Jackson Township Clerk,,"Paul E. Rule, Jr.",,544,181,363
+Lee,DM JK,Jackson Township Clerk,,Write-In,,3,2,1
+Lee,DM JK,Jackson Township Trustee,,Robert E. Fox,,551,186,365
+Lee,DM JK,Jackson Township Trustee,,Write-In,,5,2,3
+Lee,FM5,Jefferson Township Clerk,,Linda Wheeler,,1,1,0
+Lee,JF WMO,Jefferson Township Clerk,,Linda Wheeler,,284,118,166
+Lee,FM5,Jefferson Township Clerk,,Write-In,,0,0,0
+Lee,JF WMO,Jefferson Township Clerk,,Write-In,,4,2,2
+Lee,FM5,Jefferson Township Trustee,,Rusty Robbins,,0,0,0
+Lee,JF WMO,Jefferson Township Trustee,,Rusty Robbins,,150,67,83
+Lee,FM5,Jefferson Township Trustee,,Sam Wilson,,1,1,0
+Lee,JF WMO,Jefferson Township Trustee,,Sam Wilson,,138,54,84
+Lee,FM5,Jefferson Township Trustee,,Write-In,,0,0,0
+Lee,JF WMO,Jefferson Township Trustee,,Write-In,,3,1,2
+Lee,FM5,Madison Township Clerk,,Jeff Vorhies,,12,7,5
+Lee,FM5,Madison Township Clerk,,Write-In,,0,0,0
+Lee,FM5,Madison Township Trustee,,Janet DenAdel,,11,7,4
+Lee,FM5,Madison Township Trustee,,Write-In,,0,0,0
+Lee,MR FR,Marion Township Clerk,,Miles Stanley Wellman,,125,39,86
+Lee,MR FR,Marion Township Clerk,,Write-In,,0,0,0
+Lee,MR FR,Marion Township Trustee,,Jason J. Brune,,126,38,88
+Lee,MR FR,Marion Township Trustee,,Write-In,,0,0,0
+Lee,EMO,Montrose Township Clerk,,Write-In,,16,1,15
+Lee,JF WMO,Montrose Township Clerk,,Write-In,,10,3,7
+Lee,EMO,Montrose Township Trustee,,Mark Klesner,,150,34,116
+Lee,JF WMO,Montrose Township Trustee,,Mark Klesner,,155,39,116
+Lee,EMO,Montrose Township Trustee,,Write-In,,3,1,2
+Lee,JF WMO,Montrose Township Trustee,,Write-In,,2,0,2
+Lee,GBDNPR,Pleasant Ridge Township Clerk,,Roger Fullenkamp,,135,68,67
+Lee,GBDNPR,Pleasant Ridge Township Clerk,,Write-In,,0,0,0
+Lee,GBDNPR,Pleasant Ridge Township Trustee,,Write-In,,13,7,6
+Lee,CE CH,Secretary of Agriculture,,Chris Jones,DEM,190,86,104
+Lee,DM JK,Secretary of Agriculture,,Chris Jones,DEM,302,158,144
+Lee,EMO,Secretary of Agriculture,,Chris Jones,DEM,208,64,144
+Lee,FM1,Secretary of Agriculture,,Chris Jones,DEM,283,146,137
+Lee,FM2,Secretary of Agriculture,,Chris Jones,DEM,354,165,189
+Lee,FM3,Secretary of Agriculture,,Chris Jones,DEM,378,192,186
+Lee,FM4A,Secretary of Agriculture,,Chris Jones,DEM,286,175,111
+Lee,FM4B,Secretary of Agriculture,,Chris Jones,DEM,131,85,46
+Lee,FM5,Secretary of Agriculture,,Chris Jones,DEM,439,272,167
+Lee,GBDNPR,Secretary of Agriculture,,Chris Jones,DEM,258,158,100
+Lee,JF WMO,Secretary of Agriculture,,Chris Jones,DEM,197,101,96
+Lee,KE1,Secretary of Agriculture,,Chris Jones,DEM,176,75,101
+Lee,KE2A,Secretary of Agriculture,,Chris Jones,DEM,126,39,87
+Lee,KE2B,Secretary of Agriculture,,Chris Jones,DEM,31,3,28
+Lee,KE3,Secretary of Agriculture,,Chris Jones,DEM,199,80,119
+Lee,KE4,Secretary of Agriculture,,Chris Jones,DEM,142,55,87
+Lee,KE5,Secretary of Agriculture,,Chris Jones,DEM,279,118,161
+Lee,KE6,Secretary of Agriculture,,Chris Jones,DEM,199,83,116
+Lee,KE7,Secretary of Agriculture,,Chris Jones,DEM,245,108,137
+Lee,MR FR,Secretary of Agriculture,,Chris Jones,DEM,242,106,136
+Lee,WP,Secretary of Agriculture,,Chris Jones,DEM,289,160,129
+Lee,WS,Secretary of Agriculture,,Chris Jones,DEM,267,149,118
+Lee,CE CH,Secretary of Agriculture,,Mike Naig,REP,574,175,399
+Lee,DM JK,Secretary of Agriculture,,Mike Naig,REP,589,179,410
+Lee,EMO,Secretary of Agriculture,,Mike Naig,REP,261,39,222
+Lee,FM1,Secretary of Agriculture,,Mike Naig,REP,219,81,138
+Lee,FM2,Secretary of Agriculture,,Mike Naig,REP,259,114,145
+Lee,FM3,Secretary of Agriculture,,Mike Naig,REP,265,100,165
+Lee,FM4A,Secretary of Agriculture,,Mike Naig,REP,244,107,137
+Lee,FM4B,Secretary of Agriculture,,Mike Naig,REP,97,40,57
+Lee,FM5,Secretary of Agriculture,,Mike Naig,REP,351,153,198
+Lee,GBDNPR,Secretary of Agriculture,,Mike Naig,REP,516,196,320
+Lee,JF WMO,Secretary of Agriculture,,Mike Naig,REP,394,126,268
+Lee,KE1,Secretary of Agriculture,,Mike Naig,REP,167,46,121
+Lee,KE2A,Secretary of Agriculture,,Mike Naig,REP,110,19,91
+Lee,KE2B,Secretary of Agriculture,,Mike Naig,REP,26,3,23
+Lee,KE3,Secretary of Agriculture,,Mike Naig,REP,167,42,125
+Lee,KE4,Secretary of Agriculture,,Mike Naig,REP,140,19,121
+Lee,KE5,Secretary of Agriculture,,Mike Naig,REP,305,60,245
+Lee,KE6,Secretary of Agriculture,,Mike Naig,REP,156,47,109
+Lee,KE7,Secretary of Agriculture,,Mike Naig,REP,313,80,233
+Lee,MR FR,Secretary of Agriculture,,Mike Naig,REP,523,130,393
+Lee,WP,Secretary of Agriculture,,Mike Naig,REP,523,152,371
+Lee,WS,Secretary of Agriculture,,Mike Naig,REP,429,167,262
+Lee,CE CH,Secretary of Agriculture,,Write-In,,2,0,2
+Lee,DM JK,Secretary of Agriculture,,Write-In,,0,0,0
+Lee,EMO,Secretary of Agriculture,,Write-In,,2,0,2
+Lee,FM1,Secretary of Agriculture,,Write-In,,0,0,0
+Lee,FM2,Secretary of Agriculture,,Write-In,,0,0,0
+Lee,FM3,Secretary of Agriculture,,Write-In,,1,1,0
+Lee,FM4A,Secretary of Agriculture,,Write-In,,0,0,0
+Lee,FM4B,Secretary of Agriculture,,Write-In,,0,0,0
+Lee,FM5,Secretary of Agriculture,,Write-In,,0,0,0
+Lee,GBDNPR,Secretary of Agriculture,,Write-In,,1,0,1
+Lee,JF WMO,Secretary of Agriculture,,Write-In,,0,0,0
+Lee,KE1,Secretary of Agriculture,,Write-In,,1,0,1
+Lee,KE2A,Secretary of Agriculture,,Write-In,,1,1,0
+Lee,KE2B,Secretary of Agriculture,,Write-In,,0,0,0
+Lee,KE3,Secretary of Agriculture,,Write-In,,1,0,1
+Lee,KE4,Secretary of Agriculture,,Write-In,,0,0,0
+Lee,KE5,Secretary of Agriculture,,Write-In,,0,0,0
+Lee,KE6,Secretary of Agriculture,,Write-In,,0,0,0
+Lee,KE7,Secretary of Agriculture,,Write-In,,0,0,0
+Lee,MR FR,Secretary of Agriculture,,Write-In,,0,0,0
+Lee,WP,Secretary of Agriculture,,Write-In,,0,0,0
+Lee,WS,Secretary of Agriculture,,Write-In,,0,0,0
+Lee,CE CH,Secretary of State,,Paul D. Pate,REP,567,176,391
+Lee,DM JK,Secretary of State,,Paul D. Pate,REP,601,181,420
+Lee,EMO,Secretary of State,,Paul D. Pate,REP,269,41,228
+Lee,FM1,Secretary of State,,Paul D. Pate,REP,227,82,145
+Lee,FM2,Secretary of State,,Paul D. Pate,REP,264,116,148
+Lee,FM3,Secretary of State,,Paul D. Pate,REP,264,94,170
+Lee,FM4A,Secretary of State,,Paul D. Pate,REP,245,108,137
+Lee,FM4B,Secretary of State,,Paul D. Pate,REP,105,43,62
+Lee,FM5,Secretary of State,,Paul D. Pate,REP,357,155,202
+Lee,GBDNPR,Secretary of State,,Paul D. Pate,REP,505,191,314
+Lee,JF WMO,Secretary of State,,Paul D. Pate,REP,402,131,271
+Lee,KE1,Secretary of State,,Paul D. Pate,REP,174,47,127
+Lee,KE2A,Secretary of State,,Paul D. Pate,REP,108,19,89
+Lee,KE2B,Secretary of State,,Paul D. Pate,REP,27,3,24
+Lee,KE3,Secretary of State,,Paul D. Pate,REP,173,45,128
+Lee,KE4,Secretary of State,,Paul D. Pate,REP,140,19,121
+Lee,KE5,Secretary of State,,Paul D. Pate,REP,307,63,244
+Lee,KE6,Secretary of State,,Paul D. Pate,REP,154,47,107
+Lee,KE7,Secretary of State,,Paul D. Pate,REP,310,74,236
+Lee,MR FR,Secretary of State,,Paul D. Pate,REP,514,126,388
+Lee,WP,Secretary of State,,Paul D. Pate,REP,502,147,355
+Lee,WS,Secretary of State,,Paul D. Pate,REP,436,166,270
+Lee,CE CH,Secretary of State,,Ryan Peterman,DEM,194,82,112
+Lee,DM JK,Secretary of State,,Ryan Peterman,DEM,289,156,133
+Lee,EMO,Secretary of State,,Ryan Peterman,DEM,197,60,137
+Lee,FM1,Secretary of State,,Ryan Peterman,DEM,282,151,131
+Lee,FM2,Secretary of State,,Ryan Peterman,DEM,350,164,186
+Lee,FM3,Secretary of State,,Ryan Peterman,DEM,384,200,184
+Lee,FM4A,Secretary of State,,Ryan Peterman,DEM,288,174,114
+Lee,FM4B,Secretary of State,,Ryan Peterman,DEM,124,82,42
+Lee,FM5,Secretary of State,,Ryan Peterman,DEM,434,268,166
+Lee,GBDNPR,Secretary of State,,Ryan Peterman,DEM,270,161,109
+Lee,JF WMO,Secretary of State,,Ryan Peterman,DEM,192,100,92
+Lee,KE1,Secretary of State,,Ryan Peterman,DEM,176,76,100
+Lee,KE2A,Secretary of State,,Ryan Peterman,DEM,130,40,90
+Lee,KE2B,Secretary of State,,Ryan Peterman,DEM,30,3,27
+Lee,KE3,Secretary of State,,Ryan Peterman,DEM,197,79,118
+Lee,KE4,Secretary of State,,Ryan Peterman,DEM,141,56,85
+Lee,KE5,Secretary of State,,Ryan Peterman,DEM,278,119,159
+Lee,KE6,Secretary of State,,Ryan Peterman,DEM,199,83,116
+Lee,KE7,Secretary of State,,Ryan Peterman,DEM,249,114,135
+Lee,MR FR,Secretary of State,,Ryan Peterman,DEM,244,109,135
+Lee,WP,Secretary of State,,Ryan Peterman,DEM,314,167,147
+Lee,WS,Secretary of State,,Ryan Peterman,DEM,268,153,115
+Lee,CE CH,Secretary of State,,Write-In,,1,1,0
+Lee,DM JK,Secretary of State,,Write-In,,0,0,0
+Lee,EMO,Secretary of State,,Write-In,,2,0,2
+Lee,FM1,Secretary of State,,Write-In,,0,0,0
+Lee,FM2,Secretary of State,,Write-In,,1,1,0
+Lee,FM3,Secretary of State,,Write-In,,1,1,0
+Lee,FM4A,Secretary of State,,Write-In,,0,0,0
+Lee,FM4B,Secretary of State,,Write-In,,0,0,0
+Lee,FM5,Secretary of State,,Write-In,,0,0,0
+Lee,GBDNPR,Secretary of State,,Write-In,,1,0,1
+Lee,JF WMO,Secretary of State,,Write-In,,1,0,1
+Lee,KE1,Secretary of State,,Write-In,,1,0,1
+Lee,KE2A,Secretary of State,,Write-In,,1,1,0
+Lee,KE2B,Secretary of State,,Write-In,,0,0,0
+Lee,KE3,Secretary of State,,Write-In,,0,0,0
+Lee,KE4,Secretary of State,,Write-In,,0,0,0
+Lee,KE5,Secretary of State,,Write-In,,0,0,0
+Lee,KE6,Secretary of State,,Write-In,,1,0,1
+Lee,KE7,Secretary of State,,Write-In,,0,0,0
+Lee,MR FR,Secretary of State,,Write-In,,0,0,0
+Lee,WP,Secretary of State,,Write-In,,0,0,0
+Lee,WS,Secretary of State,,Write-In,,0,0,0
+Lee,CE CH,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,587,187,400
+Lee,DM JK,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,604,217,387
+Lee,EMO,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,318,69,249
+Lee,FM1,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,312,130,182
+Lee,FM2,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,363,156,207
+Lee,FM3,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,407,178,229
+Lee,FM4A,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,344,183,161
+Lee,FM4B,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,169,90,79
+Lee,FM5,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,501,261,240
+Lee,GBDNPR,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,517,229,288
+Lee,JF WMO,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,390,141,249
+Lee,KE1,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,205,76,129
+Lee,KE2A,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,134,33,101
+Lee,KE2B,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,32,1,31
+Lee,KE3,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,232,74,158
+Lee,KE4,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,162,34,128
+Lee,KE5,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,362,105,257
+Lee,KE6,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,216,75,141
+Lee,KE7,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,334,116,218
+Lee,MR FR,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,624,187,437
+Lee,WP,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,549,219,330
+Lee,WS,Soil and Water Conservation District Commissioner,,Ralph Krogmeier,,470,196,274
+Lee,CE CH,Soil and Water Conservation District Commissioner,,Stanley Sanders,,406,142,264
+Lee,DM JK,Soil and Water Conservation District Commissioner,,Stanley Sanders,,497,176,321
+Lee,EMO,Soil and Water Conservation District Commissioner,,Stanley Sanders,,251,59,192
+Lee,FM1,Soil and Water Conservation District Commissioner,,Stanley Sanders,,257,113,144
+Lee,FM2,Soil and Water Conservation District Commissioner,,Stanley Sanders,,305,124,181
+Lee,FM3,Soil and Water Conservation District Commissioner,,Stanley Sanders,,325,144,181
+Lee,FM4A,Soil and Water Conservation District Commissioner,,Stanley Sanders,,277,148,129
+Lee,FM4B,Soil and Water Conservation District Commissioner,,Stanley Sanders,,148,78,70
+Lee,FM5,Soil and Water Conservation District Commissioner,,Stanley Sanders,,403,208,195
+Lee,GBDNPR,Soil and Water Conservation District Commissioner,,Stanley Sanders,,417,189,228
+Lee,JF WMO,Soil and Water Conservation District Commissioner,,Stanley Sanders,,262,91,171
+Lee,KE1,Soil and Water Conservation District Commissioner,,Stanley Sanders,,183,64,119
+Lee,KE2A,Soil and Water Conservation District Commissioner,,Stanley Sanders,,127,33,94
+Lee,KE2B,Soil and Water Conservation District Commissioner,,Stanley Sanders,,32,2,30
+Lee,KE3,Soil and Water Conservation District Commissioner,,Stanley Sanders,,207,67,140
+Lee,KE4,Soil and Water Conservation District Commissioner,,Stanley Sanders,,158,35,123
+Lee,KE5,Soil and Water Conservation District Commissioner,,Stanley Sanders,,332,101,231
+Lee,KE6,Soil and Water Conservation District Commissioner,,Stanley Sanders,,199,70,129
+Lee,KE7,Soil and Water Conservation District Commissioner,,Stanley Sanders,,325,119,206
+Lee,MR FR,Soil and Water Conservation District Commissioner,,Stanley Sanders,,472,145,327
+Lee,WP,Soil and Water Conservation District Commissioner,,Stanley Sanders,,473,176,297
+Lee,WS,Soil and Water Conservation District Commissioner,,Stanley Sanders,,356,156,200
+Lee,CE CH,Soil and Water Conservation District Commissioner,,Write-In,,4,0,4
+Lee,DM JK,Soil and Water Conservation District Commissioner,,Write-In,,7,2,5
+Lee,EMO,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Lee,FM1,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Lee,FM2,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
+Lee,FM3,Soil and Water Conservation District Commissioner,,Write-In,,4,3,1
+Lee,FM4A,Soil and Water Conservation District Commissioner,,Write-In,,2,2,0
+Lee,FM4B,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Lee,FM5,Soil and Water Conservation District Commissioner,,Write-In,,8,3,5
+Lee,GBDNPR,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Lee,JF WMO,Soil and Water Conservation District Commissioner,,Write-In,,7,3,4
+Lee,KE1,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Lee,KE2A,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
+Lee,KE2B,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Lee,KE3,Soil and Water Conservation District Commissioner,,Write-In,,2,2,0
+Lee,KE4,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Lee,KE5,Soil and Water Conservation District Commissioner,,Write-In,,6,2,4
+Lee,KE6,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Lee,KE7,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Lee,MR FR,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Lee,WP,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Lee,WS,Soil and Water Conservation District Commissioner,,Write-In,,6,1,5
+Lee,CE CH,State House,100,Blaine Watkins,REP,541,167,374
+Lee,DM JK,State House,100,Blaine Watkins,REP,594,176,418
+Lee,EMO,State House,100,Blaine Watkins,REP,261,39,222
+Lee,FM1,State House,100,Blaine Watkins,REP,226,75,151
+Lee,FM2,State House,100,Blaine Watkins,REP,273,127,146
+Lee,FM3,State House,100,Blaine Watkins,REP,280,112,168
+Lee,FM4A,State House,100,Blaine Watkins,REP,262,120,142
+Lee,FM4B,State House,100,Blaine Watkins,REP,105,40,65
+Lee,FM5,State House,100,Blaine Watkins,REP,360,160,200
+Lee,JF WMO,State House,100,Blaine Watkins,REP,395,130,265
+Lee,KE1,State House,100,Blaine Watkins,REP,165,46,119
+Lee,KE2A,State House,100,Blaine Watkins,REP,104,21,83
+Lee,KE2B,State House,100,Blaine Watkins,REP,30,3,27
+Lee,KE3,State House,100,Blaine Watkins,REP,164,43,121
+Lee,KE4,State House,100,Blaine Watkins,REP,147,17,130
+Lee,KE5,State House,100,Blaine Watkins,REP,302,61,241
+Lee,KE6,State House,100,Blaine Watkins,REP,156,46,110
+Lee,KE7,State House,100,Blaine Watkins,REP,302,77,225
+Lee,MR FR,State House,100,Blaine Watkins,REP,504,117,387
+Lee,WP,State House,100,Blaine Watkins,REP,495,142,353
+Lee,WS,State House,100,Blaine Watkins,REP,391,146,245
+Lee,CE CH,State House,100,Matthew Mohrfeld,DEM,226,95,131
+Lee,DM JK,State House,100,Matthew Mohrfeld,DEM,295,159,136
+Lee,EMO,State House,100,Matthew Mohrfeld,DEM,198,60,138
+Lee,FM1,State House,100,Matthew Mohrfeld,DEM,288,160,128
+Lee,FM2,State House,100,Matthew Mohrfeld,DEM,335,150,185
+Lee,FM3,State House,100,Matthew Mohrfeld,DEM,367,177,190
+Lee,FM4A,State House,100,Matthew Mohrfeld,DEM,267,166,101
+Lee,FM4B,State House,100,Matthew Mohrfeld,DEM,126,88,38
+Lee,FM5,State House,100,Matthew Mohrfeld,DEM,425,261,164
+Lee,JF WMO,State House,100,Matthew Mohrfeld,DEM,197,96,101
+Lee,KE1,State House,100,Matthew Mohrfeld,DEM,182,76,106
+Lee,KE2A,State House,100,Matthew Mohrfeld,DEM,132,39,93
+Lee,KE2B,State House,100,Matthew Mohrfeld,DEM,27,3,24
+Lee,KE3,State House,100,Matthew Mohrfeld,DEM,203,78,125
+Lee,KE4,State House,100,Matthew Mohrfeld,DEM,136,58,78
+Lee,KE5,State House,100,Matthew Mohrfeld,DEM,280,119,161
+Lee,KE6,State House,100,Matthew Mohrfeld,DEM,192,82,110
+Lee,KE7,State House,100,Matthew Mohrfeld,DEM,249,107,142
+Lee,MR FR,State House,100,Matthew Mohrfeld,DEM,262,121,141
+Lee,WP,State House,100,Matthew Mohrfeld,DEM,334,174,160
+Lee,WS,State House,100,Matthew Mohrfeld,DEM,309,170,139
+Lee,CE CH,State House,100,Write-In,,2,0,2
+Lee,DM JK,State House,100,Write-In,,3,2,1
+Lee,EMO,State House,100,Write-In,,6,2,4
+Lee,FM1,State House,100,Write-In,,0,0,0
+Lee,FM2,State House,100,Write-In,,3,1,2
+Lee,FM3,State House,100,Write-In,,3,2,1
+Lee,FM4A,State House,100,Write-In,,2,0,2
+Lee,FM4B,State House,100,Write-In,,0,0,0
+Lee,FM5,State House,100,Write-In,,0,0,0
+Lee,JF WMO,State House,100,Write-In,,1,1,0
+Lee,KE1,State House,100,Write-In,,0,0,0
+Lee,KE2A,State House,100,Write-In,,0,0,0
+Lee,KE2B,State House,100,Write-In,,0,0,0
+Lee,KE3,State House,100,Write-In,,1,0,1
+Lee,KE4,State House,100,Write-In,,0,0,0
+Lee,KE5,State House,100,Write-In,,1,0,1
+Lee,KE6,State House,100,Write-In,,0,0,0
+Lee,KE7,State House,100,Write-In,,2,2,0
+Lee,MR FR,State House,100,Write-In,,0,0,0
+Lee,WP,State House,100,Write-In,,0,0,0
+Lee,WS,State House,100,Write-In,,2,0,2
+Lee,GBDNPR,State House,99,Jennifer Kirkman,DEM,283,166,117
+Lee,GBDNPR,State House,99,Matthew Rinker,REP,483,184,299
+Lee,GBDNPR,State House,99,Write-In,,1,0,1
+Lee,CE CH,Treasurer of State,,John Norwood,DEM,215,95,120
+Lee,DM JK,Treasurer of State,,John Norwood,DEM,293,161,132
+Lee,EMO,Treasurer of State,,John Norwood,DEM,205,64,141
+Lee,FM1,Treasurer of State,,John Norwood,DEM,288,151,137
+Lee,FM2,Treasurer of State,,John Norwood,DEM,346,166,180
+Lee,FM3,Treasurer of State,,John Norwood,DEM,390,201,189
+Lee,FM4A,Treasurer of State,,John Norwood,DEM,281,171,110
+Lee,FM4B,Treasurer of State,,John Norwood,DEM,130,84,46
+Lee,FM5,Treasurer of State,,John Norwood,DEM,440,275,165
+Lee,GBDNPR,Treasurer of State,,John Norwood,DEM,278,164,114
+Lee,JF WMO,Treasurer of State,,John Norwood,DEM,197,97,100
+Lee,KE1,Treasurer of State,,John Norwood,DEM,174,75,99
+Lee,KE2A,Treasurer of State,,John Norwood,DEM,125,39,86
+Lee,KE2B,Treasurer of State,,John Norwood,DEM,29,3,26
+Lee,KE3,Treasurer of State,,John Norwood,DEM,201,81,120
+Lee,KE4,Treasurer of State,,John Norwood,DEM,145,58,87
+Lee,KE5,Treasurer of State,,John Norwood,DEM,289,120,169
+Lee,KE6,Treasurer of State,,John Norwood,DEM,198,80,118
+Lee,KE7,Treasurer of State,,John Norwood,DEM,248,110,138
+Lee,MR FR,Treasurer of State,,John Norwood,DEM,263,112,151
+Lee,WP,Treasurer of State,,John Norwood,DEM,315,172,143
+Lee,WS,Treasurer of State,,John Norwood,DEM,266,153,113
+Lee,CE CH,Treasurer of State,,Roby Smith,REP,547,165,382
+Lee,DM JK,Treasurer of State,,Roby Smith,REP,594,176,418
+Lee,EMO,Treasurer of State,,Roby Smith,REP,259,38,221
+Lee,FM1,Treasurer of State,,Roby Smith,REP,214,77,137
+Lee,FM2,Treasurer of State,,Roby Smith,REP,264,111,153
+Lee,FM3,Treasurer of State,,Roby Smith,REP,255,92,163
+Lee,FM4A,Treasurer of State,,Roby Smith,REP,247,109,138
+Lee,FM4B,Treasurer of State,,Roby Smith,REP,95,39,56
+Lee,FM5,Treasurer of State,,Roby Smith,REP,340,144,196
+Lee,GBDNPR,Treasurer of State,,Roby Smith,REP,492,186,306
+Lee,JF WMO,Treasurer of State,,Roby Smith,REP,386,126,260
+Lee,KE1,Treasurer of State,,Roby Smith,REP,168,46,122
+Lee,KE2A,Treasurer of State,,Roby Smith,REP,110,19,91
+Lee,KE2B,Treasurer of State,,Roby Smith,REP,28,3,25
+Lee,KE3,Treasurer of State,,Roby Smith,REP,167,43,124
+Lee,KE4,Treasurer of State,,Roby Smith,REP,136,17,119
+Lee,KE5,Treasurer of State,,Roby Smith,REP,296,61,235
+Lee,KE6,Treasurer of State,,Roby Smith,REP,155,49,106
+Lee,KE7,Treasurer of State,,Roby Smith,REP,311,80,231
+Lee,MR FR,Treasurer of State,,Roby Smith,REP,488,120,368
+Lee,WP,Treasurer of State,,Roby Smith,REP,491,138,353
+Lee,WS,Treasurer of State,,Roby Smith,REP,424,160,264
+Lee,CE CH,Treasurer of State,,Write-In,,0,0,0
+Lee,DM JK,Treasurer of State,,Write-In,,0,0,0
+Lee,EMO,Treasurer of State,,Write-In,,1,0,1
+Lee,FM1,Treasurer of State,,Write-In,,1,1,0
+Lee,FM2,Treasurer of State,,Write-In,,1,1,0
+Lee,FM3,Treasurer of State,,Write-In,,1,1,0
+Lee,FM4A,Treasurer of State,,Write-In,,1,0,1
+Lee,FM4B,Treasurer of State,,Write-In,,0,0,0
+Lee,FM5,Treasurer of State,,Write-In,,0,0,0
+Lee,GBDNPR,Treasurer of State,,Write-In,,1,0,1
+Lee,JF WMO,Treasurer of State,,Write-In,,1,0,1
+Lee,KE1,Treasurer of State,,Write-In,,1,0,1
+Lee,KE2A,Treasurer of State,,Write-In,,1,1,0
+Lee,KE2B,Treasurer of State,,Write-In,,0,0,0
+Lee,KE3,Treasurer of State,,Write-In,,2,0,2
+Lee,KE4,Treasurer of State,,Write-In,,0,0,0
+Lee,KE5,Treasurer of State,,Write-In,,0,0,0
+Lee,KE6,Treasurer of State,,Write-In,,0,0,0
+Lee,KE7,Treasurer of State,,Write-In,,1,0,1
+Lee,MR FR,Treasurer of State,,Write-In,,1,0,1
+Lee,WP,Treasurer of State,,Write-In,,0,0,0
+Lee,WS,Treasurer of State,,Write-In,,0,0,0
+Lee,CE CH,U.S. House,1,Christina Bohannan,DEM,223,99,124
+Lee,DM JK,U.S. House,1,Christina Bohannan,DEM,300,157,143
+Lee,EMO,U.S. House,1,Christina Bohannan,DEM,204,63,141
+Lee,FM1,U.S. House,1,Christina Bohannan,DEM,284,151,133
+Lee,FM2,U.S. House,1,Christina Bohannan,DEM,343,162,181
+Lee,FM3,U.S. House,1,Christina Bohannan,DEM,375,190,185
+Lee,FM4A,U.S. House,1,Christina Bohannan,DEM,294,178,116
+Lee,FM4B,U.S. House,1,Christina Bohannan,DEM,132,88,44
+Lee,FM5,U.S. House,1,Christina Bohannan,DEM,439,276,163
+Lee,GBDNPR,U.S. House,1,Christina Bohannan,DEM,286,172,114
+Lee,JF WMO,U.S. House,1,Christina Bohannan,DEM,192,97,95
+Lee,KE1,U.S. House,1,Christina Bohannan,DEM,179,76,103
+Lee,KE2A,U.S. House,1,Christina Bohannan,DEM,126,40,86
+Lee,KE2B,U.S. House,1,Christina Bohannan,DEM,26,3,23
+Lee,KE3,U.S. House,1,Christina Bohannan,DEM,200,79,121
+Lee,KE4,U.S. House,1,Christina Bohannan,DEM,143,56,87
+Lee,KE5,U.S. House,1,Christina Bohannan,DEM,288,119,169
+Lee,KE6,U.S. House,1,Christina Bohannan,DEM,208,87,121
+Lee,KE7,U.S. House,1,Christina Bohannan,DEM,252,112,140
+Lee,MR FR,U.S. House,1,Christina Bohannan,DEM,277,115,162
+Lee,WP,U.S. House,1,Christina Bohannan,DEM,307,165,142
+Lee,WS,U.S. House,1,Christina Bohannan,DEM,285,164,121
+Lee,CE CH,U.S. House,1,Mariannette Miller-Meeks,REP,526,163,363
+Lee,DM JK,U.S. House,1,Mariannette Miller-Meeks,REP,561,172,389
+Lee,EMO,U.S. House,1,Mariannette Miller-Meeks,REP,244,35,209
+Lee,FM1,U.S. House,1,Mariannette Miller-Meeks,REP,201,74,127
+Lee,FM2,U.S. House,1,Mariannette Miller-Meeks,REP,245,107,138
+Lee,FM3,U.S. House,1,Mariannette Miller-Meeks,REP,243,90,153
+Lee,FM4A,U.S. House,1,Mariannette Miller-Meeks,REP,213,100,113
+Lee,FM4B,U.S. House,1,Mariannette Miller-Meeks,REP,89,35,54
+Lee,FM5,U.S. House,1,Mariannette Miller-Meeks,REP,327,140,187
+Lee,GBDNPR,U.S. House,1,Mariannette Miller-Meeks,REP,469,175,294
+Lee,JF WMO,U.S. House,1,Mariannette Miller-Meeks,REP,380,121,259
+Lee,KE1,U.S. House,1,Mariannette Miller-Meeks,REP,160,46,114
+Lee,KE2A,U.S. House,1,Mariannette Miller-Meeks,REP,98,18,80
+Lee,KE2B,U.S. House,1,Mariannette Miller-Meeks,REP,28,3,25
+Lee,KE3,U.S. House,1,Mariannette Miller-Meeks,REP,153,37,116
+Lee,KE4,U.S. House,1,Mariannette Miller-Meeks,REP,126,16,110
+Lee,KE5,U.S. House,1,Mariannette Miller-Meeks,REP,280,61,219
+Lee,KE6,U.S. House,1,Mariannette Miller-Meeks,REP,139,41,98
+Lee,KE7,U.S. House,1,Mariannette Miller-Meeks,REP,291,72,219
+Lee,MR FR,U.S. House,1,Mariannette Miller-Meeks,REP,463,116,347
+Lee,WP,U.S. House,1,Mariannette Miller-Meeks,REP,485,138,347
+Lee,WS,U.S. House,1,Mariannette Miller-Meeks,REP,407,152,255
+Lee,CE CH,U.S. House,1,Michael Bridgford,,27,3,24
+Lee,DM JK,U.S. House,1,Michael Bridgford,,35,7,28
+Lee,EMO,U.S. House,1,Michael Bridgford,,22,4,18
+Lee,FM1,U.S. House,1,Michael Bridgford,,22,4,18
+Lee,FM2,U.S. House,1,Michael Bridgford,,35,17,18
+Lee,FM3,U.S. House,1,Michael Bridgford,,38,16,22
+Lee,FM4A,U.S. House,1,Michael Bridgford,,37,13,24
+Lee,FM4B,U.S. House,1,Michael Bridgford,,8,2,6
+Lee,FM5,U.S. House,1,Michael Bridgford,,33,15,18
+Lee,GBDNPR,U.S. House,1,Michael Bridgford,,20,7,13
+Lee,JF WMO,U.S. House,1,Michael Bridgford,,23,10,13
+Lee,KE1,U.S. House,1,Michael Bridgford,,11,1,10
+Lee,KE2A,U.S. House,1,Michael Bridgford,,13,2,11
+Lee,KE2B,U.S. House,1,Michael Bridgford,,2,0,2
+Lee,KE3,U.S. House,1,Michael Bridgford,,17,7,10
+Lee,KE4,U.S. House,1,Michael Bridgford,,16,4,12
+Lee,KE5,U.S. House,1,Michael Bridgford,,20,0,20
+Lee,KE6,U.S. House,1,Michael Bridgford,,6,1,5
+Lee,KE7,U.S. House,1,Michael Bridgford,,15,4,11
+Lee,MR FR,U.S. House,1,Michael Bridgford,,32,6,26
+Lee,WP,U.S. House,1,Michael Bridgford,,29,12,17
+Lee,WS,U.S. House,1,Michael Bridgford,,19,6,13
+Lee,CE CH,U.S. House,1,Write-In,,1,0,1
+Lee,DM JK,U.S. House,1,Write-In,,0,0,0
+Lee,EMO,U.S. House,1,Write-In,,3,0,3
+Lee,FM1,U.S. House,1,Write-In,,1,0,1
+Lee,FM2,U.S. House,1,Write-In,,2,1,1
+Lee,FM3,U.S. House,1,Write-In,,1,1,0
+Lee,FM4A,U.S. House,1,Write-In,,0,0,0
+Lee,FM4B,U.S. House,1,Write-In,,0,0,0
+Lee,FM5,U.S. House,1,Write-In,,1,1,0
+Lee,GBDNPR,U.S. House,1,Write-In,,2,0,2
+Lee,JF WMO,U.S. House,1,Write-In,,0,0,0
+Lee,KE1,U.S. House,1,Write-In,,1,0,1
+Lee,KE2A,U.S. House,1,Write-In,,0,0,0
+Lee,KE2B,U.S. House,1,Write-In,,0,0,0
+Lee,KE3,U.S. House,1,Write-In,,0,0,0
+Lee,KE4,U.S. House,1,Write-In,,0,0,0
+Lee,KE5,U.S. House,1,Write-In,,1,0,1
+Lee,KE6,U.S. House,1,Write-In,,0,0,0
+Lee,KE7,U.S. House,1,Write-In,,1,0,1
+Lee,MR FR,U.S. House,1,Write-In,,0,0,0
+Lee,WP,U.S. House,1,Write-In,,0,0,0
+Lee,WS,U.S. House,1,Write-In,,0,0,0
+Lee,CE CH,U.S. Senate,,Ashley Hinson,REP,523,166,357
+Lee,DM JK,U.S. Senate,,Ashley Hinson,REP,572,174,398
+Lee,EMO,U.S. Senate,,Ashley Hinson,REP,231,33,198
+Lee,FM1,U.S. Senate,,Ashley Hinson,REP,200,68,132
+Lee,FM2,U.S. Senate,,Ashley Hinson,REP,239,109,130
+Lee,FM3,U.S. Senate,,Ashley Hinson,REP,240,92,148
+Lee,FM4A,U.S. Senate,,Ashley Hinson,REP,220,102,118
+Lee,FM4B,U.S. Senate,,Ashley Hinson,REP,91,42,49
+Lee,FM5,U.S. Senate,,Ashley Hinson,REP,327,149,178
+Lee,GBDNPR,U.S. Senate,,Ashley Hinson,REP,462,173,289
+Lee,JF WMO,U.S. Senate,,Ashley Hinson,REP,376,124,252
+Lee,KE1,U.S. Senate,,Ashley Hinson,REP,155,40,115
+Lee,KE2A,U.S. Senate,,Ashley Hinson,REP,88,19,69
+Lee,KE2B,U.S. Senate,,Ashley Hinson,REP,26,3,23
+Lee,KE3,U.S. Senate,,Ashley Hinson,REP,153,39,114
+Lee,KE4,U.S. Senate,,Ashley Hinson,REP,127,16,111
+Lee,KE5,U.S. Senate,,Ashley Hinson,REP,292,62,230
+Lee,KE6,U.S. Senate,,Ashley Hinson,REP,141,42,99
+Lee,KE7,U.S. Senate,,Ashley Hinson,REP,287,72,215
+Lee,MR FR,U.S. Senate,,Ashley Hinson,REP,461,116,345
+Lee,WP,U.S. Senate,,Ashley Hinson,REP,476,137,339
+Lee,WS,U.S. Senate,,Ashley Hinson,REP,400,150,250
+Lee,CE CH,U.S. Senate,,Josh Turek,DEM,218,96,122
+Lee,DM JK,U.S. Senate,,Josh Turek,DEM,291,158,133
+Lee,EMO,U.S. Senate,,Josh Turek,DEM,204,62,142
+Lee,FM1,U.S. Senate,,Josh Turek,DEM,283,154,129
+Lee,FM2,U.S. Senate,,Josh Turek,DEM,349,166,183
+Lee,FM3,U.S. Senate,,Josh Turek,DEM,376,189,187
+Lee,FM4A,U.S. Senate,,Josh Turek,DEM,284,173,111
+Lee,FM4B,U.S. Senate,,Josh Turek,DEM,131,84,47
+Lee,FM5,U.S. Senate,,Josh Turek,DEM,434,269,165
+Lee,GBDNPR,U.S. Senate,,Josh Turek,DEM,289,174,115
+Lee,JF WMO,U.S. Senate,,Josh Turek,DEM,197,95,102
+Lee,KE1,U.S. Senate,,Josh Turek,DEM,180,79,101
+Lee,KE2A,U.S. Senate,,Josh Turek,DEM,127,39,88
+Lee,KE2B,U.S. Senate,,Josh Turek,DEM,28,3,25
+Lee,KE3,U.S. Senate,,Josh Turek,DEM,190,77,113
+Lee,KE4,U.S. Senate,,Josh Turek,DEM,145,57,88
+Lee,KE5,U.S. Senate,,Josh Turek,DEM,280,117,163
+Lee,KE6,U.S. Senate,,Josh Turek,DEM,200,82,118
+Lee,KE7,U.S. Senate,,Josh Turek,DEM,253,112,141
+Lee,MR FR,U.S. Senate,,Josh Turek,DEM,266,114,152
+Lee,WP,U.S. Senate,,Josh Turek,DEM,321,171,150
+Lee,WS,U.S. Senate,,Josh Turek,DEM,278,162,116
+Lee,CE CH,U.S. Senate,,Thomas Laehn,LIB,36,4,32
+Lee,DM JK,U.S. Senate,,Thomas Laehn,LIB,41,10,31
+Lee,EMO,U.S. Senate,,Thomas Laehn,LIB,38,7,31
+Lee,FM1,U.S. Senate,,Thomas Laehn,LIB,30,12,18
+Lee,FM2,U.S. Senate,,Thomas Laehn,LIB,36,12,24
+Lee,FM3,U.S. Senate,,Thomas Laehn,LIB,41,15,26
+Lee,FM4A,U.S. Senate,,Thomas Laehn,LIB,34,13,21
+Lee,FM4B,U.S. Senate,,Thomas Laehn,LIB,9,1,8
+Lee,FM5,U.S. Senate,,Thomas Laehn,LIB,38,12,26
+Lee,GBDNPR,U.S. Senate,,Thomas Laehn,LIB,31,11,20
+Lee,JF WMO,U.S. Senate,,Thomas Laehn,LIB,23,9,14
+Lee,KE1,U.S. Senate,,Thomas Laehn,LIB,16,4,12
+Lee,KE2A,U.S. Senate,,Thomas Laehn,LIB,24,3,21
+Lee,KE2B,U.S. Senate,,Thomas Laehn,LIB,2,0,2
+Lee,KE3,U.S. Senate,,Thomas Laehn,LIB,26,8,18
+Lee,KE4,U.S. Senate,,Thomas Laehn,LIB,10,2,8
+Lee,KE5,U.S. Senate,,Thomas Laehn,LIB,22,1,21
+Lee,KE6,U.S. Senate,,Thomas Laehn,LIB,14,5,9
+Lee,KE7,U.S. Senate,,Thomas Laehn,LIB,21,3,18
+Lee,MR FR,U.S. Senate,,Thomas Laehn,LIB,43,7,36
+Lee,WP,U.S. Senate,,Thomas Laehn,LIB,27,6,21
+Lee,WS,U.S. Senate,,Thomas Laehn,LIB,27,6,21
+Lee,CE CH,U.S. Senate,,Write-In,,0,0,0
+Lee,DM JK,U.S. Senate,,Write-In,,0,0,0
+Lee,EMO,U.S. Senate,,Write-In,,1,1,0
+Lee,FM1,U.S. Senate,,Write-In,,0,0,0
+Lee,FM2,U.S. Senate,,Write-In,,2,0,2
+Lee,FM3,U.S. Senate,,Write-In,,3,1,2
+Lee,FM4A,U.S. Senate,,Write-In,,0,0,0
+Lee,FM4B,U.S. Senate,,Write-In,,0,0,0
+Lee,FM5,U.S. Senate,,Write-In,,0,0,0
+Lee,GBDNPR,U.S. Senate,,Write-In,,2,0,2
+Lee,JF WMO,U.S. Senate,,Write-In,,0,0,0
+Lee,KE1,U.S. Senate,,Write-In,,1,0,1
+Lee,KE2A,U.S. Senate,,Write-In,,1,0,1
+Lee,KE2B,U.S. Senate,,Write-In,,0,0,0
+Lee,KE3,U.S. Senate,,Write-In,,0,0,0
+Lee,KE4,U.S. Senate,,Write-In,,0,0,0
+Lee,KE5,U.S. Senate,,Write-In,,1,0,1
+Lee,KE6,U.S. Senate,,Write-In,,0,0,0
+Lee,KE7,U.S. Senate,,Write-In,,0,0,0
+Lee,MR FR,U.S. Senate,,Write-In,,0,0,0
+Lee,WP,U.S. Senate,,Write-In,,0,0,0
+Lee,WS,U.S. Senate,,Write-In,,0,0,0
+Lee,CE CH,Van Buren County School - Public Measure US,,No,,72,20,52
+Lee,CE CH,Van Buren County School - Public Measure US,,Yes,,26,12,14
+Lee,CE CH,Van Buren Township Clerk,,Darren Sturdivant,,134,42,92
+Lee,CE CH,Van Buren Township Clerk,,Write-In,,1,0,1
+Lee,CE CH,Van Buren Township Trustee,,Jeff Horsey,,138,42,96
+Lee,CE CH,Van Buren Township Trustee,,Write-In,,3,0,3
+Lee,WS,Washington Township Clerk,,Larry Buechel,,531,215,316
+Lee,WS,Washington Township Clerk,,Write-In,,3,0,3
+Lee,WS,Washington Township Trustee,,Warren J. Rickelman,,534,217,317
+Lee,WS,Washington Township Trustee,,Write-In,,6,1,5
+Lee,WP,West Point Township Clerk,,Write-In,,4,3,1
+Lee,WP,West Point Township Trustee,,Adrian Steffensmeier Jr.,,299,128,171
+Lee,WP,West Point Township Trustee,,Write-In,,2,1,1
+Lee,WP,West Point Township Trustee To Fill a Vacancy,,Write-In,,11,3,8

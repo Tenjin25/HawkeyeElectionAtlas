@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2026,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "us_senate",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2026_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 182196,
+        "rep_votes": 152461,
+        "other_votes": 11709,
+        "total_votes": 346366,
+        "dem_candidate": "Josh Turek",
+        "rep_candidate": "Ashley Hinson",
+        "margin": -29735,
+        "margin_pct": -8.58484955220778,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "2": {
+        "dem_votes": 179858,
+        "rep_votes": 160123,
+        "other_votes": 10222,
+        "total_votes": 350203,
+        "dem_candidate": "Josh Turek",
+        "rep_candidate": "Ashley Hinson",
+        "margin": -19735,
+        "margin_pct": -5.635302952858771,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "3": {
+        "dem_votes": 195970,
+        "rep_votes": 149009,
+        "other_votes": 10651,
+        "total_votes": 355630,
+        "dem_candidate": "Josh Turek",
+        "rep_candidate": "Ashley Hinson",
+        "margin": -46961,
+        "margin_pct": -13.205016449680848,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "4": {
+        "dem_votes": 128616,
+        "rep_votes": 169215,
+        "other_votes": 11191,
+        "total_votes": 309022,
+        "dem_candidate": "Josh Turek",
+        "rep_candidate": "Ashley Hinson",
+        "margin": 40599,
+        "margin_pct": 13.137899567021119,
+        "winner": "REP",
+        "color": "#e93a2d"
+      }
+    }
+  }
+}

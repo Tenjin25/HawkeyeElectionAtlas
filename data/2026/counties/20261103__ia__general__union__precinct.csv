@@ -1,0 +1,573 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Union,AF AFTON METHODIST CHURCH,Attorney General,,Brenna Bird,REP,296,76,220
+Union,AR ARISPE METHODIST CHURCH,Attorney General,,Brenna Bird,REP,157,44,113
+Union,CS1 SALEM LUTHERAN CHURCH,Attorney General,,Brenna Bird,REP,216,57,159
+Union,CS2 SWCC,Attorney General,,Brenna Bird,REP,782,338,444
+Union,CS3 TRINITY LUTHERAN CHURCH,Attorney General,,Brenna Bird,REP,285,101,184
+Union,CS4 SUPERTEL,Attorney General,,Brenna Bird,REP,332,119,213
+Union,CS5 CREST BAPTIST CHURCH,Attorney General,,Brenna Bird,REP,342,102,240
+Union,LNT LINCOLN TOWNSHIP,Attorney General,,Brenna Bird,REP,111,47,64
+Union,LR LORIMOR CITY HALL,Attorney General,,Brenna Bird,REP,278,74,204
+Union,AF AFTON METHODIST CHURCH,Attorney General,,Nate Willems,DEM,147,42,105
+Union,AR ARISPE METHODIST CHURCH,Attorney General,,Nate Willems,DEM,63,28,35
+Union,CS1 SALEM LUTHERAN CHURCH,Attorney General,,Nate Willems,DEM,223,97,126
+Union,CS2 SWCC,Attorney General,,Nate Willems,DEM,390,240,150
+Union,CS3 TRINITY LUTHERAN CHURCH,Attorney General,,Nate Willems,DEM,291,155,136
+Union,CS4 SUPERTEL,Attorney General,,Nate Willems,DEM,235,131,104
+Union,CS5 CREST BAPTIST CHURCH,Attorney General,,Nate Willems,DEM,302,146,156
+Union,LNT LINCOLN TOWNSHIP,Attorney General,,Nate Willems,DEM,39,19,20
+Union,LR LORIMOR CITY HALL,Attorney General,,Nate Willems,DEM,149,69,80
+Union,AF AFTON METHODIST CHURCH,Attorney General,,Write-In,,0,0,0
+Union,AR ARISPE METHODIST CHURCH,Attorney General,,Write-In,,0,0,0
+Union,CS1 SALEM LUTHERAN CHURCH,Attorney General,,Write-In,,1,0,1
+Union,CS2 SWCC,Attorney General,,Write-In,,1,1,0
+Union,CS3 TRINITY LUTHERAN CHURCH,Attorney General,,Write-In,,0,0,0
+Union,CS4 SUPERTEL,Attorney General,,Write-In,,1,1,0
+Union,CS5 CREST BAPTIST CHURCH,Attorney General,,Write-In,,0,0,0
+Union,LNT LINCOLN TOWNSHIP,Attorney General,,Write-In,,0,0,0
+Union,LR LORIMOR CITY HALL,Attorney General,,Write-In,,1,0,1
+Union,AF AFTON METHODIST CHURCH,Auditor of State,,Chris Cournoyer,REP,290,68,222
+Union,AR ARISPE METHODIST CHURCH,Auditor of State,,Chris Cournoyer,REP,156,48,108
+Union,CS1 SALEM LUTHERAN CHURCH,Auditor of State,,Chris Cournoyer,REP,226,59,167
+Union,CS2 SWCC,Auditor of State,,Chris Cournoyer,REP,767,333,434
+Union,CS3 TRINITY LUTHERAN CHURCH,Auditor of State,,Chris Cournoyer,REP,286,99,187
+Union,CS4 SUPERTEL,Auditor of State,,Chris Cournoyer,REP,317,112,205
+Union,CS5 CREST BAPTIST CHURCH,Auditor of State,,Chris Cournoyer,REP,346,105,241
+Union,LNT LINCOLN TOWNSHIP,Auditor of State,,Chris Cournoyer,REP,114,47,67
+Union,LR LORIMOR CITY HALL,Auditor of State,,Chris Cournoyer,REP,275,73,202
+Union,AF AFTON METHODIST CHURCH,Auditor of State,,Taylor Wettach,DEM,144,43,101
+Union,AR ARISPE METHODIST CHURCH,Auditor of State,,Taylor Wettach,DEM,60,23,37
+Union,CS1 SALEM LUTHERAN CHURCH,Auditor of State,,Taylor Wettach,DEM,209,92,117
+Union,CS2 SWCC,Auditor of State,,Taylor Wettach,DEM,391,235,156
+Union,CS3 TRINITY LUTHERAN CHURCH,Auditor of State,,Taylor Wettach,DEM,287,154,133
+Union,CS4 SUPERTEL,Auditor of State,,Taylor Wettach,DEM,241,134,107
+Union,CS5 CREST BAPTIST CHURCH,Auditor of State,,Taylor Wettach,DEM,287,142,145
+Union,LNT LINCOLN TOWNSHIP,Auditor of State,,Taylor Wettach,DEM,36,20,16
+Union,LR LORIMOR CITY HALL,Auditor of State,,Taylor Wettach,DEM,148,68,80
+Union,AF AFTON METHODIST CHURCH,Auditor of State,,Write-In,,1,0,1
+Union,AR ARISPE METHODIST CHURCH,Auditor of State,,Write-In,,0,0,0
+Union,CS1 SALEM LUTHERAN CHURCH,Auditor of State,,Write-In,,1,0,1
+Union,CS2 SWCC,Auditor of State,,Write-In,,3,2,1
+Union,CS3 TRINITY LUTHERAN CHURCH,Auditor of State,,Write-In,,0,0,0
+Union,CS4 SUPERTEL,Auditor of State,,Write-In,,0,0,0
+Union,CS5 CREST BAPTIST CHURCH,Auditor of State,,Write-In,,0,0,0
+Union,LNT LINCOLN TOWNSHIP,Auditor of State,,Write-In,,0,0,0
+Union,LR LORIMOR CITY HALL,Auditor of State,,Write-In,,1,0,1
+Union,AF AFTON METHODIST CHURCH,Constitutional Amendment 1,,No,,122,33,89
+Union,AR ARISPE METHODIST CHURCH,Constitutional Amendment 1,,No,,60,19,41
+Union,CS1 SALEM LUTHERAN CHURCH,Constitutional Amendment 1,,No,,150,64,86
+Union,CS2 SWCC,Constitutional Amendment 1,,No,,362,176,186
+Union,CS3 TRINITY LUTHERAN CHURCH,Constitutional Amendment 1,,No,,218,99,119
+Union,CS4 SUPERTEL,Constitutional Amendment 1,,No,,176,79,97
+Union,CS5 CREST BAPTIST CHURCH,Constitutional Amendment 1,,No,,215,89,126
+Union,LNT LINCOLN TOWNSHIP,Constitutional Amendment 1,,No,,45,21,24
+Union,LR LORIMOR CITY HALL,Constitutional Amendment 1,,No,,146,56,90
+Union,AF AFTON METHODIST CHURCH,Constitutional Amendment 1,,Yes,,278,71,207
+Union,AR ARISPE METHODIST CHURCH,Constitutional Amendment 1,,Yes,,129,42,87
+Union,CS1 SALEM LUTHERAN CHURCH,Constitutional Amendment 1,,Yes,,250,64,186
+Union,CS2 SWCC,Constitutional Amendment 1,,Yes,,717,330,387
+Union,CS3 TRINITY LUTHERAN CHURCH,Constitutional Amendment 1,,Yes,,314,135,179
+Union,CS4 SUPERTEL,Constitutional Amendment 1,,Yes,,326,144,182
+Union,CS5 CREST BAPTIST CHURCH,Constitutional Amendment 1,,Yes,,368,129,239
+Union,LNT LINCOLN TOWNSHIP,Constitutional Amendment 1,,Yes,,95,39,56
+Union,LR LORIMOR CITY HALL,Constitutional Amendment 1,,Yes,,253,79,174
+Union,AF AFTON METHODIST CHURCH,County Agricultural Extension Council Member,,Amy Studer,,271,77,194
+Union,AR ARISPE METHODIST CHURCH,County Agricultural Extension Council Member,,Amy Studer,,134,39,95
+Union,CS1 SALEM LUTHERAN CHURCH,County Agricultural Extension Council Member,,Amy Studer,,265,75,190
+Union,CS2 SWCC,County Agricultural Extension Council Member,,Amy Studer,,817,381,436
+Union,CS3 TRINITY LUTHERAN CHURCH,County Agricultural Extension Council Member,,Amy Studer,,337,135,202
+Union,CS4 SUPERTEL,County Agricultural Extension Council Member,,Amy Studer,,348,134,214
+Union,CS5 CREST BAPTIST CHURCH,County Agricultural Extension Council Member,,Amy Studer,,416,143,273
+Union,LNT LINCOLN TOWNSHIP,County Agricultural Extension Council Member,,Amy Studer,,109,45,64
+Union,LR LORIMOR CITY HALL,County Agricultural Extension Council Member,,Amy Studer,,250,82,168
+Union,AF AFTON METHODIST CHURCH,County Agricultural Extension Council Member,,Drew Hardisty,,324,85,239
+Union,AR ARISPE METHODIST CHURCH,County Agricultural Extension Council Member,,Drew Hardisty,,148,41,107
+Union,CS1 SALEM LUTHERAN CHURCH,County Agricultural Extension Council Member,,Drew Hardisty,,247,72,175
+Union,CS2 SWCC,County Agricultural Extension Council Member,,Drew Hardisty,,743,337,406
+Union,CS3 TRINITY LUTHERAN CHURCH,County Agricultural Extension Council Member,,Drew Hardisty,,333,141,192
+Union,CS4 SUPERTEL,County Agricultural Extension Council Member,,Drew Hardisty,,331,129,202
+Union,CS5 CREST BAPTIST CHURCH,County Agricultural Extension Council Member,,Drew Hardisty,,394,140,254
+Union,LNT LINCOLN TOWNSHIP,County Agricultural Extension Council Member,,Drew Hardisty,,105,42,63
+Union,LR LORIMOR CITY HALL,County Agricultural Extension Council Member,,Drew Hardisty,,292,91,201
+Union,AF AFTON METHODIST CHURCH,County Agricultural Extension Council Member,,Jodi Nixon,,307,89,218
+Union,AR ARISPE METHODIST CHURCH,County Agricultural Extension Council Member,,Jodi Nixon,,153,46,107
+Union,CS1 SALEM LUTHERAN CHURCH,County Agricultural Extension Council Member,,Jodi Nixon,,244,73,171
+Union,CS2 SWCC,County Agricultural Extension Council Member,,Jodi Nixon,,765,358,407
+Union,CS3 TRINITY LUTHERAN CHURCH,County Agricultural Extension Council Member,,Jodi Nixon,,331,135,196
+Union,CS4 SUPERTEL,County Agricultural Extension Council Member,,Jodi Nixon,,328,129,199
+Union,CS5 CREST BAPTIST CHURCH,County Agricultural Extension Council Member,,Jodi Nixon,,393,131,262
+Union,LNT LINCOLN TOWNSHIP,County Agricultural Extension Council Member,,Jodi Nixon,,107,43,64
+Union,LR LORIMOR CITY HALL,County Agricultural Extension Council Member,,Jodi Nixon,,280,91,189
+Union,AF AFTON METHODIST CHURCH,County Agricultural Extension Council Member,,Shiloh Gennaro,,247,73,174
+Union,AR ARISPE METHODIST CHURCH,County Agricultural Extension Council Member,,Shiloh Gennaro,,138,38,100
+Union,CS1 SALEM LUTHERAN CHURCH,County Agricultural Extension Council Member,,Shiloh Gennaro,,218,66,152
+Union,CS2 SWCC,County Agricultural Extension Council Member,,Shiloh Gennaro,,666,311,355
+Union,CS3 TRINITY LUTHERAN CHURCH,County Agricultural Extension Council Member,,Shiloh Gennaro,,288,118,170
+Union,CS4 SUPERTEL,County Agricultural Extension Council Member,,Shiloh Gennaro,,288,112,176
+Union,CS5 CREST BAPTIST CHURCH,County Agricultural Extension Council Member,,Shiloh Gennaro,,345,122,223
+Union,LNT LINCOLN TOWNSHIP,County Agricultural Extension Council Member,,Shiloh Gennaro,,91,34,57
+Union,LR LORIMOR CITY HALL,County Agricultural Extension Council Member,,Shiloh Gennaro,,231,77,154
+Union,AF AFTON METHODIST CHURCH,County Agricultural Extension Council Member,,Write-In,,4,1,3
+Union,AR ARISPE METHODIST CHURCH,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Union,CS1 SALEM LUTHERAN CHURCH,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Union,CS2 SWCC,County Agricultural Extension Council Member,,Write-In,,5,1,4
+Union,CS3 TRINITY LUTHERAN CHURCH,County Agricultural Extension Council Member,,Write-In,,16,2,14
+Union,CS4 SUPERTEL,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Union,CS5 CREST BAPTIST CHURCH,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Union,LNT LINCOLN TOWNSHIP,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Union,LR LORIMOR CITY HALL,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Union,AF AFTON METHODIST CHURCH,County Attorney,,Shane Patrick O'Toole,REP,271,68,203
+Union,AR ARISPE METHODIST CHURCH,County Attorney,,Shane Patrick O'Toole,REP,142,43,99
+Union,CS1 SALEM LUTHERAN CHURCH,County Attorney,,Shane Patrick O'Toole,REP,267,74,193
+Union,CS2 SWCC,County Attorney,,Shane Patrick O'Toole,REP,745,347,398
+Union,CS3 TRINITY LUTHERAN CHURCH,County Attorney,,Shane Patrick O'Toole,REP,351,137,214
+Union,CS4 SUPERTEL,County Attorney,,Shane Patrick O'Toole,REP,345,125,220
+Union,CS5 CREST BAPTIST CHURCH,County Attorney,,Shane Patrick O'Toole,REP,402,134,268
+Union,LNT LINCOLN TOWNSHIP,County Attorney,,Shane Patrick O'Toole,REP,94,36,58
+Union,LR LORIMOR CITY HALL,County Attorney,,Shane Patrick O'Toole,REP,291,85,206
+Union,AF AFTON METHODIST CHURCH,County Attorney,,Write-In,,49,9,40
+Union,AR ARISPE METHODIST CHURCH,County Attorney,,Write-In,,18,3,15
+Union,CS1 SALEM LUTHERAN CHURCH,County Attorney,,Write-In,,35,8,27
+Union,CS2 SWCC,County Attorney,,Write-In,,102,31,71
+Union,CS3 TRINITY LUTHERAN CHURCH,County Attorney,,Write-In,,34,5,29
+Union,CS4 SUPERTEL,County Attorney,,Write-In,,48,24,24
+Union,CS5 CREST BAPTIST CHURCH,County Attorney,,Write-In,,45,16,29
+Union,LNT LINCOLN TOWNSHIP,County Attorney,,Write-In,,15,8,7
+Union,LR LORIMOR CITY HALL,County Attorney,,Write-In,,29,3,26
+Union,AF AFTON METHODIST CHURCH,County Board of Supervisors,,Dennis Hopkins,REP,390,98,292
+Union,AR ARISPE METHODIST CHURCH,County Board of Supervisors,,Dennis Hopkins,REP,181,54,127
+Union,CS1 SALEM LUTHERAN CHURCH,County Board of Supervisors,,Dennis Hopkins,REP,361,104,257
+Union,CS2 SWCC,County Board of Supervisors,,Dennis Hopkins,REP,1018,474,544
+Union,CS3 TRINITY LUTHERAN CHURCH,County Board of Supervisors,,Dennis Hopkins,REP,468,189,279
+Union,CS4 SUPERTEL,County Board of Supervisors,,Dennis Hopkins,REP,459,180,279
+Union,CS5 CREST BAPTIST CHURCH,County Board of Supervisors,,Dennis Hopkins,REP,522,175,347
+Union,LNT LINCOLN TOWNSHIP,County Board of Supervisors,,Dennis Hopkins,REP,140,61,79
+Union,LR LORIMOR CITY HALL,County Board of Supervisors,,Dennis Hopkins,REP,372,110,262
+Union,AF AFTON METHODIST CHURCH,County Board of Supervisors,,Write-In,,6,1,5
+Union,AR ARISPE METHODIST CHURCH,County Board of Supervisors,,Write-In,,4,0,4
+Union,CS1 SALEM LUTHERAN CHURCH,County Board of Supervisors,,Write-In,,4,1,3
+Union,CS2 SWCC,County Board of Supervisors,,Write-In,,16,6,10
+Union,CS3 TRINITY LUTHERAN CHURCH,County Board of Supervisors,,Write-In,,5,1,4
+Union,CS4 SUPERTEL,County Board of Supervisors,,Write-In,,7,3,4
+Union,CS5 CREST BAPTIST CHURCH,County Board of Supervisors,,Write-In,,9,4,5
+Union,LNT LINCOLN TOWNSHIP,County Board of Supervisors,,Write-In,,1,0,1
+Union,LR LORIMOR CITY HALL,County Board of Supervisors,,Write-In,,5,2,3
+Union,AF AFTON METHODIST CHURCH,County Hospital Trustee,,Kenneth Stults,,294,83,211
+Union,AR ARISPE METHODIST CHURCH,County Hospital Trustee,,Kenneth Stults,,142,46,96
+Union,CS1 SALEM LUTHERAN CHURCH,County Hospital Trustee,,Kenneth Stults,,271,79,192
+Union,CS2 SWCC,County Hospital Trustee,,Kenneth Stults,,869,413,456
+Union,CS3 TRINITY LUTHERAN CHURCH,County Hospital Trustee,,Kenneth Stults,,369,157,212
+Union,CS4 SUPERTEL,County Hospital Trustee,,Kenneth Stults,,356,149,207
+Union,CS5 CREST BAPTIST CHURCH,County Hospital Trustee,,Kenneth Stults,,454,172,282
+Union,LNT LINCOLN TOWNSHIP,County Hospital Trustee,,Kenneth Stults,,112,44,68
+Union,LR LORIMOR CITY HALL,County Hospital Trustee,,Kenneth Stults,,255,84,171
+Union,AF AFTON METHODIST CHURCH,County Hospital Trustee,,Raymond Jack Davis,,271,70,201
+Union,AR ARISPE METHODIST CHURCH,County Hospital Trustee,,Raymond Jack Davis,,131,38,93
+Union,CS1 SALEM LUTHERAN CHURCH,County Hospital Trustee,,Raymond Jack Davis,,249,76,173
+Union,CS2 SWCC,County Hospital Trustee,,Raymond Jack Davis,,764,361,403
+Union,CS3 TRINITY LUTHERAN CHURCH,County Hospital Trustee,,Raymond Jack Davis,,328,132,196
+Union,CS4 SUPERTEL,County Hospital Trustee,,Raymond Jack Davis,,314,121,193
+Union,CS5 CREST BAPTIST CHURCH,County Hospital Trustee,,Raymond Jack Davis,,396,141,255
+Union,LNT LINCOLN TOWNSHIP,County Hospital Trustee,,Raymond Jack Davis,,100,40,60
+Union,LR LORIMOR CITY HALL,County Hospital Trustee,,Raymond Jack Davis,,259,81,178
+Union,AF AFTON METHODIST CHURCH,County Hospital Trustee,,Thomas Lesan,,288,79,209
+Union,AR ARISPE METHODIST CHURCH,County Hospital Trustee,,Thomas Lesan,,141,43,98
+Union,CS1 SALEM LUTHERAN CHURCH,County Hospital Trustee,,Thomas Lesan,,264,85,179
+Union,CS2 SWCC,County Hospital Trustee,,Thomas Lesan,,856,397,459
+Union,CS3 TRINITY LUTHERAN CHURCH,County Hospital Trustee,,Thomas Lesan,,359,156,203
+Union,CS4 SUPERTEL,County Hospital Trustee,,Thomas Lesan,,351,149,202
+Union,CS5 CREST BAPTIST CHURCH,County Hospital Trustee,,Thomas Lesan,,431,161,270
+Union,LNT LINCOLN TOWNSHIP,County Hospital Trustee,,Thomas Lesan,,111,44,67
+Union,LR LORIMOR CITY HALL,County Hospital Trustee,,Thomas Lesan,,251,78,173
+Union,AF AFTON METHODIST CHURCH,County Hospital Trustee,,Write-In,,9,1,8
+Union,AR ARISPE METHODIST CHURCH,County Hospital Trustee,,Write-In,,3,1,2
+Union,CS1 SALEM LUTHERAN CHURCH,County Hospital Trustee,,Write-In,,6,0,6
+Union,CS2 SWCC,County Hospital Trustee,,Write-In,,19,3,16
+Union,CS3 TRINITY LUTHERAN CHURCH,County Hospital Trustee,,Write-In,,19,5,14
+Union,CS4 SUPERTEL,County Hospital Trustee,,Write-In,,9,2,7
+Union,CS5 CREST BAPTIST CHURCH,County Hospital Trustee,,Write-In,,4,0,4
+Union,LNT LINCOLN TOWNSHIP,County Hospital Trustee,,Write-In,,2,2,0
+Union,LR LORIMOR CITY HALL,County Hospital Trustee,,Write-In,,2,0,2
+Union,AF AFTON METHODIST CHURCH,County Recorder,,Katie Carlton,REP,391,98,293
+Union,AR ARISPE METHODIST CHURCH,County Recorder,,Katie Carlton,REP,185,56,129
+Union,CS1 SALEM LUTHERAN CHURCH,County Recorder,,Katie Carlton,REP,360,101,259
+Union,CS2 SWCC,County Recorder,,Katie Carlton,REP,1049,498,551
+Union,CS3 TRINITY LUTHERAN CHURCH,County Recorder,,Katie Carlton,REP,471,188,283
+Union,CS4 SUPERTEL,County Recorder,,Katie Carlton,REP,466,181,285
+Union,CS5 CREST BAPTIST CHURCH,County Recorder,,Katie Carlton,REP,522,180,342
+Union,LNT LINCOLN TOWNSHIP,County Recorder,,Katie Carlton,REP,141,61,80
+Union,LR LORIMOR CITY HALL,County Recorder,,Katie Carlton,REP,373,113,260
+Union,AF AFTON METHODIST CHURCH,County Recorder,,Write-In,,5,2,3
+Union,AR ARISPE METHODIST CHURCH,County Recorder,,Write-In,,2,0,2
+Union,CS1 SALEM LUTHERAN CHURCH,County Recorder,,Write-In,,3,1,2
+Union,CS2 SWCC,County Recorder,,Write-In,,8,4,4
+Union,CS3 TRINITY LUTHERAN CHURCH,County Recorder,,Write-In,,2,0,2
+Union,CS4 SUPERTEL,County Recorder,,Write-In,,2,1,1
+Union,CS5 CREST BAPTIST CHURCH,County Recorder,,Write-In,,7,3,4
+Union,LNT LINCOLN TOWNSHIP,County Recorder,,Write-In,,1,1,0
+Union,LR LORIMOR CITY HALL,County Recorder,,Write-In,,3,0,3
+Union,AF AFTON METHODIST CHURCH,County Treasurer,,Kelly Busch,REP,403,100,303
+Union,AR ARISPE METHODIST CHURCH,County Treasurer,,Kelly Busch,REP,192,62,130
+Union,CS1 SALEM LUTHERAN CHURCH,County Treasurer,,Kelly Busch,REP,377,111,266
+Union,CS2 SWCC,County Treasurer,,Kelly Busch,REP,1069,504,565
+Union,CS3 TRINITY LUTHERAN CHURCH,County Treasurer,,Kelly Busch,REP,484,197,287
+Union,CS4 SUPERTEL,County Treasurer,,Kelly Busch,REP,485,194,291
+Union,CS5 CREST BAPTIST CHURCH,County Treasurer,,Kelly Busch,REP,553,196,357
+Union,LNT LINCOLN TOWNSHIP,County Treasurer,,Kelly Busch,REP,145,62,83
+Union,LR LORIMOR CITY HALL,County Treasurer,,Kelly Busch,REP,386,116,270
+Union,AF AFTON METHODIST CHURCH,County Treasurer,,Write-In,,4,1,3
+Union,AR ARISPE METHODIST CHURCH,County Treasurer,,Write-In,,2,0,2
+Union,CS1 SALEM LUTHERAN CHURCH,County Treasurer,,Write-In,,3,1,2
+Union,CS2 SWCC,County Treasurer,,Write-In,,7,4,3
+Union,CS3 TRINITY LUTHERAN CHURCH,County Treasurer,,Write-In,,2,0,2
+Union,CS4 SUPERTEL,County Treasurer,,Write-In,,4,1,3
+Union,CS5 CREST BAPTIST CHURCH,County Treasurer,,Write-In,,6,2,4
+Union,LNT LINCOLN TOWNSHIP,County Treasurer,,Write-In,,0,0,0
+Union,LR LORIMOR CITY HALL,County Treasurer,,Write-In,,2,0,2
+Union,AF AFTON METHODIST CHURCH,Court of Appeals Judge - John M. Sandy,,No,,105,25,80
+Union,AR ARISPE METHODIST CHURCH,Court of Appeals Judge - John M. Sandy,,No,,48,9,39
+Union,CS1 SALEM LUTHERAN CHURCH,Court of Appeals Judge - John M. Sandy,,No,,96,30,66
+Union,CS2 SWCC,Court of Appeals Judge - John M. Sandy,,No,,213,98,115
+Union,CS3 TRINITY LUTHERAN CHURCH,Court of Appeals Judge - John M. Sandy,,No,,121,58,63
+Union,CS4 SUPERTEL,Court of Appeals Judge - John M. Sandy,,No,,122,50,72
+Union,CS5 CREST BAPTIST CHURCH,Court of Appeals Judge - John M. Sandy,,No,,141,50,91
+Union,LNT LINCOLN TOWNSHIP,Court of Appeals Judge - John M. Sandy,,No,,33,12,21
+Union,LR LORIMOR CITY HALL,Court of Appeals Judge - John M. Sandy,,No,,109,35,74
+Union,AF AFTON METHODIST CHURCH,Court of Appeals Judge - John M. Sandy,,Yes,,221,52,169
+Union,AR ARISPE METHODIST CHURCH,Court of Appeals Judge - John M. Sandy,,Yes,,109,36,73
+Union,CS1 SALEM LUTHERAN CHURCH,Court of Appeals Judge - John M. Sandy,,Yes,,246,72,174
+Union,CS2 SWCC,Court of Appeals Judge - John M. Sandy,,Yes,,654,296,358
+Union,CS3 TRINITY LUTHERAN CHURCH,Court of Appeals Judge - John M. Sandy,,Yes,,303,118,185
+Union,CS4 SUPERTEL,Court of Appeals Judge - John M. Sandy,,Yes,,291,110,181
+Union,CS5 CREST BAPTIST CHURCH,Court of Appeals Judge - John M. Sandy,,Yes,,345,124,221
+Union,LNT LINCOLN TOWNSHIP,Court of Appeals Judge - John M. Sandy,,Yes,,66,27,39
+Union,LR LORIMOR CITY HALL,Court of Appeals Judge - John M. Sandy,,Yes,,205,61,144
+Union,AF AFTON METHODIST CHURCH,Court of Appeals Judge - Julie A. Schumacher,,No,,101,25,76
+Union,AR ARISPE METHODIST CHURCH,Court of Appeals Judge - Julie A. Schumacher,,No,,54,9,45
+Union,CS1 SALEM LUTHERAN CHURCH,Court of Appeals Judge - Julie A. Schumacher,,No,,83,24,59
+Union,CS2 SWCC,Court of Appeals Judge - Julie A. Schumacher,,No,,202,91,111
+Union,CS3 TRINITY LUTHERAN CHURCH,Court of Appeals Judge - Julie A. Schumacher,,No,,111,52,59
+Union,CS4 SUPERTEL,Court of Appeals Judge - Julie A. Schumacher,,No,,117,50,67
+Union,CS5 CREST BAPTIST CHURCH,Court of Appeals Judge - Julie A. Schumacher,,No,,130,44,86
+Union,LNT LINCOLN TOWNSHIP,Court of Appeals Judge - Julie A. Schumacher,,No,,33,13,20
+Union,LR LORIMOR CITY HALL,Court of Appeals Judge - Julie A. Schumacher,,No,,96,31,65
+Union,AF AFTON METHODIST CHURCH,Court of Appeals Judge - Julie A. Schumacher,,Yes,,232,54,178
+Union,AR ARISPE METHODIST CHURCH,Court of Appeals Judge - Julie A. Schumacher,,Yes,,102,34,68
+Union,CS1 SALEM LUTHERAN CHURCH,Court of Appeals Judge - Julie A. Schumacher,,Yes,,262,80,182
+Union,CS2 SWCC,Court of Appeals Judge - Julie A. Schumacher,,Yes,,681,314,367
+Union,CS3 TRINITY LUTHERAN CHURCH,Court of Appeals Judge - Julie A. Schumacher,,Yes,,320,127,193
+Union,CS4 SUPERTEL,Court of Appeals Judge - Julie A. Schumacher,,Yes,,309,114,195
+Union,CS5 CREST BAPTIST CHURCH,Court of Appeals Judge - Julie A. Schumacher,,Yes,,369,134,235
+Union,LNT LINCOLN TOWNSHIP,Court of Appeals Judge - Julie A. Schumacher,,Yes,,67,26,41
+Union,LR LORIMOR CITY HALL,Court of Appeals Judge - Julie A. Schumacher,,Yes,,221,66,155
+Union,AF AFTON METHODIST CHURCH,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,106,24,82
+Union,AR ARISPE METHODIST CHURCH,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,59,14,45
+Union,CS1 SALEM LUTHERAN CHURCH,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,95,26,69
+Union,CS2 SWCC,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,216,94,122
+Union,CS3 TRINITY LUTHERAN CHURCH,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,124,54,70
+Union,CS4 SUPERTEL,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,121,47,74
+Union,CS5 CREST BAPTIST CHURCH,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,141,43,98
+Union,LNT LINCOLN TOWNSHIP,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,32,11,21
+Union,LR LORIMOR CITY HALL,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,105,33,72
+Union,AF AFTON METHODIST CHURCH,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,220,54,166
+Union,AR ARISPE METHODIST CHURCH,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,96,29,67
+Union,CS1 SALEM LUTHERAN CHURCH,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,249,77,172
+Union,CS2 SWCC,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,656,307,349
+Union,CS3 TRINITY LUTHERAN CHURCH,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,299,121,178
+Union,CS4 SUPERTEL,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,289,110,179
+Union,CS5 CREST BAPTIST CHURCH,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,346,132,214
+Union,LNT LINCOLN TOWNSHIP,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,65,26,39
+Union,LR LORIMOR CITY HALL,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,206,62,144
+Union,AF AFTON METHODIST CHURCH,District 5B Associate Judge - Andrew Zimmerman,,No,,92,18,74
+Union,AR ARISPE METHODIST CHURCH,District 5B Associate Judge - Andrew Zimmerman,,No,,45,9,36
+Union,CS1 SALEM LUTHERAN CHURCH,District 5B Associate Judge - Andrew Zimmerman,,No,,79,27,52
+Union,CS2 SWCC,District 5B Associate Judge - Andrew Zimmerman,,No,,192,91,101
+Union,CS3 TRINITY LUTHERAN CHURCH,District 5B Associate Judge - Andrew Zimmerman,,No,,105,42,63
+Union,CS4 SUPERTEL,District 5B Associate Judge - Andrew Zimmerman,,No,,111,49,62
+Union,CS5 CREST BAPTIST CHURCH,District 5B Associate Judge - Andrew Zimmerman,,No,,128,43,85
+Union,LNT LINCOLN TOWNSHIP,District 5B Associate Judge - Andrew Zimmerman,,No,,27,10,17
+Union,LR LORIMOR CITY HALL,District 5B Associate Judge - Andrew Zimmerman,,No,,98,32,66
+Union,AF AFTON METHODIST CHURCH,District 5B Associate Judge - Andrew Zimmerman,,Yes,,239,62,177
+Union,AR ARISPE METHODIST CHURCH,District 5B Associate Judge - Andrew Zimmerman,,Yes,,110,32,78
+Union,CS1 SALEM LUTHERAN CHURCH,District 5B Associate Judge - Andrew Zimmerman,,Yes,,270,79,191
+Union,CS2 SWCC,District 5B Associate Judge - Andrew Zimmerman,,Yes,,697,313,384
+Union,CS3 TRINITY LUTHERAN CHURCH,District 5B Associate Judge - Andrew Zimmerman,,Yes,,335,143,192
+Union,CS4 SUPERTEL,District 5B Associate Judge - Andrew Zimmerman,,Yes,,320,121,199
+Union,CS5 CREST BAPTIST CHURCH,District 5B Associate Judge - Andrew Zimmerman,,Yes,,376,137,239
+Union,LNT LINCOLN TOWNSHIP,District 5B Associate Judge - Andrew Zimmerman,,Yes,,79,31,48
+Union,LR LORIMOR CITY HALL,District 5B Associate Judge - Andrew Zimmerman,,Yes,,226,67,159
+Union,AF AFTON METHODIST CHURCH,District 5B Judge - Elisabeth S. Reynoldson,,No,,88,17,71
+Union,AR ARISPE METHODIST CHURCH,District 5B Judge - Elisabeth S. Reynoldson,,No,,48,7,41
+Union,CS1 SALEM LUTHERAN CHURCH,District 5B Judge - Elisabeth S. Reynoldson,,No,,84,25,59
+Union,CS2 SWCC,District 5B Judge - Elisabeth S. Reynoldson,,No,,205,86,119
+Union,CS3 TRINITY LUTHERAN CHURCH,District 5B Judge - Elisabeth S. Reynoldson,,No,,108,43,65
+Union,CS4 SUPERTEL,District 5B Judge - Elisabeth S. Reynoldson,,No,,109,49,60
+Union,CS5 CREST BAPTIST CHURCH,District 5B Judge - Elisabeth S. Reynoldson,,No,,125,43,82
+Union,LNT LINCOLN TOWNSHIP,District 5B Judge - Elisabeth S. Reynoldson,,No,,28,11,17
+Union,LR LORIMOR CITY HALL,District 5B Judge - Elisabeth S. Reynoldson,,No,,101,31,70
+Union,AF AFTON METHODIST CHURCH,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,247,63,184
+Union,AR ARISPE METHODIST CHURCH,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,108,34,74
+Union,CS1 SALEM LUTHERAN CHURCH,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,262,79,183
+Union,CS2 SWCC,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,686,323,363
+Union,CS3 TRINITY LUTHERAN CHURCH,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,324,139,185
+Union,CS4 SUPERTEL,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,311,113,198
+Union,CS5 CREST BAPTIST CHURCH,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,373,137,236
+Union,LNT LINCOLN TOWNSHIP,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,73,27,46
+Union,LR LORIMOR CITY HALL,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,229,71,158
+Union,AF AFTON METHODIST CHURCH,Governor,,Rob Sand and Dave Muhlbauer,DEM,195,56,139
+Union,AR ARISPE METHODIST CHURCH,Governor,,Rob Sand and Dave Muhlbauer,DEM,78,29,49
+Union,CS1 SALEM LUTHERAN CHURCH,Governor,,Rob Sand and Dave Muhlbauer,DEM,262,107,155
+Union,CS2 SWCC,Governor,,Rob Sand and Dave Muhlbauer,DEM,484,281,203
+Union,CS3 TRINITY LUTHERAN CHURCH,Governor,,Rob Sand and Dave Muhlbauer,DEM,351,181,170
+Union,CS4 SUPERTEL,Governor,,Rob Sand and Dave Muhlbauer,DEM,290,150,140
+Union,CS5 CREST BAPTIST CHURCH,Governor,,Rob Sand and Dave Muhlbauer,DEM,344,164,180
+Union,LNT LINCOLN TOWNSHIP,Governor,,Rob Sand and Dave Muhlbauer,DEM,48,23,25
+Union,LR LORIMOR CITY HALL,Governor,,Rob Sand and Dave Muhlbauer,DEM,181,78,103
+Union,AF AFTON METHODIST CHURCH,Governor,,Write-In,,0,0,0
+Union,AR ARISPE METHODIST CHURCH,Governor,,Write-In,,2,0,2
+Union,CS1 SALEM LUTHERAN CHURCH,Governor,,Write-In,,2,0,2
+Union,CS2 SWCC,Governor,,Write-In,,3,1,2
+Union,CS3 TRINITY LUTHERAN CHURCH,Governor,,Write-In,,1,1,0
+Union,CS4 SUPERTEL,Governor,,Write-In,,0,0,0
+Union,CS5 CREST BAPTIST CHURCH,Governor,,Write-In,,1,1,0
+Union,LNT LINCOLN TOWNSHIP,Governor,,Write-In,,0,0,0
+Union,LR LORIMOR CITY HALL,Governor,,Write-In,,1,0,1
+Union,AF AFTON METHODIST CHURCH,Governor,,Zach Lahn and Derek Wulf,REP,257,62,195
+Union,AR ARISPE METHODIST CHURCH,Governor,,Zach Lahn and Derek Wulf,REP,142,44,98
+Union,CS1 SALEM LUTHERAN CHURCH,Governor,,Zach Lahn and Derek Wulf,REP,185,48,137
+Union,CS2 SWCC,Governor,,Zach Lahn and Derek Wulf,REP,705,308,397
+Union,CS3 TRINITY LUTHERAN CHURCH,Governor,,Zach Lahn and Derek Wulf,REP,251,84,167
+Union,CS4 SUPERTEL,Governor,,Zach Lahn and Derek Wulf,REP,284,104,180
+Union,CS5 CREST BAPTIST CHURCH,Governor,,Zach Lahn and Derek Wulf,REP,311,87,224
+Union,LNT LINCOLN TOWNSHIP,Governor,,Zach Lahn and Derek Wulf,REP,104,44,60
+Union,LR LORIMOR CITY HALL,Governor,,Zach Lahn and Derek Wulf,REP,254,67,187
+Union,LR LORIMOR CITY HALL,Pleasant Township - Public Measure UI,,No,,45,24,21
+Union,LR LORIMOR CITY HALL,Pleasant Township - Public Measure UI,,Yes,,21,11,10
+Union,LR LORIMOR CITY HALL,Pleasant Township Clerk,,Penny Ripperger,,3,3,0
+Union,LR LORIMOR CITY HALL,Pleasant Township Clerk,,Write-In,,10,7,3
+Union,LR LORIMOR CITY HALL,Pleasant Township Trustee,,Kami Raney,,61,32,29
+Union,LR LORIMOR CITY HALL,Pleasant Township Trustee,,Write-In,,5,3,2
+Union,AF AFTON METHODIST CHURCH,Secretary of Agriculture,,Chris Jones,DEM,126,40,86
+Union,AR ARISPE METHODIST CHURCH,Secretary of Agriculture,,Chris Jones,DEM,55,23,32
+Union,CS1 SALEM LUTHERAN CHURCH,Secretary of Agriculture,,Chris Jones,DEM,194,84,110
+Union,CS2 SWCC,Secretary of Agriculture,,Chris Jones,DEM,318,201,117
+Union,CS3 TRINITY LUTHERAN CHURCH,Secretary of Agriculture,,Chris Jones,DEM,266,144,122
+Union,CS4 SUPERTEL,Secretary of Agriculture,,Chris Jones,DEM,224,123,101
+Union,CS5 CREST BAPTIST CHURCH,Secretary of Agriculture,,Chris Jones,DEM,269,139,130
+Union,LNT LINCOLN TOWNSHIP,Secretary of Agriculture,,Chris Jones,DEM,28,15,13
+Union,LR LORIMOR CITY HALL,Secretary of Agriculture,,Chris Jones,DEM,135,66,69
+Union,AF AFTON METHODIST CHURCH,Secretary of Agriculture,,Mike Naig,REP,310,71,239
+Union,AR ARISPE METHODIST CHURCH,Secretary of Agriculture,,Mike Naig,REP,166,50,116
+Union,CS1 SALEM LUTHERAN CHURCH,Secretary of Agriculture,,Mike Naig,REP,236,65,171
+Union,CS2 SWCC,Secretary of Agriculture,,Mike Naig,REP,852,375,477
+Union,CS3 TRINITY LUTHERAN CHURCH,Secretary of Agriculture,,Mike Naig,REP,303,108,195
+Union,CS4 SUPERTEL,Secretary of Agriculture,,Mike Naig,REP,337,122,215
+Union,CS5 CREST BAPTIST CHURCH,Secretary of Agriculture,,Mike Naig,REP,367,109,258
+Union,LNT LINCOLN TOWNSHIP,Secretary of Agriculture,,Mike Naig,REP,124,53,71
+Union,LR LORIMOR CITY HALL,Secretary of Agriculture,,Mike Naig,REP,291,75,216
+Union,AF AFTON METHODIST CHURCH,Secretary of Agriculture,,Write-In,,1,0,1
+Union,AR ARISPE METHODIST CHURCH,Secretary of Agriculture,,Write-In,,0,0,0
+Union,CS1 SALEM LUTHERAN CHURCH,Secretary of Agriculture,,Write-In,,1,0,1
+Union,CS2 SWCC,Secretary of Agriculture,,Write-In,,1,1,0
+Union,CS3 TRINITY LUTHERAN CHURCH,Secretary of Agriculture,,Write-In,,0,0,0
+Union,CS4 SUPERTEL,Secretary of Agriculture,,Write-In,,1,0,1
+Union,CS5 CREST BAPTIST CHURCH,Secretary of Agriculture,,Write-In,,0,0,0
+Union,LNT LINCOLN TOWNSHIP,Secretary of Agriculture,,Write-In,,0,0,0
+Union,LR LORIMOR CITY HALL,Secretary of Agriculture,,Write-In,,0,0,0
+Union,AF AFTON METHODIST CHURCH,Secretary of State,,Paul D. Pate,REP,321,76,245
+Union,AR ARISPE METHODIST CHURCH,Secretary of State,,Paul D. Pate,REP,164,50,114
+Union,CS1 SALEM LUTHERAN CHURCH,Secretary of State,,Paul D. Pate,REP,245,72,173
+Union,CS2 SWCC,Secretary of State,,Paul D. Pate,REP,831,372,459
+Union,CS3 TRINITY LUTHERAN CHURCH,Secretary of State,,Paul D. Pate,REP,314,115,199
+Union,CS4 SUPERTEL,Secretary of State,,Paul D. Pate,REP,332,123,209
+Union,CS5 CREST BAPTIST CHURCH,Secretary of State,,Paul D. Pate,REP,374,117,257
+Union,LNT LINCOLN TOWNSHIP,Secretary of State,,Paul D. Pate,REP,122,51,71
+Union,LR LORIMOR CITY HALL,Secretary of State,,Paul D. Pate,REP,290,80,210
+Union,AF AFTON METHODIST CHURCH,Secretary of State,,Ryan Peterman,DEM,116,36,80
+Union,AR ARISPE METHODIST CHURCH,Secretary of State,,Ryan Peterman,DEM,57,23,34
+Union,CS1 SALEM LUTHERAN CHURCH,Secretary of State,,Ryan Peterman,DEM,193,82,111
+Union,CS2 SWCC,Secretary of State,,Ryan Peterman,DEM,341,207,134
+Union,CS3 TRINITY LUTHERAN CHURCH,Secretary of State,,Ryan Peterman,DEM,261,139,122
+Union,CS4 SUPERTEL,Secretary of State,,Ryan Peterman,DEM,236,130,106
+Union,CS5 CREST BAPTIST CHURCH,Secretary of State,,Ryan Peterman,DEM,266,133,133
+Union,LNT LINCOLN TOWNSHIP,Secretary of State,,Ryan Peterman,DEM,29,16,13
+Union,LR LORIMOR CITY HALL,Secretary of State,,Ryan Peterman,DEM,140,63,77
+Union,AF AFTON METHODIST CHURCH,Secretary of State,,Write-In,,1,0,1
+Union,AR ARISPE METHODIST CHURCH,Secretary of State,,Write-In,,0,0,0
+Union,CS1 SALEM LUTHERAN CHURCH,Secretary of State,,Write-In,,1,0,1
+Union,CS2 SWCC,Secretary of State,,Write-In,,1,1,0
+Union,CS3 TRINITY LUTHERAN CHURCH,Secretary of State,,Write-In,,0,0,0
+Union,CS4 SUPERTEL,Secretary of State,,Write-In,,0,0,0
+Union,CS5 CREST BAPTIST CHURCH,Secretary of State,,Write-In,,1,0,1
+Union,LNT LINCOLN TOWNSHIP,Secretary of State,,Write-In,,0,0,0
+Union,LR LORIMOR CITY HALL,Secretary of State,,Write-In,,0,0,0
+Union,AF AFTON METHODIST CHURCH,Soil and Water Conservation District Commissioner,,Cody Purdum,,320,86,234
+Union,AR ARISPE METHODIST CHURCH,Soil and Water Conservation District Commissioner,,Cody Purdum,,159,46,113
+Union,CS1 SALEM LUTHERAN CHURCH,Soil and Water Conservation District Commissioner,,Cody Purdum,,302,96,206
+Union,CS2 SWCC,Soil and Water Conservation District Commissioner,,Cody Purdum,,923,435,488
+Union,CS3 TRINITY LUTHERAN CHURCH,Soil and Water Conservation District Commissioner,,Cody Purdum,,395,166,229
+Union,CS4 SUPERTEL,Soil and Water Conservation District Commissioner,,Cody Purdum,,373,150,223
+Union,CS5 CREST BAPTIST CHURCH,Soil and Water Conservation District Commissioner,,Cody Purdum,,457,164,293
+Union,LNT LINCOLN TOWNSHIP,Soil and Water Conservation District Commissioner,,Cody Purdum,,115,43,72
+Union,LR LORIMOR CITY HALL,Soil and Water Conservation District Commissioner,,Cody Purdum,,298,94,204
+Union,AF AFTON METHODIST CHURCH,Soil and Water Conservation District Commissioner,,Roger Baker,,288,77,211
+Union,AR ARISPE METHODIST CHURCH,Soil and Water Conservation District Commissioner,,Roger Baker,,153,47,106
+Union,CS1 SALEM LUTHERAN CHURCH,Soil and Water Conservation District Commissioner,,Roger Baker,,272,84,188
+Union,CS2 SWCC,Soil and Water Conservation District Commissioner,,Roger Baker,,861,410,451
+Union,CS3 TRINITY LUTHERAN CHURCH,Soil and Water Conservation District Commissioner,,Roger Baker,,371,156,215
+Union,CS4 SUPERTEL,Soil and Water Conservation District Commissioner,,Roger Baker,,388,162,226
+Union,CS5 CREST BAPTIST CHURCH,Soil and Water Conservation District Commissioner,,Roger Baker,,439,153,286
+Union,LNT LINCOLN TOWNSHIP,Soil and Water Conservation District Commissioner,,Roger Baker,,116,49,67
+Union,LR LORIMOR CITY HALL,Soil and Water Conservation District Commissioner,,Roger Baker,,258,84,174
+Union,AF AFTON METHODIST CHURCH,Soil and Water Conservation District Commissioner,,Write-In,,5,3,2
+Union,AR ARISPE METHODIST CHURCH,Soil and Water Conservation District Commissioner,,Write-In,,2,2,0
+Union,CS1 SALEM LUTHERAN CHURCH,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Union,CS2 SWCC,Soil and Water Conservation District Commissioner,,Write-In,,8,3,5
+Union,CS3 TRINITY LUTHERAN CHURCH,Soil and Water Conservation District Commissioner,,Write-In,,5,1,4
+Union,CS4 SUPERTEL,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Union,CS5 CREST BAPTIST CHURCH,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Union,LNT LINCOLN TOWNSHIP,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Union,LR LORIMOR CITY HALL,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Union,AF AFTON METHODIST CHURCH,State House,17,Devon Wood,REP,383,86,297
+Union,AR ARISPE METHODIST CHURCH,State House,17,Devon Wood,REP,179,52,127
+Union,CS1 SALEM LUTHERAN CHURCH,State House,17,Devon Wood,REP,329,86,243
+Union,CS2 SWCC,State House,17,Devon Wood,REP,965,440,525
+Union,CS3 TRINITY LUTHERAN CHURCH,State House,17,Devon Wood,REP,427,162,265
+Union,CS4 SUPERTEL,State House,17,Devon Wood,REP,429,158,271
+Union,CS5 CREST BAPTIST CHURCH,State House,17,Devon Wood,REP,478,155,323
+Union,AF AFTON METHODIST CHURCH,State House,17,Write-In,,6,4,2
+Union,AR ARISPE METHODIST CHURCH,State House,17,Write-In,,3,0,3
+Union,CS1 SALEM LUTHERAN CHURCH,State House,17,Write-In,,11,6,5
+Union,CS2 SWCC,State House,17,Write-In,,15,8,7
+Union,CS3 TRINITY LUTHERAN CHURCH,State House,17,Write-In,,10,3,7
+Union,CS4 SUPERTEL,State House,17,Write-In,,7,3,4
+Union,CS5 CREST BAPTIST CHURCH,State House,17,Write-In,,10,4,6
+Union,LNT LINCOLN TOWNSHIP,State House,23,Karen Varley,DEM,23,14,9
+Union,LR LORIMOR CITY HALL,State House,23,Karen Varley,DEM,127,62,65
+Union,LNT LINCOLN TOWNSHIP,State House,23,Ray Bubba Sorensen,REP,130,53,77
+Union,LR LORIMOR CITY HALL,State House,23,Ray Bubba Sorensen,REP,302,79,223
+Union,LNT LINCOLN TOWNSHIP,State House,23,Write-In,,0,0,0
+Union,LR LORIMOR CITY HALL,State House,23,Write-In,,1,1,0
+Union,AF AFTON METHODIST CHURCH,State Senate,9,James Uhlenkamp,DEM,130,41,89
+Union,AR ARISPE METHODIST CHURCH,State Senate,9,James Uhlenkamp,DEM,61,22,39
+Union,CS1 SALEM LUTHERAN CHURCH,State Senate,9,James Uhlenkamp,DEM,209,90,119
+Union,CS2 SWCC,State Senate,9,James Uhlenkamp,DEM,377,225,152
+Union,CS3 TRINITY LUTHERAN CHURCH,State Senate,9,James Uhlenkamp,DEM,274,148,126
+Union,CS4 SUPERTEL,State Senate,9,James Uhlenkamp,DEM,237,133,104
+Union,CS5 CREST BAPTIST CHURCH,State Senate,9,James Uhlenkamp,DEM,290,144,146
+Union,AF AFTON METHODIST CHURCH,State Senate,9,Steve Baier,REP,296,69,227
+Union,AR ARISPE METHODIST CHURCH,State Senate,9,Steve Baier,REP,148,43,105
+Union,CS1 SALEM LUTHERAN CHURCH,State Senate,9,Steve Baier,REP,219,59,160
+Union,CS2 SWCC,State Senate,9,Steve Baier,REP,774,338,436
+Union,CS3 TRINITY LUTHERAN CHURCH,State Senate,9,Steve Baier,REP,289,99,190
+Union,CS4 SUPERTEL,State Senate,9,Steve Baier,REP,321,111,210
+Union,CS5 CREST BAPTIST CHURCH,State Senate,9,Steve Baier,REP,339,101,238
+Union,AF AFTON METHODIST CHURCH,State Senate,9,Write-In,,1,0,1
+Union,AR ARISPE METHODIST CHURCH,State Senate,9,Write-In,,0,0,0
+Union,CS1 SALEM LUTHERAN CHURCH,State Senate,9,Write-In,,1,0,1
+Union,CS2 SWCC,State Senate,9,Write-In,,1,1,0
+Union,CS3 TRINITY LUTHERAN CHURCH,State Senate,9,Write-In,,0,0,0
+Union,CS4 SUPERTEL,State Senate,9,Write-In,,0,0,0
+Union,CS5 CREST BAPTIST CHURCH,State Senate,9,Write-In,,0,0,0
+Union,AF AFTON METHODIST CHURCH,Treasurer of State,,John Norwood,DEM,138,44,94
+Union,AR ARISPE METHODIST CHURCH,Treasurer of State,,John Norwood,DEM,66,26,40
+Union,CS1 SALEM LUTHERAN CHURCH,Treasurer of State,,John Norwood,DEM,211,96,115
+Union,CS2 SWCC,Treasurer of State,,John Norwood,DEM,399,237,162
+Union,CS3 TRINITY LUTHERAN CHURCH,Treasurer of State,,John Norwood,DEM,282,149,133
+Union,CS4 SUPERTEL,Treasurer of State,,John Norwood,DEM,245,137,108
+Union,CS5 CREST BAPTIST CHURCH,Treasurer of State,,John Norwood,DEM,303,150,153
+Union,LNT LINCOLN TOWNSHIP,Treasurer of State,,John Norwood,DEM,32,19,13
+Union,LR LORIMOR CITY HALL,Treasurer of State,,John Norwood,DEM,147,71,76
+Union,AF AFTON METHODIST CHURCH,Treasurer of State,,Roby Smith,REP,289,64,225
+Union,AR ARISPE METHODIST CHURCH,Treasurer of State,,Roby Smith,REP,152,45,107
+Union,CS1 SALEM LUTHERAN CHURCH,Treasurer of State,,Roby Smith,REP,221,55,166
+Union,CS2 SWCC,Treasurer of State,,Roby Smith,REP,757,332,425
+Union,CS3 TRINITY LUTHERAN CHURCH,Treasurer of State,,Roby Smith,REP,280,99,181
+Union,CS4 SUPERTEL,Treasurer of State,,Roby Smith,REP,314,110,204
+Union,CS5 CREST BAPTIST CHURCH,Treasurer of State,,Roby Smith,REP,327,96,231
+Union,LNT LINCOLN TOWNSHIP,Treasurer of State,,Roby Smith,REP,117,48,69
+Union,LR LORIMOR CITY HALL,Treasurer of State,,Roby Smith,REP,273,68,205
+Union,AF AFTON METHODIST CHURCH,Treasurer of State,,Write-In,,2,1,1
+Union,AR ARISPE METHODIST CHURCH,Treasurer of State,,Write-In,,0,0,0
+Union,CS1 SALEM LUTHERAN CHURCH,Treasurer of State,,Write-In,,1,0,1
+Union,CS2 SWCC,Treasurer of State,,Write-In,,1,1,0
+Union,CS3 TRINITY LUTHERAN CHURCH,Treasurer of State,,Write-In,,0,0,0
+Union,CS4 SUPERTEL,Treasurer of State,,Write-In,,0,0,0
+Union,CS5 CREST BAPTIST CHURCH,Treasurer of State,,Write-In,,0,0,0
+Union,LNT LINCOLN TOWNSHIP,Treasurer of State,,Write-In,,0,0,0
+Union,LR LORIMOR CITY HALL,Treasurer of State,,Write-In,,0,0,0
+Union,AF AFTON METHODIST CHURCH,U.S. House,3,Sarah Trone Garriott,DEM,130,43,87
+Union,AR ARISPE METHODIST CHURCH,U.S. House,3,Sarah Trone Garriott,DEM,66,25,41
+Union,CS1 SALEM LUTHERAN CHURCH,U.S. House,3,Sarah Trone Garriott,DEM,199,89,110
+Union,CS2 SWCC,U.S. House,3,Sarah Trone Garriott,DEM,381,234,147
+Union,CS3 TRINITY LUTHERAN CHURCH,U.S. House,3,Sarah Trone Garriott,DEM,283,158,125
+Union,CS4 SUPERTEL,U.S. House,3,Sarah Trone Garriott,DEM,234,137,97
+Union,CS5 CREST BAPTIST CHURCH,U.S. House,3,Sarah Trone Garriott,DEM,283,141,142
+Union,LNT LINCOLN TOWNSHIP,U.S. House,3,Sarah Trone Garriott,DEM,32,16,16
+Union,LR LORIMOR CITY HALL,U.S. House,3,Sarah Trone Garriott,DEM,147,71,76
+Union,AF AFTON METHODIST CHURCH,U.S. House,3,Write-In,,1,0,1
+Union,AR ARISPE METHODIST CHURCH,U.S. House,3,Write-In,,0,0,0
+Union,CS1 SALEM LUTHERAN CHURCH,U.S. House,3,Write-In,,3,0,3
+Union,CS2 SWCC,U.S. House,3,Write-In,,2,1,1
+Union,CS3 TRINITY LUTHERAN CHURCH,U.S. House,3,Write-In,,1,1,0
+Union,CS4 SUPERTEL,U.S. House,3,Write-In,,0,0,0
+Union,CS5 CREST BAPTIST CHURCH,U.S. House,3,Write-In,,1,1,0
+Union,LNT LINCOLN TOWNSHIP,U.S. House,3,Write-In,,0,0,0
+Union,LR LORIMOR CITY HALL,U.S. House,3,Write-In,,1,0,1
+Union,AF AFTON METHODIST CHURCH,U.S. House,3,Zach Nunn,REP,312,75,237
+Union,AR ARISPE METHODIST CHURCH,U.S. House,3,Zach Nunn,REP,149,44,105
+Union,CS1 SALEM LUTHERAN CHURCH,U.S. House,3,Zach Nunn,REP,237,63,174
+Union,CS2 SWCC,U.S. House,3,Zach Nunn,REP,787,344,443
+Union,CS3 TRINITY LUTHERAN CHURCH,U.S. House,3,Zach Nunn,REP,300,99,201
+Union,CS4 SUPERTEL,U.S. House,3,Zach Nunn,REP,324,111,213
+Union,CS5 CREST BAPTIST CHURCH,U.S. House,3,Zach Nunn,REP,357,103,254
+Union,LNT LINCOLN TOWNSHIP,U.S. House,3,Zach Nunn,REP,118,49,69
+Union,LR LORIMOR CITY HALL,U.S. House,3,Zach Nunn,REP,285,72,213
+Union,AF AFTON METHODIST CHURCH,U.S. Senate,,Ashley Hinson,REP,290,68,222
+Union,AR ARISPE METHODIST CHURCH,U.S. Senate,,Ashley Hinson,REP,146,43,103
+Union,CS1 SALEM LUTHERAN CHURCH,U.S. Senate,,Ashley Hinson,REP,189,52,137
+Union,CS2 SWCC,U.S. Senate,,Ashley Hinson,REP,714,310,404
+Union,CS3 TRINITY LUTHERAN CHURCH,U.S. Senate,,Ashley Hinson,REP,269,93,176
+Union,CS4 SUPERTEL,U.S. Senate,,Ashley Hinson,REP,292,100,192
+Union,CS5 CREST BAPTIST CHURCH,U.S. Senate,,Ashley Hinson,REP,317,96,221
+Union,LNT LINCOLN TOWNSHIP,U.S. Senate,,Ashley Hinson,REP,110,47,63
+Union,LR LORIMOR CITY HALL,U.S. Senate,,Ashley Hinson,REP,261,65,196
+Union,AF AFTON METHODIST CHURCH,U.S. Senate,,Josh Turek,DEM,136,46,90
+Union,AR ARISPE METHODIST CHURCH,U.S. Senate,,Josh Turek,DEM,63,26,37
+Union,CS1 SALEM LUTHERAN CHURCH,U.S. Senate,,Josh Turek,DEM,230,94,136
+Union,CS2 SWCC,U.S. Senate,,Josh Turek,DEM,426,251,175
+Union,CS3 TRINITY LUTHERAN CHURCH,U.S. Senate,,Josh Turek,DEM,300,159,141
+Union,CS4 SUPERTEL,U.S. Senate,,Josh Turek,DEM,248,140,108
+Union,CS5 CREST BAPTIST CHURCH,U.S. Senate,,Josh Turek,DEM,306,147,159
+Union,LNT LINCOLN TOWNSHIP,U.S. Senate,,Josh Turek,DEM,35,17,18
+Union,LR LORIMOR CITY HALL,U.S. Senate,,Josh Turek,DEM,152,73,79
+Union,AF AFTON METHODIST CHURCH,U.S. Senate,,Thomas Laehn,LIB,20,4,16
+Union,AR ARISPE METHODIST CHURCH,U.S. Senate,,Thomas Laehn,LIB,6,1,5
+Union,CS1 SALEM LUTHERAN CHURCH,U.S. Senate,,Thomas Laehn,LIB,21,6,15
+Union,CS2 SWCC,U.S. Senate,,Thomas Laehn,LIB,32,18,14
+Union,CS3 TRINITY LUTHERAN CHURCH,U.S. Senate,,Thomas Laehn,LIB,16,4,12
+Union,CS4 SUPERTEL,U.S. Senate,,Thomas Laehn,LIB,22,8,14
+Union,CS5 CREST BAPTIST CHURCH,U.S. Senate,,Thomas Laehn,LIB,21,4,17
+Union,LNT LINCOLN TOWNSHIP,U.S. Senate,,Thomas Laehn,LIB,2,0,2
+Union,LR LORIMOR CITY HALL,U.S. Senate,,Thomas Laehn,LIB,15,3,12
+Union,AF AFTON METHODIST CHURCH,U.S. Senate,,Write-In,,1,0,1
+Union,AR ARISPE METHODIST CHURCH,U.S. Senate,,Write-In,,0,0,0
+Union,CS1 SALEM LUTHERAN CHURCH,U.S. Senate,,Write-In,,1,0,1
+Union,CS2 SWCC,U.S. Senate,,Write-In,,1,0,1
+Union,CS3 TRINITY LUTHERAN CHURCH,U.S. Senate,,Write-In,,1,0,1
+Union,CS4 SUPERTEL,U.S. Senate,,Write-In,,3,2,1
+Union,CS5 CREST BAPTIST CHURCH,U.S. Senate,,Write-In,,0,0,0
+Union,LNT LINCOLN TOWNSHIP,U.S. Senate,,Write-In,,1,0,1
+Union,LR LORIMOR CITY HALL,U.S. Senate,,Write-In,,1,0,1
+Union,AF AFTON METHODIST CHURCH,Union County - Public Measure UH,,No,,68,17,51
+Union,AR ARISPE METHODIST CHURCH,Union County - Public Measure UH,,No,,72,20,52
+Union,CS2 SWCC,Union County - Public Measure UH,,No,,192,89,103
+Union,CS4 SUPERTEL,Union County - Public Measure UH,,No,,71,29,42
+Union,LNT LINCOLN TOWNSHIP,Union County - Public Measure UH,,No,,62,32,30
+Union,LR LORIMOR CITY HALL,Union County - Public Measure UH,,No,,144,49,95
+Union,AF AFTON METHODIST CHURCH,Union County - Public Measure UH,,Yes,,74,28,46
+Union,AR ARISPE METHODIST CHURCH,Union County - Public Measure UH,,Yes,,70,29,41
+Union,CS2 SWCC,Union County - Public Measure UH,,Yes,,294,151,143
+Union,CS4 SUPERTEL,Union County - Public Measure UH,,Yes,,83,31,52
+Union,LNT LINCOLN TOWNSHIP,Union County - Public Measure UH,,Yes,,76,25,51
+Union,LR LORIMOR CITY HALL,Union County - Public Measure UH,,Yes,,166,64,102

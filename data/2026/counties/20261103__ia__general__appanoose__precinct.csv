@@ -1,0 +1,758 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Appanoose,Caldwell,Appanoose County - Public Measure AM,,No,,96,26,70
+Appanoose,Johns/Independence/Lincoln,Appanoose County - Public Measure AM,,No,,180,61,119
+Appanoose,Pleasant/Franklin,Appanoose County - Public Measure AM,,No,,140,34,106
+Appanoose,Taylor/Chariton,Appanoose County - Public Measure AM,,No,,153,60,93
+Appanoose,Union/Udell,Appanoose County - Public Measure AM,,No,,149,44,105
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Appanoose County - Public Measure AM,,No,,415,211,204
+Appanoose,Walnut,Appanoose County - Public Measure AM,,No,,140,49,91
+Appanoose,Washington/Wells,Appanoose County - Public Measure AM,,No,,115,17,98
+Appanoose,Caldwell,Appanoose County - Public Measure AM,,Yes,,29,11,18
+Appanoose,Johns/Independence/Lincoln,Appanoose County - Public Measure AM,,Yes,,104,38,66
+Appanoose,Pleasant/Franklin,Appanoose County - Public Measure AM,,Yes,,52,15,37
+Appanoose,Taylor/Chariton,Appanoose County - Public Measure AM,,Yes,,75,31,44
+Appanoose,Union/Udell,Appanoose County - Public Measure AM,,Yes,,128,27,101
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Appanoose County - Public Measure AM,,Yes,,230,107,123
+Appanoose,Walnut,Appanoose County - Public Measure AM,,Yes,,54,18,36
+Appanoose,Washington/Wells,Appanoose County - Public Measure AM,,Yes,,55,15,40
+Appanoose,Caldwell,Attorney General,,Brenna Bird,REP,121,24,97
+Appanoose,Centerville Ward 1,Attorney General,,Brenna Bird,REP,346,148,198
+Appanoose,Centerville Ward 2,Attorney General,,Brenna Bird,REP,284,118,166
+Appanoose,Centerville Ward 3,Attorney General,,Brenna Bird,REP,372,115,257
+Appanoose,Johns/Independence/Lincoln,Attorney General,,Brenna Bird,REP,243,79,164
+Appanoose,Pleasant/Franklin,Attorney General,,Brenna Bird,REP,211,36,175
+Appanoose,Taylor/Chariton,Attorney General,,Brenna Bird,REP,315,89,226
+Appanoose,Union/Udell,Attorney General,,Brenna Bird,REP,260,52,208
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Attorney General,,Brenna Bird,REP,482,228,254
+Appanoose,Walnut,Attorney General,,Brenna Bird,REP,221,57,164
+Appanoose,Washington/Wells,Attorney General,,Brenna Bird,REP,262,45,217
+Appanoose,Caldwell,Attorney General,,Nate Willems,DEM,56,20,36
+Appanoose,Centerville Ward 1,Attorney General,,Nate Willems,DEM,240,132,108
+Appanoose,Centerville Ward 2,Attorney General,,Nate Willems,DEM,230,117,113
+Appanoose,Centerville Ward 3,Attorney General,,Nate Willems,DEM,274,123,151
+Appanoose,Johns/Independence/Lincoln,Attorney General,,Nate Willems,DEM,105,49,56
+Appanoose,Pleasant/Franklin,Attorney General,,Nate Willems,DEM,98,35,63
+Appanoose,Taylor/Chariton,Attorney General,,Nate Willems,DEM,151,64,87
+Appanoose,Union/Udell,Attorney General,,Nate Willems,DEM,96,32,64
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Attorney General,,Nate Willems,DEM,218,136,82
+Appanoose,Walnut,Attorney General,,Nate Willems,DEM,118,44,74
+Appanoose,Washington/Wells,Attorney General,,Nate Willems,DEM,104,22,82
+Appanoose,Caldwell,Attorney General,,Write-In,,0,0,0
+Appanoose,Centerville Ward 1,Attorney General,,Write-In,,2,0,2
+Appanoose,Centerville Ward 2,Attorney General,,Write-In,,0,0,0
+Appanoose,Centerville Ward 3,Attorney General,,Write-In,,1,0,1
+Appanoose,Johns/Independence/Lincoln,Attorney General,,Write-In,,0,0,0
+Appanoose,Pleasant/Franklin,Attorney General,,Write-In,,0,0,0
+Appanoose,Taylor/Chariton,Attorney General,,Write-In,,1,0,1
+Appanoose,Union/Udell,Attorney General,,Write-In,,0,0,0
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Attorney General,,Write-In,,1,1,0
+Appanoose,Walnut,Attorney General,,Write-In,,0,0,0
+Appanoose,Washington/Wells,Attorney General,,Write-In,,0,0,0
+Appanoose,Caldwell,Auditor of State,,Chris Cournoyer,REP,117,25,92
+Appanoose,Centerville Ward 1,Auditor of State,,Chris Cournoyer,REP,337,140,197
+Appanoose,Centerville Ward 2,Auditor of State,,Chris Cournoyer,REP,269,110,159
+Appanoose,Centerville Ward 3,Auditor of State,,Chris Cournoyer,REP,367,112,255
+Appanoose,Johns/Independence/Lincoln,Auditor of State,,Chris Cournoyer,REP,243,77,166
+Appanoose,Pleasant/Franklin,Auditor of State,,Chris Cournoyer,REP,210,35,175
+Appanoose,Taylor/Chariton,Auditor of State,,Chris Cournoyer,REP,309,88,221
+Appanoose,Union/Udell,Auditor of State,,Chris Cournoyer,REP,255,51,204
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Auditor of State,,Chris Cournoyer,REP,481,224,257
+Appanoose,Walnut,Auditor of State,,Chris Cournoyer,REP,216,56,160
+Appanoose,Washington/Wells,Auditor of State,,Chris Cournoyer,REP,264,44,220
+Appanoose,Caldwell,Auditor of State,,Taylor Wettach,DEM,59,19,40
+Appanoose,Centerville Ward 1,Auditor of State,,Taylor Wettach,DEM,247,137,110
+Appanoose,Centerville Ward 2,Auditor of State,,Taylor Wettach,DEM,237,123,114
+Appanoose,Centerville Ward 3,Auditor of State,,Taylor Wettach,DEM,274,123,151
+Appanoose,Johns/Independence/Lincoln,Auditor of State,,Taylor Wettach,DEM,100,50,50
+Appanoose,Pleasant/Franklin,Auditor of State,,Taylor Wettach,DEM,93,33,60
+Appanoose,Taylor/Chariton,Auditor of State,,Taylor Wettach,DEM,155,66,89
+Appanoose,Union/Udell,Auditor of State,,Taylor Wettach,DEM,100,35,65
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Auditor of State,,Taylor Wettach,DEM,214,137,77
+Appanoose,Walnut,Auditor of State,,Taylor Wettach,DEM,120,44,76
+Appanoose,Washington/Wells,Auditor of State,,Taylor Wettach,DEM,98,23,75
+Appanoose,Caldwell,Auditor of State,,Write-In,,0,0,0
+Appanoose,Centerville Ward 1,Auditor of State,,Write-In,,1,0,1
+Appanoose,Centerville Ward 2,Auditor of State,,Write-In,,0,0,0
+Appanoose,Centerville Ward 3,Auditor of State,,Write-In,,3,2,1
+Appanoose,Johns/Independence/Lincoln,Auditor of State,,Write-In,,0,0,0
+Appanoose,Pleasant/Franklin,Auditor of State,,Write-In,,1,0,1
+Appanoose,Taylor/Chariton,Auditor of State,,Write-In,,2,0,2
+Appanoose,Union/Udell,Auditor of State,,Write-In,,0,0,0
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Auditor of State,,Write-In,,1,1,0
+Appanoose,Walnut,Auditor of State,,Write-In,,0,0,0
+Appanoose,Washington/Wells,Auditor of State,,Write-In,,0,0,0
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Bellair Township Clerk,,Write-In,,7,2,5
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Bellair Township Trustee,,Write-In,,12,3,9
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Bellair Township Trustee To Fill a Vacancy,,Write-In,,9,3,6
+Appanoose,Caldwell,Caldwell Township Clerk,,Write-In,,6,0,6
+Appanoose,Caldwell,Caldwell Township Trustee,,Write-In,,9,0,9
+Appanoose,Taylor/Chariton,Chariton Township Clerk,,Write-In,,2,1,1
+Appanoose,Taylor/Chariton,Chariton Township Trustee,,Write-In,,9,1,8
+Appanoose,Caldwell,Constitutional Amendment 1,,No,,65,15,50
+Appanoose,Centerville Ward 1,Constitutional Amendment 1,,No,,245,122,123
+Appanoose,Centerville Ward 2,Constitutional Amendment 1,,No,,208,86,122
+Appanoose,Centerville Ward 3,Constitutional Amendment 1,,No,,270,95,175
+Appanoose,Johns/Independence/Lincoln,Constitutional Amendment 1,,No,,88,31,57
+Appanoose,Pleasant/Franklin,Constitutional Amendment 1,,No,,121,29,92
+Appanoose,Taylor/Chariton,Constitutional Amendment 1,,No,,156,43,113
+Appanoose,Union/Udell,Constitutional Amendment 1,,No,,93,23,70
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Constitutional Amendment 1,,No,,251,126,125
+Appanoose,Walnut,Constitutional Amendment 1,,No,,139,38,101
+Appanoose,Washington/Wells,Constitutional Amendment 1,,No,,109,18,91
+Appanoose,Caldwell,Constitutional Amendment 1,,Yes,,99,29,70
+Appanoose,Centerville Ward 1,Constitutional Amendment 1,,Yes,,308,139,169
+Appanoose,Centerville Ward 2,Constitutional Amendment 1,,Yes,,273,134,139
+Appanoose,Centerville Ward 3,Constitutional Amendment 1,,Yes,,340,129,211
+Appanoose,Johns/Independence/Lincoln,Constitutional Amendment 1,,Yes,,217,77,140
+Appanoose,Pleasant/Franklin,Constitutional Amendment 1,,Yes,,173,36,137
+Appanoose,Taylor/Chariton,Constitutional Amendment 1,,Yes,,282,101,181
+Appanoose,Union/Udell,Constitutional Amendment 1,,Yes,,231,54,177
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Constitutional Amendment 1,,Yes,,408,202,206
+Appanoose,Walnut,Constitutional Amendment 1,,Yes,,172,53,119
+Appanoose,Washington/Wells,Constitutional Amendment 1,,Yes,,236,44,192
+Appanoose,Caldwell,County Agricultural Extension Council Member,,Jessica Wells,,122,29,93
+Appanoose,Centerville Ward 1,County Agricultural Extension Council Member,,Jessica Wells,,329,145,184
+Appanoose,Centerville Ward 2,County Agricultural Extension Council Member,,Jessica Wells,,321,137,184
+Appanoose,Centerville Ward 3,County Agricultural Extension Council Member,,Jessica Wells,,399,154,245
+Appanoose,Johns/Independence/Lincoln,County Agricultural Extension Council Member,,Jessica Wells,,224,78,146
+Appanoose,Pleasant/Franklin,County Agricultural Extension Council Member,,Jessica Wells,,193,39,154
+Appanoose,Taylor/Chariton,County Agricultural Extension Council Member,,Jessica Wells,,280,88,192
+Appanoose,Union/Udell,County Agricultural Extension Council Member,,Jessica Wells,,230,49,181
+Appanoose,Vermillion/Douglas/Sharon/Bellair,County Agricultural Extension Council Member,,Jessica Wells,,464,242,222
+Appanoose,Walnut,County Agricultural Extension Council Member,,Jessica Wells,,194,57,137
+Appanoose,Washington/Wells,County Agricultural Extension Council Member,,Jessica Wells,,219,41,178
+Appanoose,Caldwell,County Agricultural Extension Council Member,,Monte McCoy,,114,27,87
+Appanoose,Centerville Ward 1,County Agricultural Extension Council Member,,Monte McCoy,,322,152,170
+Appanoose,Centerville Ward 2,County Agricultural Extension Council Member,,Monte McCoy,,320,142,178
+Appanoose,Centerville Ward 3,County Agricultural Extension Council Member,,Monte McCoy,,388,143,245
+Appanoose,Johns/Independence/Lincoln,County Agricultural Extension Council Member,,Monte McCoy,,204,75,129
+Appanoose,Pleasant/Franklin,County Agricultural Extension Council Member,,Monte McCoy,,167,37,130
+Appanoose,Taylor/Chariton,County Agricultural Extension Council Member,,Monte McCoy,,319,105,214
+Appanoose,Union/Udell,County Agricultural Extension Council Member,,Monte McCoy,,254,56,198
+Appanoose,Vermillion/Douglas/Sharon/Bellair,County Agricultural Extension Council Member,,Monte McCoy,,444,229,215
+Appanoose,Walnut,County Agricultural Extension Council Member,,Monte McCoy,,193,53,140
+Appanoose,Washington/Wells,County Agricultural Extension Council Member,,Monte McCoy,,233,44,189
+Appanoose,Caldwell,County Agricultural Extension Council Member,,Natasha Joiner,,112,29,83
+Appanoose,Centerville Ward 1,County Agricultural Extension Council Member,,Natasha Joiner,,321,140,181
+Appanoose,Centerville Ward 2,County Agricultural Extension Council Member,,Natasha Joiner,,314,129,185
+Appanoose,Centerville Ward 3,County Agricultural Extension Council Member,,Natasha Joiner,,366,141,225
+Appanoose,Johns/Independence/Lincoln,County Agricultural Extension Council Member,,Natasha Joiner,,216,74,142
+Appanoose,Pleasant/Franklin,County Agricultural Extension Council Member,,Natasha Joiner,,152,32,120
+Appanoose,Taylor/Chariton,County Agricultural Extension Council Member,,Natasha Joiner,,275,91,184
+Appanoose,Union/Udell,County Agricultural Extension Council Member,,Natasha Joiner,,223,47,176
+Appanoose,Vermillion/Douglas/Sharon/Bellair,County Agricultural Extension Council Member,,Natasha Joiner,,437,227,210
+Appanoose,Walnut,County Agricultural Extension Council Member,,Natasha Joiner,,181,50,131
+Appanoose,Washington/Wells,County Agricultural Extension Council Member,,Natasha Joiner,,209,39,170
+Appanoose,Caldwell,County Agricultural Extension Council Member,,Write-In,,13,0,13
+Appanoose,Centerville Ward 1,County Agricultural Extension Council Member,,Write-In,,16,10,6
+Appanoose,Centerville Ward 2,County Agricultural Extension Council Member,,Write-In,,26,11,15
+Appanoose,Centerville Ward 3,County Agricultural Extension Council Member,,Write-In,,34,7,27
+Appanoose,Johns/Independence/Lincoln,County Agricultural Extension Council Member,,Write-In,,10,2,8
+Appanoose,Pleasant/Franklin,County Agricultural Extension Council Member,,Write-In,,17,1,16
+Appanoose,Taylor/Chariton,County Agricultural Extension Council Member,,Write-In,,15,1,14
+Appanoose,Union/Udell,County Agricultural Extension Council Member,,Write-In,,14,2,12
+Appanoose,Vermillion/Douglas/Sharon/Bellair,County Agricultural Extension Council Member,,Write-In,,37,13,24
+Appanoose,Walnut,County Agricultural Extension Council Member,,Write-In,,18,3,15
+Appanoose,Washington/Wells,County Agricultural Extension Council Member,,Write-In,,27,5,22
+Appanoose,Caldwell,County Agricultural Extension Council To Fill a Vacancy,,Jay Torrey,,137,35,102
+Appanoose,Centerville Ward 1,County Agricultural Extension Council To Fill a Vacancy,,Jay Torrey,,430,195,235
+Appanoose,Centerville Ward 2,County Agricultural Extension Council To Fill a Vacancy,,Jay Torrey,,417,180,237
+Appanoose,Centerville Ward 3,County Agricultural Extension Council To Fill a Vacancy,,Jay Torrey,,520,182,338
+Appanoose,Johns/Independence/Lincoln,County Agricultural Extension Council To Fill a Vacancy,,Jay Torrey,,259,88,171
+Appanoose,Pleasant/Franklin,County Agricultural Extension Council To Fill a Vacancy,,Jay Torrey,,236,52,184
+Appanoose,Taylor/Chariton,County Agricultural Extension Council To Fill a Vacancy,,Jay Torrey,,362,108,254
+Appanoose,Union/Udell,County Agricultural Extension Council To Fill a Vacancy,,Jay Torrey,,280,62,218
+Appanoose,Vermillion/Douglas/Sharon/Bellair,County Agricultural Extension Council To Fill a Vacancy,,Jay Torrey,,559,286,273
+Appanoose,Walnut,County Agricultural Extension Council To Fill a Vacancy,,Jay Torrey,,247,64,183
+Appanoose,Washington/Wells,County Agricultural Extension Council To Fill a Vacancy,,Jay Torrey,,274,49,225
+Appanoose,Caldwell,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,4,0,4
+Appanoose,Centerville Ward 1,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,8,6,2
+Appanoose,Centerville Ward 2,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,9,5,4
+Appanoose,Centerville Ward 3,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,14,7,7
+Appanoose,Johns/Independence/Lincoln,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,4,2,2
+Appanoose,Pleasant/Franklin,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,4,0,4
+Appanoose,Taylor/Chariton,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,6,1,5
+Appanoose,Union/Udell,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,4,1,3
+Appanoose,Vermillion/Douglas/Sharon/Bellair,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,10,6,4
+Appanoose,Walnut,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,5,1,4
+Appanoose,Washington/Wells,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,8,1,7
+Appanoose,Caldwell,County Attorney,,Ty Stewart,REP,155,37,118
+Appanoose,Centerville Ward 1,County Attorney,,Ty Stewart,REP,491,222,269
+Appanoose,Centerville Ward 2,County Attorney,,Ty Stewart,REP,453,202,251
+Appanoose,Centerville Ward 3,County Attorney,,Ty Stewart,REP,568,195,373
+Appanoose,Johns/Independence/Lincoln,County Attorney,,Ty Stewart,REP,296,101,195
+Appanoose,Pleasant/Franklin,County Attorney,,Ty Stewart,REP,271,58,213
+Appanoose,Taylor/Chariton,County Attorney,,Ty Stewart,REP,402,123,279
+Appanoose,Union/Udell,County Attorney,,Ty Stewart,REP,320,69,251
+Appanoose,Vermillion/Douglas/Sharon/Bellair,County Attorney,,Ty Stewart,REP,625,308,317
+Appanoose,Walnut,County Attorney,,Ty Stewart,REP,287,76,211
+Appanoose,Washington/Wells,County Attorney,,Ty Stewart,REP,341,58,283
+Appanoose,Caldwell,County Attorney,,Write-In,,1,0,1
+Appanoose,Centerville Ward 1,County Attorney,,Write-In,,5,4,1
+Appanoose,Centerville Ward 2,County Attorney,,Write-In,,8,5,3
+Appanoose,Centerville Ward 3,County Attorney,,Write-In,,8,3,5
+Appanoose,Johns/Independence/Lincoln,County Attorney,,Write-In,,1,0,1
+Appanoose,Pleasant/Franklin,County Attorney,,Write-In,,2,0,2
+Appanoose,Taylor/Chariton,County Attorney,,Write-In,,2,0,2
+Appanoose,Union/Udell,County Attorney,,Write-In,,1,0,1
+Appanoose,Vermillion/Douglas/Sharon/Bellair,County Attorney,,Write-In,,8,2,6
+Appanoose,Walnut,County Attorney,,Write-In,,7,2,5
+Appanoose,Washington/Wells,County Attorney,,Write-In,,2,0,2
+Appanoose,Caldwell,County Board of Supervisors,,Ryan Stober,REP,160,40,120
+Appanoose,Centerville Ward 1,County Board of Supervisors,,Ryan Stober,REP,503,227,276
+Appanoose,Centerville Ward 2,County Board of Supervisors,,Ryan Stober,REP,437,190,247
+Appanoose,Centerville Ward 3,County Board of Supervisors,,Ryan Stober,REP,560,195,365
+Appanoose,Johns/Independence/Lincoln,County Board of Supervisors,,Ryan Stober,REP,290,93,197
+Appanoose,Pleasant/Franklin,County Board of Supervisors,,Ryan Stober,REP,271,59,212
+Appanoose,Taylor/Chariton,County Board of Supervisors,,Ryan Stober,REP,408,125,283
+Appanoose,Union/Udell,County Board of Supervisors,,Ryan Stober,REP,318,68,250
+Appanoose,Vermillion/Douglas/Sharon/Bellair,County Board of Supervisors,,Ryan Stober,REP,624,319,305
+Appanoose,Walnut,County Board of Supervisors,,Ryan Stober,REP,284,75,209
+Appanoose,Washington/Wells,County Board of Supervisors,,Ryan Stober,REP,338,57,281
+Appanoose,Caldwell,County Board of Supervisors,,Write-In,,3,0,3
+Appanoose,Centerville Ward 1,County Board of Supervisors,,Write-In,,7,4,3
+Appanoose,Centerville Ward 2,County Board of Supervisors,,Write-In,,14,7,7
+Appanoose,Centerville Ward 3,County Board of Supervisors,,Write-In,,14,4,10
+Appanoose,Johns/Independence/Lincoln,County Board of Supervisors,,Write-In,,4,3,1
+Appanoose,Pleasant/Franklin,County Board of Supervisors,,Write-In,,4,1,3
+Appanoose,Taylor/Chariton,County Board of Supervisors,,Write-In,,3,0,3
+Appanoose,Union/Udell,County Board of Supervisors,,Write-In,,3,0,3
+Appanoose,Vermillion/Douglas/Sharon/Bellair,County Board of Supervisors,,Write-In,,16,4,12
+Appanoose,Walnut,County Board of Supervisors,,Write-In,,9,1,8
+Appanoose,Washington/Wells,County Board of Supervisors,,Write-In,,7,1,6
+Appanoose,Caldwell,County Recorder,,Maegan Messamaker,REP,157,39,118
+Appanoose,Centerville Ward 1,County Recorder,,Maegan Messamaker,REP,502,228,274
+Appanoose,Centerville Ward 2,County Recorder,,Maegan Messamaker,REP,438,193,245
+Appanoose,Centerville Ward 3,County Recorder,,Maegan Messamaker,REP,563,192,371
+Appanoose,Johns/Independence/Lincoln,County Recorder,,Maegan Messamaker,REP,302,103,199
+Appanoose,Pleasant/Franklin,County Recorder,,Maegan Messamaker,REP,270,55,215
+Appanoose,Taylor/Chariton,County Recorder,,Maegan Messamaker,REP,417,127,290
+Appanoose,Union/Udell,County Recorder,,Maegan Messamaker,REP,319,67,252
+Appanoose,Vermillion/Douglas/Sharon/Bellair,County Recorder,,Maegan Messamaker,REP,648,322,326
+Appanoose,Walnut,County Recorder,,Maegan Messamaker,REP,290,76,214
+Appanoose,Washington/Wells,County Recorder,,Maegan Messamaker,REP,337,58,279
+Appanoose,Caldwell,County Recorder,,Write-In,,1,0,1
+Appanoose,Centerville Ward 1,County Recorder,,Write-In,,5,4,1
+Appanoose,Centerville Ward 2,County Recorder,,Write-In,,11,5,6
+Appanoose,Centerville Ward 3,County Recorder,,Write-In,,11,4,7
+Appanoose,Johns/Independence/Lincoln,County Recorder,,Write-In,,1,1,0
+Appanoose,Pleasant/Franklin,County Recorder,,Write-In,,1,0,1
+Appanoose,Taylor/Chariton,County Recorder,,Write-In,,1,0,1
+Appanoose,Union/Udell,County Recorder,,Write-In,,1,0,1
+Appanoose,Vermillion/Douglas/Sharon/Bellair,County Recorder,,Write-In,,7,1,6
+Appanoose,Walnut,County Recorder,,Write-In,,4,1,3
+Appanoose,Washington/Wells,County Recorder,,Write-In,,4,0,4
+Appanoose,Caldwell,County Treasurer,,Tara Micetich,REP,155,38,117
+Appanoose,Centerville Ward 1,County Treasurer,,Tara Micetich,REP,491,221,270
+Appanoose,Centerville Ward 2,County Treasurer,,Tara Micetich,REP,419,193,226
+Appanoose,Centerville Ward 3,County Treasurer,,Tara Micetich,REP,549,192,357
+Appanoose,Johns/Independence/Lincoln,County Treasurer,,Tara Micetich,REP,298,100,198
+Appanoose,Pleasant/Franklin,County Treasurer,,Tara Micetich,REP,257,53,204
+Appanoose,Taylor/Chariton,County Treasurer,,Tara Micetich,REP,407,123,284
+Appanoose,Union/Udell,County Treasurer,,Tara Micetich,REP,319,69,250
+Appanoose,Vermillion/Douglas/Sharon/Bellair,County Treasurer,,Tara Micetich,REP,620,316,304
+Appanoose,Walnut,County Treasurer,,Tara Micetich,REP,288,76,212
+Appanoose,Washington/Wells,County Treasurer,,Tara Micetich,REP,335,58,277
+Appanoose,Caldwell,County Treasurer,,Write-In,,2,0,2
+Appanoose,Centerville Ward 1,County Treasurer,,Write-In,,20,11,9
+Appanoose,Centerville Ward 2,County Treasurer,,Write-In,,32,9,23
+Appanoose,Centerville Ward 3,County Treasurer,,Write-In,,25,9,16
+Appanoose,Johns/Independence/Lincoln,County Treasurer,,Write-In,,6,4,2
+Appanoose,Pleasant/Franklin,County Treasurer,,Write-In,,16,5,11
+Appanoose,Taylor/Chariton,County Treasurer,,Write-In,,3,1,2
+Appanoose,Union/Udell,County Treasurer,,Write-In,,1,0,1
+Appanoose,Vermillion/Douglas/Sharon/Bellair,County Treasurer,,Write-In,,25,7,18
+Appanoose,Walnut,County Treasurer,,Write-In,,7,0,7
+Appanoose,Washington/Wells,County Treasurer,,Write-In,,9,1,8
+Appanoose,Caldwell,Court of Appeals Judge - John M. Sandy,,No,,33,11,22
+Appanoose,Centerville Ward 1,Court of Appeals Judge - John M. Sandy,,No,,115,47,68
+Appanoose,Centerville Ward 2,Court of Appeals Judge - John M. Sandy,,No,,121,58,63
+Appanoose,Centerville Ward 3,Court of Appeals Judge - John M. Sandy,,No,,155,51,104
+Appanoose,Johns/Independence/Lincoln,Court of Appeals Judge - John M. Sandy,,No,,73,18,55
+Appanoose,Pleasant/Franklin,Court of Appeals Judge - John M. Sandy,,No,,70,16,54
+Appanoose,Taylor/Chariton,Court of Appeals Judge - John M. Sandy,,No,,109,31,78
+Appanoose,Union/Udell,Court of Appeals Judge - John M. Sandy,,No,,79,12,67
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Court of Appeals Judge - John M. Sandy,,No,,161,67,94
+Appanoose,Walnut,Court of Appeals Judge - John M. Sandy,,No,,77,22,55
+Appanoose,Washington/Wells,Court of Appeals Judge - John M. Sandy,,No,,100,21,79
+Appanoose,Caldwell,Court of Appeals Judge - John M. Sandy,,Yes,,97,22,75
+Appanoose,Centerville Ward 1,Court of Appeals Judge - John M. Sandy,,Yes,,316,148,168
+Appanoose,Centerville Ward 2,Court of Appeals Judge - John M. Sandy,,Yes,,287,119,168
+Appanoose,Centerville Ward 3,Court of Appeals Judge - John M. Sandy,,Yes,,373,135,238
+Appanoose,Johns/Independence/Lincoln,Court of Appeals Judge - John M. Sandy,,Yes,,177,65,112
+Appanoose,Pleasant/Franklin,Court of Appeals Judge - John M. Sandy,,Yes,,167,38,129
+Appanoose,Taylor/Chariton,Court of Appeals Judge - John M. Sandy,,Yes,,257,73,184
+Appanoose,Union/Udell,Court of Appeals Judge - John M. Sandy,,Yes,,199,44,155
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Court of Appeals Judge - John M. Sandy,,Yes,,357,187,170
+Appanoose,Walnut,Court of Appeals Judge - John M. Sandy,,Yes,,167,40,127
+Appanoose,Washington/Wells,Court of Appeals Judge - John M. Sandy,,Yes,,188,25,163
+Appanoose,Caldwell,Court of Appeals Judge - Julie A. Schumacher,,No,,36,9,27
+Appanoose,Centerville Ward 1,Court of Appeals Judge - Julie A. Schumacher,,No,,105,44,61
+Appanoose,Centerville Ward 2,Court of Appeals Judge - Julie A. Schumacher,,No,,108,49,59
+Appanoose,Centerville Ward 3,Court of Appeals Judge - Julie A. Schumacher,,No,,138,47,91
+Appanoose,Johns/Independence/Lincoln,Court of Appeals Judge - Julie A. Schumacher,,No,,71,14,57
+Appanoose,Pleasant/Franklin,Court of Appeals Judge - Julie A. Schumacher,,No,,75,17,58
+Appanoose,Taylor/Chariton,Court of Appeals Judge - Julie A. Schumacher,,No,,112,28,84
+Appanoose,Union/Udell,Court of Appeals Judge - Julie A. Schumacher,,No,,77,8,69
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Court of Appeals Judge - Julie A. Schumacher,,No,,162,70,92
+Appanoose,Walnut,Court of Appeals Judge - Julie A. Schumacher,,No,,72,22,50
+Appanoose,Washington/Wells,Court of Appeals Judge - Julie A. Schumacher,,No,,96,16,80
+Appanoose,Caldwell,Court of Appeals Judge - Julie A. Schumacher,,Yes,,98,26,72
+Appanoose,Centerville Ward 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,336,156,180
+Appanoose,Centerville Ward 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,305,135,170
+Appanoose,Centerville Ward 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,396,138,258
+Appanoose,Johns/Independence/Lincoln,Court of Appeals Judge - Julie A. Schumacher,,Yes,,187,75,112
+Appanoose,Pleasant/Franklin,Court of Appeals Judge - Julie A. Schumacher,,Yes,,163,39,124
+Appanoose,Taylor/Chariton,Court of Appeals Judge - Julie A. Schumacher,,Yes,,256,77,179
+Appanoose,Union/Udell,Court of Appeals Judge - Julie A. Schumacher,,Yes,,205,49,156
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Court of Appeals Judge - Julie A. Schumacher,,Yes,,361,185,176
+Appanoose,Walnut,Court of Appeals Judge - Julie A. Schumacher,,Yes,,178,41,137
+Appanoose,Washington/Wells,Court of Appeals Judge - Julie A. Schumacher,,Yes,,198,30,168
+Appanoose,Caldwell,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,34,8,26
+Appanoose,Centerville Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,123,47,76
+Appanoose,Centerville Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,111,52,59
+Appanoose,Centerville Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,162,51,111
+Appanoose,Johns/Independence/Lincoln,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,78,18,60
+Appanoose,Pleasant/Franklin,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,79,16,63
+Appanoose,Taylor/Chariton,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,111,30,81
+Appanoose,Union/Udell,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,81,8,73
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,164,73,91
+Appanoose,Walnut,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,78,21,57
+Appanoose,Washington/Wells,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,106,17,89
+Appanoose,Caldwell,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,98,26,72
+Appanoose,Centerville Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,309,150,159
+Appanoose,Centerville Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,300,129,171
+Appanoose,Centerville Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,361,133,228
+Appanoose,Johns/Independence/Lincoln,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,173,68,105
+Appanoose,Pleasant/Franklin,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,156,39,117
+Appanoose,Taylor/Chariton,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,247,71,176
+Appanoose,Union/Udell,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,196,47,149
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,346,174,172
+Appanoose,Walnut,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,169,43,126
+Appanoose,Washington/Wells,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,182,28,154
+Appanoose,Caldwell,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,35,9,26
+Appanoose,Centerville Ward 1,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,97,37,60
+Appanoose,Centerville Ward 2,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,106,51,55
+Appanoose,Centerville Ward 3,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,145,49,96
+Appanoose,Johns/Independence/Lincoln,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,78,17,61
+Appanoose,Pleasant/Franklin,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,72,18,54
+Appanoose,Taylor/Chariton,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,105,28,77
+Appanoose,Union/Udell,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,71,6,65
+Appanoose,Vermillion/Douglas/Sharon/Bellair,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,166,70,96
+Appanoose,Walnut,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,76,20,56
+Appanoose,Washington/Wells,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,98,17,81
+Appanoose,Caldwell,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,97,26,71
+Appanoose,Centerville Ward 1,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,334,157,177
+Appanoose,Centerville Ward 2,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,312,136,176
+Appanoose,Centerville Ward 3,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,387,139,248
+Appanoose,Johns/Independence/Lincoln,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,177,72,105
+Appanoose,Pleasant/Franklin,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,163,38,125
+Appanoose,Taylor/Chariton,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,256,79,177
+Appanoose,Union/Udell,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,206,49,157
+Appanoose,Vermillion/Douglas/Sharon/Bellair,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,356,182,174
+Appanoose,Walnut,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,168,42,126
+Appanoose,Washington/Wells,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,189,28,161
+Appanoose,Caldwell,District 8A Associate Judge - Susan Cole,,No,,34,10,24
+Appanoose,Centerville Ward 1,District 8A Associate Judge - Susan Cole,,No,,114,41,73
+Appanoose,Centerville Ward 2,District 8A Associate Judge - Susan Cole,,No,,107,54,53
+Appanoose,Centerville Ward 3,District 8A Associate Judge - Susan Cole,,No,,152,55,97
+Appanoose,Johns/Independence/Lincoln,District 8A Associate Judge - Susan Cole,,No,,73,14,59
+Appanoose,Pleasant/Franklin,District 8A Associate Judge - Susan Cole,,No,,79,17,62
+Appanoose,Taylor/Chariton,District 8A Associate Judge - Susan Cole,,No,,88,25,63
+Appanoose,Union/Udell,District 8A Associate Judge - Susan Cole,,No,,77,13,64
+Appanoose,Vermillion/Douglas/Sharon/Bellair,District 8A Associate Judge - Susan Cole,,No,,166,75,91
+Appanoose,Walnut,District 8A Associate Judge - Susan Cole,,No,,64,14,50
+Appanoose,Washington/Wells,District 8A Associate Judge - Susan Cole,,No,,114,19,95
+Appanoose,Caldwell,District 8A Associate Judge - Susan Cole,,Yes,,101,23,78
+Appanoose,Centerville Ward 1,District 8A Associate Judge - Susan Cole,,Yes,,335,158,177
+Appanoose,Centerville Ward 2,District 8A Associate Judge - Susan Cole,,Yes,,309,125,184
+Appanoose,Centerville Ward 3,District 8A Associate Judge - Susan Cole,,Yes,,382,131,251
+Appanoose,Johns/Independence/Lincoln,District 8A Associate Judge - Susan Cole,,Yes,,184,75,109
+Appanoose,Pleasant/Franklin,District 8A Associate Judge - Susan Cole,,Yes,,159,37,122
+Appanoose,Taylor/Chariton,District 8A Associate Judge - Susan Cole,,Yes,,298,86,212
+Appanoose,Union/Udell,District 8A Associate Judge - Susan Cole,,Yes,,205,46,159
+Appanoose,Vermillion/Douglas/Sharon/Bellair,District 8A Associate Judge - Susan Cole,,Yes,,382,193,189
+Appanoose,Walnut,District 8A Associate Judge - Susan Cole,,Yes,,193,51,142
+Appanoose,Washington/Wells,District 8A Associate Judge - Susan Cole,,Yes,,182,28,154
+Appanoose,Caldwell,District 8A Judge - Amber L. Thompson,,No,,36,9,27
+Appanoose,Centerville Ward 1,District 8A Judge - Amber L. Thompson,,No,,102,42,60
+Appanoose,Centerville Ward 2,District 8A Judge - Amber L. Thompson,,No,,113,51,62
+Appanoose,Centerville Ward 3,District 8A Judge - Amber L. Thompson,,No,,143,48,95
+Appanoose,Johns/Independence/Lincoln,District 8A Judge - Amber L. Thompson,,No,,74,16,58
+Appanoose,Pleasant/Franklin,District 8A Judge - Amber L. Thompson,,No,,74,17,57
+Appanoose,Taylor/Chariton,District 8A Judge - Amber L. Thompson,,No,,103,24,79
+Appanoose,Union/Udell,District 8A Judge - Amber L. Thompson,,No,,79,8,71
+Appanoose,Vermillion/Douglas/Sharon/Bellair,District 8A Judge - Amber L. Thompson,,No,,166,72,94
+Appanoose,Walnut,District 8A Judge - Amber L. Thompson,,No,,77,23,54
+Appanoose,Washington/Wells,District 8A Judge - Amber L. Thompson,,No,,100,19,81
+Appanoose,Caldwell,District 8A Judge - Amber L. Thompson,,Yes,,98,26,72
+Appanoose,Centerville Ward 1,District 8A Judge - Amber L. Thompson,,Yes,,331,155,176
+Appanoose,Centerville Ward 2,District 8A Judge - Amber L. Thompson,,Yes,,300,130,170
+Appanoose,Centerville Ward 3,District 8A Judge - Amber L. Thompson,,Yes,,383,139,244
+Appanoose,Johns/Independence/Lincoln,District 8A Judge - Amber L. Thompson,,Yes,,179,72,107
+Appanoose,Pleasant/Franklin,District 8A Judge - Amber L. Thompson,,Yes,,164,40,124
+Appanoose,Taylor/Chariton,District 8A Judge - Amber L. Thompson,,Yes,,261,80,181
+Appanoose,Union/Udell,District 8A Judge - Amber L. Thompson,,Yes,,200,49,151
+Appanoose,Vermillion/Douglas/Sharon/Bellair,District 8A Judge - Amber L. Thompson,,Yes,,350,177,173
+Appanoose,Walnut,District 8A Judge - Amber L. Thompson,,Yes,,172,41,131
+Appanoose,Washington/Wells,District 8A Judge - Amber L. Thompson,,Yes,,189,27,162
+Appanoose,Caldwell,District 8A Judge - Dustin Hite,,No,,35,11,24
+Appanoose,Centerville Ward 1,District 8A Judge - Dustin Hite,,No,,111,45,66
+Appanoose,Centerville Ward 2,District 8A Judge - Dustin Hite,,No,,116,53,63
+Appanoose,Centerville Ward 3,District 8A Judge - Dustin Hite,,No,,158,59,99
+Appanoose,Johns/Independence/Lincoln,District 8A Judge - Dustin Hite,,No,,69,19,50
+Appanoose,Pleasant/Franklin,District 8A Judge - Dustin Hite,,No,,71,19,52
+Appanoose,Taylor/Chariton,District 8A Judge - Dustin Hite,,No,,109,29,80
+Appanoose,Union/Udell,District 8A Judge - Dustin Hite,,No,,81,9,72
+Appanoose,Vermillion/Douglas/Sharon/Bellair,District 8A Judge - Dustin Hite,,No,,159,64,95
+Appanoose,Walnut,District 8A Judge - Dustin Hite,,No,,73,20,53
+Appanoose,Washington/Wells,District 8A Judge - Dustin Hite,,No,,91,18,73
+Appanoose,Caldwell,District 8A Judge - Dustin Hite,,Yes,,96,23,73
+Appanoose,Centerville Ward 1,District 8A Judge - Dustin Hite,,Yes,,318,149,169
+Appanoose,Centerville Ward 2,District 8A Judge - Dustin Hite,,Yes,,291,125,166
+Appanoose,Centerville Ward 3,District 8A Judge - Dustin Hite,,Yes,,366,127,239
+Appanoose,Johns/Independence/Lincoln,District 8A Judge - Dustin Hite,,Yes,,180,68,112
+Appanoose,Pleasant/Franklin,District 8A Judge - Dustin Hite,,Yes,,160,36,124
+Appanoose,Taylor/Chariton,District 8A Judge - Dustin Hite,,Yes,,259,78,181
+Appanoose,Union/Udell,District 8A Judge - Dustin Hite,,Yes,,194,46,148
+Appanoose,Vermillion/Douglas/Sharon/Bellair,District 8A Judge - Dustin Hite,,Yes,,359,188,171
+Appanoose,Walnut,District 8A Judge - Dustin Hite,,Yes,,168,41,127
+Appanoose,Washington/Wells,District 8A Judge - Dustin Hite,,Yes,,199,29,170
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Douglas Township Trustee,,Write-In,,7,6,1
+Appanoose,Pleasant/Franklin,Franklin Township Clerk,,Write-In,,3,0,3
+Appanoose,Pleasant/Franklin,Franklin Township Trustee,,Craig Sebolt,,37,13,24
+Appanoose,Pleasant/Franklin,Franklin Township Trustee,,Write-In,,2,1,1
+Appanoose,Caldwell,Governor,,Rob Sand and Dave Muhlbauer,DEM,66,22,44
+Appanoose,Centerville Ward 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,293,153,140
+Appanoose,Centerville Ward 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,274,134,140
+Appanoose,Centerville Ward 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,319,134,185
+Appanoose,Johns/Independence/Lincoln,Governor,,Rob Sand and Dave Muhlbauer,DEM,126,56,70
+Appanoose,Pleasant/Franklin,Governor,,Rob Sand and Dave Muhlbauer,DEM,121,38,83
+Appanoose,Taylor/Chariton,Governor,,Rob Sand and Dave Muhlbauer,DEM,189,70,119
+Appanoose,Union/Udell,Governor,,Rob Sand and Dave Muhlbauer,DEM,117,42,75
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Governor,,Rob Sand and Dave Muhlbauer,DEM,256,157,99
+Appanoose,Walnut,Governor,,Rob Sand and Dave Muhlbauer,DEM,148,55,93
+Appanoose,Washington/Wells,Governor,,Rob Sand and Dave Muhlbauer,DEM,123,24,99
+Appanoose,Caldwell,Governor,,Write-In,,0,0,0
+Appanoose,Centerville Ward 1,Governor,,Write-In,,3,1,2
+Appanoose,Centerville Ward 2,Governor,,Write-In,,0,0,0
+Appanoose,Centerville Ward 3,Governor,,Write-In,,1,0,1
+Appanoose,Johns/Independence/Lincoln,Governor,,Write-In,,0,0,0
+Appanoose,Pleasant/Franklin,Governor,,Write-In,,0,0,0
+Appanoose,Taylor/Chariton,Governor,,Write-In,,0,0,0
+Appanoose,Union/Udell,Governor,,Write-In,,0,0,0
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Governor,,Write-In,,2,0,2
+Appanoose,Walnut,Governor,,Write-In,,0,0,0
+Appanoose,Washington/Wells,Governor,,Write-In,,0,0,0
+Appanoose,Caldwell,Governor,,Zach Lahn and Derek Wulf,REP,114,22,92
+Appanoose,Centerville Ward 1,Governor,,Zach Lahn and Derek Wulf,REP,306,130,176
+Appanoose,Centerville Ward 2,Governor,,Zach Lahn and Derek Wulf,REP,253,106,147
+Appanoose,Centerville Ward 3,Governor,,Zach Lahn and Derek Wulf,REP,335,107,228
+Appanoose,Johns/Independence/Lincoln,Governor,,Zach Lahn and Derek Wulf,REP,226,73,153
+Appanoose,Pleasant/Franklin,Governor,,Zach Lahn and Derek Wulf,REP,190,32,158
+Appanoose,Taylor/Chariton,Governor,,Zach Lahn and Derek Wulf,REP,288,85,203
+Appanoose,Union/Udell,Governor,,Zach Lahn and Derek Wulf,REP,240,44,196
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Governor,,Zach Lahn and Derek Wulf,REP,456,212,244
+Appanoose,Walnut,Governor,,Zach Lahn and Derek Wulf,REP,200,48,152
+Appanoose,Washington/Wells,Governor,,Zach Lahn and Derek Wulf,REP,250,43,207
+Appanoose,Johns/Independence/Lincoln,Independence Township Clerk,,Sherry Murphy,,99,38,61
+Appanoose,Johns/Independence/Lincoln,Independence Township Clerk,,Write-In,,0,0,0
+Appanoose,Johns/Independence/Lincoln,Independence Township Trustee,,Write-In,,13,7,6
+Appanoose,Johns/Independence/Lincoln,Johns Township Clerk,,Write-In,,5,1,4
+Appanoose,Johns/Independence/Lincoln,Johns Township Trustee,,Mark McDanolds,,99,27,72
+Appanoose,Johns/Independence/Lincoln,Johns Township Trustee,,Write-In,,7,0,7
+Appanoose,Johns/Independence/Lincoln,Johns Township Trustee To Fill a Vacancy,,Write-In,,11,0,11
+Appanoose,Johns/Independence/Lincoln,Lincoln Township Clerk,,Martha Furlin,,60,18,42
+Appanoose,Johns/Independence/Lincoln,Lincoln Township Clerk,,Write-In,,0,0,0
+Appanoose,Johns/Independence/Lincoln,Lincoln Township Trustee,,John A. Sulser,,57,17,40
+Appanoose,Johns/Independence/Lincoln,Lincoln Township Trustee,,Write-In,,5,2,3
+Appanoose,Pleasant/Franklin,Pleasant Township Clerk,,Write-In,,16,5,11
+Appanoose,Pleasant/Franklin,Pleasant Township Trustee,,John Wright,,150,31,119
+Appanoose,Pleasant/Franklin,Pleasant Township Trustee,,Write-In,,0,0,0
+Appanoose,Caldwell,Secretary of Agriculture,,Chris Jones,DEM,57,19,38
+Appanoose,Centerville Ward 1,Secretary of Agriculture,,Chris Jones,DEM,240,133,107
+Appanoose,Centerville Ward 2,Secretary of Agriculture,,Chris Jones,DEM,228,116,112
+Appanoose,Centerville Ward 3,Secretary of Agriculture,,Chris Jones,DEM,255,109,146
+Appanoose,Johns/Independence/Lincoln,Secretary of Agriculture,,Chris Jones,DEM,99,48,51
+Appanoose,Pleasant/Franklin,Secretary of Agriculture,,Chris Jones,DEM,89,31,58
+Appanoose,Taylor/Chariton,Secretary of Agriculture,,Chris Jones,DEM,145,61,84
+Appanoose,Union/Udell,Secretary of Agriculture,,Chris Jones,DEM,85,31,54
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Secretary of Agriculture,,Chris Jones,DEM,194,119,75
+Appanoose,Walnut,Secretary of Agriculture,,Chris Jones,DEM,112,41,71
+Appanoose,Washington/Wells,Secretary of Agriculture,,Chris Jones,DEM,89,24,65
+Appanoose,Caldwell,Secretary of Agriculture,,Mike Naig,REP,121,25,96
+Appanoose,Centerville Ward 1,Secretary of Agriculture,,Mike Naig,REP,354,149,205
+Appanoose,Centerville Ward 2,Secretary of Agriculture,,Mike Naig,REP,279,115,164
+Appanoose,Centerville Ward 3,Secretary of Agriculture,,Mike Naig,REP,391,130,261
+Appanoose,Johns/Independence/Lincoln,Secretary of Agriculture,,Mike Naig,REP,248,80,168
+Appanoose,Pleasant/Franklin,Secretary of Agriculture,,Mike Naig,REP,219,39,180
+Appanoose,Taylor/Chariton,Secretary of Agriculture,,Mike Naig,REP,321,93,228
+Appanoose,Union/Udell,Secretary of Agriculture,,Mike Naig,REP,271,55,216
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Secretary of Agriculture,,Mike Naig,REP,508,241,267
+Appanoose,Walnut,Secretary of Agriculture,,Mike Naig,REP,229,61,168
+Appanoose,Washington/Wells,Secretary of Agriculture,,Mike Naig,REP,278,44,234
+Appanoose,Caldwell,Secretary of Agriculture,,Write-In,,0,0,0
+Appanoose,Centerville Ward 1,Secretary of Agriculture,,Write-In,,1,0,1
+Appanoose,Centerville Ward 2,Secretary of Agriculture,,Write-In,,1,0,1
+Appanoose,Centerville Ward 3,Secretary of Agriculture,,Write-In,,1,0,1
+Appanoose,Johns/Independence/Lincoln,Secretary of Agriculture,,Write-In,,0,0,0
+Appanoose,Pleasant/Franklin,Secretary of Agriculture,,Write-In,,0,0,0
+Appanoose,Taylor/Chariton,Secretary of Agriculture,,Write-In,,1,0,1
+Appanoose,Union/Udell,Secretary of Agriculture,,Write-In,,0,0,0
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Secretary of Agriculture,,Write-In,,1,1,0
+Appanoose,Walnut,Secretary of Agriculture,,Write-In,,0,0,0
+Appanoose,Washington/Wells,Secretary of Agriculture,,Write-In,,0,0,0
+Appanoose,Caldwell,Secretary of State,,Paul D. Pate,REP,125,24,101
+Appanoose,Centerville Ward 1,Secretary of State,,Paul D. Pate,REP,358,154,204
+Appanoose,Centerville Ward 2,Secretary of State,,Paul D. Pate,REP,284,114,170
+Appanoose,Centerville Ward 3,Secretary of State,,Paul D. Pate,REP,400,133,267
+Appanoose,Johns/Independence/Lincoln,Secretary of State,,Paul D. Pate,REP,247,81,166
+Appanoose,Pleasant/Franklin,Secretary of State,,Paul D. Pate,REP,217,37,180
+Appanoose,Taylor/Chariton,Secretary of State,,Paul D. Pate,REP,325,90,235
+Appanoose,Union/Udell,Secretary of State,,Paul D. Pate,REP,266,53,213
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Secretary of State,,Paul D. Pate,REP,515,245,270
+Appanoose,Walnut,Secretary of State,,Paul D. Pate,REP,231,60,171
+Appanoose,Washington/Wells,Secretary of State,,Paul D. Pate,REP,274,49,225
+Appanoose,Caldwell,Secretary of State,,Ryan Peterman,DEM,54,19,35
+Appanoose,Centerville Ward 1,Secretary of State,,Ryan Peterman,DEM,233,128,105
+Appanoose,Centerville Ward 2,Secretary of State,,Ryan Peterman,DEM,226,119,107
+Appanoose,Centerville Ward 3,Secretary of State,,Ryan Peterman,DEM,244,104,140
+Appanoose,Johns/Independence/Lincoln,Secretary of State,,Ryan Peterman,DEM,95,45,50
+Appanoose,Pleasant/Franklin,Secretary of State,,Ryan Peterman,DEM,92,32,60
+Appanoose,Taylor/Chariton,Secretary of State,,Ryan Peterman,DEM,144,65,79
+Appanoose,Union/Udell,Secretary of State,,Ryan Peterman,DEM,91,33,58
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Secretary of State,,Ryan Peterman,DEM,188,118,70
+Appanoose,Walnut,Secretary of State,,Ryan Peterman,DEM,107,40,67
+Appanoose,Washington/Wells,Secretary of State,,Ryan Peterman,DEM,91,18,73
+Appanoose,Caldwell,Secretary of State,,Write-In,,0,0,0
+Appanoose,Centerville Ward 1,Secretary of State,,Write-In,,1,0,1
+Appanoose,Centerville Ward 2,Secretary of State,,Write-In,,0,0,0
+Appanoose,Centerville Ward 3,Secretary of State,,Write-In,,4,2,2
+Appanoose,Johns/Independence/Lincoln,Secretary of State,,Write-In,,0,0,0
+Appanoose,Pleasant/Franklin,Secretary of State,,Write-In,,0,0,0
+Appanoose,Taylor/Chariton,Secretary of State,,Write-In,,1,0,1
+Appanoose,Union/Udell,Secretary of State,,Write-In,,0,0,0
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Secretary of State,,Write-In,,1,1,0
+Appanoose,Walnut,Secretary of State,,Write-In,,0,0,0
+Appanoose,Washington/Wells,Secretary of State,,Write-In,,0,0,0
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Sharon Township Clerk,,Tanya Labertew,,82,40,42
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Sharon Township Clerk,,Write-In,,0,0,0
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Sharon Township Trustee,,Deb Tarbell,,78,36,42
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Sharon Township Trustee,,Write-In,,1,0,1
+Appanoose,Caldwell,Soil and Water Conservation District Commissioner,,Charles Moore,,132,32,100
+Appanoose,Centerville Ward 1,Soil and Water Conservation District Commissioner,,Charles Moore,,421,190,231
+Appanoose,Centerville Ward 2,Soil and Water Conservation District Commissioner,,Charles Moore,,401,175,226
+Appanoose,Centerville Ward 3,Soil and Water Conservation District Commissioner,,Charles Moore,,505,177,328
+Appanoose,Johns/Independence/Lincoln,Soil and Water Conservation District Commissioner,,Charles Moore,,273,91,182
+Appanoose,Pleasant/Franklin,Soil and Water Conservation District Commissioner,,Charles Moore,,232,54,178
+Appanoose,Taylor/Chariton,Soil and Water Conservation District Commissioner,,Charles Moore,,385,117,268
+Appanoose,Union/Udell,Soil and Water Conservation District Commissioner,,Charles Moore,,299,66,233
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Soil and Water Conservation District Commissioner,,Charles Moore,,542,278,264
+Appanoose,Walnut,Soil and Water Conservation District Commissioner,,Charles Moore,,248,69,179
+Appanoose,Washington/Wells,Soil and Water Conservation District Commissioner,,Charles Moore,,287,49,238
+Appanoose,Caldwell,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Appanoose,Centerville Ward 1,Soil and Water Conservation District Commissioner,,Write-In,,11,6,5
+Appanoose,Centerville Ward 2,Soil and Water Conservation District Commissioner,,Write-In,,18,8,10
+Appanoose,Centerville Ward 3,Soil and Water Conservation District Commissioner,,Write-In,,19,7,12
+Appanoose,Johns/Independence/Lincoln,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Appanoose,Pleasant/Franklin,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Appanoose,Taylor/Chariton,Soil and Water Conservation District Commissioner,,Write-In,,7,1,6
+Appanoose,Union/Udell,Soil and Water Conservation District Commissioner,,Write-In,,4,0,4
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Soil and Water Conservation District Commissioner,,Write-In,,13,6,7
+Appanoose,Walnut,Soil and Water Conservation District Commissioner,,Write-In,,6,1,5
+Appanoose,Washington/Wells,Soil and Water Conservation District Commissioner,,Write-In,,10,2,8
+Appanoose,Johns/Independence/Lincoln,State House,24,Sam Wengryn,REP,238,76,162
+Appanoose,Johns/Independence/Lincoln,State House,24,Sonya Hicks,DEM,103,51,52
+Appanoose,Johns/Independence/Lincoln,State House,24,Write-In,,0,0,0
+Appanoose,Caldwell,State House,26,Austin Harris,REP,125,23,102
+Appanoose,Centerville Ward 1,State House,26,Austin Harris,REP,360,143,217
+Appanoose,Centerville Ward 2,State House,26,Austin Harris,REP,295,116,179
+Appanoose,Centerville Ward 3,State House,26,Austin Harris,REP,375,116,259
+Appanoose,Pleasant/Franklin,State House,26,Austin Harris,REP,214,36,178
+Appanoose,Taylor/Chariton,State House,26,Austin Harris,REP,318,91,227
+Appanoose,Union/Udell,State House,26,Austin Harris,REP,264,54,210
+Appanoose,Vermillion/Douglas/Sharon/Bellair,State House,26,Austin Harris,REP,495,236,259
+Appanoose,Walnut,State House,26,Austin Harris,REP,234,60,174
+Appanoose,Washington/Wells,State House,26,Austin Harris,REP,283,41,242
+Appanoose,Caldwell,State House,26,Brett Mohler,DEM,51,19,32
+Appanoose,Centerville Ward 1,State House,26,Brett Mohler,DEM,235,135,100
+Appanoose,Centerville Ward 2,State House,26,Brett Mohler,DEM,224,120,104
+Appanoose,Centerville Ward 3,State House,26,Brett Mohler,DEM,268,123,145
+Appanoose,Pleasant/Franklin,State House,26,Brett Mohler,DEM,89,33,56
+Appanoose,Taylor/Chariton,State House,26,Brett Mohler,DEM,153,64,89
+Appanoose,Union/Udell,State House,26,Brett Mohler,DEM,91,32,59
+Appanoose,Vermillion/Douglas/Sharon/Bellair,State House,26,Brett Mohler,DEM,210,130,80
+Appanoose,Walnut,State House,26,Brett Mohler,DEM,110,41,69
+Appanoose,Washington/Wells,State House,26,Brett Mohler,DEM,85,27,58
+Appanoose,Caldwell,State House,26,Write-In,,0,0,0
+Appanoose,Centerville Ward 1,State House,26,Write-In,,1,1,0
+Appanoose,Centerville Ward 2,State House,26,Write-In,,0,0,0
+Appanoose,Centerville Ward 3,State House,26,Write-In,,2,1,1
+Appanoose,Pleasant/Franklin,State House,26,Write-In,,1,0,1
+Appanoose,Taylor/Chariton,State House,26,Write-In,,0,0,0
+Appanoose,Union/Udell,State House,26,Write-In,,1,0,1
+Appanoose,Vermillion/Douglas/Sharon/Bellair,State House,26,Write-In,,2,1,1
+Appanoose,Walnut,State House,26,Write-In,,0,0,0
+Appanoose,Washington/Wells,State House,26,Write-In,,2,0,2
+Appanoose,Caldwell,State Senate,13,Brenda Case,DEM,55,19,36
+Appanoose,Centerville Ward 1,State Senate,13,Brenda Case,DEM,229,125,104
+Appanoose,Centerville Ward 2,State Senate,13,Brenda Case,DEM,219,109,110
+Appanoose,Centerville Ward 3,State Senate,13,Brenda Case,DEM,268,124,144
+Appanoose,Pleasant/Franklin,State Senate,13,Brenda Case,DEM,100,32,68
+Appanoose,Taylor/Chariton,State Senate,13,Brenda Case,DEM,148,60,88
+Appanoose,Union/Udell,State Senate,13,Brenda Case,DEM,91,33,58
+Appanoose,Vermillion/Douglas/Sharon/Bellair,State Senate,13,Brenda Case,DEM,220,135,85
+Appanoose,Walnut,State Senate,13,Brenda Case,DEM,113,40,73
+Appanoose,Washington/Wells,State Senate,13,Brenda Case,DEM,100,24,76
+Appanoose,Caldwell,State Senate,13,Jeff Kulmatycki,REP,120,24,96
+Appanoose,Centerville Ward 1,State Senate,13,Jeff Kulmatycki,REP,361,155,206
+Appanoose,Centerville Ward 2,State Senate,13,Jeff Kulmatycki,REP,292,123,169
+Appanoose,Centerville Ward 3,State Senate,13,Jeff Kulmatycki,REP,376,115,261
+Appanoose,Pleasant/Franklin,State Senate,13,Jeff Kulmatycki,REP,199,37,162
+Appanoose,Taylor/Chariton,State Senate,13,Jeff Kulmatycki,REP,317,95,222
+Appanoose,Union/Udell,State Senate,13,Jeff Kulmatycki,REP,266,53,213
+Appanoose,Vermillion/Douglas/Sharon/Bellair,State Senate,13,Jeff Kulmatycki,REP,483,232,251
+Appanoose,Walnut,State Senate,13,Jeff Kulmatycki,REP,229,60,169
+Appanoose,Washington/Wells,State Senate,13,Jeff Kulmatycki,REP,271,44,227
+Appanoose,Caldwell,State Senate,13,Write-In,,1,0,1
+Appanoose,Centerville Ward 1,State Senate,13,Write-In,,3,2,1
+Appanoose,Centerville Ward 2,State Senate,13,Write-In,,3,1,2
+Appanoose,Centerville Ward 3,State Senate,13,Write-In,,5,3,2
+Appanoose,Pleasant/Franklin,State Senate,13,Write-In,,2,0,2
+Appanoose,Taylor/Chariton,State Senate,13,Write-In,,2,0,2
+Appanoose,Union/Udell,State Senate,13,Write-In,,0,0,0
+Appanoose,Vermillion/Douglas/Sharon/Bellair,State Senate,13,Write-In,,4,1,3
+Appanoose,Walnut,State Senate,13,Write-In,,1,0,1
+Appanoose,Washington/Wells,State Senate,13,Write-In,,0,0,0
+Appanoose,Taylor/Chariton,Taylor Township Clerk,,Denise Hawk,,105,36,69
+Appanoose,Taylor/Chariton,Taylor Township Clerk,,Write-In,,3,1,2
+Appanoose,Caldwell,Treasurer of State,,John Norwood,DEM,59,18,41
+Appanoose,Centerville Ward 1,Treasurer of State,,John Norwood,DEM,242,134,108
+Appanoose,Centerville Ward 2,Treasurer of State,,John Norwood,DEM,236,123,113
+Appanoose,Centerville Ward 3,Treasurer of State,,John Norwood,DEM,275,126,149
+Appanoose,Johns/Independence/Lincoln,Treasurer of State,,John Norwood,DEM,102,51,51
+Appanoose,Pleasant/Franklin,Treasurer of State,,John Norwood,DEM,96,32,64
+Appanoose,Taylor/Chariton,Treasurer of State,,John Norwood,DEM,146,63,83
+Appanoose,Union/Udell,Treasurer of State,,John Norwood,DEM,96,32,64
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Treasurer of State,,John Norwood,DEM,218,137,81
+Appanoose,Walnut,Treasurer of State,,John Norwood,DEM,123,43,80
+Appanoose,Washington/Wells,Treasurer of State,,John Norwood,DEM,99,24,75
+Appanoose,Caldwell,Treasurer of State,,Roby Smith,REP,116,25,91
+Appanoose,Centerville Ward 1,Treasurer of State,,Roby Smith,REP,343,144,199
+Appanoose,Centerville Ward 2,Treasurer of State,,Roby Smith,REP,267,105,162
+Appanoose,Centerville Ward 3,Treasurer of State,,Roby Smith,REP,362,109,253
+Appanoose,Johns/Independence/Lincoln,Treasurer of State,,Roby Smith,REP,239,76,163
+Appanoose,Pleasant/Franklin,Treasurer of State,,Roby Smith,REP,209,36,173
+Appanoose,Taylor/Chariton,Treasurer of State,,Roby Smith,REP,314,90,224
+Appanoose,Union/Udell,Treasurer of State,,Roby Smith,REP,257,53,204
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Treasurer of State,,Roby Smith,REP,474,223,251
+Appanoose,Walnut,Treasurer of State,,Roby Smith,REP,212,58,154
+Appanoose,Washington/Wells,Treasurer of State,,Roby Smith,REP,263,43,220
+Appanoose,Caldwell,Treasurer of State,,Write-In,,0,0,0
+Appanoose,Centerville Ward 1,Treasurer of State,,Write-In,,1,0,1
+Appanoose,Centerville Ward 2,Treasurer of State,,Write-In,,2,2,0
+Appanoose,Centerville Ward 3,Treasurer of State,,Write-In,,1,0,1
+Appanoose,Johns/Independence/Lincoln,Treasurer of State,,Write-In,,0,0,0
+Appanoose,Pleasant/Franklin,Treasurer of State,,Write-In,,0,0,0
+Appanoose,Taylor/Chariton,Treasurer of State,,Write-In,,1,0,1
+Appanoose,Union/Udell,Treasurer of State,,Write-In,,0,0,0
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Treasurer of State,,Write-In,,2,1,1
+Appanoose,Walnut,Treasurer of State,,Write-In,,1,0,1
+Appanoose,Washington/Wells,Treasurer of State,,Write-In,,0,0,0
+Appanoose,Caldwell,U.S. House,3,Sarah Trone Garriott,DEM,53,18,35
+Appanoose,Centerville Ward 1,U.S. House,3,Sarah Trone Garriott,DEM,241,131,110
+Appanoose,Centerville Ward 2,U.S. House,3,Sarah Trone Garriott,DEM,221,114,107
+Appanoose,Centerville Ward 3,U.S. House,3,Sarah Trone Garriott,DEM,264,120,144
+Appanoose,Johns/Independence/Lincoln,U.S. House,3,Sarah Trone Garriott,DEM,100,51,49
+Appanoose,Pleasant/Franklin,U.S. House,3,Sarah Trone Garriott,DEM,87,33,54
+Appanoose,Taylor/Chariton,U.S. House,3,Sarah Trone Garriott,DEM,140,63,77
+Appanoose,Union/Udell,U.S. House,3,Sarah Trone Garriott,DEM,84,32,52
+Appanoose,Vermillion/Douglas/Sharon/Bellair,U.S. House,3,Sarah Trone Garriott,DEM,198,126,72
+Appanoose,Walnut,U.S. House,3,Sarah Trone Garriott,DEM,106,42,64
+Appanoose,Washington/Wells,U.S. House,3,Sarah Trone Garriott,DEM,91,21,70
+Appanoose,Caldwell,U.S. House,3,Write-In,,0,0,0
+Appanoose,Centerville Ward 1,U.S. House,3,Write-In,,5,2,3
+Appanoose,Centerville Ward 2,U.S. House,3,Write-In,,1,0,1
+Appanoose,Centerville Ward 3,U.S. House,3,Write-In,,5,3,2
+Appanoose,Johns/Independence/Lincoln,U.S. House,3,Write-In,,0,0,0
+Appanoose,Pleasant/Franklin,U.S. House,3,Write-In,,1,0,1
+Appanoose,Taylor/Chariton,U.S. House,3,Write-In,,1,0,1
+Appanoose,Union/Udell,U.S. House,3,Write-In,,1,0,1
+Appanoose,Vermillion/Douglas/Sharon/Bellair,U.S. House,3,Write-In,,2,1,1
+Appanoose,Walnut,U.S. House,3,Write-In,,1,1,0
+Appanoose,Washington/Wells,U.S. House,3,Write-In,,0,0,0
+Appanoose,Caldwell,U.S. House,3,Zach Nunn,REP,119,22,97
+Appanoose,Centerville Ward 1,U.S. House,3,Zach Nunn,REP,341,143,198
+Appanoose,Centerville Ward 2,U.S. House,3,Zach Nunn,REP,292,118,174
+Appanoose,Centerville Ward 3,U.S. House,3,Zach Nunn,REP,376,112,264
+Appanoose,Johns/Independence/Lincoln,U.S. House,3,Zach Nunn,REP,244,75,169
+Appanoose,Pleasant/Franklin,U.S. House,3,Zach Nunn,REP,219,37,182
+Appanoose,Taylor/Chariton,U.S. House,3,Zach Nunn,REP,325,88,237
+Appanoose,Union/Udell,U.S. House,3,Zach Nunn,REP,267,53,214
+Appanoose,Vermillion/Douglas/Sharon/Bellair,U.S. House,3,Zach Nunn,REP,505,236,269
+Appanoose,Walnut,U.S. House,3,Zach Nunn,REP,224,56,168
+Appanoose,Washington/Wells,U.S. House,3,Zach Nunn,REP,277,45,232
+Appanoose,Caldwell,U.S. Senate,,Ashley Hinson,REP,112,23,89
+Appanoose,Centerville Ward 1,U.S. Senate,,Ashley Hinson,REP,313,129,184
+Appanoose,Centerville Ward 2,U.S. Senate,,Ashley Hinson,REP,257,108,149
+Appanoose,Centerville Ward 3,U.S. Senate,,Ashley Hinson,REP,328,104,224
+Appanoose,Johns/Independence/Lincoln,U.S. Senate,,Ashley Hinson,REP,231,74,157
+Appanoose,Pleasant/Franklin,U.S. Senate,,Ashley Hinson,REP,202,35,167
+Appanoose,Taylor/Chariton,U.S. Senate,,Ashley Hinson,REP,297,86,211
+Appanoose,Union/Udell,U.S. Senate,,Ashley Hinson,REP,240,48,192
+Appanoose,Vermillion/Douglas/Sharon/Bellair,U.S. Senate,,Ashley Hinson,REP,455,208,247
+Appanoose,Walnut,U.S. Senate,,Ashley Hinson,REP,200,52,148
+Appanoose,Washington/Wells,U.S. Senate,,Ashley Hinson,REP,246,42,204
+Appanoose,Caldwell,U.S. Senate,,Josh Turek,DEM,57,20,37
+Appanoose,Centerville Ward 1,U.S. Senate,,Josh Turek,DEM,254,140,114
+Appanoose,Centerville Ward 2,U.S. Senate,,Josh Turek,DEM,232,118,114
+Appanoose,Centerville Ward 3,U.S. Senate,,Josh Turek,DEM,282,123,159
+Appanoose,Johns/Independence/Lincoln,U.S. Senate,,Josh Turek,DEM,105,51,54
+Appanoose,Pleasant/Franklin,U.S. Senate,,Josh Turek,DEM,95,31,64
+Appanoose,Taylor/Chariton,U.S. Senate,,Josh Turek,DEM,154,62,92
+Appanoose,Union/Udell,U.S. Senate,,Josh Turek,DEM,106,36,70
+Appanoose,Vermillion/Douglas/Sharon/Bellair,U.S. Senate,,Josh Turek,DEM,228,139,89
+Appanoose,Walnut,U.S. Senate,,Josh Turek,DEM,122,47,75
+Appanoose,Washington/Wells,U.S. Senate,,Josh Turek,DEM,103,23,80
+Appanoose,Caldwell,U.S. Senate,,Thomas Laehn,LIB,7,0,7
+Appanoose,Centerville Ward 1,U.S. Senate,,Thomas Laehn,LIB,18,8,10
+Appanoose,Centerville Ward 2,U.S. Senate,,Thomas Laehn,LIB,22,6,16
+Appanoose,Centerville Ward 3,U.S. Senate,,Thomas Laehn,LIB,31,7,24
+Appanoose,Johns/Independence/Lincoln,U.S. Senate,,Thomas Laehn,LIB,9,0,9
+Appanoose,Pleasant/Franklin,U.S. Senate,,Thomas Laehn,LIB,14,5,9
+Appanoose,Taylor/Chariton,U.S. Senate,,Thomas Laehn,LIB,12,2,10
+Appanoose,Union/Udell,U.S. Senate,,Thomas Laehn,LIB,9,1,8
+Appanoose,Vermillion/Douglas/Sharon/Bellair,U.S. Senate,,Thomas Laehn,LIB,23,11,12
+Appanoose,Walnut,U.S. Senate,,Thomas Laehn,LIB,14,2,12
+Appanoose,Washington/Wells,U.S. Senate,,Thomas Laehn,LIB,19,1,18
+Appanoose,Caldwell,U.S. Senate,,Write-In,,0,0,0
+Appanoose,Centerville Ward 1,U.S. Senate,,Write-In,,0,0,0
+Appanoose,Centerville Ward 2,U.S. Senate,,Write-In,,1,0,1
+Appanoose,Centerville Ward 3,U.S. Senate,,Write-In,,2,2,0
+Appanoose,Johns/Independence/Lincoln,U.S. Senate,,Write-In,,0,0,0
+Appanoose,Pleasant/Franklin,U.S. Senate,,Write-In,,1,0,1
+Appanoose,Taylor/Chariton,U.S. Senate,,Write-In,,1,0,1
+Appanoose,Union/Udell,U.S. Senate,,Write-In,,0,0,0
+Appanoose,Vermillion/Douglas/Sharon/Bellair,U.S. Senate,,Write-In,,0,0,0
+Appanoose,Walnut,U.S. Senate,,Write-In,,0,0,0
+Appanoose,Washington/Wells,U.S. Senate,,Write-In,,0,0,0
+Appanoose,Union/Udell,Udell Township Clerk,,Richard Burger,,141,38,103
+Appanoose,Union/Udell,Udell Township Clerk,,Write-In,,0,0,0
+Appanoose,Union/Udell,Udell Township Trustee,,Jerry W. Hinote,,136,35,101
+Appanoose,Union/Udell,Udell Township Trustee,,Write-In,,4,2,2
+Appanoose,Union/Udell,Union Township Clerk,,Floyd Proctor,,110,17,93
+Appanoose,Union/Udell,Union Township Clerk,,Write-In,,2,2,0
+Appanoose,Union/Udell,Union Township Trustee,,Nathan Proctor,,109,18,91
+Appanoose,Union/Udell,Union Township Trustee,,Write-In,,2,2,0
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Vermillion Township Clerk,,Jay R. Phillips,,271,147,124
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Vermillion Township Clerk,,Write-In,,2,0,2
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Vermillion Township Trustee,,Bruce Frevert,,281,148,133
+Appanoose,Vermillion/Douglas/Sharon/Bellair,Vermillion Township Trustee,,Write-In,,2,1,1
+Appanoose,Walnut,Walnut Township Clerk,,Sara Tait,,151,51,100
+Appanoose,Walnut,Walnut Township Clerk,,Write-In,,3,0,3
+Appanoose,Walnut,Walnut Township Trustee,,Write-In,,14,5,9
+Appanoose,Washington/Wells,Washington Township Clerk,,Write-In,,11,2,9
+Appanoose,Washington/Wells,Washington Township Trustee,,Write-In,,13,4,9
+Appanoose,Washington/Wells,Washington Township Trustee To Fill a Vacancy,,Write-In,,12,3,9
+Appanoose,Washington/Wells,Wells Township Trustee,,Jerry Probasco,,66,5,61
+Appanoose,Washington/Wells,Wells Township Trustee,,Write-In,,5,0,5

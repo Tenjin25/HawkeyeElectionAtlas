@@ -1,0 +1,919 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Jefferson,Blackhawk-Polk-Packwood,Attorney General,,Brenna Bird,REP,255,57,198
+Jefferson,Buchanan,Attorney General,,Brenna Bird,REP,184,79,105
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Attorney General,,Brenna Bird,REP,577,247,330
+Jefferson,Des Moines-Liberty-Libertyville,Attorney General,,Brenna Bird,REP,324,60,264
+Jefferson,Fairfield 1st Ward,Attorney General,,Brenna Bird,REP,320,175,145
+Jefferson,Fairfield 2nd Ward,Attorney General,,Brenna Bird,REP,151,84,67
+Jefferson,Fairfield 3rd Ward,Attorney General,,Brenna Bird,REP,245,79,166
+Jefferson,Fairfield 4th Ward,Attorney General,,Brenna Bird,REP,204,125,79
+Jefferson,Fairfield 5th Ward,Attorney General,,Brenna Bird,REP,387,171,216
+Jefferson,Lockridge-City of Lockridge,Attorney General,,Brenna Bird,REP,181,27,154
+Jefferson,Locust Grove-Batavia,Attorney General,,Brenna Bird,REP,189,31,158
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Attorney General,,Brenna Bird,REP,187,31,156
+Jefferson,Blackhawk-Polk-Packwood,Attorney General,,Nate Willems,DEM,90,46,44
+Jefferson,Buchanan,Attorney General,,Nate Willems,DEM,110,72,38
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Attorney General,,Nate Willems,DEM,546,415,131
+Jefferson,Des Moines-Liberty-Libertyville,Attorney General,,Nate Willems,DEM,97,36,61
+Jefferson,Fairfield 1st Ward,Attorney General,,Nate Willems,DEM,582,410,172
+Jefferson,Fairfield 2nd Ward,Attorney General,,Nate Willems,DEM,691,546,145
+Jefferson,Fairfield 3rd Ward,Attorney General,,Nate Willems,DEM,303,178,125
+Jefferson,Fairfield 4th Ward,Attorney General,,Nate Willems,DEM,543,413,130
+Jefferson,Fairfield 5th Ward,Attorney General,,Nate Willems,DEM,412,258,154
+Jefferson,Lockridge-City of Lockridge,Attorney General,,Nate Willems,DEM,50,13,37
+Jefferson,Locust Grove-Batavia,Attorney General,,Nate Willems,DEM,85,19,66
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Attorney General,,Nate Willems,DEM,79,31,48
+Jefferson,Blackhawk-Polk-Packwood,Attorney General,,Write-In,,0,0,0
+Jefferson,Buchanan,Attorney General,,Write-In,,0,0,0
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Attorney General,,Write-In,,2,1,1
+Jefferson,Des Moines-Liberty-Libertyville,Attorney General,,Write-In,,1,0,1
+Jefferson,Fairfield 1st Ward,Attorney General,,Write-In,,1,0,1
+Jefferson,Fairfield 2nd Ward,Attorney General,,Write-In,,1,1,0
+Jefferson,Fairfield 3rd Ward,Attorney General,,Write-In,,0,0,0
+Jefferson,Fairfield 4th Ward,Attorney General,,Write-In,,2,1,1
+Jefferson,Fairfield 5th Ward,Attorney General,,Write-In,,1,0,1
+Jefferson,Lockridge-City of Lockridge,Attorney General,,Write-In,,0,0,0
+Jefferson,Locust Grove-Batavia,Attorney General,,Write-In,,1,0,1
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Attorney General,,Write-In,,0,0,0
+Jefferson,Blackhawk-Polk-Packwood,Auditor of State,,Chris Cournoyer,REP,243,57,186
+Jefferson,Buchanan,Auditor of State,,Chris Cournoyer,REP,189,81,108
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Auditor of State,,Chris Cournoyer,REP,563,242,321
+Jefferson,Des Moines-Liberty-Libertyville,Auditor of State,,Chris Cournoyer,REP,314,54,260
+Jefferson,Fairfield 1st Ward,Auditor of State,,Chris Cournoyer,REP,310,168,142
+Jefferson,Fairfield 2nd Ward,Auditor of State,,Chris Cournoyer,REP,150,82,68
+Jefferson,Fairfield 3rd Ward,Auditor of State,,Chris Cournoyer,REP,237,75,162
+Jefferson,Fairfield 4th Ward,Auditor of State,,Chris Cournoyer,REP,205,126,79
+Jefferson,Fairfield 5th Ward,Auditor of State,,Chris Cournoyer,REP,383,174,209
+Jefferson,Lockridge-City of Lockridge,Auditor of State,,Chris Cournoyer,REP,171,28,143
+Jefferson,Locust Grove-Batavia,Auditor of State,,Chris Cournoyer,REP,188,30,158
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Auditor of State,,Chris Cournoyer,REP,183,30,153
+Jefferson,Blackhawk-Polk-Packwood,Auditor of State,,Taylor Wettach,DEM,90,45,45
+Jefferson,Buchanan,Auditor of State,,Taylor Wettach,DEM,107,69,38
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Auditor of State,,Taylor Wettach,DEM,550,415,135
+Jefferson,Des Moines-Liberty-Libertyville,Auditor of State,,Taylor Wettach,DEM,103,40,63
+Jefferson,Fairfield 1st Ward,Auditor of State,,Taylor Wettach,DEM,583,412,171
+Jefferson,Fairfield 2nd Ward,Auditor of State,,Taylor Wettach,DEM,694,554,140
+Jefferson,Fairfield 3rd Ward,Auditor of State,,Taylor Wettach,DEM,309,185,124
+Jefferson,Fairfield 4th Ward,Auditor of State,,Taylor Wettach,DEM,537,404,133
+Jefferson,Fairfield 5th Ward,Auditor of State,,Taylor Wettach,DEM,409,256,153
+Jefferson,Lockridge-City of Lockridge,Auditor of State,,Taylor Wettach,DEM,60,12,48
+Jefferson,Locust Grove-Batavia,Auditor of State,,Taylor Wettach,DEM,84,18,66
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Auditor of State,,Taylor Wettach,DEM,82,32,50
+Jefferson,Blackhawk-Polk-Packwood,Auditor of State,,Write-In,,0,0,0
+Jefferson,Buchanan,Auditor of State,,Write-In,,0,0,0
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Auditor of State,,Write-In,,3,1,2
+Jefferson,Des Moines-Liberty-Libertyville,Auditor of State,,Write-In,,0,0,0
+Jefferson,Fairfield 1st Ward,Auditor of State,,Write-In,,0,0,0
+Jefferson,Fairfield 2nd Ward,Auditor of State,,Write-In,,0,0,0
+Jefferson,Fairfield 3rd Ward,Auditor of State,,Write-In,,0,0,0
+Jefferson,Fairfield 4th Ward,Auditor of State,,Write-In,,2,0,2
+Jefferson,Fairfield 5th Ward,Auditor of State,,Write-In,,2,1,1
+Jefferson,Lockridge-City of Lockridge,Auditor of State,,Write-In,,0,0,0
+Jefferson,Locust Grove-Batavia,Auditor of State,,Write-In,,2,1,1
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Auditor of State,,Write-In,,0,0,0
+Jefferson,Blackhawk-Polk-Packwood,Blackhawk Township Clerk,,Dennis Lock,,112,31,81
+Jefferson,Blackhawk-Polk-Packwood,Blackhawk Township Clerk,,Write-In,,0,0,0
+Jefferson,Blackhawk-Polk-Packwood,Blackhawk Township Trustee,,Write-In,,12,1,11
+Jefferson,Buchanan,Buchanan Township Clerk,,Joseph McLarney,,239,108,131
+Jefferson,Buchanan,Buchanan Township Clerk,,Write-In,,1,0,1
+Jefferson,Buchanan,Buchanan Township Trustee,,James T. Salts,,239,108,131
+Jefferson,Buchanan,Buchanan Township Trustee,,Write-In,,0,0,0
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Cedar Township Clerk,,Write-In,,16,9,7
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Cedar Township Trustee,,Drew Johnson,,229,119,110
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Cedar Township Trustee,,Write-In,,1,0,1
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Center Township Clerk,,James C. Flinspach,,420,237,183
+Jefferson,Fairfield 2nd Ward,Center Township Clerk,,James C. Flinspach,,3,3,0
+Jefferson,Fairfield 3rd Ward,Center Township Clerk,,James C. Flinspach,,0,0,0
+Jefferson,Fairfield 5th Ward,Center Township Clerk,,James C. Flinspach,,0,0,0
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Center Township Clerk,,Write-In,,4,2,2
+Jefferson,Fairfield 2nd Ward,Center Township Clerk,,Write-In,,0,0,0
+Jefferson,Fairfield 3rd Ward,Center Township Clerk,,Write-In,,0,0,0
+Jefferson,Fairfield 5th Ward,Center Township Clerk,,Write-In,,0,0,0
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Center Township Trustee,,Philip R. Gevock,,424,238,186
+Jefferson,Fairfield 2nd Ward,Center Township Trustee,,Philip R. Gevock,,3,3,0
+Jefferson,Fairfield 3rd Ward,Center Township Trustee,,Philip R. Gevock,,0,0,0
+Jefferson,Fairfield 5th Ward,Center Township Trustee,,Philip R. Gevock,,0,0,0
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Center Township Trustee,,Write-In,,2,0,2
+Jefferson,Fairfield 2nd Ward,Center Township Trustee,,Write-In,,0,0,0
+Jefferson,Fairfield 3rd Ward,Center Township Trustee,,Write-In,,0,0,0
+Jefferson,Fairfield 5th Ward,Center Township Trustee,,Write-In,,0,0,0
+Jefferson,Blackhawk-Polk-Packwood,Constitutional Amendment 1,,No,,107,41,66
+Jefferson,Buchanan,Constitutional Amendment 1,,No,,89,55,34
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Constitutional Amendment 1,,No,,482,314,168
+Jefferson,Des Moines-Liberty-Libertyville,Constitutional Amendment 1,,No,,144,33,111
+Jefferson,Fairfield 1st Ward,Constitutional Amendment 1,,No,,423,295,128
+Jefferson,Fairfield 2nd Ward,Constitutional Amendment 1,,No,,518,411,107
+Jefferson,Fairfield 3rd Ward,Constitutional Amendment 1,,No,,232,123,109
+Jefferson,Fairfield 4th Ward,Constitutional Amendment 1,,No,,388,313,75
+Jefferson,Fairfield 5th Ward,Constitutional Amendment 1,,No,,320,183,137
+Jefferson,Lockridge-City of Lockridge,Constitutional Amendment 1,,No,,75,19,56
+Jefferson,Locust Grove-Batavia,Constitutional Amendment 1,,No,,82,14,68
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Constitutional Amendment 1,,No,,94,20,74
+Jefferson,Blackhawk-Polk-Packwood,Constitutional Amendment 1,,Yes,,222,56,166
+Jefferson,Buchanan,Constitutional Amendment 1,,Yes,,193,84,109
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Constitutional Amendment 1,,Yes,,586,313,273
+Jefferson,Des Moines-Liberty-Libertyville,Constitutional Amendment 1,,Yes,,244,58,186
+Jefferson,Fairfield 1st Ward,Constitutional Amendment 1,,Yes,,412,251,161
+Jefferson,Fairfield 2nd Ward,Constitutional Amendment 1,,Yes,,286,187,99
+Jefferson,Fairfield 3rd Ward,Constitutional Amendment 1,,Yes,,295,126,169
+Jefferson,Fairfield 4th Ward,Constitutional Amendment 1,,Yes,,304,184,120
+Jefferson,Fairfield 5th Ward,Constitutional Amendment 1,,Yes,,470,237,233
+Jefferson,Lockridge-City of Lockridge,Constitutional Amendment 1,,Yes,,149,19,130
+Jefferson,Locust Grove-Batavia,Constitutional Amendment 1,,Yes,,173,31,142
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Constitutional Amendment 1,,Yes,,151,39,112
+Jefferson,Blackhawk-Polk-Packwood,County Agricultural Extension Council Member,,Christy Conner,,172,50,122
+Jefferson,Buchanan,County Agricultural Extension Council Member,,Christy Conner,,168,78,90
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Agricultural Extension Council Member,,Christy Conner,,640,349,291
+Jefferson,Des Moines-Liberty-Libertyville,County Agricultural Extension Council Member,,Christy Conner,,274,66,208
+Jefferson,Fairfield 1st Ward,County Agricultural Extension Council Member,,Christy Conner,,462,295,167
+Jefferson,Fairfield 2nd Ward,County Agricultural Extension Council Member,,Christy Conner,,361,258,103
+Jefferson,Fairfield 3rd Ward,County Agricultural Extension Council Member,,Christy Conner,,287,126,161
+Jefferson,Fairfield 4th Ward,County Agricultural Extension Council Member,,Christy Conner,,341,249,92
+Jefferson,Fairfield 5th Ward,County Agricultural Extension Council Member,,Christy Conner,,489,271,218
+Jefferson,Lockridge-City of Lockridge,County Agricultural Extension Council Member,,Christy Conner,,142,21,121
+Jefferson,Locust Grove-Batavia,County Agricultural Extension Council Member,,Christy Conner,,165,34,131
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Agricultural Extension Council Member,,Christy Conner,,155,33,122
+Jefferson,Blackhawk-Polk-Packwood,County Agricultural Extension Council Member,,Gregory Jansma,,181,41,140
+Jefferson,Buchanan,County Agricultural Extension Council Member,,Gregory Jansma,,156,71,85
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Agricultural Extension Council Member,,Gregory Jansma,,559,308,251
+Jefferson,Des Moines-Liberty-Libertyville,County Agricultural Extension Council Member,,Gregory Jansma,,222,55,167
+Jefferson,Fairfield 1st Ward,County Agricultural Extension Council Member,,Gregory Jansma,,421,276,145
+Jefferson,Fairfield 2nd Ward,County Agricultural Extension Council Member,,Gregory Jansma,,341,247,94
+Jefferson,Fairfield 3rd Ward,County Agricultural Extension Council Member,,Gregory Jansma,,253,114,139
+Jefferson,Fairfield 4th Ward,County Agricultural Extension Council Member,,Gregory Jansma,,306,220,86
+Jefferson,Fairfield 5th Ward,County Agricultural Extension Council Member,,Gregory Jansma,,437,238,199
+Jefferson,Lockridge-City of Lockridge,County Agricultural Extension Council Member,,Gregory Jansma,,125,17,108
+Jefferson,Locust Grove-Batavia,County Agricultural Extension Council Member,,Gregory Jansma,,145,30,115
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Agricultural Extension Council Member,,Gregory Jansma,,135,29,106
+Jefferson,Blackhawk-Polk-Packwood,County Agricultural Extension Council Member,,Mark Yule,,226,52,174
+Jefferson,Buchanan,County Agricultural Extension Council Member,,Mark Yule,,174,78,96
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Agricultural Extension Council Member,,Mark Yule,,605,331,274
+Jefferson,Des Moines-Liberty-Libertyville,County Agricultural Extension Council Member,,Mark Yule,,252,59,193
+Jefferson,Fairfield 1st Ward,County Agricultural Extension Council Member,,Mark Yule,,438,283,155
+Jefferson,Fairfield 2nd Ward,County Agricultural Extension Council Member,,Mark Yule,,341,243,98
+Jefferson,Fairfield 3rd Ward,County Agricultural Extension Council Member,,Mark Yule,,279,126,153
+Jefferson,Fairfield 4th Ward,County Agricultural Extension Council Member,,Mark Yule,,320,232,88
+Jefferson,Fairfield 5th Ward,County Agricultural Extension Council Member,,Mark Yule,,466,245,221
+Jefferson,Lockridge-City of Lockridge,County Agricultural Extension Council Member,,Mark Yule,,135,18,117
+Jefferson,Locust Grove-Batavia,County Agricultural Extension Council Member,,Mark Yule,,158,34,124
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Agricultural Extension Council Member,,Mark Yule,,157,32,125
+Jefferson,Blackhawk-Polk-Packwood,County Agricultural Extension Council Member,,Michelle Moothart,,205,51,154
+Jefferson,Buchanan,County Agricultural Extension Council Member,,Michelle Moothart,,175,82,93
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Agricultural Extension Council Member,,Michelle Moothart,,621,345,276
+Jefferson,Des Moines-Liberty-Libertyville,County Agricultural Extension Council Member,,Michelle Moothart,,259,62,197
+Jefferson,Fairfield 1st Ward,County Agricultural Extension Council Member,,Michelle Moothart,,445,291,154
+Jefferson,Fairfield 2nd Ward,County Agricultural Extension Council Member,,Michelle Moothart,,351,251,100
+Jefferson,Fairfield 3rd Ward,County Agricultural Extension Council Member,,Michelle Moothart,,275,125,150
+Jefferson,Fairfield 4th Ward,County Agricultural Extension Council Member,,Michelle Moothart,,317,233,84
+Jefferson,Fairfield 5th Ward,County Agricultural Extension Council Member,,Michelle Moothart,,468,261,207
+Jefferson,Lockridge-City of Lockridge,County Agricultural Extension Council Member,,Michelle Moothart,,145,20,125
+Jefferson,Locust Grove-Batavia,County Agricultural Extension Council Member,,Michelle Moothart,,155,32,123
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Agricultural Extension Council Member,,Michelle Moothart,,162,35,127
+Jefferson,Blackhawk-Polk-Packwood,County Agricultural Extension Council Member,,Susie Drish,,187,63,124
+Jefferson,Buchanan,County Agricultural Extension Council Member,,Susie Drish,,167,84,83
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Agricultural Extension Council Member,,Susie Drish,,655,402,253
+Jefferson,Des Moines-Liberty-Libertyville,County Agricultural Extension Council Member,,Susie Drish,,237,65,172
+Jefferson,Fairfield 1st Ward,County Agricultural Extension Council Member,,Susie Drish,,567,383,184
+Jefferson,Fairfield 2nd Ward,County Agricultural Extension Council Member,,Susie Drish,,527,405,122
+Jefferson,Fairfield 3rd Ward,County Agricultural Extension Council Member,,Susie Drish,,352,172,180
+Jefferson,Fairfield 4th Ward,County Agricultural Extension Council Member,,Susie Drish,,437,323,114
+Jefferson,Fairfield 5th Ward,County Agricultural Extension Council Member,,Susie Drish,,508,289,219
+Jefferson,Lockridge-City of Lockridge,County Agricultural Extension Council Member,,Susie Drish,,150,23,127
+Jefferson,Locust Grove-Batavia,County Agricultural Extension Council Member,,Susie Drish,,159,35,124
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Agricultural Extension Council Member,,Susie Drish,,154,40,114
+Jefferson,Blackhawk-Polk-Packwood,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Jefferson,Buchanan,County Agricultural Extension Council Member,,Write-In,,1,1,0
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Agricultural Extension Council Member,,Write-In,,14,4,10
+Jefferson,Des Moines-Liberty-Libertyville,County Agricultural Extension Council Member,,Write-In,,4,1,3
+Jefferson,Fairfield 1st Ward,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Jefferson,Fairfield 2nd Ward,County Agricultural Extension Council Member,,Write-In,,5,5,0
+Jefferson,Fairfield 3rd Ward,County Agricultural Extension Council Member,,Write-In,,4,2,2
+Jefferson,Fairfield 4th Ward,County Agricultural Extension Council Member,,Write-In,,4,1,3
+Jefferson,Fairfield 5th Ward,County Agricultural Extension Council Member,,Write-In,,8,2,6
+Jefferson,Lockridge-City of Lockridge,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Jefferson,Locust Grove-Batavia,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Jefferson,Blackhawk-Polk-Packwood,County Agricultural Extension Council To Fill a Vacancy,,Brandon Taglauer,,229,60,169
+Jefferson,Buchanan,County Agricultural Extension Council To Fill a Vacancy,,Brandon Taglauer,,208,90,118
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Agricultural Extension Council To Fill a Vacancy,,Brandon Taglauer,,753,421,332
+Jefferson,Des Moines-Liberty-Libertyville,County Agricultural Extension Council To Fill a Vacancy,,Brandon Taglauer,,314,71,243
+Jefferson,Fairfield 1st Ward,County Agricultural Extension Council To Fill a Vacancy,,Brandon Taglauer,,566,366,200
+Jefferson,Fairfield 2nd Ward,County Agricultural Extension Council To Fill a Vacancy,,Brandon Taglauer,,452,320,132
+Jefferson,Fairfield 3rd Ward,County Agricultural Extension Council To Fill a Vacancy,,Brandon Taglauer,,379,169,210
+Jefferson,Fairfield 4th Ward,County Agricultural Extension Council To Fill a Vacancy,,Brandon Taglauer,,425,304,121
+Jefferson,Fairfield 5th Ward,County Agricultural Extension Council To Fill a Vacancy,,Brandon Taglauer,,608,320,288
+Jefferson,Lockridge-City of Lockridge,County Agricultural Extension Council To Fill a Vacancy,,Brandon Taglauer,,176,24,152
+Jefferson,Locust Grove-Batavia,County Agricultural Extension Council To Fill a Vacancy,,Brandon Taglauer,,203,41,162
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Agricultural Extension Council To Fill a Vacancy,,Brandon Taglauer,,200,50,150
+Jefferson,Blackhawk-Polk-Packwood,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,3,0,3
+Jefferson,Buchanan,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,4,2,2
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,3,1,2
+Jefferson,Des Moines-Liberty-Libertyville,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,6,2,4
+Jefferson,Fairfield 1st Ward,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,2,0,2
+Jefferson,Fairfield 2nd Ward,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,3,2,1
+Jefferson,Fairfield 3rd Ward,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,4,4,0
+Jefferson,Fairfield 4th Ward,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,4,2,2
+Jefferson,Fairfield 5th Ward,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,6,4,2
+Jefferson,Lockridge-City of Lockridge,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,7,2,5
+Jefferson,Locust Grove-Batavia,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,2,0,2
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,4,0,4
+Jefferson,Blackhawk-Polk-Packwood,County Attorney,,Chauncey Moulding,DEM,137,58,79
+Jefferson,Buchanan,County Attorney,,Chauncey Moulding,DEM,126,73,53
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Attorney,,Chauncey Moulding,DEM,644,438,206
+Jefferson,Des Moines-Liberty-Libertyville,County Attorney,,Chauncey Moulding,DEM,178,53,125
+Jefferson,Fairfield 1st Ward,County Attorney,,Chauncey Moulding,DEM,624,422,202
+Jefferson,Fairfield 2nd Ward,County Attorney,,Chauncey Moulding,DEM,690,542,148
+Jefferson,Fairfield 3rd Ward,County Attorney,,Chauncey Moulding,DEM,357,196,161
+Jefferson,Fairfield 4th Ward,County Attorney,,Chauncey Moulding,DEM,560,414,146
+Jefferson,Fairfield 5th Ward,County Attorney,,Chauncey Moulding,DEM,494,286,208
+Jefferson,Lockridge-City of Lockridge,County Attorney,,Chauncey Moulding,DEM,105,20,85
+Jefferson,Locust Grove-Batavia,County Attorney,,Chauncey Moulding,DEM,130,27,103
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Attorney,,Chauncey Moulding,DEM,118,39,79
+Jefferson,Blackhawk-Polk-Packwood,County Attorney,,Write-In,,112,15,97
+Jefferson,Buchanan,County Attorney,,Write-In,,106,42,64
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Attorney,,Write-In,,246,101,145
+Jefferson,Des Moines-Liberty-Libertyville,County Attorney,,Write-In,,116,11,105
+Jefferson,Fairfield 1st Ward,County Attorney,,Write-In,,123,64,59
+Jefferson,Fairfield 2nd Ward,County Attorney,,Write-In,,49,20,29
+Jefferson,Fairfield 3rd Ward,County Attorney,,Write-In,,105,32,73
+Jefferson,Fairfield 4th Ward,County Attorney,,Write-In,,72,49,23
+Jefferson,Fairfield 5th Ward,County Attorney,,Write-In,,187,82,105
+Jefferson,Lockridge-City of Lockridge,County Attorney,,Write-In,,61,7,54
+Jefferson,Locust Grove-Batavia,County Attorney,,Write-In,,90,16,74
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Attorney,,Write-In,,65,12,53
+Jefferson,Blackhawk-Polk-Packwood,County Board of Supervisors,,Jerald Jerry Leonard,,78,33,45
+Jefferson,Buchanan,County Board of Supervisors,,Jerald Jerry Leonard,,96,61,35
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Board of Supervisors,,Jerald Jerry Leonard,,455,331,124
+Jefferson,Des Moines-Liberty-Libertyville,County Board of Supervisors,,Jerald Jerry Leonard,,94,26,68
+Jefferson,Fairfield 1st Ward,County Board of Supervisors,,Jerald Jerry Leonard,,441,300,141
+Jefferson,Fairfield 2nd Ward,County Board of Supervisors,,Jerald Jerry Leonard,,540,421,119
+Jefferson,Fairfield 3rd Ward,County Board of Supervisors,,Jerald Jerry Leonard,,234,131,103
+Jefferson,Fairfield 4th Ward,County Board of Supervisors,,Jerald Jerry Leonard,,423,321,102
+Jefferson,Fairfield 5th Ward,County Board of Supervisors,,Jerald Jerry Leonard,,323,185,138
+Jefferson,Lockridge-City of Lockridge,County Board of Supervisors,,Jerald Jerry Leonard,,43,7,36
+Jefferson,Locust Grove-Batavia,County Board of Supervisors,,Jerald Jerry Leonard,,66,13,53
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Board of Supervisors,,Jerald Jerry Leonard,,65,26,39
+Jefferson,Blackhawk-Polk-Packwood,County Board of Supervisors,,Lee Dimmitt,REP,243,52,191
+Jefferson,Buchanan,County Board of Supervisors,,Lee Dimmitt,REP,191,78,113
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Board of Supervisors,,Lee Dimmitt,REP,624,295,329
+Jefferson,Des Moines-Liberty-Libertyville,County Board of Supervisors,,Lee Dimmitt,REP,317,64,253
+Jefferson,Fairfield 1st Ward,County Board of Supervisors,,Lee Dimmitt,REP,403,246,157
+Jefferson,Fairfield 2nd Ward,County Board of Supervisors,,Lee Dimmitt,REP,216,135,81
+Jefferson,Fairfield 3rd Ward,County Board of Supervisors,,Lee Dimmitt,REP,296,119,177
+Jefferson,Fairfield 4th Ward,County Board of Supervisors,,Lee Dimmitt,REP,243,150,93
+Jefferson,Fairfield 5th Ward,County Board of Supervisors,,Lee Dimmitt,REP,462,240,222
+Jefferson,Lockridge-City of Lockridge,County Board of Supervisors,,Lee Dimmitt,REP,179,28,151
+Jefferson,Locust Grove-Batavia,County Board of Supervisors,,Lee Dimmitt,REP,192,32,160
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Board of Supervisors,,Lee Dimmitt,REP,194,30,164
+Jefferson,Blackhawk-Polk-Packwood,County Board of Supervisors,,Write-In,,3,0,3
+Jefferson,Buchanan,County Board of Supervisors,,Write-In,,1,0,1
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Board of Supervisors,,Write-In,,6,4,2
+Jefferson,Des Moines-Liberty-Libertyville,County Board of Supervisors,,Write-In,,5,1,4
+Jefferson,Fairfield 1st Ward,County Board of Supervisors,,Write-In,,5,2,3
+Jefferson,Fairfield 2nd Ward,County Board of Supervisors,,Write-In,,2,2,0
+Jefferson,Fairfield 3rd Ward,County Board of Supervisors,,Write-In,,4,2,2
+Jefferson,Fairfield 4th Ward,County Board of Supervisors,,Write-In,,7,3,4
+Jefferson,Fairfield 5th Ward,County Board of Supervisors,,Write-In,,4,1,3
+Jefferson,Lockridge-City of Lockridge,County Board of Supervisors,,Write-In,,0,0,0
+Jefferson,Locust Grove-Batavia,County Board of Supervisors,,Write-In,,2,1,1
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Board of Supervisors,,Write-In,,0,0,0
+Jefferson,Blackhawk-Polk-Packwood,County Hospital Trustee,,Alex Roth,,188,54,134
+Jefferson,Buchanan,County Hospital Trustee,,Alex Roth,,187,87,100
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Hospital Trustee,,Alex Roth,,699,387,312
+Jefferson,Des Moines-Liberty-Libertyville,County Hospital Trustee,,Alex Roth,,259,61,198
+Jefferson,Fairfield 1st Ward,County Hospital Trustee,,Alex Roth,,532,338,194
+Jefferson,Fairfield 2nd Ward,County Hospital Trustee,,Alex Roth,,441,321,120
+Jefferson,Fairfield 3rd Ward,County Hospital Trustee,,Alex Roth,,316,146,170
+Jefferson,Fairfield 4th Ward,County Hospital Trustee,,Alex Roth,,374,271,103
+Jefferson,Fairfield 5th Ward,County Hospital Trustee,,Alex Roth,,534,292,242
+Jefferson,Lockridge-City of Lockridge,County Hospital Trustee,,Alex Roth,,146,22,124
+Jefferson,Locust Grove-Batavia,County Hospital Trustee,,Alex Roth,,159,34,125
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Hospital Trustee,,Alex Roth,,172,39,133
+Jefferson,Blackhawk-Polk-Packwood,County Hospital Trustee,,Angela Atwood,,250,63,187
+Jefferson,Buchanan,County Hospital Trustee,,Angela Atwood,,201,95,106
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Hospital Trustee,,Angela Atwood,,748,422,326
+Jefferson,Des Moines-Liberty-Libertyville,County Hospital Trustee,,Angela Atwood,,285,68,217
+Jefferson,Fairfield 1st Ward,County Hospital Trustee,,Angela Atwood,,556,361,195
+Jefferson,Fairfield 2nd Ward,County Hospital Trustee,,Angela Atwood,,444,319,125
+Jefferson,Fairfield 3rd Ward,County Hospital Trustee,,Angela Atwood,,339,153,186
+Jefferson,Fairfield 4th Ward,County Hospital Trustee,,Angela Atwood,,407,297,110
+Jefferson,Fairfield 5th Ward,County Hospital Trustee,,Angela Atwood,,546,301,245
+Jefferson,Lockridge-City of Lockridge,County Hospital Trustee,,Angela Atwood,,161,24,137
+Jefferson,Locust Grove-Batavia,County Hospital Trustee,,Angela Atwood,,173,39,134
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Hospital Trustee,,Angela Atwood,,182,47,135
+Jefferson,Blackhawk-Polk-Packwood,County Hospital Trustee,,Greg Hanshaw,,206,57,149
+Jefferson,Buchanan,County Hospital Trustee,,Greg Hanshaw,,198,87,111
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Hospital Trustee,,Greg Hanshaw,,705,398,307
+Jefferson,Des Moines-Liberty-Libertyville,County Hospital Trustee,,Greg Hanshaw,,283,69,214
+Jefferson,Fairfield 1st Ward,County Hospital Trustee,,Greg Hanshaw,,564,375,189
+Jefferson,Fairfield 2nd Ward,County Hospital Trustee,,Greg Hanshaw,,418,307,111
+Jefferson,Fairfield 3rd Ward,County Hospital Trustee,,Greg Hanshaw,,343,161,182
+Jefferson,Fairfield 4th Ward,County Hospital Trustee,,Greg Hanshaw,,390,289,101
+Jefferson,Fairfield 5th Ward,County Hospital Trustee,,Greg Hanshaw,,537,298,239
+Jefferson,Lockridge-City of Lockridge,County Hospital Trustee,,Greg Hanshaw,,159,26,133
+Jefferson,Locust Grove-Batavia,County Hospital Trustee,,Greg Hanshaw,,174,35,139
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Hospital Trustee,,Greg Hanshaw,,173,38,135
+Jefferson,Blackhawk-Polk-Packwood,County Hospital Trustee,,Mike Stiemsma,,161,46,115
+Jefferson,Buchanan,County Hospital Trustee,,Mike Stiemsma,,158,72,86
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Hospital Trustee,,Mike Stiemsma,,611,349,262
+Jefferson,Des Moines-Liberty-Libertyville,County Hospital Trustee,,Mike Stiemsma,,231,56,175
+Jefferson,Fairfield 1st Ward,County Hospital Trustee,,Mike Stiemsma,,494,320,174
+Jefferson,Fairfield 2nd Ward,County Hospital Trustee,,Mike Stiemsma,,389,290,99
+Jefferson,Fairfield 3rd Ward,County Hospital Trustee,,Mike Stiemsma,,280,133,147
+Jefferson,Fairfield 4th Ward,County Hospital Trustee,,Mike Stiemsma,,332,246,86
+Jefferson,Fairfield 5th Ward,County Hospital Trustee,,Mike Stiemsma,,442,246,196
+Jefferson,Lockridge-City of Lockridge,County Hospital Trustee,,Mike Stiemsma,,131,20,111
+Jefferson,Locust Grove-Batavia,County Hospital Trustee,,Mike Stiemsma,,144,31,113
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Hospital Trustee,,Mike Stiemsma,,142,37,105
+Jefferson,Blackhawk-Polk-Packwood,County Hospital Trustee,,Write-In,,2,1,1
+Jefferson,Buchanan,County Hospital Trustee,,Write-In,,2,2,0
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Hospital Trustee,,Write-In,,6,3,3
+Jefferson,Des Moines-Liberty-Libertyville,County Hospital Trustee,,Write-In,,7,5,2
+Jefferson,Fairfield 1st Ward,County Hospital Trustee,,Write-In,,0,0,0
+Jefferson,Fairfield 2nd Ward,County Hospital Trustee,,Write-In,,4,4,0
+Jefferson,Fairfield 3rd Ward,County Hospital Trustee,,Write-In,,6,5,1
+Jefferson,Fairfield 4th Ward,County Hospital Trustee,,Write-In,,3,2,1
+Jefferson,Fairfield 5th Ward,County Hospital Trustee,,Write-In,,9,3,6
+Jefferson,Lockridge-City of Lockridge,County Hospital Trustee,,Write-In,,0,0,0
+Jefferson,Locust Grove-Batavia,County Hospital Trustee,,Write-In,,5,0,5
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Hospital Trustee,,Write-In,,0,0,0
+Jefferson,Blackhawk-Polk-Packwood,County Recorder,,Kelly L. Spees,DEM,262,80,182
+Jefferson,Buchanan,County Recorder,,Kelly L. Spees,DEM,240,121,119
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Recorder,,Kelly L. Spees,DEM,943,571,372
+Jefferson,Des Moines-Liberty-Libertyville,County Recorder,,Kelly L. Spees,DEM,334,77,257
+Jefferson,Fairfield 1st Ward,County Recorder,,Kelly L. Spees,DEM,769,512,257
+Jefferson,Fairfield 2nd Ward,County Recorder,,Kelly L. Spees,DEM,728,559,169
+Jefferson,Fairfield 3rd Ward,County Recorder,,Kelly L. Spees,DEM,463,227,236
+Jefferson,Fairfield 4th Ward,County Recorder,,Kelly L. Spees,DEM,636,463,173
+Jefferson,Fairfield 5th Ward,County Recorder,,Kelly L. Spees,DEM,708,390,318
+Jefferson,Lockridge-City of Lockridge,County Recorder,,Kelly L. Spees,DEM,176,28,148
+Jefferson,Locust Grove-Batavia,County Recorder,,Kelly L. Spees,DEM,220,42,178
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Recorder,,Kelly L. Spees,DEM,200,50,150
+Jefferson,Blackhawk-Polk-Packwood,County Recorder,,Write-In,,8,1,7
+Jefferson,Buchanan,County Recorder,,Write-In,,2,1,1
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Recorder,,Write-In,,12,4,8
+Jefferson,Des Moines-Liberty-Libertyville,County Recorder,,Write-In,,4,0,4
+Jefferson,Fairfield 1st Ward,County Recorder,,Write-In,,9,3,6
+Jefferson,Fairfield 2nd Ward,County Recorder,,Write-In,,12,8,4
+Jefferson,Fairfield 3rd Ward,County Recorder,,Write-In,,13,4,9
+Jefferson,Fairfield 4th Ward,County Recorder,,Write-In,,6,4,2
+Jefferson,Fairfield 5th Ward,County Recorder,,Write-In,,6,3,3
+Jefferson,Lockridge-City of Lockridge,County Recorder,,Write-In,,5,1,4
+Jefferson,Locust Grove-Batavia,County Recorder,,Write-In,,5,1,4
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Recorder,,Write-In,,5,2,3
+Jefferson,Blackhawk-Polk-Packwood,County Treasurer,,Mark Myers,DEM,275,83,192
+Jefferson,Buchanan,County Treasurer,,Mark Myers,DEM,249,126,123
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Treasurer,,Mark Myers,DEM,953,570,383
+Jefferson,Des Moines-Liberty-Libertyville,County Treasurer,,Mark Myers,DEM,344,78,266
+Jefferson,Fairfield 1st Ward,County Treasurer,,Mark Myers,DEM,802,533,269
+Jefferson,Fairfield 2nd Ward,County Treasurer,,Mark Myers,DEM,737,563,174
+Jefferson,Fairfield 3rd Ward,County Treasurer,,Mark Myers,DEM,472,235,237
+Jefferson,Fairfield 4th Ward,County Treasurer,,Mark Myers,DEM,638,467,171
+Jefferson,Fairfield 5th Ward,County Treasurer,,Mark Myers,DEM,713,391,322
+Jefferson,Lockridge-City of Lockridge,County Treasurer,,Mark Myers,DEM,180,29,151
+Jefferson,Locust Grove-Batavia,County Treasurer,,Mark Myers,DEM,223,43,180
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Treasurer,,Mark Myers,DEM,211,51,160
+Jefferson,Blackhawk-Polk-Packwood,County Treasurer,,Write-In,,6,1,5
+Jefferson,Buchanan,County Treasurer,,Write-In,,2,1,1
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,County Treasurer,,Write-In,,17,9,8
+Jefferson,Des Moines-Liberty-Libertyville,County Treasurer,,Write-In,,7,0,7
+Jefferson,Fairfield 1st Ward,County Treasurer,,Write-In,,9,5,4
+Jefferson,Fairfield 2nd Ward,County Treasurer,,Write-In,,9,5,4
+Jefferson,Fairfield 3rd Ward,County Treasurer,,Write-In,,13,4,9
+Jefferson,Fairfield 4th Ward,County Treasurer,,Write-In,,9,7,2
+Jefferson,Fairfield 5th Ward,County Treasurer,,Write-In,,11,4,7
+Jefferson,Lockridge-City of Lockridge,County Treasurer,,Write-In,,3,1,2
+Jefferson,Locust Grove-Batavia,County Treasurer,,Write-In,,9,2,7
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,County Treasurer,,Write-In,,7,3,4
+Jefferson,Blackhawk-Polk-Packwood,Court of Appeals Judge - John M. Sandy,,No,,62,16,46
+Jefferson,Buchanan,Court of Appeals Judge - John M. Sandy,,No,,56,29,27
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Court of Appeals Judge - John M. Sandy,,No,,182,90,92
+Jefferson,Des Moines-Liberty-Libertyville,Court of Appeals Judge - John M. Sandy,,No,,89,23,66
+Jefferson,Fairfield 1st Ward,Court of Appeals Judge - John M. Sandy,,No,,101,55,46
+Jefferson,Fairfield 2nd Ward,Court of Appeals Judge - John M. Sandy,,No,,96,57,39
+Jefferson,Fairfield 3rd Ward,Court of Appeals Judge - John M. Sandy,,No,,96,36,60
+Jefferson,Fairfield 4th Ward,Court of Appeals Judge - John M. Sandy,,No,,102,63,39
+Jefferson,Fairfield 5th Ward,Court of Appeals Judge - John M. Sandy,,No,,127,81,46
+Jefferson,Lockridge-City of Lockridge,Court of Appeals Judge - John M. Sandy,,No,,43,5,38
+Jefferson,Locust Grove-Batavia,Court of Appeals Judge - John M. Sandy,,No,,75,14,61
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Court of Appeals Judge - John M. Sandy,,No,,71,14,57
+Jefferson,Blackhawk-Polk-Packwood,Court of Appeals Judge - John M. Sandy,,Yes,,166,51,115
+Jefferson,Buchanan,Court of Appeals Judge - John M. Sandy,,Yes,,167,76,91
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Court of Appeals Judge - John M. Sandy,,Yes,,643,391,252
+Jefferson,Des Moines-Liberty-Libertyville,Court of Appeals Judge - John M. Sandy,,Yes,,215,52,163
+Jefferson,Fairfield 1st Ward,Court of Appeals Judge - John M. Sandy,,Yes,,547,363,184
+Jefferson,Fairfield 2nd Ward,Court of Appeals Judge - John M. Sandy,,Yes,,508,400,108
+Jefferson,Fairfield 3rd Ward,Court of Appeals Judge - John M. Sandy,,Yes,,330,162,168
+Jefferson,Fairfield 4th Ward,Court of Appeals Judge - John M. Sandy,,Yes,,417,318,99
+Jefferson,Fairfield 5th Ward,Court of Appeals Judge - John M. Sandy,,Yes,,502,266,236
+Jefferson,Lockridge-City of Lockridge,Court of Appeals Judge - John M. Sandy,,Yes,,140,24,116
+Jefferson,Locust Grove-Batavia,Court of Appeals Judge - John M. Sandy,,Yes,,139,28,111
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Court of Appeals Judge - John M. Sandy,,Yes,,124,31,93
+Jefferson,Blackhawk-Polk-Packwood,Court of Appeals Judge - Julie A. Schumacher,,No,,61,14,47
+Jefferson,Buchanan,Court of Appeals Judge - Julie A. Schumacher,,No,,57,30,27
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Court of Appeals Judge - Julie A. Schumacher,,No,,182,88,94
+Jefferson,Des Moines-Liberty-Libertyville,Court of Appeals Judge - Julie A. Schumacher,,No,,86,24,62
+Jefferson,Fairfield 1st Ward,Court of Appeals Judge - Julie A. Schumacher,,No,,86,44,42
+Jefferson,Fairfield 2nd Ward,Court of Appeals Judge - Julie A. Schumacher,,No,,85,47,38
+Jefferson,Fairfield 3rd Ward,Court of Appeals Judge - Julie A. Schumacher,,No,,86,35,51
+Jefferson,Fairfield 4th Ward,Court of Appeals Judge - Julie A. Schumacher,,No,,87,51,36
+Jefferson,Fairfield 5th Ward,Court of Appeals Judge - Julie A. Schumacher,,No,,123,76,47
+Jefferson,Lockridge-City of Lockridge,Court of Appeals Judge - Julie A. Schumacher,,No,,42,6,36
+Jefferson,Locust Grove-Batavia,Court of Appeals Judge - Julie A. Schumacher,,No,,67,14,53
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Court of Appeals Judge - Julie A. Schumacher,,No,,68,13,55
+Jefferson,Blackhawk-Polk-Packwood,Court of Appeals Judge - Julie A. Schumacher,,Yes,,163,51,112
+Jefferson,Buchanan,Court of Appeals Judge - Julie A. Schumacher,,Yes,,168,76,92
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Court of Appeals Judge - Julie A. Schumacher,,Yes,,638,394,244
+Jefferson,Des Moines-Liberty-Libertyville,Court of Appeals Judge - Julie A. Schumacher,,Yes,,214,51,163
+Jefferson,Fairfield 1st Ward,Court of Appeals Judge - Julie A. Schumacher,,Yes,,558,372,186
+Jefferson,Fairfield 2nd Ward,Court of Appeals Judge - Julie A. Schumacher,,Yes,,522,412,110
+Jefferson,Fairfield 3rd Ward,Court of Appeals Judge - Julie A. Schumacher,,Yes,,335,161,174
+Jefferson,Fairfield 4th Ward,Court of Appeals Judge - Julie A. Schumacher,,Yes,,437,334,103
+Jefferson,Fairfield 5th Ward,Court of Appeals Judge - Julie A. Schumacher,,Yes,,500,267,233
+Jefferson,Lockridge-City of Lockridge,Court of Appeals Judge - Julie A. Schumacher,,Yes,,136,21,115
+Jefferson,Locust Grove-Batavia,Court of Appeals Judge - Julie A. Schumacher,,Yes,,143,28,115
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Court of Appeals Judge - Julie A. Schumacher,,Yes,,124,32,92
+Jefferson,Blackhawk-Polk-Packwood,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,68,17,51
+Jefferson,Buchanan,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,60,31,29
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,185,89,96
+Jefferson,Des Moines-Liberty-Libertyville,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,92,22,70
+Jefferson,Fairfield 1st Ward,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,101,52,49
+Jefferson,Fairfield 2nd Ward,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,85,45,40
+Jefferson,Fairfield 3rd Ward,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,88,37,51
+Jefferson,Fairfield 4th Ward,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,94,58,36
+Jefferson,Fairfield 5th Ward,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,122,73,49
+Jefferson,Lockridge-City of Lockridge,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,46,5,41
+Jefferson,Locust Grove-Batavia,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,76,14,62
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,70,14,56
+Jefferson,Blackhawk-Polk-Packwood,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,155,49,106
+Jefferson,Buchanan,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,166,75,91
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,634,394,240
+Jefferson,Des Moines-Liberty-Libertyville,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,205,52,153
+Jefferson,Fairfield 1st Ward,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,539,361,178
+Jefferson,Fairfield 2nd Ward,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,523,416,107
+Jefferson,Fairfield 3rd Ward,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,335,158,177
+Jefferson,Fairfield 4th Ward,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,423,322,101
+Jefferson,Fairfield 5th Ward,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,503,275,228
+Jefferson,Lockridge-City of Lockridge,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,132,22,110
+Jefferson,Locust Grove-Batavia,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,134,28,106
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,121,31,90
+Jefferson,Des Moines-Liberty-Libertyville,Des Moines Township Clerk,,Ben Godwin,,139,26,113
+Jefferson,Des Moines-Liberty-Libertyville,Des Moines Township Clerk,,Write-In,,0,0,0
+Jefferson,Des Moines-Liberty-Libertyville,Des Moines Township Trustee,,R. Dean Adam,,132,26,106
+Jefferson,Des Moines-Liberty-Libertyville,Des Moines Township Trustee,,Write-In,,1,0,1
+Jefferson,Blackhawk-Polk-Packwood,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,64,17,47
+Jefferson,Buchanan,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,48,23,25
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,175,85,90
+Jefferson,Des Moines-Liberty-Libertyville,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,85,20,65
+Jefferson,Fairfield 1st Ward,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,88,46,42
+Jefferson,Fairfield 2nd Ward,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,82,44,38
+Jefferson,Fairfield 3rd Ward,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,74,27,47
+Jefferson,Fairfield 4th Ward,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,78,45,33
+Jefferson,Fairfield 5th Ward,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,120,76,44
+Jefferson,Lockridge-City of Lockridge,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,40,3,37
+Jefferson,Locust Grove-Batavia,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,71,14,57
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,67,14,53
+Jefferson,Blackhawk-Polk-Packwood,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,158,50,108
+Jefferson,Buchanan,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,174,83,91
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,638,392,246
+Jefferson,Des Moines-Liberty-Libertyville,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,216,54,162
+Jefferson,Fairfield 1st Ward,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,554,371,183
+Jefferson,Fairfield 2nd Ward,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,526,415,111
+Jefferson,Fairfield 3rd Ward,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,346,169,177
+Jefferson,Fairfield 4th Ward,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,438,333,105
+Jefferson,Fairfield 5th Ward,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,508,269,239
+Jefferson,Lockridge-City of Lockridge,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,137,23,114
+Jefferson,Locust Grove-Batavia,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,136,27,109
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,125,31,94
+Jefferson,Blackhawk-Polk-Packwood,District 8A Associate Judge - Susan Cole,,No,,60,14,46
+Jefferson,Buchanan,District 8A Associate Judge - Susan Cole,,No,,52,27,25
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,District 8A Associate Judge - Susan Cole,,No,,168,79,89
+Jefferson,Des Moines-Liberty-Libertyville,District 8A Associate Judge - Susan Cole,,No,,82,19,63
+Jefferson,Fairfield 1st Ward,District 8A Associate Judge - Susan Cole,,No,,85,45,40
+Jefferson,Fairfield 2nd Ward,District 8A Associate Judge - Susan Cole,,No,,79,43,36
+Jefferson,Fairfield 3rd Ward,District 8A Associate Judge - Susan Cole,,No,,81,31,50
+Jefferson,Fairfield 4th Ward,District 8A Associate Judge - Susan Cole,,No,,86,50,36
+Jefferson,Fairfield 5th Ward,District 8A Associate Judge - Susan Cole,,No,,117,71,46
+Jefferson,Lockridge-City of Lockridge,District 8A Associate Judge - Susan Cole,,No,,44,7,37
+Jefferson,Locust Grove-Batavia,District 8A Associate Judge - Susan Cole,,No,,66,12,54
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,District 8A Associate Judge - Susan Cole,,No,,71,14,57
+Jefferson,Blackhawk-Polk-Packwood,District 8A Associate Judge - Susan Cole,,Yes,,161,52,109
+Jefferson,Buchanan,District 8A Associate Judge - Susan Cole,,Yes,,165,72,93
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,District 8A Associate Judge - Susan Cole,,Yes,,642,398,244
+Jefferson,Des Moines-Liberty-Libertyville,District 8A Associate Judge - Susan Cole,,Yes,,219,54,165
+Jefferson,Fairfield 1st Ward,District 8A Associate Judge - Susan Cole,,Yes,,552,368,184
+Jefferson,Fairfield 2nd Ward,District 8A Associate Judge - Susan Cole,,Yes,,519,410,109
+Jefferson,Fairfield 3rd Ward,District 8A Associate Judge - Susan Cole,,Yes,,340,164,176
+Jefferson,Fairfield 4th Ward,District 8A Associate Judge - Susan Cole,,Yes,,425,324,101
+Jefferson,Fairfield 5th Ward,District 8A Associate Judge - Susan Cole,,Yes,,500,269,231
+Jefferson,Lockridge-City of Lockridge,District 8A Associate Judge - Susan Cole,,Yes,,130,19,111
+Jefferson,Locust Grove-Batavia,District 8A Associate Judge - Susan Cole,,Yes,,141,28,113
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,District 8A Associate Judge - Susan Cole,,Yes,,120,31,89
+Jefferson,Blackhawk-Polk-Packwood,District 8A Judge - Amber L. Thompson,,No,,61,15,46
+Jefferson,Buchanan,District 8A Judge - Amber L. Thompson,,No,,51,27,24
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,District 8A Judge - Amber L. Thompson,,No,,176,85,91
+Jefferson,Des Moines-Liberty-Libertyville,District 8A Judge - Amber L. Thompson,,No,,81,22,59
+Jefferson,Fairfield 1st Ward,District 8A Judge - Amber L. Thompson,,No,,90,45,45
+Jefferson,Fairfield 2nd Ward,District 8A Judge - Amber L. Thompson,,No,,81,44,37
+Jefferson,Fairfield 3rd Ward,District 8A Judge - Amber L. Thompson,,No,,79,32,47
+Jefferson,Fairfield 4th Ward,District 8A Judge - Amber L. Thompson,,No,,85,50,35
+Jefferson,Fairfield 5th Ward,District 8A Judge - Amber L. Thompson,,No,,113,69,44
+Jefferson,Lockridge-City of Lockridge,District 8A Judge - Amber L. Thompson,,No,,42,5,37
+Jefferson,Locust Grove-Batavia,District 8A Judge - Amber L. Thompson,,No,,71,13,58
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,District 8A Judge - Amber L. Thompson,,No,,69,15,54
+Jefferson,Blackhawk-Polk-Packwood,District 8A Judge - Amber L. Thompson,,Yes,,163,50,113
+Jefferson,Buchanan,District 8A Judge - Amber L. Thompson,,Yes,,172,78,94
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,District 8A Judge - Amber L. Thompson,,Yes,,644,394,250
+Jefferson,Des Moines-Liberty-Libertyville,District 8A Judge - Amber L. Thompson,,Yes,,219,51,168
+Jefferson,Fairfield 1st Ward,District 8A Judge - Amber L. Thompson,,Yes,,562,378,184
+Jefferson,Fairfield 2nd Ward,District 8A Judge - Amber L. Thompson,,Yes,,526,416,110
+Jefferson,Fairfield 3rd Ward,District 8A Judge - Amber L. Thompson,,Yes,,344,163,181
+Jefferson,Fairfield 4th Ward,District 8A Judge - Amber L. Thompson,,Yes,,433,330,103
+Jefferson,Fairfield 5th Ward,District 8A Judge - Amber L. Thompson,,Yes,,515,279,236
+Jefferson,Lockridge-City of Lockridge,District 8A Judge - Amber L. Thompson,,Yes,,135,22,113
+Jefferson,Locust Grove-Batavia,District 8A Judge - Amber L. Thompson,,Yes,,138,28,110
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,District 8A Judge - Amber L. Thompson,,Yes,,124,30,94
+Jefferson,Blackhawk-Polk-Packwood,District 8A Judge - Dustin Hite,,No,,65,16,49
+Jefferson,Buchanan,District 8A Judge - Dustin Hite,,No,,61,30,31
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,District 8A Judge - Dustin Hite,,No,,187,94,93
+Jefferson,Des Moines-Liberty-Libertyville,District 8A Judge - Dustin Hite,,No,,87,22,65
+Jefferson,Fairfield 1st Ward,District 8A Judge - Dustin Hite,,No,,100,54,46
+Jefferson,Fairfield 2nd Ward,District 8A Judge - Dustin Hite,,No,,107,66,41
+Jefferson,Fairfield 3rd Ward,District 8A Judge - Dustin Hite,,No,,92,39,53
+Jefferson,Fairfield 4th Ward,District 8A Judge - Dustin Hite,,No,,105,65,40
+Jefferson,Fairfield 5th Ward,District 8A Judge - Dustin Hite,,No,,139,84,55
+Jefferson,Lockridge-City of Lockridge,District 8A Judge - Dustin Hite,,No,,47,7,40
+Jefferson,Locust Grove-Batavia,District 8A Judge - Dustin Hite,,No,,75,16,59
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,District 8A Judge - Dustin Hite,,No,,72,13,59
+Jefferson,Blackhawk-Polk-Packwood,District 8A Judge - Dustin Hite,,Yes,,160,50,110
+Jefferson,Buchanan,District 8A Judge - Dustin Hite,,Yes,,156,72,84
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,District 8A Judge - Dustin Hite,,Yes,,618,374,244
+Jefferson,Des Moines-Liberty-Libertyville,District 8A Judge - Dustin Hite,,Yes,,212,52,160
+Jefferson,Fairfield 1st Ward,District 8A Judge - Dustin Hite,,Yes,,533,355,178
+Jefferson,Fairfield 2nd Ward,District 8A Judge - Dustin Hite,,Yes,,496,390,106
+Jefferson,Fairfield 3rd Ward,District 8A Judge - Dustin Hite,,Yes,,327,155,172
+Jefferson,Fairfield 4th Ward,District 8A Judge - Dustin Hite,,Yes,,403,308,95
+Jefferson,Fairfield 5th Ward,District 8A Judge - Dustin Hite,,Yes,,476,255,221
+Jefferson,Lockridge-City of Lockridge,District 8A Judge - Dustin Hite,,Yes,,128,19,109
+Jefferson,Locust Grove-Batavia,District 8A Judge - Dustin Hite,,Yes,,135,24,111
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,District 8A Judge - Dustin Hite,,Yes,,116,32,84
+Jefferson,Blackhawk-Polk-Packwood,Fairfield School - Public Measure LR,,No,,48,21,27
+Jefferson,Buchanan,Fairfield School - Public Measure LR,,No,,111,51,60
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Fairfield School - Public Measure LR,,No,,387,184,203
+Jefferson,Des Moines-Liberty-Libertyville,Fairfield School - Public Measure LR,,No,,180,38,142
+Jefferson,Fairfield 1st Ward,Fairfield School - Public Measure LR,,No,,212,137,75
+Jefferson,Fairfield 2nd Ward,Fairfield School - Public Measure LR,,No,,165,105,60
+Jefferson,Fairfield 3rd Ward,Fairfield School - Public Measure LR,,No,,167,72,95
+Jefferson,Fairfield 4th Ward,Fairfield School - Public Measure LR,,No,,154,103,51
+Jefferson,Fairfield 5th Ward,Fairfield School - Public Measure LR,,No,,256,133,123
+Jefferson,Lockridge-City of Lockridge,Fairfield School - Public Measure LR,,No,,136,18,118
+Jefferson,Locust Grove-Batavia,Fairfield School - Public Measure LR,,No,,50,11,39
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Fairfield School - Public Measure LR,,No,,123,20,103
+Jefferson,Blackhawk-Polk-Packwood,Fairfield School - Public Measure LR,,Yes,,37,21,16
+Jefferson,Buchanan,Fairfield School - Public Measure LR,,Yes,,187,96,91
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Fairfield School - Public Measure LR,,Yes,,715,459,256
+Jefferson,Des Moines-Liberty-Libertyville,Fairfield School - Public Measure LR,,Yes,,195,48,147
+Jefferson,Fairfield 1st Ward,Fairfield School - Public Measure LR,,Yes,,671,438,233
+Jefferson,Fairfield 2nd Ward,Fairfield School - Public Measure LR,,Yes,,653,499,154
+Jefferson,Fairfield 3rd Ward,Fairfield School - Public Measure LR,,Yes,,381,189,192
+Jefferson,Fairfield 4th Ward,Fairfield School - Public Measure LR,,Yes,,568,411,157
+Jefferson,Fairfield 5th Ward,Fairfield School - Public Measure LR,,Yes,,556,299,257
+Jefferson,Lockridge-City of Lockridge,Fairfield School - Public Measure LR,,Yes,,86,18,68
+Jefferson,Locust Grove-Batavia,Fairfield School - Public Measure LR,,Yes,,61,10,51
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Fairfield School - Public Measure LR,,Yes,,104,30,74
+Jefferson,Blackhawk-Polk-Packwood,Governor,,Rob Sand and Dave Muhlbauer,DEM,106,47,59
+Jefferson,Buchanan,Governor,,Rob Sand and Dave Muhlbauer,DEM,139,80,59
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Governor,,Rob Sand and Dave Muhlbauer,DEM,614,441,173
+Jefferson,Des Moines-Liberty-Libertyville,Governor,,Rob Sand and Dave Muhlbauer,DEM,136,45,91
+Jefferson,Fairfield 1st Ward,Governor,,Rob Sand and Dave Muhlbauer,DEM,626,435,191
+Jefferson,Fairfield 2nd Ward,Governor,,Rob Sand and Dave Muhlbauer,DEM,706,554,152
+Jefferson,Fairfield 3rd Ward,Governor,,Rob Sand and Dave Muhlbauer,DEM,353,201,152
+Jefferson,Fairfield 4th Ward,Governor,,Rob Sand and Dave Muhlbauer,DEM,568,428,140
+Jefferson,Fairfield 5th Ward,Governor,,Rob Sand and Dave Muhlbauer,DEM,479,282,197
+Jefferson,Lockridge-City of Lockridge,Governor,,Rob Sand and Dave Muhlbauer,DEM,71,12,59
+Jefferson,Locust Grove-Batavia,Governor,,Rob Sand and Dave Muhlbauer,DEM,101,22,79
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Governor,,Rob Sand and Dave Muhlbauer,DEM,102,37,65
+Jefferson,Blackhawk-Polk-Packwood,Governor,,Write-In,,0,0,0
+Jefferson,Buchanan,Governor,,Write-In,,0,0,0
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Governor,,Write-In,,2,0,2
+Jefferson,Des Moines-Liberty-Libertyville,Governor,,Write-In,,0,0,0
+Jefferson,Fairfield 1st Ward,Governor,,Write-In,,1,1,0
+Jefferson,Fairfield 2nd Ward,Governor,,Write-In,,0,0,0
+Jefferson,Fairfield 3rd Ward,Governor,,Write-In,,2,2,0
+Jefferson,Fairfield 4th Ward,Governor,,Write-In,,1,0,1
+Jefferson,Fairfield 5th Ward,Governor,,Write-In,,2,0,2
+Jefferson,Lockridge-City of Lockridge,Governor,,Write-In,,0,0,0
+Jefferson,Locust Grove-Batavia,Governor,,Write-In,,1,0,1
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Governor,,Write-In,,1,0,1
+Jefferson,Blackhawk-Polk-Packwood,Governor,,Zach Lahn and Derek Wulf,REP,253,55,198
+Jefferson,Buchanan,Governor,,Zach Lahn and Derek Wulf,REP,171,76,95
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Governor,,Zach Lahn and Derek Wulf,REP,543,240,303
+Jefferson,Des Moines-Liberty-Libertyville,Governor,,Zach Lahn and Derek Wulf,REP,292,52,240
+Jefferson,Fairfield 1st Ward,Governor,,Zach Lahn and Derek Wulf,REP,309,169,140
+Jefferson,Fairfield 2nd Ward,Governor,,Zach Lahn and Derek Wulf,REP,160,89,71
+Jefferson,Fairfield 3rd Ward,Governor,,Zach Lahn and Derek Wulf,REP,220,71,149
+Jefferson,Fairfield 4th Ward,Governor,,Zach Lahn and Derek Wulf,REP,195,119,76
+Jefferson,Fairfield 5th Ward,Governor,,Zach Lahn and Derek Wulf,REP,349,164,185
+Jefferson,Lockridge-City of Lockridge,Governor,,Zach Lahn and Derek Wulf,REP,162,26,136
+Jefferson,Locust Grove-Batavia,Governor,,Zach Lahn and Derek Wulf,REP,182,28,154
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Governor,,Zach Lahn and Derek Wulf,REP,173,27,146
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Kirkwood Community College - Public Measure NC,,No,,13,3,10
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Kirkwood Community College - Public Measure NC,,Yes,,19,7,12
+Jefferson,Des Moines-Liberty-Libertyville,Liberty Township Clerk,,Write-In,,6,0,6
+Jefferson,Des Moines-Liberty-Libertyville,Liberty Township Trustee,,Write-In,,6,1,5
+Jefferson,Des Moines-Liberty-Libertyville,Liberty Township Trustee To Fill a Vacancy,,Write-In,,4,0,4
+Jefferson,Lockridge-City of Lockridge,Lockridge Township Clerk,,Brian E. Taglauer,,120,19,101
+Jefferson,Lockridge-City of Lockridge,Lockridge Township Clerk,,Write-In,,5,1,4
+Jefferson,Lockridge-City of Lockridge,Lockridge Township Trustee,,Write-In,,15,4,11
+Jefferson,Locust Grove-Batavia,Locust Grove Township Clerk,,Tony Webb,,105,23,82
+Jefferson,Locust Grove-Batavia,Locust Grove Township Clerk,,Write-In,,0,0,0
+Jefferson,Locust Grove-Batavia,Locust Grove Township Trustee,,Randy Major,,105,23,82
+Jefferson,Locust Grove-Batavia,Locust Grove Township Trustee,,Write-In,,0,0,0
+Jefferson,Locust Grove-Batavia,Locust Grove Township Trustee To Fill a Vacancy,,Write-In,,19,6,13
+Jefferson,Blackhawk-Polk-Packwood,Pekin School - Public Measure MN,,No,,92,17,75
+Jefferson,Locust Grove-Batavia,Pekin School - Public Measure MN,,No,,1,0,1
+Jefferson,Blackhawk-Polk-Packwood,Pekin School - Public Measure MN,,Yes,,171,39,132
+Jefferson,Locust Grove-Batavia,Pekin School - Public Measure MN,,Yes,,0,0,0
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Penn Township Clerk,,Write-In,,11,4,7
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Penn Township Trustee,,Write-In,,16,4,12
+Jefferson,Blackhawk-Polk-Packwood,Polk Township Clerk,,David Hollingsworth,,107,23,84
+Jefferson,Blackhawk-Polk-Packwood,Polk Township Clerk,,Write-In,,0,0,0
+Jefferson,Blackhawk-Polk-Packwood,Polk Township Trustee,,Mike Myers,,103,22,81
+Jefferson,Blackhawk-Polk-Packwood,Polk Township Trustee,,Write-In,,0,0,0
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Round Prairie Township Clerk,,Write-In,,25,12,13
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Round Prairie Township Trustee,,Craig A. Fulton,,114,50,64
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Round Prairie Township Trustee,,Write-In,,5,1,4
+Jefferson,Blackhawk-Polk-Packwood,Secretary of Agriculture,,Chris Jones,DEM,88,44,44
+Jefferson,Buchanan,Secretary of Agriculture,,Chris Jones,DEM,107,74,33
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Secretary of Agriculture,,Chris Jones,DEM,564,428,136
+Jefferson,Des Moines-Liberty-Libertyville,Secretary of Agriculture,,Chris Jones,DEM,87,34,53
+Jefferson,Fairfield 1st Ward,Secretary of Agriculture,,Chris Jones,DEM,600,419,181
+Jefferson,Fairfield 2nd Ward,Secretary of Agriculture,,Chris Jones,DEM,730,569,161
+Jefferson,Fairfield 3rd Ward,Secretary of Agriculture,,Chris Jones,DEM,317,186,131
+Jefferson,Fairfield 4th Ward,Secretary of Agriculture,,Chris Jones,DEM,574,423,151
+Jefferson,Fairfield 5th Ward,Secretary of Agriculture,,Chris Jones,DEM,406,251,155
+Jefferson,Lockridge-City of Lockridge,Secretary of Agriculture,,Chris Jones,DEM,49,10,39
+Jefferson,Locust Grove-Batavia,Secretary of Agriculture,,Chris Jones,DEM,77,21,56
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Secretary of Agriculture,,Chris Jones,DEM,66,31,35
+Jefferson,Blackhawk-Polk-Packwood,Secretary of Agriculture,,Mike Naig,REP,262,58,204
+Jefferson,Buchanan,Secretary of Agriculture,,Mike Naig,REP,198,79,119
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Secretary of Agriculture,,Mike Naig,REP,565,236,329
+Jefferson,Des Moines-Liberty-Libertyville,Secretary of Agriculture,,Mike Naig,REP,335,61,274
+Jefferson,Fairfield 1st Ward,Secretary of Agriculture,,Mike Naig,REP,307,168,139
+Jefferson,Fairfield 2nd Ward,Secretary of Agriculture,,Mike Naig,REP,122,70,52
+Jefferson,Fairfield 3rd Ward,Secretary of Agriculture,,Mike Naig,REP,243,82,161
+Jefferson,Fairfield 4th Ward,Secretary of Agriculture,,Mike Naig,REP,186,124,62
+Jefferson,Fairfield 5th Ward,Secretary of Agriculture,,Mike Naig,REP,396,185,211
+Jefferson,Lockridge-City of Lockridge,Secretary of Agriculture,,Mike Naig,REP,178,30,148
+Jefferson,Locust Grove-Batavia,Secretary of Agriculture,,Mike Naig,REP,198,29,169
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Secretary of Agriculture,,Mike Naig,REP,203,30,173
+Jefferson,Blackhawk-Polk-Packwood,Secretary of Agriculture,,Write-In,,0,0,0
+Jefferson,Buchanan,Secretary of Agriculture,,Write-In,,0,0,0
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Secretary of Agriculture,,Write-In,,0,0,0
+Jefferson,Des Moines-Liberty-Libertyville,Secretary of Agriculture,,Write-In,,0,0,0
+Jefferson,Fairfield 1st Ward,Secretary of Agriculture,,Write-In,,0,0,0
+Jefferson,Fairfield 2nd Ward,Secretary of Agriculture,,Write-In,,1,1,0
+Jefferson,Fairfield 3rd Ward,Secretary of Agriculture,,Write-In,,1,1,0
+Jefferson,Fairfield 4th Ward,Secretary of Agriculture,,Write-In,,1,0,1
+Jefferson,Fairfield 5th Ward,Secretary of Agriculture,,Write-In,,1,0,1
+Jefferson,Lockridge-City of Lockridge,Secretary of Agriculture,,Write-In,,0,0,0
+Jefferson,Locust Grove-Batavia,Secretary of Agriculture,,Write-In,,0,0,0
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Secretary of Agriculture,,Write-In,,0,0,0
+Jefferson,Blackhawk-Polk-Packwood,Secretary of State,,Paul D. Pate,REP,264,59,205
+Jefferson,Buchanan,Secretary of State,,Paul D. Pate,REP,204,86,118
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Secretary of State,,Paul D. Pate,REP,606,268,338
+Jefferson,Des Moines-Liberty-Libertyville,Secretary of State,,Paul D. Pate,REP,326,58,268
+Jefferson,Fairfield 1st Ward,Secretary of State,,Paul D. Pate,REP,349,193,156
+Jefferson,Fairfield 2nd Ward,Secretary of State,,Paul D. Pate,REP,174,101,73
+Jefferson,Fairfield 3rd Ward,Secretary of State,,Paul D. Pate,REP,253,82,171
+Jefferson,Fairfield 4th Ward,Secretary of State,,Paul D. Pate,REP,226,139,87
+Jefferson,Fairfield 5th Ward,Secretary of State,,Paul D. Pate,REP,410,192,218
+Jefferson,Lockridge-City of Lockridge,Secretary of State,,Paul D. Pate,REP,185,29,156
+Jefferson,Locust Grove-Batavia,Secretary of State,,Paul D. Pate,REP,197,30,167
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Secretary of State,,Paul D. Pate,REP,195,29,166
+Jefferson,Blackhawk-Polk-Packwood,Secretary of State,,Ryan Peterman,DEM,85,44,41
+Jefferson,Buchanan,Secretary of State,,Ryan Peterman,DEM,96,66,30
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Secretary of State,,Ryan Peterman,DEM,520,397,123
+Jefferson,Des Moines-Liberty-Libertyville,Secretary of State,,Ryan Peterman,DEM,95,36,59
+Jefferson,Fairfield 1st Ward,Secretary of State,,Ryan Peterman,DEM,559,395,164
+Jefferson,Fairfield 2nd Ward,Secretary of State,,Ryan Peterman,DEM,680,538,142
+Jefferson,Fairfield 3rd Ward,Secretary of State,,Ryan Peterman,DEM,301,182,119
+Jefferson,Fairfield 4th Ward,Secretary of State,,Ryan Peterman,DEM,527,399,128
+Jefferson,Fairfield 5th Ward,Secretary of State,,Ryan Peterman,DEM,398,243,155
+Jefferson,Lockridge-City of Lockridge,Secretary of State,,Ryan Peterman,DEM,46,11,35
+Jefferson,Locust Grove-Batavia,Secretary of State,,Ryan Peterman,DEM,81,20,61
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Secretary of State,,Ryan Peterman,DEM,72,33,39
+Jefferson,Blackhawk-Polk-Packwood,Secretary of State,,Write-In,,0,0,0
+Jefferson,Buchanan,Secretary of State,,Write-In,,0,0,0
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Secretary of State,,Write-In,,2,1,1
+Jefferson,Des Moines-Liberty-Libertyville,Secretary of State,,Write-In,,0,0,0
+Jefferson,Fairfield 1st Ward,Secretary of State,,Write-In,,0,0,0
+Jefferson,Fairfield 2nd Ward,Secretary of State,,Write-In,,0,0,0
+Jefferson,Fairfield 3rd Ward,Secretary of State,,Write-In,,0,0,0
+Jefferson,Fairfield 4th Ward,Secretary of State,,Write-In,,2,1,1
+Jefferson,Fairfield 5th Ward,Secretary of State,,Write-In,,1,0,1
+Jefferson,Lockridge-City of Lockridge,Secretary of State,,Write-In,,0,0,0
+Jefferson,Locust Grove-Batavia,Secretary of State,,Write-In,,1,0,1
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Secretary of State,,Write-In,,0,0,0
+Jefferson,Blackhawk-Polk-Packwood,Soil and Water Conservation District Commissioner,,Douglas Schultz,,206,56,150
+Jefferson,Buchanan,Soil and Water Conservation District Commissioner,,Douglas Schultz,,194,94,100
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Soil and Water Conservation District Commissioner,,Douglas Schultz,,675,377,298
+Jefferson,Des Moines-Liberty-Libertyville,Soil and Water Conservation District Commissioner,,Douglas Schultz,,271,64,207
+Jefferson,Fairfield 1st Ward,Soil and Water Conservation District Commissioner,,Douglas Schultz,,527,338,189
+Jefferson,Fairfield 2nd Ward,Soil and Water Conservation District Commissioner,,Douglas Schultz,,441,318,123
+Jefferson,Fairfield 3rd Ward,Soil and Water Conservation District Commissioner,,Douglas Schultz,,345,159,186
+Jefferson,Fairfield 4th Ward,Soil and Water Conservation District Commissioner,,Douglas Schultz,,390,284,106
+Jefferson,Fairfield 5th Ward,Soil and Water Conservation District Commissioner,,Douglas Schultz,,533,291,242
+Jefferson,Lockridge-City of Lockridge,Soil and Water Conservation District Commissioner,,Douglas Schultz,,153,23,130
+Jefferson,Locust Grove-Batavia,Soil and Water Conservation District Commissioner,,Douglas Schultz,,175,40,135
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Soil and Water Conservation District Commissioner,,Douglas Schultz,,192,39,153
+Jefferson,Blackhawk-Polk-Packwood,Soil and Water Conservation District Commissioner,,Joseph Arndt,,196,54,142
+Jefferson,Buchanan,Soil and Water Conservation District Commissioner,,Joseph Arndt,,207,96,111
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Soil and Water Conservation District Commissioner,,Joseph Arndt,,708,399,309
+Jefferson,Des Moines-Liberty-Libertyville,Soil and Water Conservation District Commissioner,,Joseph Arndt,,267,65,202
+Jefferson,Fairfield 1st Ward,Soil and Water Conservation District Commissioner,,Joseph Arndt,,529,344,185
+Jefferson,Fairfield 2nd Ward,Soil and Water Conservation District Commissioner,,Joseph Arndt,,421,303,118
+Jefferson,Fairfield 3rd Ward,Soil and Water Conservation District Commissioner,,Joseph Arndt,,335,146,189
+Jefferson,Fairfield 4th Ward,Soil and Water Conservation District Commissioner,,Joseph Arndt,,372,268,104
+Jefferson,Fairfield 5th Ward,Soil and Water Conservation District Commissioner,,Joseph Arndt,,518,272,246
+Jefferson,Lockridge-City of Lockridge,Soil and Water Conservation District Commissioner,,Joseph Arndt,,153,24,129
+Jefferson,Locust Grove-Batavia,Soil and Water Conservation District Commissioner,,Joseph Arndt,,163,33,130
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Soil and Water Conservation District Commissioner,,Joseph Arndt,,163,37,126
+Jefferson,Blackhawk-Polk-Packwood,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Jefferson,Buchanan,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Soil and Water Conservation District Commissioner,,Write-In,,6,2,4
+Jefferson,Des Moines-Liberty-Libertyville,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Jefferson,Fairfield 1st Ward,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Jefferson,Fairfield 2nd Ward,Soil and Water Conservation District Commissioner,,Write-In,,4,3,1
+Jefferson,Fairfield 3rd Ward,Soil and Water Conservation District Commissioner,,Write-In,,3,3,0
+Jefferson,Fairfield 4th Ward,Soil and Water Conservation District Commissioner,,Write-In,,5,4,1
+Jefferson,Fairfield 5th Ward,Soil and Water Conservation District Commissioner,,Write-In,,5,3,2
+Jefferson,Lockridge-City of Lockridge,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Jefferson,Locust Grove-Batavia,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,State House,87,Jeff Shipley,REP,546,237,309
+Jefferson,Des Moines-Liberty-Libertyville,State House,87,Jeff Shipley,REP,295,53,242
+Jefferson,Fairfield 1st Ward,State House,87,Jeff Shipley,REP,311,171,140
+Jefferson,Fairfield 2nd Ward,State House,87,Jeff Shipley,REP,172,99,73
+Jefferson,Fairfield 3rd Ward,State House,87,Jeff Shipley,REP,235,81,154
+Jefferson,Fairfield 4th Ward,State House,87,Jeff Shipley,REP,219,134,85
+Jefferson,Fairfield 5th Ward,State House,87,Jeff Shipley,REP,358,166,192
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,State House,87,Thomas R. O'Donnell,DEM,590,432,158
+Jefferson,Des Moines-Liberty-Libertyville,State House,87,Thomas R. O'Donnell,DEM,127,44,83
+Jefferson,Fairfield 1st Ward,State House,87,Thomas R. O'Donnell,DEM,612,430,182
+Jefferson,Fairfield 2nd Ward,State House,87,Thomas R. O'Donnell,DEM,683,538,145
+Jefferson,Fairfield 3rd Ward,State House,87,Thomas R. O'Donnell,DEM,327,190,137
+Jefferson,Fairfield 4th Ward,State House,87,Thomas R. O'Donnell,DEM,542,407,135
+Jefferson,Fairfield 5th Ward,State House,87,Thomas R. O'Donnell,DEM,465,274,191
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,State House,87,Write-In,,0,0,0
+Jefferson,Des Moines-Liberty-Libertyville,State House,87,Write-In,,2,0,2
+Jefferson,Fairfield 1st Ward,State House,87,Write-In,,1,0,1
+Jefferson,Fairfield 2nd Ward,State House,87,Write-In,,3,1,2
+Jefferson,Fairfield 3rd Ward,State House,87,Write-In,,3,2,1
+Jefferson,Fairfield 4th Ward,State House,87,Write-In,,1,0,1
+Jefferson,Fairfield 5th Ward,State House,87,Write-In,,3,1,2
+Jefferson,Blackhawk-Polk-Packwood,State House,88,Helena Hayes,REP,281,67,214
+Jefferson,Buchanan,State House,88,Helena Hayes,REP,234,98,136
+Jefferson,Lockridge-City of Lockridge,State House,88,Helena Hayes,REP,205,33,172
+Jefferson,Locust Grove-Batavia,State House,88,Helena Hayes,REP,223,36,187
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,State House,88,Helena Hayes,REP,220,42,178
+Jefferson,Blackhawk-Polk-Packwood,State House,88,Write-In,,6,2,4
+Jefferson,Buchanan,State House,88,Write-In,,7,5,2
+Jefferson,Lockridge-City of Lockridge,State House,88,Write-In,,2,0,2
+Jefferson,Locust Grove-Batavia,State House,88,Write-In,,2,0,2
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,State House,88,Write-In,,7,2,5
+Jefferson,Blackhawk-Polk-Packwood,Treasurer of State,,John Norwood,DEM,90,48,42
+Jefferson,Buchanan,Treasurer of State,,John Norwood,DEM,108,71,37
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Treasurer of State,,John Norwood,DEM,543,408,135
+Jefferson,Des Moines-Liberty-Libertyville,Treasurer of State,,John Norwood,DEM,101,35,66
+Jefferson,Fairfield 1st Ward,Treasurer of State,,John Norwood,DEM,579,411,168
+Jefferson,Fairfield 2nd Ward,Treasurer of State,,John Norwood,DEM,683,544,139
+Jefferson,Fairfield 3rd Ward,Treasurer of State,,John Norwood,DEM,306,181,125
+Jefferson,Fairfield 4th Ward,Treasurer of State,,John Norwood,DEM,533,404,129
+Jefferson,Fairfield 5th Ward,Treasurer of State,,John Norwood,DEM,403,249,154
+Jefferson,Lockridge-City of Lockridge,Treasurer of State,,John Norwood,DEM,55,12,43
+Jefferson,Locust Grove-Batavia,Treasurer of State,,John Norwood,DEM,82,20,62
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Treasurer of State,,John Norwood,DEM,80,33,47
+Jefferson,Blackhawk-Polk-Packwood,Treasurer of State,,Roby Smith,REP,245,55,190
+Jefferson,Buchanan,Treasurer of State,,Roby Smith,REP,189,78,111
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Treasurer of State,,Roby Smith,REP,561,243,318
+Jefferson,Des Moines-Liberty-Libertyville,Treasurer of State,,Roby Smith,REP,312,58,254
+Jefferson,Fairfield 1st Ward,Treasurer of State,,Roby Smith,REP,317,173,144
+Jefferson,Fairfield 2nd Ward,Treasurer of State,,Roby Smith,REP,156,91,65
+Jefferson,Fairfield 3rd Ward,Treasurer of State,,Roby Smith,REP,239,81,158
+Jefferson,Fairfield 4th Ward,Treasurer of State,,Roby Smith,REP,211,127,84
+Jefferson,Fairfield 5th Ward,Treasurer of State,,Roby Smith,REP,391,179,212
+Jefferson,Lockridge-City of Lockridge,Treasurer of State,,Roby Smith,REP,177,27,150
+Jefferson,Locust Grove-Batavia,Treasurer of State,,Roby Smith,REP,186,28,158
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Treasurer of State,,Roby Smith,REP,183,28,155
+Jefferson,Blackhawk-Polk-Packwood,Treasurer of State,,Write-In,,0,0,0
+Jefferson,Buchanan,Treasurer of State,,Write-In,,0,0,0
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,Treasurer of State,,Write-In,,2,1,1
+Jefferson,Des Moines-Liberty-Libertyville,Treasurer of State,,Write-In,,1,0,1
+Jefferson,Fairfield 1st Ward,Treasurer of State,,Write-In,,1,0,1
+Jefferson,Fairfield 2nd Ward,Treasurer of State,,Write-In,,0,0,0
+Jefferson,Fairfield 3rd Ward,Treasurer of State,,Write-In,,2,1,1
+Jefferson,Fairfield 4th Ward,Treasurer of State,,Write-In,,2,0,2
+Jefferson,Fairfield 5th Ward,Treasurer of State,,Write-In,,1,0,1
+Jefferson,Lockridge-City of Lockridge,Treasurer of State,,Write-In,,0,0,0
+Jefferson,Locust Grove-Batavia,Treasurer of State,,Write-In,,1,0,1
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Treasurer of State,,Write-In,,0,0,0
+Jefferson,Blackhawk-Polk-Packwood,U.S. House,1,Christina Bohannan,DEM,95,43,52
+Jefferson,Buchanan,U.S. House,1,Christina Bohannan,DEM,113,71,42
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,U.S. House,1,Christina Bohannan,DEM,554,420,134
+Jefferson,Des Moines-Liberty-Libertyville,U.S. House,1,Christina Bohannan,DEM,100,37,63
+Jefferson,Fairfield 1st Ward,U.S. House,1,Christina Bohannan,DEM,585,412,173
+Jefferson,Fairfield 2nd Ward,U.S. House,1,Christina Bohannan,DEM,682,537,145
+Jefferson,Fairfield 3rd Ward,U.S. House,1,Christina Bohannan,DEM,310,184,126
+Jefferson,Fairfield 4th Ward,U.S. House,1,Christina Bohannan,DEM,533,402,131
+Jefferson,Fairfield 5th Ward,U.S. House,1,Christina Bohannan,DEM,411,259,152
+Jefferson,Lockridge-City of Lockridge,U.S. House,1,Christina Bohannan,DEM,60,12,48
+Jefferson,Locust Grove-Batavia,U.S. House,1,Christina Bohannan,DEM,85,20,65
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,U.S. House,1,Christina Bohannan,DEM,89,34,55
+Jefferson,Blackhawk-Polk-Packwood,U.S. House,1,Mariannette Miller-Meeks,REP,251,57,194
+Jefferson,Buchanan,U.S. House,1,Mariannette Miller-Meeks,REP,177,76,101
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,U.S. House,1,Mariannette Miller-Meeks,REP,539,233,306
+Jefferson,Des Moines-Liberty-Libertyville,U.S. House,1,Mariannette Miller-Meeks,REP,301,54,247
+Jefferson,Fairfield 1st Ward,U.S. House,1,Mariannette Miller-Meeks,REP,301,165,136
+Jefferson,Fairfield 2nd Ward,U.S. House,1,Mariannette Miller-Meeks,REP,140,77,63
+Jefferson,Fairfield 3rd Ward,U.S. House,1,Mariannette Miller-Meeks,REP,213,75,138
+Jefferson,Fairfield 4th Ward,U.S. House,1,Mariannette Miller-Meeks,REP,187,119,68
+Jefferson,Fairfield 5th Ward,U.S. House,1,Mariannette Miller-Meeks,REP,364,161,203
+Jefferson,Lockridge-City of Lockridge,U.S. House,1,Mariannette Miller-Meeks,REP,164,27,137
+Jefferson,Locust Grove-Batavia,U.S. House,1,Mariannette Miller-Meeks,REP,181,27,154
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,U.S. House,1,Mariannette Miller-Meeks,REP,177,28,149
+Jefferson,Blackhawk-Polk-Packwood,U.S. House,1,Michael Bridgford,,11,2,9
+Jefferson,Buchanan,U.S. House,1,Michael Bridgford,,10,4,6
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,U.S. House,1,Michael Bridgford,,33,8,25
+Jefferson,Des Moines-Liberty-Libertyville,U.S. House,1,Michael Bridgford,,17,3,14
+Jefferson,Fairfield 1st Ward,U.S. House,1,Michael Bridgford,,36,19,17
+Jefferson,Fairfield 2nd Ward,U.S. House,1,Michael Bridgford,,21,10,11
+Jefferson,Fairfield 3rd Ward,U.S. House,1,Michael Bridgford,,34,9,25
+Jefferson,Fairfield 4th Ward,U.S. House,1,Michael Bridgford,,27,14,13
+Jefferson,Fairfield 5th Ward,U.S. House,1,Michael Bridgford,,38,12,26
+Jefferson,Lockridge-City of Lockridge,U.S. House,1,Michael Bridgford,,6,0,6
+Jefferson,Locust Grove-Batavia,U.S. House,1,Michael Bridgford,,11,2,9
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,U.S. House,1,Michael Bridgford,,8,2,6
+Jefferson,Blackhawk-Polk-Packwood,U.S. House,1,Write-In,,1,0,1
+Jefferson,Buchanan,U.S. House,1,Write-In,,0,0,0
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,U.S. House,1,Write-In,,1,1,0
+Jefferson,Des Moines-Liberty-Libertyville,U.S. House,1,Write-In,,1,0,1
+Jefferson,Fairfield 1st Ward,U.S. House,1,Write-In,,1,1,0
+Jefferson,Fairfield 2nd Ward,U.S. House,1,Write-In,,0,0,0
+Jefferson,Fairfield 3rd Ward,U.S. House,1,Write-In,,2,0,2
+Jefferson,Fairfield 4th Ward,U.S. House,1,Write-In,,3,1,2
+Jefferson,Fairfield 5th Ward,U.S. House,1,Write-In,,2,1,1
+Jefferson,Lockridge-City of Lockridge,U.S. House,1,Write-In,,0,0,0
+Jefferson,Locust Grove-Batavia,U.S. House,1,Write-In,,1,0,1
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,U.S. House,1,Write-In,,0,0,0
+Jefferson,Blackhawk-Polk-Packwood,U.S. Senate,,Ashley Hinson,REP,243,54,189
+Jefferson,Buchanan,U.S. Senate,,Ashley Hinson,REP,174,74,100
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,U.S. Senate,,Ashley Hinson,REP,535,227,308
+Jefferson,Des Moines-Liberty-Libertyville,U.S. Senate,,Ashley Hinson,REP,297,49,248
+Jefferson,Fairfield 1st Ward,U.S. Senate,,Ashley Hinson,REP,306,166,140
+Jefferson,Fairfield 2nd Ward,U.S. Senate,,Ashley Hinson,REP,137,77,60
+Jefferson,Fairfield 3rd Ward,U.S. Senate,,Ashley Hinson,REP,198,73,125
+Jefferson,Fairfield 4th Ward,U.S. Senate,,Ashley Hinson,REP,186,117,69
+Jefferson,Fairfield 5th Ward,U.S. Senate,,Ashley Hinson,REP,369,168,201
+Jefferson,Lockridge-City of Lockridge,U.S. Senate,,Ashley Hinson,REP,157,26,131
+Jefferson,Locust Grove-Batavia,U.S. Senate,,Ashley Hinson,REP,179,29,150
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,U.S. Senate,,Ashley Hinson,REP,171,29,142
+Jefferson,Blackhawk-Polk-Packwood,U.S. Senate,,Josh Turek,DEM,98,46,52
+Jefferson,Buchanan,U.S. Senate,,Josh Turek,DEM,113,70,43
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,U.S. Senate,,Josh Turek,DEM,554,420,134
+Jefferson,Des Moines-Liberty-Libertyville,U.S. Senate,,Josh Turek,DEM,103,40,63
+Jefferson,Fairfield 1st Ward,U.S. Senate,,Josh Turek,DEM,586,414,172
+Jefferson,Fairfield 2nd Ward,U.S. Senate,,Josh Turek,DEM,676,535,141
+Jefferson,Fairfield 3rd Ward,U.S. Senate,,Josh Turek,DEM,323,185,138
+Jefferson,Fairfield 4th Ward,U.S. Senate,,Josh Turek,DEM,533,405,128
+Jefferson,Fairfield 5th Ward,U.S. Senate,,Josh Turek,DEM,411,251,160
+Jefferson,Lockridge-City of Lockridge,U.S. Senate,,Josh Turek,DEM,56,12,44
+Jefferson,Locust Grove-Batavia,U.S. Senate,,Josh Turek,DEM,85,19,66
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,U.S. Senate,,Josh Turek,DEM,92,34,58
+Jefferson,Blackhawk-Polk-Packwood,U.S. Senate,,Thomas Laehn,LIB,13,0,13
+Jefferson,Buchanan,U.S. Senate,,Thomas Laehn,LIB,15,8,7
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,U.S. Senate,,Thomas Laehn,LIB,40,11,29
+Jefferson,Des Moines-Liberty-Libertyville,U.S. Senate,,Thomas Laehn,LIB,19,5,14
+Jefferson,Fairfield 1st Ward,U.S. Senate,,Thomas Laehn,LIB,25,13,12
+Jefferson,Fairfield 2nd Ward,U.S. Senate,,Thomas Laehn,LIB,25,11,14
+Jefferson,Fairfield 3rd Ward,U.S. Senate,,Thomas Laehn,LIB,32,7,25
+Jefferson,Fairfield 4th Ward,U.S. Senate,,Thomas Laehn,LIB,31,14,17
+Jefferson,Fairfield 5th Ward,U.S. Senate,,Thomas Laehn,LIB,40,18,22
+Jefferson,Lockridge-City of Lockridge,U.S. Senate,,Thomas Laehn,LIB,13,0,13
+Jefferson,Locust Grove-Batavia,U.S. Senate,,Thomas Laehn,LIB,14,1,13
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,U.S. Senate,,Thomas Laehn,LIB,11,1,10
+Jefferson,Blackhawk-Polk-Packwood,U.S. Senate,,Write-In,,0,0,0
+Jefferson,Buchanan,U.S. Senate,,Write-In,,1,0,1
+Jefferson,Center-Cedar-Round Prairie-Maharishi Vedic City,U.S. Senate,,Write-In,,0,0,0
+Jefferson,Des Moines-Liberty-Libertyville,U.S. Senate,,Write-In,,0,0,0
+Jefferson,Fairfield 1st Ward,U.S. Senate,,Write-In,,0,0,0
+Jefferson,Fairfield 2nd Ward,U.S. Senate,,Write-In,,0,0,0
+Jefferson,Fairfield 3rd Ward,U.S. Senate,,Write-In,,2,1,1
+Jefferson,Fairfield 4th Ward,U.S. Senate,,Write-In,,1,0,1
+Jefferson,Fairfield 5th Ward,U.S. Senate,,Write-In,,2,0,2
+Jefferson,Lockridge-City of Lockridge,U.S. Senate,,Write-In,,0,0,0
+Jefferson,Locust Grove-Batavia,U.S. Senate,,Write-In,,2,0,2
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,U.S. Senate,,Write-In,,0,0,0
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Walnut Township Clerk,,Diana L. Carroll,,79,28,51
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Walnut Township Clerk,,Write-In,,0,0,0
+Jefferson,Penn-Walnut-Pleasant Plain-Coppock,Walnut Township Trustee,,Write-In,,18,4,14

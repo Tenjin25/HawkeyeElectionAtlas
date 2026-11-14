@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2026,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "agriculture_commissioner",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2026_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 171824,
+        "rep_votes": 168202,
+        "other_votes": 341,
+        "total_votes": 340367,
+        "dem_candidate": "Chris Jones",
+        "rep_candidate": "Mike Naig",
+        "margin": -3622,
+        "margin_pct": -1.0641454665111483,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "2": {
+        "dem_votes": 164622,
+        "rep_votes": 177475,
+        "other_votes": 258,
+        "total_votes": 342355,
+        "dem_candidate": "Chris Jones",
+        "rep_candidate": "Mike Naig",
+        "margin": 12853,
+        "margin_pct": 3.7542901374304454,
+        "winner": "REP",
+        "color": "#fca793"
+      },
+      "3": {
+        "dem_votes": 178846,
+        "rep_votes": 165320,
+        "other_votes": 381,
+        "total_votes": 344547,
+        "dem_candidate": "Chris Jones",
+        "rep_candidate": "Mike Naig",
+        "margin": -13526,
+        "margin_pct": -3.925734370056915,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "4": {
+        "dem_votes": 114085,
+        "rep_votes": 191104,
+        "other_votes": 234,
+        "total_votes": 305423,
+        "dem_candidate": "Chris Jones",
+        "rep_candidate": "Mike Naig",
+        "margin": 77019,
+        "margin_pct": 25.21715784338442,
+        "winner": "REP",
+        "color": "#cb181d"
+      }
+    }
+  }
+}

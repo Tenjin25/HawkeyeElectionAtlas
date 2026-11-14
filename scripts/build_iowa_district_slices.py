@@ -63,6 +63,7 @@ NATIVE_DISTRICT_CONTESTS = {
 NATIVE_DISTRICT_INPUTS = {
     2022: ROOT / "data/2022/20221108__ia__general__precinct.csv",
     2024: ROOT / "data/2024/20241105__ia__general__precinct.csv",
+    2026: ROOT / "data/2026/20261103__ia__general__precinct.csv",
 }
 NATIVE_OFFICIAL_INPUTS = {
     # The precinct export omits some certified 2024 U.S. House votes.  The
@@ -72,6 +73,7 @@ NATIVE_OFFICIAL_INPUTS = {
 NATIVE_DISTRICT_COUNTS = {
     2022: {"congressional": 4, "state_house": 100, "state_senate": 34},
     2024: {"congressional": 4, "state_house": 100, "state_senate": 25},
+    2026: {"congressional": 4, "state_house": 100, "state_senate": 25},
 }
 OFFICIAL_US_HOUSE_PARTIES_2024 = {
     "ASHLEY HINSON": "REP",
@@ -505,6 +507,7 @@ def main() -> int:
                 "dem_total": int(contest_total(payload)[0]),
                 "rep_total": int(contest_total(payload)[1]),
                 "major_party_contested": True,
+                **({"result_status": "unofficial"} if year == 2026 else {}),
             }
         )
 

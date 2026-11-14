@@ -1,0 +1,705 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Washington,AINSWORTH,Attorney General,,Brenna Bird,REP,428,146,282
+Washington,BRIGHTON,Attorney General,,Brenna Bird,REP,437,133,304
+Washington,KALONA,Attorney General,,Brenna Bird,REP,768,199,569
+Washington,RICHMOND,Attorney General,,Brenna Bird,REP,360,119,241
+Washington,RIVERSIDE,Attorney General,,Brenna Bird,REP,671,216,455
+Washington,WARD 1,Attorney General,,Brenna Bird,REP,436,187,249
+Washington,WARD 2,Attorney General,,Brenna Bird,REP,442,188,254
+Washington,WARD 3,Attorney General,,Brenna Bird,REP,519,258,261
+Washington,WARD 4,Attorney General,,Brenna Bird,REP,469,233,236
+Washington,WELLMAN,Attorney General,,Brenna Bird,REP,735,179,556
+Washington,AINSWORTH,Attorney General,,Nate Willems,DEM,235,114,121
+Washington,BRIGHTON,Attorney General,,Nate Willems,DEM,212,103,109
+Washington,KALONA,Attorney General,,Nate Willems,DEM,664,242,422
+Washington,RICHMOND,Attorney General,,Nate Willems,DEM,187,85,102
+Washington,RIVERSIDE,Attorney General,,Nate Willems,DEM,743,325,418
+Washington,WARD 1,Attorney General,,Nate Willems,DEM,386,226,160
+Washington,WARD 2,Attorney General,,Nate Willems,DEM,397,226,171
+Washington,WARD 3,Attorney General,,Nate Willems,DEM,464,302,162
+Washington,WARD 4,Attorney General,,Nate Willems,DEM,447,297,150
+Washington,WELLMAN,Attorney General,,Nate Willems,DEM,454,169,285
+Washington,AINSWORTH,Attorney General,,Write-In,,1,0,1
+Washington,BRIGHTON,Attorney General,,Write-In,,3,1,2
+Washington,KALONA,Attorney General,,Write-In,,1,0,1
+Washington,RICHMOND,Attorney General,,Write-In,,1,0,1
+Washington,RIVERSIDE,Attorney General,,Write-In,,0,0,0
+Washington,WARD 1,Attorney General,,Write-In,,1,0,1
+Washington,WARD 2,Attorney General,,Write-In,,1,1,0
+Washington,WARD 3,Attorney General,,Write-In,,0,0,0
+Washington,WARD 4,Attorney General,,Write-In,,3,0,3
+Washington,WELLMAN,Attorney General,,Write-In,,1,0,1
+Washington,AINSWORTH,Auditor of State,,Chris Cournoyer,REP,420,139,281
+Washington,BRIGHTON,Auditor of State,,Chris Cournoyer,REP,426,127,299
+Washington,KALONA,Auditor of State,,Chris Cournoyer,REP,766,199,567
+Washington,RICHMOND,Auditor of State,,Chris Cournoyer,REP,351,114,237
+Washington,RIVERSIDE,Auditor of State,,Chris Cournoyer,REP,680,217,463
+Washington,WARD 1,Auditor of State,,Chris Cournoyer,REP,431,189,242
+Washington,WARD 2,Auditor of State,,Chris Cournoyer,REP,456,193,263
+Washington,WARD 3,Auditor of State,,Chris Cournoyer,REP,519,261,258
+Washington,WARD 4,Auditor of State,,Chris Cournoyer,REP,465,231,234
+Washington,WELLMAN,Auditor of State,,Chris Cournoyer,REP,733,177,556
+Washington,AINSWORTH,Auditor of State,,Taylor Wettach,DEM,238,118,120
+Washington,BRIGHTON,Auditor of State,,Taylor Wettach,DEM,218,106,112
+Washington,KALONA,Auditor of State,,Taylor Wettach,DEM,651,240,411
+Washington,RICHMOND,Auditor of State,,Taylor Wettach,DEM,190,85,105
+Washington,RIVERSIDE,Auditor of State,,Taylor Wettach,DEM,714,312,402
+Washington,WARD 1,Auditor of State,,Taylor Wettach,DEM,382,220,162
+Washington,WARD 2,Auditor of State,,Taylor Wettach,DEM,383,220,163
+Washington,WARD 3,Auditor of State,,Taylor Wettach,DEM,459,299,160
+Washington,WARD 4,Auditor of State,,Taylor Wettach,DEM,445,294,151
+Washington,WELLMAN,Auditor of State,,Taylor Wettach,DEM,438,167,271
+Washington,AINSWORTH,Auditor of State,,Write-In,,2,1,1
+Washington,BRIGHTON,Auditor of State,,Write-In,,1,0,1
+Washington,KALONA,Auditor of State,,Write-In,,1,0,1
+Washington,RICHMOND,Auditor of State,,Write-In,,0,0,0
+Washington,RIVERSIDE,Auditor of State,,Write-In,,0,0,0
+Washington,WARD 1,Auditor of State,,Write-In,,0,0,0
+Washington,WARD 2,Auditor of State,,Write-In,,1,1,0
+Washington,WARD 3,Auditor of State,,Write-In,,0,0,0
+Washington,WARD 4,Auditor of State,,Write-In,,3,0,3
+Washington,WELLMAN,Auditor of State,,Write-In,,2,0,2
+Washington,BRIGHTON,Brighton Township Clerk,,Write-In,,6,2,4
+Washington,BRIGHTON,Brighton Township Trustee,,Write-In,,8,3,5
+Washington,BRIGHTON,Clay Township Clerk,,Write-In,,10,2,8
+Washington,BRIGHTON,Clay Township Trustee,,Write-In,,10,2,8
+Washington,AINSWORTH,Constitutional Amendment 1,,No,,243,97,146
+Washington,BRIGHTON,Constitutional Amendment 1,,No,,227,82,145
+Washington,KALONA,Constitutional Amendment 1,,No,,566,196,370
+Washington,RICHMOND,Constitutional Amendment 1,,No,,198,74,124
+Washington,RIVERSIDE,Constitutional Amendment 1,,No,,593,214,379
+Washington,WARD 1,Constitutional Amendment 1,,No,,321,165,156
+Washington,WARD 2,Constitutional Amendment 1,,No,,339,192,147
+Washington,WARD 3,Constitutional Amendment 1,,No,,390,226,164
+Washington,WARD 4,Constitutional Amendment 1,,No,,366,229,137
+Washington,WELLMAN,Constitutional Amendment 1,,No,,462,163,299
+Washington,AINSWORTH,Constitutional Amendment 1,,Yes,,365,139,226
+Washington,BRIGHTON,Constitutional Amendment 1,,Yes,,365,135,230
+Washington,KALONA,Constitutional Amendment 1,,Yes,,725,195,530
+Washington,RICHMOND,Constitutional Amendment 1,,Yes,,308,110,198
+Washington,RIVERSIDE,Constitutional Amendment 1,,Yes,,707,288,419
+Washington,WARD 1,Constitutional Amendment 1,,Yes,,445,213,232
+Washington,WARD 2,Constitutional Amendment 1,,Yes,,444,187,257
+Washington,WARD 3,Constitutional Amendment 1,,Yes,,519,280,239
+Washington,WARD 4,Constitutional Amendment 1,,Yes,,476,247,229
+Washington,WELLMAN,Constitutional Amendment 1,,Yes,,668,167,501
+Washington,AINSWORTH,County Agricultural Extension Council Member,,Deidra Baker,,370,156,214
+Washington,BRIGHTON,County Agricultural Extension Council Member,,Deidra Baker,,361,133,228
+Washington,KALONA,County Agricultural Extension Council Member,,Deidra Baker,,691,195,496
+Washington,RICHMOND,County Agricultural Extension Council Member,,Deidra Baker,,259,93,166
+Washington,RIVERSIDE,County Agricultural Extension Council Member,,Deidra Baker,,695,264,431
+Washington,WARD 1,County Agricultural Extension Council Member,,Deidra Baker,,434,190,244
+Washington,WARD 2,County Agricultural Extension Council Member,,Deidra Baker,,426,197,229
+Washington,WARD 3,County Agricultural Extension Council Member,,Deidra Baker,,539,306,233
+Washington,WARD 4,County Agricultural Extension Council Member,,Deidra Baker,,510,293,217
+Washington,WELLMAN,County Agricultural Extension Council Member,,Deidra Baker,,599,161,438
+Washington,AINSWORTH,County Agricultural Extension Council Member,,Marianne Reha-Van Roekel,,358,150,208
+Washington,BRIGHTON,County Agricultural Extension Council Member,,Marianne Reha-Van Roekel,,351,128,223
+Washington,KALONA,County Agricultural Extension Council Member,,Marianne Reha-Van Roekel,,709,217,492
+Washington,RICHMOND,County Agricultural Extension Council Member,,Marianne Reha-Van Roekel,,276,96,180
+Washington,RIVERSIDE,County Agricultural Extension Council Member,,Marianne Reha-Van Roekel,,713,282,431
+Washington,WARD 1,County Agricultural Extension Council Member,,Marianne Reha-Van Roekel,,427,188,239
+Washington,WARD 2,County Agricultural Extension Council Member,,Marianne Reha-Van Roekel,,407,190,217
+Washington,WARD 3,County Agricultural Extension Council Member,,Marianne Reha-Van Roekel,,534,304,230
+Washington,WARD 4,County Agricultural Extension Council Member,,Marianne Reha-Van Roekel,,503,292,211
+Washington,WELLMAN,County Agricultural Extension Council Member,,Marianne Reha-Van Roekel,,645,180,465
+Washington,AINSWORTH,County Agricultural Extension Council Member,,Rhonda Clough,,379,154,225
+Washington,BRIGHTON,County Agricultural Extension Council Member,,Rhonda Clough,,389,133,256
+Washington,KALONA,County Agricultural Extension Council Member,,Rhonda Clough,,650,188,462
+Washington,RICHMOND,County Agricultural Extension Council Member,,Rhonda Clough,,252,88,164
+Washington,RIVERSIDE,County Agricultural Extension Council Member,,Rhonda Clough,,712,270,442
+Washington,WARD 1,County Agricultural Extension Council Member,,Rhonda Clough,,443,200,243
+Washington,WARD 2,County Agricultural Extension Council Member,,Rhonda Clough,,441,212,229
+Washington,WARD 3,County Agricultural Extension Council Member,,Rhonda Clough,,571,317,254
+Washington,WARD 4,County Agricultural Extension Council Member,,Rhonda Clough,,536,308,228
+Washington,WELLMAN,County Agricultural Extension Council Member,,Rhonda Clough,,549,154,395
+Washington,AINSWORTH,County Agricultural Extension Council Member,,Scott Sieren,,417,161,256
+Washington,BRIGHTON,County Agricultural Extension Council Member,,Scott Sieren,,426,154,272
+Washington,KALONA,County Agricultural Extension Council Member,,Scott Sieren,,751,224,527
+Washington,RICHMOND,County Agricultural Extension Council Member,,Scott Sieren,,296,112,184
+Washington,RIVERSIDE,County Agricultural Extension Council Member,,Scott Sieren,,771,294,477
+Washington,WARD 1,County Agricultural Extension Council Member,,Scott Sieren,,482,218,264
+Washington,WARD 2,County Agricultural Extension Council Member,,Scott Sieren,,487,222,265
+Washington,WARD 3,County Agricultural Extension Council Member,,Scott Sieren,,589,324,265
+Washington,WARD 4,County Agricultural Extension Council Member,,Scott Sieren,,551,313,238
+Washington,WELLMAN,County Agricultural Extension Council Member,,Scott Sieren,,685,185,500
+Washington,AINSWORTH,County Agricultural Extension Council Member,,Tad TeBockhorst,,406,166,240
+Washington,BRIGHTON,County Agricultural Extension Council Member,,Tad TeBockhorst,,412,149,263
+Washington,KALONA,County Agricultural Extension Council Member,,Tad TeBockhorst,,803,239,564
+Washington,RICHMOND,County Agricultural Extension Council Member,,Tad TeBockhorst,,338,121,217
+Washington,RIVERSIDE,County Agricultural Extension Council Member,,Tad TeBockhorst,,801,302,499
+Washington,WARD 1,County Agricultural Extension Council Member,,Tad TeBockhorst,,471,208,263
+Washington,WARD 2,County Agricultural Extension Council Member,,Tad TeBockhorst,,475,221,254
+Washington,WARD 3,County Agricultural Extension Council Member,,Tad TeBockhorst,,605,336,269
+Washington,WARD 4,County Agricultural Extension Council Member,,Tad TeBockhorst,,563,320,243
+Washington,WELLMAN,County Agricultural Extension Council Member,,Tad TeBockhorst,,731,199,532
+Washington,AINSWORTH,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Washington,BRIGHTON,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Washington,KALONA,County Agricultural Extension Council Member,,Write-In,,7,4,3
+Washington,RICHMOND,County Agricultural Extension Council Member,,Write-In,,14,4,10
+Washington,RIVERSIDE,County Agricultural Extension Council Member,,Write-In,,10,7,3
+Washington,WARD 1,County Agricultural Extension Council Member,,Write-In,,5,3,2
+Washington,WARD 2,County Agricultural Extension Council Member,,Write-In,,13,7,6
+Washington,WARD 3,County Agricultural Extension Council Member,,Write-In,,5,1,4
+Washington,WARD 4,County Agricultural Extension Council Member,,Write-In,,15,4,11
+Washington,WELLMAN,County Agricultural Extension Council Member,,Write-In,,13,7,6
+Washington,AINSWORTH,County Attorney,,Nathan Repp,REP,553,198,355
+Washington,BRIGHTON,County Attorney,,Nathan Repp,REP,537,180,357
+Washington,KALONA,County Attorney,,Nathan Repp,REP,1104,302,802
+Washington,RICHMOND,County Attorney,,Nathan Repp,REP,440,150,290
+Washington,RIVERSIDE,County Attorney,,Nathan Repp,REP,1017,353,664
+Washington,WARD 1,County Attorney,,Nathan Repp,REP,646,292,354
+Washington,WARD 2,County Attorney,,Nathan Repp,REP,664,308,356
+Washington,WARD 3,County Attorney,,Nathan Repp,REP,791,426,365
+Washington,WARD 4,County Attorney,,Nathan Repp,REP,714,388,326
+Washington,WELLMAN,County Attorney,,Nathan Repp,REP,954,244,710
+Washington,AINSWORTH,County Attorney,,Write-In,,9,4,5
+Washington,BRIGHTON,County Attorney,,Write-In,,8,2,6
+Washington,KALONA,County Attorney,,Write-In,,10,3,7
+Washington,RICHMOND,County Attorney,,Write-In,,9,5,4
+Washington,RIVERSIDE,County Attorney,,Write-In,,13,5,8
+Washington,WARD 1,County Attorney,,Write-In,,11,8,3
+Washington,WARD 2,County Attorney,,Write-In,,21,11,10
+Washington,WARD 3,County Attorney,,Write-In,,7,4,3
+Washington,WARD 4,County Attorney,,Write-In,,15,3,12
+Washington,WELLMAN,County Attorney,,Write-In,,17,7,10
+Washington,AINSWORTH,County Hospital Trustee,,Cathy Rich,,431,176,255
+Washington,BRIGHTON,County Hospital Trustee,,Cathy Rich,,430,158,272
+Washington,KALONA,County Hospital Trustee,,Cathy Rich,,788,231,557
+Washington,RICHMOND,County Hospital Trustee,,Cathy Rich,,318,116,202
+Washington,RIVERSIDE,County Hospital Trustee,,Cathy Rich,,810,309,501
+Washington,WARD 1,County Hospital Trustee,,Cathy Rich,,505,240,265
+Washington,WARD 2,County Hospital Trustee,,Cathy Rich,,520,259,261
+Washington,WARD 3,County Hospital Trustee,,Cathy Rich,,698,406,292
+Washington,WARD 4,County Hospital Trustee,,Cathy Rich,,601,362,239
+Washington,WELLMAN,County Hospital Trustee,,Cathy Rich,,667,199,468
+Washington,AINSWORTH,County Hospital Trustee,,David Mitchell,,404,165,239
+Washington,BRIGHTON,County Hospital Trustee,,David Mitchell,,405,144,261
+Washington,KALONA,County Hospital Trustee,,David Mitchell,,727,212,515
+Washington,RICHMOND,County Hospital Trustee,,David Mitchell,,298,110,188
+Washington,RIVERSIDE,County Hospital Trustee,,David Mitchell,,743,278,465
+Washington,WARD 1,County Hospital Trustee,,David Mitchell,,489,224,265
+Washington,WARD 2,County Hospital Trustee,,David Mitchell,,484,227,257
+Washington,WARD 3,County Hospital Trustee,,David Mitchell,,635,358,277
+Washington,WARD 4,County Hospital Trustee,,David Mitchell,,574,333,241
+Washington,WELLMAN,County Hospital Trustee,,David Mitchell,,641,177,464
+Washington,AINSWORTH,County Hospital Trustee,,Luke A. Horak,,440,172,268
+Washington,BRIGHTON,County Hospital Trustee,,Luke A. Horak,,440,156,284
+Washington,KALONA,County Hospital Trustee,,Luke A. Horak,,762,227,535
+Washington,RICHMOND,County Hospital Trustee,,Luke A. Horak,,320,116,204
+Washington,RIVERSIDE,County Hospital Trustee,,Luke A. Horak,,823,309,514
+Washington,WARD 1,County Hospital Trustee,,Luke A. Horak,,545,257,288
+Washington,WARD 2,County Hospital Trustee,,Luke A. Horak,,544,260,284
+Washington,WARD 3,County Hospital Trustee,,Luke A. Horak,,721,406,315
+Washington,WARD 4,County Hospital Trustee,,Luke A. Horak,,626,358,268
+Washington,WELLMAN,County Hospital Trustee,,Luke A. Horak,,678,180,498
+Washington,AINSWORTH,County Hospital Trustee,,Susan M. Basten,,396,162,234
+Washington,BRIGHTON,County Hospital Trustee,,Susan M. Basten,,401,153,248
+Washington,KALONA,County Hospital Trustee,,Susan M. Basten,,711,215,496
+Washington,RICHMOND,County Hospital Trustee,,Susan M. Basten,,294,107,187
+Washington,RIVERSIDE,County Hospital Trustee,,Susan M. Basten,,745,285,460
+Washington,WARD 1,County Hospital Trustee,,Susan M. Basten,,495,226,269
+Washington,WARD 2,County Hospital Trustee,,Susan M. Basten,,499,235,264
+Washington,WARD 3,County Hospital Trustee,,Susan M. Basten,,669,381,288
+Washington,WARD 4,County Hospital Trustee,,Susan M. Basten,,591,343,248
+Washington,WELLMAN,County Hospital Trustee,,Susan M. Basten,,636,188,448
+Washington,AINSWORTH,County Hospital Trustee,,Write-In,,3,2,1
+Washington,BRIGHTON,County Hospital Trustee,,Write-In,,1,0,1
+Washington,KALONA,County Hospital Trustee,,Write-In,,9,5,4
+Washington,RICHMOND,County Hospital Trustee,,Write-In,,11,3,8
+Washington,RIVERSIDE,County Hospital Trustee,,Write-In,,3,1,2
+Washington,WARD 1,County Hospital Trustee,,Write-In,,9,4,5
+Washington,WARD 2,County Hospital Trustee,,Write-In,,17,6,11
+Washington,WARD 3,County Hospital Trustee,,Write-In,,3,0,3
+Washington,WARD 4,County Hospital Trustee,,Write-In,,9,4,5
+Washington,WELLMAN,County Hospital Trustee,,Write-In,,20,5,15
+Washington,AINSWORTH,County Recorder,,Teresa Mangold,REP,562,201,361
+Washington,BRIGHTON,County Recorder,,Teresa Mangold,REP,546,182,364
+Washington,KALONA,County Recorder,,Teresa Mangold,REP,1102,306,796
+Washington,RICHMOND,County Recorder,,Teresa Mangold,REP,438,144,294
+Washington,RIVERSIDE,County Recorder,,Teresa Mangold,REP,1044,368,676
+Washington,WARD 1,County Recorder,,Teresa Mangold,REP,669,301,368
+Washington,WARD 2,County Recorder,,Teresa Mangold,REP,674,314,360
+Washington,WARD 3,County Recorder,,Teresa Mangold,REP,821,443,378
+Washington,WARD 4,County Recorder,,Teresa Mangold,REP,725,394,331
+Washington,WELLMAN,County Recorder,,Teresa Mangold,REP,976,254,722
+Washington,AINSWORTH,County Recorder,,Write-In,,7,4,3
+Washington,BRIGHTON,County Recorder,,Write-In,,6,1,5
+Washington,KALONA,County Recorder,,Write-In,,9,3,6
+Washington,RICHMOND,County Recorder,,Write-In,,10,6,4
+Washington,RIVERSIDE,County Recorder,,Write-In,,14,6,8
+Washington,WARD 1,County Recorder,,Write-In,,10,8,2
+Washington,WARD 2,County Recorder,,Write-In,,18,9,9
+Washington,WARD 3,County Recorder,,Write-In,,8,5,3
+Washington,WARD 4,County Recorder,,Write-In,,15,4,11
+Washington,WELLMAN,County Recorder,,Write-In,,17,7,10
+Washington,AINSWORTH,County Supervisor,3,JoAnn Whitmore,DEM,224,106,118
+Washington,RIVERSIDE,County Supervisor,3,JoAnn Whitmore,DEM,696,299,397
+Washington,AINSWORTH,County Supervisor,3,Marcus Fedler,REP,433,149,284
+Washington,RIVERSIDE,County Supervisor,3,Marcus Fedler,REP,689,232,457
+Washington,AINSWORTH,County Supervisor,3,Write-In,,1,0,1
+Washington,RIVERSIDE,County Supervisor,3,Write-In,,3,2,1
+Washington,WARD 1,County Supervisor,5,Brendan DeLong,REP,473,193,280
+Washington,WARD 2,County Supervisor,5,Brendan DeLong,REP,531,239,292
+Washington,WARD 1,County Supervisor,5,Lynette Iles,DEM,343,214,129
+Washington,WARD 2,County Supervisor,5,Lynette Iles,DEM,301,170,131
+Washington,WARD 1,County Supervisor,5,Write-In,,6,4,2
+Washington,WARD 2,County Supervisor,5,Write-In,,3,2,1
+Washington,AINSWORTH,County Treasurer,,Lindsay Greiner Adam,REP,561,202,359
+Washington,BRIGHTON,County Treasurer,,Lindsay Greiner Adam,REP,542,182,360
+Washington,KALONA,County Treasurer,,Lindsay Greiner Adam,REP,1105,308,797
+Washington,RICHMOND,County Treasurer,,Lindsay Greiner Adam,REP,438,151,287
+Washington,RIVERSIDE,County Treasurer,,Lindsay Greiner Adam,REP,1049,369,680
+Washington,WARD 1,County Treasurer,,Lindsay Greiner Adam,REP,658,293,365
+Washington,WARD 2,County Treasurer,,Lindsay Greiner Adam,REP,672,311,361
+Washington,WARD 3,County Treasurer,,Lindsay Greiner Adam,REP,811,437,374
+Washington,WARD 4,County Treasurer,,Lindsay Greiner Adam,REP,725,396,329
+Washington,WELLMAN,County Treasurer,,Lindsay Greiner Adam,REP,978,252,726
+Washington,AINSWORTH,County Treasurer,,Write-In,,6,3,3
+Washington,BRIGHTON,County Treasurer,,Write-In,,7,1,6
+Washington,KALONA,County Treasurer,,Write-In,,14,5,9
+Washington,RICHMOND,County Treasurer,,Write-In,,12,5,7
+Washington,RIVERSIDE,County Treasurer,,Write-In,,12,6,6
+Washington,WARD 1,County Treasurer,,Write-In,,14,8,6
+Washington,WARD 2,County Treasurer,,Write-In,,21,11,10
+Washington,WARD 3,County Treasurer,,Write-In,,10,5,5
+Washington,WARD 4,County Treasurer,,Write-In,,17,5,12
+Washington,WELLMAN,County Treasurer,,Write-In,,20,10,10
+Washington,AINSWORTH,Court of Appeals Judge - John M. Sandy,,No,,153,56,97
+Washington,BRIGHTON,Court of Appeals Judge - John M. Sandy,,No,,129,46,83
+Washington,KALONA,Court of Appeals Judge - John M. Sandy,,No,,238,63,175
+Washington,RICHMOND,Court of Appeals Judge - John M. Sandy,,No,,94,41,53
+Washington,RIVERSIDE,Court of Appeals Judge - John M. Sandy,,No,,234,95,139
+Washington,WARD 1,Court of Appeals Judge - John M. Sandy,,No,,175,81,94
+Washington,WARD 2,Court of Appeals Judge - John M. Sandy,,No,,139,62,77
+Washington,WARD 3,Court of Appeals Judge - John M. Sandy,,No,,175,98,77
+Washington,WARD 4,Court of Appeals Judge - John M. Sandy,,No,,153,74,79
+Washington,WELLMAN,Court of Appeals Judge - John M. Sandy,,No,,213,55,158
+Washington,AINSWORTH,Court of Appeals Judge - John M. Sandy,,Yes,,361,138,223
+Washington,BRIGHTON,Court of Appeals Judge - John M. Sandy,,Yes,,336,110,226
+Washington,KALONA,Court of Appeals Judge - John M. Sandy,,Yes,,678,200,478
+Washington,RICHMOND,Court of Appeals Judge - John M. Sandy,,Yes,,250,78,172
+Washington,RIVERSIDE,Court of Appeals Judge - John M. Sandy,,Yes,,754,285,469
+Washington,WARD 1,Court of Appeals Judge - John M. Sandy,,Yes,,443,205,238
+Washington,WARD 2,Court of Appeals Judge - John M. Sandy,,Yes,,466,219,247
+Washington,WARD 3,Court of Appeals Judge - John M. Sandy,,Yes,,533,291,242
+Washington,WARD 4,Court of Appeals Judge - John M. Sandy,,Yes,,515,295,220
+Washington,WELLMAN,Court of Appeals Judge - John M. Sandy,,Yes,,619,165,454
+Washington,AINSWORTH,Court of Appeals Judge - Julie A. Schumacher,,No,,144,50,94
+Washington,BRIGHTON,Court of Appeals Judge - Julie A. Schumacher,,No,,122,44,78
+Washington,KALONA,Court of Appeals Judge - Julie A. Schumacher,,No,,214,51,163
+Washington,RICHMOND,Court of Appeals Judge - Julie A. Schumacher,,No,,96,43,53
+Washington,RIVERSIDE,Court of Appeals Judge - Julie A. Schumacher,,No,,226,96,130
+Washington,WARD 1,Court of Appeals Judge - Julie A. Schumacher,,No,,168,84,84
+Washington,WARD 2,Court of Appeals Judge - Julie A. Schumacher,,No,,128,57,71
+Washington,WARD 3,Court of Appeals Judge - Julie A. Schumacher,,No,,172,96,76
+Washington,WARD 4,Court of Appeals Judge - Julie A. Schumacher,,No,,146,72,74
+Washington,WELLMAN,Court of Appeals Judge - Julie A. Schumacher,,No,,202,49,153
+Washington,AINSWORTH,Court of Appeals Judge - Julie A. Schumacher,,Yes,,374,143,231
+Washington,BRIGHTON,Court of Appeals Judge - Julie A. Schumacher,,Yes,,346,113,233
+Washington,KALONA,Court of Appeals Judge - Julie A. Schumacher,,Yes,,704,214,490
+Washington,RICHMOND,Court of Appeals Judge - Julie A. Schumacher,,Yes,,253,80,173
+Washington,RIVERSIDE,Court of Appeals Judge - Julie A. Schumacher,,Yes,,765,283,482
+Washington,WARD 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,450,205,245
+Washington,WARD 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,482,224,258
+Washington,WARD 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,536,297,239
+Washington,WARD 4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,519,294,225
+Washington,WELLMAN,Court of Appeals Judge - Julie A. Schumacher,,Yes,,635,172,463
+Washington,AINSWORTH,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,160,58,102
+Washington,BRIGHTON,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,136,45,91
+Washington,KALONA,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,227,59,168
+Washington,RICHMOND,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,102,46,56
+Washington,RIVERSIDE,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,226,86,140
+Washington,WARD 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,176,82,94
+Washington,WARD 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,138,56,82
+Washington,WARD 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,166,90,76
+Washington,WARD 4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,156,71,85
+Washington,WELLMAN,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,210,54,156
+Washington,AINSWORTH,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,360,139,221
+Washington,BRIGHTON,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,340,118,222
+Washington,KALONA,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,694,205,489
+Washington,RICHMOND,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,247,78,169
+Washington,RIVERSIDE,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,774,298,476
+Washington,WARD 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,447,211,236
+Washington,WARD 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,472,227,245
+Washington,WARD 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,542,299,243
+Washington,WARD 4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,515,302,213
+Washington,WELLMAN,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,629,169,460
+Washington,AINSWORTH,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,138,50,88
+Washington,BRIGHTON,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,127,46,81
+Washington,KALONA,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,216,51,165
+Washington,RICHMOND,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,93,42,51
+Washington,RIVERSIDE,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,212,81,131
+Washington,WARD 1,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,160,72,88
+Washington,WARD 2,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,119,55,64
+Washington,WARD 3,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,160,87,73
+Washington,WARD 4,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,137,65,72
+Washington,WELLMAN,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,200,51,149
+Washington,AINSWORTH,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,375,142,233
+Washington,BRIGHTON,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,335,112,223
+Washington,KALONA,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,697,212,485
+Washington,RICHMOND,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,250,77,173
+Washington,RIVERSIDE,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,771,294,477
+Washington,WARD 1,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,450,213,237
+Washington,WARD 2,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,488,222,266
+Washington,WARD 3,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,544,297,247
+Washington,WARD 4,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,519,296,223
+Washington,WELLMAN,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,629,167,462
+Washington,AINSWORTH,District 8A Associate Judge - Susan Cole,,No,,143,53,90
+Washington,BRIGHTON,District 8A Associate Judge - Susan Cole,,No,,120,44,76
+Washington,KALONA,District 8A Associate Judge - Susan Cole,,No,,215,52,163
+Washington,RICHMOND,District 8A Associate Judge - Susan Cole,,No,,88,36,52
+Washington,RIVERSIDE,District 8A Associate Judge - Susan Cole,,No,,222,88,134
+Washington,WARD 1,District 8A Associate Judge - Susan Cole,,No,,168,78,90
+Washington,WARD 2,District 8A Associate Judge - Susan Cole,,No,,129,54,75
+Washington,WARD 3,District 8A Associate Judge - Susan Cole,,No,,162,90,72
+Washington,WARD 4,District 8A Associate Judge - Susan Cole,,No,,157,75,82
+Washington,WELLMAN,District 8A Associate Judge - Susan Cole,,No,,206,54,152
+Washington,AINSWORTH,District 8A Associate Judge - Susan Cole,,Yes,,375,142,233
+Washington,BRIGHTON,District 8A Associate Judge - Susan Cole,,Yes,,342,113,229
+Washington,KALONA,District 8A Associate Judge - Susan Cole,,Yes,,701,216,485
+Washington,RICHMOND,District 8A Associate Judge - Susan Cole,,Yes,,260,86,174
+Washington,RIVERSIDE,District 8A Associate Judge - Susan Cole,,Yes,,770,292,478
+Washington,WARD 1,District 8A Associate Judge - Susan Cole,,Yes,,446,208,238
+Washington,WARD 2,District 8A Associate Judge - Susan Cole,,Yes,,479,227,252
+Washington,WARD 3,District 8A Associate Judge - Susan Cole,,Yes,,542,296,246
+Washington,WARD 4,District 8A Associate Judge - Susan Cole,,Yes,,501,287,214
+Washington,WELLMAN,District 8A Associate Judge - Susan Cole,,Yes,,627,165,462
+Washington,AINSWORTH,District 8A Judge - Amber L. Thompson,,No,,149,53,96
+Washington,BRIGHTON,District 8A Judge - Amber L. Thompson,,No,,117,45,72
+Washington,KALONA,District 8A Judge - Amber L. Thompson,,No,,220,53,167
+Washington,RICHMOND,District 8A Judge - Amber L. Thompson,,No,,93,40,53
+Washington,RIVERSIDE,District 8A Judge - Amber L. Thompson,,No,,220,87,133
+Washington,WARD 1,District 8A Judge - Amber L. Thompson,,No,,165,76,89
+Washington,WARD 2,District 8A Judge - Amber L. Thompson,,No,,132,56,76
+Washington,WARD 3,District 8A Judge - Amber L. Thompson,,No,,157,84,73
+Washington,WARD 4,District 8A Judge - Amber L. Thompson,,No,,144,68,76
+Washington,WELLMAN,District 8A Judge - Amber L. Thompson,,No,,207,53,154
+Washington,AINSWORTH,District 8A Judge - Amber L. Thompson,,Yes,,365,141,224
+Washington,BRIGHTON,District 8A Judge - Amber L. Thompson,,Yes,,350,113,237
+Washington,KALONA,District 8A Judge - Amber L. Thompson,,Yes,,698,212,486
+Washington,RICHMOND,District 8A Judge - Amber L. Thompson,,Yes,,254,83,171
+Washington,RIVERSIDE,District 8A Judge - Amber L. Thompson,,Yes,,774,294,480
+Washington,WARD 1,District 8A Judge - Amber L. Thompson,,Yes,,450,213,237
+Washington,WARD 2,District 8A Judge - Amber L. Thompson,,Yes,,480,227,253
+Washington,WARD 3,District 8A Judge - Amber L. Thompson,,Yes,,550,307,243
+Washington,WARD 4,District 8A Judge - Amber L. Thompson,,Yes,,514,297,217
+Washington,WELLMAN,District 8A Judge - Amber L. Thompson,,Yes,,636,172,464
+Washington,AINSWORTH,District 8A Judge - Dustin Hite,,No,,154,57,97
+Washington,BRIGHTON,District 8A Judge - Dustin Hite,,No,,125,47,78
+Washington,KALONA,District 8A Judge - Dustin Hite,,No,,239,60,179
+Washington,RICHMOND,District 8A Judge - Dustin Hite,,No,,96,42,54
+Washington,RIVERSIDE,District 8A Judge - Dustin Hite,,No,,242,97,145
+Washington,WARD 1,District 8A Judge - Dustin Hite,,No,,190,91,99
+Washington,WARD 2,District 8A Judge - Dustin Hite,,No,,136,61,75
+Washington,WARD 3,District 8A Judge - Dustin Hite,,No,,174,97,77
+Washington,WARD 4,District 8A Judge - Dustin Hite,,No,,164,82,82
+Washington,WELLMAN,District 8A Judge - Dustin Hite,,No,,221,61,160
+Washington,AINSWORTH,District 8A Judge - Dustin Hite,,Yes,,361,136,225
+Washington,BRIGHTON,District 8A Judge - Dustin Hite,,Yes,,339,111,228
+Washington,KALONA,District 8A Judge - Dustin Hite,,Yes,,677,206,471
+Washington,RICHMOND,District 8A Judge - Dustin Hite,,Yes,,245,75,170
+Washington,RIVERSIDE,District 8A Judge - Dustin Hite,,Yes,,741,282,459
+Washington,WARD 1,District 8A Judge - Dustin Hite,,Yes,,426,196,230
+Washington,WARD 2,District 8A Judge - Dustin Hite,,Yes,,470,217,253
+Washington,WARD 3,District 8A Judge - Dustin Hite,,Yes,,530,290,240
+Washington,WARD 4,District 8A Judge - Dustin Hite,,Yes,,499,283,216
+Washington,WELLMAN,District 8A Judge - Dustin Hite,,Yes,,612,160,452
+Washington,BRIGHTON,Fairfield School - Public Measure LR,,No,,2,2,0
+Washington,BRIGHTON,Fairfield School - Public Measure LR,,Yes,,0,0,0
+Washington,AINSWORTH,Governor,,Rob Sand and Dave Muhlbauer,DEM,260,128,132
+Washington,BRIGHTON,Governor,,Rob Sand and Dave Muhlbauer,DEM,235,108,127
+Washington,KALONA,Governor,,Rob Sand and Dave Muhlbauer,DEM,719,257,462
+Washington,RICHMOND,Governor,,Rob Sand and Dave Muhlbauer,DEM,215,94,121
+Washington,RIVERSIDE,Governor,,Rob Sand and Dave Muhlbauer,DEM,832,351,481
+Washington,WARD 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,422,229,193
+Washington,WARD 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,416,236,180
+Washington,WARD 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,517,336,181
+Washington,WARD 4,Governor,,Rob Sand and Dave Muhlbauer,DEM,495,316,179
+Washington,WELLMAN,Governor,,Rob Sand and Dave Muhlbauer,DEM,515,183,332
+Washington,AINSWORTH,Governor,,Write-In,,3,2,1
+Washington,BRIGHTON,Governor,,Write-In,,2,0,2
+Washington,KALONA,Governor,,Write-In,,2,0,2
+Washington,RICHMOND,Governor,,Write-In,,1,0,1
+Washington,RIVERSIDE,Governor,,Write-In,,0,0,0
+Washington,WARD 1,Governor,,Write-In,,1,0,1
+Washington,WARD 2,Governor,,Write-In,,2,1,1
+Washington,WARD 3,Governor,,Write-In,,0,0,0
+Washington,WARD 4,Governor,,Write-In,,3,0,3
+Washington,WELLMAN,Governor,,Write-In,,1,0,1
+Washington,AINSWORTH,Governor,,Zach Lahn and Derek Wulf,REP,407,131,276
+Washington,BRIGHTON,Governor,,Zach Lahn and Derek Wulf,REP,419,133,286
+Washington,KALONA,Governor,,Zach Lahn and Derek Wulf,REP,757,198,559
+Washington,RICHMOND,Governor,,Zach Lahn and Derek Wulf,REP,345,112,233
+Washington,RIVERSIDE,Governor,,Zach Lahn and Derek Wulf,REP,624,200,424
+Washington,WARD 1,Governor,,Zach Lahn and Derek Wulf,REP,415,185,230
+Washington,WARD 2,Governor,,Zach Lahn and Derek Wulf,REP,434,186,248
+Washington,WARD 3,Governor,,Zach Lahn and Derek Wulf,REP,484,234,250
+Washington,WARD 4,Governor,,Zach Lahn and Derek Wulf,REP,441,218,223
+Washington,WELLMAN,Governor,,Zach Lahn and Derek Wulf,REP,696,169,527
+Washington,BRIGHTON,Keota School - Public Measure ML,,No,,33,18,15
+Washington,WELLMAN,Keota School - Public Measure ML,,No,,52,25,27
+Washington,BRIGHTON,Keota School - Public Measure ML,,Yes,,49,18,31
+Washington,WELLMAN,Keota School - Public Measure ML,,Yes,,77,32,45
+Washington,AINSWORTH,Kirkwood Community College - Public Measure NC,,No,,153,45,108
+Washington,BRIGHTON,Kirkwood Community College - Public Measure NC,,No,,214,70,144
+Washington,KALONA,Kirkwood Community College - Public Measure NC,,No,,430,123,307
+Washington,RICHMOND,Kirkwood Community College - Public Measure NC,,No,,201,83,118
+Washington,RIVERSIDE,Kirkwood Community College - Public Measure NC,,No,,446,139,307
+Washington,WARD 1,Kirkwood Community College - Public Measure NC,,No,,289,132,157
+Washington,WARD 2,Kirkwood Community College - Public Measure NC,,No,,284,141,143
+Washington,WARD 3,Kirkwood Community College - Public Measure NC,,No,,312,160,152
+Washington,WARD 4,Kirkwood Community College - Public Measure NC,,No,,291,144,147
+Washington,WELLMAN,Kirkwood Community College - Public Measure NC,,No,,364,91,273
+Washington,AINSWORTH,Kirkwood Community College - Public Measure NC,,Yes,,198,72,126
+Washington,BRIGHTON,Kirkwood Community College - Public Measure NC,,Yes,,267,96,171
+Washington,KALONA,Kirkwood Community College - Public Measure NC,,Yes,,876,272,604
+Washington,RICHMOND,Kirkwood Community College - Public Measure NC,,Yes,,308,101,207
+Washington,RIVERSIDE,Kirkwood Community College - Public Measure NC,,Yes,,872,359,513
+Washington,WARD 1,Kirkwood Community College - Public Measure NC,,Yes,,488,249,239
+Washington,WARD 2,Kirkwood Community College - Public Measure NC,,Yes,,465,224,241
+Washington,WARD 3,Kirkwood Community College - Public Measure NC,,Yes,,574,327,247
+Washington,WARD 4,Kirkwood Community College - Public Measure NC,,Yes,,580,357,223
+Washington,WELLMAN,Kirkwood Community College - Public Measure NC,,Yes,,639,182,457
+Washington,BRIGHTON,Mid-Prairie School - Public Measure VF,,No,,20,13,7
+Washington,KALONA,Mid-Prairie School - Public Measure VF,,No,,414,129,285
+Washington,RICHMOND,Mid-Prairie School - Public Measure VF,,No,,169,77,92
+Washington,WARD 4,Mid-Prairie School - Public Measure VF,,No,,12,3,9
+Washington,WELLMAN,Mid-Prairie School - Public Measure VF,,No,,346,104,242
+Washington,BRIGHTON,Mid-Prairie School - Public Measure VF,,Yes,,24,14,10
+Washington,KALONA,Mid-Prairie School - Public Measure VF,,Yes,,986,297,689
+Washington,RICHMOND,Mid-Prairie School - Public Measure VF,,Yes,,267,75,192
+Washington,WARD 4,Mid-Prairie School - Public Measure VF,,Yes,,16,5,11
+Washington,WELLMAN,Mid-Prairie School - Public Measure VF,,Yes,,684,168,516
+Washington,BRIGHTON,Pekin School - Public Measure MN,,No,,9,0,9
+Washington,BRIGHTON,Pekin School - Public Measure MN,,Yes,,18,9,9
+Washington,AINSWORTH,Secretary of Agriculture,,Chris Jones,DEM,197,99,98
+Washington,BRIGHTON,Secretary of Agriculture,,Chris Jones,DEM,188,89,99
+Washington,KALONA,Secretary of Agriculture,,Chris Jones,DEM,595,214,381
+Washington,RICHMOND,Secretary of Agriculture,,Chris Jones,DEM,162,76,86
+Washington,RIVERSIDE,Secretary of Agriculture,,Chris Jones,DEM,639,273,366
+Washington,WARD 1,Secretary of Agriculture,,Chris Jones,DEM,347,200,147
+Washington,WARD 2,Secretary of Agriculture,,Chris Jones,DEM,346,197,149
+Washington,WARD 3,Secretary of Agriculture,,Chris Jones,DEM,403,269,134
+Washington,WARD 4,Secretary of Agriculture,,Chris Jones,DEM,394,251,143
+Washington,WELLMAN,Secretary of Agriculture,,Chris Jones,DEM,394,144,250
+Washington,AINSWORTH,Secretary of Agriculture,,Mike Naig,REP,466,163,303
+Washington,BRIGHTON,Secretary of Agriculture,,Mike Naig,REP,462,148,314
+Washington,KALONA,Secretary of Agriculture,,Mike Naig,REP,832,226,606
+Washington,RICHMOND,Secretary of Agriculture,,Mike Naig,REP,389,129,260
+Washington,RIVERSIDE,Secretary of Agriculture,,Mike Naig,REP,778,267,511
+Washington,WARD 1,Secretary of Agriculture,,Mike Naig,REP,476,209,267
+Washington,WARD 2,Secretary of Agriculture,,Mike Naig,REP,489,216,273
+Washington,WARD 3,Secretary of Agriculture,,Mike Naig,REP,583,296,287
+Washington,WARD 4,Secretary of Agriculture,,Mike Naig,REP,520,278,242
+Washington,WELLMAN,Secretary of Agriculture,,Mike Naig,REP,793,202,591
+Washington,AINSWORTH,Secretary of Agriculture,,Write-In,,2,0,2
+Washington,BRIGHTON,Secretary of Agriculture,,Write-In,,3,1,2
+Washington,KALONA,Secretary of Agriculture,,Write-In,,3,1,2
+Washington,RICHMOND,Secretary of Agriculture,,Write-In,,0,0,0
+Washington,RIVERSIDE,Secretary of Agriculture,,Write-In,,0,0,0
+Washington,WARD 1,Secretary of Agriculture,,Write-In,,0,0,0
+Washington,WARD 2,Secretary of Agriculture,,Write-In,,2,1,1
+Washington,WARD 3,Secretary of Agriculture,,Write-In,,0,0,0
+Washington,WARD 4,Secretary of Agriculture,,Write-In,,3,1,2
+Washington,WELLMAN,Secretary of Agriculture,,Write-In,,0,0,0
+Washington,AINSWORTH,Secretary of State,,Paul D. Pate,REP,462,159,303
+Washington,BRIGHTON,Secretary of State,,Paul D. Pate,REP,471,148,323
+Washington,KALONA,Secretary of State,,Paul D. Pate,REP,853,227,626
+Washington,RICHMOND,Secretary of State,,Paul D. Pate,REP,377,122,255
+Washington,RIVERSIDE,Secretary of State,,Paul D. Pate,REP,775,254,521
+Washington,WARD 1,Secretary of State,,Paul D. Pate,REP,469,205,264
+Washington,WARD 2,Secretary of State,,Paul D. Pate,REP,488,211,277
+Washington,WARD 3,Secretary of State,,Paul D. Pate,REP,590,301,289
+Washington,WARD 4,Secretary of State,,Paul D. Pate,REP,508,265,243
+Washington,WELLMAN,Secretary of State,,Paul D. Pate,REP,797,205,592
+Washington,AINSWORTH,Secretary of State,,Ryan Peterman,DEM,195,97,98
+Washington,BRIGHTON,Secretary of State,,Ryan Peterman,DEM,182,90,92
+Washington,KALONA,Secretary of State,,Ryan Peterman,DEM,583,219,364
+Washington,RICHMOND,Secretary of State,,Ryan Peterman,DEM,170,82,88
+Washington,RIVERSIDE,Secretary of State,,Ryan Peterman,DEM,641,285,356
+Washington,WARD 1,Secretary of State,,Ryan Peterman,DEM,352,204,148
+Washington,WARD 2,Secretary of State,,Ryan Peterman,DEM,341,198,143
+Washington,WARD 3,Secretary of State,,Ryan Peterman,DEM,387,253,134
+Washington,WARD 4,Secretary of State,,Ryan Peterman,DEM,404,263,141
+Washington,WELLMAN,Secretary of State,,Ryan Peterman,DEM,383,141,242
+Washington,AINSWORTH,Secretary of State,,Write-In,,1,0,1
+Washington,BRIGHTON,Secretary of State,,Write-In,,1,0,1
+Washington,KALONA,Secretary of State,,Write-In,,1,0,1
+Washington,RICHMOND,Secretary of State,,Write-In,,2,0,2
+Washington,RIVERSIDE,Secretary of State,,Write-In,,0,0,0
+Washington,WARD 1,Secretary of State,,Write-In,,1,0,1
+Washington,WARD 2,Secretary of State,,Write-In,,1,1,0
+Washington,WARD 3,Secretary of State,,Write-In,,2,0,2
+Washington,WARD 4,Secretary of State,,Write-In,,3,0,3
+Washington,WELLMAN,Secretary of State,,Write-In,,1,0,1
+Washington,AINSWORTH,Soil and Water Conservation District Commissioner,,Darrell Steele,,479,184,295
+Washington,BRIGHTON,Soil and Water Conservation District Commissioner,,Darrell Steele,,455,154,301
+Washington,KALONA,Soil and Water Conservation District Commissioner,,Darrell Steele,,826,243,583
+Washington,RICHMOND,Soil and Water Conservation District Commissioner,,Darrell Steele,,335,119,216
+Washington,RIVERSIDE,Soil and Water Conservation District Commissioner,,Darrell Steele,,884,338,546
+Washington,WARD 1,Soil and Water Conservation District Commissioner,,Darrell Steele,,500,218,282
+Washington,WARD 2,Soil and Water Conservation District Commissioner,,Darrell Steele,,533,252,281
+Washington,WARD 3,Soil and Water Conservation District Commissioner,,Darrell Steele,,656,368,288
+Washington,WARD 4,Soil and Water Conservation District Commissioner,,Darrell Steele,,599,335,264
+Washington,WELLMAN,Soil and Water Conservation District Commissioner,,Darrell Steele,,718,181,537
+Washington,AINSWORTH,Soil and Water Conservation District Commissioner,,Illa Mae Earnest,,399,174,225
+Washington,BRIGHTON,Soil and Water Conservation District Commissioner,,Illa Mae Earnest,,372,137,235
+Washington,KALONA,Soil and Water Conservation District Commissioner,,Illa Mae Earnest,,719,213,506
+Washington,RICHMOND,Soil and Water Conservation District Commissioner,,Illa Mae Earnest,,269,101,168
+Washington,RIVERSIDE,Soil and Water Conservation District Commissioner,,Illa Mae Earnest,,735,281,454
+Washington,WARD 1,Soil and Water Conservation District Commissioner,,Illa Mae Earnest,,487,241,246
+Washington,WARD 2,Soil and Water Conservation District Commissioner,,Illa Mae Earnest,,506,250,256
+Washington,WARD 3,Soil and Water Conservation District Commissioner,,Illa Mae Earnest,,653,380,273
+Washington,WARD 4,Soil and Water Conservation District Commissioner,,Illa Mae Earnest,,559,334,225
+Washington,WELLMAN,Soil and Water Conservation District Commissioner,,Illa Mae Earnest,,605,177,428
+Washington,AINSWORTH,Soil and Water Conservation District Commissioner,,Write-In,,4,0,4
+Washington,BRIGHTON,Soil and Water Conservation District Commissioner,,Write-In,,14,1,13
+Washington,KALONA,Soil and Water Conservation District Commissioner,,Write-In,,11,4,7
+Washington,RICHMOND,Soil and Water Conservation District Commissioner,,Write-In,,17,2,15
+Washington,RIVERSIDE,Soil and Water Conservation District Commissioner,,Write-In,,21,3,18
+Washington,WARD 1,Soil and Water Conservation District Commissioner,,Write-In,,20,0,20
+Washington,WARD 2,Soil and Water Conservation District Commissioner,,Write-In,,12,4,8
+Washington,WARD 3,Soil and Water Conservation District Commissioner,,Write-In,,7,0,7
+Washington,WARD 4,Soil and Water Conservation District Commissioner,,Write-In,,14,4,10
+Washington,WELLMAN,Soil and Water Conservation District Commissioner,,Write-In,,22,5,17
+Washington,AINSWORTH,State House,92,Brittany Erickson,DEM,204,102,102
+Washington,BRIGHTON,State House,92,Brittany Erickson,DEM,177,94,83
+Washington,KALONA,State House,92,Brittany Erickson,DEM,596,222,374
+Washington,RICHMOND,State House,92,Brittany Erickson,DEM,183,86,97
+Washington,RIVERSIDE,State House,92,Brittany Erickson,DEM,658,297,361
+Washington,WARD 1,State House,92,Brittany Erickson,DEM,351,208,143
+Washington,WARD 2,State House,92,Brittany Erickson,DEM,347,200,147
+Washington,WARD 3,State House,92,Brittany Erickson,DEM,413,282,131
+Washington,WARD 4,State House,92,Brittany Erickson,DEM,398,266,132
+Washington,WELLMAN,State House,92,Brittany Erickson,DEM,405,155,250
+Washington,AINSWORTH,State House,92,Heather Hora,REP,457,158,299
+Washington,BRIGHTON,State House,92,Heather Hora,REP,475,144,331
+Washington,KALONA,State House,92,Heather Hora,REP,841,215,626
+Washington,RICHMOND,State House,92,Heather Hora,REP,369,117,252
+Washington,RIVERSIDE,State House,92,Heather Hora,REP,756,246,510
+Washington,WARD 1,State House,92,Heather Hora,REP,470,200,270
+Washington,WARD 2,State House,92,Heather Hora,REP,500,218,282
+Washington,WARD 3,State House,92,Heather Hora,REP,574,283,291
+Washington,WARD 4,State House,92,Heather Hora,REP,521,265,256
+Washington,WELLMAN,State House,92,Heather Hora,REP,790,194,596
+Washington,AINSWORTH,State House,92,Write-In,,1,0,1
+Washington,BRIGHTON,State House,92,Write-In,,1,0,1
+Washington,KALONA,State House,92,Write-In,,3,0,3
+Washington,RICHMOND,State House,92,Write-In,,0,0,0
+Washington,RIVERSIDE,State House,92,Write-In,,0,0,0
+Washington,WARD 1,State House,92,Write-In,,1,0,1
+Washington,WARD 2,State House,92,Write-In,,0,0,0
+Washington,WARD 3,State House,92,Write-In,,0,0,0
+Washington,WARD 4,State House,92,Write-In,,3,0,3
+Washington,WELLMAN,State House,92,Write-In,,1,0,1
+Washington,AINSWORTH,Treasurer of State,,John Norwood,DEM,217,107,110
+Washington,BRIGHTON,Treasurer of State,,John Norwood,DEM,207,101,106
+Washington,KALONA,Treasurer of State,,John Norwood,DEM,621,238,383
+Washington,RICHMOND,Treasurer of State,,John Norwood,DEM,183,84,99
+Washington,RIVERSIDE,Treasurer of State,,John Norwood,DEM,683,300,383
+Washington,WARD 1,Treasurer of State,,John Norwood,DEM,371,212,159
+Washington,WARD 2,Treasurer of State,,John Norwood,DEM,369,214,155
+Washington,WARD 3,Treasurer of State,,John Norwood,DEM,445,296,149
+Washington,WARD 4,Treasurer of State,,John Norwood,DEM,440,291,149
+Washington,WELLMAN,Treasurer of State,,John Norwood,DEM,425,169,256
+Washington,AINSWORTH,Treasurer of State,,Roby Smith,REP,437,148,289
+Washington,BRIGHTON,Treasurer of State,,Roby Smith,REP,436,134,302
+Washington,KALONA,Treasurer of State,,Roby Smith,REP,787,198,589
+Washington,RICHMOND,Treasurer of State,,Roby Smith,REP,354,115,239
+Washington,RIVERSIDE,Treasurer of State,,Roby Smith,REP,695,228,467
+Washington,WARD 1,Treasurer of State,,Roby Smith,REP,442,198,244
+Washington,WARD 2,Treasurer of State,,Roby Smith,REP,459,194,265
+Washington,WARD 3,Treasurer of State,,Roby Smith,REP,525,259,266
+Washington,WARD 4,Treasurer of State,,Roby Smith,REP,468,233,235
+Washington,WELLMAN,Treasurer of State,,Roby Smith,REP,736,170,566
+Washington,AINSWORTH,Treasurer of State,,Write-In,,1,0,1
+Washington,BRIGHTON,Treasurer of State,,Write-In,,1,0,1
+Washington,KALONA,Treasurer of State,,Write-In,,3,0,3
+Washington,RICHMOND,Treasurer of State,,Write-In,,0,0,0
+Washington,RIVERSIDE,Treasurer of State,,Write-In,,0,0,0
+Washington,WARD 1,Treasurer of State,,Write-In,,1,0,1
+Washington,WARD 2,Treasurer of State,,Write-In,,1,1,0
+Washington,WARD 3,Treasurer of State,,Write-In,,0,0,0
+Washington,WARD 4,Treasurer of State,,Write-In,,3,1,2
+Washington,WELLMAN,Treasurer of State,,Write-In,,2,1,1
+Washington,AINSWORTH,U.S. House,1,Christina Bohannan,DEM,223,115,108
+Washington,BRIGHTON,U.S. House,1,Christina Bohannan,DEM,207,99,108
+Washington,KALONA,U.S. House,1,Christina Bohannan,DEM,656,245,411
+Washington,RICHMOND,U.S. House,1,Christina Bohannan,DEM,195,87,108
+Washington,RIVERSIDE,U.S. House,1,Christina Bohannan,DEM,741,322,419
+Washington,WARD 1,U.S. House,1,Christina Bohannan,DEM,381,217,164
+Washington,WARD 2,U.S. House,1,Christina Bohannan,DEM,370,213,157
+Washington,WARD 3,U.S. House,1,Christina Bohannan,DEM,461,299,162
+Washington,WARD 4,U.S. House,1,Christina Bohannan,DEM,445,294,151
+Washington,WELLMAN,U.S. House,1,Christina Bohannan,DEM,459,171,288
+Washington,AINSWORTH,U.S. House,1,Mariannette Miller-Meeks,REP,406,137,269
+Washington,BRIGHTON,U.S. House,1,Mariannette Miller-Meeks,REP,423,135,288
+Washington,KALONA,U.S. House,1,Mariannette Miller-Meeks,REP,754,199,555
+Washington,RICHMOND,U.S. House,1,Mariannette Miller-Meeks,REP,341,113,228
+Washington,RIVERSIDE,U.S. House,1,Mariannette Miller-Meeks,REP,661,214,447
+Washington,WARD 1,U.S. House,1,Mariannette Miller-Meeks,REP,422,188,234
+Washington,WARD 2,U.S. House,1,Mariannette Miller-Meeks,REP,443,193,250
+Washington,WARD 3,U.S. House,1,Mariannette Miller-Meeks,REP,513,257,256
+Washington,WARD 4,U.S. House,1,Mariannette Miller-Meeks,REP,456,224,232
+Washington,WELLMAN,U.S. House,1,Mariannette Miller-Meeks,REP,709,175,534
+Washington,AINSWORTH,U.S. House,1,Michael Bridgford,,40,9,31
+Washington,BRIGHTON,U.S. House,1,Michael Bridgford,,27,5,22
+Washington,KALONA,U.S. House,1,Michael Bridgford,,54,10,44
+Washington,RICHMOND,U.S. House,1,Michael Bridgford,,15,2,13
+Washington,RIVERSIDE,U.S. House,1,Michael Bridgford,,46,13,33
+Washington,WARD 1,U.S. House,1,Michael Bridgford,,34,9,25
+Washington,WARD 2,U.S. House,1,Michael Bridgford,,36,14,22
+Washington,WARD 3,U.S. House,1,Michael Bridgford,,30,17,13
+Washington,WARD 4,U.S. House,1,Michael Bridgford,,33,15,18
+Washington,WELLMAN,U.S. House,1,Michael Bridgford,,40,7,33
+Washington,AINSWORTH,U.S. House,1,Write-In,,0,0,0
+Washington,BRIGHTON,U.S. House,1,Write-In,,1,0,1
+Washington,KALONA,U.S. House,1,Write-In,,2,0,2
+Washington,RICHMOND,U.S. House,1,Write-In,,1,0,1
+Washington,RIVERSIDE,U.S. House,1,Write-In,,0,0,0
+Washington,WARD 1,U.S. House,1,Write-In,,0,0,0
+Washington,WARD 2,U.S. House,1,Write-In,,0,0,0
+Washington,WARD 3,U.S. House,1,Write-In,,0,0,0
+Washington,WARD 4,U.S. House,1,Write-In,,2,0,2
+Washington,WELLMAN,U.S. House,1,Write-In,,2,0,2
+Washington,AINSWORTH,U.S. Senate,,Ashley Hinson,REP,413,141,272
+Washington,BRIGHTON,U.S. Senate,,Ashley Hinson,REP,426,134,292
+Washington,KALONA,U.S. Senate,,Ashley Hinson,REP,765,202,563
+Washington,RICHMOND,U.S. Senate,,Ashley Hinson,REP,351,116,235
+Washington,RIVERSIDE,U.S. Senate,,Ashley Hinson,REP,678,222,456
+Washington,WARD 1,U.S. Senate,,Ashley Hinson,REP,435,188,247
+Washington,WARD 2,U.S. Senate,,Ashley Hinson,REP,439,187,252
+Washington,WARD 3,U.S. Senate,,Ashley Hinson,REP,513,257,256
+Washington,WARD 4,U.S. Senate,,Ashley Hinson,REP,459,227,232
+Washington,WELLMAN,U.S. Senate,,Ashley Hinson,REP,732,180,552
+Washington,AINSWORTH,U.S. Senate,,Josh Turek,DEM,220,112,108
+Washington,BRIGHTON,U.S. Senate,,Josh Turek,DEM,210,98,112
+Washington,KALONA,U.S. Senate,,Josh Turek,DEM,655,244,411
+Washington,RICHMOND,U.S. Senate,,Josh Turek,DEM,196,89,107
+Washington,RIVERSIDE,U.S. Senate,,Josh Turek,DEM,732,316,416
+Washington,WARD 1,U.S. Senate,,Josh Turek,DEM,373,211,162
+Washington,WARD 2,U.S. Senate,,Josh Turek,DEM,378,219,159
+Washington,WARD 3,U.S. Senate,,Josh Turek,DEM,462,299,163
+Washington,WARD 4,U.S. Senate,,Josh Turek,DEM,449,289,160
+Washington,WELLMAN,U.S. Senate,,Josh Turek,DEM,437,166,271
+Washington,AINSWORTH,U.S. Senate,,Thomas Laehn,LIB,35,9,26
+Washington,BRIGHTON,U.S. Senate,,Thomas Laehn,LIB,18,5,13
+Washington,KALONA,U.S. Senate,,Thomas Laehn,LIB,43,6,37
+Washington,RICHMOND,U.S. Senate,,Thomas Laehn,LIB,11,1,10
+Washington,RIVERSIDE,U.S. Senate,,Thomas Laehn,LIB,44,11,33
+Washington,WARD 1,U.S. Senate,,Thomas Laehn,LIB,30,16,14
+Washington,WARD 2,U.S. Senate,,Thomas Laehn,LIB,34,15,19
+Washington,WARD 3,U.S. Senate,,Thomas Laehn,LIB,28,15,13
+Washington,WARD 4,U.S. Senate,,Thomas Laehn,LIB,23,14,9
+Washington,WELLMAN,U.S. Senate,,Thomas Laehn,LIB,38,5,33
+Washington,AINSWORTH,U.S. Senate,,Write-In,,1,0,1
+Washington,BRIGHTON,U.S. Senate,,Write-In,,1,0,1
+Washington,KALONA,U.S. Senate,,Write-In,,1,0,1
+Washington,RICHMOND,U.S. Senate,,Write-In,,0,0,0
+Washington,RIVERSIDE,U.S. Senate,,Write-In,,0,0,0
+Washington,WARD 1,U.S. Senate,,Write-In,,1,0,1
+Washington,WARD 2,U.S. Senate,,Write-In,,0,0,0
+Washington,WARD 3,U.S. Senate,,Write-In,,0,0,0
+Washington,WARD 4,U.S. Senate,,Write-In,,3,0,3
+Washington,WELLMAN,U.S. Senate,,Write-In,,0,0,0

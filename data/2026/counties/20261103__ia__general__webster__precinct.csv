@@ -1,0 +1,1339 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Webster,Badger-Cooper-Newark,Attorney General,,Brenna Bird,REP,528,135,393
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Attorney General,,Brenna Bird,REP,833,198,635
+Webster,Clay-Fulton-Johnson-Roland,Attorney General,,Brenna Bird,REP,486,128,358
+Webster,Colfax-Hardin-Washington-Webster-Yell,Attorney General,,Brenna Bird,REP,360,94,266
+Webster,Dayton,Attorney General,,Brenna Bird,REP,282,42,240
+Webster,Deer Creek-Jackson,Attorney General,,Brenna Bird,REP,262,59,203
+Webster,Fort Dodge #1,Attorney General,,Brenna Bird,REP,602,195,407
+Webster,Fort Dodge #10,Attorney General,,Brenna Bird,REP,365,115,250
+Webster,Fort Dodge #11,Attorney General,,Brenna Bird,REP,731,253,478
+Webster,Fort Dodge #12,Attorney General,,Brenna Bird,REP,207,67,140
+Webster,Fort Dodge #2,Attorney General,,Brenna Bird,REP,345,102,243
+Webster,Fort Dodge #3,Attorney General,,Brenna Bird,REP,266,59,207
+Webster,Fort Dodge #4-Douglas,Attorney General,,Brenna Bird,REP,599,196,403
+Webster,Fort Dodge #5,Attorney General,,Brenna Bird,REP,163,103,60
+Webster,Fort Dodge #6,Attorney General,,Brenna Bird,REP,75,31,44
+Webster,Fort Dodge #7,Attorney General,,Brenna Bird,REP,159,46,113
+Webster,Fort Dodge #8,Attorney General,,Brenna Bird,REP,191,73,118
+Webster,Fort Dodge #9,Attorney General,,Brenna Bird,REP,242,66,176
+Webster,Gowrie-Lost Grove,Attorney General,,Brenna Bird,REP,478,75,403
+Webster,Badger-Cooper-Newark,Attorney General,,Nate Willems,DEM,289,109,180
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Attorney General,,Nate Willems,DEM,389,168,221
+Webster,Clay-Fulton-Johnson-Roland,Attorney General,,Nate Willems,DEM,192,81,111
+Webster,Colfax-Hardin-Washington-Webster-Yell,Attorney General,,Nate Willems,DEM,157,55,102
+Webster,Dayton,Attorney General,,Nate Willems,DEM,193,44,149
+Webster,Deer Creek-Jackson,Attorney General,,Nate Willems,DEM,80,26,54
+Webster,Fort Dodge #1,Attorney General,,Nate Willems,DEM,471,254,217
+Webster,Fort Dodge #10,Attorney General,,Nate Willems,DEM,392,190,202
+Webster,Fort Dodge #11,Attorney General,,Nate Willems,DEM,479,235,244
+Webster,Fort Dodge #12,Attorney General,,Nate Willems,DEM,280,120,160
+Webster,Fort Dodge #2,Attorney General,,Nate Willems,DEM,393,180,213
+Webster,Fort Dodge #3,Attorney General,,Nate Willems,DEM,273,123,150
+Webster,Fort Dodge #4-Douglas,Attorney General,,Nate Willems,DEM,459,242,217
+Webster,Fort Dodge #5,Attorney General,,Nate Willems,DEM,202,107,95
+Webster,Fort Dodge #6,Attorney General,,Nate Willems,DEM,97,41,56
+Webster,Fort Dodge #7,Attorney General,,Nate Willems,DEM,287,140,147
+Webster,Fort Dodge #8,Attorney General,,Nate Willems,DEM,248,135,113
+Webster,Fort Dodge #9,Attorney General,,Nate Willems,DEM,239,100,139
+Webster,Gowrie-Lost Grove,Attorney General,,Nate Willems,DEM,212,45,167
+Webster,Badger-Cooper-Newark,Attorney General,,Write-In,,0,0,0
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Attorney General,,Write-In,,3,0,3
+Webster,Clay-Fulton-Johnson-Roland,Attorney General,,Write-In,,1,0,1
+Webster,Colfax-Hardin-Washington-Webster-Yell,Attorney General,,Write-In,,0,0,0
+Webster,Dayton,Attorney General,,Write-In,,2,1,1
+Webster,Deer Creek-Jackson,Attorney General,,Write-In,,0,0,0
+Webster,Fort Dodge #1,Attorney General,,Write-In,,1,1,0
+Webster,Fort Dodge #10,Attorney General,,Write-In,,1,0,1
+Webster,Fort Dodge #11,Attorney General,,Write-In,,1,0,1
+Webster,Fort Dodge #12,Attorney General,,Write-In,,1,0,1
+Webster,Fort Dodge #2,Attorney General,,Write-In,,0,0,0
+Webster,Fort Dodge #3,Attorney General,,Write-In,,1,1,0
+Webster,Fort Dodge #4-Douglas,Attorney General,,Write-In,,1,0,1
+Webster,Fort Dodge #5,Attorney General,,Write-In,,1,1,0
+Webster,Fort Dodge #6,Attorney General,,Write-In,,0,0,0
+Webster,Fort Dodge #7,Attorney General,,Write-In,,1,1,0
+Webster,Fort Dodge #8,Attorney General,,Write-In,,2,0,2
+Webster,Fort Dodge #9,Attorney General,,Write-In,,2,0,2
+Webster,Gowrie-Lost Grove,Attorney General,,Write-In,,0,0,0
+Webster,Badger-Cooper-Newark,Auditor of State,,Chris Cournoyer,REP,518,137,381
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Auditor of State,,Chris Cournoyer,REP,816,197,619
+Webster,Clay-Fulton-Johnson-Roland,Auditor of State,,Chris Cournoyer,REP,488,136,352
+Webster,Colfax-Hardin-Washington-Webster-Yell,Auditor of State,,Chris Cournoyer,REP,352,97,255
+Webster,Dayton,Auditor of State,,Chris Cournoyer,REP,287,40,247
+Webster,Deer Creek-Jackson,Auditor of State,,Chris Cournoyer,REP,255,56,199
+Webster,Fort Dodge #1,Auditor of State,,Chris Cournoyer,REP,621,191,430
+Webster,Fort Dodge #10,Auditor of State,,Chris Cournoyer,REP,361,111,250
+Webster,Fort Dodge #11,Auditor of State,,Chris Cournoyer,REP,738,258,480
+Webster,Fort Dodge #12,Auditor of State,,Chris Cournoyer,REP,201,64,137
+Webster,Fort Dodge #2,Auditor of State,,Chris Cournoyer,REP,357,100,257
+Webster,Fort Dodge #3,Auditor of State,,Chris Cournoyer,REP,270,61,209
+Webster,Fort Dodge #4-Douglas,Auditor of State,,Chris Cournoyer,REP,613,201,412
+Webster,Fort Dodge #5,Auditor of State,,Chris Cournoyer,REP,170,105,65
+Webster,Fort Dodge #6,Auditor of State,,Chris Cournoyer,REP,76,30,46
+Webster,Fort Dodge #7,Auditor of State,,Chris Cournoyer,REP,159,46,113
+Webster,Fort Dodge #8,Auditor of State,,Chris Cournoyer,REP,186,69,117
+Webster,Fort Dodge #9,Auditor of State,,Chris Cournoyer,REP,233,60,173
+Webster,Gowrie-Lost Grove,Auditor of State,,Chris Cournoyer,REP,477,75,402
+Webster,Badger-Cooper-Newark,Auditor of State,,Taylor Wettach,DEM,285,103,182
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Auditor of State,,Taylor Wettach,DEM,398,170,228
+Webster,Clay-Fulton-Johnson-Roland,Auditor of State,,Taylor Wettach,DEM,184,74,110
+Webster,Colfax-Hardin-Washington-Webster-Yell,Auditor of State,,Taylor Wettach,DEM,161,52,109
+Webster,Dayton,Auditor of State,,Taylor Wettach,DEM,187,48,139
+Webster,Deer Creek-Jackson,Auditor of State,,Taylor Wettach,DEM,85,30,55
+Webster,Fort Dodge #1,Auditor of State,,Taylor Wettach,DEM,448,254,194
+Webster,Fort Dodge #10,Auditor of State,,Taylor Wettach,DEM,397,193,204
+Webster,Fort Dodge #11,Auditor of State,,Taylor Wettach,DEM,477,231,246
+Webster,Fort Dodge #12,Auditor of State,,Taylor Wettach,DEM,282,123,159
+Webster,Fort Dodge #2,Auditor of State,,Taylor Wettach,DEM,384,185,199
+Webster,Fort Dodge #3,Auditor of State,,Taylor Wettach,DEM,264,121,143
+Webster,Fort Dodge #4-Douglas,Auditor of State,,Taylor Wettach,DEM,440,235,205
+Webster,Fort Dodge #5,Auditor of State,,Taylor Wettach,DEM,189,102,87
+Webster,Fort Dodge #6,Auditor of State,,Taylor Wettach,DEM,96,41,55
+Webster,Fort Dodge #7,Auditor of State,,Taylor Wettach,DEM,286,141,145
+Webster,Fort Dodge #8,Auditor of State,,Taylor Wettach,DEM,251,136,115
+Webster,Fort Dodge #9,Auditor of State,,Taylor Wettach,DEM,245,104,141
+Webster,Gowrie-Lost Grove,Auditor of State,,Taylor Wettach,DEM,205,46,159
+Webster,Badger-Cooper-Newark,Auditor of State,,Write-In,,1,0,1
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Auditor of State,,Write-In,,1,0,1
+Webster,Clay-Fulton-Johnson-Roland,Auditor of State,,Write-In,,0,0,0
+Webster,Colfax-Hardin-Washington-Webster-Yell,Auditor of State,,Write-In,,0,0,0
+Webster,Dayton,Auditor of State,,Write-In,,0,0,0
+Webster,Deer Creek-Jackson,Auditor of State,,Write-In,,0,0,0
+Webster,Fort Dodge #1,Auditor of State,,Write-In,,1,0,1
+Webster,Fort Dodge #10,Auditor of State,,Write-In,,0,0,0
+Webster,Fort Dodge #11,Auditor of State,,Write-In,,0,0,0
+Webster,Fort Dodge #12,Auditor of State,,Write-In,,1,0,1
+Webster,Fort Dodge #2,Auditor of State,,Write-In,,1,0,1
+Webster,Fort Dodge #3,Auditor of State,,Write-In,,1,0,1
+Webster,Fort Dodge #4-Douglas,Auditor of State,,Write-In,,2,0,2
+Webster,Fort Dodge #5,Auditor of State,,Write-In,,0,0,0
+Webster,Fort Dodge #6,Auditor of State,,Write-In,,1,0,1
+Webster,Fort Dodge #7,Auditor of State,,Write-In,,0,0,0
+Webster,Fort Dodge #8,Auditor of State,,Write-In,,1,0,1
+Webster,Fort Dodge #9,Auditor of State,,Write-In,,0,0,0
+Webster,Gowrie-Lost Grove,Auditor of State,,Write-In,,1,0,1
+Webster,Badger-Cooper-Newark,Badger Township Clerk,,Write-In,,3,0,3
+Webster,Badger-Cooper-Newark,Badger Township Trustee,,Write-In,,9,1,8
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Burnside Township Clerk,,Todd Anderson,,123,40,83
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Burnside Township Clerk,,Write-In,,0,0,0
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Burnside Township Trustee,,Tyler Anderson,,122,40,82
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Burnside Township Trustee,,Write-In,,1,0,1
+Webster,Clay-Fulton-Johnson-Roland,Clay Township Clerk,,Mollie Cushenbery,,81,34,47
+Webster,Clay-Fulton-Johnson-Roland,Clay Township Clerk,,Write-In,,1,0,1
+Webster,Clay-Fulton-Johnson-Roland,Clay Township Trustee,,Allan Wicklein,,86,34,52
+Webster,Clay-Fulton-Johnson-Roland,Clay Township Trustee,,Write-In,,1,1,0
+Webster,Colfax-Hardin-Washington-Webster-Yell,Colfax Township Clerk,,Curtis W. Dencklau,,90,32,58
+Webster,Colfax-Hardin-Washington-Webster-Yell,Colfax Township Clerk,,Write-In,,0,0,0
+Webster,Colfax-Hardin-Washington-Webster-Yell,Colfax Township Trustee,,Matt Anderson,,86,26,60
+Webster,Colfax-Hardin-Washington-Webster-Yell,Colfax Township Trustee,,Write-In,,0,0,0
+Webster,Badger-Cooper-Newark,Constitutional Amendment 1,,No,,260,86,174
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Constitutional Amendment 1,,No,,376,116,260
+Webster,Clay-Fulton-Johnson-Roland,Constitutional Amendment 1,,No,,174,53,121
+Webster,Colfax-Hardin-Washington-Webster-Yell,Constitutional Amendment 1,,No,,168,50,118
+Webster,Dayton,Constitutional Amendment 1,,No,,158,30,128
+Webster,Deer Creek-Jackson,Constitutional Amendment 1,,No,,93,27,66
+Webster,Fort Dodge #1,Constitutional Amendment 1,,No,,350,171,179
+Webster,Fort Dodge #10,Constitutional Amendment 1,,No,,277,125,152
+Webster,Fort Dodge #11,Constitutional Amendment 1,,No,,385,172,213
+Webster,Fort Dodge #12,Constitutional Amendment 1,,No,,205,82,123
+Webster,Fort Dodge #2,Constitutional Amendment 1,,No,,271,115,156
+Webster,Fort Dodge #3,Constitutional Amendment 1,,No,,214,80,134
+Webster,Fort Dodge #4-Douglas,Constitutional Amendment 1,,No,,359,151,208
+Webster,Fort Dodge #5,Constitutional Amendment 1,,No,,134,70,64
+Webster,Fort Dodge #6,Constitutional Amendment 1,,No,,71,29,42
+Webster,Fort Dodge #7,Constitutional Amendment 1,,No,,185,78,107
+Webster,Fort Dodge #8,Constitutional Amendment 1,,No,,178,85,93
+Webster,Fort Dodge #9,Constitutional Amendment 1,,No,,181,67,114
+Webster,Gowrie-Lost Grove,Constitutional Amendment 1,,No,,225,55,170
+Webster,Badger-Cooper-Newark,Constitutional Amendment 1,,Yes,,481,132,349
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Constitutional Amendment 1,,Yes,,741,235,506
+Webster,Clay-Fulton-Johnson-Roland,Constitutional Amendment 1,,Yes,,469,143,326
+Webster,Colfax-Hardin-Washington-Webster-Yell,Constitutional Amendment 1,,Yes,,320,90,230
+Webster,Dayton,Constitutional Amendment 1,,Yes,,283,47,236
+Webster,Deer Creek-Jackson,Constitutional Amendment 1,,Yes,,234,53,181
+Webster,Fort Dodge #1,Constitutional Amendment 1,,Yes,,664,258,406
+Webster,Fort Dodge #10,Constitutional Amendment 1,,Yes,,429,166,263
+Webster,Fort Dodge #11,Constitutional Amendment 1,,Yes,,768,290,478
+Webster,Fort Dodge #12,Constitutional Amendment 1,,Yes,,250,89,161
+Webster,Fort Dodge #2,Constitutional Amendment 1,,Yes,,425,158,267
+Webster,Fort Dodge #3,Constitutional Amendment 1,,Yes,,304,96,208
+Webster,Fort Dodge #4-Douglas,Constitutional Amendment 1,,Yes,,640,264,376
+Webster,Fort Dodge #5,Constitutional Amendment 1,,Yes,,203,116,87
+Webster,Fort Dodge #6,Constitutional Amendment 1,,Yes,,92,39,53
+Webster,Fort Dodge #7,Constitutional Amendment 1,,Yes,,241,100,141
+Webster,Fort Dodge #8,Constitutional Amendment 1,,Yes,,243,113,130
+Webster,Fort Dodge #9,Constitutional Amendment 1,,Yes,,262,82,180
+Webster,Gowrie-Lost Grove,Constitutional Amendment 1,,Yes,,402,59,343
+Webster,Badger-Cooper-Newark,Cooper Township Clerk,,Natalie Newell,,135,66,69
+Webster,Badger-Cooper-Newark,Cooper Township Clerk,,Write-In,,0,0,0
+Webster,Badger-Cooper-Newark,Cooper Township Trustee,,Angela Pratt,,136,66,70
+Webster,Badger-Cooper-Newark,Cooper Township Trustee,,Write-In,,1,0,1
+Webster,Badger-Cooper-Newark,County Agricultural Extension Council Member,,Anthony Martin,,507,144,363
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,County Agricultural Extension Council Member,,Anthony Martin,,787,247,540
+Webster,Clay-Fulton-Johnson-Roland,County Agricultural Extension Council Member,,Anthony Martin,,494,145,349
+Webster,Colfax-Hardin-Washington-Webster-Yell,County Agricultural Extension Council Member,,Anthony Martin,,357,89,268
+Webster,Dayton,County Agricultural Extension Council Member,,Anthony Martin,,344,62,282
+Webster,Deer Creek-Jackson,County Agricultural Extension Council Member,,Anthony Martin,,262,58,204
+Webster,Fort Dodge #1,County Agricultural Extension Council Member,,Anthony Martin,,758,317,441
+Webster,Fort Dodge #10,County Agricultural Extension Council Member,,Anthony Martin,,503,207,296
+Webster,Fort Dodge #11,County Agricultural Extension Council Member,,Anthony Martin,,792,315,477
+Webster,Fort Dodge #12,County Agricultural Extension Council Member,,Anthony Martin,,344,132,212
+Webster,Fort Dodge #2,County Agricultural Extension Council Member,,Anthony Martin,,526,199,327
+Webster,Fort Dodge #3,County Agricultural Extension Council Member,,Anthony Martin,,373,127,246
+Webster,Fort Dodge #4-Douglas,County Agricultural Extension Council Member,,Anthony Martin,,730,291,439
+Webster,Fort Dodge #5,County Agricultural Extension Council Member,,Anthony Martin,,264,152,112
+Webster,Fort Dodge #6,County Agricultural Extension Council Member,,Anthony Martin,,119,52,67
+Webster,Fort Dodge #7,County Agricultural Extension Council Member,,Anthony Martin,,343,148,195
+Webster,Fort Dodge #8,County Agricultural Extension Council Member,,Anthony Martin,,326,156,170
+Webster,Fort Dodge #9,County Agricultural Extension Council Member,,Anthony Martin,,340,119,221
+Webster,Gowrie-Lost Grove,County Agricultural Extension Council Member,,Anthony Martin,,491,92,399
+Webster,Badger-Cooper-Newark,County Agricultural Extension Council Member,,Write-In,,35,8,27
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,County Agricultural Extension Council Member,,Write-In,,42,6,36
+Webster,Clay-Fulton-Johnson-Roland,County Agricultural Extension Council Member,,Write-In,,34,16,18
+Webster,Colfax-Hardin-Washington-Webster-Yell,County Agricultural Extension Council Member,,Write-In,,32,17,15
+Webster,Dayton,County Agricultural Extension Council Member,,Write-In,,25,0,25
+Webster,Deer Creek-Jackson,County Agricultural Extension Council Member,,Write-In,,13,1,12
+Webster,Fort Dodge #1,County Agricultural Extension Council Member,,Write-In,,24,13,11
+Webster,Fort Dodge #10,County Agricultural Extension Council Member,,Write-In,,25,4,21
+Webster,Fort Dodge #11,County Agricultural Extension Council Member,,Write-In,,20,7,13
+Webster,Fort Dodge #12,County Agricultural Extension Council Member,,Write-In,,21,6,15
+Webster,Fort Dodge #2,County Agricultural Extension Council Member,,Write-In,,19,3,16
+Webster,Fort Dodge #3,County Agricultural Extension Council Member,,Write-In,,19,9,10
+Webster,Fort Dodge #4-Douglas,County Agricultural Extension Council Member,,Write-In,,37,16,21
+Webster,Fort Dodge #5,County Agricultural Extension Council Member,,Write-In,,8,6,2
+Webster,Fort Dodge #6,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Webster,Fort Dodge #7,County Agricultural Extension Council Member,,Write-In,,18,9,9
+Webster,Fort Dodge #8,County Agricultural Extension Council Member,,Write-In,,7,0,7
+Webster,Fort Dodge #9,County Agricultural Extension Council Member,,Write-In,,8,0,8
+Webster,Gowrie-Lost Grove,County Agricultural Extension Council Member,,Write-In,,23,9,14
+Webster,Badger-Cooper-Newark,County Attorney,,Darren D. Driscoll,DEM,562,172,390
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,County Attorney,,Darren D. Driscoll,DEM,856,263,593
+Webster,Clay-Fulton-Johnson-Roland,County Attorney,,Darren D. Driscoll,DEM,461,147,314
+Webster,Colfax-Hardin-Washington-Webster-Yell,County Attorney,,Darren D. Driscoll,DEM,344,93,251
+Webster,Dayton,County Attorney,,Darren D. Driscoll,DEM,364,72,292
+Webster,Deer Creek-Jackson,County Attorney,,Darren D. Driscoll,DEM,257,57,200
+Webster,Fort Dodge #1,County Attorney,,Darren D. Driscoll,DEM,848,377,471
+Webster,Fort Dodge #10,County Attorney,,Darren D. Driscoll,DEM,604,251,353
+Webster,Fort Dodge #11,County Attorney,,Darren D. Driscoll,DEM,887,376,511
+Webster,Fort Dodge #12,County Attorney,,Darren D. Driscoll,DEM,395,162,233
+Webster,Fort Dodge #2,County Attorney,,Darren D. Driscoll,DEM,587,238,349
+Webster,Fort Dodge #3,County Attorney,,Darren D. Driscoll,DEM,411,151,260
+Webster,Fort Dodge #4-Douglas,County Attorney,,Darren D. Driscoll,DEM,805,347,458
+Webster,Fort Dodge #5,County Attorney,,Darren D. Driscoll,DEM,272,152,120
+Webster,Fort Dodge #6,County Attorney,,Darren D. Driscoll,DEM,124,54,70
+Webster,Fort Dodge #7,County Attorney,,Darren D. Driscoll,DEM,379,170,209
+Webster,Fort Dodge #8,County Attorney,,Darren D. Driscoll,DEM,355,171,184
+Webster,Fort Dodge #9,County Attorney,,Darren D. Driscoll,DEM,391,136,255
+Webster,Gowrie-Lost Grove,County Attorney,,Darren D. Driscoll,DEM,484,92,392
+Webster,Badger-Cooper-Newark,County Attorney,,Write-In,,21,2,19
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,County Attorney,,Write-In,,31,6,25
+Webster,Clay-Fulton-Johnson-Roland,County Attorney,,Write-In,,31,9,22
+Webster,Colfax-Hardin-Washington-Webster-Yell,County Attorney,,Write-In,,12,2,10
+Webster,Dayton,County Attorney,,Write-In,,14,2,12
+Webster,Deer Creek-Jackson,County Attorney,,Write-In,,8,1,7
+Webster,Fort Dodge #1,County Attorney,,Write-In,,18,4,14
+Webster,Fort Dodge #10,County Attorney,,Write-In,,8,2,6
+Webster,Fort Dodge #11,County Attorney,,Write-In,,24,9,15
+Webster,Fort Dodge #12,County Attorney,,Write-In,,9,1,8
+Webster,Fort Dodge #2,County Attorney,,Write-In,,18,2,16
+Webster,Fort Dodge #3,County Attorney,,Write-In,,16,5,11
+Webster,Fort Dodge #4-Douglas,County Attorney,,Write-In,,27,7,20
+Webster,Fort Dodge #5,County Attorney,,Write-In,,4,2,2
+Webster,Fort Dodge #6,County Attorney,,Write-In,,5,1,4
+Webster,Fort Dodge #7,County Attorney,,Write-In,,9,2,7
+Webster,Fort Dodge #8,County Attorney,,Write-In,,9,3,6
+Webster,Fort Dodge #9,County Attorney,,Write-In,,7,1,6
+Webster,Gowrie-Lost Grove,County Attorney,,Write-In,,22,6,16
+Webster,Badger-Cooper-Newark,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,567,171,396
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,872,273,599
+Webster,Clay-Fulton-Johnson-Roland,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,506,162,344
+Webster,Colfax-Hardin-Washington-Webster-Yell,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,345,100,245
+Webster,Dayton,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,376,73,303
+Webster,Deer Creek-Jackson,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,256,59,197
+Webster,Fort Dodge #1,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,843,374,469
+Webster,Fort Dodge #10,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,609,255,354
+Webster,Fort Dodge #11,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,903,379,524
+Webster,Fort Dodge #12,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,397,158,239
+Webster,Fort Dodge #2,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,586,232,354
+Webster,Fort Dodge #3,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,422,153,269
+Webster,Fort Dodge #4-Douglas,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,813,351,462
+Webster,Fort Dodge #5,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,269,152,117
+Webster,Fort Dodge #6,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,121,50,71
+Webster,Fort Dodge #7,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,384,173,211
+Webster,Fort Dodge #8,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,352,167,185
+Webster,Fort Dodge #9,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,386,135,251
+Webster,Gowrie-Lost Grove,County Auditor To Fill a Vacancy,,Krystal K. Lloyd,DEM,532,101,431
+Webster,Badger-Cooper-Newark,County Auditor To Fill a Vacancy,,Write-In,,13,0,13
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,County Auditor To Fill a Vacancy,,Write-In,,23,1,22
+Webster,Clay-Fulton-Johnson-Roland,County Auditor To Fill a Vacancy,,Write-In,,14,3,11
+Webster,Colfax-Hardin-Washington-Webster-Yell,County Auditor To Fill a Vacancy,,Write-In,,12,2,10
+Webster,Dayton,County Auditor To Fill a Vacancy,,Write-In,,10,0,10
+Webster,Deer Creek-Jackson,County Auditor To Fill a Vacancy,,Write-In,,6,1,5
+Webster,Fort Dodge #1,County Auditor To Fill a Vacancy,,Write-In,,12,4,8
+Webster,Fort Dodge #10,County Auditor To Fill a Vacancy,,Write-In,,6,1,5
+Webster,Fort Dodge #11,County Auditor To Fill a Vacancy,,Write-In,,11,3,8
+Webster,Fort Dodge #12,County Auditor To Fill a Vacancy,,Write-In,,7,1,6
+Webster,Fort Dodge #2,County Auditor To Fill a Vacancy,,Write-In,,12,1,11
+Webster,Fort Dodge #3,County Auditor To Fill a Vacancy,,Write-In,,16,4,12
+Webster,Fort Dodge #4-Douglas,County Auditor To Fill a Vacancy,,Write-In,,15,2,13
+Webster,Fort Dodge #5,County Auditor To Fill a Vacancy,,Write-In,,4,2,2
+Webster,Fort Dodge #6,County Auditor To Fill a Vacancy,,Write-In,,5,3,2
+Webster,Fort Dodge #7,County Auditor To Fill a Vacancy,,Write-In,,7,2,5
+Webster,Fort Dodge #8,County Auditor To Fill a Vacancy,,Write-In,,13,4,9
+Webster,Fort Dodge #9,County Auditor To Fill a Vacancy,,Write-In,,3,0,3
+Webster,Gowrie-Lost Grove,County Auditor To Fill a Vacancy,,Write-In,,14,3,11
+Webster,Badger-Cooper-Newark,County Recorder,,Courtney Bender Balkenende,DEM,284,98,186
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,County Recorder,,Courtney Bender Balkenende,DEM,399,162,237
+Webster,Clay-Fulton-Johnson-Roland,County Recorder,,Courtney Bender Balkenende,DEM,176,70,106
+Webster,Colfax-Hardin-Washington-Webster-Yell,County Recorder,,Courtney Bender Balkenende,DEM,169,60,109
+Webster,Dayton,County Recorder,,Courtney Bender Balkenende,DEM,192,44,148
+Webster,Deer Creek-Jackson,County Recorder,,Courtney Bender Balkenende,DEM,83,28,55
+Webster,Fort Dodge #1,County Recorder,,Courtney Bender Balkenende,DEM,482,252,230
+Webster,Fort Dodge #10,County Recorder,,Courtney Bender Balkenende,DEM,415,198,217
+Webster,Fort Dodge #11,County Recorder,,Courtney Bender Balkenende,DEM,487,229,258
+Webster,Fort Dodge #12,County Recorder,,Courtney Bender Balkenende,DEM,278,116,162
+Webster,Fort Dodge #2,County Recorder,,Courtney Bender Balkenende,DEM,394,187,207
+Webster,Fort Dodge #3,County Recorder,,Courtney Bender Balkenende,DEM,277,126,151
+Webster,Fort Dodge #4-Douglas,County Recorder,,Courtney Bender Balkenende,DEM,433,236,197
+Webster,Fort Dodge #5,County Recorder,,Courtney Bender Balkenende,DEM,189,98,91
+Webster,Fort Dodge #6,County Recorder,,Courtney Bender Balkenende,DEM,93,42,51
+Webster,Fort Dodge #7,County Recorder,,Courtney Bender Balkenende,DEM,293,145,148
+Webster,Fort Dodge #8,County Recorder,,Courtney Bender Balkenende,DEM,246,135,111
+Webster,Fort Dodge #9,County Recorder,,Courtney Bender Balkenende,DEM,244,101,143
+Webster,Gowrie-Lost Grove,County Recorder,,Courtney Bender Balkenende,DEM,176,42,134
+Webster,Badger-Cooper-Newark,County Recorder,,Tina Eldal,REP,520,142,378
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,County Recorder,,Tina Eldal,REP,805,195,610
+Webster,Clay-Fulton-Johnson-Roland,County Recorder,,Tina Eldal,REP,501,139,362
+Webster,Colfax-Hardin-Washington-Webster-Yell,County Recorder,,Tina Eldal,REP,345,86,259
+Webster,Dayton,County Recorder,,Tina Eldal,REP,279,40,239
+Webster,Deer Creek-Jackson,County Recorder,,Tina Eldal,REP,258,57,201
+Webster,Fort Dodge #1,County Recorder,,Tina Eldal,REP,588,196,392
+Webster,Fort Dodge #10,County Recorder,,Tina Eldal,REP,340,110,230
+Webster,Fort Dodge #11,County Recorder,,Tina Eldal,REP,712,256,456
+Webster,Fort Dodge #12,County Recorder,,Tina Eldal,REP,203,67,136
+Webster,Fort Dodge #2,County Recorder,,Tina Eldal,REP,340,97,243
+Webster,Fort Dodge #3,County Recorder,,Tina Eldal,REP,256,57,199
+Webster,Fort Dodge #4-Douglas,County Recorder,,Tina Eldal,REP,613,196,417
+Webster,Fort Dodge #5,County Recorder,,Tina Eldal,REP,166,104,62
+Webster,Fort Dodge #6,County Recorder,,Tina Eldal,REP,79,29,50
+Webster,Fort Dodge #7,County Recorder,,Tina Eldal,REP,152,42,110
+Webster,Fort Dodge #8,County Recorder,,Tina Eldal,REP,193,75,118
+Webster,Fort Dodge #9,County Recorder,,Tina Eldal,REP,239,65,174
+Webster,Gowrie-Lost Grove,County Recorder,,Tina Eldal,REP,503,78,425
+Webster,Badger-Cooper-Newark,County Recorder,,Write-In,,0,0,0
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,County Recorder,,Write-In,,1,0,1
+Webster,Clay-Fulton-Johnson-Roland,County Recorder,,Write-In,,0,0,0
+Webster,Colfax-Hardin-Washington-Webster-Yell,County Recorder,,Write-In,,0,0,0
+Webster,Dayton,County Recorder,,Write-In,,0,0,0
+Webster,Deer Creek-Jackson,County Recorder,,Write-In,,0,0,0
+Webster,Fort Dodge #1,County Recorder,,Write-In,,1,0,1
+Webster,Fort Dodge #10,County Recorder,,Write-In,,0,0,0
+Webster,Fort Dodge #11,County Recorder,,Write-In,,0,0,0
+Webster,Fort Dodge #12,County Recorder,,Write-In,,0,0,0
+Webster,Fort Dodge #2,County Recorder,,Write-In,,0,0,0
+Webster,Fort Dodge #3,County Recorder,,Write-In,,0,0,0
+Webster,Fort Dodge #4-Douglas,County Recorder,,Write-In,,1,0,1
+Webster,Fort Dodge #5,County Recorder,,Write-In,,0,0,0
+Webster,Fort Dodge #6,County Recorder,,Write-In,,0,0,0
+Webster,Fort Dodge #7,County Recorder,,Write-In,,0,0,0
+Webster,Fort Dodge #8,County Recorder,,Write-In,,2,0,2
+Webster,Fort Dodge #9,County Recorder,,Write-In,,0,0,0
+Webster,Gowrie-Lost Grove,County Recorder,,Write-In,,0,0,0
+Webster,Badger-Cooper-Newark,County Supervisor,1,Austin V. Hayek,REP,678,180,498
+Webster,Colfax-Hardin-Washington-Webster-Yell,County Supervisor,1,Austin V. Hayek,REP,430,113,317
+Webster,Fort Dodge #10,County Supervisor,1,Austin V. Hayek,REP,577,203,374
+Webster,Fort Dodge #11,County Supervisor,1,Austin V. Hayek,REP,997,363,634
+Webster,Badger-Cooper-Newark,County Supervisor,1,Write-In,,16,9,7
+Webster,Colfax-Hardin-Washington-Webster-Yell,County Supervisor,1,Write-In,,14,3,11
+Webster,Fort Dodge #10,County Supervisor,1,Write-In,,16,6,10
+Webster,Fort Dodge #11,County Supervisor,1,Write-In,,16,4,12
+Webster,Fort Dodge #1,County Supervisor,4,Niki Conrad,DEM,837,372,465
+Webster,Fort Dodge #2,County Supervisor,4,Niki Conrad,DEM,580,227,353
+Webster,Fort Dodge #3,County Supervisor,4,Niki Conrad,DEM,409,150,259
+Webster,Fort Dodge #6,County Supervisor,4,Niki Conrad,DEM,123,53,70
+Webster,Fort Dodge #1,County Supervisor,4,Write-In,,17,3,14
+Webster,Fort Dodge #2,County Supervisor,4,Write-In,,20,5,15
+Webster,Fort Dodge #3,County Supervisor,4,Write-In,,21,5,16
+Webster,Fort Dodge #6,County Supervisor,4,Write-In,,3,1,2
+Webster,Badger-Cooper-Newark,County Treasurer,,Brenda Angstrom,DEM,614,184,430
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,County Treasurer,,Brenda Angstrom,DEM,938,285,653
+Webster,Clay-Fulton-Johnson-Roland,County Treasurer,,Brenda Angstrom,DEM,521,169,352
+Webster,Colfax-Hardin-Washington-Webster-Yell,County Treasurer,,Brenda Angstrom,DEM,376,109,267
+Webster,Dayton,County Treasurer,,Brenda Angstrom,DEM,383,74,309
+Webster,Deer Creek-Jackson,County Treasurer,,Brenda Angstrom,DEM,273,62,211
+Webster,Fort Dodge #1,County Treasurer,,Brenda Angstrom,DEM,871,385,486
+Webster,Fort Dodge #10,County Treasurer,,Brenda Angstrom,DEM,628,266,362
+Webster,Fort Dodge #11,County Treasurer,,Brenda Angstrom,DEM,936,379,557
+Webster,Fort Dodge #12,County Treasurer,,Brenda Angstrom,DEM,406,161,245
+Webster,Fort Dodge #2,County Treasurer,,Brenda Angstrom,DEM,600,242,358
+Webster,Fort Dodge #3,County Treasurer,,Brenda Angstrom,DEM,424,153,271
+Webster,Fort Dodge #4-Douglas,County Treasurer,,Brenda Angstrom,DEM,855,370,485
+Webster,Fort Dodge #5,County Treasurer,,Brenda Angstrom,DEM,284,159,125
+Webster,Fort Dodge #6,County Treasurer,,Brenda Angstrom,DEM,128,55,73
+Webster,Fort Dodge #7,County Treasurer,,Brenda Angstrom,DEM,387,172,215
+Webster,Fort Dodge #8,County Treasurer,,Brenda Angstrom,DEM,362,175,187
+Webster,Fort Dodge #9,County Treasurer,,Brenda Angstrom,DEM,396,140,256
+Webster,Gowrie-Lost Grove,County Treasurer,,Brenda Angstrom,DEM,547,99,448
+Webster,Badger-Cooper-Newark,County Treasurer,,Write-In,,10,0,10
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,County Treasurer,,Write-In,,23,2,21
+Webster,Clay-Fulton-Johnson-Roland,County Treasurer,,Write-In,,17,1,16
+Webster,Colfax-Hardin-Washington-Webster-Yell,County Treasurer,,Write-In,,16,2,14
+Webster,Dayton,County Treasurer,,Write-In,,13,0,13
+Webster,Deer Creek-Jackson,County Treasurer,,Write-In,,8,1,7
+Webster,Fort Dodge #1,County Treasurer,,Write-In,,12,2,10
+Webster,Fort Dodge #10,County Treasurer,,Write-In,,9,3,6
+Webster,Fort Dodge #11,County Treasurer,,Write-In,,16,8,8
+Webster,Fort Dodge #12,County Treasurer,,Write-In,,13,3,10
+Webster,Fort Dodge #2,County Treasurer,,Write-In,,14,2,12
+Webster,Fort Dodge #3,County Treasurer,,Write-In,,19,5,14
+Webster,Fort Dodge #4-Douglas,County Treasurer,,Write-In,,18,4,14
+Webster,Fort Dodge #5,County Treasurer,,Write-In,,3,1,2
+Webster,Fort Dodge #6,County Treasurer,,Write-In,,2,1,1
+Webster,Fort Dodge #7,County Treasurer,,Write-In,,8,1,7
+Webster,Fort Dodge #8,County Treasurer,,Write-In,,18,5,13
+Webster,Fort Dodge #9,County Treasurer,,Write-In,,10,2,8
+Webster,Gowrie-Lost Grove,County Treasurer,,Write-In,,12,2,10
+Webster,Badger-Cooper-Newark,Court of Appeals Judge - John M. Sandy,,No,,135,39,96
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Court of Appeals Judge - John M. Sandy,,No,,254,83,171
+Webster,Clay-Fulton-Johnson-Roland,Court of Appeals Judge - John M. Sandy,,No,,152,48,104
+Webster,Colfax-Hardin-Washington-Webster-Yell,Court of Appeals Judge - John M. Sandy,,No,,118,37,81
+Webster,Dayton,Court of Appeals Judge - John M. Sandy,,No,,110,15,95
+Webster,Deer Creek-Jackson,Court of Appeals Judge - John M. Sandy,,No,,56,19,37
+Webster,Fort Dodge #1,Court of Appeals Judge - John M. Sandy,,No,,169,63,106
+Webster,Fort Dodge #10,Court of Appeals Judge - John M. Sandy,,No,,135,55,80
+Webster,Fort Dodge #11,Court of Appeals Judge - John M. Sandy,,No,,172,57,115
+Webster,Fort Dodge #12,Court of Appeals Judge - John M. Sandy,,No,,77,25,52
+Webster,Fort Dodge #2,Court of Appeals Judge - John M. Sandy,,No,,153,67,86
+Webster,Fort Dodge #3,Court of Appeals Judge - John M. Sandy,,No,,113,43,70
+Webster,Fort Dodge #4-Douglas,Court of Appeals Judge - John M. Sandy,,No,,184,67,117
+Webster,Fort Dodge #5,Court of Appeals Judge - John M. Sandy,,No,,61,23,38
+Webster,Fort Dodge #6,Court of Appeals Judge - John M. Sandy,,No,,34,9,25
+Webster,Fort Dodge #7,Court of Appeals Judge - John M. Sandy,,No,,115,41,74
+Webster,Fort Dodge #8,Court of Appeals Judge - John M. Sandy,,No,,92,43,49
+Webster,Fort Dodge #9,Court of Appeals Judge - John M. Sandy,,No,,87,33,54
+Webster,Gowrie-Lost Grove,Court of Appeals Judge - John M. Sandy,,No,,148,25,123
+Webster,Badger-Cooper-Newark,Court of Appeals Judge - John M. Sandy,,Yes,,471,132,339
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Court of Appeals Judge - John M. Sandy,,Yes,,652,194,458
+Webster,Clay-Fulton-Johnson-Roland,Court of Appeals Judge - John M. Sandy,,Yes,,392,126,266
+Webster,Colfax-Hardin-Washington-Webster-Yell,Court of Appeals Judge - John M. Sandy,,Yes,,280,70,210
+Webster,Dayton,Court of Appeals Judge - John M. Sandy,,Yes,,279,51,228
+Webster,Deer Creek-Jackson,Court of Appeals Judge - John M. Sandy,,Yes,,228,50,178
+Webster,Fort Dodge #1,Court of Appeals Judge - John M. Sandy,,Yes,,716,306,410
+Webster,Fort Dodge #10,Court of Appeals Judge - John M. Sandy,,Yes,,449,190,259
+Webster,Fort Dodge #11,Court of Appeals Judge - John M. Sandy,,Yes,,772,323,449
+Webster,Fort Dodge #12,Court of Appeals Judge - John M. Sandy,,Yes,,307,117,190
+Webster,Fort Dodge #2,Court of Appeals Judge - John M. Sandy,,Yes,,456,174,282
+Webster,Fort Dodge #3,Court of Appeals Judge - John M. Sandy,,Yes,,335,115,220
+Webster,Fort Dodge #4-Douglas,Court of Appeals Judge - John M. Sandy,,Yes,,680,276,404
+Webster,Fort Dodge #5,Court of Appeals Judge - John M. Sandy,,Yes,,229,139,90
+Webster,Fort Dodge #6,Court of Appeals Judge - John M. Sandy,,Yes,,102,44,58
+Webster,Fort Dodge #7,Court of Appeals Judge - John M. Sandy,,Yes,,259,115,144
+Webster,Fort Dodge #8,Court of Appeals Judge - John M. Sandy,,Yes,,280,140,140
+Webster,Fort Dodge #9,Court of Appeals Judge - John M. Sandy,,Yes,,310,102,208
+Webster,Gowrie-Lost Grove,Court of Appeals Judge - John M. Sandy,,Yes,,379,74,305
+Webster,Badger-Cooper-Newark,Court of Appeals Judge - Julie A. Schumacher,,No,,138,39,99
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Court of Appeals Judge - Julie A. Schumacher,,No,,237,68,169
+Webster,Clay-Fulton-Johnson-Roland,Court of Appeals Judge - Julie A. Schumacher,,No,,141,41,100
+Webster,Colfax-Hardin-Washington-Webster-Yell,Court of Appeals Judge - Julie A. Schumacher,,No,,109,35,74
+Webster,Dayton,Court of Appeals Judge - Julie A. Schumacher,,No,,112,9,103
+Webster,Deer Creek-Jackson,Court of Appeals Judge - Julie A. Schumacher,,No,,46,16,30
+Webster,Fort Dodge #1,Court of Appeals Judge - Julie A. Schumacher,,No,,155,53,102
+Webster,Fort Dodge #10,Court of Appeals Judge - Julie A. Schumacher,,No,,119,45,74
+Webster,Fort Dodge #11,Court of Appeals Judge - Julie A. Schumacher,,No,,161,49,112
+Webster,Fort Dodge #12,Court of Appeals Judge - Julie A. Schumacher,,No,,65,21,44
+Webster,Fort Dodge #2,Court of Appeals Judge - Julie A. Schumacher,,No,,142,60,82
+Webster,Fort Dodge #3,Court of Appeals Judge - Julie A. Schumacher,,No,,106,41,65
+Webster,Fort Dodge #4-Douglas,Court of Appeals Judge - Julie A. Schumacher,,No,,170,60,110
+Webster,Fort Dodge #5,Court of Appeals Judge - Julie A. Schumacher,,No,,58,19,39
+Webster,Fort Dodge #6,Court of Appeals Judge - Julie A. Schumacher,,No,,32,7,25
+Webster,Fort Dodge #7,Court of Appeals Judge - Julie A. Schumacher,,No,,94,36,58
+Webster,Fort Dodge #8,Court of Appeals Judge - Julie A. Schumacher,,No,,85,42,43
+Webster,Fort Dodge #9,Court of Appeals Judge - Julie A. Schumacher,,No,,85,29,56
+Webster,Gowrie-Lost Grove,Court of Appeals Judge - Julie A. Schumacher,,No,,143,25,118
+Webster,Badger-Cooper-Newark,Court of Appeals Judge - Julie A. Schumacher,,Yes,,490,138,352
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Court of Appeals Judge - Julie A. Schumacher,,Yes,,699,224,475
+Webster,Clay-Fulton-Johnson-Roland,Court of Appeals Judge - Julie A. Schumacher,,Yes,,417,135,282
+Webster,Colfax-Hardin-Washington-Webster-Yell,Court of Appeals Judge - Julie A. Schumacher,,Yes,,300,75,225
+Webster,Dayton,Court of Appeals Judge - Julie A. Schumacher,,Yes,,283,57,226
+Webster,Deer Creek-Jackson,Court of Appeals Judge - Julie A. Schumacher,,Yes,,242,54,188
+Webster,Fort Dodge #1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,755,331,424
+Webster,Fort Dodge #10,Court of Appeals Judge - Julie A. Schumacher,,Yes,,491,209,282
+Webster,Fort Dodge #11,Court of Appeals Judge - Julie A. Schumacher,,Yes,,808,332,476
+Webster,Fort Dodge #12,Court of Appeals Judge - Julie A. Schumacher,,Yes,,327,125,202
+Webster,Fort Dodge #2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,476,179,297
+Webster,Fort Dodge #3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,351,119,232
+Webster,Fort Dodge #4-Douglas,Court of Appeals Judge - Julie A. Schumacher,,Yes,,722,296,426
+Webster,Fort Dodge #5,Court of Appeals Judge - Julie A. Schumacher,,Yes,,243,148,95
+Webster,Fort Dodge #6,Court of Appeals Judge - Julie A. Schumacher,,Yes,,108,49,59
+Webster,Fort Dodge #7,Court of Appeals Judge - Julie A. Schumacher,,Yes,,290,126,164
+Webster,Fort Dodge #8,Court of Appeals Judge - Julie A. Schumacher,,Yes,,293,141,152
+Webster,Fort Dodge #9,Court of Appeals Judge - Julie A. Schumacher,,Yes,,324,109,215
+Webster,Gowrie-Lost Grove,Court of Appeals Judge - Julie A. Schumacher,,Yes,,400,77,323
+Webster,Badger-Cooper-Newark,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,148,41,107
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,253,74,179
+Webster,Clay-Fulton-Johnson-Roland,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,162,49,113
+Webster,Colfax-Hardin-Washington-Webster-Yell,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,118,38,80
+Webster,Dayton,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,111,13,98
+Webster,Deer Creek-Jackson,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,47,17,30
+Webster,Fort Dodge #1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,178,61,117
+Webster,Fort Dodge #10,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,132,52,80
+Webster,Fort Dodge #11,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,171,53,118
+Webster,Fort Dodge #12,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,80,25,55
+Webster,Fort Dodge #2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,153,65,88
+Webster,Fort Dodge #3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,110,43,67
+Webster,Fort Dodge #4-Douglas,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,178,67,111
+Webster,Fort Dodge #5,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,62,23,39
+Webster,Fort Dodge #6,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,37,12,25
+Webster,Fort Dodge #7,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,96,33,63
+Webster,Fort Dodge #8,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,90,41,49
+Webster,Fort Dodge #9,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,80,28,52
+Webster,Gowrie-Lost Grove,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,155,23,132
+Webster,Badger-Cooper-Newark,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,458,130,328
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,657,204,453
+Webster,Clay-Fulton-Johnson-Roland,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,388,124,264
+Webster,Colfax-Hardin-Washington-Webster-Yell,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,283,70,213
+Webster,Dayton,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,275,51,224
+Webster,Deer Creek-Jackson,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,235,51,184
+Webster,Fort Dodge #1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,712,310,402
+Webster,Fort Dodge #10,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,453,191,262
+Webster,Fort Dodge #11,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,774,325,449
+Webster,Fort Dodge #12,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,304,116,188
+Webster,Fort Dodge #2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,453,174,279
+Webster,Fort Dodge #3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,340,116,224
+Webster,Fort Dodge #4-Douglas,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,688,275,413
+Webster,Fort Dodge #5,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,227,136,91
+Webster,Fort Dodge #6,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,97,40,57
+Webster,Fort Dodge #7,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,286,128,158
+Webster,Fort Dodge #8,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,282,140,142
+Webster,Fort Dodge #9,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,318,107,211
+Webster,Gowrie-Lost Grove,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,377,76,301
+Webster,Dayton,Dayton Township Clerk,,Georgene Hanson,,146,24,122
+Webster,Dayton,Dayton Township Clerk,,Write-In,,2,0,2
+Webster,Dayton,Dayton Township Trustee,,Jeffrey Peterson,,148,24,124
+Webster,Dayton,Dayton Township Trustee,,Write-In,,0,0,0
+Webster,Deer Creek-Jackson,Deer Creek Township Clerk,,Write-In,,11,0,11
+Webster,Deer Creek-Jackson,Deer Creek Township Trustee,,Dana Hotz,,190,53,137
+Webster,Deer Creek-Jackson,Deer Creek Township Trustee,,Write-In,,0,0,0
+Webster,Badger-Cooper-Newark,District 2B Associate Judge - Joseph L. Tofilon,,No,,143,39,104
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,District 2B Associate Judge - Joseph L. Tofilon,,No,,244,76,168
+Webster,Clay-Fulton-Johnson-Roland,District 2B Associate Judge - Joseph L. Tofilon,,No,,139,38,101
+Webster,Colfax-Hardin-Washington-Webster-Yell,District 2B Associate Judge - Joseph L. Tofilon,,No,,112,32,80
+Webster,Dayton,District 2B Associate Judge - Joseph L. Tofilon,,No,,111,14,97
+Webster,Deer Creek-Jackson,District 2B Associate Judge - Joseph L. Tofilon,,No,,53,15,38
+Webster,Fort Dodge #1,District 2B Associate Judge - Joseph L. Tofilon,,No,,157,58,99
+Webster,Fort Dodge #10,District 2B Associate Judge - Joseph L. Tofilon,,No,,119,43,76
+Webster,Fort Dodge #11,District 2B Associate Judge - Joseph L. Tofilon,,No,,181,51,130
+Webster,Fort Dodge #12,District 2B Associate Judge - Joseph L. Tofilon,,No,,80,24,56
+Webster,Fort Dodge #2,District 2B Associate Judge - Joseph L. Tofilon,,No,,140,58,82
+Webster,Fort Dodge #3,District 2B Associate Judge - Joseph L. Tofilon,,No,,104,37,67
+Webster,Fort Dodge #4-Douglas,District 2B Associate Judge - Joseph L. Tofilon,,No,,187,68,119
+Webster,Fort Dodge #5,District 2B Associate Judge - Joseph L. Tofilon,,No,,53,20,33
+Webster,Fort Dodge #6,District 2B Associate Judge - Joseph L. Tofilon,,No,,32,8,24
+Webster,Fort Dodge #7,District 2B Associate Judge - Joseph L. Tofilon,,No,,111,41,70
+Webster,Fort Dodge #8,District 2B Associate Judge - Joseph L. Tofilon,,No,,83,42,41
+Webster,Fort Dodge #9,District 2B Associate Judge - Joseph L. Tofilon,,No,,87,34,53
+Webster,Gowrie-Lost Grove,District 2B Associate Judge - Joseph L. Tofilon,,No,,138,25,113
+Webster,Badger-Cooper-Newark,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,482,135,347
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,687,211,476
+Webster,Clay-Fulton-Johnson-Roland,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,412,140,272
+Webster,Colfax-Hardin-Washington-Webster-Yell,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,288,73,215
+Webster,Dayton,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,278,51,227
+Webster,Deer Creek-Jackson,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,233,51,182
+Webster,Fort Dodge #1,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,754,330,424
+Webster,Fort Dodge #10,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,474,202,272
+Webster,Fort Dodge #11,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,793,332,461
+Webster,Fort Dodge #12,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,313,119,194
+Webster,Fort Dodge #2,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,479,183,296
+Webster,Fort Dodge #3,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,351,125,226
+Webster,Fort Dodge #4-Douglas,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,690,281,409
+Webster,Fort Dodge #5,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,238,142,96
+Webster,Fort Dodge #6,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,108,45,63
+Webster,Fort Dodge #7,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,261,115,146
+Webster,Fort Dodge #8,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,287,138,149
+Webster,Fort Dodge #9,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,306,99,207
+Webster,Gowrie-Lost Grove,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,394,72,322
+Webster,Badger-Cooper-Newark,District 2B Associate Judge - Stephen A. Owen,,No,,130,36,94
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,District 2B Associate Judge - Stephen A. Owen,,No,,230,73,157
+Webster,Clay-Fulton-Johnson-Roland,District 2B Associate Judge - Stephen A. Owen,,No,,152,48,104
+Webster,Colfax-Hardin-Washington-Webster-Yell,District 2B Associate Judge - Stephen A. Owen,,No,,112,35,77
+Webster,Dayton,District 2B Associate Judge - Stephen A. Owen,,No,,107,14,93
+Webster,Deer Creek-Jackson,District 2B Associate Judge - Stephen A. Owen,,No,,49,16,33
+Webster,Fort Dodge #1,District 2B Associate Judge - Stephen A. Owen,,No,,155,50,105
+Webster,Fort Dodge #10,District 2B Associate Judge - Stephen A. Owen,,No,,111,41,70
+Webster,Fort Dodge #11,District 2B Associate Judge - Stephen A. Owen,,No,,159,52,107
+Webster,Fort Dodge #12,District 2B Associate Judge - Stephen A. Owen,,No,,80,25,55
+Webster,Fort Dodge #2,District 2B Associate Judge - Stephen A. Owen,,No,,129,60,69
+Webster,Fort Dodge #3,District 2B Associate Judge - Stephen A. Owen,,No,,104,41,63
+Webster,Fort Dodge #4-Douglas,District 2B Associate Judge - Stephen A. Owen,,No,,173,61,112
+Webster,Fort Dodge #5,District 2B Associate Judge - Stephen A. Owen,,No,,59,22,37
+Webster,Fort Dodge #6,District 2B Associate Judge - Stephen A. Owen,,No,,33,8,25
+Webster,Fort Dodge #7,District 2B Associate Judge - Stephen A. Owen,,No,,97,37,60
+Webster,Fort Dodge #8,District 2B Associate Judge - Stephen A. Owen,,No,,84,37,47
+Webster,Fort Dodge #9,District 2B Associate Judge - Stephen A. Owen,,No,,78,34,44
+Webster,Gowrie-Lost Grove,District 2B Associate Judge - Stephen A. Owen,,No,,132,23,109
+Webster,Badger-Cooper-Newark,District 2B Associate Judge - Stephen A. Owen,,Yes,,468,129,339
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,District 2B Associate Judge - Stephen A. Owen,,Yes,,664,198,466
+Webster,Clay-Fulton-Johnson-Roland,District 2B Associate Judge - Stephen A. Owen,,Yes,,396,126,270
+Webster,Colfax-Hardin-Washington-Webster-Yell,District 2B Associate Judge - Stephen A. Owen,,Yes,,280,67,213
+Webster,Dayton,District 2B Associate Judge - Stephen A. Owen,,Yes,,283,51,232
+Webster,Deer Creek-Jackson,District 2B Associate Judge - Stephen A. Owen,,Yes,,232,49,183
+Webster,Fort Dodge #1,District 2B Associate Judge - Stephen A. Owen,,Yes,,726,318,408
+Webster,Fort Dodge #10,District 2B Associate Judge - Stephen A. Owen,,Yes,,458,192,266
+Webster,Fort Dodge #11,District 2B Associate Judge - Stephen A. Owen,,Yes,,768,313,455
+Webster,Fort Dodge #12,District 2B Associate Judge - Stephen A. Owen,,Yes,,299,117,182
+Webster,Fort Dodge #2,District 2B Associate Judge - Stephen A. Owen,,Yes,,477,178,299
+Webster,Fort Dodge #3,District 2B Associate Judge - Stephen A. Owen,,Yes,,332,112,220
+Webster,Fort Dodge #4-Douglas,District 2B Associate Judge - Stephen A. Owen,,Yes,,681,275,406
+Webster,Fort Dodge #5,District 2B Associate Judge - Stephen A. Owen,,Yes,,225,135,90
+Webster,Fort Dodge #6,District 2B Associate Judge - Stephen A. Owen,,Yes,,106,45,61
+Webster,Fort Dodge #7,District 2B Associate Judge - Stephen A. Owen,,Yes,,268,115,153
+Webster,Fort Dodge #8,District 2B Associate Judge - Stephen A. Owen,,Yes,,282,142,140
+Webster,Fort Dodge #9,District 2B Associate Judge - Stephen A. Owen,,Yes,,309,99,210
+Webster,Gowrie-Lost Grove,District 2B Associate Judge - Stephen A. Owen,,Yes,,393,72,321
+Webster,Badger-Cooper-Newark,District 2B Judge - Amy Moore,,No,,132,32,100
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,District 2B Judge - Amy Moore,,No,,235,72,163
+Webster,Clay-Fulton-Johnson-Roland,District 2B Judge - Amy Moore,,No,,150,45,105
+Webster,Colfax-Hardin-Washington-Webster-Yell,District 2B Judge - Amy Moore,,No,,109,32,77
+Webster,Dayton,District 2B Judge - Amy Moore,,No,,110,11,99
+Webster,Deer Creek-Jackson,District 2B Judge - Amy Moore,,No,,46,16,30
+Webster,Fort Dodge #1,District 2B Judge - Amy Moore,,No,,163,49,114
+Webster,Fort Dodge #10,District 2B Judge - Amy Moore,,No,,113,41,72
+Webster,Fort Dodge #11,District 2B Judge - Amy Moore,,No,,162,54,108
+Webster,Fort Dodge #12,District 2B Judge - Amy Moore,,No,,68,22,46
+Webster,Fort Dodge #2,District 2B Judge - Amy Moore,,No,,137,57,80
+Webster,Fort Dodge #3,District 2B Judge - Amy Moore,,No,,99,37,62
+Webster,Fort Dodge #4-Douglas,District 2B Judge - Amy Moore,,No,,170,67,103
+Webster,Fort Dodge #5,District 2B Judge - Amy Moore,,No,,57,20,37
+Webster,Fort Dodge #6,District 2B Judge - Amy Moore,,No,,32,7,25
+Webster,Fort Dodge #7,District 2B Judge - Amy Moore,,No,,96,34,62
+Webster,Fort Dodge #8,District 2B Judge - Amy Moore,,No,,81,39,42
+Webster,Fort Dodge #9,District 2B Judge - Amy Moore,,No,,79,29,50
+Webster,Gowrie-Lost Grove,District 2B Judge - Amy Moore,,No,,140,26,114
+Webster,Badger-Cooper-Newark,District 2B Judge - Amy Moore,,Yes,,470,133,337
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,District 2B Judge - Amy Moore,,Yes,,667,203,464
+Webster,Clay-Fulton-Johnson-Roland,District 2B Judge - Amy Moore,,Yes,,396,129,267
+Webster,Colfax-Hardin-Washington-Webster-Yell,District 2B Judge - Amy Moore,,Yes,,289,73,216
+Webster,Dayton,District 2B Judge - Amy Moore,,Yes,,272,51,221
+Webster,Deer Creek-Jackson,District 2B Judge - Amy Moore,,Yes,,237,50,187
+Webster,Fort Dodge #1,District 2B Judge - Amy Moore,,Yes,,729,325,404
+Webster,Fort Dodge #10,District 2B Judge - Amy Moore,,Yes,,462,196,266
+Webster,Fort Dodge #11,District 2B Judge - Amy Moore,,Yes,,772,315,457
+Webster,Fort Dodge #12,District 2B Judge - Amy Moore,,Yes,,312,119,193
+Webster,Fort Dodge #2,District 2B Judge - Amy Moore,,Yes,,467,178,289
+Webster,Fort Dodge #3,District 2B Judge - Amy Moore,,Yes,,339,116,223
+Webster,Fort Dodge #4-Douglas,District 2B Judge - Amy Moore,,Yes,,696,277,419
+Webster,Fort Dodge #5,District 2B Judge - Amy Moore,,Yes,,234,144,90
+Webster,Fort Dodge #6,District 2B Judge - Amy Moore,,Yes,,105,45,60
+Webster,Fort Dodge #7,District 2B Judge - Amy Moore,,Yes,,278,124,154
+Webster,Fort Dodge #8,District 2B Judge - Amy Moore,,Yes,,288,141,147
+Webster,Fort Dodge #9,District 2B Judge - Amy Moore,,Yes,,313,104,209
+Webster,Gowrie-Lost Grove,District 2B Judge - Amy Moore,,Yes,,394,75,319
+Webster,Badger-Cooper-Newark,District 2B Judge - Angela L. Doyle,,No,,127,37,90
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,District 2B Judge - Angela L. Doyle,,No,,236,71,165
+Webster,Clay-Fulton-Johnson-Roland,District 2B Judge - Angela L. Doyle,,No,,154,50,104
+Webster,Colfax-Hardin-Washington-Webster-Yell,District 2B Judge - Angela L. Doyle,,No,,107,32,75
+Webster,Dayton,District 2B Judge - Angela L. Doyle,,No,,101,13,88
+Webster,Deer Creek-Jackson,District 2B Judge - Angela L. Doyle,,No,,41,13,28
+Webster,Fort Dodge #1,District 2B Judge - Angela L. Doyle,,No,,163,54,109
+Webster,Fort Dodge #10,District 2B Judge - Angela L. Doyle,,No,,109,37,72
+Webster,Fort Dodge #11,District 2B Judge - Angela L. Doyle,,No,,157,49,108
+Webster,Fort Dodge #12,District 2B Judge - Angela L. Doyle,,No,,64,21,43
+Webster,Fort Dodge #2,District 2B Judge - Angela L. Doyle,,No,,134,56,78
+Webster,Fort Dodge #3,District 2B Judge - Angela L. Doyle,,No,,97,34,63
+Webster,Fort Dodge #4-Douglas,District 2B Judge - Angela L. Doyle,,No,,167,60,107
+Webster,Fort Dodge #5,District 2B Judge - Angela L. Doyle,,No,,57,20,37
+Webster,Fort Dodge #6,District 2B Judge - Angela L. Doyle,,No,,33,7,26
+Webster,Fort Dodge #7,District 2B Judge - Angela L. Doyle,,No,,99,32,67
+Webster,Fort Dodge #8,District 2B Judge - Angela L. Doyle,,No,,87,41,46
+Webster,Fort Dodge #9,District 2B Judge - Angela L. Doyle,,No,,76,27,49
+Webster,Gowrie-Lost Grove,District 2B Judge - Angela L. Doyle,,No,,134,24,110
+Webster,Badger-Cooper-Newark,District 2B Judge - Angela L. Doyle,,Yes,,508,143,365
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,District 2B Judge - Angela L. Doyle,,Yes,,715,220,495
+Webster,Clay-Fulton-Johnson-Roland,District 2B Judge - Angela L. Doyle,,Yes,,410,134,276
+Webster,Colfax-Hardin-Washington-Webster-Yell,District 2B Judge - Angela L. Doyle,,Yes,,292,75,217
+Webster,Dayton,District 2B Judge - Angela L. Doyle,,Yes,,286,53,233
+Webster,Deer Creek-Jackson,District 2B Judge - Angela L. Doyle,,Yes,,246,54,192
+Webster,Fort Dodge #1,District 2B Judge - Angela L. Doyle,,Yes,,765,333,432
+Webster,Fort Dodge #10,District 2B Judge - Angela L. Doyle,,Yes,,505,213,292
+Webster,Fort Dodge #11,District 2B Judge - Angela L. Doyle,,Yes,,838,343,495
+Webster,Fort Dodge #12,District 2B Judge - Angela L. Doyle,,Yes,,339,130,209
+Webster,Fort Dodge #2,District 2B Judge - Angela L. Doyle,,Yes,,490,187,303
+Webster,Fort Dodge #3,District 2B Judge - Angela L. Doyle,,Yes,,369,130,239
+Webster,Fort Dodge #4-Douglas,District 2B Judge - Angela L. Doyle,,Yes,,728,296,432
+Webster,Fort Dodge #5,District 2B Judge - Angela L. Doyle,,Yes,,241,146,95
+Webster,Fort Dodge #6,District 2B Judge - Angela L. Doyle,,Yes,,107,46,61
+Webster,Fort Dodge #7,District 2B Judge - Angela L. Doyle,,Yes,,285,128,157
+Webster,Fort Dodge #8,District 2B Judge - Angela L. Doyle,,Yes,,286,141,145
+Webster,Fort Dodge #9,District 2B Judge - Angela L. Doyle,,Yes,,337,116,221
+Webster,Gowrie-Lost Grove,District 2B Judge - Angela L. Doyle,,Yes,,408,78,330
+Webster,Badger-Cooper-Newark,District 2B Judge - Ashley Sparks,,No,,136,34,102
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,District 2B Judge - Ashley Sparks,,No,,237,72,165
+Webster,Clay-Fulton-Johnson-Roland,District 2B Judge - Ashley Sparks,,No,,149,44,105
+Webster,Colfax-Hardin-Washington-Webster-Yell,District 2B Judge - Ashley Sparks,,No,,106,30,76
+Webster,Dayton,District 2B Judge - Ashley Sparks,,No,,110,15,95
+Webster,Deer Creek-Jackson,District 2B Judge - Ashley Sparks,,No,,55,16,39
+Webster,Fort Dodge #1,District 2B Judge - Ashley Sparks,,No,,159,54,105
+Webster,Fort Dodge #10,District 2B Judge - Ashley Sparks,,No,,117,39,78
+Webster,Fort Dodge #11,District 2B Judge - Ashley Sparks,,No,,162,56,106
+Webster,Fort Dodge #12,District 2B Judge - Ashley Sparks,,No,,75,25,50
+Webster,Fort Dodge #2,District 2B Judge - Ashley Sparks,,No,,137,59,78
+Webster,Fort Dodge #3,District 2B Judge - Ashley Sparks,,No,,102,38,64
+Webster,Fort Dodge #4-Douglas,District 2B Judge - Ashley Sparks,,No,,171,62,109
+Webster,Fort Dodge #5,District 2B Judge - Ashley Sparks,,No,,64,22,42
+Webster,Fort Dodge #6,District 2B Judge - Ashley Sparks,,No,,34,10,24
+Webster,Fort Dodge #7,District 2B Judge - Ashley Sparks,,No,,94,37,57
+Webster,Fort Dodge #8,District 2B Judge - Ashley Sparks,,No,,87,41,46
+Webster,Fort Dodge #9,District 2B Judge - Ashley Sparks,,No,,77,31,46
+Webster,Gowrie-Lost Grove,District 2B Judge - Ashley Sparks,,No,,136,26,110
+Webster,Badger-Cooper-Newark,District 2B Judge - Ashley Sparks,,Yes,,465,133,332
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,District 2B Judge - Ashley Sparks,,Yes,,670,207,463
+Webster,Clay-Fulton-Johnson-Roland,District 2B Judge - Ashley Sparks,,Yes,,401,130,271
+Webster,Colfax-Hardin-Washington-Webster-Yell,District 2B Judge - Ashley Sparks,,Yes,,289,76,213
+Webster,Dayton,District 2B Judge - Ashley Sparks,,Yes,,276,50,226
+Webster,Deer Creek-Jackson,District 2B Judge - Ashley Sparks,,Yes,,226,49,177
+Webster,Fort Dodge #1,District 2B Judge - Ashley Sparks,,Yes,,726,313,413
+Webster,Fort Dodge #10,District 2B Judge - Ashley Sparks,,Yes,,462,203,259
+Webster,Fort Dodge #11,District 2B Judge - Ashley Sparks,,Yes,,766,316,450
+Webster,Fort Dodge #12,District 2B Judge - Ashley Sparks,,Yes,,306,118,188
+Webster,Fort Dodge #2,District 2B Judge - Ashley Sparks,,Yes,,461,177,284
+Webster,Fort Dodge #3,District 2B Judge - Ashley Sparks,,Yes,,342,118,224
+Webster,Fort Dodge #4-Douglas,District 2B Judge - Ashley Sparks,,Yes,,691,279,412
+Webster,Fort Dodge #5,District 2B Judge - Ashley Sparks,,Yes,,224,137,87
+Webster,Fort Dodge #6,District 2B Judge - Ashley Sparks,,Yes,,102,42,60
+Webster,Fort Dodge #7,District 2B Judge - Ashley Sparks,,Yes,,280,122,158
+Webster,Fort Dodge #8,District 2B Judge - Ashley Sparks,,Yes,,283,142,141
+Webster,Fort Dodge #9,District 2B Judge - Ashley Sparks,,Yes,,318,103,215
+Webster,Gowrie-Lost Grove,District 2B Judge - Ashley Sparks,,Yes,,398,74,324
+Webster,Badger-Cooper-Newark,District 2B Judge - Bethany Currie,,No,,137,33,104
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,District 2B Judge - Bethany Currie,,No,,229,72,157
+Webster,Clay-Fulton-Johnson-Roland,District 2B Judge - Bethany Currie,,No,,149,47,102
+Webster,Colfax-Hardin-Washington-Webster-Yell,District 2B Judge - Bethany Currie,,No,,109,30,79
+Webster,Dayton,District 2B Judge - Bethany Currie,,No,,109,15,94
+Webster,Deer Creek-Jackson,District 2B Judge - Bethany Currie,,No,,52,15,37
+Webster,Fort Dodge #1,District 2B Judge - Bethany Currie,,No,,163,56,107
+Webster,Fort Dodge #10,District 2B Judge - Bethany Currie,,No,,112,39,73
+Webster,Fort Dodge #11,District 2B Judge - Bethany Currie,,No,,161,56,105
+Webster,Fort Dodge #12,District 2B Judge - Bethany Currie,,No,,69,22,47
+Webster,Fort Dodge #2,District 2B Judge - Bethany Currie,,No,,144,57,87
+Webster,Fort Dodge #3,District 2B Judge - Bethany Currie,,No,,99,37,62
+Webster,Fort Dodge #4-Douglas,District 2B Judge - Bethany Currie,,No,,176,65,111
+Webster,Fort Dodge #5,District 2B Judge - Bethany Currie,,No,,58,20,38
+Webster,Fort Dodge #6,District 2B Judge - Bethany Currie,,No,,34,10,24
+Webster,Fort Dodge #7,District 2B Judge - Bethany Currie,,No,,98,36,62
+Webster,Fort Dodge #8,District 2B Judge - Bethany Currie,,No,,87,41,46
+Webster,Fort Dodge #9,District 2B Judge - Bethany Currie,,No,,80,29,51
+Webster,Gowrie-Lost Grove,District 2B Judge - Bethany Currie,,No,,140,24,116
+Webster,Badger-Cooper-Newark,District 2B Judge - Bethany Currie,,Yes,,457,132,325
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,District 2B Judge - Bethany Currie,,Yes,,664,196,468
+Webster,Clay-Fulton-Johnson-Roland,District 2B Judge - Bethany Currie,,Yes,,399,125,274
+Webster,Colfax-Hardin-Washington-Webster-Yell,District 2B Judge - Bethany Currie,,Yes,,285,75,210
+Webster,Dayton,District 2B Judge - Bethany Currie,,Yes,,272,49,223
+Webster,Deer Creek-Jackson,District 2B Judge - Bethany Currie,,Yes,,227,49,178
+Webster,Fort Dodge #1,District 2B Judge - Bethany Currie,,Yes,,710,307,403
+Webster,Fort Dodge #10,District 2B Judge - Bethany Currie,,Yes,,458,196,262
+Webster,Fort Dodge #11,District 2B Judge - Bethany Currie,,Yes,,763,311,452
+Webster,Fort Dodge #12,District 2B Judge - Bethany Currie,,Yes,,306,117,189
+Webster,Fort Dodge #2,District 2B Judge - Bethany Currie,,Yes,,457,179,278
+Webster,Fort Dodge #3,District 2B Judge - Bethany Currie,,Yes,,338,116,222
+Webster,Fort Dodge #4-Douglas,District 2B Judge - Bethany Currie,,Yes,,683,274,409
+Webster,Fort Dodge #5,District 2B Judge - Bethany Currie,,Yes,,220,132,88
+Webster,Fort Dodge #6,District 2B Judge - Bethany Currie,,Yes,,102,41,61
+Webster,Fort Dodge #7,District 2B Judge - Bethany Currie,,Yes,,277,122,155
+Webster,Fort Dodge #8,District 2B Judge - Bethany Currie,,Yes,,280,138,142
+Webster,Fort Dodge #9,District 2B Judge - Bethany Currie,,Yes,,311,103,208
+Webster,Gowrie-Lost Grove,District 2B Judge - Bethany Currie,,Yes,,389,74,315
+Webster,Badger-Cooper-Newark,District 2B Judge - Christopher Polking,,No,,134,31,103
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,District 2B Judge - Christopher Polking,,No,,246,77,169
+Webster,Clay-Fulton-Johnson-Roland,District 2B Judge - Christopher Polking,,No,,152,48,104
+Webster,Colfax-Hardin-Washington-Webster-Yell,District 2B Judge - Christopher Polking,,No,,119,34,85
+Webster,Dayton,District 2B Judge - Christopher Polking,,No,,113,16,97
+Webster,Deer Creek-Jackson,District 2B Judge - Christopher Polking,,No,,54,16,38
+Webster,Fort Dodge #1,District 2B Judge - Christopher Polking,,No,,163,56,107
+Webster,Fort Dodge #10,District 2B Judge - Christopher Polking,,No,,121,45,76
+Webster,Fort Dodge #11,District 2B Judge - Christopher Polking,,No,,172,56,116
+Webster,Fort Dodge #12,District 2B Judge - Christopher Polking,,No,,78,26,52
+Webster,Fort Dodge #2,District 2B Judge - Christopher Polking,,No,,145,59,86
+Webster,Fort Dodge #3,District 2B Judge - Christopher Polking,,No,,103,40,63
+Webster,Fort Dodge #4-Douglas,District 2B Judge - Christopher Polking,,No,,187,68,119
+Webster,Fort Dodge #5,District 2B Judge - Christopher Polking,,No,,64,22,42
+Webster,Fort Dodge #6,District 2B Judge - Christopher Polking,,No,,33,8,25
+Webster,Fort Dodge #7,District 2B Judge - Christopher Polking,,No,,97,39,58
+Webster,Fort Dodge #8,District 2B Judge - Christopher Polking,,No,,90,42,48
+Webster,Fort Dodge #9,District 2B Judge - Christopher Polking,,No,,82,32,50
+Webster,Gowrie-Lost Grove,District 2B Judge - Christopher Polking,,No,,136,24,112
+Webster,Badger-Cooper-Newark,District 2B Judge - Christopher Polking,,Yes,,471,136,335
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,District 2B Judge - Christopher Polking,,Yes,,656,199,457
+Webster,Clay-Fulton-Johnson-Roland,District 2B Judge - Christopher Polking,,Yes,,400,130,270
+Webster,Colfax-Hardin-Washington-Webster-Yell,District 2B Judge - Christopher Polking,,Yes,,275,72,203
+Webster,Dayton,District 2B Judge - Christopher Polking,,Yes,,273,49,224
+Webster,Deer Creek-Jackson,District 2B Judge - Christopher Polking,,Yes,,231,50,181
+Webster,Fort Dodge #1,District 2B Judge - Christopher Polking,,Yes,,731,318,413
+Webster,Fort Dodge #10,District 2B Judge - Christopher Polking,,Yes,,456,197,259
+Webster,Fort Dodge #11,District 2B Judge - Christopher Polking,,Yes,,771,322,449
+Webster,Fort Dodge #12,District 2B Judge - Christopher Polking,,Yes,,303,117,186
+Webster,Fort Dodge #2,District 2B Judge - Christopher Polking,,Yes,,457,179,278
+Webster,Fort Dodge #3,District 2B Judge - Christopher Polking,,Yes,,340,115,225
+Webster,Fort Dodge #4-Douglas,District 2B Judge - Christopher Polking,,Yes,,678,276,402
+Webster,Fort Dodge #5,District 2B Judge - Christopher Polking,,Yes,,230,141,89
+Webster,Fort Dodge #6,District 2B Judge - Christopher Polking,,Yes,,104,44,60
+Webster,Fort Dodge #7,District 2B Judge - Christopher Polking,,Yes,,276,119,157
+Webster,Fort Dodge #8,District 2B Judge - Christopher Polking,,Yes,,276,137,139
+Webster,Fort Dodge #9,District 2B Judge - Christopher Polking,,Yes,,315,104,211
+Webster,Gowrie-Lost Grove,District 2B Judge - Christopher Polking,,Yes,,394,74,320
+Webster,Fort Dodge #4-Douglas,Douglas Township Clerk,,Dalton Rasch,,445,184,261
+Webster,Fort Dodge #4-Douglas,Douglas Township Clerk,,Write-In,,0,0,0
+Webster,Fort Dodge #4-Douglas,Douglas Township Trustee,,Ben Rogers,,432,176,256
+Webster,Fort Dodge #4-Douglas,Douglas Township Trustee,,Write-In,,1,1,0
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Elkhorn Township Clerk,,Irvy Badger,,256,89,167
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Elkhorn Township Clerk,,Write-In,,1,0,1
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Elkhorn Township Trustee,,Randy Steinkamp,,276,96,180
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Elkhorn Township Trustee,,Write-In,,0,0,0
+Webster,Clay-Fulton-Johnson-Roland,Fulton Township Clerk,,Aaron Newell,,105,30,75
+Webster,Clay-Fulton-Johnson-Roland,Fulton Township Clerk,,Write-In,,1,0,1
+Webster,Clay-Fulton-Johnson-Roland,Fulton Township Trustee,,James Johnson Jr.,,101,28,73
+Webster,Clay-Fulton-Johnson-Roland,Fulton Township Trustee,,Write-In,,1,1,0
+Webster,Badger-Cooper-Newark,Governor,,Rob Sand and Dave Muhlbauer,DEM,331,117,214
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Governor,,Rob Sand and Dave Muhlbauer,DEM,464,192,272
+Webster,Clay-Fulton-Johnson-Roland,Governor,,Rob Sand and Dave Muhlbauer,DEM,230,89,141
+Webster,Colfax-Hardin-Washington-Webster-Yell,Governor,,Rob Sand and Dave Muhlbauer,DEM,196,63,133
+Webster,Dayton,Governor,,Rob Sand and Dave Muhlbauer,DEM,235,56,179
+Webster,Deer Creek-Jackson,Governor,,Rob Sand and Dave Muhlbauer,DEM,111,36,75
+Webster,Fort Dodge #1,Governor,,Rob Sand and Dave Muhlbauer,DEM,561,287,274
+Webster,Fort Dodge #10,Governor,,Rob Sand and Dave Muhlbauer,DEM,441,202,239
+Webster,Fort Dodge #11,Governor,,Rob Sand and Dave Muhlbauer,DEM,553,259,294
+Webster,Fort Dodge #12,Governor,,Rob Sand and Dave Muhlbauer,DEM,315,133,182
+Webster,Fort Dodge #2,Governor,,Rob Sand and Dave Muhlbauer,DEM,424,193,231
+Webster,Fort Dodge #3,Governor,,Rob Sand and Dave Muhlbauer,DEM,315,134,181
+Webster,Fort Dodge #4-Douglas,Governor,,Rob Sand and Dave Muhlbauer,DEM,506,273,233
+Webster,Fort Dodge #5,Governor,,Rob Sand and Dave Muhlbauer,DEM,219,120,99
+Webster,Fort Dodge #6,Governor,,Rob Sand and Dave Muhlbauer,DEM,104,44,60
+Webster,Fort Dodge #7,Governor,,Rob Sand and Dave Muhlbauer,DEM,309,149,160
+Webster,Fort Dodge #8,Governor,,Rob Sand and Dave Muhlbauer,DEM,271,142,129
+Webster,Fort Dodge #9,Governor,,Rob Sand and Dave Muhlbauer,DEM,273,110,163
+Webster,Gowrie-Lost Grove,Governor,,Rob Sand and Dave Muhlbauer,DEM,263,60,203
+Webster,Badger-Cooper-Newark,Governor,,Write-In,,0,0,0
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Governor,,Write-In,,0,0,0
+Webster,Clay-Fulton-Johnson-Roland,Governor,,Write-In,,1,1,0
+Webster,Colfax-Hardin-Washington-Webster-Yell,Governor,,Write-In,,0,0,0
+Webster,Dayton,Governor,,Write-In,,2,0,2
+Webster,Deer Creek-Jackson,Governor,,Write-In,,0,0,0
+Webster,Fort Dodge #1,Governor,,Write-In,,1,0,1
+Webster,Fort Dodge #10,Governor,,Write-In,,0,0,0
+Webster,Fort Dodge #11,Governor,,Write-In,,0,0,0
+Webster,Fort Dodge #12,Governor,,Write-In,,0,0,0
+Webster,Fort Dodge #2,Governor,,Write-In,,0,0,0
+Webster,Fort Dodge #3,Governor,,Write-In,,0,0,0
+Webster,Fort Dodge #4-Douglas,Governor,,Write-In,,3,2,1
+Webster,Fort Dodge #5,Governor,,Write-In,,0,0,0
+Webster,Fort Dodge #6,Governor,,Write-In,,1,0,1
+Webster,Fort Dodge #7,Governor,,Write-In,,1,1,0
+Webster,Fort Dodge #8,Governor,,Write-In,,1,0,1
+Webster,Fort Dodge #9,Governor,,Write-In,,0,0,0
+Webster,Gowrie-Lost Grove,Governor,,Write-In,,0,0,0
+Webster,Badger-Cooper-Newark,Governor,,Zach Lahn and Derek Wulf,REP,494,126,368
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Governor,,Zach Lahn and Derek Wulf,REP,777,180,597
+Webster,Clay-Fulton-Johnson-Roland,Governor,,Zach Lahn and Derek Wulf,REP,457,123,334
+Webster,Colfax-Hardin-Washington-Webster-Yell,Governor,,Zach Lahn and Derek Wulf,REP,335,90,245
+Webster,Dayton,Governor,,Zach Lahn and Derek Wulf,REP,244,33,211
+Webster,Deer Creek-Jackson,Governor,,Zach Lahn and Derek Wulf,REP,238,50,188
+Webster,Fort Dodge #1,Governor,,Zach Lahn and Derek Wulf,REP,535,170,365
+Webster,Fort Dodge #10,Governor,,Zach Lahn and Derek Wulf,REP,331,109,222
+Webster,Fort Dodge #11,Governor,,Zach Lahn and Derek Wulf,REP,673,230,443
+Webster,Fort Dodge #12,Governor,,Zach Lahn and Derek Wulf,REP,179,56,123
+Webster,Fort Dodge #2,Governor,,Zach Lahn and Derek Wulf,REP,323,94,229
+Webster,Fort Dodge #3,Governor,,Zach Lahn and Derek Wulf,REP,236,53,183
+Webster,Fort Dodge #4-Douglas,Governor,,Zach Lahn and Derek Wulf,REP,556,165,391
+Webster,Fort Dodge #5,Governor,,Zach Lahn and Derek Wulf,REP,155,93,62
+Webster,Fort Dodge #6,Governor,,Zach Lahn and Derek Wulf,REP,73,30,43
+Webster,Fort Dodge #7,Governor,,Zach Lahn and Derek Wulf,REP,136,37,99
+Webster,Fort Dodge #8,Governor,,Zach Lahn and Derek Wulf,REP,174,68,106
+Webster,Fort Dodge #9,Governor,,Zach Lahn and Derek Wulf,REP,215,58,157
+Webster,Gowrie-Lost Grove,Governor,,Zach Lahn and Derek Wulf,REP,432,60,372
+Webster,Gowrie-Lost Grove,Gowrie Township Clerk,,Lacey Spece,,69,14,55
+Webster,Gowrie-Lost Grove,Gowrie Township Clerk,,Write-In,,0,0,0
+Webster,Gowrie-Lost Grove,Gowrie Township Trustee,,Tanner Carlson,,72,13,59
+Webster,Gowrie-Lost Grove,Gowrie Township Trustee,,Write-In,,0,0,0
+Webster,Colfax-Hardin-Washington-Webster-Yell,Hardin Township Clerk,,Kendra Stumpenhorst,,40,23,17
+Webster,Colfax-Hardin-Washington-Webster-Yell,Hardin Township Clerk,,Write-In,,0,0,0
+Webster,Colfax-Hardin-Washington-Webster-Yell,Hardin Township Trustee,,Write-In,,3,1,2
+Webster,Deer Creek-Jackson,Jackson Township Clerk,,William Patz,,69,23,46
+Webster,Deer Creek-Jackson,Jackson Township Clerk,,Write-In,,0,0,0
+Webster,Deer Creek-Jackson,Jackson Township Trustee,,Dave Doyen,,73,22,51
+Webster,Deer Creek-Jackson,Jackson Township Trustee,,Write-In,,0,0,0
+Webster,Clay-Fulton-Johnson-Roland,Johnson Township Clerk,,Sarah Black,,71,38,33
+Webster,Clay-Fulton-Johnson-Roland,Johnson Township Clerk,,Write-In,,0,0,0
+Webster,Clay-Fulton-Johnson-Roland,Johnson Township Trustee,,Thomas E. Condon,,80,42,38
+Webster,Clay-Fulton-Johnson-Roland,Johnson Township Trustee,,Write-In,,1,0,1
+Webster,Clay-Fulton-Johnson-Roland,Johnson Township Trustee To Fill a Vacancy,,Write-In,,13,3,10
+Webster,Gowrie-Lost Grove,Lost Grove Township Clerk,,Robert N. Anderson,,83,19,64
+Webster,Gowrie-Lost Grove,Lost Grove Township Clerk,,Write-In,,1,0,1
+Webster,Gowrie-Lost Grove,Lost Grove Township Trustee,,Write-In,,13,3,10
+Webster,Badger-Cooper-Newark,Newark Township Clerk,,Daphne Willwerth,,60,24,36
+Webster,Badger-Cooper-Newark,Newark Township Clerk,,Write-In,,0,0,0
+Webster,Badger-Cooper-Newark,Newark Township Trustee,,Thomas Kist,,58,23,35
+Webster,Badger-Cooper-Newark,Newark Township Trustee,,Write-In,,0,0,0
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Otho Township Clerk,,Brooke Hart,,116,39,77
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Otho Township Clerk,,Write-In,,2,1,1
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Otho Township Trustee,,Write-In,,14,5,9
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Pleasant Valley Township Clerk,,Jodi Arends,,195,59,136
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Pleasant Valley Township Clerk,,Write-In,,3,0,3
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Pleasant Valley Township Trustee,,Amanda Lemke,,195,61,134
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Pleasant Valley Township Trustee,,Write-In,,3,0,3
+Webster,Clay-Fulton-Johnson-Roland,Roland Township Clerk,,John Hanson,,96,20,76
+Webster,Clay-Fulton-Johnson-Roland,Roland Township Clerk,,Write-In,,0,0,0
+Webster,Clay-Fulton-Johnson-Roland,Roland Township Trustee,,Pat Peterson,,94,20,74
+Webster,Clay-Fulton-Johnson-Roland,Roland Township Trustee,,Write-In,,2,0,2
+Webster,Badger-Cooper-Newark,Secretary of Agriculture,,Chris Jones,DEM,251,92,159
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Secretary of Agriculture,,Chris Jones,DEM,359,149,210
+Webster,Clay-Fulton-Johnson-Roland,Secretary of Agriculture,,Chris Jones,DEM,159,62,97
+Webster,Colfax-Hardin-Washington-Webster-Yell,Secretary of Agriculture,,Chris Jones,DEM,150,47,103
+Webster,Dayton,Secretary of Agriculture,,Chris Jones,DEM,163,40,123
+Webster,Deer Creek-Jackson,Secretary of Agriculture,,Chris Jones,DEM,72,23,49
+Webster,Fort Dodge #1,Secretary of Agriculture,,Chris Jones,DEM,417,232,185
+Webster,Fort Dodge #10,Secretary of Agriculture,,Chris Jones,DEM,365,176,189
+Webster,Fort Dodge #11,Secretary of Agriculture,,Chris Jones,DEM,414,205,209
+Webster,Fort Dodge #12,Secretary of Agriculture,,Chris Jones,DEM,253,111,142
+Webster,Fort Dodge #2,Secretary of Agriculture,,Chris Jones,DEM,357,173,184
+Webster,Fort Dodge #3,Secretary of Agriculture,,Chris Jones,DEM,250,119,131
+Webster,Fort Dodge #4-Douglas,Secretary of Agriculture,,Chris Jones,DEM,411,221,190
+Webster,Fort Dodge #5,Secretary of Agriculture,,Chris Jones,DEM,172,86,86
+Webster,Fort Dodge #6,Secretary of Agriculture,,Chris Jones,DEM,90,39,51
+Webster,Fort Dodge #7,Secretary of Agriculture,,Chris Jones,DEM,275,138,137
+Webster,Fort Dodge #8,Secretary of Agriculture,,Chris Jones,DEM,238,130,108
+Webster,Fort Dodge #9,Secretary of Agriculture,,Chris Jones,DEM,229,98,131
+Webster,Gowrie-Lost Grove,Secretary of Agriculture,,Chris Jones,DEM,174,39,135
+Webster,Badger-Cooper-Newark,Secretary of Agriculture,,Mike Naig,REP,563,149,414
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Secretary of Agriculture,,Mike Naig,REP,864,217,647
+Webster,Clay-Fulton-Johnson-Roland,Secretary of Agriculture,,Mike Naig,REP,524,150,374
+Webster,Colfax-Hardin-Washington-Webster-Yell,Secretary of Agriculture,,Mike Naig,REP,372,102,270
+Webster,Dayton,Secretary of Agriculture,,Mike Naig,REP,314,47,267
+Webster,Deer Creek-Jackson,Secretary of Agriculture,,Mike Naig,REP,276,63,213
+Webster,Fort Dodge #1,Secretary of Agriculture,,Mike Naig,REP,663,219,444
+Webster,Fort Dodge #10,Secretary of Agriculture,,Mike Naig,REP,396,132,264
+Webster,Fort Dodge #11,Secretary of Agriculture,,Mike Naig,REP,798,282,516
+Webster,Fort Dodge #12,Secretary of Agriculture,,Mike Naig,REP,235,76,159
+Webster,Fort Dodge #2,Secretary of Agriculture,,Mike Naig,REP,376,110,266
+Webster,Fort Dodge #3,Secretary of Agriculture,,Mike Naig,REP,289,65,224
+Webster,Fort Dodge #4-Douglas,Secretary of Agriculture,,Mike Naig,REP,645,215,430
+Webster,Fort Dodge #5,Secretary of Agriculture,,Mike Naig,REP,197,128,69
+Webster,Fort Dodge #6,Secretary of Agriculture,,Mike Naig,REP,83,33,50
+Webster,Fort Dodge #7,Secretary of Agriculture,,Mike Naig,REP,170,50,120
+Webster,Fort Dodge #8,Secretary of Agriculture,,Mike Naig,REP,198,79,119
+Webster,Fort Dodge #9,Secretary of Agriculture,,Mike Naig,REP,253,66,187
+Webster,Gowrie-Lost Grove,Secretary of Agriculture,,Mike Naig,REP,510,81,429
+Webster,Badger-Cooper-Newark,Secretary of Agriculture,,Write-In,,0,0,0
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Secretary of Agriculture,,Write-In,,0,0,0
+Webster,Clay-Fulton-Johnson-Roland,Secretary of Agriculture,,Write-In,,0,0,0
+Webster,Colfax-Hardin-Washington-Webster-Yell,Secretary of Agriculture,,Write-In,,0,0,0
+Webster,Dayton,Secretary of Agriculture,,Write-In,,0,0,0
+Webster,Deer Creek-Jackson,Secretary of Agriculture,,Write-In,,0,0,0
+Webster,Fort Dodge #1,Secretary of Agriculture,,Write-In,,0,0,0
+Webster,Fort Dodge #10,Secretary of Agriculture,,Write-In,,0,0,0
+Webster,Fort Dodge #11,Secretary of Agriculture,,Write-In,,0,0,0
+Webster,Fort Dodge #12,Secretary of Agriculture,,Write-In,,1,0,1
+Webster,Fort Dodge #2,Secretary of Agriculture,,Write-In,,0,0,0
+Webster,Fort Dodge #3,Secretary of Agriculture,,Write-In,,0,0,0
+Webster,Fort Dodge #4-Douglas,Secretary of Agriculture,,Write-In,,1,0,1
+Webster,Fort Dodge #5,Secretary of Agriculture,,Write-In,,0,0,0
+Webster,Fort Dodge #6,Secretary of Agriculture,,Write-In,,0,0,0
+Webster,Fort Dodge #7,Secretary of Agriculture,,Write-In,,1,0,1
+Webster,Fort Dodge #8,Secretary of Agriculture,,Write-In,,4,0,4
+Webster,Fort Dodge #9,Secretary of Agriculture,,Write-In,,0,0,0
+Webster,Gowrie-Lost Grove,Secretary of Agriculture,,Write-In,,0,0,0
+Webster,Badger-Cooper-Newark,Secretary of State,,Paul D. Pate,REP,559,149,410
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Secretary of State,,Paul D. Pate,REP,856,216,640
+Webster,Clay-Fulton-Johnson-Roland,Secretary of State,,Paul D. Pate,REP,520,148,372
+Webster,Colfax-Hardin-Washington-Webster-Yell,Secretary of State,,Paul D. Pate,REP,365,98,267
+Webster,Dayton,Secretary of State,,Paul D. Pate,REP,305,46,259
+Webster,Deer Creek-Jackson,Secretary of State,,Paul D. Pate,REP,272,61,211
+Webster,Fort Dodge #1,Secretary of State,,Paul D. Pate,REP,647,207,440
+Webster,Fort Dodge #10,Secretary of State,,Paul D. Pate,REP,387,124,263
+Webster,Fort Dodge #11,Secretary of State,,Paul D. Pate,REP,772,274,498
+Webster,Fort Dodge #12,Secretary of State,,Paul D. Pate,REP,224,73,151
+Webster,Fort Dodge #2,Secretary of State,,Paul D. Pate,REP,372,108,264
+Webster,Fort Dodge #3,Secretary of State,,Paul D. Pate,REP,283,69,214
+Webster,Fort Dodge #4-Douglas,Secretary of State,,Paul D. Pate,REP,641,205,436
+Webster,Fort Dodge #5,Secretary of State,,Paul D. Pate,REP,188,124,64
+Webster,Fort Dodge #6,Secretary of State,,Paul D. Pate,REP,80,32,48
+Webster,Fort Dodge #7,Secretary of State,,Paul D. Pate,REP,166,48,118
+Webster,Fort Dodge #8,Secretary of State,,Paul D. Pate,REP,193,76,117
+Webster,Fort Dodge #9,Secretary of State,,Paul D. Pate,REP,251,64,187
+Webster,Gowrie-Lost Grove,Secretary of State,,Paul D. Pate,REP,507,78,429
+Webster,Badger-Cooper-Newark,Secretary of State,,Ryan Peterman,DEM,251,90,161
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Secretary of State,,Ryan Peterman,DEM,371,152,219
+Webster,Clay-Fulton-Johnson-Roland,Secretary of State,,Ryan Peterman,DEM,161,65,96
+Webster,Colfax-Hardin-Washington-Webster-Yell,Secretary of State,,Ryan Peterman,DEM,154,52,102
+Webster,Dayton,Secretary of State,,Ryan Peterman,DEM,173,43,130
+Webster,Deer Creek-Jackson,Secretary of State,,Ryan Peterman,DEM,71,25,46
+Webster,Fort Dodge #1,Secretary of State,,Ryan Peterman,DEM,433,244,189
+Webster,Fort Dodge #10,Secretary of State,,Ryan Peterman,DEM,374,184,190
+Webster,Fort Dodge #11,Secretary of State,,Ryan Peterman,DEM,447,219,228
+Webster,Fort Dodge #12,Secretary of State,,Ryan Peterman,DEM,261,113,148
+Webster,Fort Dodge #2,Secretary of State,,Ryan Peterman,DEM,366,175,191
+Webster,Fort Dodge #3,Secretary of State,,Ryan Peterman,DEM,259,117,142
+Webster,Fort Dodge #4-Douglas,Secretary of State,,Ryan Peterman,DEM,415,231,184
+Webster,Fort Dodge #5,Secretary of State,,Ryan Peterman,DEM,180,89,91
+Webster,Fort Dodge #6,Secretary of State,,Ryan Peterman,DEM,93,40,53
+Webster,Fort Dodge #7,Secretary of State,,Ryan Peterman,DEM,281,140,141
+Webster,Fort Dodge #8,Secretary of State,,Ryan Peterman,DEM,243,131,112
+Webster,Fort Dodge #9,Secretary of State,,Ryan Peterman,DEM,231,99,132
+Webster,Gowrie-Lost Grove,Secretary of State,,Ryan Peterman,DEM,178,41,137
+Webster,Badger-Cooper-Newark,Secretary of State,,Write-In,,0,0,0
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Secretary of State,,Write-In,,1,0,1
+Webster,Clay-Fulton-Johnson-Roland,Secretary of State,,Write-In,,1,0,1
+Webster,Colfax-Hardin-Washington-Webster-Yell,Secretary of State,,Write-In,,0,0,0
+Webster,Dayton,Secretary of State,,Write-In,,0,0,0
+Webster,Deer Creek-Jackson,Secretary of State,,Write-In,,0,0,0
+Webster,Fort Dodge #1,Secretary of State,,Write-In,,1,0,1
+Webster,Fort Dodge #10,Secretary of State,,Write-In,,0,0,0
+Webster,Fort Dodge #11,Secretary of State,,Write-In,,0,0,0
+Webster,Fort Dodge #12,Secretary of State,,Write-In,,2,1,1
+Webster,Fort Dodge #2,Secretary of State,,Write-In,,1,0,1
+Webster,Fort Dodge #3,Secretary of State,,Write-In,,1,0,1
+Webster,Fort Dodge #4-Douglas,Secretary of State,,Write-In,,1,0,1
+Webster,Fort Dodge #5,Secretary of State,,Write-In,,0,0,0
+Webster,Fort Dodge #6,Secretary of State,,Write-In,,1,0,1
+Webster,Fort Dodge #7,Secretary of State,,Write-In,,1,1,0
+Webster,Fort Dodge #8,Secretary of State,,Write-In,,1,0,1
+Webster,Fort Dodge #9,Secretary of State,,Write-In,,0,0,0
+Webster,Gowrie-Lost Grove,Secretary of State,,Write-In,,0,0,0
+Webster,Badger-Cooper-Newark,Soil and Water Conservation District Commissioner,,Cory Lundgren,,369,111,258
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Soil and Water Conservation District Commissioner,,Cory Lundgren,,605,194,411
+Webster,Clay-Fulton-Johnson-Roland,Soil and Water Conservation District Commissioner,,Cory Lundgren,,312,92,220
+Webster,Colfax-Hardin-Washington-Webster-Yell,Soil and Water Conservation District Commissioner,,Cory Lundgren,,275,69,206
+Webster,Dayton,Soil and Water Conservation District Commissioner,,Cory Lundgren,,285,53,232
+Webster,Deer Creek-Jackson,Soil and Water Conservation District Commissioner,,Cory Lundgren,,171,43,128
+Webster,Fort Dodge #1,Soil and Water Conservation District Commissioner,,Cory Lundgren,,484,202,282
+Webster,Fort Dodge #10,Soil and Water Conservation District Commissioner,,Cory Lundgren,,308,119,189
+Webster,Fort Dodge #11,Soil and Water Conservation District Commissioner,,Cory Lundgren,,555,208,347
+Webster,Fort Dodge #12,Soil and Water Conservation District Commissioner,,Cory Lundgren,,216,77,139
+Webster,Fort Dodge #2,Soil and Water Conservation District Commissioner,,Cory Lundgren,,331,127,204
+Webster,Fort Dodge #3,Soil and Water Conservation District Commissioner,,Cory Lundgren,,235,78,157
+Webster,Fort Dodge #4-Douglas,Soil and Water Conservation District Commissioner,,Cory Lundgren,,478,188,290
+Webster,Fort Dodge #5,Soil and Water Conservation District Commissioner,,Cory Lundgren,,138,86,52
+Webster,Fort Dodge #6,Soil and Water Conservation District Commissioner,,Cory Lundgren,,66,30,36
+Webster,Fort Dodge #7,Soil and Water Conservation District Commissioner,,Cory Lundgren,,185,80,105
+Webster,Fort Dodge #8,Soil and Water Conservation District Commissioner,,Cory Lundgren,,199,95,104
+Webster,Fort Dodge #9,Soil and Water Conservation District Commissioner,,Cory Lundgren,,193,71,122
+Webster,Gowrie-Lost Grove,Soil and Water Conservation District Commissioner,,Cory Lundgren,,306,50,256
+Webster,Badger-Cooper-Newark,Soil and Water Conservation District Commissioner,,Dale Peterson,,311,97,214
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Soil and Water Conservation District Commissioner,,Dale Peterson,,452,150,302
+Webster,Clay-Fulton-Johnson-Roland,Soil and Water Conservation District Commissioner,,Dale Peterson,,335,99,236
+Webster,Colfax-Hardin-Washington-Webster-Yell,Soil and Water Conservation District Commissioner,,Dale Peterson,,196,52,144
+Webster,Dayton,Soil and Water Conservation District Commissioner,,Dale Peterson,,241,45,196
+Webster,Deer Creek-Jackson,Soil and Water Conservation District Commissioner,,Dale Peterson,,143,31,112
+Webster,Fort Dodge #1,Soil and Water Conservation District Commissioner,,Dale Peterson,,451,196,255
+Webster,Fort Dodge #10,Soil and Water Conservation District Commissioner,,Dale Peterson,,317,133,184
+Webster,Fort Dodge #11,Soil and Water Conservation District Commissioner,,Dale Peterson,,450,187,263
+Webster,Fort Dodge #12,Soil and Water Conservation District Commissioner,,Dale Peterson,,195,94,101
+Webster,Fort Dodge #2,Soil and Water Conservation District Commissioner,,Dale Peterson,,303,109,194
+Webster,Fort Dodge #3,Soil and Water Conservation District Commissioner,,Dale Peterson,,232,85,147
+Webster,Fort Dodge #4-Douglas,Soil and Water Conservation District Commissioner,,Dale Peterson,,426,186,240
+Webster,Fort Dodge #5,Soil and Water Conservation District Commissioner,,Dale Peterson,,174,104,70
+Webster,Fort Dodge #6,Soil and Water Conservation District Commissioner,,Dale Peterson,,66,28,38
+Webster,Fort Dodge #7,Soil and Water Conservation District Commissioner,,Dale Peterson,,194,86,108
+Webster,Fort Dodge #8,Soil and Water Conservation District Commissioner,,Dale Peterson,,177,95,82
+Webster,Fort Dodge #9,Soil and Water Conservation District Commissioner,,Dale Peterson,,213,79,134
+Webster,Gowrie-Lost Grove,Soil and Water Conservation District Commissioner,,Dale Peterson,,396,75,321
+Webster,Badger-Cooper-Newark,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,230,76,154
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,345,98,247
+Webster,Clay-Fulton-Johnson-Roland,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,234,81,153
+Webster,Colfax-Hardin-Washington-Webster-Yell,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,157,41,116
+Webster,Dayton,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,111,25,86
+Webster,Deer Creek-Jackson,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,113,25,88
+Webster,Fort Dodge #1,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,358,149,209
+Webster,Fort Dodge #10,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,247,109,138
+Webster,Fort Dodge #11,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,387,168,219
+Webster,Fort Dodge #12,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,177,73,104
+Webster,Fort Dodge #2,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,275,110,165
+Webster,Fort Dodge #3,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,178,58,120
+Webster,Fort Dodge #4-Douglas,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,348,138,210
+Webster,Fort Dodge #5,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,123,76,47
+Webster,Fort Dodge #6,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,60,24,36
+Webster,Fort Dodge #7,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,151,70,81
+Webster,Fort Dodge #8,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,147,58,89
+Webster,Fort Dodge #9,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,166,45,121
+Webster,Gowrie-Lost Grove,Soil and Water Conservation District Commissioner,,Kenneth Anderson,,215,44,171
+Webster,Badger-Cooper-Newark,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Soil and Water Conservation District Commissioner,,Write-In,,9,4,5
+Webster,Clay-Fulton-Johnson-Roland,Soil and Water Conservation District Commissioner,,Write-In,,6,2,4
+Webster,Colfax-Hardin-Washington-Webster-Yell,Soil and Water Conservation District Commissioner,,Write-In,,7,5,2
+Webster,Dayton,Soil and Water Conservation District Commissioner,,Write-In,,4,0,4
+Webster,Deer Creek-Jackson,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Webster,Fort Dodge #1,Soil and Water Conservation District Commissioner,,Write-In,,13,9,4
+Webster,Fort Dodge #10,Soil and Water Conservation District Commissioner,,Write-In,,4,2,2
+Webster,Fort Dodge #11,Soil and Water Conservation District Commissioner,,Write-In,,6,2,4
+Webster,Fort Dodge #12,Soil and Water Conservation District Commissioner,,Write-In,,5,0,5
+Webster,Fort Dodge #2,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Webster,Fort Dodge #3,Soil and Water Conservation District Commissioner,,Write-In,,5,3,2
+Webster,Fort Dodge #4-Douglas,Soil and Water Conservation District Commissioner,,Write-In,,5,0,5
+Webster,Fort Dodge #5,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Webster,Fort Dodge #6,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Webster,Fort Dodge #7,Soil and Water Conservation District Commissioner,,Write-In,,4,3,1
+Webster,Fort Dodge #8,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Webster,Fort Dodge #9,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
+Webster,Gowrie-Lost Grove,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Webster,Clay-Fulton-Johnson-Roland,State House,7,Rachel Burns,DEM,174,72,102
+Webster,Dayton,State House,7,Rachel Burns,DEM,189,45,144
+Webster,Deer Creek-Jackson,State House,7,Rachel Burns,DEM,84,28,56
+Webster,Gowrie-Lost Grove,State House,7,Rachel Burns,DEM,191,49,142
+Webster,Clay-Fulton-Johnson-Roland,State House,7,Wendy Larson,REP,505,140,365
+Webster,Dayton,State House,7,Wendy Larson,REP,286,43,243
+Webster,Deer Creek-Jackson,State House,7,Wendy Larson,REP,256,57,199
+Webster,Gowrie-Lost Grove,State House,7,Wendy Larson,REP,491,72,419
+Webster,Clay-Fulton-Johnson-Roland,State House,7,Write-In,,0,0,0
+Webster,Dayton,State House,7,Write-In,,0,0,0
+Webster,Deer Creek-Jackson,State House,7,Write-In,,1,0,1
+Webster,Gowrie-Lost Grove,State House,7,Write-In,,0,0,0
+Webster,Badger-Cooper-Newark,State House,8,Ann Meyer,REP,591,161,430
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,State House,8,Ann Meyer,REP,887,220,667
+Webster,Colfax-Hardin-Washington-Webster-Yell,State House,8,Ann Meyer,REP,381,102,279
+Webster,Fort Dodge #1,State House,8,Ann Meyer,REP,716,243,473
+Webster,Fort Dodge #10,State House,8,Ann Meyer,REP,419,139,280
+Webster,Fort Dodge #11,State House,8,Ann Meyer,REP,852,299,553
+Webster,Fort Dodge #12,State House,8,Ann Meyer,REP,248,81,167
+Webster,Fort Dodge #2,State House,8,Ann Meyer,REP,409,124,285
+Webster,Fort Dodge #3,State House,8,Ann Meyer,REP,310,79,231
+Webster,Fort Dodge #4-Douglas,State House,8,Ann Meyer,REP,679,226,453
+Webster,Fort Dodge #5,State House,8,Ann Meyer,REP,196,126,70
+Webster,Fort Dodge #6,State House,8,Ann Meyer,REP,82,31,51
+Webster,Fort Dodge #7,State House,8,Ann Meyer,REP,175,57,118
+Webster,Fort Dodge #8,State House,8,Ann Meyer,REP,216,83,133
+Webster,Fort Dodge #9,State House,8,Ann Meyer,REP,267,71,196
+Webster,Badger-Cooper-Newark,State House,8,Kristofer Williams,DEM,230,82,148
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,State House,8,Kristofer Williams,DEM,336,146,190
+Webster,Colfax-Hardin-Washington-Webster-Yell,State House,8,Kristofer Williams,DEM,144,48,96
+Webster,Fort Dodge #1,State House,8,Kristofer Williams,DEM,367,209,158
+Webster,Fort Dodge #10,State House,8,Kristofer Williams,DEM,351,171,180
+Webster,Fort Dodge #11,State House,8,Kristofer Williams,DEM,377,192,185
+Webster,Fort Dodge #12,State House,8,Kristofer Williams,DEM,245,107,138
+Webster,Fort Dodge #2,State House,8,Kristofer Williams,DEM,332,163,169
+Webster,Fort Dodge #3,State House,8,Kristofer Williams,DEM,231,107,124
+Webster,Fort Dodge #4-Douglas,State House,8,Kristofer Williams,DEM,377,211,166
+Webster,Fort Dodge #5,State House,8,Kristofer Williams,DEM,171,86,85
+Webster,Fort Dodge #6,State House,8,Kristofer Williams,DEM,92,41,51
+Webster,Fort Dodge #7,State House,8,Kristofer Williams,DEM,272,132,140
+Webster,Fort Dodge #8,State House,8,Kristofer Williams,DEM,226,126,100
+Webster,Fort Dodge #9,State House,8,Kristofer Williams,DEM,214,93,121
+Webster,Badger-Cooper-Newark,State House,8,Write-In,,1,0,1
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,State House,8,Write-In,,1,0,1
+Webster,Colfax-Hardin-Washington-Webster-Yell,State House,8,Write-In,,0,0,0
+Webster,Fort Dodge #1,State House,8,Write-In,,3,1,2
+Webster,Fort Dodge #10,State House,8,Write-In,,0,0,0
+Webster,Fort Dodge #11,State House,8,Write-In,,0,0,0
+Webster,Fort Dodge #12,State House,8,Write-In,,1,0,1
+Webster,Fort Dodge #2,State House,8,Write-In,,1,0,1
+Webster,Fort Dodge #3,State House,8,Write-In,,0,0,0
+Webster,Fort Dodge #4-Douglas,State House,8,Write-In,,1,1,0
+Webster,Fort Dodge #5,State House,8,Write-In,,0,0,0
+Webster,Fort Dodge #6,State House,8,Write-In,,0,0,0
+Webster,Fort Dodge #7,State House,8,Write-In,,0,0,0
+Webster,Fort Dodge #8,State House,8,Write-In,,1,0,1
+Webster,Fort Dodge #9,State House,8,Write-In,,1,0,1
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Sumner Township Clerk,,Jon Anderson,,17,5,12
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Sumner Township Clerk,,Write-In,,1,0,1
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Sumner Township Trustee,,James R. Behrens,,19,5,14
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Sumner Township Trustee,,Write-In,,0,0,0
+Webster,Badger-Cooper-Newark,Treasurer of State,,John Norwood,DEM,280,101,179
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Treasurer of State,,John Norwood,DEM,398,171,227
+Webster,Clay-Fulton-Johnson-Roland,Treasurer of State,,John Norwood,DEM,187,74,113
+Webster,Colfax-Hardin-Washington-Webster-Yell,Treasurer of State,,John Norwood,DEM,159,53,106
+Webster,Dayton,Treasurer of State,,John Norwood,DEM,185,45,140
+Webster,Deer Creek-Jackson,Treasurer of State,,John Norwood,DEM,81,28,53
+Webster,Fort Dodge #1,Treasurer of State,,John Norwood,DEM,470,261,209
+Webster,Fort Dodge #10,Treasurer of State,,John Norwood,DEM,396,190,206
+Webster,Fort Dodge #11,Treasurer of State,,John Norwood,DEM,471,235,236
+Webster,Fort Dodge #12,Treasurer of State,,John Norwood,DEM,285,119,166
+Webster,Fort Dodge #2,Treasurer of State,,John Norwood,DEM,380,184,196
+Webster,Fort Dodge #3,Treasurer of State,,John Norwood,DEM,266,123,143
+Webster,Fort Dodge #4-Douglas,Treasurer of State,,John Norwood,DEM,452,243,209
+Webster,Fort Dodge #5,Treasurer of State,,John Norwood,DEM,188,100,88
+Webster,Fort Dodge #6,Treasurer of State,,John Norwood,DEM,92,41,51
+Webster,Fort Dodge #7,Treasurer of State,,John Norwood,DEM,294,143,151
+Webster,Fort Dodge #8,Treasurer of State,,John Norwood,DEM,251,137,114
+Webster,Fort Dodge #9,Treasurer of State,,John Norwood,DEM,248,102,146
+Webster,Gowrie-Lost Grove,Treasurer of State,,John Norwood,DEM,203,45,158
+Webster,Badger-Cooper-Newark,Treasurer of State,,Roby Smith,REP,524,138,386
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Treasurer of State,,Roby Smith,REP,814,192,622
+Webster,Clay-Fulton-Johnson-Roland,Treasurer of State,,Roby Smith,REP,488,135,353
+Webster,Colfax-Hardin-Washington-Webster-Yell,Treasurer of State,,Roby Smith,REP,357,95,262
+Webster,Dayton,Treasurer of State,,Roby Smith,REP,288,42,246
+Webster,Deer Creek-Jackson,Treasurer of State,,Roby Smith,REP,261,58,203
+Webster,Fort Dodge #1,Treasurer of State,,Roby Smith,REP,600,184,416
+Webster,Fort Dodge #10,Treasurer of State,,Roby Smith,REP,354,114,240
+Webster,Fort Dodge #11,Treasurer of State,,Roby Smith,REP,733,252,481
+Webster,Fort Dodge #12,Treasurer of State,,Roby Smith,REP,202,67,135
+Webster,Fort Dodge #2,Treasurer of State,,Roby Smith,REP,356,100,256
+Webster,Fort Dodge #3,Treasurer of State,,Roby Smith,REP,267,59,208
+Webster,Fort Dodge #4-Douglas,Treasurer of State,,Roby Smith,REP,596,189,407
+Webster,Fort Dodge #5,Treasurer of State,,Roby Smith,REP,172,106,66
+Webster,Fort Dodge #6,Treasurer of State,,Roby Smith,REP,81,31,50
+Webster,Fort Dodge #7,Treasurer of State,,Roby Smith,REP,151,44,107
+Webster,Fort Dodge #8,Treasurer of State,,Roby Smith,REP,188,71,117
+Webster,Fort Dodge #9,Treasurer of State,,Roby Smith,REP,229,62,167
+Webster,Gowrie-Lost Grove,Treasurer of State,,Roby Smith,REP,476,75,401
+Webster,Badger-Cooper-Newark,Treasurer of State,,Write-In,,0,0,0
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,Treasurer of State,,Write-In,,1,0,1
+Webster,Clay-Fulton-Johnson-Roland,Treasurer of State,,Write-In,,0,0,0
+Webster,Colfax-Hardin-Washington-Webster-Yell,Treasurer of State,,Write-In,,0,0,0
+Webster,Dayton,Treasurer of State,,Write-In,,0,0,0
+Webster,Deer Creek-Jackson,Treasurer of State,,Write-In,,0,0,0
+Webster,Fort Dodge #1,Treasurer of State,,Write-In,,2,1,1
+Webster,Fort Dodge #10,Treasurer of State,,Write-In,,0,0,0
+Webster,Fort Dodge #11,Treasurer of State,,Write-In,,0,0,0
+Webster,Fort Dodge #12,Treasurer of State,,Write-In,,1,0,1
+Webster,Fort Dodge #2,Treasurer of State,,Write-In,,1,0,1
+Webster,Fort Dodge #3,Treasurer of State,,Write-In,,0,0,0
+Webster,Fort Dodge #4-Douglas,Treasurer of State,,Write-In,,1,0,1
+Webster,Fort Dodge #5,Treasurer of State,,Write-In,,0,0,0
+Webster,Fort Dodge #6,Treasurer of State,,Write-In,,0,0,0
+Webster,Fort Dodge #7,Treasurer of State,,Write-In,,0,0,0
+Webster,Fort Dodge #8,Treasurer of State,,Write-In,,2,0,2
+Webster,Fort Dodge #9,Treasurer of State,,Write-In,,0,0,0
+Webster,Gowrie-Lost Grove,Treasurer of State,,Write-In,,1,0,1
+Webster,Badger-Cooper-Newark,U.S. House,4,Chris McGowan,REP,521,134,387
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,U.S. House,4,Chris McGowan,REP,815,190,625
+Webster,Clay-Fulton-Johnson-Roland,U.S. House,4,Chris McGowan,REP,486,135,351
+Webster,Colfax-Hardin-Washington-Webster-Yell,U.S. House,4,Chris McGowan,REP,358,95,263
+Webster,Dayton,U.S. House,4,Chris McGowan,REP,290,41,249
+Webster,Deer Creek-Jackson,U.S. House,4,Chris McGowan,REP,261,57,204
+Webster,Fort Dodge #1,U.S. House,4,Chris McGowan,REP,612,193,419
+Webster,Fort Dodge #10,U.S. House,4,Chris McGowan,REP,354,105,249
+Webster,Fort Dodge #11,U.S. House,4,Chris McGowan,REP,724,253,471
+Webster,Fort Dodge #12,U.S. House,4,Chris McGowan,REP,200,59,141
+Webster,Fort Dodge #2,U.S. House,4,Chris McGowan,REP,350,99,251
+Webster,Fort Dodge #3,U.S. House,4,Chris McGowan,REP,262,59,203
+Webster,Fort Dodge #4-Douglas,U.S. House,4,Chris McGowan,REP,612,197,415
+Webster,Fort Dodge #5,U.S. House,4,Chris McGowan,REP,169,102,67
+Webster,Fort Dodge #6,U.S. House,4,Chris McGowan,REP,81,30,51
+Webster,Fort Dodge #7,U.S. House,4,Chris McGowan,REP,157,44,113
+Webster,Fort Dodge #8,U.S. House,4,Chris McGowan,REP,188,70,118
+Webster,Fort Dodge #9,U.S. House,4,Chris McGowan,REP,231,58,173
+Webster,Gowrie-Lost Grove,U.S. House,4,Chris McGowan,REP,477,72,405
+Webster,Badger-Cooper-Newark,U.S. House,4,Dave Dawson,DEM,285,103,182
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,U.S. House,4,Dave Dawson,DEM,397,173,224
+Webster,Clay-Fulton-Johnson-Roland,U.S. House,4,Dave Dawson,DEM,188,75,113
+Webster,Colfax-Hardin-Washington-Webster-Yell,U.S. House,4,Dave Dawson,DEM,157,52,105
+Webster,Dayton,U.S. House,4,Dave Dawson,DEM,186,48,138
+Webster,Deer Creek-Jackson,U.S. House,4,Dave Dawson,DEM,85,29,56
+Webster,Fort Dodge #1,U.S. House,4,Dave Dawson,DEM,464,256,208
+Webster,Fort Dodge #10,U.S. House,4,Dave Dawson,DEM,396,196,200
+Webster,Fort Dodge #11,U.S. House,4,Dave Dawson,DEM,485,238,247
+Webster,Fort Dodge #12,U.S. House,4,Dave Dawson,DEM,288,127,161
+Webster,Fort Dodge #2,U.S. House,4,Dave Dawson,DEM,391,188,203
+Webster,Fort Dodge #3,U.S. House,4,Dave Dawson,DEM,278,126,152
+Webster,Fort Dodge #4-Douglas,U.S. House,4,Dave Dawson,DEM,441,239,202
+Webster,Fort Dodge #5,U.S. House,4,Dave Dawson,DEM,195,106,89
+Webster,Fort Dodge #6,U.S. House,4,Dave Dawson,DEM,90,41,49
+Webster,Fort Dodge #7,U.S. House,4,Dave Dawson,DEM,288,143,145
+Webster,Fort Dodge #8,U.S. House,4,Dave Dawson,DEM,250,136,114
+Webster,Fort Dodge #9,U.S. House,4,Dave Dawson,DEM,250,108,142
+Webster,Gowrie-Lost Grove,U.S. House,4,Dave Dawson,DEM,204,49,155
+Webster,Badger-Cooper-Newark,U.S. House,4,Write-In,,1,0,1
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,U.S. House,4,Write-In,,1,0,1
+Webster,Clay-Fulton-Johnson-Roland,U.S. House,4,Write-In,,0,0,0
+Webster,Colfax-Hardin-Washington-Webster-Yell,U.S. House,4,Write-In,,0,0,0
+Webster,Dayton,U.S. House,4,Write-In,,0,0,0
+Webster,Deer Creek-Jackson,U.S. House,4,Write-In,,0,0,0
+Webster,Fort Dodge #1,U.S. House,4,Write-In,,1,0,1
+Webster,Fort Dodge #10,U.S. House,4,Write-In,,1,1,0
+Webster,Fort Dodge #11,U.S. House,4,Write-In,,1,0,1
+Webster,Fort Dodge #12,U.S. House,4,Write-In,,0,0,0
+Webster,Fort Dodge #2,U.S. House,4,Write-In,,0,0,0
+Webster,Fort Dodge #3,U.S. House,4,Write-In,,3,1,2
+Webster,Fort Dodge #4-Douglas,U.S. House,4,Write-In,,1,0,1
+Webster,Fort Dodge #5,U.S. House,4,Write-In,,0,0,0
+Webster,Fort Dodge #6,U.S. House,4,Write-In,,1,0,1
+Webster,Fort Dodge #7,U.S. House,4,Write-In,,1,1,0
+Webster,Fort Dodge #8,U.S. House,4,Write-In,,0,0,0
+Webster,Fort Dodge #9,U.S. House,4,Write-In,,1,0,1
+Webster,Gowrie-Lost Grove,U.S. House,4,Write-In,,1,0,1
+Webster,Badger-Cooper-Newark,U.S. Senate,,Ashley Hinson,REP,509,132,377
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,U.S. Senate,,Ashley Hinson,REP,781,190,591
+Webster,Clay-Fulton-Johnson-Roland,U.S. Senate,,Ashley Hinson,REP,463,135,328
+Webster,Colfax-Hardin-Washington-Webster-Yell,U.S. Senate,,Ashley Hinson,REP,339,93,246
+Webster,Dayton,U.S. Senate,,Ashley Hinson,REP,257,38,219
+Webster,Deer Creek-Jackson,U.S. Senate,,Ashley Hinson,REP,252,56,196
+Webster,Fort Dodge #1,U.S. Senate,,Ashley Hinson,REP,579,190,389
+Webster,Fort Dodge #10,U.S. Senate,,Ashley Hinson,REP,337,106,231
+Webster,Fort Dodge #11,U.S. Senate,,Ashley Hinson,REP,692,243,449
+Webster,Fort Dodge #12,U.S. Senate,,Ashley Hinson,REP,191,62,129
+Webster,Fort Dodge #2,U.S. Senate,,Ashley Hinson,REP,332,93,239
+Webster,Fort Dodge #3,U.S. Senate,,Ashley Hinson,REP,255,57,198
+Webster,Fort Dodge #4-Douglas,U.S. Senate,,Ashley Hinson,REP,575,183,392
+Webster,Fort Dodge #5,U.S. Senate,,Ashley Hinson,REP,151,92,59
+Webster,Fort Dodge #6,U.S. Senate,,Ashley Hinson,REP,74,30,44
+Webster,Fort Dodge #7,U.S. Senate,,Ashley Hinson,REP,137,43,94
+Webster,Fort Dodge #8,U.S. Senate,,Ashley Hinson,REP,177,66,111
+Webster,Fort Dodge #9,U.S. Senate,,Ashley Hinson,REP,220,57,163
+Webster,Gowrie-Lost Grove,U.S. Senate,,Ashley Hinson,REP,447,71,376
+Webster,Badger-Cooper-Newark,U.S. Senate,,Josh Turek,DEM,294,108,186
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,U.S. Senate,,Josh Turek,DEM,407,173,234
+Webster,Clay-Fulton-Johnson-Roland,U.S. Senate,,Josh Turek,DEM,186,75,111
+Webster,Colfax-Hardin-Washington-Webster-Yell,U.S. Senate,,Josh Turek,DEM,165,52,113
+Webster,Dayton,U.S. Senate,,Josh Turek,DEM,202,47,155
+Webster,Deer Creek-Jackson,U.S. Senate,,Josh Turek,DEM,87,30,57
+Webster,Fort Dodge #1,U.S. Senate,,Josh Turek,DEM,484,261,223
+Webster,Fort Dodge #10,U.S. Senate,,Josh Turek,DEM,415,199,216
+Webster,Fort Dodge #11,U.S. Senate,,Josh Turek,DEM,498,241,257
+Webster,Fort Dodge #12,U.S. Senate,,Josh Turek,DEM,289,124,165
+Webster,Fort Dodge #2,U.S. Senate,,Josh Turek,DEM,393,191,202
+Webster,Fort Dodge #3,U.S. Senate,,Josh Turek,DEM,275,126,149
+Webster,Fort Dodge #4-Douglas,U.S. Senate,,Josh Turek,DEM,456,242,214
+Webster,Fort Dodge #5,U.S. Senate,,Josh Turek,DEM,210,116,94
+Webster,Fort Dodge #6,U.S. Senate,,Josh Turek,DEM,94,41,53
+Webster,Fort Dodge #7,U.S. Senate,,Josh Turek,DEM,282,138,144
+Webster,Fort Dodge #8,U.S. Senate,,Josh Turek,DEM,261,141,120
+Webster,Fort Dodge #9,U.S. Senate,,Josh Turek,DEM,243,105,138
+Webster,Gowrie-Lost Grove,U.S. Senate,,Josh Turek,DEM,220,48,172
+Webster,Badger-Cooper-Newark,U.S. Senate,,Thomas Laehn,LIB,25,4,21
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,U.S. Senate,,Thomas Laehn,LIB,46,6,40
+Webster,Clay-Fulton-Johnson-Roland,U.S. Senate,,Thomas Laehn,LIB,31,2,29
+Webster,Colfax-Hardin-Washington-Webster-Yell,U.S. Senate,,Thomas Laehn,LIB,20,3,17
+Webster,Dayton,U.S. Senate,,Thomas Laehn,LIB,24,5,19
+Webster,Deer Creek-Jackson,U.S. Senate,,Thomas Laehn,LIB,9,0,9
+Webster,Fort Dodge #1,U.S. Senate,,Thomas Laehn,LIB,34,5,29
+Webster,Fort Dodge #10,U.S. Senate,,Thomas Laehn,LIB,17,5,12
+Webster,Fort Dodge #11,U.S. Senate,,Thomas Laehn,LIB,37,7,30
+Webster,Fort Dodge #12,U.S. Senate,,Thomas Laehn,LIB,13,1,12
+Webster,Fort Dodge #2,U.S. Senate,,Thomas Laehn,LIB,25,6,19
+Webster,Fort Dodge #3,U.S. Senate,,Thomas Laehn,LIB,20,3,17
+Webster,Fort Dodge #4-Douglas,U.S. Senate,,Thomas Laehn,LIB,31,12,19
+Webster,Fort Dodge #5,U.S. Senate,,Thomas Laehn,LIB,10,5,5
+Webster,Fort Dodge #6,U.S. Senate,,Thomas Laehn,LIB,6,2,4
+Webster,Fort Dodge #7,U.S. Senate,,Thomas Laehn,LIB,28,7,21
+Webster,Fort Dodge #8,U.S. Senate,,Thomas Laehn,LIB,10,4,6
+Webster,Fort Dodge #9,U.S. Senate,,Thomas Laehn,LIB,21,4,17
+Webster,Gowrie-Lost Grove,U.S. Senate,,Thomas Laehn,LIB,21,1,20
+Webster,Badger-Cooper-Newark,U.S. Senate,,Write-In,,0,0,0
+Webster,Burnside-Elkhorn-Otho-Pleasant Valley-Sumner,U.S. Senate,,Write-In,,1,1,0
+Webster,Clay-Fulton-Johnson-Roland,U.S. Senate,,Write-In,,0,0,0
+Webster,Colfax-Hardin-Washington-Webster-Yell,U.S. Senate,,Write-In,,0,0,0
+Webster,Dayton,U.S. Senate,,Write-In,,0,0,0
+Webster,Deer Creek-Jackson,U.S. Senate,,Write-In,,0,0,0
+Webster,Fort Dodge #1,U.S. Senate,,Write-In,,2,1,1
+Webster,Fort Dodge #10,U.S. Senate,,Write-In,,1,0,1
+Webster,Fort Dodge #11,U.S. Senate,,Write-In,,1,0,1
+Webster,Fort Dodge #12,U.S. Senate,,Write-In,,1,0,1
+Webster,Fort Dodge #2,U.S. Senate,,Write-In,,1,0,1
+Webster,Fort Dodge #3,U.S. Senate,,Write-In,,1,1,0
+Webster,Fort Dodge #4-Douglas,U.S. Senate,,Write-In,,1,0,1
+Webster,Fort Dodge #5,U.S. Senate,,Write-In,,1,0,1
+Webster,Fort Dodge #6,U.S. Senate,,Write-In,,1,0,1
+Webster,Fort Dodge #7,U.S. Senate,,Write-In,,2,1,1
+Webster,Fort Dodge #8,U.S. Senate,,Write-In,,1,0,1
+Webster,Fort Dodge #9,U.S. Senate,,Write-In,,0,0,0
+Webster,Gowrie-Lost Grove,U.S. Senate,,Write-In,,0,0,0
+Webster,Colfax-Hardin-Washington-Webster-Yell,Washington Township Clerk,,Darrell Moenck,,119,29,90
+Webster,Colfax-Hardin-Washington-Webster-Yell,Washington Township Clerk,,Write-In,,4,2,2
+Webster,Colfax-Hardin-Washington-Webster-Yell,Washington Township Trustee,,Scott Burnett,,114,27,87
+Webster,Colfax-Hardin-Washington-Webster-Yell,Washington Township Trustee,,Write-In,,4,2,2
+Webster,Colfax-Hardin-Washington-Webster-Yell,Webster Township Clerk,,Dana Housken,,50,19,31
+Webster,Colfax-Hardin-Washington-Webster-Yell,Webster Township Clerk,,Write-In,,0,0,0
+Webster,Colfax-Hardin-Washington-Webster-Yell,Webster Township Trustee,,Michael Christianson,,46,16,30
+Webster,Colfax-Hardin-Washington-Webster-Yell,Webster Township Trustee,,Write-In,,0,0,0
+Webster,Colfax-Hardin-Washington-Webster-Yell,Yell Township Clerk,,Lori Ferrari,,28,11,17
+Webster,Colfax-Hardin-Washington-Webster-Yell,Yell Township Clerk,,Write-In,,2,1,1
+Webster,Colfax-Hardin-Washington-Webster-Yell,Yell Township Trustee,,Troy Ferrari,,31,12,19
+Webster,Colfax-Hardin-Washington-Webster-Yell,Yell Township Trustee,,Write-In,,0,0,0

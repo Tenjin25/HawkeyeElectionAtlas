@@ -1,0 +1,1411 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Fayette,Auburn-Eden,Attorney General,,Brenna Bird,REP,274,60,214
+Fayette,Banks-Fremont,Attorney General,,Brenna Bird,REP,238,37,201
+Fayette,Bethel-Windsor,Attorney General,,Brenna Bird,REP,256,54,202
+Fayette,Center-Harlan,Attorney General,,Brenna Bird,REP,281,72,209
+Fayette,Clermont,Attorney General,,Brenna Bird,REP,238,51,187
+Fayette,Dover,Attorney General,,Brenna Bird,REP,194,56,138
+Fayette,Fairfield-Putnamm,Attorney General,,Brenna Bird,REP,249,38,211
+Fayette,Illyria,Attorney General,,Brenna Bird,REP,146,28,118
+Fayette,Jefferson-Scott,Attorney General,,Brenna Bird,REP,225,57,168
+Fayette,Oelwein Ward #1,Attorney General,,Brenna Bird,REP,226,34,192
+Fayette,Oelwein Ward #2,Attorney General,,Brenna Bird,REP,148,27,121
+Fayette,Oelwein Ward #3,Attorney General,,Brenna Bird,REP,146,27,119
+Fayette,Oelwein Ward #4,Attorney General,,Brenna Bird,REP,265,68,197
+Fayette,Oran,Attorney General,,Brenna Bird,REP,226,22,204
+Fayette,Pleasant Valley,Attorney General,,Brenna Bird,REP,240,51,189
+Fayette,Smithfield-Westfield,Attorney General,,Brenna Bird,REP,307,83,224
+Fayette,Union,Attorney General,,Brenna Bird,REP,131,35,96
+Fayette,West Union Ward #1,Attorney General,,Brenna Bird,REP,175,80,95
+Fayette,West Union Ward #2,Attorney General,,Brenna Bird,REP,156,59,97
+Fayette,West Union Ward #3,Attorney General,,Brenna Bird,REP,172,65,107
+Fayette,Auburn-Eden,Attorney General,,Nate Willems,DEM,182,62,120
+Fayette,Banks-Fremont,Attorney General,,Nate Willems,DEM,126,36,90
+Fayette,Bethel-Windsor,Attorney General,,Nate Willems,DEM,156,54,102
+Fayette,Center-Harlan,Attorney General,,Nate Willems,DEM,188,33,155
+Fayette,Clermont,Attorney General,,Nate Willems,DEM,137,64,73
+Fayette,Dover,Attorney General,,Nate Willems,DEM,67,37,30
+Fayette,Fairfield-Putnamm,Attorney General,,Nate Willems,DEM,135,36,99
+Fayette,Illyria,Attorney General,,Nate Willems,DEM,94,23,71
+Fayette,Jefferson-Scott,Attorney General,,Nate Willems,DEM,149,70,79
+Fayette,Oelwein Ward #1,Attorney General,,Nate Willems,DEM,267,104,163
+Fayette,Oelwein Ward #2,Attorney General,,Nate Willems,DEM,233,76,157
+Fayette,Oelwein Ward #3,Attorney General,,Nate Willems,DEM,236,90,146
+Fayette,Oelwein Ward #4,Attorney General,,Nate Willems,DEM,341,136,205
+Fayette,Oran,Attorney General,,Nate Willems,DEM,168,49,119
+Fayette,Pleasant Valley,Attorney General,,Nate Willems,DEM,158,63,95
+Fayette,Smithfield-Westfield,Attorney General,,Nate Willems,DEM,284,76,208
+Fayette,Union,Attorney General,,Nate Willems,DEM,59,32,27
+Fayette,West Union Ward #1,Attorney General,,Nate Willems,DEM,182,104,78
+Fayette,West Union Ward #2,Attorney General,,Nate Willems,DEM,103,76,27
+Fayette,West Union Ward #3,Attorney General,,Nate Willems,DEM,150,69,81
+Fayette,Auburn-Eden,Attorney General,,Write-In,,1,0,1
+Fayette,Banks-Fremont,Attorney General,,Write-In,,0,0,0
+Fayette,Bethel-Windsor,Attorney General,,Write-In,,2,0,2
+Fayette,Center-Harlan,Attorney General,,Write-In,,0,0,0
+Fayette,Clermont,Attorney General,,Write-In,,0,0,0
+Fayette,Dover,Attorney General,,Write-In,,0,0,0
+Fayette,Fairfield-Putnamm,Attorney General,,Write-In,,0,0,0
+Fayette,Illyria,Attorney General,,Write-In,,0,0,0
+Fayette,Jefferson-Scott,Attorney General,,Write-In,,0,0,0
+Fayette,Oelwein Ward #1,Attorney General,,Write-In,,1,0,1
+Fayette,Oelwein Ward #2,Attorney General,,Write-In,,0,0,0
+Fayette,Oelwein Ward #3,Attorney General,,Write-In,,0,0,0
+Fayette,Oelwein Ward #4,Attorney General,,Write-In,,0,0,0
+Fayette,Oran,Attorney General,,Write-In,,0,0,0
+Fayette,Pleasant Valley,Attorney General,,Write-In,,0,0,0
+Fayette,Smithfield-Westfield,Attorney General,,Write-In,,1,0,1
+Fayette,Union,Attorney General,,Write-In,,0,0,0
+Fayette,West Union Ward #1,Attorney General,,Write-In,,0,0,0
+Fayette,West Union Ward #2,Attorney General,,Write-In,,0,0,0
+Fayette,West Union Ward #3,Attorney General,,Write-In,,0,0,0
+Fayette,Auburn-Eden,Auburn Township Clerk,,Write-In,,19,4,15
+Fayette,Auburn-Eden,Auburn Township Trustee,,Collin Jensen,,90,24,66
+Fayette,Auburn-Eden,Auburn Township Trustee,,Kenneth Boyer,,131,36,95
+Fayette,Auburn-Eden,Auburn Township Trustee,,Write-In,,6,1,5
+Fayette,Auburn-Eden,Auditor of State,,Chris Cournoyer,REP,281,56,225
+Fayette,Banks-Fremont,Auditor of State,,Chris Cournoyer,REP,249,37,212
+Fayette,Bethel-Windsor,Auditor of State,,Chris Cournoyer,REP,270,58,212
+Fayette,Center-Harlan,Auditor of State,,Chris Cournoyer,REP,277,72,205
+Fayette,Clermont,Auditor of State,,Chris Cournoyer,REP,242,51,191
+Fayette,Dover,Auditor of State,,Chris Cournoyer,REP,194,55,139
+Fayette,Fairfield-Putnamm,Auditor of State,,Chris Cournoyer,REP,257,36,221
+Fayette,Illyria,Auditor of State,,Chris Cournoyer,REP,153,27,126
+Fayette,Jefferson-Scott,Auditor of State,,Chris Cournoyer,REP,224,54,170
+Fayette,Oelwein Ward #1,Auditor of State,,Chris Cournoyer,REP,227,34,193
+Fayette,Oelwein Ward #2,Auditor of State,,Chris Cournoyer,REP,157,33,124
+Fayette,Oelwein Ward #3,Auditor of State,,Chris Cournoyer,REP,143,26,117
+Fayette,Oelwein Ward #4,Auditor of State,,Chris Cournoyer,REP,263,60,203
+Fayette,Oran,Auditor of State,,Chris Cournoyer,REP,227,24,203
+Fayette,Pleasant Valley,Auditor of State,,Chris Cournoyer,REP,251,51,200
+Fayette,Smithfield-Westfield,Auditor of State,,Chris Cournoyer,REP,313,83,230
+Fayette,Union,Auditor of State,,Chris Cournoyer,REP,136,36,100
+Fayette,West Union Ward #1,Auditor of State,,Chris Cournoyer,REP,195,84,111
+Fayette,West Union Ward #2,Auditor of State,,Chris Cournoyer,REP,155,55,100
+Fayette,West Union Ward #3,Auditor of State,,Chris Cournoyer,REP,181,66,115
+Fayette,Auburn-Eden,Auditor of State,,Taylor Wettach,DEM,169,62,107
+Fayette,Banks-Fremont,Auditor of State,,Taylor Wettach,DEM,116,37,79
+Fayette,Bethel-Windsor,Auditor of State,,Taylor Wettach,DEM,137,48,89
+Fayette,Center-Harlan,Auditor of State,,Taylor Wettach,DEM,182,32,150
+Fayette,Clermont,Auditor of State,,Taylor Wettach,DEM,134,64,70
+Fayette,Dover,Auditor of State,,Taylor Wettach,DEM,65,36,29
+Fayette,Fairfield-Putnamm,Auditor of State,,Taylor Wettach,DEM,122,37,85
+Fayette,Illyria,Auditor of State,,Taylor Wettach,DEM,83,26,57
+Fayette,Jefferson-Scott,Auditor of State,,Taylor Wettach,DEM,141,70,71
+Fayette,Oelwein Ward #1,Auditor of State,,Taylor Wettach,DEM,259,102,157
+Fayette,Oelwein Ward #2,Auditor of State,,Taylor Wettach,DEM,219,71,148
+Fayette,Oelwein Ward #3,Auditor of State,,Taylor Wettach,DEM,234,87,147
+Fayette,Oelwein Ward #4,Auditor of State,,Taylor Wettach,DEM,340,144,196
+Fayette,Oran,Auditor of State,,Taylor Wettach,DEM,162,47,115
+Fayette,Pleasant Valley,Auditor of State,,Taylor Wettach,DEM,143,61,82
+Fayette,Smithfield-Westfield,Auditor of State,,Taylor Wettach,DEM,280,77,203
+Fayette,Union,Auditor of State,,Taylor Wettach,DEM,55,33,22
+Fayette,West Union Ward #1,Auditor of State,,Taylor Wettach,DEM,164,99,65
+Fayette,West Union Ward #2,Auditor of State,,Taylor Wettach,DEM,104,78,26
+Fayette,West Union Ward #3,Auditor of State,,Taylor Wettach,DEM,138,68,70
+Fayette,Auburn-Eden,Auditor of State,,Write-In,,0,0,0
+Fayette,Banks-Fremont,Auditor of State,,Write-In,,1,0,1
+Fayette,Bethel-Windsor,Auditor of State,,Write-In,,2,0,2
+Fayette,Center-Harlan,Auditor of State,,Write-In,,1,0,1
+Fayette,Clermont,Auditor of State,,Write-In,,0,0,0
+Fayette,Dover,Auditor of State,,Write-In,,0,0,0
+Fayette,Fairfield-Putnamm,Auditor of State,,Write-In,,0,0,0
+Fayette,Illyria,Auditor of State,,Write-In,,0,0,0
+Fayette,Jefferson-Scott,Auditor of State,,Write-In,,0,0,0
+Fayette,Oelwein Ward #1,Auditor of State,,Write-In,,1,0,1
+Fayette,Oelwein Ward #2,Auditor of State,,Write-In,,0,0,0
+Fayette,Oelwein Ward #3,Auditor of State,,Write-In,,1,1,0
+Fayette,Oelwein Ward #4,Auditor of State,,Write-In,,0,0,0
+Fayette,Oran,Auditor of State,,Write-In,,0,0,0
+Fayette,Pleasant Valley,Auditor of State,,Write-In,,0,0,0
+Fayette,Smithfield-Westfield,Auditor of State,,Write-In,,1,0,1
+Fayette,Union,Auditor of State,,Write-In,,0,0,0
+Fayette,West Union Ward #1,Auditor of State,,Write-In,,0,0,0
+Fayette,West Union Ward #2,Auditor of State,,Write-In,,0,0,0
+Fayette,West Union Ward #3,Auditor of State,,Write-In,,0,0,0
+Fayette,Banks-Fremont,Banks Township Clerk,,Ronald J. Hartman,,146,34,112
+Fayette,Banks-Fremont,Banks Township Clerk,,Write-In,,0,0,0
+Fayette,Banks-Fremont,Banks Township Trustee,,Gary Stauffer,,139,32,107
+Fayette,Banks-Fremont,Banks Township Trustee,,Robert Henn,,95,24,71
+Fayette,Banks-Fremont,Banks Township Trustee,,Write-In,,0,0,0
+Fayette,Bethel-Windsor,Bethel Township Clerk,,Gene Pleggenkuhle,,109,30,79
+Fayette,Bethel-Windsor,Bethel Township Clerk,,Write-In,,2,1,1
+Fayette,Bethel-Windsor,Bethel Township Trustee,,Write-In,,16,3,13
+Fayette,Center-Harlan,Center Township Clerk,,Richard D. Buhmann,,127,30,97
+Fayette,Center-Harlan,Center Township Clerk,,Write-In,,0,0,0
+Fayette,Center-Harlan,Center Township Trustee,,Tobey Weidemann,,131,31,100
+Fayette,Center-Harlan,Center Township Trustee,,Write-In,,6,0,6
+Fayette,Clermont,Clermont Township Clerk,,Mark Alan Nelson,,116,36,80
+Fayette,Clermont,Clermont Township Clerk,,Write-In,,0,0,0
+Fayette,Clermont,Clermont Township Trustee,,Damien Matt,,105,34,71
+Fayette,Clermont,Clermont Township Trustee,,Richard Kittelson,,96,33,63
+Fayette,Clermont,Clermont Township Trustee,,Write-In,,1,0,1
+Fayette,Auburn-Eden,Constitutional Amendment 1,,No,,175,52,123
+Fayette,Banks-Fremont,Constitutional Amendment 1,,No,,137,30,107
+Fayette,Bethel-Windsor,Constitutional Amendment 1,,No,,159,52,107
+Fayette,Center-Harlan,Constitutional Amendment 1,,No,,188,42,146
+Fayette,Clermont,Constitutional Amendment 1,,No,,133,48,85
+Fayette,Dover,Constitutional Amendment 1,,No,,94,45,49
+Fayette,Fairfield-Putnamm,Constitutional Amendment 1,,No,,152,17,135
+Fayette,Illyria,Constitutional Amendment 1,,No,,107,20,87
+Fayette,Jefferson-Scott,Constitutional Amendment 1,,No,,127,49,78
+Fayette,Oelwein Ward #1,Constitutional Amendment 1,,No,,239,73,166
+Fayette,Oelwein Ward #2,Constitutional Amendment 1,,No,,173,49,124
+Fayette,Oelwein Ward #3,Constitutional Amendment 1,,No,,187,65,122
+Fayette,Oelwein Ward #4,Constitutional Amendment 1,,No,,297,115,182
+Fayette,Oran,Constitutional Amendment 1,,No,,163,40,123
+Fayette,Pleasant Valley,Constitutional Amendment 1,,No,,164,53,111
+Fayette,Smithfield-Westfield,Constitutional Amendment 1,,No,,245,70,175
+Fayette,Union,Constitutional Amendment 1,,No,,66,28,38
+Fayette,West Union Ward #1,Constitutional Amendment 1,,No,,151,82,69
+Fayette,West Union Ward #2,Constitutional Amendment 1,,No,,106,62,44
+Fayette,West Union Ward #3,Constitutional Amendment 1,,No,,123,60,63
+Fayette,Auburn-Eden,Constitutional Amendment 1,,Yes,,233,52,181
+Fayette,Banks-Fremont,Constitutional Amendment 1,,Yes,,213,40,173
+Fayette,Bethel-Windsor,Constitutional Amendment 1,,Yes,,240,57,183
+Fayette,Center-Harlan,Constitutional Amendment 1,,Yes,,257,56,201
+Fayette,Clermont,Constitutional Amendment 1,,Yes,,228,57,171
+Fayette,Dover,Constitutional Amendment 1,,Yes,,142,40,102
+Fayette,Fairfield-Putnamm,Constitutional Amendment 1,,Yes,,214,50,164
+Fayette,Illyria,Constitutional Amendment 1,,Yes,,115,27,88
+Fayette,Jefferson-Scott,Constitutional Amendment 1,,Yes,,219,63,156
+Fayette,Oelwein Ward #1,Constitutional Amendment 1,,Yes,,231,57,174
+Fayette,Oelwein Ward #2,Constitutional Amendment 1,,Yes,,184,39,145
+Fayette,Oelwein Ward #3,Constitutional Amendment 1,,Yes,,171,42,129
+Fayette,Oelwein Ward #4,Constitutional Amendment 1,,Yes,,283,80,203
+Fayette,Oran,Constitutional Amendment 1,,Yes,,192,28,164
+Fayette,Pleasant Valley,Constitutional Amendment 1,,Yes,,208,54,154
+Fayette,Smithfield-Westfield,Constitutional Amendment 1,,Yes,,316,74,242
+Fayette,Union,Constitutional Amendment 1,,Yes,,116,36,80
+Fayette,West Union Ward #1,Constitutional Amendment 1,,Yes,,187,89,98
+Fayette,West Union Ward #2,Constitutional Amendment 1,,Yes,,130,57,73
+Fayette,West Union Ward #3,Constitutional Amendment 1,,Yes,,178,67,111
+Fayette,Auburn-Eden,County Agricultural Extension Council Member,,Amy Boehm,,290,73,217
+Fayette,Banks-Fremont,County Agricultural Extension Council Member,,Amy Boehm,,248,50,198
+Fayette,Bethel-Windsor,County Agricultural Extension Council Member,,Amy Boehm,,300,75,225
+Fayette,Center-Harlan,County Agricultural Extension Council Member,,Amy Boehm,,342,80,262
+Fayette,Clermont,County Agricultural Extension Council Member,,Amy Boehm,,266,64,202
+Fayette,Dover,County Agricultural Extension Council Member,,Amy Boehm,,166,58,108
+Fayette,Fairfield-Putnamm,County Agricultural Extension Council Member,,Amy Boehm,,269,55,214
+Fayette,Illyria,County Agricultural Extension Council Member,,Amy Boehm,,165,33,132
+Fayette,Jefferson-Scott,County Agricultural Extension Council Member,,Amy Boehm,,238,76,162
+Fayette,Oelwein Ward #1,County Agricultural Extension Council Member,,Amy Boehm,,276,85,191
+Fayette,Oelwein Ward #2,County Agricultural Extension Council Member,,Amy Boehm,,222,55,167
+Fayette,Oelwein Ward #3,County Agricultural Extension Council Member,,Amy Boehm,,219,65,154
+Fayette,Oelwein Ward #4,County Agricultural Extension Council Member,,Amy Boehm,,379,116,263
+Fayette,Oran,County Agricultural Extension Council Member,,Amy Boehm,,265,42,223
+Fayette,Pleasant Valley,County Agricultural Extension Council Member,,Amy Boehm,,277,73,204
+Fayette,Smithfield-Westfield,County Agricultural Extension Council Member,,Amy Boehm,,417,102,315
+Fayette,Union,County Agricultural Extension Council Member,,Amy Boehm,,141,50,91
+Fayette,West Union Ward #1,County Agricultural Extension Council Member,,Amy Boehm,,256,126,130
+Fayette,West Union Ward #2,County Agricultural Extension Council Member,,Amy Boehm,,180,93,87
+Fayette,West Union Ward #3,County Agricultural Extension Council Member,,Amy Boehm,,223,82,141
+Fayette,Auburn-Eden,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,270,63,207
+Fayette,Banks-Fremont,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,223,43,180
+Fayette,Bethel-Windsor,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,267,69,198
+Fayette,Center-Harlan,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,289,67,222
+Fayette,Clermont,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,229,58,171
+Fayette,Dover,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,160,53,107
+Fayette,Fairfield-Putnamm,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,230,46,184
+Fayette,Illyria,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,133,27,106
+Fayette,Jefferson-Scott,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,225,72,153
+Fayette,Oelwein Ward #1,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,238,78,160
+Fayette,Oelwein Ward #2,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,184,50,134
+Fayette,Oelwein Ward #3,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,183,57,126
+Fayette,Oelwein Ward #4,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,329,101,228
+Fayette,Oran,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,228,37,191
+Fayette,Pleasant Valley,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,241,63,178
+Fayette,Smithfield-Westfield,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,353,94,259
+Fayette,Union,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,128,47,81
+Fayette,West Union Ward #1,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,233,119,114
+Fayette,West Union Ward #2,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,147,70,77
+Fayette,West Union Ward #3,County Agricultural Extension Council Member,,Brian Lyn Lantzky,,192,79,113
+Fayette,Auburn-Eden,County Agricultural Extension Council Member,,Michael McFadden,,282,66,216
+Fayette,Banks-Fremont,County Agricultural Extension Council Member,,Michael McFadden,,253,50,203
+Fayette,Bethel-Windsor,County Agricultural Extension Council Member,,Michael McFadden,,260,69,191
+Fayette,Center-Harlan,County Agricultural Extension Council Member,,Michael McFadden,,352,83,269
+Fayette,Clermont,County Agricultural Extension Council Member,,Michael McFadden,,238,61,177
+Fayette,Dover,County Agricultural Extension Council Member,,Michael McFadden,,157,55,102
+Fayette,Fairfield-Putnamm,County Agricultural Extension Council Member,,Michael McFadden,,235,48,187
+Fayette,Illyria,County Agricultural Extension Council Member,,Michael McFadden,,137,28,109
+Fayette,Jefferson-Scott,County Agricultural Extension Council Member,,Michael McFadden,,242,78,164
+Fayette,Oelwein Ward #1,County Agricultural Extension Council Member,,Michael McFadden,,259,87,172
+Fayette,Oelwein Ward #2,County Agricultural Extension Council Member,,Michael McFadden,,216,56,160
+Fayette,Oelwein Ward #3,County Agricultural Extension Council Member,,Michael McFadden,,200,58,142
+Fayette,Oelwein Ward #4,County Agricultural Extension Council Member,,Michael McFadden,,352,108,244
+Fayette,Oran,County Agricultural Extension Council Member,,Michael McFadden,,249,41,208
+Fayette,Pleasant Valley,County Agricultural Extension Council Member,,Michael McFadden,,252,67,185
+Fayette,Smithfield-Westfield,County Agricultural Extension Council Member,,Michael McFadden,,423,111,312
+Fayette,Union,County Agricultural Extension Council Member,,Michael McFadden,,137,53,84
+Fayette,West Union Ward #1,County Agricultural Extension Council Member,,Michael McFadden,,242,123,119
+Fayette,West Union Ward #2,County Agricultural Extension Council Member,,Michael McFadden,,159,78,81
+Fayette,West Union Ward #3,County Agricultural Extension Council Member,,Michael McFadden,,194,83,111
+Fayette,Auburn-Eden,County Agricultural Extension Council Member,,Neil Anthony Lansing,,315,72,243
+Fayette,Banks-Fremont,County Agricultural Extension Council Member,,Neil Anthony Lansing,,241,44,197
+Fayette,Bethel-Windsor,County Agricultural Extension Council Member,,Neil Anthony Lansing,,295,76,219
+Fayette,Center-Harlan,County Agricultural Extension Council Member,,Neil Anthony Lansing,,320,78,242
+Fayette,Clermont,County Agricultural Extension Council Member,,Neil Anthony Lansing,,270,67,203
+Fayette,Dover,County Agricultural Extension Council Member,,Neil Anthony Lansing,,193,66,127
+Fayette,Fairfield-Putnamm,County Agricultural Extension Council Member,,Neil Anthony Lansing,,250,49,201
+Fayette,Illyria,County Agricultural Extension Council Member,,Neil Anthony Lansing,,151,28,123
+Fayette,Jefferson-Scott,County Agricultural Extension Council Member,,Neil Anthony Lansing,,240,77,163
+Fayette,Oelwein Ward #1,County Agricultural Extension Council Member,,Neil Anthony Lansing,,274,79,195
+Fayette,Oelwein Ward #2,County Agricultural Extension Council Member,,Neil Anthony Lansing,,201,55,146
+Fayette,Oelwein Ward #3,County Agricultural Extension Council Member,,Neil Anthony Lansing,,207,62,145
+Fayette,Oelwein Ward #4,County Agricultural Extension Council Member,,Neil Anthony Lansing,,358,109,249
+Fayette,Oran,County Agricultural Extension Council Member,,Neil Anthony Lansing,,257,42,215
+Fayette,Pleasant Valley,County Agricultural Extension Council Member,,Neil Anthony Lansing,,281,78,203
+Fayette,Smithfield-Westfield,County Agricultural Extension Council Member,,Neil Anthony Lansing,,400,108,292
+Fayette,Union,County Agricultural Extension Council Member,,Neil Anthony Lansing,,148,53,95
+Fayette,West Union Ward #1,County Agricultural Extension Council Member,,Neil Anthony Lansing,,263,130,133
+Fayette,West Union Ward #2,County Agricultural Extension Council Member,,Neil Anthony Lansing,,188,89,99
+Fayette,West Union Ward #3,County Agricultural Extension Council Member,,Neil Anthony Lansing,,230,91,139
+Fayette,Auburn-Eden,County Agricultural Extension Council Member,,Scot Michelson,,276,66,210
+Fayette,Banks-Fremont,County Agricultural Extension Council Member,,Scot Michelson,,224,43,181
+Fayette,Bethel-Windsor,County Agricultural Extension Council Member,,Scot Michelson,,286,77,209
+Fayette,Center-Harlan,County Agricultural Extension Council Member,,Scot Michelson,,314,76,238
+Fayette,Clermont,County Agricultural Extension Council Member,,Scot Michelson,,233,60,173
+Fayette,Dover,County Agricultural Extension Council Member,,Scot Michelson,,162,54,108
+Fayette,Fairfield-Putnamm,County Agricultural Extension Council Member,,Scot Michelson,,233,48,185
+Fayette,Illyria,County Agricultural Extension Council Member,,Scot Michelson,,154,32,122
+Fayette,Jefferson-Scott,County Agricultural Extension Council Member,,Scot Michelson,,233,74,159
+Fayette,Oelwein Ward #1,County Agricultural Extension Council Member,,Scot Michelson,,249,79,170
+Fayette,Oelwein Ward #2,County Agricultural Extension Council Member,,Scot Michelson,,191,50,141
+Fayette,Oelwein Ward #3,County Agricultural Extension Council Member,,Scot Michelson,,193,58,135
+Fayette,Oelwein Ward #4,County Agricultural Extension Council Member,,Scot Michelson,,335,106,229
+Fayette,Oran,County Agricultural Extension Council Member,,Scot Michelson,,232,36,196
+Fayette,Pleasant Valley,County Agricultural Extension Council Member,,Scot Michelson,,255,69,186
+Fayette,Smithfield-Westfield,County Agricultural Extension Council Member,,Scot Michelson,,424,112,312
+Fayette,Union,County Agricultural Extension Council Member,,Scot Michelson,,154,53,101
+Fayette,West Union Ward #1,County Agricultural Extension Council Member,,Scot Michelson,,265,130,135
+Fayette,West Union Ward #2,County Agricultural Extension Council Member,,Scot Michelson,,165,82,83
+Fayette,West Union Ward #3,County Agricultural Extension Council Member,,Scot Michelson,,223,90,133
+Fayette,Auburn-Eden,County Agricultural Extension Council Member,,Write-In,,6,1,5
+Fayette,Banks-Fremont,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Fayette,Bethel-Windsor,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Fayette,Center-Harlan,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Fayette,Clermont,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Fayette,Dover,County Agricultural Extension Council Member,,Write-In,,5,2,3
+Fayette,Fairfield-Putnamm,County Agricultural Extension Council Member,,Write-In,,4,0,4
+Fayette,Illyria,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Fayette,Jefferson-Scott,County Agricultural Extension Council Member,,Write-In,,5,1,4
+Fayette,Oelwein Ward #1,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Fayette,Oelwein Ward #2,County Agricultural Extension Council Member,,Write-In,,4,0,4
+Fayette,Oelwein Ward #3,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Fayette,Oelwein Ward #4,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Fayette,Oran,County Agricultural Extension Council Member,,Write-In,,1,1,0
+Fayette,Pleasant Valley,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Fayette,Smithfield-Westfield,County Agricultural Extension Council Member,,Write-In,,14,7,7
+Fayette,Union,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Fayette,West Union Ward #1,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Fayette,West Union Ward #2,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Fayette,West Union Ward #3,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Fayette,Auburn-Eden,County Attorney,,Nathan Lein,DEM,323,87,236
+Fayette,Banks-Fremont,County Attorney,,Nathan Lein,DEM,264,56,208
+Fayette,Bethel-Windsor,County Attorney,,Nathan Lein,DEM,305,85,220
+Fayette,Center-Harlan,County Attorney,,Nathan Lein,DEM,349,66,283
+Fayette,Clermont,County Attorney,,Nathan Lein,DEM,258,82,176
+Fayette,Dover,County Attorney,,Nathan Lein,DEM,170,60,110
+Fayette,Fairfield-Putnamm,County Attorney,,Nathan Lein,DEM,273,58,215
+Fayette,Illyria,County Attorney,,Nathan Lein,DEM,160,34,126
+Fayette,Jefferson-Scott,County Attorney,,Nathan Lein,DEM,274,93,181
+Fayette,Oelwein Ward #1,County Attorney,,Nathan Lein,DEM,352,118,234
+Fayette,Oelwein Ward #2,County Attorney,,Nathan Lein,DEM,307,82,225
+Fayette,Oelwein Ward #3,County Attorney,,Nathan Lein,DEM,306,99,207
+Fayette,Oelwein Ward #4,County Attorney,,Nathan Lein,DEM,471,165,306
+Fayette,Oran,County Attorney,,Nathan Lein,DEM,280,59,221
+Fayette,Pleasant Valley,County Attorney,,Nathan Lein,DEM,288,84,204
+Fayette,Smithfield-Westfield,County Attorney,,Nathan Lein,DEM,459,125,334
+Fayette,Union,County Attorney,,Nathan Lein,DEM,135,54,81
+Fayette,West Union Ward #1,County Attorney,,Nathan Lein,DEM,287,148,139
+Fayette,West Union Ward #2,County Attorney,,Nathan Lein,DEM,197,103,94
+Fayette,West Union Ward #3,County Attorney,,Nathan Lein,DEM,241,108,133
+Fayette,Auburn-Eden,County Attorney,,Write-In,,15,3,12
+Fayette,Banks-Fremont,County Attorney,,Write-In,,8,0,8
+Fayette,Bethel-Windsor,County Attorney,,Write-In,,11,2,9
+Fayette,Center-Harlan,County Attorney,,Write-In,,10,2,8
+Fayette,Clermont,County Attorney,,Write-In,,9,0,9
+Fayette,Dover,County Attorney,,Write-In,,5,1,4
+Fayette,Fairfield-Putnamm,County Attorney,,Write-In,,7,0,7
+Fayette,Illyria,County Attorney,,Write-In,,4,0,4
+Fayette,Jefferson-Scott,County Attorney,,Write-In,,12,3,9
+Fayette,Oelwein Ward #1,County Attorney,,Write-In,,18,1,17
+Fayette,Oelwein Ward #2,County Attorney,,Write-In,,12,3,9
+Fayette,Oelwein Ward #3,County Attorney,,Write-In,,11,0,11
+Fayette,Oelwein Ward #4,County Attorney,,Write-In,,5,1,4
+Fayette,Oran,County Attorney,,Write-In,,11,0,11
+Fayette,Pleasant Valley,County Attorney,,Write-In,,8,4,4
+Fayette,Smithfield-Westfield,County Attorney,,Write-In,,17,3,14
+Fayette,Union,County Attorney,,Write-In,,3,1,2
+Fayette,West Union Ward #1,County Attorney,,Write-In,,3,0,3
+Fayette,West Union Ward #2,County Attorney,,Write-In,,3,1,2
+Fayette,West Union Ward #3,County Attorney,,Write-In,,7,1,6
+Fayette,Auburn-Eden,County Board of Supervisors,,Bruce T. Lehmann,REP,285,60,225
+Fayette,Banks-Fremont,County Board of Supervisors,,Bruce T. Lehmann,REP,216,45,171
+Fayette,Bethel-Windsor,County Board of Supervisors,,Bruce T. Lehmann,REP,285,70,215
+Fayette,Center-Harlan,County Board of Supervisors,,Bruce T. Lehmann,REP,315,79,236
+Fayette,Clermont,County Board of Supervisors,,Bruce T. Lehmann,REP,320,85,235
+Fayette,Dover,County Board of Supervisors,,Bruce T. Lehmann,REP,207,77,130
+Fayette,Fairfield-Putnamm,County Board of Supervisors,,Bruce T. Lehmann,REP,233,50,183
+Fayette,Illyria,County Board of Supervisors,,Bruce T. Lehmann,REP,191,37,154
+Fayette,Jefferson-Scott,County Board of Supervisors,,Bruce T. Lehmann,REP,223,78,145
+Fayette,Oelwein Ward #1,County Board of Supervisors,,Bruce T. Lehmann,REP,241,72,169
+Fayette,Oelwein Ward #2,County Board of Supervisors,,Bruce T. Lehmann,REP,189,52,137
+Fayette,Oelwein Ward #3,County Board of Supervisors,,Bruce T. Lehmann,REP,168,51,117
+Fayette,Oelwein Ward #4,County Board of Supervisors,,Bruce T. Lehmann,REP,317,105,212
+Fayette,Oran,County Board of Supervisors,,Bruce T. Lehmann,REP,213,35,178
+Fayette,Pleasant Valley,County Board of Supervisors,,Bruce T. Lehmann,REP,336,97,239
+Fayette,Smithfield-Westfield,County Board of Supervisors,,Bruce T. Lehmann,REP,385,100,285
+Fayette,Union,County Board of Supervisors,,Bruce T. Lehmann,REP,167,57,110
+Fayette,West Union Ward #1,County Board of Supervisors,,Bruce T. Lehmann,REP,279,137,142
+Fayette,West Union Ward #2,County Board of Supervisors,,Bruce T. Lehmann,REP,176,90,86
+Fayette,West Union Ward #3,County Board of Supervisors,,Bruce T. Lehmann,REP,254,104,150
+Fayette,Auburn-Eden,County Board of Supervisors,,Jeff Bunn,REP,335,78,257
+Fayette,Banks-Fremont,County Board of Supervisors,,Jeff Bunn,REP,301,56,245
+Fayette,Bethel-Windsor,County Board of Supervisors,,Jeff Bunn,REP,323,75,248
+Fayette,Center-Harlan,County Board of Supervisors,,Jeff Bunn,REP,402,91,311
+Fayette,Clermont,County Board of Supervisors,,Jeff Bunn,REP,261,67,194
+Fayette,Dover,County Board of Supervisors,,Jeff Bunn,REP,197,66,131
+Fayette,Fairfield-Putnamm,County Board of Supervisors,,Jeff Bunn,REP,305,59,246
+Fayette,Illyria,County Board of Supervisors,,Jeff Bunn,REP,177,39,138
+Fayette,Jefferson-Scott,County Board of Supervisors,,Jeff Bunn,REP,306,95,211
+Fayette,Oelwein Ward #1,County Board of Supervisors,,Jeff Bunn,REP,367,93,274
+Fayette,Oelwein Ward #2,County Board of Supervisors,,Jeff Bunn,REP,248,61,187
+Fayette,Oelwein Ward #3,County Board of Supervisors,,Jeff Bunn,REP,267,72,195
+Fayette,Oelwein Ward #4,County Board of Supervisors,,Jeff Bunn,REP,441,124,317
+Fayette,Oran,County Board of Supervisors,,Jeff Bunn,REP,289,42,247
+Fayette,Pleasant Valley,County Board of Supervisors,,Jeff Bunn,REP,289,79,210
+Fayette,Smithfield-Westfield,County Board of Supervisors,,Jeff Bunn,REP,443,114,329
+Fayette,Union,County Board of Supervisors,,Jeff Bunn,REP,154,53,101
+Fayette,West Union Ward #1,County Board of Supervisors,,Jeff Bunn,REP,278,134,144
+Fayette,West Union Ward #2,County Board of Supervisors,,Jeff Bunn,REP,181,89,92
+Fayette,West Union Ward #3,County Board of Supervisors,,Jeff Bunn,REP,244,103,141
+Fayette,Auburn-Eden,County Board of Supervisors,,Write-In,,10,5,5
+Fayette,Banks-Fremont,County Board of Supervisors,,Write-In,,4,3,1
+Fayette,Bethel-Windsor,County Board of Supervisors,,Write-In,,3,2,1
+Fayette,Center-Harlan,County Board of Supervisors,,Write-In,,9,0,9
+Fayette,Clermont,County Board of Supervisors,,Write-In,,3,2,1
+Fayette,Dover,County Board of Supervisors,,Write-In,,6,2,4
+Fayette,Fairfield-Putnamm,County Board of Supervisors,,Write-In,,10,1,9
+Fayette,Illyria,County Board of Supervisors,,Write-In,,2,2,0
+Fayette,Jefferson-Scott,County Board of Supervisors,,Write-In,,1,0,1
+Fayette,Oelwein Ward #1,County Board of Supervisors,,Write-In,,19,7,12
+Fayette,Oelwein Ward #2,County Board of Supervisors,,Write-In,,15,1,14
+Fayette,Oelwein Ward #3,County Board of Supervisors,,Write-In,,12,2,10
+Fayette,Oelwein Ward #4,County Board of Supervisors,,Write-In,,17,8,9
+Fayette,Oran,County Board of Supervisors,,Write-In,,6,2,4
+Fayette,Pleasant Valley,County Board of Supervisors,,Write-In,,5,1,4
+Fayette,Smithfield-Westfield,County Board of Supervisors,,Write-In,,19,8,11
+Fayette,Union,County Board of Supervisors,,Write-In,,4,2,2
+Fayette,West Union Ward #1,County Board of Supervisors,,Write-In,,1,1,0
+Fayette,West Union Ward #2,County Board of Supervisors,,Write-In,,3,1,2
+Fayette,West Union Ward #3,County Board of Supervisors,,Write-In,,4,0,4
+Fayette,Auburn-Eden,County Recorder,,Kristie Reierson,REP,399,96,303
+Fayette,Banks-Fremont,County Recorder,,Kristie Reierson,REP,332,62,270
+Fayette,Bethel-Windsor,County Recorder,,Kristie Reierson,REP,379,92,287
+Fayette,Center-Harlan,County Recorder,,Kristie Reierson,REP,441,97,344
+Fayette,Clermont,County Recorder,,Kristie Reierson,REP,350,92,258
+Fayette,Dover,County Recorder,,Kristie Reierson,REP,250,84,166
+Fayette,Fairfield-Putnamm,County Recorder,,Kristie Reierson,REP,345,65,280
+Fayette,Illyria,County Recorder,,Kristie Reierson,REP,222,45,177
+Fayette,Jefferson-Scott,County Recorder,,Kristie Reierson,REP,334,106,228
+Fayette,Oelwein Ward #1,County Recorder,,Kristie Reierson,REP,395,102,293
+Fayette,Oelwein Ward #2,County Recorder,,Kristie Reierson,REP,303,75,228
+Fayette,Oelwein Ward #3,County Recorder,,Kristie Reierson,REP,294,79,215
+Fayette,Oelwein Ward #4,County Recorder,,Kristie Reierson,REP,487,146,341
+Fayette,Oran,County Recorder,,Kristie Reierson,REP,341,54,287
+Fayette,Pleasant Valley,County Recorder,,Kristie Reierson,REP,370,99,271
+Fayette,Smithfield-Westfield,County Recorder,,Kristie Reierson,REP,517,131,386
+Fayette,Union,County Recorder,,Kristie Reierson,REP,178,61,117
+Fayette,West Union Ward #1,County Recorder,,Kristie Reierson,REP,320,156,164
+Fayette,West Union Ward #2,County Recorder,,Kristie Reierson,REP,226,112,114
+Fayette,West Union Ward #3,County Recorder,,Kristie Reierson,REP,295,119,176
+Fayette,Auburn-Eden,County Recorder,,Write-In,,2,2,0
+Fayette,Banks-Fremont,County Recorder,,Write-In,,0,0,0
+Fayette,Bethel-Windsor,County Recorder,,Write-In,,2,0,2
+Fayette,Center-Harlan,County Recorder,,Write-In,,2,0,2
+Fayette,Clermont,County Recorder,,Write-In,,1,1,0
+Fayette,Dover,County Recorder,,Write-In,,1,1,0
+Fayette,Fairfield-Putnamm,County Recorder,,Write-In,,2,0,2
+Fayette,Illyria,County Recorder,,Write-In,,0,0,0
+Fayette,Jefferson-Scott,County Recorder,,Write-In,,1,0,1
+Fayette,Oelwein Ward #1,County Recorder,,Write-In,,4,1,3
+Fayette,Oelwein Ward #2,County Recorder,,Write-In,,7,0,7
+Fayette,Oelwein Ward #3,County Recorder,,Write-In,,7,2,5
+Fayette,Oelwein Ward #4,County Recorder,,Write-In,,3,2,1
+Fayette,Oran,County Recorder,,Write-In,,0,0,0
+Fayette,Pleasant Valley,County Recorder,,Write-In,,4,2,2
+Fayette,Smithfield-Westfield,County Recorder,,Write-In,,9,1,8
+Fayette,Union,County Recorder,,Write-In,,1,0,1
+Fayette,West Union Ward #1,County Recorder,,Write-In,,0,0,0
+Fayette,West Union Ward #2,County Recorder,,Write-In,,2,1,1
+Fayette,West Union Ward #3,County Recorder,,Write-In,,1,1,0
+Fayette,Auburn-Eden,County Treasurer,,Kyle Jacobsen,REP,413,101,312
+Fayette,Banks-Fremont,County Treasurer,,Kyle Jacobsen,REP,346,67,279
+Fayette,Bethel-Windsor,County Treasurer,,Kyle Jacobsen,REP,387,96,291
+Fayette,Center-Harlan,County Treasurer,,Kyle Jacobsen,REP,449,99,350
+Fayette,Clermont,County Treasurer,,Kyle Jacobsen,REP,350,93,257
+Fayette,Dover,County Treasurer,,Kyle Jacobsen,REP,255,86,169
+Fayette,Fairfield-Putnamm,County Treasurer,,Kyle Jacobsen,REP,344,64,280
+Fayette,Illyria,County Treasurer,,Kyle Jacobsen,REP,221,46,175
+Fayette,Jefferson-Scott,County Treasurer,,Kyle Jacobsen,REP,344,110,234
+Fayette,Oelwein Ward #1,County Treasurer,,Kyle Jacobsen,REP,416,106,310
+Fayette,Oelwein Ward #2,County Treasurer,,Kyle Jacobsen,REP,314,75,239
+Fayette,Oelwein Ward #3,County Treasurer,,Kyle Jacobsen,REP,301,85,216
+Fayette,Oelwein Ward #4,County Treasurer,,Kyle Jacobsen,REP,502,151,351
+Fayette,Oran,County Treasurer,,Kyle Jacobsen,REP,353,55,298
+Fayette,Pleasant Valley,County Treasurer,,Kyle Jacobsen,REP,371,102,269
+Fayette,Smithfield-Westfield,County Treasurer,,Kyle Jacobsen,REP,525,130,395
+Fayette,Union,County Treasurer,,Kyle Jacobsen,REP,182,62,120
+Fayette,West Union Ward #1,County Treasurer,,Kyle Jacobsen,REP,324,158,166
+Fayette,West Union Ward #2,County Treasurer,,Kyle Jacobsen,REP,232,116,116
+Fayette,West Union Ward #3,County Treasurer,,Kyle Jacobsen,REP,298,122,176
+Fayette,Auburn-Eden,County Treasurer,,Write-In,,1,1,0
+Fayette,Banks-Fremont,County Treasurer,,Write-In,,1,0,1
+Fayette,Bethel-Windsor,County Treasurer,,Write-In,,1,0,1
+Fayette,Center-Harlan,County Treasurer,,Write-In,,4,1,3
+Fayette,Clermont,County Treasurer,,Write-In,,0,0,0
+Fayette,Dover,County Treasurer,,Write-In,,1,1,0
+Fayette,Fairfield-Putnamm,County Treasurer,,Write-In,,3,0,3
+Fayette,Illyria,County Treasurer,,Write-In,,1,0,1
+Fayette,Jefferson-Scott,County Treasurer,,Write-In,,0,0,0
+Fayette,Oelwein Ward #1,County Treasurer,,Write-In,,5,0,5
+Fayette,Oelwein Ward #2,County Treasurer,,Write-In,,7,0,7
+Fayette,Oelwein Ward #3,County Treasurer,,Write-In,,6,1,5
+Fayette,Oelwein Ward #4,County Treasurer,,Write-In,,3,2,1
+Fayette,Oran,County Treasurer,,Write-In,,0,0,0
+Fayette,Pleasant Valley,County Treasurer,,Write-In,,3,1,2
+Fayette,Smithfield-Westfield,County Treasurer,,Write-In,,9,3,6
+Fayette,Union,County Treasurer,,Write-In,,1,0,1
+Fayette,West Union Ward #1,County Treasurer,,Write-In,,1,0,1
+Fayette,West Union Ward #2,County Treasurer,,Write-In,,3,1,2
+Fayette,West Union Ward #3,County Treasurer,,Write-In,,2,1,1
+Fayette,Auburn-Eden,Court of Appeals Judge - John M. Sandy,,No,,101,24,77
+Fayette,Banks-Fremont,Court of Appeals Judge - John M. Sandy,,No,,89,15,74
+Fayette,Bethel-Windsor,Court of Appeals Judge - John M. Sandy,,No,,87,21,66
+Fayette,Center-Harlan,Court of Appeals Judge - John M. Sandy,,No,,99,24,75
+Fayette,Clermont,Court of Appeals Judge - John M. Sandy,,No,,72,20,52
+Fayette,Dover,Court of Appeals Judge - John M. Sandy,,No,,64,19,45
+Fayette,Fairfield-Putnamm,Court of Appeals Judge - John M. Sandy,,No,,95,14,81
+Fayette,Illyria,Court of Appeals Judge - John M. Sandy,,No,,56,15,41
+Fayette,Jefferson-Scott,Court of Appeals Judge - John M. Sandy,,No,,101,30,71
+Fayette,Oelwein Ward #1,Court of Appeals Judge - John M. Sandy,,No,,129,36,93
+Fayette,Oelwein Ward #2,Court of Appeals Judge - John M. Sandy,,No,,81,13,68
+Fayette,Oelwein Ward #3,Court of Appeals Judge - John M. Sandy,,No,,90,23,67
+Fayette,Oelwein Ward #4,Court of Appeals Judge - John M. Sandy,,No,,138,46,92
+Fayette,Oran,Court of Appeals Judge - John M. Sandy,,No,,80,11,69
+Fayette,Pleasant Valley,Court of Appeals Judge - John M. Sandy,,No,,65,24,41
+Fayette,Smithfield-Westfield,Court of Appeals Judge - John M. Sandy,,No,,126,34,92
+Fayette,Union,Court of Appeals Judge - John M. Sandy,,No,,48,11,37
+Fayette,West Union Ward #1,Court of Appeals Judge - John M. Sandy,,No,,66,34,32
+Fayette,West Union Ward #2,Court of Appeals Judge - John M. Sandy,,No,,67,37,30
+Fayette,West Union Ward #3,Court of Appeals Judge - John M. Sandy,,No,,77,26,51
+Fayette,Auburn-Eden,Court of Appeals Judge - John M. Sandy,,Yes,,240,58,182
+Fayette,Banks-Fremont,Court of Appeals Judge - John M. Sandy,,Yes,,192,40,152
+Fayette,Bethel-Windsor,Court of Appeals Judge - John M. Sandy,,Yes,,227,62,165
+Fayette,Center-Harlan,Court of Appeals Judge - John M. Sandy,,Yes,,268,60,208
+Fayette,Clermont,Court of Appeals Judge - John M. Sandy,,Yes,,211,60,151
+Fayette,Dover,Court of Appeals Judge - John M. Sandy,,Yes,,137,46,91
+Fayette,Fairfield-Putnamm,Court of Appeals Judge - John M. Sandy,,Yes,,195,35,160
+Fayette,Illyria,Court of Appeals Judge - John M. Sandy,,Yes,,124,20,104
+Fayette,Jefferson-Scott,Court of Appeals Judge - John M. Sandy,,Yes,,179,56,123
+Fayette,Oelwein Ward #1,Court of Appeals Judge - John M. Sandy,,Yes,,229,59,170
+Fayette,Oelwein Ward #2,Court of Appeals Judge - John M. Sandy,,Yes,,210,55,155
+Fayette,Oelwein Ward #3,Court of Appeals Judge - John M. Sandy,,Yes,,192,53,139
+Fayette,Oelwein Ward #4,Court of Appeals Judge - John M. Sandy,,Yes,,317,90,227
+Fayette,Oran,Court of Appeals Judge - John M. Sandy,,Yes,,212,40,172
+Fayette,Pleasant Valley,Court of Appeals Judge - John M. Sandy,,Yes,,228,50,178
+Fayette,Smithfield-Westfield,Court of Appeals Judge - John M. Sandy,,Yes,,324,66,258
+Fayette,Union,Court of Appeals Judge - John M. Sandy,,Yes,,106,40,66
+Fayette,West Union Ward #1,Court of Appeals Judge - John M. Sandy,,Yes,,219,100,119
+Fayette,West Union Ward #2,Court of Appeals Judge - John M. Sandy,,Yes,,136,65,71
+Fayette,West Union Ward #3,Court of Appeals Judge - John M. Sandy,,Yes,,166,68,98
+Fayette,Auburn-Eden,Court of Appeals Judge - Julie A. Schumacher,,No,,94,25,69
+Fayette,Banks-Fremont,Court of Appeals Judge - Julie A. Schumacher,,No,,85,13,72
+Fayette,Bethel-Windsor,Court of Appeals Judge - Julie A. Schumacher,,No,,90,22,68
+Fayette,Center-Harlan,Court of Appeals Judge - Julie A. Schumacher,,No,,93,22,71
+Fayette,Clermont,Court of Appeals Judge - Julie A. Schumacher,,No,,71,18,53
+Fayette,Dover,Court of Appeals Judge - Julie A. Schumacher,,No,,64,16,48
+Fayette,Fairfield-Putnamm,Court of Appeals Judge - Julie A. Schumacher,,No,,90,11,79
+Fayette,Illyria,Court of Appeals Judge - Julie A. Schumacher,,No,,54,12,42
+Fayette,Jefferson-Scott,Court of Appeals Judge - Julie A. Schumacher,,No,,98,31,67
+Fayette,Oelwein Ward #1,Court of Appeals Judge - Julie A. Schumacher,,No,,118,30,88
+Fayette,Oelwein Ward #2,Court of Appeals Judge - Julie A. Schumacher,,No,,78,15,63
+Fayette,Oelwein Ward #3,Court of Appeals Judge - Julie A. Schumacher,,No,,85,22,63
+Fayette,Oelwein Ward #4,Court of Appeals Judge - Julie A. Schumacher,,No,,134,48,86
+Fayette,Oran,Court of Appeals Judge - Julie A. Schumacher,,No,,75,10,65
+Fayette,Pleasant Valley,Court of Appeals Judge - Julie A. Schumacher,,No,,58,21,37
+Fayette,Smithfield-Westfield,Court of Appeals Judge - Julie A. Schumacher,,No,,115,32,83
+Fayette,Union,Court of Appeals Judge - Julie A. Schumacher,,No,,46,11,35
+Fayette,West Union Ward #1,Court of Appeals Judge - Julie A. Schumacher,,No,,58,31,27
+Fayette,West Union Ward #2,Court of Appeals Judge - Julie A. Schumacher,,No,,59,27,32
+Fayette,West Union Ward #3,Court of Appeals Judge - Julie A. Schumacher,,No,,71,27,44
+Fayette,Auburn-Eden,Court of Appeals Judge - Julie A. Schumacher,,Yes,,245,57,188
+Fayette,Banks-Fremont,Court of Appeals Judge - Julie A. Schumacher,,Yes,,192,43,149
+Fayette,Bethel-Windsor,Court of Appeals Judge - Julie A. Schumacher,,Yes,,222,62,160
+Fayette,Center-Harlan,Court of Appeals Judge - Julie A. Schumacher,,Yes,,274,62,212
+Fayette,Clermont,Court of Appeals Judge - Julie A. Schumacher,,Yes,,210,62,148
+Fayette,Dover,Court of Appeals Judge - Julie A. Schumacher,,Yes,,138,50,88
+Fayette,Fairfield-Putnamm,Court of Appeals Judge - Julie A. Schumacher,,Yes,,197,39,158
+Fayette,Illyria,Court of Appeals Judge - Julie A. Schumacher,,Yes,,127,23,104
+Fayette,Jefferson-Scott,Court of Appeals Judge - Julie A. Schumacher,,Yes,,183,56,127
+Fayette,Oelwein Ward #1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,244,64,180
+Fayette,Oelwein Ward #2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,212,53,159
+Fayette,Oelwein Ward #3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,198,55,143
+Fayette,Oelwein Ward #4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,317,89,228
+Fayette,Oran,Court of Appeals Judge - Julie A. Schumacher,,Yes,,218,42,176
+Fayette,Pleasant Valley,Court of Appeals Judge - Julie A. Schumacher,,Yes,,233,52,181
+Fayette,Smithfield-Westfield,Court of Appeals Judge - Julie A. Schumacher,,Yes,,338,67,271
+Fayette,Union,Court of Appeals Judge - Julie A. Schumacher,,Yes,,107,40,67
+Fayette,West Union Ward #1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,228,105,123
+Fayette,West Union Ward #2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,148,78,70
+Fayette,West Union Ward #3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,171,66,105
+Fayette,Auburn-Eden,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,113,27,86
+Fayette,Banks-Fremont,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,96,17,79
+Fayette,Bethel-Windsor,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,100,23,77
+Fayette,Center-Harlan,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,95,24,71
+Fayette,Clermont,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,83,19,64
+Fayette,Dover,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,80,22,58
+Fayette,Fairfield-Putnamm,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,96,11,85
+Fayette,Illyria,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,61,13,48
+Fayette,Jefferson-Scott,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,102,30,72
+Fayette,Oelwein Ward #1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,133,33,100
+Fayette,Oelwein Ward #2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,98,21,77
+Fayette,Oelwein Ward #3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,88,20,68
+Fayette,Oelwein Ward #4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,143,48,95
+Fayette,Oran,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,82,11,71
+Fayette,Pleasant Valley,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,77,21,56
+Fayette,Smithfield-Westfield,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,121,32,89
+Fayette,Union,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,47,11,36
+Fayette,West Union Ward #1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,64,31,33
+Fayette,West Union Ward #2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,62,31,31
+Fayette,West Union Ward #3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,80,30,50
+Fayette,Auburn-Eden,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,219,52,167
+Fayette,Banks-Fremont,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,181,38,143
+Fayette,Bethel-Windsor,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,213,61,152
+Fayette,Center-Harlan,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,271,60,211
+Fayette,Clermont,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,193,60,133
+Fayette,Dover,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,114,43,71
+Fayette,Fairfield-Putnamm,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,189,38,151
+Fayette,Illyria,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,119,21,98
+Fayette,Jefferson-Scott,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,177,57,120
+Fayette,Oelwein Ward #1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,219,59,160
+Fayette,Oelwein Ward #2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,189,47,142
+Fayette,Oelwein Ward #3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,193,55,138
+Fayette,Oelwein Ward #4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,304,88,216
+Fayette,Oran,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,209,40,169
+Fayette,Pleasant Valley,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,215,52,163
+Fayette,Smithfield-Westfield,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,330,68,262
+Fayette,Union,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,105,40,65
+Fayette,West Union Ward #1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,219,104,115
+Fayette,West Union Ward #2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,139,72,67
+Fayette,West Union Ward #3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,163,64,99
+Fayette,Auburn-Eden,District 1B Associate Judge - Linnea M.N. Nicol,,No,,103,23,80
+Fayette,Banks-Fremont,District 1B Associate Judge - Linnea M.N. Nicol,,No,,100,19,81
+Fayette,Bethel-Windsor,District 1B Associate Judge - Linnea M.N. Nicol,,No,,106,23,83
+Fayette,Center-Harlan,District 1B Associate Judge - Linnea M.N. Nicol,,No,,102,22,80
+Fayette,Clermont,District 1B Associate Judge - Linnea M.N. Nicol,,No,,79,16,63
+Fayette,Dover,District 1B Associate Judge - Linnea M.N. Nicol,,No,,75,22,53
+Fayette,Fairfield-Putnamm,District 1B Associate Judge - Linnea M.N. Nicol,,No,,97,12,85
+Fayette,Illyria,District 1B Associate Judge - Linnea M.N. Nicol,,No,,57,12,45
+Fayette,Jefferson-Scott,District 1B Associate Judge - Linnea M.N. Nicol,,No,,103,31,72
+Fayette,Oelwein Ward #1,District 1B Associate Judge - Linnea M.N. Nicol,,No,,131,32,99
+Fayette,Oelwein Ward #2,District 1B Associate Judge - Linnea M.N. Nicol,,No,,80,16,64
+Fayette,Oelwein Ward #3,District 1B Associate Judge - Linnea M.N. Nicol,,No,,87,21,66
+Fayette,Oelwein Ward #4,District 1B Associate Judge - Linnea M.N. Nicol,,No,,134,45,89
+Fayette,Oran,District 1B Associate Judge - Linnea M.N. Nicol,,No,,70,8,62
+Fayette,Pleasant Valley,District 1B Associate Judge - Linnea M.N. Nicol,,No,,64,13,51
+Fayette,Smithfield-Westfield,District 1B Associate Judge - Linnea M.N. Nicol,,No,,116,30,86
+Fayette,Union,District 1B Associate Judge - Linnea M.N. Nicol,,No,,52,10,42
+Fayette,West Union Ward #1,District 1B Associate Judge - Linnea M.N. Nicol,,No,,59,27,32
+Fayette,West Union Ward #2,District 1B Associate Judge - Linnea M.N. Nicol,,No,,58,28,30
+Fayette,West Union Ward #3,District 1B Associate Judge - Linnea M.N. Nicol,,No,,74,26,48
+Fayette,Auburn-Eden,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,230,55,175
+Fayette,Banks-Fremont,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,174,36,138
+Fayette,Bethel-Windsor,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,216,64,152
+Fayette,Center-Harlan,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,262,59,203
+Fayette,Clermont,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,203,63,140
+Fayette,Dover,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,123,45,78
+Fayette,Fairfield-Putnamm,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,183,36,147
+Fayette,Illyria,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,120,22,98
+Fayette,Jefferson-Scott,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,175,56,119
+Fayette,Oelwein Ward #1,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,220,61,159
+Fayette,Oelwein Ward #2,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,210,53,157
+Fayette,Oelwein Ward #3,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,192,53,139
+Fayette,Oelwein Ward #4,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,316,91,225
+Fayette,Oran,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,220,41,179
+Fayette,Pleasant Valley,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,228,59,169
+Fayette,Smithfield-Westfield,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,331,69,262
+Fayette,Union,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,104,45,59
+Fayette,West Union Ward #1,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,235,114,121
+Fayette,West Union Ward #2,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,144,72,72
+Fayette,West Union Ward #3,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,176,74,102
+Fayette,Auburn-Eden,District 1B Associate Judge - Michelle Jungers,,No,,99,18,81
+Fayette,Banks-Fremont,District 1B Associate Judge - Michelle Jungers,,No,,90,16,74
+Fayette,Bethel-Windsor,District 1B Associate Judge - Michelle Jungers,,No,,92,19,73
+Fayette,Center-Harlan,District 1B Associate Judge - Michelle Jungers,,No,,94,23,71
+Fayette,Clermont,District 1B Associate Judge - Michelle Jungers,,No,,76,16,60
+Fayette,Dover,District 1B Associate Judge - Michelle Jungers,,No,,73,20,53
+Fayette,Fairfield-Putnamm,District 1B Associate Judge - Michelle Jungers,,No,,91,10,81
+Fayette,Illyria,District 1B Associate Judge - Michelle Jungers,,No,,53,11,42
+Fayette,Jefferson-Scott,District 1B Associate Judge - Michelle Jungers,,No,,103,29,74
+Fayette,Oelwein Ward #1,District 1B Associate Judge - Michelle Jungers,,No,,122,30,92
+Fayette,Oelwein Ward #2,District 1B Associate Judge - Michelle Jungers,,No,,82,16,66
+Fayette,Oelwein Ward #3,District 1B Associate Judge - Michelle Jungers,,No,,83,22,61
+Fayette,Oelwein Ward #4,District 1B Associate Judge - Michelle Jungers,,No,,137,48,89
+Fayette,Oran,District 1B Associate Judge - Michelle Jungers,,No,,65,8,57
+Fayette,Pleasant Valley,District 1B Associate Judge - Michelle Jungers,,No,,60,16,44
+Fayette,Smithfield-Westfield,District 1B Associate Judge - Michelle Jungers,,No,,111,32,79
+Fayette,Union,District 1B Associate Judge - Michelle Jungers,,No,,51,12,39
+Fayette,West Union Ward #1,District 1B Associate Judge - Michelle Jungers,,No,,60,29,31
+Fayette,West Union Ward #2,District 1B Associate Judge - Michelle Jungers,,No,,63,29,34
+Fayette,West Union Ward #3,District 1B Associate Judge - Michelle Jungers,,No,,74,29,45
+Fayette,Auburn-Eden,District 1B Associate Judge - Michelle Jungers,,Yes,,232,59,173
+Fayette,Banks-Fremont,District 1B Associate Judge - Michelle Jungers,,Yes,,186,39,147
+Fayette,Bethel-Windsor,District 1B Associate Judge - Michelle Jungers,,Yes,,222,63,159
+Fayette,Center-Harlan,District 1B Associate Judge - Michelle Jungers,,Yes,,273,62,211
+Fayette,Clermont,District 1B Associate Judge - Michelle Jungers,,Yes,,198,60,138
+Fayette,Dover,District 1B Associate Judge - Michelle Jungers,,Yes,,121,43,78
+Fayette,Fairfield-Putnamm,District 1B Associate Judge - Michelle Jungers,,Yes,,196,39,157
+Fayette,Illyria,District 1B Associate Judge - Michelle Jungers,,Yes,,122,22,100
+Fayette,Jefferson-Scott,District 1B Associate Judge - Michelle Jungers,,Yes,,172,57,115
+Fayette,Oelwein Ward #1,District 1B Associate Judge - Michelle Jungers,,Yes,,230,60,170
+Fayette,Oelwein Ward #2,District 1B Associate Judge - Michelle Jungers,,Yes,,209,54,155
+Fayette,Oelwein Ward #3,District 1B Associate Judge - Michelle Jungers,,Yes,,195,51,144
+Fayette,Oelwein Ward #4,District 1B Associate Judge - Michelle Jungers,,Yes,,310,87,223
+Fayette,Oran,District 1B Associate Judge - Michelle Jungers,,Yes,,220,41,179
+Fayette,Pleasant Valley,District 1B Associate Judge - Michelle Jungers,,Yes,,229,56,173
+Fayette,Smithfield-Westfield,District 1B Associate Judge - Michelle Jungers,,Yes,,340,68,272
+Fayette,Union,District 1B Associate Judge - Michelle Jungers,,Yes,,97,37,60
+Fayette,West Union Ward #1,District 1B Associate Judge - Michelle Jungers,,Yes,,216,102,114
+Fayette,West Union Ward #2,District 1B Associate Judge - Michelle Jungers,,Yes,,140,74,66
+Fayette,West Union Ward #3,District 1B Associate Judge - Michelle Jungers,,Yes,,165,65,100
+Fayette,Auburn-Eden,District 1B Associate Judge - Patrice Jaye Eichman,,No,,94,20,74
+Fayette,Banks-Fremont,District 1B Associate Judge - Patrice Jaye Eichman,,No,,94,17,77
+Fayette,Bethel-Windsor,District 1B Associate Judge - Patrice Jaye Eichman,,No,,94,23,71
+Fayette,Center-Harlan,District 1B Associate Judge - Patrice Jaye Eichman,,No,,98,24,74
+Fayette,Clermont,District 1B Associate Judge - Patrice Jaye Eichman,,No,,79,17,62
+Fayette,Dover,District 1B Associate Judge - Patrice Jaye Eichman,,No,,72,19,53
+Fayette,Fairfield-Putnamm,District 1B Associate Judge - Patrice Jaye Eichman,,No,,90,10,80
+Fayette,Illyria,District 1B Associate Judge - Patrice Jaye Eichman,,No,,57,12,45
+Fayette,Jefferson-Scott,District 1B Associate Judge - Patrice Jaye Eichman,,No,,114,33,81
+Fayette,Oelwein Ward #1,District 1B Associate Judge - Patrice Jaye Eichman,,No,,119,27,92
+Fayette,Oelwein Ward #2,District 1B Associate Judge - Patrice Jaye Eichman,,No,,81,11,70
+Fayette,Oelwein Ward #3,District 1B Associate Judge - Patrice Jaye Eichman,,No,,82,21,61
+Fayette,Oelwein Ward #4,District 1B Associate Judge - Patrice Jaye Eichman,,No,,142,48,94
+Fayette,Oran,District 1B Associate Judge - Patrice Jaye Eichman,,No,,72,9,63
+Fayette,Pleasant Valley,District 1B Associate Judge - Patrice Jaye Eichman,,No,,61,18,43
+Fayette,Smithfield-Westfield,District 1B Associate Judge - Patrice Jaye Eichman,,No,,116,31,85
+Fayette,Union,District 1B Associate Judge - Patrice Jaye Eichman,,No,,53,14,39
+Fayette,West Union Ward #1,District 1B Associate Judge - Patrice Jaye Eichman,,No,,59,29,30
+Fayette,West Union Ward #2,District 1B Associate Judge - Patrice Jaye Eichman,,No,,61,28,33
+Fayette,West Union Ward #3,District 1B Associate Judge - Patrice Jaye Eichman,,No,,70,22,48
+Fayette,Auburn-Eden,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,239,59,180
+Fayette,Banks-Fremont,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,182,38,144
+Fayette,Bethel-Windsor,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,219,61,158
+Fayette,Center-Harlan,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,269,60,209
+Fayette,Clermont,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,200,61,139
+Fayette,Dover,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,121,43,78
+Fayette,Fairfield-Putnamm,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,193,39,154
+Fayette,Illyria,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,122,22,100
+Fayette,Jefferson-Scott,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,165,54,111
+Fayette,Oelwein Ward #1,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,235,63,172
+Fayette,Oelwein Ward #2,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,209,59,150
+Fayette,Oelwein Ward #3,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,193,54,139
+Fayette,Oelwein Ward #4,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,310,89,221
+Fayette,Oran,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,217,40,177
+Fayette,Pleasant Valley,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,229,55,174
+Fayette,Smithfield-Westfield,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,333,68,265
+Fayette,Union,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,97,36,61
+Fayette,West Union Ward #1,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,217,102,115
+Fayette,West Union Ward #2,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,143,73,70
+Fayette,West Union Ward #3,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,172,71,101
+Fayette,Auburn-Eden,District 1B Judge - Joel A. Dalrymple,,No,,100,26,74
+Fayette,Banks-Fremont,District 1B Judge - Joel A. Dalrymple,,No,,96,16,80
+Fayette,Bethel-Windsor,District 1B Judge - Joel A. Dalrymple,,No,,94,22,72
+Fayette,Center-Harlan,District 1B Judge - Joel A. Dalrymple,,No,,104,28,76
+Fayette,Clermont,District 1B Judge - Joel A. Dalrymple,,No,,78,18,60
+Fayette,Dover,District 1B Judge - Joel A. Dalrymple,,No,,74,20,54
+Fayette,Fairfield-Putnamm,District 1B Judge - Joel A. Dalrymple,,No,,99,13,86
+Fayette,Illyria,District 1B Judge - Joel A. Dalrymple,,No,,64,16,48
+Fayette,Jefferson-Scott,District 1B Judge - Joel A. Dalrymple,,No,,111,31,80
+Fayette,Oelwein Ward #1,District 1B Judge - Joel A. Dalrymple,,No,,127,37,90
+Fayette,Oelwein Ward #2,District 1B Judge - Joel A. Dalrymple,,No,,87,17,70
+Fayette,Oelwein Ward #3,District 1B Judge - Joel A. Dalrymple,,No,,99,23,76
+Fayette,Oelwein Ward #4,District 1B Judge - Joel A. Dalrymple,,No,,152,50,102
+Fayette,Oran,District 1B Judge - Joel A. Dalrymple,,No,,82,13,69
+Fayette,Pleasant Valley,District 1B Judge - Joel A. Dalrymple,,No,,76,21,55
+Fayette,Smithfield-Westfield,District 1B Judge - Joel A. Dalrymple,,No,,132,35,97
+Fayette,Union,District 1B Judge - Joel A. Dalrymple,,No,,53,17,36
+Fayette,West Union Ward #1,District 1B Judge - Joel A. Dalrymple,,No,,67,38,29
+Fayette,West Union Ward #2,District 1B Judge - Joel A. Dalrymple,,No,,72,38,34
+Fayette,West Union Ward #3,District 1B Judge - Joel A. Dalrymple,,No,,81,26,55
+Fayette,Auburn-Eden,District 1B Judge - Joel A. Dalrymple,,Yes,,235,53,182
+Fayette,Banks-Fremont,District 1B Judge - Joel A. Dalrymple,,Yes,,183,39,144
+Fayette,Bethel-Windsor,District 1B Judge - Joel A. Dalrymple,,Yes,,221,63,158
+Fayette,Center-Harlan,District 1B Judge - Joel A. Dalrymple,,Yes,,263,56,207
+Fayette,Clermont,District 1B Judge - Joel A. Dalrymple,,Yes,,202,61,141
+Fayette,Dover,District 1B Judge - Joel A. Dalrymple,,Yes,,121,45,76
+Fayette,Fairfield-Putnamm,District 1B Judge - Joel A. Dalrymple,,Yes,,188,37,151
+Fayette,Illyria,District 1B Judge - Joel A. Dalrymple,,Yes,,113,18,95
+Fayette,Jefferson-Scott,District 1B Judge - Joel A. Dalrymple,,Yes,,166,55,111
+Fayette,Oelwein Ward #1,District 1B Judge - Joel A. Dalrymple,,Yes,,227,54,173
+Fayette,Oelwein Ward #2,District 1B Judge - Joel A. Dalrymple,,Yes,,204,52,152
+Fayette,Oelwein Ward #3,District 1B Judge - Joel A. Dalrymple,,Yes,,184,54,130
+Fayette,Oelwein Ward #4,District 1B Judge - Joel A. Dalrymple,,Yes,,303,87,216
+Fayette,Oran,District 1B Judge - Joel A. Dalrymple,,Yes,,211,38,173
+Fayette,Pleasant Valley,District 1B Judge - Joel A. Dalrymple,,Yes,,216,53,163
+Fayette,Smithfield-Westfield,District 1B Judge - Joel A. Dalrymple,,Yes,,317,63,254
+Fayette,Union,District 1B Judge - Joel A. Dalrymple,,Yes,,100,35,65
+Fayette,West Union Ward #1,District 1B Judge - Joel A. Dalrymple,,Yes,,216,95,121
+Fayette,West Union Ward #2,District 1B Judge - Joel A. Dalrymple,,Yes,,132,64,68
+Fayette,West Union Ward #3,District 1B Judge - Joel A. Dalrymple,,Yes,,162,69,93
+Fayette,Dover,Dover Township Clerk,,Write-In,,12,4,8
+Fayette,Dover,Dover Township Trustee,,Alan J. Steffens,,234,81,153
+Fayette,Dover,Dover Township Trustee,,Write-In,,13,5,8
+Fayette,Auburn-Eden,Eden Township Clerk,,Marlene Klemp,,105,33,72
+Fayette,Auburn-Eden,Eden Township Clerk,,Write-In,,2,0,2
+Fayette,Auburn-Eden,Eden Township Trustee,,Michael Hoey,,95,30,65
+Fayette,Auburn-Eden,Eden Township Trustee,,Scott Klemp,,85,31,54
+Fayette,Auburn-Eden,Eden Township Trustee,,Write-In,,2,0,2
+Fayette,Fairfield-Putnamm,Fairfield Township Clerk,,Joyce Knickerbocker,,90,22,68
+Fayette,Fairfield-Putnamm,Fairfield Township Clerk,,Write-In,,0,0,0
+Fayette,Fairfield-Putnamm,Fairfield Township Trustee,,Write-In,,15,7,8
+Fayette,Auburn-Eden,Fayette County - Public Measure HK,,No,,143,32,111
+Fayette,Banks-Fremont,Fayette County - Public Measure HK,,No,,175,33,142
+Fayette,Bethel-Windsor,Fayette County - Public Measure HK,,No,,178,48,130
+Fayette,Center-Harlan,Fayette County - Public Measure HK,,No,,218,58,160
+Fayette,Clermont,Fayette County - Public Measure HK,,No,,143,43,100
+Fayette,Dover,Fayette County - Public Measure HK,,No,,129,44,85
+Fayette,Fairfield-Putnamm,Fayette County - Public Measure HK,,No,,171,26,145
+Fayette,Illyria,Fayette County - Public Measure HK,,No,,78,16,62
+Fayette,Jefferson-Scott,Fayette County - Public Measure HK,,No,,199,70,129
+Fayette,Oelwein Ward #1,Fayette County - Public Measure HK,,No,,194,46,148
+Fayette,Oelwein Ward #2,Fayette County - Public Measure HK,,No,,125,28,97
+Fayette,Oelwein Ward #3,Fayette County - Public Measure HK,,No,,122,28,94
+Fayette,Oelwein Ward #4,Fayette County - Public Measure HK,,No,,205,56,149
+Fayette,Oran,Fayette County - Public Measure HK,,No,,134,24,110
+Fayette,Pleasant Valley,Fayette County - Public Measure HK,,No,,116,28,88
+Fayette,Smithfield-Westfield,Fayette County - Public Measure HK,,No,,212,60,152
+Fayette,Union,Fayette County - Public Measure HK,,No,,76,22,54
+Fayette,West Union Ward #1,Fayette County - Public Measure HK,,No,,104,53,51
+Fayette,West Union Ward #2,Fayette County - Public Measure HK,,No,,87,40,47
+Fayette,West Union Ward #3,Fayette County - Public Measure HK,,No,,105,46,59
+Fayette,Auburn-Eden,Fayette County - Public Measure HK,,Yes,,298,76,222
+Fayette,Banks-Fremont,Fayette County - Public Measure HK,,Yes,,189,40,149
+Fayette,Bethel-Windsor,Fayette County - Public Measure HK,,Yes,,237,62,175
+Fayette,Center-Harlan,Fayette County - Public Measure HK,,Yes,,247,44,203
+Fayette,Clermont,Fayette County - Public Measure HK,,Yes,,232,65,167
+Fayette,Dover,Fayette County - Public Measure HK,,Yes,,127,46,81
+Fayette,Fairfield-Putnamm,Fayette County - Public Measure HK,,Yes,,209,44,165
+Fayette,Illyria,Fayette County - Public Measure HK,,Yes,,155,33,122
+Fayette,Jefferson-Scott,Fayette County - Public Measure HK,,Yes,,164,49,115
+Fayette,Oelwein Ward #1,Fayette County - Public Measure HK,,Yes,,293,91,202
+Fayette,Oelwein Ward #2,Fayette County - Public Measure HK,,Yes,,241,69,172
+Fayette,Oelwein Ward #3,Fayette County - Public Measure HK,,Yes,,252,84,168
+Fayette,Oelwein Ward #4,Fayette County - Public Measure HK,,Yes,,390,145,245
+Fayette,Oran,Fayette County - Public Measure HK,,Yes,,227,40,187
+Fayette,Pleasant Valley,Fayette County - Public Measure HK,,Yes,,281,84,197
+Fayette,Smithfield-Westfield,Fayette County - Public Measure HK,,Yes,,375,93,282
+Fayette,Union,Fayette County - Public Measure HK,,Yes,,117,47,70
+Fayette,West Union Ward #1,Fayette County - Public Measure HK,,Yes,,254,128,126
+Fayette,West Union Ward #2,Fayette County - Public Measure HK,,Yes,,169,86,83
+Fayette,West Union Ward #3,Fayette County - Public Measure HK,,Yes,,219,93,126
+Fayette,Banks-Fremont,Fremont Township Clerk,,Valerie Warnke,,124,22,102
+Fayette,Banks-Fremont,Fremont Township Clerk,,Write-In,,0,0,0
+Fayette,Banks-Fremont,Fremont Township Trustee,,Write-In,,21,1,20
+Fayette,Auburn-Eden,Governor,,Rob Sand and Dave Muhlbauer,DEM,199,74,125
+Fayette,Banks-Fremont,Governor,,Rob Sand and Dave Muhlbauer,DEM,149,41,108
+Fayette,Bethel-Windsor,Governor,,Rob Sand and Dave Muhlbauer,DEM,187,62,125
+Fayette,Center-Harlan,Governor,,Rob Sand and Dave Muhlbauer,DEM,222,43,179
+Fayette,Clermont,Governor,,Rob Sand and Dave Muhlbauer,DEM,165,66,99
+Fayette,Dover,Governor,,Rob Sand and Dave Muhlbauer,DEM,78,44,34
+Fayette,Fairfield-Putnamm,Governor,,Rob Sand and Dave Muhlbauer,DEM,158,44,114
+Fayette,Illyria,Governor,,Rob Sand and Dave Muhlbauer,DEM,100,27,73
+Fayette,Jefferson-Scott,Governor,,Rob Sand and Dave Muhlbauer,DEM,175,81,94
+Fayette,Oelwein Ward #1,Governor,,Rob Sand and Dave Muhlbauer,DEM,291,111,180
+Fayette,Oelwein Ward #2,Governor,,Rob Sand and Dave Muhlbauer,DEM,258,78,180
+Fayette,Oelwein Ward #3,Governor,,Rob Sand and Dave Muhlbauer,DEM,271,97,174
+Fayette,Oelwein Ward #4,Governor,,Rob Sand and Dave Muhlbauer,DEM,376,153,223
+Fayette,Oran,Governor,,Rob Sand and Dave Muhlbauer,DEM,193,51,142
+Fayette,Pleasant Valley,Governor,,Rob Sand and Dave Muhlbauer,DEM,166,63,103
+Fayette,Smithfield-Westfield,Governor,,Rob Sand and Dave Muhlbauer,DEM,322,83,239
+Fayette,Union,Governor,,Rob Sand and Dave Muhlbauer,DEM,73,40,33
+Fayette,West Union Ward #1,Governor,,Rob Sand and Dave Muhlbauer,DEM,203,114,89
+Fayette,West Union Ward #2,Governor,,Rob Sand and Dave Muhlbauer,DEM,127,85,42
+Fayette,West Union Ward #3,Governor,,Rob Sand and Dave Muhlbauer,DEM,181,81,100
+Fayette,Auburn-Eden,Governor,,Write-In,,1,0,1
+Fayette,Banks-Fremont,Governor,,Write-In,,2,0,2
+Fayette,Bethel-Windsor,Governor,,Write-In,,1,0,1
+Fayette,Center-Harlan,Governor,,Write-In,,0,0,0
+Fayette,Clermont,Governor,,Write-In,,1,0,1
+Fayette,Dover,Governor,,Write-In,,1,1,0
+Fayette,Fairfield-Putnamm,Governor,,Write-In,,0,0,0
+Fayette,Illyria,Governor,,Write-In,,1,0,1
+Fayette,Jefferson-Scott,Governor,,Write-In,,0,0,0
+Fayette,Oelwein Ward #1,Governor,,Write-In,,1,0,1
+Fayette,Oelwein Ward #2,Governor,,Write-In,,0,0,0
+Fayette,Oelwein Ward #3,Governor,,Write-In,,2,1,1
+Fayette,Oelwein Ward #4,Governor,,Write-In,,5,1,4
+Fayette,Oran,Governor,,Write-In,,0,0,0
+Fayette,Pleasant Valley,Governor,,Write-In,,2,1,1
+Fayette,Smithfield-Westfield,Governor,,Write-In,,1,0,1
+Fayette,Union,Governor,,Write-In,,0,0,0
+Fayette,West Union Ward #1,Governor,,Write-In,,0,0,0
+Fayette,West Union Ward #2,Governor,,Write-In,,1,1,0
+Fayette,West Union Ward #3,Governor,,Write-In,,0,0,0
+Fayette,Auburn-Eden,Governor,,Zach Lahn and Derek Wulf,REP,271,53,218
+Fayette,Banks-Fremont,Governor,,Zach Lahn and Derek Wulf,REP,224,34,190
+Fayette,Bethel-Windsor,Governor,,Zach Lahn and Derek Wulf,REP,243,48,195
+Fayette,Center-Harlan,Governor,,Zach Lahn and Derek Wulf,REP,251,59,192
+Fayette,Clermont,Governor,,Zach Lahn and Derek Wulf,REP,220,49,171
+Fayette,Dover,Governor,,Zach Lahn and Derek Wulf,REP,186,51,135
+Fayette,Fairfield-Putnamm,Governor,,Zach Lahn and Derek Wulf,REP,231,31,200
+Fayette,Illyria,Governor,,Zach Lahn and Derek Wulf,REP,141,25,116
+Fayette,Jefferson-Scott,Governor,,Zach Lahn and Derek Wulf,REP,204,45,159
+Fayette,Oelwein Ward #1,Governor,,Zach Lahn and Derek Wulf,REP,211,27,184
+Fayette,Oelwein Ward #2,Governor,,Zach Lahn and Derek Wulf,REP,132,24,108
+Fayette,Oelwein Ward #3,Governor,,Zach Lahn and Derek Wulf,REP,120,21,99
+Fayette,Oelwein Ward #4,Governor,,Zach Lahn and Derek Wulf,REP,239,58,181
+Fayette,Oran,Governor,,Zach Lahn and Derek Wulf,REP,206,20,186
+Fayette,Pleasant Valley,Governor,,Zach Lahn and Derek Wulf,REP,238,47,191
+Fayette,Smithfield-Westfield,Governor,,Zach Lahn and Derek Wulf,REP,284,82,202
+Fayette,Union,Governor,,Zach Lahn and Derek Wulf,REP,123,29,94
+Fayette,West Union Ward #1,Governor,,Zach Lahn and Derek Wulf,REP,167,74,93
+Fayette,West Union Ward #2,Governor,,Zach Lahn and Derek Wulf,REP,138,49,89
+Fayette,West Union Ward #3,Governor,,Zach Lahn and Derek Wulf,REP,152,61,91
+Fayette,Center-Harlan,Harlan Township Clerk,,Joyce Gadow,,123,27,96
+Fayette,Center-Harlan,Harlan Township Clerk,,Write-In,,0,0,0
+Fayette,Center-Harlan,Harlan Township Trustee,,Rick Fink,,125,28,97
+Fayette,Center-Harlan,Harlan Township Trustee,,Write-In,,3,1,2
+Fayette,Illyria,Illyria Township Clerk,,Write-In,,6,0,6
+Fayette,Illyria,Illyria Township Trustee,,Gary Lehmann,,109,21,88
+Fayette,Illyria,Illyria Township Trustee,,Russell Medberry,,100,24,76
+Fayette,Illyria,Illyria Township Trustee,,Write-In,,0,0,0
+Fayette,Jefferson-Scott,Jefferson Township Clerk,,Eileen Koob,,219,71,148
+Fayette,Jefferson-Scott,Jefferson Township Clerk,,Write-In,,3,2,1
+Fayette,Jefferson-Scott,Jefferson Township Trustee,,Teri Block,,225,69,156
+Fayette,Jefferson-Scott,Jefferson Township Trustee,,Write-In,,3,0,3
+Fayette,Jefferson-Scott,Jefferson Township Trustee,,Yvonne Gaudes,,123,49,74
+Fayette,Oran,Oran Township Clerk,,Sue A. Fette,,187,25,162
+Fayette,Oran,Oran Township Clerk,,Write-In,,4,1,3
+Fayette,Oran,Oran Township Trustee,,Glenda Kane,,124,16,108
+Fayette,Oran,Oran Township Trustee,,Janice D. Martins,,115,21,94
+Fayette,Oran,Oran Township Trustee,,Jason Peterson,,113,18,95
+Fayette,Oran,Oran Township Trustee,,Write-In,,1,0,1
+Fayette,Pleasant Valley,Pleasant Valley Township Clerk,,Duane Patterson,,125,38,87
+Fayette,Pleasant Valley,Pleasant Valley Township Clerk,,Write-In,,0,0,0
+Fayette,Pleasant Valley,Pleasant Valley Township Trustee,,Michael Friederich,,109,31,78
+Fayette,Pleasant Valley,Pleasant Valley Township Trustee,,Randy Helgerson,,119,34,85
+Fayette,Pleasant Valley,Pleasant Valley Township Trustee,,Write-In,,0,0,0
+Fayette,Fairfield-Putnamm,Putnam Township Clerk,,Teresa Burrack,,121,28,93
+Fayette,Fairfield-Putnamm,Putnam Township Clerk,,Write-In,,0,0,0
+Fayette,Fairfield-Putnamm,Putnam Township Trustee,,Bart D. DeLong,,114,26,88
+Fayette,Fairfield-Putnamm,Putnam Township Trustee,,Ryan Riechers,,94,24,70
+Fayette,Fairfield-Putnamm,Putnam Township Trustee,,Write-In,,1,0,1
+Fayette,Jefferson-Scott,Scott Township Clerk,,Tammy Brownell,,96,33,63
+Fayette,Jefferson-Scott,Scott Township Clerk,,Write-In,,0,0,0
+Fayette,Jefferson-Scott,Scott Township Trustee,,Alan L. Schlumbohm,,83,29,54
+Fayette,Jefferson-Scott,Scott Township Trustee,,Write-In,,26,9,17
+Fayette,Auburn-Eden,Secretary of Agriculture,,Chris Jones,DEM,135,55,80
+Fayette,Banks-Fremont,Secretary of Agriculture,,Chris Jones,DEM,90,26,64
+Fayette,Bethel-Windsor,Secretary of Agriculture,,Chris Jones,DEM,112,41,71
+Fayette,Center-Harlan,Secretary of Agriculture,,Chris Jones,DEM,138,23,115
+Fayette,Clermont,Secretary of Agriculture,,Chris Jones,DEM,114,57,57
+Fayette,Dover,Secretary of Agriculture,,Chris Jones,DEM,48,28,20
+Fayette,Fairfield-Putnamm,Secretary of Agriculture,,Chris Jones,DEM,102,26,76
+Fayette,Illyria,Secretary of Agriculture,,Chris Jones,DEM,69,22,47
+Fayette,Jefferson-Scott,Secretary of Agriculture,,Chris Jones,DEM,124,58,66
+Fayette,Oelwein Ward #1,Secretary of Agriculture,,Chris Jones,DEM,216,80,136
+Fayette,Oelwein Ward #2,Secretary of Agriculture,,Chris Jones,DEM,206,66,140
+Fayette,Oelwein Ward #3,Secretary of Agriculture,,Chris Jones,DEM,208,81,127
+Fayette,Oelwein Ward #4,Secretary of Agriculture,,Chris Jones,DEM,283,122,161
+Fayette,Oran,Secretary of Agriculture,,Chris Jones,DEM,141,40,101
+Fayette,Pleasant Valley,Secretary of Agriculture,,Chris Jones,DEM,117,51,66
+Fayette,Smithfield-Westfield,Secretary of Agriculture,,Chris Jones,DEM,249,70,179
+Fayette,Union,Secretary of Agriculture,,Chris Jones,DEM,42,28,14
+Fayette,West Union Ward #1,Secretary of Agriculture,,Chris Jones,DEM,134,83,51
+Fayette,West Union Ward #2,Secretary of Agriculture,,Chris Jones,DEM,94,69,25
+Fayette,West Union Ward #3,Secretary of Agriculture,,Chris Jones,DEM,116,60,56
+Fayette,Auburn-Eden,Secretary of Agriculture,,Mike Naig,REP,329,69,260
+Fayette,Banks-Fremont,Secretary of Agriculture,,Mike Naig,REP,276,46,230
+Fayette,Bethel-Windsor,Secretary of Agriculture,,Mike Naig,REP,307,68,239
+Fayette,Center-Harlan,Secretary of Agriculture,,Mike Naig,REP,333,81,252
+Fayette,Clermont,Secretary of Agriculture,,Mike Naig,REP,263,58,205
+Fayette,Dover,Secretary of Agriculture,,Mike Naig,REP,218,66,152
+Fayette,Fairfield-Putnamm,Secretary of Agriculture,,Mike Naig,REP,284,47,237
+Fayette,Illyria,Secretary of Agriculture,,Mike Naig,REP,172,31,141
+Fayette,Jefferson-Scott,Secretary of Agriculture,,Mike Naig,REP,251,67,184
+Fayette,Oelwein Ward #1,Secretary of Agriculture,,Mike Naig,REP,276,58,218
+Fayette,Oelwein Ward #2,Secretary of Agriculture,,Mike Naig,REP,172,37,135
+Fayette,Oelwein Ward #3,Secretary of Agriculture,,Mike Naig,REP,175,33,142
+Fayette,Oelwein Ward #4,Secretary of Agriculture,,Mike Naig,REP,324,83,241
+Fayette,Oran,Secretary of Agriculture,,Mike Naig,REP,248,30,218
+Fayette,Pleasant Valley,Secretary of Agriculture,,Mike Naig,REP,282,61,221
+Fayette,Smithfield-Westfield,Secretary of Agriculture,,Mike Naig,REP,353,91,262
+Fayette,Union,Secretary of Agriculture,,Mike Naig,REP,152,41,111
+Fayette,West Union Ward #1,Secretary of Agriculture,,Mike Naig,REP,230,102,128
+Fayette,West Union Ward #2,Secretary of Agriculture,,Mike Naig,REP,168,68,100
+Fayette,West Union Ward #3,Secretary of Agriculture,,Mike Naig,REP,208,76,132
+Fayette,Auburn-Eden,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,Banks-Fremont,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,Bethel-Windsor,Secretary of Agriculture,,Write-In,,1,0,1
+Fayette,Center-Harlan,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,Clermont,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,Dover,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,Fairfield-Putnamm,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,Illyria,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,Jefferson-Scott,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,Oelwein Ward #1,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,Oelwein Ward #2,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,Oelwein Ward #3,Secretary of Agriculture,,Write-In,,1,1,0
+Fayette,Oelwein Ward #4,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,Oran,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,Pleasant Valley,Secretary of Agriculture,,Write-In,,1,1,0
+Fayette,Smithfield-Westfield,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,Union,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,West Union Ward #1,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,West Union Ward #2,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,West Union Ward #3,Secretary of Agriculture,,Write-In,,0,0,0
+Fayette,Auburn-Eden,Secretary of State,,Paul D. Pate,REP,316,63,253
+Fayette,Banks-Fremont,Secretary of State,,Paul D. Pate,REP,270,43,227
+Fayette,Bethel-Windsor,Secretary of State,,Paul D. Pate,REP,307,70,237
+Fayette,Center-Harlan,Secretary of State,,Paul D. Pate,REP,320,80,240
+Fayette,Clermont,Secretary of State,,Paul D. Pate,REP,267,60,207
+Fayette,Dover,Secretary of State,,Paul D. Pate,REP,205,61,144
+Fayette,Fairfield-Putnamm,Secretary of State,,Paul D. Pate,REP,285,46,239
+Fayette,Illyria,Secretary of State,,Paul D. Pate,REP,166,28,138
+Fayette,Jefferson-Scott,Secretary of State,,Paul D. Pate,REP,255,68,187
+Fayette,Oelwein Ward #1,Secretary of State,,Paul D. Pate,REP,256,51,205
+Fayette,Oelwein Ward #2,Secretary of State,,Paul D. Pate,REP,166,30,136
+Fayette,Oelwein Ward #3,Secretary of State,,Paul D. Pate,REP,175,36,139
+Fayette,Oelwein Ward #4,Secretary of State,,Paul D. Pate,REP,318,79,239
+Fayette,Oran,Secretary of State,,Paul D. Pate,REP,258,31,227
+Fayette,Pleasant Valley,Secretary of State,,Paul D. Pate,REP,280,58,222
+Fayette,Smithfield-Westfield,Secretary of State,,Paul D. Pate,REP,356,90,266
+Fayette,Union,Secretary of State,,Paul D. Pate,REP,149,38,111
+Fayette,West Union Ward #1,Secretary of State,,Paul D. Pate,REP,229,106,123
+Fayette,West Union Ward #2,Secretary of State,,Paul D. Pate,REP,168,66,102
+Fayette,West Union Ward #3,Secretary of State,,Paul D. Pate,REP,204,72,132
+Fayette,Auburn-Eden,Secretary of State,,Ryan Peterman,DEM,142,60,82
+Fayette,Banks-Fremont,Secretary of State,,Ryan Peterman,DEM,96,30,66
+Fayette,Bethel-Windsor,Secretary of State,,Ryan Peterman,DEM,109,39,70
+Fayette,Center-Harlan,Secretary of State,,Ryan Peterman,DEM,142,23,119
+Fayette,Clermont,Secretary of State,,Ryan Peterman,DEM,111,54,57
+Fayette,Dover,Secretary of State,,Ryan Peterman,DEM,55,31,24
+Fayette,Fairfield-Putnamm,Secretary of State,,Ryan Peterman,DEM,98,27,71
+Fayette,Illyria,Secretary of State,,Ryan Peterman,DEM,72,21,51
+Fayette,Jefferson-Scott,Secretary of State,,Ryan Peterman,DEM,115,58,57
+Fayette,Oelwein Ward #1,Secretary of State,,Ryan Peterman,DEM,236,87,149
+Fayette,Oelwein Ward #2,Secretary of State,,Ryan Peterman,DEM,212,72,140
+Fayette,Oelwein Ward #3,Secretary of State,,Ryan Peterman,DEM,203,80,123
+Fayette,Oelwein Ward #4,Secretary of State,,Ryan Peterman,DEM,289,128,161
+Fayette,Oran,Secretary of State,,Ryan Peterman,DEM,131,40,91
+Fayette,Pleasant Valley,Secretary of State,,Ryan Peterman,DEM,118,52,66
+Fayette,Smithfield-Westfield,Secretary of State,,Ryan Peterman,DEM,243,70,173
+Fayette,Union,Secretary of State,,Ryan Peterman,DEM,44,30,14
+Fayette,West Union Ward #1,Secretary of State,,Ryan Peterman,DEM,131,77,54
+Fayette,West Union Ward #2,Secretary of State,,Ryan Peterman,DEM,89,67,22
+Fayette,West Union Ward #3,Secretary of State,,Ryan Peterman,DEM,120,65,55
+Fayette,Auburn-Eden,Secretary of State,,Write-In,,0,0,0
+Fayette,Banks-Fremont,Secretary of State,,Write-In,,0,0,0
+Fayette,Bethel-Windsor,Secretary of State,,Write-In,,1,0,1
+Fayette,Center-Harlan,Secretary of State,,Write-In,,0,0,0
+Fayette,Clermont,Secretary of State,,Write-In,,1,0,1
+Fayette,Dover,Secretary of State,,Write-In,,0,0,0
+Fayette,Fairfield-Putnamm,Secretary of State,,Write-In,,0,0,0
+Fayette,Illyria,Secretary of State,,Write-In,,0,0,0
+Fayette,Jefferson-Scott,Secretary of State,,Write-In,,0,0,0
+Fayette,Oelwein Ward #1,Secretary of State,,Write-In,,0,0,0
+Fayette,Oelwein Ward #2,Secretary of State,,Write-In,,0,0,0
+Fayette,Oelwein Ward #3,Secretary of State,,Write-In,,1,0,1
+Fayette,Oelwein Ward #4,Secretary of State,,Write-In,,0,0,0
+Fayette,Oran,Secretary of State,,Write-In,,0,0,0
+Fayette,Pleasant Valley,Secretary of State,,Write-In,,2,2,0
+Fayette,Smithfield-Westfield,Secretary of State,,Write-In,,1,0,1
+Fayette,Union,Secretary of State,,Write-In,,0,0,0
+Fayette,West Union Ward #1,Secretary of State,,Write-In,,0,0,0
+Fayette,West Union Ward #2,Secretary of State,,Write-In,,0,0,0
+Fayette,West Union Ward #3,Secretary of State,,Write-In,,0,0,0
+Fayette,Smithfield-Westfield,Smithfield Township Clerk,,Tyler L. Engel,,111,38,73
+Fayette,Smithfield-Westfield,Smithfield Township Clerk,,Write-In,,1,0,1
+Fayette,Smithfield-Westfield,Smithfield Township Trustee,,Jordan Reinking,,107,36,71
+Fayette,Smithfield-Westfield,Smithfield Township Trustee,,William Martin,,87,28,59
+Fayette,Smithfield-Westfield,Smithfield Township Trustee,,Write-In,,3,0,3
+Fayette,Auburn-Eden,Soil and Water Conservation District Commissioner,,Dan McElree,,330,81,249
+Fayette,Banks-Fremont,Soil and Water Conservation District Commissioner,,Dan McElree,,253,47,206
+Fayette,Bethel-Windsor,Soil and Water Conservation District Commissioner,,Dan McElree,,336,82,254
+Fayette,Center-Harlan,Soil and Water Conservation District Commissioner,,Dan McElree,,349,81,268
+Fayette,Clermont,Soil and Water Conservation District Commissioner,,Dan McElree,,258,65,193
+Fayette,Dover,Soil and Water Conservation District Commissioner,,Dan McElree,,208,66,142
+Fayette,Fairfield-Putnamm,Soil and Water Conservation District Commissioner,,Dan McElree,,273,51,222
+Fayette,Illyria,Soil and Water Conservation District Commissioner,,Dan McElree,,170,31,139
+Fayette,Jefferson-Scott,Soil and Water Conservation District Commissioner,,Dan McElree,,267,88,179
+Fayette,Oelwein Ward #1,Soil and Water Conservation District Commissioner,,Dan McElree,,314,91,223
+Fayette,Oelwein Ward #2,Soil and Water Conservation District Commissioner,,Dan McElree,,240,60,180
+Fayette,Oelwein Ward #3,Soil and Water Conservation District Commissioner,,Dan McElree,,229,66,163
+Fayette,Oelwein Ward #4,Soil and Water Conservation District Commissioner,,Dan McElree,,386,120,266
+Fayette,Oran,Soil and Water Conservation District Commissioner,,Dan McElree,,276,48,228
+Fayette,Pleasant Valley,Soil and Water Conservation District Commissioner,,Dan McElree,,293,82,211
+Fayette,Smithfield-Westfield,Soil and Water Conservation District Commissioner,,Dan McElree,,445,108,337
+Fayette,Union,Soil and Water Conservation District Commissioner,,Dan McElree,,170,60,110
+Fayette,West Union Ward #1,Soil and Water Conservation District Commissioner,,Dan McElree,,301,146,155
+Fayette,West Union Ward #2,Soil and Water Conservation District Commissioner,,Dan McElree,,203,97,106
+Fayette,West Union Ward #3,Soil and Water Conservation District Commissioner,,Dan McElree,,264,111,153
+Fayette,Auburn-Eden,Soil and Water Conservation District Commissioner,,Ricky Matt,,286,61,225
+Fayette,Banks-Fremont,Soil and Water Conservation District Commissioner,,Ricky Matt,,238,50,188
+Fayette,Bethel-Windsor,Soil and Water Conservation District Commissioner,,Ricky Matt,,261,69,192
+Fayette,Center-Harlan,Soil and Water Conservation District Commissioner,,Ricky Matt,,321,78,243
+Fayette,Clermont,Soil and Water Conservation District Commissioner,,Ricky Matt,,300,82,218
+Fayette,Dover,Soil and Water Conservation District Commissioner,,Ricky Matt,,162,64,98
+Fayette,Fairfield-Putnamm,Soil and Water Conservation District Commissioner,,Ricky Matt,,261,56,205
+Fayette,Illyria,Soil and Water Conservation District Commissioner,,Ricky Matt,,161,34,127
+Fayette,Jefferson-Scott,Soil and Water Conservation District Commissioner,,Ricky Matt,,241,80,161
+Fayette,Oelwein Ward #1,Soil and Water Conservation District Commissioner,,Ricky Matt,,287,90,197
+Fayette,Oelwein Ward #2,Soil and Water Conservation District Commissioner,,Ricky Matt,,232,65,167
+Fayette,Oelwein Ward #3,Soil and Water Conservation District Commissioner,,Ricky Matt,,216,62,154
+Fayette,Oelwein Ward #4,Soil and Water Conservation District Commissioner,,Ricky Matt,,374,123,251
+Fayette,Oran,Soil and Water Conservation District Commissioner,,Ricky Matt,,254,43,211
+Fayette,Pleasant Valley,Soil and Water Conservation District Commissioner,,Ricky Matt,,289,87,202
+Fayette,Smithfield-Westfield,Soil and Water Conservation District Commissioner,,Ricky Matt,,400,106,294
+Fayette,Union,Soil and Water Conservation District Commissioner,,Ricky Matt,,145,53,92
+Fayette,West Union Ward #1,Soil and Water Conservation District Commissioner,,Ricky Matt,,249,123,126
+Fayette,West Union Ward #2,Soil and Water Conservation District Commissioner,,Ricky Matt,,170,87,83
+Fayette,West Union Ward #3,Soil and Water Conservation District Commissioner,,Ricky Matt,,196,79,117
+Fayette,Auburn-Eden,Soil and Water Conservation District Commissioner,,Write-In,,5,0,5
+Fayette,Banks-Fremont,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Fayette,Bethel-Windsor,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Fayette,Center-Harlan,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Fayette,Clermont,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Fayette,Dover,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Fayette,Fairfield-Putnamm,Soil and Water Conservation District Commissioner,,Write-In,,7,0,7
+Fayette,Illyria,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Fayette,Jefferson-Scott,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Fayette,Oelwein Ward #1,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Fayette,Oelwein Ward #2,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Fayette,Oelwein Ward #3,Soil and Water Conservation District Commissioner,,Write-In,,4,0,4
+Fayette,Oelwein Ward #4,Soil and Water Conservation District Commissioner,,Write-In,,4,0,4
+Fayette,Oran,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Fayette,Pleasant Valley,Soil and Water Conservation District Commissioner,,Write-In,,4,2,2
+Fayette,Smithfield-Westfield,Soil and Water Conservation District Commissioner,,Write-In,,12,5,7
+Fayette,Union,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Fayette,West Union Ward #1,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Fayette,West Union Ward #2,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Fayette,West Union Ward #3,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Fayette,Auburn-Eden,State House,63,Jeff Thurlow,DEM,147,63,84
+Fayette,Clermont,State House,63,Jeff Thurlow,DEM,114,59,55
+Fayette,Dover,State House,63,Jeff Thurlow,DEM,56,33,23
+Fayette,Auburn-Eden,State House,63,Michael R. Bergan,REP,310,60,250
+Fayette,Clermont,State House,63,Michael R. Bergan,REP,267,56,211
+Fayette,Dover,State House,63,Michael R. Bergan,REP,203,58,145
+Fayette,Auburn-Eden,State House,63,Write-In,,1,0,1
+Fayette,Clermont,State House,63,Write-In,,0,0,0
+Fayette,Dover,State House,63,Write-In,,0,0,0
+Fayette,Banks-Fremont,State House,68,Chad Ingels,REP,273,44,229
+Fayette,Bethel-Windsor,State House,68,Chad Ingels,REP,295,67,228
+Fayette,Center-Harlan,State House,68,Chad Ingels,REP,349,85,264
+Fayette,Fairfield-Putnamm,State House,68,Chad Ingels,REP,287,43,244
+Fayette,Illyria,State House,68,Chad Ingels,REP,177,31,146
+Fayette,Jefferson-Scott,State House,68,Chad Ingels,REP,266,71,195
+Fayette,Oelwein Ward #1,State House,68,Chad Ingels,REP,293,55,238
+Fayette,Oelwein Ward #2,State House,68,Chad Ingels,REP,188,36,152
+Fayette,Oelwein Ward #3,State House,68,Chad Ingels,REP,192,36,156
+Fayette,Oelwein Ward #4,State House,68,Chad Ingels,REP,362,90,272
+Fayette,Oran,State House,68,Chad Ingels,REP,263,29,234
+Fayette,Pleasant Valley,State House,68,Chad Ingels,REP,267,53,214
+Fayette,Smithfield-Westfield,State House,68,Chad Ingels,REP,373,92,281
+Fayette,Union,State House,68,Chad Ingels,REP,154,40,114
+Fayette,West Union Ward #1,State House,68,Chad Ingels,REP,222,99,123
+Fayette,West Union Ward #2,State House,68,Chad Ingels,REP,177,74,103
+Fayette,West Union Ward #3,State House,68,Chad Ingels,REP,207,79,128
+Fayette,Banks-Fremont,State House,68,Scott Bodley,DEM,91,28,63
+Fayette,Bethel-Windsor,State House,68,Scott Bodley,DEM,122,41,81
+Fayette,Center-Harlan,State House,68,Scott Bodley,DEM,122,19,103
+Fayette,Fairfield-Putnamm,State House,68,Scott Bodley,DEM,97,30,67
+Fayette,Illyria,State House,68,Scott Bodley,DEM,62,21,41
+Fayette,Jefferson-Scott,State House,68,Scott Bodley,DEM,111,58,53
+Fayette,Oelwein Ward #1,State House,68,Scott Bodley,DEM,204,84,120
+Fayette,Oelwein Ward #2,State House,68,Scott Bodley,DEM,193,68,125
+Fayette,Oelwein Ward #3,State House,68,Scott Bodley,DEM,189,78,111
+Fayette,Oelwein Ward #4,State House,68,Scott Bodley,DEM,245,113,132
+Fayette,Oran,State House,68,Scott Bodley,DEM,126,39,87
+Fayette,Pleasant Valley,State House,68,Scott Bodley,DEM,129,61,68
+Fayette,Smithfield-Westfield,State House,68,Scott Bodley,DEM,227,69,158
+Fayette,Union,State House,68,Scott Bodley,DEM,39,28,11
+Fayette,West Union Ward #1,State House,68,Scott Bodley,DEM,138,86,52
+Fayette,West Union Ward #2,State House,68,Scott Bodley,DEM,83,62,21
+Fayette,West Union Ward #3,State House,68,Scott Bodley,DEM,117,59,58
+Fayette,Banks-Fremont,State House,68,Write-In,,1,0,1
+Fayette,Bethel-Windsor,State House,68,Write-In,,1,0,1
+Fayette,Center-Harlan,State House,68,Write-In,,2,0,2
+Fayette,Fairfield-Putnamm,State House,68,Write-In,,0,0,0
+Fayette,Illyria,State House,68,Write-In,,0,0,0
+Fayette,Jefferson-Scott,State House,68,Write-In,,0,0,0
+Fayette,Oelwein Ward #1,State House,68,Write-In,,0,0,0
+Fayette,Oelwein Ward #2,State House,68,Write-In,,0,0,0
+Fayette,Oelwein Ward #3,State House,68,Write-In,,1,1,0
+Fayette,Oelwein Ward #4,State House,68,Write-In,,1,0,1
+Fayette,Oran,State House,68,Write-In,,0,0,0
+Fayette,Pleasant Valley,State House,68,Write-In,,1,1,0
+Fayette,Smithfield-Westfield,State House,68,Write-In,,0,0,0
+Fayette,Union,State House,68,Write-In,,0,0,0
+Fayette,West Union Ward #1,State House,68,Write-In,,0,0,0
+Fayette,West Union Ward #2,State House,68,Write-In,,0,0,0
+Fayette,West Union Ward #3,State House,68,Write-In,,0,0,0
+Fayette,Banks-Fremont,Sumner-Fredericksburg School - Public Measure BW,,No,,88,18,70
+Fayette,Bethel-Windsor,Sumner-Fredericksburg School - Public Measure BW,,No,,22,7,15
+Fayette,Banks-Fremont,Sumner-Fredericksburg School - Public Measure BW,,Yes,,95,19,76
+Fayette,Bethel-Windsor,Sumner-Fredericksburg School - Public Measure BW,,Yes,,16,7,9
+Fayette,Auburn-Eden,Treasurer of State,,John Norwood,DEM,162,61,101
+Fayette,Banks-Fremont,Treasurer of State,,John Norwood,DEM,110,33,77
+Fayette,Bethel-Windsor,Treasurer of State,,John Norwood,DEM,144,51,93
+Fayette,Center-Harlan,Treasurer of State,,John Norwood,DEM,164,28,136
+Fayette,Clermont,Treasurer of State,,John Norwood,DEM,123,62,61
+Fayette,Dover,Treasurer of State,,John Norwood,DEM,62,37,25
+Fayette,Fairfield-Putnamm,Treasurer of State,,John Norwood,DEM,119,34,85
+Fayette,Illyria,Treasurer of State,,John Norwood,DEM,76,22,54
+Fayette,Jefferson-Scott,Treasurer of State,,John Norwood,DEM,139,66,73
+Fayette,Oelwein Ward #1,Treasurer of State,,John Norwood,DEM,256,102,154
+Fayette,Oelwein Ward #2,Treasurer of State,,John Norwood,DEM,216,73,143
+Fayette,Oelwein Ward #3,Treasurer of State,,John Norwood,DEM,230,89,141
+Fayette,Oelwein Ward #4,Treasurer of State,,John Norwood,DEM,330,137,193
+Fayette,Oran,Treasurer of State,,John Norwood,DEM,156,44,112
+Fayette,Pleasant Valley,Treasurer of State,,John Norwood,DEM,143,62,81
+Fayette,Smithfield-Westfield,Treasurer of State,,John Norwood,DEM,271,76,195
+Fayette,Union,Treasurer of State,,John Norwood,DEM,60,34,26
+Fayette,West Union Ward #1,Treasurer of State,,John Norwood,DEM,160,98,62
+Fayette,West Union Ward #2,Treasurer of State,,John Norwood,DEM,99,73,26
+Fayette,West Union Ward #3,Treasurer of State,,John Norwood,DEM,138,67,71
+Fayette,Auburn-Eden,Treasurer of State,,Roby Smith,REP,286,57,229
+Fayette,Banks-Fremont,Treasurer of State,,Roby Smith,REP,251,39,212
+Fayette,Bethel-Windsor,Treasurer of State,,Roby Smith,REP,263,56,207
+Fayette,Center-Harlan,Treasurer of State,,Roby Smith,REP,295,76,219
+Fayette,Clermont,Treasurer of State,,Roby Smith,REP,248,51,197
+Fayette,Dover,Treasurer of State,,Roby Smith,REP,195,54,141
+Fayette,Fairfield-Putnamm,Treasurer of State,,Roby Smith,REP,259,38,221
+Fayette,Illyria,Treasurer of State,,Roby Smith,REP,159,29,130
+Fayette,Jefferson-Scott,Treasurer of State,,Roby Smith,REP,228,58,170
+Fayette,Oelwein Ward #1,Treasurer of State,,Roby Smith,REP,232,35,197
+Fayette,Oelwein Ward #2,Treasurer of State,,Roby Smith,REP,157,31,126
+Fayette,Oelwein Ward #3,Treasurer of State,,Roby Smith,REP,146,24,122
+Fayette,Oelwein Ward #4,Treasurer of State,,Roby Smith,REP,271,67,204
+Fayette,Oran,Treasurer of State,,Roby Smith,REP,234,26,208
+Fayette,Pleasant Valley,Treasurer of State,,Roby Smith,REP,248,50,198
+Fayette,Smithfield-Westfield,Treasurer of State,,Roby Smith,REP,323,83,240
+Fayette,Union,Treasurer of State,,Roby Smith,REP,133,35,98
+Fayette,West Union Ward #1,Treasurer of State,,Roby Smith,REP,195,84,111
+Fayette,West Union Ward #2,Treasurer of State,,Roby Smith,REP,157,58,99
+Fayette,West Union Ward #3,Treasurer of State,,Roby Smith,REP,179,65,114
+Fayette,Auburn-Eden,Treasurer of State,,Write-In,,0,0,0
+Fayette,Banks-Fremont,Treasurer of State,,Write-In,,0,0,0
+Fayette,Bethel-Windsor,Treasurer of State,,Write-In,,1,0,1
+Fayette,Center-Harlan,Treasurer of State,,Write-In,,1,0,1
+Fayette,Clermont,Treasurer of State,,Write-In,,0,0,0
+Fayette,Dover,Treasurer of State,,Write-In,,0,0,0
+Fayette,Fairfield-Putnamm,Treasurer of State,,Write-In,,0,0,0
+Fayette,Illyria,Treasurer of State,,Write-In,,0,0,0
+Fayette,Jefferson-Scott,Treasurer of State,,Write-In,,0,0,0
+Fayette,Oelwein Ward #1,Treasurer of State,,Write-In,,1,0,1
+Fayette,Oelwein Ward #2,Treasurer of State,,Write-In,,0,0,0
+Fayette,Oelwein Ward #3,Treasurer of State,,Write-In,,2,1,1
+Fayette,Oelwein Ward #4,Treasurer of State,,Write-In,,0,0,0
+Fayette,Oran,Treasurer of State,,Write-In,,0,0,0
+Fayette,Pleasant Valley,Treasurer of State,,Write-In,,0,0,0
+Fayette,Smithfield-Westfield,Treasurer of State,,Write-In,,1,0,1
+Fayette,Union,Treasurer of State,,Write-In,,0,0,0
+Fayette,West Union Ward #1,Treasurer of State,,Write-In,,0,0,0
+Fayette,West Union Ward #2,Treasurer of State,,Write-In,,0,0,0
+Fayette,West Union Ward #3,Treasurer of State,,Write-In,,0,0,0
+Fayette,Auburn-Eden,U.S. House,2,Dave Bushaw,,60,12,48
+Fayette,Banks-Fremont,U.S. House,2,Dave Bushaw,,48,4,44
+Fayette,Bethel-Windsor,U.S. House,2,Dave Bushaw,,113,32,81
+Fayette,Center-Harlan,U.S. House,2,Dave Bushaw,,77,12,65
+Fayette,Clermont,U.S. House,2,Dave Bushaw,,41,3,38
+Fayette,Dover,U.S. House,2,Dave Bushaw,,25,7,18
+Fayette,Fairfield-Putnamm,U.S. House,2,Dave Bushaw,,40,2,38
+Fayette,Illyria,U.S. House,2,Dave Bushaw,,23,5,18
+Fayette,Jefferson-Scott,U.S. House,2,Dave Bushaw,,35,7,28
+Fayette,Oelwein Ward #1,U.S. House,2,Dave Bushaw,,78,13,65
+Fayette,Oelwein Ward #2,U.S. House,2,Dave Bushaw,,77,10,67
+Fayette,Oelwein Ward #3,U.S. House,2,Dave Bushaw,,80,17,63
+Fayette,Oelwein Ward #4,U.S. House,2,Dave Bushaw,,75,14,61
+Fayette,Oran,U.S. House,2,Dave Bushaw,,30,3,27
+Fayette,Pleasant Valley,U.S. House,2,Dave Bushaw,,43,5,38
+Fayette,Smithfield-Westfield,U.S. House,2,Dave Bushaw,,76,19,57
+Fayette,Union,U.S. House,2,Dave Bushaw,,37,9,28
+Fayette,West Union Ward #1,U.S. House,2,Dave Bushaw,,40,12,28
+Fayette,West Union Ward #2,U.S. House,2,Dave Bushaw,,42,17,25
+Fayette,West Union Ward #3,U.S. House,2,Dave Bushaw,,56,18,38
+Fayette,Auburn-Eden,U.S. House,2,Joe Mitchell,REP,253,53,200
+Fayette,Banks-Fremont,U.S. House,2,Joe Mitchell,REP,217,34,183
+Fayette,Bethel-Windsor,U.S. House,2,Joe Mitchell,REP,205,47,158
+Fayette,Center-Harlan,U.S. House,2,Joe Mitchell,REP,247,63,184
+Fayette,Clermont,U.S. House,2,Joe Mitchell,REP,220,52,168
+Fayette,Dover,U.S. House,2,Joe Mitchell,REP,178,51,127
+Fayette,Fairfield-Putnamm,U.S. House,2,Joe Mitchell,REP,218,32,186
+Fayette,Illyria,U.S. House,2,Joe Mitchell,REP,139,27,112
+Fayette,Jefferson-Scott,U.S. House,2,Joe Mitchell,REP,207,52,155
+Fayette,Oelwein Ward #1,U.S. House,2,Joe Mitchell,REP,206,31,175
+Fayette,Oelwein Ward #2,U.S. House,2,Joe Mitchell,REP,123,21,102
+Fayette,Oelwein Ward #3,U.S. House,2,Joe Mitchell,REP,107,18,89
+Fayette,Oelwein Ward #4,U.S. House,2,Joe Mitchell,REP,235,59,176
+Fayette,Oran,U.S. House,2,Joe Mitchell,REP,210,21,189
+Fayette,Pleasant Valley,U.S. House,2,Joe Mitchell,REP,226,48,178
+Fayette,Smithfield-Westfield,U.S. House,2,Joe Mitchell,REP,280,74,206
+Fayette,Union,U.S. House,2,Joe Mitchell,REP,115,29,86
+Fayette,West Union Ward #1,U.S. House,2,Joe Mitchell,REP,169,75,94
+Fayette,West Union Ward #2,U.S. House,2,Joe Mitchell,REP,132,48,84
+Fayette,West Union Ward #3,U.S. House,2,Joe Mitchell,REP,156,60,96
+Fayette,Auburn-Eden,U.S. House,2,Lindsay James,DEM,138,54,84
+Fayette,Banks-Fremont,U.S. House,2,Lindsay James,DEM,99,34,65
+Fayette,Bethel-Windsor,U.S. House,2,Lindsay James,DEM,100,33,67
+Fayette,Center-Harlan,U.S. House,2,Lindsay James,DEM,140,26,114
+Fayette,Clermont,U.S. House,2,Lindsay James,DEM,116,59,57
+Fayette,Dover,U.S. House,2,Lindsay James,DEM,55,36,19
+Fayette,Fairfield-Putnamm,U.S. House,2,Lindsay James,DEM,112,35,77
+Fayette,Illyria,U.S. House,2,Lindsay James,DEM,79,21,58
+Fayette,Jefferson-Scott,U.S. House,2,Lindsay James,DEM,127,66,61
+Fayette,Oelwein Ward #1,U.S. House,2,Lindsay James,DEM,206,94,112
+Fayette,Oelwein Ward #2,U.S. House,2,Lindsay James,DEM,170,68,102
+Fayette,Oelwein Ward #3,U.S. House,2,Lindsay James,DEM,195,80,115
+Fayette,Oelwein Ward #4,U.S. House,2,Lindsay James,DEM,289,132,157
+Fayette,Oran,U.S. House,2,Lindsay James,DEM,144,45,99
+Fayette,Pleasant Valley,U.S. House,2,Lindsay James,DEM,122,56,66
+Fayette,Smithfield-Westfield,U.S. House,2,Lindsay James,DEM,238,69,169
+Fayette,Union,U.S. House,2,Lindsay James,DEM,37,29,8
+Fayette,West Union Ward #1,U.S. House,2,Lindsay James,DEM,148,94,54
+Fayette,West Union Ward #2,U.S. House,2,Lindsay James,DEM,83,65,18
+Fayette,West Union Ward #3,U.S. House,2,Lindsay James,DEM,106,56,50
+Fayette,Auburn-Eden,U.S. House,2,Rick Stewart,LIB,13,4,9
+Fayette,Banks-Fremont,U.S. House,2,Rick Stewart,LIB,9,2,7
+Fayette,Bethel-Windsor,U.S. House,2,Rick Stewart,LIB,13,1,12
+Fayette,Center-Harlan,U.S. House,2,Rick Stewart,LIB,9,2,7
+Fayette,Clermont,U.S. House,2,Rick Stewart,LIB,8,0,8
+Fayette,Dover,U.S. House,2,Rick Stewart,LIB,5,1,4
+Fayette,Fairfield-Putnamm,U.S. House,2,Rick Stewart,LIB,10,2,8
+Fayette,Illyria,U.S. House,2,Rick Stewart,LIB,1,0,1
+Fayette,Jefferson-Scott,U.S. House,2,Rick Stewart,LIB,8,3,5
+Fayette,Oelwein Ward #1,U.S. House,2,Rick Stewart,LIB,9,1,8
+Fayette,Oelwein Ward #2,U.S. House,2,Rick Stewart,LIB,14,3,11
+Fayette,Oelwein Ward #3,U.S. House,2,Rick Stewart,LIB,4,1,3
+Fayette,Oelwein Ward #4,U.S. House,2,Rick Stewart,LIB,18,5,13
+Fayette,Oran,U.S. House,2,Rick Stewart,LIB,8,1,7
+Fayette,Pleasant Valley,U.S. House,2,Rick Stewart,LIB,9,1,8
+Fayette,Smithfield-Westfield,U.S. House,2,Rick Stewart,LIB,9,1,8
+Fayette,Union,U.S. House,2,Rick Stewart,LIB,6,2,4
+Fayette,West Union Ward #1,U.S. House,2,Rick Stewart,LIB,7,2,5
+Fayette,West Union Ward #2,U.S. House,2,Rick Stewart,LIB,8,6,2
+Fayette,West Union Ward #3,U.S. House,2,Rick Stewart,LIB,11,4,7
+Fayette,Auburn-Eden,U.S. House,2,Write-In,,0,0,0
+Fayette,Banks-Fremont,U.S. House,2,Write-In,,0,0,0
+Fayette,Bethel-Windsor,U.S. House,2,Write-In,,0,0,0
+Fayette,Center-Harlan,U.S. House,2,Write-In,,0,0,0
+Fayette,Clermont,U.S. House,2,Write-In,,0,0,0
+Fayette,Dover,U.S. House,2,Write-In,,0,0,0
+Fayette,Fairfield-Putnamm,U.S. House,2,Write-In,,1,0,1
+Fayette,Illyria,U.S. House,2,Write-In,,0,0,0
+Fayette,Jefferson-Scott,U.S. House,2,Write-In,,0,0,0
+Fayette,Oelwein Ward #1,U.S. House,2,Write-In,,0,0,0
+Fayette,Oelwein Ward #2,U.S. House,2,Write-In,,0,0,0
+Fayette,Oelwein Ward #3,U.S. House,2,Write-In,,0,0,0
+Fayette,Oelwein Ward #4,U.S. House,2,Write-In,,0,0,0
+Fayette,Oran,U.S. House,2,Write-In,,0,0,0
+Fayette,Pleasant Valley,U.S. House,2,Write-In,,1,1,0
+Fayette,Smithfield-Westfield,U.S. House,2,Write-In,,0,0,0
+Fayette,Union,U.S. House,2,Write-In,,0,0,0
+Fayette,West Union Ward #1,U.S. House,2,Write-In,,0,0,0
+Fayette,West Union Ward #2,U.S. House,2,Write-In,,0,0,0
+Fayette,West Union Ward #3,U.S. House,2,Write-In,,0,0,0
+Fayette,Auburn-Eden,U.S. Senate,,Ashley Hinson,REP,275,55,220
+Fayette,Banks-Fremont,U.S. Senate,,Ashley Hinson,REP,230,37,193
+Fayette,Bethel-Windsor,U.S. Senate,,Ashley Hinson,REP,261,55,206
+Fayette,Center-Harlan,U.S. Senate,,Ashley Hinson,REP,282,69,213
+Fayette,Clermont,U.S. Senate,,Ashley Hinson,REP,238,49,189
+Fayette,Dover,U.S. Senate,,Ashley Hinson,REP,191,55,136
+Fayette,Fairfield-Putnamm,U.S. Senate,,Ashley Hinson,REP,249,36,213
+Fayette,Illyria,U.S. Senate,,Ashley Hinson,REP,149,27,122
+Fayette,Jefferson-Scott,U.S. Senate,,Ashley Hinson,REP,229,58,171
+Fayette,Oelwein Ward #1,U.S. Senate,,Ashley Hinson,REP,228,37,191
+Fayette,Oelwein Ward #2,U.S. Senate,,Ashley Hinson,REP,144,25,119
+Fayette,Oelwein Ward #3,U.S. Senate,,Ashley Hinson,REP,139,24,115
+Fayette,Oelwein Ward #4,U.S. Senate,,Ashley Hinson,REP,262,67,195
+Fayette,Oran,U.S. Senate,,Ashley Hinson,REP,234,24,210
+Fayette,Pleasant Valley,U.S. Senate,,Ashley Hinson,REP,245,48,197
+Fayette,Smithfield-Westfield,U.S. Senate,,Ashley Hinson,REP,310,79,231
+Fayette,Union,U.S. Senate,,Ashley Hinson,REP,127,29,98
+Fayette,West Union Ward #1,U.S. Senate,,Ashley Hinson,REP,193,84,109
+Fayette,West Union Ward #2,U.S. Senate,,Ashley Hinson,REP,153,53,100
+Fayette,West Union Ward #3,U.S. Senate,,Ashley Hinson,REP,181,70,111
+Fayette,Auburn-Eden,U.S. Senate,,Josh Turek,DEM,175,65,110
+Fayette,Banks-Fremont,U.S. Senate,,Josh Turek,DEM,129,36,93
+Fayette,Bethel-Windsor,U.S. Senate,,Josh Turek,DEM,150,51,99
+Fayette,Center-Harlan,U.S. Senate,,Josh Turek,DEM,170,27,143
+Fayette,Clermont,U.S. Senate,,Josh Turek,DEM,137,64,73
+Fayette,Dover,U.S. Senate,,Josh Turek,DEM,67,40,27
+Fayette,Fairfield-Putnamm,U.S. Senate,,Josh Turek,DEM,130,36,94
+Fayette,Illyria,U.S. Senate,,Josh Turek,DEM,87,24,63
+Fayette,Jefferson-Scott,U.S. Senate,,Josh Turek,DEM,143,70,73
+Fayette,Oelwein Ward #1,U.S. Senate,,Josh Turek,DEM,261,101,160
+Fayette,Oelwein Ward #2,U.S. Senate,,Josh Turek,DEM,213,70,143
+Fayette,Oelwein Ward #3,U.S. Senate,,Josh Turek,DEM,229,86,143
+Fayette,Oelwein Ward #4,U.S. Senate,,Josh Turek,DEM,333,140,193
+Fayette,Oran,U.S. Senate,,Josh Turek,DEM,157,46,111
+Fayette,Pleasant Valley,U.S. Senate,,Josh Turek,DEM,143,60,83
+Fayette,Smithfield-Westfield,U.S. Senate,,Josh Turek,DEM,270,76,194
+Fayette,Union,U.S. Senate,,Josh Turek,DEM,54,33,21
+Fayette,West Union Ward #1,U.S. Senate,,Josh Turek,DEM,171,102,69
+Fayette,West Union Ward #2,U.S. Senate,,Josh Turek,DEM,104,75,29
+Fayette,West Union Ward #3,U.S. Senate,,Josh Turek,DEM,140,67,73
+Fayette,Auburn-Eden,U.S. Senate,,Thomas Laehn,LIB,18,5,13
+Fayette,Banks-Fremont,U.S. Senate,,Thomas Laehn,LIB,20,3,17
+Fayette,Bethel-Windsor,U.S. Senate,,Thomas Laehn,LIB,22,4,18
+Fayette,Center-Harlan,U.S. Senate,,Thomas Laehn,LIB,21,6,15
+Fayette,Clermont,U.S. Senate,,Thomas Laehn,LIB,15,3,12
+Fayette,Dover,U.S. Senate,,Thomas Laehn,LIB,7,1,6
+Fayette,Fairfield-Putnamm,U.S. Senate,,Thomas Laehn,LIB,9,2,7
+Fayette,Illyria,U.S. Senate,,Thomas Laehn,LIB,7,2,5
+Fayette,Jefferson-Scott,U.S. Senate,,Thomas Laehn,LIB,7,0,7
+Fayette,Oelwein Ward #1,U.S. Senate,,Thomas Laehn,LIB,12,1,11
+Fayette,Oelwein Ward #2,U.S. Senate,,Thomas Laehn,LIB,28,6,22
+Fayette,Oelwein Ward #3,U.S. Senate,,Thomas Laehn,LIB,23,6,17
+Fayette,Oelwein Ward #4,U.S. Senate,,Thomas Laehn,LIB,24,7,17
+Fayette,Oran,U.S. Senate,,Thomas Laehn,LIB,8,1,7
+Fayette,Pleasant Valley,U.S. Senate,,Thomas Laehn,LIB,15,2,13
+Fayette,Smithfield-Westfield,U.S. Senate,,Thomas Laehn,LIB,28,9,19
+Fayette,Union,U.S. Senate,,Thomas Laehn,LIB,11,3,8
+Fayette,West Union Ward #1,U.S. Senate,,Thomas Laehn,LIB,8,3,5
+Fayette,West Union Ward #2,U.S. Senate,,Thomas Laehn,LIB,8,8,0
+Fayette,West Union Ward #3,U.S. Senate,,Thomas Laehn,LIB,11,4,7
+Fayette,Auburn-Eden,U.S. Senate,,Write-In,,0,0,0
+Fayette,Banks-Fremont,U.S. Senate,,Write-In,,0,0,0
+Fayette,Bethel-Windsor,U.S. Senate,,Write-In,,2,1,1
+Fayette,Center-Harlan,U.S. Senate,,Write-In,,0,0,0
+Fayette,Clermont,U.S. Senate,,Write-In,,0,0,0
+Fayette,Dover,U.S. Senate,,Write-In,,0,0,0
+Fayette,Fairfield-Putnamm,U.S. Senate,,Write-In,,1,0,1
+Fayette,Illyria,U.S. Senate,,Write-In,,0,0,0
+Fayette,Jefferson-Scott,U.S. Senate,,Write-In,,0,0,0
+Fayette,Oelwein Ward #1,U.S. Senate,,Write-In,,1,0,1
+Fayette,Oelwein Ward #2,U.S. Senate,,Write-In,,0,0,0
+Fayette,Oelwein Ward #3,U.S. Senate,,Write-In,,1,1,0
+Fayette,Oelwein Ward #4,U.S. Senate,,Write-In,,0,0,0
+Fayette,Oran,U.S. Senate,,Write-In,,0,0,0
+Fayette,Pleasant Valley,U.S. Senate,,Write-In,,0,0,0
+Fayette,Smithfield-Westfield,U.S. Senate,,Write-In,,0,0,0
+Fayette,Union,U.S. Senate,,Write-In,,0,0,0
+Fayette,West Union Ward #1,U.S. Senate,,Write-In,,0,0,0
+Fayette,West Union Ward #2,U.S. Senate,,Write-In,,0,0,0
+Fayette,West Union Ward #3,U.S. Senate,,Write-In,,0,0,0
+Fayette,Union,Union Township Clerk,,Jim Grimes,,167,55,112
+Fayette,Union,Union Township Clerk,,Write-In,,2,2,0
+Fayette,Union,Union Township Trustee,,Dan McElree,,166,59,107
+Fayette,Union,Union Township Trustee,,Michael J. Darnall,,162,53,109
+Fayette,Union,Union Township Trustee,,Write-In,,0,0,0
+Fayette,Smithfield-Westfield,Westfield Township Clerk,,Write-In,,9,5,4
+Fayette,Smithfield-Westfield,Westfield Township Trustee,,Jim Mitchell,,103,39,64
+Fayette,Smithfield-Westfield,Westfield Township Trustee,,Write-In,,7,3,4
+Fayette,Bethel-Windsor,Windsor Township Clerk,,Barbara Colvin,,116,34,82
+Fayette,Bethel-Windsor,Windsor Township Clerk,,Write-In,,0,0,0
+Fayette,Bethel-Windsor,Windsor Township Trustee,,Kevin B. Boyer,,101,29,72
+Fayette,Bethel-Windsor,Windsor Township Trustee,,Marvin Duane Shippy,,107,32,75
+Fayette,Bethel-Windsor,Windsor Township Trustee,,Write-In,,0,0,0

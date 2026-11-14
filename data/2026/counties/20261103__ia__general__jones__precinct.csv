@@ -1,0 +1,1148 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Jones,ANN_ANAMOSA NORTH-CASS,Attorney General,,Brenna Bird,REP,476,188,288
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Attorney General,,Brenna Bird,REP,662,276,386
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Attorney General,,Brenna Bird,REP,599,198,401
+Jones,FV_FAIRVIEW,Attorney General,,Brenna Bird,REP,614,287,327
+Jones,GF_GREENFIELD,Attorney General,,Brenna Bird,REP,204,36,168
+Jones,MN1_MONTICELLO 1,Attorney General,,Brenna Bird,REP,167,46,121
+Jones,MN2_MONTICELLO 2,Attorney General,,Brenna Bird,REP,239,68,171
+Jones,MN3_MONTICELLO 3,Attorney General,,Brenna Bird,REP,184,57,127
+Jones,MN4_MONTICELLO 4,Attorney General,,Brenna Bird,REP,181,52,129
+Jones,OX_OXFORD,Attorney General,,Brenna Bird,REP,159,20,139
+Jones,RLWS_RICHLAND-WASHINGTON,Attorney General,,Brenna Bird,REP,355,83,272
+Jones,ROHA_ROME-HALE,Attorney General,,Brenna Bird,REP,316,67,249
+Jones,SGMC_SC GRV-MADISON-CLAY,Attorney General,,Brenna Bird,REP,321,58,263
+Jones,WY_WYOMING,Attorney General,,Brenna Bird,REP,202,39,163
+Jones,ANN_ANAMOSA NORTH-CASS,Attorney General,,Nate Willems,DEM,502,250,252
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Attorney General,,Nate Willems,DEM,658,386,272
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Attorney General,,Nate Willems,DEM,431,223,208
+Jones,FV_FAIRVIEW,Attorney General,,Nate Willems,DEM,493,295,198
+Jones,GF_GREENFIELD,Attorney General,,Nate Willems,DEM,144,51,93
+Jones,MN1_MONTICELLO 1,Attorney General,,Nate Willems,DEM,143,71,72
+Jones,MN2_MONTICELLO 2,Attorney General,,Nate Willems,DEM,205,82,123
+Jones,MN3_MONTICELLO 3,Attorney General,,Nate Willems,DEM,243,94,149
+Jones,MN4_MONTICELLO 4,Attorney General,,Nate Willems,DEM,189,96,93
+Jones,OX_OXFORD,Attorney General,,Nate Willems,DEM,96,27,69
+Jones,RLWS_RICHLAND-WASHINGTON,Attorney General,,Nate Willems,DEM,205,95,110
+Jones,ROHA_ROME-HALE,Attorney General,,Nate Willems,DEM,241,101,140
+Jones,SGMC_SC GRV-MADISON-CLAY,Attorney General,,Nate Willems,DEM,171,50,121
+Jones,WY_WYOMING,Attorney General,,Nate Willems,DEM,116,34,82
+Jones,ANN_ANAMOSA NORTH-CASS,Attorney General,,Write-In,,1,0,1
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Attorney General,,Write-In,,0,0,0
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Attorney General,,Write-In,,2,2,0
+Jones,FV_FAIRVIEW,Attorney General,,Write-In,,1,1,0
+Jones,GF_GREENFIELD,Attorney General,,Write-In,,0,0,0
+Jones,MN1_MONTICELLO 1,Attorney General,,Write-In,,0,0,0
+Jones,MN2_MONTICELLO 2,Attorney General,,Write-In,,0,0,0
+Jones,MN3_MONTICELLO 3,Attorney General,,Write-In,,1,0,1
+Jones,MN4_MONTICELLO 4,Attorney General,,Write-In,,0,0,0
+Jones,OX_OXFORD,Attorney General,,Write-In,,0,0,0
+Jones,RLWS_RICHLAND-WASHINGTON,Attorney General,,Write-In,,0,0,0
+Jones,ROHA_ROME-HALE,Attorney General,,Write-In,,0,0,0
+Jones,SGMC_SC GRV-MADISON-CLAY,Attorney General,,Write-In,,1,1,0
+Jones,WY_WYOMING,Attorney General,,Write-In,,0,0,0
+Jones,ANN_ANAMOSA NORTH-CASS,Auditor of State,,Chris Cournoyer,REP,493,194,299
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Auditor of State,,Chris Cournoyer,REP,682,283,399
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Auditor of State,,Chris Cournoyer,REP,619,193,426
+Jones,FV_FAIRVIEW,Auditor of State,,Chris Cournoyer,REP,639,297,342
+Jones,GF_GREENFIELD,Auditor of State,,Chris Cournoyer,REP,207,39,168
+Jones,MN1_MONTICELLO 1,Auditor of State,,Chris Cournoyer,REP,172,51,121
+Jones,MN2_MONTICELLO 2,Auditor of State,,Chris Cournoyer,REP,239,66,173
+Jones,MN3_MONTICELLO 3,Auditor of State,,Chris Cournoyer,REP,186,53,133
+Jones,MN4_MONTICELLO 4,Auditor of State,,Chris Cournoyer,REP,185,54,131
+Jones,OX_OXFORD,Auditor of State,,Chris Cournoyer,REP,157,21,136
+Jones,RLWS_RICHLAND-WASHINGTON,Auditor of State,,Chris Cournoyer,REP,364,85,279
+Jones,ROHA_ROME-HALE,Auditor of State,,Chris Cournoyer,REP,321,66,255
+Jones,SGMC_SC GRV-MADISON-CLAY,Auditor of State,,Chris Cournoyer,REP,321,61,260
+Jones,WY_WYOMING,Auditor of State,,Chris Cournoyer,REP,204,35,169
+Jones,ANN_ANAMOSA NORTH-CASS,Auditor of State,,Taylor Wettach,DEM,469,240,229
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Auditor of State,,Taylor Wettach,DEM,617,370,247
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Auditor of State,,Taylor Wettach,DEM,404,227,177
+Jones,FV_FAIRVIEW,Auditor of State,,Taylor Wettach,DEM,453,278,175
+Jones,GF_GREENFIELD,Auditor of State,,Taylor Wettach,DEM,136,49,87
+Jones,MN1_MONTICELLO 1,Auditor of State,,Taylor Wettach,DEM,137,65,72
+Jones,MN2_MONTICELLO 2,Auditor of State,,Taylor Wettach,DEM,202,85,117
+Jones,MN3_MONTICELLO 3,Auditor of State,,Taylor Wettach,DEM,229,93,136
+Jones,MN4_MONTICELLO 4,Auditor of State,,Taylor Wettach,DEM,184,93,91
+Jones,OX_OXFORD,Auditor of State,,Taylor Wettach,DEM,99,26,73
+Jones,RLWS_RICHLAND-WASHINGTON,Auditor of State,,Taylor Wettach,DEM,194,93,101
+Jones,ROHA_ROME-HALE,Auditor of State,,Taylor Wettach,DEM,231,102,129
+Jones,SGMC_SC GRV-MADISON-CLAY,Auditor of State,,Taylor Wettach,DEM,163,46,117
+Jones,WY_WYOMING,Auditor of State,,Taylor Wettach,DEM,109,37,72
+Jones,ANN_ANAMOSA NORTH-CASS,Auditor of State,,Write-In,,1,0,1
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Auditor of State,,Write-In,,0,0,0
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Auditor of State,,Write-In,,0,0,0
+Jones,FV_FAIRVIEW,Auditor of State,,Write-In,,1,0,1
+Jones,GF_GREENFIELD,Auditor of State,,Write-In,,0,0,0
+Jones,MN1_MONTICELLO 1,Auditor of State,,Write-In,,1,1,0
+Jones,MN2_MONTICELLO 2,Auditor of State,,Write-In,,0,0,0
+Jones,MN3_MONTICELLO 3,Auditor of State,,Write-In,,1,1,0
+Jones,MN4_MONTICELLO 4,Auditor of State,,Write-In,,0,0,0
+Jones,OX_OXFORD,Auditor of State,,Write-In,,1,0,1
+Jones,RLWS_RICHLAND-WASHINGTON,Auditor of State,,Write-In,,0,0,0
+Jones,ROHA_ROME-HALE,Auditor of State,,Write-In,,0,0,0
+Jones,SGMC_SC GRV-MADISON-CLAY,Auditor of State,,Write-In,,1,0,1
+Jones,WY_WYOMING,Auditor of State,,Write-In,,0,0,0
+Jones,ANN_ANAMOSA NORTH-CASS,Cass Township Clerk,,Jan Miller,,261,126,135
+Jones,ANN_ANAMOSA NORTH-CASS,Cass Township Clerk,,Write-In,,3,1,2
+Jones,ANN_ANAMOSA NORTH-CASS,Cass Township Trustee,,Mike Miller,,255,122,133
+Jones,ANN_ANAMOSA NORTH-CASS,Cass Township Trustee,,Write-In,,4,1,3
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Castle Grove Township Clerk,,Write-In,,19,3,16
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Castle Grove Township Trustee,,Write-In,,25,4,21
+Jones,SGMC_SC GRV-MADISON-CLAY,Clay Township Clerk,,Daryl Hanna,,77,8,69
+Jones,SGMC_SC GRV-MADISON-CLAY,Clay Township Clerk,,Write-In,,0,0,0
+Jones,SGMC_SC GRV-MADISON-CLAY,Clay Township Trustee,,Thomas Orr,,73,8,65
+Jones,SGMC_SC GRV-MADISON-CLAY,Clay Township Trustee,,Write-In,,0,0,0
+Jones,ANN_ANAMOSA NORTH-CASS,Constitutional Amendment 1,,No,,425,220,205
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Constitutional Amendment 1,,No,,516,265,251
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Constitutional Amendment 1,,No,,412,188,224
+Jones,FV_FAIRVIEW,Constitutional Amendment 1,,No,,446,233,213
+Jones,GF_GREENFIELD,Constitutional Amendment 1,,No,,131,34,97
+Jones,MN1_MONTICELLO 1,Constitutional Amendment 1,,No,,132,47,85
+Jones,MN2_MONTICELLO 2,Constitutional Amendment 1,,No,,167,60,107
+Jones,MN3_MONTICELLO 3,Constitutional Amendment 1,,No,,176,60,116
+Jones,MN4_MONTICELLO 4,Constitutional Amendment 1,,No,,166,76,90
+Jones,OX_OXFORD,Constitutional Amendment 1,,No,,105,24,81
+Jones,RLWS_RICHLAND-WASHINGTON,Constitutional Amendment 1,,No,,182,80,102
+Jones,ROHA_ROME-HALE,Constitutional Amendment 1,,No,,224,78,146
+Jones,SGMC_SC GRV-MADISON-CLAY,Constitutional Amendment 1,,No,,195,46,149
+Jones,WY_WYOMING,Constitutional Amendment 1,,No,,126,24,102
+Jones,ANN_ANAMOSA NORTH-CASS,Constitutional Amendment 1,,Yes,,488,191,297
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Constitutional Amendment 1,,Yes,,713,342,371
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Constitutional Amendment 1,,Yes,,551,205,346
+Jones,FV_FAIRVIEW,Constitutional Amendment 1,,Yes,,573,305,268
+Jones,GF_GREENFIELD,Constitutional Amendment 1,,Yes,,197,51,146
+Jones,MN1_MONTICELLO 1,Constitutional Amendment 1,,Yes,,160,62,98
+Jones,MN2_MONTICELLO 2,Constitutional Amendment 1,,Yes,,245,80,165
+Jones,MN3_MONTICELLO 3,Constitutional Amendment 1,,Yes,,218,77,141
+Jones,MN4_MONTICELLO 4,Constitutional Amendment 1,,Yes,,184,65,119
+Jones,OX_OXFORD,Constitutional Amendment 1,,Yes,,131,17,114
+Jones,RLWS_RICHLAND-WASHINGTON,Constitutional Amendment 1,,Yes,,305,82,223
+Jones,ROHA_ROME-HALE,Constitutional Amendment 1,,Yes,,297,79,218
+Jones,SGMC_SC GRV-MADISON-CLAY,Constitutional Amendment 1,,Yes,,255,50,205
+Jones,WY_WYOMING,Constitutional Amendment 1,,Yes,,164,39,125
+Jones,ANN_ANAMOSA NORTH-CASS,County Agricultural Extension Council Member,,Jami Schlarmann,,400,178,222
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Agricultural Extension Council Member,,Jami Schlarmann,,530,261,269
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Agricultural Extension Council Member,,Jami Schlarmann,,658,263,395
+Jones,FV_FAIRVIEW,County Agricultural Extension Council Member,,Jami Schlarmann,,406,197,209
+Jones,GF_GREENFIELD,County Agricultural Extension Council Member,,Jami Schlarmann,,130,32,98
+Jones,MN1_MONTICELLO 1,County Agricultural Extension Council Member,,Jami Schlarmann,,205,69,136
+Jones,MN2_MONTICELLO 2,County Agricultural Extension Council Member,,Jami Schlarmann,,288,95,193
+Jones,MN3_MONTICELLO 3,County Agricultural Extension Council Member,,Jami Schlarmann,,269,94,175
+Jones,MN4_MONTICELLO 4,County Agricultural Extension Council Member,,Jami Schlarmann,,239,89,150
+Jones,OX_OXFORD,County Agricultural Extension Council Member,,Jami Schlarmann,,89,18,71
+Jones,RLWS_RICHLAND-WASHINGTON,County Agricultural Extension Council Member,,Jami Schlarmann,,286,85,201
+Jones,ROHA_ROME-HALE,County Agricultural Extension Council Member,,Jami Schlarmann,,225,52,173
+Jones,SGMC_SC GRV-MADISON-CLAY,County Agricultural Extension Council Member,,Jami Schlarmann,,265,60,205
+Jones,WY_WYOMING,County Agricultural Extension Council Member,,Jami Schlarmann,,147,28,119
+Jones,ANN_ANAMOSA NORTH-CASS,County Agricultural Extension Council Member,,Jessica Sparks,,346,149,197
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Agricultural Extension Council Member,,Jessica Sparks,,442,209,233
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Agricultural Extension Council Member,,Jessica Sparks,,429,165,264
+Jones,FV_FAIRVIEW,County Agricultural Extension Council Member,,Jessica Sparks,,405,222,183
+Jones,GF_GREENFIELD,County Agricultural Extension Council Member,,Jessica Sparks,,140,31,109
+Jones,MN1_MONTICELLO 1,County Agricultural Extension Council Member,,Jessica Sparks,,105,39,66
+Jones,MN2_MONTICELLO 2,County Agricultural Extension Council Member,,Jessica Sparks,,170,58,112
+Jones,MN3_MONTICELLO 3,County Agricultural Extension Council Member,,Jessica Sparks,,193,66,127
+Jones,MN4_MONTICELLO 4,County Agricultural Extension Council Member,,Jessica Sparks,,161,58,103
+Jones,OX_OXFORD,County Agricultural Extension Council Member,,Jessica Sparks,,86,17,69
+Jones,RLWS_RICHLAND-WASHINGTON,County Agricultural Extension Council Member,,Jessica Sparks,,185,60,125
+Jones,ROHA_ROME-HALE,County Agricultural Extension Council Member,,Jessica Sparks,,198,64,134
+Jones,SGMC_SC GRV-MADISON-CLAY,County Agricultural Extension Council Member,,Jessica Sparks,,194,48,146
+Jones,WY_WYOMING,County Agricultural Extension Council Member,,Jessica Sparks,,114,24,90
+Jones,ANN_ANAMOSA NORTH-CASS,County Agricultural Extension Council Member,,John Carlson,,375,159,216
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Agricultural Extension Council Member,,John Carlson,,566,283,283
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Agricultural Extension Council Member,,John Carlson,,412,157,255
+Jones,FV_FAIRVIEW,County Agricultural Extension Council Member,,John Carlson,,418,202,216
+Jones,GF_GREENFIELD,County Agricultural Extension Council Member,,John Carlson,,151,33,118
+Jones,MN1_MONTICELLO 1,County Agricultural Extension Council Member,,John Carlson,,124,38,86
+Jones,MN2_MONTICELLO 2,County Agricultural Extension Council Member,,John Carlson,,186,58,128
+Jones,MN3_MONTICELLO 3,County Agricultural Extension Council Member,,John Carlson,,180,57,123
+Jones,MN4_MONTICELLO 4,County Agricultural Extension Council Member,,John Carlson,,161,57,104
+Jones,OX_OXFORD,County Agricultural Extension Council Member,,John Carlson,,151,23,128
+Jones,RLWS_RICHLAND-WASHINGTON,County Agricultural Extension Council Member,,John Carlson,,189,53,136
+Jones,ROHA_ROME-HALE,County Agricultural Extension Council Member,,John Carlson,,319,86,233
+Jones,SGMC_SC GRV-MADISON-CLAY,County Agricultural Extension Council Member,,John Carlson,,275,57,218
+Jones,WY_WYOMING,County Agricultural Extension Council Member,,John Carlson,,190,31,159
+Jones,ANN_ANAMOSA NORTH-CASS,County Agricultural Extension Council Member,,Meranda Buck,,364,152,212
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Agricultural Extension Council Member,,Meranda Buck,,473,219,254
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Agricultural Extension Council Member,,Meranda Buck,,248,108,140
+Jones,FV_FAIRVIEW,County Agricultural Extension Council Member,,Meranda Buck,,407,204,203
+Jones,GF_GREENFIELD,County Agricultural Extension Council Member,,Meranda Buck,,132,27,105
+Jones,MN1_MONTICELLO 1,County Agricultural Extension Council Member,,Meranda Buck,,73,25,48
+Jones,MN2_MONTICELLO 2,County Agricultural Extension Council Member,,Meranda Buck,,104,48,56
+Jones,MN3_MONTICELLO 3,County Agricultural Extension Council Member,,Meranda Buck,,126,42,84
+Jones,MN4_MONTICELLO 4,County Agricultural Extension Council Member,,Meranda Buck,,118,49,69
+Jones,OX_OXFORD,County Agricultural Extension Council Member,,Meranda Buck,,68,9,59
+Jones,RLWS_RICHLAND-WASHINGTON,County Agricultural Extension Council Member,,Meranda Buck,,138,43,95
+Jones,ROHA_ROME-HALE,County Agricultural Extension Council Member,,Meranda Buck,,192,53,139
+Jones,SGMC_SC GRV-MADISON-CLAY,County Agricultural Extension Council Member,,Meranda Buck,,142,32,110
+Jones,WY_WYOMING,County Agricultural Extension Council Member,,Meranda Buck,,76,26,50
+Jones,ANN_ANAMOSA NORTH-CASS,County Agricultural Extension Council Member,,Rachel Zumbach Manternach,,465,196,269
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Agricultural Extension Council Member,,Rachel Zumbach Manternach,,680,322,358
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Agricultural Extension Council Member,,Rachel Zumbach Manternach,,600,243,357
+Jones,FV_FAIRVIEW,County Agricultural Extension Council Member,,Rachel Zumbach Manternach,,527,264,263
+Jones,GF_GREENFIELD,County Agricultural Extension Council Member,,Rachel Zumbach Manternach,,176,41,135
+Jones,MN1_MONTICELLO 1,County Agricultural Extension Council Member,,Rachel Zumbach Manternach,,186,70,116
+Jones,MN2_MONTICELLO 2,County Agricultural Extension Council Member,,Rachel Zumbach Manternach,,262,83,179
+Jones,MN3_MONTICELLO 3,County Agricultural Extension Council Member,,Rachel Zumbach Manternach,,246,80,166
+Jones,MN4_MONTICELLO 4,County Agricultural Extension Council Member,,Rachel Zumbach Manternach,,214,85,129
+Jones,OX_OXFORD,County Agricultural Extension Council Member,,Rachel Zumbach Manternach,,115,18,97
+Jones,RLWS_RICHLAND-WASHINGTON,County Agricultural Extension Council Member,,Rachel Zumbach Manternach,,288,87,201
+Jones,ROHA_ROME-HALE,County Agricultural Extension Council Member,,Rachel Zumbach Manternach,,285,76,209
+Jones,SGMC_SC GRV-MADISON-CLAY,County Agricultural Extension Council Member,,Rachel Zumbach Manternach,,261,62,199
+Jones,WY_WYOMING,County Agricultural Extension Council Member,,Rachel Zumbach Manternach,,139,35,104
+Jones,ANN_ANAMOSA NORTH-CASS,County Agricultural Extension Council Member,,Sarah Fishwild,,374,170,204
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Agricultural Extension Council Member,,Sarah Fishwild,,537,260,277
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Agricultural Extension Council Member,,Sarah Fishwild,,477,198,279
+Jones,FV_FAIRVIEW,County Agricultural Extension Council Member,,Sarah Fishwild,,421,229,192
+Jones,GF_GREENFIELD,County Agricultural Extension Council Member,,Sarah Fishwild,,145,37,108
+Jones,MN1_MONTICELLO 1,County Agricultural Extension Council Member,,Sarah Fishwild,,121,44,77
+Jones,MN2_MONTICELLO 2,County Agricultural Extension Council Member,,Sarah Fishwild,,195,69,126
+Jones,MN3_MONTICELLO 3,County Agricultural Extension Council Member,,Sarah Fishwild,,210,72,138
+Jones,MN4_MONTICELLO 4,County Agricultural Extension Council Member,,Sarah Fishwild,,162,70,92
+Jones,OX_OXFORD,County Agricultural Extension Council Member,,Sarah Fishwild,,159,25,134
+Jones,RLWS_RICHLAND-WASHINGTON,County Agricultural Extension Council Member,,Sarah Fishwild,,216,75,141
+Jones,ROHA_ROME-HALE,County Agricultural Extension Council Member,,Sarah Fishwild,,276,72,204
+Jones,SGMC_SC GRV-MADISON-CLAY,County Agricultural Extension Council Member,,Sarah Fishwild,,281,54,227
+Jones,WY_WYOMING,County Agricultural Extension Council Member,,Sarah Fishwild,,224,54,170
+Jones,ANN_ANAMOSA NORTH-CASS,County Agricultural Extension Council Member,,Shirlee Brunscheen,,354,168,186
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Agricultural Extension Council Member,,Shirlee Brunscheen,,494,259,235
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Agricultural Extension Council Member,,Shirlee Brunscheen,,490,216,274
+Jones,FV_FAIRVIEW,County Agricultural Extension Council Member,,Shirlee Brunscheen,,355,206,149
+Jones,GF_GREENFIELD,County Agricultural Extension Council Member,,Shirlee Brunscheen,,142,36,106
+Jones,MN1_MONTICELLO 1,County Agricultural Extension Council Member,,Shirlee Brunscheen,,115,48,67
+Jones,MN2_MONTICELLO 2,County Agricultural Extension Council Member,,Shirlee Brunscheen,,178,65,113
+Jones,MN3_MONTICELLO 3,County Agricultural Extension Council Member,,Shirlee Brunscheen,,191,69,122
+Jones,MN4_MONTICELLO 4,County Agricultural Extension Council Member,,Shirlee Brunscheen,,172,71,101
+Jones,OX_OXFORD,County Agricultural Extension Council Member,,Shirlee Brunscheen,,143,27,116
+Jones,RLWS_RICHLAND-WASHINGTON,County Agricultural Extension Council Member,,Shirlee Brunscheen,,168,66,102
+Jones,ROHA_ROME-HALE,County Agricultural Extension Council Member,,Shirlee Brunscheen,,261,79,182
+Jones,SGMC_SC GRV-MADISON-CLAY,County Agricultural Extension Council Member,,Shirlee Brunscheen,,269,52,217
+Jones,WY_WYOMING,County Agricultural Extension Council Member,,Shirlee Brunscheen,,212,45,167
+Jones,ANN_ANAMOSA NORTH-CASS,County Agricultural Extension Council Member,,Write-In,,12,5,7
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Agricultural Extension Council Member,,Write-In,,19,3,16
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Jones,FV_FAIRVIEW,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Jones,GF_GREENFIELD,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Jones,MN1_MONTICELLO 1,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Jones,MN2_MONTICELLO 2,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Jones,MN3_MONTICELLO 3,County Agricultural Extension Council Member,,Write-In,,18,10,8
+Jones,MN4_MONTICELLO 4,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Jones,OX_OXFORD,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Jones,RLWS_RICHLAND-WASHINGTON,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Jones,ROHA_ROME-HALE,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Jones,SGMC_SC GRV-MADISON-CLAY,County Agricultural Extension Council Member,,Write-In,,4,0,4
+Jones,WY_WYOMING,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Jones,ANN_ANAMOSA NORTH-CASS,County Attorney,,Kristofer J. Lyons,,731,319,412
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Attorney,,Kristofer J. Lyons,,1030,503,527
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Attorney,,Kristofer J. Lyons,,873,340,533
+Jones,FV_FAIRVIEW,County Attorney,,Kristofer J. Lyons,,830,420,410
+Jones,GF_GREENFIELD,County Attorney,,Kristofer J. Lyons,,263,69,194
+Jones,MN1_MONTICELLO 1,County Attorney,,Kristofer J. Lyons,,252,87,165
+Jones,MN2_MONTICELLO 2,County Attorney,,Kristofer J. Lyons,,384,130,254
+Jones,MN3_MONTICELLO 3,County Attorney,,Kristofer J. Lyons,,355,120,235
+Jones,MN4_MONTICELLO 4,County Attorney,,Kristofer J. Lyons,,325,127,198
+Jones,OX_OXFORD,County Attorney,,Kristofer J. Lyons,,206,32,174
+Jones,RLWS_RICHLAND-WASHINGTON,County Attorney,,Kristofer J. Lyons,,417,121,296
+Jones,ROHA_ROME-HALE,County Attorney,,Kristofer J. Lyons,,448,121,327
+Jones,SGMC_SC GRV-MADISON-CLAY,County Attorney,,Kristofer J. Lyons,,404,89,315
+Jones,WY_WYOMING,County Attorney,,Kristofer J. Lyons,,267,55,212
+Jones,ANN_ANAMOSA NORTH-CASS,County Attorney,,Write-In,,18,5,13
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Attorney,,Write-In,,28,10,18
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Attorney,,Write-In,,10,4,6
+Jones,FV_FAIRVIEW,County Attorney,,Write-In,,10,3,7
+Jones,GF_GREENFIELD,County Attorney,,Write-In,,2,0,2
+Jones,MN1_MONTICELLO 1,County Attorney,,Write-In,,2,1,1
+Jones,MN2_MONTICELLO 2,County Attorney,,Write-In,,3,2,1
+Jones,MN3_MONTICELLO 3,County Attorney,,Write-In,,8,2,6
+Jones,MN4_MONTICELLO 4,County Attorney,,Write-In,,1,1,0
+Jones,OX_OXFORD,County Attorney,,Write-In,,4,2,2
+Jones,RLWS_RICHLAND-WASHINGTON,County Attorney,,Write-In,,3,1,2
+Jones,ROHA_ROME-HALE,County Attorney,,Write-In,,11,4,7
+Jones,SGMC_SC GRV-MADISON-CLAY,County Attorney,,Write-In,,3,0,3
+Jones,WY_WYOMING,County Attorney,,Write-In,,0,0,0
+Jones,ANN_ANAMOSA NORTH-CASS,County Recorder,,Sheri L. Jones,REP,804,343,461
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Recorder,,Sheri L. Jones,REP,1113,526,587
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Recorder,,Sheri L. Jones,REP,916,359,557
+Jones,FV_FAIRVIEW,County Recorder,,Sheri L. Jones,REP,928,462,466
+Jones,GF_GREENFIELD,County Recorder,,Sheri L. Jones,REP,290,71,219
+Jones,MN1_MONTICELLO 1,County Recorder,,Sheri L. Jones,REP,261,87,174
+Jones,MN2_MONTICELLO 2,County Recorder,,Sheri L. Jones,REP,380,126,254
+Jones,MN3_MONTICELLO 3,County Recorder,,Sheri L. Jones,REP,348,112,236
+Jones,MN4_MONTICELLO 4,County Recorder,,Sheri L. Jones,REP,323,122,201
+Jones,OX_OXFORD,County Recorder,,Sheri L. Jones,REP,225,34,191
+Jones,RLWS_RICHLAND-WASHINGTON,County Recorder,,Sheri L. Jones,REP,460,131,329
+Jones,ROHA_ROME-HALE,County Recorder,,Sheri L. Jones,REP,487,130,357
+Jones,SGMC_SC GRV-MADISON-CLAY,County Recorder,,Sheri L. Jones,REP,448,89,359
+Jones,WY_WYOMING,County Recorder,,Sheri L. Jones,REP,289,58,231
+Jones,ANN_ANAMOSA NORTH-CASS,County Recorder,,Write-In,,17,7,10
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Recorder,,Write-In,,20,11,9
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Recorder,,Write-In,,4,1,3
+Jones,FV_FAIRVIEW,County Recorder,,Write-In,,11,4,7
+Jones,GF_GREENFIELD,County Recorder,,Write-In,,4,0,4
+Jones,MN1_MONTICELLO 1,County Recorder,,Write-In,,3,1,2
+Jones,MN2_MONTICELLO 2,County Recorder,,Write-In,,6,2,4
+Jones,MN3_MONTICELLO 3,County Recorder,,Write-In,,8,3,5
+Jones,MN4_MONTICELLO 4,County Recorder,,Write-In,,3,1,2
+Jones,OX_OXFORD,County Recorder,,Write-In,,1,1,0
+Jones,RLWS_RICHLAND-WASHINGTON,County Recorder,,Write-In,,6,5,1
+Jones,ROHA_ROME-HALE,County Recorder,,Write-In,,3,2,1
+Jones,SGMC_SC GRV-MADISON-CLAY,County Recorder,,Write-In,,3,0,3
+Jones,WY_WYOMING,County Recorder,,Write-In,,1,0,1
+Jones,ANN_ANAMOSA NORTH-CASS,County Supervisor,3,Jon C. Zirkelbach,REP,714,286,428
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Supervisor,3,Jon C. Zirkelbach,REP,988,464,524
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Supervisor,3,Jon C. Zirkelbach,REP,802,299,503
+Jones,FV_FAIRVIEW,County Supervisor,3,Jon C. Zirkelbach,REP,858,420,438
+Jones,GF_GREENFIELD,County Supervisor,3,Jon C. Zirkelbach,REP,278,62,216
+Jones,MN1_MONTICELLO 1,County Supervisor,3,Jon C. Zirkelbach,REP,235,72,163
+Jones,MN2_MONTICELLO 2,County Supervisor,3,Jon C. Zirkelbach,REP,357,107,250
+Jones,MN3_MONTICELLO 3,County Supervisor,3,Jon C. Zirkelbach,REP,321,109,212
+Jones,MN4_MONTICELLO 4,County Supervisor,3,Jon C. Zirkelbach,REP,294,103,191
+Jones,OX_OXFORD,County Supervisor,3,Jon C. Zirkelbach,REP,202,32,170
+Jones,RLWS_RICHLAND-WASHINGTON,County Supervisor,3,Jon C. Zirkelbach,REP,448,120,328
+Jones,ROHA_ROME-HALE,County Supervisor,3,Jon C. Zirkelbach,REP,443,108,335
+Jones,SGMC_SC GRV-MADISON-CLAY,County Supervisor,3,Jon C. Zirkelbach,REP,381,72,309
+Jones,WY_WYOMING,County Supervisor,3,Jon C. Zirkelbach,REP,260,58,202
+Jones,ANN_ANAMOSA NORTH-CASS,County Supervisor,3,Write-In,,33,17,16
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Supervisor,3,Write-In,,42,15,27
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Supervisor,3,Write-In,,37,18,19
+Jones,FV_FAIRVIEW,County Supervisor,3,Write-In,,20,9,11
+Jones,GF_GREENFIELD,County Supervisor,3,Write-In,,7,0,7
+Jones,MN1_MONTICELLO 1,County Supervisor,3,Write-In,,8,3,5
+Jones,MN2_MONTICELLO 2,County Supervisor,3,Write-In,,9,6,3
+Jones,MN3_MONTICELLO 3,County Supervisor,3,Write-In,,17,3,14
+Jones,MN4_MONTICELLO 4,County Supervisor,3,Write-In,,8,4,4
+Jones,OX_OXFORD,County Supervisor,3,Write-In,,12,2,10
+Jones,RLWS_RICHLAND-WASHINGTON,County Supervisor,3,Write-In,,11,5,6
+Jones,ROHA_ROME-HALE,County Supervisor,3,Write-In,,15,7,8
+Jones,SGMC_SC GRV-MADISON-CLAY,County Supervisor,3,Write-In,,30,7,23
+Jones,WY_WYOMING,County Supervisor,3,Write-In,,13,1,12
+Jones,ANN_ANAMOSA NORTH-CASS,County Supervisor,4,Bob Gertsen,DEM,443,226,217
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Supervisor,4,Bob Gertsen,DEM,577,347,230
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Supervisor,4,Bob Gertsen,DEM,366,205,161
+Jones,FV_FAIRVIEW,County Supervisor,4,Bob Gertsen,DEM,426,268,158
+Jones,GF_GREENFIELD,County Supervisor,4,Bob Gertsen,DEM,132,45,87
+Jones,MN1_MONTICELLO 1,County Supervisor,4,Bob Gertsen,DEM,140,72,68
+Jones,MN2_MONTICELLO 2,County Supervisor,4,Bob Gertsen,DEM,201,92,109
+Jones,MN3_MONTICELLO 3,County Supervisor,4,Bob Gertsen,DEM,223,88,135
+Jones,MN4_MONTICELLO 4,County Supervisor,4,Bob Gertsen,DEM,193,98,95
+Jones,OX_OXFORD,County Supervisor,4,Bob Gertsen,DEM,126,30,96
+Jones,RLWS_RICHLAND-WASHINGTON,County Supervisor,4,Bob Gertsen,DEM,178,84,94
+Jones,ROHA_ROME-HALE,County Supervisor,4,Bob Gertsen,DEM,227,95,132
+Jones,SGMC_SC GRV-MADISON-CLAY,County Supervisor,4,Bob Gertsen,DEM,162,49,113
+Jones,WY_WYOMING,County Supervisor,4,Bob Gertsen,DEM,120,39,81
+Jones,ANN_ANAMOSA NORTH-CASS,County Supervisor,4,Darrick Hall,REP,521,209,312
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Supervisor,4,Darrick Hall,REP,706,289,417
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Supervisor,4,Darrick Hall,REP,658,212,446
+Jones,FV_FAIRVIEW,County Supervisor,4,Darrick Hall,REP,654,298,356
+Jones,GF_GREENFIELD,County Supervisor,4,Darrick Hall,REP,208,42,166
+Jones,MN1_MONTICELLO 1,County Supervisor,4,Darrick Hall,REP,165,45,120
+Jones,MN2_MONTICELLO 2,County Supervisor,4,Darrick Hall,REP,233,58,175
+Jones,MN3_MONTICELLO 3,County Supervisor,4,Darrick Hall,REP,191,58,133
+Jones,MN4_MONTICELLO 4,County Supervisor,4,Darrick Hall,REP,177,50,127
+Jones,OX_OXFORD,County Supervisor,4,Darrick Hall,REP,131,17,114
+Jones,RLWS_RICHLAND-WASHINGTON,County Supervisor,4,Darrick Hall,REP,365,89,276
+Jones,ROHA_ROME-HALE,County Supervisor,4,Darrick Hall,REP,320,69,251
+Jones,SGMC_SC GRV-MADISON-CLAY,County Supervisor,4,Darrick Hall,REP,319,55,264
+Jones,WY_WYOMING,County Supervisor,4,Darrick Hall,REP,196,33,163
+Jones,ANN_ANAMOSA NORTH-CASS,County Supervisor,4,Write-In,,1,0,1
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Supervisor,4,Write-In,,0,0,0
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Supervisor,4,Write-In,,1,0,1
+Jones,FV_FAIRVIEW,County Supervisor,4,Write-In,,2,0,2
+Jones,GF_GREENFIELD,County Supervisor,4,Write-In,,0,0,0
+Jones,MN1_MONTICELLO 1,County Supervisor,4,Write-In,,0,0,0
+Jones,MN2_MONTICELLO 2,County Supervisor,4,Write-In,,1,0,1
+Jones,MN3_MONTICELLO 3,County Supervisor,4,Write-In,,1,0,1
+Jones,MN4_MONTICELLO 4,County Supervisor,4,Write-In,,0,0,0
+Jones,OX_OXFORD,County Supervisor,4,Write-In,,0,0,0
+Jones,RLWS_RICHLAND-WASHINGTON,County Supervisor,4,Write-In,,0,0,0
+Jones,ROHA_ROME-HALE,County Supervisor,4,Write-In,,1,1,0
+Jones,SGMC_SC GRV-MADISON-CLAY,County Supervisor,4,Write-In,,2,0,2
+Jones,WY_WYOMING,County Supervisor,4,Write-In,,0,0,0
+Jones,ANN_ANAMOSA NORTH-CASS,County Treasurer,,Amy L. Picray,REP,669,284,385
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Treasurer,,Amy L. Picray,REP,929,444,485
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Treasurer,,Amy L. Picray,REP,778,318,460
+Jones,FV_FAIRVIEW,County Treasurer,,Amy L. Picray,REP,782,389,393
+Jones,GF_GREENFIELD,County Treasurer,,Amy L. Picray,REP,255,61,194
+Jones,MN1_MONTICELLO 1,County Treasurer,,Amy L. Picray,REP,229,71,158
+Jones,MN2_MONTICELLO 2,County Treasurer,,Amy L. Picray,REP,318,103,215
+Jones,MN3_MONTICELLO 3,County Treasurer,,Amy L. Picray,REP,290,98,192
+Jones,MN4_MONTICELLO 4,County Treasurer,,Amy L. Picray,REP,274,109,165
+Jones,OX_OXFORD,County Treasurer,,Amy L. Picray,REP,195,32,163
+Jones,RLWS_RICHLAND-WASHINGTON,County Treasurer,,Amy L. Picray,REP,424,120,304
+Jones,ROHA_ROME-HALE,County Treasurer,,Amy L. Picray,REP,414,116,298
+Jones,SGMC_SC GRV-MADISON-CLAY,County Treasurer,,Amy L. Picray,REP,379,78,301
+Jones,WY_WYOMING,County Treasurer,,Amy L. Picray,REP,249,53,196
+Jones,ANN_ANAMOSA NORTH-CASS,County Treasurer,,Brian Wolken,,255,137,118
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Treasurer,,Brian Wolken,,332,170,162
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Treasurer,,Brian Wolken,,248,96,152
+Jones,FV_FAIRVIEW,County Treasurer,,Brian Wolken,,261,148,113
+Jones,GF_GREENFIELD,County Treasurer,,Brian Wolken,,72,18,54
+Jones,MN1_MONTICELLO 1,County Treasurer,,Brian Wolken,,76,40,36
+Jones,MN2_MONTICELLO 2,County Treasurer,,Brian Wolken,,123,44,79
+Jones,MN3_MONTICELLO 3,County Treasurer,,Brian Wolken,,128,47,81
+Jones,MN4_MONTICELLO 4,County Treasurer,,Brian Wolken,,94,34,60
+Jones,OX_OXFORD,County Treasurer,,Brian Wolken,,57,12,45
+Jones,RLWS_RICHLAND-WASHINGTON,County Treasurer,,Brian Wolken,,103,43,60
+Jones,ROHA_ROME-HALE,County Treasurer,,Brian Wolken,,119,39,80
+Jones,SGMC_SC GRV-MADISON-CLAY,County Treasurer,,Brian Wolken,,109,27,82
+Jones,WY_WYOMING,County Treasurer,,Brian Wolken,,66,16,50
+Jones,ANN_ANAMOSA NORTH-CASS,County Treasurer,,Write-In,,6,1,5
+Jones,ANS_ANAMOSA SOUTH-JACKSON,County Treasurer,,Write-In,,4,1,3
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,County Treasurer,,Write-In,,3,0,3
+Jones,FV_FAIRVIEW,County Treasurer,,Write-In,,1,0,1
+Jones,GF_GREENFIELD,County Treasurer,,Write-In,,1,1,0
+Jones,MN1_MONTICELLO 1,County Treasurer,,Write-In,,0,0,0
+Jones,MN2_MONTICELLO 2,County Treasurer,,Write-In,,0,0,0
+Jones,MN3_MONTICELLO 3,County Treasurer,,Write-In,,0,0,0
+Jones,MN4_MONTICELLO 4,County Treasurer,,Write-In,,0,0,0
+Jones,OX_OXFORD,County Treasurer,,Write-In,,0,0,0
+Jones,RLWS_RICHLAND-WASHINGTON,County Treasurer,,Write-In,,1,1,0
+Jones,ROHA_ROME-HALE,County Treasurer,,Write-In,,1,1,0
+Jones,SGMC_SC GRV-MADISON-CLAY,County Treasurer,,Write-In,,2,1,1
+Jones,WY_WYOMING,County Treasurer,,Write-In,,0,0,0
+Jones,ANN_ANAMOSA NORTH-CASS,Court of Appeals Judge - John M. Sandy,,No,,256,120,136
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Court of Appeals Judge - John M. Sandy,,No,,331,170,161
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Court of Appeals Judge - John M. Sandy,,No,,219,77,142
+Jones,FV_FAIRVIEW,Court of Appeals Judge - John M. Sandy,,No,,240,130,110
+Jones,GF_GREENFIELD,Court of Appeals Judge - John M. Sandy,,No,,94,22,72
+Jones,MN1_MONTICELLO 1,Court of Appeals Judge - John M. Sandy,,No,,78,35,43
+Jones,MN2_MONTICELLO 2,Court of Appeals Judge - John M. Sandy,,No,,96,30,66
+Jones,MN3_MONTICELLO 3,Court of Appeals Judge - John M. Sandy,,No,,114,43,71
+Jones,MN4_MONTICELLO 4,Court of Appeals Judge - John M. Sandy,,No,,85,35,50
+Jones,OX_OXFORD,Court of Appeals Judge - John M. Sandy,,No,,66,13,53
+Jones,RLWS_RICHLAND-WASHINGTON,Court of Appeals Judge - John M. Sandy,,No,,91,30,61
+Jones,ROHA_ROME-HALE,Court of Appeals Judge - John M. Sandy,,No,,130,38,92
+Jones,SGMC_SC GRV-MADISON-CLAY,Court of Appeals Judge - John M. Sandy,,No,,121,24,97
+Jones,WY_WYOMING,Court of Appeals Judge - John M. Sandy,,No,,59,16,43
+Jones,ANN_ANAMOSA NORTH-CASS,Court of Appeals Judge - John M. Sandy,,Yes,,511,225,286
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Court of Appeals Judge - John M. Sandy,,Yes,,710,326,384
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Court of Appeals Judge - John M. Sandy,,Yes,,591,248,343
+Jones,FV_FAIRVIEW,Court of Appeals Judge - John M. Sandy,,Yes,,610,322,288
+Jones,GF_GREENFIELD,Court of Appeals Judge - John M. Sandy,,Yes,,181,43,138
+Jones,MN1_MONTICELLO 1,Court of Appeals Judge - John M. Sandy,,Yes,,168,56,112
+Jones,MN2_MONTICELLO 2,Court of Appeals Judge - John M. Sandy,,Yes,,264,82,182
+Jones,MN3_MONTICELLO 3,Court of Appeals Judge - John M. Sandy,,Yes,,239,80,159
+Jones,MN4_MONTICELLO 4,Court of Appeals Judge - John M. Sandy,,Yes,,228,88,140
+Jones,OX_OXFORD,Court of Appeals Judge - John M. Sandy,,Yes,,133,22,111
+Jones,RLWS_RICHLAND-WASHINGTON,Court of Appeals Judge - John M. Sandy,,Yes,,294,87,207
+Jones,ROHA_ROME-HALE,Court of Appeals Judge - John M. Sandy,,Yes,,322,85,237
+Jones,SGMC_SC GRV-MADISON-CLAY,Court of Appeals Judge - John M. Sandy,,Yes,,266,56,210
+Jones,WY_WYOMING,Court of Appeals Judge - John M. Sandy,,Yes,,178,34,144
+Jones,ANN_ANAMOSA NORTH-CASS,Court of Appeals Judge - Julie A. Schumacher,,No,,237,110,127
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Court of Appeals Judge - Julie A. Schumacher,,No,,308,159,149
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Court of Appeals Judge - Julie A. Schumacher,,No,,208,76,132
+Jones,FV_FAIRVIEW,Court of Appeals Judge - Julie A. Schumacher,,No,,218,111,107
+Jones,GF_GREENFIELD,Court of Appeals Judge - Julie A. Schumacher,,No,,90,15,75
+Jones,MN1_MONTICELLO 1,Court of Appeals Judge - Julie A. Schumacher,,No,,72,35,37
+Jones,MN2_MONTICELLO 2,Court of Appeals Judge - Julie A. Schumacher,,No,,88,28,60
+Jones,MN3_MONTICELLO 3,Court of Appeals Judge - Julie A. Schumacher,,No,,101,34,67
+Jones,MN4_MONTICELLO 4,Court of Appeals Judge - Julie A. Schumacher,,No,,82,31,51
+Jones,OX_OXFORD,Court of Appeals Judge - Julie A. Schumacher,,No,,63,12,51
+Jones,RLWS_RICHLAND-WASHINGTON,Court of Appeals Judge - Julie A. Schumacher,,No,,81,24,57
+Jones,ROHA_ROME-HALE,Court of Appeals Judge - Julie A. Schumacher,,No,,120,34,86
+Jones,SGMC_SC GRV-MADISON-CLAY,Court of Appeals Judge - Julie A. Schumacher,,No,,118,24,94
+Jones,WY_WYOMING,Court of Appeals Judge - Julie A. Schumacher,,No,,50,12,38
+Jones,ANN_ANAMOSA NORTH-CASS,Court of Appeals Judge - Julie A. Schumacher,,Yes,,532,237,295
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Court of Appeals Judge - Julie A. Schumacher,,Yes,,746,343,403
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Court of Appeals Judge - Julie A. Schumacher,,Yes,,603,252,351
+Jones,FV_FAIRVIEW,Court of Appeals Judge - Julie A. Schumacher,,Yes,,634,342,292
+Jones,GF_GREENFIELD,Court of Appeals Judge - Julie A. Schumacher,,Yes,,183,48,135
+Jones,MN1_MONTICELLO 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,173,56,117
+Jones,MN2_MONTICELLO 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,270,85,185
+Jones,MN3_MONTICELLO 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,250,86,164
+Jones,MN4_MONTICELLO 4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,232,93,139
+Jones,OX_OXFORD,Court of Appeals Judge - Julie A. Schumacher,,Yes,,139,25,114
+Jones,RLWS_RICHLAND-WASHINGTON,Court of Appeals Judge - Julie A. Schumacher,,Yes,,306,95,211
+Jones,ROHA_ROME-HALE,Court of Appeals Judge - Julie A. Schumacher,,Yes,,330,85,245
+Jones,SGMC_SC GRV-MADISON-CLAY,Court of Appeals Judge - Julie A. Schumacher,,Yes,,270,58,212
+Jones,WY_WYOMING,Court of Appeals Judge - Julie A. Schumacher,,Yes,,187,39,148
+Jones,ANN_ANAMOSA NORTH-CASS,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,238,114,124
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,325,170,155
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,217,80,137
+Jones,FV_FAIRVIEW,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,223,112,111
+Jones,GF_GREENFIELD,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,95,19,76
+Jones,MN1_MONTICELLO 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,79,37,42
+Jones,MN2_MONTICELLO 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,90,30,60
+Jones,MN3_MONTICELLO 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,106,39,67
+Jones,MN4_MONTICELLO 4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,84,32,52
+Jones,OX_OXFORD,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,65,12,53
+Jones,RLWS_RICHLAND-WASHINGTON,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,88,27,61
+Jones,ROHA_ROME-HALE,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,117,31,86
+Jones,SGMC_SC GRV-MADISON-CLAY,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,116,23,93
+Jones,WY_WYOMING,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,58,16,42
+Jones,ANN_ANAMOSA NORTH-CASS,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,537,237,300
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,730,336,394
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,600,250,350
+Jones,FV_FAIRVIEW,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,628,341,287
+Jones,GF_GREENFIELD,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,183,46,137
+Jones,MN1_MONTICELLO 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,167,54,113
+Jones,MN2_MONTICELLO 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,268,82,186
+Jones,MN3_MONTICELLO 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,248,85,163
+Jones,MN4_MONTICELLO 4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,231,91,140
+Jones,OX_OXFORD,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,137,25,112
+Jones,RLWS_RICHLAND-WASHINGTON,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,302,94,208
+Jones,ROHA_ROME-HALE,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,336,92,244
+Jones,SGMC_SC GRV-MADISON-CLAY,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,274,59,215
+Jones,WY_WYOMING,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,180,35,145
+Jones,ANN_ANAMOSA NORTH-CASS,District 6 Associate Judge - Angie Johnston,,No,,225,103,122
+Jones,ANS_ANAMOSA SOUTH-JACKSON,District 6 Associate Judge - Angie Johnston,,No,,297,152,145
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,District 6 Associate Judge - Angie Johnston,,No,,212,70,142
+Jones,FV_FAIRVIEW,District 6 Associate Judge - Angie Johnston,,No,,220,102,118
+Jones,GF_GREENFIELD,District 6 Associate Judge - Angie Johnston,,No,,97,19,78
+Jones,MN1_MONTICELLO 1,District 6 Associate Judge - Angie Johnston,,No,,78,36,42
+Jones,MN2_MONTICELLO 2,District 6 Associate Judge - Angie Johnston,,No,,88,28,60
+Jones,MN3_MONTICELLO 3,District 6 Associate Judge - Angie Johnston,,No,,89,28,61
+Jones,MN4_MONTICELLO 4,District 6 Associate Judge - Angie Johnston,,No,,74,27,47
+Jones,OX_OXFORD,District 6 Associate Judge - Angie Johnston,,No,,57,8,49
+Jones,RLWS_RICHLAND-WASHINGTON,District 6 Associate Judge - Angie Johnston,,No,,73,24,49
+Jones,ROHA_ROME-HALE,District 6 Associate Judge - Angie Johnston,,No,,119,33,86
+Jones,SGMC_SC GRV-MADISON-CLAY,District 6 Associate Judge - Angie Johnston,,No,,114,21,93
+Jones,WY_WYOMING,District 6 Associate Judge - Angie Johnston,,No,,59,14,45
+Jones,ANN_ANAMOSA NORTH-CASS,District 6 Associate Judge - Angie Johnston,,Yes,,541,245,296
+Jones,ANS_ANAMOSA SOUTH-JACKSON,District 6 Associate Judge - Angie Johnston,,Yes,,739,344,395
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,District 6 Associate Judge - Angie Johnston,,Yes,,599,255,344
+Jones,FV_FAIRVIEW,District 6 Associate Judge - Angie Johnston,,Yes,,625,348,277
+Jones,GF_GREENFIELD,District 6 Associate Judge - Angie Johnston,,Yes,,181,46,135
+Jones,MN1_MONTICELLO 1,District 6 Associate Judge - Angie Johnston,,Yes,,165,54,111
+Jones,MN2_MONTICELLO 2,District 6 Associate Judge - Angie Johnston,,Yes,,274,85,189
+Jones,MN3_MONTICELLO 3,District 6 Associate Judge - Angie Johnston,,Yes,,265,95,170
+Jones,MN4_MONTICELLO 4,District 6 Associate Judge - Angie Johnston,,Yes,,236,95,141
+Jones,OX_OXFORD,District 6 Associate Judge - Angie Johnston,,Yes,,141,26,115
+Jones,RLWS_RICHLAND-WASHINGTON,District 6 Associate Judge - Angie Johnston,,Yes,,311,92,219
+Jones,ROHA_ROME-HALE,District 6 Associate Judge - Angie Johnston,,Yes,,332,88,244
+Jones,SGMC_SC GRV-MADISON-CLAY,District 6 Associate Judge - Angie Johnston,,Yes,,270,59,211
+Jones,WY_WYOMING,District 6 Associate Judge - Angie Johnston,,Yes,,178,37,141
+Jones,ANN_ANAMOSA NORTH-CASS,District 6 Associate Judge - Casey D. Jones,,No,,221,99,122
+Jones,ANS_ANAMOSA SOUTH-JACKSON,District 6 Associate Judge - Casey D. Jones,,No,,295,149,146
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,District 6 Associate Judge - Casey D. Jones,,No,,213,66,147
+Jones,FV_FAIRVIEW,District 6 Associate Judge - Casey D. Jones,,No,,206,105,101
+Jones,GF_GREENFIELD,District 6 Associate Judge - Casey D. Jones,,No,,88,15,73
+Jones,MN1_MONTICELLO 1,District 6 Associate Judge - Casey D. Jones,,No,,73,33,40
+Jones,MN2_MONTICELLO 2,District 6 Associate Judge - Casey D. Jones,,No,,87,27,60
+Jones,MN3_MONTICELLO 3,District 6 Associate Judge - Casey D. Jones,,No,,102,34,68
+Jones,MN4_MONTICELLO 4,District 6 Associate Judge - Casey D. Jones,,No,,67,25,42
+Jones,OX_OXFORD,District 6 Associate Judge - Casey D. Jones,,No,,55,8,47
+Jones,RLWS_RICHLAND-WASHINGTON,District 6 Associate Judge - Casey D. Jones,,No,,76,22,54
+Jones,ROHA_ROME-HALE,District 6 Associate Judge - Casey D. Jones,,No,,118,32,86
+Jones,SGMC_SC GRV-MADISON-CLAY,District 6 Associate Judge - Casey D. Jones,,No,,118,23,95
+Jones,WY_WYOMING,District 6 Associate Judge - Casey D. Jones,,No,,59,15,44
+Jones,ANN_ANAMOSA NORTH-CASS,District 6 Associate Judge - Casey D. Jones,,Yes,,550,251,299
+Jones,ANS_ANAMOSA SOUTH-JACKSON,District 6 Associate Judge - Casey D. Jones,,Yes,,744,346,398
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,District 6 Associate Judge - Casey D. Jones,,Yes,,595,257,338
+Jones,FV_FAIRVIEW,District 6 Associate Judge - Casey D. Jones,,Yes,,634,340,294
+Jones,GF_GREENFIELD,District 6 Associate Judge - Casey D. Jones,,Yes,,191,49,142
+Jones,MN1_MONTICELLO 1,District 6 Associate Judge - Casey D. Jones,,Yes,,171,58,113
+Jones,MN2_MONTICELLO 2,District 6 Associate Judge - Casey D. Jones,,Yes,,277,88,189
+Jones,MN3_MONTICELLO 3,District 6 Associate Judge - Casey D. Jones,,Yes,,250,87,163
+Jones,MN4_MONTICELLO 4,District 6 Associate Judge - Casey D. Jones,,Yes,,246,99,147
+Jones,OX_OXFORD,District 6 Associate Judge - Casey D. Jones,,Yes,,141,25,116
+Jones,RLWS_RICHLAND-WASHINGTON,District 6 Associate Judge - Casey D. Jones,,Yes,,313,94,219
+Jones,ROHA_ROME-HALE,District 6 Associate Judge - Casey D. Jones,,Yes,,333,89,244
+Jones,SGMC_SC GRV-MADISON-CLAY,District 6 Associate Judge - Casey D. Jones,,Yes,,266,57,209
+Jones,WY_WYOMING,District 6 Associate Judge - Casey D. Jones,,Yes,,180,35,145
+Jones,ANN_ANAMOSA NORTH-CASS,District 6 Associate Judge - Kristin Schneider,,No,,247,119,128
+Jones,ANS_ANAMOSA SOUTH-JACKSON,District 6 Associate Judge - Kristin Schneider,,No,,325,163,162
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,District 6 Associate Judge - Kristin Schneider,,No,,224,74,150
+Jones,FV_FAIRVIEW,District 6 Associate Judge - Kristin Schneider,,No,,236,122,114
+Jones,GF_GREENFIELD,District 6 Associate Judge - Kristin Schneider,,No,,93,19,74
+Jones,MN1_MONTICELLO 1,District 6 Associate Judge - Kristin Schneider,,No,,78,37,41
+Jones,MN2_MONTICELLO 2,District 6 Associate Judge - Kristin Schneider,,No,,95,31,64
+Jones,MN3_MONTICELLO 3,District 6 Associate Judge - Kristin Schneider,,No,,91,31,60
+Jones,MN4_MONTICELLO 4,District 6 Associate Judge - Kristin Schneider,,No,,77,26,51
+Jones,OX_OXFORD,District 6 Associate Judge - Kristin Schneider,,No,,58,11,47
+Jones,RLWS_RICHLAND-WASHINGTON,District 6 Associate Judge - Kristin Schneider,,No,,80,29,51
+Jones,ROHA_ROME-HALE,District 6 Associate Judge - Kristin Schneider,,No,,120,34,86
+Jones,SGMC_SC GRV-MADISON-CLAY,District 6 Associate Judge - Kristin Schneider,,No,,120,24,96
+Jones,WY_WYOMING,District 6 Associate Judge - Kristin Schneider,,No,,58,18,40
+Jones,ANN_ANAMOSA NORTH-CASS,District 6 Associate Judge - Kristin Schneider,,Yes,,520,228,292
+Jones,ANS_ANAMOSA SOUTH-JACKSON,District 6 Associate Judge - Kristin Schneider,,Yes,,716,335,381
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,District 6 Associate Judge - Kristin Schneider,,Yes,,579,246,333
+Jones,FV_FAIRVIEW,District 6 Associate Judge - Kristin Schneider,,Yes,,604,324,280
+Jones,GF_GREENFIELD,District 6 Associate Judge - Kristin Schneider,,Yes,,184,45,139
+Jones,MN1_MONTICELLO 1,District 6 Associate Judge - Kristin Schneider,,Yes,,166,53,113
+Jones,MN2_MONTICELLO 2,District 6 Associate Judge - Kristin Schneider,,Yes,,265,81,184
+Jones,MN3_MONTICELLO 3,District 6 Associate Judge - Kristin Schneider,,Yes,,260,89,171
+Jones,MN4_MONTICELLO 4,District 6 Associate Judge - Kristin Schneider,,Yes,,235,98,137
+Jones,OX_OXFORD,District 6 Associate Judge - Kristin Schneider,,Yes,,140,24,116
+Jones,RLWS_RICHLAND-WASHINGTON,District 6 Associate Judge - Kristin Schneider,,Yes,,307,88,219
+Jones,ROHA_ROME-HALE,District 6 Associate Judge - Kristin Schneider,,Yes,,330,86,244
+Jones,SGMC_SC GRV-MADISON-CLAY,District 6 Associate Judge - Kristin Schneider,,Yes,,264,56,208
+Jones,WY_WYOMING,District 6 Associate Judge - Kristin Schneider,,Yes,,180,34,146
+Jones,ANN_ANAMOSA NORTH-CASS,District 6 Judge - Jason D. Besler,,No,,243,119,124
+Jones,ANS_ANAMOSA SOUTH-JACKSON,District 6 Judge - Jason D. Besler,,No,,306,161,145
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,District 6 Judge - Jason D. Besler,,No,,217,82,135
+Jones,FV_FAIRVIEW,District 6 Judge - Jason D. Besler,,No,,229,125,104
+Jones,GF_GREENFIELD,District 6 Judge - Jason D. Besler,,No,,89,17,72
+Jones,MN1_MONTICELLO 1,District 6 Judge - Jason D. Besler,,No,,75,34,41
+Jones,MN2_MONTICELLO 2,District 6 Judge - Jason D. Besler,,No,,96,30,66
+Jones,MN3_MONTICELLO 3,District 6 Judge - Jason D. Besler,,No,,102,32,70
+Jones,MN4_MONTICELLO 4,District 6 Judge - Jason D. Besler,,No,,74,25,49
+Jones,OX_OXFORD,District 6 Judge - Jason D. Besler,,No,,65,10,55
+Jones,RLWS_RICHLAND-WASHINGTON,District 6 Judge - Jason D. Besler,,No,,78,26,52
+Jones,ROHA_ROME-HALE,District 6 Judge - Jason D. Besler,,No,,121,37,84
+Jones,SGMC_SC GRV-MADISON-CLAY,District 6 Judge - Jason D. Besler,,No,,115,22,93
+Jones,WY_WYOMING,District 6 Judge - Jason D. Besler,,No,,54,12,42
+Jones,ANN_ANAMOSA NORTH-CASS,District 6 Judge - Jason D. Besler,,Yes,,537,234,303
+Jones,ANS_ANAMOSA SOUTH-JACKSON,District 6 Judge - Jason D. Besler,,Yes,,743,341,402
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,District 6 Judge - Jason D. Besler,,Yes,,597,243,354
+Jones,FV_FAIRVIEW,District 6 Judge - Jason D. Besler,,Yes,,623,328,295
+Jones,GF_GREENFIELD,District 6 Judge - Jason D. Besler,,Yes,,193,49,144
+Jones,MN1_MONTICELLO 1,District 6 Judge - Jason D. Besler,,Yes,,172,58,114
+Jones,MN2_MONTICELLO 2,District 6 Judge - Jason D. Besler,,Yes,,265,84,181
+Jones,MN3_MONTICELLO 3,District 6 Judge - Jason D. Besler,,Yes,,252,92,160
+Jones,MN4_MONTICELLO 4,District 6 Judge - Jason D. Besler,,Yes,,241,101,140
+Jones,OX_OXFORD,District 6 Judge - Jason D. Besler,,Yes,,134,26,108
+Jones,RLWS_RICHLAND-WASHINGTON,District 6 Judge - Jason D. Besler,,Yes,,311,91,220
+Jones,ROHA_ROME-HALE,District 6 Judge - Jason D. Besler,,Yes,,331,87,244
+Jones,SGMC_SC GRV-MADISON-CLAY,District 6 Judge - Jason D. Besler,,Yes,,269,58,211
+Jones,WY_WYOMING,District 6 Judge - Jason D. Besler,,Yes,,184,38,146
+Jones,ANN_ANAMOSA NORTH-CASS,District 6 Judge - Mark Fisher,,No,,267,133,134
+Jones,ANS_ANAMOSA SOUTH-JACKSON,District 6 Judge - Mark Fisher,,No,,332,171,161
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,District 6 Judge - Mark Fisher,,No,,236,85,151
+Jones,FV_FAIRVIEW,District 6 Judge - Mark Fisher,,No,,255,148,107
+Jones,GF_GREENFIELD,District 6 Judge - Mark Fisher,,No,,104,23,81
+Jones,MN1_MONTICELLO 1,District 6 Judge - Mark Fisher,,No,,80,36,44
+Jones,MN2_MONTICELLO 2,District 6 Judge - Mark Fisher,,No,,96,32,64
+Jones,MN3_MONTICELLO 3,District 6 Judge - Mark Fisher,,No,,107,36,71
+Jones,MN4_MONTICELLO 4,District 6 Judge - Mark Fisher,,No,,74,26,48
+Jones,OX_OXFORD,District 6 Judge - Mark Fisher,,No,,64,10,54
+Jones,RLWS_RICHLAND-WASHINGTON,District 6 Judge - Mark Fisher,,No,,87,32,55
+Jones,ROHA_ROME-HALE,District 6 Judge - Mark Fisher,,No,,129,39,90
+Jones,SGMC_SC GRV-MADISON-CLAY,District 6 Judge - Mark Fisher,,No,,123,28,95
+Jones,WY_WYOMING,District 6 Judge - Mark Fisher,,No,,59,16,43
+Jones,ANN_ANAMOSA NORTH-CASS,District 6 Judge - Mark Fisher,,Yes,,505,216,289
+Jones,ANS_ANAMOSA SOUTH-JACKSON,District 6 Judge - Mark Fisher,,Yes,,708,328,380
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,District 6 Judge - Mark Fisher,,Yes,,575,236,339
+Jones,FV_FAIRVIEW,District 6 Judge - Mark Fisher,,Yes,,586,300,286
+Jones,GF_GREENFIELD,District 6 Judge - Mark Fisher,,Yes,,177,43,134
+Jones,MN1_MONTICELLO 1,District 6 Judge - Mark Fisher,,Yes,,163,53,110
+Jones,MN2_MONTICELLO 2,District 6 Judge - Mark Fisher,,Yes,,266,85,181
+Jones,MN3_MONTICELLO 3,District 6 Judge - Mark Fisher,,Yes,,243,85,158
+Jones,MN4_MONTICELLO 4,District 6 Judge - Mark Fisher,,Yes,,234,95,139
+Jones,OX_OXFORD,District 6 Judge - Mark Fisher,,Yes,,137,27,110
+Jones,RLWS_RICHLAND-WASHINGTON,District 6 Judge - Mark Fisher,,Yes,,299,83,216
+Jones,ROHA_ROME-HALE,District 6 Judge - Mark Fisher,,Yes,,321,82,239
+Jones,SGMC_SC GRV-MADISON-CLAY,District 6 Judge - Mark Fisher,,Yes,,258,50,208
+Jones,WY_WYOMING,District 6 Judge - Mark Fisher,,Yes,,177,33,144
+Jones,ANN_ANAMOSA NORTH-CASS,District 6 Judge - Michael Harris,,No,,250,120,130
+Jones,ANS_ANAMOSA SOUTH-JACKSON,District 6 Judge - Michael Harris,,No,,328,169,159
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,District 6 Judge - Michael Harris,,No,,226,84,142
+Jones,FV_FAIRVIEW,District 6 Judge - Michael Harris,,No,,242,131,111
+Jones,GF_GREENFIELD,District 6 Judge - Michael Harris,,No,,90,15,75
+Jones,MN1_MONTICELLO 1,District 6 Judge - Michael Harris,,No,,79,38,41
+Jones,MN2_MONTICELLO 2,District 6 Judge - Michael Harris,,No,,95,29,66
+Jones,MN3_MONTICELLO 3,District 6 Judge - Michael Harris,,No,,106,35,71
+Jones,MN4_MONTICELLO 4,District 6 Judge - Michael Harris,,No,,82,30,52
+Jones,OX_OXFORD,District 6 Judge - Michael Harris,,No,,62,12,50
+Jones,RLWS_RICHLAND-WASHINGTON,District 6 Judge - Michael Harris,,No,,84,29,55
+Jones,ROHA_ROME-HALE,District 6 Judge - Michael Harris,,No,,126,37,89
+Jones,SGMC_SC GRV-MADISON-CLAY,District 6 Judge - Michael Harris,,No,,117,23,94
+Jones,WY_WYOMING,District 6 Judge - Michael Harris,,No,,60,13,47
+Jones,ANN_ANAMOSA NORTH-CASS,District 6 Judge - Michael Harris,,Yes,,517,228,289
+Jones,ANS_ANAMOSA SOUTH-JACKSON,District 6 Judge - Michael Harris,,Yes,,718,330,388
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,District 6 Judge - Michael Harris,,Yes,,583,236,347
+Jones,FV_FAIRVIEW,District 6 Judge - Michael Harris,,Yes,,604,318,286
+Jones,GF_GREENFIELD,District 6 Judge - Michael Harris,,Yes,,187,47,140
+Jones,MN1_MONTICELLO 1,District 6 Judge - Michael Harris,,Yes,,166,52,114
+Jones,MN2_MONTICELLO 2,District 6 Judge - Michael Harris,,Yes,,265,85,180
+Jones,MN3_MONTICELLO 3,District 6 Judge - Michael Harris,,Yes,,248,88,160
+Jones,MN4_MONTICELLO 4,District 6 Judge - Michael Harris,,Yes,,228,89,139
+Jones,OX_OXFORD,District 6 Judge - Michael Harris,,Yes,,138,25,113
+Jones,RLWS_RICHLAND-WASHINGTON,District 6 Judge - Michael Harris,,Yes,,300,86,214
+Jones,ROHA_ROME-HALE,District 6 Judge - Michael Harris,,Yes,,325,83,242
+Jones,SGMC_SC GRV-MADISON-CLAY,District 6 Judge - Michael Harris,,Yes,,268,57,211
+Jones,WY_WYOMING,District 6 Judge - Michael Harris,,Yes,,175,35,140
+Jones,ANN_ANAMOSA NORTH-CASS,Fairview Township Clerk,,Sarah Tate,,7,3,4
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Fairview Township Clerk,,Sarah Tate,,4,4,0
+Jones,FV_FAIRVIEW,Fairview Township Clerk,,Sarah Tate,,850,427,423
+Jones,ANN_ANAMOSA NORTH-CASS,Fairview Township Clerk,,Write-In,,0,0,0
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Fairview Township Clerk,,Write-In,,0,0,0
+Jones,FV_FAIRVIEW,Fairview Township Clerk,,Write-In,,13,7,6
+Jones,ANN_ANAMOSA NORTH-CASS,Fairview Township Trustee,,Daniel G. Rickels,,7,3,4
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Fairview Township Trustee,,Daniel G. Rickels,,4,4,0
+Jones,FV_FAIRVIEW,Fairview Township Trustee,,Daniel G. Rickels,,864,435,429
+Jones,ANN_ANAMOSA NORTH-CASS,Fairview Township Trustee,,Write-In,,0,0,0
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Fairview Township Trustee,,Write-In,,0,0,0
+Jones,FV_FAIRVIEW,Fairview Township Trustee,,Write-In,,13,6,7
+Jones,ANN_ANAMOSA NORTH-CASS,Governor,,Rob Sand and Dave Muhlbauer,DEM,536,277,259
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Governor,,Rob Sand and Dave Muhlbauer,DEM,721,418,303
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Governor,,Rob Sand and Dave Muhlbauer,DEM,499,253,246
+Jones,FV_FAIRVIEW,Governor,,Rob Sand and Dave Muhlbauer,DEM,539,322,217
+Jones,GF_GREENFIELD,Governor,,Rob Sand and Dave Muhlbauer,DEM,164,57,107
+Jones,MN1_MONTICELLO 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,159,74,85
+Jones,MN2_MONTICELLO 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,238,87,151
+Jones,MN3_MONTICELLO 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,256,102,154
+Jones,MN4_MONTICELLO 4,Governor,,Rob Sand and Dave Muhlbauer,DEM,223,111,112
+Jones,OX_OXFORD,Governor,,Rob Sand and Dave Muhlbauer,DEM,118,28,90
+Jones,RLWS_RICHLAND-WASHINGTON,Governor,,Rob Sand and Dave Muhlbauer,DEM,225,102,123
+Jones,ROHA_ROME-HALE,Governor,,Rob Sand and Dave Muhlbauer,DEM,279,108,171
+Jones,SGMC_SC GRV-MADISON-CLAY,Governor,,Rob Sand and Dave Muhlbauer,DEM,209,58,151
+Jones,WY_WYOMING,Governor,,Rob Sand and Dave Muhlbauer,DEM,140,41,99
+Jones,ANN_ANAMOSA NORTH-CASS,Governor,,Write-In,,0,0,0
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Governor,,Write-In,,1,1,0
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Governor,,Write-In,,2,2,0
+Jones,FV_FAIRVIEW,Governor,,Write-In,,1,1,0
+Jones,GF_GREENFIELD,Governor,,Write-In,,2,0,2
+Jones,MN1_MONTICELLO 1,Governor,,Write-In,,0,0,0
+Jones,MN2_MONTICELLO 2,Governor,,Write-In,,3,3,0
+Jones,MN3_MONTICELLO 3,Governor,,Write-In,,1,0,1
+Jones,MN4_MONTICELLO 4,Governor,,Write-In,,0,0,0
+Jones,OX_OXFORD,Governor,,Write-In,,0,0,0
+Jones,RLWS_RICHLAND-WASHINGTON,Governor,,Write-In,,1,0,1
+Jones,ROHA_ROME-HALE,Governor,,Write-In,,0,0,0
+Jones,SGMC_SC GRV-MADISON-CLAY,Governor,,Write-In,,2,0,2
+Jones,WY_WYOMING,Governor,,Write-In,,0,0,0
+Jones,ANN_ANAMOSA NORTH-CASS,Governor,,Zach Lahn and Derek Wulf,REP,453,166,287
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Governor,,Zach Lahn and Derek Wulf,REP,617,251,366
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Governor,,Zach Lahn and Derek Wulf,REP,557,177,380
+Jones,FV_FAIRVIEW,Governor,,Zach Lahn and Derek Wulf,REP,583,265,318
+Jones,GF_GREENFIELD,Governor,,Zach Lahn and Derek Wulf,REP,184,33,151
+Jones,MN1_MONTICELLO 1,Governor,,Zach Lahn and Derek Wulf,REP,158,45,113
+Jones,MN2_MONTICELLO 2,Governor,,Zach Lahn and Derek Wulf,REP,207,61,146
+Jones,MN3_MONTICELLO 3,Governor,,Zach Lahn and Derek Wulf,REP,168,47,121
+Jones,MN4_MONTICELLO 4,Governor,,Zach Lahn and Derek Wulf,REP,154,40,114
+Jones,OX_OXFORD,Governor,,Zach Lahn and Derek Wulf,REP,143,19,124
+Jones,RLWS_RICHLAND-WASHINGTON,Governor,,Zach Lahn and Derek Wulf,REP,345,78,267
+Jones,ROHA_ROME-HALE,Governor,,Zach Lahn and Derek Wulf,REP,283,62,221
+Jones,SGMC_SC GRV-MADISON-CLAY,Governor,,Zach Lahn and Derek Wulf,REP,291,51,240
+Jones,WY_WYOMING,Governor,,Zach Lahn and Derek Wulf,REP,183,33,150
+Jones,GF_GREENFIELD,Greenfield Township Clerk,,Lori Jess,,173,47,126
+Jones,GF_GREENFIELD,Greenfield Township Clerk,,Write-In,,1,0,1
+Jones,GF_GREENFIELD,Greenfield Township Trustee,,Write-In,,24,12,12
+Jones,GF_GREENFIELD,Greenfield Township Trustee To Fill a Vacancy,,Sara Pinckney,,179,44,135
+Jones,GF_GREENFIELD,Greenfield Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
+Jones,ROHA_ROME-HALE,Hale Township Clerk,,Write-In,,23,4,19
+Jones,ROHA_ROME-HALE,Hale Township Trustee,,Dan Inglis,,137,50,87
+Jones,ROHA_ROME-HALE,Hale Township Trustee,,Write-In,,3,2,1
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Jackson Township Clerk,,Linda Von Behren,,197,104,93
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Jackson Township Clerk,,Write-In,,1,0,1
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Jackson Township Trustee,,Phil Knuth,,195,106,89
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Jackson Township Trustee,,Write-In,,1,0,1
+Jones,ANN_ANAMOSA NORTH-CASS,Kirkwood Community College - Public Measure NC,,No,,327,148,179
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Kirkwood Community College - Public Measure NC,,No,,423,210,213
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Kirkwood Community College - Public Measure NC,,No,,460,178,282
+Jones,FV_FAIRVIEW,Kirkwood Community College - Public Measure NC,,No,,361,177,184
+Jones,GF_GREENFIELD,Kirkwood Community College - Public Measure NC,,No,,112,27,85
+Jones,MN1_MONTICELLO 1,Kirkwood Community College - Public Measure NC,,No,,107,40,67
+Jones,MN2_MONTICELLO 2,Kirkwood Community College - Public Measure NC,,No,,174,50,124
+Jones,MN3_MONTICELLO 3,Kirkwood Community College - Public Measure NC,,No,,153,47,106
+Jones,MN4_MONTICELLO 4,Kirkwood Community College - Public Measure NC,,No,,135,41,94
+Jones,OX_OXFORD,Kirkwood Community College - Public Measure NC,,No,,95,20,75
+Jones,RLWS_RICHLAND-WASHINGTON,Kirkwood Community College - Public Measure NC,,No,,39,22,17
+Jones,ROHA_ROME-HALE,Kirkwood Community College - Public Measure NC,,No,,170,53,117
+Jones,SGMC_SC GRV-MADISON-CLAY,Kirkwood Community College - Public Measure NC,,No,,173,33,140
+Jones,WY_WYOMING,Kirkwood Community College - Public Measure NC,,No,,88,18,70
+Jones,ANN_ANAMOSA NORTH-CASS,Kirkwood Community College - Public Measure NC,,Yes,,587,267,320
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Kirkwood Community College - Public Measure NC,,Yes,,822,406,416
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Kirkwood Community College - Public Measure NC,,Yes,,534,228,306
+Jones,FV_FAIRVIEW,Kirkwood Community College - Public Measure NC,,Yes,,679,365,314
+Jones,GF_GREENFIELD,Kirkwood Community College - Public Measure NC,,Yes,,221,58,163
+Jones,MN1_MONTICELLO 1,Kirkwood Community College - Public Measure NC,,Yes,,188,70,118
+Jones,MN2_MONTICELLO 2,Kirkwood Community College - Public Measure NC,,Yes,,244,87,157
+Jones,MN3_MONTICELLO 3,Kirkwood Community College - Public Measure NC,,Yes,,252,93,159
+Jones,MN4_MONTICELLO 4,Kirkwood Community College - Public Measure NC,,Yes,,226,104,122
+Jones,OX_OXFORD,Kirkwood Community College - Public Measure NC,,Yes,,143,23,120
+Jones,RLWS_RICHLAND-WASHINGTON,Kirkwood Community College - Public Measure NC,,Yes,,30,10,20
+Jones,ROHA_ROME-HALE,Kirkwood Community College - Public Measure NC,,Yes,,353,102,251
+Jones,SGMC_SC GRV-MADISON-CLAY,Kirkwood Community College - Public Measure NC,,Yes,,279,67,212
+Jones,WY_WYOMING,Kirkwood Community College - Public Measure NC,,Yes,,201,49,152
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Lovell Township Clerk,,Dave Lubben,,489,190,299
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Lovell Township Clerk,,Write-In,,4,0,4
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Lovell Township Trustee,,Kevin Prull,,483,189,294
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Lovell Township Trustee,,Write-In,,2,1,1
+Jones,SGMC_SC GRV-MADISON-CLAY,Madison Township Clerk,,Kim Sorgenfrey,,141,26,115
+Jones,SGMC_SC GRV-MADISON-CLAY,Madison Township Clerk,,Write-In,,0,0,0
+Jones,SGMC_SC GRV-MADISON-CLAY,Madison Township Trustee,,Dennis Orris,,140,25,115
+Jones,SGMC_SC GRV-MADISON-CLAY,Madison Township Trustee,,Write-In,,1,0,1
+Jones,OX_OXFORD,Oxford Township Clerk,,Rita J. Balichek,,98,19,79
+Jones,OX_OXFORD,Oxford Township Clerk,,Write-In,,0,0,0
+Jones,OX_OXFORD,Oxford Township Trustee,,Dean L. Ruley,,97,19,78
+Jones,OX_OXFORD,Oxford Township Trustee,,Write-In,,0,0,0
+Jones,RLWS_RICHLAND-WASHINGTON,Richland Township Clerk,,Douglas Monck,,156,60,96
+Jones,RLWS_RICHLAND-WASHINGTON,Richland Township Clerk,,Write-In,,1,0,1
+Jones,RLWS_RICHLAND-WASHINGTON,Richland Township Trustee,,Robert Null,,152,58,94
+Jones,RLWS_RICHLAND-WASHINGTON,Richland Township Trustee,,Write-In,,0,0,0
+Jones,ROHA_ROME-HALE,Rome Township Clerk,,Janine Sulzner,,157,51,106
+Jones,ROHA_ROME-HALE,Rome Township Clerk,,Write-In,,0,0,0
+Jones,ROHA_ROME-HALE,Rome Township Trustee,,Ivan Bowers,,155,47,108
+Jones,ROHA_ROME-HALE,Rome Township Trustee,,Write-In,,2,0,2
+Jones,SGMC_SC GRV-MADISON-CLAY,Scotch Grove Township Clerk,,Steve Zirkelbach,,166,53,113
+Jones,SGMC_SC GRV-MADISON-CLAY,Scotch Grove Township Clerk,,Write-In,,2,0,2
+Jones,SGMC_SC GRV-MADISON-CLAY,Scotch Grove Township Trustee,,Carl Willms,,168,55,113
+Jones,SGMC_SC GRV-MADISON-CLAY,Scotch Grove Township Trustee,,Write-In,,2,0,2
+Jones,ANN_ANAMOSA NORTH-CASS,Secretary of Agriculture,,Chris Jones,DEM,433,224,209
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Secretary of Agriculture,,Chris Jones,DEM,558,330,228
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Secretary of Agriculture,,Chris Jones,DEM,331,193,138
+Jones,FV_FAIRVIEW,Secretary of Agriculture,,Chris Jones,DEM,415,248,167
+Jones,GF_GREENFIELD,Secretary of Agriculture,,Chris Jones,DEM,123,44,79
+Jones,MN1_MONTICELLO 1,Secretary of Agriculture,,Chris Jones,DEM,123,60,63
+Jones,MN2_MONTICELLO 2,Secretary of Agriculture,,Chris Jones,DEM,179,77,102
+Jones,MN3_MONTICELLO 3,Secretary of Agriculture,,Chris Jones,DEM,207,86,121
+Jones,MN4_MONTICELLO 4,Secretary of Agriculture,,Chris Jones,DEM,163,78,85
+Jones,OX_OXFORD,Secretary of Agriculture,,Chris Jones,DEM,88,22,66
+Jones,RLWS_RICHLAND-WASHINGTON,Secretary of Agriculture,,Chris Jones,DEM,168,80,88
+Jones,ROHA_ROME-HALE,Secretary of Agriculture,,Chris Jones,DEM,204,94,110
+Jones,SGMC_SC GRV-MADISON-CLAY,Secretary of Agriculture,,Chris Jones,DEM,124,38,86
+Jones,WY_WYOMING,Secretary of Agriculture,,Chris Jones,DEM,94,33,61
+Jones,ANN_ANAMOSA NORTH-CASS,Secretary of Agriculture,,Mike Naig,REP,547,215,332
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Secretary of Agriculture,,Mike Naig,REP,755,330,425
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Secretary of Agriculture,,Mike Naig,REP,716,235,481
+Jones,FV_FAIRVIEW,Secretary of Agriculture,,Mike Naig,REP,684,331,353
+Jones,GF_GREENFIELD,Secretary of Agriculture,,Mike Naig,REP,222,43,179
+Jones,MN1_MONTICELLO 1,Secretary of Agriculture,,Mike Naig,REP,186,57,129
+Jones,MN2_MONTICELLO 2,Secretary of Agriculture,,Mike Naig,REP,265,74,191
+Jones,MN3_MONTICELLO 3,Secretary of Agriculture,,Mike Naig,REP,219,67,152
+Jones,MN4_MONTICELLO 4,Secretary of Agriculture,,Mike Naig,REP,209,69,140
+Jones,OX_OXFORD,Secretary of Agriculture,,Mike Naig,REP,167,25,142
+Jones,RLWS_RICHLAND-WASHINGTON,Secretary of Agriculture,,Mike Naig,REP,397,99,298
+Jones,ROHA_ROME-HALE,Secretary of Agriculture,,Mike Naig,REP,349,75,274
+Jones,SGMC_SC GRV-MADISON-CLAY,Secretary of Agriculture,,Mike Naig,REP,369,71,298
+Jones,WY_WYOMING,Secretary of Agriculture,,Mike Naig,REP,225,38,187
+Jones,ANN_ANAMOSA NORTH-CASS,Secretary of Agriculture,,Write-In,,0,0,0
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Secretary of Agriculture,,Write-In,,1,0,1
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Secretary of Agriculture,,Write-In,,0,0,0
+Jones,FV_FAIRVIEW,Secretary of Agriculture,,Write-In,,0,0,0
+Jones,GF_GREENFIELD,Secretary of Agriculture,,Write-In,,0,0,0
+Jones,MN1_MONTICELLO 1,Secretary of Agriculture,,Write-In,,0,0,0
+Jones,MN2_MONTICELLO 2,Secretary of Agriculture,,Write-In,,0,0,0
+Jones,MN3_MONTICELLO 3,Secretary of Agriculture,,Write-In,,1,0,1
+Jones,MN4_MONTICELLO 4,Secretary of Agriculture,,Write-In,,0,0,0
+Jones,OX_OXFORD,Secretary of Agriculture,,Write-In,,1,0,1
+Jones,RLWS_RICHLAND-WASHINGTON,Secretary of Agriculture,,Write-In,,0,0,0
+Jones,ROHA_ROME-HALE,Secretary of Agriculture,,Write-In,,0,0,0
+Jones,SGMC_SC GRV-MADISON-CLAY,Secretary of Agriculture,,Write-In,,1,0,1
+Jones,WY_WYOMING,Secretary of Agriculture,,Write-In,,0,0,0
+Jones,ANN_ANAMOSA NORTH-CASS,Secretary of State,,Paul D. Pate,REP,570,225,345
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Secretary of State,,Paul D. Pate,REP,777,343,434
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Secretary of State,,Paul D. Pate,REP,725,253,472
+Jones,FV_FAIRVIEW,Secretary of State,,Paul D. Pate,REP,726,349,377
+Jones,GF_GREENFIELD,Secretary of State,,Paul D. Pate,REP,234,46,188
+Jones,MN1_MONTICELLO 1,Secretary of State,,Paul D. Pate,REP,195,58,137
+Jones,MN2_MONTICELLO 2,Secretary of State,,Paul D. Pate,REP,283,82,201
+Jones,MN3_MONTICELLO 3,Secretary of State,,Paul D. Pate,REP,232,66,166
+Jones,MN4_MONTICELLO 4,Secretary of State,,Paul D. Pate,REP,206,66,140
+Jones,OX_OXFORD,Secretary of State,,Paul D. Pate,REP,168,20,148
+Jones,RLWS_RICHLAND-WASHINGTON,Secretary of State,,Paul D. Pate,REP,394,96,298
+Jones,ROHA_ROME-HALE,Secretary of State,,Paul D. Pate,REP,343,74,269
+Jones,SGMC_SC GRV-MADISON-CLAY,Secretary of State,,Paul D. Pate,REP,372,71,301
+Jones,WY_WYOMING,Secretary of State,,Paul D. Pate,REP,234,43,191
+Jones,ANN_ANAMOSA NORTH-CASS,Secretary of State,,Ryan Peterman,DEM,412,215,197
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Secretary of State,,Ryan Peterman,DEM,540,313,227
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Secretary of State,,Ryan Peterman,DEM,315,175,140
+Jones,FV_FAIRVIEW,Secretary of State,,Ryan Peterman,DEM,390,235,155
+Jones,GF_GREENFIELD,Secretary of State,,Ryan Peterman,DEM,114,43,71
+Jones,MN1_MONTICELLO 1,Secretary of State,,Ryan Peterman,DEM,118,60,58
+Jones,MN2_MONTICELLO 2,Secretary of State,,Ryan Peterman,DEM,163,70,93
+Jones,MN3_MONTICELLO 3,Secretary of State,,Ryan Peterman,DEM,196,85,111
+Jones,MN4_MONTICELLO 4,Secretary of State,,Ryan Peterman,DEM,166,82,84
+Jones,OX_OXFORD,Secretary of State,,Ryan Peterman,DEM,87,25,62
+Jones,RLWS_RICHLAND-WASHINGTON,Secretary of State,,Ryan Peterman,DEM,165,82,83
+Jones,ROHA_ROME-HALE,Secretary of State,,Ryan Peterman,DEM,215,94,121
+Jones,SGMC_SC GRV-MADISON-CLAY,Secretary of State,,Ryan Peterman,DEM,125,39,86
+Jones,WY_WYOMING,Secretary of State,,Ryan Peterman,DEM,87,31,56
+Jones,ANN_ANAMOSA NORTH-CASS,Secretary of State,,Write-In,,0,0,0
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Secretary of State,,Write-In,,1,1,0
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Secretary of State,,Write-In,,0,0,0
+Jones,FV_FAIRVIEW,Secretary of State,,Write-In,,0,0,0
+Jones,GF_GREENFIELD,Secretary of State,,Write-In,,0,0,0
+Jones,MN1_MONTICELLO 1,Secretary of State,,Write-In,,0,0,0
+Jones,MN2_MONTICELLO 2,Secretary of State,,Write-In,,0,0,0
+Jones,MN3_MONTICELLO 3,Secretary of State,,Write-In,,1,0,1
+Jones,MN4_MONTICELLO 4,Secretary of State,,Write-In,,0,0,0
+Jones,OX_OXFORD,Secretary of State,,Write-In,,0,0,0
+Jones,RLWS_RICHLAND-WASHINGTON,Secretary of State,,Write-In,,0,0,0
+Jones,ROHA_ROME-HALE,Secretary of State,,Write-In,,0,0,0
+Jones,SGMC_SC GRV-MADISON-CLAY,Secretary of State,,Write-In,,0,0,0
+Jones,WY_WYOMING,Secretary of State,,Write-In,,0,0,0
+Jones,ANN_ANAMOSA NORTH-CASS,Soil and Water Conservation District Commissioner,,Jeff Von Behren,,636,283,353
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Soil and Water Conservation District Commissioner,,Jeff Von Behren,,889,454,435
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Soil and Water Conservation District Commissioner,,Jeff Von Behren,,693,287,406
+Jones,FV_FAIRVIEW,Soil and Water Conservation District Commissioner,,Jeff Von Behren,,690,340,350
+Jones,GF_GREENFIELD,Soil and Water Conservation District Commissioner,,Jeff Von Behren,,227,54,173
+Jones,MN1_MONTICELLO 1,Soil and Water Conservation District Commissioner,,Jeff Von Behren,,187,63,124
+Jones,MN2_MONTICELLO 2,Soil and Water Conservation District Commissioner,,Jeff Von Behren,,298,101,197
+Jones,MN3_MONTICELLO 3,Soil and Water Conservation District Commissioner,,Jeff Von Behren,,266,95,171
+Jones,MN4_MONTICELLO 4,Soil and Water Conservation District Commissioner,,Jeff Von Behren,,242,90,152
+Jones,OX_OXFORD,Soil and Water Conservation District Commissioner,,Jeff Von Behren,,177,30,147
+Jones,RLWS_RICHLAND-WASHINGTON,Soil and Water Conservation District Commissioner,,Jeff Von Behren,,275,95,180
+Jones,ROHA_ROME-HALE,Soil and Water Conservation District Commissioner,,Jeff Von Behren,,420,117,303
+Jones,SGMC_SC GRV-MADISON-CLAY,Soil and Water Conservation District Commissioner,,Jeff Von Behren,,313,72,241
+Jones,WY_WYOMING,Soil and Water Conservation District Commissioner,,Jeff Von Behren,,222,47,175
+Jones,ANN_ANAMOSA NORTH-CASS,Soil and Water Conservation District Commissioner,,Julie Orris,,494,233,261
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Soil and Water Conservation District Commissioner,,Julie Orris,,716,355,361
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Soil and Water Conservation District Commissioner,,Julie Orris,,673,280,393
+Jones,FV_FAIRVIEW,Soil and Water Conservation District Commissioner,,Julie Orris,,618,326,292
+Jones,GF_GREENFIELD,Soil and Water Conservation District Commissioner,,Julie Orris,,187,45,142
+Jones,MN1_MONTICELLO 1,Soil and Water Conservation District Commissioner,,Julie Orris,,188,72,116
+Jones,MN2_MONTICELLO 2,Soil and Water Conservation District Commissioner,,Julie Orris,,280,98,182
+Jones,MN3_MONTICELLO 3,Soil and Water Conservation District Commissioner,,Julie Orris,,260,92,168
+Jones,MN4_MONTICELLO 4,Soil and Water Conservation District Commissioner,,Julie Orris,,244,99,145
+Jones,OX_OXFORD,Soil and Water Conservation District Commissioner,,Julie Orris,,154,22,132
+Jones,RLWS_RICHLAND-WASHINGTON,Soil and Water Conservation District Commissioner,,Julie Orris,,358,127,231
+Jones,ROHA_ROME-HALE,Soil and Water Conservation District Commissioner,,Julie Orris,,296,82,214
+Jones,SGMC_SC GRV-MADISON-CLAY,Soil and Water Conservation District Commissioner,,Julie Orris,,350,73,277
+Jones,WY_WYOMING,Soil and Water Conservation District Commissioner,,Julie Orris,,232,57,175
+Jones,ANN_ANAMOSA NORTH-CASS,Soil and Water Conservation District Commissioner,,Write-In,,6,2,4
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Soil and Water Conservation District Commissioner,,Write-In,,12,6,6
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Jones,FV_FAIRVIEW,Soil and Water Conservation District Commissioner,,Write-In,,7,3,4
+Jones,GF_GREENFIELD,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
+Jones,MN1_MONTICELLO 1,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Jones,MN2_MONTICELLO 2,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Jones,MN3_MONTICELLO 3,Soil and Water Conservation District Commissioner,,Write-In,,10,5,5
+Jones,MN4_MONTICELLO 4,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Jones,OX_OXFORD,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Jones,RLWS_RICHLAND-WASHINGTON,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Jones,ROHA_ROME-HALE,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Jones,SGMC_SC GRV-MADISON-CLAY,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Jones,WY_WYOMING,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Jones,ANN_ANAMOSA NORTH-CASS,State House,66,Matt English,DEM,519,263,256
+Jones,ANS_ANAMOSA SOUTH-JACKSON,State House,66,Matt English,DEM,706,401,305
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,State House,66,Matt English,DEM,439,241,198
+Jones,FV_FAIRVIEW,State House,66,Matt English,DEM,495,291,204
+Jones,GF_GREENFIELD,State House,66,Matt English,DEM,138,52,86
+Jones,MN1_MONTICELLO 1,State House,66,Matt English,DEM,144,71,73
+Jones,MN2_MONTICELLO 2,State House,66,Matt English,DEM,192,79,113
+Jones,MN3_MONTICELLO 3,State House,66,Matt English,DEM,238,95,143
+Jones,MN4_MONTICELLO 4,State House,66,Matt English,DEM,193,96,97
+Jones,OX_OXFORD,State House,66,Matt English,DEM,104,28,76
+Jones,RLWS_RICHLAND-WASHINGTON,State House,66,Matt English,DEM,182,90,92
+Jones,ROHA_ROME-HALE,State House,66,Matt English,DEM,249,102,147
+Jones,SGMC_SC GRV-MADISON-CLAY,State House,66,Matt English,DEM,178,53,125
+Jones,WY_WYOMING,State House,66,Matt English,DEM,111,35,76
+Jones,ANN_ANAMOSA NORTH-CASS,State House,66,Steven Bradley,REP,455,176,279
+Jones,ANS_ANAMOSA SOUTH-JACKSON,State House,66,Steven Bradley,REP,618,257,361
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,State House,66,Steven Bradley,REP,600,184,416
+Jones,FV_FAIRVIEW,State House,66,Steven Bradley,REP,616,291,325
+Jones,GF_GREENFIELD,State House,66,Steven Bradley,REP,209,36,173
+Jones,MN1_MONTICELLO 1,State House,66,Steven Bradley,REP,166,48,118
+Jones,MN2_MONTICELLO 2,State House,66,Steven Bradley,REP,250,72,178
+Jones,MN3_MONTICELLO 3,State House,66,Steven Bradley,REP,188,56,132
+Jones,MN4_MONTICELLO 4,State House,66,Steven Bradley,REP,178,53,125
+Jones,OX_OXFORD,State House,66,Steven Bradley,REP,155,19,136
+Jones,RLWS_RICHLAND-WASHINGTON,State House,66,Steven Bradley,REP,387,91,296
+Jones,ROHA_ROME-HALE,State House,66,Steven Bradley,REP,307,64,243
+Jones,SGMC_SC GRV-MADISON-CLAY,State House,66,Steven Bradley,REP,316,55,261
+Jones,WY_WYOMING,State House,66,Steven Bradley,REP,208,38,170
+Jones,ANN_ANAMOSA NORTH-CASS,State House,66,Write-In,,0,0,0
+Jones,ANS_ANAMOSA SOUTH-JACKSON,State House,66,Write-In,,0,0,0
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,State House,66,Write-In,,1,0,1
+Jones,FV_FAIRVIEW,State House,66,Write-In,,0,0,0
+Jones,GF_GREENFIELD,State House,66,Write-In,,0,0,0
+Jones,MN1_MONTICELLO 1,State House,66,Write-In,,0,0,0
+Jones,MN2_MONTICELLO 2,State House,66,Write-In,,0,0,0
+Jones,MN3_MONTICELLO 3,State House,66,Write-In,,2,0,2
+Jones,MN4_MONTICELLO 4,State House,66,Write-In,,0,0,0
+Jones,OX_OXFORD,State House,66,Write-In,,0,0,0
+Jones,RLWS_RICHLAND-WASHINGTON,State House,66,Write-In,,1,0,1
+Jones,ROHA_ROME-HALE,State House,66,Write-In,,0,0,0
+Jones,SGMC_SC GRV-MADISON-CLAY,State House,66,Write-In,,1,0,1
+Jones,WY_WYOMING,State House,66,Write-In,,0,0,0
+Jones,ANN_ANAMOSA NORTH-CASS,State Senate,33,Carrie Koelker,REP,507,201,306
+Jones,ANS_ANAMOSA SOUTH-JACKSON,State Senate,33,Carrie Koelker,REP,692,293,399
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,State Senate,33,Carrie Koelker,REP,616,191,425
+Jones,FV_FAIRVIEW,State Senate,33,Carrie Koelker,REP,631,292,339
+Jones,GF_GREENFIELD,State Senate,33,Carrie Koelker,REP,211,38,173
+Jones,MN1_MONTICELLO 1,State Senate,33,Carrie Koelker,REP,174,49,125
+Jones,MN2_MONTICELLO 2,State Senate,33,Carrie Koelker,REP,245,69,176
+Jones,MN3_MONTICELLO 3,State Senate,33,Carrie Koelker,REP,199,61,138
+Jones,MN4_MONTICELLO 4,State Senate,33,Carrie Koelker,REP,189,55,134
+Jones,OX_OXFORD,State Senate,33,Carrie Koelker,REP,155,19,136
+Jones,RLWS_RICHLAND-WASHINGTON,State Senate,33,Carrie Koelker,REP,373,83,290
+Jones,ROHA_ROME-HALE,State Senate,33,Carrie Koelker,REP,335,70,265
+Jones,SGMC_SC GRV-MADISON-CLAY,State Senate,33,Carrie Koelker,REP,326,60,266
+Jones,WY_WYOMING,State Senate,33,Carrie Koelker,REP,211,36,175
+Jones,ANN_ANAMOSA NORTH-CASS,State Senate,33,Mary Ungs-Sogaard,DEM,430,227,203
+Jones,ANS_ANAMOSA SOUTH-JACKSON,State Senate,33,Mary Ungs-Sogaard,DEM,572,344,228
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,State Senate,33,Mary Ungs-Sogaard,DEM,379,213,166
+Jones,FV_FAIRVIEW,State Senate,33,Mary Ungs-Sogaard,DEM,434,274,160
+Jones,GF_GREENFIELD,State Senate,33,Mary Ungs-Sogaard,DEM,126,47,79
+Jones,MN1_MONTICELLO 1,State Senate,33,Mary Ungs-Sogaard,DEM,130,67,63
+Jones,MN2_MONTICELLO 2,State Senate,33,Mary Ungs-Sogaard,DEM,182,80,102
+Jones,MN3_MONTICELLO 3,State Senate,33,Mary Ungs-Sogaard,DEM,220,90,130
+Jones,MN4_MONTICELLO 4,State Senate,33,Mary Ungs-Sogaard,DEM,169,88,81
+Jones,OX_OXFORD,State Senate,33,Mary Ungs-Sogaard,DEM,93,28,65
+Jones,RLWS_RICHLAND-WASHINGTON,State Senate,33,Mary Ungs-Sogaard,DEM,179,88,91
+Jones,ROHA_ROME-HALE,State Senate,33,Mary Ungs-Sogaard,DEM,215,95,120
+Jones,SGMC_SC GRV-MADISON-CLAY,State Senate,33,Mary Ungs-Sogaard,DEM,155,46,109
+Jones,WY_WYOMING,State Senate,33,Mary Ungs-Sogaard,DEM,99,35,64
+Jones,ANN_ANAMOSA NORTH-CASS,State Senate,33,Write-In,,0,0,0
+Jones,ANS_ANAMOSA SOUTH-JACKSON,State Senate,33,Write-In,,0,0,0
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,State Senate,33,Write-In,,2,2,0
+Jones,FV_FAIRVIEW,State Senate,33,Write-In,,1,0,1
+Jones,GF_GREENFIELD,State Senate,33,Write-In,,0,0,0
+Jones,MN1_MONTICELLO 1,State Senate,33,Write-In,,0,0,0
+Jones,MN2_MONTICELLO 2,State Senate,33,Write-In,,0,0,0
+Jones,MN3_MONTICELLO 3,State Senate,33,Write-In,,0,0,0
+Jones,MN4_MONTICELLO 4,State Senate,33,Write-In,,0,0,0
+Jones,OX_OXFORD,State Senate,33,Write-In,,0,0,0
+Jones,RLWS_RICHLAND-WASHINGTON,State Senate,33,Write-In,,0,0,0
+Jones,ROHA_ROME-HALE,State Senate,33,Write-In,,0,0,0
+Jones,SGMC_SC GRV-MADISON-CLAY,State Senate,33,Write-In,,1,0,1
+Jones,WY_WYOMING,State Senate,33,Write-In,,0,0,0
+Jones,ANN_ANAMOSA NORTH-CASS,Treasurer of State,,John Norwood,DEM,452,231,221
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Treasurer of State,,John Norwood,DEM,596,357,239
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Treasurer of State,,John Norwood,DEM,377,215,162
+Jones,FV_FAIRVIEW,Treasurer of State,,John Norwood,DEM,439,271,168
+Jones,GF_GREENFIELD,Treasurer of State,,John Norwood,DEM,132,50,82
+Jones,MN1_MONTICELLO 1,Treasurer of State,,John Norwood,DEM,129,65,64
+Jones,MN2_MONTICELLO 2,Treasurer of State,,John Norwood,DEM,195,82,113
+Jones,MN3_MONTICELLO 3,Treasurer of State,,John Norwood,DEM,226,91,135
+Jones,MN4_MONTICELLO 4,Treasurer of State,,John Norwood,DEM,186,95,91
+Jones,OX_OXFORD,Treasurer of State,,John Norwood,DEM,98,29,69
+Jones,RLWS_RICHLAND-WASHINGTON,Treasurer of State,,John Norwood,DEM,190,88,102
+Jones,ROHA_ROME-HALE,Treasurer of State,,John Norwood,DEM,233,102,131
+Jones,SGMC_SC GRV-MADISON-CLAY,Treasurer of State,,John Norwood,DEM,159,49,110
+Jones,WY_WYOMING,Treasurer of State,,John Norwood,DEM,113,37,76
+Jones,ANN_ANAMOSA NORTH-CASS,Treasurer of State,,Roby Smith,REP,507,199,308
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Treasurer of State,,Roby Smith,REP,699,296,403
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Treasurer of State,,Roby Smith,REP,646,206,440
+Jones,FV_FAIRVIEW,Treasurer of State,,Roby Smith,REP,652,304,348
+Jones,GF_GREENFIELD,Treasurer of State,,Roby Smith,REP,209,37,172
+Jones,MN1_MONTICELLO 1,Treasurer of State,,Roby Smith,REP,176,51,125
+Jones,MN2_MONTICELLO 2,Treasurer of State,,Roby Smith,REP,242,68,174
+Jones,MN3_MONTICELLO 3,Treasurer of State,,Roby Smith,REP,193,58,135
+Jones,MN4_MONTICELLO 4,Treasurer of State,,Roby Smith,REP,184,51,133
+Jones,OX_OXFORD,Treasurer of State,,Roby Smith,REP,160,18,142
+Jones,RLWS_RICHLAND-WASHINGTON,Treasurer of State,,Roby Smith,REP,362,87,275
+Jones,ROHA_ROME-HALE,Treasurer of State,,Roby Smith,REP,316,64,252
+Jones,SGMC_SC GRV-MADISON-CLAY,Treasurer of State,,Roby Smith,REP,327,60,267
+Jones,WY_WYOMING,Treasurer of State,,Roby Smith,REP,201,36,165
+Jones,ANN_ANAMOSA NORTH-CASS,Treasurer of State,,Write-In,,0,0,0
+Jones,ANS_ANAMOSA SOUTH-JACKSON,Treasurer of State,,Write-In,,0,0,0
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Treasurer of State,,Write-In,,0,0,0
+Jones,FV_FAIRVIEW,Treasurer of State,,Write-In,,1,0,1
+Jones,GF_GREENFIELD,Treasurer of State,,Write-In,,0,0,0
+Jones,MN1_MONTICELLO 1,Treasurer of State,,Write-In,,1,0,1
+Jones,MN2_MONTICELLO 2,Treasurer of State,,Write-In,,0,0,0
+Jones,MN3_MONTICELLO 3,Treasurer of State,,Write-In,,0,0,0
+Jones,MN4_MONTICELLO 4,Treasurer of State,,Write-In,,0,0,0
+Jones,OX_OXFORD,Treasurer of State,,Write-In,,0,0,0
+Jones,RLWS_RICHLAND-WASHINGTON,Treasurer of State,,Write-In,,0,0,0
+Jones,ROHA_ROME-HALE,Treasurer of State,,Write-In,,0,0,0
+Jones,SGMC_SC GRV-MADISON-CLAY,Treasurer of State,,Write-In,,2,1,1
+Jones,WY_WYOMING,Treasurer of State,,Write-In,,0,0,0
+Jones,ANN_ANAMOSA NORTH-CASS,U.S. House,1,Christina Bohannan,DEM,470,244,226
+Jones,ANS_ANAMOSA SOUTH-JACKSON,U.S. House,1,Christina Bohannan,DEM,642,384,258
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,U.S. House,1,Christina Bohannan,DEM,415,233,182
+Jones,FV_FAIRVIEW,U.S. House,1,Christina Bohannan,DEM,468,285,183
+Jones,GF_GREENFIELD,U.S. House,1,Christina Bohannan,DEM,133,48,85
+Jones,MN1_MONTICELLO 1,U.S. House,1,Christina Bohannan,DEM,147,71,76
+Jones,MN2_MONTICELLO 2,U.S. House,1,Christina Bohannan,DEM,205,80,125
+Jones,MN3_MONTICELLO 3,U.S. House,1,Christina Bohannan,DEM,232,95,137
+Jones,MN4_MONTICELLO 4,U.S. House,1,Christina Bohannan,DEM,199,102,97
+Jones,OX_OXFORD,U.S. House,1,Christina Bohannan,DEM,105,29,76
+Jones,RLWS_RICHLAND-WASHINGTON,U.S. House,1,Christina Bohannan,DEM,189,92,97
+Jones,ROHA_ROME-HALE,U.S. House,1,Christina Bohannan,DEM,242,103,139
+Jones,SGMC_SC GRV-MADISON-CLAY,U.S. House,1,Christina Bohannan,DEM,174,52,122
+Jones,WY_WYOMING,U.S. House,1,Christina Bohannan,DEM,111,37,74
+Jones,ANN_ANAMOSA NORTH-CASS,U.S. House,1,Mariannette Miller-Meeks,REP,482,187,295
+Jones,ANS_ANAMOSA SOUTH-JACKSON,U.S. House,1,Mariannette Miller-Meeks,REP,643,264,379
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,U.S. House,1,Mariannette Miller-Meeks,REP,585,182,403
+Jones,FV_FAIRVIEW,U.S. House,1,Mariannette Miller-Meeks,REP,617,287,330
+Jones,GF_GREENFIELD,U.S. House,1,Mariannette Miller-Meeks,REP,202,37,165
+Jones,MN1_MONTICELLO 1,U.S. House,1,Mariannette Miller-Meeks,REP,156,45,111
+Jones,MN2_MONTICELLO 2,U.S. House,1,Mariannette Miller-Meeks,REP,230,67,163
+Jones,MN3_MONTICELLO 3,U.S. House,1,Mariannette Miller-Meeks,REP,179,54,125
+Jones,MN4_MONTICELLO 4,U.S. House,1,Mariannette Miller-Meeks,REP,159,42,117
+Jones,OX_OXFORD,U.S. House,1,Mariannette Miller-Meeks,REP,147,17,130
+Jones,RLWS_RICHLAND-WASHINGTON,U.S. House,1,Mariannette Miller-Meeks,REP,359,80,279
+Jones,ROHA_ROME-HALE,U.S. House,1,Mariannette Miller-Meeks,REP,292,62,230
+Jones,SGMC_SC GRV-MADISON-CLAY,U.S. House,1,Mariannette Miller-Meeks,REP,307,54,253
+Jones,WY_WYOMING,U.S. House,1,Mariannette Miller-Meeks,REP,194,33,161
+Jones,ANN_ANAMOSA NORTH-CASS,U.S. House,1,Michael Bridgford,,32,10,22
+Jones,ANS_ANAMOSA SOUTH-JACKSON,U.S. House,1,Michael Bridgford,,45,17,28
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,U.S. House,1,Michael Bridgford,,43,11,32
+Jones,FV_FAIRVIEW,U.S. House,1,Michael Bridgford,,30,11,19
+Jones,GF_GREENFIELD,U.S. House,1,Michael Bridgford,,15,4,11
+Jones,MN1_MONTICELLO 1,U.S. House,1,Michael Bridgford,,10,3,7
+Jones,MN2_MONTICELLO 2,U.S. House,1,Michael Bridgford,,12,5,7
+Jones,MN3_MONTICELLO 3,U.S. House,1,Michael Bridgford,,21,5,16
+Jones,MN4_MONTICELLO 4,U.S. House,1,Michael Bridgford,,18,6,12
+Jones,OX_OXFORD,U.S. House,1,Michael Bridgford,,8,1,7
+Jones,RLWS_RICHLAND-WASHINGTON,U.S. House,1,Michael Bridgford,,18,4,14
+Jones,ROHA_ROME-HALE,U.S. House,1,Michael Bridgford,,29,6,23
+Jones,SGMC_SC GRV-MADISON-CLAY,U.S. House,1,Michael Bridgford,,27,7,20
+Jones,WY_WYOMING,U.S. House,1,Michael Bridgford,,15,2,13
+Jones,ANN_ANAMOSA NORTH-CASS,U.S. House,1,Write-In,,0,0,0
+Jones,ANS_ANAMOSA SOUTH-JACKSON,U.S. House,1,Write-In,,0,0,0
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,U.S. House,1,Write-In,,1,1,0
+Jones,FV_FAIRVIEW,U.S. House,1,Write-In,,1,0,1
+Jones,GF_GREENFIELD,U.S. House,1,Write-In,,0,0,0
+Jones,MN1_MONTICELLO 1,U.S. House,1,Write-In,,0,0,0
+Jones,MN2_MONTICELLO 2,U.S. House,1,Write-In,,0,0,0
+Jones,MN3_MONTICELLO 3,U.S. House,1,Write-In,,0,0,0
+Jones,MN4_MONTICELLO 4,U.S. House,1,Write-In,,0,0,0
+Jones,OX_OXFORD,U.S. House,1,Write-In,,0,0,0
+Jones,RLWS_RICHLAND-WASHINGTON,U.S. House,1,Write-In,,0,0,0
+Jones,ROHA_ROME-HALE,U.S. House,1,Write-In,,0,0,0
+Jones,SGMC_SC GRV-MADISON-CLAY,U.S. House,1,Write-In,,0,0,0
+Jones,WY_WYOMING,U.S. House,1,Write-In,,0,0,0
+Jones,ANN_ANAMOSA NORTH-CASS,U.S. Senate,,Ashley Hinson,REP,488,193,295
+Jones,ANS_ANAMOSA SOUTH-JACKSON,U.S. Senate,,Ashley Hinson,REP,647,268,379
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,U.S. Senate,,Ashley Hinson,REP,621,190,431
+Jones,FV_FAIRVIEW,U.S. Senate,,Ashley Hinson,REP,627,288,339
+Jones,GF_GREENFIELD,U.S. Senate,,Ashley Hinson,REP,200,39,161
+Jones,MN1_MONTICELLO 1,U.S. Senate,,Ashley Hinson,REP,169,49,120
+Jones,MN2_MONTICELLO 2,U.S. Senate,,Ashley Hinson,REP,241,68,173
+Jones,MN3_MONTICELLO 3,U.S. Senate,,Ashley Hinson,REP,188,60,128
+Jones,MN4_MONTICELLO 4,U.S. Senate,,Ashley Hinson,REP,176,51,125
+Jones,OX_OXFORD,U.S. Senate,,Ashley Hinson,REP,155,19,136
+Jones,RLWS_RICHLAND-WASHINGTON,U.S. Senate,,Ashley Hinson,REP,358,83,275
+Jones,ROHA_ROME-HALE,U.S. Senate,,Ashley Hinson,REP,301,63,238
+Jones,SGMC_SC GRV-MADISON-CLAY,U.S. Senate,,Ashley Hinson,REP,322,57,265
+Jones,WY_WYOMING,U.S. Senate,,Ashley Hinson,REP,207,35,172
+Jones,ANN_ANAMOSA NORTH-CASS,U.S. Senate,,Josh Turek,DEM,461,236,225
+Jones,ANS_ANAMOSA SOUTH-JACKSON,U.S. Senate,,Josh Turek,DEM,627,373,254
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,U.S. Senate,,Josh Turek,DEM,408,230,178
+Jones,FV_FAIRVIEW,U.S. Senate,,Josh Turek,DEM,460,280,180
+Jones,GF_GREENFIELD,U.S. Senate,,Josh Turek,DEM,143,50,93
+Jones,MN1_MONTICELLO 1,U.S. Senate,,Josh Turek,DEM,136,69,67
+Jones,MN2_MONTICELLO 2,U.S. Senate,,Josh Turek,DEM,197,78,119
+Jones,MN3_MONTICELLO 3,U.S. Senate,,Josh Turek,DEM,225,91,134
+Jones,MN4_MONTICELLO 4,U.S. Senate,,Josh Turek,DEM,184,92,92
+Jones,OX_OXFORD,U.S. Senate,,Josh Turek,DEM,95,26,69
+Jones,RLWS_RICHLAND-WASHINGTON,U.S. Senate,,Josh Turek,DEM,198,93,105
+Jones,ROHA_ROME-HALE,U.S. Senate,,Josh Turek,DEM,236,98,138
+Jones,SGMC_SC GRV-MADISON-CLAY,U.S. Senate,,Josh Turek,DEM,169,52,117
+Jones,WY_WYOMING,U.S. Senate,,Josh Turek,DEM,109,37,72
+Jones,ANN_ANAMOSA NORTH-CASS,U.S. Senate,,Thomas Laehn,LIB,39,12,27
+Jones,ANS_ANAMOSA SOUTH-JACKSON,U.S. Senate,,Thomas Laehn,LIB,62,26,36
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,U.S. Senate,,Thomas Laehn,LIB,24,6,18
+Jones,FV_FAIRVIEW,U.S. Senate,,Thomas Laehn,LIB,29,15,14
+Jones,GF_GREENFIELD,U.S. Senate,,Thomas Laehn,LIB,8,1,7
+Jones,MN1_MONTICELLO 1,U.S. Senate,,Thomas Laehn,LIB,10,0,10
+Jones,MN2_MONTICELLO 2,U.S. Senate,,Thomas Laehn,LIB,9,5,4
+Jones,MN3_MONTICELLO 3,U.S. Senate,,Thomas Laehn,LIB,19,2,17
+Jones,MN4_MONTICELLO 4,U.S. Senate,,Thomas Laehn,LIB,14,4,10
+Jones,OX_OXFORD,U.S. Senate,,Thomas Laehn,LIB,10,2,8
+Jones,RLWS_RICHLAND-WASHINGTON,U.S. Senate,,Thomas Laehn,LIB,17,3,14
+Jones,ROHA_ROME-HALE,U.S. Senate,,Thomas Laehn,LIB,23,8,15
+Jones,SGMC_SC GRV-MADISON-CLAY,U.S. Senate,,Thomas Laehn,LIB,19,5,14
+Jones,WY_WYOMING,U.S. Senate,,Thomas Laehn,LIB,8,1,7
+Jones,ANN_ANAMOSA NORTH-CASS,U.S. Senate,,Write-In,,1,0,1
+Jones,ANS_ANAMOSA SOUTH-JACKSON,U.S. Senate,,Write-In,,0,0,0
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,U.S. Senate,,Write-In,,0,0,0
+Jones,FV_FAIRVIEW,U.S. Senate,,Write-In,,2,1,1
+Jones,GF_GREENFIELD,U.S. Senate,,Write-In,,0,0,0
+Jones,MN1_MONTICELLO 1,U.S. Senate,,Write-In,,0,0,0
+Jones,MN2_MONTICELLO 2,U.S. Senate,,Write-In,,0,0,0
+Jones,MN3_MONTICELLO 3,U.S. Senate,,Write-In,,0,0,0
+Jones,MN4_MONTICELLO 4,U.S. Senate,,Write-In,,0,0,0
+Jones,OX_OXFORD,U.S. Senate,,Write-In,,0,0,0
+Jones,RLWS_RICHLAND-WASHINGTON,U.S. Senate,,Write-In,,0,0,0
+Jones,ROHA_ROME-HALE,U.S. Senate,,Write-In,,0,0,0
+Jones,SGMC_SC GRV-MADISON-CLAY,U.S. Senate,,Write-In,,0,0,0
+Jones,WY_WYOMING,U.S. Senate,,Write-In,,0,0,0
+Jones,RLWS_RICHLAND-WASHINGTON,Washington Township Clerk,,Russell Radloff,,158,50,108
+Jones,RLWS_RICHLAND-WASHINGTON,Washington Township Clerk,,Write-In,,1,0,1
+Jones,RLWS_RICHLAND-WASHINGTON,Washington Township Trustee,,Write-In,,12,3,9
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Wayne Township Clerk,,Beth Toenjes,,274,121,153
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Wayne Township Clerk,,Write-In,,1,0,1
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Wayne Township Trustee,,Todd Rickels,,280,127,153
+Jones,CGLW_CASTLE GRV-LOV-WAYNE,Wayne Township Trustee,,Write-In,,2,0,2
+Jones,WY_WYOMING,Wyoming Township Clerk,,Patricia Whitmarsh,,93,22,71
+Jones,WY_WYOMING,Wyoming Township Clerk,,Write-In,,1,0,1
+Jones,WY_WYOMING,Wyoming Township Trustee,,John Jamison,,97,23,74
+Jones,WY_WYOMING,Wyoming Township Trustee,,Write-In,,0,0,0

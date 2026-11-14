@@ -1,0 +1,344 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Van Buren,Central,Attorney General,,Brenna Bird,REP,502,194,308
+Van Buren,East,Attorney General,,Brenna Bird,REP,499,106,393
+Van Buren,North,Attorney General,,Brenna Bird,REP,636,110,526
+Van Buren,Southwest,Attorney General,,Brenna Bird,REP,356,103,253
+Van Buren,Central,Attorney General,,Nate Willems,DEM,254,120,134
+Van Buren,East,Attorney General,,Nate Willems,DEM,221,77,144
+Van Buren,North,Attorney General,,Nate Willems,DEM,190,55,135
+Van Buren,Southwest,Attorney General,,Nate Willems,DEM,104,38,66
+Van Buren,Central,Attorney General,,Write-In,,2,1,1
+Van Buren,East,Attorney General,,Write-In,,1,0,1
+Van Buren,North,Attorney General,,Write-In,,0,0,0
+Van Buren,Southwest,Attorney General,,Write-In,,1,1,0
+Van Buren,Central,Auditor of State,,Chris Cournoyer,REP,514,198,316
+Van Buren,East,Auditor of State,,Chris Cournoyer,REP,500,104,396
+Van Buren,North,Auditor of State,,Chris Cournoyer,REP,632,109,523
+Van Buren,Southwest,Auditor of State,,Chris Cournoyer,REP,361,103,258
+Van Buren,Central,Auditor of State,,Taylor Wettach,DEM,245,117,128
+Van Buren,East,Auditor of State,,Taylor Wettach,DEM,222,78,144
+Van Buren,North,Auditor of State,,Taylor Wettach,DEM,190,57,133
+Van Buren,Southwest,Auditor of State,,Taylor Wettach,DEM,100,39,61
+Van Buren,Central,Auditor of State,,Write-In,,1,1,0
+Van Buren,East,Auditor of State,,Write-In,,2,0,2
+Van Buren,North,Auditor of State,,Write-In,,0,0,0
+Van Buren,Southwest,Auditor of State,,Write-In,,1,0,1
+Van Buren,East,Bonaparte Township Clerk,,Richard Eden,,124,21,103
+Van Buren,East,Bonaparte Township Clerk,,Write-In,,0,0,0
+Van Buren,East,Bonaparte Township Trustee,,Write-In,,45,4,41
+Van Buren,North,Cedar Township Clerk,,Carol Deao,,77,16,61
+Van Buren,North,Cedar Township Clerk,,Write-In,,0,0,0
+Van Buren,North,Cedar Township Trustee,,David Hoaglin,,77,17,60
+Van Buren,North,Cedar Township Trustee,,Write-In,,0,0,0
+Van Buren,Southwest,Chequest Township Clerk,,Write-In,,10,4,6
+Van Buren,Southwest,Chequest Township Trustee,,Write-In,,23,8,15
+Van Buren,Central,Constitutional Amendment 1,,No,,280,122,158
+Van Buren,East,Constitutional Amendment 1,,No,,302,67,235
+Van Buren,North,Constitutional Amendment 1,,No,,311,54,257
+Van Buren,Southwest,Constitutional Amendment 1,,No,,159,42,117
+Van Buren,Central,Constitutional Amendment 1,,Yes,,418,167,251
+Van Buren,East,Constitutional Amendment 1,,Yes,,390,108,282
+Van Buren,North,Constitutional Amendment 1,,Yes,,452,102,350
+Van Buren,Southwest,Constitutional Amendment 1,,Yes,,279,87,192
+Van Buren,Central,County Agricultural Extension Council Member,,Hannah Wells,,493,192,301
+Van Buren,East,County Agricultural Extension Council Member,,Hannah Wells,,431,94,337
+Van Buren,North,County Agricultural Extension Council Member,,Hannah Wells,,476,88,388
+Van Buren,Southwest,County Agricultural Extension Council Member,,Hannah Wells,,333,90,243
+Van Buren,Central,County Agricultural Extension Council Member,,Jasmine Padget,,446,174,272
+Van Buren,East,County Agricultural Extension Council Member,,Jasmine Padget,,318,62,256
+Van Buren,North,County Agricultural Extension Council Member,,Jasmine Padget,,394,69,325
+Van Buren,Southwest,County Agricultural Extension Council Member,,Jasmine Padget,,266,81,185
+Van Buren,Central,County Agricultural Extension Council Member,,Jennifer Gardner,,368,158,210
+Van Buren,East,County Agricultural Extension Council Member,,Jennifer Gardner,,370,83,287
+Van Buren,North,County Agricultural Extension Council Member,,Jennifer Gardner,,403,85,318
+Van Buren,Southwest,County Agricultural Extension Council Member,,Jennifer Gardner,,232,67,165
+Van Buren,Central,County Agricultural Extension Council Member,,Kelly Gordy,,401,163,238
+Van Buren,East,County Agricultural Extension Council Member,,Kelly Gordy,,388,95,293
+Van Buren,North,County Agricultural Extension Council Member,,Kelly Gordy,,402,76,326
+Van Buren,Southwest,County Agricultural Extension Council Member,,Kelly Gordy,,284,78,206
+Van Buren,Central,County Agricultural Extension Council Member,,Mary Jane Mast,,447,174,273
+Van Buren,East,County Agricultural Extension Council Member,,Mary Jane Mast,,387,84,303
+Van Buren,North,County Agricultural Extension Council Member,,Mary Jane Mast,,413,81,332
+Van Buren,Southwest,County Agricultural Extension Council Member,,Mary Jane Mast,,256,74,182
+Van Buren,Central,County Agricultural Extension Council Member,,Patrick Thomas,,414,158,256
+Van Buren,East,County Agricultural Extension Council Member,,Patrick Thomas,,383,86,297
+Van Buren,North,County Agricultural Extension Council Member,,Patrick Thomas,,383,67,316
+Van Buren,Southwest,County Agricultural Extension Council Member,,Patrick Thomas,,271,83,188
+Van Buren,Central,County Agricultural Extension Council Member,,Write-In,,10,3,7
+Van Buren,East,County Agricultural Extension Council Member,,Write-In,,11,0,11
+Van Buren,North,County Agricultural Extension Council Member,,Write-In,,14,0,14
+Van Buren,Southwest,County Agricultural Extension Council Member,,Write-In,,10,1,9
+Van Buren,Central,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,54,23,31
+Van Buren,East,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,80,15,65
+Van Buren,North,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,50,7,43
+Van Buren,Southwest,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,45,10,35
+Van Buren,Central,County Attorney,,H. Craig Miller,,542,209,333
+Van Buren,East,County Attorney,,H. Craig Miller,,510,116,394
+Van Buren,North,County Attorney,,H. Craig Miller,,624,125,499
+Van Buren,Southwest,County Attorney,,H. Craig Miller,,330,86,244
+Van Buren,Central,County Attorney,,Write-In,,26,13,13
+Van Buren,East,County Attorney,,Write-In,,36,4,32
+Van Buren,North,County Attorney,,Write-In,,34,4,30
+Van Buren,Southwest,County Attorney,,Write-In,,19,6,13
+Van Buren,Central,County Board of Supervisors,,Dale J. House,REP,521,215,306
+Van Buren,East,County Board of Supervisors,,Dale J. House,REP,398,102,296
+Van Buren,North,County Board of Supervisors,,Dale J. House,REP,541,111,430
+Van Buren,Southwest,County Board of Supervisors,,Dale J. House,REP,233,63,170
+Van Buren,Central,County Board of Supervisors,,Mark Meek,REP,508,204,304
+Van Buren,East,County Board of Supervisors,,Mark Meek,REP,566,138,428
+Van Buren,North,County Board of Supervisors,,Mark Meek,REP,433,93,340
+Van Buren,Southwest,County Board of Supervisors,,Mark Meek,REP,346,103,243
+Van Buren,Central,County Board of Supervisors,,Write-In,,105,41,64
+Van Buren,East,County Board of Supervisors,,Write-In,,119,20,99
+Van Buren,North,County Board of Supervisors,,Write-In,,231,37,194
+Van Buren,Southwest,County Board of Supervisors,,Write-In,,114,30,84
+Van Buren,Central,County Hospital Trustee,,Ann McBride,,521,202,319
+Van Buren,East,County Hospital Trustee,,Ann McBride,,475,104,371
+Van Buren,North,County Hospital Trustee,,Ann McBride,,499,97,402
+Van Buren,Southwest,County Hospital Trustee,,Ann McBride,,302,85,217
+Van Buren,Central,County Hospital Trustee,,Kayla Scheuers,,538,204,334
+Van Buren,East,County Hospital Trustee,,Kayla Scheuers,,481,108,373
+Van Buren,North,County Hospital Trustee,,Kayla Scheuers,,500,90,410
+Van Buren,Southwest,County Hospital Trustee,,Kayla Scheuers,,301,89,212
+Van Buren,Central,County Hospital Trustee,,Michael William Thomas,,532,201,331
+Van Buren,East,County Hospital Trustee,,Michael William Thomas,,516,117,399
+Van Buren,North,County Hospital Trustee,,Michael William Thomas,,520,96,424
+Van Buren,Southwest,County Hospital Trustee,,Michael William Thomas,,332,99,233
+Van Buren,Central,County Hospital Trustee,,Quenton Dodson,,516,197,319
+Van Buren,East,County Hospital Trustee,,Quenton Dodson,,461,102,359
+Van Buren,North,County Hospital Trustee,,Quenton Dodson,,505,94,411
+Van Buren,Southwest,County Hospital Trustee,,Quenton Dodson,,315,89,226
+Van Buren,Central,County Hospital Trustee,,Write-In,,13,3,10
+Van Buren,East,County Hospital Trustee,,Write-In,,26,1,25
+Van Buren,North,County Hospital Trustee,,Write-In,,19,0,19
+Van Buren,Southwest,County Hospital Trustee,,Write-In,,13,6,7
+Van Buren,Central,County Recorder,,Lisa Crane,REP,705,282,423
+Van Buren,East,County Recorder,,Lisa Crane,REP,662,158,504
+Van Buren,North,County Recorder,,Lisa Crane,REP,785,157,628
+Van Buren,Southwest,County Recorder,,Lisa Crane,REP,433,130,303
+Van Buren,Central,County Recorder,,Write-In,,2,1,1
+Van Buren,East,County Recorder,,Write-In,,10,3,7
+Van Buren,North,County Recorder,,Write-In,,5,1,4
+Van Buren,Southwest,County Recorder,,Write-In,,2,0,2
+Van Buren,Central,County Treasurer,,Linda Whitten,DEM,681,274,407
+Van Buren,East,County Treasurer,,Linda Whitten,DEM,618,144,474
+Van Buren,North,County Treasurer,,Linda Whitten,DEM,706,145,561
+Van Buren,Southwest,County Treasurer,,Linda Whitten,DEM,410,122,288
+Van Buren,Central,County Treasurer,,Write-In,,11,7,4
+Van Buren,East,County Treasurer,,Write-In,,9,2,7
+Van Buren,North,County Treasurer,,Write-In,,14,4,10
+Van Buren,Southwest,County Treasurer,,Write-In,,10,2,8
+Van Buren,Central,Court of Appeals Judge - John M. Sandy,,No,,167,51,116
+Van Buren,East,Court of Appeals Judge - John M. Sandy,,No,,207,46,161
+Van Buren,North,Court of Appeals Judge - John M. Sandy,,No,,207,48,159
+Van Buren,Southwest,Court of Appeals Judge - John M. Sandy,,No,,89,28,61
+Van Buren,Central,Court of Appeals Judge - John M. Sandy,,Yes,,410,176,234
+Van Buren,East,Court of Appeals Judge - John M. Sandy,,Yes,,366,80,286
+Van Buren,North,Court of Appeals Judge - John M. Sandy,,Yes,,400,76,324
+Van Buren,Southwest,Court of Appeals Judge - John M. Sandy,,Yes,,267,84,183
+Van Buren,Central,Court of Appeals Judge - Julie A. Schumacher,,No,,153,47,106
+Van Buren,East,Court of Appeals Judge - Julie A. Schumacher,,No,,212,45,167
+Van Buren,North,Court of Appeals Judge - Julie A. Schumacher,,No,,200,41,159
+Van Buren,Southwest,Court of Appeals Judge - Julie A. Schumacher,,No,,90,26,64
+Van Buren,Central,Court of Appeals Judge - Julie A. Schumacher,,Yes,,431,183,248
+Van Buren,East,Court of Appeals Judge - Julie A. Schumacher,,Yes,,360,82,278
+Van Buren,North,Court of Appeals Judge - Julie A. Schumacher,,Yes,,409,85,324
+Van Buren,Southwest,Court of Appeals Judge - Julie A. Schumacher,,Yes,,265,85,180
+Van Buren,Central,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,164,53,111
+Van Buren,East,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,231,47,184
+Van Buren,North,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,209,43,166
+Van Buren,Southwest,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,98,30,68
+Van Buren,Central,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,420,177,243
+Van Buren,East,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,348,81,267
+Van Buren,North,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,412,83,329
+Van Buren,Southwest,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,260,83,177
+Van Buren,Southwest,Des Moines Township Clerk,,Write-In,,6,4,2
+Van Buren,Southwest,Des Moines Township Trustee,,Corby Troutman,,82,36,46
+Van Buren,Southwest,Des Moines Township Trustee,,William I. Helling,,81,39,42
+Van Buren,Southwest,Des Moines Township Trustee,,Write-In,,1,1,0
+Van Buren,Central,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,160,54,106
+Van Buren,East,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,211,43,168
+Van Buren,North,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,189,42,147
+Van Buren,Southwest,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,88,27,61
+Van Buren,Central,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,422,180,242
+Van Buren,East,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,361,82,279
+Van Buren,North,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,426,82,344
+Van Buren,Southwest,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,266,86,180
+Van Buren,Central,District 8A Associate Judge - Susan Cole,,No,,149,45,104
+Van Buren,East,District 8A Associate Judge - Susan Cole,,No,,205,42,163
+Van Buren,North,District 8A Associate Judge - Susan Cole,,No,,189,40,149
+Van Buren,Southwest,District 8A Associate Judge - Susan Cole,,No,,82,26,56
+Van Buren,Central,District 8A Associate Judge - Susan Cole,,Yes,,433,188,245
+Van Buren,East,District 8A Associate Judge - Susan Cole,,Yes,,372,87,285
+Van Buren,North,District 8A Associate Judge - Susan Cole,,Yes,,426,85,341
+Van Buren,Southwest,District 8A Associate Judge - Susan Cole,,Yes,,279,87,192
+Van Buren,Central,District 8A Judge - Amber L. Thompson,,No,,145,46,99
+Van Buren,East,District 8A Judge - Amber L. Thompson,,No,,204,41,163
+Van Buren,North,District 8A Judge - Amber L. Thompson,,No,,193,42,151
+Van Buren,Southwest,District 8A Judge - Amber L. Thompson,,No,,87,26,61
+Van Buren,Central,District 8A Judge - Amber L. Thompson,,Yes,,426,181,245
+Van Buren,East,District 8A Judge - Amber L. Thompson,,Yes,,366,83,283
+Van Buren,North,District 8A Judge - Amber L. Thompson,,Yes,,412,82,330
+Van Buren,Southwest,District 8A Judge - Amber L. Thompson,,Yes,,268,86,182
+Van Buren,Central,District 8A Judge - Dustin Hite,,No,,168,54,114
+Van Buren,East,District 8A Judge - Dustin Hite,,No,,221,51,170
+Van Buren,North,District 8A Judge - Dustin Hite,,No,,196,41,155
+Van Buren,Southwest,District 8A Judge - Dustin Hite,,No,,86,28,58
+Van Buren,Central,District 8A Judge - Dustin Hite,,Yes,,410,173,237
+Van Buren,East,District 8A Judge - Dustin Hite,,Yes,,356,74,282
+Van Buren,North,District 8A Judge - Dustin Hite,,Yes,,421,82,339
+Van Buren,Southwest,District 8A Judge - Dustin Hite,,Yes,,272,84,188
+Van Buren,North,Fairfield School - Public Measure LR,,No,,13,2,11
+Van Buren,North,Fairfield School - Public Measure LR,,Yes,,3,2,1
+Van Buren,East,Farmington Township Clerk,,Kathy J. Hood,,133,31,102
+Van Buren,East,Farmington Township Clerk,,Write-In,,1,1,0
+Van Buren,East,Farmington Township Trustee,,Write-In,,46,3,43
+Van Buren,Central,Governor,,Rob Sand and Dave Muhlbauer,DEM,314,138,176
+Van Buren,East,Governor,,Rob Sand and Dave Muhlbauer,DEM,267,86,181
+Van Buren,North,Governor,,Rob Sand and Dave Muhlbauer,DEM,251,67,184
+Van Buren,Southwest,Governor,,Rob Sand and Dave Muhlbauer,DEM,131,47,84
+Van Buren,Central,Governor,,Write-In,,1,0,1
+Van Buren,East,Governor,,Write-In,,0,0,0
+Van Buren,North,Governor,,Write-In,,2,0,2
+Van Buren,Southwest,Governor,,Write-In,,0,0,0
+Van Buren,Central,Governor,,Zach Lahn and Derek Wulf,REP,455,179,276
+Van Buren,East,Governor,,Zach Lahn and Derek Wulf,REP,468,98,370
+Van Buren,North,Governor,,Zach Lahn and Derek Wulf,REP,590,98,492
+Van Buren,Southwest,Governor,,Zach Lahn and Derek Wulf,REP,339,96,243
+Van Buren,East,Harrisburg Township Clerk,,Wayne Phelps,,77,16,61
+Van Buren,East,Harrisburg Township Clerk,,Write-In,,2,0,2
+Van Buren,East,Harrisburg Township Trustee,,Write-In,,53,9,44
+Van Buren,Central,Henry Township Clerk,,Kathy Bartholomew,,70,29,41
+Van Buren,Central,Henry Township Clerk,,Write-In,,0,0,0
+Van Buren,Central,Henry Township Trustee,,Ken M. Hornbaker,,67,27,40
+Van Buren,Central,Henry Township Trustee,,Write-In,,0,0,0
+Van Buren,Southwest,Jackson Township Clerk,,Benjamin W. Koellner,,83,15,68
+Van Buren,Southwest,Jackson Township Clerk,,Write-In,,2,0,2
+Van Buren,Southwest,Jackson Township Trustee,,Loren Weatherington,,90,19,71
+Van Buren,Southwest,Jackson Township Trustee,,Write-In,,2,0,2
+Van Buren,North,Lick Creek Township Clerk,,Write-In,,17,4,13
+Van Buren,North,Lick Creek Township Trustee,,Steven E. Kisling,,163,44,119
+Van Buren,North,Lick Creek Township Trustee,,Write-In,,4,0,4
+Van Buren,North,Lick Creek Township Trustee To Fill a Vacancy,,Dennis Syfert,,154,40,114
+Van Buren,North,Lick Creek Township Trustee To Fill a Vacancy,,Write-In,,2,0,2
+Van Buren,Central,Secretary of Agriculture,,Chris Jones,DEM,235,115,120
+Van Buren,East,Secretary of Agriculture,,Chris Jones,DEM,208,71,137
+Van Buren,North,Secretary of Agriculture,,Chris Jones,DEM,184,54,130
+Van Buren,Southwest,Secretary of Agriculture,,Chris Jones,DEM,94,38,56
+Van Buren,Central,Secretary of Agriculture,,Mike Naig,REP,526,201,325
+Van Buren,East,Secretary of Agriculture,,Mike Naig,REP,513,110,403
+Van Buren,North,Secretary of Agriculture,,Mike Naig,REP,653,114,539
+Van Buren,Southwest,Secretary of Agriculture,,Mike Naig,REP,369,106,263
+Van Buren,Central,Secretary of Agriculture,,Write-In,,1,1,0
+Van Buren,East,Secretary of Agriculture,,Write-In,,4,0,4
+Van Buren,North,Secretary of Agriculture,,Write-In,,1,0,1
+Van Buren,Southwest,Secretary of Agriculture,,Write-In,,0,0,0
+Van Buren,Central,Secretary of State,,Paul D. Pate,REP,531,204,327
+Van Buren,East,Secretary of State,,Paul D. Pate,REP,519,110,409
+Van Buren,North,Secretary of State,,Paul D. Pate,REP,653,112,541
+Van Buren,Southwest,Secretary of State,,Paul D. Pate,REP,377,107,270
+Van Buren,Central,Secretary of State,,Ryan Peterman,DEM,230,113,117
+Van Buren,East,Secretary of State,,Ryan Peterman,DEM,208,73,135
+Van Buren,North,Secretary of State,,Ryan Peterman,DEM,185,56,129
+Van Buren,Southwest,Secretary of State,,Ryan Peterman,DEM,86,35,51
+Van Buren,Central,Secretary of State,,Write-In,,1,1,0
+Van Buren,East,Secretary of State,,Write-In,,2,0,2
+Van Buren,North,Secretary of State,,Write-In,,0,0,0
+Van Buren,Southwest,Secretary of State,,Write-In,,0,0,0
+Van Buren,Central,Soil and Water Conservation District Commissioner,,Dennis Gratz,,516,199,317
+Van Buren,East,Soil and Water Conservation District Commissioner,,Dennis Gratz,,549,126,423
+Van Buren,North,Soil and Water Conservation District Commissioner,,Dennis Gratz,,509,95,414
+Van Buren,Southwest,Soil and Water Conservation District Commissioner,,Dennis Gratz,,313,100,213
+Van Buren,Central,Soil and Water Conservation District Commissioner,,Rodney Peck,,581,229,352
+Van Buren,East,Soil and Water Conservation District Commissioner,,Rodney Peck,,525,127,398
+Van Buren,North,Soil and Water Conservation District Commissioner,,Rodney Peck,,619,123,496
+Van Buren,Southwest,Soil and Water Conservation District Commissioner,,Rodney Peck,,355,100,255
+Van Buren,Central,Soil and Water Conservation District Commissioner,,Write-In,,7,0,7
+Van Buren,East,Soil and Water Conservation District Commissioner,,Write-In,,13,1,12
+Van Buren,North,Soil and Water Conservation District Commissioner,,Write-In,,7,0,7
+Van Buren,Southwest,Soil and Water Conservation District Commissioner,,Write-In,,6,0,6
+Van Buren,Central,State House,87,Jeff Shipley,REP,465,191,274
+Van Buren,East,State House,87,Jeff Shipley,REP,490,101,389
+Van Buren,North,State House,87,Jeff Shipley,REP,598,103,495
+Van Buren,Southwest,State House,87,Jeff Shipley,REP,329,91,238
+Van Buren,Central,State House,87,Thomas R. O'Donnell,DEM,306,128,178
+Van Buren,East,State House,87,Thomas R. O'Donnell,DEM,239,83,156
+Van Buren,North,State House,87,Thomas R. O'Donnell,DEM,247,65,182
+Van Buren,Southwest,State House,87,Thomas R. O'Donnell,DEM,137,52,85
+Van Buren,Central,State House,87,Write-In,,2,2,0
+Van Buren,East,State House,87,Write-In,,2,0,2
+Van Buren,North,State House,87,Write-In,,2,1,1
+Van Buren,Southwest,State House,87,Write-In,,0,0,0
+Van Buren,Central,Treasurer of State,,John Norwood,DEM,246,115,131
+Van Buren,East,Treasurer of State,,John Norwood,DEM,210,72,138
+Van Buren,North,Treasurer of State,,John Norwood,DEM,177,57,120
+Van Buren,Southwest,Treasurer of State,,John Norwood,DEM,104,41,63
+Van Buren,Central,Treasurer of State,,Roby Smith,REP,502,197,305
+Van Buren,East,Treasurer of State,,Roby Smith,REP,511,108,403
+Van Buren,North,Treasurer of State,,Roby Smith,REP,644,108,536
+Van Buren,Southwest,Treasurer of State,,Roby Smith,REP,353,98,255
+Van Buren,Central,Treasurer of State,,Write-In,,1,1,0
+Van Buren,East,Treasurer of State,,Write-In,,2,0,2
+Van Buren,North,Treasurer of State,,Write-In,,0,0,0
+Van Buren,Southwest,Treasurer of State,,Write-In,,1,1,0
+Van Buren,Central,U.S. House,1,Christina Bohannan,DEM,271,122,149
+Van Buren,East,U.S. House,1,Christina Bohannan,DEM,225,79,146
+Van Buren,North,U.S. House,1,Christina Bohannan,DEM,199,57,142
+Van Buren,Southwest,U.S. House,1,Christina Bohannan,DEM,115,46,69
+Van Buren,Central,U.S. House,1,Mariannette Miller-Meeks,REP,486,196,290
+Van Buren,East,U.S. House,1,Mariannette Miller-Meeks,REP,481,99,382
+Van Buren,North,U.S. House,1,Mariannette Miller-Meeks,REP,597,100,497
+Van Buren,Southwest,U.S. House,1,Mariannette Miller-Meeks,REP,333,95,238
+Van Buren,Central,U.S. House,1,Michael Bridgford,,13,3,10
+Van Buren,East,U.S. House,1,Michael Bridgford,,27,5,22
+Van Buren,North,U.S. House,1,Michael Bridgford,,46,9,37
+Van Buren,Southwest,U.S. House,1,Michael Bridgford,,17,1,16
+Van Buren,Central,U.S. House,1,Write-In,,0,0,0
+Van Buren,East,U.S. House,1,Write-In,,1,0,1
+Van Buren,North,U.S. House,1,Write-In,,0,0,0
+Van Buren,Southwest,U.S. House,1,Write-In,,1,0,1
+Van Buren,Central,U.S. Senate,,Ashley Hinson,REP,482,192,290
+Van Buren,East,U.S. Senate,,Ashley Hinson,REP,481,101,380
+Van Buren,North,U.S. Senate,,Ashley Hinson,REP,580,99,481
+Van Buren,Southwest,U.S. Senate,,Ashley Hinson,REP,335,99,236
+Van Buren,Central,U.S. Senate,,Josh Turek,DEM,247,113,134
+Van Buren,East,U.S. Senate,,Josh Turek,DEM,213,76,137
+Van Buren,North,U.S. Senate,,Josh Turek,DEM,196,54,142
+Van Buren,Southwest,U.S. Senate,,Josh Turek,DEM,102,38,64
+Van Buren,Central,U.S. Senate,,Thomas Laehn,LIB,36,14,22
+Van Buren,East,U.S. Senate,,Thomas Laehn,LIB,33,5,28
+Van Buren,North,U.S. Senate,,Thomas Laehn,LIB,55,12,43
+Van Buren,Southwest,U.S. Senate,,Thomas Laehn,LIB,27,3,24
+Van Buren,Central,U.S. Senate,,Write-In,,0,0,0
+Van Buren,East,U.S. Senate,,Write-In,,2,0,2
+Van Buren,North,U.S. Senate,,Write-In,,2,0,2
+Van Buren,Southwest,U.S. Senate,,Write-In,,1,0,1
+Van Buren,North,Union Township Clerk,,Mark Carter,,98,17,81
+Van Buren,North,Union Township Clerk,,Write-In,,0,0,0
+Van Buren,North,Union Township Trustee,,Steven Unkrich,,82,15,67
+Van Buren,North,Union Township Trustee,,Troy Lyon,,83,13,70
+Van Buren,North,Union Township Trustee,,Write-In,,3,0,3
+Van Buren,Central,Van Buren County School - Public Measure US,,No,,339,141,198
+Van Buren,East,Van Buren County School - Public Measure US,,No,,526,117,409
+Van Buren,North,Van Buren County School - Public Measure US,,No,,461,85,376
+Van Buren,Southwest,Van Buren County School - Public Measure US,,No,,270,77,193
+Van Buren,Central,Van Buren County School - Public Measure US,,Yes,,388,157,231
+Van Buren,East,Van Buren County School - Public Measure US,,Yes,,178,56,122
+Van Buren,North,Van Buren County School - Public Measure US,,Yes,,255,53,202
+Van Buren,Southwest,Van Buren County School - Public Measure US,,Yes,,172,56,116
+Van Buren,Central,Van Buren Township Clerk,,Mike Plecker,,149,66,83
+Van Buren,Central,Van Buren Township Clerk,,Write-In,,2,0,2
+Van Buren,Central,Van Buren Township Trustee,,Write-In,,18,5,13
+Van Buren,Central,Vernon Township Clerk,,Write-In,,9,4,5
+Van Buren,Central,Vernon Township Trustee,,Write-In,,22,10,12
+Van Buren,Central,Vernon Township Trustee To Fill a Vacancy,,Write-In,,7,3,4
+Van Buren,North,Village Township Clerk,,Donald Gene Pool,,188,45,143
+Van Buren,North,Village Township Clerk,,Write-In,,3,1,2
+Van Buren,North,Village Township Trustee,,Doug Pool,,145,31,114
+Van Buren,North,Village Township Trustee,,Terry Hostetler,,162,39,123
+Van Buren,North,Village Township Trustee,,Write-In,,8,3,5
+Van Buren,East,Washington Township Clerk,,Twila Westercamp,,56,23,33
+Van Buren,East,Washington Township Clerk,,Write-In,,0,0,0
+Van Buren,East,Washington Township Trustee,,Christy Barker Vickerman,,47,23,24
+Van Buren,East,Washington Township Trustee,,Keith Morris,,51,24,27
+Van Buren,East,Washington Township Trustee,,Write-In,,4,0,4

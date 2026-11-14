@@ -1,0 +1,989 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Cedar,Cass-Center-Iowa-Rocheste,Attorney General,,Brenna Bird,REP,743,362,381
+Cedar,Dayton-Fairfield,Attorney General,,Brenna Bird,REP,377,102,275
+Cedar,Farmington-Sugar Creek,Attorney General,,Brenna Bird,REP,740,188,552
+Cedar,Fremont-Red Oak,Attorney General,,Brenna Bird,REP,241,64,177
+Cedar,Gower-Springdale,Attorney General,,Brenna Bird,REP,298,114,184
+Cedar,Inland,Attorney General,,Brenna Bird,REP,225,44,181
+Cedar,Linn-Pioneer,Attorney General,,Brenna Bird,REP,440,106,334
+Cedar,Massillon-Springfield,Attorney General,,Brenna Bird,REP,380,92,288
+Cedar,Tipton 1,Attorney General,,Brenna Bird,REP,186,108,78
+Cedar,Tipton 2,Attorney General,,Brenna Bird,REP,176,83,93
+Cedar,Tipton 3,Attorney General,,Brenna Bird,REP,228,97,131
+Cedar,West Branch 1,Attorney General,,Brenna Bird,REP,450,122,328
+Cedar,Cass-Center-Iowa-Rocheste,Attorney General,,Nate Willems,DEM,454,289,165
+Cedar,Dayton-Fairfield,Attorney General,,Nate Willems,DEM,231,82,149
+Cedar,Farmington-Sugar Creek,Attorney General,,Nate Willems,DEM,478,162,316
+Cedar,Fremont-Red Oak,Attorney General,,Nate Willems,DEM,195,74,121
+Cedar,Gower-Springdale,Attorney General,,Nate Willems,DEM,369,192,177
+Cedar,Inland,Attorney General,,Nate Willems,DEM,91,21,70
+Cedar,Linn-Pioneer,Attorney General,,Nate Willems,DEM,396,139,257
+Cedar,Massillon-Springfield,Attorney General,,Nate Willems,DEM,198,66,132
+Cedar,Tipton 1,Attorney General,,Nate Willems,DEM,190,103,87
+Cedar,Tipton 2,Attorney General,,Nate Willems,DEM,214,122,92
+Cedar,Tipton 3,Attorney General,,Nate Willems,DEM,253,134,119
+Cedar,West Branch 1,Attorney General,,Nate Willems,DEM,941,349,592
+Cedar,Cass-Center-Iowa-Rocheste,Attorney General,,Write-In,,0,0,0
+Cedar,Dayton-Fairfield,Attorney General,,Write-In,,0,0,0
+Cedar,Farmington-Sugar Creek,Attorney General,,Write-In,,0,0,0
+Cedar,Fremont-Red Oak,Attorney General,,Write-In,,0,0,0
+Cedar,Gower-Springdale,Attorney General,,Write-In,,0,0,0
+Cedar,Inland,Attorney General,,Write-In,,0,0,0
+Cedar,Linn-Pioneer,Attorney General,,Write-In,,3,2,1
+Cedar,Massillon-Springfield,Attorney General,,Write-In,,0,0,0
+Cedar,Tipton 1,Attorney General,,Write-In,,0,0,0
+Cedar,Tipton 2,Attorney General,,Write-In,,1,1,0
+Cedar,Tipton 3,Attorney General,,Write-In,,0,0,0
+Cedar,West Branch 1,Attorney General,,Write-In,,1,0,1
+Cedar,Cass-Center-Iowa-Rocheste,Auditor of State,,Chris Cournoyer,REP,728,352,376
+Cedar,Dayton-Fairfield,Auditor of State,,Chris Cournoyer,REP,373,101,272
+Cedar,Farmington-Sugar Creek,Auditor of State,,Chris Cournoyer,REP,740,188,552
+Cedar,Fremont-Red Oak,Auditor of State,,Chris Cournoyer,REP,233,61,172
+Cedar,Gower-Springdale,Auditor of State,,Chris Cournoyer,REP,296,108,188
+Cedar,Inland,Auditor of State,,Chris Cournoyer,REP,233,46,187
+Cedar,Linn-Pioneer,Auditor of State,,Chris Cournoyer,REP,456,108,348
+Cedar,Massillon-Springfield,Auditor of State,,Chris Cournoyer,REP,379,91,288
+Cedar,Tipton 1,Auditor of State,,Chris Cournoyer,REP,178,103,75
+Cedar,Tipton 2,Auditor of State,,Chris Cournoyer,REP,170,79,91
+Cedar,Tipton 3,Auditor of State,,Chris Cournoyer,REP,220,94,126
+Cedar,West Branch 1,Auditor of State,,Chris Cournoyer,REP,455,117,338
+Cedar,Cass-Center-Iowa-Rocheste,Auditor of State,,Taylor Wettach,DEM,446,292,154
+Cedar,Dayton-Fairfield,Auditor of State,,Taylor Wettach,DEM,221,78,143
+Cedar,Farmington-Sugar Creek,Auditor of State,,Taylor Wettach,DEM,466,161,305
+Cedar,Fremont-Red Oak,Auditor of State,,Taylor Wettach,DEM,184,75,109
+Cedar,Gower-Springdale,Auditor of State,,Taylor Wettach,DEM,363,191,172
+Cedar,Inland,Auditor of State,,Taylor Wettach,DEM,80,19,61
+Cedar,Linn-Pioneer,Auditor of State,,Taylor Wettach,DEM,366,136,230
+Cedar,Massillon-Springfield,Auditor of State,,Taylor Wettach,DEM,191,67,124
+Cedar,Tipton 1,Auditor of State,,Taylor Wettach,DEM,190,102,88
+Cedar,Tipton 2,Auditor of State,,Taylor Wettach,DEM,211,121,90
+Cedar,Tipton 3,Auditor of State,,Taylor Wettach,DEM,248,136,112
+Cedar,West Branch 1,Auditor of State,,Taylor Wettach,DEM,922,347,575
+Cedar,Cass-Center-Iowa-Rocheste,Auditor of State,,Write-In,,0,0,0
+Cedar,Dayton-Fairfield,Auditor of State,,Write-In,,1,0,1
+Cedar,Farmington-Sugar Creek,Auditor of State,,Write-In,,0,0,0
+Cedar,Fremont-Red Oak,Auditor of State,,Write-In,,1,0,1
+Cedar,Gower-Springdale,Auditor of State,,Write-In,,0,0,0
+Cedar,Inland,Auditor of State,,Write-In,,0,0,0
+Cedar,Linn-Pioneer,Auditor of State,,Write-In,,0,0,0
+Cedar,Massillon-Springfield,Auditor of State,,Write-In,,0,0,0
+Cedar,Tipton 1,Auditor of State,,Write-In,,0,0,0
+Cedar,Tipton 2,Auditor of State,,Write-In,,0,0,0
+Cedar,Tipton 3,Auditor of State,,Write-In,,0,0,0
+Cedar,West Branch 1,Auditor of State,,Write-In,,2,1,1
+Cedar,Cass-Center-Iowa-Rocheste,Cass Township Clerk,,Kelly C. Thomas,,118,68,50
+Cedar,Cass-Center-Iowa-Rocheste,Cass Township Clerk,,Write-In,,0,0,0
+Cedar,Cass-Center-Iowa-Rocheste,Cass Township Trustee,,David F. Swan,,119,69,50
+Cedar,Cass-Center-Iowa-Rocheste,Cass Township Trustee,,Write-In,,1,1,0
+Cedar,Cass-Center-Iowa-Rocheste,Center Township Clerk,,Devalyn Wilson,,364,201,163
+Cedar,Cass-Center-Iowa-Rocheste,Center Township Clerk,,Write-In,,0,0,0
+Cedar,Cass-Center-Iowa-Rocheste,Center Township Trustee,,William Schwitzer,,375,207,168
+Cedar,Cass-Center-Iowa-Rocheste,Center Township Trustee,,Write-In,,4,3,1
+Cedar,Cass-Center-Iowa-Rocheste,Center Township Trustee To Fill a Vacancy,,Loren Mohr,,377,206,171
+Cedar,Cass-Center-Iowa-Rocheste,Center Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
+Cedar,Cass-Center-Iowa-Rocheste,Constitutional Amendment 1,,No,,411,232,179
+Cedar,Dayton-Fairfield,Constitutional Amendment 1,,No,,202,60,142
+Cedar,Farmington-Sugar Creek,Constitutional Amendment 1,,No,,395,121,274
+Cedar,Fremont-Red Oak,Constitutional Amendment 1,,No,,168,54,114
+Cedar,Gower-Springdale,Constitutional Amendment 1,,No,,293,139,154
+Cedar,Inland,Constitutional Amendment 1,,No,,99,23,76
+Cedar,Linn-Pioneer,Constitutional Amendment 1,,No,,338,103,235
+Cedar,Massillon-Springfield,Constitutional Amendment 1,,No,,166,42,124
+Cedar,Tipton 1,Constitutional Amendment 1,,No,,153,83,70
+Cedar,Tipton 2,Constitutional Amendment 1,,No,,178,96,82
+Cedar,Tipton 3,Constitutional Amendment 1,,No,,215,109,106
+Cedar,West Branch 1,Constitutional Amendment 1,,No,,672,264,408
+Cedar,Cass-Center-Iowa-Rocheste,Constitutional Amendment 1,,Yes,,655,346,309
+Cedar,Dayton-Fairfield,Constitutional Amendment 1,,Yes,,307,94,213
+Cedar,Farmington-Sugar Creek,Constitutional Amendment 1,,Yes,,709,200,509
+Cedar,Fremont-Red Oak,Constitutional Amendment 1,,Yes,,238,80,158
+Cedar,Gower-Springdale,Constitutional Amendment 1,,Yes,,305,139,166
+Cedar,Inland,Constitutional Amendment 1,,Yes,,188,37,151
+Cedar,Linn-Pioneer,Constitutional Amendment 1,,Yes,,442,127,315
+Cedar,Massillon-Springfield,Constitutional Amendment 1,,Yes,,303,95,208
+Cedar,Tipton 1,Constitutional Amendment 1,,Yes,,185,99,86
+Cedar,Tipton 2,Constitutional Amendment 1,,Yes,,181,89,92
+Cedar,Tipton 3,Constitutional Amendment 1,,Yes,,219,101,118
+Cedar,West Branch 1,Constitutional Amendment 1,,Yes,,626,175,451
+Cedar,Cass-Center-Iowa-Rocheste,County Agricultural Extension Council Member,,Alan Beyer,,590,299,291
+Cedar,Dayton-Fairfield,County Agricultural Extension Council Member,,Alan Beyer,,261,85,176
+Cedar,Farmington-Sugar Creek,County Agricultural Extension Council Member,,Alan Beyer,,607,177,430
+Cedar,Fremont-Red Oak,County Agricultural Extension Council Member,,Alan Beyer,,212,70,142
+Cedar,Gower-Springdale,County Agricultural Extension Council Member,,Alan Beyer,,403,200,203
+Cedar,Inland,County Agricultural Extension Council Member,,Alan Beyer,,169,33,136
+Cedar,Linn-Pioneer,County Agricultural Extension Council Member,,Alan Beyer,,363,110,253
+Cedar,Massillon-Springfield,County Agricultural Extension Council Member,,Alan Beyer,,266,82,184
+Cedar,Tipton 1,County Agricultural Extension Council Member,,Alan Beyer,,158,103,55
+Cedar,Tipton 2,County Agricultural Extension Council Member,,Alan Beyer,,149,79,70
+Cedar,Tipton 3,County Agricultural Extension Council Member,,Alan Beyer,,209,97,112
+Cedar,West Branch 1,County Agricultural Extension Council Member,,Alan Beyer,,697,261,436
+Cedar,Cass-Center-Iowa-Rocheste,County Agricultural Extension Council Member,,Finn Bendixen,,576,284,292
+Cedar,Dayton-Fairfield,County Agricultural Extension Council Member,,Finn Bendixen,,290,83,207
+Cedar,Farmington-Sugar Creek,County Agricultural Extension Council Member,,Finn Bendixen,,597,177,420
+Cedar,Fremont-Red Oak,County Agricultural Extension Council Member,,Finn Bendixen,,221,72,149
+Cedar,Gower-Springdale,County Agricultural Extension Council Member,,Finn Bendixen,,289,127,162
+Cedar,Inland,County Agricultural Extension Council Member,,Finn Bendixen,,169,32,137
+Cedar,Linn-Pioneer,County Agricultural Extension Council Member,,Finn Bendixen,,395,115,280
+Cedar,Massillon-Springfield,County Agricultural Extension Council Member,,Finn Bendixen,,284,87,197
+Cedar,Tipton 1,County Agricultural Extension Council Member,,Finn Bendixen,,170,105,65
+Cedar,Tipton 2,County Agricultural Extension Council Member,,Finn Bendixen,,157,75,82
+Cedar,Tipton 3,County Agricultural Extension Council Member,,Finn Bendixen,,233,104,129
+Cedar,West Branch 1,County Agricultural Extension Council Member,,Finn Bendixen,,580,196,384
+Cedar,Cass-Center-Iowa-Rocheste,County Agricultural Extension Council Member,,Jeffrey T. Lafrenz,,623,306,317
+Cedar,Dayton-Fairfield,County Agricultural Extension Council Member,,Jeffrey T. Lafrenz,,298,93,205
+Cedar,Farmington-Sugar Creek,County Agricultural Extension Council Member,,Jeffrey T. Lafrenz,,729,204,525
+Cedar,Fremont-Red Oak,County Agricultural Extension Council Member,,Jeffrey T. Lafrenz,,229,72,157
+Cedar,Gower-Springdale,County Agricultural Extension Council Member,,Jeffrey T. Lafrenz,,331,145,186
+Cedar,Inland,County Agricultural Extension Council Member,,Jeffrey T. Lafrenz,,237,49,188
+Cedar,Linn-Pioneer,County Agricultural Extension Council Member,,Jeffrey T. Lafrenz,,383,112,271
+Cedar,Massillon-Springfield,County Agricultural Extension Council Member,,Jeffrey T. Lafrenz,,302,90,212
+Cedar,Tipton 1,County Agricultural Extension Council Member,,Jeffrey T. Lafrenz,,189,119,70
+Cedar,Tipton 2,County Agricultural Extension Council Member,,Jeffrey T. Lafrenz,,177,85,92
+Cedar,Tipton 3,County Agricultural Extension Council Member,,Jeffrey T. Lafrenz,,249,116,133
+Cedar,West Branch 1,County Agricultural Extension Council Member,,Jeffrey T. Lafrenz,,623,221,402
+Cedar,Cass-Center-Iowa-Rocheste,County Agricultural Extension Council Member,,Katerina Storjohann,,590,298,292
+Cedar,Dayton-Fairfield,County Agricultural Extension Council Member,,Katerina Storjohann,,290,90,200
+Cedar,Farmington-Sugar Creek,County Agricultural Extension Council Member,,Katerina Storjohann,,719,205,514
+Cedar,Fremont-Red Oak,County Agricultural Extension Council Member,,Katerina Storjohann,,205,62,143
+Cedar,Gower-Springdale,County Agricultural Extension Council Member,,Katerina Storjohann,,308,138,170
+Cedar,Inland,County Agricultural Extension Council Member,,Katerina Storjohann,,224,45,179
+Cedar,Linn-Pioneer,County Agricultural Extension Council Member,,Katerina Storjohann,,375,104,271
+Cedar,Massillon-Springfield,County Agricultural Extension Council Member,,Katerina Storjohann,,303,92,211
+Cedar,Tipton 1,County Agricultural Extension Council Member,,Katerina Storjohann,,181,112,69
+Cedar,Tipton 2,County Agricultural Extension Council Member,,Katerina Storjohann,,165,84,81
+Cedar,Tipton 3,County Agricultural Extension Council Member,,Katerina Storjohann,,233,110,123
+Cedar,West Branch 1,County Agricultural Extension Council Member,,Katerina Storjohann,,619,217,402
+Cedar,Cass-Center-Iowa-Rocheste,County Agricultural Extension Council Member,,Write-In,,42,13,29
+Cedar,Dayton-Fairfield,County Agricultural Extension Council Member,,Write-In,,22,6,16
+Cedar,Farmington-Sugar Creek,County Agricultural Extension Council Member,,Write-In,,46,16,30
+Cedar,Fremont-Red Oak,County Agricultural Extension Council Member,,Write-In,,16,7,9
+Cedar,Gower-Springdale,County Agricultural Extension Council Member,,Write-In,,18,7,11
+Cedar,Inland,County Agricultural Extension Council Member,,Write-In,,9,1,8
+Cedar,Linn-Pioneer,County Agricultural Extension Council Member,,Write-In,,40,10,30
+Cedar,Massillon-Springfield,County Agricultural Extension Council Member,,Write-In,,20,4,16
+Cedar,Tipton 1,County Agricultural Extension Council Member,,Write-In,,7,5,2
+Cedar,Tipton 2,County Agricultural Extension Council Member,,Write-In,,11,6,5
+Cedar,Tipton 3,County Agricultural Extension Council Member,,Write-In,,16,9,7
+Cedar,West Branch 1,County Agricultural Extension Council Member,,Write-In,,40,18,22
+Cedar,Cass-Center-Iowa-Rocheste,County Attorney,,Adam Blank,REP,919,462,457
+Cedar,Dayton-Fairfield,County Attorney,,Adam Blank,REP,461,130,331
+Cedar,Farmington-Sugar Creek,County Attorney,,Adam Blank,REP,944,245,699
+Cedar,Fremont-Red Oak,County Attorney,,Adam Blank,REP,337,102,235
+Cedar,Gower-Springdale,County Attorney,,Adam Blank,REP,436,184,252
+Cedar,Inland,County Attorney,,Adam Blank,REP,278,56,222
+Cedar,Linn-Pioneer,County Attorney,,Adam Blank,REP,627,169,458
+Cedar,Massillon-Springfield,County Attorney,,Adam Blank,REP,449,120,329
+Cedar,Tipton 1,County Attorney,,Adam Blank,REP,269,156,113
+Cedar,Tipton 2,County Attorney,,Adam Blank,REP,275,131,144
+Cedar,Tipton 3,County Attorney,,Adam Blank,REP,354,166,188
+Cedar,West Branch 1,County Attorney,,Adam Blank,REP,865,254,611
+Cedar,Cass-Center-Iowa-Rocheste,County Attorney,,Write-In,,5,1,4
+Cedar,Dayton-Fairfield,County Attorney,,Write-In,,6,1,5
+Cedar,Farmington-Sugar Creek,County Attorney,,Write-In,,8,1,7
+Cedar,Fremont-Red Oak,County Attorney,,Write-In,,0,0,0
+Cedar,Gower-Springdale,County Attorney,,Write-In,,6,1,5
+Cedar,Inland,County Attorney,,Write-In,,1,0,1
+Cedar,Linn-Pioneer,County Attorney,,Write-In,,4,0,4
+Cedar,Massillon-Springfield,County Attorney,,Write-In,,2,0,2
+Cedar,Tipton 1,County Attorney,,Write-In,,4,1,3
+Cedar,Tipton 2,County Attorney,,Write-In,,0,0,0
+Cedar,Tipton 3,County Attorney,,Write-In,,3,1,2
+Cedar,West Branch 1,County Attorney,,Write-In,,21,11,10
+Cedar,Cass-Center-Iowa-Rocheste,County Board of Supervisors,,Michael Bixler,REP,633,337,296
+Cedar,Dayton-Fairfield,County Board of Supervisors,,Michael Bixler,REP,411,120,291
+Cedar,Farmington-Sugar Creek,County Board of Supervisors,,Michael Bixler,REP,689,193,496
+Cedar,Fremont-Red Oak,County Board of Supervisors,,Michael Bixler,REP,281,90,191
+Cedar,Gower-Springdale,County Board of Supervisors,,Michael Bixler,REP,299,132,167
+Cedar,Inland,County Board of Supervisors,,Michael Bixler,REP,223,47,176
+Cedar,Linn-Pioneer,County Board of Supervisors,,Michael Bixler,REP,418,126,292
+Cedar,Massillon-Springfield,County Board of Supervisors,,Michael Bixler,REP,367,102,265
+Cedar,Tipton 1,County Board of Supervisors,,Michael Bixler,REP,193,112,81
+Cedar,Tipton 2,County Board of Supervisors,,Michael Bixler,REP,204,103,101
+Cedar,Tipton 3,County Board of Supervisors,,Michael Bixler,REP,254,112,142
+Cedar,West Branch 1,County Board of Supervisors,,Michael Bixler,REP,658,197,461
+Cedar,Cass-Center-Iowa-Rocheste,County Board of Supervisors,,Warren Wethington,REP,874,443,431
+Cedar,Dayton-Fairfield,County Board of Supervisors,,Warren Wethington,REP,415,111,304
+Cedar,Farmington-Sugar Creek,County Board of Supervisors,,Warren Wethington,REP,809,212,597
+Cedar,Fremont-Red Oak,County Board of Supervisors,,Warren Wethington,REP,313,97,216
+Cedar,Gower-Springdale,County Board of Supervisors,,Warren Wethington,REP,405,174,231
+Cedar,Inland,County Board of Supervisors,,Warren Wethington,REP,233,43,190
+Cedar,Linn-Pioneer,County Board of Supervisors,,Warren Wethington,REP,559,154,405
+Cedar,Massillon-Springfield,County Board of Supervisors,,Warren Wethington,REP,365,95,270
+Cedar,Tipton 1,County Board of Supervisors,,Warren Wethington,REP,256,143,113
+Cedar,Tipton 2,County Board of Supervisors,,Warren Wethington,REP,242,124,118
+Cedar,Tipton 3,County Board of Supervisors,,Warren Wethington,REP,299,129,170
+Cedar,West Branch 1,County Board of Supervisors,,Warren Wethington,REP,657,213,444
+Cedar,Cass-Center-Iowa-Rocheste,County Board of Supervisors,,Write-In,,20,10,10
+Cedar,Dayton-Fairfield,County Board of Supervisors,,Write-In,,8,3,5
+Cedar,Farmington-Sugar Creek,County Board of Supervisors,,Write-In,,25,9,16
+Cedar,Fremont-Red Oak,County Board of Supervisors,,Write-In,,9,5,4
+Cedar,Gower-Springdale,County Board of Supervisors,,Write-In,,16,8,8
+Cedar,Inland,County Board of Supervisors,,Write-In,,2,1,1
+Cedar,Linn-Pioneer,County Board of Supervisors,,Write-In,,21,5,16
+Cedar,Massillon-Springfield,County Board of Supervisors,,Write-In,,7,0,7
+Cedar,Tipton 1,County Board of Supervisors,,Write-In,,5,1,4
+Cedar,Tipton 2,County Board of Supervisors,,Write-In,,12,8,4
+Cedar,Tipton 3,County Board of Supervisors,,Write-In,,16,5,11
+Cedar,West Branch 1,County Board of Supervisors,,Write-In,,47,23,24
+Cedar,Cass-Center-Iowa-Rocheste,County Recorder,,Melissa Bahnsen,REP,935,473,462
+Cedar,Dayton-Fairfield,County Recorder,,Melissa Bahnsen,REP,489,137,352
+Cedar,Farmington-Sugar Creek,County Recorder,,Melissa Bahnsen,REP,962,251,711
+Cedar,Fremont-Red Oak,County Recorder,,Melissa Bahnsen,REP,343,105,238
+Cedar,Gower-Springdale,County Recorder,,Melissa Bahnsen,REP,443,187,256
+Cedar,Inland,County Recorder,,Melissa Bahnsen,REP,277,55,222
+Cedar,Linn-Pioneer,County Recorder,,Melissa Bahnsen,REP,635,169,466
+Cedar,Massillon-Springfield,County Recorder,,Melissa Bahnsen,REP,464,125,339
+Cedar,Tipton 1,County Recorder,,Melissa Bahnsen,REP,276,158,118
+Cedar,Tipton 2,County Recorder,,Melissa Bahnsen,REP,276,135,141
+Cedar,Tipton 3,County Recorder,,Melissa Bahnsen,REP,356,162,194
+Cedar,West Branch 1,County Recorder,,Melissa Bahnsen,REP,877,261,616
+Cedar,Cass-Center-Iowa-Rocheste,County Recorder,,Write-In,,5,2,3
+Cedar,Dayton-Fairfield,County Recorder,,Write-In,,6,0,6
+Cedar,Farmington-Sugar Creek,County Recorder,,Write-In,,6,1,5
+Cedar,Fremont-Red Oak,County Recorder,,Write-In,,0,0,0
+Cedar,Gower-Springdale,County Recorder,,Write-In,,5,1,4
+Cedar,Inland,County Recorder,,Write-In,,2,0,2
+Cedar,Linn-Pioneer,County Recorder,,Write-In,,9,3,6
+Cedar,Massillon-Springfield,County Recorder,,Write-In,,2,0,2
+Cedar,Tipton 1,County Recorder,,Write-In,,2,0,2
+Cedar,Tipton 2,County Recorder,,Write-In,,1,0,1
+Cedar,Tipton 3,County Recorder,,Write-In,,6,1,5
+Cedar,West Branch 1,County Recorder,,Write-In,,26,11,15
+Cedar,Cass-Center-Iowa-Rocheste,County Treasurer,,Sandra Delaney,DEM,840,470,370
+Cedar,Dayton-Fairfield,County Treasurer,,Sandra Delaney,DEM,421,141,280
+Cedar,Farmington-Sugar Creek,County Treasurer,,Sandra Delaney,DEM,833,261,572
+Cedar,Fremont-Red Oak,County Treasurer,,Sandra Delaney,DEM,308,100,208
+Cedar,Gower-Springdale,County Treasurer,,Sandra Delaney,DEM,504,236,268
+Cedar,Inland,County Treasurer,,Sandra Delaney,DEM,214,41,173
+Cedar,Linn-Pioneer,County Treasurer,,Sandra Delaney,DEM,579,179,400
+Cedar,Massillon-Springfield,County Treasurer,,Sandra Delaney,DEM,358,110,248
+Cedar,Tipton 1,County Treasurer,,Sandra Delaney,DEM,278,158,120
+Cedar,Tipton 2,County Treasurer,,Sandra Delaney,DEM,301,169,132
+Cedar,Tipton 3,County Treasurer,,Sandra Delaney,DEM,375,191,184
+Cedar,West Branch 1,County Treasurer,,Sandra Delaney,DEM,1110,391,719
+Cedar,Cass-Center-Iowa-Rocheste,County Treasurer,,Write-In,,19,5,14
+Cedar,Dayton-Fairfield,County Treasurer,,Write-In,,11,2,9
+Cedar,Farmington-Sugar Creek,County Treasurer,,Write-In,,20,5,15
+Cedar,Fremont-Red Oak,County Treasurer,,Write-In,,5,2,3
+Cedar,Gower-Springdale,County Treasurer,,Write-In,,6,1,5
+Cedar,Inland,County Treasurer,,Write-In,,9,2,7
+Cedar,Linn-Pioneer,County Treasurer,,Write-In,,21,6,15
+Cedar,Massillon-Springfield,County Treasurer,,Write-In,,10,2,8
+Cedar,Tipton 1,County Treasurer,,Write-In,,3,1,2
+Cedar,Tipton 2,County Treasurer,,Write-In,,5,4,1
+Cedar,Tipton 3,County Treasurer,,Write-In,,11,3,8
+Cedar,West Branch 1,County Treasurer,,Write-In,,15,1,14
+Cedar,Cass-Center-Iowa-Rocheste,Court of Appeals Judge - John M. Sandy,,No,,212,113,99
+Cedar,Dayton-Fairfield,Court of Appeals Judge - John M. Sandy,,No,,107,40,67
+Cedar,Farmington-Sugar Creek,Court of Appeals Judge - John M. Sandy,,No,,217,59,158
+Cedar,Fremont-Red Oak,Court of Appeals Judge - John M. Sandy,,No,,74,18,56
+Cedar,Gower-Springdale,Court of Appeals Judge - John M. Sandy,,No,,119,52,67
+Cedar,Inland,Court of Appeals Judge - John M. Sandy,,No,,56,11,45
+Cedar,Linn-Pioneer,Court of Appeals Judge - John M. Sandy,,No,,167,37,130
+Cedar,Massillon-Springfield,Court of Appeals Judge - John M. Sandy,,No,,108,35,73
+Cedar,Tipton 1,Court of Appeals Judge - John M. Sandy,,No,,62,27,35
+Cedar,Tipton 2,Court of Appeals Judge - John M. Sandy,,No,,75,35,40
+Cedar,Tipton 3,Court of Appeals Judge - John M. Sandy,,No,,72,37,35
+Cedar,West Branch 1,Court of Appeals Judge - John M. Sandy,,No,,290,102,188
+Cedar,Cass-Center-Iowa-Rocheste,Court of Appeals Judge - John M. Sandy,,Yes,,514,240,274
+Cedar,Dayton-Fairfield,Court of Appeals Judge - John M. Sandy,,Yes,,221,74,147
+Cedar,Farmington-Sugar Creek,Court of Appeals Judge - John M. Sandy,,Yes,,606,160,446
+Cedar,Fremont-Red Oak,Court of Appeals Judge - John M. Sandy,,Yes,,196,60,136
+Cedar,Gower-Springdale,Court of Appeals Judge - John M. Sandy,,Yes,,305,152,153
+Cedar,Inland,Court of Appeals Judge - John M. Sandy,,Yes,,182,36,146
+Cedar,Linn-Pioneer,Court of Appeals Judge - John M. Sandy,,Yes,,355,102,253
+Cedar,Massillon-Springfield,Court of Appeals Judge - John M. Sandy,,Yes,,247,76,171
+Cedar,Tipton 1,Court of Appeals Judge - John M. Sandy,,Yes,,155,94,61
+Cedar,Tipton 2,Court of Appeals Judge - John M. Sandy,,Yes,,157,74,83
+Cedar,Tipton 3,Court of Appeals Judge - John M. Sandy,,Yes,,206,92,114
+Cedar,West Branch 1,Court of Appeals Judge - John M. Sandy,,Yes,,634,208,426
+Cedar,Cass-Center-Iowa-Rocheste,Court of Appeals Judge - Julie A. Schumacher,,No,,178,94,84
+Cedar,Dayton-Fairfield,Court of Appeals Judge - Julie A. Schumacher,,No,,105,38,67
+Cedar,Farmington-Sugar Creek,Court of Appeals Judge - Julie A. Schumacher,,No,,211,61,150
+Cedar,Fremont-Red Oak,Court of Appeals Judge - Julie A. Schumacher,,No,,74,16,58
+Cedar,Gower-Springdale,Court of Appeals Judge - Julie A. Schumacher,,No,,103,44,59
+Cedar,Inland,Court of Appeals Judge - Julie A. Schumacher,,No,,46,7,39
+Cedar,Linn-Pioneer,Court of Appeals Judge - Julie A. Schumacher,,No,,161,33,128
+Cedar,Massillon-Springfield,Court of Appeals Judge - Julie A. Schumacher,,No,,102,28,74
+Cedar,Tipton 1,Court of Appeals Judge - Julie A. Schumacher,,No,,52,20,32
+Cedar,Tipton 2,Court of Appeals Judge - Julie A. Schumacher,,No,,61,26,35
+Cedar,Tipton 3,Court of Appeals Judge - Julie A. Schumacher,,No,,69,35,34
+Cedar,West Branch 1,Court of Appeals Judge - Julie A. Schumacher,,No,,241,86,155
+Cedar,Cass-Center-Iowa-Rocheste,Court of Appeals Judge - Julie A. Schumacher,,Yes,,562,270,292
+Cedar,Dayton-Fairfield,Court of Appeals Judge - Julie A. Schumacher,,Yes,,244,80,164
+Cedar,Farmington-Sugar Creek,Court of Appeals Judge - Julie A. Schumacher,,Yes,,637,167,470
+Cedar,Fremont-Red Oak,Court of Appeals Judge - Julie A. Schumacher,,Yes,,201,65,136
+Cedar,Gower-Springdale,Court of Appeals Judge - Julie A. Schumacher,,Yes,,322,161,161
+Cedar,Inland,Court of Appeals Judge - Julie A. Schumacher,,Yes,,199,40,159
+Cedar,Linn-Pioneer,Court of Appeals Judge - Julie A. Schumacher,,Yes,,380,110,270
+Cedar,Massillon-Springfield,Court of Appeals Judge - Julie A. Schumacher,,Yes,,262,85,177
+Cedar,Tipton 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,174,108,66
+Cedar,Tipton 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,182,92,90
+Cedar,Tipton 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,219,100,119
+Cedar,West Branch 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,705,234,471
+Cedar,Cass-Center-Iowa-Rocheste,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,199,99,100
+Cedar,Dayton-Fairfield,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,112,42,70
+Cedar,Farmington-Sugar Creek,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,223,54,169
+Cedar,Fremont-Red Oak,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,84,19,65
+Cedar,Gower-Springdale,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,111,46,65
+Cedar,Inland,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,54,8,46
+Cedar,Linn-Pioneer,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,168,35,133
+Cedar,Massillon-Springfield,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,109,27,82
+Cedar,Tipton 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,54,21,33
+Cedar,Tipton 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,70,30,40
+Cedar,Tipton 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,78,39,39
+Cedar,West Branch 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,271,89,182
+Cedar,Cass-Center-Iowa-Rocheste,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,533,262,271
+Cedar,Dayton-Fairfield,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,220,71,149
+Cedar,Farmington-Sugar Creek,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,602,167,435
+Cedar,Fremont-Red Oak,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,185,60,125
+Cedar,Gower-Springdale,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,313,156,157
+Cedar,Inland,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,186,39,147
+Cedar,Linn-Pioneer,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,361,103,258
+Cedar,Massillon-Springfield,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,248,84,164
+Cedar,Tipton 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,165,100,65
+Cedar,Tipton 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,166,84,82
+Cedar,Tipton 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,201,91,110
+Cedar,West Branch 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,660,220,440
+Cedar,Dayton-Fairfield,Dayton Township Clerk,,Write-In,,13,0,13
+Cedar,Dayton-Fairfield,Dayton Township Trustee,,Write-In,,12,0,12
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Associate Judge - Cheryl E. Traum,,No,,171,81,90
+Cedar,Dayton-Fairfield,District 7 Associate Judge - Cheryl E. Traum,,No,,97,40,57
+Cedar,Farmington-Sugar Creek,District 7 Associate Judge - Cheryl E. Traum,,No,,204,56,148
+Cedar,Fremont-Red Oak,District 7 Associate Judge - Cheryl E. Traum,,No,,69,18,51
+Cedar,Gower-Springdale,District 7 Associate Judge - Cheryl E. Traum,,No,,105,39,66
+Cedar,Inland,District 7 Associate Judge - Cheryl E. Traum,,No,,45,8,37
+Cedar,Linn-Pioneer,District 7 Associate Judge - Cheryl E. Traum,,No,,149,34,115
+Cedar,Massillon-Springfield,District 7 Associate Judge - Cheryl E. Traum,,No,,95,22,73
+Cedar,Tipton 1,District 7 Associate Judge - Cheryl E. Traum,,No,,46,17,29
+Cedar,Tipton 2,District 7 Associate Judge - Cheryl E. Traum,,No,,63,26,37
+Cedar,Tipton 3,District 7 Associate Judge - Cheryl E. Traum,,No,,64,35,29
+Cedar,West Branch 1,District 7 Associate Judge - Cheryl E. Traum,,No,,225,75,150
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Associate Judge - Cheryl E. Traum,,Yes,,544,264,280
+Cedar,Dayton-Fairfield,District 7 Associate Judge - Cheryl E. Traum,,Yes,,227,71,156
+Cedar,Farmington-Sugar Creek,District 7 Associate Judge - Cheryl E. Traum,,Yes,,618,170,448
+Cedar,Fremont-Red Oak,District 7 Associate Judge - Cheryl E. Traum,,Yes,,200,59,141
+Cedar,Gower-Springdale,District 7 Associate Judge - Cheryl E. Traum,,Yes,,310,160,150
+Cedar,Inland,District 7 Associate Judge - Cheryl E. Traum,,Yes,,194,38,156
+Cedar,Linn-Pioneer,District 7 Associate Judge - Cheryl E. Traum,,Yes,,373,109,264
+Cedar,Massillon-Springfield,District 7 Associate Judge - Cheryl E. Traum,,Yes,,249,82,167
+Cedar,Tipton 1,District 7 Associate Judge - Cheryl E. Traum,,Yes,,165,102,63
+Cedar,Tipton 2,District 7 Associate Judge - Cheryl E. Traum,,Yes,,164,82,82
+Cedar,Tipton 3,District 7 Associate Judge - Cheryl E. Traum,,Yes,,207,94,113
+Cedar,West Branch 1,District 7 Associate Judge - Cheryl E. Traum,,Yes,,688,233,455
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Judge - Elizabeth O'Donnell,,No,,169,88,81
+Cedar,Dayton-Fairfield,District 7 Judge - Elizabeth O'Donnell,,No,,96,40,56
+Cedar,Farmington-Sugar Creek,District 7 Judge - Elizabeth O'Donnell,,No,,204,53,151
+Cedar,Fremont-Red Oak,District 7 Judge - Elizabeth O'Donnell,,No,,70,14,56
+Cedar,Gower-Springdale,District 7 Judge - Elizabeth O'Donnell,,No,,110,42,68
+Cedar,Inland,District 7 Judge - Elizabeth O'Donnell,,No,,57,10,47
+Cedar,Linn-Pioneer,District 7 Judge - Elizabeth O'Donnell,,No,,161,36,125
+Cedar,Massillon-Springfield,District 7 Judge - Elizabeth O'Donnell,,No,,98,24,74
+Cedar,Tipton 1,District 7 Judge - Elizabeth O'Donnell,,No,,46,19,27
+Cedar,Tipton 2,District 7 Judge - Elizabeth O'Donnell,,No,,56,24,32
+Cedar,Tipton 3,District 7 Judge - Elizabeth O'Donnell,,No,,57,31,26
+Cedar,West Branch 1,District 7 Judge - Elizabeth O'Donnell,,No,,246,80,166
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Judge - Elizabeth O'Donnell,,Yes,,605,301,304
+Cedar,Dayton-Fairfield,District 7 Judge - Elizabeth O'Donnell,,Yes,,233,74,159
+Cedar,Farmington-Sugar Creek,District 7 Judge - Elizabeth O'Donnell,,Yes,,605,168,437
+Cedar,Fremont-Red Oak,District 7 Judge - Elizabeth O'Donnell,,Yes,,210,75,135
+Cedar,Gower-Springdale,District 7 Judge - Elizabeth O'Donnell,,Yes,,302,158,144
+Cedar,Inland,District 7 Judge - Elizabeth O'Donnell,,Yes,,189,37,152
+Cedar,Linn-Pioneer,District 7 Judge - Elizabeth O'Donnell,,Yes,,354,103,251
+Cedar,Massillon-Springfield,District 7 Judge - Elizabeth O'Donnell,,Yes,,244,81,163
+Cedar,Tipton 1,District 7 Judge - Elizabeth O'Donnell,,Yes,,192,113,79
+Cedar,Tipton 2,District 7 Judge - Elizabeth O'Donnell,,Yes,,188,95,93
+Cedar,Tipton 3,District 7 Judge - Elizabeth O'Donnell,,Yes,,249,110,139
+Cedar,West Branch 1,District 7 Judge - Elizabeth O'Donnell,,Yes,,658,224,434
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Judge - Henry William Latham II,,No,,200,108,92
+Cedar,Dayton-Fairfield,District 7 Judge - Henry William Latham II,,No,,104,37,67
+Cedar,Farmington-Sugar Creek,District 7 Judge - Henry William Latham II,,No,,224,61,163
+Cedar,Fremont-Red Oak,District 7 Judge - Henry William Latham II,,No,,77,17,60
+Cedar,Gower-Springdale,District 7 Judge - Henry William Latham II,,No,,119,52,67
+Cedar,Inland,District 7 Judge - Henry William Latham II,,No,,63,14,49
+Cedar,Linn-Pioneer,District 7 Judge - Henry William Latham II,,No,,165,35,130
+Cedar,Massillon-Springfield,District 7 Judge - Henry William Latham II,,No,,105,29,76
+Cedar,Tipton 1,District 7 Judge - Henry William Latham II,,No,,59,24,35
+Cedar,Tipton 2,District 7 Judge - Henry William Latham II,,No,,75,31,44
+Cedar,Tipton 3,District 7 Judge - Henry William Latham II,,No,,68,33,35
+Cedar,West Branch 1,District 7 Judge - Henry William Latham II,,No,,284,95,189
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Judge - Henry William Latham II,,Yes,,501,230,271
+Cedar,Dayton-Fairfield,District 7 Judge - Henry William Latham II,,Yes,,220,76,144
+Cedar,Farmington-Sugar Creek,District 7 Judge - Henry William Latham II,,Yes,,594,159,435
+Cedar,Fremont-Red Oak,District 7 Judge - Henry William Latham II,,Yes,,186,62,124
+Cedar,Gower-Springdale,District 7 Judge - Henry William Latham II,,Yes,,286,147,139
+Cedar,Inland,District 7 Judge - Henry William Latham II,,Yes,,178,33,145
+Cedar,Linn-Pioneer,District 7 Judge - Henry William Latham II,,Yes,,331,97,234
+Cedar,Massillon-Springfield,District 7 Judge - Henry William Latham II,,Yes,,238,75,163
+Cedar,Tipton 1,District 7 Judge - Henry William Latham II,,Yes,,150,91,59
+Cedar,Tipton 2,District 7 Judge - Henry William Latham II,,Yes,,143,70,73
+Cedar,Tipton 3,District 7 Judge - Henry William Latham II,,Yes,,194,90,104
+Cedar,West Branch 1,District 7 Judge - Henry William Latham II,,Yes,,612,204,408
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Judge - Jeffrey McDaniel,,No,,211,113,98
+Cedar,Dayton-Fairfield,District 7 Judge - Jeffrey McDaniel,,No,,99,39,60
+Cedar,Farmington-Sugar Creek,District 7 Judge - Jeffrey McDaniel,,No,,225,64,161
+Cedar,Fremont-Red Oak,District 7 Judge - Jeffrey McDaniel,,No,,77,18,59
+Cedar,Gower-Springdale,District 7 Judge - Jeffrey McDaniel,,No,,117,48,69
+Cedar,Inland,District 7 Judge - Jeffrey McDaniel,,No,,64,14,50
+Cedar,Linn-Pioneer,District 7 Judge - Jeffrey McDaniel,,No,,165,37,128
+Cedar,Massillon-Springfield,District 7 Judge - Jeffrey McDaniel,,No,,101,28,73
+Cedar,Tipton 1,District 7 Judge - Jeffrey McDaniel,,No,,56,23,33
+Cedar,Tipton 2,District 7 Judge - Jeffrey McDaniel,,No,,71,31,40
+Cedar,Tipton 3,District 7 Judge - Jeffrey McDaniel,,No,,80,42,38
+Cedar,West Branch 1,District 7 Judge - Jeffrey McDaniel,,No,,301,100,201
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Judge - Jeffrey McDaniel,,Yes,,489,225,264
+Cedar,Dayton-Fairfield,District 7 Judge - Jeffrey McDaniel,,Yes,,215,70,145
+Cedar,Farmington-Sugar Creek,District 7 Judge - Jeffrey McDaniel,,Yes,,581,154,427
+Cedar,Fremont-Red Oak,District 7 Judge - Jeffrey McDaniel,,Yes,,185,59,126
+Cedar,Gower-Springdale,District 7 Judge - Jeffrey McDaniel,,Yes,,285,145,140
+Cedar,Inland,District 7 Judge - Jeffrey McDaniel,,Yes,,174,31,143
+Cedar,Linn-Pioneer,District 7 Judge - Jeffrey McDaniel,,Yes,,329,96,233
+Cedar,Massillon-Springfield,District 7 Judge - Jeffrey McDaniel,,Yes,,234,76,158
+Cedar,Tipton 1,District 7 Judge - Jeffrey McDaniel,,Yes,,152,94,58
+Cedar,Tipton 2,District 7 Judge - Jeffrey McDaniel,,Yes,,145,69,76
+Cedar,Tipton 3,District 7 Judge - Jeffrey McDaniel,,Yes,,181,82,99
+Cedar,West Branch 1,District 7 Judge - Jeffrey McDaniel,,Yes,,587,195,392
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Judge - Joel William Barrows,,No,,184,95,89
+Cedar,Dayton-Fairfield,District 7 Judge - Joel William Barrows,,No,,104,39,65
+Cedar,Farmington-Sugar Creek,District 7 Judge - Joel William Barrows,,No,,204,57,147
+Cedar,Fremont-Red Oak,District 7 Judge - Joel William Barrows,,No,,72,15,57
+Cedar,Gower-Springdale,District 7 Judge - Joel William Barrows,,No,,113,47,66
+Cedar,Inland,District 7 Judge - Joel William Barrows,,No,,54,11,43
+Cedar,Linn-Pioneer,District 7 Judge - Joel William Barrows,,No,,163,31,132
+Cedar,Massillon-Springfield,District 7 Judge - Joel William Barrows,,No,,105,27,78
+Cedar,Tipton 1,District 7 Judge - Joel William Barrows,,No,,57,19,38
+Cedar,Tipton 2,District 7 Judge - Joel William Barrows,,No,,68,29,39
+Cedar,Tipton 3,District 7 Judge - Joel William Barrows,,No,,62,32,30
+Cedar,West Branch 1,District 7 Judge - Joel William Barrows,,No,,251,84,167
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Judge - Joel William Barrows,,Yes,,520,242,278
+Cedar,Dayton-Fairfield,District 7 Judge - Joel William Barrows,,Yes,,217,72,145
+Cedar,Farmington-Sugar Creek,District 7 Judge - Joel William Barrows,,Yes,,608,166,442
+Cedar,Fremont-Red Oak,District 7 Judge - Joel William Barrows,,Yes,,193,63,130
+Cedar,Gower-Springdale,District 7 Judge - Joel William Barrows,,Yes,,297,152,145
+Cedar,Inland,District 7 Judge - Joel William Barrows,,Yes,,187,36,151
+Cedar,Linn-Pioneer,District 7 Judge - Joel William Barrows,,Yes,,339,103,236
+Cedar,Massillon-Springfield,District 7 Judge - Joel William Barrows,,Yes,,238,77,161
+Cedar,Tipton 1,District 7 Judge - Joel William Barrows,,Yes,,155,99,56
+Cedar,Tipton 2,District 7 Judge - Joel William Barrows,,Yes,,152,72,80
+Cedar,Tipton 3,District 7 Judge - Joel William Barrows,,Yes,,202,91,111
+Cedar,West Branch 1,District 7 Judge - Joel William Barrows,,Yes,,650,219,431
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Judge - Mark Ray Lawson,,No,,224,131,93
+Cedar,Dayton-Fairfield,District 7 Judge - Mark Ray Lawson,,No,,107,39,68
+Cedar,Farmington-Sugar Creek,District 7 Judge - Mark Ray Lawson,,No,,233,66,167
+Cedar,Fremont-Red Oak,District 7 Judge - Mark Ray Lawson,,No,,75,16,59
+Cedar,Gower-Springdale,District 7 Judge - Mark Ray Lawson,,No,,135,62,73
+Cedar,Inland,District 7 Judge - Mark Ray Lawson,,No,,66,14,52
+Cedar,Linn-Pioneer,District 7 Judge - Mark Ray Lawson,,No,,176,41,135
+Cedar,Massillon-Springfield,District 7 Judge - Mark Ray Lawson,,No,,107,31,76
+Cedar,Tipton 1,District 7 Judge - Mark Ray Lawson,,No,,63,26,37
+Cedar,Tipton 2,District 7 Judge - Mark Ray Lawson,,No,,78,31,47
+Cedar,Tipton 3,District 7 Judge - Mark Ray Lawson,,No,,82,45,37
+Cedar,West Branch 1,District 7 Judge - Mark Ray Lawson,,No,,306,105,201
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Judge - Mark Ray Lawson,,Yes,,478,208,270
+Cedar,Dayton-Fairfield,District 7 Judge - Mark Ray Lawson,,Yes,,212,71,141
+Cedar,Farmington-Sugar Creek,District 7 Judge - Mark Ray Lawson,,Yes,,567,151,416
+Cedar,Fremont-Red Oak,District 7 Judge - Mark Ray Lawson,,Yes,,188,60,128
+Cedar,Gower-Springdale,District 7 Judge - Mark Ray Lawson,,Yes,,269,134,135
+Cedar,Inland,District 7 Judge - Mark Ray Lawson,,Yes,,171,32,139
+Cedar,Linn-Pioneer,District 7 Judge - Mark Ray Lawson,,Yes,,323,92,231
+Cedar,Massillon-Springfield,District 7 Judge - Mark Ray Lawson,,Yes,,232,73,159
+Cedar,Tipton 1,District 7 Judge - Mark Ray Lawson,,Yes,,147,91,56
+Cedar,Tipton 2,District 7 Judge - Mark Ray Lawson,,Yes,,145,71,74
+Cedar,Tipton 3,District 7 Judge - Mark Ray Lawson,,Yes,,181,79,102
+Cedar,West Branch 1,District 7 Judge - Mark Ray Lawson,,Yes,,582,192,390
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Judge - Patrick A. McElyea,,No,,191,94,97
+Cedar,Dayton-Fairfield,District 7 Judge - Patrick A. McElyea,,No,,104,40,64
+Cedar,Farmington-Sugar Creek,District 7 Judge - Patrick A. McElyea,,No,,215,58,157
+Cedar,Fremont-Red Oak,District 7 Judge - Patrick A. McElyea,,No,,72,17,55
+Cedar,Gower-Springdale,District 7 Judge - Patrick A. McElyea,,No,,117,47,70
+Cedar,Inland,District 7 Judge - Patrick A. McElyea,,No,,53,11,42
+Cedar,Linn-Pioneer,District 7 Judge - Patrick A. McElyea,,No,,169,36,133
+Cedar,Massillon-Springfield,District 7 Judge - Patrick A. McElyea,,No,,105,30,75
+Cedar,Tipton 1,District 7 Judge - Patrick A. McElyea,,No,,56,23,33
+Cedar,Tipton 2,District 7 Judge - Patrick A. McElyea,,No,,64,30,34
+Cedar,Tipton 3,District 7 Judge - Patrick A. McElyea,,No,,67,37,30
+Cedar,West Branch 1,District 7 Judge - Patrick A. McElyea,,No,,256,88,168
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Judge - Patrick A. McElyea,,Yes,,505,239,266
+Cedar,Dayton-Fairfield,District 7 Judge - Patrick A. McElyea,,Yes,,209,70,139
+Cedar,Farmington-Sugar Creek,District 7 Judge - Patrick A. McElyea,,Yes,,583,158,425
+Cedar,Fremont-Red Oak,District 7 Judge - Patrick A. McElyea,,Yes,,189,60,129
+Cedar,Gower-Springdale,District 7 Judge - Patrick A. McElyea,,Yes,,291,149,142
+Cedar,Inland,District 7 Judge - Patrick A. McElyea,,Yes,,185,36,149
+Cedar,Linn-Pioneer,District 7 Judge - Patrick A. McElyea,,Yes,,327,96,231
+Cedar,Massillon-Springfield,District 7 Judge - Patrick A. McElyea,,Yes,,229,73,156
+Cedar,Tipton 1,District 7 Judge - Patrick A. McElyea,,Yes,,149,89,60
+Cedar,Tipton 2,District 7 Judge - Patrick A. McElyea,,Yes,,150,69,81
+Cedar,Tipton 3,District 7 Judge - Patrick A. McElyea,,Yes,,193,85,108
+Cedar,West Branch 1,District 7 Judge - Patrick A. McElyea,,Yes,,631,211,420
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Judge - Tamra J. Roberts,,No,,180,99,81
+Cedar,Dayton-Fairfield,District 7 Judge - Tamra J. Roberts,,No,,99,36,63
+Cedar,Farmington-Sugar Creek,District 7 Judge - Tamra J. Roberts,,No,,208,53,155
+Cedar,Fremont-Red Oak,District 7 Judge - Tamra J. Roberts,,No,,70,16,54
+Cedar,Gower-Springdale,District 7 Judge - Tamra J. Roberts,,No,,110,45,65
+Cedar,Inland,District 7 Judge - Tamra J. Roberts,,No,,52,9,43
+Cedar,Linn-Pioneer,District 7 Judge - Tamra J. Roberts,,No,,156,37,119
+Cedar,Massillon-Springfield,District 7 Judge - Tamra J. Roberts,,No,,101,22,79
+Cedar,Tipton 1,District 7 Judge - Tamra J. Roberts,,No,,53,21,32
+Cedar,Tipton 2,District 7 Judge - Tamra J. Roberts,,No,,63,25,38
+Cedar,Tipton 3,District 7 Judge - Tamra J. Roberts,,No,,65,33,32
+Cedar,West Branch 1,District 7 Judge - Tamra J. Roberts,,No,,248,80,168
+Cedar,Cass-Center-Iowa-Rocheste,District 7 Judge - Tamra J. Roberts,,Yes,,612,300,312
+Cedar,Dayton-Fairfield,District 7 Judge - Tamra J. Roberts,,Yes,,242,80,162
+Cedar,Farmington-Sugar Creek,District 7 Judge - Tamra J. Roberts,,Yes,,610,171,439
+Cedar,Fremont-Red Oak,District 7 Judge - Tamra J. Roberts,,Yes,,211,74,137
+Cedar,Gower-Springdale,District 7 Judge - Tamra J. Roberts,,Yes,,306,155,151
+Cedar,Inland,District 7 Judge - Tamra J. Roberts,,Yes,,200,42,158
+Cedar,Linn-Pioneer,District 7 Judge - Tamra J. Roberts,,Yes,,364,102,262
+Cedar,Massillon-Springfield,District 7 Judge - Tamra J. Roberts,,Yes,,250,89,161
+Cedar,Tipton 1,District 7 Judge - Tamra J. Roberts,,Yes,,188,110,78
+Cedar,Tipton 2,District 7 Judge - Tamra J. Roberts,,Yes,,191,102,89
+Cedar,Tipton 3,District 7 Judge - Tamra J. Roberts,,Yes,,255,117,138
+Cedar,West Branch 1,District 7 Judge - Tamra J. Roberts,,Yes,,669,223,446
+Cedar,Dayton-Fairfield,Fairfield Township Clerk,,Duane C. Stonerook,,80,31,49
+Cedar,Dayton-Fairfield,Fairfield Township Clerk,,Write-In,,0,0,0
+Cedar,Dayton-Fairfield,Fairfield Township Trustee,,Scott Tholen,,84,32,52
+Cedar,Dayton-Fairfield,Fairfield Township Trustee,,Write-In,,0,0,0
+Cedar,Farmington-Sugar Creek,Farmington Township Clerk,,Greg Shuger,,216,78,138
+Cedar,Farmington-Sugar Creek,Farmington Township Clerk,,Write-In,,1,1,0
+Cedar,Farmington-Sugar Creek,Farmington Township Trustee,,John Kirkman,,212,74,138
+Cedar,Farmington-Sugar Creek,Farmington Township Trustee,,Write-In,,2,2,0
+Cedar,Fremont-Red Oak,Fremont Township Clerk,,Linda K. Coppess,,88,15,73
+Cedar,Fremont-Red Oak,Fremont Township Clerk,,Write-In,,1,1,0
+Cedar,Fremont-Red Oak,Fremont Township Trustee,,Dennis E. Coppess,,84,12,72
+Cedar,Fremont-Red Oak,Fremont Township Trustee,,Write-In,,2,2,0
+Cedar,Cass-Center-Iowa-Rocheste,Governor,,Rob Sand and Dave Muhlbauer,DEM,531,337,194
+Cedar,Dayton-Fairfield,Governor,,Rob Sand and Dave Muhlbauer,DEM,261,84,177
+Cedar,Farmington-Sugar Creek,Governor,,Rob Sand and Dave Muhlbauer,DEM,536,178,358
+Cedar,Fremont-Red Oak,Governor,,Rob Sand and Dave Muhlbauer,DEM,218,79,139
+Cedar,Gower-Springdale,Governor,,Rob Sand and Dave Muhlbauer,DEM,411,215,196
+Cedar,Inland,Governor,,Rob Sand and Dave Muhlbauer,DEM,94,24,70
+Cedar,Linn-Pioneer,Governor,,Rob Sand and Dave Muhlbauer,DEM,435,149,286
+Cedar,Massillon-Springfield,Governor,,Rob Sand and Dave Muhlbauer,DEM,228,76,152
+Cedar,Tipton 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,224,116,108
+Cedar,Tipton 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,245,134,111
+Cedar,Tipton 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,292,153,139
+Cedar,West Branch 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,1001,368,633
+Cedar,Cass-Center-Iowa-Rocheste,Governor,,Write-In,,1,1,0
+Cedar,Dayton-Fairfield,Governor,,Write-In,,2,0,2
+Cedar,Farmington-Sugar Creek,Governor,,Write-In,,0,0,0
+Cedar,Fremont-Red Oak,Governor,,Write-In,,1,0,1
+Cedar,Gower-Springdale,Governor,,Write-In,,2,2,0
+Cedar,Inland,Governor,,Write-In,,2,0,2
+Cedar,Linn-Pioneer,Governor,,Write-In,,2,2,0
+Cedar,Massillon-Springfield,Governor,,Write-In,,1,0,1
+Cedar,Tipton 1,Governor,,Write-In,,0,0,0
+Cedar,Tipton 2,Governor,,Write-In,,0,0,0
+Cedar,Tipton 3,Governor,,Write-In,,0,0,0
+Cedar,West Branch 1,Governor,,Write-In,,2,1,1
+Cedar,Cass-Center-Iowa-Rocheste,Governor,,Zach Lahn and Derek Wulf,REP,702,336,366
+Cedar,Dayton-Fairfield,Governor,,Zach Lahn and Derek Wulf,REP,367,101,266
+Cedar,Farmington-Sugar Creek,Governor,,Zach Lahn and Derek Wulf,REP,700,177,523
+Cedar,Fremont-Red Oak,Governor,,Zach Lahn and Derek Wulf,REP,231,64,167
+Cedar,Gower-Springdale,Governor,,Zach Lahn and Derek Wulf,REP,262,89,173
+Cedar,Inland,Governor,,Zach Lahn and Derek Wulf,REP,225,43,182
+Cedar,Linn-Pioneer,Governor,,Zach Lahn and Derek Wulf,REP,430,97,333
+Cedar,Massillon-Springfield,Governor,,Zach Lahn and Derek Wulf,REP,363,85,278
+Cedar,Tipton 1,Governor,,Zach Lahn and Derek Wulf,REP,164,95,69
+Cedar,Tipton 2,Governor,,Zach Lahn and Derek Wulf,REP,167,80,87
+Cedar,Tipton 3,Governor,,Zach Lahn and Derek Wulf,REP,205,88,117
+Cedar,West Branch 1,Governor,,Zach Lahn and Derek Wulf,REP,416,106,310
+Cedar,Gower-Springdale,Gower Township Clerk,,Douglas Klein,,189,74,115
+Cedar,Gower-Springdale,Gower Township Clerk,,Write-In,,0,0,0
+Cedar,Gower-Springdale,Gower Township Trustee,,Dale R. Slach,,202,89,113
+Cedar,Gower-Springdale,Gower Township Trustee,,Write-In,,3,0,3
+Cedar,Inland,Inland Township Clerk,,Logan Peitscher,,155,42,113
+Cedar,Inland,Inland Township Clerk,,Write-In,,0,0,0
+Cedar,Inland,Inland Township Trustee,,Lori Dunn,,126,38,88
+Cedar,Inland,Inland Township Trustee,,Write-In,,8,1,7
+Cedar,Cass-Center-Iowa-Rocheste,Iowa Township Clerk,,Sara Yoder,,149,85,64
+Cedar,Cass-Center-Iowa-Rocheste,Iowa Township Clerk,,Write-In,,2,0,2
+Cedar,Cass-Center-Iowa-Rocheste,Iowa Township Trustee,,Write-In,,25,12,13
+Cedar,Cass-Center-Iowa-Rocheste,Kirkwood Community College - Public Measure NC,,No,,423,239,184
+Cedar,Dayton-Fairfield,Kirkwood Community College - Public Measure NC,,No,,191,55,136
+Cedar,Farmington-Sugar Creek,Kirkwood Community College - Public Measure NC,,No,,12,9,3
+Cedar,Fremont-Red Oak,Kirkwood Community College - Public Measure NC,,No,,164,58,106
+Cedar,Gower-Springdale,Kirkwood Community College - Public Measure NC,,No,,159,77,82
+Cedar,Inland,Kirkwood Community College - Public Measure NC,,No,,1,1,0
+Cedar,Linn-Pioneer,Kirkwood Community College - Public Measure NC,,No,,304,77,227
+Cedar,Massillon-Springfield,Kirkwood Community College - Public Measure NC,,No,,165,43,122
+Cedar,Tipton 1,Kirkwood Community College - Public Measure NC,,No,,136,73,63
+Cedar,Tipton 2,Kirkwood Community College - Public Measure NC,,No,,146,70,76
+Cedar,Tipton 3,Kirkwood Community College - Public Measure NC,,No,,160,85,75
+Cedar,West Branch 1,Kirkwood Community College - Public Measure NC,,No,,319,112,207
+Cedar,Cass-Center-Iowa-Rocheste,Kirkwood Community College - Public Measure NC,,Yes,,532,279,253
+Cedar,Dayton-Fairfield,Kirkwood Community College - Public Measure NC,,Yes,,330,97,233
+Cedar,Farmington-Sugar Creek,Kirkwood Community College - Public Measure NC,,Yes,,11,5,6
+Cedar,Fremont-Red Oak,Kirkwood Community College - Public Measure NC,,Yes,,252,79,173
+Cedar,Gower-Springdale,Kirkwood Community College - Public Measure NC,,Yes,,398,183,215
+Cedar,Inland,Kirkwood Community College - Public Measure NC,,Yes,,0,0,0
+Cedar,Linn-Pioneer,Kirkwood Community College - Public Measure NC,,Yes,,469,145,324
+Cedar,Massillon-Springfield,Kirkwood Community College - Public Measure NC,,Yes,,284,78,206
+Cedar,Tipton 1,Kirkwood Community College - Public Measure NC,,Yes,,211,116,95
+Cedar,Tipton 2,Kirkwood Community College - Public Measure NC,,Yes,,212,112,100
+Cedar,Tipton 3,Kirkwood Community College - Public Measure NC,,Yes,,298,135,163
+Cedar,West Branch 1,Kirkwood Community College - Public Measure NC,,Yes,,981,322,659
+Cedar,Linn-Pioneer,Linn Township Clerk,,Julie Broulik,,60,21,39
+Cedar,Linn-Pioneer,Linn Township Clerk,,Write-In,,1,0,1
+Cedar,Linn-Pioneer,Linn Township Trustee,,Russ Cook,,63,21,42
+Cedar,Linn-Pioneer,Linn Township Trustee,,Write-In,,0,0,0
+Cedar,Massillon-Springfield,Massillon Township Clerk,,Brenda Hansen,,88,29,59
+Cedar,Massillon-Springfield,Massillon Township Clerk,,Write-In,,0,0,0
+Cedar,Massillon-Springfield,Massillon Township Trustee,,Penny Vacek,,85,30,55
+Cedar,Massillon-Springfield,Massillon Township Trustee,,Write-In,,0,0,0
+Cedar,Linn-Pioneer,Pioneer Township Clerk,,Christine Weber,,239,72,167
+Cedar,Linn-Pioneer,Pioneer Township Clerk,,Write-In,,6,3,3
+Cedar,Linn-Pioneer,Pioneer Township Trustee,,Glen D. Weber,,244,78,166
+Cedar,Linn-Pioneer,Pioneer Township Trustee,,Write-In,,4,1,3
+Cedar,Fremont-Red Oak,Red Oak Township Clerk,,Barbara J. Haynes,,73,43,30
+Cedar,Fremont-Red Oak,Red Oak Township Clerk,,Write-In,,0,0,0
+Cedar,Fremont-Red Oak,Red Oak Township Trustee,,Paul A. Urmie,,77,45,32
+Cedar,Fremont-Red Oak,Red Oak Township Trustee,,Write-In,,0,0,0
+Cedar,Cass-Center-Iowa-Rocheste,Rochester Township Clerk,,Terry A. LeDoux,,237,101,136
+Cedar,Cass-Center-Iowa-Rocheste,Rochester Township Clerk,,Write-In,,4,1,3
+Cedar,Cass-Center-Iowa-Rocheste,Rochester Township Trustee,,Jacie Thomsen,,242,109,133
+Cedar,Cass-Center-Iowa-Rocheste,Rochester Township Trustee,,Write-In,,6,2,4
+Cedar,Cass-Center-Iowa-Rocheste,Rochester Township Trustee To Fill a Vacancy,,Jon L. Zobel,,246,111,135
+Cedar,Cass-Center-Iowa-Rocheste,Rochester Township Trustee To Fill a Vacancy,,Write-In,,2,1,1
+Cedar,Cass-Center-Iowa-Rocheste,Secretary of Agriculture,,Chris Jones,DEM,401,256,145
+Cedar,Dayton-Fairfield,Secretary of Agriculture,,Chris Jones,DEM,202,70,132
+Cedar,Farmington-Sugar Creek,Secretary of Agriculture,,Chris Jones,DEM,400,138,262
+Cedar,Fremont-Red Oak,Secretary of Agriculture,,Chris Jones,DEM,156,65,91
+Cedar,Gower-Springdale,Secretary of Agriculture,,Chris Jones,DEM,320,166,154
+Cedar,Inland,Secretary of Agriculture,,Chris Jones,DEM,64,14,50
+Cedar,Linn-Pioneer,Secretary of Agriculture,,Chris Jones,DEM,319,114,205
+Cedar,Massillon-Springfield,Secretary of Agriculture,,Chris Jones,DEM,160,52,108
+Cedar,Tipton 1,Secretary of Agriculture,,Chris Jones,DEM,173,93,80
+Cedar,Tipton 2,Secretary of Agriculture,,Chris Jones,DEM,180,107,73
+Cedar,Tipton 3,Secretary of Agriculture,,Chris Jones,DEM,218,125,93
+Cedar,West Branch 1,Secretary of Agriculture,,Chris Jones,DEM,881,326,555
+Cedar,Cass-Center-Iowa-Rocheste,Secretary of Agriculture,,Mike Naig,REP,793,397,396
+Cedar,Dayton-Fairfield,Secretary of Agriculture,,Mike Naig,REP,413,113,300
+Cedar,Farmington-Sugar Creek,Secretary of Agriculture,,Mike Naig,REP,816,212,604
+Cedar,Fremont-Red Oak,Secretary of Agriculture,,Mike Naig,REP,275,74,201
+Cedar,Gower-Springdale,Secretary of Agriculture,,Mike Naig,REP,346,139,207
+Cedar,Inland,Secretary of Agriculture,,Mike Naig,REP,251,52,199
+Cedar,Linn-Pioneer,Secretary of Agriculture,,Mike Naig,REP,512,129,383
+Cedar,Massillon-Springfield,Secretary of Agriculture,,Mike Naig,REP,424,106,318
+Cedar,Tipton 1,Secretary of Agriculture,,Mike Naig,REP,204,117,87
+Cedar,Tipton 2,Secretary of Agriculture,,Mike Naig,REP,207,97,110
+Cedar,Tipton 3,Secretary of Agriculture,,Mike Naig,REP,256,111,145
+Cedar,West Branch 1,Secretary of Agriculture,,Mike Naig,REP,500,139,361
+Cedar,Cass-Center-Iowa-Rocheste,Secretary of Agriculture,,Write-In,,0,0,0
+Cedar,Dayton-Fairfield,Secretary of Agriculture,,Write-In,,1,0,1
+Cedar,Farmington-Sugar Creek,Secretary of Agriculture,,Write-In,,0,0,0
+Cedar,Fremont-Red Oak,Secretary of Agriculture,,Write-In,,0,0,0
+Cedar,Gower-Springdale,Secretary of Agriculture,,Write-In,,1,1,0
+Cedar,Inland,Secretary of Agriculture,,Write-In,,0,0,0
+Cedar,Linn-Pioneer,Secretary of Agriculture,,Write-In,,0,0,0
+Cedar,Massillon-Springfield,Secretary of Agriculture,,Write-In,,0,0,0
+Cedar,Tipton 1,Secretary of Agriculture,,Write-In,,0,0,0
+Cedar,Tipton 2,Secretary of Agriculture,,Write-In,,0,0,0
+Cedar,Tipton 3,Secretary of Agriculture,,Write-In,,0,0,0
+Cedar,West Branch 1,Secretary of Agriculture,,Write-In,,2,1,1
+Cedar,Cass-Center-Iowa-Rocheste,Secretary of State,,Paul D. Pate,REP,788,382,406
+Cedar,Dayton-Fairfield,Secretary of State,,Paul D. Pate,REP,420,117,303
+Cedar,Farmington-Sugar Creek,Secretary of State,,Paul D. Pate,REP,791,203,588
+Cedar,Fremont-Red Oak,Secretary of State,,Paul D. Pate,REP,282,82,200
+Cedar,Gower-Springdale,Secretary of State,,Paul D. Pate,REP,342,137,205
+Cedar,Inland,Secretary of State,,Paul D. Pate,REP,253,50,203
+Cedar,Linn-Pioneer,Secretary of State,,Paul D. Pate,REP,523,128,395
+Cedar,Massillon-Springfield,Secretary of State,,Paul D. Pate,REP,404,93,311
+Cedar,Tipton 1,Secretary of State,,Paul D. Pate,REP,208,119,89
+Cedar,Tipton 2,Secretary of State,,Paul D. Pate,REP,201,96,105
+Cedar,Tipton 3,Secretary of State,,Paul D. Pate,REP,247,103,144
+Cedar,West Branch 1,Secretary of State,,Paul D. Pate,REP,530,147,383
+Cedar,Cass-Center-Iowa-Rocheste,Secretary of State,,Ryan Peterman,DEM,407,270,137
+Cedar,Dayton-Fairfield,Secretary of State,,Ryan Peterman,DEM,187,66,121
+Cedar,Farmington-Sugar Creek,Secretary of State,,Ryan Peterman,DEM,422,148,274
+Cedar,Fremont-Red Oak,Secretary of State,,Ryan Peterman,DEM,147,59,88
+Cedar,Gower-Springdale,Secretary of State,,Ryan Peterman,DEM,326,167,159
+Cedar,Inland,Secretary of State,,Ryan Peterman,DEM,64,16,48
+Cedar,Linn-Pioneer,Secretary of State,,Ryan Peterman,DEM,320,119,201
+Cedar,Massillon-Springfield,Secretary of State,,Ryan Peterman,DEM,178,65,113
+Cedar,Tipton 1,Secretary of State,,Ryan Peterman,DEM,169,91,78
+Cedar,Tipton 2,Secretary of State,,Ryan Peterman,DEM,192,111,81
+Cedar,Tipton 3,Secretary of State,,Ryan Peterman,DEM,229,130,99
+Cedar,West Branch 1,Secretary of State,,Ryan Peterman,DEM,863,323,540
+Cedar,Cass-Center-Iowa-Rocheste,Secretary of State,,Write-In,,0,0,0
+Cedar,Dayton-Fairfield,Secretary of State,,Write-In,,1,0,1
+Cedar,Farmington-Sugar Creek,Secretary of State,,Write-In,,1,0,1
+Cedar,Fremont-Red Oak,Secretary of State,,Write-In,,0,0,0
+Cedar,Gower-Springdale,Secretary of State,,Write-In,,1,1,0
+Cedar,Inland,Secretary of State,,Write-In,,0,0,0
+Cedar,Linn-Pioneer,Secretary of State,,Write-In,,0,0,0
+Cedar,Massillon-Springfield,Secretary of State,,Write-In,,0,0,0
+Cedar,Tipton 1,Secretary of State,,Write-In,,0,0,0
+Cedar,Tipton 2,Secretary of State,,Write-In,,0,0,0
+Cedar,Tipton 3,Secretary of State,,Write-In,,0,0,0
+Cedar,West Branch 1,Secretary of State,,Write-In,,1,1,0
+Cedar,Cass-Center-Iowa-Rocheste,Soil and Water Conservation District Commissioner,,Write-In,,137,51,86
+Cedar,Dayton-Fairfield,Soil and Water Conservation District Commissioner,,Write-In,,34,8,26
+Cedar,Farmington-Sugar Creek,Soil and Water Conservation District Commissioner,,Write-In,,47,13,34
+Cedar,Fremont-Red Oak,Soil and Water Conservation District Commissioner,,Write-In,,17,11,6
+Cedar,Gower-Springdale,Soil and Water Conservation District Commissioner,,Write-In,,115,53,62
+Cedar,Inland,Soil and Water Conservation District Commissioner,,Write-In,,12,2,10
+Cedar,Linn-Pioneer,Soil and Water Conservation District Commissioner,,Write-In,,53,5,48
+Cedar,Massillon-Springfield,Soil and Water Conservation District Commissioner,,Write-In,,30,8,22
+Cedar,Tipton 1,Soil and Water Conservation District Commissioner,,Write-In,,10,3,7
+Cedar,Tipton 2,Soil and Water Conservation District Commissioner,,Write-In,,19,11,8
+Cedar,Tipton 3,Soil and Water Conservation District Commissioner,,Write-In,,18,7,11
+Cedar,West Branch 1,Soil and Water Conservation District Commissioner,,Write-In,,115,45,70
+Cedar,Cass-Center-Iowa-Rocheste,Soil and Water Conservation District Commissioner To Fill a Vacancy,,James Pelzer,,891,475,416
+Cedar,Dayton-Fairfield,Soil and Water Conservation District Commissioner To Fill a Vacancy,,James Pelzer,,411,130,281
+Cedar,Farmington-Sugar Creek,Soil and Water Conservation District Commissioner To Fill a Vacancy,,James Pelzer,,851,252,599
+Cedar,Fremont-Red Oak,Soil and Water Conservation District Commissioner To Fill a Vacancy,,James Pelzer,,298,100,198
+Cedar,Gower-Springdale,Soil and Water Conservation District Commissioner To Fill a Vacancy,,James Pelzer,,427,186,241
+Cedar,Inland,Soil and Water Conservation District Commissioner To Fill a Vacancy,,James Pelzer,,266,55,211
+Cedar,Linn-Pioneer,Soil and Water Conservation District Commissioner To Fill a Vacancy,,James Pelzer,,550,153,397
+Cedar,Massillon-Springfield,Soil and Water Conservation District Commissioner To Fill a Vacancy,,James Pelzer,,370,117,253
+Cedar,Tipton 1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,James Pelzer,,271,161,110
+Cedar,Tipton 2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,James Pelzer,,269,144,125
+Cedar,Tipton 3,Soil and Water Conservation District Commissioner To Fill a Vacancy,,James Pelzer,,351,168,183
+Cedar,West Branch 1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,James Pelzer,,836,257,579
+Cedar,Cass-Center-Iowa-Rocheste,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,4,1,3
+Cedar,Dayton-Fairfield,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,3,1,2
+Cedar,Farmington-Sugar Creek,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,5,1,4
+Cedar,Fremont-Red Oak,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,2,1,1
+Cedar,Gower-Springdale,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,7,1,6
+Cedar,Inland,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,1,0,1
+Cedar,Linn-Pioneer,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,5,2,3
+Cedar,Massillon-Springfield,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,4,0,4
+Cedar,Tipton 1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,0,0,0
+Cedar,Tipton 2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,3,1,2
+Cedar,Tipton 3,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,3,2,1
+Cedar,West Branch 1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,8,6,2
+Cedar,Gower-Springdale,Springdale Township Clerk,,Trent Hansen,,291,138,153
+Cedar,Gower-Springdale,Springdale Township Clerk,,Write-In,,1,0,1
+Cedar,Gower-Springdale,Springdale Township Trustee,,Mike Lodge,,294,139,155
+Cedar,Gower-Springdale,Springdale Township Trustee,,Write-In,,2,1,1
+Cedar,Massillon-Springfield,Springfield Township Clerk,,Julie Schroeder,,112,47,65
+Cedar,Massillon-Springfield,Springfield Township Clerk,,Write-In,,0,0,0
+Cedar,Massillon-Springfield,Springfield Township Trustee,,Bill Urmie,,104,44,60
+Cedar,Massillon-Springfield,Springfield Township Trustee,,Write-In,,2,1,1
+Cedar,Massillon-Springfield,Springfield Township Trustee To Fill a Vacancy,,David Niermeyer,,109,46,63
+Cedar,Massillon-Springfield,Springfield Township Trustee To Fill a Vacancy,,Write-In,,1,0,1
+Cedar,Cass-Center-Iowa-Rocheste,State House,82,Bobby Kaufmann,REP,800,391,409
+Cedar,Dayton-Fairfield,State House,82,Bobby Kaufmann,REP,429,112,317
+Cedar,Farmington-Sugar Creek,State House,82,Bobby Kaufmann,REP,836,207,629
+Cedar,Fremont-Red Oak,State House,82,Bobby Kaufmann,REP,272,71,201
+Cedar,Gower-Springdale,State House,82,Bobby Kaufmann,REP,346,135,211
+Cedar,Inland,State House,82,Bobby Kaufmann,REP,257,51,206
+Cedar,Linn-Pioneer,State House,82,Bobby Kaufmann,REP,512,120,392
+Cedar,Massillon-Springfield,State House,82,Bobby Kaufmann,REP,422,101,321
+Cedar,Tipton 1,State House,82,Bobby Kaufmann,REP,214,118,96
+Cedar,Tipton 2,State House,82,Bobby Kaufmann,REP,200,92,108
+Cedar,Tipton 3,State House,82,Bobby Kaufmann,REP,276,119,157
+Cedar,West Branch 1,State House,82,Bobby Kaufmann,REP,534,144,390
+Cedar,Cass-Center-Iowa-Rocheste,State House,82,James Behrmann,DEM,417,273,144
+Cedar,Dayton-Fairfield,State House,82,James Behrmann,DEM,189,74,115
+Cedar,Farmington-Sugar Creek,State House,82,James Behrmann,DEM,389,145,244
+Cedar,Fremont-Red Oak,State House,82,James Behrmann,DEM,162,70,92
+Cedar,Gower-Springdale,State House,82,James Behrmann,DEM,324,173,151
+Cedar,Inland,State House,82,James Behrmann,DEM,61,16,45
+Cedar,Linn-Pioneer,State House,82,James Behrmann,DEM,325,125,200
+Cedar,Massillon-Springfield,State House,82,James Behrmann,DEM,158,58,100
+Cedar,Tipton 1,State House,82,James Behrmann,DEM,158,89,69
+Cedar,Tipton 2,State House,82,James Behrmann,DEM,198,114,84
+Cedar,Tipton 3,State House,82,James Behrmann,DEM,211,117,94
+Cedar,West Branch 1,State House,82,James Behrmann,DEM,854,325,529
+Cedar,Cass-Center-Iowa-Rocheste,State House,82,Write-In,,0,0,0
+Cedar,Dayton-Fairfield,State House,82,Write-In,,0,0,0
+Cedar,Farmington-Sugar Creek,State House,82,Write-In,,1,0,1
+Cedar,Fremont-Red Oak,State House,82,Write-In,,0,0,0
+Cedar,Gower-Springdale,State House,82,Write-In,,1,0,1
+Cedar,Inland,State House,82,Write-In,,0,0,0
+Cedar,Linn-Pioneer,State House,82,Write-In,,1,0,1
+Cedar,Massillon-Springfield,State House,82,Write-In,,0,0,0
+Cedar,Tipton 1,State House,82,Write-In,,0,0,0
+Cedar,Tipton 2,State House,82,Write-In,,1,1,0
+Cedar,Tipton 3,State House,82,Write-In,,0,0,0
+Cedar,West Branch 1,State House,82,Write-In,,1,1,0
+Cedar,Cass-Center-Iowa-Rocheste,State Senate,41,Kerry Gruenhagen,REP,769,375,394
+Cedar,Dayton-Fairfield,State Senate,41,Kerry Gruenhagen,REP,393,106,287
+Cedar,Farmington-Sugar Creek,State Senate,41,Kerry Gruenhagen,REP,826,204,622
+Cedar,Fremont-Red Oak,State Senate,41,Kerry Gruenhagen,REP,257,71,186
+Cedar,Gower-Springdale,State Senate,41,Kerry Gruenhagen,REP,311,117,194
+Cedar,Inland,State Senate,41,Kerry Gruenhagen,REP,255,50,205
+Cedar,Linn-Pioneer,State Senate,41,Kerry Gruenhagen,REP,477,110,367
+Cedar,Massillon-Springfield,State Senate,41,Kerry Gruenhagen,REP,407,99,308
+Cedar,Tipton 1,State Senate,41,Kerry Gruenhagen,REP,192,112,80
+Cedar,Tipton 2,State Senate,41,Kerry Gruenhagen,REP,188,88,100
+Cedar,Tipton 3,State Senate,41,Kerry Gruenhagen,REP,249,105,144
+Cedar,West Branch 1,State Senate,41,Kerry Gruenhagen,REP,475,123,352
+Cedar,Cass-Center-Iowa-Rocheste,State Senate,41,Tom Wieck,DEM,421,274,147
+Cedar,Dayton-Fairfield,State Senate,41,Tom Wieck,DEM,207,76,131
+Cedar,Farmington-Sugar Creek,State Senate,41,Tom Wieck,DEM,400,148,252
+Cedar,Fremont-Red Oak,State Senate,41,Tom Wieck,DEM,170,68,102
+Cedar,Gower-Springdale,State Senate,41,Tom Wieck,DEM,352,186,166
+Cedar,Inland,State Senate,41,Tom Wieck,DEM,61,16,45
+Cedar,Linn-Pioneer,State Senate,41,Tom Wieck,DEM,349,132,217
+Cedar,Massillon-Springfield,State Senate,41,Tom Wieck,DEM,170,61,109
+Cedar,Tipton 1,State Senate,41,Tom Wieck,DEM,177,96,81
+Cedar,Tipton 2,State Senate,41,Tom Wieck,DEM,207,119,88
+Cedar,Tipton 3,State Senate,41,Tom Wieck,DEM,238,132,106
+Cedar,West Branch 1,State Senate,41,Tom Wieck,DEM,906,341,565
+Cedar,Cass-Center-Iowa-Rocheste,State Senate,41,Write-In,,1,0,1
+Cedar,Dayton-Fairfield,State Senate,41,Write-In,,2,0,2
+Cedar,Farmington-Sugar Creek,State Senate,41,Write-In,,0,0,0
+Cedar,Fremont-Red Oak,State Senate,41,Write-In,,0,0,0
+Cedar,Gower-Springdale,State Senate,41,Write-In,,1,1,0
+Cedar,Inland,State Senate,41,Write-In,,0,0,0
+Cedar,Linn-Pioneer,State Senate,41,Write-In,,2,1,1
+Cedar,Massillon-Springfield,State Senate,41,Write-In,,0,0,0
+Cedar,Tipton 1,State Senate,41,Write-In,,0,0,0
+Cedar,Tipton 2,State Senate,41,Write-In,,0,0,0
+Cedar,Tipton 3,State Senate,41,Write-In,,0,0,0
+Cedar,West Branch 1,State Senate,41,Write-In,,1,1,0
+Cedar,Farmington-Sugar Creek,Sugar Creek Township Clerk,,Write-In,,19,8,11
+Cedar,Farmington-Sugar Creek,Sugar Creek Township Trustee,,Matt Bowers,,162,78,84
+Cedar,Farmington-Sugar Creek,Sugar Creek Township Trustee,,Write-In,,7,2,5
+Cedar,Cass-Center-Iowa-Rocheste,Tipton School - Public Measure A,,No,,344,211,133
+Cedar,Dayton-Fairfield,Tipton School - Public Measure A,,No,,17,7,10
+Cedar,Farmington-Sugar Creek,Tipton School - Public Measure A,,No,,11,6,5
+Cedar,Fremont-Red Oak,Tipton School - Public Measure A,,No,,20,10,10
+Cedar,Inland,Tipton School - Public Measure A,,No,,1,1,0
+Cedar,Linn-Pioneer,Tipton School - Public Measure A,,No,,5,2,3
+Cedar,Tipton 1,Tipton School - Public Measure A,,No,,131,71,60
+Cedar,Tipton 2,Tipton School - Public Measure A,,No,,121,60,61
+Cedar,Tipton 3,Tipton School - Public Measure A,,No,,132,70,62
+Cedar,Cass-Center-Iowa-Rocheste,Tipton School - Public Measure A,,Yes,,525,258,267
+Cedar,Dayton-Fairfield,Tipton School - Public Measure A,,Yes,,22,13,9
+Cedar,Farmington-Sugar Creek,Tipton School - Public Measure A,,Yes,,13,9,4
+Cedar,Fremont-Red Oak,Tipton School - Public Measure A,,Yes,,31,11,20
+Cedar,Inland,Tipton School - Public Measure A,,Yes,,0,0,0
+Cedar,Linn-Pioneer,Tipton School - Public Measure A,,Yes,,5,1,4
+Cedar,Tipton 1,Tipton School - Public Measure A,,Yes,,243,129,114
+Cedar,Tipton 2,Tipton School - Public Measure A,,Yes,,277,143,134
+Cedar,Tipton 3,Tipton School - Public Measure A,,Yes,,352,161,191
+Cedar,Cass-Center-Iowa-Rocheste,Treasurer of State,,John Norwood,DEM,417,281,136
+Cedar,Dayton-Fairfield,Treasurer of State,,John Norwood,DEM,218,81,137
+Cedar,Farmington-Sugar Creek,Treasurer of State,,John Norwood,DEM,434,154,280
+Cedar,Fremont-Red Oak,Treasurer of State,,John Norwood,DEM,174,68,106
+Cedar,Gower-Springdale,Treasurer of State,,John Norwood,DEM,350,183,167
+Cedar,Inland,Treasurer of State,,John Norwood,DEM,76,18,58
+Cedar,Linn-Pioneer,Treasurer of State,,John Norwood,DEM,345,131,214
+Cedar,Massillon-Springfield,Treasurer of State,,John Norwood,DEM,184,64,120
+Cedar,Tipton 1,Treasurer of State,,John Norwood,DEM,187,102,85
+Cedar,Tipton 2,Treasurer of State,,John Norwood,DEM,196,112,84
+Cedar,Tipton 3,Treasurer of State,,John Norwood,DEM,239,131,108
+Cedar,West Branch 1,Treasurer of State,,John Norwood,DEM,897,339,558
+Cedar,Cass-Center-Iowa-Rocheste,Treasurer of State,,Roby Smith,REP,748,357,391
+Cedar,Dayton-Fairfield,Treasurer of State,,Roby Smith,REP,371,97,274
+Cedar,Farmington-Sugar Creek,Treasurer of State,,Roby Smith,REP,771,193,578
+Cedar,Fremont-Red Oak,Treasurer of State,,Roby Smith,REP,248,70,178
+Cedar,Gower-Springdale,Treasurer of State,,Roby Smith,REP,307,115,192
+Cedar,Inland,Treasurer of State,,Roby Smith,REP,236,47,189
+Cedar,Linn-Pioneer,Treasurer of State,,Roby Smith,REP,475,112,363
+Cedar,Massillon-Springfield,Treasurer of State,,Roby Smith,REP,385,94,291
+Cedar,Tipton 1,Treasurer of State,,Roby Smith,REP,179,104,75
+Cedar,Tipton 2,Treasurer of State,,Roby Smith,REP,182,86,96
+Cedar,Tipton 3,Treasurer of State,,Roby Smith,REP,218,93,125
+Cedar,West Branch 1,Treasurer of State,,Roby Smith,REP,477,124,353
+Cedar,Cass-Center-Iowa-Rocheste,Treasurer of State,,Write-In,,0,0,0
+Cedar,Dayton-Fairfield,Treasurer of State,,Write-In,,0,0,0
+Cedar,Farmington-Sugar Creek,Treasurer of State,,Write-In,,1,0,1
+Cedar,Fremont-Red Oak,Treasurer of State,,Write-In,,0,0,0
+Cedar,Gower-Springdale,Treasurer of State,,Write-In,,1,1,0
+Cedar,Inland,Treasurer of State,,Write-In,,0,0,0
+Cedar,Linn-Pioneer,Treasurer of State,,Write-In,,1,0,1
+Cedar,Massillon-Springfield,Treasurer of State,,Write-In,,0,0,0
+Cedar,Tipton 1,Treasurer of State,,Write-In,,0,0,0
+Cedar,Tipton 2,Treasurer of State,,Write-In,,0,0,0
+Cedar,Tipton 3,Treasurer of State,,Write-In,,0,0,0
+Cedar,West Branch 1,Treasurer of State,,Write-In,,2,0,2
+Cedar,Cass-Center-Iowa-Rocheste,U.S. House,1,Christina Bohannan,DEM,481,318,163
+Cedar,Dayton-Fairfield,U.S. House,1,Christina Bohannan,DEM,233,81,152
+Cedar,Farmington-Sugar Creek,U.S. House,1,Christina Bohannan,DEM,474,167,307
+Cedar,Fremont-Red Oak,U.S. House,1,Christina Bohannan,DEM,183,73,110
+Cedar,Gower-Springdale,U.S. House,1,Christina Bohannan,DEM,372,197,175
+Cedar,Inland,U.S. House,1,Christina Bohannan,DEM,85,23,62
+Cedar,Linn-Pioneer,U.S. House,1,Christina Bohannan,DEM,378,136,242
+Cedar,Massillon-Springfield,U.S. House,1,Christina Bohannan,DEM,198,71,127
+Cedar,Tipton 1,U.S. House,1,Christina Bohannan,DEM,204,109,95
+Cedar,Tipton 2,U.S. House,1,Christina Bohannan,DEM,223,128,95
+Cedar,Tipton 3,U.S. House,1,Christina Bohannan,DEM,257,137,120
+Cedar,West Branch 1,U.S. House,1,Christina Bohannan,DEM,934,352,582
+Cedar,Cass-Center-Iowa-Rocheste,U.S. House,1,Mariannette Miller-Meeks,REP,710,341,369
+Cedar,Dayton-Fairfield,U.S. House,1,Mariannette Miller-Meeks,REP,364,100,264
+Cedar,Farmington-Sugar Creek,U.S. House,1,Mariannette Miller-Meeks,REP,716,175,541
+Cedar,Fremont-Red Oak,U.S. House,1,Mariannette Miller-Meeks,REP,242,65,177
+Cedar,Gower-Springdale,U.S. House,1,Mariannette Miller-Meeks,REP,281,101,180
+Cedar,Inland,U.S. House,1,Mariannette Miller-Meeks,REP,223,42,181
+Cedar,Linn-Pioneer,U.S. House,1,Mariannette Miller-Meeks,REP,448,105,343
+Cedar,Massillon-Springfield,U.S. House,1,Mariannette Miller-Meeks,REP,372,87,285
+Cedar,Tipton 1,U.S. House,1,Mariannette Miller-Meeks,REP,162,94,68
+Cedar,Tipton 2,U.S. House,1,Mariannette Miller-Meeks,REP,178,82,96
+Cedar,Tipton 3,U.S. House,1,Mariannette Miller-Meeks,REP,206,86,120
+Cedar,West Branch 1,U.S. House,1,Mariannette Miller-Meeks,REP,431,111,320
+Cedar,Cass-Center-Iowa-Rocheste,U.S. House,1,Michael Bridgford,,33,10,23
+Cedar,Dayton-Fairfield,U.S. House,1,Michael Bridgford,,23,3,20
+Cedar,Farmington-Sugar Creek,U.S. House,1,Michael Bridgford,,39,10,29
+Cedar,Fremont-Red Oak,U.S. House,1,Michael Bridgford,,18,3,15
+Cedar,Gower-Springdale,U.S. House,1,Michael Bridgford,,20,7,13
+Cedar,Inland,U.S. House,1,Michael Bridgford,,13,2,11
+Cedar,Linn-Pioneer,U.S. House,1,Michael Bridgford,,26,7,19
+Cedar,Massillon-Springfield,U.S. House,1,Michael Bridgford,,17,2,15
+Cedar,Tipton 1,U.S. House,1,Michael Bridgford,,15,8,7
+Cedar,Tipton 2,U.S. House,1,Michael Bridgford,,8,3,5
+Cedar,Tipton 3,U.S. House,1,Michael Bridgford,,27,13,14
+Cedar,West Branch 1,U.S. House,1,Michael Bridgford,,44,9,35
+Cedar,Cass-Center-Iowa-Rocheste,U.S. House,1,Write-In,,0,0,0
+Cedar,Dayton-Fairfield,U.S. House,1,Write-In,,2,0,2
+Cedar,Farmington-Sugar Creek,U.S. House,1,Write-In,,0,0,0
+Cedar,Fremont-Red Oak,U.S. House,1,Write-In,,1,1,0
+Cedar,Gower-Springdale,U.S. House,1,Write-In,,0,0,0
+Cedar,Inland,U.S. House,1,Write-In,,0,0,0
+Cedar,Linn-Pioneer,U.S. House,1,Write-In,,0,0,0
+Cedar,Massillon-Springfield,U.S. House,1,Write-In,,0,0,0
+Cedar,Tipton 1,U.S. House,1,Write-In,,0,0,0
+Cedar,Tipton 2,U.S. House,1,Write-In,,0,0,0
+Cedar,Tipton 3,U.S. House,1,Write-In,,1,1,0
+Cedar,West Branch 1,U.S. House,1,Write-In,,0,0,0
+Cedar,Cass-Center-Iowa-Rocheste,U.S. Senate,,Ashley Hinson,REP,733,357,376
+Cedar,Dayton-Fairfield,U.S. Senate,,Ashley Hinson,REP,368,101,267
+Cedar,Farmington-Sugar Creek,U.S. Senate,,Ashley Hinson,REP,732,181,551
+Cedar,Fremont-Red Oak,U.S. Senate,,Ashley Hinson,REP,244,60,184
+Cedar,Gower-Springdale,U.S. Senate,,Ashley Hinson,REP,279,103,176
+Cedar,Inland,U.S. Senate,,Ashley Hinson,REP,228,47,181
+Cedar,Linn-Pioneer,U.S. Senate,,Ashley Hinson,REP,465,109,356
+Cedar,Massillon-Springfield,U.S. Senate,,Ashley Hinson,REP,374,88,286
+Cedar,Tipton 1,U.S. Senate,,Ashley Hinson,REP,175,99,76
+Cedar,Tipton 2,U.S. Senate,,Ashley Hinson,REP,175,81,94
+Cedar,Tipton 3,U.S. Senate,,Ashley Hinson,REP,224,94,130
+Cedar,West Branch 1,U.S. Senate,,Ashley Hinson,REP,447,118,329
+Cedar,Cass-Center-Iowa-Rocheste,U.S. Senate,,Josh Turek,DEM,469,306,163
+Cedar,Dayton-Fairfield,U.S. Senate,,Josh Turek,DEM,230,78,152
+Cedar,Farmington-Sugar Creek,U.S. Senate,,Josh Turek,DEM,450,156,294
+Cedar,Fremont-Red Oak,U.S. Senate,,Josh Turek,DEM,191,78,113
+Cedar,Gower-Springdale,U.S. Senate,,Josh Turek,DEM,377,198,179
+Cedar,Inland,U.S. Senate,,Josh Turek,DEM,88,20,68
+Cedar,Linn-Pioneer,U.S. Senate,,Josh Turek,DEM,360,133,227
+Cedar,Massillon-Springfield,U.S. Senate,,Josh Turek,DEM,201,68,133
+Cedar,Tipton 1,U.S. Senate,,Josh Turek,DEM,201,107,94
+Cedar,Tipton 2,U.S. Senate,,Josh Turek,DEM,218,127,91
+Cedar,Tipton 3,U.S. Senate,,Josh Turek,DEM,257,140,117
+Cedar,West Branch 1,U.S. Senate,,Josh Turek,DEM,918,351,567
+Cedar,Cass-Center-Iowa-Rocheste,U.S. Senate,,Thomas Laehn,LIB,32,11,21
+Cedar,Dayton-Fairfield,U.S. Senate,,Thomas Laehn,LIB,27,5,22
+Cedar,Farmington-Sugar Creek,U.S. Senate,,Thomas Laehn,LIB,45,11,34
+Cedar,Fremont-Red Oak,U.S. Senate,,Thomas Laehn,LIB,16,5,11
+Cedar,Gower-Springdale,U.S. Senate,,Thomas Laehn,LIB,18,6,12
+Cedar,Inland,U.S. Senate,,Thomas Laehn,LIB,5,0,5
+Cedar,Linn-Pioneer,U.S. Senate,,Thomas Laehn,LIB,34,7,27
+Cedar,Massillon-Springfield,U.S. Senate,,Thomas Laehn,LIB,12,2,10
+Cedar,Tipton 1,U.S. Senate,,Thomas Laehn,LIB,9,5,4
+Cedar,Tipton 2,U.S. Senate,,Thomas Laehn,LIB,15,4,11
+Cedar,Tipton 3,U.S. Senate,,Thomas Laehn,LIB,17,6,11
+Cedar,West Branch 1,U.S. Senate,,Thomas Laehn,LIB,51,6,45
+Cedar,Cass-Center-Iowa-Rocheste,U.S. Senate,,Write-In,,1,0,1
+Cedar,Dayton-Fairfield,U.S. Senate,,Write-In,,2,0,2
+Cedar,Farmington-Sugar Creek,U.S. Senate,,Write-In,,1,0,1
+Cedar,Fremont-Red Oak,U.S. Senate,,Write-In,,0,0,0
+Cedar,Gower-Springdale,U.S. Senate,,Write-In,,0,0,0
+Cedar,Inland,U.S. Senate,,Write-In,,0,0,0
+Cedar,Linn-Pioneer,U.S. Senate,,Write-In,,0,0,0
+Cedar,Massillon-Springfield,U.S. Senate,,Write-In,,1,0,1
+Cedar,Tipton 1,U.S. Senate,,Write-In,,0,0,0
+Cedar,Tipton 2,U.S. Senate,,Write-In,,0,0,0
+Cedar,Tipton 3,U.S. Senate,,Write-In,,0,0,0
+Cedar,West Branch 1,U.S. Senate,,Write-In,,1,0,1

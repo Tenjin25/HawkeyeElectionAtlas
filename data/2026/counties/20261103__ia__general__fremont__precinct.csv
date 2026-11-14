@@ -1,0 +1,419 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Fremont,Farragut,Attorney General,,Brenna Bird,REP,334,80,254
+Fremont,Green/Riverside/Scott,Attorney General,,Brenna Bird,REP,466,88,378
+Fremont,Hamburg/Washington Twp,Attorney General,,Brenna Bird,REP,285,61,224
+Fremont,Riverton,Attorney General,,Brenna Bird,REP,121,8,113
+Fremont,Sidney,Attorney General,,Brenna Bird,REP,512,199,313
+Fremont,Farragut,Attorney General,,Nate Willems,DEM,195,79,116
+Fremont,Green/Riverside/Scott,Attorney General,,Nate Willems,DEM,225,69,156
+Fremont,Hamburg/Washington Twp,Attorney General,,Nate Willems,DEM,156,55,101
+Fremont,Riverton,Attorney General,,Nate Willems,DEM,61,22,39
+Fremont,Sidney,Attorney General,,Nate Willems,DEM,287,146,141
+Fremont,Farragut,Attorney General,,Write-In,,0,0,0
+Fremont,Green/Riverside/Scott,Attorney General,,Write-In,,1,1,0
+Fremont,Hamburg/Washington Twp,Attorney General,,Write-In,,1,0,1
+Fremont,Riverton,Attorney General,,Write-In,,0,0,0
+Fremont,Sidney,Attorney General,,Write-In,,1,1,0
+Fremont,Farragut,Auditor of State,,Chris Cournoyer,REP,338,79,259
+Fremont,Green/Riverside/Scott,Auditor of State,,Chris Cournoyer,REP,459,85,374
+Fremont,Hamburg/Washington Twp,Auditor of State,,Chris Cournoyer,REP,285,59,226
+Fremont,Riverton,Auditor of State,,Chris Cournoyer,REP,127,10,117
+Fremont,Sidney,Auditor of State,,Chris Cournoyer,REP,501,196,305
+Fremont,Farragut,Auditor of State,,Taylor Wettach,DEM,191,80,111
+Fremont,Green/Riverside/Scott,Auditor of State,,Taylor Wettach,DEM,224,70,154
+Fremont,Hamburg/Washington Twp,Auditor of State,,Taylor Wettach,DEM,150,56,94
+Fremont,Riverton,Auditor of State,,Taylor Wettach,DEM,51,20,31
+Fremont,Sidney,Auditor of State,,Taylor Wettach,DEM,280,141,139
+Fremont,Farragut,Auditor of State,,Write-In,,1,1,0
+Fremont,Green/Riverside/Scott,Auditor of State,,Write-In,,0,0,0
+Fremont,Hamburg/Washington Twp,Auditor of State,,Write-In,,1,0,1
+Fremont,Riverton,Auditor of State,,Write-In,,0,0,0
+Fremont,Sidney,Auditor of State,,Write-In,,1,0,1
+Fremont,Sidney,Benton Township Clerk,,Roxanne Daffer,,63,29,34
+Fremont,Sidney,Benton Township Clerk,,Write-In,,1,1,0
+Fremont,Sidney,Benton Township Trustee,,Brian Spurlock,,60,29,31
+Fremont,Sidney,Benton Township Trustee,,Philip K. Penney,,48,22,26
+Fremont,Sidney,Benton Township Trustee,,Write-In,,3,3,0
+Fremont,Farragut,Constitutional Amendment 1,,No,,160,55,105
+Fremont,Green/Riverside/Scott,Constitutional Amendment 1,,No,,202,56,146
+Fremont,Hamburg/Washington Twp,Constitutional Amendment 1,,No,,158,43,115
+Fremont,Riverton,Constitutional Amendment 1,,No,,70,12,58
+Fremont,Sidney,Constitutional Amendment 1,,No,,276,108,168
+Fremont,Farragut,Constitutional Amendment 1,,Yes,,306,81,225
+Fremont,Green/Riverside/Scott,Constitutional Amendment 1,,Yes,,386,79,307
+Fremont,Hamburg/Washington Twp,Constitutional Amendment 1,,Yes,,206,54,152
+Fremont,Riverton,Constitutional Amendment 1,,Yes,,83,14,69
+Fremont,Sidney,Constitutional Amendment 1,,Yes,,381,176,205
+Fremont,Farragut,County Agricultural Extension Council Member,,Abby Pendleton,,328,102,226
+Fremont,Green/Riverside/Scott,County Agricultural Extension Council Member,,Abby Pendleton,,373,91,282
+Fremont,Hamburg/Washington Twp,County Agricultural Extension Council Member,,Abby Pendleton,,236,57,179
+Fremont,Riverton,County Agricultural Extension Council Member,,Abby Pendleton,,106,14,92
+Fremont,Sidney,County Agricultural Extension Council Member,,Abby Pendleton,,472,197,275
+Fremont,Farragut,County Agricultural Extension Council Member,,Colton Moore,,354,111,243
+Fremont,Green/Riverside/Scott,County Agricultural Extension Council Member,,Colton Moore,,456,95,361
+Fremont,Hamburg/Washington Twp,County Agricultural Extension Council Member,,Colton Moore,,248,59,189
+Fremont,Riverton,County Agricultural Extension Council Member,,Colton Moore,,109,12,97
+Fremont,Sidney,County Agricultural Extension Council Member,,Colton Moore,,479,206,273
+Fremont,Farragut,County Agricultural Extension Council Member,,Janet Burkhiser,,406,123,283
+Fremont,Green/Riverside/Scott,County Agricultural Extension Council Member,,Janet Burkhiser,,374,89,285
+Fremont,Hamburg/Washington Twp,County Agricultural Extension Council Member,,Janet Burkhiser,,250,64,186
+Fremont,Riverton,County Agricultural Extension Council Member,,Janet Burkhiser,,118,16,102
+Fremont,Sidney,County Agricultural Extension Council Member,,Janet Burkhiser,,490,209,281
+Fremont,Farragut,County Agricultural Extension Council Member,,Kayla Walter,,373,115,258
+Fremont,Green/Riverside/Scott,County Agricultural Extension Council Member,,Kayla Walter,,389,87,302
+Fremont,Hamburg/Washington Twp,County Agricultural Extension Council Member,,Kayla Walter,,254,61,193
+Fremont,Riverton,County Agricultural Extension Council Member,,Kayla Walter,,119,16,103
+Fremont,Sidney,County Agricultural Extension Council Member,,Kayla Walter,,504,212,292
+Fremont,Farragut,County Agricultural Extension Council Member,,Kristi Shiner,,318,99,219
+Fremont,Green/Riverside/Scott,County Agricultural Extension Council Member,,Kristi Shiner,,371,88,283
+Fremont,Hamburg/Washington Twp,County Agricultural Extension Council Member,,Kristi Shiner,,233,56,177
+Fremont,Riverton,County Agricultural Extension Council Member,,Kristi Shiner,,105,15,90
+Fremont,Sidney,County Agricultural Extension Council Member,,Kristi Shiner,,453,192,261
+Fremont,Farragut,County Agricultural Extension Council Member,,Write-In,,9,2,7
+Fremont,Green/Riverside/Scott,County Agricultural Extension Council Member,,Write-In,,13,7,6
+Fremont,Hamburg/Washington Twp,County Agricultural Extension Council Member,,Write-In,,11,3,8
+Fremont,Riverton,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Fremont,Sidney,County Agricultural Extension Council Member,,Write-In,,9,1,8
+Fremont,Farragut,County Attorney,,Peter Johnson,DEM,383,124,259
+Fremont,Green/Riverside/Scott,County Attorney,,Peter Johnson,DEM,447,101,346
+Fremont,Hamburg/Washington Twp,County Attorney,,Peter Johnson,DEM,295,77,218
+Fremont,Riverton,County Attorney,,Peter Johnson,DEM,121,25,96
+Fremont,Sidney,County Attorney,,Peter Johnson,DEM,561,231,330
+Fremont,Farragut,County Attorney,,Write-In,,22,5,17
+Fremont,Green/Riverside/Scott,County Attorney,,Write-In,,31,9,22
+Fremont,Hamburg/Washington Twp,County Attorney,,Write-In,,9,1,8
+Fremont,Riverton,County Attorney,,Write-In,,9,0,9
+Fremont,Sidney,County Attorney,,Write-In,,44,15,29
+Fremont,Farragut,County Board of Supervisors,,Clint Blackburn,REP,363,111,252
+Fremont,Green/Riverside/Scott,County Board of Supervisors,,Clint Blackburn,REP,552,118,434
+Fremont,Hamburg/Washington Twp,County Board of Supervisors,,Clint Blackburn,REP,296,71,225
+Fremont,Riverton,County Board of Supervisors,,Clint Blackburn,REP,128,17,111
+Fremont,Sidney,County Board of Supervisors,,Clint Blackburn,REP,529,220,309
+Fremont,Farragut,County Board of Supervisors,,Dustin Sheldon,REP,368,112,256
+Fremont,Green/Riverside/Scott,County Board of Supervisors,,Dustin Sheldon,REP,436,94,342
+Fremont,Hamburg/Washington Twp,County Board of Supervisors,,Dustin Sheldon,REP,277,77,200
+Fremont,Riverton,County Board of Supervisors,,Dustin Sheldon,REP,103,17,86
+Fremont,Sidney,County Board of Supervisors,,Dustin Sheldon,REP,573,243,330
+Fremont,Farragut,County Board of Supervisors,,Write-In,,14,5,9
+Fremont,Green/Riverside/Scott,County Board of Supervisors,,Write-In,,21,6,15
+Fremont,Hamburg/Washington Twp,County Board of Supervisors,,Write-In,,13,8,5
+Fremont,Riverton,County Board of Supervisors,,Write-In,,4,1,3
+Fremont,Sidney,County Board of Supervisors,,Write-In,,41,14,27
+Fremont,Farragut,County Recorder,,Tarah Berry,REP,476,130,346
+Fremont,Green/Riverside/Scott,County Recorder,,Tarah Berry,REP,627,135,492
+Fremont,Hamburg/Washington Twp,County Recorder,,Tarah Berry,REP,383,95,288
+Fremont,Riverton,County Recorder,,Tarah Berry,REP,161,22,139
+Fremont,Sidney,County Recorder,,Tarah Berry,REP,702,289,413
+Fremont,Farragut,County Recorder,,Write-In,,7,3,4
+Fremont,Green/Riverside/Scott,County Recorder,,Write-In,,4,1,3
+Fremont,Hamburg/Washington Twp,County Recorder,,Write-In,,4,0,4
+Fremont,Riverton,County Recorder,,Write-In,,1,0,1
+Fremont,Sidney,County Recorder,,Write-In,,11,1,10
+Fremont,Farragut,County Treasurer,,Alise Snyder,REP,495,140,355
+Fremont,Green/Riverside/Scott,County Treasurer,,Alise Snyder,REP,632,136,496
+Fremont,Hamburg/Washington Twp,County Treasurer,,Alise Snyder,REP,394,99,295
+Fremont,Riverton,County Treasurer,,Alise Snyder,REP,167,22,145
+Fremont,Sidney,County Treasurer,,Alise Snyder,REP,730,297,433
+Fremont,Farragut,County Treasurer,,Write-In,,4,1,3
+Fremont,Green/Riverside/Scott,County Treasurer,,Write-In,,2,0,2
+Fremont,Hamburg/Washington Twp,County Treasurer,,Write-In,,3,0,3
+Fremont,Riverton,County Treasurer,,Write-In,,0,0,0
+Fremont,Sidney,County Treasurer,,Write-In,,9,5,4
+Fremont,Farragut,Court of Appeals Judge - John M. Sandy,,No,,182,53,129
+Fremont,Green/Riverside/Scott,Court of Appeals Judge - John M. Sandy,,No,,206,46,160
+Fremont,Hamburg/Washington Twp,Court of Appeals Judge - John M. Sandy,,No,,165,43,122
+Fremont,Riverton,Court of Appeals Judge - John M. Sandy,,No,,50,8,42
+Fremont,Sidney,Court of Appeals Judge - John M. Sandy,,No,,250,85,165
+Fremont,Farragut,Court of Appeals Judge - John M. Sandy,,Yes,,267,82,185
+Fremont,Green/Riverside/Scott,Court of Appeals Judge - John M. Sandy,,Yes,,334,73,261
+Fremont,Hamburg/Washington Twp,Court of Appeals Judge - John M. Sandy,,Yes,,182,52,130
+Fremont,Riverton,Court of Appeals Judge - John M. Sandy,,Yes,,93,13,80
+Fremont,Sidney,Court of Appeals Judge - John M. Sandy,,Yes,,343,147,196
+Fremont,Farragut,Court of Appeals Judge - Julie A. Schumacher,,No,,177,50,127
+Fremont,Green/Riverside/Scott,Court of Appeals Judge - Julie A. Schumacher,,No,,215,47,168
+Fremont,Hamburg/Washington Twp,Court of Appeals Judge - Julie A. Schumacher,,No,,165,42,123
+Fremont,Riverton,Court of Appeals Judge - Julie A. Schumacher,,No,,58,9,49
+Fremont,Sidney,Court of Appeals Judge - Julie A. Schumacher,,No,,257,81,176
+Fremont,Farragut,Court of Appeals Judge - Julie A. Schumacher,,Yes,,263,81,182
+Fremont,Green/Riverside/Scott,Court of Appeals Judge - Julie A. Schumacher,,Yes,,319,70,249
+Fremont,Hamburg/Washington Twp,Court of Appeals Judge - Julie A. Schumacher,,Yes,,185,53,132
+Fremont,Riverton,Court of Appeals Judge - Julie A. Schumacher,,Yes,,84,12,72
+Fremont,Sidney,Court of Appeals Judge - Julie A. Schumacher,,Yes,,333,151,182
+Fremont,Farragut,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,181,50,131
+Fremont,Green/Riverside/Scott,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,229,52,177
+Fremont,Hamburg/Washington Twp,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,168,45,123
+Fremont,Riverton,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,59,9,50
+Fremont,Sidney,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,268,87,181
+Fremont,Farragut,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,263,80,183
+Fremont,Green/Riverside/Scott,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,299,66,233
+Fremont,Hamburg/Washington Twp,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,172,49,123
+Fremont,Riverton,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,82,12,70
+Fremont,Sidney,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,319,145,174
+Fremont,Farragut,District 4 Associate Judge - Ashley N. West-Joons,,No,,189,55,134
+Fremont,Green/Riverside/Scott,District 4 Associate Judge - Ashley N. West-Joons,,No,,224,43,181
+Fremont,Hamburg/Washington Twp,District 4 Associate Judge - Ashley N. West-Joons,,No,,179,47,132
+Fremont,Riverton,District 4 Associate Judge - Ashley N. West-Joons,,No,,67,11,56
+Fremont,Sidney,District 4 Associate Judge - Ashley N. West-Joons,,No,,274,97,177
+Fremont,Farragut,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,251,78,173
+Fremont,Green/Riverside/Scott,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,301,74,227
+Fremont,Hamburg/Washington Twp,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,162,45,117
+Fremont,Riverton,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,74,11,63
+Fremont,Sidney,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,309,131,178
+Fremont,Farragut,District 4 Associate Judge - Matthew A. Schuling,,No,,178,52,126
+Fremont,Green/Riverside/Scott,District 4 Associate Judge - Matthew A. Schuling,,No,,210,43,167
+Fremont,Hamburg/Washington Twp,District 4 Associate Judge - Matthew A. Schuling,,No,,163,45,118
+Fremont,Riverton,District 4 Associate Judge - Matthew A. Schuling,,No,,58,9,49
+Fremont,Sidney,District 4 Associate Judge - Matthew A. Schuling,,No,,255,87,168
+Fremont,Farragut,District 4 Associate Judge - Matthew A. Schuling,,Yes,,259,80,179
+Fremont,Green/Riverside/Scott,District 4 Associate Judge - Matthew A. Schuling,,Yes,,316,72,244
+Fremont,Hamburg/Washington Twp,District 4 Associate Judge - Matthew A. Schuling,,Yes,,182,48,134
+Fremont,Riverton,District 4 Associate Judge - Matthew A. Schuling,,Yes,,85,13,72
+Fremont,Sidney,District 4 Associate Judge - Matthew A. Schuling,,Yes,,331,140,191
+Fremont,Farragut,District 4 Associate Judge - Scott Strait,,No,,193,57,136
+Fremont,Green/Riverside/Scott,District 4 Associate Judge - Scott Strait,,No,,198,43,155
+Fremont,Hamburg/Washington Twp,District 4 Associate Judge - Scott Strait,,No,,163,45,118
+Fremont,Riverton,District 4 Associate Judge - Scott Strait,,No,,55,9,46
+Fremont,Sidney,District 4 Associate Judge - Scott Strait,,No,,249,84,165
+Fremont,Farragut,District 4 Associate Judge - Scott Strait,,Yes,,246,73,173
+Fremont,Green/Riverside/Scott,District 4 Associate Judge - Scott Strait,,Yes,,322,73,249
+Fremont,Hamburg/Washington Twp,District 4 Associate Judge - Scott Strait,,Yes,,178,48,130
+Fremont,Riverton,District 4 Associate Judge - Scott Strait,,Yes,,86,13,73
+Fremont,Sidney,District 4 Associate Judge - Scott Strait,,Yes,,335,142,193
+Fremont,Farragut,District 4 Judge - Amy L. Zacharias,,No,,177,51,126
+Fremont,Green/Riverside/Scott,District 4 Judge - Amy L. Zacharias,,No,,218,45,173
+Fremont,Hamburg/Washington Twp,District 4 Judge - Amy L. Zacharias,,No,,167,43,124
+Fremont,Riverton,District 4 Judge - Amy L. Zacharias,,No,,57,9,48
+Fremont,Sidney,District 4 Judge - Amy L. Zacharias,,No,,261,87,174
+Fremont,Farragut,District 4 Judge - Amy L. Zacharias,,Yes,,259,82,177
+Fremont,Green/Riverside/Scott,District 4 Judge - Amy L. Zacharias,,Yes,,305,70,235
+Fremont,Hamburg/Washington Twp,District 4 Judge - Amy L. Zacharias,,Yes,,175,51,124
+Fremont,Riverton,District 4 Judge - Amy L. Zacharias,,Yes,,83,12,71
+Fremont,Sidney,District 4 Judge - Amy L. Zacharias,,Yes,,329,143,186
+Fremont,Farragut,District 4 Judge - Craig Michael Dreismeier,,No,,184,52,132
+Fremont,Green/Riverside/Scott,District 4 Judge - Craig Michael Dreismeier,,No,,212,41,171
+Fremont,Hamburg/Washington Twp,District 4 Judge - Craig Michael Dreismeier,,No,,161,42,119
+Fremont,Riverton,District 4 Judge - Craig Michael Dreismeier,,No,,59,9,50
+Fremont,Sidney,District 4 Judge - Craig Michael Dreismeier,,No,,257,84,173
+Fremont,Farragut,District 4 Judge - Craig Michael Dreismeier,,Yes,,255,79,176
+Fremont,Green/Riverside/Scott,District 4 Judge - Craig Michael Dreismeier,,Yes,,311,74,237
+Fremont,Hamburg/Washington Twp,District 4 Judge - Craig Michael Dreismeier,,Yes,,187,53,134
+Fremont,Riverton,District 4 Judge - Craig Michael Dreismeier,,Yes,,81,13,68
+Fremont,Sidney,District 4 Judge - Craig Michael Dreismeier,,Yes,,329,144,185
+Fremont,Farragut,District 4 Judge - Donna Bothwell,,No,,176,52,124
+Fremont,Green/Riverside/Scott,District 4 Judge - Donna Bothwell,,No,,215,49,166
+Fremont,Hamburg/Washington Twp,District 4 Judge - Donna Bothwell,,No,,168,46,122
+Fremont,Riverton,District 4 Judge - Donna Bothwell,,No,,64,9,55
+Fremont,Sidney,District 4 Judge - Donna Bothwell,,No,,256,85,171
+Fremont,Farragut,District 4 Judge - Donna Bothwell,,Yes,,267,80,187
+Fremont,Green/Riverside/Scott,District 4 Judge - Donna Bothwell,,Yes,,312,68,244
+Fremont,Hamburg/Washington Twp,District 4 Judge - Donna Bothwell,,Yes,,176,50,126
+Fremont,Riverton,District 4 Judge - Donna Bothwell,,Yes,,77,14,63
+Fremont,Sidney,District 4 Judge - Donna Bothwell,,Yes,,329,142,187
+Fremont,Farragut,District 4 Judge - Justin R. Wyatt,,No,,175,50,125
+Fremont,Green/Riverside/Scott,District 4 Judge - Justin R. Wyatt,,No,,213,45,168
+Fremont,Hamburg/Washington Twp,District 4 Judge - Justin R. Wyatt,,No,,163,43,120
+Fremont,Riverton,District 4 Judge - Justin R. Wyatt,,No,,53,9,44
+Fremont,Sidney,District 4 Judge - Justin R. Wyatt,,No,,246,81,165
+Fremont,Farragut,District 4 Judge - Justin R. Wyatt,,Yes,,265,81,184
+Fremont,Green/Riverside/Scott,District 4 Judge - Justin R. Wyatt,,Yes,,314,68,246
+Fremont,Hamburg/Washington Twp,District 4 Judge - Justin R. Wyatt,,Yes,,179,49,130
+Fremont,Riverton,District 4 Judge - Justin R. Wyatt,,Yes,,90,14,76
+Fremont,Sidney,District 4 Judge - Justin R. Wyatt,,Yes,,345,148,197
+Fremont,Farragut,District 4 Judge - Margaret J. Reyes,,No,,245,68,177
+Fremont,Green/Riverside/Scott,District 4 Judge - Margaret J. Reyes,,No,,354,55,299
+Fremont,Hamburg/Washington Twp,District 4 Judge - Margaret J. Reyes,,No,,231,56,175
+Fremont,Riverton,District 4 Judge - Margaret J. Reyes,,No,,91,15,76
+Fremont,Sidney,District 4 Judge - Margaret J. Reyes,,No,,397,128,269
+Fremont,Farragut,District 4 Judge - Margaret J. Reyes,,Yes,,202,63,139
+Fremont,Green/Riverside/Scott,District 4 Judge - Margaret J. Reyes,,Yes,,226,66,160
+Fremont,Hamburg/Washington Twp,District 4 Judge - Margaret J. Reyes,,Yes,,140,41,99
+Fremont,Riverton,District 4 Judge - Margaret J. Reyes,,Yes,,56,9,47
+Fremont,Sidney,District 4 Judge - Margaret J. Reyes,,Yes,,238,114,124
+Fremont,Farragut,District 4 Judge - Michael Donn Hooper,,No,,189,54,135
+Fremont,Green/Riverside/Scott,District 4 Judge - Michael Donn Hooper,,No,,208,44,164
+Fremont,Hamburg/Washington Twp,District 4 Judge - Michael Donn Hooper,,No,,169,46,123
+Fremont,Riverton,District 4 Judge - Michael Donn Hooper,,No,,58,9,49
+Fremont,Sidney,District 4 Judge - Michael Donn Hooper,,No,,258,86,172
+Fremont,Farragut,District 4 Judge - Michael Donn Hooper,,Yes,,247,75,172
+Fremont,Green/Riverside/Scott,District 4 Judge - Michael Donn Hooper,,Yes,,315,70,245
+Fremont,Hamburg/Washington Twp,District 4 Judge - Michael Donn Hooper,,Yes,,172,47,125
+Fremont,Riverton,District 4 Judge - Michael Donn Hooper,,Yes,,83,14,69
+Fremont,Sidney,District 4 Judge - Michael Donn Hooper,,Yes,,332,143,189
+Fremont,Farragut,Fisher Township Clerk,,Carl Eugene Shelton,,110,27,83
+Fremont,Farragut,Fisher Township Clerk,,Write-In,,2,2,0
+Fremont,Farragut,Fisher Township Trustee,,Phillip Wing,,97,26,71
+Fremont,Farragut,Fisher Township Trustee,,Thomas F. Troxel,,107,33,74
+Fremont,Farragut,Fisher Township Trustee,,Write-In,,5,4,1
+Fremont,Farragut,Governor,,Rob Sand and Dave Muhlbauer,DEM,223,84,139
+Fremont,Green/Riverside/Scott,Governor,,Rob Sand and Dave Muhlbauer,DEM,271,77,194
+Fremont,Hamburg/Washington Twp,Governor,,Rob Sand and Dave Muhlbauer,DEM,175,63,112
+Fremont,Riverton,Governor,,Rob Sand and Dave Muhlbauer,DEM,71,22,49
+Fremont,Sidney,Governor,,Rob Sand and Dave Muhlbauer,DEM,309,154,155
+Fremont,Farragut,Governor,,Write-In,,2,2,0
+Fremont,Green/Riverside/Scott,Governor,,Write-In,,2,0,2
+Fremont,Hamburg/Washington Twp,Governor,,Write-In,,2,0,2
+Fremont,Riverton,Governor,,Write-In,,0,0,0
+Fremont,Sidney,Governor,,Write-In,,1,0,1
+Fremont,Farragut,Governor,,Zach Lahn and Derek Wulf,REP,313,76,237
+Fremont,Green/Riverside/Scott,Governor,,Zach Lahn and Derek Wulf,REP,433,83,350
+Fremont,Hamburg/Washington Twp,Governor,,Zach Lahn and Derek Wulf,REP,268,54,214
+Fremont,Riverton,Governor,,Zach Lahn and Derek Wulf,REP,114,8,106
+Fremont,Sidney,Governor,,Zach Lahn and Derek Wulf,REP,514,200,314
+Fremont,Green/Riverside/Scott,Green Township Clerk,,Erin Smith,,111,26,85
+Fremont,Green/Riverside/Scott,Green Township Clerk,,Write-In,,0,0,0
+Fremont,Green/Riverside/Scott,Green Township Trustee,,Adam Malcom,,98,23,75
+Fremont,Green/Riverside/Scott,Green Township Trustee,,Lawrence L. Crom,,92,24,68
+Fremont,Green/Riverside/Scott,Green Township Trustee,,Write-In,,2,2,0
+Fremont,Farragut,Locust Grove Township Clerk,,Roger Jones,,53,13,40
+Fremont,Farragut,Locust Grove Township Clerk,,Write-In,,0,0,0
+Fremont,Farragut,Locust Grove Township Trustee,,Brenda Sue Frank,,45,10,35
+Fremont,Farragut,Locust Grove Township Trustee,,Mandy Whipple,,51,9,42
+Fremont,Farragut,Locust Grove Township Trustee,,Write-In,,0,0,0
+Fremont,Riverton,Madison Township Clerk,,Jeannie Chastain,,42,5,37
+Fremont,Riverton,Madison Township Clerk,,Write-In,,1,0,1
+Fremont,Riverton,Madison Township Trustee,,Randy Owen,,43,5,38
+Fremont,Riverton,Madison Township Trustee,,Write-In,,6,1,5
+Fremont,Farragut,Monroe Township Clerk,,Jake McGargill,,70,26,44
+Fremont,Farragut,Monroe Township Clerk,,Write-In,,0,0,0
+Fremont,Farragut,Monroe Township Trustee,,Paul Head,,56,21,35
+Fremont,Farragut,Monroe Township Trustee,,Thomas Joseph Martin,,68,26,42
+Fremont,Farragut,Monroe Township Trustee,,Write-In,,0,0,0
+Fremont,Sidney,Prairie Township Clerk,,Teresa A. Johnson,,45,20,25
+Fremont,Sidney,Prairie Township Clerk,,Write-In,,0,0,0
+Fremont,Sidney,Prairie Township Trustee,,Joel David Magel,,41,20,21
+Fremont,Sidney,Prairie Township Trustee,,Tom Lorimor,,40,20,20
+Fremont,Sidney,Prairie Township Trustee,,Write-In,,1,1,0
+Fremont,Green/Riverside/Scott,Riverside Township Clerk,,Grant Schaaf,,66,26,40
+Fremont,Green/Riverside/Scott,Riverside Township Clerk,,Write-In,,0,0,0
+Fremont,Green/Riverside/Scott,Riverside Township Trustee,,Carl Focht,,54,23,31
+Fremont,Green/Riverside/Scott,Riverside Township Trustee,,Duane Aistrope,,63,23,40
+Fremont,Green/Riverside/Scott,Riverside Township Trustee,,Write-In,,0,0,0
+Fremont,Riverton,Riverton Township Clerk,,Write-In,,5,3,2
+Fremont,Riverton,Riverton Township Trustee,,Darwin Bugg,,27,6,21
+Fremont,Riverton,Riverton Township Trustee,,Rick R. Mount,,28,7,21
+Fremont,Riverton,Riverton Township Trustee,,Write-In,,0,0,0
+Fremont,Riverton,Riverton Township Trustee To Fill a Vacancy,,Write-In,,2,1,1
+Fremont,Green/Riverside/Scott,Scott Township Clerk,,Elijah F. Forney,,67,14,53
+Fremont,Green/Riverside/Scott,Scott Township Clerk,,Write-In,,0,0,0
+Fremont,Green/Riverside/Scott,Scott Township Trustee,,Larry Ratashak,,50,9,41
+Fremont,Green/Riverside/Scott,Scott Township Trustee,,Steve Howe,,62,9,53
+Fremont,Green/Riverside/Scott,Scott Township Trustee,,Write-In,,3,0,3
+Fremont,Farragut,Secretary of Agriculture,,Chris Jones,DEM,183,76,107
+Fremont,Green/Riverside/Scott,Secretary of Agriculture,,Chris Jones,DEM,207,66,141
+Fremont,Hamburg/Washington Twp,Secretary of Agriculture,,Chris Jones,DEM,139,53,86
+Fremont,Riverton,Secretary of Agriculture,,Chris Jones,DEM,51,19,32
+Fremont,Sidney,Secretary of Agriculture,,Chris Jones,DEM,257,128,129
+Fremont,Farragut,Secretary of Agriculture,,Mike Naig,REP,352,86,266
+Fremont,Green/Riverside/Scott,Secretary of Agriculture,,Mike Naig,REP,479,91,388
+Fremont,Hamburg/Washington Twp,Secretary of Agriculture,,Mike Naig,REP,295,63,232
+Fremont,Riverton,Secretary of Agriculture,,Mike Naig,REP,128,10,118
+Fremont,Sidney,Secretary of Agriculture,,Mike Naig,REP,537,212,325
+Fremont,Farragut,Secretary of Agriculture,,Write-In,,0,0,0
+Fremont,Green/Riverside/Scott,Secretary of Agriculture,,Write-In,,1,0,1
+Fremont,Hamburg/Washington Twp,Secretary of Agriculture,,Write-In,,1,0,1
+Fremont,Riverton,Secretary of Agriculture,,Write-In,,0,0,0
+Fremont,Sidney,Secretary of Agriculture,,Write-In,,0,0,0
+Fremont,Farragut,Secretary of State,,Paul D. Pate,REP,344,78,266
+Fremont,Green/Riverside/Scott,Secretary of State,,Paul D. Pate,REP,480,91,389
+Fremont,Hamburg/Washington Twp,Secretary of State,,Paul D. Pate,REP,287,60,227
+Fremont,Riverton,Secretary of State,,Paul D. Pate,REP,126,10,116
+Fremont,Sidney,Secretary of State,,Paul D. Pate,REP,533,205,328
+Fremont,Farragut,Secretary of State,,Ryan Peterman,DEM,188,81,107
+Fremont,Green/Riverside/Scott,Secretary of State,,Ryan Peterman,DEM,207,66,141
+Fremont,Hamburg/Washington Twp,Secretary of State,,Ryan Peterman,DEM,152,56,96
+Fremont,Riverton,Secretary of State,,Ryan Peterman,DEM,57,20,37
+Fremont,Sidney,Secretary of State,,Ryan Peterman,DEM,268,140,128
+Fremont,Farragut,Secretary of State,,Write-In,,1,1,0
+Fremont,Green/Riverside/Scott,Secretary of State,,Write-In,,1,0,1
+Fremont,Hamburg/Washington Twp,Secretary of State,,Write-In,,1,0,1
+Fremont,Riverton,Secretary of State,,Write-In,,0,0,0
+Fremont,Sidney,Secretary of State,,Write-In,,0,0,0
+Fremont,Sidney,Sidney Township Clerk,,David C. Roberts,,235,106,129
+Fremont,Sidney,Sidney Township Clerk,,Write-In,,1,0,1
+Fremont,Sidney,Sidney Township Trustee,,Nick Golden,,216,100,116
+Fremont,Sidney,Sidney Township Trustee,,Ronald L. Loewe,,203,99,104
+Fremont,Sidney,Sidney Township Trustee,,Write-In,,1,0,1
+Fremont,Farragut,Soil and Water Conservation District Commissioner,,David Carter,,458,135,323
+Fremont,Green/Riverside/Scott,Soil and Water Conservation District Commissioner,,David Carter,,609,132,477
+Fremont,Hamburg/Washington Twp,Soil and Water Conservation District Commissioner,,David Carter,,327,80,247
+Fremont,Riverton,Soil and Water Conservation District Commissioner,,David Carter,,142,21,121
+Fremont,Sidney,Soil and Water Conservation District Commissioner,,David Carter,,642,269,373
+Fremont,Farragut,Soil and Water Conservation District Commissioner,,Write-In,,22,6,16
+Fremont,Green/Riverside/Scott,Soil and Water Conservation District Commissioner,,Write-In,,11,2,9
+Fremont,Hamburg/Washington Twp,Soil and Water Conservation District Commissioner,,Write-In,,6,4,2
+Fremont,Riverton,Soil and Water Conservation District Commissioner,,Write-In,,13,1,12
+Fremont,Sidney,Soil and Water Conservation District Commissioner,,Write-In,,27,8,19
+Fremont,Farragut,State House,16,David A. Sieck,REP,349,84,265
+Fremont,Green/Riverside/Scott,State House,16,David A. Sieck,REP,481,92,389
+Fremont,Hamburg/Washington Twp,State House,16,David A. Sieck,REP,297,67,230
+Fremont,Riverton,State House,16,David A. Sieck,REP,129,10,119
+Fremont,Sidney,State House,16,David A. Sieck,REP,536,214,322
+Fremont,Farragut,State House,16,Jack Goodman,DEM,181,75,106
+Fremont,Green/Riverside/Scott,State House,16,Jack Goodman,DEM,206,64,142
+Fremont,Hamburg/Washington Twp,State House,16,Jack Goodman,DEM,138,50,88
+Fremont,Riverton,State House,16,Jack Goodman,DEM,54,20,34
+Fremont,Sidney,State House,16,Jack Goodman,DEM,269,132,137
+Fremont,Farragut,State House,16,Write-In,,0,0,0
+Fremont,Green/Riverside/Scott,State House,16,Write-In,,1,0,1
+Fremont,Hamburg/Washington Twp,State House,16,Write-In,,1,0,1
+Fremont,Riverton,State House,16,Write-In,,0,0,0
+Fremont,Sidney,State House,16,Write-In,,1,0,1
+Fremont,Farragut,Treasurer of State,,John Norwood,DEM,190,78,112
+Fremont,Green/Riverside/Scott,Treasurer of State,,John Norwood,DEM,217,67,150
+Fremont,Hamburg/Washington Twp,Treasurer of State,,John Norwood,DEM,153,57,96
+Fremont,Riverton,Treasurer of State,,John Norwood,DEM,56,20,36
+Fremont,Sidney,Treasurer of State,,John Norwood,DEM,267,134,133
+Fremont,Farragut,Treasurer of State,,Roby Smith,REP,339,81,258
+Fremont,Green/Riverside/Scott,Treasurer of State,,Roby Smith,REP,456,85,371
+Fremont,Hamburg/Washington Twp,Treasurer of State,,Roby Smith,REP,281,59,222
+Fremont,Riverton,Treasurer of State,,Roby Smith,REP,123,9,114
+Fremont,Sidney,Treasurer of State,,Roby Smith,REP,522,205,317
+Fremont,Farragut,Treasurer of State,,Write-In,,2,1,1
+Fremont,Green/Riverside/Scott,Treasurer of State,,Write-In,,0,0,0
+Fremont,Hamburg/Washington Twp,Treasurer of State,,Write-In,,1,0,1
+Fremont,Riverton,Treasurer of State,,Write-In,,0,0,0
+Fremont,Sidney,Treasurer of State,,Write-In,,1,0,1
+Fremont,Farragut,U.S. House,4,Chris McGowan,REP,319,76,243
+Fremont,Green/Riverside/Scott,U.S. House,4,Chris McGowan,REP,458,83,375
+Fremont,Hamburg/Washington Twp,U.S. House,4,Chris McGowan,REP,265,54,211
+Fremont,Riverton,U.S. House,4,Chris McGowan,REP,121,9,112
+Fremont,Sidney,U.S. House,4,Chris McGowan,REP,493,189,304
+Fremont,Farragut,U.S. House,4,Dave Dawson,DEM,198,78,120
+Fremont,Green/Riverside/Scott,U.S. House,4,Dave Dawson,DEM,222,73,149
+Fremont,Hamburg/Washington Twp,U.S. House,4,Dave Dawson,DEM,153,53,100
+Fremont,Riverton,U.S. House,4,Dave Dawson,DEM,57,20,37
+Fremont,Sidney,U.S. House,4,Dave Dawson,DEM,284,141,143
+Fremont,Farragut,U.S. House,4,Write-In,,5,2,3
+Fremont,Green/Riverside/Scott,U.S. House,4,Write-In,,1,0,1
+Fremont,Hamburg/Washington Twp,U.S. House,4,Write-In,,0,0,0
+Fremont,Riverton,U.S. House,4,Write-In,,0,0,0
+Fremont,Sidney,U.S. House,4,Write-In,,0,0,0
+Fremont,Farragut,U.S. Senate,,Ashley Hinson,REP,301,75,226
+Fremont,Green/Riverside/Scott,U.S. Senate,,Ashley Hinson,REP,416,80,336
+Fremont,Hamburg/Washington Twp,U.S. Senate,,Ashley Hinson,REP,249,51,198
+Fremont,Riverton,U.S. Senate,,Ashley Hinson,REP,112,10,102
+Fremont,Sidney,U.S. Senate,,Ashley Hinson,REP,487,197,290
+Fremont,Farragut,U.S. Senate,,Josh Turek,DEM,202,82,120
+Fremont,Green/Riverside/Scott,U.S. Senate,,Josh Turek,DEM,234,71,163
+Fremont,Hamburg/Washington Twp,U.S. Senate,,Josh Turek,DEM,150,55,95
+Fremont,Riverton,U.S. Senate,,Josh Turek,DEM,51,19,32
+Fremont,Sidney,U.S. Senate,,Josh Turek,DEM,293,139,154
+Fremont,Farragut,U.S. Senate,,Thomas Laehn,LIB,26,4,22
+Fremont,Green/Riverside/Scott,U.S. Senate,,Thomas Laehn,LIB,42,7,35
+Fremont,Hamburg/Washington Twp,U.S. Senate,,Thomas Laehn,LIB,31,3,28
+Fremont,Riverton,U.S. Senate,,Thomas Laehn,LIB,16,0,16
+Fremont,Sidney,U.S. Senate,,Thomas Laehn,LIB,25,7,18
+Fremont,Farragut,U.S. Senate,,Write-In,,0,0,0
+Fremont,Green/Riverside/Scott,U.S. Senate,,Write-In,,1,0,1
+Fremont,Hamburg/Washington Twp,U.S. Senate,,Write-In,,1,0,1
+Fremont,Riverton,U.S. Senate,,Write-In,,0,0,0
+Fremont,Sidney,U.S. Senate,,Write-In,,0,0,0
+Fremont,Farragut,Walnut Township Clerk,,Kathy Lightfoot,,67,26,41
+Fremont,Farragut,Walnut Township Clerk,,Write-In,,0,0,0
+Fremont,Farragut,Walnut Township Trustee,,Robert Lightfoot,,60,23,37
+Fremont,Farragut,Walnut Township Trustee,,Todd Bonnes,,62,25,37
+Fremont,Farragut,Walnut Township Trustee,,Write-In,,0,0,0
+Fremont,Hamburg/Washington Twp,Washington Township Clerk,,Write-In,,14,5,9
+Fremont,Hamburg/Washington Twp,Washington Township Trustee,,David E. Mincer,,121,42,79
+Fremont,Hamburg/Washington Twp,Washington Township Trustee,,Greg Phillips,,118,46,72
+Fremont,Hamburg/Washington Twp,Washington Township Trustee,,Write-In,,0,0,0

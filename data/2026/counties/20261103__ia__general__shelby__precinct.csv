@@ -1,0 +1,869 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Shelby,Cass-Lincoln,Attorney General,,Brenna Bird,REP,248,101,147
+Shelby,Center-Jackson,Attorney General,,Brenna Bird,REP,260,112,148
+Shelby,Clay-Monroe,Attorney General,,Brenna Bird,REP,334,107,227
+Shelby,Douglas-Polk,Attorney General,,Brenna Bird,REP,136,49,87
+Shelby,Fairview-Shelby,Attorney General,,Brenna Bird,REP,318,88,230
+Shelby,Greeley-Jefferson,Attorney General,,Brenna Bird,REP,226,38,188
+Shelby,Grove-Union-Washington-Westphalia,Attorney General,,Brenna Bird,REP,548,189,359
+Shelby,Harlan Ward 1,Attorney General,,Brenna Bird,REP,229,107,122
+Shelby,Harlan Ward 2,Attorney General,,Brenna Bird,REP,356,139,217
+Shelby,Harlan Ward 3,Attorney General,,Brenna Bird,REP,372,175,197
+Shelby,Harlan Ward 4,Attorney General,,Brenna Bird,REP,246,118,128
+Shelby,Cass-Lincoln,Attorney General,,Nate Willems,DEM,97,65,32
+Shelby,Center-Jackson,Attorney General,,Nate Willems,DEM,103,59,44
+Shelby,Clay-Monroe,Attorney General,,Nate Willems,DEM,174,52,122
+Shelby,Douglas-Polk,Attorney General,,Nate Willems,DEM,42,24,18
+Shelby,Fairview-Shelby,Attorney General,,Nate Willems,DEM,156,32,124
+Shelby,Greeley-Jefferson,Attorney General,,Nate Willems,DEM,86,22,64
+Shelby,Grove-Union-Washington-Westphalia,Attorney General,,Nate Willems,DEM,194,90,104
+Shelby,Harlan Ward 1,Attorney General,,Nate Willems,DEM,134,78,56
+Shelby,Harlan Ward 2,Attorney General,,Nate Willems,DEM,205,119,86
+Shelby,Harlan Ward 3,Attorney General,,Nate Willems,DEM,198,112,86
+Shelby,Harlan Ward 4,Attorney General,,Nate Willems,DEM,132,71,61
+Shelby,Cass-Lincoln,Attorney General,,Write-In,,0,0,0
+Shelby,Center-Jackson,Attorney General,,Write-In,,0,0,0
+Shelby,Clay-Monroe,Attorney General,,Write-In,,0,0,0
+Shelby,Douglas-Polk,Attorney General,,Write-In,,0,0,0
+Shelby,Fairview-Shelby,Attorney General,,Write-In,,0,0,0
+Shelby,Greeley-Jefferson,Attorney General,,Write-In,,0,0,0
+Shelby,Grove-Union-Washington-Westphalia,Attorney General,,Write-In,,2,0,2
+Shelby,Harlan Ward 1,Attorney General,,Write-In,,2,0,2
+Shelby,Harlan Ward 2,Attorney General,,Write-In,,0,0,0
+Shelby,Harlan Ward 3,Attorney General,,Write-In,,1,0,1
+Shelby,Harlan Ward 4,Attorney General,,Write-In,,0,0,0
+Shelby,Cass-Lincoln,Auditor of State,,Chris Cournoyer,REP,253,106,147
+Shelby,Center-Jackson,Auditor of State,,Chris Cournoyer,REP,261,109,152
+Shelby,Clay-Monroe,Auditor of State,,Chris Cournoyer,REP,330,106,224
+Shelby,Douglas-Polk,Auditor of State,,Chris Cournoyer,REP,136,50,86
+Shelby,Fairview-Shelby,Auditor of State,,Chris Cournoyer,REP,314,80,234
+Shelby,Greeley-Jefferson,Auditor of State,,Chris Cournoyer,REP,236,41,195
+Shelby,Grove-Union-Washington-Westphalia,Auditor of State,,Chris Cournoyer,REP,537,173,364
+Shelby,Harlan Ward 1,Auditor of State,,Chris Cournoyer,REP,227,106,121
+Shelby,Harlan Ward 2,Auditor of State,,Chris Cournoyer,REP,352,135,217
+Shelby,Harlan Ward 3,Auditor of State,,Chris Cournoyer,REP,366,170,196
+Shelby,Harlan Ward 4,Auditor of State,,Chris Cournoyer,REP,232,109,123
+Shelby,Cass-Lincoln,Auditor of State,,Taylor Wettach,DEM,93,58,35
+Shelby,Center-Jackson,Auditor of State,,Taylor Wettach,DEM,92,56,36
+Shelby,Clay-Monroe,Auditor of State,,Taylor Wettach,DEM,172,52,120
+Shelby,Douglas-Polk,Auditor of State,,Taylor Wettach,DEM,37,21,16
+Shelby,Fairview-Shelby,Auditor of State,,Taylor Wettach,DEM,159,39,120
+Shelby,Greeley-Jefferson,Auditor of State,,Taylor Wettach,DEM,76,20,56
+Shelby,Grove-Union-Washington-Westphalia,Auditor of State,,Taylor Wettach,DEM,193,98,95
+Shelby,Harlan Ward 1,Auditor of State,,Taylor Wettach,DEM,133,78,55
+Shelby,Harlan Ward 2,Auditor of State,,Taylor Wettach,DEM,209,118,91
+Shelby,Harlan Ward 3,Auditor of State,,Taylor Wettach,DEM,202,117,85
+Shelby,Harlan Ward 4,Auditor of State,,Taylor Wettach,DEM,138,74,64
+Shelby,Cass-Lincoln,Auditor of State,,Write-In,,0,0,0
+Shelby,Center-Jackson,Auditor of State,,Write-In,,0,0,0
+Shelby,Clay-Monroe,Auditor of State,,Write-In,,0,0,0
+Shelby,Douglas-Polk,Auditor of State,,Write-In,,0,0,0
+Shelby,Fairview-Shelby,Auditor of State,,Write-In,,0,0,0
+Shelby,Greeley-Jefferson,Auditor of State,,Write-In,,0,0,0
+Shelby,Grove-Union-Washington-Westphalia,Auditor of State,,Write-In,,1,0,1
+Shelby,Harlan Ward 1,Auditor of State,,Write-In,,2,0,2
+Shelby,Harlan Ward 2,Auditor of State,,Write-In,,0,0,0
+Shelby,Harlan Ward 3,Auditor of State,,Write-In,,1,0,1
+Shelby,Harlan Ward 4,Auditor of State,,Write-In,,0,0,0
+Shelby,Cass-Lincoln,Cass Township Clerk,,Write-In,,10,3,7
+Shelby,Cass-Lincoln,Cass Township Trustee,,Write-In,,14,5,9
+Shelby,Center-Jackson,Center Township Clerk,,Write-In,,28,14,14
+Shelby,Center-Jackson,Center Township Trustee,,Write-In,,31,15,16
+Shelby,Clay-Monroe,Clay Township Clerk,,Write-In,,0,0,0
+Shelby,Clay-Monroe,Clay Township Trustee,,Write-In,,3,0,3
+Shelby,Cass-Lincoln,Constitutional Amendment 1,,No,,82,45,37
+Shelby,Center-Jackson,Constitutional Amendment 1,,No,,97,42,55
+Shelby,Clay-Monroe,Constitutional Amendment 1,,No,,144,31,113
+Shelby,Douglas-Polk,Constitutional Amendment 1,,No,,40,16,24
+Shelby,Fairview-Shelby,Constitutional Amendment 1,,No,,128,28,100
+Shelby,Greeley-Jefferson,Constitutional Amendment 1,,No,,92,15,77
+Shelby,Grove-Union-Washington-Westphalia,Constitutional Amendment 1,,No,,182,69,113
+Shelby,Harlan Ward 1,Constitutional Amendment 1,,No,,108,57,51
+Shelby,Harlan Ward 2,Constitutional Amendment 1,,No,,150,71,79
+Shelby,Harlan Ward 3,Constitutional Amendment 1,,No,,171,81,90
+Shelby,Harlan Ward 4,Constitutional Amendment 1,,No,,98,43,55
+Shelby,Cass-Lincoln,Constitutional Amendment 1,,Yes,,195,78,117
+Shelby,Center-Jackson,Constitutional Amendment 1,,Yes,,183,74,109
+Shelby,Clay-Monroe,Constitutional Amendment 1,,Yes,,273,94,179
+Shelby,Douglas-Polk,Constitutional Amendment 1,,Yes,,106,48,58
+Shelby,Fairview-Shelby,Constitutional Amendment 1,,Yes,,246,68,178
+Shelby,Greeley-Jefferson,Constitutional Amendment 1,,Yes,,162,30,132
+Shelby,Grove-Union-Washington-Westphalia,Constitutional Amendment 1,,Yes,,389,137,252
+Shelby,Harlan Ward 1,Constitutional Amendment 1,,Yes,,195,86,109
+Shelby,Harlan Ward 2,Constitutional Amendment 1,,Yes,,323,127,196
+Shelby,Harlan Ward 3,Constitutional Amendment 1,,Yes,,286,136,150
+Shelby,Harlan Ward 4,Constitutional Amendment 1,,Yes,,196,98,98
+Shelby,Cass-Lincoln,County Agricultural Extension Council Member,,Amy M. McLaughlin,,191,89,102
+Shelby,Center-Jackson,County Agricultural Extension Council Member,,Amy M. McLaughlin,,200,99,101
+Shelby,Clay-Monroe,County Agricultural Extension Council Member,,Amy M. McLaughlin,,251,80,171
+Shelby,Douglas-Polk,County Agricultural Extension Council Member,,Amy M. McLaughlin,,87,40,47
+Shelby,Fairview-Shelby,County Agricultural Extension Council Member,,Amy M. McLaughlin,,212,64,148
+Shelby,Greeley-Jefferson,County Agricultural Extension Council Member,,Amy M. McLaughlin,,155,30,125
+Shelby,Grove-Union-Washington-Westphalia,County Agricultural Extension Council Member,,Amy M. McLaughlin,,387,142,245
+Shelby,Harlan Ward 1,County Agricultural Extension Council Member,,Amy M. McLaughlin,,181,88,93
+Shelby,Harlan Ward 2,County Agricultural Extension Council Member,,Amy M. McLaughlin,,321,138,183
+Shelby,Harlan Ward 3,County Agricultural Extension Council Member,,Amy M. McLaughlin,,342,171,171
+Shelby,Harlan Ward 4,County Agricultural Extension Council Member,,Amy M. McLaughlin,,179,91,88
+Shelby,Cass-Lincoln,County Agricultural Extension Council Member,,Brenda Arkfeld,,238,108,130
+Shelby,Center-Jackson,County Agricultural Extension Council Member,,Brenda Arkfeld,,223,108,115
+Shelby,Clay-Monroe,County Agricultural Extension Council Member,,Brenda Arkfeld,,265,85,180
+Shelby,Douglas-Polk,County Agricultural Extension Council Member,,Brenda Arkfeld,,96,43,53
+Shelby,Fairview-Shelby,County Agricultural Extension Council Member,,Brenda Arkfeld,,225,63,162
+Shelby,Greeley-Jefferson,County Agricultural Extension Council Member,,Brenda Arkfeld,,177,33,144
+Shelby,Grove-Union-Washington-Westphalia,County Agricultural Extension Council Member,,Brenda Arkfeld,,482,191,291
+Shelby,Harlan Ward 1,County Agricultural Extension Council Member,,Brenda Arkfeld,,215,104,111
+Shelby,Harlan Ward 2,County Agricultural Extension Council Member,,Brenda Arkfeld,,359,158,201
+Shelby,Harlan Ward 3,County Agricultural Extension Council Member,,Brenda Arkfeld,,387,192,195
+Shelby,Harlan Ward 4,County Agricultural Extension Council Member,,Brenda Arkfeld,,220,120,100
+Shelby,Cass-Lincoln,County Agricultural Extension Council Member,,Elaine M. Baughman,,203,98,105
+Shelby,Center-Jackson,County Agricultural Extension Council Member,,Elaine M. Baughman,,230,110,120
+Shelby,Clay-Monroe,County Agricultural Extension Council Member,,Elaine M. Baughman,,254,82,172
+Shelby,Douglas-Polk,County Agricultural Extension Council Member,,Elaine M. Baughman,,114,50,64
+Shelby,Fairview-Shelby,County Agricultural Extension Council Member,,Elaine M. Baughman,,197,61,136
+Shelby,Greeley-Jefferson,County Agricultural Extension Council Member,,Elaine M. Baughman,,180,34,146
+Shelby,Grove-Union-Washington-Westphalia,County Agricultural Extension Council Member,,Elaine M. Baughman,,449,176,273
+Shelby,Harlan Ward 1,County Agricultural Extension Council Member,,Elaine M. Baughman,,208,102,106
+Shelby,Harlan Ward 2,County Agricultural Extension Council Member,,Elaine M. Baughman,,345,150,195
+Shelby,Harlan Ward 3,County Agricultural Extension Council Member,,Elaine M. Baughman,,384,191,193
+Shelby,Harlan Ward 4,County Agricultural Extension Council Member,,Elaine M. Baughman,,201,110,91
+Shelby,Cass-Lincoln,County Agricultural Extension Council Member,,Michael Joseph Rueschenberg,,221,105,116
+Shelby,Center-Jackson,County Agricultural Extension Council Member,,Michael Joseph Rueschenberg,,224,106,118
+Shelby,Clay-Monroe,County Agricultural Extension Council Member,,Michael Joseph Rueschenberg,,254,79,175
+Shelby,Douglas-Polk,County Agricultural Extension Council Member,,Michael Joseph Rueschenberg,,99,45,54
+Shelby,Fairview-Shelby,County Agricultural Extension Council Member,,Michael Joseph Rueschenberg,,198,62,136
+Shelby,Greeley-Jefferson,County Agricultural Extension Council Member,,Michael Joseph Rueschenberg,,162,31,131
+Shelby,Grove-Union-Washington-Westphalia,County Agricultural Extension Council Member,,Michael Joseph Rueschenberg,,487,184,303
+Shelby,Harlan Ward 1,County Agricultural Extension Council Member,,Michael Joseph Rueschenberg,,208,100,108
+Shelby,Harlan Ward 2,County Agricultural Extension Council Member,,Michael Joseph Rueschenberg,,383,164,219
+Shelby,Harlan Ward 3,County Agricultural Extension Council Member,,Michael Joseph Rueschenberg,,380,180,200
+Shelby,Harlan Ward 4,County Agricultural Extension Council Member,,Michael Joseph Rueschenberg,,209,110,99
+Shelby,Cass-Lincoln,County Agricultural Extension Council Member,,Mollie Hack,,163,77,86
+Shelby,Center-Jackson,County Agricultural Extension Council Member,,Mollie Hack,,188,93,95
+Shelby,Clay-Monroe,County Agricultural Extension Council Member,,Mollie Hack,,235,75,160
+Shelby,Douglas-Polk,County Agricultural Extension Council Member,,Mollie Hack,,77,39,38
+Shelby,Fairview-Shelby,County Agricultural Extension Council Member,,Mollie Hack,,194,58,136
+Shelby,Greeley-Jefferson,County Agricultural Extension Council Member,,Mollie Hack,,138,26,112
+Shelby,Grove-Union-Washington-Westphalia,County Agricultural Extension Council Member,,Mollie Hack,,341,129,212
+Shelby,Harlan Ward 1,County Agricultural Extension Council Member,,Mollie Hack,,163,81,82
+Shelby,Harlan Ward 2,County Agricultural Extension Council Member,,Mollie Hack,,306,133,173
+Shelby,Harlan Ward 3,County Agricultural Extension Council Member,,Mollie Hack,,321,153,168
+Shelby,Harlan Ward 4,County Agricultural Extension Council Member,,Mollie Hack,,166,88,78
+Shelby,Cass-Lincoln,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Shelby,Center-Jackson,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Shelby,Clay-Monroe,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Shelby,Douglas-Polk,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Shelby,Fairview-Shelby,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Shelby,Greeley-Jefferson,County Agricultural Extension Council Member,,Write-In,,5,0,5
+Shelby,Grove-Union-Washington-Westphalia,County Agricultural Extension Council Member,,Write-In,,12,7,5
+Shelby,Harlan Ward 1,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Shelby,Harlan Ward 2,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Shelby,Harlan Ward 3,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Shelby,Harlan Ward 4,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Shelby,Cass-Lincoln,County Attorney,,Marcus Gross Jr.,DEM,230,113,117
+Shelby,Center-Jackson,County Attorney,,Marcus Gross Jr.,DEM,212,105,107
+Shelby,Clay-Monroe,County Attorney,,Marcus Gross Jr.,DEM,289,79,210
+Shelby,Douglas-Polk,County Attorney,,Marcus Gross Jr.,DEM,106,49,57
+Shelby,Fairview-Shelby,County Attorney,,Marcus Gross Jr.,DEM,283,72,211
+Shelby,Greeley-Jefferson,County Attorney,,Marcus Gross Jr.,DEM,200,38,162
+Shelby,Grove-Union-Washington-Westphalia,County Attorney,,Marcus Gross Jr.,DEM,502,198,304
+Shelby,Harlan Ward 1,County Attorney,,Marcus Gross Jr.,DEM,247,122,125
+Shelby,Harlan Ward 2,County Attorney,,Marcus Gross Jr.,DEM,396,187,209
+Shelby,Harlan Ward 3,County Attorney,,Marcus Gross Jr.,DEM,400,212,188
+Shelby,Harlan Ward 4,County Attorney,,Marcus Gross Jr.,DEM,234,113,121
+Shelby,Cass-Lincoln,County Attorney,,Write-In,,8,2,6
+Shelby,Center-Jackson,County Attorney,,Write-In,,14,5,9
+Shelby,Clay-Monroe,County Attorney,,Write-In,,3,0,3
+Shelby,Douglas-Polk,County Attorney,,Write-In,,5,2,3
+Shelby,Fairview-Shelby,County Attorney,,Write-In,,7,2,5
+Shelby,Greeley-Jefferson,County Attorney,,Write-In,,4,2,2
+Shelby,Grove-Union-Washington-Westphalia,County Attorney,,Write-In,,16,6,10
+Shelby,Harlan Ward 1,County Attorney,,Write-In,,14,7,7
+Shelby,Harlan Ward 2,County Attorney,,Write-In,,15,5,10
+Shelby,Harlan Ward 3,County Attorney,,Write-In,,11,2,9
+Shelby,Harlan Ward 4,County Attorney,,Write-In,,14,3,11
+Shelby,Cass-Lincoln,County Board of Supervisors,,Bryce Schaben,REP,293,133,160
+Shelby,Center-Jackson,County Board of Supervisors,,Bryce Schaben,REP,297,132,165
+Shelby,Clay-Monroe,County Board of Supervisors,,Bryce Schaben,REP,353,114,239
+Shelby,Douglas-Polk,County Board of Supervisors,,Bryce Schaben,REP,151,60,91
+Shelby,Fairview-Shelby,County Board of Supervisors,,Bryce Schaben,REP,263,74,189
+Shelby,Greeley-Jefferson,County Board of Supervisors,,Bryce Schaben,REP,261,47,214
+Shelby,Grove-Union-Washington-Westphalia,County Board of Supervisors,,Bryce Schaben,REP,648,234,414
+Shelby,Harlan Ward 1,County Board of Supervisors,,Bryce Schaben,REP,273,133,140
+Shelby,Harlan Ward 2,County Board of Supervisors,,Bryce Schaben,REP,435,192,243
+Shelby,Harlan Ward 3,County Board of Supervisors,,Bryce Schaben,REP,457,225,232
+Shelby,Harlan Ward 4,County Board of Supervisors,,Bryce Schaben,REP,271,135,136
+Shelby,Cass-Lincoln,County Board of Supervisors,,Rick Kiesel,,44,21,23
+Shelby,Center-Jackson,County Board of Supervisors,,Rick Kiesel,,43,22,21
+Shelby,Clay-Monroe,County Board of Supervisors,,Rick Kiesel,,101,32,69
+Shelby,Douglas-Polk,County Board of Supervisors,,Rick Kiesel,,20,12,8
+Shelby,Fairview-Shelby,County Board of Supervisors,,Rick Kiesel,,164,41,123
+Shelby,Greeley-Jefferson,County Board of Supervisors,,Rick Kiesel,,43,10,33
+Shelby,Grove-Union-Washington-Westphalia,County Board of Supervisors,,Rick Kiesel,,101,40,61
+Shelby,Harlan Ward 1,County Board of Supervisors,,Rick Kiesel,,67,35,32
+Shelby,Harlan Ward 2,County Board of Supervisors,,Rick Kiesel,,90,40,50
+Shelby,Harlan Ward 3,County Board of Supervisors,,Rick Kiesel,,79,43,36
+Shelby,Harlan Ward 4,County Board of Supervisors,,Rick Kiesel,,71,36,35
+Shelby,Cass-Lincoln,County Board of Supervisors,,Write-In,,1,1,0
+Shelby,Center-Jackson,County Board of Supervisors,,Write-In,,1,1,0
+Shelby,Clay-Monroe,County Board of Supervisors,,Write-In,,0,0,0
+Shelby,Douglas-Polk,County Board of Supervisors,,Write-In,,0,0,0
+Shelby,Fairview-Shelby,County Board of Supervisors,,Write-In,,1,0,1
+Shelby,Greeley-Jefferson,County Board of Supervisors,,Write-In,,0,0,0
+Shelby,Grove-Union-Washington-Westphalia,County Board of Supervisors,,Write-In,,9,4,5
+Shelby,Harlan Ward 1,County Board of Supervisors,,Write-In,,0,0,0
+Shelby,Harlan Ward 2,County Board of Supervisors,,Write-In,,1,1,0
+Shelby,Harlan Ward 3,County Board of Supervisors,,Write-In,,1,0,1
+Shelby,Harlan Ward 4,County Board of Supervisors,,Write-In,,1,1,0
+Shelby,Cass-Lincoln,County Hospital Trustee,,Heather Kohles,,222,104,118
+Shelby,Center-Jackson,County Hospital Trustee,,Heather Kohles,,221,113,108
+Shelby,Clay-Monroe,County Hospital Trustee,,Heather Kohles,,258,75,183
+Shelby,Douglas-Polk,County Hospital Trustee,,Heather Kohles,,97,47,50
+Shelby,Fairview-Shelby,County Hospital Trustee,,Heather Kohles,,224,66,158
+Shelby,Greeley-Jefferson,County Hospital Trustee,,Heather Kohles,,164,31,133
+Shelby,Grove-Union-Washington-Westphalia,County Hospital Trustee,,Heather Kohles,,514,186,328
+Shelby,Harlan Ward 1,County Hospital Trustee,,Heather Kohles,,196,93,103
+Shelby,Harlan Ward 2,County Hospital Trustee,,Heather Kohles,,355,157,198
+Shelby,Harlan Ward 3,County Hospital Trustee,,Heather Kohles,,363,173,190
+Shelby,Harlan Ward 4,County Hospital Trustee,,Heather Kohles,,212,112,100
+Shelby,Cass-Lincoln,County Hospital Trustee,,Janis Norgaard,,201,98,103
+Shelby,Center-Jackson,County Hospital Trustee,,Janis Norgaard,,221,114,107
+Shelby,Clay-Monroe,County Hospital Trustee,,Janis Norgaard,,281,81,200
+Shelby,Douglas-Polk,County Hospital Trustee,,Janis Norgaard,,95,45,50
+Shelby,Fairview-Shelby,County Hospital Trustee,,Janis Norgaard,,272,71,201
+Shelby,Greeley-Jefferson,County Hospital Trustee,,Janis Norgaard,,157,29,128
+Shelby,Grove-Union-Washington-Westphalia,County Hospital Trustee,,Janis Norgaard,,398,155,243
+Shelby,Harlan Ward 1,County Hospital Trustee,,Janis Norgaard,,189,93,96
+Shelby,Harlan Ward 2,County Hospital Trustee,,Janis Norgaard,,347,156,191
+Shelby,Harlan Ward 3,County Hospital Trustee,,Janis Norgaard,,354,175,179
+Shelby,Harlan Ward 4,County Hospital Trustee,,Janis Norgaard,,206,111,95
+Shelby,Cass-Lincoln,County Hospital Trustee,,Jim Zimmerman,,256,120,136
+Shelby,Center-Jackson,County Hospital Trustee,,Jim Zimmerman,,276,133,143
+Shelby,Clay-Monroe,County Hospital Trustee,,Jim Zimmerman,,289,88,201
+Shelby,Douglas-Polk,County Hospital Trustee,,Jim Zimmerman,,129,56,73
+Shelby,Fairview-Shelby,County Hospital Trustee,,Jim Zimmerman,,256,74,182
+Shelby,Greeley-Jefferson,County Hospital Trustee,,Jim Zimmerman,,190,32,158
+Shelby,Grove-Union-Washington-Westphalia,County Hospital Trustee,,Jim Zimmerman,,514,182,332
+Shelby,Harlan Ward 1,County Hospital Trustee,,Jim Zimmerman,,253,124,129
+Shelby,Harlan Ward 2,County Hospital Trustee,,Jim Zimmerman,,431,192,239
+Shelby,Harlan Ward 3,County Hospital Trustee,,Jim Zimmerman,,451,224,227
+Shelby,Harlan Ward 4,County Hospital Trustee,,Jim Zimmerman,,269,146,123
+Shelby,Cass-Lincoln,County Hospital Trustee,,Kathleen Kohorst,,261,126,135
+Shelby,Center-Jackson,County Hospital Trustee,,Kathleen Kohorst,,257,133,124
+Shelby,Clay-Monroe,County Hospital Trustee,,Kathleen Kohorst,,290,88,202
+Shelby,Douglas-Polk,County Hospital Trustee,,Kathleen Kohorst,,119,52,67
+Shelby,Fairview-Shelby,County Hospital Trustee,,Kathleen Kohorst,,249,79,170
+Shelby,Greeley-Jefferson,County Hospital Trustee,,Kathleen Kohorst,,186,35,151
+Shelby,Grove-Union-Washington-Westphalia,County Hospital Trustee,,Kathleen Kohorst,,489,198,291
+Shelby,Harlan Ward 1,County Hospital Trustee,,Kathleen Kohorst,,253,125,128
+Shelby,Harlan Ward 2,County Hospital Trustee,,Kathleen Kohorst,,424,194,230
+Shelby,Harlan Ward 3,County Hospital Trustee,,Kathleen Kohorst,,426,219,207
+Shelby,Harlan Ward 4,County Hospital Trustee,,Kathleen Kohorst,,250,139,111
+Shelby,Cass-Lincoln,County Hospital Trustee,,Write-In,,6,2,4
+Shelby,Center-Jackson,County Hospital Trustee,,Write-In,,4,0,4
+Shelby,Clay-Monroe,County Hospital Trustee,,Write-In,,0,0,0
+Shelby,Douglas-Polk,County Hospital Trustee,,Write-In,,1,0,1
+Shelby,Fairview-Shelby,County Hospital Trustee,,Write-In,,0,0,0
+Shelby,Greeley-Jefferson,County Hospital Trustee,,Write-In,,4,2,2
+Shelby,Grove-Union-Washington-Westphalia,County Hospital Trustee,,Write-In,,7,2,5
+Shelby,Harlan Ward 1,County Hospital Trustee,,Write-In,,3,0,3
+Shelby,Harlan Ward 2,County Hospital Trustee,,Write-In,,2,1,1
+Shelby,Harlan Ward 3,County Hospital Trustee,,Write-In,,2,0,2
+Shelby,Harlan Ward 4,County Hospital Trustee,,Write-In,,1,1,0
+Shelby,Cass-Lincoln,County Recorder,,Geralyn S. Greer,REP,314,144,170
+Shelby,Center-Jackson,County Recorder,,Geralyn S. Greer,REP,317,149,168
+Shelby,Clay-Monroe,County Recorder,,Geralyn S. Greer,REP,419,135,284
+Shelby,Douglas-Polk,County Recorder,,Geralyn S. Greer,REP,154,64,90
+Shelby,Fairview-Shelby,County Recorder,,Geralyn S. Greer,REP,375,102,273
+Shelby,Greeley-Jefferson,County Recorder,,Geralyn S. Greer,REP,269,50,219
+Shelby,Grove-Union-Washington-Westphalia,County Recorder,,Geralyn S. Greer,REP,681,248,433
+Shelby,Harlan Ward 1,County Recorder,,Geralyn S. Greer,REP,313,154,159
+Shelby,Harlan Ward 2,County Recorder,,Geralyn S. Greer,REP,505,223,282
+Shelby,Harlan Ward 3,County Recorder,,Geralyn S. Greer,REP,502,253,249
+Shelby,Harlan Ward 4,County Recorder,,Geralyn S. Greer,REP,310,151,159
+Shelby,Cass-Lincoln,County Recorder,,Write-In,,1,0,1
+Shelby,Center-Jackson,County Recorder,,Write-In,,1,1,0
+Shelby,Clay-Monroe,County Recorder,,Write-In,,1,0,1
+Shelby,Douglas-Polk,County Recorder,,Write-In,,0,0,0
+Shelby,Fairview-Shelby,County Recorder,,Write-In,,1,0,1
+Shelby,Greeley-Jefferson,County Recorder,,Write-In,,1,0,1
+Shelby,Grove-Union-Washington-Westphalia,County Recorder,,Write-In,,6,4,2
+Shelby,Harlan Ward 1,County Recorder,,Write-In,,1,0,1
+Shelby,Harlan Ward 2,County Recorder,,Write-In,,1,0,1
+Shelby,Harlan Ward 3,County Recorder,,Write-In,,2,0,2
+Shelby,Harlan Ward 4,County Recorder,,Write-In,,7,2,5
+Shelby,Cass-Lincoln,County Treasurer,,Carolyn Blum,REP,318,149,169
+Shelby,Center-Jackson,County Treasurer,,Carolyn Blum,REP,305,139,166
+Shelby,Clay-Monroe,County Treasurer,,Carolyn Blum,REP,437,135,302
+Shelby,Douglas-Polk,County Treasurer,,Carolyn Blum,REP,155,60,95
+Shelby,Fairview-Shelby,County Treasurer,,Carolyn Blum,REP,395,103,292
+Shelby,Greeley-Jefferson,County Treasurer,,Carolyn Blum,REP,280,52,228
+Shelby,Grove-Union-Washington-Westphalia,County Treasurer,,Carolyn Blum,REP,690,255,435
+Shelby,Harlan Ward 1,County Treasurer,,Carolyn Blum,REP,306,150,156
+Shelby,Harlan Ward 2,County Treasurer,,Carolyn Blum,REP,492,213,279
+Shelby,Harlan Ward 3,County Treasurer,,Carolyn Blum,REP,499,251,248
+Shelby,Harlan Ward 4,County Treasurer,,Carolyn Blum,REP,313,153,160
+Shelby,Cass-Lincoln,County Treasurer,,Write-In,,3,0,3
+Shelby,Center-Jackson,County Treasurer,,Write-In,,2,2,0
+Shelby,Clay-Monroe,County Treasurer,,Write-In,,3,0,3
+Shelby,Douglas-Polk,County Treasurer,,Write-In,,2,1,1
+Shelby,Fairview-Shelby,County Treasurer,,Write-In,,2,1,1
+Shelby,Greeley-Jefferson,County Treasurer,,Write-In,,1,0,1
+Shelby,Grove-Union-Washington-Westphalia,County Treasurer,,Write-In,,10,2,8
+Shelby,Harlan Ward 1,County Treasurer,,Write-In,,2,1,1
+Shelby,Harlan Ward 2,County Treasurer,,Write-In,,4,1,3
+Shelby,Harlan Ward 3,County Treasurer,,Write-In,,6,1,5
+Shelby,Harlan Ward 4,County Treasurer,,Write-In,,7,2,5
+Shelby,Cass-Lincoln,Court of Appeals Judge - John M. Sandy,,No,,55,19,36
+Shelby,Center-Jackson,Court of Appeals Judge - John M. Sandy,,No,,58,27,31
+Shelby,Clay-Monroe,Court of Appeals Judge - John M. Sandy,,No,,77,20,57
+Shelby,Douglas-Polk,Court of Appeals Judge - John M. Sandy,,No,,25,9,16
+Shelby,Fairview-Shelby,Court of Appeals Judge - John M. Sandy,,No,,82,15,67
+Shelby,Greeley-Jefferson,Court of Appeals Judge - John M. Sandy,,No,,50,8,42
+Shelby,Grove-Union-Washington-Westphalia,Court of Appeals Judge - John M. Sandy,,No,,143,50,93
+Shelby,Harlan Ward 1,Court of Appeals Judge - John M. Sandy,,No,,62,28,34
+Shelby,Harlan Ward 2,Court of Appeals Judge - John M. Sandy,,No,,92,37,55
+Shelby,Harlan Ward 3,Court of Appeals Judge - John M. Sandy,,No,,89,33,56
+Shelby,Harlan Ward 4,Court of Appeals Judge - John M. Sandy,,No,,71,24,47
+Shelby,Cass-Lincoln,Court of Appeals Judge - John M. Sandy,,Yes,,146,62,84
+Shelby,Center-Jackson,Court of Appeals Judge - John M. Sandy,,Yes,,149,62,87
+Shelby,Clay-Monroe,Court of Appeals Judge - John M. Sandy,,Yes,,195,68,127
+Shelby,Douglas-Polk,Court of Appeals Judge - John M. Sandy,,Yes,,54,25,29
+Shelby,Fairview-Shelby,Court of Appeals Judge - John M. Sandy,,Yes,,144,35,109
+Shelby,Greeley-Jefferson,Court of Appeals Judge - John M. Sandy,,Yes,,111,25,86
+Shelby,Grove-Union-Washington-Westphalia,Court of Appeals Judge - John M. Sandy,,Yes,,262,93,169
+Shelby,Harlan Ward 1,Court of Appeals Judge - John M. Sandy,,Yes,,177,77,100
+Shelby,Harlan Ward 2,Court of Appeals Judge - John M. Sandy,,Yes,,265,101,164
+Shelby,Harlan Ward 3,Court of Appeals Judge - John M. Sandy,,Yes,,267,127,140
+Shelby,Harlan Ward 4,Court of Appeals Judge - John M. Sandy,,Yes,,148,70,78
+Shelby,Cass-Lincoln,Court of Appeals Judge - Julie A. Schumacher,,No,,46,13,33
+Shelby,Center-Jackson,Court of Appeals Judge - Julie A. Schumacher,,No,,54,23,31
+Shelby,Clay-Monroe,Court of Appeals Judge - Julie A. Schumacher,,No,,72,20,52
+Shelby,Douglas-Polk,Court of Appeals Judge - Julie A. Schumacher,,No,,22,7,15
+Shelby,Fairview-Shelby,Court of Appeals Judge - Julie A. Schumacher,,No,,83,13,70
+Shelby,Greeley-Jefferson,Court of Appeals Judge - Julie A. Schumacher,,No,,40,7,33
+Shelby,Grove-Union-Washington-Westphalia,Court of Appeals Judge - Julie A. Schumacher,,No,,128,42,86
+Shelby,Harlan Ward 1,Court of Appeals Judge - Julie A. Schumacher,,No,,48,23,25
+Shelby,Harlan Ward 2,Court of Appeals Judge - Julie A. Schumacher,,No,,80,32,48
+Shelby,Harlan Ward 3,Court of Appeals Judge - Julie A. Schumacher,,No,,73,29,44
+Shelby,Harlan Ward 4,Court of Appeals Judge - Julie A. Schumacher,,No,,59,19,40
+Shelby,Cass-Lincoln,Court of Appeals Judge - Julie A. Schumacher,,Yes,,161,72,89
+Shelby,Center-Jackson,Court of Appeals Judge - Julie A. Schumacher,,Yes,,162,69,93
+Shelby,Clay-Monroe,Court of Appeals Judge - Julie A. Schumacher,,Yes,,208,69,139
+Shelby,Douglas-Polk,Court of Appeals Judge - Julie A. Schumacher,,Yes,,60,30,30
+Shelby,Fairview-Shelby,Court of Appeals Judge - Julie A. Schumacher,,Yes,,153,39,114
+Shelby,Greeley-Jefferson,Court of Appeals Judge - Julie A. Schumacher,,Yes,,130,26,104
+Shelby,Grove-Union-Washington-Westphalia,Court of Appeals Judge - Julie A. Schumacher,,Yes,,296,109,187
+Shelby,Harlan Ward 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,198,84,114
+Shelby,Harlan Ward 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,283,111,172
+Shelby,Harlan Ward 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,293,136,157
+Shelby,Harlan Ward 4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,174,85,89
+Shelby,Cass-Lincoln,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,46,13,33
+Shelby,Center-Jackson,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,63,25,38
+Shelby,Clay-Monroe,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,76,26,50
+Shelby,Douglas-Polk,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,23,9,14
+Shelby,Fairview-Shelby,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,81,12,69
+Shelby,Greeley-Jefferson,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,38,7,31
+Shelby,Grove-Union-Washington-Westphalia,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,130,45,85
+Shelby,Harlan Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,58,28,30
+Shelby,Harlan Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,88,31,57
+Shelby,Harlan Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,74,29,45
+Shelby,Harlan Ward 4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,67,19,48
+Shelby,Cass-Lincoln,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,169,78,91
+Shelby,Center-Jackson,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,156,67,89
+Shelby,Clay-Monroe,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,207,62,145
+Shelby,Douglas-Polk,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,60,26,34
+Shelby,Fairview-Shelby,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,159,41,118
+Shelby,Greeley-Jefferson,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,131,25,106
+Shelby,Grove-Union-Washington-Westphalia,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,296,103,193
+Shelby,Harlan Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,188,81,107
+Shelby,Harlan Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,285,115,170
+Shelby,Harlan Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,295,137,158
+Shelby,Harlan Ward 4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,166,83,83
+Shelby,Cass-Lincoln,District 4 Associate Judge - Ashley N. West-Joons,,No,,69,27,42
+Shelby,Center-Jackson,District 4 Associate Judge - Ashley N. West-Joons,,No,,60,25,35
+Shelby,Clay-Monroe,District 4 Associate Judge - Ashley N. West-Joons,,No,,80,28,52
+Shelby,Douglas-Polk,District 4 Associate Judge - Ashley N. West-Joons,,No,,31,12,19
+Shelby,Fairview-Shelby,District 4 Associate Judge - Ashley N. West-Joons,,No,,89,15,74
+Shelby,Greeley-Jefferson,District 4 Associate Judge - Ashley N. West-Joons,,No,,48,8,40
+Shelby,Grove-Union-Washington-Westphalia,District 4 Associate Judge - Ashley N. West-Joons,,No,,142,48,94
+Shelby,Harlan Ward 1,District 4 Associate Judge - Ashley N. West-Joons,,No,,55,26,29
+Shelby,Harlan Ward 2,District 4 Associate Judge - Ashley N. West-Joons,,No,,96,38,58
+Shelby,Harlan Ward 3,District 4 Associate Judge - Ashley N. West-Joons,,No,,85,35,50
+Shelby,Harlan Ward 4,District 4 Associate Judge - Ashley N. West-Joons,,No,,73,26,47
+Shelby,Cass-Lincoln,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,131,56,75
+Shelby,Center-Jackson,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,144,59,85
+Shelby,Clay-Monroe,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,186,57,129
+Shelby,Douglas-Polk,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,49,22,27
+Shelby,Fairview-Shelby,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,142,37,105
+Shelby,Greeley-Jefferson,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,106,21,85
+Shelby,Grove-Union-Washington-Westphalia,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,252,87,165
+Shelby,Harlan Ward 1,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,175,76,99
+Shelby,Harlan Ward 2,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,252,94,158
+Shelby,Harlan Ward 3,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,260,118,142
+Shelby,Harlan Ward 4,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,150,70,80
+Shelby,Cass-Lincoln,District 4 Associate Judge - Matthew A. Schuling,,No,,54,17,37
+Shelby,Center-Jackson,District 4 Associate Judge - Matthew A. Schuling,,No,,58,27,31
+Shelby,Clay-Monroe,District 4 Associate Judge - Matthew A. Schuling,,No,,75,23,52
+Shelby,Douglas-Polk,District 4 Associate Judge - Matthew A. Schuling,,No,,25,8,17
+Shelby,Fairview-Shelby,District 4 Associate Judge - Matthew A. Schuling,,No,,76,14,62
+Shelby,Greeley-Jefferson,District 4 Associate Judge - Matthew A. Schuling,,No,,45,9,36
+Shelby,Grove-Union-Washington-Westphalia,District 4 Associate Judge - Matthew A. Schuling,,No,,136,44,92
+Shelby,Harlan Ward 1,District 4 Associate Judge - Matthew A. Schuling,,No,,51,23,28
+Shelby,Harlan Ward 2,District 4 Associate Judge - Matthew A. Schuling,,No,,91,34,57
+Shelby,Harlan Ward 3,District 4 Associate Judge - Matthew A. Schuling,,No,,79,29,50
+Shelby,Harlan Ward 4,District 4 Associate Judge - Matthew A. Schuling,,No,,75,24,51
+Shelby,Cass-Lincoln,District 4 Associate Judge - Matthew A. Schuling,,Yes,,150,67,83
+Shelby,Center-Jackson,District 4 Associate Judge - Matthew A. Schuling,,Yes,,144,57,87
+Shelby,Clay-Monroe,District 4 Associate Judge - Matthew A. Schuling,,Yes,,190,61,129
+Shelby,Douglas-Polk,District 4 Associate Judge - Matthew A. Schuling,,Yes,,56,26,30
+Shelby,Fairview-Shelby,District 4 Associate Judge - Matthew A. Schuling,,Yes,,147,36,111
+Shelby,Greeley-Jefferson,District 4 Associate Judge - Matthew A. Schuling,,Yes,,109,21,88
+Shelby,Grove-Union-Washington-Westphalia,District 4 Associate Judge - Matthew A. Schuling,,Yes,,259,93,166
+Shelby,Harlan Ward 1,District 4 Associate Judge - Matthew A. Schuling,,Yes,,179,79,100
+Shelby,Harlan Ward 2,District 4 Associate Judge - Matthew A. Schuling,,Yes,,254,95,159
+Shelby,Harlan Ward 3,District 4 Associate Judge - Matthew A. Schuling,,Yes,,274,129,145
+Shelby,Harlan Ward 4,District 4 Associate Judge - Matthew A. Schuling,,Yes,,144,73,71
+Shelby,Cass-Lincoln,District 4 Associate Judge - Scott Strait,,No,,57,20,37
+Shelby,Center-Jackson,District 4 Associate Judge - Scott Strait,,No,,56,27,29
+Shelby,Clay-Monroe,District 4 Associate Judge - Scott Strait,,No,,77,27,50
+Shelby,Douglas-Polk,District 4 Associate Judge - Scott Strait,,No,,27,9,18
+Shelby,Fairview-Shelby,District 4 Associate Judge - Scott Strait,,No,,77,14,63
+Shelby,Greeley-Jefferson,District 4 Associate Judge - Scott Strait,,No,,47,7,40
+Shelby,Grove-Union-Washington-Westphalia,District 4 Associate Judge - Scott Strait,,No,,124,41,83
+Shelby,Harlan Ward 1,District 4 Associate Judge - Scott Strait,,No,,58,28,30
+Shelby,Harlan Ward 2,District 4 Associate Judge - Scott Strait,,No,,86,31,55
+Shelby,Harlan Ward 3,District 4 Associate Judge - Scott Strait,,No,,79,30,49
+Shelby,Harlan Ward 4,District 4 Associate Judge - Scott Strait,,No,,70,22,48
+Shelby,Cass-Lincoln,District 4 Associate Judge - Scott Strait,,Yes,,148,66,82
+Shelby,Center-Jackson,District 4 Associate Judge - Scott Strait,,Yes,,150,60,90
+Shelby,Clay-Monroe,District 4 Associate Judge - Scott Strait,,Yes,,190,61,129
+Shelby,Douglas-Polk,District 4 Associate Judge - Scott Strait,,Yes,,49,21,28
+Shelby,Fairview-Shelby,District 4 Associate Judge - Scott Strait,,Yes,,148,37,111
+Shelby,Greeley-Jefferson,District 4 Associate Judge - Scott Strait,,Yes,,102,22,80
+Shelby,Grove-Union-Washington-Westphalia,District 4 Associate Judge - Scott Strait,,Yes,,264,95,169
+Shelby,Harlan Ward 1,District 4 Associate Judge - Scott Strait,,Yes,,173,73,100
+Shelby,Harlan Ward 2,District 4 Associate Judge - Scott Strait,,Yes,,256,98,158
+Shelby,Harlan Ward 3,District 4 Associate Judge - Scott Strait,,Yes,,273,127,146
+Shelby,Harlan Ward 4,District 4 Associate Judge - Scott Strait,,Yes,,147,71,76
+Shelby,Cass-Lincoln,District 4 Judge - Amy L. Zacharias,,No,,31,11,20
+Shelby,Center-Jackson,District 4 Judge - Amy L. Zacharias,,No,,51,21,30
+Shelby,Clay-Monroe,District 4 Judge - Amy L. Zacharias,,No,,74,23,51
+Shelby,Douglas-Polk,District 4 Judge - Amy L. Zacharias,,No,,22,8,14
+Shelby,Fairview-Shelby,District 4 Judge - Amy L. Zacharias,,No,,74,11,63
+Shelby,Greeley-Jefferson,District 4 Judge - Amy L. Zacharias,,No,,42,8,34
+Shelby,Grove-Union-Washington-Westphalia,District 4 Judge - Amy L. Zacharias,,No,,122,37,85
+Shelby,Harlan Ward 1,District 4 Judge - Amy L. Zacharias,,No,,49,21,28
+Shelby,Harlan Ward 2,District 4 Judge - Amy L. Zacharias,,No,,79,30,49
+Shelby,Harlan Ward 3,District 4 Judge - Amy L. Zacharias,,No,,72,25,47
+Shelby,Harlan Ward 4,District 4 Judge - Amy L. Zacharias,,No,,67,23,44
+Shelby,Cass-Lincoln,District 4 Judge - Amy L. Zacharias,,Yes,,227,100,127
+Shelby,Center-Jackson,District 4 Judge - Amy L. Zacharias,,Yes,,170,77,93
+Shelby,Clay-Monroe,District 4 Judge - Amy L. Zacharias,,Yes,,205,65,140
+Shelby,Douglas-Polk,District 4 Judge - Amy L. Zacharias,,Yes,,60,25,35
+Shelby,Fairview-Shelby,District 4 Judge - Amy L. Zacharias,,Yes,,161,44,117
+Shelby,Greeley-Jefferson,District 4 Judge - Amy L. Zacharias,,Yes,,115,22,93
+Shelby,Grove-Union-Washington-Westphalia,District 4 Judge - Amy L. Zacharias,,Yes,,312,112,200
+Shelby,Harlan Ward 1,District 4 Judge - Amy L. Zacharias,,Yes,,199,88,111
+Shelby,Harlan Ward 2,District 4 Judge - Amy L. Zacharias,,Yes,,289,116,173
+Shelby,Harlan Ward 3,District 4 Judge - Amy L. Zacharias,,Yes,,300,142,158
+Shelby,Harlan Ward 4,District 4 Judge - Amy L. Zacharias,,Yes,,158,76,82
+Shelby,Cass-Lincoln,District 4 Judge - Craig Michael Dreismeier,,No,,69,25,44
+Shelby,Center-Jackson,District 4 Judge - Craig Michael Dreismeier,,No,,62,27,35
+Shelby,Clay-Monroe,District 4 Judge - Craig Michael Dreismeier,,No,,77,23,54
+Shelby,Douglas-Polk,District 4 Judge - Craig Michael Dreismeier,,No,,26,8,18
+Shelby,Fairview-Shelby,District 4 Judge - Craig Michael Dreismeier,,No,,82,13,69
+Shelby,Greeley-Jefferson,District 4 Judge - Craig Michael Dreismeier,,No,,46,8,38
+Shelby,Grove-Union-Washington-Westphalia,District 4 Judge - Craig Michael Dreismeier,,No,,194,60,134
+Shelby,Harlan Ward 1,District 4 Judge - Craig Michael Dreismeier,,No,,64,28,36
+Shelby,Harlan Ward 2,District 4 Judge - Craig Michael Dreismeier,,No,,103,37,66
+Shelby,Harlan Ward 3,District 4 Judge - Craig Michael Dreismeier,,No,,91,33,58
+Shelby,Harlan Ward 4,District 4 Judge - Craig Michael Dreismeier,,No,,81,29,52
+Shelby,Cass-Lincoln,District 4 Judge - Craig Michael Dreismeier,,Yes,,140,64,76
+Shelby,Center-Jackson,District 4 Judge - Craig Michael Dreismeier,,Yes,,146,58,88
+Shelby,Clay-Monroe,District 4 Judge - Craig Michael Dreismeier,,Yes,,192,66,126
+Shelby,Douglas-Polk,District 4 Judge - Craig Michael Dreismeier,,Yes,,57,28,29
+Shelby,Fairview-Shelby,District 4 Judge - Craig Michael Dreismeier,,Yes,,143,38,105
+Shelby,Greeley-Jefferson,District 4 Judge - Craig Michael Dreismeier,,Yes,,105,20,85
+Shelby,Grove-Union-Washington-Westphalia,District 4 Judge - Craig Michael Dreismeier,,Yes,,222,83,139
+Shelby,Harlan Ward 1,District 4 Judge - Craig Michael Dreismeier,,Yes,,169,74,95
+Shelby,Harlan Ward 2,District 4 Judge - Craig Michael Dreismeier,,Yes,,242,92,150
+Shelby,Harlan Ward 3,District 4 Judge - Craig Michael Dreismeier,,Yes,,261,124,137
+Shelby,Harlan Ward 4,District 4 Judge - Craig Michael Dreismeier,,Yes,,136,65,71
+Shelby,Cass-Lincoln,District 4 Judge - Donna Bothwell,,No,,53,19,34
+Shelby,Center-Jackson,District 4 Judge - Donna Bothwell,,No,,56,24,32
+Shelby,Clay-Monroe,District 4 Judge - Donna Bothwell,,No,,74,23,51
+Shelby,Douglas-Polk,District 4 Judge - Donna Bothwell,,No,,25,9,16
+Shelby,Fairview-Shelby,District 4 Judge - Donna Bothwell,,No,,83,13,70
+Shelby,Greeley-Jefferson,District 4 Judge - Donna Bothwell,,No,,46,8,38
+Shelby,Grove-Union-Washington-Westphalia,District 4 Judge - Donna Bothwell,,No,,139,49,90
+Shelby,Harlan Ward 1,District 4 Judge - Donna Bothwell,,No,,63,30,33
+Shelby,Harlan Ward 2,District 4 Judge - Donna Bothwell,,No,,92,32,60
+Shelby,Harlan Ward 3,District 4 Judge - Donna Bothwell,,No,,82,30,52
+Shelby,Harlan Ward 4,District 4 Judge - Donna Bothwell,,No,,67,21,46
+Shelby,Cass-Lincoln,District 4 Judge - Donna Bothwell,,Yes,,154,69,85
+Shelby,Center-Jackson,District 4 Judge - Donna Bothwell,,Yes,,147,58,89
+Shelby,Clay-Monroe,District 4 Judge - Donna Bothwell,,Yes,,201,65,136
+Shelby,Douglas-Polk,District 4 Judge - Donna Bothwell,,Yes,,58,26,32
+Shelby,Fairview-Shelby,District 4 Judge - Donna Bothwell,,Yes,,146,37,109
+Shelby,Greeley-Jefferson,District 4 Judge - Donna Bothwell,,Yes,,108,22,86
+Shelby,Grove-Union-Washington-Westphalia,District 4 Judge - Donna Bothwell,,Yes,,260,91,169
+Shelby,Harlan Ward 1,District 4 Judge - Donna Bothwell,,Yes,,170,71,99
+Shelby,Harlan Ward 2,District 4 Judge - Donna Bothwell,,Yes,,253,99,154
+Shelby,Harlan Ward 3,District 4 Judge - Donna Bothwell,,Yes,,272,132,140
+Shelby,Harlan Ward 4,District 4 Judge - Donna Bothwell,,Yes,,153,73,80
+Shelby,Cass-Lincoln,District 4 Judge - Justin R. Wyatt,,No,,53,19,34
+Shelby,Center-Jackson,District 4 Judge - Justin R. Wyatt,,No,,55,24,31
+Shelby,Clay-Monroe,District 4 Judge - Justin R. Wyatt,,No,,75,23,52
+Shelby,Douglas-Polk,District 4 Judge - Justin R. Wyatt,,No,,25,9,16
+Shelby,Fairview-Shelby,District 4 Judge - Justin R. Wyatt,,No,,83,17,66
+Shelby,Greeley-Jefferson,District 4 Judge - Justin R. Wyatt,,No,,45,7,38
+Shelby,Grove-Union-Washington-Westphalia,District 4 Judge - Justin R. Wyatt,,No,,137,48,89
+Shelby,Harlan Ward 1,District 4 Judge - Justin R. Wyatt,,No,,59,27,32
+Shelby,Harlan Ward 2,District 4 Judge - Justin R. Wyatt,,No,,90,33,57
+Shelby,Harlan Ward 3,District 4 Judge - Justin R. Wyatt,,No,,87,33,54
+Shelby,Harlan Ward 4,District 4 Judge - Justin R. Wyatt,,No,,72,24,48
+Shelby,Cass-Lincoln,District 4 Judge - Justin R. Wyatt,,Yes,,145,64,81
+Shelby,Center-Jackson,District 4 Judge - Justin R. Wyatt,,Yes,,153,62,91
+Shelby,Clay-Monroe,District 4 Judge - Justin R. Wyatt,,Yes,,196,63,133
+Shelby,Douglas-Polk,District 4 Judge - Justin R. Wyatt,,Yes,,55,25,30
+Shelby,Fairview-Shelby,District 4 Judge - Justin R. Wyatt,,Yes,,139,34,105
+Shelby,Greeley-Jefferson,District 4 Judge - Justin R. Wyatt,,Yes,,108,22,86
+Shelby,Grove-Union-Washington-Westphalia,District 4 Judge - Justin R. Wyatt,,Yes,,257,90,167
+Shelby,Harlan Ward 1,District 4 Judge - Justin R. Wyatt,,Yes,,172,72,100
+Shelby,Harlan Ward 2,District 4 Judge - Justin R. Wyatt,,Yes,,255,98,157
+Shelby,Harlan Ward 3,District 4 Judge - Justin R. Wyatt,,Yes,,267,126,141
+Shelby,Harlan Ward 4,District 4 Judge - Justin R. Wyatt,,Yes,,150,74,76
+Shelby,Cass-Lincoln,District 4 Judge - Margaret J. Reyes,,No,,54,20,34
+Shelby,Center-Jackson,District 4 Judge - Margaret J. Reyes,,No,,60,23,37
+Shelby,Clay-Monroe,District 4 Judge - Margaret J. Reyes,,No,,76,24,52
+Shelby,Douglas-Polk,District 4 Judge - Margaret J. Reyes,,No,,23,7,16
+Shelby,Fairview-Shelby,District 4 Judge - Margaret J. Reyes,,No,,80,13,67
+Shelby,Greeley-Jefferson,District 4 Judge - Margaret J. Reyes,,No,,46,7,39
+Shelby,Grove-Union-Washington-Westphalia,District 4 Judge - Margaret J. Reyes,,No,,132,44,88
+Shelby,Harlan Ward 1,District 4 Judge - Margaret J. Reyes,,No,,57,26,31
+Shelby,Harlan Ward 2,District 4 Judge - Margaret J. Reyes,,No,,91,33,58
+Shelby,Harlan Ward 3,District 4 Judge - Margaret J. Reyes,,No,,83,30,53
+Shelby,Harlan Ward 4,District 4 Judge - Margaret J. Reyes,,No,,69,22,47
+Shelby,Cass-Lincoln,District 4 Judge - Margaret J. Reyes,,Yes,,151,64,87
+Shelby,Center-Jackson,District 4 Judge - Margaret J. Reyes,,Yes,,148,61,87
+Shelby,Clay-Monroe,District 4 Judge - Margaret J. Reyes,,Yes,,200,63,137
+Shelby,Douglas-Polk,District 4 Judge - Margaret J. Reyes,,Yes,,57,26,31
+Shelby,Fairview-Shelby,District 4 Judge - Margaret J. Reyes,,Yes,,148,39,109
+Shelby,Greeley-Jefferson,District 4 Judge - Margaret J. Reyes,,Yes,,112,23,89
+Shelby,Grove-Union-Washington-Westphalia,District 4 Judge - Margaret J. Reyes,,Yes,,268,95,173
+Shelby,Harlan Ward 1,District 4 Judge - Margaret J. Reyes,,Yes,,184,80,104
+Shelby,Harlan Ward 2,District 4 Judge - Margaret J. Reyes,,Yes,,263,104,159
+Shelby,Harlan Ward 3,District 4 Judge - Margaret J. Reyes,,Yes,,269,128,141
+Shelby,Harlan Ward 4,District 4 Judge - Margaret J. Reyes,,Yes,,152,73,79
+Shelby,Cass-Lincoln,District 4 Judge - Michael Donn Hooper,,No,,58,21,37
+Shelby,Center-Jackson,District 4 Judge - Michael Donn Hooper,,No,,52,24,28
+Shelby,Clay-Monroe,District 4 Judge - Michael Donn Hooper,,No,,81,23,58
+Shelby,Douglas-Polk,District 4 Judge - Michael Donn Hooper,,No,,26,8,18
+Shelby,Fairview-Shelby,District 4 Judge - Michael Donn Hooper,,No,,86,16,70
+Shelby,Greeley-Jefferson,District 4 Judge - Michael Donn Hooper,,No,,48,8,40
+Shelby,Grove-Union-Washington-Westphalia,District 4 Judge - Michael Donn Hooper,,No,,140,45,95
+Shelby,Harlan Ward 1,District 4 Judge - Michael Donn Hooper,,No,,61,27,34
+Shelby,Harlan Ward 2,District 4 Judge - Michael Donn Hooper,,No,,92,35,57
+Shelby,Harlan Ward 3,District 4 Judge - Michael Donn Hooper,,No,,82,26,56
+Shelby,Harlan Ward 4,District 4 Judge - Michael Donn Hooper,,No,,80,26,54
+Shelby,Cass-Lincoln,District 4 Judge - Michael Donn Hooper,,Yes,,141,59,82
+Shelby,Center-Jackson,District 4 Judge - Michael Donn Hooper,,Yes,,154,60,94
+Shelby,Clay-Monroe,District 4 Judge - Michael Donn Hooper,,Yes,,186,64,122
+Shelby,Douglas-Polk,District 4 Judge - Michael Donn Hooper,,Yes,,55,27,28
+Shelby,Fairview-Shelby,District 4 Judge - Michael Donn Hooper,,Yes,,138,35,103
+Shelby,Greeley-Jefferson,District 4 Judge - Michael Donn Hooper,,Yes,,105,21,84
+Shelby,Grove-Union-Washington-Westphalia,District 4 Judge - Michael Donn Hooper,,Yes,,250,93,157
+Shelby,Harlan Ward 1,District 4 Judge - Michael Donn Hooper,,Yes,,170,74,96
+Shelby,Harlan Ward 2,District 4 Judge - Michael Donn Hooper,,Yes,,251,95,156
+Shelby,Harlan Ward 3,District 4 Judge - Michael Donn Hooper,,Yes,,270,131,139
+Shelby,Harlan Ward 4,District 4 Judge - Michael Donn Hooper,,Yes,,138,65,73
+Shelby,Douglas-Polk,Douglas Township Clerk,,Write-In,,5,4,1
+Shelby,Douglas-Polk,Douglas Township Trustee,,Write-In,,10,7,3
+Shelby,Fairview-Shelby,Fairview Township Clerk,,Write-In,,12,9,3
+Shelby,Fairview-Shelby,Fairview Township Trustee,,Write-In,,14,10,4
+Shelby,Cass-Lincoln,Governor,,Rob Sand and Dave Muhlbauer,DEM,108,69,39
+Shelby,Center-Jackson,Governor,,Rob Sand and Dave Muhlbauer,DEM,121,76,45
+Shelby,Clay-Monroe,Governor,,Rob Sand and Dave Muhlbauer,DEM,193,57,136
+Shelby,Douglas-Polk,Governor,,Rob Sand and Dave Muhlbauer,DEM,55,31,24
+Shelby,Fairview-Shelby,Governor,,Rob Sand and Dave Muhlbauer,DEM,191,44,147
+Shelby,Greeley-Jefferson,Governor,,Rob Sand and Dave Muhlbauer,DEM,102,24,78
+Shelby,Grove-Union-Washington-Westphalia,Governor,,Rob Sand and Dave Muhlbauer,DEM,269,119,150
+Shelby,Harlan Ward 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,159,88,71
+Shelby,Harlan Ward 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,241,132,109
+Shelby,Harlan Ward 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,239,127,112
+Shelby,Harlan Ward 4,Governor,,Rob Sand and Dave Muhlbauer,DEM,154,80,74
+Shelby,Cass-Lincoln,Governor,,Write-In,,0,0,0
+Shelby,Center-Jackson,Governor,,Write-In,,0,0,0
+Shelby,Clay-Monroe,Governor,,Write-In,,0,0,0
+Shelby,Douglas-Polk,Governor,,Write-In,,0,0,0
+Shelby,Fairview-Shelby,Governor,,Write-In,,0,0,0
+Shelby,Greeley-Jefferson,Governor,,Write-In,,0,0,0
+Shelby,Grove-Union-Washington-Westphalia,Governor,,Write-In,,1,1,0
+Shelby,Harlan Ward 1,Governor,,Write-In,,1,0,1
+Shelby,Harlan Ward 2,Governor,,Write-In,,1,0,1
+Shelby,Harlan Ward 3,Governor,,Write-In,,1,0,1
+Shelby,Harlan Ward 4,Governor,,Write-In,,0,0,0
+Shelby,Cass-Lincoln,Governor,,Zach Lahn and Derek Wulf,REP,250,99,151
+Shelby,Center-Jackson,Governor,,Zach Lahn and Derek Wulf,REP,255,107,148
+Shelby,Clay-Monroe,Governor,,Zach Lahn and Derek Wulf,REP,319,104,215
+Shelby,Douglas-Polk,Governor,,Zach Lahn and Derek Wulf,REP,130,45,85
+Shelby,Fairview-Shelby,Governor,,Zach Lahn and Derek Wulf,REP,304,79,225
+Shelby,Greeley-Jefferson,Governor,,Zach Lahn and Derek Wulf,REP,231,38,193
+Shelby,Grove-Union-Washington-Westphalia,Governor,,Zach Lahn and Derek Wulf,REP,528,176,352
+Shelby,Harlan Ward 1,Governor,,Zach Lahn and Derek Wulf,REP,215,102,113
+Shelby,Harlan Ward 2,Governor,,Zach Lahn and Derek Wulf,REP,339,137,202
+Shelby,Harlan Ward 3,Governor,,Zach Lahn and Derek Wulf,REP,345,172,173
+Shelby,Harlan Ward 4,Governor,,Zach Lahn and Derek Wulf,REP,235,112,123
+Shelby,Greeley-Jefferson,Greeley Township Clerk,,Write-In,,3,0,3
+Shelby,Greeley-Jefferson,Greeley Township Trustee,,Write-In,,2,0,2
+Shelby,Grove-Union-Washington-Westphalia,Grove Township Clerk,,Write-In,,3,1,2
+Shelby,Grove-Union-Washington-Westphalia,Grove Township Trustee,,Write-In,,8,2,6
+Shelby,Center-Jackson,Jackson Township Clerk,,Write-In,,17,6,11
+Shelby,Center-Jackson,Jackson Township Trustee,,Write-In,,18,10,8
+Shelby,Greeley-Jefferson,Jefferson Township Clerk,,Write-In,,5,2,3
+Shelby,Greeley-Jefferson,Jefferson Township Trustee,,Write-In,,9,1,8
+Shelby,Cass-Lincoln,Lincoln Township Clerk,,Write-In,,8,3,5
+Shelby,Cass-Lincoln,Lincoln Township Trustee,,Write-In,,14,6,8
+Shelby,Clay-Monroe,Monroe Township Clerk,,Write-In,,8,3,5
+Shelby,Clay-Monroe,Monroe Township Trustee,,Write-In,,11,4,7
+Shelby,Douglas-Polk,Polk Township Clerk,,Write-In,,6,2,4
+Shelby,Douglas-Polk,Polk Township Trustee,,Write-In,,9,3,6
+Shelby,Cass-Lincoln,Secretary of Agriculture,,Chris Jones,DEM,87,59,28
+Shelby,Center-Jackson,Secretary of Agriculture,,Chris Jones,DEM,93,55,38
+Shelby,Clay-Monroe,Secretary of Agriculture,,Chris Jones,DEM,166,49,117
+Shelby,Douglas-Polk,Secretary of Agriculture,,Chris Jones,DEM,33,21,12
+Shelby,Fairview-Shelby,Secretary of Agriculture,,Chris Jones,DEM,159,34,125
+Shelby,Greeley-Jefferson,Secretary of Agriculture,,Chris Jones,DEM,70,17,53
+Shelby,Grove-Union-Washington-Westphalia,Secretary of Agriculture,,Chris Jones,DEM,172,92,80
+Shelby,Harlan Ward 1,Secretary of Agriculture,,Chris Jones,DEM,130,75,55
+Shelby,Harlan Ward 2,Secretary of Agriculture,,Chris Jones,DEM,187,109,78
+Shelby,Harlan Ward 3,Secretary of Agriculture,,Chris Jones,DEM,198,108,90
+Shelby,Harlan Ward 4,Secretary of Agriculture,,Chris Jones,DEM,135,74,61
+Shelby,Cass-Lincoln,Secretary of Agriculture,,Mike Naig,REP,264,106,158
+Shelby,Center-Jackson,Secretary of Agriculture,,Mike Naig,REP,273,119,154
+Shelby,Clay-Monroe,Secretary of Agriculture,,Mike Naig,REP,340,111,229
+Shelby,Douglas-Polk,Secretary of Agriculture,,Mike Naig,REP,148,52,96
+Shelby,Fairview-Shelby,Secretary of Agriculture,,Mike Naig,REP,322,86,236
+Shelby,Greeley-Jefferson,Secretary of Agriculture,,Mike Naig,REP,248,44,204
+Shelby,Grove-Union-Washington-Westphalia,Secretary of Agriculture,,Mike Naig,REP,587,188,399
+Shelby,Harlan Ward 1,Secretary of Agriculture,,Mike Naig,REP,227,108,119
+Shelby,Harlan Ward 2,Secretary of Agriculture,,Mike Naig,REP,382,150,232
+Shelby,Harlan Ward 3,Secretary of Agriculture,,Mike Naig,REP,374,180,194
+Shelby,Harlan Ward 4,Secretary of Agriculture,,Mike Naig,REP,243,112,131
+Shelby,Cass-Lincoln,Secretary of Agriculture,,Write-In,,0,0,0
+Shelby,Center-Jackson,Secretary of Agriculture,,Write-In,,0,0,0
+Shelby,Clay-Monroe,Secretary of Agriculture,,Write-In,,0,0,0
+Shelby,Douglas-Polk,Secretary of Agriculture,,Write-In,,0,0,0
+Shelby,Fairview-Shelby,Secretary of Agriculture,,Write-In,,1,0,1
+Shelby,Greeley-Jefferson,Secretary of Agriculture,,Write-In,,0,0,0
+Shelby,Grove-Union-Washington-Westphalia,Secretary of Agriculture,,Write-In,,2,0,2
+Shelby,Harlan Ward 1,Secretary of Agriculture,,Write-In,,1,0,1
+Shelby,Harlan Ward 2,Secretary of Agriculture,,Write-In,,0,0,0
+Shelby,Harlan Ward 3,Secretary of Agriculture,,Write-In,,1,0,1
+Shelby,Harlan Ward 4,Secretary of Agriculture,,Write-In,,0,0,0
+Shelby,Cass-Lincoln,Secretary of State,,Paul D. Pate,REP,265,107,158
+Shelby,Center-Jackson,Secretary of State,,Paul D. Pate,REP,269,112,157
+Shelby,Clay-Monroe,Secretary of State,,Paul D. Pate,REP,340,108,232
+Shelby,Douglas-Polk,Secretary of State,,Paul D. Pate,REP,142,50,92
+Shelby,Fairview-Shelby,Secretary of State,,Paul D. Pate,REP,326,84,242
+Shelby,Greeley-Jefferson,Secretary of State,,Paul D. Pate,REP,235,40,195
+Shelby,Grove-Union-Washington-Westphalia,Secretary of State,,Paul D. Pate,REP,571,190,381
+Shelby,Harlan Ward 1,Secretary of State,,Paul D. Pate,REP,227,108,119
+Shelby,Harlan Ward 2,Secretary of State,,Paul D. Pate,REP,380,155,225
+Shelby,Harlan Ward 3,Secretary of State,,Paul D. Pate,REP,377,174,203
+Shelby,Harlan Ward 4,Secretary of State,,Paul D. Pate,REP,245,116,129
+Shelby,Cass-Lincoln,Secretary of State,,Ryan Peterman,DEM,86,58,28
+Shelby,Center-Jackson,Secretary of State,,Ryan Peterman,DEM,89,55,34
+Shelby,Clay-Monroe,Secretary of State,,Ryan Peterman,DEM,167,53,114
+Shelby,Douglas-Polk,Secretary of State,,Ryan Peterman,DEM,36,21,15
+Shelby,Fairview-Shelby,Secretary of State,,Ryan Peterman,DEM,157,36,121
+Shelby,Greeley-Jefferson,Secretary of State,,Ryan Peterman,DEM,80,20,60
+Shelby,Grove-Union-Washington-Westphalia,Secretary of State,,Ryan Peterman,DEM,183,93,90
+Shelby,Harlan Ward 1,Secretary of State,,Ryan Peterman,DEM,135,77,58
+Shelby,Harlan Ward 2,Secretary of State,,Ryan Peterman,DEM,191,108,83
+Shelby,Harlan Ward 3,Secretary of State,,Ryan Peterman,DEM,196,116,80
+Shelby,Harlan Ward 4,Secretary of State,,Ryan Peterman,DEM,133,73,60
+Shelby,Cass-Lincoln,Secretary of State,,Write-In,,0,0,0
+Shelby,Center-Jackson,Secretary of State,,Write-In,,0,0,0
+Shelby,Clay-Monroe,Secretary of State,,Write-In,,0,0,0
+Shelby,Douglas-Polk,Secretary of State,,Write-In,,1,1,0
+Shelby,Fairview-Shelby,Secretary of State,,Write-In,,1,1,0
+Shelby,Greeley-Jefferson,Secretary of State,,Write-In,,0,0,0
+Shelby,Grove-Union-Washington-Westphalia,Secretary of State,,Write-In,,0,0,0
+Shelby,Harlan Ward 1,Secretary of State,,Write-In,,1,0,1
+Shelby,Harlan Ward 2,Secretary of State,,Write-In,,0,0,0
+Shelby,Harlan Ward 3,Secretary of State,,Write-In,,1,0,1
+Shelby,Harlan Ward 4,Secretary of State,,Write-In,,0,0,0
+Shelby,Fairview-Shelby,Shelby Township Clerk,,Write-In,,4,0,4
+Shelby,Fairview-Shelby,Shelby Township Trustee,,Write-In,,10,1,9
+Shelby,Cass-Lincoln,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,271,122,149
+Shelby,Center-Jackson,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,247,114,133
+Shelby,Clay-Monroe,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,314,93,221
+Shelby,Douglas-Polk,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,115,52,63
+Shelby,Fairview-Shelby,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,258,74,184
+Shelby,Greeley-Jefferson,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,193,35,158
+Shelby,Grove-Union-Washington-Westphalia,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,554,204,350
+Shelby,Harlan Ward 1,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,258,116,142
+Shelby,Harlan Ward 2,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,425,178,247
+Shelby,Harlan Ward 3,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,424,205,219
+Shelby,Harlan Ward 4,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,255,129,126
+Shelby,Cass-Lincoln,Soil and Water Conservation District Commissioner,,Write-In,,8,4,4
+Shelby,Center-Jackson,Soil and Water Conservation District Commissioner,,Write-In,,7,3,4
+Shelby,Clay-Monroe,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Shelby,Douglas-Polk,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Shelby,Fairview-Shelby,Soil and Water Conservation District Commissioner,,Write-In,,8,1,7
+Shelby,Greeley-Jefferson,Soil and Water Conservation District Commissioner,,Write-In,,10,2,8
+Shelby,Grove-Union-Washington-Westphalia,Soil and Water Conservation District Commissioner,,Write-In,,22,9,13
+Shelby,Harlan Ward 1,Soil and Water Conservation District Commissioner,,Write-In,,5,2,3
+Shelby,Harlan Ward 2,Soil and Water Conservation District Commissioner,,Write-In,,7,1,6
+Shelby,Harlan Ward 3,Soil and Water Conservation District Commissioner,,Write-In,,7,0,7
+Shelby,Harlan Ward 4,Soil and Water Conservation District Commissioner,,Write-In,,8,2,6
+Shelby,Center-Jackson,State House,11,Bill Owen,DEM,98,60,38
+Shelby,Clay-Monroe,State House,11,Bill Owen,DEM,182,55,127
+Shelby,Douglas-Polk,State House,11,Bill Owen,DEM,41,22,19
+Shelby,Fairview-Shelby,State House,11,Bill Owen,DEM,177,39,138
+Shelby,Center-Jackson,State House,11,Craig Williams,REP,261,109,152
+Shelby,Clay-Monroe,State House,11,Craig Williams,REP,321,104,217
+Shelby,Douglas-Polk,State House,11,Craig Williams,REP,134,49,85
+Shelby,Fairview-Shelby,State House,11,Craig Williams,REP,298,79,219
+Shelby,Center-Jackson,State House,11,Write-In,,0,0,0
+Shelby,Clay-Monroe,State House,11,Write-In,,0,0,0
+Shelby,Douglas-Polk,State House,11,Write-In,,0,0,0
+Shelby,Fairview-Shelby,State House,11,Write-In,,0,0,0
+Shelby,Cass-Lincoln,State House,12,Dustin Durbin,DEM,92,64,28
+Shelby,Greeley-Jefferson,State House,12,Dustin Durbin,DEM,78,23,55
+Shelby,Grove-Union-Washington-Westphalia,State House,12,Dustin Durbin,DEM,180,88,92
+Shelby,Harlan Ward 1,State House,12,Dustin Durbin,DEM,127,76,51
+Shelby,Harlan Ward 2,State House,12,Dustin Durbin,DEM,203,115,88
+Shelby,Harlan Ward 3,State House,12,Dustin Durbin,DEM,195,108,87
+Shelby,Harlan Ward 4,State House,12,Dustin Durbin,DEM,123,69,54
+Shelby,Cass-Lincoln,State House,12,Steven Holt,REP,262,105,157
+Shelby,Greeley-Jefferson,State House,12,Steven Holt,REP,245,38,207
+Shelby,Grove-Union-Washington-Westphalia,State House,12,Steven Holt,REP,595,195,400
+Shelby,Harlan Ward 1,State House,12,Steven Holt,REP,244,115,129
+Shelby,Harlan Ward 2,State House,12,Steven Holt,REP,369,149,220
+Shelby,Harlan Ward 3,State House,12,Steven Holt,REP,382,186,196
+Shelby,Harlan Ward 4,State House,12,Steven Holt,REP,254,119,135
+Shelby,Cass-Lincoln,State House,12,Write-In,,1,0,1
+Shelby,Greeley-Jefferson,State House,12,Write-In,,0,0,0
+Shelby,Grove-Union-Washington-Westphalia,State House,12,Write-In,,0,0,0
+Shelby,Harlan Ward 1,State House,12,Write-In,,0,0,0
+Shelby,Harlan Ward 2,State House,12,Write-In,,0,0,0
+Shelby,Harlan Ward 3,State House,12,Write-In,,1,0,1
+Shelby,Harlan Ward 4,State House,12,Write-In,,0,0,0
+Shelby,Cass-Lincoln,Treasurer of State,,John Norwood,DEM,89,58,31
+Shelby,Center-Jackson,Treasurer of State,,John Norwood,DEM,98,58,40
+Shelby,Clay-Monroe,Treasurer of State,,John Norwood,DEM,169,51,118
+Shelby,Douglas-Polk,Treasurer of State,,John Norwood,DEM,38,21,17
+Shelby,Fairview-Shelby,Treasurer of State,,John Norwood,DEM,161,37,124
+Shelby,Greeley-Jefferson,Treasurer of State,,John Norwood,DEM,78,17,61
+Shelby,Grove-Union-Washington-Westphalia,Treasurer of State,,John Norwood,DEM,195,97,98
+Shelby,Harlan Ward 1,Treasurer of State,,John Norwood,DEM,137,79,58
+Shelby,Harlan Ward 2,Treasurer of State,,John Norwood,DEM,207,120,87
+Shelby,Harlan Ward 3,Treasurer of State,,John Norwood,DEM,203,116,87
+Shelby,Harlan Ward 4,Treasurer of State,,John Norwood,DEM,134,80,54
+Shelby,Cass-Lincoln,Treasurer of State,,Roby Smith,REP,256,108,148
+Shelby,Center-Jackson,Treasurer of State,,Roby Smith,REP,259,109,150
+Shelby,Clay-Monroe,Treasurer of State,,Roby Smith,REP,329,104,225
+Shelby,Douglas-Polk,Treasurer of State,,Roby Smith,REP,136,51,85
+Shelby,Fairview-Shelby,Treasurer of State,,Roby Smith,REP,314,83,231
+Shelby,Greeley-Jefferson,Treasurer of State,,Roby Smith,REP,232,43,189
+Shelby,Grove-Union-Washington-Westphalia,Treasurer of State,,Roby Smith,REP,533,176,357
+Shelby,Harlan Ward 1,Treasurer of State,,Roby Smith,REP,218,104,114
+Shelby,Harlan Ward 2,Treasurer of State,,Roby Smith,REP,352,136,216
+Shelby,Harlan Ward 3,Treasurer of State,,Roby Smith,REP,365,171,194
+Shelby,Harlan Ward 4,Treasurer of State,,Roby Smith,REP,240,109,131
+Shelby,Cass-Lincoln,Treasurer of State,,Write-In,,0,0,0
+Shelby,Center-Jackson,Treasurer of State,,Write-In,,0,0,0
+Shelby,Clay-Monroe,Treasurer of State,,Write-In,,0,0,0
+Shelby,Douglas-Polk,Treasurer of State,,Write-In,,0,0,0
+Shelby,Fairview-Shelby,Treasurer of State,,Write-In,,0,0,0
+Shelby,Greeley-Jefferson,Treasurer of State,,Write-In,,0,0,0
+Shelby,Grove-Union-Washington-Westphalia,Treasurer of State,,Write-In,,0,0,0
+Shelby,Harlan Ward 1,Treasurer of State,,Write-In,,1,0,1
+Shelby,Harlan Ward 2,Treasurer of State,,Write-In,,0,0,0
+Shelby,Harlan Ward 3,Treasurer of State,,Write-In,,1,0,1
+Shelby,Harlan Ward 4,Treasurer of State,,Write-In,,0,0,0
+Shelby,Cass-Lincoln,U.S. House,4,Chris McGowan,REP,252,102,150
+Shelby,Center-Jackson,U.S. House,4,Chris McGowan,REP,258,103,155
+Shelby,Clay-Monroe,U.S. House,4,Chris McGowan,REP,323,102,221
+Shelby,Douglas-Polk,U.S. House,4,Chris McGowan,REP,125,40,85
+Shelby,Fairview-Shelby,U.S. House,4,Chris McGowan,REP,296,78,218
+Shelby,Greeley-Jefferson,U.S. House,4,Chris McGowan,REP,234,35,199
+Shelby,Grove-Union-Washington-Westphalia,U.S. House,4,Chris McGowan,REP,537,174,363
+Shelby,Harlan Ward 1,U.S. House,4,Chris McGowan,REP,220,103,117
+Shelby,Harlan Ward 2,U.S. House,4,Chris McGowan,REP,351,137,214
+Shelby,Harlan Ward 3,U.S. House,4,Chris McGowan,REP,349,164,185
+Shelby,Harlan Ward 4,U.S. House,4,Chris McGowan,REP,232,105,127
+Shelby,Cass-Lincoln,U.S. House,4,Dave Dawson,DEM,90,58,32
+Shelby,Center-Jackson,U.S. House,4,Dave Dawson,DEM,96,60,36
+Shelby,Clay-Monroe,U.S. House,4,Dave Dawson,DEM,178,54,124
+Shelby,Douglas-Polk,U.S. House,4,Dave Dawson,DEM,44,26,18
+Shelby,Fairview-Shelby,U.S. House,4,Dave Dawson,DEM,177,38,139
+Shelby,Greeley-Jefferson,U.S. House,4,Dave Dawson,DEM,81,23,58
+Shelby,Grove-Union-Washington-Westphalia,U.S. House,4,Dave Dawson,DEM,209,98,111
+Shelby,Harlan Ward 1,U.S. House,4,Dave Dawson,DEM,128,76,52
+Shelby,Harlan Ward 2,U.S. House,4,Dave Dawson,DEM,207,118,89
+Shelby,Harlan Ward 3,U.S. House,4,Dave Dawson,DEM,208,119,89
+Shelby,Harlan Ward 4,U.S. House,4,Dave Dawson,DEM,144,81,63
+Shelby,Cass-Lincoln,U.S. House,4,Write-In,,0,0,0
+Shelby,Center-Jackson,U.S. House,4,Write-In,,0,0,0
+Shelby,Clay-Monroe,U.S. House,4,Write-In,,0,0,0
+Shelby,Douglas-Polk,U.S. House,4,Write-In,,0,0,0
+Shelby,Fairview-Shelby,U.S. House,4,Write-In,,3,1,2
+Shelby,Greeley-Jefferson,U.S. House,4,Write-In,,0,0,0
+Shelby,Grove-Union-Washington-Westphalia,U.S. House,4,Write-In,,0,0,0
+Shelby,Harlan Ward 1,U.S. House,4,Write-In,,0,0,0
+Shelby,Harlan Ward 2,U.S. House,4,Write-In,,1,0,1
+Shelby,Harlan Ward 3,U.S. House,4,Write-In,,1,0,1
+Shelby,Harlan Ward 4,U.S. House,4,Write-In,,0,0,0
+Shelby,Cass-Lincoln,U.S. Senate,,Ashley Hinson,REP,244,98,146
+Shelby,Center-Jackson,U.S. Senate,,Ashley Hinson,REP,249,103,146
+Shelby,Clay-Monroe,U.S. Senate,,Ashley Hinson,REP,301,99,202
+Shelby,Douglas-Polk,U.S. Senate,,Ashley Hinson,REP,122,41,81
+Shelby,Fairview-Shelby,U.S. Senate,,Ashley Hinson,REP,291,81,210
+Shelby,Greeley-Jefferson,U.S. Senate,,Ashley Hinson,REP,225,34,191
+Shelby,Grove-Union-Washington-Westphalia,U.S. Senate,,Ashley Hinson,REP,517,168,349
+Shelby,Harlan Ward 1,U.S. Senate,,Ashley Hinson,REP,201,101,100
+Shelby,Harlan Ward 2,U.S. Senate,,Ashley Hinson,REP,328,129,199
+Shelby,Harlan Ward 3,U.S. Senate,,Ashley Hinson,REP,333,157,176
+Shelby,Harlan Ward 4,U.S. Senate,,Ashley Hinson,REP,223,103,120
+Shelby,Cass-Lincoln,U.S. Senate,,Josh Turek,DEM,94,58,36
+Shelby,Center-Jackson,U.S. Senate,,Josh Turek,DEM,109,68,41
+Shelby,Clay-Monroe,U.S. Senate,,Josh Turek,DEM,182,53,129
+Shelby,Douglas-Polk,U.S. Senate,,Josh Turek,DEM,50,29,21
+Shelby,Fairview-Shelby,U.S. Senate,,Josh Turek,DEM,181,38,143
+Shelby,Greeley-Jefferson,U.S. Senate,,Josh Turek,DEM,87,24,63
+Shelby,Grove-Union-Washington-Westphalia,U.S. Senate,,Josh Turek,DEM,240,114,126
+Shelby,Harlan Ward 1,U.S. Senate,,Josh Turek,DEM,139,75,64
+Shelby,Harlan Ward 2,U.S. Senate,,Josh Turek,DEM,231,131,100
+Shelby,Harlan Ward 3,U.S. Senate,,Josh Turek,DEM,222,127,95
+Shelby,Harlan Ward 4,U.S. Senate,,Josh Turek,DEM,146,79,67
+Shelby,Cass-Lincoln,U.S. Senate,,Thomas Laehn,LIB,13,5,8
+Shelby,Center-Jackson,U.S. Senate,,Thomas Laehn,LIB,6,3,3
+Shelby,Clay-Monroe,U.S. Senate,,Thomas Laehn,LIB,19,3,16
+Shelby,Douglas-Polk,U.S. Senate,,Thomas Laehn,LIB,4,1,3
+Shelby,Fairview-Shelby,U.S. Senate,,Thomas Laehn,LIB,16,1,15
+Shelby,Greeley-Jefferson,U.S. Senate,,Thomas Laehn,LIB,11,2,9
+Shelby,Grove-Union-Washington-Westphalia,U.S. Senate,,Thomas Laehn,LIB,27,6,21
+Shelby,Harlan Ward 1,U.S. Senate,,Thomas Laehn,LIB,24,6,18
+Shelby,Harlan Ward 2,U.S. Senate,,Thomas Laehn,LIB,14,4,10
+Shelby,Harlan Ward 3,U.S. Senate,,Thomas Laehn,LIB,11,2,9
+Shelby,Harlan Ward 4,U.S. Senate,,Thomas Laehn,LIB,14,4,10
+Shelby,Cass-Lincoln,U.S. Senate,,Write-In,,0,0,0
+Shelby,Center-Jackson,U.S. Senate,,Write-In,,0,0,0
+Shelby,Clay-Monroe,U.S. Senate,,Write-In,,0,0,0
+Shelby,Douglas-Polk,U.S. Senate,,Write-In,,1,0,1
+Shelby,Fairview-Shelby,U.S. Senate,,Write-In,,0,0,0
+Shelby,Greeley-Jefferson,U.S. Senate,,Write-In,,0,0,0
+Shelby,Grove-Union-Washington-Westphalia,U.S. Senate,,Write-In,,0,0,0
+Shelby,Harlan Ward 1,U.S. Senate,,Write-In,,1,0,1
+Shelby,Harlan Ward 2,U.S. Senate,,Write-In,,0,0,0
+Shelby,Harlan Ward 3,U.S. Senate,,Write-In,,1,0,1
+Shelby,Harlan Ward 4,U.S. Senate,,Write-In,,0,0,0
+Shelby,Grove-Union-Washington-Westphalia,Union Township Clerk,,Write-In,,13,4,9
+Shelby,Grove-Union-Washington-Westphalia,Union Township Trustee,,Write-In,,14,4,10
+Shelby,Grove-Union-Washington-Westphalia,Washington Township Clerk,,Write-In,,9,2,7
+Shelby,Grove-Union-Washington-Westphalia,Washington Township Trustee,,Write-In,,12,2,10
+Shelby,Grove-Union-Washington-Westphalia,Westphalia Township Clerk,,Write-In,,11,4,7
+Shelby,Grove-Union-Washington-Westphalia,Westphalia Township Trustee,,Write-In,,13,6,7

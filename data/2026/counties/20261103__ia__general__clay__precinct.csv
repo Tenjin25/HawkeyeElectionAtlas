@@ -1,0 +1,895 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Clay,Douglas-Peterson,Attorney General,,Brenna Bird,REP,233,41,192
+Clay,Garfield-Herdland,Attorney General,,Brenna Bird,REP,148,37,111
+Clay,Lake-Freeman,Attorney General,,Brenna Bird,REP,150,39,111
+Clay,Lincoln-Clay-Lone Tree-Riverton,Attorney General,,Brenna Bird,REP,432,136,296
+Clay,Logan-Gillett Grove,Attorney General,,Brenna Bird,REP,165,33,132
+Clay,Spencer Ward 1,Attorney General,,Brenna Bird,REP,382,188,194
+Clay,Spencer Ward 2,Attorney General,,Brenna Bird,REP,375,149,226
+Clay,Spencer Ward 3,Attorney General,,Brenna Bird,REP,493,225,268
+Clay,Spencer Ward 4,Attorney General,,Brenna Bird,REP,815,402,413
+Clay,Spencer Ward 5,Attorney General,,Brenna Bird,REP,564,292,272
+Clay,Summit-Meadow-Sioux,Attorney General,,Brenna Bird,REP,336,153,183
+Clay,Waterford-City of Everly,Attorney General,,Brenna Bird,REP,213,30,183
+Clay,Douglas-Peterson,Attorney General,,Nate Willems,DEM,86,29,57
+Clay,Garfield-Herdland,Attorney General,,Nate Willems,DEM,39,18,21
+Clay,Lake-Freeman,Attorney General,,Nate Willems,DEM,76,28,48
+Clay,Lincoln-Clay-Lone Tree-Riverton,Attorney General,,Nate Willems,DEM,139,57,82
+Clay,Logan-Gillett Grove,Attorney General,,Nate Willems,DEM,53,19,34
+Clay,Spencer Ward 1,Attorney General,,Nate Willems,DEM,295,143,152
+Clay,Spencer Ward 2,Attorney General,,Nate Willems,DEM,328,177,151
+Clay,Spencer Ward 3,Attorney General,,Nate Willems,DEM,324,170,154
+Clay,Spencer Ward 4,Attorney General,,Nate Willems,DEM,368,225,143
+Clay,Spencer Ward 5,Attorney General,,Nate Willems,DEM,351,215,136
+Clay,Summit-Meadow-Sioux,Attorney General,,Nate Willems,DEM,145,79,66
+Clay,Waterford-City of Everly,Attorney General,,Nate Willems,DEM,67,17,50
+Clay,Douglas-Peterson,Attorney General,,Write-In,,0,0,0
+Clay,Garfield-Herdland,Attorney General,,Write-In,,0,0,0
+Clay,Lake-Freeman,Attorney General,,Write-In,,0,0,0
+Clay,Lincoln-Clay-Lone Tree-Riverton,Attorney General,,Write-In,,0,0,0
+Clay,Logan-Gillett Grove,Attorney General,,Write-In,,0,0,0
+Clay,Spencer Ward 1,Attorney General,,Write-In,,1,0,1
+Clay,Spencer Ward 2,Attorney General,,Write-In,,1,0,1
+Clay,Spencer Ward 3,Attorney General,,Write-In,,0,0,0
+Clay,Spencer Ward 4,Attorney General,,Write-In,,1,0,1
+Clay,Spencer Ward 5,Attorney General,,Write-In,,0,0,0
+Clay,Summit-Meadow-Sioux,Attorney General,,Write-In,,0,0,0
+Clay,Waterford-City of Everly,Attorney General,,Write-In,,0,0,0
+Clay,Douglas-Peterson,Auditor of State,,Chris Cournoyer,REP,235,41,194
+Clay,Garfield-Herdland,Auditor of State,,Chris Cournoyer,REP,145,35,110
+Clay,Lake-Freeman,Auditor of State,,Chris Cournoyer,REP,156,40,116
+Clay,Lincoln-Clay-Lone Tree-Riverton,Auditor of State,,Chris Cournoyer,REP,430,133,297
+Clay,Logan-Gillett Grove,Auditor of State,,Chris Cournoyer,REP,171,38,133
+Clay,Spencer Ward 1,Auditor of State,,Chris Cournoyer,REP,387,191,196
+Clay,Spencer Ward 2,Auditor of State,,Chris Cournoyer,REP,380,148,232
+Clay,Spencer Ward 3,Auditor of State,,Chris Cournoyer,REP,485,211,274
+Clay,Spencer Ward 4,Auditor of State,,Chris Cournoyer,REP,802,390,412
+Clay,Spencer Ward 5,Auditor of State,,Chris Cournoyer,REP,558,280,278
+Clay,Summit-Meadow-Sioux,Auditor of State,,Chris Cournoyer,REP,343,154,189
+Clay,Waterford-City of Everly,Auditor of State,,Chris Cournoyer,REP,207,29,178
+Clay,Douglas-Peterson,Auditor of State,,Taylor Wettach,DEM,75,29,46
+Clay,Garfield-Herdland,Auditor of State,,Taylor Wettach,DEM,38,18,20
+Clay,Lake-Freeman,Auditor of State,,Taylor Wettach,DEM,70,27,43
+Clay,Lincoln-Clay-Lone Tree-Riverton,Auditor of State,,Taylor Wettach,DEM,136,59,77
+Clay,Logan-Gillett Grove,Auditor of State,,Taylor Wettach,DEM,44,16,28
+Clay,Spencer Ward 1,Auditor of State,,Taylor Wettach,DEM,280,132,148
+Clay,Spencer Ward 2,Auditor of State,,Taylor Wettach,DEM,314,172,142
+Clay,Spencer Ward 3,Auditor of State,,Taylor Wettach,DEM,319,176,143
+Clay,Spencer Ward 4,Auditor of State,,Taylor Wettach,DEM,372,229,143
+Clay,Spencer Ward 5,Auditor of State,,Taylor Wettach,DEM,349,221,128
+Clay,Summit-Meadow-Sioux,Auditor of State,,Taylor Wettach,DEM,137,79,58
+Clay,Waterford-City of Everly,Auditor of State,,Taylor Wettach,DEM,75,19,56
+Clay,Douglas-Peterson,Auditor of State,,Write-In,,0,0,0
+Clay,Garfield-Herdland,Auditor of State,,Write-In,,1,1,0
+Clay,Lake-Freeman,Auditor of State,,Write-In,,0,0,0
+Clay,Lincoln-Clay-Lone Tree-Riverton,Auditor of State,,Write-In,,0,0,0
+Clay,Logan-Gillett Grove,Auditor of State,,Write-In,,0,0,0
+Clay,Spencer Ward 1,Auditor of State,,Write-In,,0,0,0
+Clay,Spencer Ward 2,Auditor of State,,Write-In,,1,1,0
+Clay,Spencer Ward 3,Auditor of State,,Write-In,,2,1,1
+Clay,Spencer Ward 4,Auditor of State,,Write-In,,0,0,0
+Clay,Spencer Ward 5,Auditor of State,,Write-In,,0,0,0
+Clay,Summit-Meadow-Sioux,Auditor of State,,Write-In,,1,0,1
+Clay,Waterford-City of Everly,Auditor of State,,Write-In,,0,0,0
+Clay,Lincoln-Clay-Lone Tree-Riverton,Clay Township Clerk,,Alice Roghair,,75,17,58
+Clay,Lincoln-Clay-Lone Tree-Riverton,Clay Township Clerk,,Write-In,,0,0,0
+Clay,Lincoln-Clay-Lone Tree-Riverton,Clay Township Trustee,,Gary Graham,,71,15,56
+Clay,Lincoln-Clay-Lone Tree-Riverton,Clay Township Trustee,,Write-In,,0,0,0
+Clay,Douglas-Peterson,Constitutional Amendment 1,,No,,94,22,72
+Clay,Garfield-Herdland,Constitutional Amendment 1,,No,,55,17,38
+Clay,Lake-Freeman,Constitutional Amendment 1,,No,,71,28,43
+Clay,Lincoln-Clay-Lone Tree-Riverton,Constitutional Amendment 1,,No,,151,51,100
+Clay,Logan-Gillett Grove,Constitutional Amendment 1,,No,,58,14,44
+Clay,Spencer Ward 1,Constitutional Amendment 1,,No,,245,132,113
+Clay,Spencer Ward 2,Constitutional Amendment 1,,No,,248,120,128
+Clay,Spencer Ward 3,Constitutional Amendment 1,,No,,287,143,144
+Clay,Spencer Ward 4,Constitutional Amendment 1,,No,,323,172,151
+Clay,Spencer Ward 5,Constitutional Amendment 1,,No,,305,185,120
+Clay,Summit-Meadow-Sioux,Constitutional Amendment 1,,No,,122,64,58
+Clay,Waterford-City of Everly,Constitutional Amendment 1,,No,,74,11,63
+Clay,Douglas-Peterson,Constitutional Amendment 1,,Yes,,163,36,127
+Clay,Garfield-Herdland,Constitutional Amendment 1,,Yes,,87,22,65
+Clay,Lake-Freeman,Constitutional Amendment 1,,Yes,,112,33,79
+Clay,Lincoln-Clay-Lone Tree-Riverton,Constitutional Amendment 1,,Yes,,296,104,192
+Clay,Logan-Gillett Grove,Constitutional Amendment 1,,Yes,,113,25,88
+Clay,Spencer Ward 1,Constitutional Amendment 1,,Yes,,323,148,175
+Clay,Spencer Ward 2,Constitutional Amendment 1,,Yes,,359,157,202
+Clay,Spencer Ward 3,Constitutional Amendment 1,,Yes,,411,190,221
+Clay,Spencer Ward 4,Constitutional Amendment 1,,Yes,,666,352,314
+Clay,Spencer Ward 5,Constitutional Amendment 1,,Yes,,475,256,219
+Clay,Summit-Meadow-Sioux,Constitutional Amendment 1,,Yes,,276,126,150
+Clay,Waterford-City of Everly,Constitutional Amendment 1,,Yes,,163,28,135
+Clay,Douglas-Peterson,County Agricultural Extension Council Member,,Casey Schomaker,,197,44,153
+Clay,Garfield-Herdland,County Agricultural Extension Council Member,,Casey Schomaker,,109,27,82
+Clay,Lake-Freeman,County Agricultural Extension Council Member,,Casey Schomaker,,137,39,98
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Agricultural Extension Council Member,,Casey Schomaker,,382,128,254
+Clay,Logan-Gillett Grove,County Agricultural Extension Council Member,,Casey Schomaker,,167,41,126
+Clay,Spencer Ward 1,County Agricultural Extension Council Member,,Casey Schomaker,,354,177,177
+Clay,Spencer Ward 2,County Agricultural Extension Council Member,,Casey Schomaker,,395,190,205
+Clay,Spencer Ward 3,County Agricultural Extension Council Member,,Casey Schomaker,,475,225,250
+Clay,Spencer Ward 4,County Agricultural Extension Council Member,,Casey Schomaker,,725,373,352
+Clay,Spencer Ward 5,County Agricultural Extension Council Member,,Casey Schomaker,,546,302,244
+Clay,Summit-Meadow-Sioux,County Agricultural Extension Council Member,,Casey Schomaker,,307,139,168
+Clay,Waterford-City of Everly,County Agricultural Extension Council Member,,Casey Schomaker,,167,23,144
+Clay,Douglas-Peterson,County Agricultural Extension Council Member,,Dirk Benson,,185,44,141
+Clay,Garfield-Herdland,County Agricultural Extension Council Member,,Dirk Benson,,79,20,59
+Clay,Lake-Freeman,County Agricultural Extension Council Member,,Dirk Benson,,130,37,93
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Agricultural Extension Council Member,,Dirk Benson,,359,120,239
+Clay,Logan-Gillett Grove,County Agricultural Extension Council Member,,Dirk Benson,,123,33,90
+Clay,Spencer Ward 1,County Agricultural Extension Council Member,,Dirk Benson,,346,174,172
+Clay,Spencer Ward 2,County Agricultural Extension Council Member,,Dirk Benson,,372,173,199
+Clay,Spencer Ward 3,County Agricultural Extension Council Member,,Dirk Benson,,445,212,233
+Clay,Spencer Ward 4,County Agricultural Extension Council Member,,Dirk Benson,,719,373,346
+Clay,Spencer Ward 5,County Agricultural Extension Council Member,,Dirk Benson,,518,282,236
+Clay,Summit-Meadow-Sioux,County Agricultural Extension Council Member,,Dirk Benson,,313,139,174
+Clay,Waterford-City of Everly,County Agricultural Extension Council Member,,Dirk Benson,,161,23,138
+Clay,Douglas-Peterson,County Agricultural Extension Council Member,,Gary L. Johnson,,186,43,143
+Clay,Garfield-Herdland,County Agricultural Extension Council Member,,Gary L. Johnson,,139,35,104
+Clay,Lake-Freeman,County Agricultural Extension Council Member,,Gary L. Johnson,,139,41,98
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Agricultural Extension Council Member,,Gary L. Johnson,,373,119,254
+Clay,Logan-Gillett Grove,County Agricultural Extension Council Member,,Gary L. Johnson,,153,38,115
+Clay,Spencer Ward 1,County Agricultural Extension Council Member,,Gary L. Johnson,,346,176,170
+Clay,Spencer Ward 2,County Agricultural Extension Council Member,,Gary L. Johnson,,388,180,208
+Clay,Spencer Ward 3,County Agricultural Extension Council Member,,Gary L. Johnson,,460,219,241
+Clay,Spencer Ward 4,County Agricultural Extension Council Member,,Gary L. Johnson,,728,380,348
+Clay,Spencer Ward 5,County Agricultural Extension Council Member,,Gary L. Johnson,,541,298,243
+Clay,Summit-Meadow-Sioux,County Agricultural Extension Council Member,,Gary L. Johnson,,286,130,156
+Clay,Waterford-City of Everly,County Agricultural Extension Council Member,,Gary L. Johnson,,162,24,138
+Clay,Douglas-Peterson,County Agricultural Extension Council Member,,Liz Biedenfeld,,242,52,190
+Clay,Garfield-Herdland,County Agricultural Extension Council Member,,Liz Biedenfeld,,108,24,84
+Clay,Lake-Freeman,County Agricultural Extension Council Member,,Liz Biedenfeld,,138,39,99
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Agricultural Extension Council Member,,Liz Biedenfeld,,426,142,284
+Clay,Logan-Gillett Grove,County Agricultural Extension Council Member,,Liz Biedenfeld,,136,34,102
+Clay,Spencer Ward 1,County Agricultural Extension Council Member,,Liz Biedenfeld,,362,183,179
+Clay,Spencer Ward 2,County Agricultural Extension Council Member,,Liz Biedenfeld,,400,180,220
+Clay,Spencer Ward 3,County Agricultural Extension Council Member,,Liz Biedenfeld,,467,224,243
+Clay,Spencer Ward 4,County Agricultural Extension Council Member,,Liz Biedenfeld,,749,390,359
+Clay,Spencer Ward 5,County Agricultural Extension Council Member,,Liz Biedenfeld,,546,303,243
+Clay,Summit-Meadow-Sioux,County Agricultural Extension Council Member,,Liz Biedenfeld,,296,131,165
+Clay,Waterford-City of Everly,County Agricultural Extension Council Member,,Liz Biedenfeld,,190,29,161
+Clay,Douglas-Peterson,County Agricultural Extension Council Member,,Renee Juza,,180,43,137
+Clay,Garfield-Herdland,County Agricultural Extension Council Member,,Renee Juza,,80,17,63
+Clay,Lake-Freeman,County Agricultural Extension Council Member,,Renee Juza,,143,38,105
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Agricultural Extension Council Member,,Renee Juza,,384,134,250
+Clay,Logan-Gillett Grove,County Agricultural Extension Council Member,,Renee Juza,,139,33,106
+Clay,Spencer Ward 1,County Agricultural Extension Council Member,,Renee Juza,,386,192,194
+Clay,Spencer Ward 2,County Agricultural Extension Council Member,,Renee Juza,,423,186,237
+Clay,Spencer Ward 3,County Agricultural Extension Council Member,,Renee Juza,,507,243,264
+Clay,Spencer Ward 4,County Agricultural Extension Council Member,,Renee Juza,,777,400,377
+Clay,Spencer Ward 5,County Agricultural Extension Council Member,,Renee Juza,,572,322,250
+Clay,Summit-Meadow-Sioux,County Agricultural Extension Council Member,,Renee Juza,,342,159,183
+Clay,Waterford-City of Everly,County Agricultural Extension Council Member,,Renee Juza,,188,35,153
+Clay,Douglas-Peterson,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Clay,Garfield-Herdland,County Agricultural Extension Council Member,,Write-In,,6,4,2
+Clay,Lake-Freeman,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Agricultural Extension Council Member,,Write-In,,3,2,1
+Clay,Logan-Gillett Grove,County Agricultural Extension Council Member,,Write-In,,10,2,8
+Clay,Spencer Ward 1,County Agricultural Extension Council Member,,Write-In,,8,0,8
+Clay,Spencer Ward 2,County Agricultural Extension Council Member,,Write-In,,4,2,2
+Clay,Spencer Ward 3,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Clay,Spencer Ward 4,County Agricultural Extension Council Member,,Write-In,,13,7,6
+Clay,Spencer Ward 5,County Agricultural Extension Council Member,,Write-In,,9,6,3
+Clay,Summit-Meadow-Sioux,County Agricultural Extension Council Member,,Write-In,,7,5,2
+Clay,Waterford-City of Everly,County Agricultural Extension Council Member,,Write-In,,15,5,10
+Clay,Douglas-Peterson,County Attorney,,Travis Sumner Johnson,DEM,208,52,156
+Clay,Garfield-Herdland,County Attorney,,Travis Sumner Johnson,DEM,98,29,69
+Clay,Lake-Freeman,County Attorney,,Travis Sumner Johnson,DEM,161,45,116
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Attorney,,Travis Sumner Johnson,DEM,402,135,267
+Clay,Logan-Gillett Grove,County Attorney,,Travis Sumner Johnson,DEM,155,39,116
+Clay,Spencer Ward 1,County Attorney,,Travis Sumner Johnson,DEM,508,251,257
+Clay,Spencer Ward 2,County Attorney,,Travis Sumner Johnson,DEM,545,261,284
+Clay,Spencer Ward 3,County Attorney,,Travis Sumner Johnson,DEM,636,314,322
+Clay,Spencer Ward 4,County Attorney,,Travis Sumner Johnson,DEM,877,460,417
+Clay,Spencer Ward 5,County Attorney,,Travis Sumner Johnson,DEM,688,377,311
+Clay,Summit-Meadow-Sioux,County Attorney,,Travis Sumner Johnson,DEM,335,164,171
+Clay,Waterford-City of Everly,County Attorney,,Travis Sumner Johnson,DEM,197,33,164
+Clay,Douglas-Peterson,County Attorney,,Write-In,,7,1,6
+Clay,Garfield-Herdland,County Attorney,,Write-In,,6,2,4
+Clay,Lake-Freeman,County Attorney,,Write-In,,7,1,6
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Attorney,,Write-In,,25,12,13
+Clay,Logan-Gillett Grove,County Attorney,,Write-In,,8,2,6
+Clay,Spencer Ward 1,County Attorney,,Write-In,,22,6,16
+Clay,Spencer Ward 2,County Attorney,,Write-In,,16,2,14
+Clay,Spencer Ward 3,County Attorney,,Write-In,,15,4,11
+Clay,Spencer Ward 4,County Attorney,,Write-In,,21,10,11
+Clay,Spencer Ward 5,County Attorney,,Write-In,,15,9,6
+Clay,Summit-Meadow-Sioux,County Attorney,,Write-In,,9,4,5
+Clay,Waterford-City of Everly,County Attorney,,Write-In,,5,1,4
+Clay,Douglas-Peterson,County Board of Supervisors,,Barry G. Anderson,REP,238,48,190
+Clay,Garfield-Herdland,County Board of Supervisors,,Barry G. Anderson,REP,115,32,83
+Clay,Lake-Freeman,County Board of Supervisors,,Barry G. Anderson,REP,153,39,114
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Board of Supervisors,,Barry G. Anderson,REP,435,145,290
+Clay,Logan-Gillett Grove,County Board of Supervisors,,Barry G. Anderson,REP,175,43,132
+Clay,Spencer Ward 1,County Board of Supervisors,,Barry G. Anderson,REP,408,211,197
+Clay,Spencer Ward 2,County Board of Supervisors,,Barry G. Anderson,REP,454,210,244
+Clay,Spencer Ward 3,County Board of Supervisors,,Barry G. Anderson,REP,530,248,282
+Clay,Spencer Ward 4,County Board of Supervisors,,Barry G. Anderson,REP,875,466,409
+Clay,Spencer Ward 5,County Board of Supervisors,,Barry G. Anderson,REP,640,364,276
+Clay,Summit-Meadow-Sioux,County Board of Supervisors,,Barry G. Anderson,REP,357,170,187
+Clay,Waterford-City of Everly,County Board of Supervisors,,Barry G. Anderson,REP,189,29,160
+Clay,Douglas-Peterson,County Board of Supervisors,,Brent W. Trierweiler,REP,236,42,194
+Clay,Garfield-Herdland,County Board of Supervisors,,Brent W. Trierweiler,REP,119,32,87
+Clay,Lake-Freeman,County Board of Supervisors,,Brent W. Trierweiler,REP,149,42,107
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Board of Supervisors,,Brent W. Trierweiler,REP,451,142,309
+Clay,Logan-Gillett Grove,County Board of Supervisors,,Brent W. Trierweiler,REP,151,35,116
+Clay,Spencer Ward 1,County Board of Supervisors,,Brent W. Trierweiler,REP,423,213,210
+Clay,Spencer Ward 2,County Board of Supervisors,,Brent W. Trierweiler,REP,422,189,233
+Clay,Spencer Ward 3,County Board of Supervisors,,Brent W. Trierweiler,REP,509,242,267
+Clay,Spencer Ward 4,County Board of Supervisors,,Brent W. Trierweiler,REP,855,443,412
+Clay,Spencer Ward 5,County Board of Supervisors,,Brent W. Trierweiler,REP,602,338,264
+Clay,Summit-Meadow-Sioux,County Board of Supervisors,,Brent W. Trierweiler,REP,318,144,174
+Clay,Waterford-City of Everly,County Board of Supervisors,,Brent W. Trierweiler,REP,209,32,177
+Clay,Douglas-Peterson,County Board of Supervisors,,Sharon Johannsen,REP,229,52,177
+Clay,Garfield-Herdland,County Board of Supervisors,,Sharon Johannsen,REP,117,33,84
+Clay,Lake-Freeman,County Board of Supervisors,,Sharon Johannsen,REP,160,49,111
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Board of Supervisors,,Sharon Johannsen,REP,419,142,277
+Clay,Logan-Gillett Grove,County Board of Supervisors,,Sharon Johannsen,REP,145,33,112
+Clay,Spencer Ward 1,County Board of Supervisors,,Sharon Johannsen,REP,427,208,219
+Clay,Spencer Ward 2,County Board of Supervisors,,Sharon Johannsen,REP,455,209,246
+Clay,Spencer Ward 3,County Board of Supervisors,,Sharon Johannsen,REP,552,260,292
+Clay,Spencer Ward 4,County Board of Supervisors,,Sharon Johannsen,REP,871,449,422
+Clay,Spencer Ward 5,County Board of Supervisors,,Sharon Johannsen,REP,613,350,263
+Clay,Summit-Meadow-Sioux,County Board of Supervisors,,Sharon Johannsen,REP,353,161,192
+Clay,Waterford-City of Everly,County Board of Supervisors,,Sharon Johannsen,REP,203,28,175
+Clay,Douglas-Peterson,County Board of Supervisors,,Write-In,,7,6,1
+Clay,Garfield-Herdland,County Board of Supervisors,,Write-In,,6,4,2
+Clay,Lake-Freeman,County Board of Supervisors,,Write-In,,4,1,3
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Board of Supervisors,,Write-In,,10,6,4
+Clay,Logan-Gillett Grove,County Board of Supervisors,,Write-In,,9,2,7
+Clay,Spencer Ward 1,County Board of Supervisors,,Write-In,,19,6,13
+Clay,Spencer Ward 2,County Board of Supervisors,,Write-In,,16,7,9
+Clay,Spencer Ward 3,County Board of Supervisors,,Write-In,,28,17,11
+Clay,Spencer Ward 4,County Board of Supervisors,,Write-In,,38,13,25
+Clay,Spencer Ward 5,County Board of Supervisors,,Write-In,,26,14,12
+Clay,Summit-Meadow-Sioux,County Board of Supervisors,,Write-In,,20,7,13
+Clay,Waterford-City of Everly,County Board of Supervisors,,Write-In,,9,3,6
+Clay,Douglas-Peterson,County Recorder,,Sheila Weeks,REP,271,53,218
+Clay,Garfield-Herdland,County Recorder,,Sheila Weeks,REP,162,42,120
+Clay,Lake-Freeman,County Recorder,,Sheila Weeks,REP,194,52,142
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Recorder,,Sheila Weeks,REP,524,172,352
+Clay,Logan-Gillett Grove,County Recorder,,Sheila Weeks,REP,197,44,153
+Clay,Spencer Ward 1,County Recorder,,Sheila Weeks,REP,540,268,272
+Clay,Spencer Ward 2,County Recorder,,Sheila Weeks,REP,570,252,318
+Clay,Spencer Ward 3,County Recorder,,Sheila Weeks,REP,674,318,356
+Clay,Spencer Ward 4,County Recorder,,Sheila Weeks,REP,1056,543,513
+Clay,Spencer Ward 5,County Recorder,,Sheila Weeks,REP,780,425,355
+Clay,Summit-Meadow-Sioux,County Recorder,,Sheila Weeks,REP,419,191,228
+Clay,Waterford-City of Everly,County Recorder,,Sheila Weeks,REP,260,39,221
+Clay,Douglas-Peterson,County Recorder,,Write-In,,3,3,0
+Clay,Garfield-Herdland,County Recorder,,Write-In,,1,1,0
+Clay,Lake-Freeman,County Recorder,,Write-In,,0,0,0
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Recorder,,Write-In,,2,2,0
+Clay,Logan-Gillett Grove,County Recorder,,Write-In,,0,0,0
+Clay,Spencer Ward 1,County Recorder,,Write-In,,5,2,3
+Clay,Spencer Ward 2,County Recorder,,Write-In,,9,2,7
+Clay,Spencer Ward 3,County Recorder,,Write-In,,11,3,8
+Clay,Spencer Ward 4,County Recorder,,Write-In,,9,3,6
+Clay,Spencer Ward 5,County Recorder,,Write-In,,11,6,5
+Clay,Summit-Meadow-Sioux,County Recorder,,Write-In,,4,3,1
+Clay,Waterford-City of Everly,County Recorder,,Write-In,,0,0,0
+Clay,Douglas-Peterson,County Treasurer,,LeAnn Black,REP,283,56,227
+Clay,Garfield-Herdland,County Treasurer,,LeAnn Black,REP,170,46,124
+Clay,Lake-Freeman,County Treasurer,,LeAnn Black,REP,203,55,148
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Treasurer,,LeAnn Black,REP,542,177,365
+Clay,Logan-Gillett Grove,County Treasurer,,LeAnn Black,REP,204,49,155
+Clay,Spencer Ward 1,County Treasurer,,LeAnn Black,REP,554,275,279
+Clay,Spencer Ward 2,County Treasurer,,LeAnn Black,REP,594,263,331
+Clay,Spencer Ward 3,County Treasurer,,LeAnn Black,REP,697,331,366
+Clay,Spencer Ward 4,County Treasurer,,LeAnn Black,REP,1072,559,513
+Clay,Spencer Ward 5,County Treasurer,,LeAnn Black,REP,799,438,361
+Clay,Summit-Meadow-Sioux,County Treasurer,,LeAnn Black,REP,443,204,239
+Clay,Waterford-City of Everly,County Treasurer,,LeAnn Black,REP,268,44,224
+Clay,Douglas-Peterson,County Treasurer,,Write-In,,4,4,0
+Clay,Garfield-Herdland,County Treasurer,,Write-In,,1,1,0
+Clay,Lake-Freeman,County Treasurer,,Write-In,,1,0,1
+Clay,Lincoln-Clay-Lone Tree-Riverton,County Treasurer,,Write-In,,3,2,1
+Clay,Logan-Gillett Grove,County Treasurer,,Write-In,,0,0,0
+Clay,Spencer Ward 1,County Treasurer,,Write-In,,6,3,3
+Clay,Spencer Ward 2,County Treasurer,,Write-In,,7,2,5
+Clay,Spencer Ward 3,County Treasurer,,Write-In,,11,5,6
+Clay,Spencer Ward 4,County Treasurer,,Write-In,,11,3,8
+Clay,Spencer Ward 5,County Treasurer,,Write-In,,12,6,6
+Clay,Summit-Meadow-Sioux,County Treasurer,,Write-In,,1,1,0
+Clay,Waterford-City of Everly,County Treasurer,,Write-In,,0,0,0
+Clay,Douglas-Peterson,Court of Appeals Judge - John M. Sandy,,No,,54,18,36
+Clay,Garfield-Herdland,Court of Appeals Judge - John M. Sandy,,No,,23,10,13
+Clay,Lake-Freeman,Court of Appeals Judge - John M. Sandy,,No,,30,7,23
+Clay,Lincoln-Clay-Lone Tree-Riverton,Court of Appeals Judge - John M. Sandy,,No,,78,26,52
+Clay,Logan-Gillett Grove,Court of Appeals Judge - John M. Sandy,,No,,30,5,25
+Clay,Spencer Ward 1,Court of Appeals Judge - John M. Sandy,,No,,84,45,39
+Clay,Spencer Ward 2,Court of Appeals Judge - John M. Sandy,,No,,100,45,55
+Clay,Spencer Ward 3,Court of Appeals Judge - John M. Sandy,,No,,115,51,64
+Clay,Spencer Ward 4,Court of Appeals Judge - John M. Sandy,,No,,110,58,52
+Clay,Spencer Ward 5,Court of Appeals Judge - John M. Sandy,,No,,107,52,55
+Clay,Summit-Meadow-Sioux,Court of Appeals Judge - John M. Sandy,,No,,55,17,38
+Clay,Waterford-City of Everly,Court of Appeals Judge - John M. Sandy,,No,,38,9,29
+Clay,Douglas-Peterson,Court of Appeals Judge - John M. Sandy,,Yes,,174,34,140
+Clay,Garfield-Herdland,Court of Appeals Judge - John M. Sandy,,Yes,,80,24,56
+Clay,Lake-Freeman,Court of Appeals Judge - John M. Sandy,,Yes,,150,46,104
+Clay,Lincoln-Clay-Lone Tree-Riverton,Court of Appeals Judge - John M. Sandy,,Yes,,369,120,249
+Clay,Logan-Gillett Grove,Court of Appeals Judge - John M. Sandy,,Yes,,137,30,107
+Clay,Spencer Ward 1,Court of Appeals Judge - John M. Sandy,,Yes,,414,206,208
+Clay,Spencer Ward 2,Court of Appeals Judge - John M. Sandy,,Yes,,465,209,256
+Clay,Spencer Ward 3,Court of Appeals Judge - John M. Sandy,,Yes,,547,252,295
+Clay,Spencer Ward 4,Court of Appeals Judge - John M. Sandy,,Yes,,852,426,426
+Clay,Spencer Ward 5,Court of Appeals Judge - John M. Sandy,,Yes,,600,331,269
+Clay,Summit-Meadow-Sioux,Court of Appeals Judge - John M. Sandy,,Yes,,337,166,171
+Clay,Waterford-City of Everly,Court of Appeals Judge - John M. Sandy,,Yes,,180,27,153
+Clay,Douglas-Peterson,Court of Appeals Judge - Julie A. Schumacher,,No,,48,15,33
+Clay,Garfield-Herdland,Court of Appeals Judge - Julie A. Schumacher,,No,,25,9,16
+Clay,Lake-Freeman,Court of Appeals Judge - Julie A. Schumacher,,No,,25,6,19
+Clay,Lincoln-Clay-Lone Tree-Riverton,Court of Appeals Judge - Julie A. Schumacher,,No,,85,29,56
+Clay,Logan-Gillett Grove,Court of Appeals Judge - Julie A. Schumacher,,No,,33,5,28
+Clay,Spencer Ward 1,Court of Appeals Judge - Julie A. Schumacher,,No,,73,34,39
+Clay,Spencer Ward 2,Court of Appeals Judge - Julie A. Schumacher,,No,,76,33,43
+Clay,Spencer Ward 3,Court of Appeals Judge - Julie A. Schumacher,,No,,110,48,62
+Clay,Spencer Ward 4,Court of Appeals Judge - Julie A. Schumacher,,No,,89,43,46
+Clay,Spencer Ward 5,Court of Appeals Judge - Julie A. Schumacher,,No,,86,47,39
+Clay,Summit-Meadow-Sioux,Court of Appeals Judge - Julie A. Schumacher,,No,,56,17,39
+Clay,Waterford-City of Everly,Court of Appeals Judge - Julie A. Schumacher,,No,,34,7,27
+Clay,Douglas-Peterson,Court of Appeals Judge - Julie A. Schumacher,,Yes,,172,35,137
+Clay,Garfield-Herdland,Court of Appeals Judge - Julie A. Schumacher,,Yes,,72,25,47
+Clay,Lake-Freeman,Court of Appeals Judge - Julie A. Schumacher,,Yes,,138,41,97
+Clay,Lincoln-Clay-Lone Tree-Riverton,Court of Appeals Judge - Julie A. Schumacher,,Yes,,329,106,223
+Clay,Logan-Gillett Grove,Court of Appeals Judge - Julie A. Schumacher,,Yes,,124,25,99
+Clay,Spencer Ward 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,394,202,192
+Clay,Spencer Ward 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,455,203,252
+Clay,Spencer Ward 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,507,234,273
+Clay,Spencer Ward 4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,797,401,396
+Clay,Spencer Ward 5,Court of Appeals Judge - Julie A. Schumacher,,Yes,,574,309,265
+Clay,Summit-Meadow-Sioux,Court of Appeals Judge - Julie A. Schumacher,,Yes,,291,135,156
+Clay,Waterford-City of Everly,Court of Appeals Judge - Julie A. Schumacher,,Yes,,174,25,149
+Clay,Douglas-Peterson,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,60,16,44
+Clay,Garfield-Herdland,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,34,13,21
+Clay,Lake-Freeman,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,40,8,32
+Clay,Lincoln-Clay-Lone Tree-Riverton,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,101,34,67
+Clay,Logan-Gillett Grove,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,42,7,35
+Clay,Spencer Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,92,36,56
+Clay,Spencer Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,108,45,63
+Clay,Spencer Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,135,56,79
+Clay,Spencer Ward 4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,156,78,78
+Clay,Spencer Ward 5,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,121,59,62
+Clay,Summit-Meadow-Sioux,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,66,20,46
+Clay,Waterford-City of Everly,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,51,8,43
+Clay,Douglas-Peterson,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,158,33,125
+Clay,Garfield-Herdland,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,59,18,41
+Clay,Lake-Freeman,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,124,40,84
+Clay,Lincoln-Clay-Lone Tree-Riverton,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,315,105,210
+Clay,Logan-Gillett Grove,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,114,22,92
+Clay,Spencer Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,375,201,174
+Clay,Spencer Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,434,198,236
+Clay,Spencer Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,489,234,255
+Clay,Spencer Ward 4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,742,371,371
+Clay,Spencer Ward 5,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,543,308,235
+Clay,Summit-Meadow-Sioux,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,292,140,152
+Clay,Waterford-City of Everly,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,157,26,131
+Clay,Douglas-Peterson,District 3A Associate Judge - Jennifer Bennett Finn,,No,,48,16,32
+Clay,Garfield-Herdland,District 3A Associate Judge - Jennifer Bennett Finn,,No,,26,9,17
+Clay,Lake-Freeman,District 3A Associate Judge - Jennifer Bennett Finn,,No,,29,7,22
+Clay,Lincoln-Clay-Lone Tree-Riverton,District 3A Associate Judge - Jennifer Bennett Finn,,No,,81,28,53
+Clay,Logan-Gillett Grove,District 3A Associate Judge - Jennifer Bennett Finn,,No,,33,4,29
+Clay,Spencer Ward 1,District 3A Associate Judge - Jennifer Bennett Finn,,No,,72,30,42
+Clay,Spencer Ward 2,District 3A Associate Judge - Jennifer Bennett Finn,,No,,83,34,49
+Clay,Spencer Ward 3,District 3A Associate Judge - Jennifer Bennett Finn,,No,,101,43,58
+Clay,Spencer Ward 4,District 3A Associate Judge - Jennifer Bennett Finn,,No,,115,59,56
+Clay,Spencer Ward 5,District 3A Associate Judge - Jennifer Bennett Finn,,No,,100,51,49
+Clay,Summit-Meadow-Sioux,District 3A Associate Judge - Jennifer Bennett Finn,,No,,56,18,38
+Clay,Waterford-City of Everly,District 3A Associate Judge - Jennifer Bennett Finn,,No,,46,9,37
+Clay,Douglas-Peterson,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,168,32,136
+Clay,Garfield-Herdland,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,63,22,41
+Clay,Lake-Freeman,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,133,42,91
+Clay,Lincoln-Clay-Lone Tree-Riverton,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,327,104,223
+Clay,Logan-Gillett Grove,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,118,23,95
+Clay,Spencer Ward 1,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,391,201,190
+Clay,Spencer Ward 2,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,436,190,246
+Clay,Spencer Ward 3,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,508,239,269
+Clay,Spencer Ward 4,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,748,374,374
+Clay,Spencer Ward 5,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,546,300,246
+Clay,Summit-Meadow-Sioux,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,283,128,155
+Clay,Waterford-City of Everly,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,162,25,137
+Clay,Douglas-Peterson,District 3A Associate Judge - Kristi Busse,,No,,45,13,32
+Clay,Garfield-Herdland,District 3A Associate Judge - Kristi Busse,,No,,26,12,14
+Clay,Lake-Freeman,District 3A Associate Judge - Kristi Busse,,No,,30,9,21
+Clay,Lincoln-Clay-Lone Tree-Riverton,District 3A Associate Judge - Kristi Busse,,No,,74,24,50
+Clay,Logan-Gillett Grove,District 3A Associate Judge - Kristi Busse,,No,,27,1,26
+Clay,Spencer Ward 1,District 3A Associate Judge - Kristi Busse,,No,,77,32,45
+Clay,Spencer Ward 2,District 3A Associate Judge - Kristi Busse,,No,,73,35,38
+Clay,Spencer Ward 3,District 3A Associate Judge - Kristi Busse,,No,,110,50,60
+Clay,Spencer Ward 4,District 3A Associate Judge - Kristi Busse,,No,,87,49,38
+Clay,Spencer Ward 5,District 3A Associate Judge - Kristi Busse,,No,,85,50,35
+Clay,Summit-Meadow-Sioux,District 3A Associate Judge - Kristi Busse,,No,,43,12,31
+Clay,Waterford-City of Everly,District 3A Associate Judge - Kristi Busse,,No,,39,9,30
+Clay,Douglas-Peterson,District 3A Associate Judge - Kristi Busse,,Yes,,173,36,137
+Clay,Garfield-Herdland,District 3A Associate Judge - Kristi Busse,,Yes,,64,20,44
+Clay,Lake-Freeman,District 3A Associate Judge - Kristi Busse,,Yes,,136,42,94
+Clay,Lincoln-Clay-Lone Tree-Riverton,District 3A Associate Judge - Kristi Busse,,Yes,,356,120,236
+Clay,Logan-Gillett Grove,District 3A Associate Judge - Kristi Busse,,Yes,,133,30,103
+Clay,Spencer Ward 1,District 3A Associate Judge - Kristi Busse,,Yes,,409,209,200
+Clay,Spencer Ward 2,District 3A Associate Judge - Kristi Busse,,Yes,,455,201,254
+Clay,Spencer Ward 3,District 3A Associate Judge - Kristi Busse,,Yes,,535,250,285
+Clay,Spencer Ward 4,District 3A Associate Judge - Kristi Busse,,Yes,,834,415,419
+Clay,Spencer Ward 5,District 3A Associate Judge - Kristi Busse,,Yes,,593,319,274
+Clay,Summit-Meadow-Sioux,District 3A Associate Judge - Kristi Busse,,Yes,,324,148,176
+Clay,Waterford-City of Everly,District 3A Associate Judge - Kristi Busse,,Yes,,173,26,147
+Clay,Douglas-Peterson,District 3A Judge - Adam Miller,,No,,47,15,32
+Clay,Garfield-Herdland,District 3A Judge - Adam Miller,,No,,22,9,13
+Clay,Lake-Freeman,District 3A Judge - Adam Miller,,No,,30,6,24
+Clay,Lincoln-Clay-Lone Tree-Riverton,District 3A Judge - Adam Miller,,No,,80,25,55
+Clay,Logan-Gillett Grove,District 3A Judge - Adam Miller,,No,,33,5,28
+Clay,Spencer Ward 1,District 3A Judge - Adam Miller,,No,,85,42,43
+Clay,Spencer Ward 2,District 3A Judge - Adam Miller,,No,,83,32,51
+Clay,Spencer Ward 3,District 3A Judge - Adam Miller,,No,,105,44,61
+Clay,Spencer Ward 4,District 3A Judge - Adam Miller,,No,,100,51,49
+Clay,Spencer Ward 5,District 3A Judge - Adam Miller,,No,,99,55,44
+Clay,Summit-Meadow-Sioux,District 3A Judge - Adam Miller,,No,,53,16,37
+Clay,Waterford-City of Everly,District 3A Judge - Adam Miller,,No,,37,9,28
+Clay,Douglas-Peterson,District 3A Judge - Adam Miller,,Yes,,165,31,134
+Clay,Garfield-Herdland,District 3A Judge - Adam Miller,,Yes,,66,21,45
+Clay,Lake-Freeman,District 3A Judge - Adam Miller,,Yes,,126,41,85
+Clay,Lincoln-Clay-Lone Tree-Riverton,District 3A Judge - Adam Miller,,Yes,,319,103,216
+Clay,Logan-Gillett Grove,District 3A Judge - Adam Miller,,Yes,,119,23,96
+Clay,Spencer Ward 1,District 3A Judge - Adam Miller,,Yes,,369,186,183
+Clay,Spencer Ward 2,District 3A Judge - Adam Miller,,Yes,,432,194,238
+Clay,Spencer Ward 3,District 3A Judge - Adam Miller,,Yes,,495,229,266
+Clay,Spencer Ward 4,District 3A Judge - Adam Miller,,Yes,,766,386,380
+Clay,Spencer Ward 5,District 3A Judge - Adam Miller,,Yes,,539,295,244
+Clay,Summit-Meadow-Sioux,District 3A Judge - Adam Miller,,Yes,,282,129,153
+Clay,Waterford-City of Everly,District 3A Judge - Adam Miller,,Yes,,166,25,141
+Clay,Douglas-Peterson,District 3A Judge - Andrew J. Smith,,No,,51,19,32
+Clay,Garfield-Herdland,District 3A Judge - Andrew J. Smith,,No,,25,9,16
+Clay,Lake-Freeman,District 3A Judge - Andrew J. Smith,,No,,28,5,23
+Clay,Lincoln-Clay-Lone Tree-Riverton,District 3A Judge - Andrew J. Smith,,No,,78,26,52
+Clay,Logan-Gillett Grove,District 3A Judge - Andrew J. Smith,,No,,35,3,32
+Clay,Spencer Ward 1,District 3A Judge - Andrew J. Smith,,No,,77,38,39
+Clay,Spencer Ward 2,District 3A Judge - Andrew J. Smith,,No,,82,36,46
+Clay,Spencer Ward 3,District 3A Judge - Andrew J. Smith,,No,,113,50,63
+Clay,Spencer Ward 4,District 3A Judge - Andrew J. Smith,,No,,111,54,57
+Clay,Spencer Ward 5,District 3A Judge - Andrew J. Smith,,No,,93,46,47
+Clay,Summit-Meadow-Sioux,District 3A Judge - Andrew J. Smith,,No,,56,18,38
+Clay,Waterford-City of Everly,District 3A Judge - Andrew J. Smith,,No,,43,10,33
+Clay,Douglas-Peterson,District 3A Judge - Andrew J. Smith,,Yes,,164,27,137
+Clay,Garfield-Herdland,District 3A Judge - Andrew J. Smith,,Yes,,66,23,43
+Clay,Lake-Freeman,District 3A Judge - Andrew J. Smith,,Yes,,132,44,88
+Clay,Lincoln-Clay-Lone Tree-Riverton,District 3A Judge - Andrew J. Smith,,Yes,,330,103,227
+Clay,Logan-Gillett Grove,District 3A Judge - Andrew J. Smith,,Yes,,120,26,94
+Clay,Spencer Ward 1,District 3A Judge - Andrew J. Smith,,Yes,,384,190,194
+Clay,Spencer Ward 2,District 3A Judge - Andrew J. Smith,,Yes,,447,196,251
+Clay,Spencer Ward 3,District 3A Judge - Andrew J. Smith,,Yes,,496,228,268
+Clay,Spencer Ward 4,District 3A Judge - Andrew J. Smith,,Yes,,761,385,376
+Clay,Spencer Ward 5,District 3A Judge - Andrew J. Smith,,Yes,,554,305,249
+Clay,Summit-Meadow-Sioux,District 3A Judge - Andrew J. Smith,,Yes,,284,129,155
+Clay,Waterford-City of Everly,District 3A Judge - Andrew J. Smith,,Yes,,166,24,142
+Clay,Douglas-Peterson,District 3A Judge - Carl J. Petersen,,No,,45,14,31
+Clay,Garfield-Herdland,District 3A Judge - Carl J. Petersen,,No,,25,11,14
+Clay,Lake-Freeman,District 3A Judge - Carl J. Petersen,,No,,34,6,28
+Clay,Lincoln-Clay-Lone Tree-Riverton,District 3A Judge - Carl J. Petersen,,No,,73,24,49
+Clay,Logan-Gillett Grove,District 3A Judge - Carl J. Petersen,,No,,35,5,30
+Clay,Spencer Ward 1,District 3A Judge - Carl J. Petersen,,No,,88,46,42
+Clay,Spencer Ward 2,District 3A Judge - Carl J. Petersen,,No,,86,34,52
+Clay,Spencer Ward 3,District 3A Judge - Carl J. Petersen,,No,,99,43,56
+Clay,Spencer Ward 4,District 3A Judge - Carl J. Petersen,,No,,112,52,60
+Clay,Spencer Ward 5,District 3A Judge - Carl J. Petersen,,No,,94,46,48
+Clay,Summit-Meadow-Sioux,District 3A Judge - Carl J. Petersen,,No,,55,17,38
+Clay,Waterford-City of Everly,District 3A Judge - Carl J. Petersen,,No,,41,10,31
+Clay,Douglas-Peterson,District 3A Judge - Carl J. Petersen,,Yes,,168,31,137
+Clay,Garfield-Herdland,District 3A Judge - Carl J. Petersen,,Yes,,62,19,43
+Clay,Lake-Freeman,District 3A Judge - Carl J. Petersen,,Yes,,124,42,82
+Clay,Lincoln-Clay-Lone Tree-Riverton,District 3A Judge - Carl J. Petersen,,Yes,,329,102,227
+Clay,Logan-Gillett Grove,District 3A Judge - Carl J. Petersen,,Yes,,118,24,94
+Clay,Spencer Ward 1,District 3A Judge - Carl J. Petersen,,Yes,,368,185,183
+Clay,Spencer Ward 2,District 3A Judge - Carl J. Petersen,,Yes,,436,198,238
+Clay,Spencer Ward 3,District 3A Judge - Carl J. Petersen,,Yes,,505,236,269
+Clay,Spencer Ward 4,District 3A Judge - Carl J. Petersen,,Yes,,765,384,381
+Clay,Spencer Ward 5,District 3A Judge - Carl J. Petersen,,Yes,,547,302,245
+Clay,Summit-Meadow-Sioux,District 3A Judge - Carl J. Petersen,,Yes,,281,130,151
+Clay,Waterford-City of Everly,District 3A Judge - Carl J. Petersen,,Yes,,163,24,139
+Clay,Douglas-Peterson,District 3A Judge - Charles Borth,,No,,43,11,32
+Clay,Garfield-Herdland,District 3A Judge - Charles Borth,,No,,21,9,12
+Clay,Lake-Freeman,District 3A Judge - Charles Borth,,No,,30,6,24
+Clay,Lincoln-Clay-Lone Tree-Riverton,District 3A Judge - Charles Borth,,No,,79,28,51
+Clay,Logan-Gillett Grove,District 3A Judge - Charles Borth,,No,,27,7,20
+Clay,Spencer Ward 1,District 3A Judge - Charles Borth,,No,,80,40,40
+Clay,Spencer Ward 2,District 3A Judge - Charles Borth,,No,,97,44,53
+Clay,Spencer Ward 3,District 3A Judge - Charles Borth,,No,,96,42,54
+Clay,Spencer Ward 4,District 3A Judge - Charles Borth,,No,,94,50,44
+Clay,Spencer Ward 5,District 3A Judge - Charles Borth,,No,,92,49,43
+Clay,Summit-Meadow-Sioux,District 3A Judge - Charles Borth,,No,,49,15,34
+Clay,Waterford-City of Everly,District 3A Judge - Charles Borth,,No,,50,10,40
+Clay,Douglas-Peterson,District 3A Judge - Charles Borth,,Yes,,172,36,136
+Clay,Garfield-Herdland,District 3A Judge - Charles Borth,,Yes,,75,23,52
+Clay,Lake-Freeman,District 3A Judge - Charles Borth,,Yes,,134,42,92
+Clay,Lincoln-Clay-Lone Tree-Riverton,District 3A Judge - Charles Borth,,Yes,,357,118,239
+Clay,Logan-Gillett Grove,District 3A Judge - Charles Borth,,Yes,,132,27,105
+Clay,Spencer Ward 1,District 3A Judge - Charles Borth,,Yes,,416,202,214
+Clay,Spencer Ward 2,District 3A Judge - Charles Borth,,Yes,,461,207,254
+Clay,Spencer Ward 3,District 3A Judge - Charles Borth,,Yes,,567,268,299
+Clay,Spencer Ward 4,District 3A Judge - Charles Borth,,Yes,,870,437,433
+Clay,Spencer Ward 5,District 3A Judge - Charles Borth,,Yes,,609,332,277
+Clay,Summit-Meadow-Sioux,District 3A Judge - Charles Borth,,Yes,,336,159,177
+Clay,Waterford-City of Everly,District 3A Judge - Charles Borth,,Yes,,168,24,144
+Clay,Douglas-Peterson,Douglas Township Clerk,,Marcia Larson,,87,28,59
+Clay,Douglas-Peterson,Douglas Township Clerk,,Write-In,,0,0,0
+Clay,Douglas-Peterson,Douglas Township Trustee,,Stewart Lewis,,87,30,57
+Clay,Douglas-Peterson,Douglas Township Trustee,,Write-In,,4,0,4
+Clay,Lake-Freeman,Freeman Township Clerk,,Nick Sorenson,,92,32,60
+Clay,Lake-Freeman,Freeman Township Clerk,,Write-In,,0,0,0
+Clay,Lake-Freeman,Freeman Township Trustee,,Ryan Hoffman,,89,30,59
+Clay,Lake-Freeman,Freeman Township Trustee,,Write-In,,1,0,1
+Clay,Garfield-Herdland,Garfield Township Clerk,,Karen Greene,,51,9,42
+Clay,Garfield-Herdland,Garfield Township Clerk,,Write-In,,0,0,0
+Clay,Garfield-Herdland,Garfield Township Trustee,,Wayne Williams,,41,9,32
+Clay,Garfield-Herdland,Garfield Township Trustee,,Write-In,,0,0,0
+Clay,Logan-Gillett Grove,Gillett Grove Township Clerk,,Janel Maurer,,109,27,82
+Clay,Logan-Gillett Grove,Gillett Grove Township Clerk,,Write-In,,0,0,0
+Clay,Logan-Gillett Grove,Gillett Grove Township Trustee,,John Hargens,,109,27,82
+Clay,Logan-Gillett Grove,Gillett Grove Township Trustee,,Write-In,,0,0,0
+Clay,Douglas-Peterson,Governor,,Rob Sand and Dave Muhlbauer,DEM,97,34,63
+Clay,Garfield-Herdland,Governor,,Rob Sand and Dave Muhlbauer,DEM,55,23,32
+Clay,Lake-Freeman,Governor,,Rob Sand and Dave Muhlbauer,DEM,82,29,53
+Clay,Lincoln-Clay-Lone Tree-Riverton,Governor,,Rob Sand and Dave Muhlbauer,DEM,168,68,100
+Clay,Logan-Gillett Grove,Governor,,Rob Sand and Dave Muhlbauer,DEM,54,22,32
+Clay,Spencer Ward 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,328,158,170
+Clay,Spencer Ward 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,366,192,174
+Clay,Spencer Ward 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,381,197,184
+Clay,Spencer Ward 4,Governor,,Rob Sand and Dave Muhlbauer,DEM,467,272,195
+Clay,Spencer Ward 5,Governor,,Rob Sand and Dave Muhlbauer,DEM,425,256,169
+Clay,Summit-Meadow-Sioux,Governor,,Rob Sand and Dave Muhlbauer,DEM,173,99,74
+Clay,Waterford-City of Everly,Governor,,Rob Sand and Dave Muhlbauer,DEM,94,22,72
+Clay,Douglas-Peterson,Governor,,Write-In,,0,0,0
+Clay,Garfield-Herdland,Governor,,Write-In,,1,1,0
+Clay,Lake-Freeman,Governor,,Write-In,,0,0,0
+Clay,Lincoln-Clay-Lone Tree-Riverton,Governor,,Write-In,,0,0,0
+Clay,Logan-Gillett Grove,Governor,,Write-In,,1,0,1
+Clay,Spencer Ward 1,Governor,,Write-In,,0,0,0
+Clay,Spencer Ward 2,Governor,,Write-In,,1,0,1
+Clay,Spencer Ward 3,Governor,,Write-In,,0,0,0
+Clay,Spencer Ward 4,Governor,,Write-In,,0,0,0
+Clay,Spencer Ward 5,Governor,,Write-In,,1,1,0
+Clay,Summit-Meadow-Sioux,Governor,,Write-In,,2,1,1
+Clay,Waterford-City of Everly,Governor,,Write-In,,2,0,2
+Clay,Douglas-Peterson,Governor,,Zach Lahn and Derek Wulf,REP,232,37,195
+Clay,Garfield-Herdland,Governor,,Zach Lahn and Derek Wulf,REP,136,32,104
+Clay,Lake-Freeman,Governor,,Zach Lahn and Derek Wulf,REP,153,40,113
+Clay,Lincoln-Clay-Lone Tree-Riverton,Governor,,Zach Lahn and Derek Wulf,REP,418,129,289
+Clay,Logan-Gillett Grove,Governor,,Zach Lahn and Derek Wulf,REP,167,34,133
+Clay,Spencer Ward 1,Governor,,Zach Lahn and Derek Wulf,REP,366,175,191
+Clay,Spencer Ward 2,Governor,,Zach Lahn and Derek Wulf,REP,358,142,216
+Clay,Spencer Ward 3,Governor,,Zach Lahn and Derek Wulf,REP,447,203,244
+Clay,Spencer Ward 4,Governor,,Zach Lahn and Derek Wulf,REP,746,370,376
+Clay,Spencer Ward 5,Governor,,Zach Lahn and Derek Wulf,REP,511,259,252
+Clay,Summit-Meadow-Sioux,Governor,,Zach Lahn and Derek Wulf,REP,322,142,180
+Clay,Waterford-City of Everly,Governor,,Zach Lahn and Derek Wulf,REP,194,27,167
+Clay,Garfield-Herdland,Herdland Township Clerk,,Jerod Olson,,4,0,4
+Clay,Garfield-Herdland,Herdland Township Clerk,,Write-In,,5,2,3
+Clay,Garfield-Herdland,Herdland Township Trustee,,Kyle Patten,,78,27,51
+Clay,Garfield-Herdland,Herdland Township Trustee,,Write-In,,1,1,0
+Clay,Lake-Freeman,Lake Township Clerk,,Jim T. Eldridge,,66,24,42
+Clay,Lake-Freeman,Lake Township Clerk,,Write-In,,0,0,0
+Clay,Lake-Freeman,Lake Township Trustee,,Craig VonEhwegen,,68,24,44
+Clay,Lake-Freeman,Lake Township Trustee,,Write-In,,0,0,0
+Clay,Lincoln-Clay-Lone Tree-Riverton,Lincoln Township Clerk,,Write-In,,3,1,2
+Clay,Lincoln-Clay-Lone Tree-Riverton,Lincoln Township Trustee,,Matt Hagedorn,,82,32,50
+Clay,Lincoln-Clay-Lone Tree-Riverton,Lincoln Township Trustee,,Write-In,,2,0,2
+Clay,Logan-Gillett Grove,Logan Township Clerk,,Jeff Chalstrom,,3,2,1
+Clay,Logan-Gillett Grove,Logan Township Clerk,,Write-In,,2,1,1
+Clay,Logan-Gillett Grove,Logan Township Trustee,,Brett Smith,,54,22,32
+Clay,Logan-Gillett Grove,Logan Township Trustee,,Write-In,,1,0,1
+Clay,Lincoln-Clay-Lone Tree-Riverton,Lone Tree Township Clerk,,Kathy Day,,83,32,51
+Clay,Lincoln-Clay-Lone Tree-Riverton,Lone Tree Township Clerk,,Write-In,,0,0,0
+Clay,Lincoln-Clay-Lone Tree-Riverton,Lone Tree Township Trustee,,Keith R. Kruse,,81,31,50
+Clay,Lincoln-Clay-Lone Tree-Riverton,Lone Tree Township Trustee,,Write-In,,0,0,0
+Clay,Summit-Meadow-Sioux,Meadow Township Clerk,,Kimberley Maclean,,123,62,61
+Clay,Summit-Meadow-Sioux,Meadow Township Clerk,,Write-In,,0,0,0
+Clay,Summit-Meadow-Sioux,Meadow Township Trustee,,Ken Lawrence,,127,66,61
+Clay,Summit-Meadow-Sioux,Meadow Township Trustee,,Write-In,,0,0,0
+Clay,Douglas-Peterson,Peterson Township Clerk,,Sara Sickelka,,2,0,2
+Clay,Douglas-Peterson,Peterson Township Clerk,,Write-In,,7,2,5
+Clay,Douglas-Peterson,Peterson Township Trustee,,Mike Nims,,68,11,57
+Clay,Douglas-Peterson,Peterson Township Trustee,,Write-In,,0,0,0
+Clay,Lincoln-Clay-Lone Tree-Riverton,Riverton Township Clerk,,Michael Johnson,,118,68,50
+Clay,Spencer Ward 4,Riverton Township Clerk,,Michael Johnson,,3,1,2
+Clay,Lincoln-Clay-Lone Tree-Riverton,Riverton Township Clerk,,Write-In,,2,2,0
+Clay,Spencer Ward 4,Riverton Township Clerk,,Write-In,,0,0,0
+Clay,Lincoln-Clay-Lone Tree-Riverton,Riverton Township Trustee,,David Larsen,,122,69,53
+Clay,Spencer Ward 4,Riverton Township Trustee,,David Larsen,,3,1,2
+Clay,Lincoln-Clay-Lone Tree-Riverton,Riverton Township Trustee,,Write-In,,2,2,0
+Clay,Spencer Ward 4,Riverton Township Trustee,,Write-In,,0,0,0
+Clay,Douglas-Peterson,Secretary of Agriculture,,Chris Jones,DEM,72,27,45
+Clay,Garfield-Herdland,Secretary of Agriculture,,Chris Jones,DEM,32,16,16
+Clay,Lake-Freeman,Secretary of Agriculture,,Chris Jones,DEM,66,26,40
+Clay,Lincoln-Clay-Lone Tree-Riverton,Secretary of Agriculture,,Chris Jones,DEM,114,47,67
+Clay,Logan-Gillett Grove,Secretary of Agriculture,,Chris Jones,DEM,36,13,23
+Clay,Spencer Ward 1,Secretary of Agriculture,,Chris Jones,DEM,267,128,139
+Clay,Spencer Ward 2,Secretary of Agriculture,,Chris Jones,DEM,295,165,130
+Clay,Spencer Ward 3,Secretary of Agriculture,,Chris Jones,DEM,282,155,127
+Clay,Spencer Ward 4,Secretary of Agriculture,,Chris Jones,DEM,326,207,119
+Clay,Spencer Ward 5,Secretary of Agriculture,,Chris Jones,DEM,317,203,114
+Clay,Summit-Meadow-Sioux,Secretary of Agriculture,,Chris Jones,DEM,126,72,54
+Clay,Waterford-City of Everly,Secretary of Agriculture,,Chris Jones,DEM,63,15,48
+Clay,Douglas-Peterson,Secretary of Agriculture,,Mike Naig,REP,250,42,208
+Clay,Garfield-Herdland,Secretary of Agriculture,,Mike Naig,REP,157,39,118
+Clay,Lake-Freeman,Secretary of Agriculture,,Mike Naig,REP,170,43,127
+Clay,Lincoln-Clay-Lone Tree-Riverton,Secretary of Agriculture,,Mike Naig,REP,469,149,320
+Clay,Logan-Gillett Grove,Secretary of Agriculture,,Mike Naig,REP,186,43,143
+Clay,Spencer Ward 1,Secretary of Agriculture,,Mike Naig,REP,408,198,210
+Clay,Spencer Ward 2,Secretary of Agriculture,,Mike Naig,REP,408,159,249
+Clay,Spencer Ward 3,Secretary of Agriculture,,Mike Naig,REP,531,239,292
+Clay,Spencer Ward 4,Secretary of Agriculture,,Mike Naig,REP,864,420,444
+Clay,Spencer Ward 5,Secretary of Agriculture,,Mike Naig,REP,605,308,297
+Clay,Summit-Meadow-Sioux,Secretary of Agriculture,,Mike Naig,REP,366,165,201
+Clay,Waterford-City of Everly,Secretary of Agriculture,,Mike Naig,REP,224,34,190
+Clay,Douglas-Peterson,Secretary of Agriculture,,Write-In,,0,0,0
+Clay,Garfield-Herdland,Secretary of Agriculture,,Write-In,,0,0,0
+Clay,Lake-Freeman,Secretary of Agriculture,,Write-In,,0,0,0
+Clay,Lincoln-Clay-Lone Tree-Riverton,Secretary of Agriculture,,Write-In,,0,0,0
+Clay,Logan-Gillett Grove,Secretary of Agriculture,,Write-In,,0,0,0
+Clay,Spencer Ward 1,Secretary of Agriculture,,Write-In,,0,0,0
+Clay,Spencer Ward 2,Secretary of Agriculture,,Write-In,,0,0,0
+Clay,Spencer Ward 3,Secretary of Agriculture,,Write-In,,1,0,1
+Clay,Spencer Ward 4,Secretary of Agriculture,,Write-In,,2,0,2
+Clay,Spencer Ward 5,Secretary of Agriculture,,Write-In,,0,0,0
+Clay,Summit-Meadow-Sioux,Secretary of Agriculture,,Write-In,,1,0,1
+Clay,Waterford-City of Everly,Secretary of Agriculture,,Write-In,,0,0,0
+Clay,Douglas-Peterson,Secretary of State,,Paul D. Pate,REP,235,43,192
+Clay,Garfield-Herdland,Secretary of State,,Paul D. Pate,REP,148,36,112
+Clay,Lake-Freeman,Secretary of State,,Paul D. Pate,REP,161,42,119
+Clay,Lincoln-Clay-Lone Tree-Riverton,Secretary of State,,Paul D. Pate,REP,447,138,309
+Clay,Logan-Gillett Grove,Secretary of State,,Paul D. Pate,REP,176,40,136
+Clay,Spencer Ward 1,Secretary of State,,Paul D. Pate,REP,407,195,212
+Clay,Spencer Ward 2,Secretary of State,,Paul D. Pate,REP,395,154,241
+Clay,Spencer Ward 3,Secretary of State,,Paul D. Pate,REP,514,223,291
+Clay,Spencer Ward 4,Secretary of State,,Paul D. Pate,REP,836,405,431
+Clay,Spencer Ward 5,Secretary of State,,Paul D. Pate,REP,573,287,286
+Clay,Summit-Meadow-Sioux,Secretary of State,,Paul D. Pate,REP,346,156,190
+Clay,Waterford-City of Everly,Secretary of State,,Paul D. Pate,REP,214,30,184
+Clay,Douglas-Peterson,Secretary of State,,Ryan Peterman,DEM,78,28,50
+Clay,Garfield-Herdland,Secretary of State,,Ryan Peterman,DEM,35,17,18
+Clay,Lake-Freeman,Secretary of State,,Ryan Peterman,DEM,69,26,43
+Clay,Lincoln-Clay-Lone Tree-Riverton,Secretary of State,,Ryan Peterman,DEM,124,55,69
+Clay,Logan-Gillett Grove,Secretary of State,,Ryan Peterman,DEM,41,16,25
+Clay,Spencer Ward 1,Secretary of State,,Ryan Peterman,DEM,271,132,139
+Clay,Spencer Ward 2,Secretary of State,,Ryan Peterman,DEM,306,170,136
+Clay,Spencer Ward 3,Secretary of State,,Ryan Peterman,DEM,298,171,127
+Clay,Spencer Ward 4,Secretary of State,,Ryan Peterman,DEM,345,218,127
+Clay,Spencer Ward 5,Secretary of State,,Ryan Peterman,DEM,344,221,123
+Clay,Summit-Meadow-Sioux,Secretary of State,,Ryan Peterman,DEM,133,75,58
+Clay,Waterford-City of Everly,Secretary of State,,Ryan Peterman,DEM,67,17,50
+Clay,Douglas-Peterson,Secretary of State,,Write-In,,0,0,0
+Clay,Garfield-Herdland,Secretary of State,,Write-In,,1,1,0
+Clay,Lake-Freeman,Secretary of State,,Write-In,,0,0,0
+Clay,Lincoln-Clay-Lone Tree-Riverton,Secretary of State,,Write-In,,0,0,0
+Clay,Logan-Gillett Grove,Secretary of State,,Write-In,,0,0,0
+Clay,Spencer Ward 1,Secretary of State,,Write-In,,0,0,0
+Clay,Spencer Ward 2,Secretary of State,,Write-In,,0,0,0
+Clay,Spencer Ward 3,Secretary of State,,Write-In,,3,2,1
+Clay,Spencer Ward 4,Secretary of State,,Write-In,,1,0,1
+Clay,Spencer Ward 5,Secretary of State,,Write-In,,0,0,0
+Clay,Summit-Meadow-Sioux,Secretary of State,,Write-In,,1,0,1
+Clay,Waterford-City of Everly,Secretary of State,,Write-In,,0,0,0
+Clay,Summit-Meadow-Sioux,Sioux Township Clerk,,Bev Salton Dudziak,,117,61,56
+Clay,Summit-Meadow-Sioux,Sioux Township Clerk,,Write-In,,0,0,0
+Clay,Summit-Meadow-Sioux,Sioux Township Trustee,,Beverly Hummel,,114,58,56
+Clay,Summit-Meadow-Sioux,Sioux Township Trustee,,Write-In,,0,0,0
+Clay,Douglas-Peterson,Soil and Water Conservation District Commissioner,,Leo Stephas,,189,43,146
+Clay,Garfield-Herdland,Soil and Water Conservation District Commissioner,,Leo Stephas,,98,26,72
+Clay,Lake-Freeman,Soil and Water Conservation District Commissioner,,Leo Stephas,,155,46,109
+Clay,Lincoln-Clay-Lone Tree-Riverton,Soil and Water Conservation District Commissioner,,Leo Stephas,,391,129,262
+Clay,Logan-Gillett Grove,Soil and Water Conservation District Commissioner,,Leo Stephas,,160,36,124
+Clay,Spencer Ward 1,Soil and Water Conservation District Commissioner,,Leo Stephas,,409,207,202
+Clay,Spencer Ward 2,Soil and Water Conservation District Commissioner,,Leo Stephas,,419,194,225
+Clay,Spencer Ward 3,Soil and Water Conservation District Commissioner,,Leo Stephas,,528,245,283
+Clay,Spencer Ward 4,Soil and Water Conservation District Commissioner,,Leo Stephas,,797,413,384
+Clay,Spencer Ward 5,Soil and Water Conservation District Commissioner,,Leo Stephas,,581,334,247
+Clay,Summit-Meadow-Sioux,Soil and Water Conservation District Commissioner,,Leo Stephas,,316,141,175
+Clay,Waterford-City of Everly,Soil and Water Conservation District Commissioner,,Leo Stephas,,183,32,151
+Clay,Douglas-Peterson,Soil and Water Conservation District Commissioner,,Rick G. Steuben,,219,47,172
+Clay,Garfield-Herdland,Soil and Water Conservation District Commissioner,,Rick G. Steuben,,106,28,78
+Clay,Lake-Freeman,Soil and Water Conservation District Commissioner,,Rick G. Steuben,,148,44,104
+Clay,Lincoln-Clay-Lone Tree-Riverton,Soil and Water Conservation District Commissioner,,Rick G. Steuben,,432,144,288
+Clay,Logan-Gillett Grove,Soil and Water Conservation District Commissioner,,Rick G. Steuben,,156,42,114
+Clay,Spencer Ward 1,Soil and Water Conservation District Commissioner,,Rick G. Steuben,,435,219,216
+Clay,Spencer Ward 2,Soil and Water Conservation District Commissioner,,Rick G. Steuben,,465,204,261
+Clay,Spencer Ward 3,Soil and Water Conservation District Commissioner,,Rick G. Steuben,,565,270,295
+Clay,Spencer Ward 4,Soil and Water Conservation District Commissioner,,Rick G. Steuben,,855,442,413
+Clay,Spencer Ward 5,Soil and Water Conservation District Commissioner,,Rick G. Steuben,,632,346,286
+Clay,Summit-Meadow-Sioux,Soil and Water Conservation District Commissioner,,Rick G. Steuben,,355,162,193
+Clay,Waterford-City of Everly,Soil and Water Conservation District Commissioner,,Rick G. Steuben,,224,36,188
+Clay,Douglas-Peterson,Soil and Water Conservation District Commissioner,,Write-In,,3,3,0
+Clay,Garfield-Herdland,Soil and Water Conservation District Commissioner,,Write-In,,2,2,0
+Clay,Lake-Freeman,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Clay,Lincoln-Clay-Lone Tree-Riverton,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Clay,Logan-Gillett Grove,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Clay,Spencer Ward 1,Soil and Water Conservation District Commissioner,,Write-In,,5,1,4
+Clay,Spencer Ward 2,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Clay,Spencer Ward 3,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Clay,Spencer Ward 4,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
+Clay,Spencer Ward 5,Soil and Water Conservation District Commissioner,,Write-In,,12,7,5
+Clay,Summit-Meadow-Sioux,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Clay,Waterford-City of Everly,Soil and Water Conservation District Commissioner,,Write-In,,3,2,1
+Clay,Lake-Freeman,State House,10,John H. Wills,REP,183,50,133
+Clay,Summit-Meadow-Sioux,State House,10,John H. Wills,REP,388,174,214
+Clay,Waterford-City of Everly,State House,10,John H. Wills,REP,248,39,209
+Clay,Lake-Freeman,State House,10,Write-In,,3,0,3
+Clay,Summit-Meadow-Sioux,State House,10,Write-In,,7,5,2
+Clay,Waterford-City of Everly,State House,10,Write-In,,2,0,2
+Clay,Douglas-Peterson,State House,6,Megan Jones,REP,242,46,196
+Clay,Garfield-Herdland,State House,6,Megan Jones,REP,144,37,107
+Clay,Lincoln-Clay-Lone Tree-Riverton,State House,6,Megan Jones,REP,438,138,300
+Clay,Logan-Gillett Grove,State House,6,Megan Jones,REP,168,34,134
+Clay,Spencer Ward 1,State House,6,Megan Jones,REP,493,242,251
+Clay,Spencer Ward 2,State House,6,Megan Jones,REP,512,209,303
+Clay,Spencer Ward 3,State House,6,Megan Jones,REP,614,273,341
+Clay,Spencer Ward 4,State House,6,Megan Jones,REP,927,474,453
+Clay,Spencer Ward 5,State House,6,Megan Jones,REP,698,359,339
+Clay,Douglas-Peterson,State House,6,Write-In,,16,10,6
+Clay,Garfield-Herdland,State House,6,Write-In,,8,5,3
+Clay,Lincoln-Clay-Lone Tree-Riverton,State House,6,Write-In,,22,9,13
+Clay,Logan-Gillett Grove,State House,6,Write-In,,9,1,8
+Clay,Spencer Ward 1,State House,6,Write-In,,27,13,14
+Clay,Spencer Ward 2,State House,6,Write-In,,36,18,18
+Clay,Spencer Ward 3,State House,6,Write-In,,41,20,21
+Clay,Spencer Ward 4,State House,6,Write-In,,47,17,30
+Clay,Spencer Ward 5,State House,6,Write-In,,29,19,10
+Clay,Douglas-Peterson,State Senate,3,Lynn Evans,REP,242,42,200
+Clay,Garfield-Herdland,State Senate,3,Lynn Evans,REP,148,37,111
+Clay,Lincoln-Clay-Lone Tree-Riverton,State Senate,3,Lynn Evans,REP,438,136,302
+Clay,Logan-Gillett Grove,State Senate,3,Lynn Evans,REP,174,38,136
+Clay,Spencer Ward 1,State Senate,3,Lynn Evans,REP,390,191,199
+Clay,Spencer Ward 2,State Senate,3,Lynn Evans,REP,371,144,227
+Clay,Spencer Ward 3,State Senate,3,Lynn Evans,REP,484,213,271
+Clay,Spencer Ward 4,State Senate,3,Lynn Evans,REP,805,385,420
+Clay,Spencer Ward 5,State Senate,3,Lynn Evans,REP,555,280,275
+Clay,Douglas-Peterson,State Senate,3,Mike Frantz,DEM,74,28,46
+Clay,Garfield-Herdland,State Senate,3,Mike Frantz,DEM,37,17,20
+Clay,Lincoln-Clay-Lone Tree-Riverton,State Senate,3,Mike Frantz,DEM,125,56,69
+Clay,Logan-Gillett Grove,State Senate,3,Mike Frantz,DEM,45,17,28
+Clay,Spencer Ward 1,State Senate,3,Mike Frantz,DEM,288,138,150
+Clay,Spencer Ward 2,State Senate,3,Mike Frantz,DEM,325,179,146
+Clay,Spencer Ward 3,State Senate,3,Mike Frantz,DEM,323,178,145
+Clay,Spencer Ward 4,State Senate,3,Mike Frantz,DEM,371,233,138
+Clay,Spencer Ward 5,State Senate,3,Mike Frantz,DEM,347,217,130
+Clay,Douglas-Peterson,State Senate,3,Write-In,,0,0,0
+Clay,Garfield-Herdland,State Senate,3,Write-In,,1,1,0
+Clay,Lincoln-Clay-Lone Tree-Riverton,State Senate,3,Write-In,,0,0,0
+Clay,Logan-Gillett Grove,State Senate,3,Write-In,,0,0,0
+Clay,Spencer Ward 1,State Senate,3,Write-In,,0,0,0
+Clay,Spencer Ward 2,State Senate,3,Write-In,,1,0,1
+Clay,Spencer Ward 3,State Senate,3,Write-In,,0,0,0
+Clay,Spencer Ward 4,State Senate,3,Write-In,,0,0,0
+Clay,Spencer Ward 5,State Senate,3,Write-In,,0,0,0
+Clay,Lake-Freeman,State Senate,5,Dave Rowley,REP,163,41,122
+Clay,Summit-Meadow-Sioux,State Senate,5,Dave Rowley,REP,341,156,185
+Clay,Waterford-City of Everly,State Senate,5,Dave Rowley,REP,212,30,182
+Clay,Lake-Freeman,State Senate,5,Rachel Gravert,,41,20,21
+Clay,Summit-Meadow-Sioux,State Senate,5,Rachel Gravert,,101,58,43
+Clay,Waterford-City of Everly,State Senate,5,Rachel Gravert,,58,14,44
+Clay,Lake-Freeman,State Senate,5,Write-In,,3,1,2
+Clay,Summit-Meadow-Sioux,State Senate,5,Write-In,,3,1,2
+Clay,Waterford-City of Everly,State Senate,5,Write-In,,0,0,0
+Clay,Summit-Meadow-Sioux,Summit Township Clerk,,Write-In,,5,0,5
+Clay,Summit-Meadow-Sioux,Summit Township Trustee,,Jim Sonius,,2,1,1
+Clay,Summit-Meadow-Sioux,Summit Township Trustee,,Write-In,,7,0,7
+Clay,Douglas-Peterson,Treasurer of State,,John Norwood,DEM,77,30,47
+Clay,Garfield-Herdland,Treasurer of State,,John Norwood,DEM,39,18,21
+Clay,Lake-Freeman,Treasurer of State,,John Norwood,DEM,69,27,42
+Clay,Lincoln-Clay-Lone Tree-Riverton,Treasurer of State,,John Norwood,DEM,131,60,71
+Clay,Logan-Gillett Grove,Treasurer of State,,John Norwood,DEM,44,17,27
+Clay,Spencer Ward 1,Treasurer of State,,John Norwood,DEM,280,133,147
+Clay,Spencer Ward 2,Treasurer of State,,John Norwood,DEM,313,179,134
+Clay,Spencer Ward 3,Treasurer of State,,John Norwood,DEM,314,173,141
+Clay,Spencer Ward 4,Treasurer of State,,John Norwood,DEM,362,221,141
+Clay,Spencer Ward 5,Treasurer of State,,John Norwood,DEM,356,230,126
+Clay,Summit-Meadow-Sioux,Treasurer of State,,John Norwood,DEM,132,78,54
+Clay,Waterford-City of Everly,Treasurer of State,,John Norwood,DEM,71,18,53
+Clay,Douglas-Peterson,Treasurer of State,,Roby Smith,REP,232,40,192
+Clay,Garfield-Herdland,Treasurer of State,,Roby Smith,REP,141,34,107
+Clay,Lake-Freeman,Treasurer of State,,Roby Smith,REP,156,41,115
+Clay,Lincoln-Clay-Lone Tree-Riverton,Treasurer of State,,Roby Smith,REP,430,132,298
+Clay,Logan-Gillett Grove,Treasurer of State,,Roby Smith,REP,172,37,135
+Clay,Spencer Ward 1,Treasurer of State,,Roby Smith,REP,382,189,193
+Clay,Spencer Ward 2,Treasurer of State,,Roby Smith,REP,380,142,238
+Clay,Spencer Ward 3,Treasurer of State,,Roby Smith,REP,489,216,273
+Clay,Spencer Ward 4,Treasurer of State,,Roby Smith,REP,805,393,412
+Clay,Spencer Ward 5,Treasurer of State,,Roby Smith,REP,554,277,277
+Clay,Summit-Meadow-Sioux,Treasurer of State,,Roby Smith,REP,345,151,194
+Clay,Waterford-City of Everly,Treasurer of State,,Roby Smith,REP,212,30,182
+Clay,Douglas-Peterson,Treasurer of State,,Write-In,,0,0,0
+Clay,Garfield-Herdland,Treasurer of State,,Write-In,,1,1,0
+Clay,Lake-Freeman,Treasurer of State,,Write-In,,0,0,0
+Clay,Lincoln-Clay-Lone Tree-Riverton,Treasurer of State,,Write-In,,0,0,0
+Clay,Logan-Gillett Grove,Treasurer of State,,Write-In,,0,0,0
+Clay,Spencer Ward 1,Treasurer of State,,Write-In,,0,0,0
+Clay,Spencer Ward 2,Treasurer of State,,Write-In,,0,0,0
+Clay,Spencer Ward 3,Treasurer of State,,Write-In,,3,1,2
+Clay,Spencer Ward 4,Treasurer of State,,Write-In,,1,0,1
+Clay,Spencer Ward 5,Treasurer of State,,Write-In,,1,1,0
+Clay,Summit-Meadow-Sioux,Treasurer of State,,Write-In,,1,0,1
+Clay,Waterford-City of Everly,Treasurer of State,,Write-In,,0,0,0
+Clay,Douglas-Peterson,U.S. House,4,Chris McGowan,REP,232,41,191
+Clay,Garfield-Herdland,U.S. House,4,Chris McGowan,REP,140,32,108
+Clay,Lake-Freeman,U.S. House,4,Chris McGowan,REP,155,41,114
+Clay,Lincoln-Clay-Lone Tree-Riverton,U.S. House,4,Chris McGowan,REP,427,132,295
+Clay,Logan-Gillett Grove,U.S. House,4,Chris McGowan,REP,171,35,136
+Clay,Spencer Ward 1,U.S. House,4,Chris McGowan,REP,383,184,199
+Clay,Spencer Ward 2,U.S. House,4,Chris McGowan,REP,374,147,227
+Clay,Spencer Ward 3,U.S. House,4,Chris McGowan,REP,473,204,269
+Clay,Spencer Ward 4,U.S. House,4,Chris McGowan,REP,789,383,406
+Clay,Spencer Ward 5,U.S. House,4,Chris McGowan,REP,559,282,277
+Clay,Summit-Meadow-Sioux,U.S. House,4,Chris McGowan,REP,345,153,192
+Clay,Waterford-City of Everly,U.S. House,4,Chris McGowan,REP,210,28,182
+Clay,Douglas-Peterson,U.S. House,4,Dave Dawson,DEM,78,29,49
+Clay,Garfield-Herdland,U.S. House,4,Dave Dawson,DEM,41,19,22
+Clay,Lake-Freeman,U.S. House,4,Dave Dawson,DEM,72,26,46
+Clay,Lincoln-Clay-Lone Tree-Riverton,U.S. House,4,Dave Dawson,DEM,132,55,77
+Clay,Logan-Gillett Grove,U.S. House,4,Dave Dawson,DEM,47,19,28
+Clay,Spencer Ward 1,U.S. House,4,Dave Dawson,DEM,277,132,145
+Clay,Spencer Ward 2,U.S. House,4,Dave Dawson,DEM,313,171,142
+Clay,Spencer Ward 3,U.S. House,4,Dave Dawson,DEM,320,176,144
+Clay,Spencer Ward 4,U.S. House,4,Dave Dawson,DEM,375,226,149
+Clay,Spencer Ward 5,U.S. House,4,Dave Dawson,DEM,346,216,130
+Clay,Summit-Meadow-Sioux,U.S. House,4,Dave Dawson,DEM,132,78,54
+Clay,Waterford-City of Everly,U.S. House,4,Dave Dawson,DEM,67,19,48
+Clay,Douglas-Peterson,U.S. House,4,Write-In,,0,0,0
+Clay,Garfield-Herdland,U.S. House,4,Write-In,,1,1,0
+Clay,Lake-Freeman,U.S. House,4,Write-In,,1,0,1
+Clay,Lincoln-Clay-Lone Tree-Riverton,U.S. House,4,Write-In,,0,0,0
+Clay,Logan-Gillett Grove,U.S. House,4,Write-In,,0,0,0
+Clay,Spencer Ward 1,U.S. House,4,Write-In,,1,0,1
+Clay,Spencer Ward 2,U.S. House,4,Write-In,,1,0,1
+Clay,Spencer Ward 3,U.S. House,4,Write-In,,1,1,0
+Clay,Spencer Ward 4,U.S. House,4,Write-In,,1,1,0
+Clay,Spencer Ward 5,U.S. House,4,Write-In,,0,0,0
+Clay,Summit-Meadow-Sioux,U.S. House,4,Write-In,,0,0,0
+Clay,Waterford-City of Everly,U.S. House,4,Write-In,,0,0,0
+Clay,Douglas-Peterson,U.S. Senate,,Ashley Hinson,REP,222,40,182
+Clay,Garfield-Herdland,U.S. Senate,,Ashley Hinson,REP,136,33,103
+Clay,Lake-Freeman,U.S. Senate,,Ashley Hinson,REP,147,38,109
+Clay,Lincoln-Clay-Lone Tree-Riverton,U.S. Senate,,Ashley Hinson,REP,400,123,277
+Clay,Logan-Gillett Grove,U.S. Senate,,Ashley Hinson,REP,157,31,126
+Clay,Spencer Ward 1,U.S. Senate,,Ashley Hinson,REP,343,169,174
+Clay,Spencer Ward 2,U.S. Senate,,Ashley Hinson,REP,353,136,217
+Clay,Spencer Ward 3,U.S. Senate,,Ashley Hinson,REP,442,202,240
+Clay,Spencer Ward 4,U.S. Senate,,Ashley Hinson,REP,752,370,382
+Clay,Spencer Ward 5,U.S. Senate,,Ashley Hinson,REP,516,261,255
+Clay,Summit-Meadow-Sioux,U.S. Senate,,Ashley Hinson,REP,321,142,179
+Clay,Waterford-City of Everly,U.S. Senate,,Ashley Hinson,REP,198,27,171
+Clay,Douglas-Peterson,U.S. Senate,,Josh Turek,DEM,83,30,53
+Clay,Garfield-Herdland,U.S. Senate,,Josh Turek,DEM,49,19,30
+Clay,Lake-Freeman,U.S. Senate,,Josh Turek,DEM,74,28,46
+Clay,Lincoln-Clay-Lone Tree-Riverton,U.S. Senate,,Josh Turek,DEM,148,62,86
+Clay,Logan-Gillett Grove,U.S. Senate,,Josh Turek,DEM,51,22,29
+Clay,Spencer Ward 1,U.S. Senate,,Josh Turek,DEM,302,143,159
+Clay,Spencer Ward 2,U.S. Senate,,Josh Turek,DEM,313,168,145
+Clay,Spencer Ward 3,U.S. Senate,,Josh Turek,DEM,328,174,154
+Clay,Spencer Ward 4,U.S. Senate,,Josh Turek,DEM,395,234,161
+Clay,Spencer Ward 5,U.S. Senate,,Josh Turek,DEM,375,230,145
+Clay,Summit-Meadow-Sioux,U.S. Senate,,Josh Turek,DEM,141,85,56
+Clay,Waterford-City of Everly,U.S. Senate,,Josh Turek,DEM,74,19,55
+Clay,Douglas-Peterson,U.S. Senate,,Thomas Laehn,LIB,19,2,17
+Clay,Garfield-Herdland,U.S. Senate,,Thomas Laehn,LIB,3,0,3
+Clay,Lake-Freeman,U.S. Senate,,Thomas Laehn,LIB,10,1,9
+Clay,Lincoln-Clay-Lone Tree-Riverton,U.S. Senate,,Thomas Laehn,LIB,27,6,21
+Clay,Logan-Gillett Grove,U.S. Senate,,Thomas Laehn,LIB,11,1,10
+Clay,Spencer Ward 1,U.S. Senate,,Thomas Laehn,LIB,26,8,18
+Clay,Spencer Ward 2,U.S. Senate,,Thomas Laehn,LIB,38,20,18
+Clay,Spencer Ward 3,U.S. Senate,,Thomas Laehn,LIB,46,16,30
+Clay,Spencer Ward 4,U.S. Senate,,Thomas Laehn,LIB,26,11,15
+Clay,Spencer Ward 5,U.S. Senate,,Thomas Laehn,LIB,29,14,15
+Clay,Summit-Meadow-Sioux,U.S. Senate,,Thomas Laehn,LIB,26,9,17
+Clay,Waterford-City of Everly,U.S. Senate,,Thomas Laehn,LIB,15,2,13
+Clay,Douglas-Peterson,U.S. Senate,,Write-In,,0,0,0
+Clay,Garfield-Herdland,U.S. Senate,,Write-In,,0,0,0
+Clay,Lake-Freeman,U.S. Senate,,Write-In,,0,0,0
+Clay,Lincoln-Clay-Lone Tree-Riverton,U.S. Senate,,Write-In,,0,0,0
+Clay,Logan-Gillett Grove,U.S. Senate,,Write-In,,0,0,0
+Clay,Spencer Ward 1,U.S. Senate,,Write-In,,5,1,4
+Clay,Spencer Ward 2,U.S. Senate,,Write-In,,3,0,3
+Clay,Spencer Ward 3,U.S. Senate,,Write-In,,2,0,2
+Clay,Spencer Ward 4,U.S. Senate,,Write-In,,0,0,0
+Clay,Spencer Ward 5,U.S. Senate,,Write-In,,1,1,0
+Clay,Summit-Meadow-Sioux,U.S. Senate,,Write-In,,1,0,1
+Clay,Waterford-City of Everly,U.S. Senate,,Write-In,,0,0,0
+Clay,Waterford-City of Everly,Waterford Township Clerk,,Debra Jessen,,85,22,63
+Clay,Waterford-City of Everly,Waterford Township Clerk,,Write-In,,1,1,0
+Clay,Waterford-City of Everly,Waterford Township Trustee,,Jay Pearson,,83,20,63
+Clay,Waterford-City of Everly,Waterford Township Trustee,,Write-In,,1,1,0

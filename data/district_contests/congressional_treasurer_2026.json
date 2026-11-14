@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2026,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "treasurer",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2026_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 175537,
+        "rep_votes": 162196,
+        "other_votes": 355,
+        "total_votes": 338088,
+        "dem_candidate": "John Norwood",
+        "rep_candidate": "Roby Smith",
+        "margin": -13341,
+        "margin_pct": -3.9460140555121743,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "2": {
+        "dem_votes": 173691,
+        "rep_votes": 166442,
+        "other_votes": 303,
+        "total_votes": 340436,
+        "dem_candidate": "John Norwood",
+        "rep_candidate": "Roby Smith",
+        "margin": -7249,
+        "margin_pct": -2.1293282731556005,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "3": {
+        "dem_votes": 184817,
+        "rep_votes": 157059,
+        "other_votes": 430,
+        "total_votes": 342306,
+        "dem_candidate": "John Norwood",
+        "rep_candidate": "Roby Smith",
+        "margin": -27758,
+        "margin_pct": -8.109118741710633,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "4": {
+        "dem_votes": 121865,
+        "rep_votes": 179446,
+        "other_votes": 263,
+        "total_votes": 301574,
+        "dem_candidate": "John Norwood",
+        "rep_candidate": "Roby Smith",
+        "margin": 57581,
+        "margin_pct": 19.09348949179969,
+        "winner": "REP",
+        "color": "#e93a2d"
+      }
+    }
+  }
+}

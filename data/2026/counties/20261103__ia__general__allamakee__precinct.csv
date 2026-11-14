@@ -1,0 +1,794 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Allamakee,PCT 1 - WL/HV,Attorney General,,Brenna Bird,REP,138,36,102
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Attorney General,,Brenna Bird,REP,678,219,459
+Allamakee,Pct 10 - WAUKON WARD 3,Attorney General,,Brenna Bird,REP,274,152,122
+Allamakee,Pct 3 - PO/FK/PV CITY,Attorney General,,Brenna Bird,REP,402,111,291
+Allamakee,Pct 4 - LT/PC/WV CITY,Attorney General,,Brenna Bird,REP,230,66,164
+Allamakee,Pct 5 - FV/TL/HF CITY,Attorney General,,Brenna Bird,REP,276,62,214
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Attorney General,,Brenna Bird,REP,529,169,360
+Allamakee,Pct 7 - IA/UC/NA City,Attorney General,,Brenna Bird,REP,277,58,219
+Allamakee,Pct 8 - WAUKON WARD 1,Attorney General,,Brenna Bird,REP,297,147,150
+Allamakee,Pct 9 - WAUKON WARD 2,Attorney General,,Brenna Bird,REP,246,100,146
+Allamakee,PCT 1 - WL/HV,Attorney General,,Nate Willems,DEM,73,30,43
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Attorney General,,Nate Willems,DEM,371,194,177
+Allamakee,Pct 10 - WAUKON WARD 3,Attorney General,,Nate Willems,DEM,232,150,82
+Allamakee,Pct 3 - PO/FK/PV CITY,Attorney General,,Nate Willems,DEM,276,88,188
+Allamakee,Pct 4 - LT/PC/WV CITY,Attorney General,,Nate Willems,DEM,113,60,53
+Allamakee,Pct 5 - FV/TL/HF CITY,Attorney General,,Nate Willems,DEM,196,82,114
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Attorney General,,Nate Willems,DEM,488,221,267
+Allamakee,Pct 7 - IA/UC/NA City,Attorney General,,Nate Willems,DEM,157,34,123
+Allamakee,Pct 8 - WAUKON WARD 1,Attorney General,,Nate Willems,DEM,218,141,77
+Allamakee,Pct 9 - WAUKON WARD 2,Attorney General,,Nate Willems,DEM,202,96,106
+Allamakee,PCT 1 - WL/HV,Attorney General,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Attorney General,,Write-In,,1,0,1
+Allamakee,Pct 10 - WAUKON WARD 3,Attorney General,,Write-In,,0,0,0
+Allamakee,Pct 3 - PO/FK/PV CITY,Attorney General,,Write-In,,2,0,2
+Allamakee,Pct 4 - LT/PC/WV CITY,Attorney General,,Write-In,,1,0,1
+Allamakee,Pct 5 - FV/TL/HF CITY,Attorney General,,Write-In,,0,0,0
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Attorney General,,Write-In,,1,0,1
+Allamakee,Pct 7 - IA/UC/NA City,Attorney General,,Write-In,,0,0,0
+Allamakee,Pct 8 - WAUKON WARD 1,Attorney General,,Write-In,,1,0,1
+Allamakee,Pct 9 - WAUKON WARD 2,Attorney General,,Write-In,,0,0,0
+Allamakee,PCT 1 - WL/HV,Auditor of State,,Chris Cournoyer,REP,144,37,107
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Auditor of State,,Chris Cournoyer,REP,708,228,480
+Allamakee,Pct 10 - WAUKON WARD 3,Auditor of State,,Chris Cournoyer,REP,280,159,121
+Allamakee,Pct 3 - PO/FK/PV CITY,Auditor of State,,Chris Cournoyer,REP,415,113,302
+Allamakee,Pct 4 - LT/PC/WV CITY,Auditor of State,,Chris Cournoyer,REP,232,66,166
+Allamakee,Pct 5 - FV/TL/HF CITY,Auditor of State,,Chris Cournoyer,REP,286,67,219
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Auditor of State,,Chris Cournoyer,REP,531,168,363
+Allamakee,Pct 7 - IA/UC/NA City,Auditor of State,,Chris Cournoyer,REP,288,61,227
+Allamakee,Pct 8 - WAUKON WARD 1,Auditor of State,,Chris Cournoyer,REP,307,154,153
+Allamakee,Pct 9 - WAUKON WARD 2,Auditor of State,,Chris Cournoyer,REP,260,102,158
+Allamakee,PCT 1 - WL/HV,Auditor of State,,Taylor Wettach,DEM,67,27,40
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Auditor of State,,Taylor Wettach,DEM,339,186,153
+Allamakee,Pct 10 - WAUKON WARD 3,Auditor of State,,Taylor Wettach,DEM,223,143,80
+Allamakee,Pct 3 - PO/FK/PV CITY,Auditor of State,,Taylor Wettach,DEM,262,87,175
+Allamakee,Pct 4 - LT/PC/WV CITY,Auditor of State,,Taylor Wettach,DEM,109,60,49
+Allamakee,Pct 5 - FV/TL/HF CITY,Auditor of State,,Taylor Wettach,DEM,188,80,108
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Auditor of State,,Taylor Wettach,DEM,481,223,258
+Allamakee,Pct 7 - IA/UC/NA City,Auditor of State,,Taylor Wettach,DEM,141,33,108
+Allamakee,Pct 8 - WAUKON WARD 1,Auditor of State,,Taylor Wettach,DEM,205,130,75
+Allamakee,Pct 9 - WAUKON WARD 2,Auditor of State,,Taylor Wettach,DEM,187,93,94
+Allamakee,PCT 1 - WL/HV,Auditor of State,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Auditor of State,,Write-In,,1,0,1
+Allamakee,Pct 10 - WAUKON WARD 3,Auditor of State,,Write-In,,0,0,0
+Allamakee,Pct 3 - PO/FK/PV CITY,Auditor of State,,Write-In,,1,0,1
+Allamakee,Pct 4 - LT/PC/WV CITY,Auditor of State,,Write-In,,1,0,1
+Allamakee,Pct 5 - FV/TL/HF CITY,Auditor of State,,Write-In,,1,0,1
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Auditor of State,,Write-In,,1,0,1
+Allamakee,Pct 7 - IA/UC/NA City,Auditor of State,,Write-In,,0,0,0
+Allamakee,Pct 8 - WAUKON WARD 1,Auditor of State,,Write-In,,0,0,0
+Allamakee,Pct 9 - WAUKON WARD 2,Auditor of State,,Write-In,,0,0,0
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Center Township Clerk,,Michele Troendle,,125,58,67
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Center Township Clerk,,Write-In,,2,0,2
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Center Township Trustee,,Dennis Nebendahl,,131,59,72
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Center Township Trustee,,Write-In,,3,1,2
+Allamakee,Pct 10 - WAUKON WARD 3,City of Waukon - Public Measure AM,,No,,80,45,35
+Allamakee,Pct 8 - WAUKON WARD 1,City of Waukon - Public Measure AM,,No,,65,42,23
+Allamakee,Pct 9 - WAUKON WARD 2,City of Waukon - Public Measure AM,,No,,83,36,47
+Allamakee,Pct 10 - WAUKON WARD 3,City of Waukon - Public Measure AM,,Yes,,384,229,155
+Allamakee,Pct 8 - WAUKON WARD 1,City of Waukon - Public Measure AM,,Yes,,401,221,180
+Allamakee,Pct 9 - WAUKON WARD 2,City of Waukon - Public Measure AM,,Yes,,333,141,192
+Allamakee,PCT 1 - WL/HV,Constitutional Amendment 1,,No,,82,32,50
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Constitutional Amendment 1,,No,,362,159,203
+Allamakee,Pct 10 - WAUKON WARD 3,Constitutional Amendment 1,,No,,211,132,79
+Allamakee,Pct 3 - PO/FK/PV CITY,Constitutional Amendment 1,,No,,220,68,152
+Allamakee,Pct 4 - LT/PC/WV CITY,Constitutional Amendment 1,,No,,108,50,58
+Allamakee,Pct 5 - FV/TL/HF CITY,Constitutional Amendment 1,,No,,168,55,113
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Constitutional Amendment 1,,No,,380,147,233
+Allamakee,Pct 7 - IA/UC/NA City,Constitutional Amendment 1,,No,,143,33,110
+Allamakee,Pct 8 - WAUKON WARD 1,Constitutional Amendment 1,,No,,216,126,90
+Allamakee,Pct 9 - WAUKON WARD 2,Constitutional Amendment 1,,No,,168,80,88
+Allamakee,PCT 1 - WL/HV,Constitutional Amendment 1,,Yes,,108,24,84
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Constitutional Amendment 1,,Yes,,609,234,375
+Allamakee,Pct 10 - WAUKON WARD 3,Constitutional Amendment 1,,Yes,,268,156,112
+Allamakee,Pct 3 - PO/FK/PV CITY,Constitutional Amendment 1,,Yes,,376,106,270
+Allamakee,Pct 4 - LT/PC/WV CITY,Constitutional Amendment 1,,Yes,,200,63,137
+Allamakee,Pct 5 - FV/TL/HF CITY,Constitutional Amendment 1,,Yes,,271,78,193
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Constitutional Amendment 1,,Yes,,570,211,359
+Allamakee,Pct 7 - IA/UC/NA City,Constitutional Amendment 1,,Yes,,246,56,190
+Allamakee,Pct 8 - WAUKON WARD 1,Constitutional Amendment 1,,Yes,,252,139,113
+Allamakee,Pct 9 - WAUKON WARD 2,Constitutional Amendment 1,,Yes,,259,103,156
+Allamakee,PCT 1 - WL/HV,County Agricultural Extension Council Member,,George L. Bieber,,129,37,92
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Agricultural Extension Council Member,,George L. Bieber,,697,271,426
+Allamakee,Pct 10 - WAUKON WARD 3,County Agricultural Extension Council Member,,George L. Bieber,,315,188,127
+Allamakee,Pct 3 - PO/FK/PV CITY,County Agricultural Extension Council Member,,George L. Bieber,,388,112,276
+Allamakee,Pct 4 - LT/PC/WV CITY,County Agricultural Extension Council Member,,George L. Bieber,,209,76,133
+Allamakee,Pct 5 - FV/TL/HF CITY,County Agricultural Extension Council Member,,George L. Bieber,,262,81,181
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Agricultural Extension Council Member,,George L. Bieber,,576,206,370
+Allamakee,Pct 7 - IA/UC/NA City,County Agricultural Extension Council Member,,George L. Bieber,,239,52,187
+Allamakee,Pct 8 - WAUKON WARD 1,County Agricultural Extension Council Member,,George L. Bieber,,325,189,136
+Allamakee,Pct 9 - WAUKON WARD 2,County Agricultural Extension Council Member,,George L. Bieber,,264,104,160
+Allamakee,PCT 1 - WL/HV,County Agricultural Extension Council Member,,Jared Winkie,,117,30,87
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Agricultural Extension Council Member,,Jared Winkie,,688,271,417
+Allamakee,Pct 10 - WAUKON WARD 3,County Agricultural Extension Council Member,,Jared Winkie,,316,191,125
+Allamakee,Pct 3 - PO/FK/PV CITY,County Agricultural Extension Council Member,,Jared Winkie,,372,106,266
+Allamakee,Pct 4 - LT/PC/WV CITY,County Agricultural Extension Council Member,,Jared Winkie,,207,74,133
+Allamakee,Pct 5 - FV/TL/HF CITY,County Agricultural Extension Council Member,,Jared Winkie,,276,78,198
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Agricultural Extension Council Member,,Jared Winkie,,556,207,349
+Allamakee,Pct 7 - IA/UC/NA City,County Agricultural Extension Council Member,,Jared Winkie,,235,49,186
+Allamakee,Pct 8 - WAUKON WARD 1,County Agricultural Extension Council Member,,Jared Winkie,,326,188,138
+Allamakee,Pct 9 - WAUKON WARD 2,County Agricultural Extension Council Member,,Jared Winkie,,280,117,163
+Allamakee,PCT 1 - WL/HV,County Agricultural Extension Council Member,,Jeannine Hisel,,101,24,77
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Agricultural Extension Council Member,,Jeannine Hisel,,551,226,325
+Allamakee,Pct 10 - WAUKON WARD 3,County Agricultural Extension Council Member,,Jeannine Hisel,,269,166,103
+Allamakee,Pct 3 - PO/FK/PV CITY,County Agricultural Extension Council Member,,Jeannine Hisel,,358,97,261
+Allamakee,Pct 4 - LT/PC/WV CITY,County Agricultural Extension Council Member,,Jeannine Hisel,,186,70,116
+Allamakee,Pct 5 - FV/TL/HF CITY,County Agricultural Extension Council Member,,Jeannine Hisel,,267,84,183
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Agricultural Extension Council Member,,Jeannine Hisel,,636,226,410
+Allamakee,Pct 7 - IA/UC/NA City,County Agricultural Extension Council Member,,Jeannine Hisel,,249,52,197
+Allamakee,Pct 8 - WAUKON WARD 1,County Agricultural Extension Council Member,,Jeannine Hisel,,282,165,117
+Allamakee,Pct 9 - WAUKON WARD 2,County Agricultural Extension Council Member,,Jeannine Hisel,,238,94,144
+Allamakee,PCT 1 - WL/HV,County Agricultural Extension Council Member,,Joseph Swizdor,,97,25,72
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Agricultural Extension Council Member,,Joseph Swizdor,,530,218,312
+Allamakee,Pct 10 - WAUKON WARD 3,County Agricultural Extension Council Member,,Joseph Swizdor,,255,154,101
+Allamakee,Pct 3 - PO/FK/PV CITY,County Agricultural Extension Council Member,,Joseph Swizdor,,357,100,257
+Allamakee,Pct 4 - LT/PC/WV CITY,County Agricultural Extension Council Member,,Joseph Swizdor,,185,71,114
+Allamakee,Pct 5 - FV/TL/HF CITY,County Agricultural Extension Council Member,,Joseph Swizdor,,250,73,177
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Agricultural Extension Council Member,,Joseph Swizdor,,527,194,333
+Allamakee,Pct 7 - IA/UC/NA City,County Agricultural Extension Council Member,,Joseph Swizdor,,217,47,170
+Allamakee,Pct 8 - WAUKON WARD 1,County Agricultural Extension Council Member,,Joseph Swizdor,,277,159,118
+Allamakee,Pct 9 - WAUKON WARD 2,County Agricultural Extension Council Member,,Joseph Swizdor,,239,95,144
+Allamakee,PCT 1 - WL/HV,County Agricultural Extension Council Member,,Tim Bulman,,135,36,99
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Agricultural Extension Council Member,,Tim Bulman,,691,276,415
+Allamakee,Pct 10 - WAUKON WARD 3,County Agricultural Extension Council Member,,Tim Bulman,,358,219,139
+Allamakee,Pct 3 - PO/FK/PV CITY,County Agricultural Extension Council Member,,Tim Bulman,,383,113,270
+Allamakee,Pct 4 - LT/PC/WV CITY,County Agricultural Extension Council Member,,Tim Bulman,,231,87,144
+Allamakee,Pct 5 - FV/TL/HF CITY,County Agricultural Extension Council Member,,Tim Bulman,,295,86,209
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Agricultural Extension Council Member,,Tim Bulman,,605,218,387
+Allamakee,Pct 7 - IA/UC/NA City,County Agricultural Extension Council Member,,Tim Bulman,,274,60,214
+Allamakee,Pct 8 - WAUKON WARD 1,County Agricultural Extension Council Member,,Tim Bulman,,377,213,164
+Allamakee,Pct 9 - WAUKON WARD 2,County Agricultural Extension Council Member,,Tim Bulman,,289,113,176
+Allamakee,PCT 1 - WL/HV,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Agricultural Extension Council Member,,Write-In,,7,1,6
+Allamakee,Pct 10 - WAUKON WARD 3,County Agricultural Extension Council Member,,Write-In,,2,2,0
+Allamakee,Pct 3 - PO/FK/PV CITY,County Agricultural Extension Council Member,,Write-In,,5,1,4
+Allamakee,Pct 4 - LT/PC/WV CITY,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Allamakee,Pct 5 - FV/TL/HF CITY,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Agricultural Extension Council Member,,Write-In,,8,3,5
+Allamakee,Pct 7 - IA/UC/NA City,County Agricultural Extension Council Member,,Write-In,,5,0,5
+Allamakee,Pct 8 - WAUKON WARD 1,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Allamakee,Pct 9 - WAUKON WARD 2,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Allamakee,PCT 1 - WL/HV,County Agricultural Extension Council To Fill a Vacancy,,Ann Deering,,161,42,119
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Agricultural Extension Council To Fill a Vacancy,,Ann Deering,,876,338,538
+Allamakee,Pct 10 - WAUKON WARD 3,County Agricultural Extension Council To Fill a Vacancy,,Ann Deering,,416,250,166
+Allamakee,Pct 3 - PO/FK/PV CITY,County Agricultural Extension Council To Fill a Vacancy,,Ann Deering,,523,149,374
+Allamakee,Pct 4 - LT/PC/WV CITY,County Agricultural Extension Council To Fill a Vacancy,,Ann Deering,,263,91,172
+Allamakee,Pct 5 - FV/TL/HF CITY,County Agricultural Extension Council To Fill a Vacancy,,Ann Deering,,365,104,261
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Agricultural Extension Council To Fill a Vacancy,,Ann Deering,,764,275,489
+Allamakee,Pct 7 - IA/UC/NA City,County Agricultural Extension Council To Fill a Vacancy,,Ann Deering,,325,72,253
+Allamakee,Pct 8 - WAUKON WARD 1,County Agricultural Extension Council To Fill a Vacancy,,Ann Deering,,411,236,175
+Allamakee,Pct 9 - WAUKON WARD 2,County Agricultural Extension Council To Fill a Vacancy,,Ann Deering,,370,158,212
+Allamakee,PCT 1 - WL/HV,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,5,2,3
+Allamakee,Pct 10 - WAUKON WARD 3,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,0,0,0
+Allamakee,Pct 3 - PO/FK/PV CITY,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,1,0,1
+Allamakee,Pct 4 - LT/PC/WV CITY,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,2,2,0
+Allamakee,Pct 5 - FV/TL/HF CITY,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,2,0,2
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,2,1,1
+Allamakee,Pct 7 - IA/UC/NA City,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,3,1,2
+Allamakee,Pct 8 - WAUKON WARD 1,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,3,1,2
+Allamakee,Pct 9 - WAUKON WARD 2,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,1,1,0
+Allamakee,PCT 1 - WL/HV,County Attorney,,Anthony Gericke,REP,170,48,122
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Attorney,,Anthony Gericke,REP,921,355,566
+Allamakee,Pct 10 - WAUKON WARD 3,County Attorney,,Anthony Gericke,REP,429,251,178
+Allamakee,Pct 3 - PO/FK/PV CITY,County Attorney,,Anthony Gericke,REP,559,161,398
+Allamakee,Pct 4 - LT/PC/WV CITY,County Attorney,,Anthony Gericke,REP,275,91,184
+Allamakee,Pct 5 - FV/TL/HF CITY,County Attorney,,Anthony Gericke,REP,386,107,279
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Attorney,,Anthony Gericke,REP,810,282,528
+Allamakee,Pct 7 - IA/UC/NA City,County Attorney,,Anthony Gericke,REP,369,76,293
+Allamakee,Pct 8 - WAUKON WARD 1,County Attorney,,Anthony Gericke,REP,437,234,203
+Allamakee,Pct 9 - WAUKON WARD 2,County Attorney,,Anthony Gericke,REP,388,165,223
+Allamakee,PCT 1 - WL/HV,County Attorney,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Attorney,,Write-In,,10,2,8
+Allamakee,Pct 10 - WAUKON WARD 3,County Attorney,,Write-In,,5,2,3
+Allamakee,Pct 3 - PO/FK/PV CITY,County Attorney,,Write-In,,19,1,18
+Allamakee,Pct 4 - LT/PC/WV CITY,County Attorney,,Write-In,,5,4,1
+Allamakee,Pct 5 - FV/TL/HF CITY,County Attorney,,Write-In,,4,2,2
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Attorney,,Write-In,,15,5,10
+Allamakee,Pct 7 - IA/UC/NA City,County Attorney,,Write-In,,6,3,3
+Allamakee,Pct 8 - WAUKON WARD 1,County Attorney,,Write-In,,5,4,1
+Allamakee,Pct 9 - WAUKON WARD 2,County Attorney,,Write-In,,7,3,4
+Allamakee,PCT 1 - WL/HV,County Board of Supervisors,,Jim Pladsen,DEM,78,34,44
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Board of Supervisors,,Jim Pladsen,DEM,452,209,243
+Allamakee,Pct 10 - WAUKON WARD 3,County Board of Supervisors,,Jim Pladsen,DEM,272,165,107
+Allamakee,Pct 3 - PO/FK/PV CITY,County Board of Supervisors,,Jim Pladsen,DEM,302,95,207
+Allamakee,Pct 4 - LT/PC/WV CITY,County Board of Supervisors,,Jim Pladsen,DEM,128,63,65
+Allamakee,Pct 5 - FV/TL/HF CITY,County Board of Supervisors,,Jim Pladsen,DEM,198,80,118
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Board of Supervisors,,Jim Pladsen,DEM,528,230,298
+Allamakee,Pct 7 - IA/UC/NA City,County Board of Supervisors,,Jim Pladsen,DEM,183,42,141
+Allamakee,Pct 8 - WAUKON WARD 1,County Board of Supervisors,,Jim Pladsen,DEM,265,166,99
+Allamakee,Pct 9 - WAUKON WARD 2,County Board of Supervisors,,Jim Pladsen,DEM,233,105,128
+Allamakee,PCT 1 - WL/HV,County Board of Supervisors,,Joseph Manning,REP,132,32,100
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Board of Supervisors,,Joseph Manning,REP,707,245,462
+Allamakee,Pct 10 - WAUKON WARD 3,County Board of Supervisors,,Joseph Manning,REP,305,177,128
+Allamakee,Pct 3 - PO/FK/PV CITY,County Board of Supervisors,,Joseph Manning,REP,427,112,315
+Allamakee,Pct 4 - LT/PC/WV CITY,County Board of Supervisors,,Joseph Manning,REP,205,56,149
+Allamakee,Pct 5 - FV/TL/HF CITY,County Board of Supervisors,,Joseph Manning,REP,310,81,229
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Board of Supervisors,,Joseph Manning,REP,691,222,469
+Allamakee,Pct 7 - IA/UC/NA City,County Board of Supervisors,,Joseph Manning,REP,310,60,250
+Allamakee,Pct 8 - WAUKON WARD 1,County Board of Supervisors,,Joseph Manning,REP,348,192,156
+Allamakee,Pct 9 - WAUKON WARD 2,County Board of Supervisors,,Joseph Manning,REP,262,105,157
+Allamakee,PCT 1 - WL/HV,County Board of Supervisors,,Pat Stone,REP,100,28,72
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Board of Supervisors,,Pat Stone,REP,526,202,324
+Allamakee,Pct 10 - WAUKON WARD 3,County Board of Supervisors,,Pat Stone,REP,203,123,80
+Allamakee,Pct 3 - PO/FK/PV CITY,County Board of Supervisors,,Pat Stone,REP,280,83,197
+Allamakee,Pct 4 - LT/PC/WV CITY,County Board of Supervisors,,Pat Stone,REP,203,57,146
+Allamakee,Pct 5 - FV/TL/HF CITY,County Board of Supervisors,,Pat Stone,REP,223,47,176
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Board of Supervisors,,Pat Stone,REP,380,136,244
+Allamakee,Pct 7 - IA/UC/NA City,County Board of Supervisors,,Pat Stone,REP,157,36,121
+Allamakee,Pct 8 - WAUKON WARD 1,County Board of Supervisors,,Pat Stone,REP,240,119,121
+Allamakee,Pct 9 - WAUKON WARD 2,County Board of Supervisors,,Pat Stone,REP,204,76,128
+Allamakee,PCT 1 - WL/HV,County Board of Supervisors,,Write-In,,1,0,1
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Board of Supervisors,,Write-In,,4,2,2
+Allamakee,Pct 10 - WAUKON WARD 3,County Board of Supervisors,,Write-In,,5,1,4
+Allamakee,Pct 3 - PO/FK/PV CITY,County Board of Supervisors,,Write-In,,1,0,1
+Allamakee,Pct 4 - LT/PC/WV CITY,County Board of Supervisors,,Write-In,,0,0,0
+Allamakee,Pct 5 - FV/TL/HF CITY,County Board of Supervisors,,Write-In,,1,0,1
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Board of Supervisors,,Write-In,,4,1,3
+Allamakee,Pct 7 - IA/UC/NA City,County Board of Supervisors,,Write-In,,2,0,2
+Allamakee,Pct 8 - WAUKON WARD 1,County Board of Supervisors,,Write-In,,0,0,0
+Allamakee,Pct 9 - WAUKON WARD 2,County Board of Supervisors,,Write-In,,0,0,0
+Allamakee,PCT 1 - WL/HV,County Hospital Trustee,,John D. Ellingson,,119,38,81
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Hospital Trustee,,John D. Ellingson,,591,247,344
+Allamakee,Pct 10 - WAUKON WARD 3,County Hospital Trustee,,John D. Ellingson,,293,178,115
+Allamakee,Pct 3 - PO/FK/PV CITY,County Hospital Trustee,,John D. Ellingson,,388,112,276
+Allamakee,Pct 4 - LT/PC/WV CITY,County Hospital Trustee,,John D. Ellingson,,189,68,121
+Allamakee,Pct 5 - FV/TL/HF CITY,County Hospital Trustee,,John D. Ellingson,,286,79,207
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Hospital Trustee,,John D. Ellingson,,578,213,365
+Allamakee,Pct 7 - IA/UC/NA City,County Hospital Trustee,,John D. Ellingson,,242,49,193
+Allamakee,Pct 8 - WAUKON WARD 1,County Hospital Trustee,,John D. Ellingson,,304,174,130
+Allamakee,Pct 9 - WAUKON WARD 2,County Hospital Trustee,,John D. Ellingson,,263,109,154
+Allamakee,PCT 1 - WL/HV,County Hospital Trustee,,Larry Schellhammer,,117,31,86
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Hospital Trustee,,Larry Schellhammer,,742,291,451
+Allamakee,Pct 10 - WAUKON WARD 3,County Hospital Trustee,,Larry Schellhammer,,354,216,138
+Allamakee,Pct 3 - PO/FK/PV CITY,County Hospital Trustee,,Larry Schellhammer,,391,115,276
+Allamakee,Pct 4 - LT/PC/WV CITY,County Hospital Trustee,,Larry Schellhammer,,224,82,142
+Allamakee,Pct 5 - FV/TL/HF CITY,County Hospital Trustee,,Larry Schellhammer,,292,94,198
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Hospital Trustee,,Larry Schellhammer,,652,229,423
+Allamakee,Pct 7 - IA/UC/NA City,County Hospital Trustee,,Larry Schellhammer,,261,61,200
+Allamakee,Pct 8 - WAUKON WARD 1,County Hospital Trustee,,Larry Schellhammer,,361,207,154
+Allamakee,Pct 9 - WAUKON WARD 2,County Hospital Trustee,,Larry Schellhammer,,314,132,182
+Allamakee,PCT 1 - WL/HV,County Hospital Trustee,,Patty Nordheim,,122,37,85
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Hospital Trustee,,Patty Nordheim,,728,292,436
+Allamakee,Pct 10 - WAUKON WARD 3,County Hospital Trustee,,Patty Nordheim,,359,222,137
+Allamakee,Pct 3 - PO/FK/PV CITY,County Hospital Trustee,,Patty Nordheim,,429,124,305
+Allamakee,Pct 4 - LT/PC/WV CITY,County Hospital Trustee,,Patty Nordheim,,214,79,135
+Allamakee,Pct 5 - FV/TL/HF CITY,County Hospital Trustee,,Patty Nordheim,,305,90,215
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Hospital Trustee,,Patty Nordheim,,631,233,398
+Allamakee,Pct 7 - IA/UC/NA City,County Hospital Trustee,,Patty Nordheim,,261,58,203
+Allamakee,Pct 8 - WAUKON WARD 1,County Hospital Trustee,,Patty Nordheim,,384,220,164
+Allamakee,Pct 9 - WAUKON WARD 2,County Hospital Trustee,,Patty Nordheim,,322,140,182
+Allamakee,PCT 1 - WL/HV,County Hospital Trustee,,Write-In,,1,0,1
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Hospital Trustee,,Write-In,,36,11,25
+Allamakee,Pct 10 - WAUKON WARD 3,County Hospital Trustee,,Write-In,,17,10,7
+Allamakee,Pct 3 - PO/FK/PV CITY,County Hospital Trustee,,Write-In,,27,11,16
+Allamakee,Pct 4 - LT/PC/WV CITY,County Hospital Trustee,,Write-In,,11,6,5
+Allamakee,Pct 5 - FV/TL/HF CITY,County Hospital Trustee,,Write-In,,8,2,6
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Hospital Trustee,,Write-In,,37,15,22
+Allamakee,Pct 7 - IA/UC/NA City,County Hospital Trustee,,Write-In,,16,4,12
+Allamakee,Pct 8 - WAUKON WARD 1,County Hospital Trustee,,Write-In,,30,21,9
+Allamakee,Pct 9 - WAUKON WARD 2,County Hospital Trustee,,Write-In,,18,4,14
+Allamakee,PCT 1 - WL/HV,County Recorder,,Karen Mathis,,179,51,128
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Recorder,,Karen Mathis,,972,381,591
+Allamakee,Pct 10 - WAUKON WARD 3,County Recorder,,Karen Mathis,,458,272,186
+Allamakee,Pct 3 - PO/FK/PV CITY,County Recorder,,Karen Mathis,,548,169,379
+Allamakee,Pct 4 - LT/PC/WV CITY,County Recorder,,Karen Mathis,,303,109,194
+Allamakee,Pct 5 - FV/TL/HF CITY,County Recorder,,Karen Mathis,,416,120,296
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Recorder,,Karen Mathis,,894,323,571
+Allamakee,Pct 7 - IA/UC/NA City,County Recorder,,Karen Mathis,,388,84,304
+Allamakee,Pct 8 - WAUKON WARD 1,County Recorder,,Karen Mathis,,463,253,210
+Allamakee,Pct 9 - WAUKON WARD 2,County Recorder,,Karen Mathis,,411,175,236
+Allamakee,PCT 1 - WL/HV,County Recorder,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Recorder,,Write-In,,4,1,3
+Allamakee,Pct 10 - WAUKON WARD 3,County Recorder,,Write-In,,3,1,2
+Allamakee,Pct 3 - PO/FK/PV CITY,County Recorder,,Write-In,,6,1,5
+Allamakee,Pct 4 - LT/PC/WV CITY,County Recorder,,Write-In,,2,1,1
+Allamakee,Pct 5 - FV/TL/HF CITY,County Recorder,,Write-In,,3,0,3
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Recorder,,Write-In,,4,1,3
+Allamakee,Pct 7 - IA/UC/NA City,County Recorder,,Write-In,,2,1,1
+Allamakee,Pct 8 - WAUKON WARD 1,County Recorder,,Write-In,,3,0,3
+Allamakee,Pct 9 - WAUKON WARD 2,County Recorder,,Write-In,,3,3,0
+Allamakee,PCT 1 - WL/HV,County Treasurer,,Nicki Smedsrud,REP,179,49,130
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Treasurer,,Nicki Smedsrud,REP,982,373,609
+Allamakee,Pct 10 - WAUKON WARD 3,County Treasurer,,Nicki Smedsrud,REP,446,260,186
+Allamakee,Pct 3 - PO/FK/PV CITY,County Treasurer,,Nicki Smedsrud,REP,577,162,415
+Allamakee,Pct 4 - LT/PC/WV CITY,County Treasurer,,Nicki Smedsrud,REP,297,99,198
+Allamakee,Pct 5 - FV/TL/HF CITY,County Treasurer,,Nicki Smedsrud,REP,404,114,290
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Treasurer,,Nicki Smedsrud,REP,875,307,568
+Allamakee,Pct 7 - IA/UC/NA City,County Treasurer,,Nicki Smedsrud,REP,383,78,305
+Allamakee,Pct 8 - WAUKON WARD 1,County Treasurer,,Nicki Smedsrud,REP,467,257,210
+Allamakee,Pct 9 - WAUKON WARD 2,County Treasurer,,Nicki Smedsrud,REP,400,170,230
+Allamakee,PCT 1 - WL/HV,County Treasurer,,Write-In,,1,0,1
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,County Treasurer,,Write-In,,3,1,2
+Allamakee,Pct 10 - WAUKON WARD 3,County Treasurer,,Write-In,,1,0,1
+Allamakee,Pct 3 - PO/FK/PV CITY,County Treasurer,,Write-In,,7,1,6
+Allamakee,Pct 4 - LT/PC/WV CITY,County Treasurer,,Write-In,,5,3,2
+Allamakee,Pct 5 - FV/TL/HF CITY,County Treasurer,,Write-In,,1,0,1
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,County Treasurer,,Write-In,,9,3,6
+Allamakee,Pct 7 - IA/UC/NA City,County Treasurer,,Write-In,,5,3,2
+Allamakee,Pct 8 - WAUKON WARD 1,County Treasurer,,Write-In,,2,0,2
+Allamakee,Pct 9 - WAUKON WARD 2,County Treasurer,,Write-In,,5,3,2
+Allamakee,PCT 1 - WL/HV,Court of Appeals Judge - John M. Sandy,,No,,44,11,33
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Court of Appeals Judge - John M. Sandy,,No,,189,78,111
+Allamakee,Pct 10 - WAUKON WARD 3,Court of Appeals Judge - John M. Sandy,,No,,95,56,39
+Allamakee,Pct 3 - PO/FK/PV CITY,Court of Appeals Judge - John M. Sandy,,No,,99,31,68
+Allamakee,Pct 4 - LT/PC/WV CITY,Court of Appeals Judge - John M. Sandy,,No,,61,24,37
+Allamakee,Pct 5 - FV/TL/HF CITY,Court of Appeals Judge - John M. Sandy,,No,,80,29,51
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Court of Appeals Judge - John M. Sandy,,No,,167,75,92
+Allamakee,Pct 7 - IA/UC/NA City,Court of Appeals Judge - John M. Sandy,,No,,74,19,55
+Allamakee,Pct 8 - WAUKON WARD 1,Court of Appeals Judge - John M. Sandy,,No,,69,38,31
+Allamakee,Pct 9 - WAUKON WARD 2,Court of Appeals Judge - John M. Sandy,,No,,77,35,42
+Allamakee,PCT 1 - WL/HV,Court of Appeals Judge - John M. Sandy,,Yes,,110,25,85
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Court of Appeals Judge - John M. Sandy,,Yes,,567,223,344
+Allamakee,Pct 10 - WAUKON WARD 3,Court of Appeals Judge - John M. Sandy,,Yes,,292,169,123
+Allamakee,Pct 3 - PO/FK/PV CITY,Court of Appeals Judge - John M. Sandy,,Yes,,393,109,284
+Allamakee,Pct 4 - LT/PC/WV CITY,Court of Appeals Judge - John M. Sandy,,Yes,,181,66,115
+Allamakee,Pct 5 - FV/TL/HF CITY,Court of Appeals Judge - John M. Sandy,,Yes,,269,74,195
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Court of Appeals Judge - John M. Sandy,,Yes,,568,184,384
+Allamakee,Pct 7 - IA/UC/NA City,Court of Appeals Judge - John M. Sandy,,Yes,,232,52,180
+Allamakee,Pct 8 - WAUKON WARD 1,Court of Appeals Judge - John M. Sandy,,Yes,,257,166,91
+Allamakee,Pct 9 - WAUKON WARD 2,Court of Appeals Judge - John M. Sandy,,Yes,,269,111,158
+Allamakee,PCT 1 - WL/HV,Court of Appeals Judge - Julie A. Schumacher,,No,,42,10,32
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Court of Appeals Judge - Julie A. Schumacher,,No,,178,70,108
+Allamakee,Pct 10 - WAUKON WARD 3,Court of Appeals Judge - Julie A. Schumacher,,No,,91,55,36
+Allamakee,Pct 3 - PO/FK/PV CITY,Court of Appeals Judge - Julie A. Schumacher,,No,,88,29,59
+Allamakee,Pct 4 - LT/PC/WV CITY,Court of Appeals Judge - Julie A. Schumacher,,No,,63,26,37
+Allamakee,Pct 5 - FV/TL/HF CITY,Court of Appeals Judge - Julie A. Schumacher,,No,,78,24,54
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Court of Appeals Judge - Julie A. Schumacher,,No,,167,66,101
+Allamakee,Pct 7 - IA/UC/NA City,Court of Appeals Judge - Julie A. Schumacher,,No,,72,14,58
+Allamakee,Pct 8 - WAUKON WARD 1,Court of Appeals Judge - Julie A. Schumacher,,No,,67,42,25
+Allamakee,Pct 9 - WAUKON WARD 2,Court of Appeals Judge - Julie A. Schumacher,,No,,74,30,44
+Allamakee,PCT 1 - WL/HV,Court of Appeals Judge - Julie A. Schumacher,,Yes,,107,24,83
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Court of Appeals Judge - Julie A. Schumacher,,Yes,,574,230,344
+Allamakee,Pct 10 - WAUKON WARD 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,289,168,121
+Allamakee,Pct 3 - PO/FK/PV CITY,Court of Appeals Judge - Julie A. Schumacher,,Yes,,402,113,289
+Allamakee,Pct 4 - LT/PC/WV CITY,Court of Appeals Judge - Julie A. Schumacher,,Yes,,180,65,115
+Allamakee,Pct 5 - FV/TL/HF CITY,Court of Appeals Judge - Julie A. Schumacher,,Yes,,273,80,193
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Court of Appeals Judge - Julie A. Schumacher,,Yes,,561,189,372
+Allamakee,Pct 7 - IA/UC/NA City,Court of Appeals Judge - Julie A. Schumacher,,Yes,,232,57,175
+Allamakee,Pct 8 - WAUKON WARD 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,252,159,93
+Allamakee,Pct 9 - WAUKON WARD 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,271,114,157
+Allamakee,PCT 1 - WL/HV,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,39,11,28
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,201,78,123
+Allamakee,Pct 10 - WAUKON WARD 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,100,55,45
+Allamakee,Pct 3 - PO/FK/PV CITY,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,101,33,68
+Allamakee,Pct 4 - LT/PC/WV CITY,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,72,28,44
+Allamakee,Pct 5 - FV/TL/HF CITY,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,88,30,58
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,177,69,108
+Allamakee,Pct 7 - IA/UC/NA City,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,78,18,60
+Allamakee,Pct 8 - WAUKON WARD 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,68,41,27
+Allamakee,Pct 9 - WAUKON WARD 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,92,36,56
+Allamakee,PCT 1 - WL/HV,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,109,25,84
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,547,219,328
+Allamakee,Pct 10 - WAUKON WARD 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,277,162,115
+Allamakee,Pct 3 - PO/FK/PV CITY,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,377,105,272
+Allamakee,Pct 4 - LT/PC/WV CITY,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,168,61,107
+Allamakee,Pct 5 - FV/TL/HF CITY,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,258,73,185
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,548,184,364
+Allamakee,Pct 7 - IA/UC/NA City,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,226,53,173
+Allamakee,Pct 8 - WAUKON WARD 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,250,158,92
+Allamakee,Pct 9 - WAUKON WARD 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,248,107,141
+Allamakee,PCT 1 - WL/HV,District 1A Associate Judge - Mark T. Hostager,,No,,41,10,31
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,District 1A Associate Judge - Mark T. Hostager,,No,,187,75,112
+Allamakee,Pct 10 - WAUKON WARD 3,District 1A Associate Judge - Mark T. Hostager,,No,,96,55,41
+Allamakee,Pct 3 - PO/FK/PV CITY,District 1A Associate Judge - Mark T. Hostager,,No,,95,30,65
+Allamakee,Pct 4 - LT/PC/WV CITY,District 1A Associate Judge - Mark T. Hostager,,No,,65,25,40
+Allamakee,Pct 5 - FV/TL/HF CITY,District 1A Associate Judge - Mark T. Hostager,,No,,87,33,54
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,District 1A Associate Judge - Mark T. Hostager,,No,,168,76,92
+Allamakee,Pct 7 - IA/UC/NA City,District 1A Associate Judge - Mark T. Hostager,,No,,70,17,53
+Allamakee,Pct 8 - WAUKON WARD 1,District 1A Associate Judge - Mark T. Hostager,,No,,67,40,27
+Allamakee,Pct 9 - WAUKON WARD 2,District 1A Associate Judge - Mark T. Hostager,,No,,73,35,38
+Allamakee,PCT 1 - WL/HV,District 1A Associate Judge - Mark T. Hostager,,Yes,,105,25,80
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,District 1A Associate Judge - Mark T. Hostager,,Yes,,567,229,338
+Allamakee,Pct 10 - WAUKON WARD 3,District 1A Associate Judge - Mark T. Hostager,,Yes,,281,163,118
+Allamakee,Pct 3 - PO/FK/PV CITY,District 1A Associate Judge - Mark T. Hostager,,Yes,,391,108,283
+Allamakee,Pct 4 - LT/PC/WV CITY,District 1A Associate Judge - Mark T. Hostager,,Yes,,175,65,110
+Allamakee,Pct 5 - FV/TL/HF CITY,District 1A Associate Judge - Mark T. Hostager,,Yes,,259,69,190
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,District 1A Associate Judge - Mark T. Hostager,,Yes,,568,185,383
+Allamakee,Pct 7 - IA/UC/NA City,District 1A Associate Judge - Mark T. Hostager,,Yes,,239,55,184
+Allamakee,Pct 8 - WAUKON WARD 1,District 1A Associate Judge - Mark T. Hostager,,Yes,,252,162,90
+Allamakee,Pct 9 - WAUKON WARD 2,District 1A Associate Judge - Mark T. Hostager,,Yes,,264,107,157
+Allamakee,PCT 1 - WL/HV,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,39,11,28
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,192,75,117
+Allamakee,Pct 10 - WAUKON WARD 3,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,92,55,37
+Allamakee,Pct 3 - PO/FK/PV CITY,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,97,29,68
+Allamakee,Pct 4 - LT/PC/WV CITY,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,66,31,35
+Allamakee,Pct 5 - FV/TL/HF CITY,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,80,29,51
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,179,75,104
+Allamakee,Pct 7 - IA/UC/NA City,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,69,16,53
+Allamakee,Pct 8 - WAUKON WARD 1,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,66,40,26
+Allamakee,Pct 9 - WAUKON WARD 2,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,86,36,50
+Allamakee,PCT 1 - WL/HV,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,111,26,85
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,557,223,334
+Allamakee,Pct 10 - WAUKON WARD 3,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,278,159,119
+Allamakee,Pct 3 - PO/FK/PV CITY,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,385,109,276
+Allamakee,Pct 4 - LT/PC/WV CITY,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,174,58,116
+Allamakee,Pct 5 - FV/TL/HF CITY,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,269,75,194
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,547,181,366
+Allamakee,Pct 7 - IA/UC/NA City,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,235,55,180
+Allamakee,Pct 8 - WAUKON WARD 1,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,247,157,90
+Allamakee,Pct 9 - WAUKON WARD 2,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,254,106,148
+Allamakee,PCT 1 - WL/HV,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,34,8,26
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,195,84,111
+Allamakee,Pct 10 - WAUKON WARD 3,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,89,51,38
+Allamakee,Pct 3 - PO/FK/PV CITY,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,91,33,58
+Allamakee,Pct 4 - LT/PC/WV CITY,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,64,30,34
+Allamakee,Pct 5 - FV/TL/HF CITY,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,82,33,49
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,160,71,89
+Allamakee,Pct 7 - IA/UC/NA City,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,62,14,48
+Allamakee,Pct 8 - WAUKON WARD 1,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,61,35,26
+Allamakee,Pct 9 - WAUKON WARD 2,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,76,37,39
+Allamakee,PCT 1 - WL/HV,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,115,27,88
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,560,218,342
+Allamakee,Pct 10 - WAUKON WARD 3,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,285,165,120
+Allamakee,Pct 3 - PO/FK/PV CITY,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,399,107,292
+Allamakee,Pct 4 - LT/PC/WV CITY,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,175,61,114
+Allamakee,Pct 5 - FV/TL/HF CITY,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,266,69,197
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,566,183,383
+Allamakee,Pct 7 - IA/UC/NA City,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,250,56,194
+Allamakee,Pct 8 - WAUKON WARD 1,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,255,165,90
+Allamakee,Pct 9 - WAUKON WARD 2,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,266,104,162
+Allamakee,PCT 1 - WL/HV,District 1A Judge - Alan Heavens,,No,,40,11,29
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,District 1A Judge - Alan Heavens,,No,,176,75,101
+Allamakee,Pct 10 - WAUKON WARD 3,District 1A Judge - Alan Heavens,,No,,93,53,40
+Allamakee,Pct 3 - PO/FK/PV CITY,District 1A Judge - Alan Heavens,,No,,92,29,63
+Allamakee,Pct 4 - LT/PC/WV CITY,District 1A Judge - Alan Heavens,,No,,59,24,35
+Allamakee,Pct 5 - FV/TL/HF CITY,District 1A Judge - Alan Heavens,,No,,76,24,52
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,District 1A Judge - Alan Heavens,,No,,164,73,91
+Allamakee,Pct 7 - IA/UC/NA City,District 1A Judge - Alan Heavens,,No,,72,17,55
+Allamakee,Pct 8 - WAUKON WARD 1,District 1A Judge - Alan Heavens,,No,,65,37,28
+Allamakee,Pct 9 - WAUKON WARD 2,District 1A Judge - Alan Heavens,,No,,75,28,47
+Allamakee,PCT 1 - WL/HV,District 1A Judge - Alan Heavens,,Yes,,111,25,86
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,District 1A Judge - Alan Heavens,,Yes,,598,229,369
+Allamakee,Pct 10 - WAUKON WARD 3,District 1A Judge - Alan Heavens,,Yes,,291,170,121
+Allamakee,Pct 3 - PO/FK/PV CITY,District 1A Judge - Alan Heavens,,Yes,,410,117,293
+Allamakee,Pct 4 - LT/PC/WV CITY,District 1A Judge - Alan Heavens,,Yes,,189,68,121
+Allamakee,Pct 5 - FV/TL/HF CITY,District 1A Judge - Alan Heavens,,Yes,,275,79,196
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,District 1A Judge - Alan Heavens,,Yes,,567,184,383
+Allamakee,Pct 7 - IA/UC/NA City,District 1A Judge - Alan Heavens,,Yes,,240,54,186
+Allamakee,Pct 8 - WAUKON WARD 1,District 1A Judge - Alan Heavens,,Yes,,268,170,98
+Allamakee,Pct 9 - WAUKON WARD 2,District 1A Judge - Alan Heavens,,Yes,,272,118,154
+Allamakee,Pct 5 - FV/TL/HF CITY,Fairview Township Clerk,,Samantha Donahue,,87,27,60
+Allamakee,Pct 5 - FV/TL/HF CITY,Fairview Township Clerk,,Write-In,,1,0,1
+Allamakee,Pct 5 - FV/TL/HF CITY,Fairview Township Trustee,,Jared L. Landt,,83,26,57
+Allamakee,Pct 5 - FV/TL/HF CITY,Fairview Township Trustee,,Write-In,,1,1,0
+Allamakee,Pct 5 - FV/TL/HF CITY,Fairview Township Trustee To Fill a Vacancy,,Mike W. Moody,,91,28,63
+Allamakee,Pct 5 - FV/TL/HF CITY,Fairview Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
+Allamakee,Pct 3 - PO/FK/PV CITY,Franklin Township Clerk,,Diane Kraus,,138,59,79
+Allamakee,Pct 3 - PO/FK/PV CITY,Franklin Township Clerk,,Write-In,,0,0,0
+Allamakee,Pct 3 - PO/FK/PV CITY,Franklin Township Trustee,,Doug Zieman,,142,59,83
+Allamakee,Pct 3 - PO/FK/PV CITY,Franklin Township Trustee,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,French Creek Township Clerk,,Tyler Plein,,88,36,52
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,French Creek Township Clerk,,Write-In,,1,0,1
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,French Creek Township Trustee,,Write-In,,4,1,3
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,French Creek Township Trustee To Fill a Vacancy,,Todd Wild,,94,39,55
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,French Creek Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
+Allamakee,PCT 1 - WL/HV,Governor,,Rob Sand and Dave Muhlbauer,DEM,78,32,46
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Governor,,Rob Sand and Dave Muhlbauer,DEM,421,210,211
+Allamakee,Pct 10 - WAUKON WARD 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,256,162,94
+Allamakee,Pct 3 - PO/FK/PV CITY,Governor,,Rob Sand and Dave Muhlbauer,DEM,308,97,211
+Allamakee,Pct 4 - LT/PC/WV CITY,Governor,,Rob Sand and Dave Muhlbauer,DEM,129,67,62
+Allamakee,Pct 5 - FV/TL/HF CITY,Governor,,Rob Sand and Dave Muhlbauer,DEM,214,88,126
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Governor,,Rob Sand and Dave Muhlbauer,DEM,535,243,292
+Allamakee,Pct 7 - IA/UC/NA City,Governor,,Rob Sand and Dave Muhlbauer,DEM,167,36,131
+Allamakee,Pct 8 - WAUKON WARD 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,249,158,91
+Allamakee,Pct 9 - WAUKON WARD 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,212,105,107
+Allamakee,PCT 1 - WL/HV,Governor,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Governor,,Write-In,,0,0,0
+Allamakee,Pct 10 - WAUKON WARD 3,Governor,,Write-In,,1,0,1
+Allamakee,Pct 3 - PO/FK/PV CITY,Governor,,Write-In,,2,0,2
+Allamakee,Pct 4 - LT/PC/WV CITY,Governor,,Write-In,,1,1,0
+Allamakee,Pct 5 - FV/TL/HF CITY,Governor,,Write-In,,0,0,0
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Governor,,Write-In,,0,0,0
+Allamakee,Pct 7 - IA/UC/NA City,Governor,,Write-In,,0,0,0
+Allamakee,Pct 8 - WAUKON WARD 1,Governor,,Write-In,,0,0,0
+Allamakee,Pct 9 - WAUKON WARD 2,Governor,,Write-In,,0,0,0
+Allamakee,PCT 1 - WL/HV,Governor,,Zach Lahn and Derek Wulf,REP,136,34,102
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Governor,,Zach Lahn and Derek Wulf,REP,659,210,449
+Allamakee,Pct 10 - WAUKON WARD 3,Governor,,Zach Lahn and Derek Wulf,REP,262,147,115
+Allamakee,Pct 3 - PO/FK/PV CITY,Governor,,Zach Lahn and Derek Wulf,REP,387,105,282
+Allamakee,Pct 4 - LT/PC/WV CITY,Governor,,Zach Lahn and Derek Wulf,REP,222,61,161
+Allamakee,Pct 5 - FV/TL/HF CITY,Governor,,Zach Lahn and Derek Wulf,REP,265,59,206
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Governor,,Zach Lahn and Derek Wulf,REP,509,158,351
+Allamakee,Pct 7 - IA/UC/NA City,Governor,,Zach Lahn and Derek Wulf,REP,276,58,218
+Allamakee,Pct 8 - WAUKON WARD 1,Governor,,Zach Lahn and Derek Wulf,REP,280,133,147
+Allamakee,Pct 9 - WAUKON WARD 2,Governor,,Zach Lahn and Derek Wulf,REP,246,95,151
+Allamakee,PCT 1 - WL/HV,Hanover Township Clerk,,Robert Larkin,,80,38,42
+Allamakee,PCT 1 - WL/HV,Hanover Township Clerk,,Write-In,,0,0,0
+Allamakee,PCT 1 - WL/HV,Hanover Township Trustee,,Mark D. Howe,,84,42,42
+Allamakee,PCT 1 - WL/HV,Hanover Township Trustee,,Write-In,,0,0,0
+Allamakee,Pct 7 - IA/UC/NA City,Iowa Township Clerk,,Robin Harmon,,130,24,106
+Allamakee,Pct 7 - IA/UC/NA City,Iowa Township Clerk,,Write-In,,0,0,0
+Allamakee,Pct 7 - IA/UC/NA City,Iowa Township Trustee,,Donald Zoll,,123,22,101
+Allamakee,Pct 7 - IA/UC/NA City,Iowa Township Trustee,,Write-In,,2,0,2
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Jefferson Township Clerk,,Michelle Donahue,,194,71,123
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Jefferson Township Clerk,,Write-In,,2,0,2
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Jefferson Township Trustee,,Bradley L. Winkie,,196,74,122
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Jefferson Township Trustee,,Write-In,,1,0,1
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Lafayette Township Clerk,,Write-In,,11,2,9
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Lafayette Township Trustee,,Thomas P. Gavin,,179,73,106
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Lafayette Township Trustee,,Write-In,,3,0,3
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Lafayette Township Trustee To Fill a Vacancy,,Daniel D. Conway,,184,76,108
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Lafayette Township Trustee To Fill a Vacancy,,Write-In,,2,0,2
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Lansing Township Clerk,,Joshua Aldrich,,180,69,111
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Lansing Township Clerk,,Write-In,,2,1,1
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Lansing Township Trustee,,Ben Mettille,,195,77,118
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Lansing Township Trustee,,Write-In,,1,1,0
+Allamakee,Pct 4 - LT/PC/WV CITY,Linton Township Clerk,,David D. Cahoon,,127,60,67
+Allamakee,Pct 4 - LT/PC/WV CITY,Linton Township Clerk,,Write-In,,0,0,0
+Allamakee,Pct 4 - LT/PC/WV CITY,Linton Township Trustee,,Dan Cahoon,,129,61,68
+Allamakee,Pct 4 - LT/PC/WV CITY,Linton Township Trustee,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Ludlow Township Clerk,,Audrey Peterson,,239,89,150
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Ludlow Township Clerk,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Ludlow Township Trustee,,Lars Palmer,,244,91,153
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Ludlow Township Trustee,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Makee Township Clerk,,Brad G. Berns,,214,77,137
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Makee Township Clerk,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Makee Township Trustee,,Adam Bieber,,207,77,130
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Makee Township Trustee,,Write-In,,6,1,5
+Allamakee,Pct 4 - LT/PC/WV CITY,Paint Creek Township Clerk,,Jamie Cahalan,,140,44,96
+Allamakee,Pct 4 - LT/PC/WV CITY,Paint Creek Township Clerk,,Write-In,,1,1,0
+Allamakee,Pct 4 - LT/PC/WV CITY,Paint Creek Township Trustee,,Kent McCormick,,138,43,95
+Allamakee,Pct 4 - LT/PC/WV CITY,Paint Creek Township Trustee,,Write-In,,0,0,0
+Allamakee,Pct 3 - PO/FK/PV CITY,Post Township Clerk,,Cindy Berns,,142,50,92
+Allamakee,Pct 3 - PO/FK/PV CITY,Post Township Clerk,,Write-In,,0,0,0
+Allamakee,Pct 3 - PO/FK/PV CITY,Post Township Trustee,,William Christofferson,,141,52,89
+Allamakee,Pct 3 - PO/FK/PV CITY,Post Township Trustee,,Write-In,,1,0,1
+Allamakee,Pct 3 - PO/FK/PV CITY,Post Township Trustee To Fill a Vacancy,,Cory Miner,,144,51,93
+Allamakee,Pct 3 - PO/FK/PV CITY,Post Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
+Allamakee,PCT 1 - WL/HV,Secretary of Agriculture,,Chris Jones,DEM,63,23,40
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Secretary of Agriculture,,Chris Jones,DEM,297,154,143
+Allamakee,Pct 10 - WAUKON WARD 3,Secretary of Agriculture,,Chris Jones,DEM,204,132,72
+Allamakee,Pct 3 - PO/FK/PV CITY,Secretary of Agriculture,,Chris Jones,DEM,227,77,150
+Allamakee,Pct 4 - LT/PC/WV CITY,Secretary of Agriculture,,Chris Jones,DEM,107,58,49
+Allamakee,Pct 5 - FV/TL/HF CITY,Secretary of Agriculture,,Chris Jones,DEM,169,76,93
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Secretary of Agriculture,,Chris Jones,DEM,445,214,231
+Allamakee,Pct 7 - IA/UC/NA City,Secretary of Agriculture,,Chris Jones,DEM,145,34,111
+Allamakee,Pct 8 - WAUKON WARD 1,Secretary of Agriculture,,Chris Jones,DEM,185,123,62
+Allamakee,Pct 9 - WAUKON WARD 2,Secretary of Agriculture,,Chris Jones,DEM,166,89,77
+Allamakee,PCT 1 - WL/HV,Secretary of Agriculture,,Mike Naig,REP,148,42,106
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Secretary of Agriculture,,Mike Naig,REP,767,262,505
+Allamakee,Pct 10 - WAUKON WARD 3,Secretary of Agriculture,,Mike Naig,REP,300,170,130
+Allamakee,Pct 3 - PO/FK/PV CITY,Secretary of Agriculture,,Mike Naig,REP,457,122,335
+Allamakee,Pct 4 - LT/PC/WV CITY,Secretary of Agriculture,,Mike Naig,REP,239,68,171
+Allamakee,Pct 5 - FV/TL/HF CITY,Secretary of Agriculture,,Mike Naig,REP,301,70,231
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Secretary of Agriculture,,Mike Naig,REP,569,177,392
+Allamakee,Pct 7 - IA/UC/NA City,Secretary of Agriculture,,Mike Naig,REP,287,59,228
+Allamakee,Pct 8 - WAUKON WARD 1,Secretary of Agriculture,,Mike Naig,REP,328,162,166
+Allamakee,Pct 9 - WAUKON WARD 2,Secretary of Agriculture,,Mike Naig,REP,283,107,176
+Allamakee,PCT 1 - WL/HV,Secretary of Agriculture,,Write-In,,1,0,1
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Secretary of Agriculture,,Write-In,,1,1,0
+Allamakee,Pct 10 - WAUKON WARD 3,Secretary of Agriculture,,Write-In,,1,1,0
+Allamakee,Pct 3 - PO/FK/PV CITY,Secretary of Agriculture,,Write-In,,1,0,1
+Allamakee,Pct 4 - LT/PC/WV CITY,Secretary of Agriculture,,Write-In,,0,0,0
+Allamakee,Pct 5 - FV/TL/HF CITY,Secretary of Agriculture,,Write-In,,0,0,0
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Secretary of Agriculture,,Write-In,,1,0,1
+Allamakee,Pct 7 - IA/UC/NA City,Secretary of Agriculture,,Write-In,,1,0,1
+Allamakee,Pct 8 - WAUKON WARD 1,Secretary of Agriculture,,Write-In,,0,0,0
+Allamakee,Pct 9 - WAUKON WARD 2,Secretary of Agriculture,,Write-In,,0,0,0
+Allamakee,PCT 1 - WL/HV,Secretary of State,,Paul D. Pate,REP,145,38,107
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Secretary of State,,Paul D. Pate,REP,753,242,511
+Allamakee,Pct 10 - WAUKON WARD 3,Secretary of State,,Paul D. Pate,REP,307,168,139
+Allamakee,Pct 3 - PO/FK/PV CITY,Secretary of State,,Paul D. Pate,REP,451,123,328
+Allamakee,Pct 4 - LT/PC/WV CITY,Secretary of State,,Paul D. Pate,REP,239,68,171
+Allamakee,Pct 5 - FV/TL/HF CITY,Secretary of State,,Paul D. Pate,REP,310,73,237
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Secretary of State,,Paul D. Pate,REP,565,178,387
+Allamakee,Pct 7 - IA/UC/NA City,Secretary of State,,Paul D. Pate,REP,296,62,234
+Allamakee,Pct 8 - WAUKON WARD 1,Secretary of State,,Paul D. Pate,REP,338,171,167
+Allamakee,Pct 9 - WAUKON WARD 2,Secretary of State,,Paul D. Pate,REP,278,111,167
+Allamakee,PCT 1 - WL/HV,Secretary of State,,Ryan Peterman,DEM,65,27,38
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Secretary of State,,Ryan Peterman,DEM,307,172,135
+Allamakee,Pct 10 - WAUKON WARD 3,Secretary of State,,Ryan Peterman,DEM,206,139,67
+Allamakee,Pct 3 - PO/FK/PV CITY,Secretary of State,,Ryan Peterman,DEM,234,73,161
+Allamakee,Pct 4 - LT/PC/WV CITY,Secretary of State,,Ryan Peterman,DEM,105,58,47
+Allamakee,Pct 5 - FV/TL/HF CITY,Secretary of State,,Ryan Peterman,DEM,167,74,93
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Secretary of State,,Ryan Peterman,DEM,456,216,240
+Allamakee,Pct 7 - IA/UC/NA City,Secretary of State,,Ryan Peterman,DEM,137,32,105
+Allamakee,Pct 8 - WAUKON WARD 1,Secretary of State,,Ryan Peterman,DEM,179,118,61
+Allamakee,Pct 9 - WAUKON WARD 2,Secretary of State,,Ryan Peterman,DEM,174,86,88
+Allamakee,PCT 1 - WL/HV,Secretary of State,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Secretary of State,,Write-In,,1,1,0
+Allamakee,Pct 10 - WAUKON WARD 3,Secretary of State,,Write-In,,0,0,0
+Allamakee,Pct 3 - PO/FK/PV CITY,Secretary of State,,Write-In,,1,0,1
+Allamakee,Pct 4 - LT/PC/WV CITY,Secretary of State,,Write-In,,1,0,1
+Allamakee,Pct 5 - FV/TL/HF CITY,Secretary of State,,Write-In,,0,0,0
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Secretary of State,,Write-In,,1,0,1
+Allamakee,Pct 7 - IA/UC/NA City,Secretary of State,,Write-In,,0,0,0
+Allamakee,Pct 8 - WAUKON WARD 1,Secretary of State,,Write-In,,0,0,0
+Allamakee,Pct 9 - WAUKON WARD 2,Secretary of State,,Write-In,,0,0,0
+Allamakee,PCT 1 - WL/HV,Soil and Water Conservation District Commissioner,,Donald Elsbernd,,124,32,92
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Soil and Water Conservation District Commissioner,,Donald Elsbernd,,699,275,424
+Allamakee,Pct 10 - WAUKON WARD 3,Soil and Water Conservation District Commissioner,,Donald Elsbernd,,321,194,127
+Allamakee,Pct 3 - PO/FK/PV CITY,Soil and Water Conservation District Commissioner,,Donald Elsbernd,,431,119,312
+Allamakee,Pct 4 - LT/PC/WV CITY,Soil and Water Conservation District Commissioner,,Donald Elsbernd,,213,79,134
+Allamakee,Pct 5 - FV/TL/HF CITY,Soil and Water Conservation District Commissioner,,Donald Elsbernd,,282,79,203
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Soil and Water Conservation District Commissioner,,Donald Elsbernd,,601,216,385
+Allamakee,Pct 7 - IA/UC/NA City,Soil and Water Conservation District Commissioner,,Donald Elsbernd,,260,60,200
+Allamakee,Pct 8 - WAUKON WARD 1,Soil and Water Conservation District Commissioner,,Donald Elsbernd,,327,192,135
+Allamakee,Pct 9 - WAUKON WARD 2,Soil and Water Conservation District Commissioner,,Donald Elsbernd,,276,116,160
+Allamakee,PCT 1 - WL/HV,Soil and Water Conservation District Commissioner,,Scott Dougherty,,145,40,105
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Soil and Water Conservation District Commissioner,,Scott Dougherty,,801,304,497
+Allamakee,Pct 10 - WAUKON WARD 3,Soil and Water Conservation District Commissioner,,Scott Dougherty,,372,224,148
+Allamakee,Pct 3 - PO/FK/PV CITY,Soil and Water Conservation District Commissioner,,Scott Dougherty,,441,132,309
+Allamakee,Pct 4 - LT/PC/WV CITY,Soil and Water Conservation District Commissioner,,Scott Dougherty,,239,96,143
+Allamakee,Pct 5 - FV/TL/HF CITY,Soil and Water Conservation District Commissioner,,Scott Dougherty,,317,98,219
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Soil and Water Conservation District Commissioner,,Scott Dougherty,,708,257,451
+Allamakee,Pct 7 - IA/UC/NA City,Soil and Water Conservation District Commissioner,,Scott Dougherty,,304,62,242
+Allamakee,Pct 8 - WAUKON WARD 1,Soil and Water Conservation District Commissioner,,Scott Dougherty,,369,213,156
+Allamakee,Pct 9 - WAUKON WARD 2,Soil and Water Conservation District Commissioner,,Scott Dougherty,,334,133,201
+Allamakee,PCT 1 - WL/HV,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Soil and Water Conservation District Commissioner,,Write-In,,5,2,3
+Allamakee,Pct 10 - WAUKON WARD 3,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Allamakee,Pct 3 - PO/FK/PV CITY,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Allamakee,Pct 4 - LT/PC/WV CITY,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Allamakee,Pct 5 - FV/TL/HF CITY,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Allamakee,Pct 7 - IA/UC/NA City,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Allamakee,Pct 8 - WAUKON WARD 1,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Allamakee,Pct 9 - WAUKON WARD 2,Soil and Water Conservation District Commissioner,,Write-In,,1,1,0
+Allamakee,PCT 1 - WL/HV,State House,64,Brian Bruening,DEM,72,30,42
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,State House,64,Brian Bruening,DEM,340,184,156
+Allamakee,Pct 10 - WAUKON WARD 3,State House,64,Brian Bruening,DEM,215,142,73
+Allamakee,Pct 3 - PO/FK/PV CITY,State House,64,Brian Bruening,DEM,272,89,183
+Allamakee,Pct 4 - LT/PC/WV CITY,State House,64,Brian Bruening,DEM,108,58,50
+Allamakee,Pct 5 - FV/TL/HF CITY,State House,64,Brian Bruening,DEM,182,80,102
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,State House,64,Brian Bruening,DEM,437,211,226
+Allamakee,Pct 7 - IA/UC/NA City,State House,64,Brian Bruening,DEM,144,32,112
+Allamakee,Pct 8 - WAUKON WARD 1,State House,64,Brian Bruening,DEM,194,130,64
+Allamakee,Pct 9 - WAUKON WARD 2,State House,64,Brian Bruening,DEM,180,87,93
+Allamakee,PCT 1 - WL/HV,State House,64,Jason Gearhart,REP,136,34,102
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,State House,64,Jason Gearhart,REP,727,234,493
+Allamakee,Pct 10 - WAUKON WARD 3,State House,64,Jason Gearhart,REP,293,161,132
+Allamakee,Pct 3 - PO/FK/PV CITY,State House,64,Jason Gearhart,REP,419,111,308
+Allamakee,Pct 4 - LT/PC/WV CITY,State House,64,Jason Gearhart,REP,240,70,170
+Allamakee,Pct 5 - FV/TL/HF CITY,State House,64,Jason Gearhart,REP,292,67,225
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,State House,64,Jason Gearhart,REP,594,181,413
+Allamakee,Pct 7 - IA/UC/NA City,State House,64,Jason Gearhart,REP,291,61,230
+Allamakee,Pct 8 - WAUKON WARD 1,State House,64,Jason Gearhart,REP,327,158,169
+Allamakee,Pct 9 - WAUKON WARD 2,State House,64,Jason Gearhart,REP,273,110,163
+Allamakee,PCT 1 - WL/HV,State House,64,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,State House,64,Write-In,,2,0,2
+Allamakee,Pct 10 - WAUKON WARD 3,State House,64,Write-In,,0,0,0
+Allamakee,Pct 3 - PO/FK/PV CITY,State House,64,Write-In,,1,0,1
+Allamakee,Pct 4 - LT/PC/WV CITY,State House,64,Write-In,,0,0,0
+Allamakee,Pct 5 - FV/TL/HF CITY,State House,64,Write-In,,0,0,0
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,State House,64,Write-In,,1,0,1
+Allamakee,Pct 7 - IA/UC/NA City,State House,64,Write-In,,0,0,0
+Allamakee,Pct 8 - WAUKON WARD 1,State House,64,Write-In,,1,1,0
+Allamakee,Pct 9 - WAUKON WARD 2,State House,64,Write-In,,0,0,0
+Allamakee,Pct 5 - FV/TL/HF CITY,Taylor Township Clerk,,Tom Cota,,166,43,123
+Allamakee,Pct 5 - FV/TL/HF CITY,Taylor Township Clerk,,Write-In,,0,0,0
+Allamakee,Pct 5 - FV/TL/HF CITY,Taylor Township Trustee,,Ron Cota,,169,45,124
+Allamakee,Pct 5 - FV/TL/HF CITY,Taylor Township Trustee,,Write-In,,0,0,0
+Allamakee,PCT 1 - WL/HV,Treasurer of State,,John Norwood,DEM,70,32,38
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Treasurer of State,,John Norwood,DEM,330,182,148
+Allamakee,Pct 10 - WAUKON WARD 3,Treasurer of State,,John Norwood,DEM,225,149,76
+Allamakee,Pct 3 - PO/FK/PV CITY,Treasurer of State,,John Norwood,DEM,253,86,167
+Allamakee,Pct 4 - LT/PC/WV CITY,Treasurer of State,,John Norwood,DEM,102,56,46
+Allamakee,Pct 5 - FV/TL/HF CITY,Treasurer of State,,John Norwood,DEM,185,80,105
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Treasurer of State,,John Norwood,DEM,475,224,251
+Allamakee,Pct 7 - IA/UC/NA City,Treasurer of State,,John Norwood,DEM,148,34,114
+Allamakee,Pct 8 - WAUKON WARD 1,Treasurer of State,,John Norwood,DEM,192,126,66
+Allamakee,Pct 9 - WAUKON WARD 2,Treasurer of State,,John Norwood,DEM,188,93,95
+Allamakee,PCT 1 - WL/HV,Treasurer of State,,Roby Smith,REP,141,34,107
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Treasurer of State,,Roby Smith,REP,714,231,483
+Allamakee,Pct 10 - WAUKON WARD 3,Treasurer of State,,Roby Smith,REP,275,153,122
+Allamakee,Pct 3 - PO/FK/PV CITY,Treasurer of State,,Roby Smith,REP,425,113,312
+Allamakee,Pct 4 - LT/PC/WV CITY,Treasurer of State,,Roby Smith,REP,239,69,170
+Allamakee,Pct 5 - FV/TL/HF CITY,Treasurer of State,,Roby Smith,REP,285,66,219
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Treasurer of State,,Roby Smith,REP,531,166,365
+Allamakee,Pct 7 - IA/UC/NA City,Treasurer of State,,Roby Smith,REP,280,59,221
+Allamakee,Pct 8 - WAUKON WARD 1,Treasurer of State,,Roby Smith,REP,313,155,158
+Allamakee,Pct 9 - WAUKON WARD 2,Treasurer of State,,Roby Smith,REP,257,103,154
+Allamakee,PCT 1 - WL/HV,Treasurer of State,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Treasurer of State,,Write-In,,1,0,1
+Allamakee,Pct 10 - WAUKON WARD 3,Treasurer of State,,Write-In,,0,0,0
+Allamakee,Pct 3 - PO/FK/PV CITY,Treasurer of State,,Write-In,,1,0,1
+Allamakee,Pct 4 - LT/PC/WV CITY,Treasurer of State,,Write-In,,0,0,0
+Allamakee,Pct 5 - FV/TL/HF CITY,Treasurer of State,,Write-In,,1,0,1
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,Treasurer of State,,Write-In,,2,0,2
+Allamakee,Pct 7 - IA/UC/NA City,Treasurer of State,,Write-In,,0,0,0
+Allamakee,Pct 8 - WAUKON WARD 1,Treasurer of State,,Write-In,,0,0,0
+Allamakee,Pct 9 - WAUKON WARD 2,Treasurer of State,,Write-In,,0,0,0
+Allamakee,PCT 1 - WL/HV,U.S. House,2,Dave Bushaw,,1,0,1
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,U.S. House,2,Dave Bushaw,,39,8,31
+Allamakee,Pct 10 - WAUKON WARD 3,U.S. House,2,Dave Bushaw,,34,16,18
+Allamakee,Pct 3 - PO/FK/PV CITY,U.S. House,2,Dave Bushaw,,35,8,27
+Allamakee,Pct 4 - LT/PC/WV CITY,U.S. House,2,Dave Bushaw,,10,5,5
+Allamakee,Pct 5 - FV/TL/HF CITY,U.S. House,2,Dave Bushaw,,13,4,9
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,U.S. House,2,Dave Bushaw,,41,12,29
+Allamakee,Pct 7 - IA/UC/NA City,U.S. House,2,Dave Bushaw,,8,0,8
+Allamakee,Pct 8 - WAUKON WARD 1,U.S. House,2,Dave Bushaw,,22,9,13
+Allamakee,Pct 9 - WAUKON WARD 2,U.S. House,2,Dave Bushaw,,16,5,11
+Allamakee,PCT 1 - WL/HV,U.S. House,2,Joe Mitchell,REP,139,36,103
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,U.S. House,2,Joe Mitchell,REP,672,220,452
+Allamakee,Pct 10 - WAUKON WARD 3,U.S. House,2,Joe Mitchell,REP,253,137,116
+Allamakee,Pct 3 - PO/FK/PV CITY,U.S. House,2,Joe Mitchell,REP,387,101,286
+Allamakee,Pct 4 - LT/PC/WV CITY,U.S. House,2,Joe Mitchell,REP,219,61,158
+Allamakee,Pct 5 - FV/TL/HF CITY,U.S. House,2,Joe Mitchell,REP,274,63,211
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,U.S. House,2,Joe Mitchell,REP,503,162,341
+Allamakee,Pct 7 - IA/UC/NA City,U.S. House,2,Joe Mitchell,REP,278,59,219
+Allamakee,Pct 8 - WAUKON WARD 1,U.S. House,2,Joe Mitchell,REP,296,140,156
+Allamakee,Pct 9 - WAUKON WARD 2,U.S. House,2,Joe Mitchell,REP,254,99,155
+Allamakee,PCT 1 - WL/HV,U.S. House,2,Lindsay James,DEM,64,27,37
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,U.S. House,2,Lindsay James,DEM,309,176,133
+Allamakee,Pct 10 - WAUKON WARD 3,U.S. House,2,Lindsay James,DEM,198,139,59
+Allamakee,Pct 3 - PO/FK/PV CITY,U.S. House,2,Lindsay James,DEM,232,77,155
+Allamakee,Pct 4 - LT/PC/WV CITY,U.S. House,2,Lindsay James,DEM,100,52,48
+Allamakee,Pct 5 - FV/TL/HF CITY,U.S. House,2,Lindsay James,DEM,165,73,92
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,U.S. House,2,Lindsay James,DEM,440,207,233
+Allamakee,Pct 7 - IA/UC/NA City,U.S. House,2,Lindsay James,DEM,137,33,104
+Allamakee,Pct 8 - WAUKON WARD 1,U.S. House,2,Lindsay James,DEM,182,128,54
+Allamakee,Pct 9 - WAUKON WARD 2,U.S. House,2,Lindsay James,DEM,170,91,79
+Allamakee,PCT 1 - WL/HV,U.S. House,2,Rick Stewart,LIB,5,2,3
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,U.S. House,2,Rick Stewart,LIB,27,5,22
+Allamakee,Pct 10 - WAUKON WARD 3,U.S. House,2,Rick Stewart,LIB,17,7,10
+Allamakee,Pct 3 - PO/FK/PV CITY,U.S. House,2,Rick Stewart,LIB,20,4,16
+Allamakee,Pct 4 - LT/PC/WV CITY,U.S. House,2,Rick Stewart,LIB,6,2,4
+Allamakee,Pct 5 - FV/TL/HF CITY,U.S. House,2,Rick Stewart,LIB,13,2,11
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,U.S. House,2,Rick Stewart,LIB,34,8,26
+Allamakee,Pct 7 - IA/UC/NA City,U.S. House,2,Rick Stewart,LIB,8,2,6
+Allamakee,Pct 8 - WAUKON WARD 1,U.S. House,2,Rick Stewart,LIB,16,11,5
+Allamakee,Pct 9 - WAUKON WARD 2,U.S. House,2,Rick Stewart,LIB,11,1,10
+Allamakee,PCT 1 - WL/HV,U.S. House,2,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,U.S. House,2,Write-In,,0,0,0
+Allamakee,Pct 10 - WAUKON WARD 3,U.S. House,2,Write-In,,0,0,0
+Allamakee,Pct 3 - PO/FK/PV CITY,U.S. House,2,Write-In,,0,0,0
+Allamakee,Pct 4 - LT/PC/WV CITY,U.S. House,2,Write-In,,0,0,0
+Allamakee,Pct 5 - FV/TL/HF CITY,U.S. House,2,Write-In,,0,0,0
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,U.S. House,2,Write-In,,1,0,1
+Allamakee,Pct 7 - IA/UC/NA City,U.S. House,2,Write-In,,0,0,0
+Allamakee,Pct 8 - WAUKON WARD 1,U.S. House,2,Write-In,,0,0,0
+Allamakee,Pct 9 - WAUKON WARD 2,U.S. House,2,Write-In,,0,0,0
+Allamakee,PCT 1 - WL/HV,U.S. Senate,,Ashley Hinson,REP,132,35,97
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,U.S. Senate,,Ashley Hinson,REP,673,211,462
+Allamakee,Pct 10 - WAUKON WARD 3,U.S. Senate,,Ashley Hinson,REP,267,139,128
+Allamakee,Pct 3 - PO/FK/PV CITY,U.S. Senate,,Ashley Hinson,REP,383,102,281
+Allamakee,Pct 4 - LT/PC/WV CITY,U.S. Senate,,Ashley Hinson,REP,222,61,161
+Allamakee,Pct 5 - FV/TL/HF CITY,U.S. Senate,,Ashley Hinson,REP,275,65,210
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,U.S. Senate,,Ashley Hinson,REP,499,161,338
+Allamakee,Pct 7 - IA/UC/NA City,U.S. Senate,,Ashley Hinson,REP,278,58,220
+Allamakee,Pct 8 - WAUKON WARD 1,U.S. Senate,,Ashley Hinson,REP,294,144,150
+Allamakee,Pct 9 - WAUKON WARD 2,U.S. Senate,,Ashley Hinson,REP,250,97,153
+Allamakee,PCT 1 - WL/HV,U.S. Senate,,Josh Turek,DEM,76,30,46
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,U.S. Senate,,Josh Turek,DEM,359,194,165
+Allamakee,Pct 10 - WAUKON WARD 3,U.S. Senate,,Josh Turek,DEM,218,148,70
+Allamakee,Pct 3 - PO/FK/PV CITY,U.S. Senate,,Josh Turek,DEM,277,86,191
+Allamakee,Pct 4 - LT/PC/WV CITY,U.S. Senate,,Josh Turek,DEM,101,55,46
+Allamakee,Pct 5 - FV/TL/HF CITY,U.S. Senate,,Josh Turek,DEM,179,74,105
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,U.S. Senate,,Josh Turek,DEM,482,220,262
+Allamakee,Pct 7 - IA/UC/NA City,U.S. Senate,,Josh Turek,DEM,136,35,101
+Allamakee,Pct 8 - WAUKON WARD 1,U.S. Senate,,Josh Turek,DEM,208,137,71
+Allamakee,Pct 9 - WAUKON WARD 2,U.S. Senate,,Josh Turek,DEM,191,99,92
+Allamakee,PCT 1 - WL/HV,U.S. Senate,,Thomas Laehn,LIB,2,0,2
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,U.S. Senate,,Thomas Laehn,LIB,27,6,21
+Allamakee,Pct 10 - WAUKON WARD 3,U.S. Senate,,Thomas Laehn,LIB,22,13,9
+Allamakee,Pct 3 - PO/FK/PV CITY,U.S. Senate,,Thomas Laehn,LIB,21,7,14
+Allamakee,Pct 4 - LT/PC/WV CITY,U.S. Senate,,Thomas Laehn,LIB,17,6,11
+Allamakee,Pct 5 - FV/TL/HF CITY,U.S. Senate,,Thomas Laehn,LIB,13,4,9
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,U.S. Senate,,Thomas Laehn,LIB,49,14,35
+Allamakee,Pct 7 - IA/UC/NA City,U.S. Senate,,Thomas Laehn,LIB,23,1,22
+Allamakee,Pct 8 - WAUKON WARD 1,U.S. Senate,,Thomas Laehn,LIB,22,10,12
+Allamakee,Pct 9 - WAUKON WARD 2,U.S. Senate,,Thomas Laehn,LIB,16,2,14
+Allamakee,PCT 1 - WL/HV,U.S. Senate,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,U.S. Senate,,Write-In,,1,0,1
+Allamakee,Pct 10 - WAUKON WARD 3,U.S. Senate,,Write-In,,1,0,1
+Allamakee,Pct 3 - PO/FK/PV CITY,U.S. Senate,,Write-In,,0,0,0
+Allamakee,Pct 4 - LT/PC/WV CITY,U.S. Senate,,Write-In,,0,0,0
+Allamakee,Pct 5 - FV/TL/HF CITY,U.S. Senate,,Write-In,,1,0,1
+Allamakee,Pct 6 - CN/LF/LS/LS CITY,U.S. Senate,,Write-In,,0,0,0
+Allamakee,Pct 7 - IA/UC/NA City,U.S. Senate,,Write-In,,0,0,0
+Allamakee,Pct 8 - WAUKON WARD 1,U.S. Senate,,Write-In,,0,0,0
+Allamakee,Pct 9 - WAUKON WARD 2,U.S. Senate,,Write-In,,0,0,0
+Allamakee,Pct 7 - IA/UC/NA City,Union City Township Clerk,,Charlene Paus,,105,42,63
+Allamakee,Pct 7 - IA/UC/NA City,Union City Township Clerk,,Write-In,,0,0,0
+Allamakee,Pct 7 - IA/UC/NA City,Union City Township Trustee,,Renee Hammell,,104,42,62
+Allamakee,Pct 7 - IA/UC/NA City,Union City Township Trustee,,Write-In,,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Union Prairie Township Clerk,,Tony Baxter,,222,91,131
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Union Prairie Township Clerk,,Write-In,,3,1,2
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Union Prairie Township Trustee,,Perry P. Fahey,,239,100,139
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,Union Prairie Township Trustee,,Write-In,,1,0,1
+Allamakee,PCT 1 - WL/HV,Waterloo Township Clerk,,David Schulte,,100,13,87
+Allamakee,PCT 1 - WL/HV,Waterloo Township Clerk,,Write-In,,0,0,0
+Allamakee,PCT 1 - WL/HV,Waterloo Township Trustee,,Write-In,,11,1,10

@@ -1,0 +1,691 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Wright,Belmond Precinct,Attorney General,,Brenna Bird,REP,682,181,501
+Wright,Clarion Precinct,Attorney General,,Brenna Bird,REP,541,190,351
+Wright,Dows Precinct,Attorney General,,Brenna Bird,REP,297,102,195
+Wright,Eagle Grove Ward #1 Precinct,Attorney General,,Brenna Bird,REP,96,11,85
+Wright,Eagle Grove Ward #2 Precinct,Attorney General,,Brenna Bird,REP,110,31,79
+Wright,Eagle Grove Ward #3 Precinct,Attorney General,,Brenna Bird,REP,189,33,156
+Wright,Eagle Grove Ward #4 Precinct,Attorney General,,Brenna Bird,REP,92,18,74
+Wright,Goldfield Precinct,Attorney General,,Brenna Bird,REP,229,49,180
+Wright,Rural Clarion,Attorney General,,Brenna Bird,REP,285,135,150
+Wright,Rural Eagle Grove Precinct,Attorney General,,Brenna Bird,REP,163,37,126
+Wright,Belmond Precinct,Attorney General,,Nate Willems,DEM,521,190,331
+Wright,Clarion Precinct,Attorney General,,Nate Willems,DEM,373,181,192
+Wright,Dows Precinct,Attorney General,,Nate Willems,DEM,181,69,112
+Wright,Eagle Grove Ward #1 Precinct,Attorney General,,Nate Willems,DEM,81,20,61
+Wright,Eagle Grove Ward #2 Precinct,Attorney General,,Nate Willems,DEM,100,31,69
+Wright,Eagle Grove Ward #3 Precinct,Attorney General,,Nate Willems,DEM,111,28,83
+Wright,Eagle Grove Ward #4 Precinct,Attorney General,,Nate Willems,DEM,114,26,88
+Wright,Goldfield Precinct,Attorney General,,Nate Willems,DEM,77,3,74
+Wright,Rural Clarion,Attorney General,,Nate Willems,DEM,104,66,38
+Wright,Rural Eagle Grove Precinct,Attorney General,,Nate Willems,DEM,43,13,30
+Wright,Belmond Precinct,Attorney General,,Write-In,,2,0,2
+Wright,Clarion Precinct,Attorney General,,Write-In,,1,1,0
+Wright,Dows Precinct,Attorney General,,Write-In,,2,1,1
+Wright,Eagle Grove Ward #1 Precinct,Attorney General,,Write-In,,0,0,0
+Wright,Eagle Grove Ward #2 Precinct,Attorney General,,Write-In,,1,0,1
+Wright,Eagle Grove Ward #3 Precinct,Attorney General,,Write-In,,0,0,0
+Wright,Eagle Grove Ward #4 Precinct,Attorney General,,Write-In,,0,0,0
+Wright,Goldfield Precinct,Attorney General,,Write-In,,1,0,1
+Wright,Rural Clarion,Attorney General,,Write-In,,1,0,1
+Wright,Rural Eagle Grove Precinct,Attorney General,,Write-In,,0,0,0
+Wright,Belmond Precinct,Auditor of State,,Chris Cournoyer,REP,680,168,512
+Wright,Clarion Precinct,Auditor of State,,Chris Cournoyer,REP,547,195,352
+Wright,Dows Precinct,Auditor of State,,Chris Cournoyer,REP,307,104,203
+Wright,Eagle Grove Ward #1 Precinct,Auditor of State,,Chris Cournoyer,REP,103,13,90
+Wright,Eagle Grove Ward #2 Precinct,Auditor of State,,Chris Cournoyer,REP,111,28,83
+Wright,Eagle Grove Ward #3 Precinct,Auditor of State,,Chris Cournoyer,REP,188,32,156
+Wright,Eagle Grove Ward #4 Precinct,Auditor of State,,Chris Cournoyer,REP,90,17,73
+Wright,Goldfield Precinct,Auditor of State,,Chris Cournoyer,REP,227,47,180
+Wright,Rural Clarion,Auditor of State,,Chris Cournoyer,REP,274,124,150
+Wright,Rural Eagle Grove Precinct,Auditor of State,,Chris Cournoyer,REP,164,38,126
+Wright,Belmond Precinct,Auditor of State,,Taylor Wettach,DEM,498,190,308
+Wright,Clarion Precinct,Auditor of State,,Taylor Wettach,DEM,355,171,184
+Wright,Dows Precinct,Auditor of State,,Taylor Wettach,DEM,168,66,102
+Wright,Eagle Grove Ward #1 Precinct,Auditor of State,,Taylor Wettach,DEM,70,19,51
+Wright,Eagle Grove Ward #2 Precinct,Auditor of State,,Taylor Wettach,DEM,95,32,63
+Wright,Eagle Grove Ward #3 Precinct,Auditor of State,,Taylor Wettach,DEM,105,29,76
+Wright,Eagle Grove Ward #4 Precinct,Auditor of State,,Taylor Wettach,DEM,112,27,85
+Wright,Goldfield Precinct,Auditor of State,,Taylor Wettach,DEM,76,4,72
+Wright,Rural Clarion,Auditor of State,,Taylor Wettach,DEM,114,76,38
+Wright,Rural Eagle Grove Precinct,Auditor of State,,Taylor Wettach,DEM,41,12,29
+Wright,Belmond Precinct,Auditor of State,,Write-In,,4,1,3
+Wright,Clarion Precinct,Auditor of State,,Write-In,,0,0,0
+Wright,Dows Precinct,Auditor of State,,Write-In,,1,1,0
+Wright,Eagle Grove Ward #1 Precinct,Auditor of State,,Write-In,,0,0,0
+Wright,Eagle Grove Ward #2 Precinct,Auditor of State,,Write-In,,1,0,1
+Wright,Eagle Grove Ward #3 Precinct,Auditor of State,,Write-In,,1,0,1
+Wright,Eagle Grove Ward #4 Precinct,Auditor of State,,Write-In,,0,0,0
+Wright,Goldfield Precinct,Auditor of State,,Write-In,,2,0,2
+Wright,Rural Clarion,Auditor of State,,Write-In,,0,0,0
+Wright,Rural Eagle Grove Precinct,Auditor of State,,Write-In,,0,0,0
+Wright,Belmond Precinct,Constitutional Amendment 1,,No,,453,134,319
+Wright,Clarion Precinct,Constitutional Amendment 1,,No,,291,136,155
+Wright,Dows Precinct,Constitutional Amendment 1,,No,,142,45,97
+Wright,Eagle Grove Ward #1 Precinct,Constitutional Amendment 1,,No,,52,7,45
+Wright,Eagle Grove Ward #2 Precinct,Constitutional Amendment 1,,No,,80,26,54
+Wright,Eagle Grove Ward #3 Precinct,Constitutional Amendment 1,,No,,90,28,62
+Wright,Eagle Grove Ward #4 Precinct,Constitutional Amendment 1,,No,,72,15,57
+Wright,Goldfield Precinct,Constitutional Amendment 1,,No,,78,8,70
+Wright,Rural Clarion,Constitutional Amendment 1,,No,,94,53,41
+Wright,Rural Eagle Grove Precinct,Constitutional Amendment 1,,No,,48,12,36
+Wright,Belmond Precinct,Constitutional Amendment 1,,Yes,,646,207,439
+Wright,Clarion Precinct,Constitutional Amendment 1,,Yes,,543,211,332
+Wright,Dows Precinct,Constitutional Amendment 1,,Yes,,317,113,204
+Wright,Eagle Grove Ward #1 Precinct,Constitutional Amendment 1,,Yes,,120,22,98
+Wright,Eagle Grove Ward #2 Precinct,Constitutional Amendment 1,,Yes,,119,31,88
+Wright,Eagle Grove Ward #3 Precinct,Constitutional Amendment 1,,Yes,,188,28,160
+Wright,Eagle Grove Ward #4 Precinct,Constitutional Amendment 1,,Yes,,118,25,93
+Wright,Goldfield Precinct,Constitutional Amendment 1,,Yes,,189,42,147
+Wright,Rural Clarion,Constitutional Amendment 1,,Yes,,264,133,131
+Wright,Rural Eagle Grove Precinct,Constitutional Amendment 1,,Yes,,144,35,109
+Wright,Belmond Precinct,County Agricultural Extension Council Member,,Kerri Tweeten,,672,213,459
+Wright,Clarion Precinct,County Agricultural Extension Council Member,,Kerri Tweeten,,478,197,281
+Wright,Dows Precinct,County Agricultural Extension Council Member,,Kerri Tweeten,,285,114,171
+Wright,Eagle Grove Ward #1 Precinct,County Agricultural Extension Council Member,,Kerri Tweeten,,113,20,93
+Wright,Eagle Grove Ward #2 Precinct,County Agricultural Extension Council Member,,Kerri Tweeten,,140,42,98
+Wright,Eagle Grove Ward #3 Precinct,County Agricultural Extension Council Member,,Kerri Tweeten,,209,41,168
+Wright,Eagle Grove Ward #4 Precinct,County Agricultural Extension Council Member,,Kerri Tweeten,,138,29,109
+Wright,Goldfield Precinct,County Agricultural Extension Council Member,,Kerri Tweeten,,147,32,115
+Wright,Rural Clarion,County Agricultural Extension Council Member,,Kerri Tweeten,,232,121,111
+Wright,Rural Eagle Grove Precinct,County Agricultural Extension Council Member,,Kerri Tweeten,,127,29,98
+Wright,Belmond Precinct,County Agricultural Extension Council Member,,Paige Grandgeorge,,711,217,494
+Wright,Clarion Precinct,County Agricultural Extension Council Member,,Paige Grandgeorge,,533,221,312
+Wright,Dows Precinct,County Agricultural Extension Council Member,,Paige Grandgeorge,,311,115,196
+Wright,Eagle Grove Ward #1 Precinct,County Agricultural Extension Council Member,,Paige Grandgeorge,,115,22,93
+Wright,Eagle Grove Ward #2 Precinct,County Agricultural Extension Council Member,,Paige Grandgeorge,,137,42,95
+Wright,Eagle Grove Ward #3 Precinct,County Agricultural Extension Council Member,,Paige Grandgeorge,,200,40,160
+Wright,Eagle Grove Ward #4 Precinct,County Agricultural Extension Council Member,,Paige Grandgeorge,,138,28,110
+Wright,Goldfield Precinct,County Agricultural Extension Council Member,,Paige Grandgeorge,,162,33,129
+Wright,Rural Clarion,County Agricultural Extension Council Member,,Paige Grandgeorge,,245,127,118
+Wright,Rural Eagle Grove Precinct,County Agricultural Extension Council Member,,Paige Grandgeorge,,149,31,118
+Wright,Belmond Precinct,County Agricultural Extension Council Member,,Staci Schnittjer,,674,210,464
+Wright,Clarion Precinct,County Agricultural Extension Council Member,,Staci Schnittjer,,630,250,380
+Wright,Dows Precinct,County Agricultural Extension Council Member,,Staci Schnittjer,,305,117,188
+Wright,Eagle Grove Ward #1 Precinct,County Agricultural Extension Council Member,,Staci Schnittjer,,98,15,83
+Wright,Eagle Grove Ward #2 Precinct,County Agricultural Extension Council Member,,Staci Schnittjer,,122,39,83
+Wright,Eagle Grove Ward #3 Precinct,County Agricultural Extension Council Member,,Staci Schnittjer,,177,38,139
+Wright,Eagle Grove Ward #4 Precinct,County Agricultural Extension Council Member,,Staci Schnittjer,,114,25,89
+Wright,Goldfield Precinct,County Agricultural Extension Council Member,,Staci Schnittjer,,178,33,145
+Wright,Rural Clarion,County Agricultural Extension Council Member,,Staci Schnittjer,,290,143,147
+Wright,Rural Eagle Grove Precinct,County Agricultural Extension Council Member,,Staci Schnittjer,,129,26,103
+Wright,Belmond Precinct,County Agricultural Extension Council Member,,Wendy Brandt,,689,213,476
+Wright,Clarion Precinct,County Agricultural Extension Council Member,,Wendy Brandt,,536,211,325
+Wright,Dows Precinct,County Agricultural Extension Council Member,,Wendy Brandt,,299,113,186
+Wright,Eagle Grove Ward #1 Precinct,County Agricultural Extension Council Member,,Wendy Brandt,,93,14,79
+Wright,Eagle Grove Ward #2 Precinct,County Agricultural Extension Council Member,,Wendy Brandt,,112,34,78
+Wright,Eagle Grove Ward #3 Precinct,County Agricultural Extension Council Member,,Wendy Brandt,,167,34,133
+Wright,Eagle Grove Ward #4 Precinct,County Agricultural Extension Council Member,,Wendy Brandt,,113,25,88
+Wright,Goldfield Precinct,County Agricultural Extension Council Member,,Wendy Brandt,,146,33,113
+Wright,Rural Clarion,County Agricultural Extension Council Member,,Wendy Brandt,,255,130,125
+Wright,Rural Eagle Grove Precinct,County Agricultural Extension Council Member,,Wendy Brandt,,127,29,98
+Wright,Belmond Precinct,County Agricultural Extension Council Member,,Write-In,,56,22,34
+Wright,Clarion Precinct,County Agricultural Extension Council Member,,Write-In,,22,8,14
+Wright,Dows Precinct,County Agricultural Extension Council Member,,Write-In,,28,15,13
+Wright,Eagle Grove Ward #1 Precinct,County Agricultural Extension Council Member,,Write-In,,6,0,6
+Wright,Eagle Grove Ward #2 Precinct,County Agricultural Extension Council Member,,Write-In,,7,4,3
+Wright,Eagle Grove Ward #3 Precinct,County Agricultural Extension Council Member,,Write-In,,13,2,11
+Wright,Eagle Grove Ward #4 Precinct,County Agricultural Extension Council Member,,Write-In,,3,3,0
+Wright,Goldfield Precinct,County Agricultural Extension Council Member,,Write-In,,6,2,4
+Wright,Rural Clarion,County Agricultural Extension Council Member,,Write-In,,16,6,10
+Wright,Rural Eagle Grove Precinct,County Agricultural Extension Council Member,,Write-In,,11,2,9
+Wright,Belmond Precinct,County Attorney,,Eric R. Simonson,REP,1014,290,724
+Wright,Clarion Precinct,County Attorney,,Eric R. Simonson,REP,774,296,478
+Wright,Dows Precinct,County Attorney,,Eric R. Simonson,REP,400,144,256
+Wright,Eagle Grove Ward #1 Precinct,County Attorney,,Eric R. Simonson,REP,153,23,130
+Wright,Eagle Grove Ward #2 Precinct,County Attorney,,Eric R. Simonson,REP,165,48,117
+Wright,Eagle Grove Ward #3 Precinct,County Attorney,,Eric R. Simonson,REP,250,47,203
+Wright,Eagle Grove Ward #4 Precinct,County Attorney,,Eric R. Simonson,REP,160,31,129
+Wright,Goldfield Precinct,County Attorney,,Eric R. Simonson,REP,246,47,199
+Wright,Rural Clarion,County Attorney,,Eric R. Simonson,REP,335,167,168
+Wright,Rural Eagle Grove Precinct,County Attorney,,Eric R. Simonson,REP,179,41,138
+Wright,Belmond Precinct,County Attorney,,Write-In,,23,6,17
+Wright,Clarion Precinct,County Attorney,,Write-In,,14,4,10
+Wright,Dows Precinct,County Attorney,,Write-In,,8,3,5
+Wright,Eagle Grove Ward #1 Precinct,County Attorney,,Write-In,,2,0,2
+Wright,Eagle Grove Ward #2 Precinct,County Attorney,,Write-In,,3,1,2
+Wright,Eagle Grove Ward #3 Precinct,County Attorney,,Write-In,,5,0,5
+Wright,Eagle Grove Ward #4 Precinct,County Attorney,,Write-In,,2,0,2
+Wright,Goldfield Precinct,County Attorney,,Write-In,,2,0,2
+Wright,Rural Clarion,County Attorney,,Write-In,,1,0,1
+Wright,Rural Eagle Grove Precinct,County Attorney,,Write-In,,1,0,1
+Wright,Belmond Precinct,County Recorder,,Eric J. Russell,REP,990,279,711
+Wright,Clarion Precinct,County Recorder,,Eric J. Russell,REP,794,311,483
+Wright,Dows Precinct,County Recorder,,Eric J. Russell,REP,415,148,267
+Wright,Eagle Grove Ward #1 Precinct,County Recorder,,Eric J. Russell,REP,154,23,131
+Wright,Eagle Grove Ward #2 Precinct,County Recorder,,Eric J. Russell,REP,176,51,125
+Wright,Eagle Grove Ward #3 Precinct,County Recorder,,Eric J. Russell,REP,252,47,205
+Wright,Eagle Grove Ward #4 Precinct,County Recorder,,Eric J. Russell,REP,157,30,127
+Wright,Goldfield Precinct,County Recorder,,Eric J. Russell,REP,258,49,209
+Wright,Rural Clarion,County Recorder,,Eric J. Russell,REP,358,178,180
+Wright,Rural Eagle Grove Precinct,County Recorder,,Eric J. Russell,REP,177,39,138
+Wright,Belmond Precinct,County Recorder,,Write-In,,21,4,17
+Wright,Clarion Precinct,County Recorder,,Write-In,,7,1,6
+Wright,Dows Precinct,County Recorder,,Write-In,,5,2,3
+Wright,Eagle Grove Ward #1 Precinct,County Recorder,,Write-In,,2,0,2
+Wright,Eagle Grove Ward #2 Precinct,County Recorder,,Write-In,,2,0,2
+Wright,Eagle Grove Ward #3 Precinct,County Recorder,,Write-In,,2,0,2
+Wright,Eagle Grove Ward #4 Precinct,County Recorder,,Write-In,,2,0,2
+Wright,Goldfield Precinct,County Recorder,,Write-In,,2,1,1
+Wright,Rural Clarion,County Recorder,,Write-In,,2,2,0
+Wright,Rural Eagle Grove Precinct,County Recorder,,Write-In,,0,0,0
+Wright,Belmond Precinct,County Supervisor,1,Rick Rasmussen,REP,952,256,696
+Wright,Clarion Precinct,County Supervisor,1,Rick Rasmussen,REP,741,289,452
+Wright,Dows Precinct,County Supervisor,1,Rick Rasmussen,REP,394,134,260
+Wright,Eagle Grove Ward #1 Precinct,County Supervisor,1,Rick Rasmussen,REP,152,21,131
+Wright,Eagle Grove Ward #2 Precinct,County Supervisor,1,Rick Rasmussen,REP,175,50,125
+Wright,Eagle Grove Ward #3 Precinct,County Supervisor,1,Rick Rasmussen,REP,250,46,204
+Wright,Eagle Grove Ward #4 Precinct,County Supervisor,1,Rick Rasmussen,REP,153,31,122
+Wright,Goldfield Precinct,County Supervisor,1,Rick Rasmussen,REP,244,40,204
+Wright,Rural Clarion,County Supervisor,1,Rick Rasmussen,REP,332,161,171
+Wright,Rural Eagle Grove Precinct,County Supervisor,1,Rick Rasmussen,REP,167,38,129
+Wright,Belmond Precinct,County Supervisor,1,Write-In,,30,7,23
+Wright,Clarion Precinct,County Supervisor,1,Write-In,,24,6,18
+Wright,Dows Precinct,County Supervisor,1,Write-In,,11,5,6
+Wright,Eagle Grove Ward #1 Precinct,County Supervisor,1,Write-In,,4,0,4
+Wright,Eagle Grove Ward #2 Precinct,County Supervisor,1,Write-In,,2,0,2
+Wright,Eagle Grove Ward #3 Precinct,County Supervisor,1,Write-In,,2,1,1
+Wright,Eagle Grove Ward #4 Precinct,County Supervisor,1,Write-In,,4,0,4
+Wright,Goldfield Precinct,County Supervisor,1,Write-In,,10,4,6
+Wright,Rural Clarion,County Supervisor,1,Write-In,,4,2,2
+Wright,Rural Eagle Grove Precinct,County Supervisor,1,Write-In,,4,1,3
+Wright,Belmond Precinct,County Supervisor,5,Betty Ellis,REP,973,267,706
+Wright,Clarion Precinct,County Supervisor,5,Betty Ellis,REP,765,306,459
+Wright,Dows Precinct,County Supervisor,5,Betty Ellis,REP,408,142,266
+Wright,Eagle Grove Ward #1 Precinct,County Supervisor,5,Betty Ellis,REP,146,20,126
+Wright,Eagle Grove Ward #2 Precinct,County Supervisor,5,Betty Ellis,REP,176,52,124
+Wright,Eagle Grove Ward #3 Precinct,County Supervisor,5,Betty Ellis,REP,255,52,203
+Wright,Eagle Grove Ward #4 Precinct,County Supervisor,5,Betty Ellis,REP,154,32,122
+Wright,Goldfield Precinct,County Supervisor,5,Betty Ellis,REP,259,49,210
+Wright,Rural Clarion,County Supervisor,5,Betty Ellis,REP,332,168,164
+Wright,Rural Eagle Grove Precinct,County Supervisor,5,Betty Ellis,REP,166,35,131
+Wright,Belmond Precinct,County Supervisor,5,Write-In,,25,7,18
+Wright,Clarion Precinct,County Supervisor,5,Write-In,,14,3,11
+Wright,Dows Precinct,County Supervisor,5,Write-In,,12,6,6
+Wright,Eagle Grove Ward #1 Precinct,County Supervisor,5,Write-In,,6,0,6
+Wright,Eagle Grove Ward #2 Precinct,County Supervisor,5,Write-In,,1,0,1
+Wright,Eagle Grove Ward #3 Precinct,County Supervisor,5,Write-In,,4,0,4
+Wright,Eagle Grove Ward #4 Precinct,County Supervisor,5,Write-In,,5,0,5
+Wright,Goldfield Precinct,County Supervisor,5,Write-In,,3,1,2
+Wright,Rural Clarion,County Supervisor,5,Write-In,,2,2,0
+Wright,Rural Eagle Grove Precinct,County Supervisor,5,Write-In,,3,0,3
+Wright,Belmond Precinct,County Treasurer,,Peggy Schluttenhofer,REP,1016,285,731
+Wright,Clarion Precinct,County Treasurer,,Peggy Schluttenhofer,REP,812,323,489
+Wright,Dows Precinct,County Treasurer,,Peggy Schluttenhofer,REP,427,151,276
+Wright,Eagle Grove Ward #1 Precinct,County Treasurer,,Peggy Schluttenhofer,REP,153,23,130
+Wright,Eagle Grove Ward #2 Precinct,County Treasurer,,Peggy Schluttenhofer,REP,181,50,131
+Wright,Eagle Grove Ward #3 Precinct,County Treasurer,,Peggy Schluttenhofer,REP,258,51,207
+Wright,Eagle Grove Ward #4 Precinct,County Treasurer,,Peggy Schluttenhofer,REP,161,32,129
+Wright,Goldfield Precinct,County Treasurer,,Peggy Schluttenhofer,REP,264,47,217
+Wright,Rural Clarion,County Treasurer,,Peggy Schluttenhofer,REP,364,179,185
+Wright,Rural Eagle Grove Precinct,County Treasurer,,Peggy Schluttenhofer,REP,179,40,139
+Wright,Belmond Precinct,County Treasurer,,Write-In,,17,4,13
+Wright,Clarion Precinct,County Treasurer,,Write-In,,16,3,13
+Wright,Dows Precinct,County Treasurer,,Write-In,,5,2,3
+Wright,Eagle Grove Ward #1 Precinct,County Treasurer,,Write-In,,2,0,2
+Wright,Eagle Grove Ward #2 Precinct,County Treasurer,,Write-In,,2,1,1
+Wright,Eagle Grove Ward #3 Precinct,County Treasurer,,Write-In,,3,0,3
+Wright,Eagle Grove Ward #4 Precinct,County Treasurer,,Write-In,,4,0,4
+Wright,Goldfield Precinct,County Treasurer,,Write-In,,7,3,4
+Wright,Rural Clarion,County Treasurer,,Write-In,,1,1,0
+Wright,Rural Eagle Grove Precinct,County Treasurer,,Write-In,,1,0,1
+Wright,Belmond Precinct,Court of Appeals Judge - John M. Sandy,,No,,237,57,180
+Wright,Clarion Precinct,Court of Appeals Judge - John M. Sandy,,No,,146,55,91
+Wright,Dows Precinct,Court of Appeals Judge - John M. Sandy,,No,,102,36,66
+Wright,Eagle Grove Ward #1 Precinct,Court of Appeals Judge - John M. Sandy,,No,,39,4,35
+Wright,Eagle Grove Ward #2 Precinct,Court of Appeals Judge - John M. Sandy,,No,,43,11,32
+Wright,Eagle Grove Ward #3 Precinct,Court of Appeals Judge - John M. Sandy,,No,,51,6,45
+Wright,Eagle Grove Ward #4 Precinct,Court of Appeals Judge - John M. Sandy,,No,,38,5,33
+Wright,Goldfield Precinct,Court of Appeals Judge - John M. Sandy,,No,,48,2,46
+Wright,Rural Clarion,Court of Appeals Judge - John M. Sandy,,No,,57,30,27
+Wright,Rural Eagle Grove Precinct,Court of Appeals Judge - John M. Sandy,,No,,36,4,32
+Wright,Belmond Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,628,196,432
+Wright,Clarion Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,490,194,296
+Wright,Dows Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,261,76,185
+Wright,Eagle Grove Ward #1 Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,112,20,92
+Wright,Eagle Grove Ward #2 Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,125,38,87
+Wright,Eagle Grove Ward #3 Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,177,37,140
+Wright,Eagle Grove Ward #4 Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,117,24,93
+Wright,Goldfield Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,111,31,80
+Wright,Rural Clarion,Court of Appeals Judge - John M. Sandy,,Yes,,205,104,101
+Wright,Rural Eagle Grove Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,123,33,90
+Wright,Belmond Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,211,49,162
+Wright,Clarion Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,144,47,97
+Wright,Dows Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,106,36,70
+Wright,Eagle Grove Ward #1 Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,28,5,23
+Wright,Eagle Grove Ward #2 Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,39,9,30
+Wright,Eagle Grove Ward #3 Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,44,9,35
+Wright,Eagle Grove Ward #4 Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,40,8,32
+Wright,Goldfield Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,47,4,43
+Wright,Rural Clarion,Court of Appeals Judge - Julie A. Schumacher,,No,,56,28,28
+Wright,Rural Eagle Grove Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,37,4,33
+Wright,Belmond Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,657,203,454
+Wright,Clarion Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,495,204,291
+Wright,Dows Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,251,74,177
+Wright,Eagle Grove Ward #1 Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,122,19,103
+Wright,Eagle Grove Ward #2 Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,136,43,93
+Wright,Eagle Grove Ward #3 Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,180,32,148
+Wright,Eagle Grove Ward #4 Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,113,22,91
+Wright,Goldfield Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,105,28,77
+Wright,Rural Clarion,Court of Appeals Judge - Julie A. Schumacher,,Yes,,207,104,103
+Wright,Rural Eagle Grove Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,120,33,87
+Wright,Belmond Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,239,60,179
+Wright,Clarion Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,161,59,102
+Wright,Dows Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,110,34,76
+Wright,Eagle Grove Ward #1 Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,34,4,30
+Wright,Eagle Grove Ward #2 Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,54,15,39
+Wright,Eagle Grove Ward #3 Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,55,8,47
+Wright,Eagle Grove Ward #4 Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,43,8,35
+Wright,Goldfield Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,46,4,42
+Wright,Rural Clarion,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,67,35,32
+Wright,Rural Eagle Grove Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,44,4,40
+Wright,Belmond Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,622,195,427
+Wright,Clarion Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,469,188,281
+Wright,Dows Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,247,77,170
+Wright,Eagle Grove Ward #1 Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,113,20,93
+Wright,Eagle Grove Ward #2 Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,115,35,80
+Wright,Eagle Grove Ward #3 Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,168,34,134
+Wright,Eagle Grove Ward #4 Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,109,20,89
+Wright,Goldfield Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,107,28,79
+Wright,Rural Clarion,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,194,99,95
+Wright,Rural Eagle Grove Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,113,32,81
+Wright,Belmond Precinct,District 2B Associate Judge - Joseph L. Tofilon,,No,,244,64,180
+Wright,Clarion Precinct,District 2B Associate Judge - Joseph L. Tofilon,,No,,138,46,92
+Wright,Dows Precinct,District 2B Associate Judge - Joseph L. Tofilon,,No,,107,36,71
+Wright,Eagle Grove Ward #1 Precinct,District 2B Associate Judge - Joseph L. Tofilon,,No,,35,7,28
+Wright,Eagle Grove Ward #2 Precinct,District 2B Associate Judge - Joseph L. Tofilon,,No,,43,11,32
+Wright,Eagle Grove Ward #3 Precinct,District 2B Associate Judge - Joseph L. Tofilon,,No,,51,7,44
+Wright,Eagle Grove Ward #4 Precinct,District 2B Associate Judge - Joseph L. Tofilon,,No,,38,6,32
+Wright,Goldfield Precinct,District 2B Associate Judge - Joseph L. Tofilon,,No,,52,4,48
+Wright,Rural Clarion,District 2B Associate Judge - Joseph L. Tofilon,,No,,64,30,34
+Wright,Rural Eagle Grove Precinct,District 2B Associate Judge - Joseph L. Tofilon,,No,,41,3,38
+Wright,Belmond Precinct,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,608,184,424
+Wright,Clarion Precinct,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,492,201,291
+Wright,Dows Precinct,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,243,70,173
+Wright,Eagle Grove Ward #1 Precinct,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,112,17,95
+Wright,Eagle Grove Ward #2 Precinct,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,127,39,88
+Wright,Eagle Grove Ward #3 Precinct,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,171,34,137
+Wright,Eagle Grove Ward #4 Precinct,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,114,20,94
+Wright,Goldfield Precinct,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,97,25,72
+Wright,Rural Clarion,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,198,105,93
+Wright,Rural Eagle Grove Precinct,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,114,30,84
+Wright,Belmond Precinct,District 2B Judge - Amy Moore,,No,,227,57,170
+Wright,Clarion Precinct,District 2B Judge - Amy Moore,,No,,147,56,91
+Wright,Dows Precinct,District 2B Judge - Amy Moore,,No,,105,36,69
+Wright,Eagle Grove Ward #1 Precinct,District 2B Judge - Amy Moore,,No,,29,6,23
+Wright,Eagle Grove Ward #2 Precinct,District 2B Judge - Amy Moore,,No,,40,10,30
+Wright,Eagle Grove Ward #3 Precinct,District 2B Judge - Amy Moore,,No,,44,7,37
+Wright,Eagle Grove Ward #4 Precinct,District 2B Judge - Amy Moore,,No,,40,5,35
+Wright,Goldfield Precinct,District 2B Judge - Amy Moore,,No,,46,5,41
+Wright,Rural Clarion,District 2B Judge - Amy Moore,,No,,62,28,34
+Wright,Rural Eagle Grove Precinct,District 2B Judge - Amy Moore,,No,,37,2,35
+Wright,Belmond Precinct,District 2B Judge - Amy Moore,,Yes,,638,200,438
+Wright,Clarion Precinct,District 2B Judge - Amy Moore,,Yes,,489,196,293
+Wright,Dows Precinct,District 2B Judge - Amy Moore,,Yes,,249,75,174
+Wright,Eagle Grove Ward #1 Precinct,District 2B Judge - Amy Moore,,Yes,,120,18,102
+Wright,Eagle Grove Ward #2 Precinct,District 2B Judge - Amy Moore,,Yes,,130,40,90
+Wright,Eagle Grove Ward #3 Precinct,District 2B Judge - Amy Moore,,Yes,,179,34,145
+Wright,Eagle Grove Ward #4 Precinct,District 2B Judge - Amy Moore,,Yes,,111,22,89
+Wright,Goldfield Precinct,District 2B Judge - Amy Moore,,Yes,,110,28,82
+Wright,Rural Clarion,District 2B Judge - Amy Moore,,Yes,,201,107,94
+Wright,Rural Eagle Grove Precinct,District 2B Judge - Amy Moore,,Yes,,119,33,86
+Wright,Belmond Precinct,District 2B Judge - Angela L. Doyle,,No,,237,60,177
+Wright,Clarion Precinct,District 2B Judge - Angela L. Doyle,,No,,141,49,92
+Wright,Dows Precinct,District 2B Judge - Angela L. Doyle,,No,,103,34,69
+Wright,Eagle Grove Ward #1 Precinct,District 2B Judge - Angela L. Doyle,,No,,29,4,25
+Wright,Eagle Grove Ward #2 Precinct,District 2B Judge - Angela L. Doyle,,No,,44,12,32
+Wright,Eagle Grove Ward #3 Precinct,District 2B Judge - Angela L. Doyle,,No,,48,6,42
+Wright,Eagle Grove Ward #4 Precinct,District 2B Judge - Angela L. Doyle,,No,,36,7,29
+Wright,Goldfield Precinct,District 2B Judge - Angela L. Doyle,,No,,43,3,40
+Wright,Rural Clarion,District 2B Judge - Angela L. Doyle,,No,,60,31,29
+Wright,Rural Eagle Grove Precinct,District 2B Judge - Angela L. Doyle,,No,,37,4,33
+Wright,Belmond Precinct,District 2B Judge - Angela L. Doyle,,Yes,,619,194,425
+Wright,Clarion Precinct,District 2B Judge - Angela L. Doyle,,Yes,,493,201,292
+Wright,Dows Precinct,District 2B Judge - Angela L. Doyle,,Yes,,248,73,175
+Wright,Eagle Grove Ward #1 Precinct,District 2B Judge - Angela L. Doyle,,Yes,,119,20,99
+Wright,Eagle Grove Ward #2 Precinct,District 2B Judge - Angela L. Doyle,,Yes,,127,38,89
+Wright,Eagle Grove Ward #3 Precinct,District 2B Judge - Angela L. Doyle,,Yes,,174,35,139
+Wright,Eagle Grove Ward #4 Precinct,District 2B Judge - Angela L. Doyle,,Yes,,114,20,94
+Wright,Goldfield Precinct,District 2B Judge - Angela L. Doyle,,Yes,,107,29,78
+Wright,Rural Clarion,District 2B Judge - Angela L. Doyle,,Yes,,201,105,96
+Wright,Rural Eagle Grove Precinct,District 2B Judge - Angela L. Doyle,,Yes,,118,31,87
+Wright,Belmond Precinct,District 2B Judge - Ashley Sparks,,No,,232,56,176
+Wright,Clarion Precinct,District 2B Judge - Ashley Sparks,,No,,147,48,99
+Wright,Dows Precinct,District 2B Judge - Ashley Sparks,,No,,102,34,68
+Wright,Eagle Grove Ward #1 Precinct,District 2B Judge - Ashley Sparks,,No,,29,4,25
+Wright,Eagle Grove Ward #2 Precinct,District 2B Judge - Ashley Sparks,,No,,47,14,33
+Wright,Eagle Grove Ward #3 Precinct,District 2B Judge - Ashley Sparks,,No,,46,6,40
+Wright,Eagle Grove Ward #4 Precinct,District 2B Judge - Ashley Sparks,,No,,39,8,31
+Wright,Goldfield Precinct,District 2B Judge - Ashley Sparks,,No,,39,3,36
+Wright,Rural Clarion,District 2B Judge - Ashley Sparks,,No,,61,31,30
+Wright,Rural Eagle Grove Precinct,District 2B Judge - Ashley Sparks,,No,,38,2,36
+Wright,Belmond Precinct,District 2B Judge - Ashley Sparks,,Yes,,630,195,435
+Wright,Clarion Precinct,District 2B Judge - Ashley Sparks,,Yes,,483,199,284
+Wright,Dows Precinct,District 2B Judge - Ashley Sparks,,Yes,,252,75,177
+Wright,Eagle Grove Ward #1 Precinct,District 2B Judge - Ashley Sparks,,Yes,,117,19,98
+Wright,Eagle Grove Ward #2 Precinct,District 2B Judge - Ashley Sparks,,Yes,,126,37,89
+Wright,Eagle Grove Ward #3 Precinct,District 2B Judge - Ashley Sparks,,Yes,,177,36,141
+Wright,Eagle Grove Ward #4 Precinct,District 2B Judge - Ashley Sparks,,Yes,,110,18,92
+Wright,Goldfield Precinct,District 2B Judge - Ashley Sparks,,Yes,,110,29,81
+Wright,Rural Clarion,District 2B Judge - Ashley Sparks,,Yes,,198,102,96
+Wright,Rural Eagle Grove Precinct,District 2B Judge - Ashley Sparks,,Yes,,116,33,83
+Wright,Belmond Precinct,District 2B Judge - Bethany Currie,,No,,232,57,175
+Wright,Clarion Precinct,District 2B Judge - Bethany Currie,,No,,152,56,96
+Wright,Dows Precinct,District 2B Judge - Bethany Currie,,No,,108,34,74
+Wright,Eagle Grove Ward #1 Precinct,District 2B Judge - Bethany Currie,,No,,29,4,25
+Wright,Eagle Grove Ward #2 Precinct,District 2B Judge - Bethany Currie,,No,,48,15,33
+Wright,Eagle Grove Ward #3 Precinct,District 2B Judge - Bethany Currie,,No,,51,5,46
+Wright,Eagle Grove Ward #4 Precinct,District 2B Judge - Bethany Currie,,No,,40,6,34
+Wright,Goldfield Precinct,District 2B Judge - Bethany Currie,,No,,46,4,42
+Wright,Rural Clarion,District 2B Judge - Bethany Currie,,No,,63,32,31
+Wright,Rural Eagle Grove Precinct,District 2B Judge - Bethany Currie,,No,,37,2,35
+Wright,Belmond Precinct,District 2B Judge - Bethany Currie,,Yes,,617,193,424
+Wright,Clarion Precinct,District 2B Judge - Bethany Currie,,Yes,,475,191,284
+Wright,Dows Precinct,District 2B Judge - Bethany Currie,,Yes,,245,75,170
+Wright,Eagle Grove Ward #1 Precinct,District 2B Judge - Bethany Currie,,Yes,,119,20,99
+Wright,Eagle Grove Ward #2 Precinct,District 2B Judge - Bethany Currie,,Yes,,121,34,87
+Wright,Eagle Grove Ward #3 Precinct,District 2B Judge - Bethany Currie,,Yes,,171,36,135
+Wright,Eagle Grove Ward #4 Precinct,District 2B Judge - Bethany Currie,,Yes,,109,20,89
+Wright,Goldfield Precinct,District 2B Judge - Bethany Currie,,Yes,,105,29,76
+Wright,Rural Clarion,District 2B Judge - Bethany Currie,,Yes,,197,102,95
+Wright,Rural Eagle Grove Precinct,District 2B Judge - Bethany Currie,,Yes,,118,33,85
+Wright,Belmond Precinct,District 2B Judge - Christopher Polking,,No,,244,62,182
+Wright,Clarion Precinct,District 2B Judge - Christopher Polking,,No,,149,47,102
+Wright,Dows Precinct,District 2B Judge - Christopher Polking,,No,,98,37,61
+Wright,Eagle Grove Ward #1 Precinct,District 2B Judge - Christopher Polking,,No,,39,5,34
+Wright,Eagle Grove Ward #2 Precinct,District 2B Judge - Christopher Polking,,No,,48,13,35
+Wright,Eagle Grove Ward #3 Precinct,District 2B Judge - Christopher Polking,,No,,53,5,48
+Wright,Eagle Grove Ward #4 Precinct,District 2B Judge - Christopher Polking,,No,,40,6,34
+Wright,Goldfield Precinct,District 2B Judge - Christopher Polking,,No,,49,2,47
+Wright,Rural Clarion,District 2B Judge - Christopher Polking,,No,,63,34,29
+Wright,Rural Eagle Grove Precinct,District 2B Judge - Christopher Polking,,No,,39,3,36
+Wright,Belmond Precinct,District 2B Judge - Christopher Polking,,Yes,,609,190,419
+Wright,Clarion Precinct,District 2B Judge - Christopher Polking,,Yes,,483,202,281
+Wright,Dows Precinct,District 2B Judge - Christopher Polking,,Yes,,253,72,181
+Wright,Eagle Grove Ward #1 Precinct,District 2B Judge - Christopher Polking,,Yes,,110,19,91
+Wright,Eagle Grove Ward #2 Precinct,District 2B Judge - Christopher Polking,,Yes,,121,36,85
+Wright,Eagle Grove Ward #3 Precinct,District 2B Judge - Christopher Polking,,Yes,,169,36,133
+Wright,Eagle Grove Ward #4 Precinct,District 2B Judge - Christopher Polking,,Yes,,109,20,89
+Wright,Goldfield Precinct,District 2B Judge - Christopher Polking,,Yes,,100,29,71
+Wright,Rural Clarion,District 2B Judge - Christopher Polking,,Yes,,196,100,96
+Wright,Rural Eagle Grove Precinct,District 2B Judge - Christopher Polking,,Yes,,113,29,84
+Wright,Belmond Precinct,Governor,,Rob Sand and Dave Muhlbauer,DEM,595,219,376
+Wright,Clarion Precinct,Governor,,Rob Sand and Dave Muhlbauer,DEM,438,203,235
+Wright,Dows Precinct,Governor,,Rob Sand and Dave Muhlbauer,DEM,205,72,133
+Wright,Eagle Grove Ward #1 Precinct,Governor,,Rob Sand and Dave Muhlbauer,DEM,99,22,77
+Wright,Eagle Grove Ward #2 Precinct,Governor,,Rob Sand and Dave Muhlbauer,DEM,123,38,85
+Wright,Eagle Grove Ward #3 Precinct,Governor,,Rob Sand and Dave Muhlbauer,DEM,134,37,97
+Wright,Eagle Grove Ward #4 Precinct,Governor,,Rob Sand and Dave Muhlbauer,DEM,120,27,93
+Wright,Goldfield Precinct,Governor,,Rob Sand and Dave Muhlbauer,DEM,97,4,93
+Wright,Rural Clarion,Governor,,Rob Sand and Dave Muhlbauer,DEM,141,82,59
+Wright,Rural Eagle Grove Precinct,Governor,,Rob Sand and Dave Muhlbauer,DEM,50,14,36
+Wright,Belmond Precinct,Governor,,Write-In,,4,1,3
+Wright,Clarion Precinct,Governor,,Write-In,,4,2,2
+Wright,Dows Precinct,Governor,,Write-In,,4,3,1
+Wright,Eagle Grove Ward #1 Precinct,Governor,,Write-In,,0,0,0
+Wright,Eagle Grove Ward #2 Precinct,Governor,,Write-In,,1,0,1
+Wright,Eagle Grove Ward #3 Precinct,Governor,,Write-In,,0,0,0
+Wright,Eagle Grove Ward #4 Precinct,Governor,,Write-In,,0,0,0
+Wright,Goldfield Precinct,Governor,,Write-In,,0,0,0
+Wright,Rural Clarion,Governor,,Write-In,,0,0,0
+Wright,Rural Eagle Grove Precinct,Governor,,Write-In,,0,0,0
+Wright,Belmond Precinct,Governor,,Zach Lahn and Derek Wulf,REP,628,153,475
+Wright,Clarion Precinct,Governor,,Zach Lahn and Derek Wulf,REP,490,176,314
+Wright,Dows Precinct,Governor,,Zach Lahn and Derek Wulf,REP,281,97,184
+Wright,Eagle Grove Ward #1 Precinct,Governor,,Zach Lahn and Derek Wulf,REP,81,10,71
+Wright,Eagle Grove Ward #2 Precinct,Governor,,Zach Lahn and Derek Wulf,REP,92,25,67
+Wright,Eagle Grove Ward #3 Precinct,Governor,,Zach Lahn and Derek Wulf,REP,166,25,141
+Wright,Eagle Grove Ward #4 Precinct,Governor,,Zach Lahn and Derek Wulf,REP,86,17,69
+Wright,Goldfield Precinct,Governor,,Zach Lahn and Derek Wulf,REP,223,48,175
+Wright,Rural Clarion,Governor,,Zach Lahn and Derek Wulf,REP,260,124,136
+Wright,Rural Eagle Grove Precinct,Governor,,Zach Lahn and Derek Wulf,REP,157,37,120
+Wright,Belmond Precinct,Iowa Township - Public Measure A,,No,,40,27,13
+Wright,Belmond Precinct,Iowa Township - Public Measure A,,Yes,,46,11,35
+Wright,Belmond Precinct,Iowa Township Clerk,,Aimee Frohling,,75,33,42
+Wright,Belmond Precinct,Iowa Township Clerk,,Write-In,,0,0,0
+Wright,Belmond Precinct,Iowa Township Trustee,,Alvin Bailey,,76,34,42
+Wright,Belmond Precinct,Iowa Township Trustee,,Write-In,,0,0,0
+Wright,Belmond Precinct,Iowa Township Trustee To Fill a Vacancy,,Kelly Leist,,76,32,44
+Wright,Belmond Precinct,Iowa Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
+Wright,Belmond Precinct,Retain District 2B Associate Judge Stephen A. Owen,,No,,246,67,179
+Wright,Clarion Precinct,Retain District 2B Associate Judge Stephen A. Owen,,No,,148,53,95
+Wright,Dows Precinct,Retain District 2B Associate Judge Stephen A. Owen,,No,,99,37,62
+Wright,Eagle Grove Ward #1 Precinct,Retain District 2B Associate Judge Stephen A. Owen,,No,,33,6,27
+Wright,Eagle Grove Ward #2 Precinct,Retain District 2B Associate Judge Stephen A. Owen,,No,,43,12,31
+Wright,Eagle Grove Ward #3 Precinct,Retain District 2B Associate Judge Stephen A. Owen,,No,,47,4,43
+Wright,Eagle Grove Ward #4 Precinct,Retain District 2B Associate Judge Stephen A. Owen,,No,,41,6,35
+Wright,Goldfield Precinct,Retain District 2B Associate Judge Stephen A. Owen,,No,,43,3,40
+Wright,Rural Clarion,Retain District 2B Associate Judge Stephen A. Owen,,No,,63,34,29
+Wright,Rural Eagle Grove Precinct,Retain District 2B Associate Judge Stephen A. Owen,,No,,35,2,33
+Wright,Belmond Precinct,Retain District 2B Associate Judge Stephen A. Owen,,Yes,,610,183,427
+Wright,Clarion Precinct,Retain District 2B Associate Judge Stephen A. Owen,,Yes,,484,195,289
+Wright,Dows Precinct,Retain District 2B Associate Judge Stephen A. Owen,,Yes,,255,73,182
+Wright,Eagle Grove Ward #1 Precinct,Retain District 2B Associate Judge Stephen A. Owen,,Yes,,116,18,98
+Wright,Eagle Grove Ward #2 Precinct,Retain District 2B Associate Judge Stephen A. Owen,,Yes,,127,38,89
+Wright,Eagle Grove Ward #3 Precinct,Retain District 2B Associate Judge Stephen A. Owen,,Yes,,174,37,137
+Wright,Eagle Grove Ward #4 Precinct,Retain District 2B Associate Judge Stephen A. Owen,,Yes,,111,20,91
+Wright,Goldfield Precinct,Retain District 2B Associate Judge Stephen A. Owen,,Yes,,103,26,77
+Wright,Rural Clarion,Retain District 2B Associate Judge Stephen A. Owen,,Yes,,197,102,95
+Wright,Rural Eagle Grove Precinct,Retain District 2B Associate Judge Stephen A. Owen,,Yes,,119,31,88
+Wright,Belmond Precinct,Secretary of Agriculture,,Chris Jones,DEM,455,172,283
+Wright,Clarion Precinct,Secretary of Agriculture,,Chris Jones,DEM,304,146,158
+Wright,Dows Precinct,Secretary of Agriculture,,Chris Jones,DEM,138,49,89
+Wright,Eagle Grove Ward #1 Precinct,Secretary of Agriculture,,Chris Jones,DEM,69,18,51
+Wright,Eagle Grove Ward #2 Precinct,Secretary of Agriculture,,Chris Jones,DEM,92,31,61
+Wright,Eagle Grove Ward #3 Precinct,Secretary of Agriculture,,Chris Jones,DEM,102,30,72
+Wright,Eagle Grove Ward #4 Precinct,Secretary of Agriculture,,Chris Jones,DEM,101,25,76
+Wright,Goldfield Precinct,Secretary of Agriculture,,Chris Jones,DEM,73,3,70
+Wright,Rural Clarion,Secretary of Agriculture,,Chris Jones,DEM,83,49,34
+Wright,Rural Eagle Grove Precinct,Secretary of Agriculture,,Chris Jones,DEM,38,12,26
+Wright,Belmond Precinct,Secretary of Agriculture,,Mike Naig,REP,737,195,542
+Wright,Clarion Precinct,Secretary of Agriculture,,Mike Naig,REP,613,230,383
+Wright,Dows Precinct,Secretary of Agriculture,,Mike Naig,REP,343,122,221
+Wright,Eagle Grove Ward #1 Precinct,Secretary of Agriculture,,Mike Naig,REP,109,14,95
+Wright,Eagle Grove Ward #2 Precinct,Secretary of Agriculture,,Mike Naig,REP,120,31,89
+Wright,Eagle Grove Ward #3 Precinct,Secretary of Agriculture,,Mike Naig,REP,198,32,166
+Wright,Eagle Grove Ward #4 Precinct,Secretary of Agriculture,,Mike Naig,REP,99,19,80
+Wright,Goldfield Precinct,Secretary of Agriculture,,Mike Naig,REP,237,48,189
+Wright,Rural Clarion,Secretary of Agriculture,,Mike Naig,REP,314,155,159
+Wright,Rural Eagle Grove Precinct,Secretary of Agriculture,,Mike Naig,REP,169,39,130
+Wright,Belmond Precinct,Secretary of Agriculture,,Write-In,,3,0,3
+Wright,Clarion Precinct,Secretary of Agriculture,,Write-In,,0,0,0
+Wright,Dows Precinct,Secretary of Agriculture,,Write-In,,2,1,1
+Wright,Eagle Grove Ward #1 Precinct,Secretary of Agriculture,,Write-In,,0,0,0
+Wright,Eagle Grove Ward #2 Precinct,Secretary of Agriculture,,Write-In,,1,0,1
+Wright,Eagle Grove Ward #3 Precinct,Secretary of Agriculture,,Write-In,,0,0,0
+Wright,Eagle Grove Ward #4 Precinct,Secretary of Agriculture,,Write-In,,1,0,1
+Wright,Goldfield Precinct,Secretary of Agriculture,,Write-In,,0,0,0
+Wright,Rural Clarion,Secretary of Agriculture,,Write-In,,1,0,1
+Wright,Rural Eagle Grove Precinct,Secretary of Agriculture,,Write-In,,0,0,0
+Wright,Belmond Precinct,Secretary of State,,Paul D. Pate,REP,720,194,526
+Wright,Clarion Precinct,Secretary of State,,Paul D. Pate,REP,589,216,373
+Wright,Dows Precinct,Secretary of State,,Paul D. Pate,REP,336,119,217
+Wright,Eagle Grove Ward #1 Precinct,Secretary of State,,Paul D. Pate,REP,109,14,95
+Wright,Eagle Grove Ward #2 Precinct,Secretary of State,,Paul D. Pate,REP,118,30,88
+Wright,Eagle Grove Ward #3 Precinct,Secretary of State,,Paul D. Pate,REP,200,35,165
+Wright,Eagle Grove Ward #4 Precinct,Secretary of State,,Paul D. Pate,REP,102,20,82
+Wright,Goldfield Precinct,Secretary of State,,Paul D. Pate,REP,238,48,190
+Wright,Rural Clarion,Secretary of State,,Paul D. Pate,REP,299,139,160
+Wright,Rural Eagle Grove Precinct,Secretary of State,,Paul D. Pate,REP,169,39,130
+Wright,Belmond Precinct,Secretary of State,,Ryan Peterman,DEM,466,170,296
+Wright,Clarion Precinct,Secretary of State,,Ryan Peterman,DEM,322,155,167
+Wright,Dows Precinct,Secretary of State,,Ryan Peterman,DEM,146,51,95
+Wright,Eagle Grove Ward #1 Precinct,Secretary of State,,Ryan Peterman,DEM,69,18,51
+Wright,Eagle Grove Ward #2 Precinct,Secretary of State,,Ryan Peterman,DEM,90,32,58
+Wright,Eagle Grove Ward #3 Precinct,Secretary of State,,Ryan Peterman,DEM,98,26,72
+Wright,Eagle Grove Ward #4 Precinct,Secretary of State,,Ryan Peterman,DEM,101,24,77
+Wright,Goldfield Precinct,Secretary of State,,Ryan Peterman,DEM,71,4,67
+Wright,Rural Clarion,Secretary of State,,Ryan Peterman,DEM,94,63,31
+Wright,Rural Eagle Grove Precinct,Secretary of State,,Ryan Peterman,DEM,37,12,25
+Wright,Belmond Precinct,Secretary of State,,Write-In,,2,0,2
+Wright,Clarion Precinct,Secretary of State,,Write-In,,0,0,0
+Wright,Dows Precinct,Secretary of State,,Write-In,,1,1,0
+Wright,Eagle Grove Ward #1 Precinct,Secretary of State,,Write-In,,0,0,0
+Wright,Eagle Grove Ward #2 Precinct,Secretary of State,,Write-In,,1,0,1
+Wright,Eagle Grove Ward #3 Precinct,Secretary of State,,Write-In,,0,0,0
+Wright,Eagle Grove Ward #4 Precinct,Secretary of State,,Write-In,,0,0,0
+Wright,Goldfield Precinct,Secretary of State,,Write-In,,1,0,1
+Wright,Rural Clarion,Secretary of State,,Write-In,,0,0,0
+Wright,Rural Eagle Grove Precinct,Secretary of State,,Write-In,,0,0,0
+Wright,Belmond Precinct,Soil and Water Conservation District Commissioner,,Jay Pogge,,888,265,623
+Wright,Clarion Precinct,Soil and Water Conservation District Commissioner,,Jay Pogge,,718,284,434
+Wright,Dows Precinct,Soil and Water Conservation District Commissioner,,Jay Pogge,,384,133,251
+Wright,Eagle Grove Ward #1 Precinct,Soil and Water Conservation District Commissioner,,Jay Pogge,,153,22,131
+Wright,Eagle Grove Ward #2 Precinct,Soil and Water Conservation District Commissioner,,Jay Pogge,,168,49,119
+Wright,Eagle Grove Ward #3 Precinct,Soil and Water Conservation District Commissioner,,Jay Pogge,,246,48,198
+Wright,Eagle Grove Ward #4 Precinct,Soil and Water Conservation District Commissioner,,Jay Pogge,,157,31,126
+Wright,Goldfield Precinct,Soil and Water Conservation District Commissioner,,Jay Pogge,,211,40,171
+Wright,Rural Clarion,Soil and Water Conservation District Commissioner,,Jay Pogge,,309,157,152
+Wright,Rural Eagle Grove Precinct,Soil and Water Conservation District Commissioner,,Jay Pogge,,163,36,127
+Wright,Belmond Precinct,Soil and Water Conservation District Commissioner,,Write-In,,24,3,21
+Wright,Clarion Precinct,Soil and Water Conservation District Commissioner,,Write-In,,9,3,6
+Wright,Dows Precinct,Soil and Water Conservation District Commissioner,,Write-In,,10,7,3
+Wright,Eagle Grove Ward #1 Precinct,Soil and Water Conservation District Commissioner,,Write-In,,4,0,4
+Wright,Eagle Grove Ward #2 Precinct,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Wright,Eagle Grove Ward #3 Precinct,Soil and Water Conservation District Commissioner,,Write-In,,5,1,4
+Wright,Eagle Grove Ward #4 Precinct,Soil and Water Conservation District Commissioner,,Write-In,,5,2,3
+Wright,Goldfield Precinct,Soil and Water Conservation District Commissioner,,Write-In,,9,3,6
+Wright,Rural Clarion,Soil and Water Conservation District Commissioner,,Write-In,,8,3,5
+Wright,Rural Eagle Grove Precinct,Soil and Water Conservation District Commissioner,,Write-In,,6,1,5
+Wright,Dows Precinct,State House,55,Beau Klaver,REP,336,116,220
+Wright,Dows Precinct,State House,55,Cynthia Oppedal Paschen,DEM,141,54,87
+Wright,Dows Precinct,State House,55,Write-In,,1,1,0
+Wright,Belmond Precinct,State House,56,Kyle Kruse,DEM,485,184,301
+Wright,Clarion Precinct,State House,56,Kyle Kruse,DEM,301,146,155
+Wright,Eagle Grove Ward #1 Precinct,State House,56,Kyle Kruse,DEM,66,18,48
+Wright,Eagle Grove Ward #2 Precinct,State House,56,Kyle Kruse,DEM,84,32,52
+Wright,Eagle Grove Ward #3 Precinct,State House,56,Kyle Kruse,DEM,99,27,72
+Wright,Eagle Grove Ward #4 Precinct,State House,56,Kyle Kruse,DEM,92,24,68
+Wright,Goldfield Precinct,State House,56,Kyle Kruse,DEM,66,3,63
+Wright,Rural Clarion,State House,56,Kyle Kruse,DEM,90,55,35
+Wright,Rural Eagle Grove Precinct,State House,56,Kyle Kruse,DEM,34,13,21
+Wright,Belmond Precinct,State House,56,Mark I. Thompson,REP,705,181,524
+Wright,Clarion Precinct,State House,56,Mark I. Thompson,REP,612,225,387
+Wright,Eagle Grove Ward #1 Precinct,State House,56,Mark I. Thompson,REP,113,14,99
+Wright,Eagle Grove Ward #2 Precinct,State House,56,Mark I. Thompson,REP,128,30,98
+Wright,Eagle Grove Ward #3 Precinct,State House,56,Mark I. Thompson,REP,201,33,168
+Wright,Eagle Grove Ward #4 Precinct,State House,56,Mark I. Thompson,REP,110,20,90
+Wright,Goldfield Precinct,State House,56,Mark I. Thompson,REP,245,49,196
+Wright,Rural Clarion,State House,56,Mark I. Thompson,REP,309,151,158
+Wright,Rural Eagle Grove Precinct,State House,56,Mark I. Thompson,REP,168,37,131
+Wright,Belmond Precinct,State House,56,Write-In,,4,1,3
+Wright,Clarion Precinct,State House,56,Write-In,,1,0,1
+Wright,Eagle Grove Ward #1 Precinct,State House,56,Write-In,,0,0,0
+Wright,Eagle Grove Ward #2 Precinct,State House,56,Write-In,,1,0,1
+Wright,Eagle Grove Ward #3 Precinct,State House,56,Write-In,,0,0,0
+Wright,Eagle Grove Ward #4 Precinct,State House,56,Write-In,,0,0,0
+Wright,Goldfield Precinct,State House,56,Write-In,,0,0,0
+Wright,Rural Clarion,State House,56,Write-In,,0,0,0
+Wright,Rural Eagle Grove Precinct,State House,56,Write-In,,0,0,0
+Wright,Belmond Precinct,Treasurer of State,,John Norwood,DEM,486,180,306
+Wright,Clarion Precinct,Treasurer of State,,John Norwood,DEM,346,171,175
+Wright,Dows Precinct,Treasurer of State,,John Norwood,DEM,170,64,106
+Wright,Eagle Grove Ward #1 Precinct,Treasurer of State,,John Norwood,DEM,78,19,59
+Wright,Eagle Grove Ward #2 Precinct,Treasurer of State,,John Norwood,DEM,101,34,67
+Wright,Eagle Grove Ward #3 Precinct,Treasurer of State,,John Norwood,DEM,110,30,80
+Wright,Eagle Grove Ward #4 Precinct,Treasurer of State,,John Norwood,DEM,103,26,77
+Wright,Goldfield Precinct,Treasurer of State,,John Norwood,DEM,71,4,67
+Wright,Rural Clarion,Treasurer of State,,John Norwood,DEM,106,67,39
+Wright,Rural Eagle Grove Precinct,Treasurer of State,,John Norwood,DEM,41,12,29
+Wright,Belmond Precinct,Treasurer of State,,Roby Smith,REP,692,181,511
+Wright,Clarion Precinct,Treasurer of State,,Roby Smith,REP,551,194,357
+Wright,Dows Precinct,Treasurer of State,,Roby Smith,REP,301,105,196
+Wright,Eagle Grove Ward #1 Precinct,Treasurer of State,,Roby Smith,REP,97,13,84
+Wright,Eagle Grove Ward #2 Precinct,Treasurer of State,,Roby Smith,REP,103,27,76
+Wright,Eagle Grove Ward #3 Precinct,Treasurer of State,,Roby Smith,REP,183,30,153
+Wright,Eagle Grove Ward #4 Precinct,Treasurer of State,,Roby Smith,REP,94,18,76
+Wright,Goldfield Precinct,Treasurer of State,,Roby Smith,REP,229,47,182
+Wright,Rural Clarion,Treasurer of State,,Roby Smith,REP,278,132,146
+Wright,Rural Eagle Grove Precinct,Treasurer of State,,Roby Smith,REP,164,39,125
+Wright,Belmond Precinct,Treasurer of State,,Write-In,,3,0,3
+Wright,Clarion Precinct,Treasurer of State,,Write-In,,1,1,0
+Wright,Dows Precinct,Treasurer of State,,Write-In,,1,1,0
+Wright,Eagle Grove Ward #1 Precinct,Treasurer of State,,Write-In,,0,0,0
+Wright,Eagle Grove Ward #2 Precinct,Treasurer of State,,Write-In,,1,0,1
+Wright,Eagle Grove Ward #3 Precinct,Treasurer of State,,Write-In,,0,0,0
+Wright,Eagle Grove Ward #4 Precinct,Treasurer of State,,Write-In,,2,0,2
+Wright,Goldfield Precinct,Treasurer of State,,Write-In,,0,0,0
+Wright,Rural Clarion,Treasurer of State,,Write-In,,0,0,0
+Wright,Rural Eagle Grove Precinct,Treasurer of State,,Write-In,,0,0,0
+Wright,Belmond Precinct,U.S. House,4,Chris McGowan,REP,677,166,511
+Wright,Clarion Precinct,U.S. House,4,Chris McGowan,REP,543,196,347
+Wright,Dows Precinct,U.S. House,4,Chris McGowan,REP,304,104,200
+Wright,Eagle Grove Ward #1 Precinct,U.S. House,4,Chris McGowan,REP,96,12,84
+Wright,Eagle Grove Ward #2 Precinct,U.S. House,4,Chris McGowan,REP,110,28,82
+Wright,Eagle Grove Ward #3 Precinct,U.S. House,4,Chris McGowan,REP,180,28,152
+Wright,Eagle Grove Ward #4 Precinct,U.S. House,4,Chris McGowan,REP,92,18,74
+Wright,Goldfield Precinct,U.S. House,4,Chris McGowan,REP,228,47,181
+Wright,Rural Clarion,U.S. House,4,Chris McGowan,REP,268,121,147
+Wright,Rural Eagle Grove Precinct,U.S. House,4,Chris McGowan,REP,160,35,125
+Wright,Belmond Precinct,U.S. House,4,Dave Dawson,DEM,496,191,305
+Wright,Clarion Precinct,U.S. House,4,Dave Dawson,DEM,336,158,178
+Wright,Dows Precinct,U.S. House,4,Dave Dawson,DEM,170,65,105
+Wright,Eagle Grove Ward #1 Precinct,U.S. House,4,Dave Dawson,DEM,80,20,60
+Wright,Eagle Grove Ward #2 Precinct,U.S. House,4,Dave Dawson,DEM,95,31,64
+Wright,Eagle Grove Ward #3 Precinct,U.S. House,4,Dave Dawson,DEM,106,30,76
+Wright,Eagle Grove Ward #4 Precinct,U.S. House,4,Dave Dawson,DEM,104,26,78
+Wright,Goldfield Precinct,U.S. House,4,Dave Dawson,DEM,77,4,73
+Wright,Rural Clarion,U.S. House,4,Dave Dawson,DEM,109,69,40
+Wright,Rural Eagle Grove Precinct,U.S. House,4,Dave Dawson,DEM,42,12,30
+Wright,Belmond Precinct,U.S. House,4,Write-In,,4,0,4
+Wright,Clarion Precinct,U.S. House,4,Write-In,,2,1,1
+Wright,Dows Precinct,U.S. House,4,Write-In,,1,1,0
+Wright,Eagle Grove Ward #1 Precinct,U.S. House,4,Write-In,,0,0,0
+Wright,Eagle Grove Ward #2 Precinct,U.S. House,4,Write-In,,1,0,1
+Wright,Eagle Grove Ward #3 Precinct,U.S. House,4,Write-In,,1,0,1
+Wright,Eagle Grove Ward #4 Precinct,U.S. House,4,Write-In,,0,0,0
+Wright,Goldfield Precinct,U.S. House,4,Write-In,,0,0,0
+Wright,Rural Clarion,U.S. House,4,Write-In,,0,0,0
+Wright,Rural Eagle Grove Precinct,U.S. House,4,Write-In,,0,0,0
+Wright,Belmond Precinct,U.S. Senate,,Ashley Hinson,REP,636,162,474
+Wright,Clarion Precinct,U.S. Senate,,Ashley Hinson,REP,498,170,328
+Wright,Dows Precinct,U.S. Senate,,Ashley Hinson,REP,281,97,184
+Wright,Eagle Grove Ward #1 Precinct,U.S. Senate,,Ashley Hinson,REP,90,10,80
+Wright,Eagle Grove Ward #2 Precinct,U.S. Senate,,Ashley Hinson,REP,93,27,66
+Wright,Eagle Grove Ward #3 Precinct,U.S. Senate,,Ashley Hinson,REP,172,28,144
+Wright,Eagle Grove Ward #4 Precinct,U.S. Senate,,Ashley Hinson,REP,90,18,72
+Wright,Goldfield Precinct,U.S. Senate,,Ashley Hinson,REP,225,45,180
+Wright,Rural Clarion,U.S. Senate,,Ashley Hinson,REP,264,122,142
+Wright,Rural Eagle Grove Precinct,U.S. Senate,,Ashley Hinson,REP,153,34,119
+Wright,Belmond Precinct,U.S. Senate,,Josh Turek,DEM,518,194,324
+Wright,Clarion Precinct,U.S. Senate,,Josh Turek,DEM,371,179,192
+Wright,Dows Precinct,U.S. Senate,,Josh Turek,DEM,167,64,103
+Wright,Eagle Grove Ward #1 Precinct,U.S. Senate,,Josh Turek,DEM,77,19,58
+Wright,Eagle Grove Ward #2 Precinct,U.S. Senate,,Josh Turek,DEM,102,30,72
+Wright,Eagle Grove Ward #3 Precinct,U.S. Senate,,Josh Turek,DEM,115,34,81
+Wright,Eagle Grove Ward #4 Precinct,U.S. Senate,,Josh Turek,DEM,108,26,82
+Wright,Goldfield Precinct,U.S. Senate,,Josh Turek,DEM,80,6,74
+Wright,Rural Clarion,U.S. Senate,,Josh Turek,DEM,121,75,46
+Wright,Rural Eagle Grove Precinct,U.S. Senate,,Josh Turek,DEM,45,13,32
+Wright,Belmond Precinct,U.S. Senate,,Thomas Laehn,LIB,47,9,38
+Wright,Clarion Precinct,U.S. Senate,,Thomas Laehn,LIB,30,12,18
+Wright,Dows Precinct,U.S. Senate,,Thomas Laehn,LIB,40,10,30
+Wright,Eagle Grove Ward #1 Precinct,U.S. Senate,,Thomas Laehn,LIB,11,3,8
+Wright,Eagle Grove Ward #2 Precinct,U.S. Senate,,Thomas Laehn,LIB,17,3,14
+Wright,Eagle Grove Ward #3 Precinct,U.S. Senate,,Thomas Laehn,LIB,10,0,10
+Wright,Eagle Grove Ward #4 Precinct,U.S. Senate,,Thomas Laehn,LIB,7,0,7
+Wright,Goldfield Precinct,U.S. Senate,,Thomas Laehn,LIB,8,0,8
+Wright,Rural Clarion,U.S. Senate,,Thomas Laehn,LIB,8,4,4
+Wright,Rural Eagle Grove Precinct,U.S. Senate,,Thomas Laehn,LIB,6,1,5
+Wright,Belmond Precinct,U.S. Senate,,Write-In,,4,1,3
+Wright,Clarion Precinct,U.S. Senate,,Write-In,,1,1,0
+Wright,Dows Precinct,U.S. Senate,,Write-In,,2,1,1
+Wright,Eagle Grove Ward #1 Precinct,U.S. Senate,,Write-In,,0,0,0
+Wright,Eagle Grove Ward #2 Precinct,U.S. Senate,,Write-In,,0,0,0
+Wright,Eagle Grove Ward #3 Precinct,U.S. Senate,,Write-In,,0,0,0
+Wright,Eagle Grove Ward #4 Precinct,U.S. Senate,,Write-In,,0,0,0
+Wright,Goldfield Precinct,U.S. Senate,,Write-In,,1,0,1
+Wright,Rural Clarion,U.S. Senate,,Write-In,,2,0,2
+Wright,Rural Eagle Grove Precinct,U.S. Senate,,Write-In,,0,0,0
+Wright,Dows Precinct,Wall Lake Township - Public Measure B,,No,,9,6,3
+Wright,Dows Precinct,Wall Lake Township - Public Measure B,,Yes,,31,20,11
+Wright,Dows Precinct,Wall Lake Township Clerk,,Emily Cook,,35,24,11
+Wright,Dows Precinct,Wall Lake Township Clerk,,Write-In,,0,0,0
+Wright,Dows Precinct,Wall Lake Township Trustee,,Brittany Howieson,,36,25,11
+Wright,Dows Precinct,Wall Lake Township Trustee,,Write-In,,0,0,0
+Wright,Dows Precinct,Woolstock Township - Public Measure C,,No,,26,17,9
+Wright,Dows Precinct,Woolstock Township - Public Measure C,,Yes,,31,19,12
+Wright,Dows Precinct,Woolstock Township Clerk,,Tamie J. Harrison,,57,36,21
+Wright,Dows Precinct,Woolstock Township Clerk,,Write-In,,0,0,0
+Wright,Dows Precinct,Woolstock Township Trustee,,Bryan Claude,,51,32,19
+Wright,Dows Precinct,Woolstock Township Trustee,,Write-In,,2,1,1

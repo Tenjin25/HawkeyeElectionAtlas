@@ -1,4 +1,8 @@
 {
+	"scripts": {
+		"check:html": "node scripts/validate_html_scripts.js",
+		"test": "npm run check:html"
+	},
 	"dependencies": {
 		"playwright-core": "^1.61.1"
 	}

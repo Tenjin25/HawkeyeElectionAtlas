@@ -8,6 +8,7 @@
   "split_precinct_method": "reported_state_house_ballot_vote_share",
   "years": [
     2022,
-    2024
+    2024,
+    2026
   ]
 }

@@ -1,0 +1,371 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Taylor,Courthouse Precinct 1,Attorney General,,Brenna Bird,REP,170,62,108
+Taylor,Courthouse Precinct 2,Attorney General,,Brenna Bird,REP,520,230,290
+Taylor,Gravity Fire Station Precinct 4,Attorney General,,Brenna Bird,REP,190,42,148
+Taylor,Lenox Community Center Precinct 3,Attorney General,,Brenna Bird,REP,392,74,318
+Taylor,New Market Community Center Precinct 5,Attorney General,,Brenna Bird,REP,287,61,226
+Taylor,Courthouse Precinct 1,Attorney General,,Nate Willems,DEM,51,30,21
+Taylor,Courthouse Precinct 2,Attorney General,,Nate Willems,DEM,148,76,72
+Taylor,Gravity Fire Station Precinct 4,Attorney General,,Nate Willems,DEM,88,31,57
+Taylor,Lenox Community Center Precinct 3,Attorney General,,Nate Willems,DEM,233,67,166
+Taylor,New Market Community Center Precinct 5,Attorney General,,Nate Willems,DEM,88,19,69
+Taylor,Courthouse Precinct 1,Attorney General,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,Attorney General,,Write-In,,0,0,0
+Taylor,Gravity Fire Station Precinct 4,Attorney General,,Write-In,,0,0,0
+Taylor,Lenox Community Center Precinct 3,Attorney General,,Write-In,,1,0,1
+Taylor,New Market Community Center Precinct 5,Attorney General,,Write-In,,1,0,1
+Taylor,Courthouse Precinct 1,Auditor of State,,Chris Cournoyer,REP,164,59,105
+Taylor,Courthouse Precinct 2,Auditor of State,,Chris Cournoyer,REP,531,234,297
+Taylor,Gravity Fire Station Precinct 4,Auditor of State,,Chris Cournoyer,REP,193,44,149
+Taylor,Lenox Community Center Precinct 3,Auditor of State,,Chris Cournoyer,REP,397,73,324
+Taylor,New Market Community Center Precinct 5,Auditor of State,,Chris Cournoyer,REP,281,59,222
+Taylor,Courthouse Precinct 1,Auditor of State,,Taylor Wettach,DEM,53,30,23
+Taylor,Courthouse Precinct 2,Auditor of State,,Taylor Wettach,DEM,139,72,67
+Taylor,Gravity Fire Station Precinct 4,Auditor of State,,Taylor Wettach,DEM,84,29,55
+Taylor,Lenox Community Center Precinct 3,Auditor of State,,Taylor Wettach,DEM,230,66,164
+Taylor,New Market Community Center Precinct 5,Auditor of State,,Taylor Wettach,DEM,94,21,73
+Taylor,Courthouse Precinct 1,Auditor of State,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,Auditor of State,,Write-In,,0,0,0
+Taylor,Gravity Fire Station Precinct 4,Auditor of State,,Write-In,,0,0,0
+Taylor,Lenox Community Center Precinct 3,Auditor of State,,Write-In,,2,1,1
+Taylor,New Market Community Center Precinct 5,Auditor of State,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,Bedford Township Clerk,,James Donald Offenbacker,,34,14,20
+Taylor,Courthouse Precinct 2,Bedford Township Clerk,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,Bedford Township Trustee,,Dennis White,,36,15,21
+Taylor,Courthouse Precinct 2,Bedford Township Trustee,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 1,Benton Township Clerk,,Write-In,,3,0,3
+Taylor,Courthouse Precinct 2,Benton Township Clerk,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 1,Benton Township Trustee,,Write-In,,4,0,4
+Taylor,Courthouse Precinct 2,Benton Township Trustee,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,Clayton Township Clerk,,Patty Rankin,,40,21,19
+Taylor,Courthouse Precinct 2,Clayton Township Clerk,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,Clayton Township Trustee,,Garry Dean Rankin,,42,22,20
+Taylor,Courthouse Precinct 2,Clayton Township Trustee,,Write-In,,1,0,1
+Taylor,Courthouse Precinct 1,Constitutional Amendment 1,,No,,62,31,31
+Taylor,Courthouse Precinct 2,Constitutional Amendment 1,,No,,181,80,101
+Taylor,Gravity Fire Station Precinct 4,Constitutional Amendment 1,,No,,75,21,54
+Taylor,Lenox Community Center Precinct 3,Constitutional Amendment 1,,No,,187,47,140
+Taylor,New Market Community Center Precinct 5,Constitutional Amendment 1,,No,,119,20,99
+Taylor,Courthouse Precinct 1,Constitutional Amendment 1,,Yes,,125,47,78
+Taylor,Courthouse Precinct 2,Constitutional Amendment 1,,Yes,,369,180,189
+Taylor,Gravity Fire Station Precinct 4,Constitutional Amendment 1,,Yes,,153,33,120
+Taylor,Lenox Community Center Precinct 3,Constitutional Amendment 1,,Yes,,358,73,285
+Taylor,New Market Community Center Precinct 5,Constitutional Amendment 1,,Yes,,205,49,156
+Taylor,Courthouse Precinct 1,County Agricultural Extension Council Member,,Aleigh Beaman,,101,37,64
+Taylor,Courthouse Precinct 2,County Agricultural Extension Council Member,,Aleigh Beaman,,310,134,176
+Taylor,Gravity Fire Station Precinct 4,County Agricultural Extension Council Member,,Aleigh Beaman,,108,31,77
+Taylor,Lenox Community Center Precinct 3,County Agricultural Extension Council Member,,Aleigh Beaman,,271,51,220
+Taylor,New Market Community Center Precinct 5,County Agricultural Extension Council Member,,Aleigh Beaman,,115,26,89
+Taylor,Courthouse Precinct 1,County Agricultural Extension Council Member,,Aubrey Norris,,88,38,50
+Taylor,Courthouse Precinct 2,County Agricultural Extension Council Member,,Aubrey Norris,,306,138,168
+Taylor,Gravity Fire Station Precinct 4,County Agricultural Extension Council Member,,Aubrey Norris,,98,25,73
+Taylor,Lenox Community Center Precinct 3,County Agricultural Extension Council Member,,Aubrey Norris,,178,36,142
+Taylor,New Market Community Center Precinct 5,County Agricultural Extension Council Member,,Aubrey Norris,,171,29,142
+Taylor,Courthouse Precinct 1,County Agricultural Extension Council Member,,Kerri Sargent,,80,30,50
+Taylor,Courthouse Precinct 2,County Agricultural Extension Council Member,,Kerri Sargent,,283,123,160
+Taylor,Gravity Fire Station Precinct 4,County Agricultural Extension Council Member,,Kerri Sargent,,74,14,60
+Taylor,Lenox Community Center Precinct 3,County Agricultural Extension Council Member,,Kerri Sargent,,114,31,83
+Taylor,New Market Community Center Precinct 5,County Agricultural Extension Council Member,,Kerri Sargent,,101,20,81
+Taylor,Courthouse Precinct 1,County Agricultural Extension Council Member,,Lynn Stamps,,131,48,83
+Taylor,Courthouse Precinct 2,County Agricultural Extension Council Member,,Lynn Stamps,,382,164,218
+Taylor,Gravity Fire Station Precinct 4,County Agricultural Extension Council Member,,Lynn Stamps,,180,46,134
+Taylor,Lenox Community Center Precinct 3,County Agricultural Extension Council Member,,Lynn Stamps,,249,55,194
+Taylor,New Market Community Center Precinct 5,County Agricultural Extension Council Member,,Lynn Stamps,,241,51,190
+Taylor,Courthouse Precinct 1,County Agricultural Extension Council Member,,Ryan Wilson,,91,32,59
+Taylor,Courthouse Precinct 2,County Agricultural Extension Council Member,,Ryan Wilson,,286,125,161
+Taylor,Gravity Fire Station Precinct 4,County Agricultural Extension Council Member,,Ryan Wilson,,130,33,97
+Taylor,Lenox Community Center Precinct 3,County Agricultural Extension Council Member,,Ryan Wilson,,382,86,296
+Taylor,New Market Community Center Precinct 5,County Agricultural Extension Council Member,,Ryan Wilson,,149,34,115
+Taylor,Courthouse Precinct 1,County Agricultural Extension Council Member,,Tiana McKee,,103,37,66
+Taylor,Courthouse Precinct 2,County Agricultural Extension Council Member,,Tiana McKee,,295,109,186
+Taylor,Gravity Fire Station Precinct 4,County Agricultural Extension Council Member,,Tiana McKee,,133,32,101
+Taylor,Lenox Community Center Precinct 3,County Agricultural Extension Council Member,,Tiana McKee,,347,58,289
+Taylor,New Market Community Center Precinct 5,County Agricultural Extension Council Member,,Tiana McKee,,149,25,124
+Taylor,Courthouse Precinct 1,County Agricultural Extension Council Member,,Tina McMillin,,129,51,78
+Taylor,Courthouse Precinct 2,County Agricultural Extension Council Member,,Tina McMillin,,389,173,216
+Taylor,Gravity Fire Station Precinct 4,County Agricultural Extension Council Member,,Tina McMillin,,123,34,89
+Taylor,Lenox Community Center Precinct 3,County Agricultural Extension Council Member,,Tina McMillin,,230,55,175
+Taylor,New Market Community Center Precinct 5,County Agricultural Extension Council Member,,Tina McMillin,,169,35,134
+Taylor,Courthouse Precinct 1,County Agricultural Extension Council Member,,Trisha Moore,,71,27,44
+Taylor,Courthouse Precinct 2,County Agricultural Extension Council Member,,Trisha Moore,,226,112,114
+Taylor,Gravity Fire Station Precinct 4,County Agricultural Extension Council Member,,Trisha Moore,,94,19,75
+Taylor,Lenox Community Center Precinct 3,County Agricultural Extension Council Member,,Trisha Moore,,175,33,142
+Taylor,New Market Community Center Precinct 5,County Agricultural Extension Council Member,,Trisha Moore,,127,22,105
+Taylor,Courthouse Precinct 1,County Agricultural Extension Council Member,,Write-In,,4,3,1
+Taylor,Courthouse Precinct 2,County Agricultural Extension Council Member,,Write-In,,8,1,7
+Taylor,Gravity Fire Station Precinct 4,County Agricultural Extension Council Member,,Write-In,,4,0,4
+Taylor,Lenox Community Center Precinct 3,County Agricultural Extension Council Member,,Write-In,,7,0,7
+Taylor,New Market Community Center Precinct 5,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Taylor,Courthouse Precinct 1,County Attorney,,Write-In,,6,1,5
+Taylor,Courthouse Precinct 2,County Attorney,,Write-In,,26,8,18
+Taylor,Gravity Fire Station Precinct 4,County Attorney,,Write-In,,10,1,9
+Taylor,Lenox Community Center Precinct 3,County Attorney,,Write-In,,46,5,41
+Taylor,New Market Community Center Precinct 5,County Attorney,,Write-In,,10,0,10
+Taylor,Courthouse Precinct 1,County Recorder,,Janel Irvin,REP,212,85,127
+Taylor,Courthouse Precinct 2,County Recorder,,Janel Irvin,REP,644,297,347
+Taylor,Gravity Fire Station Precinct 4,County Recorder,,Janel Irvin,REP,239,62,177
+Taylor,Lenox Community Center Precinct 3,County Recorder,,Janel Irvin,REP,541,115,426
+Taylor,New Market Community Center Precinct 5,County Recorder,,Janel Irvin,REP,349,74,275
+Taylor,Courthouse Precinct 1,County Recorder,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,County Recorder,,Write-In,,3,1,2
+Taylor,Gravity Fire Station Precinct 4,County Recorder,,Write-In,,0,0,0
+Taylor,Lenox Community Center Precinct 3,County Recorder,,Write-In,,8,1,7
+Taylor,New Market Community Center Precinct 5,County Recorder,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 1,County Supervisor,1,Rick Cabbage,REP,203,77,126
+Taylor,Gravity Fire Station Precinct 4,County Supervisor,1,Rick Cabbage,REP,225,55,170
+Taylor,New Market Community Center Precinct 5,County Supervisor,1,Rick Cabbage,REP,356,71,285
+Taylor,Courthouse Precinct 1,County Supervisor,1,Write-In,,2,2,0
+Taylor,Gravity Fire Station Precinct 4,County Supervisor,1,Write-In,,7,1,6
+Taylor,New Market Community Center Precinct 5,County Supervisor,1,Write-In,,3,1,2
+Taylor,Lenox Community Center Precinct 3,County Supervisor,3,Jack Beggs,REP,532,116,416
+Taylor,Lenox Community Center Precinct 3,County Supervisor,3,Write-In,,15,1,14
+Taylor,Courthouse Precinct 1,County Treasurer,,Dana Davis,REP,215,85,130
+Taylor,Courthouse Precinct 2,County Treasurer,,Dana Davis,REP,668,306,362
+Taylor,Gravity Fire Station Precinct 4,County Treasurer,,Dana Davis,REP,254,62,192
+Taylor,Lenox Community Center Precinct 3,County Treasurer,,Dana Davis,REP,552,118,434
+Taylor,New Market Community Center Precinct 5,County Treasurer,,Dana Davis,REP,363,73,290
+Taylor,Courthouse Precinct 1,County Treasurer,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,County Treasurer,,Write-In,,1,0,1
+Taylor,Gravity Fire Station Precinct 4,County Treasurer,,Write-In,,0,0,0
+Taylor,Lenox Community Center Precinct 3,County Treasurer,,Write-In,,8,1,7
+Taylor,New Market Community Center Precinct 5,County Treasurer,,Write-In,,1,1,0
+Taylor,Courthouse Precinct 1,Court of Appeals Judge - John M. Sandy,,No,,40,12,28
+Taylor,Courthouse Precinct 2,Court of Appeals Judge - John M. Sandy,,No,,134,60,74
+Taylor,Gravity Fire Station Precinct 4,Court of Appeals Judge - John M. Sandy,,No,,72,19,53
+Taylor,Lenox Community Center Precinct 3,Court of Appeals Judge - John M. Sandy,,No,,125,30,95
+Taylor,New Market Community Center Precinct 5,Court of Appeals Judge - John M. Sandy,,No,,85,19,66
+Taylor,Courthouse Precinct 1,Court of Appeals Judge - John M. Sandy,,Yes,,116,47,69
+Taylor,Courthouse Precinct 2,Court of Appeals Judge - John M. Sandy,,Yes,,358,153,205
+Taylor,Gravity Fire Station Precinct 4,Court of Appeals Judge - John M. Sandy,,Yes,,128,28,100
+Taylor,Lenox Community Center Precinct 3,Court of Appeals Judge - John M. Sandy,,Yes,,365,68,297
+Taylor,New Market Community Center Precinct 5,Court of Appeals Judge - John M. Sandy,,Yes,,209,34,175
+Taylor,Courthouse Precinct 1,Court of Appeals Judge - Julie A. Schumacher,,No,,44,14,30
+Taylor,Courthouse Precinct 2,Court of Appeals Judge - Julie A. Schumacher,,No,,139,65,74
+Taylor,Gravity Fire Station Precinct 4,Court of Appeals Judge - Julie A. Schumacher,,No,,68,16,52
+Taylor,Lenox Community Center Precinct 3,Court of Appeals Judge - Julie A. Schumacher,,No,,128,27,101
+Taylor,New Market Community Center Precinct 5,Court of Appeals Judge - Julie A. Schumacher,,No,,88,16,72
+Taylor,Courthouse Precinct 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,111,44,67
+Taylor,Courthouse Precinct 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,345,145,200
+Taylor,Gravity Fire Station Precinct 4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,131,31,100
+Taylor,Lenox Community Center Precinct 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,354,70,284
+Taylor,New Market Community Center Precinct 5,Court of Appeals Judge - Julie A. Schumacher,,Yes,,206,36,170
+Taylor,Courthouse Precinct 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,50,15,35
+Taylor,Courthouse Precinct 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,147,63,84
+Taylor,Gravity Fire Station Precinct 4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,76,17,59
+Taylor,Lenox Community Center Precinct 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,128,28,100
+Taylor,New Market Community Center Precinct 5,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,92,16,76
+Taylor,Courthouse Precinct 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,106,44,62
+Taylor,Courthouse Precinct 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,328,141,187
+Taylor,Gravity Fire Station Precinct 4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,122,29,93
+Taylor,Lenox Community Center Precinct 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,354,70,284
+Taylor,New Market Community Center Precinct 5,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,198,36,162
+Taylor,New Market Community Center Precinct 5,Dallas Township Clerk,,Lee Haug,,112,24,88
+Taylor,New Market Community Center Precinct 5,Dallas Township Clerk,,Write-In,,0,0,0
+Taylor,New Market Community Center Precinct 5,Dallas Township Trustee,,Steve Wright,,109,22,87
+Taylor,New Market Community Center Precinct 5,Dallas Township Trustee,,Write-In,,1,0,1
+Taylor,Courthouse Precinct 1,District 5B Associate Judge - Andrew Zimmerman,,No,,35,10,25
+Taylor,Courthouse Precinct 2,District 5B Associate Judge - Andrew Zimmerman,,No,,113,49,64
+Taylor,Gravity Fire Station Precinct 4,District 5B Associate Judge - Andrew Zimmerman,,No,,66,17,49
+Taylor,Lenox Community Center Precinct 3,District 5B Associate Judge - Andrew Zimmerman,,No,,121,23,98
+Taylor,New Market Community Center Precinct 5,District 5B Associate Judge - Andrew Zimmerman,,No,,79,20,59
+Taylor,Courthouse Precinct 1,District 5B Associate Judge - Andrew Zimmerman,,Yes,,122,50,72
+Taylor,Courthouse Precinct 2,District 5B Associate Judge - Andrew Zimmerman,,Yes,,385,165,220
+Taylor,Gravity Fire Station Precinct 4,District 5B Associate Judge - Andrew Zimmerman,,Yes,,145,32,113
+Taylor,Lenox Community Center Precinct 3,District 5B Associate Judge - Andrew Zimmerman,,Yes,,385,79,306
+Taylor,New Market Community Center Precinct 5,District 5B Associate Judge - Andrew Zimmerman,,Yes,,218,34,184
+Taylor,Courthouse Precinct 1,District 5B Judge - Elisabeth S. Reynoldson,,No,,40,12,28
+Taylor,Courthouse Precinct 2,District 5B Judge - Elisabeth S. Reynoldson,,No,,129,57,72
+Taylor,Gravity Fire Station Precinct 4,District 5B Judge - Elisabeth S. Reynoldson,,No,,69,17,52
+Taylor,Lenox Community Center Precinct 3,District 5B Judge - Elisabeth S. Reynoldson,,No,,121,28,93
+Taylor,New Market Community Center Precinct 5,District 5B Judge - Elisabeth S. Reynoldson,,No,,84,18,66
+Taylor,Courthouse Precinct 1,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,117,47,70
+Taylor,Courthouse Precinct 2,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,361,152,209
+Taylor,Gravity Fire Station Precinct 4,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,130,30,100
+Taylor,Lenox Community Center Precinct 3,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,371,70,301
+Taylor,New Market Community Center Precinct 5,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,209,34,175
+Taylor,Courthouse Precinct 2,Gay Township Clerk,,Write-In,,4,3,1
+Taylor,Courthouse Precinct 2,Gay Township Trustee,,Write-In,,4,3,1
+Taylor,Courthouse Precinct 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,70,37,33
+Taylor,Courthouse Precinct 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,189,87,102
+Taylor,Gravity Fire Station Precinct 4,Governor,,Rob Sand and Dave Muhlbauer,DEM,120,39,81
+Taylor,Lenox Community Center Precinct 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,278,70,208
+Taylor,New Market Community Center Precinct 5,Governor,,Rob Sand and Dave Muhlbauer,DEM,111,26,85
+Taylor,Courthouse Precinct 1,Governor,,Write-In,,2,0,2
+Taylor,Courthouse Precinct 2,Governor,,Write-In,,0,0,0
+Taylor,Gravity Fire Station Precinct 4,Governor,,Write-In,,0,0,0
+Taylor,Lenox Community Center Precinct 3,Governor,,Write-In,,1,0,1
+Taylor,New Market Community Center Precinct 5,Governor,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 1,Governor,,Zach Lahn and Derek Wulf,REP,157,58,99
+Taylor,Courthouse Precinct 2,Governor,,Zach Lahn and Derek Wulf,REP,494,226,268
+Taylor,Gravity Fire Station Precinct 4,Governor,,Zach Lahn and Derek Wulf,REP,163,34,129
+Taylor,Lenox Community Center Precinct 3,Governor,,Zach Lahn and Derek Wulf,REP,364,74,290
+Taylor,New Market Community Center Precinct 5,Governor,,Zach Lahn and Derek Wulf,REP,269,53,216
+Taylor,Lenox Community Center Precinct 3,Grant Township Clerk,,Nickie Henderson,,38,9,29
+Taylor,Lenox Community Center Precinct 3,Grant Township Clerk,,Write-In,,0,0,0
+Taylor,Lenox Community Center Precinct 3,Grant Township Trustee,,Doug England,,42,12,30
+Taylor,Lenox Community Center Precinct 3,Grant Township Trustee,,Write-In,,0,0,0
+Taylor,Gravity Fire Station Precinct 4,Grove Township Clerk,,Jamie David,,17,2,15
+Taylor,Lenox Community Center Precinct 3,Grove Township Clerk,,Jamie David,,35,7,28
+Taylor,Gravity Fire Station Precinct 4,Grove Township Clerk,,Write-In,,0,0,0
+Taylor,Lenox Community Center Precinct 3,Grove Township Clerk,,Write-In,,0,0,0
+Taylor,Gravity Fire Station Precinct 4,Grove Township Trustee,,Write-In,,4,0,4
+Taylor,Lenox Community Center Precinct 3,Grove Township Trustee,,Write-In,,4,0,4
+Taylor,Gravity Fire Station Precinct 4,Holt Township Clerk,,Sharon Dalton,,54,17,37
+Taylor,Gravity Fire Station Precinct 4,Holt Township Clerk,,Write-In,,0,0,0
+Taylor,Gravity Fire Station Precinct 4,Holt Township Trustee,,Shane Bennett,,56,18,38
+Taylor,Gravity Fire Station Precinct 4,Holt Township Trustee,,Write-In,,1,1,0
+Taylor,Courthouse Precinct 1,Jackson Township Clerk,,Aimee Bissell,,29,14,15
+Taylor,Courthouse Precinct 1,Jackson Township Clerk,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 1,Jackson Township Trustee,,Erik S. Wiard,,28,13,15
+Taylor,Courthouse Precinct 1,Jackson Township Trustee,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 1,Jackson Township Trustee To Fill a Vacancy,,Klint Bissell,,29,14,15
+Taylor,Courthouse Precinct 1,Jackson Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,Jefferson Township Clerk,,David L. Loutzenhiser,,36,26,10
+Taylor,Courthouse Precinct 2,Jefferson Township Clerk,,Write-In,,1,1,0
+Taylor,Courthouse Precinct 2,Jefferson Township Trustee,,G. Charles Kreitlow,,28,21,7
+Taylor,Courthouse Precinct 2,Jefferson Township Trustee,,Write-In,,2,1,1
+Taylor,Gravity Fire Station Precinct 4,Marshall Township Clerk,,Amanda Mains,,30,14,16
+Taylor,Gravity Fire Station Precinct 4,Marshall Township Clerk,,Write-In,,0,0,0
+Taylor,Gravity Fire Station Precinct 4,Marshall Township Trustee,,Paul Norton,,25,10,15
+Taylor,Gravity Fire Station Precinct 4,Marshall Township Trustee,,Write-In,,5,2,3
+Taylor,New Market Community Center Precinct 5,Mason Township Clerk,,Write-In,,4,1,3
+Taylor,New Market Community Center Precinct 5,Mason Township Trustee,,Write-In,,11,1,10
+Taylor,New Market Community Center Precinct 5,Nodaway Township Clerk,,Jeff L. Fulton,,45,19,26
+Taylor,New Market Community Center Precinct 5,Nodaway Township Clerk,,Write-In,,0,0,0
+Taylor,New Market Community Center Precinct 5,Nodaway Township Trustee,,Write-In,,3,1,2
+Taylor,Lenox Community Center Precinct 3,Platte Township Clerk,,Write-In,,6,2,4
+Taylor,Lenox Community Center Precinct 3,Platte Township Trustee,,Write-In,,7,2,5
+Taylor,Courthouse Precinct 1,Polk Township Clerk,,Write-In,,3,1,2
+Taylor,Courthouse Precinct 1,Polk Township Trustee,,Write-In,,5,1,4
+Taylor,Courthouse Precinct 1,Ross Township Clerk,,Louis Els,,65,25,40
+Taylor,Courthouse Precinct 1,Ross Township Clerk,,Write-In,,1,1,0
+Taylor,Courthouse Precinct 1,Ross Township Trustee,,Write-In,,10,3,7
+Taylor,Courthouse Precinct 1,Secretary of Agriculture,,Chris Jones,DEM,39,19,20
+Taylor,Courthouse Precinct 2,Secretary of Agriculture,,Chris Jones,DEM,116,58,58
+Taylor,Gravity Fire Station Precinct 4,Secretary of Agriculture,,Chris Jones,DEM,67,23,44
+Taylor,Lenox Community Center Precinct 3,Secretary of Agriculture,,Chris Jones,DEM,199,58,141
+Taylor,New Market Community Center Precinct 5,Secretary of Agriculture,,Chris Jones,DEM,67,15,52
+Taylor,Courthouse Precinct 1,Secretary of Agriculture,,Mike Naig,REP,183,74,109
+Taylor,Courthouse Precinct 2,Secretary of Agriculture,,Mike Naig,REP,556,252,304
+Taylor,Gravity Fire Station Precinct 4,Secretary of Agriculture,,Mike Naig,REP,214,49,165
+Taylor,Lenox Community Center Precinct 3,Secretary of Agriculture,,Mike Naig,REP,435,85,350
+Taylor,New Market Community Center Precinct 5,Secretary of Agriculture,,Mike Naig,REP,311,66,245
+Taylor,Courthouse Precinct 1,Secretary of Agriculture,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,Secretary of Agriculture,,Write-In,,0,0,0
+Taylor,Gravity Fire Station Precinct 4,Secretary of Agriculture,,Write-In,,0,0,0
+Taylor,Lenox Community Center Precinct 3,Secretary of Agriculture,,Write-In,,2,0,2
+Taylor,New Market Community Center Precinct 5,Secretary of Agriculture,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 1,Secretary of State,,Paul D. Pate,REP,178,67,111
+Taylor,Courthouse Precinct 2,Secretary of State,,Paul D. Pate,REP,544,240,304
+Taylor,Gravity Fire Station Precinct 4,Secretary of State,,Paul D. Pate,REP,202,46,156
+Taylor,Lenox Community Center Precinct 3,Secretary of State,,Paul D. Pate,REP,438,83,355
+Taylor,New Market Community Center Precinct 5,Secretary of State,,Paul D. Pate,REP,296,62,234
+Taylor,Courthouse Precinct 1,Secretary of State,,Ryan Peterman,DEM,44,25,19
+Taylor,Courthouse Precinct 2,Secretary of State,,Ryan Peterman,DEM,135,74,61
+Taylor,Gravity Fire Station Precinct 4,Secretary of State,,Ryan Peterman,DEM,79,27,52
+Taylor,Lenox Community Center Precinct 3,Secretary of State,,Ryan Peterman,DEM,198,59,139
+Taylor,New Market Community Center Precinct 5,Secretary of State,,Ryan Peterman,DEM,82,19,63
+Taylor,Courthouse Precinct 1,Secretary of State,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,Secretary of State,,Write-In,,0,0,0
+Taylor,Gravity Fire Station Precinct 4,Secretary of State,,Write-In,,0,0,0
+Taylor,Lenox Community Center Precinct 3,Secretary of State,,Write-In,,2,0,2
+Taylor,New Market Community Center Precinct 5,Secretary of State,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 1,Soil and Water Conservation District Commissioner,,Steve Wright,,180,67,113
+Taylor,Courthouse Precinct 2,Soil and Water Conservation District Commissioner,,Steve Wright,,541,245,296
+Taylor,Gravity Fire Station Precinct 4,Soil and Water Conservation District Commissioner,,Steve Wright,,226,54,172
+Taylor,Lenox Community Center Precinct 3,Soil and Water Conservation District Commissioner,,Steve Wright,,495,103,392
+Taylor,New Market Community Center Precinct 5,Soil and Water Conservation District Commissioner,,Steve Wright,,335,67,268
+Taylor,Courthouse Precinct 1,Soil and Water Conservation District Commissioner,,Write-In,,13,4,9
+Taylor,Courthouse Precinct 2,Soil and Water Conservation District Commissioner,,Write-In,,22,4,18
+Taylor,Gravity Fire Station Precinct 4,Soil and Water Conservation District Commissioner,,Write-In,,5,0,5
+Taylor,Lenox Community Center Precinct 3,Soil and Water Conservation District Commissioner,,Write-In,,9,2,7
+Taylor,New Market Community Center Precinct 5,Soil and Water Conservation District Commissioner,,Write-In,,19,2,17
+Taylor,Courthouse Precinct 1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Bailie Walters,,178,63,115
+Taylor,Courthouse Precinct 2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Bailie Walters,,532,239,293
+Taylor,Gravity Fire Station Precinct 4,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Bailie Walters,,212,55,157
+Taylor,Lenox Community Center Precinct 3,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Bailie Walters,,489,102,387
+Taylor,New Market Community Center Precinct 5,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Bailie Walters,,326,66,260
+Taylor,Courthouse Precinct 1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,1,0,1
+Taylor,Gravity Fire Station Precinct 4,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,4,1,3
+Taylor,Lenox Community Center Precinct 3,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,9,1,8
+Taylor,New Market Community Center Precinct 5,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,2,0,2
+Taylor,Courthouse Precinct 1,State House,17,Devon Wood,REP,197,73,124
+Taylor,Courthouse Precinct 2,State House,17,Devon Wood,REP,614,277,337
+Taylor,Gravity Fire Station Precinct 4,State House,17,Devon Wood,REP,226,53,173
+Taylor,Lenox Community Center Precinct 3,State House,17,Devon Wood,REP,515,107,408
+Taylor,New Market Community Center Precinct 5,State House,17,Devon Wood,REP,341,71,270
+Taylor,Courthouse Precinct 1,State House,17,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,State House,17,Write-In,,3,1,2
+Taylor,Gravity Fire Station Precinct 4,State House,17,Write-In,,3,0,3
+Taylor,Lenox Community Center Precinct 3,State House,17,Write-In,,19,3,16
+Taylor,New Market Community Center Precinct 5,State House,17,Write-In,,7,1,6
+Taylor,Courthouse Precinct 1,State Senate,9,James Uhlenkamp,DEM,46,27,19
+Taylor,Courthouse Precinct 2,State Senate,9,James Uhlenkamp,DEM,136,75,61
+Taylor,Gravity Fire Station Precinct 4,State Senate,9,James Uhlenkamp,DEM,82,30,52
+Taylor,Lenox Community Center Precinct 3,State Senate,9,James Uhlenkamp,DEM,230,66,164
+Taylor,New Market Community Center Precinct 5,State Senate,9,James Uhlenkamp,DEM,81,18,63
+Taylor,Courthouse Precinct 1,State Senate,9,Steve Baier,REP,169,62,107
+Taylor,Courthouse Precinct 2,State Senate,9,Steve Baier,REP,531,230,301
+Taylor,Gravity Fire Station Precinct 4,State Senate,9,Steve Baier,REP,197,43,154
+Taylor,Lenox Community Center Precinct 3,State Senate,9,Steve Baier,REP,402,75,327
+Taylor,New Market Community Center Precinct 5,State Senate,9,Steve Baier,REP,297,63,234
+Taylor,Courthouse Precinct 1,State Senate,9,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,State Senate,9,Write-In,,1,0,1
+Taylor,Gravity Fire Station Precinct 4,State Senate,9,Write-In,,0,0,0
+Taylor,Lenox Community Center Precinct 3,State Senate,9,Write-In,,1,0,1
+Taylor,New Market Community Center Precinct 5,State Senate,9,Write-In,,0,0,0
+Taylor,Courthouse Precinct 1,Treasurer of State,,John Norwood,DEM,51,29,22
+Taylor,Courthouse Precinct 2,Treasurer of State,,John Norwood,DEM,138,75,63
+Taylor,Gravity Fire Station Precinct 4,Treasurer of State,,John Norwood,DEM,87,30,57
+Taylor,Lenox Community Center Precinct 3,Treasurer of State,,John Norwood,DEM,225,66,159
+Taylor,New Market Community Center Precinct 5,Treasurer of State,,John Norwood,DEM,89,22,67
+Taylor,Courthouse Precinct 1,Treasurer of State,,Roby Smith,REP,164,60,104
+Taylor,Courthouse Precinct 2,Treasurer of State,,Roby Smith,REP,530,231,299
+Taylor,Gravity Fire Station Precinct 4,Treasurer of State,,Roby Smith,REP,188,42,146
+Taylor,Lenox Community Center Precinct 3,Treasurer of State,,Roby Smith,REP,401,75,326
+Taylor,New Market Community Center Precinct 5,Treasurer of State,,Roby Smith,REP,285,58,227
+Taylor,Courthouse Precinct 1,Treasurer of State,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,Treasurer of State,,Write-In,,0,0,0
+Taylor,Gravity Fire Station Precinct 4,Treasurer of State,,Write-In,,0,0,0
+Taylor,Lenox Community Center Precinct 3,Treasurer of State,,Write-In,,2,0,2
+Taylor,New Market Community Center Precinct 5,Treasurer of State,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 1,U.S. House,3,Sarah Trone Garriott,DEM,42,28,14
+Taylor,Courthouse Precinct 2,U.S. House,3,Sarah Trone Garriott,DEM,137,70,67
+Taylor,Gravity Fire Station Precinct 4,U.S. House,3,Sarah Trone Garriott,DEM,85,31,54
+Taylor,Lenox Community Center Precinct 3,U.S. House,3,Sarah Trone Garriott,DEM,227,66,161
+Taylor,New Market Community Center Precinct 5,U.S. House,3,Sarah Trone Garriott,DEM,87,24,63
+Taylor,Courthouse Precinct 1,U.S. House,3,Write-In,,1,1,0
+Taylor,Courthouse Precinct 2,U.S. House,3,Write-In,,2,0,2
+Taylor,Gravity Fire Station Precinct 4,U.S. House,3,Write-In,,0,0,0
+Taylor,Lenox Community Center Precinct 3,U.S. House,3,Write-In,,3,0,3
+Taylor,New Market Community Center Precinct 5,U.S. House,3,Write-In,,0,0,0
+Taylor,Courthouse Precinct 1,U.S. House,3,Zach Nunn,REP,180,64,116
+Taylor,Courthouse Precinct 2,U.S. House,3,Zach Nunn,REP,531,234,297
+Taylor,Gravity Fire Station Precinct 4,U.S. House,3,Zach Nunn,REP,195,41,154
+Taylor,Lenox Community Center Precinct 3,U.S. House,3,Zach Nunn,REP,401,76,325
+Taylor,New Market Community Center Precinct 5,U.S. House,3,Zach Nunn,REP,289,56,233
+Taylor,Courthouse Precinct 1,U.S. Senate,,Ashley Hinson,REP,165,61,104
+Taylor,Courthouse Precinct 2,U.S. Senate,,Ashley Hinson,REP,493,223,270
+Taylor,Gravity Fire Station Precinct 4,U.S. Senate,,Ashley Hinson,REP,179,39,140
+Taylor,Lenox Community Center Precinct 3,U.S. Senate,,Ashley Hinson,REP,372,73,299
+Taylor,New Market Community Center Precinct 5,U.S. Senate,,Ashley Hinson,REP,258,52,206
+Taylor,Courthouse Precinct 1,U.S. Senate,,Josh Turek,DEM,56,31,25
+Taylor,Courthouse Precinct 2,U.S. Senate,,Josh Turek,DEM,152,73,79
+Taylor,Gravity Fire Station Precinct 4,U.S. Senate,,Josh Turek,DEM,94,29,65
+Taylor,Lenox Community Center Precinct 3,U.S. Senate,,Josh Turek,DEM,235,65,170
+Taylor,New Market Community Center Precinct 5,U.S. Senate,,Josh Turek,DEM,93,22,71
+Taylor,Courthouse Precinct 1,U.S. Senate,,Thomas Laehn,LIB,4,2,2
+Taylor,Courthouse Precinct 2,U.S. Senate,,Thomas Laehn,LIB,25,10,15
+Taylor,Gravity Fire Station Precinct 4,U.S. Senate,,Thomas Laehn,LIB,8,3,5
+Taylor,Lenox Community Center Precinct 3,U.S. Senate,,Thomas Laehn,LIB,24,4,20
+Taylor,New Market Community Center Precinct 5,U.S. Senate,,Thomas Laehn,LIB,24,4,20
+Taylor,Courthouse Precinct 1,U.S. Senate,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 2,U.S. Senate,,Write-In,,1,1,0
+Taylor,Gravity Fire Station Precinct 4,U.S. Senate,,Write-In,,0,0,0
+Taylor,Lenox Community Center Precinct 3,U.S. Senate,,Write-In,,1,0,1
+Taylor,New Market Community Center Precinct 5,U.S. Senate,,Write-In,,0,0,0
+Taylor,Gravity Fire Station Precinct 4,Washington Township Clerk,,Cindy M. Coleman,,84,16,68
+Taylor,Gravity Fire Station Precinct 4,Washington Township Clerk,,Write-In,,0,0,0
+Taylor,Gravity Fire Station Precinct 4,Washington Township Trustee,,Jesse Beemer,,76,16,60
+Taylor,Gravity Fire Station Precinct 4,Washington Township Trustee,,Write-In,,2,1,1

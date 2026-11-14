@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2026,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "us_house",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "direct_precinct_vote_aggregation_by_reported_district",
+    "geographic_precision": "native_district_results",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/2026/20261103__ia__general__precinct.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 182396,
+        "rep_votes": 150471,
+        "other_votes": 12959,
+        "dem_candidate": "Christina Bohannan",
+        "rep_candidate": "Mariannette Miller-Meeks",
+        "total_votes": 345826,
+        "margin": -31925,
+        "margin_pct": -9.23152105394042,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "2": {
+        "dem_votes": 171486,
+        "rep_votes": 157724,
+        "other_votes": 17196,
+        "dem_candidate": "Lindsay James",
+        "rep_candidate": "Joe Mitchell",
+        "total_votes": 346406,
+        "margin": -13762,
+        "margin_pct": -3.9727949284943103,
+        "winner": "DEM",
+        "color": "#8bbde0"
+      },
+      "3": {
+        "dem_votes": 189351,
+        "rep_votes": 163635,
+        "other_votes": 869,
+        "dem_candidate": "Sarah Trone Garriott",
+        "rep_candidate": "Zach Nunn",
+        "total_votes": 353855,
+        "margin": -25716,
+        "margin_pct": -7.2673835328029845,
+        "winner": "DEM",
+        "color": "#6baed6"
+      },
+      "4": {
+        "dem_votes": 123947,
+        "rep_votes": 178856,
+        "other_votes": 402,
+        "dem_candidate": "Dave Dawson",
+        "rep_candidate": "Chris Mcgowan",
+        "total_votes": 303205,
+        "margin": 54909,
+        "margin_pct": 18.109529856037994,
+        "winner": "REP",
+        "color": "#e93a2d"
+      }
+    }
+  }
+}

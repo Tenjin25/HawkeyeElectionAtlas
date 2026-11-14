@@ -245,6 +245,7 @@ def main() -> int:
                 "dem_total": dem_total,
                 "rep_total": rep_total,
                 "major_party_contested": True,
+                **({"result_status": "unofficial"} if year == 2026 else {}),
             })
     if not selected_years:
         expected_files = {entry["file"] for entry in manifest} | {"manifest.json"}

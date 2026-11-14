@@ -1,0 +1,1840 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Jasper,BE,Attorney General,,Brenna Bird,REP,400,150,250
+Jasper,CCI,Attorney General,,Brenna Bird,REP,627,133,494
+Jasper,COLFAX 1,Attorney General,,Brenna Bird,REP,125,16,109
+Jasper,COLFAX 2,Attorney General,,Brenna Bird,REP,120,22,98
+Jasper,COLFAX 3,Attorney General,,Brenna Bird,REP,126,21,105
+Jasper,DM,Attorney General,,Brenna Bird,REP,699,128,571
+Jasper,FV,Attorney General,,Brenna Bird,REP,778,140,638
+Jasper,HG/K/M/RC,Attorney General,,Brenna Bird,REP,776,256,520
+Jasper,KO,Attorney General,,Brenna Bird,REP,2,2,0
+Jasper,LR,Attorney General,,Brenna Bird,REP,887,213,674
+Jasper,LS,Attorney General,,Brenna Bird,REP,2,2,0
+Jasper,MMV,Attorney General,,Brenna Bird,REP,2,2,0
+Jasper,MNS,Attorney General,,Brenna Bird,REP,720,333,387
+Jasper,MPPW,Attorney General,,Brenna Bird,REP,774,185,589
+Jasper,NEWTON 1-1,Attorney General,,Brenna Bird,REP,291,109,182
+Jasper,NEWTON 1-2,Attorney General,,Brenna Bird,REP,279,124,155
+Jasper,NEWTON 2-1,Attorney General,,Brenna Bird,REP,289,98,191
+Jasper,NEWTON 2-2,Attorney General,,Brenna Bird,REP,442,147,295
+Jasper,NEWTON 3-1,Attorney General,,Brenna Bird,REP,328,111,217
+Jasper,NEWTON 3-2,Attorney General,,Brenna Bird,REP,340,113,227
+Jasper,NEWTON 4-1,Attorney General,,Brenna Bird,REP,498,221,277
+Jasper,NEWTON 4-2,Attorney General,,Brenna Bird,REP,297,96,201
+Jasper,PA,Attorney General,,Brenna Bird,REP,347,122,225
+Jasper,BE,Attorney General,,Nate Willems,DEM,119,78,41
+Jasper,CCI,Attorney General,,Nate Willems,DEM,395,107,288
+Jasper,COLFAX 1,Attorney General,,Nate Willems,DEM,143,36,107
+Jasper,COLFAX 2,Attorney General,,Nate Willems,DEM,157,65,92
+Jasper,COLFAX 3,Attorney General,,Nate Willems,DEM,132,35,97
+Jasper,DM,Attorney General,,Nate Willems,DEM,450,123,327
+Jasper,FV,Attorney General,,Nate Willems,DEM,471,191,280
+Jasper,HG/K/M/RC,Attorney General,,Nate Willems,DEM,495,245,250
+Jasper,KO,Attorney General,,Nate Willems,DEM,2,2,0
+Jasper,LR,Attorney General,,Nate Willems,DEM,162,59,103
+Jasper,LS,Attorney General,,Nate Willems,DEM,0,0,0
+Jasper,MMV,Attorney General,,Nate Willems,DEM,1,1,0
+Jasper,MNS,Attorney General,,Nate Willems,DEM,470,289,181
+Jasper,MPPW,Attorney General,,Nate Willems,DEM,477,214,263
+Jasper,NEWTON 1-1,Attorney General,,Nate Willems,DEM,379,203,176
+Jasper,NEWTON 1-2,Attorney General,,Nate Willems,DEM,374,157,217
+Jasper,NEWTON 2-1,Attorney General,,Nate Willems,DEM,352,140,212
+Jasper,NEWTON 2-2,Attorney General,,Nate Willems,DEM,472,237,235
+Jasper,NEWTON 3-1,Attorney General,,Nate Willems,DEM,415,227,188
+Jasper,NEWTON 3-2,Attorney General,,Nate Willems,DEM,349,175,174
+Jasper,NEWTON 4-1,Attorney General,,Nate Willems,DEM,519,320,199
+Jasper,NEWTON 4-2,Attorney General,,Nate Willems,DEM,370,161,209
+Jasper,PA,Attorney General,,Nate Willems,DEM,189,91,98
+Jasper,BE,Attorney General,,Write-In,,0,0,0
+Jasper,CCI,Attorney General,,Write-In,,0,0,0
+Jasper,COLFAX 1,Attorney General,,Write-In,,1,1,0
+Jasper,COLFAX 2,Attorney General,,Write-In,,0,0,0
+Jasper,COLFAX 3,Attorney General,,Write-In,,0,0,0
+Jasper,DM,Attorney General,,Write-In,,1,0,1
+Jasper,FV,Attorney General,,Write-In,,1,0,1
+Jasper,HG/K/M/RC,Attorney General,,Write-In,,0,0,0
+Jasper,KO,Attorney General,,Write-In,,0,0,0
+Jasper,LR,Attorney General,,Write-In,,0,0,0
+Jasper,LS,Attorney General,,Write-In,,0,0,0
+Jasper,MMV,Attorney General,,Write-In,,0,0,0
+Jasper,MNS,Attorney General,,Write-In,,1,0,1
+Jasper,MPPW,Attorney General,,Write-In,,2,0,2
+Jasper,NEWTON 1-1,Attorney General,,Write-In,,0,0,0
+Jasper,NEWTON 1-2,Attorney General,,Write-In,,2,0,2
+Jasper,NEWTON 2-1,Attorney General,,Write-In,,0,0,0
+Jasper,NEWTON 2-2,Attorney General,,Write-In,,0,0,0
+Jasper,NEWTON 3-1,Attorney General,,Write-In,,0,0,0
+Jasper,NEWTON 3-2,Attorney General,,Write-In,,0,0,0
+Jasper,NEWTON 4-1,Attorney General,,Write-In,,0,0,0
+Jasper,NEWTON 4-2,Attorney General,,Write-In,,0,0,0
+Jasper,PA,Attorney General,,Write-In,,1,0,1
+Jasper,BE,Auditor of State,,Chris Cournoyer,REP,403,155,248
+Jasper,CCI,Auditor of State,,Chris Cournoyer,REP,635,129,506
+Jasper,COLFAX 1,Auditor of State,,Chris Cournoyer,REP,124,16,108
+Jasper,COLFAX 2,Auditor of State,,Chris Cournoyer,REP,126,26,100
+Jasper,COLFAX 3,Auditor of State,,Chris Cournoyer,REP,121,20,101
+Jasper,DM,Auditor of State,,Chris Cournoyer,REP,696,125,571
+Jasper,FV,Auditor of State,,Chris Cournoyer,REP,791,148,643
+Jasper,HG/K/M/RC,Auditor of State,,Chris Cournoyer,REP,794,260,534
+Jasper,KO,Auditor of State,,Chris Cournoyer,REP,2,2,0
+Jasper,LR,Auditor of State,,Chris Cournoyer,REP,891,208,683
+Jasper,LS,Auditor of State,,Chris Cournoyer,REP,2,2,0
+Jasper,MMV,Auditor of State,,Chris Cournoyer,REP,1,1,0
+Jasper,MNS,Auditor of State,,Chris Cournoyer,REP,699,324,375
+Jasper,MPPW,Auditor of State,,Chris Cournoyer,REP,771,180,591
+Jasper,NEWTON 1-1,Auditor of State,,Chris Cournoyer,REP,297,116,181
+Jasper,NEWTON 1-2,Auditor of State,,Chris Cournoyer,REP,274,126,148
+Jasper,NEWTON 2-1,Auditor of State,,Chris Cournoyer,REP,288,101,187
+Jasper,NEWTON 2-2,Auditor of State,,Chris Cournoyer,REP,439,140,299
+Jasper,NEWTON 3-1,Auditor of State,,Chris Cournoyer,REP,332,117,215
+Jasper,NEWTON 3-2,Auditor of State,,Chris Cournoyer,REP,335,115,220
+Jasper,NEWTON 4-1,Auditor of State,,Chris Cournoyer,REP,501,218,283
+Jasper,NEWTON 4-2,Auditor of State,,Chris Cournoyer,REP,289,89,200
+Jasper,PA,Auditor of State,,Chris Cournoyer,REP,353,122,231
+Jasper,BE,Auditor of State,,Taylor Wettach,DEM,113,72,41
+Jasper,CCI,Auditor of State,,Taylor Wettach,DEM,396,107,289
+Jasper,COLFAX 1,Auditor of State,,Taylor Wettach,DEM,145,36,109
+Jasper,COLFAX 2,Auditor of State,,Taylor Wettach,DEM,153,62,91
+Jasper,COLFAX 3,Auditor of State,,Taylor Wettach,DEM,128,33,95
+Jasper,DM,Auditor of State,,Taylor Wettach,DEM,446,123,323
+Jasper,FV,Auditor of State,,Taylor Wettach,DEM,454,188,266
+Jasper,HG/K/M/RC,Auditor of State,,Taylor Wettach,DEM,488,246,242
+Jasper,KO,Auditor of State,,Taylor Wettach,DEM,2,2,0
+Jasper,LR,Auditor of State,,Taylor Wettach,DEM,148,61,87
+Jasper,LS,Auditor of State,,Taylor Wettach,DEM,0,0,0
+Jasper,MMV,Auditor of State,,Taylor Wettach,DEM,2,2,0
+Jasper,MNS,Auditor of State,,Taylor Wettach,DEM,471,287,184
+Jasper,MPPW,Auditor of State,,Taylor Wettach,DEM,474,214,260
+Jasper,NEWTON 1-1,Auditor of State,,Taylor Wettach,DEM,369,196,173
+Jasper,NEWTON 1-2,Auditor of State,,Taylor Wettach,DEM,368,151,217
+Jasper,NEWTON 2-1,Auditor of State,,Taylor Wettach,DEM,354,137,217
+Jasper,NEWTON 2-2,Auditor of State,,Taylor Wettach,DEM,471,242,229
+Jasper,NEWTON 3-1,Auditor of State,,Taylor Wettach,DEM,400,216,184
+Jasper,NEWTON 3-2,Auditor of State,,Taylor Wettach,DEM,347,170,177
+Jasper,NEWTON 4-1,Auditor of State,,Taylor Wettach,DEM,508,319,189
+Jasper,NEWTON 4-2,Auditor of State,,Taylor Wettach,DEM,379,168,211
+Jasper,PA,Auditor of State,,Taylor Wettach,DEM,178,90,88
+Jasper,BE,Auditor of State,,Write-In,,1,0,1
+Jasper,CCI,Auditor of State,,Write-In,,0,0,0
+Jasper,COLFAX 1,Auditor of State,,Write-In,,1,1,0
+Jasper,COLFAX 2,Auditor of State,,Write-In,,0,0,0
+Jasper,COLFAX 3,Auditor of State,,Write-In,,0,0,0
+Jasper,DM,Auditor of State,,Write-In,,1,0,1
+Jasper,FV,Auditor of State,,Write-In,,1,0,1
+Jasper,HG/K/M/RC,Auditor of State,,Write-In,,0,0,0
+Jasper,KO,Auditor of State,,Write-In,,0,0,0
+Jasper,LR,Auditor of State,,Write-In,,2,0,2
+Jasper,LS,Auditor of State,,Write-In,,0,0,0
+Jasper,MMV,Auditor of State,,Write-In,,0,0,0
+Jasper,MNS,Auditor of State,,Write-In,,2,1,1
+Jasper,MPPW,Auditor of State,,Write-In,,0,0,0
+Jasper,NEWTON 1-1,Auditor of State,,Write-In,,1,0,1
+Jasper,NEWTON 1-2,Auditor of State,,Write-In,,1,0,1
+Jasper,NEWTON 2-1,Auditor of State,,Write-In,,1,1,0
+Jasper,NEWTON 2-2,Auditor of State,,Write-In,,0,0,0
+Jasper,NEWTON 3-1,Auditor of State,,Write-In,,1,0,1
+Jasper,NEWTON 3-2,Auditor of State,,Write-In,,1,0,1
+Jasper,NEWTON 4-1,Auditor of State,,Write-In,,0,0,0
+Jasper,NEWTON 4-2,Auditor of State,,Write-In,,0,0,0
+Jasper,PA,Auditor of State,,Write-In,,0,0,0
+Jasper,BE,Buena Vista Township - Public Measure BV,,No,,113,60,53
+Jasper,BE,Buena Vista Township - Public Measure BV,,Yes,,126,61,65
+Jasper,BE,Buena Vista Township Clerk,,David McClurg,,225,112,113
+Jasper,BE,Buena Vista Township Clerk,,Write-In,,2,2,0
+Jasper,BE,Buena Vista Township Trustee,,David P. Jansen,,202,102,100
+Jasper,BE,Buena Vista Township Trustee,,David Samson II,,213,105,108
+Jasper,BE,Buena Vista Township Trustee,,Write-In,,2,1,1
+Jasper,CCI,Clear Creek Township - Public Measure CC,,No,,110,41,69
+Jasper,CCI,Clear Creek Township - Public Measure CC,,Yes,,125,39,86
+Jasper,CCI,Clear Creek Township Clerk,,Sondra Kenney,,219,71,148
+Jasper,CCI,Clear Creek Township Clerk,,Write-In,,0,0,0
+Jasper,CCI,Clear Creek Township Trustee,,Darrell Kenney,,194,65,129
+Jasper,CCI,Clear Creek Township Trustee,,John E. Eatwell,,196,69,127
+Jasper,CCI,Clear Creek Township Trustee,,Write-In,,0,0,0
+Jasper,BE,Constitutional Amendment 1,,No,,133,58,75
+Jasper,CCI,Constitutional Amendment 1,,No,,380,98,282
+Jasper,COLFAX 1,Constitutional Amendment 1,,No,,125,26,99
+Jasper,COLFAX 2,Constitutional Amendment 1,,No,,138,45,93
+Jasper,COLFAX 3,Constitutional Amendment 1,,No,,108,18,90
+Jasper,DM,Constitutional Amendment 1,,No,,470,115,355
+Jasper,FV,Constitutional Amendment 1,,No,,460,129,331
+Jasper,HG/K/M/RC,Constitutional Amendment 1,,No,,464,209,255
+Jasper,KO,Constitutional Amendment 1,,No,,1,1,0
+Jasper,LR,Constitutional Amendment 1,,No,,273,67,206
+Jasper,LS,Constitutional Amendment 1,,No,,0,0,0
+Jasper,MMV,Constitutional Amendment 1,,No,,2,2,0
+Jasper,MNS,Constitutional Amendment 1,,No,,435,224,211
+Jasper,MPPW,Constitutional Amendment 1,,No,,470,173,297
+Jasper,NEWTON 1-1,Constitutional Amendment 1,,No,,310,144,166
+Jasper,NEWTON 1-2,Constitutional Amendment 1,,No,,248,107,141
+Jasper,NEWTON 2-1,Constitutional Amendment 1,,No,,280,106,174
+Jasper,NEWTON 2-2,Constitutional Amendment 1,,No,,381,170,211
+Jasper,NEWTON 3-1,Constitutional Amendment 1,,No,,328,163,165
+Jasper,NEWTON 3-2,Constitutional Amendment 1,,No,,281,127,154
+Jasper,NEWTON 4-1,Constitutional Amendment 1,,No,,456,261,195
+Jasper,NEWTON 4-2,Constitutional Amendment 1,,No,,274,117,157
+Jasper,PA,Constitutional Amendment 1,,No,,194,87,107
+Jasper,BE,Constitutional Amendment 1,,Yes,,321,139,182
+Jasper,CCI,Constitutional Amendment 1,,Yes,,581,122,459
+Jasper,COLFAX 1,Constitutional Amendment 1,,Yes,,129,23,106
+Jasper,COLFAX 2,Constitutional Amendment 1,,Yes,,125,35,90
+Jasper,COLFAX 3,Constitutional Amendment 1,,Yes,,133,33,100
+Jasper,DM,Constitutional Amendment 1,,Yes,,631,123,508
+Jasper,FV,Constitutional Amendment 1,,Yes,,740,182,558
+Jasper,HG/K/M/RC,Constitutional Amendment 1,,Yes,,732,255,477
+Jasper,KO,Constitutional Amendment 1,,Yes,,2,2,0
+Jasper,LR,Constitutional Amendment 1,,Yes,,671,175,496
+Jasper,LS,Constitutional Amendment 1,,Yes,,1,1,0
+Jasper,MMV,Constitutional Amendment 1,,Yes,,1,1,0
+Jasper,MNS,Constitutional Amendment 1,,Yes,,669,341,328
+Jasper,MPPW,Constitutional Amendment 1,,Yes,,713,191,522
+Jasper,NEWTON 1-1,Constitutional Amendment 1,,Yes,,326,139,187
+Jasper,NEWTON 1-2,Constitutional Amendment 1,,Yes,,339,144,195
+Jasper,NEWTON 2-1,Constitutional Amendment 1,,Yes,,323,115,208
+Jasper,NEWTON 2-2,Constitutional Amendment 1,,Yes,,475,182,293
+Jasper,NEWTON 3-1,Constitutional Amendment 1,,Yes,,362,144,218
+Jasper,NEWTON 3-2,Constitutional Amendment 1,,Yes,,361,139,222
+Jasper,NEWTON 4-1,Constitutional Amendment 1,,Yes,,482,226,256
+Jasper,NEWTON 4-2,Constitutional Amendment 1,,Yes,,348,114,234
+Jasper,PA,Constitutional Amendment 1,,Yes,,302,106,196
+Jasper,BE,County Agricultural Extension Council Member,,Andrea Frier,,210,92,118
+Jasper,CCI,County Agricultural Extension Council Member,,Andrea Frier,,537,114,423
+Jasper,COLFAX 1,County Agricultural Extension Council Member,,Andrea Frier,,131,28,103
+Jasper,COLFAX 2,County Agricultural Extension Council Member,,Andrea Frier,,166,51,115
+Jasper,COLFAX 3,County Agricultural Extension Council Member,,Andrea Frier,,143,27,116
+Jasper,DM,County Agricultural Extension Council Member,,Andrea Frier,,590,126,464
+Jasper,FV,County Agricultural Extension Council Member,,Andrea Frier,,660,168,492
+Jasper,HG/K/M/RC,County Agricultural Extension Council Member,,Andrea Frier,,645,256,389
+Jasper,KO,County Agricultural Extension Council Member,,Andrea Frier,,1,1,0
+Jasper,LR,County Agricultural Extension Council Member,,Andrea Frier,,497,109,388
+Jasper,LS,County Agricultural Extension Council Member,,Andrea Frier,,2,2,0
+Jasper,MMV,County Agricultural Extension Council Member,,Andrea Frier,,3,3,0
+Jasper,MNS,County Agricultural Extension Council Member,,Andrea Frier,,559,280,279
+Jasper,MPPW,County Agricultural Extension Council Member,,Andrea Frier,,706,189,517
+Jasper,NEWTON 1-1,County Agricultural Extension Council Member,,Andrea Frier,,286,127,159
+Jasper,NEWTON 1-2,County Agricultural Extension Council Member,,Andrea Frier,,266,116,150
+Jasper,NEWTON 2-1,County Agricultural Extension Council Member,,Andrea Frier,,276,93,183
+Jasper,NEWTON 2-2,County Agricultural Extension Council Member,,Andrea Frier,,453,190,263
+Jasper,NEWTON 3-1,County Agricultural Extension Council Member,,Andrea Frier,,359,139,220
+Jasper,NEWTON 3-2,County Agricultural Extension Council Member,,Andrea Frier,,306,124,182
+Jasper,NEWTON 4-1,County Agricultural Extension Council Member,,Andrea Frier,,498,247,251
+Jasper,NEWTON 4-2,County Agricultural Extension Council Member,,Andrea Frier,,305,116,189
+Jasper,PA,County Agricultural Extension Council Member,,Andrea Frier,,245,92,153
+Jasper,BE,County Agricultural Extension Council Member,,Jillian Beukema,,253,110,143
+Jasper,CCI,County Agricultural Extension Council Member,,Jillian Beukema,,578,119,459
+Jasper,COLFAX 1,County Agricultural Extension Council Member,,Jillian Beukema,,121,24,97
+Jasper,COLFAX 2,County Agricultural Extension Council Member,,Jillian Beukema,,138,35,103
+Jasper,COLFAX 3,County Agricultural Extension Council Member,,Jillian Beukema,,126,25,101
+Jasper,DM,County Agricultural Extension Council Member,,Jillian Beukema,,610,128,482
+Jasper,FV,County Agricultural Extension Council Member,,Jillian Beukema,,711,173,538
+Jasper,HG/K/M/RC,County Agricultural Extension Council Member,,Jillian Beukema,,743,292,451
+Jasper,KO,County Agricultural Extension Council Member,,Jillian Beukema,,2,2,0
+Jasper,LR,County Agricultural Extension Council Member,,Jillian Beukema,,571,127,444
+Jasper,LS,County Agricultural Extension Council Member,,Jillian Beukema,,2,2,0
+Jasper,MMV,County Agricultural Extension Council Member,,Jillian Beukema,,3,3,0
+Jasper,MNS,County Agricultural Extension Council Member,,Jillian Beukema,,645,325,320
+Jasper,MPPW,County Agricultural Extension Council Member,,Jillian Beukema,,679,180,499
+Jasper,NEWTON 1-1,County Agricultural Extension Council Member,,Jillian Beukema,,325,140,185
+Jasper,NEWTON 1-2,County Agricultural Extension Council Member,,Jillian Beukema,,307,130,177
+Jasper,NEWTON 2-1,County Agricultural Extension Council Member,,Jillian Beukema,,327,111,216
+Jasper,NEWTON 2-2,County Agricultural Extension Council Member,,Jillian Beukema,,501,199,302
+Jasper,NEWTON 3-1,County Agricultural Extension Council Member,,Jillian Beukema,,395,157,238
+Jasper,NEWTON 3-2,County Agricultural Extension Council Member,,Jillian Beukema,,377,158,219
+Jasper,NEWTON 4-1,County Agricultural Extension Council Member,,Jillian Beukema,,559,281,278
+Jasper,NEWTON 4-2,County Agricultural Extension Council Member,,Jillian Beukema,,346,130,216
+Jasper,PA,County Agricultural Extension Council Member,,Jillian Beukema,,298,115,183
+Jasper,BE,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,280,120,160
+Jasper,CCI,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,584,124,460
+Jasper,COLFAX 1,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,123,26,97
+Jasper,COLFAX 2,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,149,39,110
+Jasper,COLFAX 3,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,126,23,103
+Jasper,DM,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,615,128,487
+Jasper,FV,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,730,185,545
+Jasper,HG/K/M/RC,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,750,289,461
+Jasper,KO,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,1,1,0
+Jasper,LR,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,647,155,492
+Jasper,LS,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,2,2,0
+Jasper,MMV,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,3,3,0
+Jasper,MNS,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,624,311,313
+Jasper,MPPW,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,688,191,497
+Jasper,NEWTON 1-1,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,330,146,184
+Jasper,NEWTON 1-2,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,325,131,194
+Jasper,NEWTON 2-1,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,326,113,213
+Jasper,NEWTON 2-2,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,499,191,308
+Jasper,NEWTON 3-1,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,414,169,245
+Jasper,NEWTON 3-2,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,364,146,218
+Jasper,NEWTON 4-1,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,558,282,276
+Jasper,NEWTON 4-2,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,341,132,209
+Jasper,PA,County Agricultural Extension Council Member,,Lynnette Dunsbergen,,296,117,179
+Jasper,BE,County Agricultural Extension Council Member,,Stephanie Vos,,300,123,177
+Jasper,CCI,County Agricultural Extension Council Member,,Stephanie Vos,,594,116,478
+Jasper,COLFAX 1,County Agricultural Extension Council Member,,Stephanie Vos,,135,25,110
+Jasper,COLFAX 2,County Agricultural Extension Council Member,,Stephanie Vos,,138,36,102
+Jasper,COLFAX 3,County Agricultural Extension Council Member,,Stephanie Vos,,138,23,115
+Jasper,DM,County Agricultural Extension Council Member,,Stephanie Vos,,661,127,534
+Jasper,FV,County Agricultural Extension Council Member,,Stephanie Vos,,757,178,579
+Jasper,HG/K/M/RC,County Agricultural Extension Council Member,,Stephanie Vos,,759,286,473
+Jasper,KO,County Agricultural Extension Council Member,,Stephanie Vos,,2,2,0
+Jasper,LR,County Agricultural Extension Council Member,,Stephanie Vos,,712,151,561
+Jasper,LS,County Agricultural Extension Council Member,,Stephanie Vos,,2,2,0
+Jasper,MMV,County Agricultural Extension Council Member,,Stephanie Vos,,3,3,0
+Jasper,MNS,County Agricultural Extension Council Member,,Stephanie Vos,,623,301,322
+Jasper,MPPW,County Agricultural Extension Council Member,,Stephanie Vos,,692,178,514
+Jasper,NEWTON 1-1,County Agricultural Extension Council Member,,Stephanie Vos,,357,157,200
+Jasper,NEWTON 1-2,County Agricultural Extension Council Member,,Stephanie Vos,,322,135,187
+Jasper,NEWTON 2-1,County Agricultural Extension Council Member,,Stephanie Vos,,331,114,217
+Jasper,NEWTON 2-2,County Agricultural Extension Council Member,,Stephanie Vos,,500,194,306
+Jasper,NEWTON 3-1,County Agricultural Extension Council Member,,Stephanie Vos,,415,159,256
+Jasper,NEWTON 3-2,County Agricultural Extension Council Member,,Stephanie Vos,,370,147,223
+Jasper,NEWTON 4-1,County Agricultural Extension Council Member,,Stephanie Vos,,561,280,281
+Jasper,NEWTON 4-2,County Agricultural Extension Council Member,,Stephanie Vos,,345,120,225
+Jasper,PA,County Agricultural Extension Council Member,,Stephanie Vos,,289,111,178
+Jasper,BE,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,214,95,119
+Jasper,CCI,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,539,117,422
+Jasper,COLFAX 1,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,107,23,84
+Jasper,COLFAX 2,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,121,33,88
+Jasper,COLFAX 3,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,116,21,95
+Jasper,DM,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,575,124,451
+Jasper,FV,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,655,165,490
+Jasper,HG/K/M/RC,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,652,257,395
+Jasper,KO,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,1,1,0
+Jasper,LR,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,498,104,394
+Jasper,LS,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,2,2,0
+Jasper,MMV,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,3,3,0
+Jasper,MNS,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,551,278,273
+Jasper,MPPW,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,630,172,458
+Jasper,NEWTON 1-1,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,303,132,171
+Jasper,NEWTON 1-2,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,280,119,161
+Jasper,NEWTON 2-1,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,289,99,190
+Jasper,NEWTON 2-2,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,463,192,271
+Jasper,NEWTON 3-1,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,367,151,216
+Jasper,NEWTON 3-2,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,311,130,181
+Jasper,NEWTON 4-1,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,510,262,248
+Jasper,NEWTON 4-2,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,298,110,188
+Jasper,PA,County Agricultural Extension Council Member,,Tracy Kleinschrodt,,252,94,158
+Jasper,BE,County Agricultural Extension Council Member,,Write-In,,8,1,7
+Jasper,CCI,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Jasper,COLFAX 1,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Jasper,COLFAX 2,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Jasper,COLFAX 3,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Jasper,DM,County Agricultural Extension Council Member,,Write-In,,23,3,20
+Jasper,FV,County Agricultural Extension Council Member,,Write-In,,10,5,5
+Jasper,HG/K/M/RC,County Agricultural Extension Council Member,,Write-In,,18,7,11
+Jasper,KO,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Jasper,LR,County Agricultural Extension Council Member,,Write-In,,6,4,2
+Jasper,LS,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Jasper,MMV,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Jasper,MNS,County Agricultural Extension Council Member,,Write-In,,18,7,11
+Jasper,MPPW,County Agricultural Extension Council Member,,Write-In,,14,5,9
+Jasper,NEWTON 1-1,County Agricultural Extension Council Member,,Write-In,,5,0,5
+Jasper,NEWTON 1-2,County Agricultural Extension Council Member,,Write-In,,7,1,6
+Jasper,NEWTON 2-1,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Jasper,NEWTON 2-2,County Agricultural Extension Council Member,,Write-In,,12,1,11
+Jasper,NEWTON 3-1,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Jasper,NEWTON 3-2,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Jasper,NEWTON 4-1,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Jasper,NEWTON 4-2,County Agricultural Extension Council Member,,Write-In,,14,0,14
+Jasper,PA,County Agricultural Extension Council Member,,Write-In,,4,1,3
+Jasper,BE,County Attorney,,Scott W. Nicholson,DEM,291,131,160
+Jasper,CCI,County Attorney,,Scott W. Nicholson,DEM,709,148,561
+Jasper,COLFAX 1,County Attorney,,Scott W. Nicholson,DEM,196,41,155
+Jasper,COLFAX 2,County Attorney,,Scott W. Nicholson,DEM,219,67,152
+Jasper,COLFAX 3,County Attorney,,Scott W. Nicholson,DEM,192,40,152
+Jasper,DM,County Attorney,,Scott W. Nicholson,DEM,793,179,614
+Jasper,FV,County Attorney,,Scott W. Nicholson,DEM,875,233,642
+Jasper,HG/K/M/RC,County Attorney,,Scott W. Nicholson,DEM,848,340,508
+Jasper,KO,County Attorney,,Scott W. Nicholson,DEM,2,2,0
+Jasper,LR,County Attorney,,Scott W. Nicholson,DEM,559,130,429
+Jasper,LS,County Attorney,,Scott W. Nicholson,DEM,0,0,0
+Jasper,MMV,County Attorney,,Scott W. Nicholson,DEM,2,2,0
+Jasper,MNS,County Attorney,,Scott W. Nicholson,DEM,791,418,373
+Jasper,MPPW,County Attorney,,Scott W. Nicholson,DEM,853,270,583
+Jasper,NEWTON 1-1,County Attorney,,Scott W. Nicholson,DEM,510,240,270
+Jasper,NEWTON 1-2,County Attorney,,Scott W. Nicholson,DEM,493,193,300
+Jasper,NEWTON 2-1,County Attorney,,Scott W. Nicholson,DEM,507,191,316
+Jasper,NEWTON 2-2,County Attorney,,Scott W. Nicholson,DEM,691,302,389
+Jasper,NEWTON 3-1,County Attorney,,Scott W. Nicholson,DEM,566,261,305
+Jasper,NEWTON 3-2,County Attorney,,Scott W. Nicholson,DEM,529,225,304
+Jasper,NEWTON 4-1,County Attorney,,Scott W. Nicholson,DEM,761,412,349
+Jasper,NEWTON 4-2,County Attorney,,Scott W. Nicholson,DEM,523,209,314
+Jasper,PA,County Attorney,,Scott W. Nicholson,DEM,360,139,221
+Jasper,BE,County Attorney,,Write-In,,16,3,13
+Jasper,CCI,County Attorney,,Write-In,,19,2,17
+Jasper,COLFAX 1,County Attorney,,Write-In,,6,0,6
+Jasper,COLFAX 2,County Attorney,,Write-In,,5,2,3
+Jasper,COLFAX 3,County Attorney,,Write-In,,7,2,5
+Jasper,DM,County Attorney,,Write-In,,29,1,28
+Jasper,FV,County Attorney,,Write-In,,14,0,14
+Jasper,HG/K/M/RC,County Attorney,,Write-In,,22,6,16
+Jasper,KO,County Attorney,,Write-In,,0,0,0
+Jasper,LR,County Attorney,,Write-In,,14,3,11
+Jasper,LS,County Attorney,,Write-In,,0,0,0
+Jasper,MMV,County Attorney,,Write-In,,1,1,0
+Jasper,MNS,County Attorney,,Write-In,,23,7,16
+Jasper,MPPW,County Attorney,,Write-In,,31,7,24
+Jasper,NEWTON 1-1,County Attorney,,Write-In,,13,2,11
+Jasper,NEWTON 1-2,County Attorney,,Write-In,,10,3,7
+Jasper,NEWTON 2-1,County Attorney,,Write-In,,13,3,10
+Jasper,NEWTON 2-2,County Attorney,,Write-In,,20,4,16
+Jasper,NEWTON 3-1,County Attorney,,Write-In,,10,1,9
+Jasper,NEWTON 3-2,County Attorney,,Write-In,,11,5,6
+Jasper,NEWTON 4-1,County Attorney,,Write-In,,17,3,14
+Jasper,NEWTON 4-2,County Attorney,,Write-In,,15,3,12
+Jasper,PA,County Attorney,,Write-In,,11,4,7
+Jasper,BE,County Board of Supervisors,,Alyssa Wilson,,50,31,19
+Jasper,CCI,County Board of Supervisors,,Alyssa Wilson,,144,41,103
+Jasper,COLFAX 1,County Board of Supervisors,,Alyssa Wilson,,42,14,28
+Jasper,COLFAX 2,County Board of Supervisors,,Alyssa Wilson,,40,16,24
+Jasper,COLFAX 3,County Board of Supervisors,,Alyssa Wilson,,31,8,23
+Jasper,DM,County Board of Supervisors,,Alyssa Wilson,,127,39,88
+Jasper,FV,County Board of Supervisors,,Alyssa Wilson,,144,58,86
+Jasper,HG/K/M/RC,County Board of Supervisors,,Alyssa Wilson,,198,83,115
+Jasper,KO,County Board of Supervisors,,Alyssa Wilson,,1,1,0
+Jasper,LR,County Board of Supervisors,,Alyssa Wilson,,72,29,43
+Jasper,LS,County Board of Supervisors,,Alyssa Wilson,,0,0,0
+Jasper,MMV,County Board of Supervisors,,Alyssa Wilson,,1,1,0
+Jasper,MNS,County Board of Supervisors,,Alyssa Wilson,,211,123,88
+Jasper,MPPW,County Board of Supervisors,,Alyssa Wilson,,192,72,120
+Jasper,NEWTON 1-1,County Board of Supervisors,,Alyssa Wilson,,130,78,52
+Jasper,NEWTON 1-2,County Board of Supervisors,,Alyssa Wilson,,107,41,66
+Jasper,NEWTON 2-1,County Board of Supervisors,,Alyssa Wilson,,118,48,70
+Jasper,NEWTON 2-2,County Board of Supervisors,,Alyssa Wilson,,202,101,101
+Jasper,NEWTON 3-1,County Board of Supervisors,,Alyssa Wilson,,125,60,65
+Jasper,NEWTON 3-2,County Board of Supervisors,,Alyssa Wilson,,109,61,48
+Jasper,NEWTON 4-1,County Board of Supervisors,,Alyssa Wilson,,206,133,73
+Jasper,NEWTON 4-2,County Board of Supervisors,,Alyssa Wilson,,144,70,74
+Jasper,PA,County Board of Supervisors,,Alyssa Wilson,,70,37,33
+Jasper,BE,County Board of Supervisors,,Brandon Talsma,REP,332,123,209
+Jasper,CCI,County Board of Supervisors,,Brandon Talsma,REP,578,127,451
+Jasper,COLFAX 1,County Board of Supervisors,,Brandon Talsma,REP,116,16,100
+Jasper,COLFAX 2,County Board of Supervisors,,Brandon Talsma,REP,132,31,101
+Jasper,COLFAX 3,County Board of Supervisors,,Brandon Talsma,REP,121,20,101
+Jasper,DM,County Board of Supervisors,,Brandon Talsma,REP,627,116,511
+Jasper,FV,County Board of Supervisors,,Brandon Talsma,REP,654,134,520
+Jasper,HG/K/M/RC,County Board of Supervisors,,Brandon Talsma,REP,588,224,364
+Jasper,KO,County Board of Supervisors,,Brandon Talsma,REP,2,2,0
+Jasper,LR,County Board of Supervisors,,Brandon Talsma,REP,793,194,599
+Jasper,LS,County Board of Supervisors,,Brandon Talsma,REP,2,2,0
+Jasper,MMV,County Board of Supervisors,,Brandon Talsma,REP,2,2,0
+Jasper,MNS,County Board of Supervisors,,Brandon Talsma,REP,549,274,275
+Jasper,MPPW,County Board of Supervisors,,Brandon Talsma,REP,683,165,518
+Jasper,NEWTON 1-1,County Board of Supervisors,,Brandon Talsma,REP,229,88,141
+Jasper,NEWTON 1-2,County Board of Supervisors,,Brandon Talsma,REP,236,115,121
+Jasper,NEWTON 2-1,County Board of Supervisors,,Brandon Talsma,REP,233,77,156
+Jasper,NEWTON 2-2,County Board of Supervisors,,Brandon Talsma,REP,375,120,255
+Jasper,NEWTON 3-1,County Board of Supervisors,,Brandon Talsma,REP,292,110,182
+Jasper,NEWTON 3-2,County Board of Supervisors,,Brandon Talsma,REP,299,96,203
+Jasper,NEWTON 4-1,County Board of Supervisors,,Brandon Talsma,REP,421,190,231
+Jasper,NEWTON 4-2,County Board of Supervisors,,Brandon Talsma,REP,221,76,145
+Jasper,PA,County Board of Supervisors,,Brandon Talsma,REP,244,81,163
+Jasper,BE,County Board of Supervisors,,Randy Lee Ray,,45,22,23
+Jasper,CCI,County Board of Supervisors,,Randy Lee Ray,,118,28,90
+Jasper,COLFAX 1,County Board of Supervisors,,Randy Lee Ray,,17,3,14
+Jasper,COLFAX 2,County Board of Supervisors,,Randy Lee Ray,,11,5,6
+Jasper,COLFAX 3,County Board of Supervisors,,Randy Lee Ray,,22,4,18
+Jasper,DM,County Board of Supervisors,,Randy Lee Ray,,31,6,25
+Jasper,FV,County Board of Supervisors,,Randy Lee Ray,,70,20,50
+Jasper,HG/K/M/RC,County Board of Supervisors,,Randy Lee Ray,,167,58,109
+Jasper,KO,County Board of Supervisors,,Randy Lee Ray,,0,0,0
+Jasper,LR,County Board of Supervisors,,Randy Lee Ray,,57,11,46
+Jasper,LS,County Board of Supervisors,,Randy Lee Ray,,0,0,0
+Jasper,MMV,County Board of Supervisors,,Randy Lee Ray,,0,0,0
+Jasper,MNS,County Board of Supervisors,,Randy Lee Ray,,183,99,84
+Jasper,MPPW,County Board of Supervisors,,Randy Lee Ray,,94,31,63
+Jasper,NEWTON 1-1,County Board of Supervisors,,Randy Lee Ray,,119,53,66
+Jasper,NEWTON 1-2,County Board of Supervisors,,Randy Lee Ray,,79,32,47
+Jasper,NEWTON 2-1,County Board of Supervisors,,Randy Lee Ray,,77,29,48
+Jasper,NEWTON 2-2,County Board of Supervisors,,Randy Lee Ray,,104,46,58
+Jasper,NEWTON 3-1,County Board of Supervisors,,Randy Lee Ray,,120,60,60
+Jasper,NEWTON 3-2,County Board of Supervisors,,Randy Lee Ray,,82,46,36
+Jasper,NEWTON 4-1,County Board of Supervisors,,Randy Lee Ray,,75,29,46
+Jasper,NEWTON 4-2,County Board of Supervisors,,Randy Lee Ray,,91,28,63
+Jasper,PA,County Board of Supervisors,,Randy Lee Ray,,107,40,67
+Jasper,BE,County Board of Supervisors,,Scott DeVries,DEM,128,81,47
+Jasper,CCI,County Board of Supervisors,,Scott DeVries,DEM,396,113,283
+Jasper,COLFAX 1,County Board of Supervisors,,Scott DeVries,DEM,146,38,108
+Jasper,COLFAX 2,County Board of Supervisors,,Scott DeVries,DEM,161,61,100
+Jasper,COLFAX 3,County Board of Supervisors,,Scott DeVries,DEM,122,33,89
+Jasper,DM,County Board of Supervisors,,Scott DeVries,DEM,461,124,337
+Jasper,FV,County Board of Supervisors,,Scott DeVries,DEM,436,185,251
+Jasper,HG/K/M/RC,County Board of Supervisors,,Scott DeVries,DEM,499,251,248
+Jasper,KO,County Board of Supervisors,,Scott DeVries,DEM,2,2,0
+Jasper,LR,County Board of Supervisors,,Scott DeVries,DEM,149,58,91
+Jasper,LS,County Board of Supervisors,,Scott DeVries,DEM,0,0,0
+Jasper,MMV,County Board of Supervisors,,Scott DeVries,DEM,1,1,0
+Jasper,MNS,County Board of Supervisors,,Scott DeVries,DEM,475,282,193
+Jasper,MPPW,County Board of Supervisors,,Scott DeVries,DEM,494,216,278
+Jasper,NEWTON 1-1,County Board of Supervisors,,Scott DeVries,DEM,360,191,169
+Jasper,NEWTON 1-2,County Board of Supervisors,,Scott DeVries,DEM,351,148,203
+Jasper,NEWTON 2-1,County Board of Supervisors,,Scott DeVries,DEM,329,130,199
+Jasper,NEWTON 2-2,County Board of Supervisors,,Scott DeVries,DEM,469,233,236
+Jasper,NEWTON 3-1,County Board of Supervisors,,Scott DeVries,DEM,372,196,176
+Jasper,NEWTON 3-2,County Board of Supervisors,,Scott DeVries,DEM,338,171,167
+Jasper,NEWTON 4-1,County Board of Supervisors,,Scott DeVries,DEM,511,313,198
+Jasper,NEWTON 4-2,County Board of Supervisors,,Scott DeVries,DEM,357,154,203
+Jasper,PA,County Board of Supervisors,,Scott DeVries,DEM,171,83,88
+Jasper,BE,County Board of Supervisors,,Thad Nearmyer,REP,334,138,196
+Jasper,CCI,County Board of Supervisors,,Thad Nearmyer,REP,470,105,365
+Jasper,COLFAX 1,County Board of Supervisors,,Thad Nearmyer,REP,79,8,71
+Jasper,COLFAX 2,County Board of Supervisors,,Thad Nearmyer,REP,86,21,65
+Jasper,COLFAX 3,County Board of Supervisors,,Thad Nearmyer,REP,91,14,77
+Jasper,DM,County Board of Supervisors,,Thad Nearmyer,REP,571,116,455
+Jasper,FV,County Board of Supervisors,,Thad Nearmyer,REP,758,157,601
+Jasper,HG/K/M/RC,County Board of Supervisors,,Thad Nearmyer,REP,652,231,421
+Jasper,KO,County Board of Supervisors,,Thad Nearmyer,REP,1,1,0
+Jasper,LR,County Board of Supervisors,,Thad Nearmyer,REP,696,183,513
+Jasper,LS,County Board of Supervisors,,Thad Nearmyer,REP,2,2,0
+Jasper,MMV,County Board of Supervisors,,Thad Nearmyer,REP,1,1,0
+Jasper,MNS,County Board of Supervisors,,Thad Nearmyer,REP,538,254,284
+Jasper,MPPW,County Board of Supervisors,,Thad Nearmyer,REP,577,150,427
+Jasper,NEWTON 1-1,County Board of Supervisors,,Thad Nearmyer,REP,205,93,112
+Jasper,NEWTON 1-2,County Board of Supervisors,,Thad Nearmyer,REP,216,98,118
+Jasper,NEWTON 2-1,County Board of Supervisors,,Thad Nearmyer,REP,200,80,120
+Jasper,NEWTON 2-2,County Board of Supervisors,,Thad Nearmyer,REP,361,124,237
+Jasper,NEWTON 3-1,County Board of Supervisors,,Thad Nearmyer,REP,250,94,156
+Jasper,NEWTON 3-2,County Board of Supervisors,,Thad Nearmyer,REP,263,97,166
+Jasper,NEWTON 4-1,County Board of Supervisors,,Thad Nearmyer,REP,437,202,235
+Jasper,NEWTON 4-2,County Board of Supervisors,,Thad Nearmyer,REP,225,86,139
+Jasper,PA,County Board of Supervisors,,Thad Nearmyer,REP,279,104,175
+Jasper,BE,County Board of Supervisors,,Write-In,,5,1,4
+Jasper,CCI,County Board of Supervisors,,Write-In,,1,0,1
+Jasper,COLFAX 1,County Board of Supervisors,,Write-In,,1,1,0
+Jasper,COLFAX 2,County Board of Supervisors,,Write-In,,0,0,0
+Jasper,COLFAX 3,County Board of Supervisors,,Write-In,,0,0,0
+Jasper,DM,County Board of Supervisors,,Write-In,,5,2,3
+Jasper,FV,County Board of Supervisors,,Write-In,,7,0,7
+Jasper,HG/K/M/RC,County Board of Supervisors,,Write-In,,5,2,3
+Jasper,KO,County Board of Supervisors,,Write-In,,0,0,0
+Jasper,LR,County Board of Supervisors,,Write-In,,3,1,2
+Jasper,LS,County Board of Supervisors,,Write-In,,0,0,0
+Jasper,MMV,County Board of Supervisors,,Write-In,,0,0,0
+Jasper,MNS,County Board of Supervisors,,Write-In,,7,5,2
+Jasper,MPPW,County Board of Supervisors,,Write-In,,3,1,2
+Jasper,NEWTON 1-1,County Board of Supervisors,,Write-In,,4,1,3
+Jasper,NEWTON 1-2,County Board of Supervisors,,Write-In,,3,0,3
+Jasper,NEWTON 2-1,County Board of Supervisors,,Write-In,,2,0,2
+Jasper,NEWTON 2-2,County Board of Supervisors,,Write-In,,3,0,3
+Jasper,NEWTON 3-1,County Board of Supervisors,,Write-In,,1,1,0
+Jasper,NEWTON 3-2,County Board of Supervisors,,Write-In,,2,0,2
+Jasper,NEWTON 4-1,County Board of Supervisors,,Write-In,,3,3,0
+Jasper,NEWTON 4-2,County Board of Supervisors,,Write-In,,3,1,2
+Jasper,PA,County Board of Supervisors,,Write-In,,5,1,4
+Jasper,BE,County Recorder,,Joe Otto,,95,59,36
+Jasper,CCI,County Recorder,,Joe Otto,,277,77,200
+Jasper,COLFAX 1,County Recorder,,Joe Otto,,135,36,99
+Jasper,COLFAX 2,County Recorder,,Joe Otto,,155,54,101
+Jasper,COLFAX 3,County Recorder,,Joe Otto,,113,25,88
+Jasper,DM,County Recorder,,Joe Otto,,324,80,244
+Jasper,FV,County Recorder,,Joe Otto,,334,123,211
+Jasper,HG/K/M/RC,County Recorder,,Joe Otto,,342,162,180
+Jasper,KO,County Recorder,,Joe Otto,,1,1,0
+Jasper,LR,County Recorder,,Joe Otto,,100,37,63
+Jasper,LS,County Recorder,,Joe Otto,,1,1,0
+Jasper,MMV,County Recorder,,Joe Otto,,2,2,0
+Jasper,MNS,County Recorder,,Joe Otto,,385,220,165
+Jasper,MPPW,County Recorder,,Joe Otto,,500,190,310
+Jasper,NEWTON 1-1,County Recorder,,Joe Otto,,248,132,116
+Jasper,NEWTON 1-2,County Recorder,,Joe Otto,,264,111,153
+Jasper,NEWTON 2-1,County Recorder,,Joe Otto,,225,81,144
+Jasper,NEWTON 2-2,County Recorder,,Joe Otto,,333,157,176
+Jasper,NEWTON 3-1,County Recorder,,Joe Otto,,274,149,125
+Jasper,NEWTON 3-2,County Recorder,,Joe Otto,,246,120,126
+Jasper,NEWTON 4-1,County Recorder,,Joe Otto,,341,207,134
+Jasper,NEWTON 4-2,County Recorder,,Joe Otto,,245,113,132
+Jasper,PA,County Recorder,,Joe Otto,,143,61,82
+Jasper,BE,County Recorder,,Michelle Hull,REP,395,155,240
+Jasper,CCI,County Recorder,,Michelle Hull,REP,688,146,542
+Jasper,COLFAX 1,County Recorder,,Michelle Hull,REP,117,12,105
+Jasper,COLFAX 2,County Recorder,,Michelle Hull,REP,110,28,82
+Jasper,COLFAX 3,County Recorder,,Michelle Hull,REP,120,20,100
+Jasper,DM,County Recorder,,Michelle Hull,REP,720,131,589
+Jasper,FV,County Recorder,,Michelle Hull,REP,811,166,645
+Jasper,HG/K/M/RC,County Recorder,,Michelle Hull,REP,858,300,558
+Jasper,KO,County Recorder,,Michelle Hull,REP,2,2,0
+Jasper,LR,County Recorder,,Michelle Hull,REP,893,216,677
+Jasper,LS,County Recorder,,Michelle Hull,REP,1,1,0
+Jasper,MMV,County Recorder,,Michelle Hull,REP,1,1,0
+Jasper,MNS,County Recorder,,Michelle Hull,REP,750,366,384
+Jasper,MPPW,County Recorder,,Michelle Hull,REP,681,165,516
+Jasper,NEWTON 1-1,County Recorder,,Michelle Hull,REP,380,151,229
+Jasper,NEWTON 1-2,County Recorder,,Michelle Hull,REP,335,149,186
+Jasper,NEWTON 2-1,County Recorder,,Michelle Hull,REP,375,136,239
+Jasper,NEWTON 2-2,County Recorder,,Michelle Hull,REP,532,199,333
+Jasper,NEWTON 3-1,County Recorder,,Michelle Hull,REP,411,155,256
+Jasper,NEWTON 3-2,County Recorder,,Michelle Hull,REP,400,145,255
+Jasper,NEWTON 4-1,County Recorder,,Michelle Hull,REP,612,285,327
+Jasper,NEWTON 4-2,County Recorder,,Michelle Hull,REP,384,125,259
+Jasper,PA,County Recorder,,Michelle Hull,REP,368,138,230
+Jasper,BE,County Recorder,,Write-In,,0,0,0
+Jasper,CCI,County Recorder,,Write-In,,0,0,0
+Jasper,COLFAX 1,County Recorder,,Write-In,,2,0,2
+Jasper,COLFAX 2,County Recorder,,Write-In,,0,0,0
+Jasper,COLFAX 3,County Recorder,,Write-In,,0,0,0
+Jasper,DM,County Recorder,,Write-In,,1,1,0
+Jasper,FV,County Recorder,,Write-In,,3,1,2
+Jasper,HG/K/M/RC,County Recorder,,Write-In,,3,3,0
+Jasper,KO,County Recorder,,Write-In,,0,0,0
+Jasper,LR,County Recorder,,Write-In,,0,0,0
+Jasper,LS,County Recorder,,Write-In,,0,0,0
+Jasper,MMV,County Recorder,,Write-In,,0,0,0
+Jasper,MNS,County Recorder,,Write-In,,1,0,1
+Jasper,MPPW,County Recorder,,Write-In,,0,0,0
+Jasper,NEWTON 1-1,County Recorder,,Write-In,,0,0,0
+Jasper,NEWTON 1-2,County Recorder,,Write-In,,3,0,3
+Jasper,NEWTON 2-1,County Recorder,,Write-In,,3,1,2
+Jasper,NEWTON 2-2,County Recorder,,Write-In,,1,1,0
+Jasper,NEWTON 3-1,County Recorder,,Write-In,,2,1,1
+Jasper,NEWTON 3-2,County Recorder,,Write-In,,0,0,0
+Jasper,NEWTON 4-1,County Recorder,,Write-In,,0,0,0
+Jasper,NEWTON 4-2,County Recorder,,Write-In,,1,0,1
+Jasper,PA,County Recorder,,Write-In,,0,0,0
+Jasper,BE,County Treasurer,,Doug Bishop,DEM,339,149,190
+Jasper,CCI,County Treasurer,,Doug Bishop,DEM,768,164,604
+Jasper,COLFAX 1,County Treasurer,,Doug Bishop,DEM,209,44,165
+Jasper,COLFAX 2,County Treasurer,,Doug Bishop,DEM,229,71,158
+Jasper,COLFAX 3,County Treasurer,,Doug Bishop,DEM,197,43,154
+Jasper,DM,County Treasurer,,Doug Bishop,DEM,838,192,646
+Jasper,FV,County Treasurer,,Doug Bishop,DEM,953,251,702
+Jasper,HG/K/M/RC,County Treasurer,,Doug Bishop,DEM,939,374,565
+Jasper,KO,County Treasurer,,Doug Bishop,DEM,2,2,0
+Jasper,LR,County Treasurer,,Doug Bishop,DEM,650,153,497
+Jasper,LS,County Treasurer,,Doug Bishop,DEM,0,0,0
+Jasper,MMV,County Treasurer,,Doug Bishop,DEM,3,3,0
+Jasper,MNS,County Treasurer,,Doug Bishop,DEM,687,276,411
+Jasper,MPPW,County Treasurer,,Doug Bishop,DEM,916,297,619
+Jasper,NEWTON 1-1,County Treasurer,,Doug Bishop,DEM,546,256,290
+Jasper,NEWTON 1-2,County Treasurer,,Doug Bishop,DEM,544,220,324
+Jasper,NEWTON 2-1,County Treasurer,,Doug Bishop,DEM,529,199,330
+Jasper,NEWTON 2-2,County Treasurer,,Doug Bishop,DEM,729,318,411
+Jasper,NEWTON 3-1,County Treasurer,,Doug Bishop,DEM,590,276,314
+Jasper,NEWTON 3-2,County Treasurer,,Doug Bishop,DEM,546,237,309
+Jasper,NEWTON 4-1,County Treasurer,,Doug Bishop,DEM,800,438,362
+Jasper,NEWTON 4-2,County Treasurer,,Doug Bishop,DEM,541,216,325
+Jasper,PA,County Treasurer,,Doug Bishop,DEM,398,152,246
+Jasper,BE,County Treasurer,,Write-In,,22,3,19
+Jasper,CCI,County Treasurer,,Write-In,,49,8,41
+Jasper,COLFAX 1,County Treasurer,,Write-In,,4,0,4
+Jasper,COLFAX 2,County Treasurer,,Write-In,,5,3,2
+Jasper,COLFAX 3,County Treasurer,,Write-In,,9,2,7
+Jasper,DM,County Treasurer,,Write-In,,34,2,32
+Jasper,FV,County Treasurer,,Write-In,,22,5,17
+Jasper,HG/K/M/RC,County Treasurer,,Write-In,,25,5,20
+Jasper,KO,County Treasurer,,Write-In,,0,0,0
+Jasper,LR,County Treasurer,,Write-In,,21,4,17
+Jasper,LS,County Treasurer,,Write-In,,0,0,0
+Jasper,MMV,County Treasurer,,Write-In,,0,0,0
+Jasper,MNS,County Treasurer,,Write-In,,28,6,22
+Jasper,MPPW,County Treasurer,,Write-In,,35,5,30
+Jasper,NEWTON 1-1,County Treasurer,,Write-In,,16,3,13
+Jasper,NEWTON 1-2,County Treasurer,,Write-In,,8,2,6
+Jasper,NEWTON 2-1,County Treasurer,,Write-In,,16,4,12
+Jasper,NEWTON 2-2,County Treasurer,,Write-In,,22,5,17
+Jasper,NEWTON 3-1,County Treasurer,,Write-In,,15,2,13
+Jasper,NEWTON 3-2,County Treasurer,,Write-In,,14,7,7
+Jasper,NEWTON 4-1,County Treasurer,,Write-In,,26,8,18
+Jasper,NEWTON 4-2,County Treasurer,,Write-In,,17,3,14
+Jasper,PA,County Treasurer,,Write-In,,9,4,5
+Jasper,BE,Court of Appeals Judge - John M. Sandy,,No,,99,37,62
+Jasper,CCI,Court of Appeals Judge - John M. Sandy,,No,,282,57,225
+Jasper,COLFAX 1,Court of Appeals Judge - John M. Sandy,,No,,82,13,69
+Jasper,COLFAX 2,Court of Appeals Judge - John M. Sandy,,No,,54,14,40
+Jasper,COLFAX 3,Court of Appeals Judge - John M. Sandy,,No,,82,15,67
+Jasper,DM,Court of Appeals Judge - John M. Sandy,,No,,277,47,230
+Jasper,FV,Court of Appeals Judge - John M. Sandy,,No,,326,79,247
+Jasper,HG/K/M/RC,Court of Appeals Judge - John M. Sandy,,No,,301,105,196
+Jasper,KO,Court of Appeals Judge - John M. Sandy,,No,,0,0,0
+Jasper,LR,Court of Appeals Judge - John M. Sandy,,No,,225,57,168
+Jasper,LS,Court of Appeals Judge - John M. Sandy,,No,,0,0,0
+Jasper,MMV,Court of Appeals Judge - John M. Sandy,,No,,0,0,0
+Jasper,MNS,Court of Appeals Judge - John M. Sandy,,No,,287,132,155
+Jasper,MPPW,Court of Appeals Judge - John M. Sandy,,No,,374,110,264
+Jasper,NEWTON 1-1,Court of Appeals Judge - John M. Sandy,,No,,155,56,99
+Jasper,NEWTON 1-2,Court of Appeals Judge - John M. Sandy,,No,,132,40,92
+Jasper,NEWTON 2-1,Court of Appeals Judge - John M. Sandy,,No,,165,47,118
+Jasper,NEWTON 2-2,Court of Appeals Judge - John M. Sandy,,No,,196,61,135
+Jasper,NEWTON 3-1,Court of Appeals Judge - John M. Sandy,,No,,161,69,92
+Jasper,NEWTON 3-2,Court of Appeals Judge - John M. Sandy,,No,,146,66,80
+Jasper,NEWTON 4-1,Court of Appeals Judge - John M. Sandy,,No,,210,105,105
+Jasper,NEWTON 4-2,Court of Appeals Judge - John M. Sandy,,No,,186,63,123
+Jasper,PA,Court of Appeals Judge - John M. Sandy,,No,,112,50,62
+Jasper,BE,Court of Appeals Judge - John M. Sandy,,Yes,,225,89,136
+Jasper,CCI,Court of Appeals Judge - John M. Sandy,,Yes,,488,111,377
+Jasper,COLFAX 1,Court of Appeals Judge - John M. Sandy,,Yes,,129,27,102
+Jasper,COLFAX 2,Court of Appeals Judge - John M. Sandy,,Yes,,148,44,104
+Jasper,COLFAX 3,Court of Appeals Judge - John M. Sandy,,Yes,,112,19,93
+Jasper,DM,Court of Appeals Judge - John M. Sandy,,Yes,,607,127,480
+Jasper,FV,Court of Appeals Judge - John M. Sandy,,Yes,,615,143,472
+Jasper,HG/K/M/RC,Court of Appeals Judge - John M. Sandy,,Yes,,655,254,401
+Jasper,KO,Court of Appeals Judge - John M. Sandy,,Yes,,2,2,0
+Jasper,LR,Court of Appeals Judge - John M. Sandy,,Yes,,520,122,398
+Jasper,LS,Court of Appeals Judge - John M. Sandy,,Yes,,2,2,0
+Jasper,MMV,Court of Appeals Judge - John M. Sandy,,Yes,,3,3,0
+Jasper,MNS,Court of Appeals Judge - John M. Sandy,,Yes,,575,288,287
+Jasper,MPPW,Court of Appeals Judge - John M. Sandy,,Yes,,571,145,426
+Jasper,NEWTON 1-1,Court of Appeals Judge - John M. Sandy,,Yes,,332,147,185
+Jasper,NEWTON 1-2,Court of Appeals Judge - John M. Sandy,,Yes,,323,143,180
+Jasper,NEWTON 2-1,Court of Appeals Judge - John M. Sandy,,Yes,,310,104,206
+Jasper,NEWTON 2-2,Court of Appeals Judge - John M. Sandy,,Yes,,477,198,279
+Jasper,NEWTON 3-1,Court of Appeals Judge - John M. Sandy,,Yes,,382,154,228
+Jasper,NEWTON 3-2,Court of Appeals Judge - John M. Sandy,,Yes,,365,139,226
+Jasper,NEWTON 4-1,Court of Appeals Judge - John M. Sandy,,Yes,,527,249,278
+Jasper,NEWTON 4-2,Court of Appeals Judge - John M. Sandy,,Yes,,309,115,194
+Jasper,PA,Court of Appeals Judge - John M. Sandy,,Yes,,272,87,185
+Jasper,BE,Court of Appeals Judge - Julie A. Schumacher,,No,,91,35,56
+Jasper,CCI,Court of Appeals Judge - Julie A. Schumacher,,No,,273,55,218
+Jasper,COLFAX 1,Court of Appeals Judge - Julie A. Schumacher,,No,,72,9,63
+Jasper,COLFAX 2,Court of Appeals Judge - Julie A. Schumacher,,No,,53,14,39
+Jasper,COLFAX 3,Court of Appeals Judge - Julie A. Schumacher,,No,,79,14,65
+Jasper,DM,Court of Appeals Judge - Julie A. Schumacher,,No,,262,39,223
+Jasper,FV,Court of Appeals Judge - Julie A. Schumacher,,No,,309,73,236
+Jasper,HG/K/M/RC,Court of Appeals Judge - Julie A. Schumacher,,No,,305,109,196
+Jasper,KO,Court of Appeals Judge - Julie A. Schumacher,,No,,0,0,0
+Jasper,LR,Court of Appeals Judge - Julie A. Schumacher,,No,,224,59,165
+Jasper,LS,Court of Appeals Judge - Julie A. Schumacher,,No,,1,1,0
+Jasper,MMV,Court of Appeals Judge - Julie A. Schumacher,,No,,0,0,0
+Jasper,MNS,Court of Appeals Judge - Julie A. Schumacher,,No,,268,113,155
+Jasper,MPPW,Court of Appeals Judge - Julie A. Schumacher,,No,,357,104,253
+Jasper,NEWTON 1-1,Court of Appeals Judge - Julie A. Schumacher,,No,,144,51,93
+Jasper,NEWTON 1-2,Court of Appeals Judge - Julie A. Schumacher,,No,,119,38,81
+Jasper,NEWTON 2-1,Court of Appeals Judge - Julie A. Schumacher,,No,,146,43,103
+Jasper,NEWTON 2-2,Court of Appeals Judge - Julie A. Schumacher,,No,,181,58,123
+Jasper,NEWTON 3-1,Court of Appeals Judge - Julie A. Schumacher,,No,,152,63,89
+Jasper,NEWTON 3-2,Court of Appeals Judge - Julie A. Schumacher,,No,,144,61,83
+Jasper,NEWTON 4-1,Court of Appeals Judge - Julie A. Schumacher,,No,,189,91,98
+Jasper,NEWTON 4-2,Court of Appeals Judge - Julie A. Schumacher,,No,,165,56,109
+Jasper,PA,Court of Appeals Judge - Julie A. Schumacher,,No,,106,48,58
+Jasper,BE,Court of Appeals Judge - Julie A. Schumacher,,Yes,,238,93,145
+Jasper,CCI,Court of Appeals Judge - Julie A. Schumacher,,Yes,,505,117,388
+Jasper,COLFAX 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,139,30,109
+Jasper,COLFAX 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,148,46,102
+Jasper,COLFAX 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,121,22,99
+Jasper,DM,Court of Appeals Judge - Julie A. Schumacher,,Yes,,624,134,490
+Jasper,FV,Court of Appeals Judge - Julie A. Schumacher,,Yes,,640,150,490
+Jasper,HG/K/M/RC,Court of Appeals Judge - Julie A. Schumacher,,Yes,,662,255,407
+Jasper,KO,Court of Appeals Judge - Julie A. Schumacher,,Yes,,3,3,0
+Jasper,LR,Court of Appeals Judge - Julie A. Schumacher,,Yes,,522,123,399
+Jasper,LS,Court of Appeals Judge - Julie A. Schumacher,,Yes,,0,0,0
+Jasper,MMV,Court of Appeals Judge - Julie A. Schumacher,,Yes,,3,3,0
+Jasper,MNS,Court of Appeals Judge - Julie A. Schumacher,,Yes,,602,310,292
+Jasper,MPPW,Court of Appeals Judge - Julie A. Schumacher,,Yes,,584,153,431
+Jasper,NEWTON 1-1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,352,156,196
+Jasper,NEWTON 1-2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,344,153,191
+Jasper,NEWTON 2-1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,336,113,223
+Jasper,NEWTON 2-2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,493,203,290
+Jasper,NEWTON 3-1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,397,164,233
+Jasper,NEWTON 3-2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,370,144,226
+Jasper,NEWTON 4-1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,547,263,284
+Jasper,NEWTON 4-2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,335,121,214
+Jasper,PA,Court of Appeals Judge - Julie A. Schumacher,,Yes,,289,97,192
+Jasper,BE,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,117,40,77
+Jasper,CCI,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,291,58,233
+Jasper,COLFAX 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,83,12,71
+Jasper,COLFAX 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,58,17,41
+Jasper,COLFAX 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,85,12,73
+Jasper,DM,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,277,49,228
+Jasper,FV,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,327,78,249
+Jasper,HG/K/M/RC,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,320,113,207
+Jasper,KO,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,0,0,0
+Jasper,LR,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,272,58,214
+Jasper,LS,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,1,1,0
+Jasper,MMV,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,1,1,0
+Jasper,MNS,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,288,122,166
+Jasper,MPPW,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,378,109,269
+Jasper,NEWTON 1-1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,151,50,101
+Jasper,NEWTON 1-2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,124,40,84
+Jasper,NEWTON 2-1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,154,42,112
+Jasper,NEWTON 2-2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,195,58,137
+Jasper,NEWTON 3-1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,271,172,99
+Jasper,NEWTON 3-2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,154,61,93
+Jasper,NEWTON 4-1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,201,100,101
+Jasper,NEWTON 4-2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,169,54,115
+Jasper,PA,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,134,52,82
+Jasper,BE,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,211,90,121
+Jasper,CCI,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,496,116,380
+Jasper,COLFAX 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,131,28,103
+Jasper,COLFAX 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,148,43,105
+Jasper,COLFAX 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,114,24,90
+Jasper,DM,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,621,128,493
+Jasper,FV,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,630,150,480
+Jasper,HG/K/M/RC,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,657,251,406
+Jasper,KO,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,3,3,0
+Jasper,LR,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,486,123,363
+Jasper,LS,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,0,0,0
+Jasper,MMV,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,2,2,0
+Jasper,MNS,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,584,304,280
+Jasper,MPPW,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,581,152,429
+Jasper,NEWTON 1-1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,349,160,189
+Jasper,NEWTON 1-2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,345,149,196
+Jasper,NEWTON 2-1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,329,113,216
+Jasper,NEWTON 2-2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,494,211,283
+Jasper,NEWTON 3-1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,388,156,232
+Jasper,NEWTON 3-2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,372,151,221
+Jasper,NEWTON 4-1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,552,268,284
+Jasper,NEWTON 4-2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,341,127,214
+Jasper,PA,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,261,92,169
+Jasper,DM,Des Moines Township - Public Measure DM,,No,,97,20,77
+Jasper,DM,Des Moines Township - Public Measure DM,,Yes,,188,40,148
+Jasper,DM,Des Moines Township Clerk,,Michael W. Adams,,260,58,202
+Jasper,DM,Des Moines Township Clerk,,Write-In,,6,3,3
+Jasper,DM,Des Moines Township Trustee,,Tim Charls,,277,65,212
+Jasper,DM,Des Moines Township Trustee,,Write-In,,10,3,7
+Jasper,BE,District 5A Associate Judge - Mark F. Schlenker,,No,,103,42,61
+Jasper,CCI,District 5A Associate Judge - Mark F. Schlenker,,No,,278,59,219
+Jasper,COLFAX 1,District 5A Associate Judge - Mark F. Schlenker,,No,,82,11,71
+Jasper,COLFAX 2,District 5A Associate Judge - Mark F. Schlenker,,No,,58,12,46
+Jasper,COLFAX 3,District 5A Associate Judge - Mark F. Schlenker,,No,,76,16,60
+Jasper,DM,District 5A Associate Judge - Mark F. Schlenker,,No,,279,53,226
+Jasper,FV,District 5A Associate Judge - Mark F. Schlenker,,No,,316,74,242
+Jasper,HG/K/M/RC,District 5A Associate Judge - Mark F. Schlenker,,No,,307,109,198
+Jasper,KO,District 5A Associate Judge - Mark F. Schlenker,,No,,0,0,0
+Jasper,LR,District 5A Associate Judge - Mark F. Schlenker,,No,,242,62,180
+Jasper,LS,District 5A Associate Judge - Mark F. Schlenker,,No,,0,0,0
+Jasper,MMV,District 5A Associate Judge - Mark F. Schlenker,,No,,1,1,0
+Jasper,MNS,District 5A Associate Judge - Mark F. Schlenker,,No,,278,125,153
+Jasper,MPPW,District 5A Associate Judge - Mark F. Schlenker,,No,,360,110,250
+Jasper,NEWTON 1-1,District 5A Associate Judge - Mark F. Schlenker,,No,,159,56,103
+Jasper,NEWTON 1-2,District 5A Associate Judge - Mark F. Schlenker,,No,,123,38,85
+Jasper,NEWTON 2-1,District 5A Associate Judge - Mark F. Schlenker,,No,,160,43,117
+Jasper,NEWTON 2-2,District 5A Associate Judge - Mark F. Schlenker,,No,,185,59,126
+Jasper,NEWTON 3-1,District 5A Associate Judge - Mark F. Schlenker,,No,,170,71,99
+Jasper,NEWTON 3-2,District 5A Associate Judge - Mark F. Schlenker,,No,,136,59,77
+Jasper,NEWTON 4-1,District 5A Associate Judge - Mark F. Schlenker,,No,,213,111,102
+Jasper,NEWTON 4-2,District 5A Associate Judge - Mark F. Schlenker,,No,,170,61,109
+Jasper,PA,District 5A Associate Judge - Mark F. Schlenker,,No,,104,44,60
+Jasper,BE,District 5A Associate Judge - Mark F. Schlenker,,Yes,,221,86,135
+Jasper,CCI,District 5A Associate Judge - Mark F. Schlenker,,Yes,,479,106,373
+Jasper,COLFAX 1,District 5A Associate Judge - Mark F. Schlenker,,Yes,,124,27,97
+Jasper,COLFAX 2,District 5A Associate Judge - Mark F. Schlenker,,Yes,,137,43,94
+Jasper,COLFAX 3,District 5A Associate Judge - Mark F. Schlenker,,Yes,,119,19,100
+Jasper,DM,District 5A Associate Judge - Mark F. Schlenker,,Yes,,595,121,474
+Jasper,FV,District 5A Associate Judge - Mark F. Schlenker,,Yes,,619,142,477
+Jasper,HG/K/M/RC,District 5A Associate Judge - Mark F. Schlenker,,Yes,,633,248,385
+Jasper,KO,District 5A Associate Judge - Mark F. Schlenker,,Yes,,3,3,0
+Jasper,LR,District 5A Associate Judge - Mark F. Schlenker,,Yes,,486,108,378
+Jasper,LS,District 5A Associate Judge - Mark F. Schlenker,,Yes,,2,2,0
+Jasper,MMV,District 5A Associate Judge - Mark F. Schlenker,,Yes,,2,2,0
+Jasper,MNS,District 5A Associate Judge - Mark F. Schlenker,,Yes,,573,291,282
+Jasper,MPPW,District 5A Associate Judge - Mark F. Schlenker,,Yes,,563,137,426
+Jasper,NEWTON 1-1,District 5A Associate Judge - Mark F. Schlenker,,Yes,,333,148,185
+Jasper,NEWTON 1-2,District 5A Associate Judge - Mark F. Schlenker,,Yes,,322,139,183
+Jasper,NEWTON 2-1,District 5A Associate Judge - Mark F. Schlenker,,Yes,,315,113,202
+Jasper,NEWTON 2-2,District 5A Associate Judge - Mark F. Schlenker,,Yes,,497,208,289
+Jasper,NEWTON 3-1,District 5A Associate Judge - Mark F. Schlenker,,Yes,,369,152,217
+Jasper,NEWTON 3-2,District 5A Associate Judge - Mark F. Schlenker,,Yes,,362,141,221
+Jasper,NEWTON 4-1,District 5A Associate Judge - Mark F. Schlenker,,Yes,,518,242,276
+Jasper,NEWTON 4-2,District 5A Associate Judge - Mark F. Schlenker,,Yes,,325,115,210
+Jasper,PA,District 5A Associate Judge - Mark F. Schlenker,,Yes,,272,91,181
+Jasper,BE,District 5A Associate Judge - Steven W. Guiter,,No,,92,40,52
+Jasper,CCI,District 5A Associate Judge - Steven W. Guiter,,No,,270,57,213
+Jasper,COLFAX 1,District 5A Associate Judge - Steven W. Guiter,,No,,76,10,66
+Jasper,COLFAX 2,District 5A Associate Judge - Steven W. Guiter,,No,,58,15,43
+Jasper,COLFAX 3,District 5A Associate Judge - Steven W. Guiter,,No,,75,16,59
+Jasper,DM,District 5A Associate Judge - Steven W. Guiter,,No,,258,49,209
+Jasper,FV,District 5A Associate Judge - Steven W. Guiter,,No,,310,74,236
+Jasper,HG/K/M/RC,District 5A Associate Judge - Steven W. Guiter,,No,,281,99,182
+Jasper,KO,District 5A Associate Judge - Steven W. Guiter,,No,,0,0,0
+Jasper,LR,District 5A Associate Judge - Steven W. Guiter,,No,,225,53,172
+Jasper,LS,District 5A Associate Judge - Steven W. Guiter,,No,,0,0,0
+Jasper,MMV,District 5A Associate Judge - Steven W. Guiter,,No,,0,0,0
+Jasper,MNS,District 5A Associate Judge - Steven W. Guiter,,No,,260,114,146
+Jasper,MPPW,District 5A Associate Judge - Steven W. Guiter,,No,,344,107,237
+Jasper,NEWTON 1-1,District 5A Associate Judge - Steven W. Guiter,,No,,149,55,94
+Jasper,NEWTON 1-2,District 5A Associate Judge - Steven W. Guiter,,No,,119,35,84
+Jasper,NEWTON 2-1,District 5A Associate Judge - Steven W. Guiter,,No,,146,41,105
+Jasper,NEWTON 2-2,District 5A Associate Judge - Steven W. Guiter,,No,,180,53,127
+Jasper,NEWTON 3-1,District 5A Associate Judge - Steven W. Guiter,,No,,158,70,88
+Jasper,NEWTON 3-2,District 5A Associate Judge - Steven W. Guiter,,No,,133,60,73
+Jasper,NEWTON 4-1,District 5A Associate Judge - Steven W. Guiter,,No,,192,99,93
+Jasper,NEWTON 4-2,District 5A Associate Judge - Steven W. Guiter,,No,,164,57,107
+Jasper,PA,District 5A Associate Judge - Steven W. Guiter,,No,,106,45,61
+Jasper,BE,District 5A Associate Judge - Steven W. Guiter,,Yes,,229,87,142
+Jasper,CCI,District 5A Associate Judge - Steven W. Guiter,,Yes,,490,107,383
+Jasper,COLFAX 1,District 5A Associate Judge - Steven W. Guiter,,Yes,,130,27,103
+Jasper,COLFAX 2,District 5A Associate Judge - Steven W. Guiter,,Yes,,141,41,100
+Jasper,COLFAX 3,District 5A Associate Judge - Steven W. Guiter,,Yes,,119,18,101
+Jasper,DM,District 5A Associate Judge - Steven W. Guiter,,Yes,,621,127,494
+Jasper,FV,District 5A Associate Judge - Steven W. Guiter,,Yes,,633,144,489
+Jasper,HG/K/M/RC,District 5A Associate Judge - Steven W. Guiter,,Yes,,662,260,402
+Jasper,KO,District 5A Associate Judge - Steven W. Guiter,,Yes,,3,3,0
+Jasper,LR,District 5A Associate Judge - Steven W. Guiter,,Yes,,512,121,391
+Jasper,LS,District 5A Associate Judge - Steven W. Guiter,,Yes,,2,2,0
+Jasper,MMV,District 5A Associate Judge - Steven W. Guiter,,Yes,,2,2,0
+Jasper,MNS,District 5A Associate Judge - Steven W. Guiter,,Yes,,594,306,288
+Jasper,MPPW,District 5A Associate Judge - Steven W. Guiter,,Yes,,582,145,437
+Jasper,NEWTON 1-1,District 5A Associate Judge - Steven W. Guiter,,Yes,,344,151,193
+Jasper,NEWTON 1-2,District 5A Associate Judge - Steven W. Guiter,,Yes,,336,146,190
+Jasper,NEWTON 2-1,District 5A Associate Judge - Steven W. Guiter,,Yes,,329,116,213
+Jasper,NEWTON 2-2,District 5A Associate Judge - Steven W. Guiter,,Yes,,505,211,294
+Jasper,NEWTON 3-1,District 5A Associate Judge - Steven W. Guiter,,Yes,,386,153,233
+Jasper,NEWTON 3-2,District 5A Associate Judge - Steven W. Guiter,,Yes,,373,143,230
+Jasper,NEWTON 4-1,District 5A Associate Judge - Steven W. Guiter,,Yes,,546,260,286
+Jasper,NEWTON 4-2,District 5A Associate Judge - Steven W. Guiter,,Yes,,330,119,211
+Jasper,PA,District 5A Associate Judge - Steven W. Guiter,,Yes,,274,91,183
+Jasper,BE,District 5A Judge - Michael K. Jacobsen,,No,,113,41,72
+Jasper,CCI,District 5A Judge - Michael K. Jacobsen,,No,,271,59,212
+Jasper,COLFAX 1,District 5A Judge - Michael K. Jacobsen,,No,,83,9,74
+Jasper,COLFAX 2,District 5A Judge - Michael K. Jacobsen,,No,,54,12,42
+Jasper,COLFAX 3,District 5A Judge - Michael K. Jacobsen,,No,,82,16,66
+Jasper,DM,District 5A Judge - Michael K. Jacobsen,,No,,269,42,227
+Jasper,FV,District 5A Judge - Michael K. Jacobsen,,No,,321,72,249
+Jasper,HG/K/M/RC,District 5A Judge - Michael K. Jacobsen,,No,,291,96,195
+Jasper,KO,District 5A Judge - Michael K. Jacobsen,,No,,0,0,0
+Jasper,LR,District 5A Judge - Michael K. Jacobsen,,No,,264,61,203
+Jasper,LS,District 5A Judge - Michael K. Jacobsen,,No,,0,0,0
+Jasper,MMV,District 5A Judge - Michael K. Jacobsen,,No,,0,0,0
+Jasper,MNS,District 5A Judge - Michael K. Jacobsen,,No,,270,114,156
+Jasper,MPPW,District 5A Judge - Michael K. Jacobsen,,No,,361,105,256
+Jasper,NEWTON 1-1,District 5A Judge - Michael K. Jacobsen,,No,,148,53,95
+Jasper,NEWTON 1-2,District 5A Judge - Michael K. Jacobsen,,No,,119,35,84
+Jasper,NEWTON 2-1,District 5A Judge - Michael K. Jacobsen,,No,,151,40,111
+Jasper,NEWTON 2-2,District 5A Judge - Michael K. Jacobsen,,No,,168,51,117
+Jasper,NEWTON 3-1,District 5A Judge - Michael K. Jacobsen,,No,,163,64,99
+Jasper,NEWTON 3-2,District 5A Judge - Michael K. Jacobsen,,No,,133,55,78
+Jasper,NEWTON 4-1,District 5A Judge - Michael K. Jacobsen,,No,,193,94,99
+Jasper,NEWTON 4-2,District 5A Judge - Michael K. Jacobsen,,No,,157,58,99
+Jasper,PA,District 5A Judge - Michael K. Jacobsen,,No,,129,49,80
+Jasper,BE,District 5A Judge - Michael K. Jacobsen,,Yes,,211,87,124
+Jasper,CCI,District 5A Judge - Michael K. Jacobsen,,Yes,,498,111,387
+Jasper,COLFAX 1,District 5A Judge - Michael K. Jacobsen,,Yes,,125,29,96
+Jasper,COLFAX 2,District 5A Judge - Michael K. Jacobsen,,Yes,,148,44,104
+Jasper,COLFAX 3,District 5A Judge - Michael K. Jacobsen,,Yes,,114,19,95
+Jasper,DM,District 5A Judge - Michael K. Jacobsen,,Yes,,611,131,480
+Jasper,FV,District 5A Judge - Michael K. Jacobsen,,Yes,,629,149,480
+Jasper,HG/K/M/RC,District 5A Judge - Michael K. Jacobsen,,Yes,,670,270,400
+Jasper,KO,District 5A Judge - Michael K. Jacobsen,,Yes,,3,3,0
+Jasper,LR,District 5A Judge - Michael K. Jacobsen,,Yes,,479,118,361
+Jasper,LS,District 5A Judge - Michael K. Jacobsen,,Yes,,2,2,0
+Jasper,MMV,District 5A Judge - Michael K. Jacobsen,,Yes,,3,3,0
+Jasper,MNS,District 5A Judge - Michael K. Jacobsen,,Yes,,627,337,290
+Jasper,MPPW,District 5A Judge - Michael K. Jacobsen,,Yes,,588,155,433
+Jasper,NEWTON 1-1,District 5A Judge - Michael K. Jacobsen,,Yes,,356,166,190
+Jasper,NEWTON 1-2,District 5A Judge - Michael K. Jacobsen,,Yes,,345,155,190
+Jasper,NEWTON 2-1,District 5A Judge - Michael K. Jacobsen,,Yes,,335,122,213
+Jasper,NEWTON 2-2,District 5A Judge - Michael K. Jacobsen,,Yes,,550,229,321
+Jasper,NEWTON 3-1,District 5A Judge - Michael K. Jacobsen,,Yes,,400,167,233
+Jasper,NEWTON 3-2,District 5A Judge - Michael K. Jacobsen,,Yes,,399,160,239
+Jasper,NEWTON 4-1,District 5A Judge - Michael K. Jacobsen,,Yes,,585,290,295
+Jasper,NEWTON 4-2,District 5A Judge - Michael K. Jacobsen,,Yes,,340,121,219
+Jasper,PA,District 5A Judge - Michael K. Jacobsen,,Yes,,273,101,172
+Jasper,BE,District 5A Judge - Nicholas Bailey,,No,,90,36,54
+Jasper,CCI,District 5A Judge - Nicholas Bailey,,No,,259,55,204
+Jasper,COLFAX 1,District 5A Judge - Nicholas Bailey,,No,,74,9,65
+Jasper,COLFAX 2,District 5A Judge - Nicholas Bailey,,No,,56,13,43
+Jasper,COLFAX 3,District 5A Judge - Nicholas Bailey,,No,,79,16,63
+Jasper,DM,District 5A Judge - Nicholas Bailey,,No,,253,43,210
+Jasper,FV,District 5A Judge - Nicholas Bailey,,No,,309,70,239
+Jasper,HG/K/M/RC,District 5A Judge - Nicholas Bailey,,No,,282,95,187
+Jasper,KO,District 5A Judge - Nicholas Bailey,,No,,0,0,0
+Jasper,LR,District 5A Judge - Nicholas Bailey,,No,,223,56,167
+Jasper,LS,District 5A Judge - Nicholas Bailey,,No,,0,0,0
+Jasper,MMV,District 5A Judge - Nicholas Bailey,,No,,0,0,0
+Jasper,MNS,District 5A Judge - Nicholas Bailey,,No,,263,118,145
+Jasper,MPPW,District 5A Judge - Nicholas Bailey,,No,,336,103,233
+Jasper,NEWTON 1-1,District 5A Judge - Nicholas Bailey,,No,,161,61,100
+Jasper,NEWTON 1-2,District 5A Judge - Nicholas Bailey,,No,,119,36,83
+Jasper,NEWTON 2-1,District 5A Judge - Nicholas Bailey,,No,,159,44,115
+Jasper,NEWTON 2-2,District 5A Judge - Nicholas Bailey,,No,,186,57,129
+Jasper,NEWTON 3-1,District 5A Judge - Nicholas Bailey,,No,,159,66,93
+Jasper,NEWTON 3-2,District 5A Judge - Nicholas Bailey,,No,,144,65,79
+Jasper,NEWTON 4-1,District 5A Judge - Nicholas Bailey,,No,,195,98,97
+Jasper,NEWTON 4-2,District 5A Judge - Nicholas Bailey,,No,,163,55,108
+Jasper,PA,District 5A Judge - Nicholas Bailey,,No,,102,43,59
+Jasper,BE,District 5A Judge - Nicholas Bailey,,Yes,,237,94,143
+Jasper,CCI,District 5A Judge - Nicholas Bailey,,Yes,,510,110,400
+Jasper,COLFAX 1,District 5A Judge - Nicholas Bailey,,Yes,,134,27,107
+Jasper,COLFAX 2,District 5A Judge - Nicholas Bailey,,Yes,,146,43,103
+Jasper,COLFAX 3,District 5A Judge - Nicholas Bailey,,Yes,,115,16,99
+Jasper,DM,District 5A Judge - Nicholas Bailey,,Yes,,621,131,490
+Jasper,FV,District 5A Judge - Nicholas Bailey,,Yes,,632,150,482
+Jasper,HG/K/M/RC,District 5A Judge - Nicholas Bailey,,Yes,,664,266,398
+Jasper,KO,District 5A Judge - Nicholas Bailey,,Yes,,3,3,0
+Jasper,LR,District 5A Judge - Nicholas Bailey,,Yes,,520,122,398
+Jasper,LS,District 5A Judge - Nicholas Bailey,,Yes,,2,2,0
+Jasper,MMV,District 5A Judge - Nicholas Bailey,,Yes,,3,3,0
+Jasper,MNS,District 5A Judge - Nicholas Bailey,,Yes,,597,303,294
+Jasper,MPPW,District 5A Judge - Nicholas Bailey,,Yes,,607,152,455
+Jasper,NEWTON 1-1,District 5A Judge - Nicholas Bailey,,Yes,,334,148,186
+Jasper,NEWTON 1-2,District 5A Judge - Nicholas Bailey,,Yes,,338,147,191
+Jasper,NEWTON 2-1,District 5A Judge - Nicholas Bailey,,Yes,,318,111,207
+Jasper,NEWTON 2-2,District 5A Judge - Nicholas Bailey,,Yes,,501,209,292
+Jasper,NEWTON 3-1,District 5A Judge - Nicholas Bailey,,Yes,,389,162,227
+Jasper,NEWTON 3-2,District 5A Judge - Nicholas Bailey,,Yes,,361,138,223
+Jasper,NEWTON 4-1,District 5A Judge - Nicholas Bailey,,Yes,,544,260,284
+Jasper,NEWTON 4-2,District 5A Judge - Nicholas Bailey,,Yes,,331,120,211
+Jasper,PA,District 5A Judge - Nicholas Bailey,,Yes,,283,95,188
+Jasper,BE,District 5A Judge - Thomas P. Murphy,,No,,100,38,62
+Jasper,CCI,District 5A Judge - Thomas P. Murphy,,No,,270,60,210
+Jasper,COLFAX 1,District 5A Judge - Thomas P. Murphy,,No,,80,9,71
+Jasper,COLFAX 2,District 5A Judge - Thomas P. Murphy,,No,,57,17,40
+Jasper,COLFAX 3,District 5A Judge - Thomas P. Murphy,,No,,81,15,66
+Jasper,DM,District 5A Judge - Thomas P. Murphy,,No,,260,40,220
+Jasper,FV,District 5A Judge - Thomas P. Murphy,,No,,306,72,234
+Jasper,HG/K/M/RC,District 5A Judge - Thomas P. Murphy,,No,,293,100,193
+Jasper,KO,District 5A Judge - Thomas P. Murphy,,No,,0,0,0
+Jasper,LR,District 5A Judge - Thomas P. Murphy,,No,,259,60,199
+Jasper,LS,District 5A Judge - Thomas P. Murphy,,No,,0,0,0
+Jasper,MMV,District 5A Judge - Thomas P. Murphy,,No,,0,0,0
+Jasper,MNS,District 5A Judge - Thomas P. Murphy,,No,,275,121,154
+Jasper,MPPW,District 5A Judge - Thomas P. Murphy,,No,,353,107,246
+Jasper,NEWTON 1-1,District 5A Judge - Thomas P. Murphy,,No,,160,56,104
+Jasper,NEWTON 1-2,District 5A Judge - Thomas P. Murphy,,No,,126,38,88
+Jasper,NEWTON 2-1,District 5A Judge - Thomas P. Murphy,,No,,147,34,113
+Jasper,NEWTON 2-2,District 5A Judge - Thomas P. Murphy,,No,,189,54,135
+Jasper,NEWTON 3-1,District 5A Judge - Thomas P. Murphy,,No,,158,71,87
+Jasper,NEWTON 3-2,District 5A Judge - Thomas P. Murphy,,No,,148,65,83
+Jasper,NEWTON 4-1,District 5A Judge - Thomas P. Murphy,,No,,202,98,104
+Jasper,NEWTON 4-2,District 5A Judge - Thomas P. Murphy,,No,,172,62,110
+Jasper,PA,District 5A Judge - Thomas P. Murphy,,No,,111,47,64
+Jasper,BE,District 5A Judge - Thomas P. Murphy,,Yes,,224,92,132
+Jasper,CCI,District 5A Judge - Thomas P. Murphy,,Yes,,493,107,386
+Jasper,COLFAX 1,District 5A Judge - Thomas P. Murphy,,Yes,,131,28,103
+Jasper,COLFAX 2,District 5A Judge - Thomas P. Murphy,,Yes,,146,40,106
+Jasper,COLFAX 3,District 5A Judge - Thomas P. Murphy,,Yes,,112,20,92
+Jasper,DM,District 5A Judge - Thomas P. Murphy,,Yes,,626,134,492
+Jasper,FV,District 5A Judge - Thomas P. Murphy,,Yes,,644,152,492
+Jasper,HG/K/M/RC,District 5A Judge - Thomas P. Murphy,,Yes,,663,258,405
+Jasper,KO,District 5A Judge - Thomas P. Murphy,,Yes,,3,3,0
+Jasper,LR,District 5A Judge - Thomas P. Murphy,,Yes,,487,122,365
+Jasper,LS,District 5A Judge - Thomas P. Murphy,,Yes,,2,2,0
+Jasper,MMV,District 5A Judge - Thomas P. Murphy,,Yes,,3,3,0
+Jasper,MNS,District 5A Judge - Thomas P. Murphy,,Yes,,580,301,279
+Jasper,MPPW,District 5A Judge - Thomas P. Murphy,,Yes,,588,151,437
+Jasper,NEWTON 1-1,District 5A Judge - Thomas P. Murphy,,Yes,,337,154,183
+Jasper,NEWTON 1-2,District 5A Judge - Thomas P. Murphy,,Yes,,337,146,191
+Jasper,NEWTON 2-1,District 5A Judge - Thomas P. Murphy,,Yes,,332,122,210
+Jasper,NEWTON 2-2,District 5A Judge - Thomas P. Murphy,,Yes,,504,215,289
+Jasper,NEWTON 3-1,District 5A Judge - Thomas P. Murphy,,Yes,,396,158,238
+Jasper,NEWTON 3-2,District 5A Judge - Thomas P. Murphy,,Yes,,370,144,226
+Jasper,NEWTON 4-1,District 5A Judge - Thomas P. Murphy,,Yes,,542,262,280
+Jasper,NEWTON 4-2,District 5A Judge - Thomas P. Murphy,,Yes,,326,115,211
+Jasper,PA,District 5A Judge - Thomas P. Murphy,,Yes,,280,98,182
+Jasper,BE,Elk Creek Township - Public Measure EC,,No,,58,19,39
+Jasper,BE,Elk Creek Township - Public Measure EC,,Yes,,128,42,86
+Jasper,BE,Elk Creek Township Clerk,,Write-In,,10,4,6
+Jasper,BE,Elk Creek Township Trustee,,Write-In,,32,10,22
+Jasper,FV,Fairview Township - Public Measure FV,,No,,123,46,77
+Jasper,FV,Fairview Township - Public Measure FV,,Yes,,169,49,120
+Jasper,FV,Fairview Township Clerk,,Write-In,,1,0,1
+Jasper,FV,Fairview Township Clerk,,Wyatt Barnett,,279,95,184
+Jasper,FV,Fairview Township Trustee,,Caryl Van Der Kamp,,256,87,169
+Jasper,FV,Fairview Township Trustee,,Michael Nolin,,211,74,137
+Jasper,FV,Fairview Township Trustee,,Write-In,,8,4,4
+Jasper,BE,Governor,,Rob Sand and Dave Muhlbauer,DEM,149,96,53
+Jasper,CCI,Governor,,Rob Sand and Dave Muhlbauer,DEM,503,126,377
+Jasper,COLFAX 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,161,39,122
+Jasper,COLFAX 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,172,66,106
+Jasper,COLFAX 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,153,38,115
+Jasper,DM,Governor,,Rob Sand and Dave Muhlbauer,DEM,563,150,413
+Jasper,FV,Governor,,Rob Sand and Dave Muhlbauer,DEM,596,209,387
+Jasper,HG/K/M/RC,Governor,,Rob Sand and Dave Muhlbauer,DEM,608,281,327
+Jasper,KO,Governor,,Rob Sand and Dave Muhlbauer,DEM,3,3,0
+Jasper,LR,Governor,,Rob Sand and Dave Muhlbauer,DEM,201,68,133
+Jasper,LS,Governor,,Rob Sand and Dave Muhlbauer,DEM,0,0,0
+Jasper,MMV,Governor,,Rob Sand and Dave Muhlbauer,DEM,1,1,0
+Jasper,MNS,Governor,,Rob Sand and Dave Muhlbauer,DEM,565,334,231
+Jasper,MPPW,Governor,,Rob Sand and Dave Muhlbauer,DEM,575,239,336
+Jasper,NEWTON 1-1,Governor,,Rob Sand and Dave Muhlbauer,DEM,436,222,214
+Jasper,NEWTON 1-2,Governor,,Rob Sand and Dave Muhlbauer,DEM,419,174,245
+Jasper,NEWTON 2-1,Governor,,Rob Sand and Dave Muhlbauer,DEM,420,165,255
+Jasper,NEWTON 2-2,Governor,,Rob Sand and Dave Muhlbauer,DEM,555,269,286
+Jasper,NEWTON 3-1,Governor,,Rob Sand and Dave Muhlbauer,DEM,475,255,220
+Jasper,NEWTON 3-2,Governor,,Rob Sand and Dave Muhlbauer,DEM,420,195,225
+Jasper,NEWTON 4-1,Governor,,Rob Sand and Dave Muhlbauer,DEM,592,357,235
+Jasper,NEWTON 4-2,Governor,,Rob Sand and Dave Muhlbauer,DEM,420,177,243
+Jasper,PA,Governor,,Rob Sand and Dave Muhlbauer,DEM,211,101,110
+Jasper,BE,Governor,,Write-In,,0,0,0
+Jasper,CCI,Governor,,Write-In,,3,1,2
+Jasper,COLFAX 1,Governor,,Write-In,,1,0,1
+Jasper,COLFAX 2,Governor,,Write-In,,0,0,0
+Jasper,COLFAX 3,Governor,,Write-In,,1,0,1
+Jasper,DM,Governor,,Write-In,,1,1,0
+Jasper,FV,Governor,,Write-In,,2,0,2
+Jasper,HG/K/M/RC,Governor,,Write-In,,5,4,1
+Jasper,KO,Governor,,Write-In,,0,0,0
+Jasper,LR,Governor,,Write-In,,1,0,1
+Jasper,LS,Governor,,Write-In,,0,0,0
+Jasper,MMV,Governor,,Write-In,,0,0,0
+Jasper,MNS,Governor,,Write-In,,1,0,1
+Jasper,MPPW,Governor,,Write-In,,2,1,1
+Jasper,NEWTON 1-1,Governor,,Write-In,,2,0,2
+Jasper,NEWTON 1-2,Governor,,Write-In,,2,1,1
+Jasper,NEWTON 2-1,Governor,,Write-In,,1,0,1
+Jasper,NEWTON 2-2,Governor,,Write-In,,0,0,0
+Jasper,NEWTON 3-1,Governor,,Write-In,,0,0,0
+Jasper,NEWTON 3-2,Governor,,Write-In,,0,0,0
+Jasper,NEWTON 4-1,Governor,,Write-In,,2,0,2
+Jasper,NEWTON 4-2,Governor,,Write-In,,1,0,1
+Jasper,PA,Governor,,Write-In,,0,0,0
+Jasper,BE,Governor,,Zach Lahn and Derek Wulf,REP,380,136,244
+Jasper,CCI,Governor,,Zach Lahn and Derek Wulf,REP,552,116,436
+Jasper,COLFAX 1,Governor,,Zach Lahn and Derek Wulf,REP,113,15,98
+Jasper,COLFAX 2,Governor,,Zach Lahn and Derek Wulf,REP,112,22,90
+Jasper,COLFAX 3,Governor,,Zach Lahn and Derek Wulf,REP,108,20,88
+Jasper,DM,Governor,,Zach Lahn and Derek Wulf,REP,610,107,503
+Jasper,FV,Governor,,Zach Lahn and Derek Wulf,REP,690,133,557
+Jasper,HG/K/M/RC,Governor,,Zach Lahn and Derek Wulf,REP,690,229,461
+Jasper,KO,Governor,,Zach Lahn and Derek Wulf,REP,2,2,0
+Jasper,LR,Governor,,Zach Lahn and Derek Wulf,REP,859,208,651
+Jasper,LS,Governor,,Zach Lahn and Derek Wulf,REP,2,2,0
+Jasper,MMV,Governor,,Zach Lahn and Derek Wulf,REP,2,2,0
+Jasper,MNS,Governor,,Zach Lahn and Derek Wulf,REP,645,298,347
+Jasper,MPPW,Governor,,Zach Lahn and Derek Wulf,REP,700,165,535
+Jasper,NEWTON 1-1,Governor,,Zach Lahn and Derek Wulf,REP,259,101,158
+Jasper,NEWTON 1-2,Governor,,Zach Lahn and Derek Wulf,REP,244,112,132
+Jasper,NEWTON 2-1,Governor,,Zach Lahn and Derek Wulf,REP,238,82,156
+Jasper,NEWTON 2-2,Governor,,Zach Lahn and Derek Wulf,REP,371,121,250
+Jasper,NEWTON 3-1,Governor,,Zach Lahn and Derek Wulf,REP,279,89,190
+Jasper,NEWTON 3-2,Governor,,Zach Lahn and Derek Wulf,REP,286,99,187
+Jasper,NEWTON 4-1,Governor,,Zach Lahn and Derek Wulf,REP,440,191,249
+Jasper,NEWTON 4-2,Governor,,Zach Lahn and Derek Wulf,REP,257,84,173
+Jasper,PA,Governor,,Zach Lahn and Derek Wulf,REP,333,116,217
+Jasper,HG/K/M/RC,Hickory Grove Township - Public Measure HG,,No,,62,26,36
+Jasper,HG/K/M/RC,Hickory Grove Township - Public Measure HG,,Yes,,77,24,53
+Jasper,HG/K/M/RC,Hickory Grove Township Clerk,,Glenn Volkman,,130,44,86
+Jasper,HG/K/M/RC,Hickory Grove Township Clerk,,Write-In,,1,0,1
+Jasper,HG/K/M/RC,Hickory Grove Township Trustee,,Benjamin Louden,,112,40,72
+Jasper,HG/K/M/RC,Hickory Grove Township Trustee,,Kevin W. Smith,,116,39,77
+Jasper,HG/K/M/RC,Hickory Grove Township Trustee,,Write-In,,0,0,0
+Jasper,CCI,Independence Township - Public Measure IND,,No,,90,22,68
+Jasper,CCI,Independence Township - Public Measure IND,,Yes,,184,37,147
+Jasper,CCI,Independence Township Clerk,,Sally Seeley,,260,57,203
+Jasper,CCI,Independence Township Clerk,,Write-In,,0,0,0
+Jasper,CCI,Independence Township Trustee,,Brad Ziesman,,231,52,179
+Jasper,CCI,Independence Township Trustee,,Jon Northrup,,237,53,184
+Jasper,CCI,Independence Township Trustee,,Write-In,,4,0,4
+Jasper,CCI,Independence Township Trustee,,Write-In,,12,3,9
+Jasper,HG/K/M/RC,Kellogg Township - Public Measure KEL,,No,,113,54,59
+Jasper,HG/K/M/RC,Kellogg Township - Public Measure KEL,,Yes,,131,46,85
+Jasper,HG/K/M/RC,Kellogg Township Clerk,,Sue Beukema,,236,89,147
+Jasper,HG/K/M/RC,Kellogg Township Clerk,,Write-In,,2,1,1
+Jasper,HG/K/M/RC,Kellogg Township Trustee,,Mike Beukema,,191,74,117
+Jasper,HG/K/M/RC,Kellogg Township Trustee,,Todd Van Manen,,206,84,122
+Jasper,HG/K/M/RC,Kellogg Township Trustee,,Write-In,,7,3,4
+Jasper,LR,Lynn Grove Township - Public Measure LG,,No,,63,14,49
+Jasper,LR,Lynn Grove Township - Public Measure LG,,Yes,,128,27,101
+Jasper,LR,Lynn Grove Township Clerk,,Keith D. Renaud,,211,46,165
+Jasper,LR,Lynn Grove Township Clerk,,Write-In,,0,0,0
+Jasper,LR,Lynn Grove Township Trustee,,Gary Van Genderen,,181,47,134
+Jasper,LR,Lynn Grove Township Trustee,,Maury Van Der Wilt,,186,42,144
+Jasper,LR,Lynn Grove Township Trustee,,Write-In,,1,0,1
+Jasper,MNS,Malaka Township - Public Measure MAL,,No,,54,24,30
+Jasper,MNS,Malaka Township - Public Measure MAL,,Yes,,75,31,44
+Jasper,MNS,Malaka Township Clerk,,Renee K. Eslinger,,119,50,69
+Jasper,MNS,Malaka Township Clerk,,Write-In,,0,0,0
+Jasper,MNS,Malaka Township Trustee,,Dwight D. Damman,,110,48,62
+Jasper,MNS,Malaka Township Trustee,,Jerry Dean Hofer,,98,47,51
+Jasper,MNS,Malaka Township Trustee,,Write-In,,2,0,2
+Jasper,HG/K/M/RC,Mariposa Township - Public Measure MAR,,No,,52,24,28
+Jasper,HG/K/M/RC,Mariposa Township - Public Measure MAR,,Yes,,53,27,26
+Jasper,HG/K/M/RC,Mariposa Township Clerk,,Teri Langmaid,,102,46,56
+Jasper,HG/K/M/RC,Mariposa Township Clerk,,Write-In,,0,0,0
+Jasper,HG/K/M/RC,Mariposa Township Trustee,,Kent Langmaid,,88,39,49
+Jasper,HG/K/M/RC,Mariposa Township Trustee,,Terry P. Benskin,,82,40,42
+Jasper,HG/K/M/RC,Mariposa Township Trustee,,Write-In,,0,0,0
+Jasper,MPPW,Mound Prairie Township - Public Measure MP,,No,,105,48,57
+Jasper,MPPW,Mound Prairie Township - Public Measure MP,,Yes,,142,43,99
+Jasper,MPPW,Mound Prairie Township Clerk,,Margaret Faidley,,225,82,143
+Jasper,MPPW,Mound Prairie Township Clerk,,Write-In,,5,1,4
+Jasper,MPPW,Mound Prairie Township Trustee,,Daniel Beintema,,176,67,109
+Jasper,MPPW,Mound Prairie Township Trustee,,Daphne Emmack,,189,71,118
+Jasper,MPPW,Mound Prairie Township Trustee,,Write-In,,7,0,7
+Jasper,MNS,Newton Township - Public Measure NWT,,No,,288,155,133
+Jasper,MNS,Newton Township - Public Measure NWT,,Yes,,308,152,156
+Jasper,MNS,Newton Township Clerk,,Rhonda Guy,,293,270,23
+Jasper,MNS,Newton Township Clerk,,Write-In,,6,3,3
+Jasper,MNS,Newton Township Trustee,,Jeff Eldred,,191,104,87
+Jasper,MNS,Newton Township Trustee,,Michael Guy,,351,196,155
+Jasper,MNS,Newton Township Trustee,,Tim Chance,,304,155,149
+Jasper,MNS,Newton Township Trustee,,Write-In,,6,3,3
+Jasper,BE,PCM School - Public Measure LL,,No,,18,4,14
+Jasper,DM,PCM School - Public Measure LL,,No,,537,124,413
+Jasper,FV,PCM School - Public Measure LL,,No,,671,193,478
+Jasper,MPPW,PCM School - Public Measure LL,,No,,76,24,52
+Jasper,PA,PCM School - Public Measure LL,,No,,51,6,45
+Jasper,BE,PCM School - Public Measure LL,,Yes,,10,2,8
+Jasper,DM,PCM School - Public Measure LL,,Yes,,611,120,491
+Jasper,FV,PCM School - Public Measure LL,,Yes,,587,128,459
+Jasper,MPPW,PCM School - Public Measure LL,,Yes,,65,21,44
+Jasper,PA,PCM School - Public Measure LL,,Yes,,30,5,25
+Jasper,PA,Palo Alto Township - Public Measure PA,,No,,179,77,102
+Jasper,PA,Palo Alto Township - Public Measure PA,,Yes,,225,91,134
+Jasper,PA,Palo Alto Township Clerk,,Christa J. Vander Weerdt,,367,153,214
+Jasper,PA,Palo Alto Township Clerk,,Write-In,,2,1,1
+Jasper,PA,Palo Alto Township Trustee,,David Peters,,362,149,213
+Jasper,PA,Palo Alto Township Trustee,,Write-In,,25,5,20
+Jasper,MPPW,Poweshiek Township - Public Measure POW,,No,,211,73,138
+Jasper,MPPW,Poweshiek Township - Public Measure POW,,Yes,,201,50,151
+Jasper,MPPW,Poweshiek Township Clerk,,Regina McLaughlin,,365,109,256
+Jasper,MPPW,Poweshiek Township Clerk,,Write-In,,4,0,4
+Jasper,MPPW,Poweshiek Township Trustee,,Adam Veasman,,328,97,231
+Jasper,MPPW,Poweshiek Township Trustee,,Mel V. Morrissey,,293,88,205
+Jasper,MPPW,Poweshiek Township Trustee,,Write-In,,11,1,10
+Jasper,LR,Richland Township - Public Measure RCH,,No,,62,24,38
+Jasper,LR,Richland Township - Public Measure RCH,,Yes,,125,36,89
+Jasper,LR,Richland Township Clerk,,Shirley Dunsbergen,,192,62,130
+Jasper,LR,Richland Township Clerk,,Write-In,,0,0,0
+Jasper,LR,Richland Township Trustee,,Melvin Dunsbergen,,170,55,115
+Jasper,LR,Richland Township Trustee,,Roger Zylstra,,176,58,118
+Jasper,LR,Richland Township Trustee,,Write-In,,0,0,0
+Jasper,HG/K/M/RC,Rock Creek Township - Public Measure RC,,No,,155,77,78
+Jasper,HG/K/M/RC,Rock Creek Township - Public Measure RC,,Yes,,215,82,133
+Jasper,HG/K/M/RC,Rock Creek Township Clerk,,Brian Gruhn,,351,148,203
+Jasper,HG/K/M/RC,Rock Creek Township Clerk,,Write-In,,3,1,2
+Jasper,HG/K/M/RC,Rock Creek Township Trustee,,Brent Deppe,,309,139,170
+Jasper,HG/K/M/RC,Rock Creek Township Trustee,,Kirk Gruhn,,298,127,171
+Jasper,HG/K/M/RC,Rock Creek Township Trustee,,Write-In,,6,4,2
+Jasper,BE,Secretary of Agriculture,,Chris Jones,DEM,108,67,41
+Jasper,CCI,Secretary of Agriculture,,Chris Jones,DEM,348,98,250
+Jasper,COLFAX 1,Secretary of Agriculture,,Chris Jones,DEM,135,34,101
+Jasper,COLFAX 2,Secretary of Agriculture,,Chris Jones,DEM,149,59,90
+Jasper,COLFAX 3,Secretary of Agriculture,,Chris Jones,DEM,122,32,90
+Jasper,DM,Secretary of Agriculture,,Chris Jones,DEM,370,97,273
+Jasper,FV,Secretary of Agriculture,,Chris Jones,DEM,402,159,243
+Jasper,HG/K/M/RC,Secretary of Agriculture,,Chris Jones,DEM,457,229,228
+Jasper,KO,Secretary of Agriculture,,Chris Jones,DEM,0,0,0
+Jasper,LR,Secretary of Agriculture,,Chris Jones,DEM,129,54,75
+Jasper,LS,Secretary of Agriculture,,Chris Jones,DEM,0,0,0
+Jasper,MMV,Secretary of Agriculture,,Chris Jones,DEM,1,1,0
+Jasper,MNS,Secretary of Agriculture,,Chris Jones,DEM,423,253,170
+Jasper,MPPW,Secretary of Agriculture,,Chris Jones,DEM,429,200,229
+Jasper,NEWTON 1-1,Secretary of Agriculture,,Chris Jones,DEM,347,177,170
+Jasper,NEWTON 1-2,Secretary of Agriculture,,Chris Jones,DEM,337,140,197
+Jasper,NEWTON 2-1,Secretary of Agriculture,,Chris Jones,DEM,346,135,211
+Jasper,NEWTON 2-2,Secretary of Agriculture,,Chris Jones,DEM,436,218,218
+Jasper,NEWTON 3-1,Secretary of Agriculture,,Chris Jones,DEM,373,199,174
+Jasper,NEWTON 3-2,Secretary of Agriculture,,Chris Jones,DEM,315,160,155
+Jasper,NEWTON 4-1,Secretary of Agriculture,,Chris Jones,DEM,474,294,180
+Jasper,NEWTON 4-2,Secretary of Agriculture,,Chris Jones,DEM,345,150,195
+Jasper,PA,Secretary of Agriculture,,Chris Jones,DEM,153,79,74
+Jasper,BE,Secretary of Agriculture,,Mike Naig,REP,409,158,251
+Jasper,CCI,Secretary of Agriculture,,Mike Naig,REP,679,141,538
+Jasper,COLFAX 1,Secretary of Agriculture,,Mike Naig,REP,130,17,113
+Jasper,COLFAX 2,Secretary of Agriculture,,Mike Naig,REP,130,28,102
+Jasper,COLFAX 3,Secretary of Agriculture,,Mike Naig,REP,130,23,107
+Jasper,DM,Secretary of Agriculture,,Mike Naig,REP,782,149,633
+Jasper,FV,Secretary of Agriculture,,Mike Naig,REP,844,173,671
+Jasper,HG/K/M/RC,Secretary of Agriculture,,Mike Naig,REP,826,277,549
+Jasper,KO,Secretary of Agriculture,,Mike Naig,REP,3,3,0
+Jasper,LR,Secretary of Agriculture,,Mike Naig,REP,925,218,707
+Jasper,LS,Secretary of Agriculture,,Mike Naig,REP,2,2,0
+Jasper,MMV,Secretary of Agriculture,,Mike Naig,REP,2,2,0
+Jasper,MNS,Secretary of Agriculture,,Mike Naig,REP,765,368,397
+Jasper,MPPW,Secretary of Agriculture,,Mike Naig,REP,832,198,634
+Jasper,NEWTON 1-1,Secretary of Agriculture,,Mike Naig,REP,319,134,185
+Jasper,NEWTON 1-2,Secretary of Agriculture,,Mike Naig,REP,310,139,171
+Jasper,NEWTON 2-1,Secretary of Agriculture,,Mike Naig,REP,300,105,195
+Jasper,NEWTON 2-2,Secretary of Agriculture,,Mike Naig,REP,474,166,308
+Jasper,NEWTON 3-1,Secretary of Agriculture,,Mike Naig,REP,363,133,230
+Jasper,NEWTON 3-2,Secretary of Agriculture,,Mike Naig,REP,371,128,243
+Jasper,NEWTON 4-1,Secretary of Agriculture,,Mike Naig,REP,538,244,294
+Jasper,NEWTON 4-2,Secretary of Agriculture,,Mike Naig,REP,316,106,210
+Jasper,PA,Secretary of Agriculture,,Mike Naig,REP,382,134,248
+Jasper,BE,Secretary of Agriculture,,Write-In,,0,0,0
+Jasper,CCI,Secretary of Agriculture,,Write-In,,0,0,0
+Jasper,COLFAX 1,Secretary of Agriculture,,Write-In,,1,1,0
+Jasper,COLFAX 2,Secretary of Agriculture,,Write-In,,0,0,0
+Jasper,COLFAX 3,Secretary of Agriculture,,Write-In,,0,0,0
+Jasper,DM,Secretary of Agriculture,,Write-In,,3,2,1
+Jasper,FV,Secretary of Agriculture,,Write-In,,1,0,1
+Jasper,HG/K/M/RC,Secretary of Agriculture,,Write-In,,1,0,1
+Jasper,KO,Secretary of Agriculture,,Write-In,,0,0,0
+Jasper,LR,Secretary of Agriculture,,Write-In,,0,0,0
+Jasper,LS,Secretary of Agriculture,,Write-In,,0,0,0
+Jasper,MMV,Secretary of Agriculture,,Write-In,,0,0,0
+Jasper,MNS,Secretary of Agriculture,,Write-In,,1,0,1
+Jasper,MPPW,Secretary of Agriculture,,Write-In,,1,1,0
+Jasper,NEWTON 1-1,Secretary of Agriculture,,Write-In,,1,0,1
+Jasper,NEWTON 1-2,Secretary of Agriculture,,Write-In,,1,0,1
+Jasper,NEWTON 2-1,Secretary of Agriculture,,Write-In,,0,0,0
+Jasper,NEWTON 2-2,Secretary of Agriculture,,Write-In,,0,0,0
+Jasper,NEWTON 3-1,Secretary of Agriculture,,Write-In,,0,0,0
+Jasper,NEWTON 3-2,Secretary of Agriculture,,Write-In,,0,0,0
+Jasper,NEWTON 4-1,Secretary of Agriculture,,Write-In,,0,0,0
+Jasper,NEWTON 4-2,Secretary of Agriculture,,Write-In,,1,0,1
+Jasper,PA,Secretary of Agriculture,,Write-In,,0,0,0
+Jasper,BE,Secretary of State,,Paul D. Pate,REP,422,163,259
+Jasper,CCI,Secretary of State,,Paul D. Pate,REP,686,141,545
+Jasper,COLFAX 1,Secretary of State,,Paul D. Pate,REP,132,18,114
+Jasper,COLFAX 2,Secretary of State,,Paul D. Pate,REP,138,29,109
+Jasper,COLFAX 3,Secretary of State,,Paul D. Pate,REP,130,25,105
+Jasper,DM,Secretary of State,,Paul D. Pate,REP,779,143,636
+Jasper,FV,Secretary of State,,Paul D. Pate,REP,840,172,668
+Jasper,HG/K/M/RC,Secretary of State,,Paul D. Pate,REP,842,285,557
+Jasper,KO,Secretary of State,,Paul D. Pate,REP,2,2,0
+Jasper,LR,Secretary of State,,Paul D. Pate,REP,916,217,699
+Jasper,LS,Secretary of State,,Paul D. Pate,REP,2,2,0
+Jasper,MMV,Secretary of State,,Paul D. Pate,REP,2,2,0
+Jasper,MNS,Secretary of State,,Paul D. Pate,REP,765,359,406
+Jasper,MPPW,Secretary of State,,Paul D. Pate,REP,826,194,632
+Jasper,NEWTON 1-1,Secretary of State,,Paul D. Pate,REP,317,136,181
+Jasper,NEWTON 1-2,Secretary of State,,Paul D. Pate,REP,304,141,163
+Jasper,NEWTON 2-1,Secretary of State,,Paul D. Pate,REP,308,113,195
+Jasper,NEWTON 2-2,Secretary of State,,Paul D. Pate,REP,483,167,316
+Jasper,NEWTON 3-1,Secretary of State,,Paul D. Pate,REP,369,136,233
+Jasper,NEWTON 3-2,Secretary of State,,Paul D. Pate,REP,361,124,237
+Jasper,NEWTON 4-1,Secretary of State,,Paul D. Pate,REP,556,256,300
+Jasper,NEWTON 4-2,Secretary of State,,Paul D. Pate,REP,314,105,209
+Jasper,PA,Secretary of State,,Paul D. Pate,REP,377,134,243
+Jasper,BE,Secretary of State,,Ryan Peterman,DEM,100,66,34
+Jasper,CCI,Secretary of State,,Ryan Peterman,DEM,348,98,250
+Jasper,COLFAX 1,Secretary of State,,Ryan Peterman,DEM,138,34,104
+Jasper,COLFAX 2,Secretary of State,,Ryan Peterman,DEM,142,58,84
+Jasper,COLFAX 3,Secretary of State,,Ryan Peterman,DEM,121,30,91
+Jasper,DM,Secretary of State,,Ryan Peterman,DEM,378,110,268
+Jasper,FV,Secretary of State,,Ryan Peterman,DEM,410,164,246
+Jasper,HG/K/M/RC,Secretary of State,,Ryan Peterman,DEM,442,222,220
+Jasper,KO,Secretary of State,,Ryan Peterman,DEM,2,2,0
+Jasper,LR,Secretary of State,,Ryan Peterman,DEM,138,54,84
+Jasper,LS,Secretary of State,,Ryan Peterman,DEM,0,0,0
+Jasper,MMV,Secretary of State,,Ryan Peterman,DEM,1,1,0
+Jasper,MNS,Secretary of State,,Ryan Peterman,DEM,423,262,161
+Jasper,MPPW,Secretary of State,,Ryan Peterman,DEM,423,201,222
+Jasper,NEWTON 1-1,Secretary of State,,Ryan Peterman,DEM,356,180,176
+Jasper,NEWTON 1-2,Secretary of State,,Ryan Peterman,DEM,341,140,201
+Jasper,NEWTON 2-1,Secretary of State,,Ryan Peterman,DEM,339,127,212
+Jasper,NEWTON 2-2,Secretary of State,,Ryan Peterman,DEM,436,220,216
+Jasper,NEWTON 3-1,Secretary of State,,Ryan Peterman,DEM,370,201,169
+Jasper,NEWTON 3-2,Secretary of State,,Ryan Peterman,DEM,324,163,161
+Jasper,NEWTON 4-1,Secretary of State,,Ryan Peterman,DEM,465,287,178
+Jasper,NEWTON 4-2,Secretary of State,,Ryan Peterman,DEM,357,154,203
+Jasper,PA,Secretary of State,,Ryan Peterman,DEM,159,81,78
+Jasper,BE,Secretary of State,,Write-In,,0,0,0
+Jasper,CCI,Secretary of State,,Write-In,,0,0,0
+Jasper,COLFAX 1,Secretary of State,,Write-In,,1,1,0
+Jasper,COLFAX 2,Secretary of State,,Write-In,,1,1,0
+Jasper,COLFAX 3,Secretary of State,,Write-In,,0,0,0
+Jasper,DM,Secretary of State,,Write-In,,0,0,0
+Jasper,FV,Secretary of State,,Write-In,,1,0,1
+Jasper,HG/K/M/RC,Secretary of State,,Write-In,,0,0,0
+Jasper,KO,Secretary of State,,Write-In,,0,0,0
+Jasper,LR,Secretary of State,,Write-In,,1,0,1
+Jasper,LS,Secretary of State,,Write-In,,0,0,0
+Jasper,MMV,Secretary of State,,Write-In,,0,0,0
+Jasper,MNS,Secretary of State,,Write-In,,1,0,1
+Jasper,MPPW,Secretary of State,,Write-In,,0,0,0
+Jasper,NEWTON 1-1,Secretary of State,,Write-In,,0,0,0
+Jasper,NEWTON 1-2,Secretary of State,,Write-In,,1,0,1
+Jasper,NEWTON 2-1,Secretary of State,,Write-In,,0,0,0
+Jasper,NEWTON 2-2,Secretary of State,,Write-In,,1,0,1
+Jasper,NEWTON 3-1,Secretary of State,,Write-In,,1,0,1
+Jasper,NEWTON 3-2,Secretary of State,,Write-In,,1,0,1
+Jasper,NEWTON 4-1,Secretary of State,,Write-In,,0,0,0
+Jasper,NEWTON 4-2,Secretary of State,,Write-In,,0,0,0
+Jasper,PA,Secretary of State,,Write-In,,0,0,0
+Jasper,MNS,Sherman Township - Public Measure SHM,,No,,82,44,38
+Jasper,MNS,Sherman Township - Public Measure SHM,,Yes,,117,64,53
+Jasper,MNS,Sherman Township Clerk,,Brenda Smith,,169,89,80
+Jasper,MNS,Sherman Township Clerk,,Write-In,,1,1,0
+Jasper,MNS,Sherman Township Trustee,,Marc Smith,,131,70,61
+Jasper,MNS,Sherman Township Trustee,,Todd Bell,,151,83,68
+Jasper,MNS,Sherman Township Trustee,,Write-In,,2,2,0
+Jasper,BE,Soil and Water Conservation District Commissioner,,David Van Waus,,226,95,131
+Jasper,CCI,Soil and Water Conservation District Commissioner,,David Van Waus,,545,123,422
+Jasper,COLFAX 1,Soil and Water Conservation District Commissioner,,David Van Waus,,102,18,84
+Jasper,COLFAX 2,Soil and Water Conservation District Commissioner,,David Van Waus,,108,28,80
+Jasper,COLFAX 3,Soil and Water Conservation District Commissioner,,David Van Waus,,98,12,86
+Jasper,DM,Soil and Water Conservation District Commissioner,,David Van Waus,,561,121,440
+Jasper,FV,Soil and Water Conservation District Commissioner,,David Van Waus,,632,157,475
+Jasper,HG/K/M/RC,Soil and Water Conservation District Commissioner,,David Van Waus,,677,270,407
+Jasper,KO,Soil and Water Conservation District Commissioner,,David Van Waus,,4,4,0
+Jasper,LR,Soil and Water Conservation District Commissioner,,David Van Waus,,529,118,411
+Jasper,LS,Soil and Water Conservation District Commissioner,,David Van Waus,,1,1,0
+Jasper,MMV,Soil and Water Conservation District Commissioner,,David Van Waus,,1,1,0
+Jasper,MNS,Soil and Water Conservation District Commissioner,,David Van Waus,,558,293,265
+Jasper,MPPW,Soil and Water Conservation District Commissioner,,David Van Waus,,595,158,437
+Jasper,NEWTON 1-1,Soil and Water Conservation District Commissioner,,David Van Waus,,293,132,161
+Jasper,NEWTON 1-2,Soil and Water Conservation District Commissioner,,David Van Waus,,271,113,158
+Jasper,NEWTON 2-1,Soil and Water Conservation District Commissioner,,David Van Waus,,297,110,187
+Jasper,NEWTON 2-2,Soil and Water Conservation District Commissioner,,David Van Waus,,455,188,267
+Jasper,NEWTON 3-1,Soil and Water Conservation District Commissioner,,David Van Waus,,351,130,221
+Jasper,NEWTON 3-2,Soil and Water Conservation District Commissioner,,David Van Waus,,330,137,193
+Jasper,NEWTON 4-1,Soil and Water Conservation District Commissioner,,David Van Waus,,496,246,250
+Jasper,NEWTON 4-2,Soil and Water Conservation District Commissioner,,David Van Waus,,304,123,181
+Jasper,PA,Soil and Water Conservation District Commissioner,,David Van Waus,,260,101,159
+Jasper,BE,Soil and Water Conservation District Commissioner,,Joe Otto,,292,130,162
+Jasper,CCI,Soil and Water Conservation District Commissioner,,Joe Otto,,668,149,519
+Jasper,COLFAX 1,Soil and Water Conservation District Commissioner,,Joe Otto,,179,36,143
+Jasper,COLFAX 2,Soil and Water Conservation District Commissioner,,Joe Otto,,219,70,149
+Jasper,COLFAX 3,Soil and Water Conservation District Commissioner,,Joe Otto,,174,35,139
+Jasper,DM,Soil and Water Conservation District Commissioner,,Joe Otto,,760,157,603
+Jasper,FV,Soil and Water Conservation District Commissioner,,Joe Otto,,829,201,628
+Jasper,HG/K/M/RC,Soil and Water Conservation District Commissioner,,Joe Otto,,820,310,510
+Jasper,KO,Soil and Water Conservation District Commissioner,,Joe Otto,,2,2,0
+Jasper,LR,Soil and Water Conservation District Commissioner,,Joe Otto,,636,145,491
+Jasper,LS,Soil and Water Conservation District Commissioner,,Joe Otto,,2,2,0
+Jasper,MMV,Soil and Water Conservation District Commissioner,,Joe Otto,,3,3,0
+Jasper,MNS,Soil and Water Conservation District Commissioner,,Joe Otto,,741,375,366
+Jasper,MPPW,Soil and Water Conservation District Commissioner,,Joe Otto,,851,253,598
+Jasper,NEWTON 1-1,Soil and Water Conservation District Commissioner,,Joe Otto,,437,198,239
+Jasper,NEWTON 1-2,Soil and Water Conservation District Commissioner,,Joe Otto,,418,174,244
+Jasper,NEWTON 2-1,Soil and Water Conservation District Commissioner,,Joe Otto,,398,140,258
+Jasper,NEWTON 2-2,Soil and Water Conservation District Commissioner,,Joe Otto,,601,241,360
+Jasper,NEWTON 3-1,Soil and Water Conservation District Commissioner,,Joe Otto,,465,204,261
+Jasper,NEWTON 3-2,Soil and Water Conservation District Commissioner,,Joe Otto,,437,185,252
+Jasper,NEWTON 4-1,Soil and Water Conservation District Commissioner,,Joe Otto,,671,334,337
+Jasper,NEWTON 4-2,Soil and Water Conservation District Commissioner,,Joe Otto,,427,154,273
+Jasper,PA,Soil and Water Conservation District Commissioner,,Joe Otto,,337,135,202
+Jasper,BE,Soil and Water Conservation District Commissioner,,Write-In,,10,4,6
+Jasper,CCI,Soil and Water Conservation District Commissioner,,Write-In,,16,2,14
+Jasper,COLFAX 1,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Jasper,COLFAX 2,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Jasper,COLFAX 3,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Jasper,DM,Soil and Water Conservation District Commissioner,,Write-In,,11,5,6
+Jasper,FV,Soil and Water Conservation District Commissioner,,Write-In,,7,2,5
+Jasper,HG/K/M/RC,Soil and Water Conservation District Commissioner,,Write-In,,10,6,4
+Jasper,KO,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Jasper,LR,Soil and Water Conservation District Commissioner,,Write-In,,7,3,4
+Jasper,LS,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Jasper,MMV,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Jasper,MNS,Soil and Water Conservation District Commissioner,,Write-In,,8,5,3
+Jasper,MPPW,Soil and Water Conservation District Commissioner,,Write-In,,8,0,8
+Jasper,NEWTON 1-1,Soil and Water Conservation District Commissioner,,Write-In,,12,5,7
+Jasper,NEWTON 1-2,Soil and Water Conservation District Commissioner,,Write-In,,8,1,7
+Jasper,NEWTON 2-1,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Jasper,NEWTON 2-2,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Jasper,NEWTON 3-1,Soil and Water Conservation District Commissioner,,Write-In,,7,3,4
+Jasper,NEWTON 3-2,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Jasper,NEWTON 4-1,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
+Jasper,NEWTON 4-2,Soil and Water Conservation District Commissioner,,Write-In,,8,3,5
+Jasper,PA,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
+Jasper,BE,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,315,137,178
+Jasper,CCI,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,725,152,573
+Jasper,COLFAX 1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,192,36,156
+Jasper,COLFAX 2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,205,58,147
+Jasper,COLFAX 3,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,178,32,146
+Jasper,DM,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,808,157,651
+Jasper,FV,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,875,203,672
+Jasper,HG/K/M/RC,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,907,333,574
+Jasper,KO,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,1,1,0
+Jasper,LR,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,694,146,548
+Jasper,LS,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,1,1,0
+Jasper,MMV,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,3,3,0
+Jasper,MNS,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,801,396,405
+Jasper,MPPW,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,890,242,648
+Jasper,NEWTON 1-1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,486,214,272
+Jasper,NEWTON 1-2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,459,182,277
+Jasper,NEWTON 2-1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,483,161,322
+Jasper,NEWTON 2-2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,656,264,392
+Jasper,NEWTON 3-1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,529,216,313
+Jasper,NEWTON 3-2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,514,214,300
+Jasper,NEWTON 4-1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,711,352,359
+Jasper,NEWTON 4-2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,469,172,297
+Jasper,PA,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Deb Wearmouth,,388,149,239
+Jasper,BE,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,4,1,3
+Jasper,CCI,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,7,1,6
+Jasper,COLFAX 1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,1,0,1
+Jasper,COLFAX 2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,2,1,1
+Jasper,COLFAX 3,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,1,0,1
+Jasper,DM,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,7,3,4
+Jasper,FV,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,8,0,8
+Jasper,HG/K/M/RC,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,7,3,4
+Jasper,KO,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,0,0,0
+Jasper,LR,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,5,5,0
+Jasper,LS,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,0,0,0
+Jasper,MMV,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,0,0,0
+Jasper,MNS,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,3,0,3
+Jasper,MPPW,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,6,1,5
+Jasper,NEWTON 1-1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,6,2,4
+Jasper,NEWTON 1-2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,7,2,5
+Jasper,NEWTON 2-1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,2,2,0
+Jasper,NEWTON 2-2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,3,1,2
+Jasper,NEWTON 3-1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,3,1,2
+Jasper,NEWTON 3-2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,1,1,0
+Jasper,NEWTON 4-1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,3,1,2
+Jasper,NEWTON 4-2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,7,2,5
+Jasper,PA,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,2,1,1
+Jasper,BE,State House,37,Jason Sandholdt,REP,433,171,262
+Jasper,DM,State House,37,Jason Sandholdt,REP,896,157,739
+Jasper,FV,State House,37,Jason Sandholdt,REP,995,208,787
+Jasper,BE,State House,37,Write-In,,8,4,4
+Jasper,DM,State House,37,Write-In,,20,5,15
+Jasper,FV,State House,37,Write-In,,27,10,17
+Jasper,CCI,State House,38,Brad Magg,DEM,469,120,349
+Jasper,COLFAX 1,State House,38,Brad Magg,DEM,169,37,132
+Jasper,COLFAX 2,State House,38,Brad Magg,DEM,173,65,108
+Jasper,COLFAX 3,State House,38,Brad Magg,DEM,145,32,113
+Jasper,HG/K/M/RC,State House,38,Brad Magg,DEM,507,256,251
+Jasper,KO,State House,38,Brad Magg,DEM,2,2,0
+Jasper,LR,State House,38,Brad Magg,DEM,159,59,100
+Jasper,LS,State House,38,Brad Magg,DEM,0,0,0
+Jasper,MMV,State House,38,Brad Magg,DEM,1,1,0
+Jasper,MNS,State House,38,Brad Magg,DEM,522,313,209
+Jasper,MPPW,State House,38,Brad Magg,DEM,581,229,352
+Jasper,NEWTON 1-1,State House,38,Brad Magg,DEM,401,209,192
+Jasper,NEWTON 1-2,State House,38,Brad Magg,DEM,397,165,232
+Jasper,NEWTON 2-1,State House,38,Brad Magg,DEM,367,147,220
+Jasper,NEWTON 2-2,State House,38,Brad Magg,DEM,495,252,243
+Jasper,NEWTON 3-1,State House,38,Brad Magg,DEM,418,235,183
+Jasper,NEWTON 3-2,State House,38,Brad Magg,DEM,377,184,193
+Jasper,NEWTON 4-1,State House,38,Brad Magg,DEM,556,336,220
+Jasper,NEWTON 4-2,State House,38,Brad Magg,DEM,383,164,219
+Jasper,PA,State House,38,Brad Magg,DEM,210,106,104
+Jasper,CCI,State House,38,Matthew Oleson,REP,562,122,440
+Jasper,COLFAX 1,State House,38,Matthew Oleson,REP,103,16,87
+Jasper,COLFAX 2,State House,38,Matthew Oleson,REP,107,21,86
+Jasper,COLFAX 3,State House,38,Matthew Oleson,REP,113,23,90
+Jasper,HG/K/M/RC,State House,38,Matthew Oleson,REP,771,250,521
+Jasper,KO,State House,38,Matthew Oleson,REP,2,2,0
+Jasper,LR,State House,38,Matthew Oleson,REP,879,211,668
+Jasper,LS,State House,38,Matthew Oleson,REP,2,2,0
+Jasper,MMV,State House,38,Matthew Oleson,REP,2,2,0
+Jasper,MNS,State House,38,Matthew Oleson,REP,667,308,359
+Jasper,MPPW,State House,38,Matthew Oleson,REP,677,167,510
+Jasper,NEWTON 1-1,State House,38,Matthew Oleson,REP,279,106,173
+Jasper,NEWTON 1-2,State House,38,Matthew Oleson,REP,261,119,142
+Jasper,NEWTON 2-1,State House,38,Matthew Oleson,REP,283,98,185
+Jasper,NEWTON 2-2,State House,38,Matthew Oleson,REP,431,137,294
+Jasper,NEWTON 3-1,State House,38,Matthew Oleson,REP,328,107,221
+Jasper,NEWTON 3-2,State House,38,Matthew Oleson,REP,317,105,212
+Jasper,NEWTON 4-1,State House,38,Matthew Oleson,REP,472,207,265
+Jasper,NEWTON 4-2,State House,38,Matthew Oleson,REP,286,92,194
+Jasper,PA,State House,38,Matthew Oleson,REP,326,107,219
+Jasper,CCI,State House,38,Write-In,,0,0,0
+Jasper,COLFAX 1,State House,38,Write-In,,1,1,0
+Jasper,COLFAX 2,State House,38,Write-In,,0,0,0
+Jasper,COLFAX 3,State House,38,Write-In,,1,0,1
+Jasper,HG/K/M/RC,State House,38,Write-In,,0,0,0
+Jasper,KO,State House,38,Write-In,,0,0,0
+Jasper,LR,State House,38,Write-In,,0,0,0
+Jasper,LS,State House,38,Write-In,,0,0,0
+Jasper,MMV,State House,38,Write-In,,0,0,0
+Jasper,MNS,State House,38,Write-In,,1,0,1
+Jasper,MPPW,State House,38,Write-In,,2,0,2
+Jasper,NEWTON 1-1,State House,38,Write-In,,0,0,0
+Jasper,NEWTON 1-2,State House,38,Write-In,,1,0,1
+Jasper,NEWTON 2-1,State House,38,Write-In,,0,0,0
+Jasper,NEWTON 2-2,State House,38,Write-In,,0,0,0
+Jasper,NEWTON 3-1,State House,38,Write-In,,0,0,0
+Jasper,NEWTON 3-2,State House,38,Write-In,,0,0,0
+Jasper,NEWTON 4-1,State House,38,Write-In,,0,0,0
+Jasper,NEWTON 4-2,State House,38,Write-In,,0,0,0
+Jasper,PA,State House,38,Write-In,,0,0,0
+Jasper,BE,State Senate,19,Barb Kniff McCulla,REP,401,146,255
+Jasper,CCI,State Senate,19,Barb Kniff McCulla,REP,611,127,484
+Jasper,COLFAX 1,State Senate,19,Barb Kniff McCulla,REP,125,16,109
+Jasper,COLFAX 2,State Senate,19,Barb Kniff McCulla,REP,113,23,90
+Jasper,COLFAX 3,State Senate,19,Barb Kniff McCulla,REP,115,20,95
+Jasper,DM,State Senate,19,Barb Kniff McCulla,REP,690,121,569
+Jasper,FV,State Senate,19,Barb Kniff McCulla,REP,786,144,642
+Jasper,HG/K/M/RC,State Senate,19,Barb Kniff McCulla,REP,760,255,505
+Jasper,KO,State Senate,19,Barb Kniff McCulla,REP,2,2,0
+Jasper,LR,State Senate,19,Barb Kniff McCulla,REP,902,213,689
+Jasper,LS,State Senate,19,Barb Kniff McCulla,REP,2,2,0
+Jasper,MMV,State Senate,19,Barb Kniff McCulla,REP,2,2,0
+Jasper,MNS,State Senate,19,Barb Kniff McCulla,REP,714,328,386
+Jasper,MPPW,State Senate,19,Barb Kniff McCulla,REP,757,182,575
+Jasper,NEWTON 1-1,State Senate,19,Barb Kniff McCulla,REP,277,105,172
+Jasper,NEWTON 1-2,State Senate,19,Barb Kniff McCulla,REP,281,129,152
+Jasper,NEWTON 2-1,State Senate,19,Barb Kniff McCulla,REP,281,96,185
+Jasper,NEWTON 2-2,State Senate,19,Barb Kniff McCulla,REP,418,141,277
+Jasper,NEWTON 3-1,State Senate,19,Barb Kniff McCulla,REP,321,109,212
+Jasper,NEWTON 3-2,State Senate,19,Barb Kniff McCulla,REP,327,112,215
+Jasper,NEWTON 4-1,State Senate,19,Barb Kniff McCulla,REP,496,222,274
+Jasper,NEWTON 4-2,State Senate,19,Barb Kniff McCulla,REP,285,90,195
+Jasper,PA,State Senate,19,Barb Kniff McCulla,REP,357,123,234
+Jasper,BE,State Senate,19,Write-In,,0,0,0
+Jasper,CCI,State Senate,19,Write-In,,0,0,0
+Jasper,COLFAX 1,State Senate,19,Write-In,,1,1,0
+Jasper,COLFAX 2,State Senate,19,Write-In,,0,0,0
+Jasper,COLFAX 3,State Senate,19,Write-In,,0,0,0
+Jasper,DM,State Senate,19,Write-In,,1,1,0
+Jasper,FV,State Senate,19,Write-In,,2,0,2
+Jasper,HG/K/M/RC,State Senate,19,Write-In,,0,0,0
+Jasper,KO,State Senate,19,Write-In,,0,0,0
+Jasper,LR,State Senate,19,Write-In,,0,0,0
+Jasper,LS,State Senate,19,Write-In,,0,0,0
+Jasper,MMV,State Senate,19,Write-In,,0,0,0
+Jasper,MNS,State Senate,19,Write-In,,1,0,1
+Jasper,MPPW,State Senate,19,Write-In,,0,0,0
+Jasper,NEWTON 1-1,State Senate,19,Write-In,,0,0,0
+Jasper,NEWTON 1-2,State Senate,19,Write-In,,1,0,1
+Jasper,NEWTON 2-1,State Senate,19,Write-In,,0,0,0
+Jasper,NEWTON 2-2,State Senate,19,Write-In,,1,0,1
+Jasper,NEWTON 3-1,State Senate,19,Write-In,,0,0,0
+Jasper,NEWTON 3-2,State Senate,19,Write-In,,0,0,0
+Jasper,NEWTON 4-1,State Senate,19,Write-In,,0,0,0
+Jasper,NEWTON 4-2,State Senate,19,Write-In,,2,0,2
+Jasper,PA,State Senate,19,Write-In,,0,0,0
+Jasper,BE,State Senate,19,Zachary Mecham,DEM,110,75,35
+Jasper,CCI,State Senate,19,Zachary Mecham,DEM,405,110,295
+Jasper,COLFAX 1,State Senate,19,Zachary Mecham,DEM,140,34,106
+Jasper,COLFAX 2,State Senate,19,Zachary Mecham,DEM,164,62,102
+Jasper,COLFAX 3,State Senate,19,Zachary Mecham,DEM,136,35,101
+Jasper,DM,State Senate,19,Zachary Mecham,DEM,446,119,327
+Jasper,FV,State Senate,19,Zachary Mecham,DEM,460,186,274
+Jasper,HG/K/M/RC,State Senate,19,Zachary Mecham,DEM,499,243,256
+Jasper,KO,State Senate,19,Zachary Mecham,DEM,2,2,0
+Jasper,LR,State Senate,19,Zachary Mecham,DEM,142,58,84
+Jasper,LS,State Senate,19,Zachary Mecham,DEM,0,0,0
+Jasper,MMV,State Senate,19,Zachary Mecham,DEM,1,1,0
+Jasper,MNS,State Senate,19,Zachary Mecham,DEM,461,287,174
+Jasper,MPPW,State Senate,19,Zachary Mecham,DEM,478,211,267
+Jasper,NEWTON 1-1,State Senate,19,Zachary Mecham,DEM,375,199,176
+Jasper,NEWTON 1-2,State Senate,19,Zachary Mecham,DEM,361,146,215
+Jasper,NEWTON 2-1,State Senate,19,Zachary Mecham,DEM,357,139,218
+Jasper,NEWTON 2-2,State Senate,19,Zachary Mecham,DEM,486,243,243
+Jasper,NEWTON 3-1,State Senate,19,Zachary Mecham,DEM,408,221,187
+Jasper,NEWTON 3-2,State Senate,19,Zachary Mecham,DEM,351,172,179
+Jasper,NEWTON 4-1,State Senate,19,Zachary Mecham,DEM,513,314,199
+Jasper,NEWTON 4-2,State Senate,19,Zachary Mecham,DEM,368,159,209
+Jasper,PA,State Senate,19,Zachary Mecham,DEM,171,87,84
+Jasper,BE,Treasurer of State,,John Norwood,DEM,118,77,41
+Jasper,CCI,Treasurer of State,,John Norwood,DEM,393,111,282
+Jasper,COLFAX 1,Treasurer of State,,John Norwood,DEM,148,37,111
+Jasper,COLFAX 2,Treasurer of State,,John Norwood,DEM,163,64,99
+Jasper,COLFAX 3,Treasurer of State,,John Norwood,DEM,129,34,95
+Jasper,DM,Treasurer of State,,John Norwood,DEM,446,124,322
+Jasper,FV,Treasurer of State,,John Norwood,DEM,467,190,277
+Jasper,HG/K/M/RC,Treasurer of State,,John Norwood,DEM,475,243,232
+Jasper,KO,Treasurer of State,,John Norwood,DEM,2,2,0
+Jasper,LR,Treasurer of State,,John Norwood,DEM,149,58,91
+Jasper,LS,Treasurer of State,,John Norwood,DEM,0,0,0
+Jasper,MMV,Treasurer of State,,John Norwood,DEM,1,1,0
+Jasper,MNS,Treasurer of State,,John Norwood,DEM,468,288,180
+Jasper,MPPW,Treasurer of State,,John Norwood,DEM,472,210,262
+Jasper,NEWTON 1-1,Treasurer of State,,John Norwood,DEM,375,200,175
+Jasper,NEWTON 1-2,Treasurer of State,,John Norwood,DEM,360,151,209
+Jasper,NEWTON 2-1,Treasurer of State,,John Norwood,DEM,353,142,211
+Jasper,NEWTON 2-2,Treasurer of State,,John Norwood,DEM,472,237,235
+Jasper,NEWTON 3-1,Treasurer of State,,John Norwood,DEM,398,223,175
+Jasper,NEWTON 3-2,Treasurer of State,,John Norwood,DEM,347,173,174
+Jasper,NEWTON 4-1,Treasurer of State,,John Norwood,DEM,510,319,191
+Jasper,NEWTON 4-2,Treasurer of State,,John Norwood,DEM,374,161,213
+Jasper,PA,Treasurer of State,,John Norwood,DEM,175,89,86
+Jasper,BE,Treasurer of State,,Roby Smith,REP,394,145,249
+Jasper,CCI,Treasurer of State,,Roby Smith,REP,626,124,502
+Jasper,COLFAX 1,Treasurer of State,,Roby Smith,REP,120,14,106
+Jasper,COLFAX 2,Treasurer of State,,Roby Smith,REP,115,23,92
+Jasper,COLFAX 3,Treasurer of State,,Roby Smith,REP,123,21,102
+Jasper,DM,Treasurer of State,,Roby Smith,REP,702,125,577
+Jasper,FV,Treasurer of State,,Roby Smith,REP,768,142,626
+Jasper,HG/K/M/RC,Treasurer of State,,Roby Smith,REP,793,257,536
+Jasper,KO,Treasurer of State,,Roby Smith,REP,2,2,0
+Jasper,LR,Treasurer of State,,Roby Smith,REP,890,211,679
+Jasper,LS,Treasurer of State,,Roby Smith,REP,2,2,0
+Jasper,MMV,Treasurer of State,,Roby Smith,REP,2,2,0
+Jasper,MNS,Treasurer of State,,Roby Smith,REP,706,330,376
+Jasper,MPPW,Treasurer of State,,Roby Smith,REP,766,181,585
+Jasper,NEWTON 1-1,Treasurer of State,,Roby Smith,REP,288,110,178
+Jasper,NEWTON 1-2,Treasurer of State,,Roby Smith,REP,275,122,153
+Jasper,NEWTON 2-1,Treasurer of State,,Roby Smith,REP,284,93,191
+Jasper,NEWTON 2-2,Treasurer of State,,Roby Smith,REP,433,142,291
+Jasper,NEWTON 3-1,Treasurer of State,,Roby Smith,REP,335,109,226
+Jasper,NEWTON 3-2,Treasurer of State,,Roby Smith,REP,331,109,222
+Jasper,NEWTON 4-1,Treasurer of State,,Roby Smith,REP,498,217,281
+Jasper,NEWTON 4-2,Treasurer of State,,Roby Smith,REP,287,94,193
+Jasper,PA,Treasurer of State,,Roby Smith,REP,351,118,233
+Jasper,BE,Treasurer of State,,Write-In,,1,1,0
+Jasper,CCI,Treasurer of State,,Write-In,,0,0,0
+Jasper,COLFAX 1,Treasurer of State,,Write-In,,1,1,0
+Jasper,COLFAX 2,Treasurer of State,,Write-In,,0,0,0
+Jasper,COLFAX 3,Treasurer of State,,Write-In,,0,0,0
+Jasper,DM,Treasurer of State,,Write-In,,0,0,0
+Jasper,FV,Treasurer of State,,Write-In,,1,0,1
+Jasper,HG/K/M/RC,Treasurer of State,,Write-In,,0,0,0
+Jasper,KO,Treasurer of State,,Write-In,,0,0,0
+Jasper,LR,Treasurer of State,,Write-In,,0,0,0
+Jasper,LS,Treasurer of State,,Write-In,,0,0,0
+Jasper,MMV,Treasurer of State,,Write-In,,0,0,0
+Jasper,MNS,Treasurer of State,,Write-In,,1,0,1
+Jasper,MPPW,Treasurer of State,,Write-In,,0,0,0
+Jasper,NEWTON 1-1,Treasurer of State,,Write-In,,0,0,0
+Jasper,NEWTON 1-2,Treasurer of State,,Write-In,,2,0,2
+Jasper,NEWTON 2-1,Treasurer of State,,Write-In,,1,1,0
+Jasper,NEWTON 2-2,Treasurer of State,,Write-In,,0,0,0
+Jasper,NEWTON 3-1,Treasurer of State,,Write-In,,0,0,0
+Jasper,NEWTON 3-2,Treasurer of State,,Write-In,,1,0,1
+Jasper,NEWTON 4-1,Treasurer of State,,Write-In,,0,0,0
+Jasper,NEWTON 4-2,Treasurer of State,,Write-In,,1,0,1
+Jasper,PA,Treasurer of State,,Write-In,,0,0,0
+Jasper,BE,U.S. House,1,Christina Bohannan,DEM,122,80,42
+Jasper,CCI,U.S. House,1,Christina Bohannan,DEM,402,111,291
+Jasper,COLFAX 1,U.S. House,1,Christina Bohannan,DEM,140,35,105
+Jasper,COLFAX 2,U.S. House,1,Christina Bohannan,DEM,156,66,90
+Jasper,COLFAX 3,U.S. House,1,Christina Bohannan,DEM,129,33,96
+Jasper,DM,U.S. House,1,Christina Bohannan,DEM,453,128,325
+Jasper,FV,U.S. House,1,Christina Bohannan,DEM,461,184,277
+Jasper,HG/K/M/RC,U.S. House,1,Christina Bohannan,DEM,503,251,252
+Jasper,KO,U.S. House,1,Christina Bohannan,DEM,3,3,0
+Jasper,LR,U.S. House,1,Christina Bohannan,DEM,162,61,101
+Jasper,LS,U.S. House,1,Christina Bohannan,DEM,0,0,0
+Jasper,MMV,U.S. House,1,Christina Bohannan,DEM,1,1,0
+Jasper,MNS,U.S. House,1,Christina Bohannan,DEM,464,290,174
+Jasper,MPPW,U.S. House,1,Christina Bohannan,DEM,470,212,258
+Jasper,NEWTON 1-1,U.S. House,1,Christina Bohannan,DEM,373,195,178
+Jasper,NEWTON 1-2,U.S. House,1,Christina Bohannan,DEM,354,150,204
+Jasper,NEWTON 2-1,U.S. House,1,Christina Bohannan,DEM,358,142,216
+Jasper,NEWTON 2-2,U.S. House,1,Christina Bohannan,DEM,466,240,226
+Jasper,NEWTON 3-1,U.S. House,1,Christina Bohannan,DEM,417,231,186
+Jasper,NEWTON 3-2,U.S. House,1,Christina Bohannan,DEM,353,179,174
+Jasper,NEWTON 4-1,U.S. House,1,Christina Bohannan,DEM,511,311,200
+Jasper,NEWTON 4-2,U.S. House,1,Christina Bohannan,DEM,380,163,217
+Jasper,PA,U.S. House,1,Christina Bohannan,DEM,176,87,89
+Jasper,BE,U.S. House,1,Mariannette Miller-Meeks,REP,390,147,243
+Jasper,CCI,U.S. House,1,Mariannette Miller-Meeks,REP,604,129,475
+Jasper,COLFAX 1,U.S. House,1,Mariannette Miller-Meeks,REP,119,15,104
+Jasper,COLFAX 2,U.S. House,1,Mariannette Miller-Meeks,REP,111,20,91
+Jasper,COLFAX 3,U.S. House,1,Mariannette Miller-Meeks,REP,120,21,99
+Jasper,DM,U.S. House,1,Mariannette Miller-Meeks,REP,669,122,547
+Jasper,FV,U.S. House,1,Mariannette Miller-Meeks,REP,751,148,603
+Jasper,HG/K/M/RC,U.S. House,1,Mariannette Miller-Meeks,REP,755,251,504
+Jasper,KO,U.S. House,1,Mariannette Miller-Meeks,REP,2,2,0
+Jasper,LR,U.S. House,1,Mariannette Miller-Meeks,REP,868,205,663
+Jasper,LS,U.S. House,1,Mariannette Miller-Meeks,REP,2,2,0
+Jasper,MMV,U.S. House,1,Mariannette Miller-Meeks,REP,2,2,0
+Jasper,MNS,U.S. House,1,Mariannette Miller-Meeks,REP,701,324,377
+Jasper,MPPW,U.S. House,1,Mariannette Miller-Meeks,REP,747,180,567
+Jasper,NEWTON 1-1,U.S. House,1,Mariannette Miller-Meeks,REP,283,113,170
+Jasper,NEWTON 1-2,U.S. House,1,Mariannette Miller-Meeks,REP,275,123,152
+Jasper,NEWTON 2-1,U.S. House,1,Mariannette Miller-Meeks,REP,271,94,177
+Jasper,NEWTON 2-2,U.S. House,1,Mariannette Miller-Meeks,REP,430,143,287
+Jasper,NEWTON 3-1,U.S. House,1,Mariannette Miller-Meeks,REP,303,100,203
+Jasper,NEWTON 3-2,U.S. House,1,Mariannette Miller-Meeks,REP,307,101,206
+Jasper,NEWTON 4-1,U.S. House,1,Mariannette Miller-Meeks,REP,481,215,266
+Jasper,NEWTON 4-2,U.S. House,1,Mariannette Miller-Meeks,REP,260,87,173
+Jasper,PA,U.S. House,1,Mariannette Miller-Meeks,REP,343,122,221
+Jasper,BE,U.S. House,1,Michael Bridgford,,14,4,10
+Jasper,CCI,U.S. House,1,Michael Bridgford,,38,2,36
+Jasper,COLFAX 1,U.S. House,1,Michael Bridgford,,14,2,12
+Jasper,COLFAX 2,U.S. House,1,Michael Bridgford,,12,1,11
+Jasper,COLFAX 3,U.S. House,1,Michael Bridgford,,11,3,8
+Jasper,DM,U.S. House,1,Michael Bridgford,,40,7,33
+Jasper,FV,U.S. House,1,Michael Bridgford,,53,8,45
+Jasper,HG/K/M/RC,U.S. House,1,Michael Bridgford,,31,7,24
+Jasper,KO,U.S. House,1,Michael Bridgford,,0,0,0
+Jasper,LR,U.S. House,1,Michael Bridgford,,25,5,20
+Jasper,LS,U.S. House,1,Michael Bridgford,,0,0,0
+Jasper,MMV,U.S. House,1,Michael Bridgford,,0,0,0
+Jasper,MNS,U.S. House,1,Michael Bridgford,,35,12,23
+Jasper,MPPW,U.S. House,1,Michael Bridgford,,52,10,42
+Jasper,NEWTON 1-1,U.S. House,1,Michael Bridgford,,30,9,21
+Jasper,NEWTON 1-2,U.S. House,1,Michael Bridgford,,24,9,15
+Jasper,NEWTON 2-1,U.S. House,1,Michael Bridgford,,24,6,18
+Jasper,NEWTON 2-2,U.S. House,1,Michael Bridgford,,24,6,18
+Jasper,NEWTON 3-1,U.S. House,1,Michael Bridgford,,24,6,18
+Jasper,NEWTON 3-2,U.S. House,1,Michael Bridgford,,39,10,29
+Jasper,NEWTON 4-1,U.S. House,1,Michael Bridgford,,27,10,17
+Jasper,NEWTON 4-2,U.S. House,1,Michael Bridgford,,29,5,24
+Jasper,PA,U.S. House,1,Michael Bridgford,,19,6,13
+Jasper,BE,U.S. House,1,Write-In,,0,0,0
+Jasper,CCI,U.S. House,1,Write-In,,0,0,0
+Jasper,COLFAX 1,U.S. House,1,Write-In,,1,1,0
+Jasper,COLFAX 2,U.S. House,1,Write-In,,0,0,0
+Jasper,COLFAX 3,U.S. House,1,Write-In,,0,0,0
+Jasper,DM,U.S. House,1,Write-In,,3,0,3
+Jasper,FV,U.S. House,1,Write-In,,1,0,1
+Jasper,HG/K/M/RC,U.S. House,1,Write-In,,1,0,1
+Jasper,KO,U.S. House,1,Write-In,,0,0,0
+Jasper,LR,U.S. House,1,Write-In,,0,0,0
+Jasper,LS,U.S. House,1,Write-In,,0,0,0
+Jasper,MMV,U.S. House,1,Write-In,,0,0,0
+Jasper,MNS,U.S. House,1,Write-In,,3,0,3
+Jasper,MPPW,U.S. House,1,Write-In,,1,1,0
+Jasper,NEWTON 1-1,U.S. House,1,Write-In,,0,0,0
+Jasper,NEWTON 1-2,U.S. House,1,Write-In,,1,0,1
+Jasper,NEWTON 2-1,U.S. House,1,Write-In,,0,0,0
+Jasper,NEWTON 2-2,U.S. House,1,Write-In,,1,0,1
+Jasper,NEWTON 3-1,U.S. House,1,Write-In,,0,0,0
+Jasper,NEWTON 3-2,U.S. House,1,Write-In,,0,0,0
+Jasper,NEWTON 4-1,U.S. House,1,Write-In,,1,0,1
+Jasper,NEWTON 4-2,U.S. House,1,Write-In,,1,0,1
+Jasper,PA,U.S. House,1,Write-In,,0,0,0
+Jasper,BE,U.S. Senate,,Ashley Hinson,REP,388,145,243
+Jasper,CCI,U.S. Senate,,Ashley Hinson,REP,601,126,475
+Jasper,COLFAX 1,U.S. Senate,,Ashley Hinson,REP,114,14,100
+Jasper,COLFAX 2,U.S. Senate,,Ashley Hinson,REP,112,20,92
+Jasper,COLFAX 3,U.S. Senate,,Ashley Hinson,REP,114,20,94
+Jasper,DM,U.S. Senate,,Ashley Hinson,REP,672,123,549
+Jasper,FV,U.S. Senate,,Ashley Hinson,REP,748,145,603
+Jasper,HG/K/M/RC,U.S. Senate,,Ashley Hinson,REP,738,240,498
+Jasper,KO,U.S. Senate,,Ashley Hinson,REP,2,2,0
+Jasper,LR,U.S. Senate,,Ashley Hinson,REP,869,207,662
+Jasper,LS,U.S. Senate,,Ashley Hinson,REP,2,2,0
+Jasper,MMV,U.S. Senate,,Ashley Hinson,REP,2,2,0
+Jasper,MNS,U.S. Senate,,Ashley Hinson,REP,676,323,353
+Jasper,MPPW,U.S. Senate,,Ashley Hinson,REP,728,178,550
+Jasper,NEWTON 1-1,U.S. Senate,,Ashley Hinson,REP,276,107,169
+Jasper,NEWTON 1-2,U.S. Senate,,Ashley Hinson,REP,252,114,138
+Jasper,NEWTON 2-1,U.S. Senate,,Ashley Hinson,REP,276,98,178
+Jasper,NEWTON 2-2,U.S. Senate,,Ashley Hinson,REP,423,140,283
+Jasper,NEWTON 3-1,U.S. Senate,,Ashley Hinson,REP,310,109,201
+Jasper,NEWTON 3-2,U.S. Senate,,Ashley Hinson,REP,301,106,195
+Jasper,NEWTON 4-1,U.S. Senate,,Ashley Hinson,REP,483,209,274
+Jasper,NEWTON 4-2,U.S. Senate,,Ashley Hinson,REP,262,89,173
+Jasper,PA,U.S. Senate,,Ashley Hinson,REP,335,118,217
+Jasper,BE,U.S. Senate,,Josh Turek,DEM,131,82,49
+Jasper,CCI,U.S. Senate,,Josh Turek,DEM,426,115,311
+Jasper,COLFAX 1,U.S. Senate,,Josh Turek,DEM,144,35,109
+Jasper,COLFAX 2,U.S. Senate,,Josh Turek,DEM,160,67,93
+Jasper,COLFAX 3,U.S. Senate,,Josh Turek,DEM,131,34,97
+Jasper,DM,U.S. Senate,,Josh Turek,DEM,455,125,330
+Jasper,FV,U.S. Senate,,Josh Turek,DEM,487,189,298
+Jasper,HG/K/M/RC,U.S. Senate,,Josh Turek,DEM,508,258,250
+Jasper,KO,U.S. Senate,,Josh Turek,DEM,3,3,0
+Jasper,LR,U.S. Senate,,Josh Turek,DEM,162,65,97
+Jasper,LS,U.S. Senate,,Josh Turek,DEM,0,0,0
+Jasper,MMV,U.S. Senate,,Josh Turek,DEM,1,1,0
+Jasper,MNS,U.S. Senate,,Josh Turek,DEM,469,283,186
+Jasper,MPPW,U.S. Senate,,Josh Turek,DEM,481,213,268
+Jasper,NEWTON 1-1,U.S. Senate,,Josh Turek,DEM,385,202,183
+Jasper,NEWTON 1-2,U.S. Senate,,Josh Turek,DEM,378,158,220
+Jasper,NEWTON 2-1,U.S. Senate,,Josh Turek,DEM,342,132,210
+Jasper,NEWTON 2-2,U.S. Senate,,Josh Turek,DEM,485,247,238
+Jasper,NEWTON 3-1,U.S. Senate,,Josh Turek,DEM,405,219,186
+Jasper,NEWTON 3-2,U.S. Senate,,Josh Turek,DEM,367,178,189
+Jasper,NEWTON 4-1,U.S. Senate,,Josh Turek,DEM,523,325,198
+Jasper,NEWTON 4-2,U.S. Senate,,Josh Turek,DEM,373,159,214
+Jasper,PA,U.S. Senate,,Josh Turek,DEM,188,93,95
+Jasper,BE,U.S. Senate,,Thomas Laehn,LIB,10,4,6
+Jasper,CCI,U.S. Senate,,Thomas Laehn,LIB,33,3,30
+Jasper,COLFAX 1,U.S. Senate,,Thomas Laehn,LIB,12,4,8
+Jasper,COLFAX 2,U.S. Senate,,Thomas Laehn,LIB,8,0,8
+Jasper,COLFAX 3,U.S. Senate,,Thomas Laehn,LIB,16,4,12
+Jasper,DM,U.S. Senate,,Thomas Laehn,LIB,45,10,35
+Jasper,FV,U.S. Senate,,Thomas Laehn,LIB,44,7,37
+Jasper,HG/K/M/RC,U.S. Senate,,Thomas Laehn,LIB,49,12,37
+Jasper,KO,U.S. Senate,,Thomas Laehn,LIB,0,0,0
+Jasper,LR,U.S. Senate,,Thomas Laehn,LIB,29,4,25
+Jasper,LS,U.S. Senate,,Thomas Laehn,LIB,0,0,0
+Jasper,MMV,U.S. Senate,,Thomas Laehn,LIB,0,0,0
+Jasper,MNS,U.S. Senate,,Thomas Laehn,LIB,56,21,35
+Jasper,MPPW,U.S. Senate,,Thomas Laehn,LIB,63,11,52
+Jasper,NEWTON 1-1,U.S. Senate,,Thomas Laehn,LIB,29,10,19
+Jasper,NEWTON 1-2,U.S. Senate,,Thomas Laehn,LIB,29,12,17
+Jasper,NEWTON 2-1,U.S. Senate,,Thomas Laehn,LIB,36,13,23
+Jasper,NEWTON 2-2,U.S. Senate,,Thomas Laehn,LIB,19,4,15
+Jasper,NEWTON 3-1,U.S. Senate,,Thomas Laehn,LIB,33,12,21
+Jasper,NEWTON 3-2,U.S. Senate,,Thomas Laehn,LIB,32,6,26
+Jasper,NEWTON 4-1,U.S. Senate,,Thomas Laehn,LIB,20,9,11
+Jasper,NEWTON 4-2,U.S. Senate,,Thomas Laehn,LIB,39,12,27
+Jasper,PA,U.S. Senate,,Thomas Laehn,LIB,18,5,13
+Jasper,BE,U.S. Senate,,Write-In,,0,0,0
+Jasper,CCI,U.S. Senate,,Write-In,,0,0,0
+Jasper,COLFAX 1,U.S. Senate,,Write-In,,1,0,1
+Jasper,COLFAX 2,U.S. Senate,,Write-In,,0,0,0
+Jasper,COLFAX 3,U.S. Senate,,Write-In,,0,0,0
+Jasper,DM,U.S. Senate,,Write-In,,1,0,1
+Jasper,FV,U.S. Senate,,Write-In,,1,0,1
+Jasper,HG/K/M/RC,U.S. Senate,,Write-In,,2,0,2
+Jasper,KO,U.S. Senate,,Write-In,,0,0,0
+Jasper,LR,U.S. Senate,,Write-In,,2,1,1
+Jasper,LS,U.S. Senate,,Write-In,,0,0,0
+Jasper,MMV,U.S. Senate,,Write-In,,0,0,0
+Jasper,MNS,U.S. Senate,,Write-In,,1,0,1
+Jasper,MPPW,U.S. Senate,,Write-In,,0,0,0
+Jasper,NEWTON 1-1,U.S. Senate,,Write-In,,1,0,1
+Jasper,NEWTON 1-2,U.S. Senate,,Write-In,,2,0,2
+Jasper,NEWTON 2-1,U.S. Senate,,Write-In,,0,0,0
+Jasper,NEWTON 2-2,U.S. Senate,,Write-In,,1,0,1
+Jasper,NEWTON 3-1,U.S. Senate,,Write-In,,1,1,0
+Jasper,NEWTON 3-2,U.S. Senate,,Write-In,,0,0,0
+Jasper,NEWTON 4-1,U.S. Senate,,Write-In,,4,1,3
+Jasper,NEWTON 4-2,U.S. Senate,,Write-In,,1,0,1
+Jasper,PA,U.S. Senate,,Write-In,,0,0,0
+Jasper,MPPW,Washington Township - Public Measure WSH,,No,,133,44,89
+Jasper,MPPW,Washington Township - Public Measure WSH,,Yes,,146,37,109
+Jasper,MPPW,Washington Township Clerk,,Mary Dell Flattery,,251,72,179
+Jasper,MPPW,Washington Township Clerk,,Write-In,,2,1,1
+Jasper,MPPW,Washington Township Trustee,,Doug Brandhof,,234,71,163
+Jasper,MPPW,Washington Township Trustee,,Duane Brandhof,,222,67,155
+Jasper,MPPW,Washington Township Trustee,,Write-In,,4,3,1

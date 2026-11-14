@@ -529,6 +529,83 @@
       "dem_total": 707278,
       "rep_total": 927019,
       "major_party_contested": true
+    },
+    {
+      "year": 2026,
+      "contest_type": "agriculture_commissioner",
+      "file": "agriculture_commissioner_2026.json",
+      "rows": 99,
+      "scope": "",
+      "dem_total": 629377,
+      "rep_total": 702101,
+      "major_party_contested": true,
+      "result_status": "unofficial"
+    },
+    {
+      "year": 2026,
+      "contest_type": "attorney_general",
+      "file": "attorney_general_2026.json",
+      "rows": 99,
+      "scope": "",
+      "dem_total": 681245,
+      "rep_total": 657607,
+      "major_party_contested": true,
+      "result_status": "unofficial"
+    },
+    {
+      "year": 2026,
+      "contest_type": "auditor",
+      "file": "auditor_2026.json",
+      "rows": 99,
+      "scope": "",
+      "dem_total": 666770,
+      "rep_total": 660364,
+      "major_party_contested": true,
+      "result_status": "unofficial"
+    },
+    {
+      "year": 2026,
+      "contest_type": "governor",
+      "file": "governor_2026.json",
+      "rows": 99,
+      "scope": "",
+      "dem_total": 757506,
+      "rep_total": 607591,
+      "major_party_contested": true,
+      "result_status": "unofficial"
+    },
+    {
+      "year": 2026,
+      "contest_type": "secretary_of_state",
+      "file": "secretary_of_state_2026.json",
+      "rows": 99,
+      "scope": "",
+      "dem_total": 625997,
+      "rep_total": 711984,
+      "major_party_contested": true,
+      "result_status": "unofficial"
+    },
+    {
+      "year": 2026,
+      "contest_type": "treasurer",
+      "file": "treasurer_2026.json",
+      "rows": 99,
+      "scope": "",
+      "dem_total": 655910,
+      "rep_total": 665143,
+      "major_party_contested": true,
+      "result_status": "unofficial"
+    },
+    {
+      "year": 2026,
+      "contest_type": "us_senate",
+      "file": "us_senate_2026.json",
+      "rows": 99,
+      "scope": "",
+      "dem_total": 686640,
+      "rep_total": 630808,
+      "major_party_contested": true,
+      "result_status": "unofficial"
     }
   ]
 }

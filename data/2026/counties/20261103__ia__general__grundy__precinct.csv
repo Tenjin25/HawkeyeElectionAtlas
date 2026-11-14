@@ -1,0 +1,444 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Grundy,PRECINCT 2,AGWSR School - Public Measure IR,,No,,11,6,5
+Grundy,PRECINCT 3,AGWSR School - Public Measure IR,,No,,287,68,219
+Grundy,PRECINCT 4,AGWSR School - Public Measure IR,,No,,16,3,13
+Grundy,PRECINCT 2,AGWSR School - Public Measure IR,,Yes,,20,6,14
+Grundy,PRECINCT 3,AGWSR School - Public Measure IR,,Yes,,339,69,270
+Grundy,PRECINCT 4,AGWSR School - Public Measure IR,,Yes,,11,2,9
+Grundy,PRECINCT 1,Attorney General,,Brenna Bird,REP,485,117,368
+Grundy,PRECINCT 2,Attorney General,,Brenna Bird,REP,216,81,135
+Grundy,PRECINCT 3,Attorney General,,Brenna Bird,REP,544,123,421
+Grundy,PRECINCT 4,Attorney General,,Brenna Bird,REP,338,86,252
+Grundy,PRECINCT 5,Attorney General,,Brenna Bird,REP,728,170,558
+Grundy,PRECINCT 6,Attorney General,,Brenna Bird,REP,778,207,571
+Grundy,PRECINCT 7,Attorney General,,Brenna Bird,REP,619,200,419
+Grundy,PRECINCT 1,Attorney General,,Nate Willems,DEM,279,105,174
+Grundy,PRECINCT 2,Attorney General,,Nate Willems,DEM,106,62,44
+Grundy,PRECINCT 3,Attorney General,,Nate Willems,DEM,158,39,119
+Grundy,PRECINCT 4,Attorney General,,Nate Willems,DEM,117,54,63
+Grundy,PRECINCT 5,Attorney General,,Nate Willems,DEM,451,138,313
+Grundy,PRECINCT 6,Attorney General,,Nate Willems,DEM,409,137,272
+Grundy,PRECINCT 7,Attorney General,,Nate Willems,DEM,454,217,237
+Grundy,PRECINCT 1,Attorney General,,Write-In,,0,0,0
+Grundy,PRECINCT 2,Attorney General,,Write-In,,0,0,0
+Grundy,PRECINCT 3,Attorney General,,Write-In,,2,0,2
+Grundy,PRECINCT 4,Attorney General,,Write-In,,1,1,0
+Grundy,PRECINCT 5,Attorney General,,Write-In,,2,0,2
+Grundy,PRECINCT 6,Attorney General,,Write-In,,1,0,1
+Grundy,PRECINCT 7,Attorney General,,Write-In,,1,0,1
+Grundy,PRECINCT 1,Auditor of State,,Chris Cournoyer,REP,488,117,371
+Grundy,PRECINCT 2,Auditor of State,,Chris Cournoyer,REP,219,83,136
+Grundy,PRECINCT 3,Auditor of State,,Chris Cournoyer,REP,542,123,419
+Grundy,PRECINCT 4,Auditor of State,,Chris Cournoyer,REP,345,89,256
+Grundy,PRECINCT 5,Auditor of State,,Chris Cournoyer,REP,732,167,565
+Grundy,PRECINCT 6,Auditor of State,,Chris Cournoyer,REP,798,203,595
+Grundy,PRECINCT 7,Auditor of State,,Chris Cournoyer,REP,630,201,429
+Grundy,PRECINCT 1,Auditor of State,,Taylor Wettach,DEM,277,102,175
+Grundy,PRECINCT 2,Auditor of State,,Taylor Wettach,DEM,104,61,43
+Grundy,PRECINCT 3,Auditor of State,,Taylor Wettach,DEM,159,38,121
+Grundy,PRECINCT 4,Auditor of State,,Taylor Wettach,DEM,111,51,60
+Grundy,PRECINCT 5,Auditor of State,,Taylor Wettach,DEM,430,138,292
+Grundy,PRECINCT 6,Auditor of State,,Taylor Wettach,DEM,392,141,251
+Grundy,PRECINCT 7,Auditor of State,,Taylor Wettach,DEM,438,212,226
+Grundy,PRECINCT 1,Auditor of State,,Write-In,,2,1,1
+Grundy,PRECINCT 2,Auditor of State,,Write-In,,0,0,0
+Grundy,PRECINCT 3,Auditor of State,,Write-In,,0,0,0
+Grundy,PRECINCT 4,Auditor of State,,Write-In,,1,1,0
+Grundy,PRECINCT 5,Auditor of State,,Write-In,,1,0,1
+Grundy,PRECINCT 6,Auditor of State,,Write-In,,1,0,1
+Grundy,PRECINCT 7,Auditor of State,,Write-In,,1,0,1
+Grundy,PRECINCT 5,City of Dike - Public Measure IO,,No,,189,52,137
+Grundy,PRECINCT 5,City of Dike - Public Measure IO,,Yes,,534,117,417
+Grundy,PRECINCT 6,City of Reinbeck - Public Measure IP,,No,,397,98,299
+Grundy,PRECINCT 6,City of Reinbeck - Public Measure IP,,Yes,,381,112,269
+Grundy,PRECINCT 1,Constitutional Amendment 1,,No,,252,78,174
+Grundy,PRECINCT 2,Constitutional Amendment 1,,No,,99,52,47
+Grundy,PRECINCT 3,Constitutional Amendment 1,,No,,239,58,181
+Grundy,PRECINCT 4,Constitutional Amendment 1,,No,,129,46,83
+Grundy,PRECINCT 5,Constitutional Amendment 1,,No,,400,113,287
+Grundy,PRECINCT 6,Constitutional Amendment 1,,No,,424,119,305
+Grundy,PRECINCT 7,Constitutional Amendment 1,,No,,389,178,211
+Grundy,PRECINCT 1,Constitutional Amendment 1,,Yes,,413,117,296
+Grundy,PRECINCT 2,Constitutional Amendment 1,,Yes,,184,73,111
+Grundy,PRECINCT 3,Constitutional Amendment 1,,Yes,,429,96,333
+Grundy,PRECINCT 4,Constitutional Amendment 1,,Yes,,281,82,199
+Grundy,PRECINCT 5,Constitutional Amendment 1,,Yes,,692,175,517
+Grundy,PRECINCT 6,Constitutional Amendment 1,,Yes,,654,179,475
+Grundy,PRECINCT 7,Constitutional Amendment 1,,Yes,,562,196,366
+Grundy,PRECINCT 1,County Agricultural Extension Council Member,,Bill Noteboom,,379,106,273
+Grundy,PRECINCT 2,County Agricultural Extension Council Member,,Bill Noteboom,,234,98,136
+Grundy,PRECINCT 3,County Agricultural Extension Council Member,,Bill Noteboom,,496,113,383
+Grundy,PRECINCT 4,County Agricultural Extension Council Member,,Bill Noteboom,,289,81,208
+Grundy,PRECINCT 5,County Agricultural Extension Council Member,,Bill Noteboom,,622,156,466
+Grundy,PRECINCT 6,County Agricultural Extension Council Member,,Bill Noteboom,,760,207,553
+Grundy,PRECINCT 7,County Agricultural Extension Council Member,,Bill Noteboom,,681,250,431
+Grundy,PRECINCT 1,County Agricultural Extension Council Member,,Derek Kruger,,339,101,238
+Grundy,PRECINCT 2,County Agricultural Extension Council Member,,Derek Kruger,,189,77,112
+Grundy,PRECINCT 3,County Agricultural Extension Council Member,,Derek Kruger,,523,117,406
+Grundy,PRECINCT 4,County Agricultural Extension Council Member,,Derek Kruger,,277,79,198
+Grundy,PRECINCT 5,County Agricultural Extension Council Member,,Derek Kruger,,648,165,483
+Grundy,PRECINCT 6,County Agricultural Extension Council Member,,Derek Kruger,,680,186,494
+Grundy,PRECINCT 7,County Agricultural Extension Council Member,,Derek Kruger,,590,213,377
+Grundy,PRECINCT 1,County Agricultural Extension Council Member,,Jacob Triplett,,395,107,288
+Grundy,PRECINCT 2,County Agricultural Extension Council Member,,Jacob Triplett,,166,61,105
+Grundy,PRECINCT 3,County Agricultural Extension Council Member,,Jacob Triplett,,380,81,299
+Grundy,PRECINCT 4,County Agricultural Extension Council Member,,Jacob Triplett,,230,72,158
+Grundy,PRECINCT 5,County Agricultural Extension Council Member,,Jacob Triplett,,552,137,415
+Grundy,PRECINCT 6,County Agricultural Extension Council Member,,Jacob Triplett,,601,159,442
+Grundy,PRECINCT 7,County Agricultural Extension Council Member,,Jacob Triplett,,492,176,316
+Grundy,PRECINCT 1,County Agricultural Extension Council Member,,Ruth Wilcox,,329,101,228
+Grundy,PRECINCT 2,County Agricultural Extension Council Member,,Ruth Wilcox,,172,72,100
+Grundy,PRECINCT 3,County Agricultural Extension Council Member,,Ruth Wilcox,,377,81,296
+Grundy,PRECINCT 4,County Agricultural Extension Council Member,,Ruth Wilcox,,234,71,163
+Grundy,PRECINCT 5,County Agricultural Extension Council Member,,Ruth Wilcox,,549,136,413
+Grundy,PRECINCT 6,County Agricultural Extension Council Member,,Ruth Wilcox,,621,169,452
+Grundy,PRECINCT 7,County Agricultural Extension Council Member,,Ruth Wilcox,,525,188,337
+Grundy,PRECINCT 1,County Agricultural Extension Council Member,,Ryan Bakker,,343,104,239
+Grundy,PRECINCT 2,County Agricultural Extension Council Member,,Ryan Bakker,,199,81,118
+Grundy,PRECINCT 3,County Agricultural Extension Council Member,,Ryan Bakker,,528,124,404
+Grundy,PRECINCT 4,County Agricultural Extension Council Member,,Ryan Bakker,,276,78,198
+Grundy,PRECINCT 5,County Agricultural Extension Council Member,,Ryan Bakker,,645,161,484
+Grundy,PRECINCT 6,County Agricultural Extension Council Member,,Ryan Bakker,,667,175,492
+Grundy,PRECINCT 7,County Agricultural Extension Council Member,,Ryan Bakker,,585,211,374
+Grundy,PRECINCT 1,County Agricultural Extension Council Member,,Write-In,,6,1,5
+Grundy,PRECINCT 2,County Agricultural Extension Council Member,,Write-In,,2,2,0
+Grundy,PRECINCT 3,County Agricultural Extension Council Member,,Write-In,,11,0,11
+Grundy,PRECINCT 4,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Grundy,PRECINCT 5,County Agricultural Extension Council Member,,Write-In,,23,10,13
+Grundy,PRECINCT 6,County Agricultural Extension Council Member,,Write-In,,5,0,5
+Grundy,PRECINCT 7,County Agricultural Extension Council Member,,Write-In,,9,3,6
+Grundy,PRECINCT 1,County Attorney,,Erika L. Allen,REP,614,163,451
+Grundy,PRECINCT 2,County Attorney,,Erika L. Allen,REP,274,117,157
+Grundy,PRECINCT 3,County Attorney,,Erika L. Allen,REP,602,131,471
+Grundy,PRECINCT 4,County Attorney,,Erika L. Allen,REP,377,107,270
+Grundy,PRECINCT 5,County Attorney,,Erika L. Allen,REP,955,231,724
+Grundy,PRECINCT 6,County Attorney,,Erika L. Allen,REP,978,262,716
+Grundy,PRECINCT 7,County Attorney,,Erika L. Allen,REP,830,284,546
+Grundy,PRECINCT 1,County Attorney,,Write-In,,4,0,4
+Grundy,PRECINCT 2,County Attorney,,Write-In,,3,1,2
+Grundy,PRECINCT 3,County Attorney,,Write-In,,14,2,12
+Grundy,PRECINCT 4,County Attorney,,Write-In,,5,0,5
+Grundy,PRECINCT 5,County Attorney,,Write-In,,13,2,11
+Grundy,PRECINCT 6,County Attorney,,Write-In,,7,0,7
+Grundy,PRECINCT 7,County Attorney,,Write-In,,17,12,5
+Grundy,PRECINCT 1,County Recorder,,Travis Case,REP,662,178,484
+Grundy,PRECINCT 2,County Recorder,,Travis Case,REP,274,113,161
+Grundy,PRECINCT 3,County Recorder,,Travis Case,REP,635,143,492
+Grundy,PRECINCT 4,County Recorder,,Travis Case,REP,399,114,285
+Grundy,PRECINCT 5,County Recorder,,Travis Case,REP,957,234,723
+Grundy,PRECINCT 6,County Recorder,,Travis Case,REP,993,258,735
+Grundy,PRECINCT 7,County Recorder,,Travis Case,REP,865,293,572
+Grundy,PRECINCT 1,County Recorder,,Write-In,,4,1,3
+Grundy,PRECINCT 2,County Recorder,,Write-In,,1,0,1
+Grundy,PRECINCT 3,County Recorder,,Write-In,,5,0,5
+Grundy,PRECINCT 4,County Recorder,,Write-In,,3,0,3
+Grundy,PRECINCT 5,County Recorder,,Write-In,,15,2,13
+Grundy,PRECINCT 6,County Recorder,,Write-In,,4,1,3
+Grundy,PRECINCT 7,County Recorder,,Write-In,,11,8,3
+Grundy,PRECINCT 3,County Supervisor,2,Heidi Nederhoff,REP,654,153,501
+Grundy,PRECINCT 4,County Supervisor,2,Heidi Nederhoff,REP,397,111,286
+Grundy,PRECINCT 3,County Supervisor,2,Write-In,,9,0,9
+Grundy,PRECINCT 4,County Supervisor,2,Write-In,,6,1,5
+Grundy,PRECINCT 6,County Supervisor,4,Barry Ehrig,REP,1020,269,751
+Grundy,PRECINCT 6,County Supervisor,4,Write-In,,7,1,6
+Grundy,PRECINCT 1,County Treasurer,,Lori K. Kruse,REP,643,170,473
+Grundy,PRECINCT 2,County Treasurer,,Lori K. Kruse,REP,280,115,165
+Grundy,PRECINCT 3,County Treasurer,,Lori K. Kruse,REP,647,146,501
+Grundy,PRECINCT 4,County Treasurer,,Lori K. Kruse,REP,407,116,291
+Grundy,PRECINCT 5,County Treasurer,,Lori K. Kruse,REP,976,237,739
+Grundy,PRECINCT 6,County Treasurer,,Lori K. Kruse,REP,1018,268,750
+Grundy,PRECINCT 7,County Treasurer,,Lori K. Kruse,REP,898,310,588
+Grundy,PRECINCT 1,County Treasurer,,Write-In,,11,3,8
+Grundy,PRECINCT 2,County Treasurer,,Write-In,,0,0,0
+Grundy,PRECINCT 3,County Treasurer,,Write-In,,6,0,6
+Grundy,PRECINCT 4,County Treasurer,,Write-In,,3,0,3
+Grundy,PRECINCT 5,County Treasurer,,Write-In,,13,2,11
+Grundy,PRECINCT 6,County Treasurer,,Write-In,,3,0,3
+Grundy,PRECINCT 7,County Treasurer,,Write-In,,11,8,3
+Grundy,PRECINCT 1,Court of Appeals Judge - John M. Sandy,,No,,140,35,105
+Grundy,PRECINCT 2,Court of Appeals Judge - John M. Sandy,,No,,45,22,23
+Grundy,PRECINCT 3,Court of Appeals Judge - John M. Sandy,,No,,137,23,114
+Grundy,PRECINCT 4,Court of Appeals Judge - John M. Sandy,,No,,79,22,57
+Grundy,PRECINCT 5,Court of Appeals Judge - John M. Sandy,,No,,187,52,135
+Grundy,PRECINCT 6,Court of Appeals Judge - John M. Sandy,,No,,182,49,133
+Grundy,PRECINCT 7,Court of Appeals Judge - John M. Sandy,,No,,148,64,84
+Grundy,PRECINCT 1,Court of Appeals Judge - John M. Sandy,,Yes,,375,113,262
+Grundy,PRECINCT 2,Court of Appeals Judge - John M. Sandy,,Yes,,168,70,98
+Grundy,PRECINCT 3,Court of Appeals Judge - John M. Sandy,,Yes,,409,100,309
+Grundy,PRECINCT 4,Court of Appeals Judge - John M. Sandy,,Yes,,249,75,174
+Grundy,PRECINCT 5,Court of Appeals Judge - John M. Sandy,,Yes,,653,155,498
+Grundy,PRECINCT 6,Court of Appeals Judge - John M. Sandy,,Yes,,655,176,479
+Grundy,PRECINCT 7,Court of Appeals Judge - John M. Sandy,,Yes,,618,191,427
+Grundy,PRECINCT 1,Court of Appeals Judge - Julie A. Schumacher,,No,,127,30,97
+Grundy,PRECINCT 2,Court of Appeals Judge - Julie A. Schumacher,,No,,40,16,24
+Grundy,PRECINCT 3,Court of Appeals Judge - Julie A. Schumacher,,No,,138,22,116
+Grundy,PRECINCT 4,Court of Appeals Judge - Julie A. Schumacher,,No,,74,19,55
+Grundy,PRECINCT 5,Court of Appeals Judge - Julie A. Schumacher,,No,,178,46,132
+Grundy,PRECINCT 6,Court of Appeals Judge - Julie A. Schumacher,,No,,168,40,128
+Grundy,PRECINCT 7,Court of Appeals Judge - Julie A. Schumacher,,No,,136,60,76
+Grundy,PRECINCT 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,392,124,268
+Grundy,PRECINCT 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,176,76,100
+Grundy,PRECINCT 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,406,99,307
+Grundy,PRECINCT 4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,254,78,176
+Grundy,PRECINCT 5,Court of Appeals Judge - Julie A. Schumacher,,Yes,,668,161,507
+Grundy,PRECINCT 6,Court of Appeals Judge - Julie A. Schumacher,,Yes,,670,187,483
+Grundy,PRECINCT 7,Court of Appeals Judge - Julie A. Schumacher,,Yes,,636,198,438
+Grundy,PRECINCT 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,130,32,98
+Grundy,PRECINCT 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,43,19,24
+Grundy,PRECINCT 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,148,25,123
+Grundy,PRECINCT 4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,78,21,57
+Grundy,PRECINCT 5,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,184,48,136
+Grundy,PRECINCT 6,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,165,39,126
+Grundy,PRECINCT 7,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,138,60,78
+Grundy,PRECINCT 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,417,126,291
+Grundy,PRECINCT 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,175,74,101
+Grundy,PRECINCT 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,403,99,304
+Grundy,PRECINCT 4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,255,78,177
+Grundy,PRECINCT 5,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,669,164,505
+Grundy,PRECINCT 6,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,683,194,489
+Grundy,PRECINCT 7,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,639,202,437
+Grundy,PRECINCT 1,District 1B Associate Judge - Linnea M.N. Nicol,,No,,133,38,95
+Grundy,PRECINCT 2,District 1B Associate Judge - Linnea M.N. Nicol,,No,,44,19,25
+Grundy,PRECINCT 3,District 1B Associate Judge - Linnea M.N. Nicol,,No,,153,22,131
+Grundy,PRECINCT 4,District 1B Associate Judge - Linnea M.N. Nicol,,No,,80,23,57
+Grundy,PRECINCT 5,District 1B Associate Judge - Linnea M.N. Nicol,,No,,182,46,136
+Grundy,PRECINCT 6,District 1B Associate Judge - Linnea M.N. Nicol,,No,,176,39,137
+Grundy,PRECINCT 7,District 1B Associate Judge - Linnea M.N. Nicol,,No,,141,60,81
+Grundy,PRECINCT 1,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,380,118,262
+Grundy,PRECINCT 2,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,166,70,96
+Grundy,PRECINCT 3,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,383,94,289
+Grundy,PRECINCT 4,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,246,75,171
+Grundy,PRECINCT 5,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,658,159,499
+Grundy,PRECINCT 6,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,654,182,472
+Grundy,PRECINCT 7,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,626,195,431
+Grundy,PRECINCT 1,District 1B Associate Judge - Michelle Jungers,,No,,126,34,92
+Grundy,PRECINCT 2,District 1B Associate Judge - Michelle Jungers,,No,,39,15,24
+Grundy,PRECINCT 3,District 1B Associate Judge - Michelle Jungers,,No,,139,19,120
+Grundy,PRECINCT 4,District 1B Associate Judge - Michelle Jungers,,No,,75,21,54
+Grundy,PRECINCT 5,District 1B Associate Judge - Michelle Jungers,,No,,185,49,136
+Grundy,PRECINCT 6,District 1B Associate Judge - Michelle Jungers,,No,,173,40,133
+Grundy,PRECINCT 7,District 1B Associate Judge - Michelle Jungers,,No,,141,62,79
+Grundy,PRECINCT 1,District 1B Associate Judge - Michelle Jungers,,Yes,,384,122,262
+Grundy,PRECINCT 2,District 1B Associate Judge - Michelle Jungers,,Yes,,175,76,99
+Grundy,PRECINCT 3,District 1B Associate Judge - Michelle Jungers,,Yes,,398,100,298
+Grundy,PRECINCT 4,District 1B Associate Judge - Michelle Jungers,,Yes,,251,77,174
+Grundy,PRECINCT 5,District 1B Associate Judge - Michelle Jungers,,Yes,,657,158,499
+Grundy,PRECINCT 6,District 1B Associate Judge - Michelle Jungers,,Yes,,661,181,480
+Grundy,PRECINCT 7,District 1B Associate Judge - Michelle Jungers,,Yes,,627,194,433
+Grundy,PRECINCT 1,District 1B Associate Judge - Patrice Jaye Eichman,,No,,131,34,97
+Grundy,PRECINCT 2,District 1B Associate Judge - Patrice Jaye Eichman,,No,,46,21,25
+Grundy,PRECINCT 3,District 1B Associate Judge - Patrice Jaye Eichman,,No,,146,20,126
+Grundy,PRECINCT 4,District 1B Associate Judge - Patrice Jaye Eichman,,No,,83,25,58
+Grundy,PRECINCT 5,District 1B Associate Judge - Patrice Jaye Eichman,,No,,189,46,143
+Grundy,PRECINCT 6,District 1B Associate Judge - Patrice Jaye Eichman,,No,,177,40,137
+Grundy,PRECINCT 7,District 1B Associate Judge - Patrice Jaye Eichman,,No,,148,62,86
+Grundy,PRECINCT 1,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,378,121,257
+Grundy,PRECINCT 2,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,168,70,98
+Grundy,PRECINCT 3,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,388,96,292
+Grundy,PRECINCT 4,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,245,73,172
+Grundy,PRECINCT 5,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,648,161,487
+Grundy,PRECINCT 6,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,649,179,470
+Grundy,PRECINCT 7,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,616,191,425
+Grundy,PRECINCT 1,District 1B Judge - Joel A. Dalrymple,,No,,140,39,101
+Grundy,PRECINCT 2,District 1B Judge - Joel A. Dalrymple,,No,,44,23,21
+Grundy,PRECINCT 3,District 1B Judge - Joel A. Dalrymple,,No,,140,22,118
+Grundy,PRECINCT 4,District 1B Judge - Joel A. Dalrymple,,No,,82,30,52
+Grundy,PRECINCT 5,District 1B Judge - Joel A. Dalrymple,,No,,198,54,144
+Grundy,PRECINCT 6,District 1B Judge - Joel A. Dalrymple,,No,,180,46,134
+Grundy,PRECINCT 7,District 1B Judge - Joel A. Dalrymple,,No,,141,60,81
+Grundy,PRECINCT 1,District 1B Judge - Joel A. Dalrymple,,Yes,,374,113,261
+Grundy,PRECINCT 2,District 1B Judge - Joel A. Dalrymple,,Yes,,173,69,104
+Grundy,PRECINCT 3,District 1B Judge - Joel A. Dalrymple,,Yes,,411,104,307
+Grundy,PRECINCT 4,District 1B Judge - Joel A. Dalrymple,,Yes,,252,68,184
+Grundy,PRECINCT 5,District 1B Judge - Joel A. Dalrymple,,Yes,,663,159,504
+Grundy,PRECINCT 6,District 1B Judge - Joel A. Dalrymple,,Yes,,679,187,492
+Grundy,PRECINCT 7,District 1B Judge - Joel A. Dalrymple,,Yes,,642,207,435
+Grundy,PRECINCT 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,341,117,224
+Grundy,PRECINCT 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,128,71,57
+Grundy,PRECINCT 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,218,64,154
+Grundy,PRECINCT 4,Governor,,Rob Sand and Dave Muhlbauer,DEM,136,58,78
+Grundy,PRECINCT 5,Governor,,Rob Sand and Dave Muhlbauer,DEM,536,169,367
+Grundy,PRECINCT 6,Governor,,Rob Sand and Dave Muhlbauer,DEM,495,165,330
+Grundy,PRECINCT 7,Governor,,Rob Sand and Dave Muhlbauer,DEM,517,246,271
+Grundy,PRECINCT 1,Governor,,Write-In,,0,0,0
+Grundy,PRECINCT 2,Governor,,Write-In,,3,1,2
+Grundy,PRECINCT 3,Governor,,Write-In,,3,2,1
+Grundy,PRECINCT 4,Governor,,Write-In,,0,0,0
+Grundy,PRECINCT 5,Governor,,Write-In,,2,0,2
+Grundy,PRECINCT 6,Governor,,Write-In,,5,0,5
+Grundy,PRECINCT 7,Governor,,Write-In,,1,0,1
+Grundy,PRECINCT 1,Governor,,Zach Lahn and Derek Wulf,REP,439,107,332
+Grundy,PRECINCT 2,Governor,,Zach Lahn and Derek Wulf,REP,198,76,122
+Grundy,PRECINCT 3,Governor,,Zach Lahn and Derek Wulf,REP,494,101,393
+Grundy,PRECINCT 4,Governor,,Zach Lahn and Derek Wulf,REP,327,84,243
+Grundy,PRECINCT 5,Governor,,Zach Lahn and Derek Wulf,REP,672,144,528
+Grundy,PRECINCT 6,Governor,,Zach Lahn and Derek Wulf,REP,728,188,540
+Grundy,PRECINCT 7,Governor,,Zach Lahn and Derek Wulf,REP,571,179,392
+Grundy,PRECINCT 1,Secretary of Agriculture,,Chris Jones,DEM,222,83,139
+Grundy,PRECINCT 2,Secretary of Agriculture,,Chris Jones,DEM,79,45,34
+Grundy,PRECINCT 3,Secretary of Agriculture,,Chris Jones,DEM,128,32,96
+Grundy,PRECINCT 4,Secretary of Agriculture,,Chris Jones,DEM,98,46,52
+Grundy,PRECINCT 5,Secretary of Agriculture,,Chris Jones,DEM,376,123,253
+Grundy,PRECINCT 6,Secretary of Agriculture,,Chris Jones,DEM,347,113,234
+Grundy,PRECINCT 7,Secretary of Agriculture,,Chris Jones,DEM,367,176,191
+Grundy,PRECINCT 1,Secretary of Agriculture,,Mike Naig,REP,540,136,404
+Grundy,PRECINCT 2,Secretary of Agriculture,,Mike Naig,REP,246,101,145
+Grundy,PRECINCT 3,Secretary of Agriculture,,Mike Naig,REP,579,133,446
+Grundy,PRECINCT 4,Secretary of Agriculture,,Mike Naig,REP,361,94,267
+Grundy,PRECINCT 5,Secretary of Agriculture,,Mike Naig,REP,805,186,619
+Grundy,PRECINCT 6,Secretary of Agriculture,,Mike Naig,REP,848,229,619
+Grundy,PRECINCT 7,Secretary of Agriculture,,Mike Naig,REP,702,236,466
+Grundy,PRECINCT 1,Secretary of Agriculture,,Write-In,,0,0,0
+Grundy,PRECINCT 2,Secretary of Agriculture,,Write-In,,0,0,0
+Grundy,PRECINCT 3,Secretary of Agriculture,,Write-In,,1,0,1
+Grundy,PRECINCT 4,Secretary of Agriculture,,Write-In,,1,1,0
+Grundy,PRECINCT 5,Secretary of Agriculture,,Write-In,,0,0,0
+Grundy,PRECINCT 6,Secretary of Agriculture,,Write-In,,1,0,1
+Grundy,PRECINCT 7,Secretary of Agriculture,,Write-In,,2,0,2
+Grundy,PRECINCT 1,Secretary of State,,Paul D. Pate,REP,531,130,401
+Grundy,PRECINCT 2,Secretary of State,,Paul D. Pate,REP,239,94,145
+Grundy,PRECINCT 3,Secretary of State,,Paul D. Pate,REP,580,137,443
+Grundy,PRECINCT 4,Secretary of State,,Paul D. Pate,REP,362,95,267
+Grundy,PRECINCT 5,Secretary of State,,Paul D. Pate,REP,788,177,611
+Grundy,PRECINCT 6,Secretary of State,,Paul D. Pate,REP,849,225,624
+Grundy,PRECINCT 7,Secretary of State,,Paul D. Pate,REP,695,228,467
+Grundy,PRECINCT 1,Secretary of State,,Ryan Peterman,DEM,238,93,145
+Grundy,PRECINCT 2,Secretary of State,,Ryan Peterman,DEM,89,53,36
+Grundy,PRECINCT 3,Secretary of State,,Ryan Peterman,DEM,124,27,97
+Grundy,PRECINCT 4,Secretary of State,,Ryan Peterman,DEM,96,45,51
+Grundy,PRECINCT 5,Secretary of State,,Ryan Peterman,DEM,394,132,262
+Grundy,PRECINCT 6,Secretary of State,,Ryan Peterman,DEM,353,120,233
+Grundy,PRECINCT 7,Secretary of State,,Ryan Peterman,DEM,385,191,194
+Grundy,PRECINCT 1,Secretary of State,,Write-In,,0,0,0
+Grundy,PRECINCT 2,Secretary of State,,Write-In,,0,0,0
+Grundy,PRECINCT 3,Secretary of State,,Write-In,,2,1,1
+Grundy,PRECINCT 4,Secretary of State,,Write-In,,1,1,0
+Grundy,PRECINCT 5,Secretary of State,,Write-In,,0,0,0
+Grundy,PRECINCT 6,Secretary of State,,Write-In,,2,1,1
+Grundy,PRECINCT 7,Secretary of State,,Write-In,,1,0,1
+Grundy,PRECINCT 1,Soil and Water Conservation District Commissioner,,Write-In,,35,8,27
+Grundy,PRECINCT 2,Soil and Water Conservation District Commissioner,,Write-In,,36,12,24
+Grundy,PRECINCT 3,Soil and Water Conservation District Commissioner,,Write-In,,79,4,75
+Grundy,PRECINCT 4,Soil and Water Conservation District Commissioner,,Write-In,,58,18,40
+Grundy,PRECINCT 5,Soil and Water Conservation District Commissioner,,Write-In,,78,21,57
+Grundy,PRECINCT 6,Soil and Water Conservation District Commissioner,,Write-In,,108,21,87
+Grundy,PRECINCT 7,Soil and Water Conservation District Commissioner,,Write-In,,89,32,57
+Grundy,PRECINCT 1,State House,54,Joshua Meggers,REP,497,118,379
+Grundy,PRECINCT 2,State House,54,Joshua Meggers,REP,227,84,143
+Grundy,PRECINCT 3,State House,54,Joshua Meggers,REP,559,126,433
+Grundy,PRECINCT 4,State House,54,Joshua Meggers,REP,357,91,266
+Grundy,PRECINCT 5,State House,54,Joshua Meggers,REP,747,173,574
+Grundy,PRECINCT 6,State House,54,Joshua Meggers,REP,810,211,599
+Grundy,PRECINCT 7,State House,54,Joshua Meggers,REP,666,215,451
+Grundy,PRECINCT 1,State House,54,Leila Ann Staton,DEM,256,99,157
+Grundy,PRECINCT 2,State House,54,Leila Ann Staton,DEM,93,57,36
+Grundy,PRECINCT 3,State House,54,Leila Ann Staton,DEM,142,36,106
+Grundy,PRECINCT 4,State House,54,Leila Ann Staton,DEM,100,47,53
+Grundy,PRECINCT 5,State House,54,Leila Ann Staton,DEM,425,135,290
+Grundy,PRECINCT 6,State House,54,Leila Ann Staton,DEM,375,128,247
+Grundy,PRECINCT 7,State House,54,Leila Ann Staton,DEM,401,197,204
+Grundy,PRECINCT 1,State House,54,Write-In,,0,0,0
+Grundy,PRECINCT 2,State House,54,Write-In,,0,0,0
+Grundy,PRECINCT 3,State House,54,Write-In,,1,0,1
+Grundy,PRECINCT 4,State House,54,Write-In,,0,0,0
+Grundy,PRECINCT 5,State House,54,Write-In,,1,1,0
+Grundy,PRECINCT 6,State House,54,Write-In,,3,0,3
+Grundy,PRECINCT 7,State House,54,Write-In,,3,2,1
+Grundy,PRECINCT 1,State Senate,27,Annette Sweeney,REP,591,153,438
+Grundy,PRECINCT 2,State Senate,27,Annette Sweeney,REP,245,93,152
+Grundy,PRECINCT 3,State Senate,27,Annette Sweeney,REP,597,131,466
+Grundy,PRECINCT 4,State Senate,27,Annette Sweeney,REP,374,101,273
+Grundy,PRECINCT 5,State Senate,27,Annette Sweeney,REP,893,210,683
+Grundy,PRECINCT 6,State Senate,27,Annette Sweeney,REP,862,233,629
+Grundy,PRECINCT 7,State Senate,27,Annette Sweeney,REP,764,242,522
+Grundy,PRECINCT 1,State Senate,27,Write-In,,16,4,12
+Grundy,PRECINCT 2,State Senate,27,Write-In,,6,3,3
+Grundy,PRECINCT 3,State Senate,27,Write-In,,14,0,14
+Grundy,PRECINCT 4,State Senate,27,Write-In,,11,7,4
+Grundy,PRECINCT 5,State Senate,27,Write-In,,33,6,27
+Grundy,PRECINCT 6,State Senate,27,Write-In,,135,30,105
+Grundy,PRECINCT 7,State Senate,27,Write-In,,38,23,15
+Grundy,PRECINCT 1,Treasurer of State,,John Norwood,DEM,273,103,170
+Grundy,PRECINCT 2,Treasurer of State,,John Norwood,DEM,103,57,46
+Grundy,PRECINCT 3,Treasurer of State,,John Norwood,DEM,148,34,114
+Grundy,PRECINCT 4,Treasurer of State,,John Norwood,DEM,110,52,58
+Grundy,PRECINCT 5,Treasurer of State,,John Norwood,DEM,421,137,284
+Grundy,PRECINCT 6,Treasurer of State,,John Norwood,DEM,384,133,251
+Grundy,PRECINCT 7,Treasurer of State,,John Norwood,DEM,422,208,214
+Grundy,PRECINCT 1,Treasurer of State,,Roby Smith,REP,490,118,372
+Grundy,PRECINCT 2,Treasurer of State,,Roby Smith,REP,215,84,131
+Grundy,PRECINCT 3,Treasurer of State,,Roby Smith,REP,547,125,422
+Grundy,PRECINCT 4,Treasurer of State,,Roby Smith,REP,342,87,255
+Grundy,PRECINCT 5,Treasurer of State,,Roby Smith,REP,735,164,571
+Grundy,PRECINCT 6,Treasurer of State,,Roby Smith,REP,800,209,591
+Grundy,PRECINCT 7,Treasurer of State,,Roby Smith,REP,630,196,434
+Grundy,PRECINCT 1,Treasurer of State,,Write-In,,0,0,0
+Grundy,PRECINCT 2,Treasurer of State,,Write-In,,1,0,1
+Grundy,PRECINCT 3,Treasurer of State,,Write-In,,1,0,1
+Grundy,PRECINCT 4,Treasurer of State,,Write-In,,1,1,0
+Grundy,PRECINCT 5,Treasurer of State,,Write-In,,1,0,1
+Grundy,PRECINCT 6,Treasurer of State,,Write-In,,1,0,1
+Grundy,PRECINCT 7,Treasurer of State,,Write-In,,1,0,1
+Grundy,PRECINCT 1,U.S. House,2,Dave Bushaw,,10,3,7
+Grundy,PRECINCT 2,U.S. House,2,Dave Bushaw,,4,3,1
+Grundy,PRECINCT 3,U.S. House,2,Dave Bushaw,,4,0,4
+Grundy,PRECINCT 4,U.S. House,2,Dave Bushaw,,2,0,2
+Grundy,PRECINCT 5,U.S. House,2,Dave Bushaw,,14,1,13
+Grundy,PRECINCT 6,U.S. House,2,Dave Bushaw,,24,4,20
+Grundy,PRECINCT 7,U.S. House,2,Dave Bushaw,,15,3,12
+Grundy,PRECINCT 1,U.S. House,2,Joe Mitchell,REP,466,115,351
+Grundy,PRECINCT 2,U.S. House,2,Joe Mitchell,REP,210,81,129
+Grundy,PRECINCT 3,U.S. House,2,Joe Mitchell,REP,529,118,411
+Grundy,PRECINCT 4,U.S. House,2,Joe Mitchell,REP,335,83,252
+Grundy,PRECINCT 5,U.S. House,2,Joe Mitchell,REP,717,162,555
+Grundy,PRECINCT 6,U.S. House,2,Joe Mitchell,REP,757,196,561
+Grundy,PRECINCT 7,U.S. House,2,Joe Mitchell,REP,614,200,414
+Grundy,PRECINCT 1,U.S. House,2,Lindsay James,DEM,250,96,154
+Grundy,PRECINCT 2,U.S. House,2,Lindsay James,DEM,103,59,44
+Grundy,PRECINCT 3,U.S. House,2,Lindsay James,DEM,148,36,112
+Grundy,PRECINCT 4,U.S. House,2,Lindsay James,DEM,111,54,57
+Grundy,PRECINCT 5,U.S. House,2,Lindsay James,DEM,417,143,274
+Grundy,PRECINCT 6,U.S. House,2,Lindsay James,DEM,372,134,238
+Grundy,PRECINCT 7,U.S. House,2,Lindsay James,DEM,404,203,201
+Grundy,PRECINCT 1,U.S. House,2,Rick Stewart,LIB,40,8,32
+Grundy,PRECINCT 2,U.S. House,2,Rick Stewart,LIB,7,3,4
+Grundy,PRECINCT 3,U.S. House,2,Rick Stewart,LIB,14,3,11
+Grundy,PRECINCT 4,U.S. House,2,Rick Stewart,LIB,12,4,8
+Grundy,PRECINCT 5,U.S. House,2,Rick Stewart,LIB,38,3,35
+Grundy,PRECINCT 6,U.S. House,2,Rick Stewart,LIB,43,7,36
+Grundy,PRECINCT 7,U.S. House,2,Rick Stewart,LIB,37,9,28
+Grundy,PRECINCT 1,U.S. House,2,Write-In,,0,0,0
+Grundy,PRECINCT 2,U.S. House,2,Write-In,,0,0,0
+Grundy,PRECINCT 3,U.S. House,2,Write-In,,1,0,1
+Grundy,PRECINCT 4,U.S. House,2,Write-In,,0,0,0
+Grundy,PRECINCT 5,U.S. House,2,Write-In,,1,0,1
+Grundy,PRECINCT 6,U.S. House,2,Write-In,,3,0,3
+Grundy,PRECINCT 7,U.S. House,2,Write-In,,0,0,0
+Grundy,PRECINCT 1,U.S. Senate,,Ashley Hinson,REP,465,115,350
+Grundy,PRECINCT 2,U.S. Senate,,Ashley Hinson,REP,206,74,132
+Grundy,PRECINCT 3,U.S. Senate,,Ashley Hinson,REP,533,118,415
+Grundy,PRECINCT 4,U.S. Senate,,Ashley Hinson,REP,339,88,251
+Grundy,PRECINCT 5,U.S. Senate,,Ashley Hinson,REP,724,162,562
+Grundy,PRECINCT 6,U.S. Senate,,Ashley Hinson,REP,768,198,570
+Grundy,PRECINCT 7,U.S. Senate,,Ashley Hinson,REP,605,196,409
+Grundy,PRECINCT 1,U.S. Senate,,Josh Turek,DEM,282,102,180
+Grundy,PRECINCT 2,U.S. Senate,,Josh Turek,DEM,113,70,43
+Grundy,PRECINCT 3,U.S. Senate,,Josh Turek,DEM,162,44,118
+Grundy,PRECINCT 4,U.S. Senate,,Josh Turek,DEM,113,53,60
+Grundy,PRECINCT 5,U.S. Senate,,Josh Turek,DEM,442,141,301
+Grundy,PRECINCT 6,U.S. Senate,,Josh Turek,DEM,402,143,259
+Grundy,PRECINCT 7,U.S. Senate,,Josh Turek,DEM,438,214,224
+Grundy,PRECINCT 1,U.S. Senate,,Thomas Laehn,LIB,29,5,24
+Grundy,PRECINCT 2,U.S. Senate,,Thomas Laehn,LIB,9,5,4
+Grundy,PRECINCT 3,U.S. Senate,,Thomas Laehn,LIB,15,2,13
+Grundy,PRECINCT 4,U.S. Senate,,Thomas Laehn,LIB,11,1,10
+Grundy,PRECINCT 5,U.S. Senate,,Thomas Laehn,LIB,35,7,28
+Grundy,PRECINCT 6,U.S. Senate,,Thomas Laehn,LIB,46,6,40
+Grundy,PRECINCT 7,U.S. Senate,,Thomas Laehn,LIB,38,14,24
+Grundy,PRECINCT 1,U.S. Senate,,Write-In,,0,0,0
+Grundy,PRECINCT 2,U.S. Senate,,Write-In,,0,0,0
+Grundy,PRECINCT 3,U.S. Senate,,Write-In,,0,0,0
+Grundy,PRECINCT 4,U.S. Senate,,Write-In,,0,0,0
+Grundy,PRECINCT 5,U.S. Senate,,Write-In,,1,0,1
+Grundy,PRECINCT 6,U.S. Senate,,Write-In,,2,0,2
+Grundy,PRECINCT 7,U.S. Senate,,Write-In,,2,0,2

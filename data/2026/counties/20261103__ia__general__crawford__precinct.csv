@@ -1,0 +1,571 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Crawford,Charter Oak,Attorney General,,Brenna Bird,REP,268,53,215
+Crawford,DCAB Precinct,Attorney General,,Brenna Bird,REP,329,65,264
+Crawford,Denison 1st Ward,Attorney General,,Brenna Bird,REP,265,125,140
+Crawford,Denison 2nd Ward / Denison TWP,Attorney General,,Brenna Bird,REP,335,161,174
+Crawford,Denison 3rd Ward / Goodrich TWP,Attorney General,,Brenna Bird,REP,520,244,276
+Crawford,Northeast Precinct,Attorney General,,Brenna Bird,REP,428,120,308
+Crawford,SRK Precinct,Attorney General,,Brenna Bird,REP,418,88,330
+Crawford,Southeast Precinct,Attorney General,,Brenna Bird,REP,506,128,378
+Crawford,Charter Oak,Attorney General,,Nate Willems,DEM,95,28,67
+Crawford,DCAB Precinct,Attorney General,,Nate Willems,DEM,145,52,93
+Crawford,Denison 1st Ward,Attorney General,,Nate Willems,DEM,330,189,141
+Crawford,Denison 2nd Ward / Denison TWP,Attorney General,,Nate Willems,DEM,341,185,156
+Crawford,Denison 3rd Ward / Goodrich TWP,Attorney General,,Nate Willems,DEM,376,206,170
+Crawford,Northeast Precinct,Attorney General,,Nate Willems,DEM,177,61,116
+Crawford,SRK Precinct,Attorney General,,Nate Willems,DEM,162,37,125
+Crawford,Southeast Precinct,Attorney General,,Nate Willems,DEM,185,70,115
+Crawford,Charter Oak,Attorney General,,Write-In,,0,0,0
+Crawford,DCAB Precinct,Attorney General,,Write-In,,0,0,0
+Crawford,Denison 1st Ward,Attorney General,,Write-In,,3,0,3
+Crawford,Denison 2nd Ward / Denison TWP,Attorney General,,Write-In,,0,0,0
+Crawford,Denison 3rd Ward / Goodrich TWP,Attorney General,,Write-In,,1,0,1
+Crawford,Northeast Precinct,Attorney General,,Write-In,,0,0,0
+Crawford,SRK Precinct,Attorney General,,Write-In,,0,0,0
+Crawford,Southeast Precinct,Attorney General,,Write-In,,1,1,0
+Crawford,Charter Oak,Auditor of State,,Chris Cournoyer,REP,268,48,220
+Crawford,DCAB Precinct,Auditor of State,,Chris Cournoyer,REP,336,65,271
+Crawford,Denison 1st Ward,Auditor of State,,Chris Cournoyer,REP,265,125,140
+Crawford,Denison 2nd Ward / Denison TWP,Auditor of State,,Chris Cournoyer,REP,341,162,179
+Crawford,Denison 3rd Ward / Goodrich TWP,Auditor of State,,Chris Cournoyer,REP,519,228,291
+Crawford,Northeast Precinct,Auditor of State,,Chris Cournoyer,REP,431,111,320
+Crawford,SRK Precinct,Auditor of State,,Chris Cournoyer,REP,415,83,332
+Crawford,Southeast Precinct,Auditor of State,,Chris Cournoyer,REP,507,128,379
+Crawford,Charter Oak,Auditor of State,,Taylor Wettach,DEM,86,30,56
+Crawford,DCAB Precinct,Auditor of State,,Taylor Wettach,DEM,139,52,87
+Crawford,Denison 1st Ward,Auditor of State,,Taylor Wettach,DEM,324,186,138
+Crawford,Denison 2nd Ward / Denison TWP,Auditor of State,,Taylor Wettach,DEM,336,184,152
+Crawford,Denison 3rd Ward / Goodrich TWP,Auditor of State,,Taylor Wettach,DEM,357,207,150
+Crawford,Northeast Precinct,Auditor of State,,Taylor Wettach,DEM,162,64,98
+Crawford,SRK Precinct,Auditor of State,,Taylor Wettach,DEM,158,45,113
+Crawford,Southeast Precinct,Auditor of State,,Taylor Wettach,DEM,177,66,111
+Crawford,Charter Oak,Auditor of State,,Write-In,,0,0,0
+Crawford,DCAB Precinct,Auditor of State,,Write-In,,0,0,0
+Crawford,Denison 1st Ward,Auditor of State,,Write-In,,4,2,2
+Crawford,Denison 2nd Ward / Denison TWP,Auditor of State,,Write-In,,0,0,0
+Crawford,Denison 3rd Ward / Goodrich TWP,Auditor of State,,Write-In,,2,1,1
+Crawford,Northeast Precinct,Auditor of State,,Write-In,,0,0,0
+Crawford,SRK Precinct,Auditor of State,,Write-In,,0,0,0
+Crawford,Southeast Precinct,Auditor of State,,Write-In,,0,0,0
+Crawford,DCAB Precinct,Boyer Township Clerk,,Write-In,,8,4,4
+Crawford,DCAB Precinct,Boyer Township Trustee,,Write-In,,18,6,12
+Crawford,Charter Oak,Constitutional Amendment 1,,No,,105,29,76
+Crawford,DCAB Precinct,Constitutional Amendment 1,,No,,131,28,103
+Crawford,Denison 1st Ward,Constitutional Amendment 1,,No,,209,117,92
+Crawford,Denison 2nd Ward / Denison TWP,Constitutional Amendment 1,,No,,225,117,108
+Crawford,Denison 3rd Ward / Goodrich TWP,Constitutional Amendment 1,,No,,276,151,125
+Crawford,Northeast Precinct,Constitutional Amendment 1,,No,,180,58,122
+Crawford,SRK Precinct,Constitutional Amendment 1,,No,,158,34,124
+Crawford,Southeast Precinct,Constitutional Amendment 1,,No,,222,69,153
+Crawford,Charter Oak,Constitutional Amendment 1,,Yes,,221,42,179
+Crawford,DCAB Precinct,Constitutional Amendment 1,,Yes,,290,78,212
+Crawford,Denison 1st Ward,Constitutional Amendment 1,,Yes,,316,161,155
+Crawford,Denison 2nd Ward / Denison TWP,Constitutional Amendment 1,,Yes,,385,198,187
+Crawford,Denison 3rd Ward / Goodrich TWP,Constitutional Amendment 1,,Yes,,511,240,271
+Crawford,Northeast Precinct,Constitutional Amendment 1,,Yes,,346,109,237
+Crawford,SRK Precinct,Constitutional Amendment 1,,Yes,,323,77,246
+Crawford,Southeast Precinct,Constitutional Amendment 1,,Yes,,382,113,269
+Crawford,Charter Oak,County Agricultural Extension Council Member,,Alexis Miller,,231,49,182
+Crawford,DCAB Precinct,County Agricultural Extension Council Member,,Alexis Miller,,282,69,213
+Crawford,Denison 1st Ward,County Agricultural Extension Council Member,,Alexis Miller,,298,139,159
+Crawford,Denison 2nd Ward / Denison TWP,County Agricultural Extension Council Member,,Alexis Miller,,316,156,160
+Crawford,Denison 3rd Ward / Goodrich TWP,County Agricultural Extension Council Member,,Alexis Miller,,482,236,246
+Crawford,Northeast Precinct,County Agricultural Extension Council Member,,Alexis Miller,,319,100,219
+Crawford,SRK Precinct,County Agricultural Extension Council Member,,Alexis Miller,,301,69,232
+Crawford,Southeast Precinct,County Agricultural Extension Council Member,,Alexis Miller,,352,99,253
+Crawford,Charter Oak,County Agricultural Extension Council Member,,Carolyn Boeck,,252,52,200
+Crawford,DCAB Precinct,County Agricultural Extension Council Member,,Carolyn Boeck,,319,79,240
+Crawford,Denison 1st Ward,County Agricultural Extension Council Member,,Carolyn Boeck,,371,184,187
+Crawford,Denison 2nd Ward / Denison TWP,County Agricultural Extension Council Member,,Carolyn Boeck,,417,216,201
+Crawford,Denison 3rd Ward / Goodrich TWP,County Agricultural Extension Council Member,,Carolyn Boeck,,648,318,330
+Crawford,Northeast Precinct,County Agricultural Extension Council Member,,Carolyn Boeck,,390,123,267
+Crawford,SRK Precinct,County Agricultural Extension Council Member,,Carolyn Boeck,,390,79,311
+Crawford,Southeast Precinct,County Agricultural Extension Council Member,,Carolyn Boeck,,433,132,301
+Crawford,Charter Oak,County Agricultural Extension Council Member,,Christy Welch,,213,44,169
+Crawford,DCAB Precinct,County Agricultural Extension Council Member,,Christy Welch,,269,68,201
+Crawford,Denison 1st Ward,County Agricultural Extension Council Member,,Christy Welch,,310,152,158
+Crawford,Denison 2nd Ward / Denison TWP,County Agricultural Extension Council Member,,Christy Welch,,318,158,160
+Crawford,Denison 3rd Ward / Goodrich TWP,County Agricultural Extension Council Member,,Christy Welch,,517,254,263
+Crawford,Northeast Precinct,County Agricultural Extension Council Member,,Christy Welch,,347,109,238
+Crawford,SRK Precinct,County Agricultural Extension Council Member,,Christy Welch,,297,65,232
+Crawford,Southeast Precinct,County Agricultural Extension Council Member,,Christy Welch,,357,102,255
+Crawford,Charter Oak,County Agricultural Extension Council Member,,Collette Huntley,,238,51,187
+Crawford,DCAB Precinct,County Agricultural Extension Council Member,,Collette Huntley,,276,71,205
+Crawford,Denison 1st Ward,County Agricultural Extension Council Member,,Collette Huntley,,343,173,170
+Crawford,Denison 2nd Ward / Denison TWP,County Agricultural Extension Council Member,,Collette Huntley,,370,189,181
+Crawford,Denison 3rd Ward / Goodrich TWP,County Agricultural Extension Council Member,,Collette Huntley,,559,267,292
+Crawford,Northeast Precinct,County Agricultural Extension Council Member,,Collette Huntley,,426,123,303
+Crawford,SRK Precinct,County Agricultural Extension Council Member,,Collette Huntley,,307,75,232
+Crawford,Southeast Precinct,County Agricultural Extension Council Member,,Collette Huntley,,389,123,266
+Crawford,Charter Oak,County Agricultural Extension Council Member,,Sophie Sonnichsen,,276,58,218
+Crawford,DCAB Precinct,County Agricultural Extension Council Member,,Sophie Sonnichsen,,311,78,233
+Crawford,Denison 1st Ward,County Agricultural Extension Council Member,,Sophie Sonnichsen,,395,199,196
+Crawford,Denison 2nd Ward / Denison TWP,County Agricultural Extension Council Member,,Sophie Sonnichsen,,416,205,211
+Crawford,Denison 3rd Ward / Goodrich TWP,County Agricultural Extension Council Member,,Sophie Sonnichsen,,597,282,315
+Crawford,Northeast Precinct,County Agricultural Extension Council Member,,Sophie Sonnichsen,,391,125,266
+Crawford,SRK Precinct,County Agricultural Extension Council Member,,Sophie Sonnichsen,,408,83,325
+Crawford,Southeast Precinct,County Agricultural Extension Council Member,,Sophie Sonnichsen,,424,126,298
+Crawford,Charter Oak,County Agricultural Extension Council Member,,Write-In,,3,1,2
+Crawford,DCAB Precinct,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Crawford,Denison 1st Ward,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Crawford,Denison 2nd Ward / Denison TWP,County Agricultural Extension Council Member,,Write-In,,9,2,7
+Crawford,Denison 3rd Ward / Goodrich TWP,County Agricultural Extension Council Member,,Write-In,,11,6,5
+Crawford,Northeast Precinct,County Agricultural Extension Council Member,,Write-In,,5,1,4
+Crawford,SRK Precinct,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Crawford,Southeast Precinct,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Crawford,Charter Oak,County Attorney,,Colin Johnson,DEM,232,51,181
+Crawford,DCAB Precinct,County Attorney,,Colin Johnson,DEM,313,87,226
+Crawford,Denison 1st Ward,County Attorney,,Colin Johnson,DEM,485,252,233
+Crawford,Denison 2nd Ward / Denison TWP,County Attorney,,Colin Johnson,DEM,511,262,249
+Crawford,Denison 3rd Ward / Goodrich TWP,County Attorney,,Colin Johnson,DEM,647,310,337
+Crawford,Northeast Precinct,County Attorney,,Colin Johnson,DEM,392,119,273
+Crawford,SRK Precinct,County Attorney,,Colin Johnson,DEM,381,83,298
+Crawford,Southeast Precinct,County Attorney,,Colin Johnson,DEM,423,123,300
+Crawford,Charter Oak,County Attorney,,Write-In,,7,3,4
+Crawford,DCAB Precinct,County Attorney,,Write-In,,5,0,5
+Crawford,Denison 1st Ward,County Attorney,,Write-In,,9,1,8
+Crawford,Denison 2nd Ward / Denison TWP,County Attorney,,Write-In,,5,2,3
+Crawford,Denison 3rd Ward / Goodrich TWP,County Attorney,,Write-In,,14,3,11
+Crawford,Northeast Precinct,County Attorney,,Write-In,,14,4,10
+Crawford,SRK Precinct,County Attorney,,Write-In,,8,3,5
+Crawford,Southeast Precinct,County Attorney,,Write-In,,15,4,11
+Crawford,Charter Oak,County Board of Supervisors,,Brian J. Rank,REP,257,59,198
+Crawford,DCAB Precinct,County Board of Supervisors,,Brian J. Rank,REP,311,69,242
+Crawford,Denison 1st Ward,County Board of Supervisors,,Brian J. Rank,REP,260,130,130
+Crawford,Denison 2nd Ward / Denison TWP,County Board of Supervisors,,Brian J. Rank,REP,314,158,156
+Crawford,Denison 3rd Ward / Goodrich TWP,County Board of Supervisors,,Brian J. Rank,REP,495,232,263
+Crawford,Northeast Precinct,County Board of Supervisors,,Brian J. Rank,REP,394,117,277
+Crawford,SRK Precinct,County Board of Supervisors,,Brian J. Rank,REP,396,77,319
+Crawford,Southeast Precinct,County Board of Supervisors,,Brian J. Rank,REP,435,118,317
+Crawford,Charter Oak,County Board of Supervisors,,Craig Dozark,REP,227,45,182
+Crawford,DCAB Precinct,County Board of Supervisors,,Craig Dozark,REP,323,75,248
+Crawford,Denison 1st Ward,County Board of Supervisors,,Craig Dozark,REP,311,150,161
+Crawford,Denison 2nd Ward / Denison TWP,County Board of Supervisors,,Craig Dozark,REP,365,188,177
+Crawford,Denison 3rd Ward / Goodrich TWP,County Board of Supervisors,,Craig Dozark,REP,568,265,303
+Crawford,Northeast Precinct,County Board of Supervisors,,Craig Dozark,REP,435,123,312
+Crawford,SRK Precinct,County Board of Supervisors,,Craig Dozark,REP,380,89,291
+Crawford,Southeast Precinct,County Board of Supervisors,,Craig Dozark,REP,501,141,360
+Crawford,Charter Oak,County Board of Supervisors,,Dan Mundt,DEM,117,35,82
+Crawford,DCAB Precinct,County Board of Supervisors,,Dan Mundt,DEM,172,55,117
+Crawford,Denison 1st Ward,County Board of Supervisors,,Dan Mundt,DEM,354,201,153
+Crawford,Denison 2nd Ward / Denison TWP,County Board of Supervisors,,Dan Mundt,DEM,366,193,173
+Crawford,Denison 3rd Ward / Goodrich TWP,County Board of Supervisors,,Dan Mundt,DEM,420,227,193
+Crawford,Northeast Precinct,County Board of Supervisors,,Dan Mundt,DEM,190,68,122
+Crawford,SRK Precinct,County Board of Supervisors,,Dan Mundt,DEM,189,55,134
+Crawford,Southeast Precinct,County Board of Supervisors,,Dan Mundt,DEM,212,70,142
+Crawford,Charter Oak,County Board of Supervisors,,Kyle R. Schultz,REP,291,57,234
+Crawford,DCAB Precinct,County Board of Supervisors,,Kyle R. Schultz,REP,354,75,279
+Crawford,Denison 1st Ward,County Board of Supervisors,,Kyle R. Schultz,REP,316,151,165
+Crawford,Denison 2nd Ward / Denison TWP,County Board of Supervisors,,Kyle R. Schultz,REP,365,183,182
+Crawford,Denison 3rd Ward / Goodrich TWP,County Board of Supervisors,,Kyle R. Schultz,REP,607,278,329
+Crawford,Northeast Precinct,County Board of Supervisors,,Kyle R. Schultz,REP,463,135,328
+Crawford,SRK Precinct,County Board of Supervisors,,Kyle R. Schultz,REP,468,98,370
+Crawford,Southeast Precinct,County Board of Supervisors,,Kyle R. Schultz,REP,558,157,401
+Crawford,Charter Oak,County Board of Supervisors,,Write-In,,1,1,0
+Crawford,DCAB Precinct,County Board of Supervisors,,Write-In,,8,2,6
+Crawford,Denison 1st Ward,County Board of Supervisors,,Write-In,,12,7,5
+Crawford,Denison 2nd Ward / Denison TWP,County Board of Supervisors,,Write-In,,11,5,6
+Crawford,Denison 3rd Ward / Goodrich TWP,County Board of Supervisors,,Write-In,,9,2,7
+Crawford,Northeast Precinct,County Board of Supervisors,,Write-In,,11,5,6
+Crawford,SRK Precinct,County Board of Supervisors,,Write-In,,8,2,6
+Crawford,Southeast Precinct,County Board of Supervisors,,Write-In,,12,4,8
+Crawford,Charter Oak,County Hospital Trustee,,Jason Mendlik,,237,57,180
+Crawford,DCAB Precinct,County Hospital Trustee,,Jason Mendlik,,279,80,199
+Crawford,Denison 1st Ward,County Hospital Trustee,,Jason Mendlik,,406,212,194
+Crawford,Denison 2nd Ward / Denison TWP,County Hospital Trustee,,Jason Mendlik,,414,213,201
+Crawford,Denison 3rd Ward / Goodrich TWP,County Hospital Trustee,,Jason Mendlik,,634,321,313
+Crawford,Northeast Precinct,County Hospital Trustee,,Jason Mendlik,,345,113,232
+Crawford,SRK Precinct,County Hospital Trustee,,Jason Mendlik,,361,73,288
+Crawford,Southeast Precinct,County Hospital Trustee,,Jason Mendlik,,366,124,242
+Crawford,Charter Oak,County Hospital Trustee,,John Quandt,,251,65,186
+Crawford,DCAB Precinct,County Hospital Trustee,,John Quandt,,311,79,232
+Crawford,Denison 1st Ward,County Hospital Trustee,,John Quandt,,366,192,174
+Crawford,Denison 2nd Ward / Denison TWP,County Hospital Trustee,,John Quandt,,389,195,194
+Crawford,Denison 3rd Ward / Goodrich TWP,County Hospital Trustee,,John Quandt,,621,314,307
+Crawford,Northeast Precinct,County Hospital Trustee,,John Quandt,,367,108,259
+Crawford,SRK Precinct,County Hospital Trustee,,John Quandt,,384,76,308
+Crawford,Southeast Precinct,County Hospital Trustee,,John Quandt,,422,117,305
+Crawford,Charter Oak,County Hospital Trustee,,Rich Knowles,,89,19,70
+Crawford,DCAB Precinct,County Hospital Trustee,,Rich Knowles,,124,24,100
+Crawford,Denison 1st Ward,County Hospital Trustee,,Rich Knowles,,112,49,63
+Crawford,Denison 2nd Ward / Denison TWP,County Hospital Trustee,,Rich Knowles,,157,74,83
+Crawford,Denison 3rd Ward / Goodrich TWP,County Hospital Trustee,,Rich Knowles,,196,81,115
+Crawford,Northeast Precinct,County Hospital Trustee,,Rich Knowles,,186,64,122
+Crawford,SRK Precinct,County Hospital Trustee,,Rich Knowles,,155,32,123
+Crawford,Southeast Precinct,County Hospital Trustee,,Rich Knowles,,193,51,142
+Crawford,Charter Oak,County Hospital Trustee,,Write-In,,2,0,2
+Crawford,DCAB Precinct,County Hospital Trustee,,Write-In,,0,0,0
+Crawford,Denison 1st Ward,County Hospital Trustee,,Write-In,,8,5,3
+Crawford,Denison 2nd Ward / Denison TWP,County Hospital Trustee,,Write-In,,6,4,2
+Crawford,Denison 3rd Ward / Goodrich TWP,County Hospital Trustee,,Write-In,,9,5,4
+Crawford,Northeast Precinct,County Hospital Trustee,,Write-In,,3,1,2
+Crawford,SRK Precinct,County Hospital Trustee,,Write-In,,4,2,2
+Crawford,Southeast Precinct,County Hospital Trustee,,Write-In,,4,0,4
+Crawford,Charter Oak,County Recorder,,Sara Meseck,REP,336,69,267
+Crawford,DCAB Precinct,County Recorder,,Sara Meseck,REP,420,99,321
+Crawford,Denison 1st Ward,County Recorder,,Sara Meseck,REP,474,235,239
+Crawford,Denison 2nd Ward / Denison TWP,County Recorder,,Sara Meseck,REP,525,260,265
+Crawford,Denison 3rd Ward / Goodrich TWP,County Recorder,,Sara Meseck,REP,783,375,408
+Crawford,Northeast Precinct,County Recorder,,Sara Meseck,REP,547,153,394
+Crawford,SRK Precinct,County Recorder,,Sara Meseck,REP,546,111,435
+Crawford,Southeast Precinct,County Recorder,,Sara Meseck,REP,632,173,459
+Crawford,Charter Oak,County Recorder,,Write-In,,0,0,0
+Crawford,DCAB Precinct,County Recorder,,Write-In,,6,4,2
+Crawford,Denison 1st Ward,County Recorder,,Write-In,,4,1,3
+Crawford,Denison 2nd Ward / Denison TWP,County Recorder,,Write-In,,6,3,3
+Crawford,Denison 3rd Ward / Goodrich TWP,County Recorder,,Write-In,,9,4,5
+Crawford,Northeast Precinct,County Recorder,,Write-In,,1,0,1
+Crawford,SRK Precinct,County Recorder,,Write-In,,2,0,2
+Crawford,Southeast Precinct,County Recorder,,Write-In,,0,0,0
+Crawford,Charter Oak,County Treasurer,,Sheri Neddermeyer,REP,316,67,249
+Crawford,DCAB Precinct,County Treasurer,,Sheri Neddermeyer,REP,423,103,320
+Crawford,Denison 1st Ward,County Treasurer,,Sheri Neddermeyer,REP,454,225,229
+Crawford,Denison 2nd Ward / Denison TWP,County Treasurer,,Sheri Neddermeyer,REP,509,251,258
+Crawford,Denison 3rd Ward / Goodrich TWP,County Treasurer,,Sheri Neddermeyer,REP,776,371,405
+Crawford,Northeast Precinct,County Treasurer,,Sheri Neddermeyer,REP,542,157,385
+Crawford,SRK Precinct,County Treasurer,,Sheri Neddermeyer,REP,544,112,432
+Crawford,Southeast Precinct,County Treasurer,,Sheri Neddermeyer,REP,632,167,465
+Crawford,Charter Oak,County Treasurer,,Write-In,,7,2,5
+Crawford,DCAB Precinct,County Treasurer,,Write-In,,11,5,6
+Crawford,Denison 1st Ward,County Treasurer,,Write-In,,12,5,7
+Crawford,Denison 2nd Ward / Denison TWP,County Treasurer,,Write-In,,14,8,6
+Crawford,Denison 3rd Ward / Goodrich TWP,County Treasurer,,Write-In,,11,7,4
+Crawford,Northeast Precinct,County Treasurer,,Write-In,,8,1,7
+Crawford,SRK Precinct,County Treasurer,,Write-In,,6,3,3
+Crawford,Southeast Precinct,County Treasurer,,Write-In,,3,2,1
+Crawford,Charter Oak,Court of Appeals Judge - John M. Sandy,,No,,72,11,61
+Crawford,DCAB Precinct,Court of Appeals Judge - John M. Sandy,,No,,91,19,72
+Crawford,Denison 1st Ward,Court of Appeals Judge - John M. Sandy,,No,,108,56,52
+Crawford,Denison 2nd Ward / Denison TWP,Court of Appeals Judge - John M. Sandy,,No,,125,60,65
+Crawford,Denison 3rd Ward / Goodrich TWP,Court of Appeals Judge - John M. Sandy,,No,,152,72,80
+Crawford,Northeast Precinct,Court of Appeals Judge - John M. Sandy,,No,,98,22,76
+Crawford,SRK Precinct,Court of Appeals Judge - John M. Sandy,,No,,101,22,79
+Crawford,Southeast Precinct,Court of Appeals Judge - John M. Sandy,,No,,107,19,88
+Crawford,Charter Oak,Court of Appeals Judge - John M. Sandy,,Yes,,204,42,162
+Crawford,DCAB Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,271,68,203
+Crawford,Denison 1st Ward,Court of Appeals Judge - John M. Sandy,,Yes,,338,167,171
+Crawford,Denison 2nd Ward / Denison TWP,Court of Appeals Judge - John M. Sandy,,Yes,,392,198,194
+Crawford,Denison 3rd Ward / Goodrich TWP,Court of Appeals Judge - John M. Sandy,,Yes,,481,225,256
+Crawford,Northeast Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,347,108,239
+Crawford,SRK Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,332,66,266
+Crawford,Southeast Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,368,113,255
+Crawford,Charter Oak,Court of Appeals Judge - Julie A. Schumacher,,No,,65,14,51
+Crawford,DCAB Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,87,18,69
+Crawford,Denison 1st Ward,Court of Appeals Judge - Julie A. Schumacher,,No,,87,37,50
+Crawford,Denison 2nd Ward / Denison TWP,Court of Appeals Judge - Julie A. Schumacher,,No,,101,47,54
+Crawford,Denison 3rd Ward / Goodrich TWP,Court of Appeals Judge - Julie A. Schumacher,,No,,118,54,64
+Crawford,Northeast Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,76,19,57
+Crawford,SRK Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,68,13,55
+Crawford,Southeast Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,86,14,72
+Crawford,Charter Oak,Court of Appeals Judge - Julie A. Schumacher,,Yes,,250,51,199
+Crawford,DCAB Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,305,77,228
+Crawford,Denison 1st Ward,Court of Appeals Judge - Julie A. Schumacher,,Yes,,411,221,190
+Crawford,Denison 2nd Ward / Denison TWP,Court of Appeals Judge - Julie A. Schumacher,,Yes,,462,241,221
+Crawford,Denison 3rd Ward / Goodrich TWP,Court of Appeals Judge - Julie A. Schumacher,,Yes,,622,288,334
+Crawford,Northeast Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,401,125,276
+Crawford,SRK Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,442,100,342
+Crawford,Southeast Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,435,137,298
+Crawford,Charter Oak,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,77,15,62
+Crawford,DCAB Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,104,22,82
+Crawford,Denison 1st Ward,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,120,54,66
+Crawford,Denison 2nd Ward / Denison TWP,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,119,55,64
+Crawford,Denison 3rd Ward / Goodrich TWP,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,146,69,77
+Crawford,Northeast Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,108,29,79
+Crawford,SRK Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,100,18,82
+Crawford,Southeast Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,105,25,80
+Crawford,Charter Oak,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,196,40,156
+Crawford,DCAB Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,251,62,189
+Crawford,Denison 1st Ward,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,313,161,152
+Crawford,Denison 2nd Ward / Denison TWP,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,384,194,190
+Crawford,Denison 3rd Ward / Goodrich TWP,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,463,214,249
+Crawford,Northeast Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,328,99,229
+Crawford,SRK Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,312,66,246
+Crawford,Southeast Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,352,103,249
+Crawford,Charter Oak,District 3B Associate Judge - Daniel P. Vakulskas,,No,,83,13,70
+Crawford,DCAB Precinct,District 3B Associate Judge - Daniel P. Vakulskas,,No,,91,17,74
+Crawford,Denison 1st Ward,District 3B Associate Judge - Daniel P. Vakulskas,,No,,125,54,71
+Crawford,Denison 2nd Ward / Denison TWP,District 3B Associate Judge - Daniel P. Vakulskas,,No,,127,58,69
+Crawford,Denison 3rd Ward / Goodrich TWP,District 3B Associate Judge - Daniel P. Vakulskas,,No,,156,72,84
+Crawford,Northeast Precinct,District 3B Associate Judge - Daniel P. Vakulskas,,No,,107,31,76
+Crawford,SRK Precinct,District 3B Associate Judge - Daniel P. Vakulskas,,No,,101,21,80
+Crawford,Southeast Precinct,District 3B Associate Judge - Daniel P. Vakulskas,,No,,113,23,90
+Crawford,Charter Oak,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,181,39,142
+Crawford,DCAB Precinct,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,251,65,186
+Crawford,Denison 1st Ward,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,294,151,143
+Crawford,Denison 2nd Ward / Denison TWP,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,358,180,178
+Crawford,Denison 3rd Ward / Goodrich TWP,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,428,193,235
+Crawford,Northeast Precinct,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,313,94,219
+Crawford,SRK Precinct,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,302,58,244
+Crawford,Southeast Precinct,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,328,98,230
+Crawford,Charter Oak,District 3B Associate Judge - John C. Nelson,,No,,77,13,64
+Crawford,DCAB Precinct,District 3B Associate Judge - John C. Nelson,,No,,88,19,69
+Crawford,Denison 1st Ward,District 3B Associate Judge - John C. Nelson,,No,,118,51,67
+Crawford,Denison 2nd Ward / Denison TWP,District 3B Associate Judge - John C. Nelson,,No,,133,66,67
+Crawford,Denison 3rd Ward / Goodrich TWP,District 3B Associate Judge - John C. Nelson,,No,,143,67,76
+Crawford,Northeast Precinct,District 3B Associate Judge - John C. Nelson,,No,,100,28,72
+Crawford,SRK Precinct,District 3B Associate Judge - John C. Nelson,,No,,88,19,69
+Crawford,Southeast Precinct,District 3B Associate Judge - John C. Nelson,,No,,99,23,76
+Crawford,Charter Oak,District 3B Associate Judge - John C. Nelson,,Yes,,188,39,149
+Crawford,DCAB Precinct,District 3B Associate Judge - John C. Nelson,,Yes,,256,60,196
+Crawford,Denison 1st Ward,District 3B Associate Judge - John C. Nelson,,Yes,,306,158,148
+Crawford,Denison 2nd Ward / Denison TWP,District 3B Associate Judge - John C. Nelson,,Yes,,357,174,183
+Crawford,Denison 3rd Ward / Goodrich TWP,District 3B Associate Judge - John C. Nelson,,Yes,,456,205,251
+Crawford,Northeast Precinct,District 3B Associate Judge - John C. Nelson,,Yes,,321,94,227
+Crawford,SRK Precinct,District 3B Associate Judge - John C. Nelson,,Yes,,323,62,261
+Crawford,Southeast Precinct,District 3B Associate Judge - John C. Nelson,,Yes,,348,99,249
+Crawford,Charter Oak,District 3B Associate Judge - Mark C. Cord,,No,,83,18,65
+Crawford,DCAB Precinct,District 3B Associate Judge - Mark C. Cord,,No,,99,23,76
+Crawford,Denison 1st Ward,District 3B Associate Judge - Mark C. Cord,,No,,123,61,62
+Crawford,Denison 2nd Ward / Denison TWP,District 3B Associate Judge - Mark C. Cord,,No,,127,61,66
+Crawford,Denison 3rd Ward / Goodrich TWP,District 3B Associate Judge - Mark C. Cord,,No,,143,66,77
+Crawford,Northeast Precinct,District 3B Associate Judge - Mark C. Cord,,No,,103,31,72
+Crawford,SRK Precinct,District 3B Associate Judge - Mark C. Cord,,No,,86,18,68
+Crawford,Southeast Precinct,District 3B Associate Judge - Mark C. Cord,,No,,116,27,89
+Crawford,Charter Oak,District 3B Associate Judge - Mark C. Cord,,Yes,,184,35,149
+Crawford,DCAB Precinct,District 3B Associate Judge - Mark C. Cord,,Yes,,251,61,190
+Crawford,Denison 1st Ward,District 3B Associate Judge - Mark C. Cord,,Yes,,301,149,152
+Crawford,Denison 2nd Ward / Denison TWP,District 3B Associate Judge - Mark C. Cord,,Yes,,362,178,184
+Crawford,Denison 3rd Ward / Goodrich TWP,District 3B Associate Judge - Mark C. Cord,,Yes,,454,206,248
+Crawford,Northeast Precinct,District 3B Associate Judge - Mark C. Cord,,Yes,,326,95,231
+Crawford,SRK Precinct,District 3B Associate Judge - Mark C. Cord,,Yes,,322,64,258
+Crawford,Southeast Precinct,District 3B Associate Judge - Mark C. Cord,,Yes,,337,97,240
+Crawford,Charter Oak,District 3B Associate Judge - Melinda Wicks,,No,,73,10,63
+Crawford,DCAB Precinct,District 3B Associate Judge - Melinda Wicks,,No,,101,22,79
+Crawford,Denison 1st Ward,District 3B Associate Judge - Melinda Wicks,,No,,110,49,61
+Crawford,Denison 2nd Ward / Denison TWP,District 3B Associate Judge - Melinda Wicks,,No,,129,60,69
+Crawford,Denison 3rd Ward / Goodrich TWP,District 3B Associate Judge - Melinda Wicks,,No,,144,67,77
+Crawford,Northeast Precinct,District 3B Associate Judge - Melinda Wicks,,No,,97,27,70
+Crawford,SRK Precinct,District 3B Associate Judge - Melinda Wicks,,No,,92,18,74
+Crawford,Southeast Precinct,District 3B Associate Judge - Melinda Wicks,,No,,101,21,80
+Crawford,Charter Oak,District 3B Associate Judge - Melinda Wicks,,Yes,,187,40,147
+Crawford,DCAB Precinct,District 3B Associate Judge - Melinda Wicks,,Yes,,239,60,179
+Crawford,Denison 1st Ward,District 3B Associate Judge - Melinda Wicks,,Yes,,305,156,149
+Crawford,Denison 2nd Ward / Denison TWP,District 3B Associate Judge - Melinda Wicks,,Yes,,353,173,180
+Crawford,Denison 3rd Ward / Goodrich TWP,District 3B Associate Judge - Melinda Wicks,,Yes,,445,201,244
+Crawford,Northeast Precinct,District 3B Associate Judge - Melinda Wicks,,Yes,,322,95,227
+Crawford,SRK Precinct,District 3B Associate Judge - Melinda Wicks,,Yes,,316,64,252
+Crawford,Southeast Precinct,District 3B Associate Judge - Melinda Wicks,,Yes,,341,101,240
+Crawford,Charter Oak,District 3B Judge - Tod J. Deck,,No,,78,12,66
+Crawford,DCAB Precinct,District 3B Judge - Tod J. Deck,,No,,98,22,76
+Crawford,Denison 1st Ward,District 3B Judge - Tod J. Deck,,No,,112,52,60
+Crawford,Denison 2nd Ward / Denison TWP,District 3B Judge - Tod J. Deck,,No,,128,65,63
+Crawford,Denison 3rd Ward / Goodrich TWP,District 3B Judge - Tod J. Deck,,No,,148,71,77
+Crawford,Northeast Precinct,District 3B Judge - Tod J. Deck,,No,,101,27,74
+Crawford,SRK Precinct,District 3B Judge - Tod J. Deck,,No,,98,21,77
+Crawford,Southeast Precinct,District 3B Judge - Tod J. Deck,,No,,105,20,85
+Crawford,Charter Oak,District 3B Judge - Tod J. Deck,,Yes,,190,41,149
+Crawford,DCAB Precinct,District 3B Judge - Tod J. Deck,,Yes,,258,61,197
+Crawford,Denison 1st Ward,District 3B Judge - Tod J. Deck,,Yes,,319,161,158
+Crawford,Denison 2nd Ward / Denison TWP,District 3B Judge - Tod J. Deck,,Yes,,375,188,187
+Crawford,Denison 3rd Ward / Goodrich TWP,District 3B Judge - Tod J. Deck,,Yes,,461,208,253
+Crawford,Northeast Precinct,District 3B Judge - Tod J. Deck,,Yes,,332,102,230
+Crawford,SRK Precinct,District 3B Judge - Tod J. Deck,,Yes,,315,63,252
+Crawford,Southeast Precinct,District 3B Judge - Tod J. Deck,,Yes,,352,106,246
+Crawford,Charter Oak,District 3B Judge - Zachary S. Hindman,,No,,69,12,57
+Crawford,DCAB Precinct,District 3B Judge - Zachary S. Hindman,,No,,94,19,75
+Crawford,Denison 1st Ward,District 3B Judge - Zachary S. Hindman,,No,,116,56,60
+Crawford,Denison 2nd Ward / Denison TWP,District 3B Judge - Zachary S. Hindman,,No,,121,57,64
+Crawford,Denison 3rd Ward / Goodrich TWP,District 3B Judge - Zachary S. Hindman,,No,,149,75,74
+Crawford,Northeast Precinct,District 3B Judge - Zachary S. Hindman,,No,,98,26,72
+Crawford,SRK Precinct,District 3B Judge - Zachary S. Hindman,,No,,90,20,70
+Crawford,Southeast Precinct,District 3B Judge - Zachary S. Hindman,,No,,95,21,74
+Crawford,Charter Oak,District 3B Judge - Zachary S. Hindman,,Yes,,200,41,159
+Crawford,DCAB Precinct,District 3B Judge - Zachary S. Hindman,,Yes,,255,63,192
+Crawford,Denison 1st Ward,District 3B Judge - Zachary S. Hindman,,Yes,,316,160,156
+Crawford,Denison 2nd Ward / Denison TWP,District 3B Judge - Zachary S. Hindman,,Yes,,371,188,183
+Crawford,Denison 3rd Ward / Goodrich TWP,District 3B Judge - Zachary S. Hindman,,Yes,,452,201,251
+Crawford,Northeast Precinct,District 3B Judge - Zachary S. Hindman,,Yes,,335,103,232
+Crawford,SRK Precinct,District 3B Judge - Zachary S. Hindman,,Yes,,323,64,259
+Crawford,Southeast Precinct,District 3B Judge - Zachary S. Hindman,,Yes,,359,106,253
+Crawford,Charter Oak,Governor,,Rob Sand and Dave Muhlbauer,DEM,127,35,92
+Crawford,DCAB Precinct,Governor,,Rob Sand and Dave Muhlbauer,DEM,187,59,128
+Crawford,Denison 1st Ward,Governor,,Rob Sand and Dave Muhlbauer,DEM,362,204,158
+Crawford,Denison 2nd Ward / Denison TWP,Governor,,Rob Sand and Dave Muhlbauer,DEM,384,210,174
+Crawford,Denison 3rd Ward / Goodrich TWP,Governor,,Rob Sand and Dave Muhlbauer,DEM,448,245,203
+Crawford,Northeast Precinct,Governor,,Rob Sand and Dave Muhlbauer,DEM,218,82,136
+Crawford,SRK Precinct,Governor,,Rob Sand and Dave Muhlbauer,DEM,194,53,141
+Crawford,Southeast Precinct,Governor,,Rob Sand and Dave Muhlbauer,DEM,264,91,173
+Crawford,Charter Oak,Governor,,Write-In,,1,0,1
+Crawford,DCAB Precinct,Governor,,Write-In,,0,0,0
+Crawford,Denison 1st Ward,Governor,,Write-In,,2,0,2
+Crawford,Denison 2nd Ward / Denison TWP,Governor,,Write-In,,2,1,1
+Crawford,Denison 3rd Ward / Goodrich TWP,Governor,,Write-In,,4,2,2
+Crawford,Northeast Precinct,Governor,,Write-In,,1,1,0
+Crawford,SRK Precinct,Governor,,Write-In,,1,0,1
+Crawford,Southeast Precinct,Governor,,Write-In,,1,0,1
+Crawford,Charter Oak,Governor,,Zach Lahn and Derek Wulf,REP,246,49,197
+Crawford,DCAB Precinct,Governor,,Zach Lahn and Derek Wulf,REP,304,64,240
+Crawford,Denison 1st Ward,Governor,,Zach Lahn and Derek Wulf,REP,252,117,135
+Crawford,Denison 2nd Ward / Denison TWP,Governor,,Zach Lahn and Derek Wulf,REP,309,143,166
+Crawford,Denison 3rd Ward / Goodrich TWP,Governor,,Zach Lahn and Derek Wulf,REP,487,215,272
+Crawford,Northeast Precinct,Governor,,Zach Lahn and Derek Wulf,REP,398,104,294
+Crawford,SRK Precinct,Governor,,Zach Lahn and Derek Wulf,REP,406,80,326
+Crawford,Southeast Precinct,Governor,,Zach Lahn and Derek Wulf,REP,461,118,343
+Crawford,Charter Oak,Secretary of Agriculture,,Chris Jones,DEM,85,29,56
+Crawford,DCAB Precinct,Secretary of Agriculture,,Chris Jones,DEM,131,48,83
+Crawford,Denison 1st Ward,Secretary of Agriculture,,Chris Jones,DEM,318,189,129
+Crawford,Denison 2nd Ward / Denison TWP,Secretary of Agriculture,,Chris Jones,DEM,332,187,145
+Crawford,Denison 3rd Ward / Goodrich TWP,Secretary of Agriculture,,Chris Jones,DEM,339,192,147
+Crawford,Northeast Precinct,Secretary of Agriculture,,Chris Jones,DEM,154,59,95
+Crawford,SRK Precinct,Secretary of Agriculture,,Chris Jones,DEM,134,37,97
+Crawford,Southeast Precinct,Secretary of Agriculture,,Chris Jones,DEM,177,64,113
+Crawford,Charter Oak,Secretary of Agriculture,,Mike Naig,REP,278,52,226
+Crawford,DCAB Precinct,Secretary of Agriculture,,Mike Naig,REP,348,67,281
+Crawford,Denison 1st Ward,Secretary of Agriculture,,Mike Naig,REP,281,126,155
+Crawford,Denison 2nd Ward / Denison TWP,Secretary of Agriculture,,Mike Naig,REP,350,164,186
+Crawford,Denison 3rd Ward / Goodrich TWP,Secretary of Agriculture,,Mike Naig,REP,553,245,308
+Crawford,Northeast Precinct,Secretary of Agriculture,,Mike Naig,REP,456,124,332
+Crawford,SRK Precinct,Secretary of Agriculture,,Mike Naig,REP,447,92,355
+Crawford,Southeast Precinct,Secretary of Agriculture,,Mike Naig,REP,524,136,388
+Crawford,Charter Oak,Secretary of Agriculture,,Write-In,,0,0,0
+Crawford,DCAB Precinct,Secretary of Agriculture,,Write-In,,0,0,0
+Crawford,Denison 1st Ward,Secretary of Agriculture,,Write-In,,2,0,2
+Crawford,Denison 2nd Ward / Denison TWP,Secretary of Agriculture,,Write-In,,0,0,0
+Crawford,Denison 3rd Ward / Goodrich TWP,Secretary of Agriculture,,Write-In,,0,0,0
+Crawford,Northeast Precinct,Secretary of Agriculture,,Write-In,,0,0,0
+Crawford,SRK Precinct,Secretary of Agriculture,,Write-In,,0,0,0
+Crawford,Southeast Precinct,Secretary of Agriculture,,Write-In,,0,0,0
+Crawford,Charter Oak,Secretary of State,,Paul D. Pate,REP,276,56,220
+Crawford,DCAB Precinct,Secretary of State,,Paul D. Pate,REP,350,70,280
+Crawford,Denison 1st Ward,Secretary of State,,Paul D. Pate,REP,278,129,149
+Crawford,Denison 2nd Ward / Denison TWP,Secretary of State,,Paul D. Pate,REP,350,168,182
+Crawford,Denison 3rd Ward / Goodrich TWP,Secretary of State,,Paul D. Pate,REP,536,241,295
+Crawford,Northeast Precinct,Secretary of State,,Paul D. Pate,REP,450,118,332
+Crawford,SRK Precinct,Secretary of State,,Paul D. Pate,REP,427,85,342
+Crawford,Southeast Precinct,Secretary of State,,Paul D. Pate,REP,520,134,386
+Crawford,Charter Oak,Secretary of State,,Ryan Peterman,DEM,85,26,59
+Crawford,DCAB Precinct,Secretary of State,,Ryan Peterman,DEM,127,48,79
+Crawford,Denison 1st Ward,Secretary of State,,Ryan Peterman,DEM,316,183,133
+Crawford,Denison 2nd Ward / Denison TWP,Secretary of State,,Ryan Peterman,DEM,333,181,152
+Crawford,Denison 3rd Ward / Goodrich TWP,Secretary of State,,Ryan Peterman,DEM,353,200,153
+Crawford,Northeast Precinct,Secretary of State,,Ryan Peterman,DEM,149,61,88
+Crawford,SRK Precinct,Secretary of State,,Ryan Peterman,DEM,150,42,108
+Crawford,Southeast Precinct,Secretary of State,,Ryan Peterman,DEM,179,64,115
+Crawford,Charter Oak,Secretary of State,,Write-In,,0,0,0
+Crawford,DCAB Precinct,Secretary of State,,Write-In,,0,0,0
+Crawford,Denison 1st Ward,Secretary of State,,Write-In,,1,0,1
+Crawford,Denison 2nd Ward / Denison TWP,Secretary of State,,Write-In,,0,0,0
+Crawford,Denison 3rd Ward / Goodrich TWP,Secretary of State,,Write-In,,2,1,1
+Crawford,Northeast Precinct,Secretary of State,,Write-In,,0,0,0
+Crawford,SRK Precinct,Secretary of State,,Write-In,,0,0,0
+Crawford,Southeast Precinct,Secretary of State,,Write-In,,0,0,0
+Crawford,Charter Oak,Soil and Water Conservation District Commissioner,,David Gress,,330,78,252
+Crawford,DCAB Precinct,Soil and Water Conservation District Commissioner,,David Gress,,375,92,283
+Crawford,Denison 1st Ward,Soil and Water Conservation District Commissioner,,David Gress,,469,230,239
+Crawford,Denison 2nd Ward / Denison TWP,Soil and Water Conservation District Commissioner,,David Gress,,517,259,258
+Crawford,Denison 3rd Ward / Goodrich TWP,Soil and Water Conservation District Commissioner,,David Gress,,737,351,386
+Crawford,Northeast Precinct,Soil and Water Conservation District Commissioner,,David Gress,,472,142,330
+Crawford,SRK Precinct,Soil and Water Conservation District Commissioner,,David Gress,,492,104,388
+Crawford,Southeast Precinct,Soil and Water Conservation District Commissioner,,David Gress,,526,157,369
+Crawford,Charter Oak,Soil and Water Conservation District Commissioner,,Write-In,,7,1,6
+Crawford,DCAB Precinct,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Crawford,Denison 1st Ward,Soil and Water Conservation District Commissioner,,Write-In,,9,5,4
+Crawford,Denison 2nd Ward / Denison TWP,Soil and Water Conservation District Commissioner,,Write-In,,15,7,8
+Crawford,Denison 3rd Ward / Goodrich TWP,Soil and Water Conservation District Commissioner,,Write-In,,16,8,8
+Crawford,Northeast Precinct,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
+Crawford,SRK Precinct,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Crawford,Southeast Precinct,Soil and Water Conservation District Commissioner,,Write-In,,9,2,7
+Crawford,Charter Oak,State House,12,Dustin Durbin,DEM,97,33,64
+Crawford,DCAB Precinct,State House,12,Dustin Durbin,DEM,178,57,121
+Crawford,Denison 1st Ward,State House,12,Dustin Durbin,DEM,348,202,146
+Crawford,Denison 2nd Ward / Denison TWP,State House,12,Dustin Durbin,DEM,368,194,174
+Crawford,Denison 3rd Ward / Goodrich TWP,State House,12,Dustin Durbin,DEM,401,218,183
+Crawford,Northeast Precinct,State House,12,Dustin Durbin,DEM,170,66,104
+Crawford,SRK Precinct,State House,12,Dustin Durbin,DEM,168,49,119
+Crawford,Southeast Precinct,State House,12,Dustin Durbin,DEM,188,73,115
+Crawford,Charter Oak,State House,12,Steven Holt,REP,273,49,224
+Crawford,DCAB Precinct,State House,12,Steven Holt,REP,306,62,244
+Crawford,Denison 1st Ward,State House,12,Steven Holt,REP,264,117,147
+Crawford,Denison 2nd Ward / Denison TWP,State House,12,Steven Holt,REP,322,159,163
+Crawford,Denison 3rd Ward / Goodrich TWP,State House,12,Steven Holt,REP,524,239,285
+Crawford,Northeast Precinct,State House,12,Steven Holt,REP,441,118,323
+Crawford,SRK Precinct,State House,12,Steven Holt,REP,428,82,346
+Crawford,Southeast Precinct,State House,12,Steven Holt,REP,520,131,389
+Crawford,Charter Oak,State House,12,Write-In,,1,0,1
+Crawford,DCAB Precinct,State House,12,Write-In,,0,0,0
+Crawford,Denison 1st Ward,State House,12,Write-In,,1,0,1
+Crawford,Denison 2nd Ward / Denison TWP,State House,12,Write-In,,1,0,1
+Crawford,Denison 3rd Ward / Goodrich TWP,State House,12,Write-In,,0,0,0
+Crawford,Northeast Precinct,State House,12,Write-In,,0,0,0
+Crawford,SRK Precinct,State House,12,Write-In,,0,0,0
+Crawford,Southeast Precinct,State House,12,Write-In,,0,0,0
+Crawford,Charter Oak,Treasurer of State,,John Norwood,DEM,88,31,57
+Crawford,DCAB Precinct,Treasurer of State,,John Norwood,DEM,143,50,93
+Crawford,Denison 1st Ward,Treasurer of State,,John Norwood,DEM,325,193,132
+Crawford,Denison 2nd Ward / Denison TWP,Treasurer of State,,John Norwood,DEM,341,187,154
+Crawford,Denison 3rd Ward / Goodrich TWP,Treasurer of State,,John Norwood,DEM,354,203,151
+Crawford,Northeast Precinct,Treasurer of State,,John Norwood,DEM,163,60,103
+Crawford,SRK Precinct,Treasurer of State,,John Norwood,DEM,155,44,111
+Crawford,Southeast Precinct,Treasurer of State,,John Norwood,DEM,187,68,119
+Crawford,Charter Oak,Treasurer of State,,Roby Smith,REP,263,48,215
+Crawford,DCAB Precinct,Treasurer of State,,Roby Smith,REP,329,64,265
+Crawford,Denison 1st Ward,Treasurer of State,,Roby Smith,REP,261,115,146
+Crawford,Denison 2nd Ward / Denison TWP,Treasurer of State,,Roby Smith,REP,329,157,172
+Crawford,Denison 3rd Ward / Goodrich TWP,Treasurer of State,,Roby Smith,REP,514,229,285
+Crawford,Northeast Precinct,Treasurer of State,,Roby Smith,REP,427,116,311
+Crawford,SRK Precinct,Treasurer of State,,Roby Smith,REP,416,83,333
+Crawford,Southeast Precinct,Treasurer of State,,Roby Smith,REP,486,125,361
+Crawford,Charter Oak,Treasurer of State,,Write-In,,0,0,0
+Crawford,DCAB Precinct,Treasurer of State,,Write-In,,0,0,0
+Crawford,Denison 1st Ward,Treasurer of State,,Write-In,,2,0,2
+Crawford,Denison 2nd Ward / Denison TWP,Treasurer of State,,Write-In,,1,1,0
+Crawford,Denison 3rd Ward / Goodrich TWP,Treasurer of State,,Write-In,,1,0,1
+Crawford,Northeast Precinct,Treasurer of State,,Write-In,,0,0,0
+Crawford,SRK Precinct,Treasurer of State,,Write-In,,0,0,0
+Crawford,Southeast Precinct,Treasurer of State,,Write-In,,1,0,1
+Crawford,Charter Oak,U.S. House,4,Chris McGowan,REP,263,47,216
+Crawford,DCAB Precinct,U.S. House,4,Chris McGowan,REP,322,60,262
+Crawford,Denison 1st Ward,U.S. House,4,Chris McGowan,REP,268,118,150
+Crawford,Denison 2nd Ward / Denison TWP,U.S. House,4,Chris McGowan,REP,326,148,178
+Crawford,Denison 3rd Ward / Goodrich TWP,U.S. House,4,Chris McGowan,REP,514,227,287
+Crawford,Northeast Precinct,U.S. House,4,Chris McGowan,REP,414,111,303
+Crawford,SRK Precinct,U.S. House,4,Chris McGowan,REP,412,81,331
+Crawford,Southeast Precinct,U.S. House,4,Chris McGowan,REP,491,127,364
+Crawford,Charter Oak,U.S. House,4,Dave Dawson,DEM,94,33,61
+Crawford,DCAB Precinct,U.S. House,4,Dave Dawson,DEM,151,55,96
+Crawford,Denison 1st Ward,U.S. House,4,Dave Dawson,DEM,323,189,134
+Crawford,Denison 2nd Ward / Denison TWP,U.S. House,4,Dave Dawson,DEM,350,195,155
+Crawford,Denison 3rd Ward / Goodrich TWP,U.S. House,4,Dave Dawson,DEM,365,208,157
+Crawford,Northeast Precinct,U.S. House,4,Dave Dawson,DEM,180,67,113
+Crawford,SRK Precinct,U.S. House,4,Dave Dawson,DEM,159,44,115
+Crawford,Southeast Precinct,U.S. House,4,Dave Dawson,DEM,193,71,122
+Crawford,Charter Oak,U.S. House,4,Write-In,,0,0,0
+Crawford,DCAB Precinct,U.S. House,4,Write-In,,1,1,0
+Crawford,Denison 1st Ward,U.S. House,4,Write-In,,2,0,2
+Crawford,Denison 2nd Ward / Denison TWP,U.S. House,4,Write-In,,1,1,0
+Crawford,Denison 3rd Ward / Goodrich TWP,U.S. House,4,Write-In,,2,2,0
+Crawford,Northeast Precinct,U.S. House,4,Write-In,,1,0,1
+Crawford,SRK Precinct,U.S. House,4,Write-In,,1,0,1
+Crawford,Southeast Precinct,U.S. House,4,Write-In,,0,0,0
+Crawford,Charter Oak,U.S. Senate,,Ashley Hinson,REP,237,43,194
+Crawford,DCAB Precinct,U.S. Senate,,Ashley Hinson,REP,298,61,237
+Crawford,Denison 1st Ward,U.S. Senate,,Ashley Hinson,REP,242,109,133
+Crawford,Denison 2nd Ward / Denison TWP,U.S. Senate,,Ashley Hinson,REP,310,139,171
+Crawford,Denison 3rd Ward / Goodrich TWP,U.S. Senate,,Ashley Hinson,REP,470,206,264
+Crawford,Northeast Precinct,U.S. Senate,,Ashley Hinson,REP,396,104,292
+Crawford,SRK Precinct,U.S. Senate,,Ashley Hinson,REP,389,78,311
+Crawford,Southeast Precinct,U.S. Senate,,Ashley Hinson,REP,457,119,338
+Crawford,Charter Oak,U.S. Senate,,Josh Turek,DEM,113,35,78
+Crawford,DCAB Precinct,U.S. Senate,,Josh Turek,DEM,158,54,104
+Crawford,Denison 1st Ward,U.S. Senate,,Josh Turek,DEM,339,195,144
+Crawford,Denison 2nd Ward / Denison TWP,U.S. Senate,,Josh Turek,DEM,360,199,161
+Crawford,Denison 3rd Ward / Goodrich TWP,U.S. Senate,,Josh Turek,DEM,406,230,176
+Crawford,Northeast Precinct,U.S. Senate,,Josh Turek,DEM,186,72,114
+Crawford,SRK Precinct,U.S. Senate,,Josh Turek,DEM,168,45,123
+Crawford,Southeast Precinct,U.S. Senate,,Josh Turek,DEM,216,79,137
+Crawford,Charter Oak,U.S. Senate,,Thomas Laehn,LIB,17,4,13
+Crawford,DCAB Precinct,U.S. Senate,,Thomas Laehn,LIB,21,1,20
+Crawford,Denison 1st Ward,U.S. Senate,,Thomas Laehn,LIB,22,9,13
+Crawford,Denison 2nd Ward / Denison TWP,U.S. Senate,,Thomas Laehn,LIB,20,10,10
+Crawford,Denison 3rd Ward / Goodrich TWP,U.S. Senate,,Thomas Laehn,LIB,39,13,26
+Crawford,Northeast Precinct,U.S. Senate,,Thomas Laehn,LIB,24,8,16
+Crawford,SRK Precinct,U.S. Senate,,Thomas Laehn,LIB,31,7,24
+Crawford,Southeast Precinct,U.S. Senate,,Thomas Laehn,LIB,36,6,30
+Crawford,Charter Oak,U.S. Senate,,Write-In,,1,1,0
+Crawford,DCAB Precinct,U.S. Senate,,Write-In,,0,0,0
+Crawford,Denison 1st Ward,U.S. Senate,,Write-In,,2,2,0
+Crawford,Denison 2nd Ward / Denison TWP,U.S. Senate,,Write-In,,0,0,0
+Crawford,Denison 3rd Ward / Goodrich TWP,U.S. Senate,,Write-In,,3,1,2
+Crawford,Northeast Precinct,U.S. Senate,,Write-In,,0,0,0
+Crawford,SRK Precinct,U.S. Senate,,Write-In,,0,0,0
+Crawford,Southeast Precinct,U.S. Senate,,Write-In,,1,0,1

@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "state": "IA",
+    "year": 2026,
+    "lines_year": 2022,
+    "scope": "congressional",
+    "contest_type": "governor",
+    "match_coverage_pct": 100.0,
+    "vote_coverage_pct": 100.0,
+    "allocation_method": "verified_county_votes_to_iowa_plan2_without_county_splits",
+    "geographic_precision": "county_exact_no_split",
+    "target_plan": "Iowa Plan 2 enacted in 2021",
+    "source": "data/aggregates_county_block_population_2020/2026_contests_to_plan2_congressional.csv",
+    "source_scope": "congressional"
+  },
+  "general": {
+    "results": {
+      "1": {
+        "dem_votes": 199984,
+        "rep_votes": 147221,
+        "other_votes": 536,
+        "total_votes": 347741,
+        "dem_candidate": "Rob Sand And Dave Muhlbauer",
+        "rep_candidate": "Zach Lahn And Derek Wulf",
+        "margin": -52763,
+        "margin_pct": -15.173074213279422,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "2": {
+        "dem_votes": 199820,
+        "rep_votes": 150603,
+        "other_votes": 403,
+        "total_votes": 350826,
+        "dem_candidate": "Rob Sand And Dave Muhlbauer",
+        "rep_candidate": "Zach Lahn And Derek Wulf",
+        "margin": -49217,
+        "margin_pct": -14.028891815315855,
+        "winner": "DEM",
+        "color": "#4795d2"
+      },
+      "3": {
+        "dem_votes": 215508,
+        "rep_votes": 140512,
+        "other_votes": 464,
+        "total_votes": 356484,
+        "dem_candidate": "Rob Sand And Dave Muhlbauer",
+        "rep_candidate": "Zach Lahn And Derek Wulf",
+        "margin": -74996,
+        "margin_pct": -21.037690331122853,
+        "winner": "DEM",
+        "color": "#2876b5"
+      },
+      "4": {
+        "dem_votes": 142194,
+        "rep_votes": 169255,
+        "other_votes": 420,
+        "total_votes": 311869,
+        "dem_candidate": "Rob Sand And Dave Muhlbauer",
+        "rep_candidate": "Zach Lahn And Derek Wulf",
+        "margin": 27061,
+        "margin_pct": 8.67704068054215,
+        "winner": "REP",
+        "color": "#f7634b"
+      }
+    }
+  }
+}

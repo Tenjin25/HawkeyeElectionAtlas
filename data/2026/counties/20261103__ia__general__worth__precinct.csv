@@ -1,0 +1,545 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Worth,Brookfield Kensett,Attorney General,,Brenna Bird,REP,211,32,179
+Worth,Danville Hanlontown,Attorney General,,Brenna Bird,REP,128,15,113
+Worth,Deer Creek Barton Union Grove Grafton,Attorney General,,Brenna Bird,REP,311,48,263
+Worth,Fertile,Attorney General,,Brenna Bird,REP,223,31,192
+Worth,Hartland Grove Northwood,Attorney General,,Brenna Bird,REP,627,108,519
+Worth,Lincoln Manly,Attorney General,,Brenna Bird,REP,311,38,273
+Worth,Silver Lake Bristol Hartland Joice,Attorney General,,Brenna Bird,REP,232,18,214
+Worth,Brookfield Kensett,Attorney General,,Nate Willems,DEM,113,46,67
+Worth,Danville Hanlontown,Attorney General,,Nate Willems,DEM,81,18,63
+Worth,Deer Creek Barton Union Grove Grafton,Attorney General,,Nate Willems,DEM,154,41,113
+Worth,Fertile,Attorney General,,Nate Willems,DEM,124,29,95
+Worth,Hartland Grove Northwood,Attorney General,,Nate Willems,DEM,408,182,226
+Worth,Lincoln Manly,Attorney General,,Nate Willems,DEM,321,93,228
+Worth,Silver Lake Bristol Hartland Joice,Attorney General,,Nate Willems,DEM,129,34,95
+Worth,Brookfield Kensett,Attorney General,,Write-In,,1,0,1
+Worth,Danville Hanlontown,Attorney General,,Write-In,,1,0,1
+Worth,Deer Creek Barton Union Grove Grafton,Attorney General,,Write-In,,0,0,0
+Worth,Fertile,Attorney General,,Write-In,,1,0,1
+Worth,Hartland Grove Northwood,Attorney General,,Write-In,,3,0,3
+Worth,Lincoln Manly,Attorney General,,Write-In,,0,0,0
+Worth,Silver Lake Bristol Hartland Joice,Attorney General,,Write-In,,0,0,0
+Worth,Brookfield Kensett,Auditor of State,,Chris Cournoyer,REP,197,30,167
+Worth,Danville Hanlontown,Auditor of State,,Chris Cournoyer,REP,124,15,109
+Worth,Deer Creek Barton Union Grove Grafton,Auditor of State,,Chris Cournoyer,REP,298,46,252
+Worth,Fertile,Auditor of State,,Chris Cournoyer,REP,220,32,188
+Worth,Hartland Grove Northwood,Auditor of State,,Chris Cournoyer,REP,616,107,509
+Worth,Lincoln Manly,Auditor of State,,Chris Cournoyer,REP,290,33,257
+Worth,Silver Lake Bristol Hartland Joice,Auditor of State,,Chris Cournoyer,REP,219,16,203
+Worth,Brookfield Kensett,Auditor of State,,Taylor Wettach,DEM,121,48,73
+Worth,Danville Hanlontown,Auditor of State,,Taylor Wettach,DEM,86,18,68
+Worth,Deer Creek Barton Union Grove Grafton,Auditor of State,,Taylor Wettach,DEM,159,41,118
+Worth,Fertile,Auditor of State,,Taylor Wettach,DEM,126,28,98
+Worth,Hartland Grove Northwood,Auditor of State,,Taylor Wettach,DEM,423,182,241
+Worth,Lincoln Manly,Auditor of State,,Taylor Wettach,DEM,331,94,237
+Worth,Silver Lake Bristol Hartland Joice,Auditor of State,,Taylor Wettach,DEM,141,35,106
+Worth,Brookfield Kensett,Auditor of State,,Write-In,,0,0,0
+Worth,Danville Hanlontown,Auditor of State,,Write-In,,0,0,0
+Worth,Deer Creek Barton Union Grove Grafton,Auditor of State,,Write-In,,0,0,0
+Worth,Fertile,Auditor of State,,Write-In,,1,0,1
+Worth,Hartland Grove Northwood,Auditor of State,,Write-In,,2,0,2
+Worth,Lincoln Manly,Auditor of State,,Write-In,,1,0,1
+Worth,Silver Lake Bristol Hartland Joice,Auditor of State,,Write-In,,0,0,0
+Worth,Deer Creek Barton Union Grove Grafton,Barton Township Clerk,,Pamela A. Meyer,,81,15,66
+Worth,Deer Creek Barton Union Grove Grafton,Barton Township Clerk,,Write-In,,0,0,0
+Worth,Deer Creek Barton Union Grove Grafton,Barton Township Trustee,,Dennis Meyer,,65,9,56
+Worth,Deer Creek Barton Union Grove Grafton,Barton Township Trustee,,Joseph Nydegger,,65,12,53
+Worth,Deer Creek Barton Union Grove Grafton,Barton Township Trustee,,Write-In,,3,2,1
+Worth,Silver Lake Bristol Hartland Joice,Bristol Township Clerk,,Eric Johnson,,111,12,99
+Worth,Silver Lake Bristol Hartland Joice,Bristol Township Clerk,,Write-In,,1,0,1
+Worth,Silver Lake Bristol Hartland Joice,Bristol Township Trustee,,Daniel L. Martinson,,96,9,87
+Worth,Silver Lake Bristol Hartland Joice,Bristol Township Trustee,,Eliot Evans,,93,10,83
+Worth,Silver Lake Bristol Hartland Joice,Bristol Township Trustee,,Write-In,,2,0,2
+Worth,Brookfield Kensett,Brookfield Township Clerk,,Theresa M. Cooper,,113,36,77
+Worth,Brookfield Kensett,Brookfield Township Clerk,,Write-In,,0,0,0
+Worth,Brookfield Kensett,Brookfield Township Trustee,,Randy Hengesteg,,117,37,80
+Worth,Brookfield Kensett,Brookfield Township Trustee,,Write-In,,3,1,2
+Worth,Brookfield Kensett,Constitutional Amendment 1,,No,,107,37,70
+Worth,Danville Hanlontown,Constitutional Amendment 1,,No,,79,18,61
+Worth,Deer Creek Barton Union Grove Grafton,Constitutional Amendment 1,,No,,144,30,114
+Worth,Fertile,Constitutional Amendment 1,,No,,101,25,76
+Worth,Hartland Grove Northwood,Constitutional Amendment 1,,No,,399,137,262
+Worth,Lincoln Manly,Constitutional Amendment 1,,No,,229,51,178
+Worth,Silver Lake Bristol Hartland Joice,Constitutional Amendment 1,,No,,121,25,96
+Worth,Brookfield Kensett,Constitutional Amendment 1,,Yes,,205,40,165
+Worth,Danville Hanlontown,Constitutional Amendment 1,,Yes,,129,15,114
+Worth,Deer Creek Barton Union Grove Grafton,Constitutional Amendment 1,,Yes,,298,58,240
+Worth,Fertile,Constitutional Amendment 1,,Yes,,227,32,195
+Worth,Hartland Grove Northwood,Constitutional Amendment 1,,Yes,,597,134,463
+Worth,Lincoln Manly,Constitutional Amendment 1,,Yes,,357,70,287
+Worth,Silver Lake Bristol Hartland Joice,Constitutional Amendment 1,,Yes,,212,23,189
+Worth,Brookfield Kensett,County Agricultural Extension Council Member,,Ann Heggestad,,216,50,166
+Worth,Danville Hanlontown,County Agricultural Extension Council Member,,Ann Heggestad,,145,20,125
+Worth,Deer Creek Barton Union Grove Grafton,County Agricultural Extension Council Member,,Ann Heggestad,,327,69,258
+Worth,Fertile,County Agricultural Extension Council Member,,Ann Heggestad,,233,32,201
+Worth,Hartland Grove Northwood,County Agricultural Extension Council Member,,Ann Heggestad,,705,175,530
+Worth,Lincoln Manly,County Agricultural Extension Council Member,,Ann Heggestad,,414,84,330
+Worth,Silver Lake Bristol Hartland Joice,County Agricultural Extension Council Member,,Ann Heggestad,,246,31,215
+Worth,Brookfield Kensett,County Agricultural Extension Council Member,,Jennifer Klooster,,224,49,175
+Worth,Danville Hanlontown,County Agricultural Extension Council Member,,Jennifer Klooster,,154,21,133
+Worth,Deer Creek Barton Union Grove Grafton,County Agricultural Extension Council Member,,Jennifer Klooster,,333,68,265
+Worth,Fertile,County Agricultural Extension Council Member,,Jennifer Klooster,,235,33,202
+Worth,Hartland Grove Northwood,County Agricultural Extension Council Member,,Jennifer Klooster,,699,180,519
+Worth,Lincoln Manly,County Agricultural Extension Council Member,,Jennifer Klooster,,440,91,349
+Worth,Silver Lake Bristol Hartland Joice,County Agricultural Extension Council Member,,Jennifer Klooster,,245,29,216
+Worth,Brookfield Kensett,County Agricultural Extension Council Member,,Sarah Hagen,,233,52,181
+Worth,Danville Hanlontown,County Agricultural Extension Council Member,,Sarah Hagen,,173,23,150
+Worth,Deer Creek Barton Union Grove Grafton,County Agricultural Extension Council Member,,Sarah Hagen,,346,72,274
+Worth,Fertile,County Agricultural Extension Council Member,,Sarah Hagen,,268,42,226
+Worth,Hartland Grove Northwood,County Agricultural Extension Council Member,,Sarah Hagen,,725,180,545
+Worth,Lincoln Manly,County Agricultural Extension Council Member,,Sarah Hagen,,429,86,343
+Worth,Silver Lake Bristol Hartland Joice,County Agricultural Extension Council Member,,Sarah Hagen,,262,37,225
+Worth,Brookfield Kensett,County Agricultural Extension Council Member,,Sarah Stevens,,231,48,183
+Worth,Danville Hanlontown,County Agricultural Extension Council Member,,Sarah Stevens,,152,21,131
+Worth,Deer Creek Barton Union Grove Grafton,County Agricultural Extension Council Member,,Sarah Stevens,,344,72,272
+Worth,Fertile,County Agricultural Extension Council Member,,Sarah Stevens,,229,34,195
+Worth,Hartland Grove Northwood,County Agricultural Extension Council Member,,Sarah Stevens,,765,187,578
+Worth,Lincoln Manly,County Agricultural Extension Council Member,,Sarah Stevens,,391,82,309
+Worth,Silver Lake Bristol Hartland Joice,County Agricultural Extension Council Member,,Sarah Stevens,,245,33,212
+Worth,Brookfield Kensett,County Agricultural Extension Council Member,,Wayde Willand,,250,55,195
+Worth,Danville Hanlontown,County Agricultural Extension Council Member,,Wayde Willand,,149,21,128
+Worth,Deer Creek Barton Union Grove Grafton,County Agricultural Extension Council Member,,Wayde Willand,,348,70,278
+Worth,Fertile,County Agricultural Extension Council Member,,Wayde Willand,,234,33,201
+Worth,Hartland Grove Northwood,County Agricultural Extension Council Member,,Wayde Willand,,785,203,582
+Worth,Lincoln Manly,County Agricultural Extension Council Member,,Wayde Willand,,407,83,324
+Worth,Silver Lake Bristol Hartland Joice,County Agricultural Extension Council Member,,Wayde Willand,,262,36,226
+Worth,Brookfield Kensett,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Worth,Danville Hanlontown,County Agricultural Extension Council Member,,Write-In,,0,0,0
+Worth,Deer Creek Barton Union Grove Grafton,County Agricultural Extension Council Member,,Write-In,,5,0,5
+Worth,Fertile,County Agricultural Extension Council Member,,Write-In,,6,0,6
+Worth,Hartland Grove Northwood,County Agricultural Extension Council Member,,Write-In,,14,2,12
+Worth,Lincoln Manly,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Worth,Silver Lake Bristol Hartland Joice,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Worth,Brookfield Kensett,County Attorney,,Dexter Banks,DEM,162,51,111
+Worth,Danville Hanlontown,County Attorney,,Dexter Banks,DEM,99,18,81
+Worth,Deer Creek Barton Union Grove Grafton,County Attorney,,Dexter Banks,DEM,191,47,144
+Worth,Fertile,County Attorney,,Dexter Banks,DEM,133,28,105
+Worth,Hartland Grove Northwood,County Attorney,,Dexter Banks,DEM,598,169,429
+Worth,Lincoln Manly,County Attorney,,Dexter Banks,DEM,346,89,257
+Worth,Silver Lake Bristol Hartland Joice,County Attorney,,Dexter Banks,DEM,159,38,121
+Worth,Brookfield Kensett,County Attorney,,Jeffrey H. Greve,REP,156,27,129
+Worth,Danville Hanlontown,County Attorney,,Jeffrey H. Greve,REP,109,16,93
+Worth,Deer Creek Barton Union Grove Grafton,County Attorney,,Jeffrey H. Greve,REP,268,43,225
+Worth,Fertile,County Attorney,,Jeffrey H. Greve,REP,210,30,180
+Worth,Hartland Grove Northwood,County Attorney,,Jeffrey H. Greve,REP,447,115,332
+Worth,Lincoln Manly,County Attorney,,Jeffrey H. Greve,REP,270,36,234
+Worth,Silver Lake Bristol Hartland Joice,County Attorney,,Jeffrey H. Greve,REP,198,13,185
+Worth,Brookfield Kensett,County Attorney,,Write-In,,1,0,1
+Worth,Danville Hanlontown,County Attorney,,Write-In,,0,0,0
+Worth,Deer Creek Barton Union Grove Grafton,County Attorney,,Write-In,,2,0,2
+Worth,Fertile,County Attorney,,Write-In,,2,0,2
+Worth,Hartland Grove Northwood,County Attorney,,Write-In,,3,0,3
+Worth,Lincoln Manly,County Attorney,,Write-In,,2,0,2
+Worth,Silver Lake Bristol Hartland Joice,County Attorney,,Write-In,,0,0,0
+Worth,Brookfield Kensett,County Recorder,,Jolene Hickle,REP,298,66,232
+Worth,Danville Hanlontown,County Recorder,,Jolene Hickle,REP,195,26,169
+Worth,Deer Creek Barton Union Grove Grafton,County Recorder,,Jolene Hickle,REP,425,78,347
+Worth,Fertile,County Recorder,,Jolene Hickle,REP,321,52,269
+Worth,Hartland Grove Northwood,County Recorder,,Jolene Hickle,REP,977,241,736
+Worth,Lincoln Manly,County Recorder,,Jolene Hickle,REP,542,101,441
+Worth,Silver Lake Bristol Hartland Joice,County Recorder,,Jolene Hickle,REP,321,42,279
+Worth,Brookfield Kensett,County Recorder,,Write-In,,3,1,2
+Worth,Danville Hanlontown,County Recorder,,Write-In,,2,0,2
+Worth,Deer Creek Barton Union Grove Grafton,County Recorder,,Write-In,,1,0,1
+Worth,Fertile,County Recorder,,Write-In,,3,0,3
+Worth,Hartland Grove Northwood,County Recorder,,Write-In,,6,2,4
+Worth,Lincoln Manly,County Recorder,,Write-In,,11,2,9
+Worth,Silver Lake Bristol Hartland Joice,County Recorder,,Write-In,,2,0,2
+Worth,Deer Creek Barton Union Grove Grafton,County Supervisor,1,Amy Jorgensen,,287,59,228
+Worth,Lincoln Manly,County Supervisor,1,Amy Jorgensen,,353,74,279
+Worth,Deer Creek Barton Union Grove Grafton,County Supervisor,1,Marena Henkle,REP,177,30,147
+Worth,Lincoln Manly,County Supervisor,1,Marena Henkle,REP,250,44,206
+Worth,Deer Creek Barton Union Grove Grafton,County Supervisor,1,Write-In,,0,0,0
+Worth,Lincoln Manly,County Supervisor,1,Write-In,,1,1,0
+Worth,Hartland Grove Northwood,County Supervisor,3,Mike Hanson,REP,960,237,723
+Worth,Hartland Grove Northwood,County Supervisor,3,Write-In,,14,4,10
+Worth,Brookfield Kensett,County Treasurer,,Jake Hanson,REP,308,69,239
+Worth,Danville Hanlontown,County Treasurer,,Jake Hanson,REP,196,26,170
+Worth,Deer Creek Barton Union Grove Grafton,County Treasurer,,Jake Hanson,REP,435,80,355
+Worth,Fertile,County Treasurer,,Jake Hanson,REP,324,51,273
+Worth,Hartland Grove Northwood,County Treasurer,,Jake Hanson,REP,986,252,734
+Worth,Lincoln Manly,County Treasurer,,Jake Hanson,REP,559,104,455
+Worth,Silver Lake Bristol Hartland Joice,County Treasurer,,Jake Hanson,REP,326,42,284
+Worth,Brookfield Kensett,County Treasurer,,Write-In,,1,0,1
+Worth,Danville Hanlontown,County Treasurer,,Write-In,,2,0,2
+Worth,Deer Creek Barton Union Grove Grafton,County Treasurer,,Write-In,,0,0,0
+Worth,Fertile,County Treasurer,,Write-In,,3,0,3
+Worth,Hartland Grove Northwood,County Treasurer,,Write-In,,8,3,5
+Worth,Lincoln Manly,County Treasurer,,Write-In,,9,2,7
+Worth,Silver Lake Bristol Hartland Joice,County Treasurer,,Write-In,,2,0,2
+Worth,Brookfield Kensett,Court of Appeals Judge - John M. Sandy,,No,,79,21,58
+Worth,Danville Hanlontown,Court of Appeals Judge - John M. Sandy,,No,,46,8,38
+Worth,Deer Creek Barton Union Grove Grafton,Court of Appeals Judge - John M. Sandy,,No,,105,16,89
+Worth,Fertile,Court of Appeals Judge - John M. Sandy,,No,,99,17,82
+Worth,Hartland Grove Northwood,Court of Appeals Judge - John M. Sandy,,No,,243,66,177
+Worth,Lincoln Manly,Court of Appeals Judge - John M. Sandy,,No,,147,23,124
+Worth,Silver Lake Bristol Hartland Joice,Court of Appeals Judge - John M. Sandy,,No,,99,21,78
+Worth,Brookfield Kensett,Court of Appeals Judge - John M. Sandy,,Yes,,182,41,141
+Worth,Danville Hanlontown,Court of Appeals Judge - John M. Sandy,,Yes,,125,19,106
+Worth,Deer Creek Barton Union Grove Grafton,Court of Appeals Judge - John M. Sandy,,Yes,,277,57,220
+Worth,Fertile,Court of Appeals Judge - John M. Sandy,,Yes,,193,30,163
+Worth,Hartland Grove Northwood,Court of Appeals Judge - John M. Sandy,,Yes,,585,139,446
+Worth,Lincoln Manly,Court of Appeals Judge - John M. Sandy,,Yes,,345,67,278
+Worth,Silver Lake Bristol Hartland Joice,Court of Appeals Judge - John M. Sandy,,Yes,,203,22,181
+Worth,Brookfield Kensett,Court of Appeals Judge - Julie A. Schumacher,,No,,70,19,51
+Worth,Danville Hanlontown,Court of Appeals Judge - Julie A. Schumacher,,No,,43,9,34
+Worth,Deer Creek Barton Union Grove Grafton,Court of Appeals Judge - Julie A. Schumacher,,No,,104,14,90
+Worth,Fertile,Court of Appeals Judge - Julie A. Schumacher,,No,,94,16,78
+Worth,Hartland Grove Northwood,Court of Appeals Judge - Julie A. Schumacher,,No,,227,63,164
+Worth,Lincoln Manly,Court of Appeals Judge - Julie A. Schumacher,,No,,146,23,123
+Worth,Silver Lake Bristol Hartland Joice,Court of Appeals Judge - Julie A. Schumacher,,No,,95,19,76
+Worth,Brookfield Kensett,Court of Appeals Judge - Julie A. Schumacher,,Yes,,190,42,148
+Worth,Danville Hanlontown,Court of Appeals Judge - Julie A. Schumacher,,Yes,,128,18,110
+Worth,Deer Creek Barton Union Grove Grafton,Court of Appeals Judge - Julie A. Schumacher,,Yes,,280,61,219
+Worth,Fertile,Court of Appeals Judge - Julie A. Schumacher,,Yes,,206,35,171
+Worth,Hartland Grove Northwood,Court of Appeals Judge - Julie A. Schumacher,,Yes,,612,146,466
+Worth,Lincoln Manly,Court of Appeals Judge - Julie A. Schumacher,,Yes,,345,67,278
+Worth,Silver Lake Bristol Hartland Joice,Court of Appeals Judge - Julie A. Schumacher,,Yes,,210,25,185
+Worth,Brookfield Kensett,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,74,17,57
+Worth,Danville Hanlontown,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,50,9,41
+Worth,Deer Creek Barton Union Grove Grafton,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,120,14,106
+Worth,Fertile,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,102,17,85
+Worth,Hartland Grove Northwood,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,231,58,173
+Worth,Lincoln Manly,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,149,24,125
+Worth,Silver Lake Bristol Hartland Joice,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,106,21,85
+Worth,Brookfield Kensett,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,191,45,146
+Worth,Danville Hanlontown,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,122,19,103
+Worth,Deer Creek Barton Union Grove Grafton,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,265,61,204
+Worth,Fertile,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,194,31,163
+Worth,Hartland Grove Northwood,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,612,154,458
+Worth,Lincoln Manly,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,343,68,275
+Worth,Silver Lake Bristol Hartland Joice,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,195,23,172
+Worth,Danville Hanlontown,Danville Township Clerk,,Kevin Knudson,,114,20,94
+Worth,Danville Hanlontown,Danville Township Clerk,,Write-In,,0,0,0
+Worth,Danville Hanlontown,Danville Township Trustee,,Joe Thompson,,87,14,73
+Worth,Danville Hanlontown,Danville Township Trustee,,Justin Faber,,105,19,86
+Worth,Danville Hanlontown,Danville Township Trustee,,Write-In,,1,0,1
+Worth,Deer Creek Barton Union Grove Grafton,Deer Creek Township Clerk,,Write-In,,15,10,5
+Worth,Deer Creek Barton Union Grove Grafton,Deer Creek Township Trustee,,Martin Cotter,,70,22,48
+Worth,Deer Creek Barton Union Grove Grafton,Deer Creek Township Trustee,,Write-In,,7,3,4
+Worth,Brookfield Kensett,District 2A Associate Judge - Adam Sauer,,No,,61,17,44
+Worth,Danville Hanlontown,District 2A Associate Judge - Adam Sauer,,No,,36,5,31
+Worth,Deer Creek Barton Union Grove Grafton,District 2A Associate Judge - Adam Sauer,,No,,97,13,84
+Worth,Fertile,District 2A Associate Judge - Adam Sauer,,No,,84,15,69
+Worth,Hartland Grove Northwood,District 2A Associate Judge - Adam Sauer,,No,,215,59,156
+Worth,Lincoln Manly,District 2A Associate Judge - Adam Sauer,,No,,130,21,109
+Worth,Silver Lake Bristol Hartland Joice,District 2A Associate Judge - Adam Sauer,,No,,75,16,59
+Worth,Brookfield Kensett,District 2A Associate Judge - Adam Sauer,,Yes,,198,43,155
+Worth,Danville Hanlontown,District 2A Associate Judge - Adam Sauer,,Yes,,136,20,116
+Worth,Deer Creek Barton Union Grove Grafton,District 2A Associate Judge - Adam Sauer,,Yes,,281,58,223
+Worth,Fertile,District 2A Associate Judge - Adam Sauer,,Yes,,212,32,180
+Worth,Hartland Grove Northwood,District 2A Associate Judge - Adam Sauer,,Yes,,621,148,473
+Worth,Lincoln Manly,District 2A Associate Judge - Adam Sauer,,Yes,,366,72,294
+Worth,Silver Lake Bristol Hartland Joice,District 2A Associate Judge - Adam Sauer,,Yes,,237,29,208
+Worth,Brookfield Kensett,District 2A Associate Judge - Karen Kaufman Salic,,No,,75,20,55
+Worth,Danville Hanlontown,District 2A Associate Judge - Karen Kaufman Salic,,No,,44,5,39
+Worth,Deer Creek Barton Union Grove Grafton,District 2A Associate Judge - Karen Kaufman Salic,,No,,109,18,91
+Worth,Fertile,District 2A Associate Judge - Karen Kaufman Salic,,No,,101,19,82
+Worth,Hartland Grove Northwood,District 2A Associate Judge - Karen Kaufman Salic,,No,,245,66,179
+Worth,Lincoln Manly,District 2A Associate Judge - Karen Kaufman Salic,,No,,146,22,124
+Worth,Silver Lake Bristol Hartland Joice,District 2A Associate Judge - Karen Kaufman Salic,,No,,105,19,86
+Worth,Brookfield Kensett,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,182,39,143
+Worth,Danville Hanlontown,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,127,21,106
+Worth,Deer Creek Barton Union Grove Grafton,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,269,53,216
+Worth,Fertile,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,192,28,164
+Worth,Hartland Grove Northwood,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,587,136,451
+Worth,Lincoln Manly,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,342,69,273
+Worth,Silver Lake Bristol Hartland Joice,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,194,23,171
+Worth,Brookfield Kensett,District 2A Associate Judge - Mark Milder,,No,,72,17,55
+Worth,Danville Hanlontown,District 2A Associate Judge - Mark Milder,,No,,46,7,39
+Worth,Deer Creek Barton Union Grove Grafton,District 2A Associate Judge - Mark Milder,,No,,97,11,86
+Worth,Fertile,District 2A Associate Judge - Mark Milder,,No,,95,16,79
+Worth,Hartland Grove Northwood,District 2A Associate Judge - Mark Milder,,No,,222,56,166
+Worth,Lincoln Manly,District 2A Associate Judge - Mark Milder,,No,,134,22,112
+Worth,Silver Lake Bristol Hartland Joice,District 2A Associate Judge - Mark Milder,,No,,94,21,73
+Worth,Brookfield Kensett,District 2A Associate Judge - Mark Milder,,Yes,,184,42,142
+Worth,Danville Hanlontown,District 2A Associate Judge - Mark Milder,,Yes,,122,18,104
+Worth,Deer Creek Barton Union Grove Grafton,District 2A Associate Judge - Mark Milder,,Yes,,279,58,221
+Worth,Fertile,District 2A Associate Judge - Mark Milder,,Yes,,198,31,167
+Worth,Hartland Grove Northwood,District 2A Associate Judge - Mark Milder,,Yes,,608,146,462
+Worth,Lincoln Manly,District 2A Associate Judge - Mark Milder,,Yes,,350,67,283
+Worth,Silver Lake Bristol Hartland Joice,District 2A Associate Judge - Mark Milder,,Yes,,201,22,179
+Worth,Brookfield Kensett,District 2A Judge - Christopher Foy,,No,,76,22,54
+Worth,Danville Hanlontown,District 2A Judge - Christopher Foy,,No,,56,9,47
+Worth,Deer Creek Barton Union Grove Grafton,District 2A Judge - Christopher Foy,,No,,113,14,99
+Worth,Fertile,District 2A Judge - Christopher Foy,,No,,101,19,82
+Worth,Hartland Grove Northwood,District 2A Judge - Christopher Foy,,No,,246,60,186
+Worth,Lincoln Manly,District 2A Judge - Christopher Foy,,No,,160,26,134
+Worth,Silver Lake Bristol Hartland Joice,District 2A Judge - Christopher Foy,,No,,94,14,80
+Worth,Brookfield Kensett,District 2A Judge - Christopher Foy,,Yes,,186,41,145
+Worth,Danville Hanlontown,District 2A Judge - Christopher Foy,,Yes,,114,16,98
+Worth,Deer Creek Barton Union Grove Grafton,District 2A Judge - Christopher Foy,,Yes,,267,58,209
+Worth,Fertile,District 2A Judge - Christopher Foy,,Yes,,190,29,161
+Worth,Hartland Grove Northwood,District 2A Judge - Christopher Foy,,Yes,,592,145,447
+Worth,Lincoln Manly,District 2A Judge - Christopher Foy,,Yes,,335,68,267
+Worth,Silver Lake Bristol Hartland Joice,District 2A Judge - Christopher Foy,,Yes,,204,29,175
+Worth,Brookfield Kensett,District 2A Judge - Colleen D. Weiland,,No,,71,20,51
+Worth,Danville Hanlontown,District 2A Judge - Colleen D. Weiland,,No,,49,6,43
+Worth,Deer Creek Barton Union Grove Grafton,District 2A Judge - Colleen D. Weiland,,No,,110,15,95
+Worth,Fertile,District 2A Judge - Colleen D. Weiland,,No,,110,19,91
+Worth,Hartland Grove Northwood,District 2A Judge - Colleen D. Weiland,,No,,231,54,177
+Worth,Lincoln Manly,District 2A Judge - Colleen D. Weiland,,No,,143,23,120
+Worth,Silver Lake Bristol Hartland Joice,District 2A Judge - Colleen D. Weiland,,No,,91,10,81
+Worth,Brookfield Kensett,District 2A Judge - Colleen D. Weiland,,Yes,,191,40,151
+Worth,Danville Hanlontown,District 2A Judge - Colleen D. Weiland,,Yes,,122,20,102
+Worth,Deer Creek Barton Union Grove Grafton,District 2A Judge - Colleen D. Weiland,,Yes,,271,56,215
+Worth,Fertile,District 2A Judge - Colleen D. Weiland,,Yes,,186,29,157
+Worth,Hartland Grove Northwood,District 2A Judge - Colleen D. Weiland,,Yes,,610,153,457
+Worth,Lincoln Manly,District 2A Judge - Colleen D. Weiland,,Yes,,349,70,279
+Worth,Silver Lake Bristol Hartland Joice,District 2A Judge - Colleen D. Weiland,,Yes,,208,35,173
+Worth,Brookfield Kensett,District 2A Judge - DeDra Schroeder,,No,,77,17,60
+Worth,Danville Hanlontown,District 2A Judge - DeDra Schroeder,,No,,45,3,42
+Worth,Deer Creek Barton Union Grove Grafton,District 2A Judge - DeDra Schroeder,,No,,107,13,94
+Worth,Fertile,District 2A Judge - DeDra Schroeder,,No,,101,16,85
+Worth,Hartland Grove Northwood,District 2A Judge - DeDra Schroeder,,No,,231,57,174
+Worth,Lincoln Manly,District 2A Judge - DeDra Schroeder,,No,,144,22,122
+Worth,Silver Lake Bristol Hartland Joice,District 2A Judge - DeDra Schroeder,,No,,101,18,83
+Worth,Brookfield Kensett,District 2A Judge - DeDra Schroeder,,Yes,,183,44,139
+Worth,Danville Hanlontown,District 2A Judge - DeDra Schroeder,,Yes,,125,21,104
+Worth,Deer Creek Barton Union Grove Grafton,District 2A Judge - DeDra Schroeder,,Yes,,275,58,217
+Worth,Fertile,District 2A Judge - DeDra Schroeder,,Yes,,196,34,162
+Worth,Hartland Grove Northwood,District 2A Judge - DeDra Schroeder,,Yes,,613,151,462
+Worth,Lincoln Manly,District 2A Judge - DeDra Schroeder,,Yes,,351,70,281
+Worth,Silver Lake Bristol Hartland Joice,District 2A Judge - DeDra Schroeder,,Yes,,199,27,172
+Worth,Brookfield Kensett,District 2A Judge - Gregg R. Rosenbladt,,No,,71,19,52
+Worth,Danville Hanlontown,District 2A Judge - Gregg R. Rosenbladt,,No,,48,7,41
+Worth,Deer Creek Barton Union Grove Grafton,District 2A Judge - Gregg R. Rosenbladt,,No,,98,15,83
+Worth,Fertile,District 2A Judge - Gregg R. Rosenbladt,,No,,101,17,84
+Worth,Hartland Grove Northwood,District 2A Judge - Gregg R. Rosenbladt,,No,,243,59,184
+Worth,Lincoln Manly,District 2A Judge - Gregg R. Rosenbladt,,No,,146,20,126
+Worth,Silver Lake Bristol Hartland Joice,District 2A Judge - Gregg R. Rosenbladt,,No,,90,16,74
+Worth,Brookfield Kensett,District 2A Judge - Gregg R. Rosenbladt,,Yes,,189,43,146
+Worth,Danville Hanlontown,District 2A Judge - Gregg R. Rosenbladt,,Yes,,121,18,103
+Worth,Deer Creek Barton Union Grove Grafton,District 2A Judge - Gregg R. Rosenbladt,,Yes,,278,55,223
+Worth,Fertile,District 2A Judge - Gregg R. Rosenbladt,,Yes,,192,30,162
+Worth,Hartland Grove Northwood,District 2A Judge - Gregg R. Rosenbladt,,Yes,,596,147,449
+Worth,Lincoln Manly,District 2A Judge - Gregg R. Rosenbladt,,Yes,,351,72,279
+Worth,Silver Lake Bristol Hartland Joice,District 2A Judge - Gregg R. Rosenbladt,,Yes,,211,28,183
+Worth,Fertile,Fertile Township Clerk,,Write-In,,10,0,10
+Worth,Fertile,Fertile Township Trustee,,Andy Hansen,,129,24,105
+Worth,Fertile,Fertile Township Trustee,,Randy Oswald,,162,34,128
+Worth,Fertile,Fertile Township Trustee,,Write-In,,1,0,1
+Worth,Brookfield Kensett,Governor,,Rob Sand and Dave Muhlbauer,DEM,132,48,84
+Worth,Danville Hanlontown,Governor,,Rob Sand and Dave Muhlbauer,DEM,90,18,72
+Worth,Deer Creek Barton Union Grove Grafton,Governor,,Rob Sand and Dave Muhlbauer,DEM,173,45,128
+Worth,Fertile,Governor,,Rob Sand and Dave Muhlbauer,DEM,139,31,108
+Worth,Hartland Grove Northwood,Governor,,Rob Sand and Dave Muhlbauer,DEM,479,188,291
+Worth,Lincoln Manly,Governor,,Rob Sand and Dave Muhlbauer,DEM,378,101,277
+Worth,Silver Lake Bristol Hartland Joice,Governor,,Rob Sand and Dave Muhlbauer,DEM,151,36,115
+Worth,Brookfield Kensett,Governor,,Write-In,,0,0,0
+Worth,Danville Hanlontown,Governor,,Write-In,,1,0,1
+Worth,Deer Creek Barton Union Grove Grafton,Governor,,Write-In,,0,0,0
+Worth,Fertile,Governor,,Write-In,,0,0,0
+Worth,Hartland Grove Northwood,Governor,,Write-In,,2,0,2
+Worth,Lincoln Manly,Governor,,Write-In,,1,0,1
+Worth,Silver Lake Bristol Hartland Joice,Governor,,Write-In,,0,0,0
+Worth,Brookfield Kensett,Governor,,Zach Lahn and Derek Wulf,REP,198,32,166
+Worth,Danville Hanlontown,Governor,,Zach Lahn and Derek Wulf,REP,126,16,110
+Worth,Deer Creek Barton Union Grove Grafton,Governor,,Zach Lahn and Derek Wulf,REP,294,46,248
+Worth,Fertile,Governor,,Zach Lahn and Derek Wulf,REP,210,29,181
+Worth,Hartland Grove Northwood,Governor,,Zach Lahn and Derek Wulf,REP,582,108,474
+Worth,Lincoln Manly,Governor,,Zach Lahn and Derek Wulf,REP,256,27,229
+Worth,Silver Lake Bristol Hartland Joice,Governor,,Zach Lahn and Derek Wulf,REP,213,17,196
+Worth,Deer Creek Barton Union Grove Grafton,Grove Township Clerk,,Erin Ducommun,,9,4,5
+Worth,Hartland Grove Northwood,Grove Township Clerk,,Erin Ducommun,,79,22,57
+Worth,Deer Creek Barton Union Grove Grafton,Grove Township Clerk,,Write-In,,0,0,0
+Worth,Hartland Grove Northwood,Grove Township Clerk,,Write-In,,2,0,2
+Worth,Deer Creek Barton Union Grove Grafton,Grove Township Trustee,,Annika Schreiber,,8,4,4
+Worth,Hartland Grove Northwood,Grove Township Trustee,,Annika Schreiber,,69,19,50
+Worth,Deer Creek Barton Union Grove Grafton,Grove Township Trustee,,Daniel J. Hendrikson,,10,4,6
+Worth,Hartland Grove Northwood,Grove Township Trustee,,Daniel J. Hendrikson,,79,26,53
+Worth,Deer Creek Barton Union Grove Grafton,Grove Township Trustee,,Write-In,,0,0,0
+Worth,Hartland Grove Northwood,Grove Township Trustee,,Write-In,,4,1,3
+Worth,Hartland Grove Northwood,Hartland Township Clerk,,Carol Bergo,,69,14,55
+Worth,Silver Lake Bristol Hartland Joice,Hartland Township Clerk,,Carol Bergo,,20,11,9
+Worth,Hartland Grove Northwood,Hartland Township Clerk,,Write-In,,1,0,1
+Worth,Silver Lake Bristol Hartland Joice,Hartland Township Clerk,,Write-In,,0,0,0
+Worth,Hartland Grove Northwood,Hartland Township Trustee,,Write-In,,17,3,14
+Worth,Silver Lake Bristol Hartland Joice,Hartland Township Trustee,,Write-In,,3,2,1
+Worth,Brookfield Kensett,Kensett Township Clerk,,Write-In,,14,2,12
+Worth,Brookfield Kensett,Kensett Township Trustee,,Ken Parcher,,99,20,79
+Worth,Brookfield Kensett,Kensett Township Trustee,,Write-In,,18,4,14
+Worth,Lincoln Manly,Lincoln Township Clerk,,Eythan Blair,,140,27,113
+Worth,Lincoln Manly,Lincoln Township Clerk,,Write-In,,1,0,1
+Worth,Lincoln Manly,Lincoln Township Trustee,,Brad Dietrich,,138,27,111
+Worth,Lincoln Manly,Lincoln Township Trustee,,Dennis L. Kruger,,127,31,96
+Worth,Lincoln Manly,Lincoln Township Trustee,,Write-In,,5,3,2
+Worth,Brookfield Kensett,Secretary of Agriculture,,Chris Jones,DEM,113,46,67
+Worth,Danville Hanlontown,Secretary of Agriculture,,Chris Jones,DEM,76,16,60
+Worth,Deer Creek Barton Union Grove Grafton,Secretary of Agriculture,,Chris Jones,DEM,140,36,104
+Worth,Fertile,Secretary of Agriculture,,Chris Jones,DEM,125,30,95
+Worth,Hartland Grove Northwood,Secretary of Agriculture,,Chris Jones,DEM,392,173,219
+Worth,Lincoln Manly,Secretary of Agriculture,,Chris Jones,DEM,314,88,226
+Worth,Silver Lake Bristol Hartland Joice,Secretary of Agriculture,,Chris Jones,DEM,131,33,98
+Worth,Brookfield Kensett,Secretary of Agriculture,,Mike Naig,REP,211,33,178
+Worth,Danville Hanlontown,Secretary of Agriculture,,Mike Naig,REP,138,18,120
+Worth,Deer Creek Barton Union Grove Grafton,Secretary of Agriculture,,Mike Naig,REP,324,53,271
+Worth,Fertile,Secretary of Agriculture,,Mike Naig,REP,223,30,193
+Worth,Hartland Grove Northwood,Secretary of Agriculture,,Mike Naig,REP,640,113,527
+Worth,Lincoln Manly,Secretary of Agriculture,,Mike Naig,REP,313,42,271
+Worth,Silver Lake Bristol Hartland Joice,Secretary of Agriculture,,Mike Naig,REP,227,19,208
+Worth,Brookfield Kensett,Secretary of Agriculture,,Write-In,,0,0,0
+Worth,Danville Hanlontown,Secretary of Agriculture,,Write-In,,0,0,0
+Worth,Deer Creek Barton Union Grove Grafton,Secretary of Agriculture,,Write-In,,0,0,0
+Worth,Fertile,Secretary of Agriculture,,Write-In,,1,0,1
+Worth,Hartland Grove Northwood,Secretary of Agriculture,,Write-In,,2,0,2
+Worth,Lincoln Manly,Secretary of Agriculture,,Write-In,,0,0,0
+Worth,Silver Lake Bristol Hartland Joice,Secretary of Agriculture,,Write-In,,0,0,0
+Worth,Brookfield Kensett,Secretary of State,,Paul D. Pate,REP,219,35,184
+Worth,Danville Hanlontown,Secretary of State,,Paul D. Pate,REP,131,18,113
+Worth,Deer Creek Barton Union Grove Grafton,Secretary of State,,Paul D. Pate,REP,315,50,265
+Worth,Fertile,Secretary of State,,Paul D. Pate,REP,228,30,198
+Worth,Hartland Grove Northwood,Secretary of State,,Paul D. Pate,REP,642,121,521
+Worth,Lincoln Manly,Secretary of State,,Paul D. Pate,REP,310,42,268
+Worth,Silver Lake Bristol Hartland Joice,Secretary of State,,Paul D. Pate,REP,224,17,207
+Worth,Brookfield Kensett,Secretary of State,,Ryan Peterman,DEM,104,44,60
+Worth,Danville Hanlontown,Secretary of State,,Ryan Peterman,DEM,79,15,64
+Worth,Deer Creek Barton Union Grove Grafton,Secretary of State,,Ryan Peterman,DEM,148,39,109
+Worth,Fertile,Secretary of State,,Ryan Peterman,DEM,120,29,91
+Worth,Hartland Grove Northwood,Secretary of State,,Ryan Peterman,DEM,399,170,229
+Worth,Lincoln Manly,Secretary of State,,Ryan Peterman,DEM,319,87,232
+Worth,Silver Lake Bristol Hartland Joice,Secretary of State,,Ryan Peterman,DEM,136,35,101
+Worth,Brookfield Kensett,Secretary of State,,Write-In,,0,0,0
+Worth,Danville Hanlontown,Secretary of State,,Write-In,,1,0,1
+Worth,Deer Creek Barton Union Grove Grafton,Secretary of State,,Write-In,,1,0,1
+Worth,Fertile,Secretary of State,,Write-In,,0,0,0
+Worth,Hartland Grove Northwood,Secretary of State,,Write-In,,2,0,2
+Worth,Lincoln Manly,Secretary of State,,Write-In,,0,0,0
+Worth,Silver Lake Bristol Hartland Joice,Secretary of State,,Write-In,,0,0,0
+Worth,Silver Lake Bristol Hartland Joice,Silver Lake Township Clerk,,Allan Wogen,,108,14,94
+Worth,Silver Lake Bristol Hartland Joice,Silver Lake Township Clerk,,Write-In,,0,0,0
+Worth,Silver Lake Bristol Hartland Joice,Silver Lake Township Trustee,,Curtis Singelstad,,102,13,89
+Worth,Silver Lake Bristol Hartland Joice,Silver Lake Township Trustee,,Rob Nelson,,79,10,69
+Worth,Silver Lake Bristol Hartland Joice,Silver Lake Township Trustee,,Write-In,,0,0,0
+Worth,Brookfield Kensett,Soil and Water Conservation District Commissioner,,Cary Van Veldhuizen,,248,53,195
+Worth,Danville Hanlontown,Soil and Water Conservation District Commissioner,,Cary Van Veldhuizen,,150,20,130
+Worth,Deer Creek Barton Union Grove Grafton,Soil and Water Conservation District Commissioner,,Cary Van Veldhuizen,,353,72,281
+Worth,Fertile,Soil and Water Conservation District Commissioner,,Cary Van Veldhuizen,,239,40,199
+Worth,Hartland Grove Northwood,Soil and Water Conservation District Commissioner,,Cary Van Veldhuizen,,812,213,599
+Worth,Lincoln Manly,Soil and Water Conservation District Commissioner,,Cary Van Veldhuizen,,381,79,302
+Worth,Silver Lake Bristol Hartland Joice,Soil and Water Conservation District Commissioner,,Cary Van Veldhuizen,,256,35,221
+Worth,Brookfield Kensett,Soil and Water Conservation District Commissioner,,Russell Olson,,247,60,187
+Worth,Danville Hanlontown,Soil and Water Conservation District Commissioner,,Russell Olson,,164,20,144
+Worth,Deer Creek Barton Union Grove Grafton,Soil and Water Conservation District Commissioner,,Russell Olson,,376,76,300
+Worth,Fertile,Soil and Water Conservation District Commissioner,,Russell Olson,,264,39,225
+Worth,Hartland Grove Northwood,Soil and Water Conservation District Commissioner,,Russell Olson,,782,215,567
+Worth,Lincoln Manly,Soil and Water Conservation District Commissioner,,Russell Olson,,454,90,364
+Worth,Silver Lake Bristol Hartland Joice,Soil and Water Conservation District Commissioner,,Russell Olson,,272,36,236
+Worth,Brookfield Kensett,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Worth,Danville Hanlontown,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Worth,Deer Creek Barton Union Grove Grafton,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Worth,Fertile,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Worth,Hartland Grove Northwood,Soil and Water Conservation District Commissioner,,Write-In,,13,2,11
+Worth,Lincoln Manly,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
+Worth,Silver Lake Bristol Hartland Joice,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Worth,Brookfield Kensett,State House,60,Alexander Schmidt,DEM,103,41,62
+Worth,Danville Hanlontown,State House,60,Alexander Schmidt,DEM,80,17,63
+Worth,Deer Creek Barton Union Grove Grafton,State House,60,Alexander Schmidt,DEM,138,36,102
+Worth,Fertile,State House,60,Alexander Schmidt,DEM,123,29,94
+Worth,Hartland Grove Northwood,State House,60,Alexander Schmidt,DEM,403,175,228
+Worth,Lincoln Manly,State House,60,Alexander Schmidt,DEM,315,83,232
+Worth,Silver Lake Bristol Hartland Joice,State House,60,Alexander Schmidt,DEM,135,34,101
+Worth,Brookfield Kensett,State House,60,Dani Ollenburg,REP,218,35,183
+Worth,Danville Hanlontown,State House,60,Dani Ollenburg,REP,134,16,118
+Worth,Deer Creek Barton Union Grove Grafton,State House,60,Dani Ollenburg,REP,325,53,272
+Worth,Fertile,State House,60,Dani Ollenburg,REP,225,31,194
+Worth,Hartland Grove Northwood,State House,60,Dani Ollenburg,REP,622,108,514
+Worth,Lincoln Manly,State House,60,Dani Ollenburg,REP,308,40,268
+Worth,Silver Lake Bristol Hartland Joice,State House,60,Dani Ollenburg,REP,226,19,207
+Worth,Brookfield Kensett,State House,60,Write-In,,2,1,1
+Worth,Danville Hanlontown,State House,60,Write-In,,1,1,0
+Worth,Deer Creek Barton Union Grove Grafton,State House,60,Write-In,,3,1,2
+Worth,Fertile,State House,60,Write-In,,1,0,1
+Worth,Hartland Grove Northwood,State House,60,Write-In,,17,6,11
+Worth,Lincoln Manly,State House,60,Write-In,,2,1,1
+Worth,Silver Lake Bristol Hartland Joice,State House,60,Write-In,,0,0,0
+Worth,Brookfield Kensett,Treasurer of State,,John Norwood,DEM,119,48,71
+Worth,Danville Hanlontown,Treasurer of State,,John Norwood,DEM,90,19,71
+Worth,Deer Creek Barton Union Grove Grafton,Treasurer of State,,John Norwood,DEM,158,44,114
+Worth,Fertile,Treasurer of State,,John Norwood,DEM,127,28,99
+Worth,Hartland Grove Northwood,Treasurer of State,,John Norwood,DEM,431,180,251
+Worth,Lincoln Manly,Treasurer of State,,John Norwood,DEM,329,92,237
+Worth,Silver Lake Bristol Hartland Joice,Treasurer of State,,John Norwood,DEM,140,36,104
+Worth,Brookfield Kensett,Treasurer of State,,Roby Smith,REP,202,31,171
+Worth,Danville Hanlontown,Treasurer of State,,Roby Smith,REP,122,14,108
+Worth,Deer Creek Barton Union Grove Grafton,Treasurer of State,,Roby Smith,REP,301,44,257
+Worth,Fertile,Treasurer of State,,Roby Smith,REP,219,32,187
+Worth,Hartland Grove Northwood,Treasurer of State,,Roby Smith,REP,607,108,499
+Worth,Lincoln Manly,Treasurer of State,,Roby Smith,REP,290,34,256
+Worth,Silver Lake Bristol Hartland Joice,Treasurer of State,,Roby Smith,REP,220,16,204
+Worth,Brookfield Kensett,Treasurer of State,,Write-In,,0,0,0
+Worth,Danville Hanlontown,Treasurer of State,,Write-In,,0,0,0
+Worth,Deer Creek Barton Union Grove Grafton,Treasurer of State,,Write-In,,0,0,0
+Worth,Fertile,Treasurer of State,,Write-In,,1,0,1
+Worth,Hartland Grove Northwood,Treasurer of State,,Write-In,,3,1,2
+Worth,Lincoln Manly,Treasurer of State,,Write-In,,0,0,0
+Worth,Silver Lake Bristol Hartland Joice,Treasurer of State,,Write-In,,0,0,0
+Worth,Brookfield Kensett,U.S. House,2,Dave Bushaw,,4,0,4
+Worth,Danville Hanlontown,U.S. House,2,Dave Bushaw,,5,1,4
+Worth,Deer Creek Barton Union Grove Grafton,U.S. House,2,Dave Bushaw,,7,1,6
+Worth,Fertile,U.S. House,2,Dave Bushaw,,5,1,4
+Worth,Hartland Grove Northwood,U.S. House,2,Dave Bushaw,,17,5,12
+Worth,Lincoln Manly,U.S. House,2,Dave Bushaw,,14,1,13
+Worth,Silver Lake Bristol Hartland Joice,U.S. House,2,Dave Bushaw,,2,0,2
+Worth,Brookfield Kensett,U.S. House,2,Joe Mitchell,REP,195,31,164
+Worth,Danville Hanlontown,U.S. House,2,Joe Mitchell,REP,120,13,107
+Worth,Deer Creek Barton Union Grove Grafton,U.S. House,2,Joe Mitchell,REP,273,37,236
+Worth,Fertile,U.S. House,2,Joe Mitchell,REP,206,30,176
+Worth,Hartland Grove Northwood,U.S. House,2,Joe Mitchell,REP,566,98,468
+Worth,Lincoln Manly,U.S. House,2,Joe Mitchell,REP,256,35,221
+Worth,Silver Lake Bristol Hartland Joice,U.S. House,2,Joe Mitchell,REP,208,15,193
+Worth,Brookfield Kensett,U.S. House,2,Lindsay James,DEM,120,48,72
+Worth,Danville Hanlontown,U.S. House,2,Lindsay James,DEM,82,18,64
+Worth,Deer Creek Barton Union Grove Grafton,U.S. House,2,Lindsay James,DEM,153,41,112
+Worth,Fertile,U.S. House,2,Lindsay James,DEM,123,29,94
+Worth,Hartland Grove Northwood,U.S. House,2,Lindsay James,DEM,414,175,239
+Worth,Lincoln Manly,U.S. House,2,Lindsay James,DEM,323,90,233
+Worth,Silver Lake Bristol Hartland Joice,U.S. House,2,Lindsay James,DEM,141,36,105
+Worth,Brookfield Kensett,U.S. House,2,Rick Stewart,LIB,5,0,5
+Worth,Danville Hanlontown,U.S. House,2,Rick Stewart,LIB,6,2,4
+Worth,Deer Creek Barton Union Grove Grafton,U.S. House,2,Rick Stewart,LIB,26,8,18
+Worth,Fertile,U.S. House,2,Rick Stewart,LIB,11,0,11
+Worth,Hartland Grove Northwood,U.S. House,2,Rick Stewart,LIB,41,9,32
+Worth,Lincoln Manly,U.S. House,2,Rick Stewart,LIB,32,1,31
+Worth,Silver Lake Bristol Hartland Joice,U.S. House,2,Rick Stewart,LIB,7,1,6
+Worth,Brookfield Kensett,U.S. House,2,Write-In,,1,0,1
+Worth,Danville Hanlontown,U.S. House,2,Write-In,,0,0,0
+Worth,Deer Creek Barton Union Grove Grafton,U.S. House,2,Write-In,,0,0,0
+Worth,Fertile,U.S. House,2,Write-In,,1,0,1
+Worth,Hartland Grove Northwood,U.S. House,2,Write-In,,2,0,2
+Worth,Lincoln Manly,U.S. House,2,Write-In,,0,0,0
+Worth,Silver Lake Bristol Hartland Joice,U.S. House,2,Write-In,,0,0,0
+Worth,Brookfield Kensett,U.S. Senate,,Ashley Hinson,REP,197,33,164
+Worth,Danville Hanlontown,U.S. Senate,,Ashley Hinson,REP,120,16,104
+Worth,Deer Creek Barton Union Grove Grafton,U.S. Senate,,Ashley Hinson,REP,267,42,225
+Worth,Fertile,U.S. Senate,,Ashley Hinson,REP,198,27,171
+Worth,Hartland Grove Northwood,U.S. Senate,,Ashley Hinson,REP,568,104,464
+Worth,Lincoln Manly,U.S. Senate,,Ashley Hinson,REP,268,34,234
+Worth,Silver Lake Bristol Hartland Joice,U.S. Senate,,Ashley Hinson,REP,208,15,193
+Worth,Brookfield Kensett,U.S. Senate,,Josh Turek,DEM,114,45,69
+Worth,Danville Hanlontown,U.S. Senate,,Josh Turek,DEM,88,17,71
+Worth,Deer Creek Barton Union Grove Grafton,U.S. Senate,,Josh Turek,DEM,168,37,131
+Worth,Fertile,U.S. Senate,,Josh Turek,DEM,127,31,96
+Worth,Hartland Grove Northwood,U.S. Senate,,Josh Turek,DEM,421,178,243
+Worth,Lincoln Manly,U.S. Senate,,Josh Turek,DEM,335,90,245
+Worth,Silver Lake Bristol Hartland Joice,U.S. Senate,,Josh Turek,DEM,140,34,106
+Worth,Brookfield Kensett,U.S. Senate,,Thomas Laehn,LIB,15,1,14
+Worth,Danville Hanlontown,U.S. Senate,,Thomas Laehn,LIB,8,1,7
+Worth,Deer Creek Barton Union Grove Grafton,U.S. Senate,,Thomas Laehn,LIB,25,7,18
+Worth,Fertile,U.S. Senate,,Thomas Laehn,LIB,22,1,21
+Worth,Hartland Grove Northwood,U.S. Senate,,Thomas Laehn,LIB,56,6,50
+Worth,Lincoln Manly,U.S. Senate,,Thomas Laehn,LIB,29,4,25
+Worth,Silver Lake Bristol Hartland Joice,U.S. Senate,,Thomas Laehn,LIB,13,3,10
+Worth,Brookfield Kensett,U.S. Senate,,Write-In,,1,0,1
+Worth,Danville Hanlontown,U.S. Senate,,Write-In,,1,0,1
+Worth,Deer Creek Barton Union Grove Grafton,U.S. Senate,,Write-In,,1,0,1
+Worth,Fertile,U.S. Senate,,Write-In,,0,0,0
+Worth,Hartland Grove Northwood,U.S. Senate,,Write-In,,2,0,2
+Worth,Lincoln Manly,U.S. Senate,,Write-In,,1,0,1
+Worth,Silver Lake Bristol Hartland Joice,U.S. Senate,,Write-In,,0,0,0
+Worth,Deer Creek Barton Union Grove Grafton,Union Township Clerk,,William H. Borchardt,,145,23,122
+Worth,Deer Creek Barton Union Grove Grafton,Union Township Clerk,,Write-In,,2,1,1
+Worth,Deer Creek Barton Union Grove Grafton,Union Township Trustee,,Justin Kruger,,128,26,102
+Worth,Deer Creek Barton Union Grove Grafton,Union Township Trustee,,Paul Hackbart,,133,26,107
+Worth,Deer Creek Barton Union Grove Grafton,Union Township Trustee,,Write-In,,0,0,0

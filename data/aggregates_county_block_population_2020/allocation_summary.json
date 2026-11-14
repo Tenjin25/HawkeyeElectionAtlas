@@ -209,6 +209,27 @@
           "output": "data/aggregates_county_block_population_2020/2024_contests_to_plan2_senate.csv"
         }
       }
+    },
+    {
+      "year": 2026,
+      "source": "data/aggregates_verified/2026_contests_to_county.csv",
+      "outputs": {
+        "congressional": {
+          "rows": 88,
+          "districts": 4,
+          "output": "data/aggregates_county_block_population_2020/2026_contests_to_plan2_congressional.csv"
+        },
+        "house": {
+          "rows": 2200,
+          "districts": 100,
+          "output": "data/aggregates_county_block_population_2020/2026_contests_to_plan2_house.csv"
+        },
+        "senate": {
+          "rows": 1100,
+          "districts": 50,
+          "output": "data/aggregates_county_block_population_2020/2026_contests_to_plan2_senate.csv"
+        }
+      }
     }
   ]
 }

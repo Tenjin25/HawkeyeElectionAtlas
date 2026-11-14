@@ -1,0 +1,911 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Franklin,Geneva/Ingham/East Mott,AGWSR School - Public Measure IR,,No,,53,23,30
+Franklin,Grant/Osceola,AGWSR School - Public Measure IR,,No,,78,22,56
+Franklin,Hamilton/Reeve,AGWSR School - Public Measure IR,,No,,4,0,4
+Franklin,Geneva/Ingham/East Mott,AGWSR School - Public Measure IR,,Yes,,47,5,42
+Franklin,Grant/Osceola,AGWSR School - Public Measure IR,,Yes,,80,21,59
+Franklin,Hamilton/Reeve,AGWSR School - Public Measure IR,,Yes,,14,2,12
+Franklin,Geneva/Ingham/East Mott,Attorney General,,Brenna Bird,REP,215,46,169
+Franklin,Grant/Osceola,Attorney General,,Brenna Bird,REP,191,44,147
+Franklin,Hamilton/Reeve,Attorney General,,Brenna Bird,REP,132,40,92
+Franklin,Hampton 1,Attorney General,,Brenna Bird,REP,125,35,90
+Franklin,Hampton 2,Attorney General,,Brenna Bird,REP,179,53,126
+Franklin,Hampton 3,Attorney General,,Brenna Bird,REP,252,103,149
+Franklin,Hampton 4,Attorney General,,Brenna Bird,REP,145,56,89
+Franklin,Marion,Attorney General,,Brenna Bird,REP,211,42,169
+Franklin,Oakland/Morgan/Lee,Attorney General,,Brenna Bird,REP,230,49,181
+Franklin,Richland/Ross/West Fork,Attorney General,,Brenna Bird,REP,505,106,399
+Franklin,West Mott,Attorney General,,Brenna Bird,REP,164,61,103
+Franklin,Wisner/Scott,Attorney General,,Brenna Bird,REP,159,35,124
+Franklin,Geneva/Ingham/East Mott,Attorney General,,Nate Willems,DEM,67,19,48
+Franklin,Grant/Osceola,Attorney General,,Nate Willems,DEM,66,18,48
+Franklin,Hamilton/Reeve,Attorney General,,Nate Willems,DEM,75,36,39
+Franklin,Hampton 1,Attorney General,,Nate Willems,DEM,127,60,67
+Franklin,Hampton 2,Attorney General,,Nate Willems,DEM,134,72,62
+Franklin,Hampton 3,Attorney General,,Nate Willems,DEM,171,88,83
+Franklin,Hampton 4,Attorney General,,Nate Willems,DEM,144,68,76
+Franklin,Marion,Attorney General,,Nate Willems,DEM,93,28,65
+Franklin,Oakland/Morgan/Lee,Attorney General,,Nate Willems,DEM,90,40,50
+Franklin,Richland/Ross/West Fork,Attorney General,,Nate Willems,DEM,247,78,169
+Franklin,West Mott,Attorney General,,Nate Willems,DEM,50,29,21
+Franklin,Wisner/Scott,Attorney General,,Nate Willems,DEM,43,18,25
+Franklin,Geneva/Ingham/East Mott,Attorney General,,Write-In,,0,0,0
+Franklin,Grant/Osceola,Attorney General,,Write-In,,0,0,0
+Franklin,Hamilton/Reeve,Attorney General,,Write-In,,0,0,0
+Franklin,Hampton 1,Attorney General,,Write-In,,0,0,0
+Franklin,Hampton 2,Attorney General,,Write-In,,0,0,0
+Franklin,Hampton 3,Attorney General,,Write-In,,0,0,0
+Franklin,Hampton 4,Attorney General,,Write-In,,0,0,0
+Franklin,Marion,Attorney General,,Write-In,,1,0,1
+Franklin,Oakland/Morgan/Lee,Attorney General,,Write-In,,0,0,0
+Franklin,Richland/Ross/West Fork,Attorney General,,Write-In,,1,0,1
+Franklin,West Mott,Attorney General,,Write-In,,0,0,0
+Franklin,Wisner/Scott,Attorney General,,Write-In,,0,0,0
+Franklin,Geneva/Ingham/East Mott,Auditor of State,,Chris Cournoyer,REP,212,43,169
+Franklin,Grant/Osceola,Auditor of State,,Chris Cournoyer,REP,196,44,152
+Franklin,Hamilton/Reeve,Auditor of State,,Chris Cournoyer,REP,135,43,92
+Franklin,Hampton 1,Auditor of State,,Chris Cournoyer,REP,117,32,85
+Franklin,Hampton 2,Auditor of State,,Chris Cournoyer,REP,179,56,123
+Franklin,Hampton 3,Auditor of State,,Chris Cournoyer,REP,236,98,138
+Franklin,Hampton 4,Auditor of State,,Chris Cournoyer,REP,137,52,85
+Franklin,Marion,Auditor of State,,Chris Cournoyer,REP,212,44,168
+Franklin,Oakland/Morgan/Lee,Auditor of State,,Chris Cournoyer,REP,227,49,178
+Franklin,Richland/Ross/West Fork,Auditor of State,,Chris Cournoyer,REP,510,104,406
+Franklin,West Mott,Auditor of State,,Chris Cournoyer,REP,159,57,102
+Franklin,Wisner/Scott,Auditor of State,,Chris Cournoyer,REP,160,37,123
+Franklin,Geneva/Ingham/East Mott,Auditor of State,,Taylor Wettach,DEM,65,20,45
+Franklin,Grant/Osceola,Auditor of State,,Taylor Wettach,DEM,57,15,42
+Franklin,Hamilton/Reeve,Auditor of State,,Taylor Wettach,DEM,73,34,39
+Franklin,Hampton 1,Auditor of State,,Taylor Wettach,DEM,127,60,67
+Franklin,Hampton 2,Auditor of State,,Taylor Wettach,DEM,127,66,61
+Franklin,Hampton 3,Auditor of State,,Taylor Wettach,DEM,183,94,89
+Franklin,Hampton 4,Auditor of State,,Taylor Wettach,DEM,144,67,77
+Franklin,Marion,Auditor of State,,Taylor Wettach,DEM,92,27,65
+Franklin,Oakland/Morgan/Lee,Auditor of State,,Taylor Wettach,DEM,83,36,47
+Franklin,Richland/Ross/West Fork,Auditor of State,,Taylor Wettach,DEM,227,77,150
+Franklin,West Mott,Auditor of State,,Taylor Wettach,DEM,51,30,21
+Franklin,Wisner/Scott,Auditor of State,,Taylor Wettach,DEM,44,17,27
+Franklin,Geneva/Ingham/East Mott,Auditor of State,,Write-In,,0,0,0
+Franklin,Grant/Osceola,Auditor of State,,Write-In,,0,0,0
+Franklin,Hamilton/Reeve,Auditor of State,,Write-In,,0,0,0
+Franklin,Hampton 1,Auditor of State,,Write-In,,0,0,0
+Franklin,Hampton 2,Auditor of State,,Write-In,,0,0,0
+Franklin,Hampton 3,Auditor of State,,Write-In,,0,0,0
+Franklin,Hampton 4,Auditor of State,,Write-In,,0,0,0
+Franklin,Marion,Auditor of State,,Write-In,,1,0,1
+Franklin,Oakland/Morgan/Lee,Auditor of State,,Write-In,,0,0,0
+Franklin,Richland/Ross/West Fork,Auditor of State,,Write-In,,1,0,1
+Franklin,West Mott,Auditor of State,,Write-In,,0,0,0
+Franklin,Wisner/Scott,Auditor of State,,Write-In,,0,0,0
+Franklin,Geneva/Ingham/East Mott,Constitutional Amendment 1,,No,,79,18,61
+Franklin,Grant/Osceola,Constitutional Amendment 1,,No,,67,16,51
+Franklin,Hamilton/Reeve,Constitutional Amendment 1,,No,,69,25,44
+Franklin,Hampton 1,Constitutional Amendment 1,,No,,91,29,62
+Franklin,Hampton 2,Constitutional Amendment 1,,No,,112,52,60
+Franklin,Hampton 3,Constitutional Amendment 1,,No,,158,57,101
+Franklin,Hampton 4,Constitutional Amendment 1,,No,,110,47,63
+Franklin,Marion,Constitutional Amendment 1,,No,,92,22,70
+Franklin,Oakland/Morgan/Lee,Constitutional Amendment 1,,No,,85,32,53
+Franklin,Richland/Ross/West Fork,Constitutional Amendment 1,,No,,203,57,146
+Franklin,West Mott,Constitutional Amendment 1,,No,,53,23,30
+Franklin,Wisner/Scott,Constitutional Amendment 1,,No,,58,17,41
+Franklin,Geneva/Ingham/East Mott,Constitutional Amendment 1,,Yes,,176,39,137
+Franklin,Grant/Osceola,Constitutional Amendment 1,,Yes,,177,44,133
+Franklin,Hamilton/Reeve,Constitutional Amendment 1,,Yes,,119,40,79
+Franklin,Hampton 1,Constitutional Amendment 1,,Yes,,141,55,86
+Franklin,Hampton 2,Constitutional Amendment 1,,Yes,,174,57,117
+Franklin,Hampton 3,Constitutional Amendment 1,,Yes,,225,106,119
+Franklin,Hampton 4,Constitutional Amendment 1,,Yes,,156,62,94
+Franklin,Marion,Constitutional Amendment 1,,Yes,,184,43,141
+Franklin,Oakland/Morgan/Lee,Constitutional Amendment 1,,Yes,,208,47,161
+Franklin,Richland/Ross/West Fork,Constitutional Amendment 1,,Yes,,487,110,377
+Franklin,West Mott,Constitutional Amendment 1,,Yes,,135,53,82
+Franklin,Wisner/Scott,Constitutional Amendment 1,,Yes,,120,29,91
+Franklin,Geneva/Ingham/East Mott,County Agricultural Extension Council Member,,Amanda Peterson,,196,41,155
+Franklin,Grant/Osceola,County Agricultural Extension Council Member,,Amanda Peterson,,135,33,102
+Franklin,Hamilton/Reeve,County Agricultural Extension Council Member,,Amanda Peterson,,141,45,96
+Franklin,Hampton 1,County Agricultural Extension Council Member,,Amanda Peterson,,136,50,86
+Franklin,Hampton 2,County Agricultural Extension Council Member,,Amanda Peterson,,168,58,110
+Franklin,Hampton 3,County Agricultural Extension Council Member,,Amanda Peterson,,252,112,140
+Franklin,Hampton 4,County Agricultural Extension Council Member,,Amanda Peterson,,160,57,103
+Franklin,Marion,County Agricultural Extension Council Member,,Amanda Peterson,,196,48,148
+Franklin,Oakland/Morgan/Lee,County Agricultural Extension Council Member,,Amanda Peterson,,186,52,134
+Franklin,Richland/Ross/West Fork,County Agricultural Extension Council Member,,Amanda Peterson,,480,101,379
+Franklin,West Mott,County Agricultural Extension Council Member,,Amanda Peterson,,135,54,81
+Franklin,Wisner/Scott,County Agricultural Extension Council Member,,Amanda Peterson,,109,22,87
+Franklin,Geneva/Ingham/East Mott,County Agricultural Extension Council Member,,Becky Dohlman,,175,39,136
+Franklin,Grant/Osceola,County Agricultural Extension Council Member,,Becky Dohlman,,149,36,113
+Franklin,Hamilton/Reeve,County Agricultural Extension Council Member,,Becky Dohlman,,150,51,99
+Franklin,Hampton 1,County Agricultural Extension Council Member,,Becky Dohlman,,144,52,92
+Franklin,Hampton 2,County Agricultural Extension Council Member,,Becky Dohlman,,186,63,123
+Franklin,Hampton 3,County Agricultural Extension Council Member,,Becky Dohlman,,268,120,148
+Franklin,Hampton 4,County Agricultural Extension Council Member,,Becky Dohlman,,172,59,113
+Franklin,Marion,County Agricultural Extension Council Member,,Becky Dohlman,,195,50,145
+Franklin,Oakland/Morgan/Lee,County Agricultural Extension Council Member,,Becky Dohlman,,193,53,140
+Franklin,Richland/Ross/West Fork,County Agricultural Extension Council Member,,Becky Dohlman,,494,109,385
+Franklin,West Mott,County Agricultural Extension Council Member,,Becky Dohlman,,133,55,78
+Franklin,Wisner/Scott,County Agricultural Extension Council Member,,Becky Dohlman,,110,24,86
+Franklin,Geneva/Ingham/East Mott,County Agricultural Extension Council Member,,Dawn Collins,,159,37,122
+Franklin,Grant/Osceola,County Agricultural Extension Council Member,,Dawn Collins,,126,32,94
+Franklin,Hamilton/Reeve,County Agricultural Extension Council Member,,Dawn Collins,,127,43,84
+Franklin,Hampton 1,County Agricultural Extension Council Member,,Dawn Collins,,125,43,82
+Franklin,Hampton 2,County Agricultural Extension Council Member,,Dawn Collins,,185,72,113
+Franklin,Hampton 3,County Agricultural Extension Council Member,,Dawn Collins,,267,116,151
+Franklin,Hampton 4,County Agricultural Extension Council Member,,Dawn Collins,,160,58,102
+Franklin,Marion,County Agricultural Extension Council Member,,Dawn Collins,,180,47,133
+Franklin,Oakland/Morgan/Lee,County Agricultural Extension Council Member,,Dawn Collins,,177,50,127
+Franklin,Richland/Ross/West Fork,County Agricultural Extension Council Member,,Dawn Collins,,463,98,365
+Franklin,West Mott,County Agricultural Extension Council Member,,Dawn Collins,,133,55,78
+Franklin,Wisner/Scott,County Agricultural Extension Council Member,,Dawn Collins,,106,23,83
+Franklin,Geneva/Ingham/East Mott,County Agricultural Extension Council Member,,Jeff Burkley,,199,41,158
+Franklin,Grant/Osceola,County Agricultural Extension Council Member,,Jeff Burkley,,173,43,130
+Franklin,Hamilton/Reeve,County Agricultural Extension Council Member,,Jeff Burkley,,148,46,102
+Franklin,Hampton 1,County Agricultural Extension Council Member,,Jeff Burkley,,149,54,95
+Franklin,Hampton 2,County Agricultural Extension Council Member,,Jeff Burkley,,171,62,109
+Franklin,Hampton 3,County Agricultural Extension Council Member,,Jeff Burkley,,249,116,133
+Franklin,Hampton 4,County Agricultural Extension Council Member,,Jeff Burkley,,167,63,104
+Franklin,Marion,County Agricultural Extension Council Member,,Jeff Burkley,,195,46,149
+Franklin,Oakland/Morgan/Lee,County Agricultural Extension Council Member,,Jeff Burkley,,196,52,144
+Franklin,Richland/Ross/West Fork,County Agricultural Extension Council Member,,Jeff Burkley,,485,99,386
+Franklin,West Mott,County Agricultural Extension Council Member,,Jeff Burkley,,146,56,90
+Franklin,Wisner/Scott,County Agricultural Extension Council Member,,Jeff Burkley,,121,24,97
+Franklin,Geneva/Ingham/East Mott,County Agricultural Extension Council Member,,Kari Subbert,,162,38,124
+Franklin,Grant/Osceola,County Agricultural Extension Council Member,,Kari Subbert,,127,32,95
+Franklin,Hamilton/Reeve,County Agricultural Extension Council Member,,Kari Subbert,,139,45,94
+Franklin,Hampton 1,County Agricultural Extension Council Member,,Kari Subbert,,128,47,81
+Franklin,Hampton 2,County Agricultural Extension Council Member,,Kari Subbert,,173,58,115
+Franklin,Hampton 3,County Agricultural Extension Council Member,,Kari Subbert,,243,109,134
+Franklin,Hampton 4,County Agricultural Extension Council Member,,Kari Subbert,,163,61,102
+Franklin,Marion,County Agricultural Extension Council Member,,Kari Subbert,,176,43,133
+Franklin,Oakland/Morgan/Lee,County Agricultural Extension Council Member,,Kari Subbert,,178,50,128
+Franklin,Richland/Ross/West Fork,County Agricultural Extension Council Member,,Kari Subbert,,448,91,357
+Franklin,West Mott,County Agricultural Extension Council Member,,Kari Subbert,,132,53,79
+Franklin,Wisner/Scott,County Agricultural Extension Council Member,,Kari Subbert,,106,23,83
+Franklin,Geneva/Ingham/East Mott,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Franklin,Grant/Osceola,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Franklin,Hamilton/Reeve,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Franklin,Hampton 1,County Agricultural Extension Council Member,,Write-In,,6,1,5
+Franklin,Hampton 2,County Agricultural Extension Council Member,,Write-In,,6,3,3
+Franklin,Hampton 3,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Franklin,Hampton 4,County Agricultural Extension Council Member,,Write-In,,6,0,6
+Franklin,Marion,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Franklin,Oakland/Morgan/Lee,County Agricultural Extension Council Member,,Write-In,,3,0,3
+Franklin,Richland/Ross/West Fork,County Agricultural Extension Council Member,,Write-In,,14,0,14
+Franklin,West Mott,County Agricultural Extension Council Member,,Write-In,,5,1,4
+Franklin,Wisner/Scott,County Agricultural Extension Council Member,,Write-In,,2,1,1
+Franklin,Geneva/Ingham/East Mott,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,6,2,4
+Franklin,Grant/Osceola,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,11,2,9
+Franklin,Hamilton/Reeve,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,14,1,13
+Franklin,Hampton 1,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,7,3,4
+Franklin,Hampton 2,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,9,1,8
+Franklin,Hampton 3,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,9,4,5
+Franklin,Hampton 4,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,14,4,10
+Franklin,Marion,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,12,0,12
+Franklin,Oakland/Morgan/Lee,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,13,3,10
+Franklin,Richland/Ross/West Fork,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,27,7,20
+Franklin,West Mott,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,5,3,2
+Franklin,Wisner/Scott,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,8,2,6
+Franklin,Geneva/Ingham/East Mott,County Attorney,,Andrea Miller,REP,252,52,200
+Franklin,Grant/Osceola,County Attorney,,Andrea Miller,REP,226,50,176
+Franklin,Hamilton/Reeve,County Attorney,,Andrea Miller,REP,168,51,117
+Franklin,Hampton 1,County Attorney,,Andrea Miller,REP,195,70,125
+Franklin,Hampton 2,County Attorney,,Andrea Miller,REP,248,86,162
+Franklin,Hampton 3,County Attorney,,Andrea Miller,REP,361,159,202
+Franklin,Hampton 4,County Attorney,,Andrea Miller,REP,225,88,137
+Franklin,Marion,County Attorney,,Andrea Miller,REP,262,59,203
+Franklin,Oakland/Morgan/Lee,County Attorney,,Andrea Miller,REP,269,66,203
+Franklin,Richland/Ross/West Fork,County Attorney,,Andrea Miller,REP,653,143,510
+Franklin,West Mott,County Attorney,,Andrea Miller,REP,182,73,109
+Franklin,Wisner/Scott,County Attorney,,Andrea Miller,REP,180,44,136
+Franklin,Geneva/Ingham/East Mott,County Attorney,,Write-In,,3,2,1
+Franklin,Grant/Osceola,County Attorney,,Write-In,,1,0,1
+Franklin,Hamilton/Reeve,County Attorney,,Write-In,,5,1,4
+Franklin,Hampton 1,County Attorney,,Write-In,,4,0,4
+Franklin,Hampton 2,County Attorney,,Write-In,,5,2,3
+Franklin,Hampton 3,County Attorney,,Write-In,,9,2,7
+Franklin,Hampton 4,County Attorney,,Write-In,,10,3,7
+Franklin,Marion,County Attorney,,Write-In,,2,0,2
+Franklin,Oakland/Morgan/Lee,County Attorney,,Write-In,,3,1,2
+Franklin,Richland/Ross/West Fork,County Attorney,,Write-In,,7,2,5
+Franklin,West Mott,County Attorney,,Write-In,,4,1,3
+Franklin,Wisner/Scott,County Attorney,,Write-In,,2,1,1
+Franklin,Geneva/Ingham/East Mott,County Hospital Trustee,,Nancy Showalter,,218,46,172
+Franklin,Grant/Osceola,County Hospital Trustee,,Nancy Showalter,,181,40,141
+Franklin,Hamilton/Reeve,County Hospital Trustee,,Nancy Showalter,,160,54,106
+Franklin,Hampton 1,County Hospital Trustee,,Nancy Showalter,,172,65,107
+Franklin,Hampton 2,County Hospital Trustee,,Nancy Showalter,,224,76,148
+Franklin,Hampton 3,County Hospital Trustee,,Nancy Showalter,,321,150,171
+Franklin,Hampton 4,County Hospital Trustee,,Nancy Showalter,,187,77,110
+Franklin,Marion,County Hospital Trustee,,Nancy Showalter,,232,57,175
+Franklin,Oakland/Morgan/Lee,County Hospital Trustee,,Nancy Showalter,,228,57,171
+Franklin,Richland/Ross/West Fork,County Hospital Trustee,,Nancy Showalter,,468,116,352
+Franklin,West Mott,County Hospital Trustee,,Nancy Showalter,,161,71,90
+Franklin,Wisner/Scott,County Hospital Trustee,,Nancy Showalter,,132,34,98
+Franklin,Geneva/Ingham/East Mott,County Hospital Trustee,,Tracy Shreckengost,,171,41,130
+Franklin,Grant/Osceola,County Hospital Trustee,,Tracy Shreckengost,,140,32,108
+Franklin,Hamilton/Reeve,County Hospital Trustee,,Tracy Shreckengost,,140,49,91
+Franklin,Hampton 1,County Hospital Trustee,,Tracy Shreckengost,,126,48,78
+Franklin,Hampton 2,County Hospital Trustee,,Tracy Shreckengost,,194,74,120
+Franklin,Hampton 3,County Hospital Trustee,,Tracy Shreckengost,,270,129,141
+Franklin,Hampton 4,County Hospital Trustee,,Tracy Shreckengost,,191,81,110
+Franklin,Marion,County Hospital Trustee,,Tracy Shreckengost,,202,51,151
+Franklin,Oakland/Morgan/Lee,County Hospital Trustee,,Tracy Shreckengost,,161,53,108
+Franklin,Richland/Ross/West Fork,County Hospital Trustee,,Tracy Shreckengost,,602,127,475
+Franklin,West Mott,County Hospital Trustee,,Tracy Shreckengost,,157,62,95
+Franklin,Wisner/Scott,County Hospital Trustee,,Tracy Shreckengost,,119,33,86
+Franklin,Geneva/Ingham/East Mott,County Hospital Trustee,,Write-In,,1,0,1
+Franklin,Grant/Osceola,County Hospital Trustee,,Write-In,,0,0,0
+Franklin,Hamilton/Reeve,County Hospital Trustee,,Write-In,,2,2,0
+Franklin,Hampton 1,County Hospital Trustee,,Write-In,,1,0,1
+Franklin,Hampton 2,County Hospital Trustee,,Write-In,,3,2,1
+Franklin,Hampton 3,County Hospital Trustee,,Write-In,,3,0,3
+Franklin,Hampton 4,County Hospital Trustee,,Write-In,,8,3,5
+Franklin,Marion,County Hospital Trustee,,Write-In,,1,0,1
+Franklin,Oakland/Morgan/Lee,County Hospital Trustee,,Write-In,,5,0,5
+Franklin,Richland/Ross/West Fork,County Hospital Trustee,,Write-In,,6,0,6
+Franklin,West Mott,County Hospital Trustee,,Write-In,,1,0,1
+Franklin,Wisner/Scott,County Hospital Trustee,,Write-In,,1,0,1
+Franklin,Geneva/Ingham/East Mott,County Recorder,,Heather Bushbaum,REP,187,41,146
+Franklin,Grant/Osceola,County Recorder,,Heather Bushbaum,REP,170,45,125
+Franklin,Hamilton/Reeve,County Recorder,,Heather Bushbaum,REP,133,46,87
+Franklin,Hampton 1,County Recorder,,Heather Bushbaum,REP,143,45,98
+Franklin,Hampton 2,County Recorder,,Heather Bushbaum,REP,196,70,126
+Franklin,Hampton 3,County Recorder,,Heather Bushbaum,REP,287,130,157
+Franklin,Hampton 4,County Recorder,,Heather Bushbaum,REP,190,76,114
+Franklin,Marion,County Recorder,,Heather Bushbaum,REP,209,45,164
+Franklin,Oakland/Morgan/Lee,County Recorder,,Heather Bushbaum,REP,211,46,165
+Franklin,Richland/Ross/West Fork,County Recorder,,Heather Bushbaum,REP,519,103,416
+Franklin,West Mott,County Recorder,,Heather Bushbaum,REP,165,69,96
+Franklin,Wisner/Scott,County Recorder,,Heather Bushbaum,REP,148,34,114
+Franklin,Geneva/Ingham/East Mott,County Recorder,,Nancy Knipfel,,94,23,71
+Franklin,Grant/Osceola,County Recorder,,Nancy Knipfel,,75,12,63
+Franklin,Hamilton/Reeve,County Recorder,,Nancy Knipfel,,64,22,42
+Franklin,Hampton 1,County Recorder,,Nancy Knipfel,,86,38,48
+Franklin,Hampton 2,County Recorder,,Nancy Knipfel,,96,37,59
+Franklin,Hampton 3,County Recorder,,Nancy Knipfel,,123,55,68
+Franklin,Hampton 4,County Recorder,,Nancy Knipfel,,72,35,37
+Franklin,Marion,County Recorder,,Nancy Knipfel,,80,20,60
+Franklin,Oakland/Morgan/Lee,County Recorder,,Nancy Knipfel,,85,32,53
+Franklin,Richland/Ross/West Fork,County Recorder,,Nancy Knipfel,,201,61,140
+Franklin,West Mott,County Recorder,,Nancy Knipfel,,46,17,29
+Franklin,Wisner/Scott,County Recorder,,Nancy Knipfel,,44,14,30
+Franklin,Geneva/Ingham/East Mott,County Recorder,,Write-In,,0,0,0
+Franklin,Grant/Osceola,County Recorder,,Write-In,,0,0,0
+Franklin,Hamilton/Reeve,County Recorder,,Write-In,,1,0,1
+Franklin,Hampton 1,County Recorder,,Write-In,,1,0,1
+Franklin,Hampton 2,County Recorder,,Write-In,,0,0,0
+Franklin,Hampton 3,County Recorder,,Write-In,,1,0,1
+Franklin,Hampton 4,County Recorder,,Write-In,,6,2,4
+Franklin,Marion,County Recorder,,Write-In,,0,0,0
+Franklin,Oakland/Morgan/Lee,County Recorder,,Write-In,,1,0,1
+Franklin,Richland/Ross/West Fork,County Recorder,,Write-In,,2,0,2
+Franklin,West Mott,County Recorder,,Write-In,,0,0,0
+Franklin,Wisner/Scott,County Recorder,,Write-In,,0,0,0
+Franklin,Geneva/Ingham/East Mott,County Soil and Water Conservation District Commissioner,,Write-In,,19,5,14
+Franklin,Grant/Osceola,County Soil and Water Conservation District Commissioner,,Write-In,,18,2,16
+Franklin,Hamilton/Reeve,County Soil and Water Conservation District Commissioner,,Write-In,,17,2,15
+Franklin,Hampton 1,County Soil and Water Conservation District Commissioner,,Write-In,,17,4,13
+Franklin,Hampton 2,County Soil and Water Conservation District Commissioner,,Write-In,,24,4,20
+Franklin,Hampton 3,County Soil and Water Conservation District Commissioner,,Write-In,,18,8,10
+Franklin,Hampton 4,County Soil and Water Conservation District Commissioner,,Write-In,,20,7,13
+Franklin,Marion,County Soil and Water Conservation District Commissioner,,Write-In,,39,4,35
+Franklin,Oakland/Morgan/Lee,County Soil and Water Conservation District Commissioner,,Write-In,,27,3,24
+Franklin,Richland/Ross/West Fork,County Soil and Water Conservation District Commissioner,,Write-In,,49,10,39
+Franklin,West Mott,County Soil and Water Conservation District Commissioner,,Write-In,,19,10,9
+Franklin,Wisner/Scott,County Soil and Water Conservation District Commissioner,,Write-In,,15,3,12
+Franklin,Geneva/Ingham/East Mott,County Supervisor,1,Larry Sailer,REP,252,55,197
+Franklin,Grant/Osceola,County Supervisor,1,Larry Sailer,REP,230,48,182
+Franklin,Hamilton/Reeve,County Supervisor,1,Larry Sailer,REP,155,49,106
+Franklin,Hampton 2,County Supervisor,1,Larry Sailer,REP,234,79,155
+Franklin,Marion,County Supervisor,1,Larry Sailer,REP,264,59,205
+Franklin,Geneva/Ingham/East Mott,County Supervisor,1,Write-In,,6,1,5
+Franklin,Grant/Osceola,County Supervisor,1,Write-In,,1,1,0
+Franklin,Hamilton/Reeve,County Supervisor,1,Write-In,,16,3,13
+Franklin,Hampton 2,County Supervisor,1,Write-In,,9,2,7
+Franklin,Marion,County Supervisor,1,Write-In,,7,2,5
+Franklin,Hampton 1,County Supervisor,2,Richard Lukensmeyer,REP,198,71,127
+Franklin,Hampton 3,County Supervisor,2,Richard Lukensmeyer,REP,358,155,203
+Franklin,Hampton 4,County Supervisor,2,Richard Lukensmeyer,REP,215,84,131
+Franklin,Hampton 1,County Supervisor,2,Write-In,,4,1,3
+Franklin,Hampton 3,County Supervisor,2,Write-In,,10,5,5
+Franklin,Hampton 4,County Supervisor,2,Write-In,,15,6,9
+Franklin,Geneva/Ingham/East Mott,County Treasurer,,Chad W. Murray,REP,263,57,206
+Franklin,Grant/Osceola,County Treasurer,,Chad W. Murray,REP,238,56,182
+Franklin,Hamilton/Reeve,County Treasurer,,Chad W. Murray,REP,168,50,118
+Franklin,Hampton 1,County Treasurer,,Chad W. Murray,REP,203,72,131
+Franklin,Hampton 2,County Treasurer,,Chad W. Murray,REP,258,90,168
+Franklin,Hampton 3,County Treasurer,,Chad W. Murray,REP,375,164,211
+Franklin,Hampton 4,County Treasurer,,Chad W. Murray,REP,232,94,138
+Franklin,Marion,County Treasurer,,Chad W. Murray,REP,273,62,211
+Franklin,Oakland/Morgan/Lee,County Treasurer,,Chad W. Murray,REP,280,69,211
+Franklin,Richland/Ross/West Fork,County Treasurer,,Chad W. Murray,REP,671,147,524
+Franklin,West Mott,County Treasurer,,Chad W. Murray,REP,183,70,113
+Franklin,Wisner/Scott,County Treasurer,,Chad W. Murray,REP,184,46,138
+Franklin,Geneva/Ingham/East Mott,County Treasurer,,Write-In,,1,1,0
+Franklin,Grant/Osceola,County Treasurer,,Write-In,,1,0,1
+Franklin,Hamilton/Reeve,County Treasurer,,Write-In,,7,0,7
+Franklin,Hampton 1,County Treasurer,,Write-In,,2,0,2
+Franklin,Hampton 2,County Treasurer,,Write-In,,3,1,2
+Franklin,Hampton 3,County Treasurer,,Write-In,,9,2,7
+Franklin,Hampton 4,County Treasurer,,Write-In,,11,3,8
+Franklin,Marion,County Treasurer,,Write-In,,3,1,2
+Franklin,Oakland/Morgan/Lee,County Treasurer,,Write-In,,4,1,3
+Franklin,Richland/Ross/West Fork,County Treasurer,,Write-In,,7,1,6
+Franklin,West Mott,County Treasurer,,Write-In,,1,0,1
+Franklin,Wisner/Scott,County Treasurer,,Write-In,,0,0,0
+Franklin,Geneva/Ingham/East Mott,Court of Appeals Judge - John M. Sandy,,No,,42,18,24
+Franklin,Grant/Osceola,Court of Appeals Judge - John M. Sandy,,No,,41,8,33
+Franklin,Hamilton/Reeve,Court of Appeals Judge - John M. Sandy,,No,,37,14,23
+Franklin,Hampton 1,Court of Appeals Judge - John M. Sandy,,No,,35,14,21
+Franklin,Hampton 2,Court of Appeals Judge - John M. Sandy,,No,,51,22,29
+Franklin,Hampton 3,Court of Appeals Judge - John M. Sandy,,No,,79,30,49
+Franklin,Hampton 4,Court of Appeals Judge - John M. Sandy,,No,,57,20,37
+Franklin,Marion,Court of Appeals Judge - John M. Sandy,,No,,51,10,41
+Franklin,Oakland/Morgan/Lee,Court of Appeals Judge - John M. Sandy,,No,,60,10,50
+Franklin,Richland/Ross/West Fork,Court of Appeals Judge - John M. Sandy,,No,,114,20,94
+Franklin,West Mott,Court of Appeals Judge - John M. Sandy,,No,,35,9,26
+Franklin,Wisner/Scott,Court of Appeals Judge - John M. Sandy,,No,,32,5,27
+Franklin,Geneva/Ingham/East Mott,Court of Appeals Judge - John M. Sandy,,Yes,,146,25,121
+Franklin,Grant/Osceola,Court of Appeals Judge - John M. Sandy,,Yes,,137,29,108
+Franklin,Hamilton/Reeve,Court of Appeals Judge - John M. Sandy,,Yes,,107,33,74
+Franklin,Hampton 1,Court of Appeals Judge - John M. Sandy,,Yes,,139,51,88
+Franklin,Hampton 2,Court of Appeals Judge - John M. Sandy,,Yes,,153,50,103
+Franklin,Hampton 3,Court of Appeals Judge - John M. Sandy,,Yes,,225,95,130
+Franklin,Hampton 4,Court of Appeals Judge - John M. Sandy,,Yes,,145,48,97
+Franklin,Marion,Court of Appeals Judge - John M. Sandy,,Yes,,181,40,141
+Franklin,Oakland/Morgan/Lee,Court of Appeals Judge - John M. Sandy,,Yes,,166,42,124
+Franklin,Richland/Ross/West Fork,Court of Appeals Judge - John M. Sandy,,Yes,,421,89,332
+Franklin,West Mott,Court of Appeals Judge - John M. Sandy,,Yes,,106,45,61
+Franklin,Wisner/Scott,Court of Appeals Judge - John M. Sandy,,Yes,,109,26,83
+Franklin,Geneva/Ingham/East Mott,Court of Appeals Judge - Julie A. Schumacher,,No,,41,16,25
+Franklin,Grant/Osceola,Court of Appeals Judge - Julie A. Schumacher,,No,,38,8,30
+Franklin,Hamilton/Reeve,Court of Appeals Judge - Julie A. Schumacher,,No,,35,14,21
+Franklin,Hampton 1,Court of Appeals Judge - Julie A. Schumacher,,No,,38,17,21
+Franklin,Hampton 2,Court of Appeals Judge - Julie A. Schumacher,,No,,56,24,32
+Franklin,Hampton 3,Court of Appeals Judge - Julie A. Schumacher,,No,,72,23,49
+Franklin,Hampton 4,Court of Appeals Judge - Julie A. Schumacher,,No,,51,19,32
+Franklin,Marion,Court of Appeals Judge - Julie A. Schumacher,,No,,59,10,49
+Franklin,Oakland/Morgan/Lee,Court of Appeals Judge - Julie A. Schumacher,,No,,56,9,47
+Franklin,Richland/Ross/West Fork,Court of Appeals Judge - Julie A. Schumacher,,No,,111,20,91
+Franklin,West Mott,Court of Appeals Judge - Julie A. Schumacher,,No,,41,10,31
+Franklin,Wisner/Scott,Court of Appeals Judge - Julie A. Schumacher,,No,,30,5,25
+Franklin,Geneva/Ingham/East Mott,Court of Appeals Judge - Julie A. Schumacher,,Yes,,153,28,125
+Franklin,Grant/Osceola,Court of Appeals Judge - Julie A. Schumacher,,Yes,,142,31,111
+Franklin,Hamilton/Reeve,Court of Appeals Judge - Julie A. Schumacher,,Yes,,107,31,76
+Franklin,Hampton 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,139,49,90
+Franklin,Hampton 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,149,48,101
+Franklin,Hampton 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,238,105,133
+Franklin,Hampton 4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,154,52,102
+Franklin,Marion,Court of Appeals Judge - Julie A. Schumacher,,Yes,,175,40,135
+Franklin,Oakland/Morgan/Lee,Court of Appeals Judge - Julie A. Schumacher,,Yes,,173,46,127
+Franklin,Richland/Ross/West Fork,Court of Appeals Judge - Julie A. Schumacher,,Yes,,423,87,336
+Franklin,West Mott,Court of Appeals Judge - Julie A. Schumacher,,Yes,,100,43,57
+Franklin,Wisner/Scott,Court of Appeals Judge - Julie A. Schumacher,,Yes,,112,27,85
+Franklin,Geneva/Ingham/East Mott,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,44,17,27
+Franklin,Grant/Osceola,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,45,10,35
+Franklin,Hamilton/Reeve,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,35,14,21
+Franklin,Hampton 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,33,14,19
+Franklin,Hampton 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,59,24,35
+Franklin,Hampton 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,69,22,47
+Franklin,Hampton 4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,54,18,36
+Franklin,Marion,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,55,10,45
+Franklin,Oakland/Morgan/Lee,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,69,11,58
+Franklin,Richland/Ross/West Fork,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,115,24,91
+Franklin,West Mott,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,37,10,27
+Franklin,Wisner/Scott,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,32,4,28
+Franklin,Geneva/Ingham/East Mott,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,150,28,122
+Franklin,Grant/Osceola,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,131,26,105
+Franklin,Hamilton/Reeve,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,111,34,77
+Franklin,Hampton 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,146,52,94
+Franklin,Hampton 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,146,48,98
+Franklin,Hampton 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,242,105,137
+Franklin,Hampton 4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,151,52,99
+Franklin,Marion,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,182,42,140
+Franklin,Oakland/Morgan/Lee,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,161,41,120
+Franklin,Richland/Ross/West Fork,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,422,85,337
+Franklin,West Mott,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,106,45,61
+Franklin,Wisner/Scott,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,111,27,84
+Franklin,Geneva/Ingham/East Mott,District 2A Associate Judge - Adam Sauer,,No,,41,17,24
+Franklin,Grant/Osceola,District 2A Associate Judge - Adam Sauer,,No,,43,9,34
+Franklin,Hamilton/Reeve,District 2A Associate Judge - Adam Sauer,,No,,31,12,19
+Franklin,Hampton 1,District 2A Associate Judge - Adam Sauer,,No,,36,14,22
+Franklin,Hampton 2,District 2A Associate Judge - Adam Sauer,,No,,48,24,24
+Franklin,Hampton 3,District 2A Associate Judge - Adam Sauer,,No,,71,24,47
+Franklin,Hampton 4,District 2A Associate Judge - Adam Sauer,,No,,50,18,32
+Franklin,Marion,District 2A Associate Judge - Adam Sauer,,No,,49,11,38
+Franklin,Oakland/Morgan/Lee,District 2A Associate Judge - Adam Sauer,,No,,56,9,47
+Franklin,Richland/Ross/West Fork,District 2A Associate Judge - Adam Sauer,,No,,107,16,91
+Franklin,West Mott,District 2A Associate Judge - Adam Sauer,,No,,29,6,23
+Franklin,Wisner/Scott,District 2A Associate Judge - Adam Sauer,,No,,32,6,26
+Franklin,Geneva/Ingham/East Mott,District 2A Associate Judge - Adam Sauer,,Yes,,148,26,122
+Franklin,Grant/Osceola,District 2A Associate Judge - Adam Sauer,,Yes,,132,28,104
+Franklin,Hamilton/Reeve,District 2A Associate Judge - Adam Sauer,,Yes,,110,32,78
+Franklin,Hampton 1,District 2A Associate Judge - Adam Sauer,,Yes,,138,50,88
+Franklin,Hampton 2,District 2A Associate Judge - Adam Sauer,,Yes,,158,49,109
+Franklin,Hampton 3,District 2A Associate Judge - Adam Sauer,,Yes,,235,98,137
+Franklin,Hampton 4,District 2A Associate Judge - Adam Sauer,,Yes,,152,52,100
+Franklin,Marion,District 2A Associate Judge - Adam Sauer,,Yes,,184,42,142
+Franklin,Oakland/Morgan/Lee,District 2A Associate Judge - Adam Sauer,,Yes,,167,43,124
+Franklin,Richland/Ross/West Fork,District 2A Associate Judge - Adam Sauer,,Yes,,426,92,334
+Franklin,West Mott,District 2A Associate Judge - Adam Sauer,,Yes,,111,49,62
+Franklin,Wisner/Scott,District 2A Associate Judge - Adam Sauer,,Yes,,106,25,81
+Franklin,Geneva/Ingham/East Mott,District 2A Associate Judge - Karen Kaufman Salic,,No,,42,15,27
+Franklin,Grant/Osceola,District 2A Associate Judge - Karen Kaufman Salic,,No,,49,9,40
+Franklin,Hamilton/Reeve,District 2A Associate Judge - Karen Kaufman Salic,,No,,38,14,24
+Franklin,Hampton 1,District 2A Associate Judge - Karen Kaufman Salic,,No,,39,13,26
+Franklin,Hampton 2,District 2A Associate Judge - Karen Kaufman Salic,,No,,57,23,34
+Franklin,Hampton 3,District 2A Associate Judge - Karen Kaufman Salic,,No,,73,24,49
+Franklin,Hampton 4,District 2A Associate Judge - Karen Kaufman Salic,,No,,53,17,36
+Franklin,Marion,District 2A Associate Judge - Karen Kaufman Salic,,No,,63,13,50
+Franklin,Oakland/Morgan/Lee,District 2A Associate Judge - Karen Kaufman Salic,,No,,56,9,47
+Franklin,Richland/Ross/West Fork,District 2A Associate Judge - Karen Kaufman Salic,,No,,122,23,99
+Franklin,West Mott,District 2A Associate Judge - Karen Kaufman Salic,,No,,35,9,26
+Franklin,Wisner/Scott,District 2A Associate Judge - Karen Kaufman Salic,,No,,35,5,30
+Franklin,Geneva/Ingham/East Mott,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,145,29,116
+Franklin,Grant/Osceola,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,128,30,98
+Franklin,Hamilton/Reeve,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,103,31,72
+Franklin,Hampton 1,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,136,51,85
+Franklin,Hampton 2,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,146,48,98
+Franklin,Hampton 3,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,231,99,132
+Franklin,Hampton 4,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,151,54,97
+Franklin,Marion,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,170,39,131
+Franklin,Oakland/Morgan/Lee,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,166,43,123
+Franklin,Richland/Ross/West Fork,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,407,83,324
+Franklin,West Mott,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,105,46,59
+Franklin,Wisner/Scott,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,106,26,80
+Franklin,Geneva/Ingham/East Mott,District 2A Associate Judge - Mark Milder,,No,,40,17,23
+Franklin,Grant/Osceola,District 2A Associate Judge - Mark Milder,,No,,43,8,35
+Franklin,Hamilton/Reeve,District 2A Associate Judge - Mark Milder,,No,,34,13,21
+Franklin,Hampton 1,District 2A Associate Judge - Mark Milder,,No,,39,14,25
+Franklin,Hampton 2,District 2A Associate Judge - Mark Milder,,No,,52,21,31
+Franklin,Hampton 3,District 2A Associate Judge - Mark Milder,,No,,79,24,55
+Franklin,Hampton 4,District 2A Associate Judge - Mark Milder,,No,,51,20,31
+Franklin,Marion,District 2A Associate Judge - Mark Milder,,No,,43,11,32
+Franklin,Oakland/Morgan/Lee,District 2A Associate Judge - Mark Milder,,No,,60,11,49
+Franklin,Richland/Ross/West Fork,District 2A Associate Judge - Mark Milder,,No,,104,16,88
+Franklin,West Mott,District 2A Associate Judge - Mark Milder,,No,,30,5,25
+Franklin,Wisner/Scott,District 2A Associate Judge - Mark Milder,,No,,30,7,23
+Franklin,Geneva/Ingham/East Mott,District 2A Associate Judge - Mark Milder,,Yes,,147,27,120
+Franklin,Grant/Osceola,District 2A Associate Judge - Mark Milder,,Yes,,131,28,103
+Franklin,Hamilton/Reeve,District 2A Associate Judge - Mark Milder,,Yes,,109,32,77
+Franklin,Hampton 1,District 2A Associate Judge - Mark Milder,,Yes,,136,50,86
+Franklin,Hampton 2,District 2A Associate Judge - Mark Milder,,Yes,,150,50,100
+Franklin,Hampton 3,District 2A Associate Judge - Mark Milder,,Yes,,228,100,128
+Franklin,Hampton 4,District 2A Associate Judge - Mark Milder,,Yes,,152,50,102
+Franklin,Marion,District 2A Associate Judge - Mark Milder,,Yes,,188,41,147
+Franklin,Oakland/Morgan/Lee,District 2A Associate Judge - Mark Milder,,Yes,,163,42,121
+Franklin,Richland/Ross/West Fork,District 2A Associate Judge - Mark Milder,,Yes,,425,90,335
+Franklin,West Mott,District 2A Associate Judge - Mark Milder,,Yes,,109,49,60
+Franklin,Wisner/Scott,District 2A Associate Judge - Mark Milder,,Yes,,108,24,84
+Franklin,Geneva/Ingham/East Mott,District 2A Judge - Christopher Foy,,No,,47,17,30
+Franklin,Grant/Osceola,District 2A Judge - Christopher Foy,,No,,52,12,40
+Franklin,Hamilton/Reeve,District 2A Judge - Christopher Foy,,No,,32,11,21
+Franklin,Hampton 1,District 2A Judge - Christopher Foy,,No,,38,12,26
+Franklin,Hampton 2,District 2A Judge - Christopher Foy,,No,,65,30,35
+Franklin,Hampton 3,District 2A Judge - Christopher Foy,,No,,83,31,52
+Franklin,Hampton 4,District 2A Judge - Christopher Foy,,No,,51,19,32
+Franklin,Marion,District 2A Judge - Christopher Foy,,No,,57,15,42
+Franklin,Oakland/Morgan/Lee,District 2A Judge - Christopher Foy,,No,,64,10,54
+Franklin,Richland/Ross/West Fork,District 2A Judge - Christopher Foy,,No,,120,18,102
+Franklin,West Mott,District 2A Judge - Christopher Foy,,No,,37,9,28
+Franklin,Wisner/Scott,District 2A Judge - Christopher Foy,,No,,36,8,28
+Franklin,Geneva/Ingham/East Mott,District 2A Judge - Christopher Foy,,Yes,,145,27,118
+Franklin,Grant/Osceola,District 2A Judge - Christopher Foy,,Yes,,126,25,101
+Franklin,Hamilton/Reeve,District 2A Judge - Christopher Foy,,Yes,,114,36,78
+Franklin,Hampton 1,District 2A Judge - Christopher Foy,,Yes,,139,52,87
+Franklin,Hampton 2,District 2A Judge - Christopher Foy,,Yes,,145,45,100
+Franklin,Hampton 3,District 2A Judge - Christopher Foy,,Yes,,224,93,131
+Franklin,Hampton 4,District 2A Judge - Christopher Foy,,Yes,,154,53,101
+Franklin,Marion,District 2A Judge - Christopher Foy,,Yes,,178,38,140
+Franklin,Oakland/Morgan/Lee,District 2A Judge - Christopher Foy,,Yes,,162,42,120
+Franklin,Richland/Ross/West Fork,District 2A Judge - Christopher Foy,,Yes,,419,92,327
+Franklin,West Mott,District 2A Judge - Christopher Foy,,Yes,,104,46,58
+Franklin,Wisner/Scott,District 2A Judge - Christopher Foy,,Yes,,106,23,83
+Franklin,Geneva/Ingham/East Mott,District 2A Judge - Colleen D. Weiland,,No,,41,14,27
+Franklin,Grant/Osceola,District 2A Judge - Colleen D. Weiland,,No,,49,10,39
+Franklin,Hamilton/Reeve,District 2A Judge - Colleen D. Weiland,,No,,33,12,21
+Franklin,Hampton 1,District 2A Judge - Colleen D. Weiland,,No,,36,13,23
+Franklin,Hampton 2,District 2A Judge - Colleen D. Weiland,,No,,57,23,34
+Franklin,Hampton 3,District 2A Judge - Colleen D. Weiland,,No,,72,24,48
+Franklin,Hampton 4,District 2A Judge - Colleen D. Weiland,,No,,55,21,34
+Franklin,Marion,District 2A Judge - Colleen D. Weiland,,No,,60,11,49
+Franklin,Oakland/Morgan/Lee,District 2A Judge - Colleen D. Weiland,,No,,69,12,57
+Franklin,Richland/Ross/West Fork,District 2A Judge - Colleen D. Weiland,,No,,127,29,98
+Franklin,West Mott,District 2A Judge - Colleen D. Weiland,,No,,37,10,27
+Franklin,Wisner/Scott,District 2A Judge - Colleen D. Weiland,,No,,30,6,24
+Franklin,Geneva/Ingham/East Mott,District 2A Judge - Colleen D. Weiland,,Yes,,152,30,122
+Franklin,Grant/Osceola,District 2A Judge - Colleen D. Weiland,,Yes,,126,27,99
+Franklin,Hamilton/Reeve,District 2A Judge - Colleen D. Weiland,,Yes,,112,35,77
+Franklin,Hampton 1,District 2A Judge - Colleen D. Weiland,,Yes,,140,53,87
+Franklin,Hampton 2,District 2A Judge - Colleen D. Weiland,,Yes,,149,49,100
+Franklin,Hampton 3,District 2A Judge - Colleen D. Weiland,,Yes,,238,104,134
+Franklin,Hampton 4,District 2A Judge - Colleen D. Weiland,,Yes,,150,52,98
+Franklin,Marion,District 2A Judge - Colleen D. Weiland,,Yes,,173,41,132
+Franklin,Oakland/Morgan/Lee,District 2A Judge - Colleen D. Weiland,,Yes,,157,41,116
+Franklin,Richland/Ross/West Fork,District 2A Judge - Colleen D. Weiland,,Yes,,425,86,339
+Franklin,West Mott,District 2A Judge - Colleen D. Weiland,,Yes,,104,45,59
+Franklin,Wisner/Scott,District 2A Judge - Colleen D. Weiland,,Yes,,111,25,86
+Franklin,Geneva/Ingham/East Mott,District 2A Judge - DeDra Schroeder,,No,,37,14,23
+Franklin,Grant/Osceola,District 2A Judge - DeDra Schroeder,,No,,48,11,37
+Franklin,Hamilton/Reeve,District 2A Judge - DeDra Schroeder,,No,,41,14,27
+Franklin,Hampton 1,District 2A Judge - DeDra Schroeder,,No,,38,14,24
+Franklin,Hampton 2,District 2A Judge - DeDra Schroeder,,No,,58,25,33
+Franklin,Hampton 3,District 2A Judge - DeDra Schroeder,,No,,70,22,48
+Franklin,Hampton 4,District 2A Judge - DeDra Schroeder,,No,,53,17,36
+Franklin,Marion,District 2A Judge - DeDra Schroeder,,No,,57,9,48
+Franklin,Oakland/Morgan/Lee,District 2A Judge - DeDra Schroeder,,No,,61,11,50
+Franklin,Richland/Ross/West Fork,District 2A Judge - DeDra Schroeder,,No,,134,27,107
+Franklin,West Mott,District 2A Judge - DeDra Schroeder,,No,,33,9,24
+Franklin,Wisner/Scott,District 2A Judge - DeDra Schroeder,,No,,35,6,29
+Franklin,Geneva/Ingham/East Mott,District 2A Judge - DeDra Schroeder,,Yes,,154,29,125
+Franklin,Grant/Osceola,District 2A Judge - DeDra Schroeder,,Yes,,126,25,101
+Franklin,Hamilton/Reeve,District 2A Judge - DeDra Schroeder,,Yes,,102,32,70
+Franklin,Hampton 1,District 2A Judge - DeDra Schroeder,,Yes,,138,53,85
+Franklin,Hampton 2,District 2A Judge - DeDra Schroeder,,Yes,,146,48,98
+Franklin,Hampton 3,District 2A Judge - DeDra Schroeder,,Yes,,235,102,133
+Franklin,Hampton 4,District 2A Judge - DeDra Schroeder,,Yes,,153,55,98
+Franklin,Marion,District 2A Judge - DeDra Schroeder,,Yes,,178,45,133
+Franklin,Oakland/Morgan/Lee,District 2A Judge - DeDra Schroeder,,Yes,,161,41,120
+Franklin,Richland/Ross/West Fork,District 2A Judge - DeDra Schroeder,,Yes,,410,86,324
+Franklin,West Mott,District 2A Judge - DeDra Schroeder,,Yes,,105,46,59
+Franklin,Wisner/Scott,District 2A Judge - DeDra Schroeder,,Yes,,105,25,80
+Franklin,Geneva/Ingham/East Mott,District 2A Judge - Gregg R. Rosenbladt,,No,,41,17,24
+Franklin,Grant/Osceola,District 2A Judge - Gregg R. Rosenbladt,,No,,45,10,35
+Franklin,Hamilton/Reeve,District 2A Judge - Gregg R. Rosenbladt,,No,,32,11,21
+Franklin,Hampton 1,District 2A Judge - Gregg R. Rosenbladt,,No,,35,11,24
+Franklin,Hampton 2,District 2A Judge - Gregg R. Rosenbladt,,No,,52,22,30
+Franklin,Hampton 3,District 2A Judge - Gregg R. Rosenbladt,,No,,82,24,58
+Franklin,Hampton 4,District 2A Judge - Gregg R. Rosenbladt,,No,,57,21,36
+Franklin,Marion,District 2A Judge - Gregg R. Rosenbladt,,No,,47,10,37
+Franklin,Oakland/Morgan/Lee,District 2A Judge - Gregg R. Rosenbladt,,No,,68,12,56
+Franklin,Richland/Ross/West Fork,District 2A Judge - Gregg R. Rosenbladt,,No,,112,17,95
+Franklin,West Mott,District 2A Judge - Gregg R. Rosenbladt,,No,,31,6,25
+Franklin,Wisner/Scott,District 2A Judge - Gregg R. Rosenbladt,,No,,35,8,27
+Franklin,Geneva/Ingham/East Mott,District 2A Judge - Gregg R. Rosenbladt,,Yes,,146,25,121
+Franklin,Grant/Osceola,District 2A Judge - Gregg R. Rosenbladt,,Yes,,131,27,104
+Franklin,Hamilton/Reeve,District 2A Judge - Gregg R. Rosenbladt,,Yes,,111,34,77
+Franklin,Hampton 1,District 2A Judge - Gregg R. Rosenbladt,,Yes,,140,54,86
+Franklin,Hampton 2,District 2A Judge - Gregg R. Rosenbladt,,Yes,,154,51,103
+Franklin,Hampton 3,District 2A Judge - Gregg R. Rosenbladt,,Yes,,225,100,125
+Franklin,Hampton 4,District 2A Judge - Gregg R. Rosenbladt,,Yes,,148,50,98
+Franklin,Marion,District 2A Judge - Gregg R. Rosenbladt,,Yes,,182,42,140
+Franklin,Oakland/Morgan/Lee,District 2A Judge - Gregg R. Rosenbladt,,Yes,,156,41,115
+Franklin,Richland/Ross/West Fork,District 2A Judge - Gregg R. Rosenbladt,,Yes,,425,89,336
+Franklin,West Mott,District 2A Judge - Gregg R. Rosenbladt,,Yes,,108,48,60
+Franklin,Wisner/Scott,District 2A Judge - Gregg R. Rosenbladt,,Yes,,104,23,81
+Franklin,Geneva/Ingham/East Mott,Geneva Township Clerk,,Cindy Horner,,67,18,49
+Franklin,Geneva/Ingham/East Mott,Geneva Township Clerk,,Write-In,,0,0,0
+Franklin,Geneva/Ingham/East Mott,Geneva Township Trustee,,Jeremy Arends,,52,14,38
+Franklin,Geneva/Ingham/East Mott,Geneva Township Trustee,,Kent Horner,,60,18,42
+Franklin,Geneva/Ingham/East Mott,Geneva Township Trustee,,Write-In,,0,0,0
+Franklin,Geneva/Ingham/East Mott,Governor,,Rob Sand and Dave Muhlbauer,DEM,101,30,71
+Franklin,Grant/Osceola,Governor,,Rob Sand and Dave Muhlbauer,DEM,86,25,61
+Franklin,Hamilton/Reeve,Governor,,Rob Sand and Dave Muhlbauer,DEM,88,41,47
+Franklin,Hampton 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,156,66,90
+Franklin,Hampton 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,157,78,79
+Franklin,Hampton 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,212,107,105
+Franklin,Hampton 4,Governor,,Rob Sand and Dave Muhlbauer,DEM,157,73,84
+Franklin,Marion,Governor,,Rob Sand and Dave Muhlbauer,DEM,114,33,81
+Franklin,Oakland/Morgan/Lee,Governor,,Rob Sand and Dave Muhlbauer,DEM,108,44,64
+Franklin,Richland/Ross/West Fork,Governor,,Rob Sand and Dave Muhlbauer,DEM,285,95,190
+Franklin,West Mott,Governor,,Rob Sand and Dave Muhlbauer,DEM,67,34,33
+Franklin,Wisner/Scott,Governor,,Rob Sand and Dave Muhlbauer,DEM,51,19,32
+Franklin,Geneva/Ingham/East Mott,Governor,,Write-In,,0,0,0
+Franklin,Grant/Osceola,Governor,,Write-In,,1,0,1
+Franklin,Hamilton/Reeve,Governor,,Write-In,,0,0,0
+Franklin,Hampton 1,Governor,,Write-In,,0,0,0
+Franklin,Hampton 2,Governor,,Write-In,,0,0,0
+Franklin,Hampton 3,Governor,,Write-In,,1,1,0
+Franklin,Hampton 4,Governor,,Write-In,,1,0,1
+Franklin,Marion,Governor,,Write-In,,1,0,1
+Franklin,Oakland/Morgan/Lee,Governor,,Write-In,,0,0,0
+Franklin,Richland/Ross/West Fork,Governor,,Write-In,,1,0,1
+Franklin,West Mott,Governor,,Write-In,,0,0,0
+Franklin,Wisner/Scott,Governor,,Write-In,,0,0,0
+Franklin,Geneva/Ingham/East Mott,Governor,,Zach Lahn and Derek Wulf,REP,191,39,152
+Franklin,Grant/Osceola,Governor,,Zach Lahn and Derek Wulf,REP,180,40,140
+Franklin,Hamilton/Reeve,Governor,,Zach Lahn and Derek Wulf,REP,124,38,86
+Franklin,Hampton 1,Governor,,Zach Lahn and Derek Wulf,REP,99,28,71
+Franklin,Hampton 2,Governor,,Zach Lahn and Derek Wulf,REP,163,48,115
+Franklin,Hampton 3,Governor,,Zach Lahn and Derek Wulf,REP,216,83,133
+Franklin,Hampton 4,Governor,,Zach Lahn and Derek Wulf,REP,128,48,80
+Franklin,Marion,Governor,,Zach Lahn and Derek Wulf,REP,193,37,156
+Franklin,Oakland/Morgan/Lee,Governor,,Zach Lahn and Derek Wulf,REP,215,44,171
+Franklin,Richland/Ross/West Fork,Governor,,Zach Lahn and Derek Wulf,REP,469,89,380
+Franklin,West Mott,Governor,,Zach Lahn and Derek Wulf,REP,152,57,95
+Franklin,Wisner/Scott,Governor,,Zach Lahn and Derek Wulf,REP,154,35,119
+Franklin,Grant/Osceola,Grant Township Clerk,,Seth Rickel,,112,19,93
+Franklin,Grant/Osceola,Grant Township Clerk,,Write-In,,2,0,2
+Franklin,Grant/Osceola,Grant Township Trustee,,Brad Lehmann,,86,13,73
+Franklin,Grant/Osceola,Grant Township Trustee,,Bruce Balvanz,,106,14,92
+Franklin,Grant/Osceola,Grant Township Trustee,,Write-In,,0,0,0
+Franklin,Hamilton/Reeve,Hamilton Township Clerk,,Write-In,,5,2,3
+Franklin,Hamilton/Reeve,Hamilton Township Trustee,,Elijah Dohrmann,,51,21,30
+Franklin,Hamilton/Reeve,Hamilton Township Trustee,,Karen McVicker,,41,15,26
+Franklin,Hamilton/Reeve,Hamilton Township Trustee,,Write-In,,1,1,0
+Franklin,Geneva/Ingham/East Mott,Ingham Township Clerk,,Write-In,,7,0,7
+Franklin,Geneva/Ingham/East Mott,Ingham Township Trustee,,Write-In,,17,2,15
+Franklin,Oakland/Morgan/Lee,Lee Township Clerk,,Joel Etnier,,59,13,46
+Franklin,Oakland/Morgan/Lee,Lee Township Clerk,,Write-In,,0,0,0
+Franklin,Oakland/Morgan/Lee,Lee Township Trustee,,J. Kurt Johnson,,42,9,33
+Franklin,Oakland/Morgan/Lee,Lee Township Trustee,,Landon Aldinger,,54,14,40
+Franklin,Oakland/Morgan/Lee,Lee Township Trustee,,Write-In,,2,0,2
+Franklin,Marion,Marion Township Clerk,,Dennis Abbas,,111,29,82
+Franklin,Marion,Marion Township Clerk,,Write-In,,2,0,2
+Franklin,Marion,Marion Township Trustee,,Brian Borcherding,,101,29,72
+Franklin,Marion,Marion Township Trustee,,Scott Strother,,86,23,63
+Franklin,Marion,Marion Township Trustee,,Write-In,,5,0,5
+Franklin,Marion,Marion Township Trustee To Fill a Vacancy,,Write-In,,18,5,13
+Franklin,Oakland/Morgan/Lee,Morgan Township Clerk,,Heather Chambers,,71,28,43
+Franklin,Oakland/Morgan/Lee,Morgan Township Clerk,,Write-In,,0,0,0
+Franklin,Oakland/Morgan/Lee,Morgan Township Trustee,,Chris Chambers,,61,28,33
+Franklin,Oakland/Morgan/Lee,Morgan Township Trustee,,John Coombs,,61,23,38
+Franklin,Oakland/Morgan/Lee,Morgan Township Trustee,,Write-In,,2,1,1
+Franklin,Geneva/Ingham/East Mott,Mott Township Clerk,,Write-In,,6,3,3
+Franklin,West Mott,Mott Township Clerk,,Write-In,,9,3,6
+Franklin,Geneva/Ingham/East Mott,Mott Township Trustee,,Steve Sliter,,39,17,22
+Franklin,West Mott,Mott Township Trustee,,Steve Sliter,,185,74,111
+Franklin,Geneva/Ingham/East Mott,Mott Township Trustee,,Write-In,,6,2,4
+Franklin,West Mott,Mott Township Trustee,,Write-In,,8,3,5
+Franklin,Oakland/Morgan/Lee,Oakland Township Clerk,,Write-In,,9,6,3
+Franklin,Oakland/Morgan/Lee,Oakland Township Trustee,,Write-In,,12,8,4
+Franklin,Grant/Osceola,Osceola Township Clerk,,Angela Scallon,,90,30,60
+Franklin,Grant/Osceola,Osceola Township Clerk,,Write-In,,0,0,0
+Franklin,Grant/Osceola,Osceola Township Trustee,,Joe Wessels,,28,6,22
+Franklin,Grant/Osceola,Osceola Township Trustee,,Mike Keninger,,88,31,57
+Franklin,Grant/Osceola,Osceola Township Trustee,,Patricia Hofmeister,,61,24,37
+Franklin,Grant/Osceola,Osceola Township Trustee,,Write-In,,0,0,0
+Franklin,Grant/Osceola,Osceola Township Trustee To Fill a Vacancy,,Write-In,,6,2,4
+Franklin,Hamilton/Reeve,Reeve Township Clerk,,Write-In,,11,2,9
+Franklin,Hamilton/Reeve,Reeve Township Trustee,,Alan Brandt,,99,33,66
+Franklin,Hamilton/Reeve,Reeve Township Trustee,,Torie Korth,,115,35,80
+Franklin,Hamilton/Reeve,Reeve Township Trustee,,Write-In,,0,0,0
+Franklin,Richland/Ross/West Fork,Richland Township Clerk,,Wayne Pralle,,68,22,46
+Franklin,Richland/Ross/West Fork,Richland Township Clerk,,Write-In,,0,0,0
+Franklin,Richland/Ross/West Fork,Richland Township Trustee,,Alvin J. Schaefer,,55,15,40
+Franklin,Richland/Ross/West Fork,Richland Township Trustee,,Scott Heilskov,,62,22,40
+Franklin,Richland/Ross/West Fork,Richland Township Trustee,,Write-In,,0,0,0
+Franklin,Richland/Ross/West Fork,Ross Township Clerk,,Jed W. Allen,,103,24,79
+Franklin,Richland/Ross/West Fork,Ross Township Clerk,,Write-In,,0,0,0
+Franklin,Richland/Ross/West Fork,Ross Township Trustee,,Write-In,,22,0,22
+Franklin,Richland/Ross/West Fork,Ross Township Trustee To Fill a Vacancy,,Kevin Craighton,,103,27,76
+Franklin,Richland/Ross/West Fork,Ross Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
+Franklin,Wisner/Scott,Scott Township Clerk,,Marilyn Hamilton,,84,17,67
+Franklin,Wisner/Scott,Scott Township Clerk,,Write-In,,0,0,0
+Franklin,Wisner/Scott,Scott Township Trustee,,Dennis Vanness,,80,18,62
+Franklin,Wisner/Scott,Scott Township Trustee,,Jerry Passehl,,42,6,36
+Franklin,Wisner/Scott,Scott Township Trustee,,Write-In,,3,2,1
+Franklin,Geneva/Ingham/East Mott,Secretary of Agriculture,,Chris Jones,DEM,62,18,44
+Franklin,Grant/Osceola,Secretary of Agriculture,,Chris Jones,DEM,57,15,42
+Franklin,Hamilton/Reeve,Secretary of Agriculture,,Chris Jones,DEM,56,28,28
+Franklin,Hampton 1,Secretary of Agriculture,,Chris Jones,DEM,113,54,59
+Franklin,Hampton 2,Secretary of Agriculture,,Chris Jones,DEM,119,66,53
+Franklin,Hampton 3,Secretary of Agriculture,,Chris Jones,DEM,156,77,79
+Franklin,Hampton 4,Secretary of Agriculture,,Chris Jones,DEM,133,66,67
+Franklin,Marion,Secretary of Agriculture,,Chris Jones,DEM,78,22,56
+Franklin,Oakland/Morgan/Lee,Secretary of Agriculture,,Chris Jones,DEM,72,34,38
+Franklin,Richland/Ross/West Fork,Secretary of Agriculture,,Chris Jones,DEM,196,67,129
+Franklin,West Mott,Secretary of Agriculture,,Chris Jones,DEM,43,25,18
+Franklin,Wisner/Scott,Secretary of Agriculture,,Chris Jones,DEM,30,12,18
+Franklin,Geneva/Ingham/East Mott,Secretary of Agriculture,,Mike Naig,REP,223,46,177
+Franklin,Grant/Osceola,Secretary of Agriculture,,Mike Naig,REP,203,48,155
+Franklin,Hamilton/Reeve,Secretary of Agriculture,,Mike Naig,REP,154,50,104
+Franklin,Hampton 1,Secretary of Agriculture,,Mike Naig,REP,137,40,97
+Franklin,Hampton 2,Secretary of Agriculture,,Mike Naig,REP,192,57,135
+Franklin,Hampton 3,Secretary of Agriculture,,Mike Naig,REP,267,112,155
+Franklin,Hampton 4,Secretary of Agriculture,,Mike Naig,REP,153,56,97
+Franklin,Marion,Secretary of Agriculture,,Mike Naig,REP,229,48,181
+Franklin,Oakland/Morgan/Lee,Secretary of Agriculture,,Mike Naig,REP,247,54,193
+Franklin,Richland/Ross/West Fork,Secretary of Agriculture,,Mike Naig,REP,544,113,431
+Franklin,West Mott,Secretary of Agriculture,,Mike Naig,REP,174,65,109
+Franklin,Wisner/Scott,Secretary of Agriculture,,Mike Naig,REP,174,42,132
+Franklin,Geneva/Ingham/East Mott,Secretary of Agriculture,,Write-In,,0,0,0
+Franklin,Grant/Osceola,Secretary of Agriculture,,Write-In,,0,0,0
+Franklin,Hamilton/Reeve,Secretary of Agriculture,,Write-In,,0,0,0
+Franklin,Hampton 1,Secretary of Agriculture,,Write-In,,0,0,0
+Franklin,Hampton 2,Secretary of Agriculture,,Write-In,,1,0,1
+Franklin,Hampton 3,Secretary of Agriculture,,Write-In,,0,0,0
+Franklin,Hampton 4,Secretary of Agriculture,,Write-In,,0,0,0
+Franklin,Marion,Secretary of Agriculture,,Write-In,,1,1,0
+Franklin,Oakland/Morgan/Lee,Secretary of Agriculture,,Write-In,,0,0,0
+Franklin,Richland/Ross/West Fork,Secretary of Agriculture,,Write-In,,1,0,1
+Franklin,West Mott,Secretary of Agriculture,,Write-In,,0,0,0
+Franklin,Wisner/Scott,Secretary of Agriculture,,Write-In,,0,0,0
+Franklin,Geneva/Ingham/East Mott,Secretary of State,,Paul D. Pate,REP,219,45,174
+Franklin,Grant/Osceola,Secretary of State,,Paul D. Pate,REP,208,48,160
+Franklin,Hamilton/Reeve,Secretary of State,,Paul D. Pate,REP,145,47,98
+Franklin,Hampton 1,Secretary of State,,Paul D. Pate,REP,132,38,94
+Franklin,Hampton 2,Secretary of State,,Paul D. Pate,REP,191,57,134
+Franklin,Hampton 3,Secretary of State,,Paul D. Pate,REP,263,111,152
+Franklin,Hampton 4,Secretary of State,,Paul D. Pate,REP,153,57,96
+Franklin,Marion,Secretary of State,,Paul D. Pate,REP,230,48,182
+Franklin,Oakland/Morgan/Lee,Secretary of State,,Paul D. Pate,REP,243,53,190
+Franklin,Richland/Ross/West Fork,Secretary of State,,Paul D. Pate,REP,536,112,424
+Franklin,West Mott,Secretary of State,,Paul D. Pate,REP,171,64,107
+Franklin,Wisner/Scott,Secretary of State,,Paul D. Pate,REP,165,37,128
+Franklin,Geneva/Ingham/East Mott,Secretary of State,,Ryan Peterman,DEM,64,19,45
+Franklin,Grant/Osceola,Secretary of State,,Ryan Peterman,DEM,52,15,37
+Franklin,Hamilton/Reeve,Secretary of State,,Ryan Peterman,DEM,65,31,34
+Franklin,Hampton 1,Secretary of State,,Ryan Peterman,DEM,116,56,60
+Franklin,Hampton 2,Secretary of State,,Ryan Peterman,DEM,120,66,54
+Franklin,Hampton 3,Secretary of State,,Ryan Peterman,DEM,157,80,77
+Franklin,Hampton 4,Secretary of State,,Ryan Peterman,DEM,132,66,66
+Franklin,Marion,Secretary of State,,Ryan Peterman,DEM,78,23,55
+Franklin,Oakland/Morgan/Lee,Secretary of State,,Ryan Peterman,DEM,75,35,40
+Franklin,Richland/Ross/West Fork,Secretary of State,,Ryan Peterman,DEM,211,72,139
+Franklin,West Mott,Secretary of State,,Ryan Peterman,DEM,44,24,20
+Franklin,Wisner/Scott,Secretary of State,,Ryan Peterman,DEM,39,17,22
+Franklin,Geneva/Ingham/East Mott,Secretary of State,,Write-In,,0,0,0
+Franklin,Grant/Osceola,Secretary of State,,Write-In,,0,0,0
+Franklin,Hamilton/Reeve,Secretary of State,,Write-In,,0,0,0
+Franklin,Hampton 1,Secretary of State,,Write-In,,0,0,0
+Franklin,Hampton 2,Secretary of State,,Write-In,,1,0,1
+Franklin,Hampton 3,Secretary of State,,Write-In,,0,0,0
+Franklin,Hampton 4,Secretary of State,,Write-In,,0,0,0
+Franklin,Marion,Secretary of State,,Write-In,,0,0,0
+Franklin,Oakland/Morgan/Lee,Secretary of State,,Write-In,,0,0,0
+Franklin,Richland/Ross/West Fork,Secretary of State,,Write-In,,1,0,1
+Franklin,West Mott,Secretary of State,,Write-In,,0,0,0
+Franklin,Wisner/Scott,Secretary of State,,Write-In,,0,0,0
+Franklin,Geneva/Ingham/East Mott,State House,55,Beau Klaver,REP,215,43,172
+Franklin,Grant/Osceola,State House,55,Beau Klaver,REP,198,43,155
+Franklin,Hamilton/Reeve,State House,55,Beau Klaver,REP,139,45,94
+Franklin,Hampton 1,State House,55,Beau Klaver,REP,121,35,86
+Franklin,Hampton 2,State House,55,Beau Klaver,REP,179,56,123
+Franklin,Hampton 3,State House,55,Beau Klaver,REP,243,101,142
+Franklin,Hampton 4,State House,55,Beau Klaver,REP,146,55,91
+Franklin,Marion,State House,55,Beau Klaver,REP,220,44,176
+Franklin,Oakland/Morgan/Lee,State House,55,Beau Klaver,REP,237,52,185
+Franklin,Richland/Ross/West Fork,State House,55,Beau Klaver,REP,519,102,417
+Franklin,West Mott,State House,55,Beau Klaver,REP,168,63,105
+Franklin,Wisner/Scott,State House,55,Beau Klaver,REP,164,38,126
+Franklin,Geneva/Ingham/East Mott,State House,55,Cynthia Oppedal Paschen,DEM,64,21,43
+Franklin,Grant/Osceola,State House,55,Cynthia Oppedal Paschen,DEM,53,14,39
+Franklin,Hamilton/Reeve,State House,55,Cynthia Oppedal Paschen,DEM,70,32,38
+Franklin,Hampton 1,State House,55,Cynthia Oppedal Paschen,DEM,118,52,66
+Franklin,Hampton 2,State House,55,Cynthia Oppedal Paschen,DEM,129,66,63
+Franklin,Hampton 3,State House,55,Cynthia Oppedal Paschen,DEM,167,84,83
+Franklin,Hampton 4,State House,55,Cynthia Oppedal Paschen,DEM,135,65,70
+Franklin,Marion,State House,55,Cynthia Oppedal Paschen,DEM,83,27,56
+Franklin,Oakland/Morgan/Lee,State House,55,Cynthia Oppedal Paschen,DEM,75,33,42
+Franklin,Richland/Ross/West Fork,State House,55,Cynthia Oppedal Paschen,DEM,212,78,134
+Franklin,West Mott,State House,55,Cynthia Oppedal Paschen,DEM,44,27,17
+Franklin,Wisner/Scott,State House,55,Cynthia Oppedal Paschen,DEM,39,16,23
+Franklin,Geneva/Ingham/East Mott,State House,55,Write-In,,1,0,1
+Franklin,Grant/Osceola,State House,55,Write-In,,1,0,1
+Franklin,Hamilton/Reeve,State House,55,Write-In,,0,0,0
+Franklin,Hampton 1,State House,55,Write-In,,0,0,0
+Franklin,Hampton 2,State House,55,Write-In,,0,0,0
+Franklin,Hampton 3,State House,55,Write-In,,0,0,0
+Franklin,Hampton 4,State House,55,Write-In,,0,0,0
+Franklin,Marion,State House,55,Write-In,,0,0,0
+Franklin,Oakland/Morgan/Lee,State House,55,Write-In,,0,0,0
+Franklin,Richland/Ross/West Fork,State House,55,Write-In,,1,0,1
+Franklin,West Mott,State House,55,Write-In,,0,0,0
+Franklin,Wisner/Scott,State House,55,Write-In,,0,0,0
+Franklin,Geneva/Ingham/East Mott,Treasurer of State,,John Norwood,DEM,66,18,48
+Franklin,Grant/Osceola,Treasurer of State,,John Norwood,DEM,63,17,46
+Franklin,Hamilton/Reeve,Treasurer of State,,John Norwood,DEM,73,33,40
+Franklin,Hampton 1,Treasurer of State,,John Norwood,DEM,124,54,70
+Franklin,Hampton 2,Treasurer of State,,John Norwood,DEM,128,68,60
+Franklin,Hampton 3,Treasurer of State,,John Norwood,DEM,174,88,86
+Franklin,Hampton 4,Treasurer of State,,John Norwood,DEM,140,66,74
+Franklin,Marion,Treasurer of State,,John Norwood,DEM,91,29,62
+Franklin,Oakland/Morgan/Lee,Treasurer of State,,John Norwood,DEM,83,38,45
+Franklin,Richland/Ross/West Fork,Treasurer of State,,John Norwood,DEM,224,77,147
+Franklin,West Mott,Treasurer of State,,John Norwood,DEM,49,29,20
+Franklin,Wisner/Scott,Treasurer of State,,John Norwood,DEM,40,16,24
+Franklin,Geneva/Ingham/East Mott,Treasurer of State,,Roby Smith,REP,210,43,167
+Franklin,Grant/Osceola,Treasurer of State,,Roby Smith,REP,189,42,147
+Franklin,Hamilton/Reeve,Treasurer of State,,Roby Smith,REP,137,44,93
+Franklin,Hampton 1,Treasurer of State,,Roby Smith,REP,120,37,83
+Franklin,Hampton 2,Treasurer of State,,Roby Smith,REP,180,55,125
+Franklin,Hampton 3,Treasurer of State,,Roby Smith,REP,242,101,141
+Franklin,Hampton 4,Treasurer of State,,Roby Smith,REP,141,54,87
+Franklin,Marion,Treasurer of State,,Roby Smith,REP,211,42,169
+Franklin,Oakland/Morgan/Lee,Treasurer of State,,Roby Smith,REP,231,48,183
+Franklin,Richland/Ross/West Fork,Treasurer of State,,Roby Smith,REP,513,103,410
+Franklin,West Mott,Treasurer of State,,Roby Smith,REP,161,59,102
+Franklin,Wisner/Scott,Treasurer of State,,Roby Smith,REP,163,38,125
+Franklin,Geneva/Ingham/East Mott,Treasurer of State,,Write-In,,0,0,0
+Franklin,Grant/Osceola,Treasurer of State,,Write-In,,0,0,0
+Franklin,Hamilton/Reeve,Treasurer of State,,Write-In,,0,0,0
+Franklin,Hampton 1,Treasurer of State,,Write-In,,1,1,0
+Franklin,Hampton 2,Treasurer of State,,Write-In,,0,0,0
+Franklin,Hampton 3,Treasurer of State,,Write-In,,0,0,0
+Franklin,Hampton 4,Treasurer of State,,Write-In,,0,0,0
+Franklin,Marion,Treasurer of State,,Write-In,,0,0,0
+Franklin,Oakland/Morgan/Lee,Treasurer of State,,Write-In,,0,0,0
+Franklin,Richland/Ross/West Fork,Treasurer of State,,Write-In,,1,0,1
+Franklin,West Mott,Treasurer of State,,Write-In,,0,0,0
+Franklin,Wisner/Scott,Treasurer of State,,Write-In,,0,0,0
+Franklin,Geneva/Ingham/East Mott,U.S. House,4,Chris McGowan,REP,205,42,163
+Franklin,Grant/Osceola,U.S. House,4,Chris McGowan,REP,188,42,146
+Franklin,Hamilton/Reeve,U.S. House,4,Chris McGowan,REP,134,40,94
+Franklin,Hampton 1,U.S. House,4,Chris McGowan,REP,118,31,87
+Franklin,Hampton 2,U.S. House,4,Chris McGowan,REP,176,50,126
+Franklin,Hampton 3,U.S. House,4,Chris McGowan,REP,236,91,145
+Franklin,Hampton 4,U.S. House,4,Chris McGowan,REP,138,50,88
+Franklin,Marion,U.S. House,4,Chris McGowan,REP,215,43,172
+Franklin,Oakland/Morgan/Lee,U.S. House,4,Chris McGowan,REP,225,51,174
+Franklin,Richland/Ross/West Fork,U.S. House,4,Chris McGowan,REP,509,99,410
+Franklin,West Mott,U.S. House,4,Chris McGowan,REP,157,57,100
+Franklin,Wisner/Scott,U.S. House,4,Chris McGowan,REP,157,36,121
+Franklin,Geneva/Ingham/East Mott,U.S. House,4,Dave Dawson,DEM,69,21,48
+Franklin,Grant/Osceola,U.S. House,4,Dave Dawson,DEM,65,17,48
+Franklin,Hamilton/Reeve,U.S. House,4,Dave Dawson,DEM,72,35,37
+Franklin,Hampton 1,U.S. House,4,Dave Dawson,DEM,122,55,67
+Franklin,Hampton 2,U.S. House,4,Dave Dawson,DEM,133,70,63
+Franklin,Hampton 3,U.S. House,4,Dave Dawson,DEM,177,93,84
+Franklin,Hampton 4,U.S. House,4,Dave Dawson,DEM,144,72,72
+Franklin,Marion,U.S. House,4,Dave Dawson,DEM,86,27,59
+Franklin,Oakland/Morgan/Lee,U.S. House,4,Dave Dawson,DEM,84,35,49
+Franklin,Richland/Ross/West Fork,U.S. House,4,Dave Dawson,DEM,224,81,143
+Franklin,West Mott,U.S. House,4,Dave Dawson,DEM,53,29,24
+Franklin,Wisner/Scott,U.S. House,4,Dave Dawson,DEM,41,17,24
+Franklin,Geneva/Ingham/East Mott,U.S. House,4,Write-In,,0,0,0
+Franklin,Grant/Osceola,U.S. House,4,Write-In,,0,0,0
+Franklin,Hamilton/Reeve,U.S. House,4,Write-In,,0,0,0
+Franklin,Hampton 1,U.S. House,4,Write-In,,0,0,0
+Franklin,Hampton 2,U.S. House,4,Write-In,,0,0,0
+Franklin,Hampton 3,U.S. House,4,Write-In,,1,0,1
+Franklin,Hampton 4,U.S. House,4,Write-In,,0,0,0
+Franklin,Marion,U.S. House,4,Write-In,,0,0,0
+Franklin,Oakland/Morgan/Lee,U.S. House,4,Write-In,,0,0,0
+Franklin,Richland/Ross/West Fork,U.S. House,4,Write-In,,1,0,1
+Franklin,West Mott,U.S. House,4,Write-In,,0,0,0
+Franklin,Wisner/Scott,U.S. House,4,Write-In,,0,0,0
+Franklin,Geneva/Ingham/East Mott,U.S. Senate,,Ashley Hinson,REP,197,43,154
+Franklin,Grant/Osceola,U.S. Senate,,Ashley Hinson,REP,192,47,145
+Franklin,Hamilton/Reeve,U.S. Senate,,Ashley Hinson,REP,130,42,88
+Franklin,Hampton 1,U.S. Senate,,Ashley Hinson,REP,97,24,73
+Franklin,Hampton 2,U.S. Senate,,Ashley Hinson,REP,167,51,116
+Franklin,Hampton 3,U.S. Senate,,Ashley Hinson,REP,218,87,131
+Franklin,Hampton 4,U.S. Senate,,Ashley Hinson,REP,124,47,77
+Franklin,Marion,U.S. Senate,,Ashley Hinson,REP,194,40,154
+Franklin,Oakland/Morgan/Lee,U.S. Senate,,Ashley Hinson,REP,218,51,167
+Franklin,Richland/Ross/West Fork,U.S. Senate,,Ashley Hinson,REP,478,102,376
+Franklin,West Mott,U.S. Senate,,Ashley Hinson,REP,158,59,99
+Franklin,Wisner/Scott,U.S. Senate,,Ashley Hinson,REP,144,36,108
+Franklin,Geneva/Ingham/East Mott,U.S. Senate,,Josh Turek,DEM,82,23,59
+Franklin,Grant/Osceola,U.S. Senate,,Josh Turek,DEM,58,16,42
+Franklin,Hamilton/Reeve,U.S. Senate,,Josh Turek,DEM,73,33,40
+Franklin,Hampton 1,U.S. Senate,,Josh Turek,DEM,135,62,73
+Franklin,Hampton 2,U.S. Senate,,Josh Turek,DEM,137,71,66
+Franklin,Hampton 3,U.S. Senate,,Josh Turek,DEM,190,93,97
+Franklin,Hampton 4,U.S. Senate,,Josh Turek,DEM,147,71,76
+Franklin,Marion,U.S. Senate,,Josh Turek,DEM,97,25,72
+Franklin,Oakland/Morgan/Lee,U.S. Senate,,Josh Turek,DEM,83,36,47
+Franklin,Richland/Ross/West Fork,U.S. Senate,,Josh Turek,DEM,236,77,159
+Franklin,West Mott,U.S. Senate,,Josh Turek,DEM,49,26,23
+Franklin,Wisner/Scott,U.S. Senate,,Josh Turek,DEM,46,17,29
+Franklin,Geneva/Ingham/East Mott,U.S. Senate,,Thomas Laehn,LIB,8,3,5
+Franklin,Grant/Osceola,U.S. Senate,,Thomas Laehn,LIB,14,3,11
+Franklin,Hamilton/Reeve,U.S. Senate,,Thomas Laehn,LIB,5,3,2
+Franklin,Hampton 1,U.S. Senate,,Thomas Laehn,LIB,19,5,14
+Franklin,Hampton 2,U.S. Senate,,Thomas Laehn,LIB,14,3,11
+Franklin,Hampton 3,U.S. Senate,,Thomas Laehn,LIB,15,7,8
+Franklin,Hampton 4,U.S. Senate,,Thomas Laehn,LIB,12,1,11
+Franklin,Marion,U.S. Senate,,Thomas Laehn,LIB,10,4,6
+Franklin,Oakland/Morgan/Lee,U.S. Senate,,Thomas Laehn,LIB,17,0,17
+Franklin,Richland/Ross/West Fork,U.S. Senate,,Thomas Laehn,LIB,31,4,27
+Franklin,West Mott,U.S. Senate,,Thomas Laehn,LIB,6,3,3
+Franklin,Wisner/Scott,U.S. Senate,,Thomas Laehn,LIB,10,1,9
+Franklin,Geneva/Ingham/East Mott,U.S. Senate,,Write-In,,0,0,0
+Franklin,Grant/Osceola,U.S. Senate,,Write-In,,1,0,1
+Franklin,Hamilton/Reeve,U.S. Senate,,Write-In,,0,0,0
+Franklin,Hampton 1,U.S. Senate,,Write-In,,0,0,0
+Franklin,Hampton 2,U.S. Senate,,Write-In,,0,0,0
+Franklin,Hampton 3,U.S. Senate,,Write-In,,0,0,0
+Franklin,Hampton 4,U.S. Senate,,Write-In,,0,0,0
+Franklin,Marion,U.S. Senate,,Write-In,,0,0,0
+Franklin,Oakland/Morgan/Lee,U.S. Senate,,Write-In,,0,0,0
+Franklin,Richland/Ross/West Fork,U.S. Senate,,Write-In,,2,0,2
+Franklin,West Mott,U.S. Senate,,Write-In,,0,0,0
+Franklin,Wisner/Scott,U.S. Senate,,Write-In,,0,0,0
+Franklin,Richland/Ross/West Fork,West Fork Township Clerk,,Pam Meints,,53,21,32
+Franklin,Richland/Ross/West Fork,West Fork Township Clerk,,Write-In,,0,0,0
+Franklin,Richland/Ross/West Fork,West Fork Township Trustee,,Write-In,,19,4,15
+Franklin,Wisner/Scott,Wisner Township Clerk,,Steven Bruns,,59,21,38
+Franklin,Wisner/Scott,Wisner Township Clerk,,Write-In,,0,0,0
+Franklin,Wisner/Scott,Wisner Township Trustee,,Write-In,,7,0,7

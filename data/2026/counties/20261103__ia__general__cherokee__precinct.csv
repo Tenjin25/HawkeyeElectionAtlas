@@ -1,0 +1,503 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Cherokee,#7 Marcus,Amherst Township Trustee,,David Whited,,90,24,66
+Cherokee,#7 Marcus,Amherst Township Trustee,,Galen Rupp,,68,21,47
+Cherokee,#7 Marcus,Amherst Township Trustee,,Write-In,,0,0,0
+Cherokee,#1 Cherokee Ward 1,Attorney General,,Brenna Bird,REP,404,203,201
+Cherokee,#2 Cherokee Ward 2,Attorney General,,Brenna Bird,REP,313,140,173
+Cherokee,#3 Cherokee Ward 3,Attorney General,,Brenna Bird,REP,348,181,167
+Cherokee,#4 Cherokee,Attorney General,,Brenna Bird,REP,567,242,325
+Cherokee,#5 Aurelia,Attorney General,,Brenna Bird,REP,567,181,386
+Cherokee,#6 Quimby,Attorney General,,Brenna Bird,REP,371,145,226
+Cherokee,#7 Marcus,Attorney General,,Brenna Bird,REP,659,221,438
+Cherokee,#1 Cherokee Ward 1,Attorney General,,Nate Willems,DEM,257,153,104
+Cherokee,#2 Cherokee Ward 2,Attorney General,,Nate Willems,DEM,227,129,98
+Cherokee,#3 Cherokee Ward 3,Attorney General,,Nate Willems,DEM,238,147,91
+Cherokee,#4 Cherokee,Attorney General,,Nate Willems,DEM,186,107,79
+Cherokee,#5 Aurelia,Attorney General,,Nate Willems,DEM,236,94,142
+Cherokee,#6 Quimby,Attorney General,,Nate Willems,DEM,108,48,60
+Cherokee,#7 Marcus,Attorney General,,Nate Willems,DEM,231,108,123
+Cherokee,#1 Cherokee Ward 1,Attorney General,,Write-In,,0,0,0
+Cherokee,#2 Cherokee Ward 2,Attorney General,,Write-In,,0,0,0
+Cherokee,#3 Cherokee Ward 3,Attorney General,,Write-In,,2,0,2
+Cherokee,#4 Cherokee,Attorney General,,Write-In,,0,0,0
+Cherokee,#5 Aurelia,Attorney General,,Write-In,,0,0,0
+Cherokee,#6 Quimby,Attorney General,,Write-In,,1,0,1
+Cherokee,#7 Marcus,Attorney General,,Write-In,,0,0,0
+Cherokee,#1 Cherokee Ward 1,Auditor of State,,Chris Cournoyer,REP,405,201,204
+Cherokee,#2 Cherokee Ward 2,Auditor of State,,Chris Cournoyer,REP,301,134,167
+Cherokee,#3 Cherokee Ward 3,Auditor of State,,Chris Cournoyer,REP,345,179,166
+Cherokee,#4 Cherokee,Auditor of State,,Chris Cournoyer,REP,566,234,332
+Cherokee,#5 Aurelia,Auditor of State,,Chris Cournoyer,REP,573,182,391
+Cherokee,#6 Quimby,Auditor of State,,Chris Cournoyer,REP,358,138,220
+Cherokee,#7 Marcus,Auditor of State,,Chris Cournoyer,REP,633,204,429
+Cherokee,#1 Cherokee Ward 1,Auditor of State,,Taylor Wettach,DEM,245,146,99
+Cherokee,#2 Cherokee Ward 2,Auditor of State,,Taylor Wettach,DEM,228,129,99
+Cherokee,#3 Cherokee Ward 3,Auditor of State,,Taylor Wettach,DEM,236,145,91
+Cherokee,#4 Cherokee,Auditor of State,,Taylor Wettach,DEM,176,107,69
+Cherokee,#5 Aurelia,Auditor of State,,Taylor Wettach,DEM,222,89,133
+Cherokee,#6 Quimby,Auditor of State,,Taylor Wettach,DEM,113,51,62
+Cherokee,#7 Marcus,Auditor of State,,Taylor Wettach,DEM,243,123,120
+Cherokee,#1 Cherokee Ward 1,Auditor of State,,Write-In,,0,0,0
+Cherokee,#2 Cherokee Ward 2,Auditor of State,,Write-In,,1,1,0
+Cherokee,#3 Cherokee Ward 3,Auditor of State,,Write-In,,2,0,2
+Cherokee,#4 Cherokee,Auditor of State,,Write-In,,1,1,0
+Cherokee,#5 Aurelia,Auditor of State,,Write-In,,0,0,0
+Cherokee,#6 Quimby,Auditor of State,,Write-In,,0,0,0
+Cherokee,#7 Marcus,Auditor of State,,Write-In,,0,0,0
+Cherokee,#1 Cherokee Ward 1,Constitutional Amendment 1,,No,,207,119,88
+Cherokee,#2 Cherokee Ward 2,Constitutional Amendment 1,,No,,176,96,80
+Cherokee,#3 Cherokee Ward 3,Constitutional Amendment 1,,No,,177,96,81
+Cherokee,#4 Cherokee,Constitutional Amendment 1,,No,,187,88,99
+Cherokee,#5 Aurelia,Constitutional Amendment 1,,No,,220,72,148
+Cherokee,#6 Quimby,Constitutional Amendment 1,,No,,131,42,89
+Cherokee,#7 Marcus,Constitutional Amendment 1,,No,,273,87,186
+Cherokee,#1 Cherokee Ward 1,Constitutional Amendment 1,,Yes,,384,189,195
+Cherokee,#2 Cherokee Ward 2,Constitutional Amendment 1,,Yes,,294,125,169
+Cherokee,#3 Cherokee Ward 3,Constitutional Amendment 1,,Yes,,325,178,147
+Cherokee,#4 Cherokee,Constitutional Amendment 1,,Yes,,440,196,244
+Cherokee,#5 Aurelia,Constitutional Amendment 1,,Yes,,484,177,307
+Cherokee,#6 Quimby,Constitutional Amendment 1,,Yes,,276,116,160
+Cherokee,#7 Marcus,Constitutional Amendment 1,,Yes,,483,195,288
+Cherokee,#1 Cherokee Ward 1,County Agricultural Extension Council Member,,Brady Pingel,,422,223,199
+Cherokee,#2 Cherokee Ward 2,County Agricultural Extension Council Member,,Brady Pingel,,323,146,177
+Cherokee,#3 Cherokee Ward 3,County Agricultural Extension Council Member,,Brady Pingel,,361,202,159
+Cherokee,#4 Cherokee,County Agricultural Extension Council Member,,Brady Pingel,,513,232,281
+Cherokee,#5 Aurelia,County Agricultural Extension Council Member,,Brady Pingel,,538,174,364
+Cherokee,#6 Quimby,County Agricultural Extension Council Member,,Brady Pingel,,313,127,186
+Cherokee,#7 Marcus,County Agricultural Extension Council Member,,Brady Pingel,,522,196,326
+Cherokee,#1 Cherokee Ward 1,County Agricultural Extension Council Member,,Dylan Kohn,,378,210,168
+Cherokee,#2 Cherokee Ward 2,County Agricultural Extension Council Member,,Dylan Kohn,,308,141,167
+Cherokee,#3 Cherokee Ward 3,County Agricultural Extension Council Member,,Dylan Kohn,,318,184,134
+Cherokee,#4 Cherokee,County Agricultural Extension Council Member,,Dylan Kohn,,483,220,263
+Cherokee,#5 Aurelia,County Agricultural Extension Council Member,,Dylan Kohn,,476,173,303
+Cherokee,#6 Quimby,County Agricultural Extension Council Member,,Dylan Kohn,,332,136,196
+Cherokee,#7 Marcus,County Agricultural Extension Council Member,,Dylan Kohn,,505,189,316
+Cherokee,#1 Cherokee Ward 1,County Agricultural Extension Council Member,,Jacob Wetter,,355,199,156
+Cherokee,#2 Cherokee Ward 2,County Agricultural Extension Council Member,,Jacob Wetter,,271,122,149
+Cherokee,#3 Cherokee Ward 3,County Agricultural Extension Council Member,,Jacob Wetter,,285,164,121
+Cherokee,#4 Cherokee,County Agricultural Extension Council Member,,Jacob Wetter,,440,202,238
+Cherokee,#5 Aurelia,County Agricultural Extension Council Member,,Jacob Wetter,,449,157,292
+Cherokee,#6 Quimby,County Agricultural Extension Council Member,,Jacob Wetter,,305,122,183
+Cherokee,#7 Marcus,County Agricultural Extension Council Member,,Jacob Wetter,,614,228,386
+Cherokee,#1 Cherokee Ward 1,County Agricultural Extension Council Member,,Jason Neddermeyer,,0,0,0
+Cherokee,#2 Cherokee Ward 2,County Agricultural Extension Council Member,,Jason Neddermeyer,,0,0,0
+Cherokee,#3 Cherokee Ward 3,County Agricultural Extension Council Member,,Jason Neddermeyer,,0,0,0
+Cherokee,#4 Cherokee,County Agricultural Extension Council Member,,Jason Neddermeyer,,0,0,0
+Cherokee,#5 Aurelia,County Agricultural Extension Council Member,,Jason Neddermeyer,,0,0,0
+Cherokee,#6 Quimby,County Agricultural Extension Council Member,,Jason Neddermeyer,,0,0,0
+Cherokee,#7 Marcus,County Agricultural Extension Council Member,,Jason Neddermeyer,,5,0,5
+Cherokee,#1 Cherokee Ward 1,County Agricultural Extension Council Member,,Kristi Letsche,,385,209,176
+Cherokee,#2 Cherokee Ward 2,County Agricultural Extension Council Member,,Kristi Letsche,,309,139,170
+Cherokee,#3 Cherokee Ward 3,County Agricultural Extension Council Member,,Kristi Letsche,,319,196,123
+Cherokee,#4 Cherokee,County Agricultural Extension Council Member,,Kristi Letsche,,473,222,251
+Cherokee,#5 Aurelia,County Agricultural Extension Council Member,,Kristi Letsche,,479,165,314
+Cherokee,#6 Quimby,County Agricultural Extension Council Member,,Kristi Letsche,,324,128,196
+Cherokee,#7 Marcus,County Agricultural Extension Council Member,,Kristi Letsche,,657,243,414
+Cherokee,#1 Cherokee Ward 1,County Agricultural Extension Council Member,,Write-In,,27,11,16
+Cherokee,#2 Cherokee Ward 2,County Agricultural Extension Council Member,,Write-In,,22,9,13
+Cherokee,#3 Cherokee Ward 3,County Agricultural Extension Council Member,,Write-In,,6,0,6
+Cherokee,#4 Cherokee,County Agricultural Extension Council Member,,Write-In,,26,12,14
+Cherokee,#5 Aurelia,County Agricultural Extension Council Member,,Write-In,,22,9,13
+Cherokee,#6 Quimby,County Agricultural Extension Council Member,,Write-In,,9,4,5
+Cherokee,#7 Marcus,County Agricultural Extension Council Member,,Write-In,,30,13,17
+Cherokee,#1 Cherokee Ward 1,County Attorney,,Ryan R. Kolpin,REP,536,291,245
+Cherokee,#2 Cherokee Ward 2,County Attorney,,Ryan R. Kolpin,REP,425,201,224
+Cherokee,#3 Cherokee Ward 3,County Attorney,,Ryan R. Kolpin,REP,471,260,211
+Cherokee,#4 Cherokee,County Attorney,,Ryan R. Kolpin,REP,619,272,347
+Cherokee,#5 Aurelia,County Attorney,,Ryan R. Kolpin,REP,665,229,436
+Cherokee,#6 Quimby,County Attorney,,Ryan R. Kolpin,REP,401,155,246
+Cherokee,#7 Marcus,County Attorney,,Ryan R. Kolpin,REP,700,239,461
+Cherokee,#1 Cherokee Ward 1,County Attorney,,Write-In,,9,2,7
+Cherokee,#2 Cherokee Ward 2,County Attorney,,Write-In,,9,2,7
+Cherokee,#3 Cherokee Ward 3,County Attorney,,Write-In,,7,0,7
+Cherokee,#4 Cherokee,County Attorney,,Write-In,,9,3,6
+Cherokee,#5 Aurelia,County Attorney,,Write-In,,13,2,11
+Cherokee,#6 Quimby,County Attorney,,Write-In,,8,2,6
+Cherokee,#7 Marcus,County Attorney,,Write-In,,9,2,7
+Cherokee,#1 Cherokee Ward 1,County Recorder,,Samantha Boothby,REP,558,298,260
+Cherokee,#2 Cherokee Ward 2,County Recorder,,Samantha Boothby,REP,450,216,234
+Cherokee,#3 Cherokee Ward 3,County Recorder,,Samantha Boothby,REP,491,266,225
+Cherokee,#4 Cherokee,County Recorder,,Samantha Boothby,REP,633,286,347
+Cherokee,#5 Aurelia,County Recorder,,Samantha Boothby,REP,691,234,457
+Cherokee,#6 Quimby,County Recorder,,Samantha Boothby,REP,416,159,257
+Cherokee,#7 Marcus,County Recorder,,Samantha Boothby,REP,729,250,479
+Cherokee,#1 Cherokee Ward 1,County Recorder,,Write-In,,5,1,4
+Cherokee,#2 Cherokee Ward 2,County Recorder,,Write-In,,4,0,4
+Cherokee,#3 Cherokee Ward 3,County Recorder,,Write-In,,2,2,0
+Cherokee,#4 Cherokee,County Recorder,,Write-In,,1,0,1
+Cherokee,#5 Aurelia,County Recorder,,Write-In,,6,0,6
+Cherokee,#6 Quimby,County Recorder,,Write-In,,4,1,3
+Cherokee,#7 Marcus,County Recorder,,Write-In,,2,1,1
+Cherokee,#1 Cherokee Ward 1,County Supervisor,3,David L. Skou,REP,536,287,249
+Cherokee,#2 Cherokee Ward 2,County Supervisor,3,David L. Skou,REP,419,189,230
+Cherokee,#3 Cherokee Ward 3,County Supervisor,3,David L. Skou,REP,477,264,213
+Cherokee,#4 Cherokee,County Supervisor,3,David L. Skou,REP,631,282,349
+Cherokee,#5 Aurelia,County Supervisor,3,David L. Skou,REP,678,221,457
+Cherokee,#6 Quimby,County Supervisor,3,David L. Skou,REP,410,156,254
+Cherokee,#7 Marcus,County Supervisor,3,David L. Skou,REP,705,242,463
+Cherokee,#1 Cherokee Ward 1,County Supervisor,3,Write-In,,12,5,7
+Cherokee,#2 Cherokee Ward 2,County Supervisor,3,Write-In,,6,0,6
+Cherokee,#3 Cherokee Ward 3,County Supervisor,3,Write-In,,5,2,3
+Cherokee,#4 Cherokee,County Supervisor,3,Write-In,,7,3,4
+Cherokee,#5 Aurelia,County Supervisor,3,Write-In,,9,3,6
+Cherokee,#6 Quimby,County Supervisor,3,Write-In,,6,1,5
+Cherokee,#7 Marcus,County Supervisor,3,Write-In,,3,1,2
+Cherokee,#1 Cherokee Ward 1,County Supervisor,4,Cheryl R. Ellis,REP,535,284,251
+Cherokee,#2 Cherokee Ward 2,County Supervisor,4,Cheryl R. Ellis,REP,429,199,230
+Cherokee,#3 Cherokee Ward 3,County Supervisor,4,Cheryl R. Ellis,REP,480,256,224
+Cherokee,#4 Cherokee,County Supervisor,4,Cheryl R. Ellis,REP,625,277,348
+Cherokee,#5 Aurelia,County Supervisor,4,Cheryl R. Ellis,REP,667,222,445
+Cherokee,#6 Quimby,County Supervisor,4,Cheryl R. Ellis,REP,412,160,252
+Cherokee,#7 Marcus,County Supervisor,4,Cheryl R. Ellis,REP,705,246,459
+Cherokee,#1 Cherokee Ward 1,County Supervisor,4,Write-In,,9,4,5
+Cherokee,#2 Cherokee Ward 2,County Supervisor,4,Write-In,,10,1,9
+Cherokee,#3 Cherokee Ward 3,County Supervisor,4,Write-In,,5,2,3
+Cherokee,#4 Cherokee,County Supervisor,4,Write-In,,7,3,4
+Cherokee,#5 Aurelia,County Supervisor,4,Write-In,,10,2,8
+Cherokee,#6 Quimby,County Supervisor,4,Write-In,,4,0,4
+Cherokee,#7 Marcus,County Supervisor,4,Write-In,,3,1,2
+Cherokee,#1 Cherokee Ward 1,County Treasurer,,Rob Byers,REP,538,288,250
+Cherokee,#2 Cherokee Ward 2,County Treasurer,,Rob Byers,REP,416,191,225
+Cherokee,#3 Cherokee Ward 3,County Treasurer,,Rob Byers,REP,483,263,220
+Cherokee,#4 Cherokee,County Treasurer,,Rob Byers,REP,630,283,347
+Cherokee,#5 Aurelia,County Treasurer,,Rob Byers,REP,679,216,463
+Cherokee,#6 Quimby,County Treasurer,,Rob Byers,REP,394,156,238
+Cherokee,#7 Marcus,County Treasurer,,Rob Byers,REP,709,245,464
+Cherokee,#1 Cherokee Ward 1,County Treasurer,,Write-In,,8,1,7
+Cherokee,#2 Cherokee Ward 2,County Treasurer,,Write-In,,7,1,6
+Cherokee,#3 Cherokee Ward 3,County Treasurer,,Write-In,,3,1,2
+Cherokee,#4 Cherokee,County Treasurer,,Write-In,,6,1,5
+Cherokee,#5 Aurelia,County Treasurer,,Write-In,,5,2,3
+Cherokee,#6 Quimby,County Treasurer,,Write-In,,21,2,19
+Cherokee,#7 Marcus,County Treasurer,,Write-In,,9,3,6
+Cherokee,#1 Cherokee Ward 1,Court of Appeals Judge - John M. Sandy,,No,,106,54,52
+Cherokee,#2 Cherokee Ward 2,Court of Appeals Judge - John M. Sandy,,No,,93,46,47
+Cherokee,#3 Cherokee Ward 3,Court of Appeals Judge - John M. Sandy,,No,,87,44,43
+Cherokee,#4 Cherokee,Court of Appeals Judge - John M. Sandy,,No,,113,53,60
+Cherokee,#5 Aurelia,Court of Appeals Judge - John M. Sandy,,No,,146,40,106
+Cherokee,#6 Quimby,Court of Appeals Judge - John M. Sandy,,No,,97,35,62
+Cherokee,#7 Marcus,Court of Appeals Judge - John M. Sandy,,No,,152,60,92
+Cherokee,#1 Cherokee Ward 1,Court of Appeals Judge - John M. Sandy,,Yes,,373,207,166
+Cherokee,#2 Cherokee Ward 2,Court of Appeals Judge - John M. Sandy,,Yes,,301,141,160
+Cherokee,#3 Cherokee Ward 3,Court of Appeals Judge - John M. Sandy,,Yes,,346,205,141
+Cherokee,#4 Cherokee,Court of Appeals Judge - John M. Sandy,,Yes,,414,182,232
+Cherokee,#5 Aurelia,Court of Appeals Judge - John M. Sandy,,Yes,,442,140,302
+Cherokee,#6 Quimby,Court of Appeals Judge - John M. Sandy,,Yes,,263,95,168
+Cherokee,#7 Marcus,Court of Appeals Judge - John M. Sandy,,Yes,,467,156,311
+Cherokee,#1 Cherokee Ward 1,Court of Appeals Judge - Julie A. Schumacher,,No,,105,53,52
+Cherokee,#2 Cherokee Ward 2,Court of Appeals Judge - Julie A. Schumacher,,No,,86,42,44
+Cherokee,#3 Cherokee Ward 3,Court of Appeals Judge - Julie A. Schumacher,,No,,83,40,43
+Cherokee,#4 Cherokee,Court of Appeals Judge - Julie A. Schumacher,,No,,128,63,65
+Cherokee,#5 Aurelia,Court of Appeals Judge - Julie A. Schumacher,,No,,143,38,105
+Cherokee,#6 Quimby,Court of Appeals Judge - Julie A. Schumacher,,No,,104,35,69
+Cherokee,#7 Marcus,Court of Appeals Judge - Julie A. Schumacher,,No,,139,56,83
+Cherokee,#1 Cherokee Ward 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,368,206,162
+Cherokee,#2 Cherokee Ward 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,302,140,162
+Cherokee,#3 Cherokee Ward 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,344,206,138
+Cherokee,#4 Cherokee,Court of Appeals Judge - Julie A. Schumacher,,Yes,,389,171,218
+Cherokee,#5 Aurelia,Court of Appeals Judge - Julie A. Schumacher,,Yes,,438,145,293
+Cherokee,#6 Quimby,Court of Appeals Judge - Julie A. Schumacher,,Yes,,249,90,159
+Cherokee,#7 Marcus,Court of Appeals Judge - Julie A. Schumacher,,Yes,,466,153,313
+Cherokee,#1 Cherokee Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,116,55,61
+Cherokee,#2 Cherokee Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,101,49,52
+Cherokee,#3 Cherokee Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,88,44,44
+Cherokee,#4 Cherokee,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,145,69,76
+Cherokee,#5 Aurelia,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,169,50,119
+Cherokee,#6 Quimby,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,115,41,74
+Cherokee,#7 Marcus,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,170,71,99
+Cherokee,#1 Cherokee Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,350,199,151
+Cherokee,#2 Cherokee Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,286,136,150
+Cherokee,#3 Cherokee Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,331,199,132
+Cherokee,#4 Cherokee,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,365,160,205
+Cherokee,#5 Aurelia,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,405,129,276
+Cherokee,#6 Quimby,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,239,85,154
+Cherokee,#7 Marcus,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,428,142,286
+Cherokee,#1 Cherokee Ward 1,District 3A Associate Judge - Jennifer Bennett Finn,,No,,101,47,54
+Cherokee,#2 Cherokee Ward 2,District 3A Associate Judge - Jennifer Bennett Finn,,No,,87,43,44
+Cherokee,#3 Cherokee Ward 3,District 3A Associate Judge - Jennifer Bennett Finn,,No,,87,44,43
+Cherokee,#4 Cherokee,District 3A Associate Judge - Jennifer Bennett Finn,,No,,130,66,64
+Cherokee,#5 Aurelia,District 3A Associate Judge - Jennifer Bennett Finn,,No,,152,47,105
+Cherokee,#6 Quimby,District 3A Associate Judge - Jennifer Bennett Finn,,No,,107,38,69
+Cherokee,#7 Marcus,District 3A Associate Judge - Jennifer Bennett Finn,,No,,153,61,92
+Cherokee,#1 Cherokee Ward 1,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,361,205,156
+Cherokee,#2 Cherokee Ward 2,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,298,138,160
+Cherokee,#3 Cherokee Ward 3,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,334,200,134
+Cherokee,#4 Cherokee,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,379,163,216
+Cherokee,#5 Aurelia,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,417,127,290
+Cherokee,#6 Quimby,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,238,85,153
+Cherokee,#7 Marcus,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,431,144,287
+Cherokee,#1 Cherokee Ward 1,District 3A Associate Judge - Kristi Busse,,No,,92,44,48
+Cherokee,#2 Cherokee Ward 2,District 3A Associate Judge - Kristi Busse,,No,,88,45,43
+Cherokee,#3 Cherokee Ward 3,District 3A Associate Judge - Kristi Busse,,No,,86,40,46
+Cherokee,#4 Cherokee,District 3A Associate Judge - Kristi Busse,,No,,114,57,57
+Cherokee,#5 Aurelia,District 3A Associate Judge - Kristi Busse,,No,,134,36,98
+Cherokee,#6 Quimby,District 3A Associate Judge - Kristi Busse,,No,,104,38,66
+Cherokee,#7 Marcus,District 3A Associate Judge - Kristi Busse,,No,,133,52,81
+Cherokee,#1 Cherokee Ward 1,District 3A Associate Judge - Kristi Busse,,Yes,,379,211,168
+Cherokee,#2 Cherokee Ward 2,District 3A Associate Judge - Kristi Busse,,Yes,,305,141,164
+Cherokee,#3 Cherokee Ward 3,District 3A Associate Judge - Kristi Busse,,Yes,,346,211,135
+Cherokee,#4 Cherokee,District 3A Associate Judge - Kristi Busse,,Yes,,405,176,229
+Cherokee,#5 Aurelia,District 3A Associate Judge - Kristi Busse,,Yes,,448,141,307
+Cherokee,#6 Quimby,District 3A Associate Judge - Kristi Busse,,Yes,,249,86,163
+Cherokee,#7 Marcus,District 3A Associate Judge - Kristi Busse,,Yes,,466,159,307
+Cherokee,#1 Cherokee Ward 1,District 3A Judge - Adam Miller,,No,,96,50,46
+Cherokee,#2 Cherokee Ward 2,District 3A Judge - Adam Miller,,No,,87,43,44
+Cherokee,#3 Cherokee Ward 3,District 3A Judge - Adam Miller,,No,,78,44,34
+Cherokee,#4 Cherokee,District 3A Judge - Adam Miller,,No,,100,46,54
+Cherokee,#5 Aurelia,District 3A Judge - Adam Miller,,No,,138,44,94
+Cherokee,#6 Quimby,District 3A Judge - Adam Miller,,No,,99,36,63
+Cherokee,#7 Marcus,District 3A Judge - Adam Miller,,No,,142,52,90
+Cherokee,#1 Cherokee Ward 1,District 3A Judge - Adam Miller,,Yes,,392,215,177
+Cherokee,#2 Cherokee Ward 2,District 3A Judge - Adam Miller,,Yes,,317,150,167
+Cherokee,#3 Cherokee Ward 3,District 3A Judge - Adam Miller,,Yes,,357,208,149
+Cherokee,#4 Cherokee,District 3A Judge - Adam Miller,,Yes,,445,204,241
+Cherokee,#5 Aurelia,District 3A Judge - Adam Miller,,Yes,,453,142,311
+Cherokee,#6 Quimby,District 3A Judge - Adam Miller,,Yes,,258,93,165
+Cherokee,#7 Marcus,District 3A Judge - Adam Miller,,Yes,,458,160,298
+Cherokee,#1 Cherokee Ward 1,District 3A Judge - Andrew J. Smith,,No,,105,52,53
+Cherokee,#2 Cherokee Ward 2,District 3A Judge - Andrew J. Smith,,No,,88,47,41
+Cherokee,#3 Cherokee Ward 3,District 3A Judge - Andrew J. Smith,,No,,80,41,39
+Cherokee,#4 Cherokee,District 3A Judge - Andrew J. Smith,,No,,120,56,64
+Cherokee,#5 Aurelia,District 3A Judge - Andrew J. Smith,,No,,141,40,101
+Cherokee,#6 Quimby,District 3A Judge - Andrew J. Smith,,No,,99,35,64
+Cherokee,#7 Marcus,District 3A Judge - Andrew J. Smith,,No,,138,57,81
+Cherokee,#1 Cherokee Ward 1,District 3A Judge - Andrew J. Smith,,Yes,,359,202,157
+Cherokee,#2 Cherokee Ward 2,District 3A Judge - Andrew J. Smith,,Yes,,296,131,165
+Cherokee,#3 Cherokee Ward 3,District 3A Judge - Andrew J. Smith,,Yes,,340,201,139
+Cherokee,#4 Cherokee,District 3A Judge - Andrew J. Smith,,Yes,,389,171,218
+Cherokee,#5 Aurelia,District 3A Judge - Andrew J. Smith,,Yes,,430,138,292
+Cherokee,#6 Quimby,District 3A Judge - Andrew J. Smith,,Yes,,252,88,164
+Cherokee,#7 Marcus,District 3A Judge - Andrew J. Smith,,Yes,,453,151,302
+Cherokee,#1 Cherokee Ward 1,District 3A Judge - Carl J. Petersen,,No,,108,53,55
+Cherokee,#2 Cherokee Ward 2,District 3A Judge - Carl J. Petersen,,No,,84,40,44
+Cherokee,#3 Cherokee Ward 3,District 3A Judge - Carl J. Petersen,,No,,83,40,43
+Cherokee,#4 Cherokee,District 3A Judge - Carl J. Petersen,,No,,111,53,58
+Cherokee,#5 Aurelia,District 3A Judge - Carl J. Petersen,,No,,140,49,91
+Cherokee,#6 Quimby,District 3A Judge - Carl J. Petersen,,No,,104,38,66
+Cherokee,#7 Marcus,District 3A Judge - Carl J. Petersen,,No,,146,60,86
+Cherokee,#1 Cherokee Ward 1,District 3A Judge - Carl J. Petersen,,Yes,,366,209,157
+Cherokee,#2 Cherokee Ward 2,District 3A Judge - Carl J. Petersen,,Yes,,298,136,162
+Cherokee,#3 Cherokee Ward 3,District 3A Judge - Carl J. Petersen,,Yes,,345,208,137
+Cherokee,#4 Cherokee,District 3A Judge - Carl J. Petersen,,Yes,,406,181,225
+Cherokee,#5 Aurelia,District 3A Judge - Carl J. Petersen,,Yes,,444,132,312
+Cherokee,#6 Quimby,District 3A Judge - Carl J. Petersen,,Yes,,250,88,162
+Cherokee,#7 Marcus,District 3A Judge - Carl J. Petersen,,Yes,,458,152,306
+Cherokee,#1 Cherokee Ward 1,District 3A Judge - Charles Borth,,No,,117,58,59
+Cherokee,#2 Cherokee Ward 2,District 3A Judge - Charles Borth,,No,,100,50,50
+Cherokee,#3 Cherokee Ward 3,District 3A Judge - Charles Borth,,No,,98,52,46
+Cherokee,#4 Cherokee,District 3A Judge - Charles Borth,,No,,118,56,62
+Cherokee,#5 Aurelia,District 3A Judge - Charles Borth,,No,,148,45,103
+Cherokee,#6 Quimby,District 3A Judge - Charles Borth,,No,,110,37,73
+Cherokee,#7 Marcus,District 3A Judge - Charles Borth,,No,,154,61,93
+Cherokee,#1 Cherokee Ward 1,District 3A Judge - Charles Borth,,Yes,,349,195,154
+Cherokee,#2 Cherokee Ward 2,District 3A Judge - Charles Borth,,Yes,,281,128,153
+Cherokee,#3 Cherokee Ward 3,District 3A Judge - Charles Borth,,Yes,,323,189,134
+Cherokee,#4 Cherokee,District 3A Judge - Charles Borth,,Yes,,391,172,219
+Cherokee,#5 Aurelia,District 3A Judge - Charles Borth,,Yes,,420,130,290
+Cherokee,#6 Quimby,District 3A Judge - Charles Borth,,Yes,,236,86,150
+Cherokee,#7 Marcus,District 3A Judge - Charles Borth,,Yes,,438,148,290
+Cherokee,#1 Cherokee Ward 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,302,177,125
+Cherokee,#2 Cherokee Ward 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,271,148,123
+Cherokee,#3 Cherokee Ward 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,283,174,109
+Cherokee,#4 Cherokee,Governor,,Rob Sand and Dave Muhlbauer,DEM,232,134,98
+Cherokee,#5 Aurelia,Governor,,Rob Sand and Dave Muhlbauer,DEM,288,107,181
+Cherokee,#6 Quimby,Governor,,Rob Sand and Dave Muhlbauer,DEM,146,62,84
+Cherokee,#7 Marcus,Governor,,Rob Sand and Dave Muhlbauer,DEM,323,143,180
+Cherokee,#1 Cherokee Ward 1,Governor,,Write-In,,3,1,2
+Cherokee,#2 Cherokee Ward 2,Governor,,Write-In,,1,0,1
+Cherokee,#3 Cherokee Ward 3,Governor,,Write-In,,1,0,1
+Cherokee,#4 Cherokee,Governor,,Write-In,,1,0,1
+Cherokee,#5 Aurelia,Governor,,Write-In,,0,0,0
+Cherokee,#6 Quimby,Governor,,Write-In,,3,1,2
+Cherokee,#7 Marcus,Governor,,Write-In,,0,0,0
+Cherokee,#1 Cherokee Ward 1,Governor,,Zach Lahn and Derek Wulf,REP,368,182,186
+Cherokee,#2 Cherokee Ward 2,Governor,,Zach Lahn and Derek Wulf,REP,280,128,152
+Cherokee,#3 Cherokee Ward 3,Governor,,Zach Lahn and Derek Wulf,REP,321,162,159
+Cherokee,#4 Cherokee,Governor,,Zach Lahn and Derek Wulf,REP,536,219,317
+Cherokee,#5 Aurelia,Governor,,Zach Lahn and Derek Wulf,REP,538,176,362
+Cherokee,#6 Quimby,Governor,,Zach Lahn and Derek Wulf,REP,341,135,206
+Cherokee,#7 Marcus,Governor,,Zach Lahn and Derek Wulf,REP,594,192,402
+Cherokee,#6 Quimby,Grand Meadow Township Trustee,,William Sokolowski,,86,40,46
+Cherokee,#6 Quimby,Grand Meadow Township Trustee,,Write-In,,0,0,0
+Cherokee,#7 Marcus,Marcus Township Clerk,,Patrick Bird,,54,28,26
+Cherokee,#7 Marcus,Marcus Township Clerk,,Write-In,,0,0,0
+Cherokee,#7 Marcus,Marcus Township Trustee,,Jeff Letsche,,48,26,22
+Cherokee,#7 Marcus,Marcus Township Trustee,,Steve Hueser,,46,27,19
+Cherokee,#7 Marcus,Marcus Township Trustee,,Write-In,,0,0,0
+Cherokee,#6 Quimby,Rock Township Trustee,,John Zimmer,,5,0,5
+Cherokee,#6 Quimby,Rock Township Trustee,,Write-In,,13,5,8
+Cherokee,#1 Cherokee Ward 1,Secretary of Agriculture,,Chris Jones,DEM,221,133,88
+Cherokee,#2 Cherokee Ward 2,Secretary of Agriculture,,Chris Jones,DEM,200,121,79
+Cherokee,#3 Cherokee Ward 3,Secretary of Agriculture,,Chris Jones,DEM,237,140,97
+Cherokee,#4 Cherokee,Secretary of Agriculture,,Chris Jones,DEM,162,95,67
+Cherokee,#5 Aurelia,Secretary of Agriculture,,Chris Jones,DEM,206,85,121
+Cherokee,#6 Quimby,Secretary of Agriculture,,Chris Jones,DEM,96,46,50
+Cherokee,#7 Marcus,Secretary of Agriculture,,Chris Jones,DEM,203,100,103
+Cherokee,#1 Cherokee Ward 1,Secretary of Agriculture,,Mike Naig,REP,437,218,219
+Cherokee,#2 Cherokee Ward 2,Secretary of Agriculture,,Mike Naig,REP,336,143,193
+Cherokee,#3 Cherokee Ward 3,Secretary of Agriculture,,Mike Naig,REP,346,185,161
+Cherokee,#4 Cherokee,Secretary of Agriculture,,Mike Naig,REP,594,252,342
+Cherokee,#5 Aurelia,Secretary of Agriculture,,Mike Naig,REP,605,194,411
+Cherokee,#6 Quimby,Secretary of Agriculture,,Mike Naig,REP,385,149,236
+Cherokee,#7 Marcus,Secretary of Agriculture,,Mike Naig,REP,690,230,460
+Cherokee,#1 Cherokee Ward 1,Secretary of Agriculture,,Write-In,,1,1,0
+Cherokee,#2 Cherokee Ward 2,Secretary of Agriculture,,Write-In,,0,0,0
+Cherokee,#3 Cherokee Ward 3,Secretary of Agriculture,,Write-In,,2,0,2
+Cherokee,#4 Cherokee,Secretary of Agriculture,,Write-In,,0,0,0
+Cherokee,#5 Aurelia,Secretary of Agriculture,,Write-In,,0,0,0
+Cherokee,#6 Quimby,Secretary of Agriculture,,Write-In,,0,0,0
+Cherokee,#7 Marcus,Secretary of Agriculture,,Write-In,,0,0,0
+Cherokee,#1 Cherokee Ward 1,Secretary of State,,Paul D. Pate,REP,431,217,214
+Cherokee,#2 Cherokee Ward 2,Secretary of State,,Paul D. Pate,REP,326,140,186
+Cherokee,#3 Cherokee Ward 3,Secretary of State,,Paul D. Pate,REP,349,180,169
+Cherokee,#4 Cherokee,Secretary of State,,Paul D. Pate,REP,580,240,340
+Cherokee,#5 Aurelia,Secretary of State,,Paul D. Pate,REP,585,191,394
+Cherokee,#6 Quimby,Secretary of State,,Paul D. Pate,REP,365,142,223
+Cherokee,#7 Marcus,Secretary of State,,Paul D. Pate,REP,666,216,450
+Cherokee,#1 Cherokee Ward 1,Secretary of State,,Ryan Peterman,DEM,228,137,91
+Cherokee,#2 Cherokee Ward 2,Secretary of State,,Ryan Peterman,DEM,205,123,82
+Cherokee,#3 Cherokee Ward 3,Secretary of State,,Ryan Peterman,DEM,241,150,91
+Cherokee,#4 Cherokee,Secretary of State,,Ryan Peterman,DEM,171,107,64
+Cherokee,#5 Aurelia,Secretary of State,,Ryan Peterman,DEM,215,84,131
+Cherokee,#6 Quimby,Secretary of State,,Ryan Peterman,DEM,111,49,62
+Cherokee,#7 Marcus,Secretary of State,,Ryan Peterman,DEM,222,113,109
+Cherokee,#1 Cherokee Ward 1,Secretary of State,,Write-In,,0,0,0
+Cherokee,#2 Cherokee Ward 2,Secretary of State,,Write-In,,2,1,1
+Cherokee,#3 Cherokee Ward 3,Secretary of State,,Write-In,,2,0,2
+Cherokee,#4 Cherokee,Secretary of State,,Write-In,,1,0,1
+Cherokee,#5 Aurelia,Secretary of State,,Write-In,,1,1,0
+Cherokee,#6 Quimby,Secretary of State,,Write-In,,0,0,0
+Cherokee,#7 Marcus,Secretary of State,,Write-In,,0,0,0
+Cherokee,#1 Cherokee Ward 1,Soil and Water Conservation District Commissioner,,Ginger Walker,,438,236,202
+Cherokee,#2 Cherokee Ward 2,Soil and Water Conservation District Commissioner,,Ginger Walker,,353,162,191
+Cherokee,#3 Cherokee Ward 3,Soil and Water Conservation District Commissioner,,Ginger Walker,,378,222,156
+Cherokee,#4 Cherokee,Soil and Water Conservation District Commissioner,,Ginger Walker,,549,256,293
+Cherokee,#5 Aurelia,Soil and Water Conservation District Commissioner,,Ginger Walker,,550,189,361
+Cherokee,#6 Quimby,Soil and Water Conservation District Commissioner,,Ginger Walker,,341,141,200
+Cherokee,#7 Marcus,Soil and Water Conservation District Commissioner,,Ginger Walker,,549,220,329
+Cherokee,#1 Cherokee Ward 1,Soil and Water Conservation District Commissioner,,Jay Magnussen,,394,222,172
+Cherokee,#2 Cherokee Ward 2,Soil and Water Conservation District Commissioner,,Jay Magnussen,,289,127,162
+Cherokee,#3 Cherokee Ward 3,Soil and Water Conservation District Commissioner,,Jay Magnussen,,350,197,153
+Cherokee,#4 Cherokee,Soil and Water Conservation District Commissioner,,Jay Magnussen,,485,223,262
+Cherokee,#5 Aurelia,Soil and Water Conservation District Commissioner,,Jay Magnussen,,536,181,355
+Cherokee,#6 Quimby,Soil and Water Conservation District Commissioner,,Jay Magnussen,,309,124,185
+Cherokee,#7 Marcus,Soil and Water Conservation District Commissioner,,Jay Magnussen,,545,199,346
+Cherokee,#1 Cherokee Ward 1,Soil and Water Conservation District Commissioner,,Write-In,,13,3,10
+Cherokee,#2 Cherokee Ward 2,Soil and Water Conservation District Commissioner,,Write-In,,6,3,3
+Cherokee,#3 Cherokee Ward 3,Soil and Water Conservation District Commissioner,,Write-In,,7,1,6
+Cherokee,#4 Cherokee,Soil and Water Conservation District Commissioner,,Write-In,,10,1,9
+Cherokee,#5 Aurelia,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
+Cherokee,#6 Quimby,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Cherokee,#7 Marcus,Soil and Water Conservation District Commissioner,,Write-In,,6,0,6
+Cherokee,#6 Quimby,State House,13,Travis M. Sitzmann,REP,412,159,253
+Cherokee,#7 Marcus,State House,13,Travis M. Sitzmann,REP,715,244,471
+Cherokee,#6 Quimby,State House,13,Write-In,,5,0,5
+Cherokee,#7 Marcus,State House,13,Write-In,,5,2,3
+Cherokee,#1 Cherokee Ward 1,State House,5,Keith Glienke,REP,442,220,222
+Cherokee,#2 Cherokee Ward 2,State House,5,Keith Glienke,REP,331,148,183
+Cherokee,#3 Cherokee Ward 3,State House,5,Keith Glienke,REP,361,178,183
+Cherokee,#4 Cherokee,State House,5,Keith Glienke,REP,608,254,354
+Cherokee,#5 Aurelia,State House,5,Keith Glienke,REP,652,213,439
+Cherokee,#1 Cherokee Ward 1,State House,5,Stephanie Steiner,DEM,214,132,82
+Cherokee,#2 Cherokee Ward 2,State House,5,Stephanie Steiner,DEM,205,119,86
+Cherokee,#3 Cherokee Ward 3,State House,5,Stephanie Steiner,DEM,224,145,79
+Cherokee,#4 Cherokee,State House,5,Stephanie Steiner,DEM,143,89,54
+Cherokee,#5 Aurelia,State House,5,Stephanie Steiner,DEM,162,65,97
+Cherokee,#1 Cherokee Ward 1,State House,5,Write-In,,0,0,0
+Cherokee,#2 Cherokee Ward 2,State House,5,Write-In,,0,0,0
+Cherokee,#3 Cherokee Ward 3,State House,5,Write-In,,2,1,1
+Cherokee,#4 Cherokee,State House,5,Write-In,,1,0,1
+Cherokee,#5 Aurelia,State House,5,Write-In,,0,0,0
+Cherokee,#1 Cherokee Ward 1,State Senate,3,Lynn Evans,REP,449,221,228
+Cherokee,#2 Cherokee Ward 2,State Senate,3,Lynn Evans,REP,352,157,195
+Cherokee,#3 Cherokee Ward 3,State Senate,3,Lynn Evans,REP,370,189,181
+Cherokee,#4 Cherokee,State Senate,3,Lynn Evans,REP,600,250,350
+Cherokee,#5 Aurelia,State Senate,3,Lynn Evans,REP,621,202,419
+Cherokee,#1 Cherokee Ward 1,State Senate,3,Mike Frantz,DEM,212,133,79
+Cherokee,#2 Cherokee Ward 2,State Senate,3,Mike Frantz,DEM,186,109,77
+Cherokee,#3 Cherokee Ward 3,State Senate,3,Mike Frantz,DEM,225,143,82
+Cherokee,#4 Cherokee,State Senate,3,Mike Frantz,DEM,156,94,62
+Cherokee,#5 Aurelia,State Senate,3,Mike Frantz,DEM,197,78,119
+Cherokee,#1 Cherokee Ward 1,State Senate,3,Write-In,,2,1,1
+Cherokee,#2 Cherokee Ward 2,State Senate,3,Write-In,,1,0,1
+Cherokee,#3 Cherokee Ward 3,State Senate,3,Write-In,,2,1,1
+Cherokee,#4 Cherokee,State Senate,3,Write-In,,0,0,0
+Cherokee,#5 Aurelia,State Senate,3,Write-In,,2,1,1
+Cherokee,#6 Quimby,State Senate,7,Kevin Alons,REP,408,156,252
+Cherokee,#7 Marcus,State Senate,7,Kevin Alons,REP,704,239,465
+Cherokee,#6 Quimby,State Senate,7,Write-In,,3,0,3
+Cherokee,#7 Marcus,State Senate,7,Write-In,,6,2,4
+Cherokee,#6 Quimby,Tilden Township Clerk,,Ed Schlenger,,57,25,32
+Cherokee,#6 Quimby,Tilden Township Clerk,,Write-In,,0,0,0
+Cherokee,#6 Quimby,Tilden Township Trustee,,Tony Simons,,54,24,30
+Cherokee,#6 Quimby,Tilden Township Trustee,,Write-In,,2,0,2
+Cherokee,#1 Cherokee Ward 1,Treasurer of State,,John Norwood,DEM,244,144,100
+Cherokee,#2 Cherokee Ward 2,Treasurer of State,,John Norwood,DEM,223,129,94
+Cherokee,#3 Cherokee Ward 3,Treasurer of State,,John Norwood,DEM,239,147,92
+Cherokee,#4 Cherokee,Treasurer of State,,John Norwood,DEM,181,107,74
+Cherokee,#5 Aurelia,Treasurer of State,,John Norwood,DEM,225,85,140
+Cherokee,#6 Quimby,Treasurer of State,,John Norwood,DEM,114,52,62
+Cherokee,#7 Marcus,Treasurer of State,,John Norwood,DEM,241,118,123
+Cherokee,#1 Cherokee Ward 1,Treasurer of State,,Roby Smith,REP,402,200,202
+Cherokee,#2 Cherokee Ward 2,Treasurer of State,,Roby Smith,REP,302,130,172
+Cherokee,#3 Cherokee Ward 3,Treasurer of State,,Roby Smith,REP,341,177,164
+Cherokee,#4 Cherokee,Treasurer of State,,Roby Smith,REP,555,233,322
+Cherokee,#5 Aurelia,Treasurer of State,,Roby Smith,REP,562,183,379
+Cherokee,#6 Quimby,Treasurer of State,,Roby Smith,REP,354,136,218
+Cherokee,#7 Marcus,Treasurer of State,,Roby Smith,REP,623,206,417
+Cherokee,#1 Cherokee Ward 1,Treasurer of State,,Write-In,,0,0,0
+Cherokee,#2 Cherokee Ward 2,Treasurer of State,,Write-In,,1,1,0
+Cherokee,#3 Cherokee Ward 3,Treasurer of State,,Write-In,,2,0,2
+Cherokee,#4 Cherokee,Treasurer of State,,Write-In,,1,0,1
+Cherokee,#5 Aurelia,Treasurer of State,,Write-In,,0,0,0
+Cherokee,#6 Quimby,Treasurer of State,,Write-In,,0,0,0
+Cherokee,#7 Marcus,Treasurer of State,,Write-In,,0,0,0
+Cherokee,#1 Cherokee Ward 1,U.S. House,4,Chris McGowan,REP,409,205,204
+Cherokee,#2 Cherokee Ward 2,U.S. House,4,Chris McGowan,REP,293,128,165
+Cherokee,#3 Cherokee Ward 3,U.S. House,4,Chris McGowan,REP,330,163,167
+Cherokee,#4 Cherokee,U.S. House,4,Chris McGowan,REP,545,221,324
+Cherokee,#5 Aurelia,U.S. House,4,Chris McGowan,REP,556,180,376
+Cherokee,#6 Quimby,U.S. House,4,Chris McGowan,REP,328,129,199
+Cherokee,#7 Marcus,U.S. House,4,Chris McGowan,REP,612,192,420
+Cherokee,#1 Cherokee Ward 1,U.S. House,4,Dave Dawson,DEM,248,148,100
+Cherokee,#2 Cherokee Ward 2,U.S. House,4,Dave Dawson,DEM,240,137,103
+Cherokee,#3 Cherokee Ward 3,U.S. House,4,Dave Dawson,DEM,253,162,91
+Cherokee,#4 Cherokee,U.S. House,4,Dave Dawson,DEM,188,118,70
+Cherokee,#5 Aurelia,U.S. House,4,Dave Dawson,DEM,244,93,151
+Cherokee,#6 Quimby,U.S. House,4,Dave Dawson,DEM,150,61,89
+Cherokee,#7 Marcus,U.S. House,4,Dave Dawson,DEM,284,136,148
+Cherokee,#1 Cherokee Ward 1,U.S. House,4,Write-In,,1,1,0
+Cherokee,#2 Cherokee Ward 2,U.S. House,4,Write-In,,0,0,0
+Cherokee,#3 Cherokee Ward 3,U.S. House,4,Write-In,,2,0,2
+Cherokee,#4 Cherokee,U.S. House,4,Write-In,,3,0,3
+Cherokee,#5 Aurelia,U.S. House,4,Write-In,,1,0,1
+Cherokee,#6 Quimby,U.S. House,4,Write-In,,0,0,0
+Cherokee,#7 Marcus,U.S. House,4,Write-In,,0,0,0
+Cherokee,#1 Cherokee Ward 1,U.S. Senate,,Ashley Hinson,REP,392,189,203
+Cherokee,#2 Cherokee Ward 2,U.S. Senate,,Ashley Hinson,REP,271,123,148
+Cherokee,#3 Cherokee Ward 3,U.S. Senate,,Ashley Hinson,REP,300,146,154
+Cherokee,#4 Cherokee,U.S. Senate,,Ashley Hinson,REP,531,221,310
+Cherokee,#5 Aurelia,U.S. Senate,,Ashley Hinson,REP,538,179,359
+Cherokee,#6 Quimby,U.S. Senate,,Ashley Hinson,REP,344,131,213
+Cherokee,#7 Marcus,U.S. Senate,,Ashley Hinson,REP,597,182,415
+Cherokee,#1 Cherokee Ward 1,U.S. Senate,,Josh Turek,DEM,257,156,101
+Cherokee,#2 Cherokee Ward 2,U.S. Senate,,Josh Turek,DEM,244,137,107
+Cherokee,#3 Cherokee Ward 3,U.S. Senate,,Josh Turek,DEM,260,166,94
+Cherokee,#4 Cherokee,U.S. Senate,,Josh Turek,DEM,186,117,69
+Cherokee,#5 Aurelia,U.S. Senate,,Josh Turek,DEM,247,91,156
+Cherokee,#6 Quimby,U.S. Senate,,Josh Turek,DEM,122,57,65
+Cherokee,#7 Marcus,U.S. Senate,,Josh Turek,DEM,278,132,146
+Cherokee,#1 Cherokee Ward 1,U.S. Senate,,Thomas Laehn,LIB,22,12,10
+Cherokee,#2 Cherokee Ward 2,U.S. Senate,,Thomas Laehn,LIB,30,10,20
+Cherokee,#3 Cherokee Ward 3,U.S. Senate,,Thomas Laehn,LIB,30,14,16
+Cherokee,#4 Cherokee,U.S. Senate,,Thomas Laehn,LIB,29,8,21
+Cherokee,#5 Aurelia,U.S. Senate,,Thomas Laehn,LIB,28,6,22
+Cherokee,#6 Quimby,U.S. Senate,,Thomas Laehn,LIB,11,4,7
+Cherokee,#7 Marcus,U.S. Senate,,Thomas Laehn,LIB,35,13,22
+Cherokee,#1 Cherokee Ward 1,U.S. Senate,,Write-In,,0,0,0
+Cherokee,#2 Cherokee Ward 2,U.S. Senate,,Write-In,,0,0,0
+Cherokee,#3 Cherokee Ward 3,U.S. Senate,,Write-In,,2,0,2
+Cherokee,#4 Cherokee,U.S. Senate,,Write-In,,2,0,2
+Cherokee,#5 Aurelia,U.S. Senate,,Write-In,,0,0,0
+Cherokee,#6 Quimby,U.S. Senate,,Write-In,,2,0,2
+Cherokee,#7 Marcus,U.S. Senate,,Write-In,,0,0,0

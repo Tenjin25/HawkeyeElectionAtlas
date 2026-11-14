@@ -2,7 +2,7 @@
 
 Hawkeye Election Atlas is an interactive browser atlas for exploring Iowa election results by county, congressional district, Iowa House district, and Iowa Senate district.
 
-The current atlas includes statewide contests from 1980 through 2024 and district aggregations from 2000 through 2024. District results use Iowa's Plan 2 boundaries enacted in 2021. Negative signed margins represent Democratic leads; positive signed margins represent Republican leads.
+The current atlas includes statewide contests from 1980 through 2026 and district aggregations from 2000 through 2026. The 2026 results are unofficial election-night returns and will remain labeled that way until Iowa publishes its canvass. District results use Iowa's Plan 2 boundaries enacted in 2021. Negative signed margins represent Democratic leads; positive signed margins represent Republican leads.
 
 ## Run locally
 

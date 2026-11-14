@@ -1,0 +1,357 @@
+county,precinct,office,district,candidate,party,votes,absentee,election_day
+Adair,1NW,Attorney General,,Brenna Bird,REP,404,112,292
+Adair,2NE,Attorney General,,Brenna Bird,REP,438,141,297
+Adair,3SW,Attorney General,,Brenna Bird,REP,491,154,337
+Adair,4SE,Attorney General,,Brenna Bird,REP,407,142,265
+Adair,5GF,Attorney General,,Brenna Bird,REP,348,160,188
+Adair,1NW,Attorney General,,Nate Willems,DEM,202,52,150
+Adair,2NE,Attorney General,,Nate Willems,DEM,241,109,132
+Adair,3SW,Attorney General,,Nate Willems,DEM,173,63,110
+Adair,4SE,Attorney General,,Nate Willems,DEM,188,104,84
+Adair,5GF,Attorney General,,Nate Willems,DEM,258,137,121
+Adair,1NW,Attorney General,,Write-In,,1,0,1
+Adair,2NE,Attorney General,,Write-In,,1,0,1
+Adair,3SW,Attorney General,,Write-In,,0,0,0
+Adair,4SE,Attorney General,,Write-In,,0,0,0
+Adair,5GF,Attorney General,,Write-In,,0,0,0
+Adair,1NW,Auditor of State,,Chris Cournoyer,REP,411,109,302
+Adair,2NE,Auditor of State,,Chris Cournoyer,REP,433,135,298
+Adair,3SW,Auditor of State,,Chris Cournoyer,REP,479,151,328
+Adair,4SE,Auditor of State,,Chris Cournoyer,REP,396,130,266
+Adair,5GF,Auditor of State,,Chris Cournoyer,REP,356,162,194
+Adair,1NW,Auditor of State,,Taylor Wettach,DEM,186,51,135
+Adair,2NE,Auditor of State,,Taylor Wettach,DEM,228,104,124
+Adair,3SW,Auditor of State,,Taylor Wettach,DEM,170,62,108
+Adair,4SE,Auditor of State,,Taylor Wettach,DEM,184,102,82
+Adair,5GF,Auditor of State,,Taylor Wettach,DEM,234,126,108
+Adair,1NW,Auditor of State,,Write-In,,1,0,1
+Adair,2NE,Auditor of State,,Write-In,,0,0,0
+Adair,3SW,Auditor of State,,Write-In,,1,0,1
+Adair,4SE,Auditor of State,,Write-In,,0,0,0
+Adair,5GF,Auditor of State,,Write-In,,0,0,0
+Adair,1NW,Constitutional Amendment 1,,No,,185,52,133
+Adair,2NE,Constitutional Amendment 1,,No,,208,75,133
+Adair,3SW,Constitutional Amendment 1,,No,,215,66,149
+Adair,4SE,Constitutional Amendment 1,,No,,208,111,97
+Adair,5GF,Constitutional Amendment 1,,No,,266,135,131
+Adair,1NW,Constitutional Amendment 1,,Yes,,334,91,243
+Adair,2NE,Constitutional Amendment 1,,Yes,,406,149,257
+Adair,3SW,Constitutional Amendment 1,,Yes,,397,132,265
+Adair,4SE,Constitutional Amendment 1,,Yes,,318,109,209
+Adair,5GF,Constitutional Amendment 1,,Yes,,275,128,147
+Adair,1NW,County Agricultural Extension Council Member,,Beth Davenport,,352,89,263
+Adair,2NE,County Agricultural Extension Council Member,,Beth Davenport,,380,131,249
+Adair,3SW,County Agricultural Extension Council Member,,Beth Davenport,,413,132,281
+Adair,4SE,County Agricultural Extension Council Member,,Beth Davenport,,356,140,216
+Adair,5GF,County Agricultural Extension Council Member,,Beth Davenport,,382,178,204
+Adair,1NW,County Agricultural Extension Council Member,,Gregory Lilly,,365,105,260
+Adair,2NE,County Agricultural Extension Council Member,,Gregory Lilly,,390,141,249
+Adair,3SW,County Agricultural Extension Council Member,,Gregory Lilly,,464,152,312
+Adair,4SE,County Agricultural Extension Council Member,,Gregory Lilly,,387,143,244
+Adair,5GF,County Agricultural Extension Council Member,,Gregory Lilly,,394,179,215
+Adair,1NW,County Agricultural Extension Council Member,,Laura Nosbisch,,345,90,255
+Adair,2NE,County Agricultural Extension Council Member,,Laura Nosbisch,,388,135,253
+Adair,3SW,County Agricultural Extension Council Member,,Laura Nosbisch,,415,135,280
+Adair,4SE,County Agricultural Extension Council Member,,Laura Nosbisch,,350,135,215
+Adair,5GF,County Agricultural Extension Council Member,,Laura Nosbisch,,393,181,212
+Adair,1NW,County Agricultural Extension Council Member,,Lisa Carstens,,408,111,297
+Adair,2NE,County Agricultural Extension Council Member,,Lisa Carstens,,418,143,275
+Adair,3SW,County Agricultural Extension Council Member,,Lisa Carstens,,505,164,341
+Adair,4SE,County Agricultural Extension Council Member,,Lisa Carstens,,424,159,265
+Adair,5GF,County Agricultural Extension Council Member,,Lisa Carstens,,452,207,245
+Adair,1NW,County Agricultural Extension Council Member,,Matthew Rohrig,,388,107,281
+Adair,2NE,County Agricultural Extension Council Member,,Matthew Rohrig,,417,140,277
+Adair,3SW,County Agricultural Extension Council Member,,Matthew Rohrig,,496,155,341
+Adair,4SE,County Agricultural Extension Council Member,,Matthew Rohrig,,442,161,281
+Adair,5GF,County Agricultural Extension Council Member,,Matthew Rohrig,,427,196,231
+Adair,1NW,County Agricultural Extension Council Member,,Write-In,,2,2,0
+Adair,2NE,County Agricultural Extension Council Member,,Write-In,,10,5,5
+Adair,3SW,County Agricultural Extension Council Member,,Write-In,,5,4,1
+Adair,4SE,County Agricultural Extension Council Member,,Write-In,,6,0,6
+Adair,5GF,County Agricultural Extension Council Member,,Write-In,,11,7,4
+Adair,1NW,County Agricultural Extension Council To Fill a Vacancy,,Sondra A. Baudler,,466,123,343
+Adair,2NE,County Agricultural Extension Council To Fill a Vacancy,,Sondra A. Baudler,,516,174,342
+Adair,3SW,County Agricultural Extension Council To Fill a Vacancy,,Sondra A. Baudler,,599,189,410
+Adair,4SE,County Agricultural Extension Council To Fill a Vacancy,,Sondra A. Baudler,,511,192,319
+Adair,5GF,County Agricultural Extension Council To Fill a Vacancy,,Sondra A. Baudler,,515,236,279
+Adair,1NW,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,1,0,1
+Adair,2NE,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,4,1,3
+Adair,3SW,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,2,1,1
+Adair,4SE,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,1,0,1
+Adair,5GF,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,4,2,2
+Adair,1NW,County Attorney,,Michael D. Maynes,DEM,232,77,155
+Adair,2NE,County Attorney,,Michael D. Maynes,DEM,288,137,151
+Adair,3SW,County Attorney,,Michael D. Maynes,DEM,329,109,220
+Adair,4SE,County Attorney,,Michael D. Maynes,DEM,319,172,147
+Adair,5GF,County Attorney,,Michael D. Maynes,DEM,371,191,180
+Adair,1NW,County Attorney,,Ryan Benn,REP,365,83,282
+Adair,2NE,County Attorney,,Ryan Benn,REP,371,106,265
+Adair,3SW,County Attorney,,Ryan Benn,REP,343,110,233
+Adair,4SE,County Attorney,,Ryan Benn,REP,279,73,206
+Adair,5GF,County Attorney,,Ryan Benn,REP,241,110,131
+Adair,1NW,County Attorney,,Write-In,,1,0,1
+Adair,2NE,County Attorney,,Write-In,,0,0,0
+Adair,3SW,County Attorney,,Write-In,,1,1,0
+Adair,4SE,County Attorney,,Write-In,,0,0,0
+Adair,5GF,County Attorney,,Write-In,,0,0,0
+Adair,1NW,County Auditor To Fill a Vacancy,,Ruthie Smith,REP,530,142,388
+Adair,2NE,County Auditor To Fill a Vacancy,,Ruthie Smith,REP,597,209,388
+Adair,3SW,County Auditor To Fill a Vacancy,,Ruthie Smith,REP,634,204,430
+Adair,4SE,County Auditor To Fill a Vacancy,,Ruthie Smith,REP,533,200,333
+Adair,5GF,County Auditor To Fill a Vacancy,,Ruthie Smith,REP,543,255,288
+Adair,1NW,County Auditor To Fill a Vacancy,,Write-In,,7,2,5
+Adair,2NE,County Auditor To Fill a Vacancy,,Write-In,,5,2,3
+Adair,3SW,County Auditor To Fill a Vacancy,,Write-In,,5,1,4
+Adair,4SE,County Auditor To Fill a Vacancy,,Write-In,,4,4,0
+Adair,5GF,County Auditor To Fill a Vacancy,,Write-In,,5,4,1
+Adair,2NE,County Board of Supervisors District 2NE,,Jodie Hoadley,REP,571,195,376
+Adair,2NE,County Board of Supervisors District 2NE,,Write-In,,24,13,11
+Adair,4SE,County Board of Supervisors District 4SE,,Nathan Ross Baier,REP,544,204,340
+Adair,4SE,County Board of Supervisors District 4SE,,Write-In,,6,4,2
+Adair,1NW,County Hospital Trustee,,Bo Geidel,,211,60,151
+Adair,2NE,County Hospital Trustee,,Bo Geidel,,196,67,129
+Adair,3SW,County Hospital Trustee,,Bo Geidel,,296,84,212
+Adair,4SE,County Hospital Trustee,,Bo Geidel,,327,113,214
+Adair,5GF,County Hospital Trustee,,Bo Geidel,,286,139,147
+Adair,1NW,County Hospital Trustee,,Clark Dolch,,289,87,202
+Adair,2NE,County Hospital Trustee,,Clark Dolch,,373,127,246
+Adair,3SW,County Hospital Trustee,,Clark Dolch,,401,125,276
+Adair,4SE,County Hospital Trustee,,Clark Dolch,,343,115,228
+Adair,5GF,County Hospital Trustee,,Clark Dolch,,297,152,145
+Adair,1NW,County Hospital Trustee,,Connie Hohertz,,376,114,262
+Adair,2NE,County Hospital Trustee,,Connie Hohertz,,416,157,259
+Adair,3SW,County Hospital Trustee,,Connie Hohertz,,518,165,353
+Adair,4SE,County Hospital Trustee,,Connie Hohertz,,433,182,251
+Adair,5GF,County Hospital Trustee,,Connie Hohertz,,475,225,250
+Adair,1NW,County Hospital Trustee,,Jodi Bassett,,329,77,252
+Adair,2NE,County Hospital Trustee,,Jodi Bassett,,459,152,307
+Adair,3SW,County Hospital Trustee,,Jodi Bassett,,327,107,220
+Adair,4SE,County Hospital Trustee,,Jodi Bassett,,278,114,164
+Adair,5GF,County Hospital Trustee,,Jodi Bassett,,320,162,158
+Adair,1NW,County Hospital Trustee,,Mark Schildberg,,361,110,251
+Adair,2NE,County Hospital Trustee,,Mark Schildberg,,357,123,234
+Adair,3SW,County Hospital Trustee,,Mark Schildberg,,485,151,334
+Adair,4SE,County Hospital Trustee,,Mark Schildberg,,422,180,242
+Adair,5GF,County Hospital Trustee,,Mark Schildberg,,470,228,242
+Adair,1NW,County Hospital Trustee,,Write-In,,7,0,7
+Adair,2NE,County Hospital Trustee,,Write-In,,15,9,6
+Adair,3SW,County Hospital Trustee,,Write-In,,6,4,2
+Adair,4SE,County Hospital Trustee,,Write-In,,6,1,5
+Adair,5GF,County Hospital Trustee,,Write-In,,10,6,4
+Adair,1NW,County Recorder,,Kelly Mitchell,REP,536,143,393
+Adair,2NE,County Recorder,,Kelly Mitchell,REP,598,205,393
+Adair,3SW,County Recorder,,Kelly Mitchell,REP,647,207,440
+Adair,4SE,County Recorder,,Kelly Mitchell,REP,551,207,344
+Adair,5GF,County Recorder,,Kelly Mitchell,REP,569,270,299
+Adair,1NW,County Recorder,,Write-In,,5,1,4
+Adair,2NE,County Recorder,,Write-In,,7,4,3
+Adair,3SW,County Recorder,,Write-In,,6,2,4
+Adair,4SE,County Recorder,,Write-In,,2,2,0
+Adair,5GF,County Recorder,,Write-In,,4,2,2
+Adair,1NW,County Treasurer,,Brenda L. Wallace,REP,547,141,406
+Adair,2NE,County Treasurer,,Brenda L. Wallace,REP,616,211,405
+Adair,3SW,County Treasurer,,Brenda L. Wallace,REP,635,198,437
+Adair,4SE,County Treasurer,,Brenda L. Wallace,REP,548,207,341
+Adair,5GF,County Treasurer,,Brenda L. Wallace,REP,570,268,302
+Adair,1NW,County Treasurer,,Write-In,,6,1,5
+Adair,2NE,County Treasurer,,Write-In,,5,3,2
+Adair,3SW,County Treasurer,,Write-In,,7,3,4
+Adair,4SE,County Treasurer,,Write-In,,2,1,1
+Adair,5GF,County Treasurer,,Write-In,,3,3,0
+Adair,1NW,Court of Appeals Judge - John M. Sandy,,No,,135,34,101
+Adair,2NE,Court of Appeals Judge - John M. Sandy,,No,,156,49,107
+Adair,3SW,Court of Appeals Judge - John M. Sandy,,No,,135,34,101
+Adair,4SE,Court of Appeals Judge - John M. Sandy,,No,,113,49,64
+Adair,5GF,Court of Appeals Judge - John M. Sandy,,No,,117,49,68
+Adair,1NW,Court of Appeals Judge - John M. Sandy,,Yes,,322,79,243
+Adair,2NE,Court of Appeals Judge - John M. Sandy,,Yes,,341,116,225
+Adair,3SW,Court of Appeals Judge - John M. Sandy,,Yes,,398,122,276
+Adair,4SE,Court of Appeals Judge - John M. Sandy,,Yes,,337,114,223
+Adair,5GF,Court of Appeals Judge - John M. Sandy,,Yes,,347,154,193
+Adair,1NW,Court of Appeals Judge - Julie A. Schumacher,,No,,125,32,93
+Adair,2NE,Court of Appeals Judge - Julie A. Schumacher,,No,,154,50,104
+Adair,3SW,Court of Appeals Judge - Julie A. Schumacher,,No,,126,36,90
+Adair,4SE,Court of Appeals Judge - Julie A. Schumacher,,No,,103,45,58
+Adair,5GF,Court of Appeals Judge - Julie A. Schumacher,,No,,111,45,66
+Adair,1NW,Court of Appeals Judge - Julie A. Schumacher,,Yes,,337,80,257
+Adair,2NE,Court of Appeals Judge - Julie A. Schumacher,,Yes,,359,123,236
+Adair,3SW,Court of Appeals Judge - Julie A. Schumacher,,Yes,,414,121,293
+Adair,4SE,Court of Appeals Judge - Julie A. Schumacher,,Yes,,354,122,232
+Adair,5GF,Court of Appeals Judge - Julie A. Schumacher,,Yes,,359,161,198
+Adair,1NW,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,132,33,99
+Adair,2NE,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,166,50,116
+Adair,3SW,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,140,38,102
+Adair,4SE,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,121,47,74
+Adair,5GF,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,125,49,76
+Adair,1NW,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,326,78,248
+Adair,2NE,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,335,116,219
+Adair,3SW,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,393,119,274
+Adair,4SE,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,332,118,214
+Adair,5GF,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,336,151,185
+Adair,1NW,District 5B Associate Judge - Andrew Zimmerman,,No,,134,35,99
+Adair,2NE,District 5B Associate Judge - Andrew Zimmerman,,No,,157,46,111
+Adair,3SW,District 5B Associate Judge - Andrew Zimmerman,,No,,131,35,96
+Adair,4SE,District 5B Associate Judge - Andrew Zimmerman,,No,,97,41,56
+Adair,5GF,District 5B Associate Judge - Andrew Zimmerman,,No,,114,46,68
+Adair,1NW,District 5B Associate Judge - Andrew Zimmerman,,Yes,,331,81,250
+Adair,2NE,District 5B Associate Judge - Andrew Zimmerman,,Yes,,350,123,227
+Adair,3SW,District 5B Associate Judge - Andrew Zimmerman,,Yes,,401,120,281
+Adair,4SE,District 5B Associate Judge - Andrew Zimmerman,,Yes,,363,126,237
+Adair,5GF,District 5B Associate Judge - Andrew Zimmerman,,Yes,,357,161,196
+Adair,1NW,District 5B Judge - Elisabeth S. Reynoldson,,No,,131,34,97
+Adair,2NE,District 5B Judge - Elisabeth S. Reynoldson,,No,,159,49,110
+Adair,3SW,District 5B Judge - Elisabeth S. Reynoldson,,No,,127,34,93
+Adair,4SE,District 5B Judge - Elisabeth S. Reynoldson,,No,,108,39,69
+Adair,5GF,District 5B Judge - Elisabeth S. Reynoldson,,No,,112,41,71
+Adair,1NW,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,331,82,249
+Adair,2NE,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,352,124,228
+Adair,3SW,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,408,124,284
+Adair,4SE,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,352,129,223
+Adair,5GF,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,357,162,195
+Adair,1NW,Governor,,Rob Sand and Dave Muhlbauer,DEM,246,62,184
+Adair,2NE,Governor,,Rob Sand and Dave Muhlbauer,DEM,304,131,173
+Adair,3SW,Governor,,Rob Sand and Dave Muhlbauer,DEM,246,92,154
+Adair,4SE,Governor,,Rob Sand and Dave Muhlbauer,DEM,263,126,137
+Adair,5GF,Governor,,Rob Sand and Dave Muhlbauer,DEM,324,164,160
+Adair,1NW,Governor,,Write-In,,2,1,1
+Adair,2NE,Governor,,Write-In,,2,1,1
+Adair,3SW,Governor,,Write-In,,1,0,1
+Adair,4SE,Governor,,Write-In,,0,0,0
+Adair,5GF,Governor,,Write-In,,0,0,0
+Adair,1NW,Governor,,Zach Lahn and Derek Wulf,REP,363,102,261
+Adair,2NE,Governor,,Zach Lahn and Derek Wulf,REP,382,119,263
+Adair,3SW,Governor,,Zach Lahn and Derek Wulf,REP,430,131,299
+Adair,4SE,Governor,,Zach Lahn and Derek Wulf,REP,341,120,221
+Adair,5GF,Governor,,Zach Lahn and Derek Wulf,REP,293,140,153
+Adair,3SW,Richland Township Clerk,,Evelyn Hopf,,78,33,45
+Adair,3SW,Richland Township Clerk,,Write-In,,0,0,0
+Adair,3SW,Richland Township Trustee,,Roger Tanner,,76,32,44
+Adair,3SW,Richland Township Trustee,,Steven R. Lilly,,67,30,37
+Adair,3SW,Richland Township Trustee,,Write-In,,0,0,0
+Adair,1NW,Secretary of Agriculture,,Chris Jones,DEM,140,34,106
+Adair,2NE,Secretary of Agriculture,,Chris Jones,DEM,218,97,121
+Adair,3SW,Secretary of Agriculture,,Chris Jones,DEM,144,50,94
+Adair,4SE,Secretary of Agriculture,,Chris Jones,DEM,157,86,71
+Adair,5GF,Secretary of Agriculture,,Chris Jones,DEM,211,108,103
+Adair,1NW,Secretary of Agriculture,,Mike Naig,REP,465,130,335
+Adair,2NE,Secretary of Agriculture,,Mike Naig,REP,453,150,303
+Adair,3SW,Secretary of Agriculture,,Mike Naig,REP,524,169,355
+Adair,4SE,Secretary of Agriculture,,Mike Naig,REP,428,152,276
+Adair,5GF,Secretary of Agriculture,,Mike Naig,REP,386,186,200
+Adair,1NW,Secretary of Agriculture,,Write-In,,1,0,1
+Adair,2NE,Secretary of Agriculture,,Write-In,,0,0,0
+Adair,3SW,Secretary of Agriculture,,Write-In,,0,0,0
+Adair,4SE,Secretary of Agriculture,,Write-In,,0,0,0
+Adair,5GF,Secretary of Agriculture,,Write-In,,0,0,0
+Adair,1NW,Secretary of State,,Paul D. Pate,REP,455,125,330
+Adair,2NE,Secretary of State,,Paul D. Pate,REP,475,155,320
+Adair,3SW,Secretary of State,,Paul D. Pate,REP,508,165,343
+Adair,4SE,Secretary of State,,Paul D. Pate,REP,427,148,279
+Adair,5GF,Secretary of State,,Paul D. Pate,REP,384,181,203
+Adair,1NW,Secretary of State,,Ryan Peterman,DEM,145,35,110
+Adair,2NE,Secretary of State,,Ryan Peterman,DEM,197,92,105
+Adair,3SW,Secretary of State,,Ryan Peterman,DEM,154,53,101
+Adair,4SE,Secretary of State,,Ryan Peterman,DEM,158,88,70
+Adair,5GF,Secretary of State,,Ryan Peterman,DEM,215,112,103
+Adair,1NW,Secretary of State,,Write-In,,1,0,1
+Adair,2NE,Secretary of State,,Write-In,,0,0,0
+Adair,3SW,Secretary of State,,Write-In,,0,0,0
+Adair,4SE,Secretary of State,,Write-In,,0,0,0
+Adair,5GF,Secretary of State,,Write-In,,0,0,0
+Adair,1NW,Soil and Water Conservation District Commissioner,,Phil Kading,,434,113,321
+Adair,2NE,Soil and Water Conservation District Commissioner,,Phil Kading,,416,151,265
+Adair,3SW,Soil and Water Conservation District Commissioner,,Phil Kading,,435,153,282
+Adair,4SE,Soil and Water Conservation District Commissioner,,Phil Kading,,388,161,227
+Adair,5GF,Soil and Water Conservation District Commissioner,,Phil Kading,,423,209,214
+Adair,1NW,Soil and Water Conservation District Commissioner,,Steve Baudler,,403,115,288
+Adair,2NE,Soil and Water Conservation District Commissioner,,Steve Baudler,,446,162,284
+Adair,3SW,Soil and Water Conservation District Commissioner,,Steve Baudler,,548,179,369
+Adair,4SE,Soil and Water Conservation District Commissioner,,Steve Baudler,,477,188,289
+Adair,5GF,Soil and Water Conservation District Commissioner,,Steve Baudler,,505,234,271
+Adair,1NW,Soil and Water Conservation District Commissioner,,Write-In,,6,3,3
+Adair,2NE,Soil and Water Conservation District Commissioner,,Write-In,,7,4,3
+Adair,3SW,Soil and Water Conservation District Commissioner,,Write-In,,5,2,3
+Adair,4SE,Soil and Water Conservation District Commissioner,,Write-In,,4,0,4
+Adair,5GF,Soil and Water Conservation District Commissioner,,Write-In,,6,4,2
+Adair,1NW,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Roger Jensen,,476,125,351
+Adair,2NE,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Roger Jensen,,520,180,340
+Adair,3SW,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Roger Jensen,,603,186,417
+Adair,4SE,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Roger Jensen,,518,198,320
+Adair,5GF,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Roger Jensen,,526,251,275
+Adair,1NW,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,6,1,5
+Adair,2NE,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,3,1,2
+Adair,3SW,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,2,1,1
+Adair,4SE,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,0,0,0
+Adair,5GF,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,5,3,2
+Adair,1NW,State House,23,Karen Varley,DEM,162,46,116
+Adair,2NE,State House,23,Karen Varley,DEM,232,105,127
+Adair,3SW,State House,23,Karen Varley,DEM,164,67,97
+Adair,4SE,State House,23,Karen Varley,DEM,177,103,74
+Adair,5GF,State House,23,Karen Varley,DEM,247,134,113
+Adair,1NW,State House,23,Ray Bubba Sorensen,REP,442,117,325
+Adair,2NE,State House,23,Ray Bubba Sorensen,REP,446,142,304
+Adair,3SW,State House,23,Ray Bubba Sorensen,REP,512,152,360
+Adair,4SE,State House,23,Ray Bubba Sorensen,REP,431,145,286
+Adair,5GF,State House,23,Ray Bubba Sorensen,REP,370,169,201
+Adair,1NW,State House,23,Write-In,,0,0,0
+Adair,2NE,State House,23,Write-In,,3,2,1
+Adair,3SW,State House,23,Write-In,,0,0,0
+Adair,4SE,State House,23,Write-In,,0,0,0
+Adair,5GF,State House,23,Write-In,,1,0,1
+Adair,1NW,Treasurer of State,,John Norwood,DEM,172,50,122
+Adair,2NE,Treasurer of State,,John Norwood,DEM,233,109,124
+Adair,3SW,Treasurer of State,,John Norwood,DEM,185,63,122
+Adair,4SE,Treasurer of State,,John Norwood,DEM,204,108,96
+Adair,5GF,Treasurer of State,,John Norwood,DEM,249,133,116
+Adair,1NW,Treasurer of State,,Roby Smith,REP,424,111,313
+Adair,2NE,Treasurer of State,,Roby Smith,REP,430,134,296
+Adair,3SW,Treasurer of State,,Roby Smith,REP,471,153,318
+Adair,4SE,Treasurer of State,,Roby Smith,REP,377,128,249
+Adair,5GF,Treasurer of State,,Roby Smith,REP,346,155,191
+Adair,1NW,Treasurer of State,,Write-In,,1,0,1
+Adair,2NE,Treasurer of State,,Write-In,,0,0,0
+Adair,3SW,Treasurer of State,,Write-In,,0,0,0
+Adair,4SE,Treasurer of State,,Write-In,,0,0,0
+Adair,5GF,Treasurer of State,,Write-In,,0,0,0
+Adair,1NW,U.S. House,3,Sarah Trone Garriott,DEM,167,47,120
+Adair,2NE,U.S. House,3,Sarah Trone Garriott,DEM,229,110,119
+Adair,3SW,U.S. House,3,Sarah Trone Garriott,DEM,183,66,117
+Adair,4SE,U.S. House,3,Sarah Trone Garriott,DEM,192,105,87
+Adair,5GF,U.S. House,3,Sarah Trone Garriott,DEM,239,130,109
+Adair,1NW,U.S. House,3,Write-In,,3,0,3
+Adair,2NE,U.S. House,3,Write-In,,2,0,2
+Adair,3SW,U.S. House,3,Write-In,,0,0,0
+Adair,4SE,U.S. House,3,Write-In,,0,0,0
+Adair,5GF,U.S. House,3,Write-In,,0,0,0
+Adair,1NW,U.S. House,3,Zach Nunn,REP,424,111,313
+Adair,2NE,U.S. House,3,Zach Nunn,REP,439,136,303
+Adair,3SW,U.S. House,3,Zach Nunn,REP,484,150,334
+Adair,4SE,U.S. House,3,Zach Nunn,REP,397,137,260
+Adair,5GF,U.S. House,3,Zach Nunn,REP,367,169,198
+Adair,1NW,U.S. Senate,,Ashley Hinson,REP,375,99,276
+Adair,2NE,U.S. Senate,,Ashley Hinson,REP,394,124,270
+Adair,3SW,U.S. Senate,,Ashley Hinson,REP,462,144,318
+Adair,4SE,U.S. Senate,,Ashley Hinson,REP,364,127,237
+Adair,5GF,U.S. Senate,,Ashley Hinson,REP,325,151,174
+Adair,1NW,U.S. Senate,,Josh Turek,DEM,197,56,141
+Adair,2NE,U.S. Senate,,Josh Turek,DEM,237,112,125
+Adair,3SW,U.S. Senate,,Josh Turek,DEM,183,67,116
+Adair,4SE,U.S. Senate,,Josh Turek,DEM,198,103,95
+Adair,5GF,U.S. Senate,,Josh Turek,DEM,251,137,114
+Adair,1NW,U.S. Senate,,Thomas Laehn,LIB,23,4,19
+Adair,2NE,U.S. Senate,,Thomas Laehn,LIB,42,9,33
+Adair,3SW,U.S. Senate,,Thomas Laehn,LIB,22,5,17
+Adair,4SE,U.S. Senate,,Thomas Laehn,LIB,27,8,19
+Adair,5GF,U.S. Senate,,Thomas Laehn,LIB,27,8,19
+Adair,1NW,U.S. Senate,,Write-In,,1,0,1
+Adair,2NE,U.S. Senate,,Write-In,,1,0,1
+Adair,3SW,U.S. Senate,,Write-In,,1,0,1
+Adair,4SE,U.S. Senate,,Write-In,,0,0,0
+Adair,5GF,U.S. Senate,,Write-In,,0,0,0
+Adair,3SW,Washington Township Clerk,,Diane McCall,,61,24,37
+Adair,3SW,Washington Township Clerk,,Write-In,,0,0,0
+Adair,3SW,Washington Township Trustee,,Brett Thompson,,53,22,31
+Adair,3SW,Washington Township Trustee,,Carl Ford,,52,19,33
+Adair,3SW,Washington Township Trustee,,Write-In,,0,0,0
+Adair,3SW,Washington Township Trustee To Fill a Vacancy,,Chris Stuva,,62,24,38
+Adair,3SW,Washington Township Trustee To Fill a Vacancy,,Write-In,,0,0,0

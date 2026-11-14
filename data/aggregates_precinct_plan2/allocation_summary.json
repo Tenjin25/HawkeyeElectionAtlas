@@ -49,6 +49,29 @@
         "districts": 50
       },
       "statewide_rows": 13245
+    },
+    {
+      "year": 2026,
+      "source": "data/2026/20261103__ia__general__precinct.csv",
+      "official_totals": "data/aggregates_verified/2026_contests_to_county.csv",
+      "matches": {
+        "direct": 36498
+      },
+      "calibration": {
+        "candidate_precinct_seed": 2161,
+        "county_population_fallback": 17
+      },
+      "house": {
+        "output": "data/aggregates_precinct_plan2/2026_contests_to_plan2_house.csv",
+        "rows": 2200,
+        "districts": 100
+      },
+      "senate": {
+        "output": "data/aggregates_precinct_plan2/2026_contests_to_plan2_senate.csv",
+        "rows": 1100,
+        "districts": 50
+      },
+      "statewide_rows": 36498
     }
   ]
 }
