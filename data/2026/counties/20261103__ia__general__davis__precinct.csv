@@ -6,7 +6,7 @@ Davis,CENTRAL,Attorney General,,Brenna Bird,REP,331,117,214
 Davis,NORTHEAST,Attorney General,,Brenna Bird,REP,359,106,253
 Davis,NORTHWEST,Attorney General,,Brenna Bird,REP,321,79,242
 Davis,SOUTHEAST,Attorney General,,Brenna Bird,REP,297,65,232
-Davis,SOUTHWEST,Attorney General,,Brenna Bird,REP,185,43,142
+Davis,SOUTHWEST,Attorney General,,Brenna Bird,REP,186,44,142
 Davis,BLOOMFIELD WARD 1,Attorney General,,Nate Willems,DEM,128,72,56
 Davis,BLOOMFIELD WARD 2,Attorney General,,Nate Willems,DEM,131,73,58
 Davis,BLOOMFIELD WARD 3,Attorney General,,Nate Willems,DEM,111,51,60
@@ -30,7 +30,7 @@ Davis,CENTRAL,Auditor of State,,Chris Cournoyer,REP,325,112,213
 Davis,NORTHEAST,Auditor of State,,Chris Cournoyer,REP,366,105,261
 Davis,NORTHWEST,Auditor of State,,Chris Cournoyer,REP,305,72,233
 Davis,SOUTHEAST,Auditor of State,,Chris Cournoyer,REP,293,61,232
-Davis,SOUTHWEST,Auditor of State,,Chris Cournoyer,REP,180,39,141
+Davis,SOUTHWEST,Auditor of State,,Chris Cournoyer,REP,181,40,141
 Davis,BLOOMFIELD WARD 1,Auditor of State,,Taylor Wettach,DEM,132,76,56
 Davis,BLOOMFIELD WARD 2,Auditor of State,,Taylor Wettach,DEM,143,80,63
 Davis,BLOOMFIELD WARD 3,Auditor of State,,Taylor Wettach,DEM,116,53,63
@@ -47,8 +47,10 @@ Davis,NORTHEAST,Auditor of State,,Write-In,,1,0,1
 Davis,NORTHWEST,Auditor of State,,Write-In,,0,0,0
 Davis,SOUTHEAST,Auditor of State,,Write-In,,2,0,2
 Davis,SOUTHWEST,Auditor of State,,Write-In,,0,0,0
+Davis,BLOOMFIELD WARD 3,Cleveland Township Clerk,,GREG WETTERICH,,0,0,0
+Davis,CENTRAL,Cleveland Township Clerk,,GREG WETTERICH,,9,0,9
 Davis,BLOOMFIELD WARD 3,Cleveland Township Clerk,,Write-In,,1,0,1
-Davis,CENTRAL,Cleveland Township Clerk,,Write-In,,16,4,12
+Davis,CENTRAL,Cleveland Township Clerk,,Write-In,,7,4,3
 Davis,BLOOMFIELD WARD 3,Cleveland Township Trustee,,Jeffrey Kincart,,9,3,6
 Davis,CENTRAL,Cleveland Township Trustee,,Jeffrey Kincart,,124,47,77
 Davis,BLOOMFIELD WARD 3,Cleveland Township Trustee,,Roger Wuthrich,,11,6,5
@@ -70,7 +72,7 @@ Davis,CENTRAL,Constitutional Amendment 1,,Yes,,269,117,152
 Davis,NORTHEAST,Constitutional Amendment 1,,Yes,,310,111,199
 Davis,NORTHWEST,Constitutional Amendment 1,,Yes,,237,61,176
 Davis,SOUTHEAST,Constitutional Amendment 1,,Yes,,195,58,137
-Davis,SOUTHWEST,Constitutional Amendment 1,,Yes,,135,31,104
+Davis,SOUTHWEST,Constitutional Amendment 1,,Yes,,136,32,104
 Davis,BLOOMFIELD WARD 1,County Agricultural Extension Council Member,,Brandon Bish,,185,81,104
 Davis,BLOOMFIELD WARD 2,County Agricultural Extension Council Member,,Brandon Bish,,167,65,102
 Davis,BLOOMFIELD WARD 3,County Agricultural Extension Council Member,,Brandon Bish,,137,61,76
@@ -86,7 +88,7 @@ Davis,CENTRAL,County Agricultural Extension Council Member,,Jacqueline White,,27
 Davis,NORTHEAST,County Agricultural Extension Council Member,,Jacqueline White,,225,68,157
 Davis,NORTHWEST,County Agricultural Extension Council Member,,Jacqueline White,,203,55,148
 Davis,SOUTHEAST,County Agricultural Extension Council Member,,Jacqueline White,,189,51,138
-Davis,SOUTHWEST,County Agricultural Extension Council Member,,Jacqueline White,,124,23,101
+Davis,SOUTHWEST,County Agricultural Extension Council Member,,Jacqueline White,,125,24,101
 Davis,BLOOMFIELD WARD 1,County Agricultural Extension Council Member,,Lincoln Lynch,,154,69,85
 Davis,BLOOMFIELD WARD 2,County Agricultural Extension Council Member,,Lincoln Lynch,,171,70,101
 Davis,BLOOMFIELD WARD 3,County Agricultural Extension Council Member,,Lincoln Lynch,,131,49,82
@@ -110,7 +112,7 @@ Davis,CENTRAL,County Agricultural Extension Council Member,,Teri Hanna,,271,116,
 Davis,NORTHEAST,County Agricultural Extension Council Member,,Teri Hanna,,225,67,158
 Davis,NORTHWEST,County Agricultural Extension Council Member,,Teri Hanna,,196,53,143
 Davis,SOUTHEAST,County Agricultural Extension Council Member,,Teri Hanna,,186,48,138
-Davis,SOUTHWEST,County Agricultural Extension Council Member,,Teri Hanna,,120,24,96
+Davis,SOUTHWEST,County Agricultural Extension Council Member,,Teri Hanna,,121,25,96
 Davis,BLOOMFIELD WARD 1,County Agricultural Extension Council Member,,Tim Sprouse,,188,90,98
 Davis,BLOOMFIELD WARD 2,County Agricultural Extension Council Member,,Tim Sprouse,,168,71,97
 Davis,BLOOMFIELD WARD 3,County Agricultural Extension Council Member,,Tim Sprouse,,156,61,95
@@ -118,7 +120,7 @@ Davis,CENTRAL,County Agricultural Extension Council Member,,Tim Sprouse,,282,122
 Davis,NORTHEAST,County Agricultural Extension Council Member,,Tim Sprouse,,247,64,183
 Davis,NORTHWEST,County Agricultural Extension Council Member,,Tim Sprouse,,211,50,161
 Davis,SOUTHEAST,County Agricultural Extension Council Member,,Tim Sprouse,,201,48,153
-Davis,SOUTHWEST,County Agricultural Extension Council Member,,Tim Sprouse,,118,24,94
+Davis,SOUTHWEST,County Agricultural Extension Council Member,,Tim Sprouse,,119,25,94
 Davis,BLOOMFIELD WARD 1,County Agricultural Extension Council Member,,Write-In,,14,1,13
 Davis,BLOOMFIELD WARD 2,County Agricultural Extension Council Member,,Write-In,,9,0,9
 Davis,BLOOMFIELD WARD 3,County Agricultural Extension Council Member,,Write-In,,4,0,4
@@ -127,14 +129,30 @@ Davis,NORTHEAST,County Agricultural Extension Council Member,,Write-In,,16,3,13
 Davis,NORTHWEST,County Agricultural Extension Council Member,,Write-In,,14,1,13
 Davis,SOUTHEAST,County Agricultural Extension Council Member,,Write-In,,23,0,23
 Davis,SOUTHWEST,County Agricultural Extension Council Member,,Write-In,,12,0,12
-Davis,BLOOMFIELD WARD 1,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,31,11,20
-Davis,BLOOMFIELD WARD 2,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,28,10,18
-Davis,BLOOMFIELD WARD 3,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,14,3,11
-Davis,CENTRAL,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,24,10,14
-Davis,NORTHEAST,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,33,4,29
-Davis,NORTHWEST,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,12,2,10
-Davis,SOUTHEAST,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,18,2,16
-Davis,SOUTHWEST,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,15,1,14
+Davis,BLOOMFIELD WARD 1,County Agricultural Extension Council To Fill a Vacancy,,Joshua Taylor,,4,0,4
+Davis,BLOOMFIELD WARD 2,County Agricultural Extension Council To Fill a Vacancy,,Joshua Taylor,,2,0,2
+Davis,BLOOMFIELD WARD 3,County Agricultural Extension Council To Fill a Vacancy,,Joshua Taylor,,3,0,3
+Davis,CENTRAL,County Agricultural Extension Council To Fill a Vacancy,,Joshua Taylor,,6,0,6
+Davis,NORTHEAST,County Agricultural Extension Council To Fill a Vacancy,,Joshua Taylor,,7,0,7
+Davis,NORTHWEST,County Agricultural Extension Council To Fill a Vacancy,,Joshua Taylor,,1,0,1
+Davis,SOUTHEAST,County Agricultural Extension Council To Fill a Vacancy,,Joshua Taylor,,7,0,7
+Davis,SOUTHWEST,County Agricultural Extension Council To Fill a Vacancy,,Joshua Taylor,,0,0,0
+Davis,BLOOMFIELD WARD 1,County Agricultural Extension Council To Fill a Vacancy,,Kylee Thomas-Campbell,,10,6,4
+Davis,BLOOMFIELD WARD 2,County Agricultural Extension Council To Fill a Vacancy,,Kylee Thomas-Campbell,,5,1,4
+Davis,BLOOMFIELD WARD 3,County Agricultural Extension Council To Fill a Vacancy,,Kylee Thomas-Campbell,,2,0,2
+Davis,CENTRAL,County Agricultural Extension Council To Fill a Vacancy,,Kylee Thomas-Campbell,,6,4,2
+Davis,NORTHEAST,County Agricultural Extension Council To Fill a Vacancy,,Kylee Thomas-Campbell,,6,0,6
+Davis,NORTHWEST,County Agricultural Extension Council To Fill a Vacancy,,Kylee Thomas-Campbell,,1,0,1
+Davis,SOUTHEAST,County Agricultural Extension Council To Fill a Vacancy,,Kylee Thomas-Campbell,,4,1,3
+Davis,SOUTHWEST,County Agricultural Extension Council To Fill a Vacancy,,Kylee Thomas-Campbell,,5,0,5
+Davis,BLOOMFIELD WARD 1,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,17,5,12
+Davis,BLOOMFIELD WARD 2,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,21,9,12
+Davis,BLOOMFIELD WARD 3,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,9,3,6
+Davis,CENTRAL,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,12,6,6
+Davis,NORTHEAST,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,20,4,16
+Davis,NORTHWEST,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,10,2,8
+Davis,SOUTHEAST,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,7,1,6
+Davis,SOUTHWEST,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,10,1,9
 Davis,BLOOMFIELD WARD 1,County Attorney,,Rick Lynch,DEM,285,125,160
 Davis,BLOOMFIELD WARD 2,County Attorney,,Rick Lynch,DEM,290,121,169
 Davis,BLOOMFIELD WARD 3,County Attorney,,Rick Lynch,DEM,242,100,142
@@ -142,7 +160,7 @@ Davis,CENTRAL,County Attorney,,Rick Lynch,DEM,408,171,237
 Davis,NORTHEAST,County Attorney,,Rick Lynch,DEM,375,115,260
 Davis,NORTHWEST,County Attorney,,Rick Lynch,DEM,304,89,215
 Davis,SOUTHEAST,County Attorney,,Rick Lynch,DEM,306,81,225
-Davis,SOUTHWEST,County Attorney,,Rick Lynch,DEM,200,49,151
+Davis,SOUTHWEST,County Attorney,,Rick Lynch,DEM,201,50,151
 Davis,BLOOMFIELD WARD 1,County Attorney,,Write-In,,7,2,5
 Davis,BLOOMFIELD WARD 2,County Attorney,,Write-In,,7,2,5
 Davis,BLOOMFIELD WARD 3,County Attorney,,Write-In,,7,4,3
@@ -158,7 +176,7 @@ Davis,CENTRAL,County Board of Supervisors,,Cory Fleming,REP,320,130,190
 Davis,NORTHEAST,County Board of Supervisors,,Cory Fleming,REP,306,96,210
 Davis,NORTHWEST,County Board of Supervisors,,Cory Fleming,REP,250,59,191
 Davis,SOUTHEAST,County Board of Supervisors,,Cory Fleming,REP,265,55,210
-Davis,SOUTHWEST,County Board of Supervisors,,Cory Fleming,REP,160,33,127
+Davis,SOUTHWEST,County Board of Supervisors,,Cory Fleming,REP,161,34,127
 Davis,BLOOMFIELD WARD 1,County Board of Supervisors,,David Henderson,REP,203,86,117
 Davis,BLOOMFIELD WARD 2,County Board of Supervisors,,David Henderson,REP,201,73,128
 Davis,BLOOMFIELD WARD 3,County Board of Supervisors,,David Henderson,REP,173,72,101
@@ -166,7 +184,7 @@ Davis,CENTRAL,County Board of Supervisors,,David Henderson,REP,321,138,183
 Davis,NORTHEAST,County Board of Supervisors,,David Henderson,REP,335,102,233
 Davis,NORTHWEST,County Board of Supervisors,,David Henderson,REP,298,77,221
 Davis,SOUTHEAST,County Board of Supervisors,,David Henderson,REP,266,58,208
-Davis,SOUTHWEST,County Board of Supervisors,,David Henderson,REP,171,38,133
+Davis,SOUTHWEST,County Board of Supervisors,,David Henderson,REP,172,39,133
 Davis,BLOOMFIELD WARD 1,County Board of Supervisors,,Kimra Hines,DEM,127,68,59
 Davis,BLOOMFIELD WARD 2,County Board of Supervisors,,Kimra Hines,DEM,150,72,78
 Davis,BLOOMFIELD WARD 3,County Board of Supervisors,,Kimra Hines,DEM,123,51,72
@@ -190,7 +208,15 @@ Davis,CENTRAL,County Hospital Trustee,,Bailey Westfall,,312,128,184
 Davis,NORTHEAST,County Hospital Trustee,,Bailey Westfall,,291,81,210
 Davis,NORTHWEST,County Hospital Trustee,,Bailey Westfall,,263,71,192
 Davis,SOUTHEAST,County Hospital Trustee,,Bailey Westfall,,210,51,159
-Davis,SOUTHWEST,County Hospital Trustee,,Bailey Westfall,,156,34,122
+Davis,SOUTHWEST,County Hospital Trustee,,Bailey Westfall,,157,35,122
+Davis,BLOOMFIELD WARD 1,County Hospital Trustee,,D. Wayne Rogers,,0,0,0
+Davis,BLOOMFIELD WARD 2,County Hospital Trustee,,D. Wayne Rogers,,0,0,0
+Davis,BLOOMFIELD WARD 3,County Hospital Trustee,,D. Wayne Rogers,,3,2,1
+Davis,CENTRAL,County Hospital Trustee,,D. Wayne Rogers,,0,0,0
+Davis,NORTHEAST,County Hospital Trustee,,D. Wayne Rogers,,0,0,0
+Davis,NORTHWEST,County Hospital Trustee,,D. Wayne Rogers,,0,0,0
+Davis,SOUTHEAST,County Hospital Trustee,,D. Wayne Rogers,,1,0,1
+Davis,SOUTHWEST,County Hospital Trustee,,D. Wayne Rogers,,0,0,0
 Davis,BLOOMFIELD WARD 1,County Hospital Trustee,,Nathan Chaney,,230,107,123
 Davis,BLOOMFIELD WARD 2,County Hospital Trustee,,Nathan Chaney,,220,91,129
 Davis,BLOOMFIELD WARD 3,County Hospital Trustee,,Nathan Chaney,,169,68,101
@@ -198,14 +224,14 @@ Davis,CENTRAL,County Hospital Trustee,,Nathan Chaney,,317,128,189
 Davis,NORTHEAST,County Hospital Trustee,,Nathan Chaney,,308,88,220
 Davis,NORTHWEST,County Hospital Trustee,,Nathan Chaney,,250,60,190
 Davis,SOUTHEAST,County Hospital Trustee,,Nathan Chaney,,206,50,156
-Davis,SOUTHWEST,County Hospital Trustee,,Nathan Chaney,,141,30,111
+Davis,SOUTHWEST,County Hospital Trustee,,Nathan Chaney,,142,31,111
 Davis,BLOOMFIELD WARD 1,County Hospital Trustee,,Write-In,,9,4,5
 Davis,BLOOMFIELD WARD 2,County Hospital Trustee,,Write-In,,10,2,8
-Davis,BLOOMFIELD WARD 3,County Hospital Trustee,,Write-In,,7,4,3
+Davis,BLOOMFIELD WARD 3,County Hospital Trustee,,Write-In,,4,2,2
 Davis,CENTRAL,County Hospital Trustee,,Write-In,,13,3,10
 Davis,NORTHEAST,County Hospital Trustee,,Write-In,,21,7,14
 Davis,NORTHWEST,County Hospital Trustee,,Write-In,,11,1,10
-Davis,SOUTHEAST,County Hospital Trustee,,Write-In,,9,3,6
+Davis,SOUTHEAST,County Hospital Trustee,,Write-In,,8,3,5
 Davis,SOUTHWEST,County Hospital Trustee,,Write-In,,1,0,1
 Davis,BLOOMFIELD WARD 1,County Recorder,,Megan Clyman,DEM,302,135,167
 Davis,BLOOMFIELD WARD 2,County Recorder,,Megan Clyman,DEM,304,125,179
@@ -214,7 +240,7 @@ Davis,CENTRAL,County Recorder,,Megan Clyman,DEM,436,181,255
 Davis,NORTHEAST,County Recorder,,Megan Clyman,DEM,386,116,270
 Davis,NORTHWEST,County Recorder,,Megan Clyman,DEM,329,94,235
 Davis,SOUTHEAST,County Recorder,,Megan Clyman,DEM,332,87,245
-Davis,SOUTHWEST,County Recorder,,Megan Clyman,DEM,213,54,159
+Davis,SOUTHWEST,County Recorder,,Megan Clyman,DEM,214,55,159
 Davis,BLOOMFIELD WARD 1,County Recorder,,Write-In,,2,1,1
 Davis,BLOOMFIELD WARD 2,County Recorder,,Write-In,,4,2,2
 Davis,BLOOMFIELD WARD 3,County Recorder,,Write-In,,4,2,2
@@ -230,7 +256,7 @@ Davis,CENTRAL,County Treasurer,,Mike Johnson,REP,449,181,268
 Davis,NORTHEAST,County Treasurer,,Mike Johnson,REP,463,144,319
 Davis,NORTHWEST,County Treasurer,,Mike Johnson,REP,378,104,274
 Davis,SOUTHEAST,County Treasurer,,Mike Johnson,REP,357,87,270
-Davis,SOUTHWEST,County Treasurer,,Mike Johnson,REP,220,53,167
+Davis,SOUTHWEST,County Treasurer,,Mike Johnson,REP,221,54,167
 Davis,BLOOMFIELD WARD 1,County Treasurer,,Write-In,,3,0,3
 Davis,BLOOMFIELD WARD 2,County Treasurer,,Write-In,,2,0,2
 Davis,BLOOMFIELD WARD 3,County Treasurer,,Write-In,,3,1,2
@@ -254,7 +280,7 @@ Davis,CENTRAL,Court of Appeals Judge - John M. Sandy,,Yes,,216,89,127
 Davis,NORTHEAST,Court of Appeals Judge - John M. Sandy,,Yes,,239,72,167
 Davis,NORTHWEST,Court of Appeals Judge - John M. Sandy,,Yes,,177,42,135
 Davis,SOUTHEAST,Court of Appeals Judge - John M. Sandy,,Yes,,160,43,117
-Davis,SOUTHWEST,Court of Appeals Judge - John M. Sandy,,Yes,,102,25,77
+Davis,SOUTHWEST,Court of Appeals Judge - John M. Sandy,,Yes,,103,26,77
 Davis,BLOOMFIELD WARD 1,Court of Appeals Judge - Julie A. Schumacher,,No,,86,46,40
 Davis,BLOOMFIELD WARD 2,Court of Appeals Judge - Julie A. Schumacher,,No,,86,27,59
 Davis,BLOOMFIELD WARD 3,Court of Appeals Judge - Julie A. Schumacher,,No,,82,32,50
@@ -270,7 +296,7 @@ Davis,CENTRAL,Court of Appeals Judge - Julie A. Schumacher,,Yes,,223,94,129
 Davis,NORTHEAST,Court of Appeals Judge - Julie A. Schumacher,,Yes,,246,77,169
 Davis,NORTHWEST,Court of Appeals Judge - Julie A. Schumacher,,Yes,,191,51,140
 Davis,SOUTHEAST,Court of Appeals Judge - Julie A. Schumacher,,Yes,,163,43,120
-Davis,SOUTHWEST,Court of Appeals Judge - Julie A. Schumacher,,Yes,,104,25,79
+Davis,SOUTHWEST,Court of Appeals Judge - Julie A. Schumacher,,Yes,,105,26,79
 Davis,BLOOMFIELD WARD 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,85,43,42
 Davis,BLOOMFIELD WARD 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,89,29,60
 Davis,BLOOMFIELD WARD 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,87,32,55
@@ -286,7 +312,7 @@ Davis,CENTRAL,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,219,94,125
 Davis,NORTHEAST,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,237,73,164
 Davis,NORTHWEST,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,176,49,127
 Davis,SOUTHEAST,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,152,40,112
-Davis,SOUTHWEST,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,101,23,78
+Davis,SOUTHWEST,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,102,24,78
 Davis,BLOOMFIELD WARD 1,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,82,41,41
 Davis,BLOOMFIELD WARD 2,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,90,30,60
 Davis,BLOOMFIELD WARD 3,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,84,31,53
@@ -302,7 +328,7 @@ Davis,CENTRAL,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,226,96,
 Davis,NORTHEAST,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,240,71,169
 Davis,NORTHWEST,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,177,49,128
 Davis,SOUTHEAST,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,160,46,114
-Davis,SOUTHWEST,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,105,24,81
+Davis,SOUTHWEST,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,106,25,81
 Davis,BLOOMFIELD WARD 1,District 8A Associate Judge - Susan Cole,,No,,77,41,36
 Davis,BLOOMFIELD WARD 2,District 8A Associate Judge - Susan Cole,,No,,85,28,57
 Davis,BLOOMFIELD WARD 3,District 8A Associate Judge - Susan Cole,,No,,77,28,49
@@ -318,7 +344,7 @@ Davis,CENTRAL,District 8A Associate Judge - Susan Cole,,Yes,,229,98,131
 Davis,NORTHEAST,District 8A Associate Judge - Susan Cole,,Yes,,245,77,168
 Davis,NORTHWEST,District 8A Associate Judge - Susan Cole,,Yes,,189,53,136
 Davis,SOUTHEAST,District 8A Associate Judge - Susan Cole,,Yes,,164,43,121
-Davis,SOUTHWEST,District 8A Associate Judge - Susan Cole,,Yes,,104,23,81
+Davis,SOUTHWEST,District 8A Associate Judge - Susan Cole,,Yes,,105,24,81
 Davis,BLOOMFIELD WARD 1,District 8A Judge - Amber L. Thompson,,No,,82,43,39
 Davis,BLOOMFIELD WARD 2,District 8A Judge - Amber L. Thompson,,No,,91,29,62
 Davis,BLOOMFIELD WARD 3,District 8A Judge - Amber L. Thompson,,No,,81,28,53
@@ -334,7 +360,7 @@ Davis,CENTRAL,District 8A Judge - Amber L. Thompson,,Yes,,230,96,134
 Davis,NORTHEAST,District 8A Judge - Amber L. Thompson,,Yes,,246,75,171
 Davis,NORTHWEST,District 8A Judge - Amber L. Thompson,,Yes,,177,49,128
 Davis,SOUTHEAST,District 8A Judge - Amber L. Thompson,,Yes,,166,45,121
-Davis,SOUTHWEST,District 8A Judge - Amber L. Thompson,,Yes,,103,23,80
+Davis,SOUTHWEST,District 8A Judge - Amber L. Thompson,,Yes,,104,24,80
 Davis,BLOOMFIELD WARD 1,District 8A Judge - Dustin Hite,,No,,96,49,47
 Davis,BLOOMFIELD WARD 2,District 8A Judge - Dustin Hite,,No,,89,33,56
 Davis,BLOOMFIELD WARD 3,District 8A Judge - Dustin Hite,,No,,85,32,53
@@ -350,17 +376,22 @@ Davis,CENTRAL,District 8A Judge - Dustin Hite,,Yes,,227,96,131
 Davis,NORTHEAST,District 8A Judge - Dustin Hite,,Yes,,242,70,172
 Davis,NORTHWEST,District 8A Judge - Dustin Hite,,Yes,,182,47,135
 Davis,SOUTHEAST,District 8A Judge - Dustin Hite,,Yes,,159,43,116
-Davis,SOUTHWEST,District 8A Judge - Dustin Hite,,Yes,,101,21,80
+Davis,SOUTHWEST,District 8A Judge - Dustin Hite,,Yes,,102,22,80
 Davis,NORTHWEST,Drakesville Township Clerk,,Kevan Bogert,,31,7,24
 Davis,NORTHWEST,Drakesville Township Clerk,,Write-In,,0,0,0
+Davis,NORTHWEST,Drakesville Township Trustee,,DEAN STOCKER,,1,0,1
 Davis,NORTHWEST,Drakesville Township Trustee,,Dan Bodkins,,30,7,23
-Davis,NORTHWEST,Drakesville Township Trustee,,Write-In,,1,0,1
-Davis,SOUTHWEST,Fabius Township Clerk,,Write-In,,6,0,6
+Davis,NORTHWEST,Drakesville Township Trustee,,Write-In,,0,0,0
+Davis,SOUTHWEST,Fabius Township Clerk,,SARA MORROW,,2,0,2
+Davis,SOUTHWEST,Fabius Township Clerk,,Write-In,,4,0,4
+Davis,SOUTHWEST,Fabius Township Trustee,,DAVID GIBSON,,3,0,3
 Davis,SOUTHWEST,Fabius Township Trustee,,Larry Lawson,,90,21,69
-Davis,SOUTHWEST,Fabius Township Trustee,,Write-In,,6,1,5
-Davis,SOUTHWEST,Fox River Township Clerk,,Write-In,,1,1,0
-Davis,SOUTHWEST,Fox River Township Trustee,,Adam D. Bridgman,,50,19,31
-Davis,SOUTHWEST,Fox River Township Trustee,,Write-In,,5,1,4
+Davis,SOUTHWEST,Fabius Township Trustee,,Write-In,,3,1,2
+Davis,SOUTHWEST,Fox River Township Clerk,,Tyler Henderson,,1,1,0
+Davis,SOUTHWEST,Fox River Township Clerk,,Write-In,,0,0,0
+Davis,SOUTHWEST,Fox River Township Trustee,,Adam D. Bridgman,,51,20,31
+Davis,SOUTHWEST,Fox River Township Trustee,,Rick Sayre,,1,0,1
+Davis,SOUTHWEST,Fox River Township Trustee,,Write-In,,4,1,3
 Davis,BLOOMFIELD WARD 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,161,81,80
 Davis,BLOOMFIELD WARD 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,181,88,93
 Davis,BLOOMFIELD WARD 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,136,58,78
@@ -368,7 +399,7 @@ Davis,CENTRAL,Governor,,Rob Sand and Dave Muhlbauer,DEM,180,94,86
 Davis,NORTHEAST,Governor,,Rob Sand and Dave Muhlbauer,DEM,159,55,104
 Davis,NORTHWEST,Governor,,Rob Sand and Dave Muhlbauer,DEM,131,53,78
 Davis,SOUTHEAST,Governor,,Rob Sand and Dave Muhlbauer,DEM,120,40,80
-Davis,SOUTHWEST,Governor,,Rob Sand and Dave Muhlbauer,DEM,77,26,51
+Davis,SOUTHWEST,Governor,,Rob Sand and Dave Muhlbauer,DEM,78,27,51
 Davis,BLOOMFIELD WARD 1,Governor,,Write-In,,1,0,1
 Davis,BLOOMFIELD WARD 2,Governor,,Write-In,,0,0,0
 Davis,BLOOMFIELD WARD 3,Governor,,Write-In,,0,0,0
@@ -385,10 +416,13 @@ Davis,NORTHEAST,Governor,,Zach Lahn and Derek Wulf,REP,331,98,233
 Davis,NORTHWEST,Governor,,Zach Lahn and Derek Wulf,REP,284,65,219
 Davis,SOUTHEAST,Governor,,Zach Lahn and Derek Wulf,REP,267,58,209
 Davis,SOUTHWEST,Governor,,Zach Lahn and Derek Wulf,REP,164,36,128
-Davis,SOUTHEAST,Grove Township Clerk,,Write-In,,5,0,5
+Davis,SOUTHEAST,Grove Township Clerk,,Mindy Amstutz,,3,0,3
+Davis,SOUTHEAST,Grove Township Clerk,,Write-In,,2,0,2
 Davis,SOUTHEAST,Grove Township Trustee,,David Boas,,78,17,61
-Davis,SOUTHEAST,Grove Township Trustee,,Write-In,,9,2,7
-Davis,NORTHEAST,Lick Creek Township Clerk,,Write-In,,27,7,20
+Davis,SOUTHEAST,Grove Township Trustee,,Steven Frymoyer,,3,0,3
+Davis,SOUTHEAST,Grove Township Trustee,,Write-In,,6,2,4
+Davis,NORTHEAST,Lick Creek Township Clerk,,Ryan Heemsbergen,,6,1,5
+Davis,NORTHEAST,Lick Creek Township Clerk,,Write-In,,21,6,15
 Davis,NORTHEAST,Lick Creek Township Trustee,,Brian Harrington,,234,71,163
 Davis,NORTHEAST,Lick Creek Township Trustee,,Heath Greiner,,236,78,158
 Davis,NORTHEAST,Lick Creek Township Trustee,,Write-In,,11,2,9
@@ -399,12 +433,14 @@ Davis,NORTHWEST,Marion Township Trustee,,Virgil D. Cassill,,76,17,59
 Davis,NORTHWEST,Marion Township Trustee,,Write-In,,2,1,1
 Davis,CENTRAL,Perry Township Clerk,,David E. Yahnke,,134,51,83
 Davis,CENTRAL,Perry Township Clerk,,Write-In,,1,1,0
+Davis,CENTRAL,Perry Township Trustee,,Craig Williams,,2,0,2
 Davis,CENTRAL,Perry Township Trustee,,Mike Petefish,,128,53,75
-Davis,CENTRAL,Perry Township Trustee,,Write-In,,15,6,9
+Davis,CENTRAL,Perry Township Trustee,,Write-In,,13,6,7
 Davis,SOUTHEAST,Prairie Township Clerk,,Jo Ann Altheide,,29,12,17
 Davis,SOUTHEAST,Prairie Township Clerk,,Write-In,,0,0,0
+Davis,SOUTHEAST,Prairie Township Trustee,,Brian Amstutz,,4,1,3
 Davis,SOUTHEAST,Prairie Township Trustee,,Kyle Payne,,29,15,14
-Davis,SOUTHEAST,Prairie Township Trustee,,Write-In,,4,1,3
+Davis,SOUTHEAST,Prairie Township Trustee,,Write-In,,0,0,0
 Davis,SOUTHEAST,Roscoe Township Clerk,,Emily Prevo,,40,6,34
 Davis,SOUTHEAST,Roscoe Township Clerk,,Write-In,,1,0,1
 Davis,SOUTHEAST,Roscoe Township Trustee,,Nicholas Prevo,,38,4,34
@@ -430,7 +466,7 @@ Davis,CENTRAL,Secretary of Agriculture,,Mike Naig,REP,366,135,231
 Davis,NORTHEAST,Secretary of Agriculture,,Mike Naig,REP,378,107,271
 Davis,NORTHWEST,Secretary of Agriculture,,Mike Naig,REP,318,76,242
 Davis,SOUTHEAST,Secretary of Agriculture,,Mike Naig,REP,309,68,241
-Davis,SOUTHWEST,Secretary of Agriculture,,Mike Naig,REP,189,42,147
+Davis,SOUTHWEST,Secretary of Agriculture,,Mike Naig,REP,190,43,147
 Davis,BLOOMFIELD WARD 1,Secretary of Agriculture,,Write-In,,1,0,1
 Davis,BLOOMFIELD WARD 2,Secretary of Agriculture,,Write-In,,1,0,1
 Davis,BLOOMFIELD WARD 3,Secretary of Agriculture,,Write-In,,1,0,1
@@ -446,7 +482,7 @@ Davis,CENTRAL,Secretary of State,,Paul D. Pate,REP,349,127,222
 Davis,NORTHEAST,Secretary of State,,Paul D. Pate,REP,367,106,261
 Davis,NORTHWEST,Secretary of State,,Paul D. Pate,REP,316,71,245
 Davis,SOUTHEAST,Secretary of State,,Paul D. Pate,REP,298,65,233
-Davis,SOUTHWEST,Secretary of State,,Paul D. Pate,REP,187,42,145
+Davis,SOUTHWEST,Secretary of State,,Paul D. Pate,REP,188,43,145
 Davis,BLOOMFIELD WARD 1,Secretary of State,,Ryan Peterman,DEM,126,68,58
 Davis,BLOOMFIELD WARD 2,Secretary of State,,Ryan Peterman,DEM,130,73,57
 Davis,BLOOMFIELD WARD 3,Secretary of State,,Ryan Peterman,DEM,101,44,57
@@ -463,7 +499,8 @@ Davis,NORTHEAST,Secretary of State,,Write-In,,0,0,0
 Davis,NORTHWEST,Secretary of State,,Write-In,,0,0,0
 Davis,SOUTHEAST,Secretary of State,,Write-In,,0,0,0
 Davis,SOUTHWEST,Secretary of State,,Write-In,,0,0,0
-Davis,NORTHWEST,Soap Creek Township Clerk,,Write-In,,12,2,10
+Davis,NORTHWEST,Soap Creek Township Clerk,,Darrell Downing,,3,0,3
+Davis,NORTHWEST,Soap Creek Township Clerk,,Write-In,,9,2,7
 Davis,NORTHWEST,Soap Creek Township Trustee,,Danny Dunlavy,,149,42,107
 Davis,NORTHWEST,Soap Creek Township Trustee,,Lyle Spurgeon,,105,26,79
 Davis,NORTHWEST,Soap Creek Township Trustee,,Write-In,,2,0,2
@@ -474,7 +511,7 @@ Davis,CENTRAL,Soil and Water Conservation District Commissioner,,Adam Smith,,375
 Davis,NORTHEAST,Soil and Water Conservation District Commissioner,,Adam Smith,,332,93,239
 Davis,NORTHWEST,Soil and Water Conservation District Commissioner,,Adam Smith,,283,78,205
 Davis,SOUTHEAST,Soil and Water Conservation District Commissioner,,Adam Smith,,278,62,216
-Davis,SOUTHWEST,Soil and Water Conservation District Commissioner,,Adam Smith,,176,39,137
+Davis,SOUTHWEST,Soil and Water Conservation District Commissioner,,Adam Smith,,177,40,137
 Davis,BLOOMFIELD WARD 1,Soil and Water Conservation District Commissioner,,Kevin Prevo,,232,105,127
 Davis,BLOOMFIELD WARD 2,Soil and Water Conservation District Commissioner,,Kevin Prevo,,225,90,135
 Davis,BLOOMFIELD WARD 3,Soil and Water Conservation District Commissioner,,Kevin Prevo,,186,73,113
@@ -482,7 +519,7 @@ Davis,CENTRAL,Soil and Water Conservation District Commissioner,,Kevin Prevo,,36
 Davis,NORTHEAST,Soil and Water Conservation District Commissioner,,Kevin Prevo,,310,96,214
 Davis,NORTHWEST,Soil and Water Conservation District Commissioner,,Kevin Prevo,,281,67,214
 Davis,SOUTHEAST,Soil and Water Conservation District Commissioner,,Kevin Prevo,,248,59,189
-Davis,SOUTHWEST,Soil and Water Conservation District Commissioner,,Kevin Prevo,,166,39,127
+Davis,SOUTHWEST,Soil and Water Conservation District Commissioner,,Kevin Prevo,,167,40,127
 Davis,BLOOMFIELD WARD 1,Soil and Water Conservation District Commissioner,,Write-In,,6,1,5
 Davis,BLOOMFIELD WARD 2,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
 Davis,BLOOMFIELD WARD 3,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
@@ -498,7 +535,7 @@ Davis,CENTRAL,State House,26,Austin Harris,REP,356,130,226
 Davis,NORTHEAST,State House,26,Austin Harris,REP,371,107,264
 Davis,NORTHWEST,State House,26,Austin Harris,REP,311,76,235
 Davis,SOUTHEAST,State House,26,Austin Harris,REP,304,64,240
-Davis,SOUTHWEST,State House,26,Austin Harris,REP,191,45,146
+Davis,SOUTHWEST,State House,26,Austin Harris,REP,192,46,146
 Davis,BLOOMFIELD WARD 1,State House,26,Brett Mohler,DEM,120,71,49
 Davis,BLOOMFIELD WARD 2,State House,26,Brett Mohler,DEM,131,74,57
 Davis,BLOOMFIELD WARD 3,State House,26,Brett Mohler,DEM,108,48,60
@@ -522,7 +559,7 @@ Davis,CENTRAL,State Senate,13,Brenda Case,DEM,135,83,52
 Davis,NORTHEAST,State Senate,13,Brenda Case,DEM,113,47,66
 Davis,NORTHWEST,State Senate,13,Brenda Case,DEM,91,42,49
 Davis,SOUTHEAST,State Senate,13,Brenda Case,DEM,77,34,43
-Davis,SOUTHWEST,State Senate,13,Brenda Case,DEM,54,22,32
+Davis,SOUTHWEST,State Senate,13,Brenda Case,DEM,55,23,32
 Davis,BLOOMFIELD WARD 1,State Senate,13,Jeff Kulmatycki,REP,201,75,126
 Davis,BLOOMFIELD WARD 2,State Senate,13,Jeff Kulmatycki,REP,200,57,143
 Davis,BLOOMFIELD WARD 3,State Senate,13,Jeff Kulmatycki,REP,183,74,109
@@ -554,7 +591,7 @@ Davis,CENTRAL,Treasurer of State,,Roby Smith,REP,334,118,216
 Davis,NORTHEAST,Treasurer of State,,Roby Smith,REP,357,101,256
 Davis,NORTHWEST,Treasurer of State,,Roby Smith,REP,308,73,235
 Davis,SOUTHEAST,Treasurer of State,,Roby Smith,REP,291,59,232
-Davis,SOUTHWEST,Treasurer of State,,Roby Smith,REP,183,40,143
+Davis,SOUTHWEST,Treasurer of State,,Roby Smith,REP,184,41,143
 Davis,BLOOMFIELD WARD 1,Treasurer of State,,Write-In,,1,0,1
 Davis,BLOOMFIELD WARD 2,Treasurer of State,,Write-In,,1,0,1
 Davis,BLOOMFIELD WARD 3,Treasurer of State,,Write-In,,1,0,1
@@ -586,7 +623,7 @@ Davis,CENTRAL,U.S. House,3,Zach Nunn,REP,338,119,219
 Davis,NORTHEAST,U.S. House,3,Zach Nunn,REP,379,104,275
 Davis,NORTHWEST,U.S. House,3,Zach Nunn,REP,322,78,244
 Davis,SOUTHEAST,U.S. House,3,Zach Nunn,REP,306,67,239
-Davis,SOUTHWEST,U.S. House,3,Zach Nunn,REP,182,40,142
+Davis,SOUTHWEST,U.S. House,3,Zach Nunn,REP,183,41,142
 Davis,BLOOMFIELD WARD 1,U.S. Senate,,Ashley Hinson,REP,184,69,115
 Davis,BLOOMFIELD WARD 2,U.S. Senate,,Ashley Hinson,REP,160,51,109
 Davis,BLOOMFIELD WARD 3,U.S. Senate,,Ashley Hinson,REP,170,70,100
@@ -594,7 +631,7 @@ Davis,CENTRAL,U.S. Senate,,Ashley Hinson,REP,315,110,205
 Davis,NORTHEAST,U.S. Senate,,Ashley Hinson,REP,341,96,245
 Davis,NORTHWEST,U.S. Senate,,Ashley Hinson,REP,295,74,221
 Davis,SOUTHEAST,U.S. Senate,,Ashley Hinson,REP,278,59,219
-Davis,SOUTHWEST,U.S. Senate,,Ashley Hinson,REP,173,38,135
+Davis,SOUTHWEST,U.S. Senate,,Ashley Hinson,REP,174,39,135
 Davis,BLOOMFIELD WARD 1,U.S. Senate,,Josh Turek,DEM,138,77,61
 Davis,BLOOMFIELD WARD 2,U.S. Senate,,Josh Turek,DEM,148,80,68
 Davis,BLOOMFIELD WARD 3,U.S. Senate,,Josh Turek,DEM,105,47,58
@@ -621,12 +658,18 @@ Davis,SOUTHEAST,U.S. Senate,,Write-In,,1,1,0
 Davis,SOUTHWEST,U.S. Senate,,Write-In,,0,0,0
 Davis,SOUTHEAST,Union Township Clerk,,Karla Hill,,117,34,83
 Davis,SOUTHEAST,Union Township Clerk,,Write-In,,0,0,0
-Davis,SOUTHEAST,Union Township Trustee,,Write-In,,12,1,11
+Davis,SOUTHEAST,Union Township Trustee,,Jim Utt,,1,0,1
+Davis,SOUTHEAST,Union Township Trustee,,Larry Marshall,,1,0,1
+Davis,SOUTHEAST,Union Township Trustee,,Write-In,,10,1,9
 Davis,SOUTHEAST,Van Buren County School - Public Measure US,,No,,6,0,6
 Davis,SOUTHEAST,Van Buren County School - Public Measure US,,Yes,,6,3,3
 Davis,SOUTHWEST,West Grove Township Clerk,,Fran Harris,,78,13,65
 Davis,SOUTHWEST,West Grove Township Clerk,,Write-In,,0,0,0
+Davis,SOUTHWEST,West Grove Township Trustee,,Kevin Bulechek,,22,0,22
 Davis,SOUTHWEST,West Grove Township Trustee,,Ron Harris,,74,13,61
-Davis,SOUTHWEST,West Grove Township Trustee,,Write-In,,29,0,29
-Davis,CENTRAL,Wyacondah Township Clerk,,Write-In,,14,6,8
-Davis,CENTRAL,Wyacondah Township Trustee,,Write-In,,36,14,22
+Davis,SOUTHWEST,West Grove Township Trustee,,Write-In,,7,0,7
+Davis,CENTRAL,Wyacondah Township Clerk,,Sandra McClure Hunter,,9,3,6
+Davis,CENTRAL,Wyacondah Township Clerk,,Write-In,,5,3,2
+Davis,CENTRAL,Wyacondah Township Trustee,,Brett Barnhart,,4,0,4
+Davis,CENTRAL,Wyacondah Township Trustee,,Sandra McClure Hunter,,10,3,7
+Davis,CENTRAL,Wyacondah Township Trustee,,Write-In,,22,11,11

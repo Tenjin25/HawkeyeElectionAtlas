@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,votes,absentee,election_day
 Calhoun,01 Butler and Williams,Attorney General,,Brenna Bird,REP,223,40,183
-Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Attorney General,,Brenna Bird,REP,773,211,562
+Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Attorney General,,Brenna Bird,REP,774,212,562
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Attorney General,,Brenna Bird,REP,597,224,373
 Calhoun,04 Cedar and S Greenfield,Attorney General,,Brenna Bird,REP,120,19,101
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Attorney General,,Brenna Bird,REP,518,114,404
-Calhoun,06 Reading-Union and S Logan,Attorney General,,Brenna Bird,REP,289,65,224
-Calhoun,01 Butler and Williams,Attorney General,,Nate Willems,DEM,137,44,93
+Calhoun,06 Reading-Union and S Logan,Attorney General,,Brenna Bird,REP,288,65,223
+Calhoun,01 Butler and Williams,Attorney General,,Nate Willems,DEM,138,45,93
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Attorney General,,Nate Willems,DEM,317,122,195
-Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Attorney General,,Nate Willems,DEM,314,140,174
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Attorney General,,Nate Willems,DEM,315,141,174
 Calhoun,04 Cedar and S Greenfield,Attorney General,,Nate Willems,DEM,48,9,39
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Attorney General,,Nate Willems,DEM,305,82,223
 Calhoun,06 Reading-Union and S Logan,Attorney General,,Nate Willems,DEM,105,32,73
@@ -18,14 +18,14 @@ Calhoun,04 Cedar and S Greenfield,Attorney General,,Write-In,,0,0,0
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Attorney General,,Write-In,,2,1,1
 Calhoun,06 Reading-Union and S Logan,Attorney General,,Write-In,,0,0,0
 Calhoun,01 Butler and Williams,Auditor of State,,Chris Cournoyer,REP,229,41,188
-Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Auditor of State,,Chris Cournoyer,REP,767,200,567
+Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Auditor of State,,Chris Cournoyer,REP,768,201,567
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Auditor of State,,Chris Cournoyer,REP,600,219,381
 Calhoun,04 Cedar and S Greenfield,Auditor of State,,Chris Cournoyer,REP,126,19,107
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Auditor of State,,Chris Cournoyer,REP,522,116,406
-Calhoun,06 Reading-Union and S Logan,Auditor of State,,Chris Cournoyer,REP,285,63,222
-Calhoun,01 Butler and Williams,Auditor of State,,Taylor Wettach,DEM,132,45,87
+Calhoun,06 Reading-Union and S Logan,Auditor of State,,Chris Cournoyer,REP,284,63,221
+Calhoun,01 Butler and Williams,Auditor of State,,Taylor Wettach,DEM,133,46,87
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Auditor of State,,Taylor Wettach,DEM,313,128,185
-Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Auditor of State,,Taylor Wettach,DEM,299,137,162
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Auditor of State,,Taylor Wettach,DEM,300,138,162
 Calhoun,04 Cedar and S Greenfield,Auditor of State,,Taylor Wettach,DEM,43,10,33
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Auditor of State,,Taylor Wettach,DEM,295,79,216
 Calhoun,06 Reading-Union and S Logan,Auditor of State,,Taylor Wettach,DEM,109,33,76
@@ -39,93 +39,96 @@ Calhoun,01 Butler and Williams,Butler Township Clerk,,Callie Hanlon,,76,15,61
 Calhoun,01 Butler and Williams,Butler Township Clerk,,Write-In,,0,0,0
 Calhoun,01 Butler and Williams,Butler Township Trustee,,Dan Erickson,,77,17,60
 Calhoun,01 Butler and Williams,Butler Township Trustee,,Write-In,,1,0,1
-Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Calhoun Township Clerk,,Write-In,,5,1,4
-Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Calhoun Township Trustee,,Write-In,,6,1,5
-Calhoun,04 Cedar and S Greenfield,Cedar Township Clerk,,Write-In,,5,1,4
+Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Calhoun Township Clerk,,Clint DeVries (Write-in),,1,0,1
+Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Calhoun Township Clerk,,Write-In,,4,1,3
+Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Calhoun Township Trustee,,David Dowling (Write-in),,1,0,1
+Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Calhoun Township Trustee,,Write-In,,5,1,4
+Calhoun,04 Cedar and S Greenfield,Cedar Township Clerk,,Michael Martin (Write-in),,1,0,1
+Calhoun,04 Cedar and S Greenfield,Cedar Township Clerk,,Write-In,,4,1,3
 Calhoun,04 Cedar and S Greenfield,Cedar Township Trustee,,Jason McKenney,,75,14,61
 Calhoun,04 Cedar and S Greenfield,Cedar Township Trustee,,Write-In,,0,0,0
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Center Township Clerk,,Connie Falk,,65,31,34
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Center Township Clerk,,Write-In,,0,0,0
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Center Township Trustee,,Michael Powers,,68,32,36
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Center Township Trustee,,Write-In,,0,0,0
-Calhoun,01 Butler and Williams,Constitutional Amendment 1,,No,,120,31,89
+Calhoun,01 Butler and Williams,Constitutional Amendment 1,,No,,121,32,89
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Constitutional Amendment 1,,No,,284,93,191
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Constitutional Amendment 1,,No,,291,136,155
 Calhoun,04 Cedar and S Greenfield,Constitutional Amendment 1,,No,,44,6,38
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Constitutional Amendment 1,,No,,242,54,188
 Calhoun,06 Reading-Union and S Logan,Constitutional Amendment 1,,No,,108,23,85
 Calhoun,01 Butler and Williams,Constitutional Amendment 1,,Yes,,213,48,165
-Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Constitutional Amendment 1,,Yes,,712,204,508
+Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Constitutional Amendment 1,,Yes,,713,205,508
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Constitutional Amendment 1,,Yes,,552,196,356
 Calhoun,04 Cedar and S Greenfield,Constitutional Amendment 1,,Yes,,120,19,101
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Constitutional Amendment 1,,Yes,,492,124,368
-Calhoun,06 Reading-Union and S Logan,Constitutional Amendment 1,,Yes,,249,60,189
-Calhoun,01 Butler and Williams,County Agricultural Extension Council Member,,Andrew Miller,,241,52,189
+Calhoun,06 Reading-Union and S Logan,Constitutional Amendment 1,,Yes,,248,60,188
+Calhoun,01 Butler and Williams,County Agricultural Extension Council Member,,Andrew Miller,,242,53,189
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,County Agricultural Extension Council Member,,Andrew Miller,,705,186,519
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,County Agricultural Extension Council Member,,Andrew Miller,,546,198,348
 Calhoun,04 Cedar and S Greenfield,County Agricultural Extension Council Member,,Andrew Miller,,103,20,83
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,County Agricultural Extension Council Member,,Andrew Miller,,488,109,379
-Calhoun,06 Reading-Union and S Logan,County Agricultural Extension Council Member,,Andrew Miller,,246,52,194
-Calhoun,01 Butler and Williams,County Agricultural Extension Council Member,,Dennis Hammen,,248,54,194
+Calhoun,06 Reading-Union and S Logan,County Agricultural Extension Council Member,,Andrew Miller,,245,52,193
+Calhoun,01 Butler and Williams,County Agricultural Extension Council Member,,Dennis Hammen,,249,55,194
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,County Agricultural Extension Council Member,,Dennis Hammen,,673,185,488
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,County Agricultural Extension Council Member,,Dennis Hammen,,545,201,344
 Calhoun,04 Cedar and S Greenfield,County Agricultural Extension Council Member,,Dennis Hammen,,125,22,103
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,County Agricultural Extension Council Member,,Dennis Hammen,,505,117,388
-Calhoun,06 Reading-Union and S Logan,County Agricultural Extension Council Member,,Dennis Hammen,,273,61,212
-Calhoun,01 Butler and Williams,County Agricultural Extension Council Member,,Jacob Davis,,223,49,174
+Calhoun,06 Reading-Union and S Logan,County Agricultural Extension Council Member,,Dennis Hammen,,272,61,211
+Calhoun,01 Butler and Williams,County Agricultural Extension Council Member,,Jacob Davis,,224,50,174
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,County Agricultural Extension Council Member,,Jacob Davis,,613,157,456
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,County Agricultural Extension Council Member,,Jacob Davis,,519,184,335
 Calhoun,04 Cedar and S Greenfield,County Agricultural Extension Council Member,,Jacob Davis,,94,19,75
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,County Agricultural Extension Council Member,,Jacob Davis,,553,125,428
-Calhoun,06 Reading-Union and S Logan,County Agricultural Extension Council Member,,Jacob Davis,,251,54,197
-Calhoun,01 Butler and Williams,County Agricultural Extension Council Member,,Kendra Davis,,238,50,188
+Calhoun,06 Reading-Union and S Logan,County Agricultural Extension Council Member,,Jacob Davis,,250,54,196
+Calhoun,01 Butler and Williams,County Agricultural Extension Council Member,,Kendra Davis,,239,51,188
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,County Agricultural Extension Council Member,,Kendra Davis,,648,164,484
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,County Agricultural Extension Council Member,,Kendra Davis,,532,183,349
 Calhoun,04 Cedar and S Greenfield,County Agricultural Extension Council Member,,Kendra Davis,,102,18,84
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,County Agricultural Extension Council Member,,Kendra Davis,,564,130,434
-Calhoun,06 Reading-Union and S Logan,County Agricultural Extension Council Member,,Kendra Davis,,255,53,202
-Calhoun,01 Butler and Williams,County Agricultural Extension Council Member,,Michelle Dischler,,245,53,192
+Calhoun,06 Reading-Union and S Logan,County Agricultural Extension Council Member,,Kendra Davis,,254,53,201
+Calhoun,01 Butler and Williams,County Agricultural Extension Council Member,,Michelle Dischler,,246,54,192
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,County Agricultural Extension Council Member,,Michelle Dischler,,655,171,484
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,County Agricultural Extension Council Member,,Michelle Dischler,,603,213,390
 Calhoun,04 Cedar and S Greenfield,County Agricultural Extension Council Member,,Michelle Dischler,,109,20,89
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,County Agricultural Extension Council Member,,Michelle Dischler,,534,119,415
-Calhoun,06 Reading-Union and S Logan,County Agricultural Extension Council Member,,Michelle Dischler,,267,54,213
+Calhoun,06 Reading-Union and S Logan,County Agricultural Extension Council Member,,Michelle Dischler,,266,54,212
 Calhoun,01 Butler and Williams,County Agricultural Extension Council Member,,Write-In,,11,0,11
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,County Agricultural Extension Council Member,,Write-In,,17,5,12
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,County Agricultural Extension Council Member,,Write-In,,8,1,7
 Calhoun,04 Cedar and S Greenfield,County Agricultural Extension Council Member,,Write-In,,1,0,1
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,County Agricultural Extension Council Member,,Write-In,,25,10,15
 Calhoun,06 Reading-Union and S Logan,County Agricultural Extension Council Member,,Write-In,,9,0,9
-Calhoun,01 Butler and Williams,County Attorney,,Benjamin Smith,REP,301,60,241
+Calhoun,01 Butler and Williams,County Attorney,,Benjamin Smith,REP,302,61,241
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,County Attorney,,Benjamin Smith,REP,906,247,659
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,County Attorney,,Benjamin Smith,REP,707,260,447
 Calhoun,04 Cedar and S Greenfield,County Attorney,,Benjamin Smith,REP,144,21,123
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,County Attorney,,Benjamin Smith,REP,679,147,532
-Calhoun,06 Reading-Union and S Logan,County Attorney,,Benjamin Smith,REP,336,75,261
+Calhoun,06 Reading-Union and S Logan,County Attorney,,Benjamin Smith,REP,335,75,260
 Calhoun,01 Butler and Williams,County Attorney,,Write-In,,5,2,3
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,County Attorney,,Write-In,,15,3,12
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,County Attorney,,Write-In,,18,11,7
 Calhoun,04 Cedar and S Greenfield,County Attorney,,Write-In,,1,0,1
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,County Attorney,,Write-In,,11,2,9
 Calhoun,06 Reading-Union and S Logan,County Attorney,,Write-In,,1,0,1
-Calhoun,01 Butler and Williams,County Auditor To Fill a Vacancy,,Jena Patzner,REP,320,67,253
+Calhoun,01 Butler and Williams,County Auditor To Fill a Vacancy,,Jena Patzner,REP,321,68,253
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,County Auditor To Fill a Vacancy,,Jena Patzner,REP,933,252,681
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,County Auditor To Fill a Vacancy,,Jena Patzner,REP,728,272,456
 Calhoun,04 Cedar and S Greenfield,County Auditor To Fill a Vacancy,,Jena Patzner,REP,150,21,129
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,County Auditor To Fill a Vacancy,,Jena Patzner,REP,699,151,548
-Calhoun,06 Reading-Union and S Logan,County Auditor To Fill a Vacancy,,Jena Patzner,REP,344,81,263
+Calhoun,06 Reading-Union and S Logan,County Auditor To Fill a Vacancy,,Jena Patzner,REP,343,81,262
 Calhoun,01 Butler and Williams,County Auditor To Fill a Vacancy,,Write-In,,3,0,3
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,County Auditor To Fill a Vacancy,,Write-In,,5,3,2
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,County Auditor To Fill a Vacancy,,Write-In,,9,5,4
 Calhoun,04 Cedar and S Greenfield,County Auditor To Fill a Vacancy,,Write-In,,1,1,0
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,County Auditor To Fill a Vacancy,,Write-In,,5,2,3
 Calhoun,06 Reading-Union and S Logan,County Auditor To Fill a Vacancy,,Write-In,,0,0,0
-Calhoun,01 Butler and Williams,County Recorder,,Cathy Voith,REP,327,72,255
+Calhoun,01 Butler and Williams,County Recorder,,Cathy Voith,REP,328,73,255
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,County Recorder,,Cathy Voith,REP,952,275,677
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,County Recorder,,Cathy Voith,REP,775,287,488
 Calhoun,04 Cedar and S Greenfield,County Recorder,,Cathy Voith,REP,150,20,130
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,County Recorder,,Cathy Voith,REP,708,157,551
-Calhoun,06 Reading-Union and S Logan,County Recorder,,Cathy Voith,REP,342,80,262
+Calhoun,06 Reading-Union and S Logan,County Recorder,,Cathy Voith,REP,341,80,261
 Calhoun,01 Butler and Williams,County Recorder,,Write-In,,2,0,2
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,County Recorder,,Write-In,,9,3,6
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,County Recorder,,Write-In,,11,4,7
@@ -133,15 +136,15 @@ Calhoun,04 Cedar and S Greenfield,County Recorder,,Write-In,,0,0,0
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,County Recorder,,Write-In,,4,1,3
 Calhoun,06 Reading-Union and S Logan,County Recorder,,Write-In,,0,0,0
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,County Supervisor,2,Scott Jacobs,REP,705,153,552
-Calhoun,06 Reading-Union and S Logan,County Supervisor,2,Scott Jacobs,REP,334,77,257
+Calhoun,06 Reading-Union and S Logan,County Supervisor,2,Scott Jacobs,REP,333,77,256
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,County Supervisor,2,Write-In,,13,4,9
 Calhoun,06 Reading-Union and S Logan,County Supervisor,2,Write-In,,5,0,5
-Calhoun,01 Butler and Williams,County Treasurer,,M. Alan Ellis,,329,76,253
+Calhoun,01 Butler and Williams,County Treasurer,,M. Alan Ellis,,330,77,253
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,County Treasurer,,M. Alan Ellis,,935,277,658
-Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,County Treasurer,,M. Alan Ellis,,806,304,502
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,County Treasurer,,M. Alan Ellis,,807,305,502
 Calhoun,04 Cedar and S Greenfield,County Treasurer,,M. Alan Ellis,,151,24,127
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,County Treasurer,,M. Alan Ellis,,701,156,545
-Calhoun,06 Reading-Union and S Logan,County Treasurer,,M. Alan Ellis,,343,73,270
+Calhoun,06 Reading-Union and S Logan,County Treasurer,,M. Alan Ellis,,342,73,269
 Calhoun,01 Butler and Williams,County Treasurer,,Write-In,,1,0,1
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,County Treasurer,,Write-In,,10,1,9
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,County Treasurer,,Write-In,,7,1,6
@@ -153,8 +156,8 @@ Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Court of Appeals Judge - John
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Court of Appeals Judge - John M. Sandy,,No,,162,65,97
 Calhoun,04 Cedar and S Greenfield,Court of Appeals Judge - John M. Sandy,,No,,33,7,26
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Court of Appeals Judge - John M. Sandy,,No,,127,27,100
-Calhoun,06 Reading-Union and S Logan,Court of Appeals Judge - John M. Sandy,,No,,82,16,66
-Calhoun,01 Butler and Williams,Court of Appeals Judge - John M. Sandy,,Yes,,196,35,161
+Calhoun,06 Reading-Union and S Logan,Court of Appeals Judge - John M. Sandy,,No,,81,16,65
+Calhoun,01 Butler and Williams,Court of Appeals Judge - John M. Sandy,,Yes,,197,36,161
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Court of Appeals Judge - John M. Sandy,,Yes,,597,155,442
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Court of Appeals Judge - John M. Sandy,,Yes,,347,123,224
 Calhoun,04 Cedar and S Greenfield,Court of Appeals Judge - John M. Sandy,,Yes,,87,11,76
@@ -166,19 +169,19 @@ Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Court of Appeals Judg
 Calhoun,04 Cedar and S Greenfield,Court of Appeals Judge - Julie A. Schumacher,,No,,31,7,24
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Court of Appeals Judge - Julie A. Schumacher,,No,,125,29,96
 Calhoun,06 Reading-Union and S Logan,Court of Appeals Judge - Julie A. Schumacher,,No,,74,16,58
-Calhoun,01 Butler and Williams,Court of Appeals Judge - Julie A. Schumacher,,Yes,,198,35,163
+Calhoun,01 Butler and Williams,Court of Appeals Judge - Julie A. Schumacher,,Yes,,199,36,163
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Court of Appeals Judge - Julie A. Schumacher,,Yes,,635,166,469
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Court of Appeals Judge - Julie A. Schumacher,,Yes,,373,136,237
 Calhoun,04 Cedar and S Greenfield,Court of Appeals Judge - Julie A. Schumacher,,Yes,,93,12,81
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Court of Appeals Judge - Julie A. Schumacher,,Yes,,461,94,367
-Calhoun,06 Reading-Union and S Logan,Court of Appeals Judge - Julie A. Schumacher,,Yes,,213,45,168
+Calhoun,06 Reading-Union and S Logan,Court of Appeals Judge - Julie A. Schumacher,,Yes,,212,45,167
 Calhoun,01 Butler and Williams,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,70,14,56
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,192,44,148
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,163,62,101
 Calhoun,04 Cedar and S Greenfield,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,34,7,27
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,136,30,106
-Calhoun,06 Reading-Union and S Logan,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,84,14,70
-Calhoun,01 Butler and Williams,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,189,34,155
+Calhoun,06 Reading-Union and S Logan,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,83,14,69
+Calhoun,01 Butler and Williams,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,190,35,155
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,586,156,430
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,344,125,219
 Calhoun,04 Cedar and S Greenfield,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,86,11,75
@@ -190,31 +193,31 @@ Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,District 2B Associate
 Calhoun,04 Cedar and S Greenfield,District 2B Associate Judge - Joseph L. Tofilon,,No,,30,6,24
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,District 2B Associate Judge - Joseph L. Tofilon,,No,,134,30,104
 Calhoun,06 Reading-Union and S Logan,District 2B Associate Judge - Joseph L. Tofilon,,No,,69,11,58
-Calhoun,01 Butler and Williams,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,191,37,154
+Calhoun,01 Butler and Williams,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,192,38,154
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,598,162,436
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,341,125,216
 Calhoun,04 Cedar and S Greenfield,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,91,12,79
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,434,87,347
-Calhoun,06 Reading-Union and S Logan,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,209,44,165
+Calhoun,06 Reading-Union and S Logan,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,208,44,164
 Calhoun,01 Butler and Williams,District 2B Associate Judge - Stephen A. Owen,,No,,63,11,52
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,District 2B Associate Judge - Stephen A. Owen,,No,,181,41,140
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,District 2B Associate Judge - Stephen A. Owen,,No,,161,60,101
 Calhoun,04 Cedar and S Greenfield,District 2B Associate Judge - Stephen A. Owen,,No,,33,5,28
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,District 2B Associate Judge - Stephen A. Owen,,No,,128,27,101
-Calhoun,06 Reading-Union and S Logan,District 2B Associate Judge - Stephen A. Owen,,No,,76,14,62
-Calhoun,01 Butler and Williams,District 2B Associate Judge - Stephen A. Owen,,Yes,,195,38,157
+Calhoun,06 Reading-Union and S Logan,District 2B Associate Judge - Stephen A. Owen,,No,,75,14,61
+Calhoun,01 Butler and Williams,District 2B Associate Judge - Stephen A. Owen,,Yes,,196,39,157
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,District 2B Associate Judge - Stephen A. Owen,,Yes,,582,148,434
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,District 2B Associate Judge - Stephen A. Owen,,Yes,,332,118,214
 Calhoun,04 Cedar and S Greenfield,District 2B Associate Judge - Stephen A. Owen,,Yes,,87,12,75
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,District 2B Associate Judge - Stephen A. Owen,,Yes,,433,87,346
-Calhoun,06 Reading-Union and S Logan,District 2B Associate Judge - Stephen A. Owen,,Yes,,200,41,159
+Calhoun,06 Reading-Union and S Logan,District 2B Associate Judge - Stephen A. Owen,,Yes,,201,41,160
 Calhoun,01 Butler and Williams,District 2B Judge - Amy Moore,,No,,67,13,54
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,District 2B Judge - Amy Moore,,No,,177,43,134
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,District 2B Judge - Amy Moore,,No,,164,58,106
 Calhoun,04 Cedar and S Greenfield,District 2B Judge - Amy Moore,,No,,32,7,25
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,District 2B Judge - Amy Moore,,No,,131,29,102
-Calhoun,06 Reading-Union and S Logan,District 2B Judge - Amy Moore,,No,,76,16,60
-Calhoun,01 Butler and Williams,District 2B Judge - Amy Moore,,Yes,,194,36,158
+Calhoun,06 Reading-Union and S Logan,District 2B Judge - Amy Moore,,No,,75,16,59
+Calhoun,01 Butler and Williams,District 2B Judge - Amy Moore,,Yes,,195,37,158
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,District 2B Judge - Amy Moore,,Yes,,594,151,443
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,District 2B Judge - Amy Moore,,Yes,,342,125,217
 Calhoun,04 Cedar and S Greenfield,District 2B Judge - Amy Moore,,Yes,,90,11,79
@@ -226,19 +229,19 @@ Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,District 2B Judge - A
 Calhoun,04 Cedar and S Greenfield,District 2B Judge - Angela L. Doyle,,No,,37,9,28
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,District 2B Judge - Angela L. Doyle,,No,,126,28,98
 Calhoun,06 Reading-Union and S Logan,District 2B Judge - Angela L. Doyle,,No,,74,15,59
-Calhoun,01 Butler and Williams,District 2B Judge - Angela L. Doyle,,Yes,,195,38,157
+Calhoun,01 Butler and Williams,District 2B Judge - Angela L. Doyle,,Yes,,196,39,157
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,District 2B Judge - Angela L. Doyle,,Yes,,634,173,461
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,District 2B Judge - Angela L. Doyle,,Yes,,370,132,238
 Calhoun,04 Cedar and S Greenfield,District 2B Judge - Angela L. Doyle,,Yes,,88,11,77
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,District 2B Judge - Angela L. Doyle,,Yes,,440,88,352
-Calhoun,06 Reading-Union and S Logan,District 2B Judge - Angela L. Doyle,,Yes,,209,43,166
+Calhoun,06 Reading-Union and S Logan,District 2B Judge - Angela L. Doyle,,Yes,,208,43,165
 Calhoun,01 Butler and Williams,District 2B Judge - Ashley Sparks,,No,,67,13,54
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,District 2B Judge - Ashley Sparks,,No,,180,41,139
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,District 2B Judge - Ashley Sparks,,No,,154,57,97
 Calhoun,04 Cedar and S Greenfield,District 2B Judge - Ashley Sparks,,No,,32,6,26
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,District 2B Judge - Ashley Sparks,,No,,130,27,103
-Calhoun,06 Reading-Union and S Logan,District 2B Judge - Ashley Sparks,,No,,75,14,61
-Calhoun,01 Butler and Williams,District 2B Judge - Ashley Sparks,,Yes,,192,36,156
+Calhoun,06 Reading-Union and S Logan,District 2B Judge - Ashley Sparks,,No,,74,14,60
+Calhoun,01 Butler and Williams,District 2B Judge - Ashley Sparks,,Yes,,193,37,156
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,District 2B Judge - Ashley Sparks,,Yes,,591,153,438
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,District 2B Judge - Ashley Sparks,,Yes,,346,123,223
 Calhoun,04 Cedar and S Greenfield,District 2B Judge - Ashley Sparks,,Yes,,88,11,77
@@ -249,8 +252,8 @@ Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,District 2B Judge - Bethany C
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,District 2B Judge - Bethany Currie,,No,,156,56,100
 Calhoun,04 Cedar and S Greenfield,District 2B Judge - Bethany Currie,,No,,35,7,28
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,District 2B Judge - Bethany Currie,,No,,132,27,105
-Calhoun,06 Reading-Union and S Logan,District 2B Judge - Bethany Currie,,No,,81,15,66
-Calhoun,01 Butler and Williams,District 2B Judge - Bethany Currie,,Yes,,188,35,153
+Calhoun,06 Reading-Union and S Logan,District 2B Judge - Bethany Currie,,No,,80,15,65
+Calhoun,01 Butler and Williams,District 2B Judge - Bethany Currie,,Yes,,189,36,153
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,District 2B Judge - Bethany Currie,,Yes,,591,154,437
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,District 2B Judge - Bethany Currie,,Yes,,340,125,215
 Calhoun,04 Cedar and S Greenfield,District 2B Judge - Bethany Currie,,Yes,,84,10,74
@@ -261,8 +264,8 @@ Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,District 2B Judge - Christoph
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,District 2B Judge - Christopher Polking,,No,,156,60,96
 Calhoun,04 Cedar and S Greenfield,District 2B Judge - Christopher Polking,,No,,36,8,28
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,District 2B Judge - Christopher Polking,,No,,135,28,107
-Calhoun,06 Reading-Union and S Logan,District 2B Judge - Christopher Polking,,No,,85,13,72
-Calhoun,01 Butler and Williams,District 2B Judge - Christopher Polking,,Yes,,190,38,152
+Calhoun,06 Reading-Union and S Logan,District 2B Judge - Christopher Polking,,No,,84,13,71
+Calhoun,01 Butler and Williams,District 2B Judge - Christopher Polking,,Yes,,191,39,152
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,District 2B Judge - Christopher Polking,,Yes,,598,154,444
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,District 2B Judge - Christopher Polking,,Yes,,349,122,227
 Calhoun,04 Cedar and S Greenfield,District 2B Judge - Christopher Polking,,Yes,,83,11,72
@@ -274,10 +277,11 @@ Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Elm Grove Township Tru
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Elm Grove Township Trustee,,Write-In,,0,0,0
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Garfield Township Clerk,,Ben Albright,,60,28,32
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Garfield Township Clerk,,Write-In,,0,0,0
-Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Garfield Township Trustee,,Write-In,,8,3,5
-Calhoun,01 Butler and Williams,Governor,,Rob Sand and Dave Muhlbauer,DEM,155,50,105
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Garfield Township Trustee,,Doug Riley (Write-in),,2,0,2
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Garfield Township Trustee,,Write-In,,6,3,3
+Calhoun,01 Butler and Williams,Governor,,Rob Sand and Dave Muhlbauer,DEM,156,51,105
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Governor,,Rob Sand and Dave Muhlbauer,DEM,393,146,247
-Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Governor,,Rob Sand and Dave Muhlbauer,DEM,409,176,233
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Governor,,Rob Sand and Dave Muhlbauer,DEM,410,177,233
 Calhoun,04 Cedar and S Greenfield,Governor,,Rob Sand and Dave Muhlbauer,DEM,55,10,45
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Governor,,Rob Sand and Dave Muhlbauer,DEM,356,86,270
 Calhoun,06 Reading-Union and S Logan,Governor,,Rob Sand and Dave Muhlbauer,DEM,145,44,101
@@ -288,11 +292,11 @@ Calhoun,04 Cedar and S Greenfield,Governor,,Write-In,,0,0,0
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Governor,,Write-In,,0,0,0
 Calhoun,06 Reading-Union and S Logan,Governor,,Write-In,,2,0,2
 Calhoun,01 Butler and Williams,Governor,,Zach Lahn and Derek Wulf,REP,213,37,176
-Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Governor,,Zach Lahn and Derek Wulf,REP,723,193,530
+Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Governor,,Zach Lahn and Derek Wulf,REP,724,194,530
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Governor,,Zach Lahn and Derek Wulf,REP,537,202,335
 Calhoun,04 Cedar and S Greenfield,Governor,,Zach Lahn and Derek Wulf,REP,116,19,97
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Governor,,Zach Lahn and Derek Wulf,REP,475,111,364
-Calhoun,06 Reading-Union and S Logan,Governor,,Zach Lahn and Derek Wulf,REP,254,56,198
+Calhoun,06 Reading-Union and S Logan,Governor,,Zach Lahn and Derek Wulf,REP,253,56,197
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Greenfield Township Clerk,,Candy Bilstad,,32,11,21
 Calhoun,04 Cedar and S Greenfield,Greenfield Township Clerk,,Candy Bilstad,,26,4,22
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Greenfield Township Clerk,,Write-In,,0,0,0
@@ -301,25 +305,33 @@ Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Greenfield Township Trustee,,
 Calhoun,04 Cedar and S Greenfield,Greenfield Township Trustee,,Dean Black,,29,6,23
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Greenfield Township Trustee,,Write-In,,0,0,0
 Calhoun,04 Cedar and S Greenfield,Greenfield Township Trustee,,Write-In,,0,0,0
-Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Jackson Township Clerk,,Write-In,,8,1,7
+Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Jackson Township Clerk,,Michelle Jacobs (Write-in),,5,0,5
+Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Jackson Township Clerk,,Write-In,,3,1,2
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Jackson Township Trustee,,Kenneth A. Steinkamp,,73,12,61
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Jackson Township Trustee,,Write-In,,0,0,0
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Lake Creek Township Clerk,,Craig Hiler,,34,10,24
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Lake Creek Township Clerk,,Craig Hiler,,18,8,10
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Lake Creek Township Clerk,,Write-In,,1,1,0
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Lake Creek Township Clerk,,Write-In,,0,0,0
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Lake Creek Township Trustee,,Andrew Lauver (Write-in),,0,0,0
+Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Lake Creek Township Trustee,,Andrew Lauver (Write-in),,3,2,1
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Lake Creek Township Trustee,,Write-In,,8,4,4
-Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Lake Creek Township Trustee,,Write-In,,5,4,1
-Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Lake Creek Township Trustee To Fill a Vacancy,,Write-In,,5,3,2
+Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Lake Creek Township Trustee,,Write-In,,2,2,0
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Lake Creek Township Trustee To Fill a Vacancy,,Nicholas Burley (Write-in),,3,3,0
+Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Lake Creek Township Trustee To Fill a Vacancy,,Nicholas Burley (Write-in),,0,0,0
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Lake Creek Township Trustee To Fill a Vacancy,,Write-In,,2,0,2
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Lake Creek Township Trustee To Fill a Vacancy,,Write-In,,5,4,1
-Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Lincoln Township Clerk,,Write-In,,8,2,6
+Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Lincoln Township Clerk,,Beth Goodwin (Write-in),,1,1,0
+Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Lincoln Township Clerk,,Write-In,,7,1,6
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Lincoln Township Trustee,,Gwen Ewing,,102,23,79
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Lincoln Township Trustee,,Write-In,,0,0,0
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Logan Township Clerk,,Tim Nicholson,,18,5,13
 Calhoun,06 Reading-Union and S Logan,Logan Township Clerk,,Tim Nicholson,,24,8,16
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Logan Township Clerk,,Write-In,,0,0,0
 Calhoun,06 Reading-Union and S Logan,Logan Township Clerk,,Write-In,,0,0,0
-Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Logan Township Trustee,,Write-In,,4,2,2
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Logan Township Trustee,,Samuel Priebe (Write-in),,2,2,0
+Calhoun,06 Reading-Union and S Logan,Logan Township Trustee,,Samuel Priebe (Write-in),,0,0,0
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Logan Township Trustee,,Write-In,,2,0,2
 Calhoun,06 Reading-Union and S Logan,Logan Township Trustee,,Write-In,,1,1,0
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Logan Township Trustee To Fill a Vacancy,,Mat Dischler,,20,6,14
 Calhoun,06 Reading-Union and S Logan,Logan Township Trustee To Fill a Vacancy,,Mat Dischler,,24,8,16
@@ -327,24 +339,24 @@ Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Logan Township Truste
 Calhoun,06 Reading-Union and S Logan,Logan Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
 Calhoun,01 Butler and Williams,Pocahontas Area School - Public Measure RQ,,No,,148,29,119
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Pocahontas Area School - Public Measure RQ,,No,,56,29,27
-Calhoun,01 Butler and Williams,Pocahontas Area School - Public Measure RQ,,Yes,,138,22,116
+Calhoun,01 Butler and Williams,Pocahontas Area School - Public Measure RQ,,Yes,,139,23,116
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Pocahontas Area School - Public Measure RQ,,Yes,,29,20,9
 Calhoun,06 Reading-Union and S Logan,Reading Township Clerk,,Vicki Johnson,,45,8,37
 Calhoun,06 Reading-Union and S Logan,Reading Township Clerk,,Write-In,,0,0,0
 Calhoun,06 Reading-Union and S Logan,Reading Township Trustee,,Steve Gutshall,,45,9,36
 Calhoun,06 Reading-Union and S Logan,Reading Township Trustee,,Write-In,,0,0,0
-Calhoun,01 Butler and Williams,Secretary of Agriculture,,Chris Jones,DEM,117,39,78
+Calhoun,01 Butler and Williams,Secretary of Agriculture,,Chris Jones,DEM,118,40,78
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Secretary of Agriculture,,Chris Jones,DEM,258,104,154
-Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Secretary of Agriculture,,Chris Jones,DEM,259,115,144
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Secretary of Agriculture,,Chris Jones,DEM,260,116,144
 Calhoun,04 Cedar and S Greenfield,Secretary of Agriculture,,Chris Jones,DEM,37,10,27
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Secretary of Agriculture,,Chris Jones,DEM,259,76,183
 Calhoun,06 Reading-Union and S Logan,Secretary of Agriculture,,Chris Jones,DEM,82,27,55
 Calhoun,01 Butler and Williams,Secretary of Agriculture,,Mike Naig,REP,246,45,201
-Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Secretary of Agriculture,,Mike Naig,REP,833,227,606
+Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Secretary of Agriculture,,Mike Naig,REP,834,228,606
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Secretary of Agriculture,,Mike Naig,REP,664,253,411
 Calhoun,04 Cedar and S Greenfield,Secretary of Agriculture,,Mike Naig,REP,132,19,113
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Secretary of Agriculture,,Mike Naig,REP,565,120,445
-Calhoun,06 Reading-Union and S Logan,Secretary of Agriculture,,Mike Naig,REP,312,71,241
+Calhoun,06 Reading-Union and S Logan,Secretary of Agriculture,,Mike Naig,REP,311,71,240
 Calhoun,01 Butler and Williams,Secretary of Agriculture,,Write-In,,0,0,0
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Secretary of Agriculture,,Write-In,,2,2,0
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Secretary of Agriculture,,Write-In,,0,0,0
@@ -352,14 +364,14 @@ Calhoun,04 Cedar and S Greenfield,Secretary of Agriculture,,Write-In,,0,0,0
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Secretary of Agriculture,,Write-In,,0,0,0
 Calhoun,06 Reading-Union and S Logan,Secretary of Agriculture,,Write-In,,0,0,0
 Calhoun,01 Butler and Williams,Secretary of State,,Paul D. Pate,REP,237,42,195
-Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Secretary of State,,Paul D. Pate,REP,809,215,594
+Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Secretary of State,,Paul D. Pate,REP,810,216,594
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Secretary of State,,Paul D. Pate,REP,647,242,405
 Calhoun,04 Cedar and S Greenfield,Secretary of State,,Paul D. Pate,REP,129,19,110
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Secretary of State,,Paul D. Pate,REP,553,124,429
-Calhoun,06 Reading-Union and S Logan,Secretary of State,,Paul D. Pate,REP,308,68,240
-Calhoun,01 Butler and Williams,Secretary of State,,Ryan Peterman,DEM,125,44,81
+Calhoun,06 Reading-Union and S Logan,Secretary of State,,Paul D. Pate,REP,307,68,239
+Calhoun,01 Butler and Williams,Secretary of State,,Ryan Peterman,DEM,126,45,81
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Secretary of State,,Ryan Peterman,DEM,289,123,166
-Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Secretary of State,,Ryan Peterman,DEM,270,123,147
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Secretary of State,,Ryan Peterman,DEM,271,124,147
 Calhoun,04 Cedar and S Greenfield,Secretary of State,,Ryan Peterman,DEM,40,9,31
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Secretary of State,,Ryan Peterman,DEM,274,74,200
 Calhoun,06 Reading-Union and S Logan,Secretary of State,,Ryan Peterman,DEM,90,29,61
@@ -373,48 +385,54 @@ Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Sherman Township Clerk,,Anne 
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Sherman Township Clerk,,Write-In,,0,0,0
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Sherman Township Trustee,,Brad Gangestad,,205,107,98
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Sherman Township Trustee,,Write-In,,2,1,1
-Calhoun,01 Butler and Williams,Soil and Water Conservation District Commissioner,,Darcy Maulsby,,319,68,251
+Calhoun,01 Butler and Williams,Soil and Water Conservation District Commissioner,,Dan Erickson (Write-in),,2,0,2
+Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Soil and Water Conservation District Commissioner,,Dan Erickson (Write-in),,1,0,1
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Soil and Water Conservation District Commissioner,,Dan Erickson (Write-in),,0,0,0
+Calhoun,04 Cedar and S Greenfield,Soil and Water Conservation District Commissioner,,Dan Erickson (Write-in),,0,0,0
+Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Soil and Water Conservation District Commissioner,,Dan Erickson (Write-in),,0,0,0
+Calhoun,06 Reading-Union and S Logan,Soil and Water Conservation District Commissioner,,Dan Erickson (Write-in),,0,0,0
+Calhoun,01 Butler and Williams,Soil and Water Conservation District Commissioner,,Darcy Maulsby,,320,69,251
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Soil and Water Conservation District Commissioner,,Darcy Maulsby,,882,251,631
-Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Soil and Water Conservation District Commissioner,,Darcy Maulsby,,720,274,446
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Soil and Water Conservation District Commissioner,,Darcy Maulsby,,721,275,446
 Calhoun,04 Cedar and S Greenfield,Soil and Water Conservation District Commissioner,,Darcy Maulsby,,149,22,127
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Soil and Water Conservation District Commissioner,,Darcy Maulsby,,694,157,537
-Calhoun,06 Reading-Union and S Logan,Soil and Water Conservation District Commissioner,,Darcy Maulsby,,324,78,246
-Calhoun,01 Butler and Williams,Soil and Water Conservation District Commissioner,,Write-In,,6,0,6
-Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Soil and Water Conservation District Commissioner,,Write-In,,30,7,23
+Calhoun,06 Reading-Union and S Logan,Soil and Water Conservation District Commissioner,,Darcy Maulsby,,323,78,245
+Calhoun,01 Butler and Williams,Soil and Water Conservation District Commissioner,,Write-In,,4,0,4
+Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Soil and Water Conservation District Commissioner,,Write-In,,29,7,22
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Soil and Water Conservation District Commissioner,,Write-In,,16,3,13
 Calhoun,04 Cedar and S Greenfield,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Soil and Water Conservation District Commissioner,,Write-In,,29,6,23
 Calhoun,06 Reading-Union and S Logan,Soil and Water Conservation District Commissioner,,Write-In,,11,0,11
-Calhoun,01 Butler and Williams,State House,7,Rachel Burns,DEM,130,43,87
+Calhoun,01 Butler and Williams,State House,7,Rachel Burns,DEM,131,44,87
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,State House,7,Rachel Burns,DEM,305,130,175
-Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,State House,7,Rachel Burns,DEM,289,133,156
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,State House,7,Rachel Burns,DEM,290,134,156
 Calhoun,04 Cedar and S Greenfield,State House,7,Rachel Burns,DEM,43,9,34
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,State House,7,Rachel Burns,DEM,287,80,207
 Calhoun,06 Reading-Union and S Logan,State House,7,Rachel Burns,DEM,100,31,69
 Calhoun,01 Butler and Williams,State House,7,Wendy Larson,REP,225,41,184
-Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,State House,7,Wendy Larson,REP,789,203,586
+Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,State House,7,Wendy Larson,REP,790,204,586
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,State House,7,Wendy Larson,REP,618,224,394
 Calhoun,04 Cedar and S Greenfield,State House,7,Wendy Larson,REP,125,19,106
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,State House,7,Wendy Larson,REP,533,118,415
-Calhoun,06 Reading-Union and S Logan,State House,7,Wendy Larson,REP,297,68,229
+Calhoun,06 Reading-Union and S Logan,State House,7,Wendy Larson,REP,296,68,228
 Calhoun,01 Butler and Williams,State House,7,Write-In,,0,0,0
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,State House,7,Write-In,,2,1,1
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,State House,7,Write-In,,0,0,0
 Calhoun,04 Cedar and S Greenfield,State House,7,Write-In,,0,0,0
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,State House,7,Write-In,,2,1,1
 Calhoun,06 Reading-Union and S Logan,State House,7,Write-In,,0,0,0
-Calhoun,01 Butler and Williams,Treasurer of State,,John Norwood,DEM,130,45,85
+Calhoun,01 Butler and Williams,Treasurer of State,,John Norwood,DEM,131,46,85
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Treasurer of State,,John Norwood,DEM,310,131,179
-Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Treasurer of State,,John Norwood,DEM,298,137,161
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Treasurer of State,,John Norwood,DEM,299,138,161
 Calhoun,04 Cedar and S Greenfield,Treasurer of State,,John Norwood,DEM,46,9,37
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Treasurer of State,,John Norwood,DEM,300,79,221
 Calhoun,06 Reading-Union and S Logan,Treasurer of State,,John Norwood,DEM,112,35,77
 Calhoun,01 Butler and Williams,Treasurer of State,,Roby Smith,REP,228,40,188
-Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Treasurer of State,,Roby Smith,REP,763,196,567
+Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Treasurer of State,,Roby Smith,REP,764,197,567
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Treasurer of State,,Roby Smith,REP,598,219,379
 Calhoun,04 Cedar and S Greenfield,Treasurer of State,,Roby Smith,REP,123,19,104
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,Treasurer of State,,Roby Smith,REP,514,119,395
-Calhoun,06 Reading-Union and S Logan,Treasurer of State,,Roby Smith,REP,279,60,219
+Calhoun,06 Reading-Union and S Logan,Treasurer of State,,Roby Smith,REP,278,60,218
 Calhoun,01 Butler and Williams,Treasurer of State,,Write-In,,0,0,0
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,Treasurer of State,,Write-In,,2,2,0
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Treasurer of State,,Write-In,,0,0,0
@@ -426,14 +444,14 @@ Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Twin Lakes Township C
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Twin Lakes Township Trustee,,Ed Irwin,,75,25,50
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,Twin Lakes Township Trustee,,Write-In,,1,0,1
 Calhoun,01 Butler and Williams,U.S. House,4,Chris McGowan,REP,223,37,186
-Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,U.S. House,4,Chris McGowan,REP,758,200,558
+Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,U.S. House,4,Chris McGowan,REP,759,201,558
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,U.S. House,4,Chris McGowan,REP,556,208,348
 Calhoun,04 Cedar and S Greenfield,U.S. House,4,Chris McGowan,REP,122,19,103
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,U.S. House,4,Chris McGowan,REP,502,114,388
-Calhoun,06 Reading-Union and S Logan,U.S. House,4,Chris McGowan,REP,273,61,212
-Calhoun,01 Butler and Williams,U.S. House,4,Dave Dawson,DEM,127,43,84
+Calhoun,06 Reading-Union and S Logan,U.S. House,4,Chris McGowan,REP,272,61,211
+Calhoun,01 Butler and Williams,U.S. House,4,Dave Dawson,DEM,128,44,84
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,U.S. House,4,Dave Dawson,DEM,304,125,179
-Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,U.S. House,4,Dave Dawson,DEM,345,149,196
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,U.S. House,4,Dave Dawson,DEM,346,150,196
 Calhoun,04 Cedar and S Greenfield,U.S. House,4,Dave Dawson,DEM,45,9,36
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,U.S. House,4,Dave Dawson,DEM,297,78,219
 Calhoun,06 Reading-Union and S Logan,U.S. House,4,Dave Dawson,DEM,107,29,78
@@ -444,14 +462,14 @@ Calhoun,04 Cedar and S Greenfield,U.S. House,4,Write-In,,0,0,0
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,U.S. House,4,Write-In,,2,0,2
 Calhoun,06 Reading-Union and S Logan,U.S. House,4,Write-In,,1,0,1
 Calhoun,01 Butler and Williams,U.S. Senate,,Ashley Hinson,REP,211,41,170
-Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,U.S. Senate,,Ashley Hinson,REP,708,191,517
+Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,U.S. Senate,,Ashley Hinson,REP,709,192,517
 Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,U.S. Senate,,Ashley Hinson,REP,551,208,343
 Calhoun,04 Cedar and S Greenfield,U.S. Senate,,Ashley Hinson,REP,112,19,93
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,U.S. Senate,,Ashley Hinson,REP,471,107,364
-Calhoun,06 Reading-Union and S Logan,U.S. Senate,,Ashley Hinson,REP,265,60,205
-Calhoun,01 Butler and Williams,U.S. Senate,,Josh Turek,DEM,134,39,95
+Calhoun,06 Reading-Union and S Logan,U.S. Senate,,Ashley Hinson,REP,264,60,204
+Calhoun,01 Butler and Williams,U.S. Senate,,Josh Turek,DEM,135,40,95
 Calhoun,02 Lincoln-Manson-Sherman and N Greenfield,U.S. Senate,,Josh Turek,DEM,330,132,198
-Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,U.S. Senate,,Josh Turek,DEM,337,155,182
+Calhoun,03 Cen-Garf-Twin Lks-N Lake Crk-N Logan-Rockwell C,U.S. Senate,,Josh Turek,DEM,338,156,182
 Calhoun,04 Cedar and S Greenfield,U.S. Senate,,Josh Turek,DEM,47,10,37
 Calhoun,05 Calhoun-Elm Grove-Jackson-S Lake Crk-Lake City,U.S. Senate,,Josh Turek,DEM,299,80,219
 Calhoun,06 Reading-Union and S Logan,U.S. Senate,,Josh Turek,DEM,101,32,69

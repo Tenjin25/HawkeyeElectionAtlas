@@ -2,12 +2,12 @@ county,precinct,office,district,candidate,party,votes,absentee,election_day
 Monona,AS-BV-CS-CN-KB-TU,Attorney General,,Brenna Bird,REP,210,63,147
 Monona,BL-FR-SH-SX,Attorney General,,Brenna Bird,REP,202,48,154
 Monona,Cooper-Maple-Mapleton,Attorney General,,Brenna Bird,REP,432,69,363
-Monona,FV-GT-LK-LN-RO-WF-WT,Attorney General,,Brenna Bird,REP,449,130,319
+Monona,FV-GT-LK-LN-RO-WF-WT,Attorney General,,Brenna Bird,REP,451,132,319
 Monona,JO-MH-SO-SOC-SV-WL,Attorney General,,Brenna Bird,REP,249,63,186
 Monona,Onawa Ward 1,Attorney General,,Brenna Bird,REP,114,35,79
 Monona,Onawa Ward 2,Attorney General,,Brenna Bird,REP,162,54,108
 Monona,Onawa Ward 3,Attorney General,,Brenna Bird,REP,181,68,113
-Monona,Onawa Ward 4,Attorney General,,Brenna Bird,REP,120,51,69
+Monona,Onawa Ward 4,Attorney General,,Brenna Bird,REP,121,52,69
 Monona,St. Clair-Ute,Attorney General,,Brenna Bird,REP,129,18,111
 Monona,AS-BV-CS-CN-KB-TU,Attorney General,,Nate Willems,DEM,98,46,52
 Monona,BL-FR-SH-SX,Attorney General,,Nate Willems,DEM,98,42,56
@@ -17,7 +17,7 @@ Monona,JO-MH-SO-SOC-SV-WL,Attorney General,,Nate Willems,DEM,136,46,90
 Monona,Onawa Ward 1,Attorney General,,Nate Willems,DEM,68,31,37
 Monona,Onawa Ward 2,Attorney General,,Nate Willems,DEM,100,53,47
 Monona,Onawa Ward 3,Attorney General,,Nate Willems,DEM,106,50,56
-Monona,Onawa Ward 4,Attorney General,,Nate Willems,DEM,82,51,31
+Monona,Onawa Ward 4,Attorney General,,Nate Willems,DEM,83,52,31
 Monona,St. Clair-Ute,Attorney General,,Nate Willems,DEM,66,11,55
 Monona,AS-BV-CS-CN-KB-TU,Attorney General,,Write-In,,0,0,0
 Monona,BL-FR-SH-SX,Attorney General,,Write-In,,0,0,0
@@ -32,12 +32,12 @@ Monona,St. Clair-Ute,Attorney General,,Write-In,,0,0,0
 Monona,AS-BV-CS-CN-KB-TU,Auditor of State,,Chris Cournoyer,REP,205,56,149
 Monona,BL-FR-SH-SX,Auditor of State,,Chris Cournoyer,REP,203,47,156
 Monona,Cooper-Maple-Mapleton,Auditor of State,,Chris Cournoyer,REP,433,62,371
-Monona,FV-GT-LK-LN-RO-WF-WT,Auditor of State,,Chris Cournoyer,REP,435,125,310
+Monona,FV-GT-LK-LN-RO-WF-WT,Auditor of State,,Chris Cournoyer,REP,437,127,310
 Monona,JO-MH-SO-SOC-SV-WL,Auditor of State,,Chris Cournoyer,REP,245,55,190
 Monona,Onawa Ward 1,Auditor of State,,Chris Cournoyer,REP,112,30,82
 Monona,Onawa Ward 2,Auditor of State,,Chris Cournoyer,REP,157,45,112
 Monona,Onawa Ward 3,Auditor of State,,Chris Cournoyer,REP,181,65,116
-Monona,Onawa Ward 4,Auditor of State,,Chris Cournoyer,REP,122,54,68
+Monona,Onawa Ward 4,Auditor of State,,Chris Cournoyer,REP,123,55,68
 Monona,St. Clair-Ute,Auditor of State,,Chris Cournoyer,REP,130,17,113
 Monona,AS-BV-CS-CN-KB-TU,Auditor of State,,Taylor Wettach,DEM,99,50,49
 Monona,BL-FR-SH-SX,Auditor of State,,Taylor Wettach,DEM,95,42,53
@@ -47,7 +47,7 @@ Monona,JO-MH-SO-SOC-SV-WL,Auditor of State,,Taylor Wettach,DEM,136,54,82
 Monona,Onawa Ward 1,Auditor of State,,Taylor Wettach,DEM,72,34,38
 Monona,Onawa Ward 2,Auditor of State,,Taylor Wettach,DEM,103,60,43
 Monona,Onawa Ward 3,Auditor of State,,Taylor Wettach,DEM,102,52,50
-Monona,Onawa Ward 4,Auditor of State,,Taylor Wettach,DEM,75,47,28
+Monona,Onawa Ward 4,Auditor of State,,Taylor Wettach,DEM,76,48,28
 Monona,St. Clair-Ute,Auditor of State,,Taylor Wettach,DEM,61,11,50
 Monona,AS-BV-CS-CN-KB-TU,Auditor of State,,Write-In,,0,0,0
 Monona,BL-FR-SH-SX,Auditor of State,,Write-In,,0,0,0
@@ -62,7 +62,8 @@ Monona,St. Clair-Ute,Auditor of State,,Write-In,,0,0,0
 Monona,AS-BV-CS-CN-KB-TU,Center Township Clerk,,Brenda Howland,,56,24,32
 Monona,AS-BV-CS-CN-KB-TU,Center Township Clerk,,Write-In,,0,0,0
 Monona,AS-BV-CS-CN-KB-TU,Center Township Trustee,,Jennifer Hanson,,54,23,31
-Monona,AS-BV-CS-CN-KB-TU,Center Township Trustee,,Write-In,,6,4,2
+Monona,AS-BV-CS-CN-KB-TU,Center Township Trustee,,Thomas Masters,,4,2,2
+Monona,AS-BV-CS-CN-KB-TU,Center Township Trustee,,Write-In,,2,2,0
 Monona,AS-BV-CS-CN-KB-TU,Constitutional Amendment 1,,No,,94,37,57
 Monona,BL-FR-SH-SX,Constitutional Amendment 1,,No,,83,24,59
 Monona,Cooper-Maple-Mapleton,Constitutional Amendment 1,,No,,171,39,132
@@ -76,37 +77,47 @@ Monona,St. Clair-Ute,Constitutional Amendment 1,,No,,51,10,41
 Monona,AS-BV-CS-CN-KB-TU,Constitutional Amendment 1,,Yes,,147,49,98
 Monona,BL-FR-SH-SX,Constitutional Amendment 1,,Yes,,165,46,119
 Monona,Cooper-Maple-Mapleton,Constitutional Amendment 1,,Yes,,265,60,205
-Monona,FV-GT-LK-LN-RO-WF-WT,Constitutional Amendment 1,,Yes,,334,108,226
+Monona,FV-GT-LK-LN-RO-WF-WT,Constitutional Amendment 1,,Yes,,336,110,226
 Monona,JO-MH-SO-SOC-SV-WL,Constitutional Amendment 1,,Yes,,209,47,162
 Monona,Onawa Ward 1,Constitutional Amendment 1,,Yes,,86,33,53
 Monona,Onawa Ward 2,Constitutional Amendment 1,,Yes,,132,41,91
 Monona,Onawa Ward 3,Constitutional Amendment 1,,Yes,,133,55,78
-Monona,Onawa Ward 4,Constitutional Amendment 1,,Yes,,89,40,49
+Monona,Onawa Ward 4,Constitutional Amendment 1,,Yes,,91,42,49
 Monona,St. Clair-Ute,Constitutional Amendment 1,,Yes,,85,18,67
 Monona,AS-BV-CS-CN-KB-TU,County Agricultural Extension Council Member,,Cheryl Jensen,,164,48,116
 Monona,BL-FR-SH-SX,County Agricultural Extension Council Member,,Cheryl Jensen,,159,39,120
 Monona,Cooper-Maple-Mapleton,County Agricultural Extension Council Member,,Cheryl Jensen,,372,63,309
-Monona,FV-GT-LK-LN-RO-WF-WT,County Agricultural Extension Council Member,,Cheryl Jensen,,333,86,247
+Monona,FV-GT-LK-LN-RO-WF-WT,County Agricultural Extension Council Member,,Cheryl Jensen,,334,87,247
 Monona,JO-MH-SO-SOC-SV-WL,County Agricultural Extension Council Member,,Cheryl Jensen,,229,54,175
 Monona,Onawa Ward 1,County Agricultural Extension Council Member,,Cheryl Jensen,,69,27,42
 Monona,Onawa Ward 2,County Agricultural Extension Council Member,,Cheryl Jensen,,128,48,80
 Monona,Onawa Ward 3,County Agricultural Extension Council Member,,Cheryl Jensen,,147,50,97
-Monona,Onawa Ward 4,County Agricultural Extension Council Member,,Cheryl Jensen,,89,39,50
+Monona,Onawa Ward 4,County Agricultural Extension Council Member,,Cheryl Jensen,,90,40,50
 Monona,St. Clair-Ute,County Agricultural Extension Council Member,,Cheryl Jensen,,94,16,78
+Monona,AS-BV-CS-CN-KB-TU,County Agricultural Extension Council Member,,Chris Beedle,,0,0,0
+Monona,BL-FR-SH-SX,County Agricultural Extension Council Member,,Chris Beedle,,0,0,0
+Monona,Cooper-Maple-Mapleton,County Agricultural Extension Council Member,,Chris Beedle,,0,0,0
+Monona,FV-GT-LK-LN-RO-WF-WT,County Agricultural Extension Council Member,,Chris Beedle,,0,0,0
+Monona,JO-MH-SO-SOC-SV-WL,County Agricultural Extension Council Member,,Chris Beedle,,0,0,0
+Monona,Onawa Ward 1,County Agricultural Extension Council Member,,Chris Beedle,,1,0,1
+Monona,Onawa Ward 2,County Agricultural Extension Council Member,,Chris Beedle,,0,0,0
+Monona,Onawa Ward 3,County Agricultural Extension Council Member,,Chris Beedle,,1,0,1
+Monona,Onawa Ward 4,County Agricultural Extension Council Member,,Chris Beedle,,0,0,0
+Monona,St. Clair-Ute,County Agricultural Extension Council Member,,Chris Beedle,,0,0,0
 Monona,AS-BV-CS-CN-KB-TU,County Agricultural Extension Council Member,,Julie Miller,,181,56,125
 Monona,BL-FR-SH-SX,County Agricultural Extension Council Member,,Julie Miller,,214,56,158
 Monona,Cooper-Maple-Mapleton,County Agricultural Extension Council Member,,Julie Miller,,384,63,321
-Monona,FV-GT-LK-LN-RO-WF-WT,County Agricultural Extension Council Member,,Julie Miller,,395,103,292
+Monona,FV-GT-LK-LN-RO-WF-WT,County Agricultural Extension Council Member,,Julie Miller,,396,104,292
 Monona,JO-MH-SO-SOC-SV-WL,County Agricultural Extension Council Member,,Julie Miller,,243,70,173
 Monona,Onawa Ward 1,County Agricultural Extension Council Member,,Julie Miller,,86,28,58
 Monona,Onawa Ward 2,County Agricultural Extension Council Member,,Julie Miller,,165,65,100
 Monona,Onawa Ward 3,County Agricultural Extension Council Member,,Julie Miller,,176,63,113
-Monona,Onawa Ward 4,County Agricultural Extension Council Member,,Julie Miller,,124,55,69
+Monona,Onawa Ward 4,County Agricultural Extension Council Member,,Julie Miller,,125,56,69
 Monona,St. Clair-Ute,County Agricultural Extension Council Member,,Julie Miller,,97,16,81
 Monona,AS-BV-CS-CN-KB-TU,County Agricultural Extension Council Member,,Leland Hathaway,,214,67,147
 Monona,BL-FR-SH-SX,County Agricultural Extension Council Member,,Leland Hathaway,,208,57,151
 Monona,Cooper-Maple-Mapleton,County Agricultural Extension Council Member,,Leland Hathaway,,353,61,292
-Monona,FV-GT-LK-LN-RO-WF-WT,County Agricultural Extension Council Member,,Leland Hathaway,,394,101,293
+Monona,FV-GT-LK-LN-RO-WF-WT,County Agricultural Extension Council Member,,Leland Hathaway,,395,102,293
 Monona,JO-MH-SO-SOC-SV-WL,County Agricultural Extension Council Member,,Leland Hathaway,,242,63,179
 Monona,Onawa Ward 1,County Agricultural Extension Council Member,,Leland Hathaway,,85,29,56
 Monona,Onawa Ward 2,County Agricultural Extension Council Member,,Leland Hathaway,,169,64,105
@@ -116,7 +127,7 @@ Monona,St. Clair-Ute,County Agricultural Extension Council Member,,Leland Hathaw
 Monona,AS-BV-CS-CN-KB-TU,County Agricultural Extension Council Member,,Rosa Lynch,,146,41,105
 Monona,BL-FR-SH-SX,County Agricultural Extension Council Member,,Rosa Lynch,,153,40,113
 Monona,Cooper-Maple-Mapleton,County Agricultural Extension Council Member,,Rosa Lynch,,317,55,262
-Monona,FV-GT-LK-LN-RO-WF-WT,County Agricultural Extension Council Member,,Rosa Lynch,,313,82,231
+Monona,FV-GT-LK-LN-RO-WF-WT,County Agricultural Extension Council Member,,Rosa Lynch,,314,83,231
 Monona,JO-MH-SO-SOC-SV-WL,County Agricultural Extension Council Member,,Rosa Lynch,,200,50,150
 Monona,Onawa Ward 1,County Agricultural Extension Council Member,,Rosa Lynch,,65,26,39
 Monona,Onawa Ward 2,County Agricultural Extension Council Member,,Rosa Lynch,,119,48,71
@@ -128,20 +139,20 @@ Monona,BL-FR-SH-SX,County Agricultural Extension Council Member,,Write-In,,12,1,
 Monona,Cooper-Maple-Mapleton,County Agricultural Extension Council Member,,Write-In,,9,1,8
 Monona,FV-GT-LK-LN-RO-WF-WT,County Agricultural Extension Council Member,,Write-In,,17,4,13
 Monona,JO-MH-SO-SOC-SV-WL,County Agricultural Extension Council Member,,Write-In,,14,6,8
-Monona,Onawa Ward 1,County Agricultural Extension Council Member,,Write-In,,6,1,5
+Monona,Onawa Ward 1,County Agricultural Extension Council Member,,Write-In,,5,1,4
 Monona,Onawa Ward 2,County Agricultural Extension Council Member,,Write-In,,3,3,0
-Monona,Onawa Ward 3,County Agricultural Extension Council Member,,Write-In,,5,1,4
+Monona,Onawa Ward 3,County Agricultural Extension Council Member,,Write-In,,4,1,3
 Monona,Onawa Ward 4,County Agricultural Extension Council Member,,Write-In,,2,0,2
 Monona,St. Clair-Ute,County Agricultural Extension Council Member,,Write-In,,3,1,2
 Monona,AS-BV-CS-CN-KB-TU,County Agricultural Extension Council To Fill a Vacancy,,Geri Johnson,,218,67,151
 Monona,BL-FR-SH-SX,County Agricultural Extension Council To Fill a Vacancy,,Geri Johnson,,237,65,172
 Monona,Cooper-Maple-Mapleton,County Agricultural Extension Council To Fill a Vacancy,,Geri Johnson,,450,74,376
-Monona,FV-GT-LK-LN-RO-WF-WT,County Agricultural Extension Council To Fill a Vacancy,,Geri Johnson,,483,119,364
+Monona,FV-GT-LK-LN-RO-WF-WT,County Agricultural Extension Council To Fill a Vacancy,,Geri Johnson,,484,120,364
 Monona,JO-MH-SO-SOC-SV-WL,County Agricultural Extension Council To Fill a Vacancy,,Geri Johnson,,313,81,232
 Monona,Onawa Ward 1,County Agricultural Extension Council To Fill a Vacancy,,Geri Johnson,,119,44,75
 Monona,Onawa Ward 2,County Agricultural Extension Council To Fill a Vacancy,,Geri Johnson,,205,73,132
 Monona,Onawa Ward 3,County Agricultural Extension Council To Fill a Vacancy,,Geri Johnson,,224,84,140
-Monona,Onawa Ward 4,County Agricultural Extension Council To Fill a Vacancy,,Geri Johnson,,163,81,82
+Monona,Onawa Ward 4,County Agricultural Extension Council To Fill a Vacancy,,Geri Johnson,,165,83,82
 Monona,St. Clair-Ute,County Agricultural Extension Council To Fill a Vacancy,,Geri Johnson,,134,20,114
 Monona,AS-BV-CS-CN-KB-TU,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,3,1,2
 Monona,BL-FR-SH-SX,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,4,0,4
@@ -156,12 +167,12 @@ Monona,St. Clair-Ute,County Agricultural Extension Council To Fill a Vacancy,,Wr
 Monona,AS-BV-CS-CN-KB-TU,County Attorney,,Haley Bryan,REP,253,78,175
 Monona,BL-FR-SH-SX,County Attorney,,Haley Bryan,REP,241,60,181
 Monona,Cooper-Maple-Mapleton,County Attorney,,Haley Bryan,REP,523,87,436
-Monona,FV-GT-LK-LN-RO-WF-WT,County Attorney,,Haley Bryan,REP,526,142,384
+Monona,FV-GT-LK-LN-RO-WF-WT,County Attorney,,Haley Bryan,REP,528,144,384
 Monona,JO-MH-SO-SOC-SV-WL,County Attorney,,Haley Bryan,REP,307,68,239
 Monona,Onawa Ward 1,County Attorney,,Haley Bryan,REP,142,45,97
 Monona,Onawa Ward 2,County Attorney,,Haley Bryan,REP,208,69,139
 Monona,Onawa Ward 3,County Attorney,,Haley Bryan,REP,232,84,148
-Monona,Onawa Ward 4,County Attorney,,Haley Bryan,REP,162,79,83
+Monona,Onawa Ward 4,County Attorney,,Haley Bryan,REP,163,80,83
 Monona,St. Clair-Ute,County Attorney,,Haley Bryan,REP,161,19,142
 Monona,AS-BV-CS-CN-KB-TU,County Attorney,,Write-In,,3,0,3
 Monona,BL-FR-SH-SX,County Attorney,,Write-In,,2,1,1
@@ -176,12 +187,12 @@ Monona,St. Clair-Ute,County Attorney,,Write-In,,3,1,2
 Monona,AS-BV-CS-CN-KB-TU,County Recorder,,Kelly K. Parsley,REP,260,76,184
 Monona,BL-FR-SH-SX,County Recorder,,Kelly K. Parsley,REP,254,67,187
 Monona,Cooper-Maple-Mapleton,County Recorder,,Kelly K. Parsley,REP,529,89,440
-Monona,FV-GT-LK-LN-RO-WF-WT,County Recorder,,Kelly K. Parsley,REP,548,149,399
+Monona,FV-GT-LK-LN-RO-WF-WT,County Recorder,,Kelly K. Parsley,REP,550,151,399
 Monona,JO-MH-SO-SOC-SV-WL,County Recorder,,Kelly K. Parsley,REP,320,72,248
 Monona,Onawa Ward 1,County Recorder,,Kelly K. Parsley,REP,148,48,100
 Monona,Onawa Ward 2,County Recorder,,Kelly K. Parsley,REP,217,73,144
 Monona,Onawa Ward 3,County Recorder,,Kelly K. Parsley,REP,239,88,151
-Monona,Onawa Ward 4,County Recorder,,Kelly K. Parsley,REP,171,82,89
+Monona,Onawa Ward 4,County Recorder,,Kelly K. Parsley,REP,172,83,89
 Monona,St. Clair-Ute,County Recorder,,Kelly K. Parsley,REP,164,19,145
 Monona,AS-BV-CS-CN-KB-TU,County Recorder,,Write-In,,2,0,2
 Monona,BL-FR-SH-SX,County Recorder,,Write-In,,1,0,1
@@ -193,7 +204,7 @@ Monona,Onawa Ward 2,County Recorder,,Write-In,,1,1,0
 Monona,Onawa Ward 3,County Recorder,,Write-In,,1,1,0
 Monona,Onawa Ward 4,County Recorder,,Write-In,,1,1,0
 Monona,St. Clair-Ute,County Recorder,,Write-In,,2,1,1
-Monona,Cooper-Maple-Mapleton,County Supervisor,2,Sandra Lee Bubke,REP,299,56,243
+Monona,Cooper-Maple-Mapleton,County Supervisor,2,Sandra Lee Bubke,REP,300,57,243
 Monona,JO-MH-SO-SOC-SV-WL,County Supervisor,2,Sandra Lee Bubke,REP,217,51,166
 Monona,St. Clair-Ute,County Supervisor,2,Sandra Lee Bubke,REP,83,8,75
 Monona,Cooper-Maple-Mapleton,County Supervisor,2,Tom Brouillette,DEM,346,67,279
@@ -209,7 +220,7 @@ Monona,Onawa Ward 4,County Supervisor,3,Heath E. Nelson,,107,55,52
 Monona,Onawa Ward 1,County Supervisor,3,Vincent Phillips,REP,69,22,47
 Monona,Onawa Ward 2,County Supervisor,3,Vincent Phillips,REP,126,38,88
 Monona,Onawa Ward 3,County Supervisor,3,Vincent Phillips,REP,141,59,82
-Monona,Onawa Ward 4,County Supervisor,3,Vincent Phillips,REP,93,45,48
+Monona,Onawa Ward 4,County Supervisor,3,Vincent Phillips,REP,94,46,48
 Monona,Onawa Ward 1,County Supervisor,3,Write-In,,2,1,1
 Monona,Onawa Ward 2,County Supervisor,3,Write-In,,2,2,0
 Monona,Onawa Ward 3,County Supervisor,3,Write-In,,0,0,0
@@ -217,12 +228,12 @@ Monona,Onawa Ward 4,County Supervisor,3,Write-In,,0,0,0
 Monona,AS-BV-CS-CN-KB-TU,County Treasurer,,Abby Riesberg,REP,256,77,179
 Monona,BL-FR-SH-SX,County Treasurer,,Abby Riesberg,REP,244,60,184
 Monona,Cooper-Maple-Mapleton,County Treasurer,,Abby Riesberg,REP,535,90,445
-Monona,FV-GT-LK-LN-RO-WF-WT,County Treasurer,,Abby Riesberg,REP,529,140,389
+Monona,FV-GT-LK-LN-RO-WF-WT,County Treasurer,,Abby Riesberg,REP,531,142,389
 Monona,JO-MH-SO-SOC-SV-WL,County Treasurer,,Abby Riesberg,REP,320,73,247
 Monona,Onawa Ward 1,County Treasurer,,Abby Riesberg,REP,134,40,94
 Monona,Onawa Ward 2,County Treasurer,,Abby Riesberg,REP,200,66,134
 Monona,Onawa Ward 3,County Treasurer,,Abby Riesberg,REP,230,82,148
-Monona,Onawa Ward 4,County Treasurer,,Abby Riesberg,REP,155,75,80
+Monona,Onawa Ward 4,County Treasurer,,Abby Riesberg,REP,156,76,80
 Monona,St. Clair-Ute,County Treasurer,,Abby Riesberg,REP,163,18,145
 Monona,AS-BV-CS-CN-KB-TU,County Treasurer,,Write-In,,4,1,3
 Monona,BL-FR-SH-SX,County Treasurer,,Write-In,,1,0,1
@@ -237,12 +248,12 @@ Monona,St. Clair-Ute,County Treasurer,,Write-In,,3,1,2
 Monona,AS-BV-CS-CN-KB-TU,Court of Appeals Judge - John M. Sandy,,No,,61,27,34
 Monona,BL-FR-SH-SX,Court of Appeals Judge - John M. Sandy,,No,,50,14,36
 Monona,Cooper-Maple-Mapleton,Court of Appeals Judge - John M. Sandy,,No,,100,21,79
-Monona,FV-GT-LK-LN-RO-WF-WT,Court of Appeals Judge - John M. Sandy,,No,,101,22,79
+Monona,FV-GT-LK-LN-RO-WF-WT,Court of Appeals Judge - John M. Sandy,,No,,102,23,79
 Monona,JO-MH-SO-SOC-SV-WL,Court of Appeals Judge - John M. Sandy,,No,,83,23,60
 Monona,Onawa Ward 1,Court of Appeals Judge - John M. Sandy,,No,,32,13,19
 Monona,Onawa Ward 2,Court of Appeals Judge - John M. Sandy,,No,,48,20,28
 Monona,Onawa Ward 3,Court of Appeals Judge - John M. Sandy,,No,,50,18,32
-Monona,Onawa Ward 4,Court of Appeals Judge - John M. Sandy,,No,,34,18,16
+Monona,Onawa Ward 4,Court of Appeals Judge - John M. Sandy,,No,,35,19,16
 Monona,St. Clair-Ute,Court of Appeals Judge - John M. Sandy,,No,,29,5,24
 Monona,AS-BV-CS-CN-KB-TU,Court of Appeals Judge - John M. Sandy,,Yes,,147,40,107
 Monona,BL-FR-SH-SX,Court of Appeals Judge - John M. Sandy,,Yes,,155,35,120
@@ -252,17 +263,17 @@ Monona,JO-MH-SO-SOC-SV-WL,Court of Appeals Judge - John M. Sandy,,Yes,,191,41,15
 Monona,Onawa Ward 1,Court of Appeals Judge - John M. Sandy,,Yes,,72,23,49
 Monona,Onawa Ward 2,Court of Appeals Judge - John M. Sandy,,Yes,,134,44,90
 Monona,Onawa Ward 3,Court of Appeals Judge - John M. Sandy,,Yes,,135,49,86
-Monona,Onawa Ward 4,Court of Appeals Judge - John M. Sandy,,Yes,,100,41,59
+Monona,Onawa Ward 4,Court of Appeals Judge - John M. Sandy,,Yes,,101,42,59
 Monona,St. Clair-Ute,Court of Appeals Judge - John M. Sandy,,Yes,,85,11,74
 Monona,AS-BV-CS-CN-KB-TU,Court of Appeals Judge - Julie A. Schumacher,,No,,54,24,30
 Monona,BL-FR-SH-SX,Court of Appeals Judge - Julie A. Schumacher,,No,,44,13,31
 Monona,Cooper-Maple-Mapleton,Court of Appeals Judge - Julie A. Schumacher,,No,,82,17,65
-Monona,FV-GT-LK-LN-RO-WF-WT,Court of Appeals Judge - Julie A. Schumacher,,No,,94,20,74
+Monona,FV-GT-LK-LN-RO-WF-WT,Court of Appeals Judge - Julie A. Schumacher,,No,,95,21,74
 Monona,JO-MH-SO-SOC-SV-WL,Court of Appeals Judge - Julie A. Schumacher,,No,,81,24,57
 Monona,Onawa Ward 1,Court of Appeals Judge - Julie A. Schumacher,,No,,28,10,18
 Monona,Onawa Ward 2,Court of Appeals Judge - Julie A. Schumacher,,No,,45,20,25
 Monona,Onawa Ward 3,Court of Appeals Judge - Julie A. Schumacher,,No,,37,14,23
-Monona,Onawa Ward 4,Court of Appeals Judge - Julie A. Schumacher,,No,,34,17,17
+Monona,Onawa Ward 4,Court of Appeals Judge - Julie A. Schumacher,,No,,35,18,17
 Monona,St. Clair-Ute,Court of Appeals Judge - Julie A. Schumacher,,No,,23,6,17
 Monona,AS-BV-CS-CN-KB-TU,Court of Appeals Judge - Julie A. Schumacher,,Yes,,162,45,117
 Monona,BL-FR-SH-SX,Court of Appeals Judge - Julie A. Schumacher,,Yes,,165,39,126
@@ -272,7 +283,7 @@ Monona,JO-MH-SO-SOC-SV-WL,Court of Appeals Judge - Julie A. Schumacher,,Yes,,203
 Monona,Onawa Ward 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,82,28,54
 Monona,Onawa Ward 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,144,49,95
 Monona,Onawa Ward 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,153,57,96
-Monona,Onawa Ward 4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,108,46,62
+Monona,Onawa Ward 4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,109,47,62
 Monona,St. Clair-Ute,Court of Appeals Judge - Julie A. Schumacher,,Yes,,105,15,90
 Monona,AS-BV-CS-CN-KB-TU,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,62,24,38
 Monona,BL-FR-SH-SX,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,46,11,35
@@ -282,27 +293,27 @@ Monona,JO-MH-SO-SOC-SV-WL,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,8
 Monona,Onawa Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,32,9,23
 Monona,Onawa Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,53,20,33
 Monona,Onawa Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,50,17,33
-Monona,Onawa Ward 4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,33,14,19
+Monona,Onawa Ward 4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,34,15,19
 Monona,St. Clair-Ute,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,31,6,25
 Monona,AS-BV-CS-CN-KB-TU,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,147,43,104
 Monona,BL-FR-SH-SX,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,156,39,117
 Monona,Cooper-Maple-Mapleton,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,343,53,290
-Monona,FV-GT-LK-LN-RO-WF-WT,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,328,76,252
+Monona,FV-GT-LK-LN-RO-WF-WT,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,329,77,252
 Monona,JO-MH-SO-SOC-SV-WL,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,186,40,146
 Monona,Onawa Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,75,29,46
 Monona,Onawa Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,127,45,82
 Monona,Onawa Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,135,51,84
-Monona,Onawa Ward 4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,101,45,56
+Monona,Onawa Ward 4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,102,46,56
 Monona,St. Clair-Ute,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,83,11,72
 Monona,AS-BV-CS-CN-KB-TU,District 3B Associate Judge - Daniel P. Vakulskas,,No,,59,25,34
 Monona,BL-FR-SH-SX,District 3B Associate Judge - Daniel P. Vakulskas,,No,,45,15,30
 Monona,Cooper-Maple-Mapleton,District 3B Associate Judge - Daniel P. Vakulskas,,No,,103,18,85
-Monona,FV-GT-LK-LN-RO-WF-WT,District 3B Associate Judge - Daniel P. Vakulskas,,No,,110,23,87
+Monona,FV-GT-LK-LN-RO-WF-WT,District 3B Associate Judge - Daniel P. Vakulskas,,No,,111,24,87
 Monona,JO-MH-SO-SOC-SV-WL,District 3B Associate Judge - Daniel P. Vakulskas,,No,,78,22,56
 Monona,Onawa Ward 1,District 3B Associate Judge - Daniel P. Vakulskas,,No,,34,13,21
 Monona,Onawa Ward 2,District 3B Associate Judge - Daniel P. Vakulskas,,No,,51,19,32
 Monona,Onawa Ward 3,District 3B Associate Judge - Daniel P. Vakulskas,,No,,47,16,31
-Monona,Onawa Ward 4,District 3B Associate Judge - Daniel P. Vakulskas,,No,,36,18,18
+Monona,Onawa Ward 4,District 3B Associate Judge - Daniel P. Vakulskas,,No,,37,19,18
 Monona,St. Clair-Ute,District 3B Associate Judge - Daniel P. Vakulskas,,No,,30,4,26
 Monona,AS-BV-CS-CN-KB-TU,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,148,39,109
 Monona,BL-FR-SH-SX,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,158,36,122
@@ -312,17 +323,17 @@ Monona,JO-MH-SO-SOC-SV-WL,District 3B Associate Judge - Daniel P. Vakulskas,,Yes
 Monona,Onawa Ward 1,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,74,26,48
 Monona,Onawa Ward 2,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,136,49,87
 Monona,Onawa Ward 3,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,138,50,88
-Monona,Onawa Ward 4,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,103,43,60
+Monona,Onawa Ward 4,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,104,44,60
 Monona,St. Clair-Ute,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,78,11,67
 Monona,AS-BV-CS-CN-KB-TU,District 3B Associate Judge - John C. Nelson,,No,,57,23,34
 Monona,BL-FR-SH-SX,District 3B Associate Judge - John C. Nelson,,No,,46,13,33
 Monona,Cooper-Maple-Mapleton,District 3B Associate Judge - John C. Nelson,,No,,91,17,74
-Monona,FV-GT-LK-LN-RO-WF-WT,District 3B Associate Judge - John C. Nelson,,No,,100,18,82
+Monona,FV-GT-LK-LN-RO-WF-WT,District 3B Associate Judge - John C. Nelson,,No,,101,19,82
 Monona,JO-MH-SO-SOC-SV-WL,District 3B Associate Judge - John C. Nelson,,No,,74,22,52
 Monona,Onawa Ward 1,District 3B Associate Judge - John C. Nelson,,No,,31,12,19
 Monona,Onawa Ward 2,District 3B Associate Judge - John C. Nelson,,No,,52,21,31
 Monona,Onawa Ward 3,District 3B Associate Judge - John C. Nelson,,No,,45,14,31
-Monona,Onawa Ward 4,District 3B Associate Judge - John C. Nelson,,No,,31,16,15
+Monona,Onawa Ward 4,District 3B Associate Judge - John C. Nelson,,No,,32,17,15
 Monona,St. Clair-Ute,District 3B Associate Judge - John C. Nelson,,No,,24,4,20
 Monona,AS-BV-CS-CN-KB-TU,District 3B Associate Judge - John C. Nelson,,Yes,,147,41,106
 Monona,BL-FR-SH-SX,District 3B Associate Judge - John C. Nelson,,Yes,,153,35,118
@@ -332,17 +343,17 @@ Monona,JO-MH-SO-SOC-SV-WL,District 3B Associate Judge - John C. Nelson,,Yes,,199
 Monona,Onawa Ward 1,District 3B Associate Judge - John C. Nelson,,Yes,,70,23,47
 Monona,Onawa Ward 2,District 3B Associate Judge - John C. Nelson,,Yes,,133,46,87
 Monona,Onawa Ward 3,District 3B Associate Judge - John C. Nelson,,Yes,,137,51,86
-Monona,Onawa Ward 4,District 3B Associate Judge - John C. Nelson,,Yes,,103,42,61
+Monona,Onawa Ward 4,District 3B Associate Judge - John C. Nelson,,Yes,,104,43,61
 Monona,St. Clair-Ute,District 3B Associate Judge - John C. Nelson,,Yes,,82,11,71
 Monona,AS-BV-CS-CN-KB-TU,District 3B Associate Judge - Mark C. Cord,,No,,52,24,28
 Monona,BL-FR-SH-SX,District 3B Associate Judge - Mark C. Cord,,No,,55,16,39
 Monona,Cooper-Maple-Mapleton,District 3B Associate Judge - Mark C. Cord,,No,,87,14,73
-Monona,FV-GT-LK-LN-RO-WF-WT,District 3B Associate Judge - Mark C. Cord,,No,,99,23,76
+Monona,FV-GT-LK-LN-RO-WF-WT,District 3B Associate Judge - Mark C. Cord,,No,,100,24,76
 Monona,JO-MH-SO-SOC-SV-WL,District 3B Associate Judge - Mark C. Cord,,No,,79,22,57
 Monona,Onawa Ward 1,District 3B Associate Judge - Mark C. Cord,,No,,38,11,27
 Monona,Onawa Ward 2,District 3B Associate Judge - Mark C. Cord,,No,,62,26,36
 Monona,Onawa Ward 3,District 3B Associate Judge - Mark C. Cord,,No,,43,17,26
-Monona,Onawa Ward 4,District 3B Associate Judge - Mark C. Cord,,No,,34,16,18
+Monona,Onawa Ward 4,District 3B Associate Judge - Mark C. Cord,,No,,35,17,18
 Monona,St. Clair-Ute,District 3B Associate Judge - Mark C. Cord,,No,,27,6,21
 Monona,AS-BV-CS-CN-KB-TU,District 3B Associate Judge - Mark C. Cord,,Yes,,149,39,110
 Monona,BL-FR-SH-SX,District 3B Associate Judge - Mark C. Cord,,Yes,,145,33,112
@@ -352,7 +363,7 @@ Monona,JO-MH-SO-SOC-SV-WL,District 3B Associate Judge - Mark C. Cord,,Yes,,193,4
 Monona,Onawa Ward 1,District 3B Associate Judge - Mark C. Cord,,Yes,,64,26,38
 Monona,Onawa Ward 2,District 3B Associate Judge - Mark C. Cord,,Yes,,124,41,83
 Monona,Onawa Ward 3,District 3B Associate Judge - Mark C. Cord,,Yes,,138,46,92
-Monona,Onawa Ward 4,District 3B Associate Judge - Mark C. Cord,,Yes,,99,42,57
+Monona,Onawa Ward 4,District 3B Associate Judge - Mark C. Cord,,Yes,,100,43,57
 Monona,St. Clair-Ute,District 3B Associate Judge - Mark C. Cord,,Yes,,81,9,72
 Monona,AS-BV-CS-CN-KB-TU,District 3B Associate Judge - Melinda Wicks,,No,,57,21,36
 Monona,BL-FR-SH-SX,District 3B Associate Judge - Melinda Wicks,,No,,47,16,31
@@ -362,17 +373,17 @@ Monona,JO-MH-SO-SOC-SV-WL,District 3B Associate Judge - Melinda Wicks,,No,,84,24
 Monona,Onawa Ward 1,District 3B Associate Judge - Melinda Wicks,,No,,31,9,22
 Monona,Onawa Ward 2,District 3B Associate Judge - Melinda Wicks,,No,,52,23,29
 Monona,Onawa Ward 3,District 3B Associate Judge - Melinda Wicks,,No,,48,15,33
-Monona,Onawa Ward 4,District 3B Associate Judge - Melinda Wicks,,No,,32,15,17
+Monona,Onawa Ward 4,District 3B Associate Judge - Melinda Wicks,,No,,33,16,17
 Monona,St. Clair-Ute,District 3B Associate Judge - Melinda Wicks,,No,,25,5,20
 Monona,AS-BV-CS-CN-KB-TU,District 3B Associate Judge - Melinda Wicks,,Yes,,143,41,102
 Monona,BL-FR-SH-SX,District 3B Associate Judge - Melinda Wicks,,Yes,,153,33,120
 Monona,Cooper-Maple-Mapleton,District 3B Associate Judge - Melinda Wicks,,Yes,,346,53,293
-Monona,FV-GT-LK-LN-RO-WF-WT,District 3B Associate Judge - Melinda Wicks,,Yes,,334,75,259
+Monona,FV-GT-LK-LN-RO-WF-WT,District 3B Associate Judge - Melinda Wicks,,Yes,,335,76,259
 Monona,JO-MH-SO-SOC-SV-WL,District 3B Associate Judge - Melinda Wicks,,Yes,,189,39,150
 Monona,Onawa Ward 1,District 3B Associate Judge - Melinda Wicks,,Yes,,71,28,43
 Monona,Onawa Ward 2,District 3B Associate Judge - Melinda Wicks,,Yes,,132,42,90
 Monona,Onawa Ward 3,District 3B Associate Judge - Melinda Wicks,,Yes,,136,51,85
-Monona,Onawa Ward 4,District 3B Associate Judge - Melinda Wicks,,Yes,,103,43,60
+Monona,Onawa Ward 4,District 3B Associate Judge - Melinda Wicks,,Yes,,104,44,60
 Monona,St. Clair-Ute,District 3B Associate Judge - Melinda Wicks,,Yes,,82,11,71
 Monona,AS-BV-CS-CN-KB-TU,District 3B Judge - Tod J. Deck,,No,,55,22,33
 Monona,BL-FR-SH-SX,District 3B Judge - Tod J. Deck,,No,,53,16,37
@@ -382,27 +393,27 @@ Monona,JO-MH-SO-SOC-SV-WL,District 3B Judge - Tod J. Deck,,No,,81,22,59
 Monona,Onawa Ward 1,District 3B Judge - Tod J. Deck,,No,,36,13,23
 Monona,Onawa Ward 2,District 3B Judge - Tod J. Deck,,No,,54,22,32
 Monona,Onawa Ward 3,District 3B Judge - Tod J. Deck,,No,,47,19,28
-Monona,Onawa Ward 4,District 3B Judge - Tod J. Deck,,No,,33,15,18
+Monona,Onawa Ward 4,District 3B Judge - Tod J. Deck,,No,,34,16,18
 Monona,St. Clair-Ute,District 3B Judge - Tod J. Deck,,No,,25,5,20
 Monona,AS-BV-CS-CN-KB-TU,District 3B Judge - Tod J. Deck,,Yes,,151,42,109
 Monona,BL-FR-SH-SX,District 3B Judge - Tod J. Deck,,Yes,,149,33,116
 Monona,Cooper-Maple-Mapleton,District 3B Judge - Tod J. Deck,,Yes,,355,49,306
-Monona,FV-GT-LK-LN-RO-WF-WT,District 3B Judge - Tod J. Deck,,Yes,,348,85,263
+Monona,FV-GT-LK-LN-RO-WF-WT,District 3B Judge - Tod J. Deck,,Yes,,349,86,263
 Monona,JO-MH-SO-SOC-SV-WL,District 3B Judge - Tod J. Deck,,Yes,,191,40,151
 Monona,Onawa Ward 1,District 3B Judge - Tod J. Deck,,Yes,,71,26,45
 Monona,Onawa Ward 2,District 3B Judge - Tod J. Deck,,Yes,,132,43,89
 Monona,Onawa Ward 3,District 3B Judge - Tod J. Deck,,Yes,,139,47,92
-Monona,Onawa Ward 4,District 3B Judge - Tod J. Deck,,Yes,,102,44,58
+Monona,Onawa Ward 4,District 3B Judge - Tod J. Deck,,Yes,,103,45,58
 Monona,St. Clair-Ute,District 3B Judge - Tod J. Deck,,Yes,,86,11,75
 Monona,AS-BV-CS-CN-KB-TU,District 3B Judge - Zachary S. Hindman,,No,,55,21,34
 Monona,BL-FR-SH-SX,District 3B Judge - Zachary S. Hindman,,No,,54,16,38
 Monona,Cooper-Maple-Mapleton,District 3B Judge - Zachary S. Hindman,,No,,89,20,69
-Monona,FV-GT-LK-LN-RO-WF-WT,District 3B Judge - Zachary S. Hindman,,No,,98,20,78
+Monona,FV-GT-LK-LN-RO-WF-WT,District 3B Judge - Zachary S. Hindman,,No,,99,21,78
 Monona,JO-MH-SO-SOC-SV-WL,District 3B Judge - Zachary S. Hindman,,No,,73,21,52
 Monona,Onawa Ward 1,District 3B Judge - Zachary S. Hindman,,No,,28,10,18
 Monona,Onawa Ward 2,District 3B Judge - Zachary S. Hindman,,No,,54,23,31
 Monona,Onawa Ward 3,District 3B Judge - Zachary S. Hindman,,No,,41,14,27
-Monona,Onawa Ward 4,District 3B Judge - Zachary S. Hindman,,No,,33,16,17
+Monona,Onawa Ward 4,District 3B Judge - Zachary S. Hindman,,No,,34,17,17
 Monona,St. Clair-Ute,District 3B Judge - Zachary S. Hindman,,No,,23,4,19
 Monona,AS-BV-CS-CN-KB-TU,District 3B Judge - Zachary S. Hindman,,Yes,,152,42,110
 Monona,BL-FR-SH-SX,District 3B Judge - Zachary S. Hindman,,Yes,,147,34,113
@@ -412,7 +423,7 @@ Monona,JO-MH-SO-SOC-SV-WL,District 3B Judge - Zachary S. Hindman,,Yes,,198,41,15
 Monona,Onawa Ward 1,District 3B Judge - Zachary S. Hindman,,Yes,,77,28,49
 Monona,Onawa Ward 2,District 3B Judge - Zachary S. Hindman,,Yes,,133,43,90
 Monona,Onawa Ward 3,District 3B Judge - Zachary S. Hindman,,Yes,,145,50,95
-Monona,Onawa Ward 4,District 3B Judge - Zachary S. Hindman,,Yes,,102,41,61
+Monona,Onawa Ward 4,District 3B Judge - Zachary S. Hindman,,Yes,,103,42,61
 Monona,St. Clair-Ute,District 3B Judge - Zachary S. Hindman,,Yes,,89,11,78
 Monona,AS-BV-CS-CN-KB-TU,Governor,,Rob Sand and Dave Muhlbauer,DEM,117,54,63
 Monona,BL-FR-SH-SX,Governor,,Rob Sand and Dave Muhlbauer,DEM,116,51,65
@@ -422,7 +433,7 @@ Monona,JO-MH-SO-SOC-SV-WL,Governor,,Rob Sand and Dave Muhlbauer,DEM,156,58,98
 Monona,Onawa Ward 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,87,38,49
 Monona,Onawa Ward 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,123,68,55
 Monona,Onawa Ward 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,138,69,69
-Monona,Onawa Ward 4,Governor,,Rob Sand and Dave Muhlbauer,DEM,94,58,36
+Monona,Onawa Ward 4,Governor,,Rob Sand and Dave Muhlbauer,DEM,95,59,36
 Monona,St. Clair-Ute,Governor,,Rob Sand and Dave Muhlbauer,DEM,73,12,61
 Monona,AS-BV-CS-CN-KB-TU,Governor,,Write-In,,0,0,0
 Monona,BL-FR-SH-SX,Governor,,Write-In,,1,0,1
@@ -437,12 +448,12 @@ Monona,St. Clair-Ute,Governor,,Write-In,,0,0,0
 Monona,AS-BV-CS-CN-KB-TU,Governor,,Zach Lahn and Derek Wulf,REP,201,57,144
 Monona,BL-FR-SH-SX,Governor,,Zach Lahn and Derek Wulf,REP,190,42,148
 Monona,Cooper-Maple-Mapleton,Governor,,Zach Lahn and Derek Wulf,REP,418,63,355
-Monona,FV-GT-LK-LN-RO-WF-WT,Governor,,Zach Lahn and Derek Wulf,REP,412,121,291
+Monona,FV-GT-LK-LN-RO-WF-WT,Governor,,Zach Lahn and Derek Wulf,REP,414,123,291
 Monona,JO-MH-SO-SOC-SV-WL,Governor,,Zach Lahn and Derek Wulf,REP,234,55,179
 Monona,Onawa Ward 1,Governor,,Zach Lahn and Derek Wulf,REP,107,32,75
 Monona,Onawa Ward 2,Governor,,Zach Lahn and Derek Wulf,REP,147,42,105
 Monona,Onawa Ward 3,Governor,,Zach Lahn and Derek Wulf,REP,160,55,105
-Monona,Onawa Ward 4,Governor,,Zach Lahn and Derek Wulf,REP,118,52,66
+Monona,Onawa Ward 4,Governor,,Zach Lahn and Derek Wulf,REP,119,53,66
 Monona,St. Clair-Ute,Governor,,Zach Lahn and Derek Wulf,REP,130,19,111
 Monona,AS-BV-CS-CN-KB-TU,Secretary of Agriculture,,Chris Jones,DEM,91,43,48
 Monona,BL-FR-SH-SX,Secretary of Agriculture,,Chris Jones,DEM,88,38,50
@@ -452,17 +463,17 @@ Monona,JO-MH-SO-SOC-SV-WL,Secretary of Agriculture,,Chris Jones,DEM,124,44,80
 Monona,Onawa Ward 1,Secretary of Agriculture,,Chris Jones,DEM,65,29,36
 Monona,Onawa Ward 2,Secretary of Agriculture,,Chris Jones,DEM,98,56,42
 Monona,Onawa Ward 3,Secretary of Agriculture,,Chris Jones,DEM,102,52,50
-Monona,Onawa Ward 4,Secretary of Agriculture,,Chris Jones,DEM,75,46,29
+Monona,Onawa Ward 4,Secretary of Agriculture,,Chris Jones,DEM,76,47,29
 Monona,St. Clair-Ute,Secretary of Agriculture,,Chris Jones,DEM,53,9,44
 Monona,AS-BV-CS-CN-KB-TU,Secretary of Agriculture,,Mike Naig,REP,222,66,156
 Monona,BL-FR-SH-SX,Secretary of Agriculture,,Mike Naig,REP,215,54,161
 Monona,Cooper-Maple-Mapleton,Secretary of Agriculture,,Mike Naig,REP,466,70,396
-Monona,FV-GT-LK-LN-RO-WF-WT,Secretary of Agriculture,,Mike Naig,REP,468,132,336
+Monona,FV-GT-LK-LN-RO-WF-WT,Secretary of Agriculture,,Mike Naig,REP,470,134,336
 Monona,JO-MH-SO-SOC-SV-WL,Secretary of Agriculture,,Mike Naig,REP,260,65,195
 Monona,Onawa Ward 1,Secretary of Agriculture,,Mike Naig,REP,114,33,81
 Monona,Onawa Ward 2,Secretary of Agriculture,,Mike Naig,REP,165,50,115
 Monona,Onawa Ward 3,Secretary of Agriculture,,Mike Naig,REP,187,67,120
-Monona,Onawa Ward 4,Secretary of Agriculture,,Mike Naig,REP,122,54,68
+Monona,Onawa Ward 4,Secretary of Agriculture,,Mike Naig,REP,123,55,68
 Monona,St. Clair-Ute,Secretary of Agriculture,,Mike Naig,REP,146,21,125
 Monona,AS-BV-CS-CN-KB-TU,Secretary of Agriculture,,Write-In,,0,0,0
 Monona,BL-FR-SH-SX,Secretary of Agriculture,,Write-In,,0,0,0
@@ -477,12 +488,12 @@ Monona,St. Clair-Ute,Secretary of Agriculture,,Write-In,,0,0,0
 Monona,AS-BV-CS-CN-KB-TU,Secretary of State,,Paul D. Pate,REP,218,63,155
 Monona,BL-FR-SH-SX,Secretary of State,,Paul D. Pate,REP,206,49,157
 Monona,Cooper-Maple-Mapleton,Secretary of State,,Paul D. Pate,REP,449,68,381
-Monona,FV-GT-LK-LN-RO-WF-WT,Secretary of State,,Paul D. Pate,REP,454,128,326
+Monona,FV-GT-LK-LN-RO-WF-WT,Secretary of State,,Paul D. Pate,REP,456,130,326
 Monona,JO-MH-SO-SOC-SV-WL,Secretary of State,,Paul D. Pate,REP,248,59,189
 Monona,Onawa Ward 1,Secretary of State,,Paul D. Pate,REP,120,35,85
 Monona,Onawa Ward 2,Secretary of State,,Paul D. Pate,REP,164,51,113
 Monona,Onawa Ward 3,Secretary of State,,Paul D. Pate,REP,187,70,117
-Monona,Onawa Ward 4,Secretary of State,,Paul D. Pate,REP,126,55,71
+Monona,Onawa Ward 4,Secretary of State,,Paul D. Pate,REP,127,56,71
 Monona,St. Clair-Ute,Secretary of State,,Paul D. Pate,REP,139,20,119
 Monona,AS-BV-CS-CN-KB-TU,Secretary of State,,Ryan Peterman,DEM,91,45,46
 Monona,BL-FR-SH-SX,Secretary of State,,Ryan Peterman,DEM,95,41,54
@@ -492,7 +503,7 @@ Monona,JO-MH-SO-SOC-SV-WL,Secretary of State,,Ryan Peterman,DEM,133,50,83
 Monona,Onawa Ward 1,Secretary of State,,Ryan Peterman,DEM,66,32,34
 Monona,Onawa Ward 2,Secretary of State,,Ryan Peterman,DEM,97,56,41
 Monona,Onawa Ward 3,Secretary of State,,Ryan Peterman,DEM,101,49,52
-Monona,Onawa Ward 4,Secretary of State,,Ryan Peterman,DEM,77,50,27
+Monona,Onawa Ward 4,Secretary of State,,Ryan Peterman,DEM,78,51,27
 Monona,St. Clair-Ute,Secretary of State,,Ryan Peterman,DEM,59,11,48
 Monona,AS-BV-CS-CN-KB-TU,Secretary of State,,Write-In,,0,0,0
 Monona,BL-FR-SH-SX,Secretary of State,,Write-In,,0,0,0
@@ -512,22 +523,22 @@ Monona,BL-FR-SH-SX,Sioux Township Trustee,,Write-In,,0,0,0
 Monona,AS-BV-CS-CN-KB-TU,Soil and Water Conservation District Commissioner,,T. Eric Brown,,213,69,144
 Monona,BL-FR-SH-SX,Soil and Water Conservation District Commissioner,,T. Eric Brown,,221,65,156
 Monona,Cooper-Maple-Mapleton,Soil and Water Conservation District Commissioner,,T. Eric Brown,,384,63,321
-Monona,FV-GT-LK-LN-RO-WF-WT,Soil and Water Conservation District Commissioner,,T. Eric Brown,,401,108,293
+Monona,FV-GT-LK-LN-RO-WF-WT,Soil and Water Conservation District Commissioner,,T. Eric Brown,,402,109,293
 Monona,JO-MH-SO-SOC-SV-WL,Soil and Water Conservation District Commissioner,,T. Eric Brown,,252,68,184
 Monona,Onawa Ward 1,Soil and Water Conservation District Commissioner,,T. Eric Brown,,109,36,73
 Monona,Onawa Ward 2,Soil and Water Conservation District Commissioner,,T. Eric Brown,,173,74,99
 Monona,Onawa Ward 3,Soil and Water Conservation District Commissioner,,T. Eric Brown,,196,72,124
-Monona,Onawa Ward 4,Soil and Water Conservation District Commissioner,,T. Eric Brown,,130,60,70
+Monona,Onawa Ward 4,Soil and Water Conservation District Commissioner,,T. Eric Brown,,131,61,70
 Monona,St. Clair-Ute,Soil and Water Conservation District Commissioner,,T. Eric Brown,,101,17,84
 Monona,AS-BV-CS-CN-KB-TU,Soil and Water Conservation District Commissioner,,Wray J. Wright,,168,54,114
 Monona,BL-FR-SH-SX,Soil and Water Conservation District Commissioner,,Wray J. Wright,,171,45,126
 Monona,Cooper-Maple-Mapleton,Soil and Water Conservation District Commissioner,,Wray J. Wright,,395,64,331
-Monona,FV-GT-LK-LN-RO-WF-WT,Soil and Water Conservation District Commissioner,,Wray J. Wright,,397,107,290
+Monona,FV-GT-LK-LN-RO-WF-WT,Soil and Water Conservation District Commissioner,,Wray J. Wright,,399,109,290
 Monona,JO-MH-SO-SOC-SV-WL,Soil and Water Conservation District Commissioner,,Wray J. Wright,,246,57,189
 Monona,Onawa Ward 1,Soil and Water Conservation District Commissioner,,Wray J. Wright,,78,32,46
 Monona,Onawa Ward 2,Soil and Water Conservation District Commissioner,,Wray J. Wright,,136,49,87
 Monona,Onawa Ward 3,Soil and Water Conservation District Commissioner,,Wray J. Wright,,156,59,97
-Monona,Onawa Ward 4,Soil and Water Conservation District Commissioner,,Wray J. Wright,,105,45,60
+Monona,Onawa Ward 4,Soil and Water Conservation District Commissioner,,Wray J. Wright,,106,46,60
 Monona,St. Clair-Ute,Soil and Water Conservation District Commissioner,,Wray J. Wright,,102,14,88
 Monona,AS-BV-CS-CN-KB-TU,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
 Monona,BL-FR-SH-SX,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
@@ -547,12 +558,12 @@ Monona,JO-MH-SO-SOC-SV-WL,Soldier Township Trustee,,Write-In,,0,0,0
 Monona,AS-BV-CS-CN-KB-TU,State House,13,Travis M. Sitzmann,REP,234,66,168
 Monona,BL-FR-SH-SX,State House,13,Travis M. Sitzmann,REP,236,58,178
 Monona,Cooper-Maple-Mapleton,State House,13,Travis M. Sitzmann,REP,500,72,428
-Monona,FV-GT-LK-LN-RO-WF-WT,State House,13,Travis M. Sitzmann,REP,508,132,376
+Monona,FV-GT-LK-LN-RO-WF-WT,State House,13,Travis M. Sitzmann,REP,510,134,376
 Monona,JO-MH-SO-SOC-SV-WL,State House,13,Travis M. Sitzmann,REP,295,67,228
 Monona,Onawa Ward 1,State House,13,Travis M. Sitzmann,REP,136,43,93
 Monona,Onawa Ward 2,State House,13,Travis M. Sitzmann,REP,200,64,136
 Monona,Onawa Ward 3,State House,13,Travis M. Sitzmann,REP,211,72,139
-Monona,Onawa Ward 4,State House,13,Travis M. Sitzmann,REP,147,65,82
+Monona,Onawa Ward 4,State House,13,Travis M. Sitzmann,REP,148,66,82
 Monona,St. Clair-Ute,State House,13,Travis M. Sitzmann,REP,154,18,136
 Monona,AS-BV-CS-CN-KB-TU,State House,13,Write-In,,3,0,3
 Monona,BL-FR-SH-SX,State House,13,Write-In,,2,0,2
@@ -567,12 +578,12 @@ Monona,St. Clair-Ute,State House,13,Write-In,,2,1,1
 Monona,AS-BV-CS-CN-KB-TU,State Senate,7,Kevin Alons,REP,234,65,169
 Monona,BL-FR-SH-SX,State Senate,7,Kevin Alons,REP,231,55,176
 Monona,Cooper-Maple-Mapleton,State Senate,7,Kevin Alons,REP,510,77,433
-Monona,FV-GT-LK-LN-RO-WF-WT,State Senate,7,Kevin Alons,REP,512,135,377
+Monona,FV-GT-LK-LN-RO-WF-WT,State Senate,7,Kevin Alons,REP,514,137,377
 Monona,JO-MH-SO-SOC-SV-WL,State Senate,7,Kevin Alons,REP,301,70,231
 Monona,Onawa Ward 1,State Senate,7,Kevin Alons,REP,136,43,93
 Monona,Onawa Ward 2,State Senate,7,Kevin Alons,REP,195,61,134
 Monona,Onawa Ward 3,State Senate,7,Kevin Alons,REP,206,68,138
-Monona,Onawa Ward 4,State Senate,7,Kevin Alons,REP,144,63,81
+Monona,Onawa Ward 4,State Senate,7,Kevin Alons,REP,145,64,81
 Monona,St. Clair-Ute,State Senate,7,Kevin Alons,REP,157,19,138
 Monona,AS-BV-CS-CN-KB-TU,State Senate,7,Write-In,,5,0,5
 Monona,BL-FR-SH-SX,State Senate,7,Write-In,,2,0,2
@@ -592,17 +603,17 @@ Monona,JO-MH-SO-SOC-SV-WL,Treasurer of State,,John Norwood,DEM,133,50,83
 Monona,Onawa Ward 1,Treasurer of State,,John Norwood,DEM,74,34,40
 Monona,Onawa Ward 2,Treasurer of State,,John Norwood,DEM,102,59,43
 Monona,Onawa Ward 3,Treasurer of State,,John Norwood,DEM,107,54,53
-Monona,Onawa Ward 4,Treasurer of State,,John Norwood,DEM,74,48,26
+Monona,Onawa Ward 4,Treasurer of State,,John Norwood,DEM,75,49,26
 Monona,St. Clair-Ute,Treasurer of State,,John Norwood,DEM,59,12,47
 Monona,AS-BV-CS-CN-KB-TU,Treasurer of State,,Roby Smith,REP,206,59,147
 Monona,BL-FR-SH-SX,Treasurer of State,,Roby Smith,REP,201,49,152
 Monona,Cooper-Maple-Mapleton,Treasurer of State,,Roby Smith,REP,425,62,363
-Monona,FV-GT-LK-LN-RO-WF-WT,Treasurer of State,,Roby Smith,REP,448,130,318
+Monona,FV-GT-LK-LN-RO-WF-WT,Treasurer of State,,Roby Smith,REP,450,132,318
 Monona,JO-MH-SO-SOC-SV-WL,Treasurer of State,,Roby Smith,REP,244,58,186
 Monona,Onawa Ward 1,Treasurer of State,,Roby Smith,REP,111,31,80
 Monona,Onawa Ward 2,Treasurer of State,,Roby Smith,REP,157,46,111
 Monona,Onawa Ward 3,Treasurer of State,,Roby Smith,REP,176,64,112
-Monona,Onawa Ward 4,Treasurer of State,,Roby Smith,REP,122,52,70
+Monona,Onawa Ward 4,Treasurer of State,,Roby Smith,REP,123,53,70
 Monona,St. Clair-Ute,Treasurer of State,,Roby Smith,REP,136,17,119
 Monona,AS-BV-CS-CN-KB-TU,Treasurer of State,,Write-In,,0,0,0
 Monona,BL-FR-SH-SX,Treasurer of State,,Write-In,,0,0,0
@@ -617,12 +628,12 @@ Monona,St. Clair-Ute,Treasurer of State,,Write-In,,0,0,0
 Monona,AS-BV-CS-CN-KB-TU,U.S. House,4,Chris McGowan,REP,215,57,158
 Monona,BL-FR-SH-SX,U.S. House,4,Chris McGowan,REP,204,48,156
 Monona,Cooper-Maple-Mapleton,U.S. House,4,Chris McGowan,REP,432,60,372
-Monona,FV-GT-LK-LN-RO-WF-WT,U.S. House,4,Chris McGowan,REP,450,129,321
+Monona,FV-GT-LK-LN-RO-WF-WT,U.S. House,4,Chris McGowan,REP,452,131,321
 Monona,JO-MH-SO-SOC-SV-WL,U.S. House,4,Chris McGowan,REP,241,55,186
 Monona,Onawa Ward 1,U.S. House,4,Chris McGowan,REP,112,33,79
 Monona,Onawa Ward 2,U.S. House,4,Chris McGowan,REP,160,46,114
 Monona,Onawa Ward 3,U.S. House,4,Chris McGowan,REP,186,65,121
-Monona,Onawa Ward 4,U.S. House,4,Chris McGowan,REP,119,51,68
+Monona,Onawa Ward 4,U.S. House,4,Chris McGowan,REP,120,52,68
 Monona,St. Clair-Ute,U.S. House,4,Chris McGowan,REP,135,18,117
 Monona,AS-BV-CS-CN-KB-TU,U.S. House,4,Dave Dawson,DEM,95,49,46
 Monona,BL-FR-SH-SX,U.S. House,4,Dave Dawson,DEM,95,40,55
@@ -632,7 +643,7 @@ Monona,JO-MH-SO-SOC-SV-WL,U.S. House,4,Dave Dawson,DEM,135,49,86
 Monona,Onawa Ward 1,U.S. House,4,Dave Dawson,DEM,68,32,36
 Monona,Onawa Ward 2,U.S. House,4,Dave Dawson,DEM,103,57,46
 Monona,Onawa Ward 3,U.S. House,4,Dave Dawson,DEM,98,52,46
-Monona,Onawa Ward 4,U.S. House,4,Dave Dawson,DEM,77,47,30
+Monona,Onawa Ward 4,U.S. House,4,Dave Dawson,DEM,78,48,30
 Monona,St. Clair-Ute,U.S. House,4,Dave Dawson,DEM,62,12,50
 Monona,AS-BV-CS-CN-KB-TU,U.S. House,4,Write-In,,0,0,0
 Monona,BL-FR-SH-SX,U.S. House,4,Write-In,,0,0,0
@@ -647,12 +658,12 @@ Monona,St. Clair-Ute,U.S. House,4,Write-In,,1,0,1
 Monona,AS-BV-CS-CN-KB-TU,U.S. Senate,,Ashley Hinson,REP,197,54,143
 Monona,BL-FR-SH-SX,U.S. Senate,,Ashley Hinson,REP,189,46,143
 Monona,Cooper-Maple-Mapleton,U.S. Senate,,Ashley Hinson,REP,378,53,325
-Monona,FV-GT-LK-LN-RO-WF-WT,U.S. Senate,,Ashley Hinson,REP,428,124,304
+Monona,FV-GT-LK-LN-RO-WF-WT,U.S. Senate,,Ashley Hinson,REP,430,126,304
 Monona,JO-MH-SO-SOC-SV-WL,U.S. Senate,,Ashley Hinson,REP,227,50,177
 Monona,Onawa Ward 1,U.S. Senate,,Ashley Hinson,REP,104,34,70
 Monona,Onawa Ward 2,U.S. Senate,,Ashley Hinson,REP,145,39,106
 Monona,Onawa Ward 3,U.S. Senate,,Ashley Hinson,REP,164,56,108
-Monona,Onawa Ward 4,U.S. Senate,,Ashley Hinson,REP,110,47,63
+Monona,Onawa Ward 4,U.S. Senate,,Ashley Hinson,REP,111,48,63
 Monona,St. Clair-Ute,U.S. Senate,,Ashley Hinson,REP,129,17,112
 Monona,AS-BV-CS-CN-KB-TU,U.S. Senate,,Josh Turek,DEM,101,50,51
 Monona,BL-FR-SH-SX,U.S. Senate,,Josh Turek,DEM,99,44,55
@@ -662,7 +673,7 @@ Monona,JO-MH-SO-SOC-SV-WL,U.S. Senate,,Josh Turek,DEM,137,51,86
 Monona,Onawa Ward 1,U.S. Senate,,Josh Turek,DEM,75,33,42
 Monona,Onawa Ward 2,U.S. Senate,,Josh Turek,DEM,111,62,49
 Monona,Onawa Ward 3,U.S. Senate,,Josh Turek,DEM,107,52,55
-Monona,Onawa Ward 4,U.S. Senate,,Josh Turek,DEM,82,51,31
+Monona,Onawa Ward 4,U.S. Senate,,Josh Turek,DEM,83,52,31
 Monona,St. Clair-Ute,U.S. Senate,,Josh Turek,DEM,63,13,50
 Monona,AS-BV-CS-CN-KB-TU,U.S. Senate,,Thomas Laehn,LIB,17,5,12
 Monona,BL-FR-SH-SX,U.S. Senate,,Thomas Laehn,LIB,15,1,14

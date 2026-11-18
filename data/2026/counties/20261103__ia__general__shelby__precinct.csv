@@ -1,6 +1,6 @@
 county,precinct,office,district,candidate,party,votes,absentee,election_day
-Shelby,Cass-Lincoln,Attorney General,,Brenna Bird,REP,248,101,147
-Shelby,Center-Jackson,Attorney General,,Brenna Bird,REP,260,112,148
+Shelby,Cass-Lincoln,Attorney General,,Brenna Bird,REP,249,102,147
+Shelby,Center-Jackson,Attorney General,,Brenna Bird,REP,261,112,149
 Shelby,Clay-Monroe,Attorney General,,Brenna Bird,REP,334,107,227
 Shelby,Douglas-Polk,Attorney General,,Brenna Bird,REP,136,49,87
 Shelby,Fairview-Shelby,Attorney General,,Brenna Bird,REP,318,88,230
@@ -32,8 +32,8 @@ Shelby,Harlan Ward 1,Attorney General,,Write-In,,2,0,2
 Shelby,Harlan Ward 2,Attorney General,,Write-In,,0,0,0
 Shelby,Harlan Ward 3,Attorney General,,Write-In,,1,0,1
 Shelby,Harlan Ward 4,Attorney General,,Write-In,,0,0,0
-Shelby,Cass-Lincoln,Auditor of State,,Chris Cournoyer,REP,253,106,147
-Shelby,Center-Jackson,Auditor of State,,Chris Cournoyer,REP,261,109,152
+Shelby,Cass-Lincoln,Auditor of State,,Chris Cournoyer,REP,254,107,147
+Shelby,Center-Jackson,Auditor of State,,Chris Cournoyer,REP,262,109,153
 Shelby,Clay-Monroe,Auditor of State,,Chris Cournoyer,REP,330,106,224
 Shelby,Douglas-Polk,Auditor of State,,Chris Cournoyer,REP,136,50,86
 Shelby,Fairview-Shelby,Auditor of State,,Chris Cournoyer,REP,314,80,234
@@ -82,7 +82,7 @@ Shelby,Harlan Ward 1,Constitutional Amendment 1,,No,,108,57,51
 Shelby,Harlan Ward 2,Constitutional Amendment 1,,No,,150,71,79
 Shelby,Harlan Ward 3,Constitutional Amendment 1,,No,,171,81,90
 Shelby,Harlan Ward 4,Constitutional Amendment 1,,No,,98,43,55
-Shelby,Cass-Lincoln,Constitutional Amendment 1,,Yes,,195,78,117
+Shelby,Cass-Lincoln,Constitutional Amendment 1,,Yes,,196,79,117
 Shelby,Center-Jackson,Constitutional Amendment 1,,Yes,,183,74,109
 Shelby,Clay-Monroe,Constitutional Amendment 1,,Yes,,273,94,179
 Shelby,Douglas-Polk,Constitutional Amendment 1,,Yes,,106,48,58
@@ -94,7 +94,7 @@ Shelby,Harlan Ward 2,Constitutional Amendment 1,,Yes,,323,127,196
 Shelby,Harlan Ward 3,Constitutional Amendment 1,,Yes,,286,136,150
 Shelby,Harlan Ward 4,Constitutional Amendment 1,,Yes,,196,98,98
 Shelby,Cass-Lincoln,County Agricultural Extension Council Member,,Amy M. McLaughlin,,191,89,102
-Shelby,Center-Jackson,County Agricultural Extension Council Member,,Amy M. McLaughlin,,200,99,101
+Shelby,Center-Jackson,County Agricultural Extension Council Member,,Amy M. McLaughlin,,201,99,102
 Shelby,Clay-Monroe,County Agricultural Extension Council Member,,Amy M. McLaughlin,,251,80,171
 Shelby,Douglas-Polk,County Agricultural Extension Council Member,,Amy M. McLaughlin,,87,40,47
 Shelby,Fairview-Shelby,County Agricultural Extension Council Member,,Amy M. McLaughlin,,212,64,148
@@ -148,7 +148,7 @@ Shelby,Harlan Ward 1,County Agricultural Extension Council Member,,Mollie Hack,,
 Shelby,Harlan Ward 2,County Agricultural Extension Council Member,,Mollie Hack,,306,133,173
 Shelby,Harlan Ward 3,County Agricultural Extension Council Member,,Mollie Hack,,321,153,168
 Shelby,Harlan Ward 4,County Agricultural Extension Council Member,,Mollie Hack,,166,88,78
-Shelby,Cass-Lincoln,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Shelby,Cass-Lincoln,County Agricultural Extension Council Member,,Write-In,,6,4,2
 Shelby,Center-Jackson,County Agricultural Extension Council Member,,Write-In,,0,0,0
 Shelby,Clay-Monroe,County Agricultural Extension Council Member,,Write-In,,0,0,0
 Shelby,Douglas-Polk,County Agricultural Extension Council Member,,Write-In,,0,0,0
@@ -159,8 +159,8 @@ Shelby,Harlan Ward 1,County Agricultural Extension Council Member,,Write-In,,1,0
 Shelby,Harlan Ward 2,County Agricultural Extension Council Member,,Write-In,,2,1,1
 Shelby,Harlan Ward 3,County Agricultural Extension Council Member,,Write-In,,2,0,2
 Shelby,Harlan Ward 4,County Agricultural Extension Council Member,,Write-In,,1,0,1
-Shelby,Cass-Lincoln,County Attorney,,Marcus Gross Jr.,DEM,230,113,117
-Shelby,Center-Jackson,County Attorney,,Marcus Gross Jr.,DEM,212,105,107
+Shelby,Cass-Lincoln,County Attorney,,Marcus Gross Jr.,DEM,231,114,117
+Shelby,Center-Jackson,County Attorney,,Marcus Gross Jr.,DEM,213,105,108
 Shelby,Clay-Monroe,County Attorney,,Marcus Gross Jr.,DEM,289,79,210
 Shelby,Douglas-Polk,County Attorney,,Marcus Gross Jr.,DEM,106,49,57
 Shelby,Fairview-Shelby,County Attorney,,Marcus Gross Jr.,DEM,283,72,211
@@ -181,8 +181,8 @@ Shelby,Harlan Ward 1,County Attorney,,Write-In,,14,7,7
 Shelby,Harlan Ward 2,County Attorney,,Write-In,,15,5,10
 Shelby,Harlan Ward 3,County Attorney,,Write-In,,11,2,9
 Shelby,Harlan Ward 4,County Attorney,,Write-In,,14,3,11
-Shelby,Cass-Lincoln,County Board of Supervisors,,Bryce Schaben,REP,293,133,160
-Shelby,Center-Jackson,County Board of Supervisors,,Bryce Schaben,REP,297,132,165
+Shelby,Cass-Lincoln,County Board of Supervisors,,Bryce Schaben,REP,294,134,160
+Shelby,Center-Jackson,County Board of Supervisors,,Bryce Schaben,REP,298,132,166
 Shelby,Clay-Monroe,County Board of Supervisors,,Bryce Schaben,REP,353,114,239
 Shelby,Douglas-Polk,County Board of Supervisors,,Bryce Schaben,REP,151,60,91
 Shelby,Fairview-Shelby,County Board of Supervisors,,Bryce Schaben,REP,263,74,189
@@ -248,7 +248,7 @@ Shelby,Harlan Ward 2,County Hospital Trustee,,Jim Zimmerman,,431,192,239
 Shelby,Harlan Ward 3,County Hospital Trustee,,Jim Zimmerman,,451,224,227
 Shelby,Harlan Ward 4,County Hospital Trustee,,Jim Zimmerman,,269,146,123
 Shelby,Cass-Lincoln,County Hospital Trustee,,Kathleen Kohorst,,261,126,135
-Shelby,Center-Jackson,County Hospital Trustee,,Kathleen Kohorst,,257,133,124
+Shelby,Center-Jackson,County Hospital Trustee,,Kathleen Kohorst,,258,133,125
 Shelby,Clay-Monroe,County Hospital Trustee,,Kathleen Kohorst,,290,88,202
 Shelby,Douglas-Polk,County Hospital Trustee,,Kathleen Kohorst,,119,52,67
 Shelby,Fairview-Shelby,County Hospital Trustee,,Kathleen Kohorst,,249,79,170
@@ -269,8 +269,8 @@ Shelby,Harlan Ward 1,County Hospital Trustee,,Write-In,,3,0,3
 Shelby,Harlan Ward 2,County Hospital Trustee,,Write-In,,2,1,1
 Shelby,Harlan Ward 3,County Hospital Trustee,,Write-In,,2,0,2
 Shelby,Harlan Ward 4,County Hospital Trustee,,Write-In,,1,1,0
-Shelby,Cass-Lincoln,County Recorder,,Geralyn S. Greer,REP,314,144,170
-Shelby,Center-Jackson,County Recorder,,Geralyn S. Greer,REP,317,149,168
+Shelby,Cass-Lincoln,County Recorder,,Geralyn S. Greer,REP,315,145,170
+Shelby,Center-Jackson,County Recorder,,Geralyn S. Greer,REP,318,149,169
 Shelby,Clay-Monroe,County Recorder,,Geralyn S. Greer,REP,419,135,284
 Shelby,Douglas-Polk,County Recorder,,Geralyn S. Greer,REP,154,64,90
 Shelby,Fairview-Shelby,County Recorder,,Geralyn S. Greer,REP,375,102,273
@@ -291,8 +291,8 @@ Shelby,Harlan Ward 1,County Recorder,,Write-In,,1,0,1
 Shelby,Harlan Ward 2,County Recorder,,Write-In,,1,0,1
 Shelby,Harlan Ward 3,County Recorder,,Write-In,,2,0,2
 Shelby,Harlan Ward 4,County Recorder,,Write-In,,7,2,5
-Shelby,Cass-Lincoln,County Treasurer,,Carolyn Blum,REP,318,149,169
-Shelby,Center-Jackson,County Treasurer,,Carolyn Blum,REP,305,139,166
+Shelby,Cass-Lincoln,County Treasurer,,Carolyn Blum,REP,319,150,169
+Shelby,Center-Jackson,County Treasurer,,Carolyn Blum,REP,306,139,167
 Shelby,Clay-Monroe,County Treasurer,,Carolyn Blum,REP,437,135,302
 Shelby,Douglas-Polk,County Treasurer,,Carolyn Blum,REP,155,60,95
 Shelby,Fairview-Shelby,County Treasurer,,Carolyn Blum,REP,395,103,292
@@ -313,7 +313,7 @@ Shelby,Harlan Ward 1,County Treasurer,,Write-In,,2,1,1
 Shelby,Harlan Ward 2,County Treasurer,,Write-In,,4,1,3
 Shelby,Harlan Ward 3,County Treasurer,,Write-In,,6,1,5
 Shelby,Harlan Ward 4,County Treasurer,,Write-In,,7,2,5
-Shelby,Cass-Lincoln,Court of Appeals Judge - John M. Sandy,,No,,55,19,36
+Shelby,Cass-Lincoln,Court of Appeals Judge - John M. Sandy,,No,,56,20,36
 Shelby,Center-Jackson,Court of Appeals Judge - John M. Sandy,,No,,58,27,31
 Shelby,Clay-Monroe,Court of Appeals Judge - John M. Sandy,,No,,77,20,57
 Shelby,Douglas-Polk,Court of Appeals Judge - John M. Sandy,,No,,25,9,16
@@ -325,7 +325,7 @@ Shelby,Harlan Ward 2,Court of Appeals Judge - John M. Sandy,,No,,92,37,55
 Shelby,Harlan Ward 3,Court of Appeals Judge - John M. Sandy,,No,,89,33,56
 Shelby,Harlan Ward 4,Court of Appeals Judge - John M. Sandy,,No,,71,24,47
 Shelby,Cass-Lincoln,Court of Appeals Judge - John M. Sandy,,Yes,,146,62,84
-Shelby,Center-Jackson,Court of Appeals Judge - John M. Sandy,,Yes,,149,62,87
+Shelby,Center-Jackson,Court of Appeals Judge - John M. Sandy,,Yes,,150,62,88
 Shelby,Clay-Monroe,Court of Appeals Judge - John M. Sandy,,Yes,,195,68,127
 Shelby,Douglas-Polk,Court of Appeals Judge - John M. Sandy,,Yes,,54,25,29
 Shelby,Fairview-Shelby,Court of Appeals Judge - John M. Sandy,,Yes,,144,35,109
@@ -335,8 +335,8 @@ Shelby,Harlan Ward 1,Court of Appeals Judge - John M. Sandy,,Yes,,177,77,100
 Shelby,Harlan Ward 2,Court of Appeals Judge - John M. Sandy,,Yes,,265,101,164
 Shelby,Harlan Ward 3,Court of Appeals Judge - John M. Sandy,,Yes,,267,127,140
 Shelby,Harlan Ward 4,Court of Appeals Judge - John M. Sandy,,Yes,,148,70,78
-Shelby,Cass-Lincoln,Court of Appeals Judge - Julie A. Schumacher,,No,,46,13,33
-Shelby,Center-Jackson,Court of Appeals Judge - Julie A. Schumacher,,No,,54,23,31
+Shelby,Cass-Lincoln,Court of Appeals Judge - Julie A. Schumacher,,No,,47,14,33
+Shelby,Center-Jackson,Court of Appeals Judge - Julie A. Schumacher,,No,,55,23,32
 Shelby,Clay-Monroe,Court of Appeals Judge - Julie A. Schumacher,,No,,72,20,52
 Shelby,Douglas-Polk,Court of Appeals Judge - Julie A. Schumacher,,No,,22,7,15
 Shelby,Fairview-Shelby,Court of Appeals Judge - Julie A. Schumacher,,No,,83,13,70
@@ -357,7 +357,7 @@ Shelby,Harlan Ward 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,198,84,1
 Shelby,Harlan Ward 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,283,111,172
 Shelby,Harlan Ward 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,293,136,157
 Shelby,Harlan Ward 4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,174,85,89
-Shelby,Cass-Lincoln,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,46,13,33
+Shelby,Cass-Lincoln,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,47,14,33
 Shelby,Center-Jackson,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,63,25,38
 Shelby,Clay-Monroe,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,76,26,50
 Shelby,Douglas-Polk,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,23,9,14
@@ -369,7 +369,7 @@ Shelby,Harlan Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,88,31,
 Shelby,Harlan Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,74,29,45
 Shelby,Harlan Ward 4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,67,19,48
 Shelby,Cass-Lincoln,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,169,78,91
-Shelby,Center-Jackson,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,156,67,89
+Shelby,Center-Jackson,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,157,67,90
 Shelby,Clay-Monroe,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,207,62,145
 Shelby,Douglas-Polk,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,60,26,34
 Shelby,Fairview-Shelby,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,159,41,118
@@ -379,8 +379,8 @@ Shelby,Harlan Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,188,8
 Shelby,Harlan Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,285,115,170
 Shelby,Harlan Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,295,137,158
 Shelby,Harlan Ward 4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,166,83,83
-Shelby,Cass-Lincoln,District 4 Associate Judge - Ashley N. West-Joons,,No,,69,27,42
-Shelby,Center-Jackson,District 4 Associate Judge - Ashley N. West-Joons,,No,,60,25,35
+Shelby,Cass-Lincoln,District 4 Associate Judge - Ashley N. West-Joons,,No,,70,28,42
+Shelby,Center-Jackson,District 4 Associate Judge - Ashley N. West-Joons,,No,,61,25,36
 Shelby,Clay-Monroe,District 4 Associate Judge - Ashley N. West-Joons,,No,,80,28,52
 Shelby,Douglas-Polk,District 4 Associate Judge - Ashley N. West-Joons,,No,,31,12,19
 Shelby,Fairview-Shelby,District 4 Associate Judge - Ashley N. West-Joons,,No,,89,15,74
@@ -401,7 +401,7 @@ Shelby,Harlan Ward 1,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,175
 Shelby,Harlan Ward 2,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,252,94,158
 Shelby,Harlan Ward 3,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,260,118,142
 Shelby,Harlan Ward 4,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,150,70,80
-Shelby,Cass-Lincoln,District 4 Associate Judge - Matthew A. Schuling,,No,,54,17,37
+Shelby,Cass-Lincoln,District 4 Associate Judge - Matthew A. Schuling,,No,,55,18,37
 Shelby,Center-Jackson,District 4 Associate Judge - Matthew A. Schuling,,No,,58,27,31
 Shelby,Clay-Monroe,District 4 Associate Judge - Matthew A. Schuling,,No,,75,23,52
 Shelby,Douglas-Polk,District 4 Associate Judge - Matthew A. Schuling,,No,,25,8,17
@@ -413,7 +413,7 @@ Shelby,Harlan Ward 2,District 4 Associate Judge - Matthew A. Schuling,,No,,91,34
 Shelby,Harlan Ward 3,District 4 Associate Judge - Matthew A. Schuling,,No,,79,29,50
 Shelby,Harlan Ward 4,District 4 Associate Judge - Matthew A. Schuling,,No,,75,24,51
 Shelby,Cass-Lincoln,District 4 Associate Judge - Matthew A. Schuling,,Yes,,150,67,83
-Shelby,Center-Jackson,District 4 Associate Judge - Matthew A. Schuling,,Yes,,144,57,87
+Shelby,Center-Jackson,District 4 Associate Judge - Matthew A. Schuling,,Yes,,145,57,88
 Shelby,Clay-Monroe,District 4 Associate Judge - Matthew A. Schuling,,Yes,,190,61,129
 Shelby,Douglas-Polk,District 4 Associate Judge - Matthew A. Schuling,,Yes,,56,26,30
 Shelby,Fairview-Shelby,District 4 Associate Judge - Matthew A. Schuling,,Yes,,147,36,111
@@ -423,7 +423,7 @@ Shelby,Harlan Ward 1,District 4 Associate Judge - Matthew A. Schuling,,Yes,,179,
 Shelby,Harlan Ward 2,District 4 Associate Judge - Matthew A. Schuling,,Yes,,254,95,159
 Shelby,Harlan Ward 3,District 4 Associate Judge - Matthew A. Schuling,,Yes,,274,129,145
 Shelby,Harlan Ward 4,District 4 Associate Judge - Matthew A. Schuling,,Yes,,144,73,71
-Shelby,Cass-Lincoln,District 4 Associate Judge - Scott Strait,,No,,57,20,37
+Shelby,Cass-Lincoln,District 4 Associate Judge - Scott Strait,,No,,58,21,37
 Shelby,Center-Jackson,District 4 Associate Judge - Scott Strait,,No,,56,27,29
 Shelby,Clay-Monroe,District 4 Associate Judge - Scott Strait,,No,,77,27,50
 Shelby,Douglas-Polk,District 4 Associate Judge - Scott Strait,,No,,27,9,18
@@ -435,7 +435,7 @@ Shelby,Harlan Ward 2,District 4 Associate Judge - Scott Strait,,No,,86,31,55
 Shelby,Harlan Ward 3,District 4 Associate Judge - Scott Strait,,No,,79,30,49
 Shelby,Harlan Ward 4,District 4 Associate Judge - Scott Strait,,No,,70,22,48
 Shelby,Cass-Lincoln,District 4 Associate Judge - Scott Strait,,Yes,,148,66,82
-Shelby,Center-Jackson,District 4 Associate Judge - Scott Strait,,Yes,,150,60,90
+Shelby,Center-Jackson,District 4 Associate Judge - Scott Strait,,Yes,,151,60,91
 Shelby,Clay-Monroe,District 4 Associate Judge - Scott Strait,,Yes,,190,61,129
 Shelby,Douglas-Polk,District 4 Associate Judge - Scott Strait,,Yes,,49,21,28
 Shelby,Fairview-Shelby,District 4 Associate Judge - Scott Strait,,Yes,,148,37,111
@@ -445,8 +445,8 @@ Shelby,Harlan Ward 1,District 4 Associate Judge - Scott Strait,,Yes,,173,73,100
 Shelby,Harlan Ward 2,District 4 Associate Judge - Scott Strait,,Yes,,256,98,158
 Shelby,Harlan Ward 3,District 4 Associate Judge - Scott Strait,,Yes,,273,127,146
 Shelby,Harlan Ward 4,District 4 Associate Judge - Scott Strait,,Yes,,147,71,76
-Shelby,Cass-Lincoln,District 4 Judge - Amy L. Zacharias,,No,,31,11,20
-Shelby,Center-Jackson,District 4 Judge - Amy L. Zacharias,,No,,51,21,30
+Shelby,Cass-Lincoln,District 4 Judge - Amy L. Zacharias,,No,,32,12,20
+Shelby,Center-Jackson,District 4 Judge - Amy L. Zacharias,,No,,52,21,31
 Shelby,Clay-Monroe,District 4 Judge - Amy L. Zacharias,,No,,74,23,51
 Shelby,Douglas-Polk,District 4 Judge - Amy L. Zacharias,,No,,22,8,14
 Shelby,Fairview-Shelby,District 4 Judge - Amy L. Zacharias,,No,,74,11,63
@@ -467,8 +467,8 @@ Shelby,Harlan Ward 1,District 4 Judge - Amy L. Zacharias,,Yes,,199,88,111
 Shelby,Harlan Ward 2,District 4 Judge - Amy L. Zacharias,,Yes,,289,116,173
 Shelby,Harlan Ward 3,District 4 Judge - Amy L. Zacharias,,Yes,,300,142,158
 Shelby,Harlan Ward 4,District 4 Judge - Amy L. Zacharias,,Yes,,158,76,82
-Shelby,Cass-Lincoln,District 4 Judge - Craig Michael Dreismeier,,No,,69,25,44
-Shelby,Center-Jackson,District 4 Judge - Craig Michael Dreismeier,,No,,62,27,35
+Shelby,Cass-Lincoln,District 4 Judge - Craig Michael Dreismeier,,No,,70,26,44
+Shelby,Center-Jackson,District 4 Judge - Craig Michael Dreismeier,,No,,63,27,36
 Shelby,Clay-Monroe,District 4 Judge - Craig Michael Dreismeier,,No,,77,23,54
 Shelby,Douglas-Polk,District 4 Judge - Craig Michael Dreismeier,,No,,26,8,18
 Shelby,Fairview-Shelby,District 4 Judge - Craig Michael Dreismeier,,No,,82,13,69
@@ -489,8 +489,8 @@ Shelby,Harlan Ward 1,District 4 Judge - Craig Michael Dreismeier,,Yes,,169,74,95
 Shelby,Harlan Ward 2,District 4 Judge - Craig Michael Dreismeier,,Yes,,242,92,150
 Shelby,Harlan Ward 3,District 4 Judge - Craig Michael Dreismeier,,Yes,,261,124,137
 Shelby,Harlan Ward 4,District 4 Judge - Craig Michael Dreismeier,,Yes,,136,65,71
-Shelby,Cass-Lincoln,District 4 Judge - Donna Bothwell,,No,,53,19,34
-Shelby,Center-Jackson,District 4 Judge - Donna Bothwell,,No,,56,24,32
+Shelby,Cass-Lincoln,District 4 Judge - Donna Bothwell,,No,,54,20,34
+Shelby,Center-Jackson,District 4 Judge - Donna Bothwell,,No,,57,24,33
 Shelby,Clay-Monroe,District 4 Judge - Donna Bothwell,,No,,74,23,51
 Shelby,Douglas-Polk,District 4 Judge - Donna Bothwell,,No,,25,9,16
 Shelby,Fairview-Shelby,District 4 Judge - Donna Bothwell,,No,,83,13,70
@@ -511,8 +511,8 @@ Shelby,Harlan Ward 1,District 4 Judge - Donna Bothwell,,Yes,,170,71,99
 Shelby,Harlan Ward 2,District 4 Judge - Donna Bothwell,,Yes,,253,99,154
 Shelby,Harlan Ward 3,District 4 Judge - Donna Bothwell,,Yes,,272,132,140
 Shelby,Harlan Ward 4,District 4 Judge - Donna Bothwell,,Yes,,153,73,80
-Shelby,Cass-Lincoln,District 4 Judge - Justin R. Wyatt,,No,,53,19,34
-Shelby,Center-Jackson,District 4 Judge - Justin R. Wyatt,,No,,55,24,31
+Shelby,Cass-Lincoln,District 4 Judge - Justin R. Wyatt,,No,,54,20,34
+Shelby,Center-Jackson,District 4 Judge - Justin R. Wyatt,,No,,56,24,32
 Shelby,Clay-Monroe,District 4 Judge - Justin R. Wyatt,,No,,75,23,52
 Shelby,Douglas-Polk,District 4 Judge - Justin R. Wyatt,,No,,25,9,16
 Shelby,Fairview-Shelby,District 4 Judge - Justin R. Wyatt,,No,,83,17,66
@@ -533,8 +533,8 @@ Shelby,Harlan Ward 1,District 4 Judge - Justin R. Wyatt,,Yes,,172,72,100
 Shelby,Harlan Ward 2,District 4 Judge - Justin R. Wyatt,,Yes,,255,98,157
 Shelby,Harlan Ward 3,District 4 Judge - Justin R. Wyatt,,Yes,,267,126,141
 Shelby,Harlan Ward 4,District 4 Judge - Justin R. Wyatt,,Yes,,150,74,76
-Shelby,Cass-Lincoln,District 4 Judge - Margaret J. Reyes,,No,,54,20,34
-Shelby,Center-Jackson,District 4 Judge - Margaret J. Reyes,,No,,60,23,37
+Shelby,Cass-Lincoln,District 4 Judge - Margaret J. Reyes,,No,,55,21,34
+Shelby,Center-Jackson,District 4 Judge - Margaret J. Reyes,,No,,61,23,38
 Shelby,Clay-Monroe,District 4 Judge - Margaret J. Reyes,,No,,76,24,52
 Shelby,Douglas-Polk,District 4 Judge - Margaret J. Reyes,,No,,23,7,16
 Shelby,Fairview-Shelby,District 4 Judge - Margaret J. Reyes,,No,,80,13,67
@@ -555,8 +555,8 @@ Shelby,Harlan Ward 1,District 4 Judge - Margaret J. Reyes,,Yes,,184,80,104
 Shelby,Harlan Ward 2,District 4 Judge - Margaret J. Reyes,,Yes,,263,104,159
 Shelby,Harlan Ward 3,District 4 Judge - Margaret J. Reyes,,Yes,,269,128,141
 Shelby,Harlan Ward 4,District 4 Judge - Margaret J. Reyes,,Yes,,152,73,79
-Shelby,Cass-Lincoln,District 4 Judge - Michael Donn Hooper,,No,,58,21,37
-Shelby,Center-Jackson,District 4 Judge - Michael Donn Hooper,,No,,52,24,28
+Shelby,Cass-Lincoln,District 4 Judge - Michael Donn Hooper,,No,,59,22,37
+Shelby,Center-Jackson,District 4 Judge - Michael Donn Hooper,,No,,53,24,29
 Shelby,Clay-Monroe,District 4 Judge - Michael Donn Hooper,,No,,81,23,58
 Shelby,Douglas-Polk,District 4 Judge - Michael Donn Hooper,,No,,26,8,18
 Shelby,Fairview-Shelby,District 4 Judge - Michael Donn Hooper,,No,,86,16,70
@@ -603,8 +603,8 @@ Shelby,Harlan Ward 1,Governor,,Write-In,,1,0,1
 Shelby,Harlan Ward 2,Governor,,Write-In,,1,0,1
 Shelby,Harlan Ward 3,Governor,,Write-In,,1,0,1
 Shelby,Harlan Ward 4,Governor,,Write-In,,0,0,0
-Shelby,Cass-Lincoln,Governor,,Zach Lahn and Derek Wulf,REP,250,99,151
-Shelby,Center-Jackson,Governor,,Zach Lahn and Derek Wulf,REP,255,107,148
+Shelby,Cass-Lincoln,Governor,,Zach Lahn and Derek Wulf,REP,251,100,151
+Shelby,Center-Jackson,Governor,,Zach Lahn and Derek Wulf,REP,256,107,149
 Shelby,Clay-Monroe,Governor,,Zach Lahn and Derek Wulf,REP,319,104,215
 Shelby,Douglas-Polk,Governor,,Zach Lahn and Derek Wulf,REP,130,45,85
 Shelby,Fairview-Shelby,Governor,,Zach Lahn and Derek Wulf,REP,304,79,225
@@ -639,8 +639,8 @@ Shelby,Harlan Ward 1,Secretary of Agriculture,,Chris Jones,DEM,130,75,55
 Shelby,Harlan Ward 2,Secretary of Agriculture,,Chris Jones,DEM,187,109,78
 Shelby,Harlan Ward 3,Secretary of Agriculture,,Chris Jones,DEM,198,108,90
 Shelby,Harlan Ward 4,Secretary of Agriculture,,Chris Jones,DEM,135,74,61
-Shelby,Cass-Lincoln,Secretary of Agriculture,,Mike Naig,REP,264,106,158
-Shelby,Center-Jackson,Secretary of Agriculture,,Mike Naig,REP,273,119,154
+Shelby,Cass-Lincoln,Secretary of Agriculture,,Mike Naig,REP,265,107,158
+Shelby,Center-Jackson,Secretary of Agriculture,,Mike Naig,REP,274,119,155
 Shelby,Clay-Monroe,Secretary of Agriculture,,Mike Naig,REP,340,111,229
 Shelby,Douglas-Polk,Secretary of Agriculture,,Mike Naig,REP,148,52,96
 Shelby,Fairview-Shelby,Secretary of Agriculture,,Mike Naig,REP,322,86,236
@@ -661,8 +661,8 @@ Shelby,Harlan Ward 1,Secretary of Agriculture,,Write-In,,1,0,1
 Shelby,Harlan Ward 2,Secretary of Agriculture,,Write-In,,0,0,0
 Shelby,Harlan Ward 3,Secretary of Agriculture,,Write-In,,1,0,1
 Shelby,Harlan Ward 4,Secretary of Agriculture,,Write-In,,0,0,0
-Shelby,Cass-Lincoln,Secretary of State,,Paul D. Pate,REP,265,107,158
-Shelby,Center-Jackson,Secretary of State,,Paul D. Pate,REP,269,112,157
+Shelby,Cass-Lincoln,Secretary of State,,Paul D. Pate,REP,266,108,158
+Shelby,Center-Jackson,Secretary of State,,Paul D. Pate,REP,270,112,158
 Shelby,Clay-Monroe,Secretary of State,,Paul D. Pate,REP,340,108,232
 Shelby,Douglas-Polk,Secretary of State,,Paul D. Pate,REP,142,50,92
 Shelby,Fairview-Shelby,Secretary of State,,Paul D. Pate,REP,326,84,242
@@ -697,7 +697,7 @@ Shelby,Harlan Ward 4,Secretary of State,,Write-In,,0,0,0
 Shelby,Fairview-Shelby,Shelby Township Clerk,,Write-In,,4,0,4
 Shelby,Fairview-Shelby,Shelby Township Trustee,,Write-In,,10,1,9
 Shelby,Cass-Lincoln,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,271,122,149
-Shelby,Center-Jackson,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,247,114,133
+Shelby,Center-Jackson,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,248,114,134
 Shelby,Clay-Monroe,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,314,93,221
 Shelby,Douglas-Polk,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,115,52,63
 Shelby,Fairview-Shelby,Soil and Water Conservation District Commissioner,,Allan A. Reinig,,258,74,184
@@ -722,7 +722,7 @@ Shelby,Center-Jackson,State House,11,Bill Owen,DEM,98,60,38
 Shelby,Clay-Monroe,State House,11,Bill Owen,DEM,182,55,127
 Shelby,Douglas-Polk,State House,11,Bill Owen,DEM,41,22,19
 Shelby,Fairview-Shelby,State House,11,Bill Owen,DEM,177,39,138
-Shelby,Center-Jackson,State House,11,Craig Williams,REP,261,109,152
+Shelby,Center-Jackson,State House,11,Craig Williams,REP,262,109,153
 Shelby,Clay-Monroe,State House,11,Craig Williams,REP,321,104,217
 Shelby,Douglas-Polk,State House,11,Craig Williams,REP,134,49,85
 Shelby,Fairview-Shelby,State House,11,Craig Williams,REP,298,79,219
@@ -737,7 +737,7 @@ Shelby,Harlan Ward 1,State House,12,Dustin Durbin,DEM,127,76,51
 Shelby,Harlan Ward 2,State House,12,Dustin Durbin,DEM,203,115,88
 Shelby,Harlan Ward 3,State House,12,Dustin Durbin,DEM,195,108,87
 Shelby,Harlan Ward 4,State House,12,Dustin Durbin,DEM,123,69,54
-Shelby,Cass-Lincoln,State House,12,Steven Holt,REP,262,105,157
+Shelby,Cass-Lincoln,State House,12,Steven Holt,REP,263,106,157
 Shelby,Greeley-Jefferson,State House,12,Steven Holt,REP,245,38,207
 Shelby,Grove-Union-Washington-Westphalia,State House,12,Steven Holt,REP,595,195,400
 Shelby,Harlan Ward 1,State House,12,Steven Holt,REP,244,115,129
@@ -762,8 +762,8 @@ Shelby,Harlan Ward 1,Treasurer of State,,John Norwood,DEM,137,79,58
 Shelby,Harlan Ward 2,Treasurer of State,,John Norwood,DEM,207,120,87
 Shelby,Harlan Ward 3,Treasurer of State,,John Norwood,DEM,203,116,87
 Shelby,Harlan Ward 4,Treasurer of State,,John Norwood,DEM,134,80,54
-Shelby,Cass-Lincoln,Treasurer of State,,Roby Smith,REP,256,108,148
-Shelby,Center-Jackson,Treasurer of State,,Roby Smith,REP,259,109,150
+Shelby,Cass-Lincoln,Treasurer of State,,Roby Smith,REP,257,109,148
+Shelby,Center-Jackson,Treasurer of State,,Roby Smith,REP,260,109,151
 Shelby,Clay-Monroe,Treasurer of State,,Roby Smith,REP,329,104,225
 Shelby,Douglas-Polk,Treasurer of State,,Roby Smith,REP,136,51,85
 Shelby,Fairview-Shelby,Treasurer of State,,Roby Smith,REP,314,83,231
@@ -784,8 +784,8 @@ Shelby,Harlan Ward 1,Treasurer of State,,Write-In,,1,0,1
 Shelby,Harlan Ward 2,Treasurer of State,,Write-In,,0,0,0
 Shelby,Harlan Ward 3,Treasurer of State,,Write-In,,1,0,1
 Shelby,Harlan Ward 4,Treasurer of State,,Write-In,,0,0,0
-Shelby,Cass-Lincoln,U.S. House,4,Chris McGowan,REP,252,102,150
-Shelby,Center-Jackson,U.S. House,4,Chris McGowan,REP,258,103,155
+Shelby,Cass-Lincoln,U.S. House,4,Chris McGowan,REP,253,103,150
+Shelby,Center-Jackson,U.S. House,4,Chris McGowan,REP,259,103,156
 Shelby,Clay-Monroe,U.S. House,4,Chris McGowan,REP,323,102,221
 Shelby,Douglas-Polk,U.S. House,4,Chris McGowan,REP,125,40,85
 Shelby,Fairview-Shelby,U.S. House,4,Chris McGowan,REP,296,78,218
@@ -817,8 +817,8 @@ Shelby,Harlan Ward 1,U.S. House,4,Write-In,,0,0,0
 Shelby,Harlan Ward 2,U.S. House,4,Write-In,,1,0,1
 Shelby,Harlan Ward 3,U.S. House,4,Write-In,,1,0,1
 Shelby,Harlan Ward 4,U.S. House,4,Write-In,,0,0,0
-Shelby,Cass-Lincoln,U.S. Senate,,Ashley Hinson,REP,244,98,146
-Shelby,Center-Jackson,U.S. Senate,,Ashley Hinson,REP,249,103,146
+Shelby,Cass-Lincoln,U.S. Senate,,Ashley Hinson,REP,245,99,146
+Shelby,Center-Jackson,U.S. Senate,,Ashley Hinson,REP,250,103,147
 Shelby,Clay-Monroe,U.S. Senate,,Ashley Hinson,REP,301,99,202
 Shelby,Douglas-Polk,U.S. Senate,,Ashley Hinson,REP,122,41,81
 Shelby,Fairview-Shelby,U.S. Senate,,Ashley Hinson,REP,291,81,210

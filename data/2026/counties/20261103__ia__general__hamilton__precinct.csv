@@ -1,5 +1,5 @@
 county,precinct,office,district,candidate,party,votes,absentee,election_day
-Hamilton,Precinct 1 WC 1,Attorney General,,Brenna Bird,REP,332,138,194
+Hamilton,Precinct 1 WC 1,Attorney General,,Brenna Bird,REP,333,139,194
 Hamilton,Precinct 2 WC 2,Attorney General,,Brenna Bird,REP,445,216,229
 Hamilton,Precinct 3 WC 3,Attorney General,,Brenna Bird,REP,471,219,252
 Hamilton,Precinct 4 Northwest,Attorney General,,Brenna Bird,REP,386,167,219
@@ -12,7 +12,7 @@ Hamilton,Precinct 3 WC 3,Attorney General,,Nate Willems,DEM,466,317,149
 Hamilton,Precinct 4 Northwest,Attorney General,,Nate Willems,DEM,189,98,91
 Hamilton,Precinct 5 Northeast,Attorney General,,Nate Willems,DEM,179,75,104
 Hamilton,Precinct 6 Southwest,Attorney General,,Nate Willems,DEM,321,142,179
-Hamilton,Precinct 7 Southeast,Attorney General,,Nate Willems,DEM,476,155,321
+Hamilton,Precinct 7 Southeast,Attorney General,,Nate Willems,DEM,477,156,321
 Hamilton,Precinct 1 WC 1,Attorney General,,Write-In,,0,0,0
 Hamilton,Precinct 2 WC 2,Attorney General,,Write-In,,1,1,0
 Hamilton,Precinct 3 WC 3,Attorney General,,Write-In,,2,2,0
@@ -27,13 +27,13 @@ Hamilton,Precinct 4 Northwest,Auditor of State,,Chris Cournoyer,REP,386,163,223
 Hamilton,Precinct 5 Northeast,Auditor of State,,Chris Cournoyer,REP,359,104,255
 Hamilton,Precinct 6 Southwest,Auditor of State,,Chris Cournoyer,REP,611,166,445
 Hamilton,Precinct 7 Southeast,Auditor of State,,Chris Cournoyer,REP,832,216,616
-Hamilton,Precinct 1 WC 1,Auditor of State,,Taylor Wettach,DEM,334,168,166
+Hamilton,Precinct 1 WC 1,Auditor of State,,Taylor Wettach,DEM,335,169,166
 Hamilton,Precinct 2 WC 2,Auditor of State,,Taylor Wettach,DEM,435,270,165
 Hamilton,Precinct 3 WC 3,Auditor of State,,Taylor Wettach,DEM,460,316,144
 Hamilton,Precinct 4 Northwest,Auditor of State,,Taylor Wettach,DEM,187,101,86
 Hamilton,Precinct 5 Northeast,Auditor of State,,Taylor Wettach,DEM,172,74,98
 Hamilton,Precinct 6 Southwest,Auditor of State,,Taylor Wettach,DEM,305,135,170
-Hamilton,Precinct 7 Southeast,Auditor of State,,Taylor Wettach,DEM,460,160,300
+Hamilton,Precinct 7 Southeast,Auditor of State,,Taylor Wettach,DEM,461,161,300
 Hamilton,Precinct 1 WC 1,Auditor of State,,Write-In,,0,0,0
 Hamilton,Precinct 2 WC 2,Auditor of State,,Write-In,,0,0,0
 Hamilton,Precinct 3 WC 3,Auditor of State,,Write-In,,1,1,0
@@ -45,43 +45,54 @@ Hamilton,Precinct 5 Northeast,Blairsburg Township Clerk,,Noel Singer,,26,7,19
 Hamilton,Precinct 5 Northeast,Blairsburg Township Clerk,,Write-In,,6,1,5
 Hamilton,Precinct 5 Northeast,Blairsburg Township Trustee,,Ole Wibholm,,46,18,28
 Hamilton,Precinct 5 Northeast,Blairsburg Township Trustee,,Write-In,,1,0,1
+Hamilton,Precinct 1 WC 1,Cass Township Clerk,,Don Woodhouse,,0,0,0
+Hamilton,Precinct 4 Northwest,Cass Township Clerk,,Don Woodhouse,,3,0,3
 Hamilton,Precinct 1 WC 1,Cass Township Clerk,,Write-In,,1,0,1
-Hamilton,Precinct 4 Northwest,Cass Township Clerk,,Write-In,,17,6,11
+Hamilton,Precinct 4 Northwest,Cass Township Clerk,,Write-In,,14,6,8
 Hamilton,Precinct 1 WC 1,Cass Township Trustee,,Steve Struchen,,13,7,6
 Hamilton,Precinct 4 Northwest,Cass Township Trustee,,Steve Struchen,,180,79,101
 Hamilton,Precinct 1 WC 1,Cass Township Trustee,,Write-In,,0,0,0
 Hamilton,Precinct 4 Northwest,Cass Township Trustee,,Write-In,,0,0,0
-Hamilton,Precinct 6 Southwest,Clear Lake Township Clerk,,Write-In,,9,1,8
-Hamilton,Precinct 6 Southwest,Clear Lake Township Trustee,,Write-In,,9,1,8
+Hamilton,Precinct 6 Southwest,Clear Lake Township Clerk,,Vickie Anderson,,1,0,1
+Hamilton,Precinct 6 Southwest,Clear Lake Township Clerk,,Write-In,,8,1,7
+Hamilton,Precinct 6 Southwest,Clear Lake Township Trustee,,Carlton Ness,,1,0,1
+Hamilton,Precinct 6 Southwest,Clear Lake Township Trustee,,Write-In,,8,1,7
 Hamilton,Precinct 1 WC 1,Constitutional Amendment 1,,No,,260,121,139
 Hamilton,Precinct 2 WC 2,Constitutional Amendment 1,,No,,328,195,133
 Hamilton,Precinct 3 WC 3,Constitutional Amendment 1,,No,,338,209,129
 Hamilton,Precinct 4 Northwest,Constitutional Amendment 1,,No,,151,72,79
 Hamilton,Precinct 5 Northeast,Constitutional Amendment 1,,No,,168,63,105
 Hamilton,Precinct 6 Southwest,Constitutional Amendment 1,,No,,274,102,172
-Hamilton,Precinct 7 Southeast,Constitutional Amendment 1,,No,,360,91,269
-Hamilton,Precinct 1 WC 1,Constitutional Amendment 1,,Yes,,338,157,181
+Hamilton,Precinct 7 Southeast,Constitutional Amendment 1,,No,,361,92,269
+Hamilton,Precinct 1 WC 1,Constitutional Amendment 1,,Yes,,339,158,181
 Hamilton,Precinct 2 WC 2,Constitutional Amendment 1,,Yes,,457,235,222
 Hamilton,Precinct 3 WC 3,Constitutional Amendment 1,,Yes,,481,264,217
 Hamilton,Precinct 4 Northwest,Constitutional Amendment 1,,Yes,,326,152,174
 Hamilton,Precinct 5 Northeast,Constitutional Amendment 1,,Yes,,273,95,178
 Hamilton,Precinct 6 Southwest,Constitutional Amendment 1,,Yes,,518,170,348
 Hamilton,Precinct 7 Southeast,Constitutional Amendment 1,,Yes,,741,224,517
-Hamilton,Precinct 1 WC 1,County Agricultural Extension Council Member,,Amber Widick,,355,163,192
+Hamilton,Precinct 1 WC 1,County Agricultural Extension Council Member,,Amber Widick,,356,164,192
 Hamilton,Precinct 2 WC 2,County Agricultural Extension Council Member,,Amber Widick,,505,296,209
 Hamilton,Precinct 3 WC 3,County Agricultural Extension Council Member,,Amber Widick,,513,303,210
 Hamilton,Precinct 4 Northwest,County Agricultural Extension Council Member,,Amber Widick,,347,166,181
 Hamilton,Precinct 5 Northeast,County Agricultural Extension Council Member,,Amber Widick,,321,103,218
 Hamilton,Precinct 6 Southwest,County Agricultural Extension Council Member,,Amber Widick,,589,193,396
 Hamilton,Precinct 7 Southeast,County Agricultural Extension Council Member,,Amber Widick,,763,206,557
-Hamilton,Precinct 1 WC 1,County Agricultural Extension Council Member,,Liz Collins,,329,152,177
+Hamilton,Precinct 1 WC 1,County Agricultural Extension Council Member,,Jenna Claude,,0,0,0
+Hamilton,Precinct 2 WC 2,County Agricultural Extension Council Member,,Jenna Claude,,0,0,0
+Hamilton,Precinct 3 WC 3,County Agricultural Extension Council Member,,Jenna Claude,,1,0,1
+Hamilton,Precinct 4 Northwest,County Agricultural Extension Council Member,,Jenna Claude,,2,1,1
+Hamilton,Precinct 5 Northeast,County Agricultural Extension Council Member,,Jenna Claude,,2,2,0
+Hamilton,Precinct 6 Southwest,County Agricultural Extension Council Member,,Jenna Claude,,5,0,5
+Hamilton,Precinct 7 Southeast,County Agricultural Extension Council Member,,Jenna Claude,,3,2,1
+Hamilton,Precinct 1 WC 1,County Agricultural Extension Council Member,,Liz Collins,,330,153,177
 Hamilton,Precinct 2 WC 2,County Agricultural Extension Council Member,,Liz Collins,,465,266,199
 Hamilton,Precinct 3 WC 3,County Agricultural Extension Council Member,,Liz Collins,,484,284,200
 Hamilton,Precinct 4 Northwest,County Agricultural Extension Council Member,,Liz Collins,,316,152,164
 Hamilton,Precinct 5 Northeast,County Agricultural Extension Council Member,,Liz Collins,,306,99,207
 Hamilton,Precinct 6 Southwest,County Agricultural Extension Council Member,,Liz Collins,,563,185,378
 Hamilton,Precinct 7 Southeast,County Agricultural Extension Council Member,,Liz Collins,,696,184,512
-Hamilton,Precinct 1 WC 1,County Agricultural Extension Council Member,,Luke Ahrens,,395,184,211
+Hamilton,Precinct 1 WC 1,County Agricultural Extension Council Member,,Luke Ahrens,,396,185,211
 Hamilton,Precinct 2 WC 2,County Agricultural Extension Council Member,,Luke Ahrens,,547,305,242
 Hamilton,Precinct 3 WC 3,County Agricultural Extension Council Member,,Luke Ahrens,,601,341,260
 Hamilton,Precinct 4 Northwest,County Agricultural Extension Council Member,,Luke Ahrens,,392,185,207
@@ -97,18 +108,18 @@ Hamilton,Precinct 6 Southwest,County Agricultural Extension Council Member,,Tyle
 Hamilton,Precinct 7 Southeast,County Agricultural Extension Council Member,,Tyler Burton,,738,195,543
 Hamilton,Precinct 1 WC 1,County Agricultural Extension Council Member,,Write-In,,11,5,6
 Hamilton,Precinct 2 WC 2,County Agricultural Extension Council Member,,Write-In,,29,14,15
-Hamilton,Precinct 3 WC 3,County Agricultural Extension Council Member,,Write-In,,32,13,19
-Hamilton,Precinct 4 Northwest,County Agricultural Extension Council Member,,Write-In,,32,8,24
-Hamilton,Precinct 5 Northeast,County Agricultural Extension Council Member,,Write-In,,29,11,18
-Hamilton,Precinct 6 Southwest,County Agricultural Extension Council Member,,Write-In,,37,13,24
-Hamilton,Precinct 7 Southeast,County Agricultural Extension Council Member,,Write-In,,47,8,39
-Hamilton,Precinct 1 WC 1,County Attorney,,Bridget A. Chambers,DEM,504,235,269
+Hamilton,Precinct 3 WC 3,County Agricultural Extension Council Member,,Write-In,,31,13,18
+Hamilton,Precinct 4 Northwest,County Agricultural Extension Council Member,,Write-In,,30,7,23
+Hamilton,Precinct 5 Northeast,County Agricultural Extension Council Member,,Write-In,,27,9,18
+Hamilton,Precinct 6 Southwest,County Agricultural Extension Council Member,,Write-In,,32,13,19
+Hamilton,Precinct 7 Southeast,County Agricultural Extension Council Member,,Write-In,,44,6,38
+Hamilton,Precinct 1 WC 1,County Attorney,,Bridget A. Chambers,DEM,505,236,269
 Hamilton,Precinct 2 WC 2,County Attorney,,Bridget A. Chambers,DEM,676,375,301
 Hamilton,Precinct 3 WC 3,County Attorney,,Bridget A. Chambers,DEM,697,416,281
 Hamilton,Precinct 4 Northwest,County Attorney,,Bridget A. Chambers,DEM,410,192,218
 Hamilton,Precinct 5 Northeast,County Attorney,,Bridget A. Chambers,DEM,359,126,233
 Hamilton,Precinct 6 Southwest,County Attorney,,Bridget A. Chambers,DEM,619,210,409
-Hamilton,Precinct 7 Southeast,County Attorney,,Bridget A. Chambers,DEM,805,232,573
+Hamilton,Precinct 7 Southeast,County Attorney,,Bridget A. Chambers,DEM,806,233,573
 Hamilton,Precinct 1 WC 1,County Attorney,,Write-In,,22,4,18
 Hamilton,Precinct 2 WC 2,County Attorney,,Write-In,,22,5,17
 Hamilton,Precinct 3 WC 3,County Attorney,,Write-In,,24,9,15
@@ -116,7 +127,7 @@ Hamilton,Precinct 4 Northwest,County Attorney,,Write-In,,15,6,9
 Hamilton,Precinct 5 Northeast,County Attorney,,Write-In,,17,1,16
 Hamilton,Precinct 6 Southwest,County Attorney,,Write-In,,33,5,28
 Hamilton,Precinct 7 Southeast,County Attorney,,Write-In,,64,12,52
-Hamilton,Precinct 1 WC 1,County Hospital Trustee,,Carroll Ose,,377,174,203
+Hamilton,Precinct 1 WC 1,County Hospital Trustee,,Carroll Ose,,378,175,203
 Hamilton,Precinct 2 WC 2,County Hospital Trustee,,Carroll Ose,,553,322,231
 Hamilton,Precinct 3 WC 3,County Hospital Trustee,,Carroll Ose,,578,353,225
 Hamilton,Precinct 4 Northwest,County Hospital Trustee,,Carroll Ose,,361,179,182
@@ -130,14 +141,14 @@ Hamilton,Precinct 4 Northwest,County Hospital Trustee,,Darcy Swon,,357,172,185
 Hamilton,Precinct 5 Northeast,County Hospital Trustee,,Darcy Swon,,343,123,220
 Hamilton,Precinct 6 Southwest,County Hospital Trustee,,Darcy Swon,,615,202,413
 Hamilton,Precinct 7 Southeast,County Hospital Trustee,,Darcy Swon,,734,196,538
-Hamilton,Precinct 1 WC 1,County Hospital Trustee,,Kirk L. McCollough,,385,187,198
+Hamilton,Precinct 1 WC 1,County Hospital Trustee,,Kirk L. McCollough,,386,188,198
 Hamilton,Precinct 2 WC 2,County Hospital Trustee,,Kirk L. McCollough,,547,317,230
 Hamilton,Precinct 3 WC 3,County Hospital Trustee,,Kirk L. McCollough,,582,356,226
 Hamilton,Precinct 4 Northwest,County Hospital Trustee,,Kirk L. McCollough,,372,176,196
 Hamilton,Precinct 5 Northeast,County Hospital Trustee,,Kirk L. McCollough,,334,109,225
 Hamilton,Precinct 6 Southwest,County Hospital Trustee,,Kirk L. McCollough,,584,193,391
 Hamilton,Precinct 7 Southeast,County Hospital Trustee,,Kirk L. McCollough,,719,193,526
-Hamilton,Precinct 1 WC 1,County Hospital Trustee,,Kyle Heffernan,,442,190,252
+Hamilton,Precinct 1 WC 1,County Hospital Trustee,,Kyle Heffernan,,443,191,252
 Hamilton,Precinct 2 WC 2,County Hospital Trustee,,Kyle Heffernan,,603,333,270
 Hamilton,Precinct 3 WC 3,County Hospital Trustee,,Kyle Heffernan,,651,372,279
 Hamilton,Precinct 4 Northwest,County Hospital Trustee,,Kyle Heffernan,,399,174,225
@@ -151,7 +162,7 @@ Hamilton,Precinct 4 Northwest,County Hospital Trustee,,Write-In,,18,5,13
 Hamilton,Precinct 5 Northeast,County Hospital Trustee,,Write-In,,9,3,6
 Hamilton,Precinct 6 Southwest,County Hospital Trustee,,Write-In,,10,1,9
 Hamilton,Precinct 7 Southeast,County Hospital Trustee,,Write-In,,16,1,15
-Hamilton,Precinct 1 WC 1,County Recorder,,Kim Anderson,REP,570,245,325
+Hamilton,Precinct 1 WC 1,County Recorder,,Kim Anderson,REP,571,246,325
 Hamilton,Precinct 2 WC 2,County Recorder,,Kim Anderson,REP,744,407,337
 Hamilton,Precinct 3 WC 3,County Recorder,,Kim Anderson,REP,801,453,348
 Hamilton,Precinct 4 Northwest,County Recorder,,Kim Anderson,REP,544,252,292
@@ -169,7 +180,7 @@ Hamilton,Precinct 6 Southwest,County Supervisor,3,Rick Young,REP,799,240,559
 Hamilton,Precinct 7 Southeast,County Supervisor,3,Rick Young,REP,1093,306,787
 Hamilton,Precinct 6 Southwest,County Supervisor,3,Write-In,,17,3,14
 Hamilton,Precinct 7 Southeast,County Supervisor,3,Write-In,,31,8,23
-Hamilton,Precinct 1 WC 1,County Treasurer,,Matt Matteson,REP,549,239,310
+Hamilton,Precinct 1 WC 1,County Treasurer,,Matt Matteson,REP,550,240,310
 Hamilton,Precinct 2 WC 2,County Treasurer,,Matt Matteson,REP,733,396,337
 Hamilton,Precinct 3 WC 3,County Treasurer,,Matt Matteson,REP,797,449,348
 Hamilton,Precinct 4 Northwest,County Treasurer,,Matt Matteson,REP,534,246,288
@@ -183,7 +194,7 @@ Hamilton,Precinct 4 Northwest,County Treasurer,,Write-In,,3,0,3
 Hamilton,Precinct 5 Northeast,County Treasurer,,Write-In,,7,1,6
 Hamilton,Precinct 6 Southwest,County Treasurer,,Write-In,,5,1,4
 Hamilton,Precinct 7 Southeast,County Treasurer,,Write-In,,17,4,13
-Hamilton,Precinct 1 WC 1,Court of Appeals Judge - John M. Sandy,,No,,148,73,75
+Hamilton,Precinct 1 WC 1,Court of Appeals Judge - John M. Sandy,,No,,149,74,75
 Hamilton,Precinct 2 WC 2,Court of Appeals Judge - John M. Sandy,,No,,170,79,91
 Hamilton,Precinct 3 WC 3,Court of Appeals Judge - John M. Sandy,,No,,194,112,82
 Hamilton,Precinct 4 Northwest,Court of Appeals Judge - John M. Sandy,,No,,105,48,57
@@ -197,7 +208,7 @@ Hamilton,Precinct 4 Northwest,Court of Appeals Judge - John M. Sandy,,Yes,,281,1
 Hamilton,Precinct 5 Northeast,Court of Appeals Judge - John M. Sandy,,Yes,,247,81,166
 Hamilton,Precinct 6 Southwest,Court of Appeals Judge - John M. Sandy,,Yes,,469,149,320
 Hamilton,Precinct 7 Southeast,Court of Appeals Judge - John M. Sandy,,Yes,,603,166,437
-Hamilton,Precinct 1 WC 1,Court of Appeals Judge - Julie A. Schumacher,,No,,137,70,67
+Hamilton,Precinct 1 WC 1,Court of Appeals Judge - Julie A. Schumacher,,No,,138,71,67
 Hamilton,Precinct 2 WC 2,Court of Appeals Judge - Julie A. Schumacher,,No,,150,65,85
 Hamilton,Precinct 3 WC 3,Court of Appeals Judge - Julie A. Schumacher,,No,,171,89,82
 Hamilton,Precinct 4 Northwest,Court of Appeals Judge - Julie A. Schumacher,,No,,99,47,52
@@ -211,7 +222,7 @@ Hamilton,Precinct 4 Northwest,Court of Appeals Judge - Julie A. Schumacher,,Yes,
 Hamilton,Precinct 5 Northeast,Court of Appeals Judge - Julie A. Schumacher,,Yes,,273,92,181
 Hamilton,Precinct 6 Southwest,Court of Appeals Judge - Julie A. Schumacher,,Yes,,484,160,324
 Hamilton,Precinct 7 Southeast,Court of Appeals Judge - Julie A. Schumacher,,Yes,,641,183,458
-Hamilton,Precinct 1 WC 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,148,74,74
+Hamilton,Precinct 1 WC 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,149,75,74
 Hamilton,Precinct 2 WC 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,181,80,101
 Hamilton,Precinct 3 WC 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,202,99,103
 Hamilton,Precinct 4 Northwest,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,117,54,63
@@ -225,7 +236,7 @@ Hamilton,Precinct 4 Northwest,Court of Appeals Judge - Sharon Soorholtz Greer,,Y
 Hamilton,Precinct 5 Northeast,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,256,92,164
 Hamilton,Precinct 6 Southwest,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,461,154,307
 Hamilton,Precinct 7 Southeast,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,590,165,425
-Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Joseph L. Tofilon,,No,,154,77,77
+Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Joseph L. Tofilon,,No,,155,78,77
 Hamilton,Precinct 2 WC 2,District 2B Associate Judge - Joseph L. Tofilon,,No,,165,73,92
 Hamilton,Precinct 3 WC 3,District 2B Associate Judge - Joseph L. Tofilon,,No,,177,93,84
 Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Joseph L. Tofilon,,No,,105,44,61
@@ -239,7 +250,7 @@ Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Joseph L. Tofilon,,Y
 Hamilton,Precinct 5 Northeast,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,254,84,170
 Hamilton,Precinct 6 Southwest,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,467,153,314
 Hamilton,Precinct 7 Southeast,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,588,162,426
-Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Stephen A. Owen,,No,,144,71,73
+Hamilton,Precinct 1 WC 1,District 2B Associate Judge - Stephen A. Owen,,No,,145,72,73
 Hamilton,Precinct 2 WC 2,District 2B Associate Judge - Stephen A. Owen,,No,,158,70,88
 Hamilton,Precinct 3 WC 3,District 2B Associate Judge - Stephen A. Owen,,No,,171,98,73
 Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Stephen A. Owen,,No,,98,43,55
@@ -253,7 +264,7 @@ Hamilton,Precinct 4 Northwest,District 2B Associate Judge - Stephen A. Owen,,Yes
 Hamilton,Precinct 5 Northeast,District 2B Associate Judge - Stephen A. Owen,,Yes,,259,84,175
 Hamilton,Precinct 6 Southwest,District 2B Associate Judge - Stephen A. Owen,,Yes,,476,149,327
 Hamilton,Precinct 7 Southeast,District 2B Associate Judge - Stephen A. Owen,,Yes,,606,166,440
-Hamilton,Precinct 1 WC 1,District 2B Judge - Amy Moore,,No,,147,74,73
+Hamilton,Precinct 1 WC 1,District 2B Judge - Amy Moore,,No,,148,75,73
 Hamilton,Precinct 2 WC 2,District 2B Judge - Amy Moore,,No,,163,68,95
 Hamilton,Precinct 3 WC 3,District 2B Judge - Amy Moore,,No,,182,98,84
 Hamilton,Precinct 4 Northwest,District 2B Judge - Amy Moore,,No,,105,46,59
@@ -267,7 +278,7 @@ Hamilton,Precinct 4 Northwest,District 2B Judge - Amy Moore,,Yes,,282,118,164
 Hamilton,Precinct 5 Northeast,District 2B Judge - Amy Moore,,Yes,,259,86,173
 Hamilton,Precinct 6 Southwest,District 2B Judge - Amy Moore,,Yes,,471,157,314
 Hamilton,Precinct 7 Southeast,District 2B Judge - Amy Moore,,Yes,,610,170,440
-Hamilton,Precinct 1 WC 1,District 2B Judge - Angela L. Doyle,,No,,152,73,79
+Hamilton,Precinct 1 WC 1,District 2B Judge - Angela L. Doyle,,No,,153,74,79
 Hamilton,Precinct 2 WC 2,District 2B Judge - Angela L. Doyle,,No,,157,69,88
 Hamilton,Precinct 3 WC 3,District 2B Judge - Angela L. Doyle,,No,,182,94,88
 Hamilton,Precinct 4 Northwest,District 2B Judge - Angela L. Doyle,,No,,108,48,60
@@ -281,7 +292,7 @@ Hamilton,Precinct 4 Northwest,District 2B Judge - Angela L. Doyle,,Yes,,281,117,
 Hamilton,Precinct 5 Northeast,District 2B Judge - Angela L. Doyle,,Yes,,264,87,177
 Hamilton,Precinct 6 Southwest,District 2B Judge - Angela L. Doyle,,Yes,,479,157,322
 Hamilton,Precinct 7 Southeast,District 2B Judge - Angela L. Doyle,,Yes,,612,172,440
-Hamilton,Precinct 1 WC 1,District 2B Judge - Ashley Sparks,,No,,139,76,63
+Hamilton,Precinct 1 WC 1,District 2B Judge - Ashley Sparks,,No,,140,77,63
 Hamilton,Precinct 2 WC 2,District 2B Judge - Ashley Sparks,,No,,157,69,88
 Hamilton,Precinct 3 WC 3,District 2B Judge - Ashley Sparks,,No,,169,88,81
 Hamilton,Precinct 4 Northwest,District 2B Judge - Ashley Sparks,,No,,103,47,56
@@ -295,7 +306,7 @@ Hamilton,Precinct 4 Northwest,District 2B Judge - Ashley Sparks,,Yes,,289,120,16
 Hamilton,Precinct 5 Northeast,District 2B Judge - Ashley Sparks,,Yes,,264,87,177
 Hamilton,Precinct 6 Southwest,District 2B Judge - Ashley Sparks,,Yes,,482,156,326
 Hamilton,Precinct 7 Southeast,District 2B Judge - Ashley Sparks,,Yes,,601,167,434
-Hamilton,Precinct 1 WC 1,District 2B Judge - Bethany Currie,,No,,143,76,67
+Hamilton,Precinct 1 WC 1,District 2B Judge - Bethany Currie,,No,,144,77,67
 Hamilton,Precinct 2 WC 2,District 2B Judge - Bethany Currie,,No,,165,72,93
 Hamilton,Precinct 3 WC 3,District 2B Judge - Bethany Currie,,No,,181,94,87
 Hamilton,Precinct 4 Northwest,District 2B Judge - Bethany Currie,,No,,108,47,61
@@ -309,7 +320,7 @@ Hamilton,Precinct 4 Northwest,District 2B Judge - Bethany Currie,,Yes,,279,117,1
 Hamilton,Precinct 5 Northeast,District 2B Judge - Bethany Currie,,Yes,,251,84,167
 Hamilton,Precinct 6 Southwest,District 2B Judge - Bethany Currie,,Yes,,465,152,313
 Hamilton,Precinct 7 Southeast,District 2B Judge - Bethany Currie,,Yes,,591,160,431
-Hamilton,Precinct 1 WC 1,District 2B Judge - Christopher Polking,,No,,150,74,76
+Hamilton,Precinct 1 WC 1,District 2B Judge - Christopher Polking,,No,,151,75,76
 Hamilton,Precinct 2 WC 2,District 2B Judge - Christopher Polking,,No,,168,76,92
 Hamilton,Precinct 3 WC 3,District 2B Judge - Christopher Polking,,No,,181,93,88
 Hamilton,Precinct 4 Northwest,District 2B Judge - Christopher Polking,,No,,106,48,58
@@ -325,21 +336,27 @@ Hamilton,Precinct 6 Southwest,District 2B Judge - Christopher Polking,,Yes,,478,
 Hamilton,Precinct 7 Southeast,District 2B Judge - Christopher Polking,,Yes,,596,165,431
 Hamilton,Precinct 7 Southeast,Ellsworth Township Clerk,,Lynn Knutson,,167,65,102
 Hamilton,Precinct 7 Southeast,Ellsworth Township Clerk,,Write-In,,0,0,0
-Hamilton,Precinct 7 Southeast,Ellsworth Township Trustee,,Write-In,,19,5,14
-Hamilton,Precinct 2 WC 2,Freedom Township Clerk,,Write-In,,3,3,0
+Hamilton,Precinct 7 Southeast,Ellsworth Township Trustee,,Christa Bina,,5,1,4
+Hamilton,Precinct 7 Southeast,Ellsworth Township Trustee,,Write-In,,14,4,10
+Hamilton,Precinct 2 WC 2,Freedom Township Clerk,,Rick McCormick,,2,2,0
+Hamilton,Precinct 4 Northwest,Freedom Township Clerk,,Rick McCormick,,0,0,0
+Hamilton,Precinct 2 WC 2,Freedom Township Clerk,,Write-In,,1,1,0
 Hamilton,Precinct 4 Northwest,Freedom Township Clerk,,Write-In,,6,3,3
-Hamilton,Precinct 2 WC 2,Freedom Township Trustee,,Write-In,,3,3,0
+Hamilton,Precinct 2 WC 2,Freedom Township Trustee,,Darrel Hay,,3,3,0
+Hamilton,Precinct 4 Northwest,Freedom Township Trustee,,Darrel Hay,,0,0,0
+Hamilton,Precinct 2 WC 2,Freedom Township Trustee,,Write-In,,0,0,0
 Hamilton,Precinct 4 Northwest,Freedom Township Trustee,,Write-In,,7,5,2
 Hamilton,Precinct 4 Northwest,Fremont Township Clerk,,Ryan Davison,,53,16,37
 Hamilton,Precinct 4 Northwest,Fremont Township Clerk,,Write-In,,1,1,0
-Hamilton,Precinct 4 Northwest,Fremont Township Trustee,,Write-In,,7,1,6
+Hamilton,Precinct 4 Northwest,Fremont Township Trustee,,Jesse Anderson,,1,0,1
+Hamilton,Precinct 4 Northwest,Fremont Township Trustee,,Write-In,,6,1,5
 Hamilton,Precinct 1 WC 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,403,194,209
 Hamilton,Precinct 2 WC 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,522,312,210
 Hamilton,Precinct 3 WC 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,538,352,186
 Hamilton,Precinct 4 Northwest,Governor,,Rob Sand and Dave Muhlbauer,DEM,238,117,121
 Hamilton,Precinct 5 Northeast,Governor,,Rob Sand and Dave Muhlbauer,DEM,209,87,122
 Hamilton,Precinct 6 Southwest,Governor,,Rob Sand and Dave Muhlbauer,DEM,375,154,221
-Hamilton,Precinct 7 Southeast,Governor,,Rob Sand and Dave Muhlbauer,DEM,542,168,374
+Hamilton,Precinct 7 Southeast,Governor,,Rob Sand and Dave Muhlbauer,DEM,543,169,374
 Hamilton,Precinct 1 WC 1,Governor,,Write-In,,0,0,0
 Hamilton,Precinct 2 WC 2,Governor,,Write-In,,2,1,1
 Hamilton,Precinct 3 WC 3,Governor,,Write-In,,0,0,0
@@ -347,45 +364,54 @@ Hamilton,Precinct 4 Northwest,Governor,,Write-In,,0,0,0
 Hamilton,Precinct 5 Northeast,Governor,,Write-In,,0,0,0
 Hamilton,Precinct 6 Southwest,Governor,,Write-In,,2,1,1
 Hamilton,Precinct 7 Southeast,Governor,,Write-In,,0,0,0
-Hamilton,Precinct 1 WC 1,Governor,,Zach Lahn and Derek Wulf,REP,287,117,170
+Hamilton,Precinct 1 WC 1,Governor,,Zach Lahn and Derek Wulf,REP,288,118,170
 Hamilton,Precinct 2 WC 2,Governor,,Zach Lahn and Derek Wulf,REP,381,184,197
 Hamilton,Precinct 3 WC 3,Governor,,Zach Lahn and Derek Wulf,REP,415,194,221
 Hamilton,Precinct 4 Northwest,Governor,,Zach Lahn and Derek Wulf,REP,350,153,197
 Hamilton,Precinct 5 Northeast,Governor,,Zach Lahn and Derek Wulf,REP,325,92,233
 Hamilton,Precinct 6 Southwest,Governor,,Zach Lahn and Derek Wulf,REP,562,151,411
 Hamilton,Precinct 7 Southeast,Governor,,Zach Lahn and Derek Wulf,REP,782,207,575
-Hamilton,Precinct 6 Southwest,Hamilton Township Clerk,,Write-In,,8,3,5
-Hamilton,Precinct 6 Southwest,Hamilton Township Trustee,,Write-In,,13,4,9
-Hamilton,Precinct 4 Northwest,Independence Township Clerk,,Write-In,,10,4,6
+Hamilton,Precinct 6 Southwest,Hamilton Township Clerk,,Jordan Hill,,6,3,3
+Hamilton,Precinct 6 Southwest,Hamilton Township Clerk,,Write-In,,2,0,2
+Hamilton,Precinct 6 Southwest,Hamilton Township Trustee,,Steven D. Carlson,,7,3,4
+Hamilton,Precinct 6 Southwest,Hamilton Township Trustee,,Write-In,,6,1,5
+Hamilton,Precinct 4 Northwest,Independence Township Clerk,,John Eggers,,3,2,1
+Hamilton,Precinct 4 Northwest,Independence Township Clerk,,Write-In,,7,2,5
 Hamilton,Precinct 4 Northwest,Independence Township Trustee,,John T. Tapper,,120,66,54
 Hamilton,Precinct 4 Northwest,Independence Township Trustee,,Write-In,,2,0,2
 Hamilton,Precinct 5 Northeast,Liberty Township Clerk,,Linda Pruismann,,113,37,76
 Hamilton,Precinct 5 Northeast,Liberty Township Clerk,,Write-In,,1,0,1
-Hamilton,Precinct 5 Northeast,Liberty Township Trustee,,Write-In,,16,3,13
+Hamilton,Precinct 5 Northeast,Liberty Township Trustee,,Brad Ratcliff,,6,0,6
+Hamilton,Precinct 5 Northeast,Liberty Township Trustee,,Write-In,,10,3,7
 Hamilton,Precinct 7 Southeast,Lincoln Township Clerk,,Janet Lindseth,,90,18,72
 Hamilton,Precinct 7 Southeast,Lincoln Township Clerk,,Write-In,,1,1,0
 Hamilton,Precinct 7 Southeast,Lincoln Township Trustee,,Randy Hinderaker,,89,17,72
 Hamilton,Precinct 7 Southeast,Lincoln Township Trustee,,Write-In,,2,1,1
-Hamilton,Precinct 7 Southeast,Lyon Township Clerk,,David Osmundson,,92,38,54
+Hamilton,Precinct 7 Southeast,Lyon Township Clerk,,David Osmundson,,93,39,54
 Hamilton,Precinct 7 Southeast,Lyon Township Clerk,,Write-In,,1,0,1
-Hamilton,Precinct 7 Southeast,Lyon Township Trustee,,Roger Barkema,,92,36,56
+Hamilton,Precinct 7 Southeast,Lyon Township Trustee,,Roger Barkema,,93,37,56
 Hamilton,Precinct 7 Southeast,Lyon Township Trustee,,Write-In,,1,0,1
 Hamilton,Precinct 6 Southwest,Marion Township Clerk,,Larry Runyan,,123,54,69
 Hamilton,Precinct 6 Southwest,Marion Township Clerk,,Write-In,,0,0,0
-Hamilton,Precinct 6 Southwest,Marion Township Trustee,,Write-In,,14,3,11
-Hamilton,Precinct 5 Northeast,Rose Grove Township Clerk,,Write-In,,6,0,6
-Hamilton,Precinct 5 Northeast,Rose Grove Township Trustee,,Write-In,,9,1,8
+Hamilton,Precinct 6 Southwest,Marion Township Trustee,,Taylor Jensen,,3,0,3
+Hamilton,Precinct 6 Southwest,Marion Township Trustee,,Write-In,,11,3,8
+Hamilton,Precinct 5 Northeast,Rose Grove Township Clerk,,Peyton Moberly,,1,0,1
+Hamilton,Precinct 5 Northeast,Rose Grove Township Clerk,,Write-In,,5,0,5
+Hamilton,Precinct 5 Northeast,Rose Grove Township Trustee,,Mike Williams,,2,0,2
+Hamilton,Precinct 5 Northeast,Rose Grove Township Trustee,,Write-In,,7,1,6
 Hamilton,Precinct 5 Northeast,Rose Grove Township Trustee To Fill a Vacancy,,Kyle Sweedler,,59,17,42
 Hamilton,Precinct 5 Northeast,Rose Grove Township Trustee To Fill a Vacancy,,Write-In,,1,0,1
-Hamilton,Precinct 7 Southeast,Scott Township Clerk,,Write-In,,15,6,9
-Hamilton,Precinct 7 Southeast,Scott Township Trustee,,Write-In,,16,6,10
-Hamilton,Precinct 1 WC 1,Secretary of Agriculture,,Chris Jones,DEM,311,154,157
+Hamilton,Precinct 7 Southeast,Scott Township Clerk,,Lisa Hovick,,7,5,2
+Hamilton,Precinct 7 Southeast,Scott Township Clerk,,Write-In,,8,1,7
+Hamilton,Precinct 7 Southeast,Scott Township Trustee,,Jim Hassebrock,,6,5,1
+Hamilton,Precinct 7 Southeast,Scott Township Trustee,,Write-In,,10,1,9
+Hamilton,Precinct 1 WC 1,Secretary of Agriculture,,Chris Jones,DEM,312,155,157
 Hamilton,Precinct 2 WC 2,Secretary of Agriculture,,Chris Jones,DEM,396,235,161
 Hamilton,Precinct 3 WC 3,Secretary of Agriculture,,Chris Jones,DEM,395,265,130
 Hamilton,Precinct 4 Northwest,Secretary of Agriculture,,Chris Jones,DEM,150,75,75
 Hamilton,Precinct 5 Northeast,Secretary of Agriculture,,Chris Jones,DEM,134,59,75
 Hamilton,Precinct 6 Southwest,Secretary of Agriculture,,Chris Jones,DEM,253,119,134
-Hamilton,Precinct 7 Southeast,Secretary of Agriculture,,Chris Jones,DEM,399,136,263
+Hamilton,Precinct 7 Southeast,Secretary of Agriculture,,Chris Jones,DEM,400,137,263
 Hamilton,Precinct 1 WC 1,Secretary of Agriculture,,Mike Naig,REP,362,149,213
 Hamilton,Precinct 2 WC 2,Secretary of Agriculture,,Mike Naig,REP,483,246,237
 Hamilton,Precinct 3 WC 3,Secretary of Agriculture,,Mike Naig,REP,537,267,270
@@ -407,13 +433,13 @@ Hamilton,Precinct 4 Northwest,Secretary of State,,Paul D. Pate,REP,413,184,229
 Hamilton,Precinct 5 Northeast,Secretary of State,,Paul D. Pate,REP,384,115,269
 Hamilton,Precinct 6 Southwest,Secretary of State,,Paul D. Pate,REP,651,179,472
 Hamilton,Precinct 7 Southeast,Secretary of State,,Paul D. Pate,REP,897,235,662
-Hamilton,Precinct 1 WC 1,Secretary of State,,Ryan Peterman,DEM,314,155,159
+Hamilton,Precinct 1 WC 1,Secretary of State,,Ryan Peterman,DEM,315,156,159
 Hamilton,Precinct 2 WC 2,Secretary of State,,Ryan Peterman,DEM,414,246,168
 Hamilton,Precinct 3 WC 3,Secretary of State,,Ryan Peterman,DEM,421,286,135
 Hamilton,Precinct 4 Northwest,Secretary of State,,Ryan Peterman,DEM,166,85,81
 Hamilton,Precinct 5 Northeast,Secretary of State,,Ryan Peterman,DEM,149,64,85
 Hamilton,Precinct 6 Southwest,Secretary of State,,Ryan Peterman,DEM,276,124,152
-Hamilton,Precinct 7 Southeast,Secretary of State,,Ryan Peterman,DEM,404,140,264
+Hamilton,Precinct 7 Southeast,Secretary of State,,Ryan Peterman,DEM,405,141,264
 Hamilton,Precinct 1 WC 1,Secretary of State,,Write-In,,1,1,0
 Hamilton,Precinct 2 WC 2,Secretary of State,,Write-In,,0,0,0
 Hamilton,Precinct 3 WC 3,Secretary of State,,Write-In,,1,1,0
@@ -421,21 +447,28 @@ Hamilton,Precinct 4 Northwest,Secretary of State,,Write-In,,0,0,0
 Hamilton,Precinct 5 Northeast,Secretary of State,,Write-In,,0,0,0
 Hamilton,Precinct 6 Southwest,Secretary of State,,Write-In,,0,0,0
 Hamilton,Precinct 7 Southeast,Secretary of State,,Write-In,,0,0,0
-Hamilton,Precinct 1 WC 1,Soil and Water Conservation District Commissioner,,Cynthia McCollough,,501,225,276
+Hamilton,Precinct 1 WC 1,Soil and Water Conservation District Commissioner,,Cynthia McCollough,,502,226,276
 Hamilton,Precinct 2 WC 2,Soil and Water Conservation District Commissioner,,Cynthia McCollough,,662,360,302
 Hamilton,Precinct 3 WC 3,Soil and Water Conservation District Commissioner,,Cynthia McCollough,,695,391,304
 Hamilton,Precinct 4 Northwest,Soil and Water Conservation District Commissioner,,Cynthia McCollough,,432,201,231
 Hamilton,Precinct 5 Northeast,Soil and Water Conservation District Commissioner,,Cynthia McCollough,,412,136,276
 Hamilton,Precinct 6 Southwest,Soil and Water Conservation District Commissioner,,Cynthia McCollough,,706,219,487
 Hamilton,Precinct 7 Southeast,Soil and Water Conservation District Commissioner,,Cynthia McCollough,,898,227,671
+Hamilton,Precinct 1 WC 1,Soil and Water Conservation District Commissioner,,Kit Paper,,0,0,0
+Hamilton,Precinct 2 WC 2,Soil and Water Conservation District Commissioner,,Kit Paper,,2,0,2
+Hamilton,Precinct 3 WC 3,Soil and Water Conservation District Commissioner,,Kit Paper,,0,0,0
+Hamilton,Precinct 4 Northwest,Soil and Water Conservation District Commissioner,,Kit Paper,,5,2,3
+Hamilton,Precinct 5 Northeast,Soil and Water Conservation District Commissioner,,Kit Paper,,11,0,11
+Hamilton,Precinct 6 Southwest,Soil and Water Conservation District Commissioner,,Kit Paper,,11,2,9
+Hamilton,Precinct 7 Southeast,Soil and Water Conservation District Commissioner,,Kit Paper,,2,0,2
 Hamilton,Precinct 1 WC 1,Soil and Water Conservation District Commissioner,,Write-In,,14,4,10
-Hamilton,Precinct 2 WC 2,Soil and Water Conservation District Commissioner,,Write-In,,20,6,14
+Hamilton,Precinct 2 WC 2,Soil and Water Conservation District Commissioner,,Write-In,,18,6,12
 Hamilton,Precinct 3 WC 3,Soil and Water Conservation District Commissioner,,Write-In,,12,4,8
-Hamilton,Precinct 4 Northwest,Soil and Water Conservation District Commissioner,,Write-In,,17,4,13
-Hamilton,Precinct 5 Northeast,Soil and Water Conservation District Commissioner,,Write-In,,26,2,24
-Hamilton,Precinct 6 Southwest,Soil and Water Conservation District Commissioner,,Write-In,,34,9,25
-Hamilton,Precinct 7 Southeast,Soil and Water Conservation District Commissioner,,Write-In,,34,5,29
-Hamilton,Precinct 1 WC 1,State House,55,Beau Klaver,REP,395,160,235
+Hamilton,Precinct 4 Northwest,Soil and Water Conservation District Commissioner,,Write-In,,12,2,10
+Hamilton,Precinct 5 Northeast,Soil and Water Conservation District Commissioner,,Write-In,,15,2,13
+Hamilton,Precinct 6 Southwest,Soil and Water Conservation District Commissioner,,Write-In,,23,7,16
+Hamilton,Precinct 7 Southeast,Soil and Water Conservation District Commissioner,,Write-In,,32,5,27
+Hamilton,Precinct 1 WC 1,State House,55,Beau Klaver,REP,396,161,235
 Hamilton,Precinct 2 WC 2,State House,55,Beau Klaver,REP,515,259,256
 Hamilton,Precinct 3 WC 3,State House,55,Beau Klaver,REP,570,283,287
 Hamilton,Precinct 4 Northwest,State House,55,Beau Klaver,REP,447,194,253
@@ -448,7 +481,7 @@ Hamilton,Precinct 3 WC 3,State House,55,Cynthia Oppedal Paschen,DEM,373,259,114
 Hamilton,Precinct 4 Northwest,State House,55,Cynthia Oppedal Paschen,DEM,134,71,63
 Hamilton,Precinct 5 Northeast,State House,55,Cynthia Oppedal Paschen,DEM,119,61,58
 Hamilton,Precinct 6 Southwest,State House,55,Cynthia Oppedal Paschen,DEM,251,123,128
-Hamilton,Precinct 7 Southeast,State House,55,Cynthia Oppedal Paschen,DEM,421,142,279
+Hamilton,Precinct 7 Southeast,State House,55,Cynthia Oppedal Paschen,DEM,422,143,279
 Hamilton,Precinct 1 WC 1,State House,55,Write-In,,1,0,1
 Hamilton,Precinct 2 WC 2,State House,55,Write-In,,0,0,0
 Hamilton,Precinct 3 WC 3,State House,55,Write-In,,2,2,0
@@ -462,8 +495,8 @@ Hamilton,Precinct 3 WC 3,Treasurer of State,,John Norwood,DEM,459,314,145
 Hamilton,Precinct 4 Northwest,Treasurer of State,,John Norwood,DEM,193,98,95
 Hamilton,Precinct 5 Northeast,Treasurer of State,,John Norwood,DEM,179,76,103
 Hamilton,Precinct 6 Southwest,Treasurer of State,,John Norwood,DEM,319,143,176
-Hamilton,Precinct 7 Southeast,Treasurer of State,,John Norwood,DEM,446,153,293
-Hamilton,Precinct 1 WC 1,Treasurer of State,,Roby Smith,REP,332,133,199
+Hamilton,Precinct 7 Southeast,Treasurer of State,,John Norwood,DEM,447,154,293
+Hamilton,Precinct 1 WC 1,Treasurer of State,,Roby Smith,REP,333,134,199
 Hamilton,Precinct 2 WC 2,Treasurer of State,,Roby Smith,REP,440,206,234
 Hamilton,Precinct 3 WC 3,Treasurer of State,,Roby Smith,REP,472,221,251
 Hamilton,Precinct 4 Northwest,Treasurer of State,,Roby Smith,REP,373,164,209
@@ -477,7 +510,7 @@ Hamilton,Precinct 4 Northwest,Treasurer of State,,Write-In,,0,0,0
 Hamilton,Precinct 5 Northeast,Treasurer of State,,Write-In,,0,0,0
 Hamilton,Precinct 6 Southwest,Treasurer of State,,Write-In,,2,0,2
 Hamilton,Precinct 7 Southeast,Treasurer of State,,Write-In,,0,0,0
-Hamilton,Precinct 1 WC 1,U.S. House,4,Chris McGowan,REP,328,126,202
+Hamilton,Precinct 1 WC 1,U.S. House,4,Chris McGowan,REP,329,127,202
 Hamilton,Precinct 2 WC 2,U.S. House,4,Chris McGowan,REP,425,199,226
 Hamilton,Precinct 3 WC 3,U.S. House,4,Chris McGowan,REP,465,218,247
 Hamilton,Precinct 4 Northwest,U.S. House,4,Chris McGowan,REP,385,167,218
@@ -490,7 +523,7 @@ Hamilton,Precinct 3 WC 3,U.S. House,4,Dave Dawson,DEM,459,311,148
 Hamilton,Precinct 4 Northwest,U.S. House,4,Dave Dawson,DEM,181,92,89
 Hamilton,Precinct 5 Northeast,U.S. House,4,Dave Dawson,DEM,167,70,97
 Hamilton,Precinct 6 Southwest,U.S. House,4,Dave Dawson,DEM,302,141,161
-Hamilton,Precinct 7 Southeast,U.S. House,4,Dave Dawson,DEM,455,152,303
+Hamilton,Precinct 7 Southeast,U.S. House,4,Dave Dawson,DEM,456,153,303
 Hamilton,Precinct 1 WC 1,U.S. House,4,Write-In,,0,0,0
 Hamilton,Precinct 2 WC 2,U.S. House,4,Write-In,,0,0,0
 Hamilton,Precinct 3 WC 3,U.S. House,4,Write-In,,0,0,0
@@ -498,7 +531,7 @@ Hamilton,Precinct 4 Northwest,U.S. House,4,Write-In,,0,0,0
 Hamilton,Precinct 5 Northeast,U.S. House,4,Write-In,,1,0,1
 Hamilton,Precinct 6 Southwest,U.S. House,4,Write-In,,0,0,0
 Hamilton,Precinct 7 Southeast,U.S. House,4,Write-In,,0,0,0
-Hamilton,Precinct 1 WC 1,U.S. Senate,,Ashley Hinson,REP,310,129,181
+Hamilton,Precinct 1 WC 1,U.S. Senate,,Ashley Hinson,REP,311,130,181
 Hamilton,Precinct 2 WC 2,U.S. Senate,,Ashley Hinson,REP,407,194,213
 Hamilton,Precinct 3 WC 3,U.S. Senate,,Ashley Hinson,REP,440,210,230
 Hamilton,Precinct 4 Northwest,U.S. Senate,,Ashley Hinson,REP,360,153,207
@@ -511,7 +544,7 @@ Hamilton,Precinct 3 WC 3,U.S. Senate,,Josh Turek,DEM,474,317,157
 Hamilton,Precinct 4 Northwest,U.S. Senate,,Josh Turek,DEM,195,104,91
 Hamilton,Precinct 5 Northeast,U.S. Senate,,Josh Turek,DEM,170,72,98
 Hamilton,Precinct 6 Southwest,U.S. Senate,,Josh Turek,DEM,309,135,174
-Hamilton,Precinct 7 Southeast,U.S. Senate,,Josh Turek,DEM,469,152,317
+Hamilton,Precinct 7 Southeast,U.S. Senate,,Josh Turek,DEM,470,153,317
 Hamilton,Precinct 1 WC 1,U.S. Senate,,Thomas Laehn,LIB,14,3,11
 Hamilton,Precinct 2 WC 2,U.S. Senate,,Thomas Laehn,LIB,25,8,17
 Hamilton,Precinct 3 WC 3,U.S. Senate,,Thomas Laehn,LIB,26,13,13
@@ -535,4 +568,5 @@ Hamilton,Precinct 5 Northeast,Williams Township Clerk,,Write-In,,0,0,0
 Hamilton,Precinct 5 Northeast,Williams Township Trustee,,John M. Wibholm,,56,20,36
 Hamilton,Precinct 5 Northeast,Williams Township Trustee,,Write-In,,1,1,0
 Hamilton,Precinct 5 Northeast,Williams Township Trustee To Fill a Vacancy,,David W. Russell,,57,25,32
-Hamilton,Precinct 5 Northeast,Williams Township Trustee To Fill a Vacancy,,Write-In,,8,2,6
+Hamilton,Precinct 5 Northeast,Williams Township Trustee To Fill a Vacancy,,Nathan Hemken,,7,1,6
+Hamilton,Precinct 5 Northeast,Williams Township Trustee To Fill a Vacancy,,Write-In,,1,1,0

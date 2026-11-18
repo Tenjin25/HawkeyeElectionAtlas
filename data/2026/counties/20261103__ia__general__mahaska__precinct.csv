@@ -1,22 +1,24 @@
 county,precinct,office,district,candidate,party,votes,absentee,election_day
 Mahaska,ELC,Adams Township Clerk,,Write-In,,0,0,0
-Mahaska,ELC,Adams Township Trustee,,Write-In,,5,2,3
-Mahaska,BCH,Attorney General,,Brenna Bird,REP,596,210,386
+Mahaska,ELC,Adams Township Trustee,,Randy Ruby,,2,2,0
+Mahaska,ELC,Adams Township Trustee,,Todd R. VanderWilt,,2,0,2
+Mahaska,ELC,Adams Township Trustee,,Write-In,,1,0,1
+Mahaska,BCH,Attorney General,,Brenna Bird,REP,598,212,386
 Mahaska,ELC,Attorney General,,Brenna Bird,REP,878,343,535
-Mahaska,FCC,Attorney General,,Brenna Bird,REP,591,144,447
-Mahaska,LCRC,Attorney General,,Brenna Bird,REP,721,177,544
-Mahaska,NS,Attorney General,,Brenna Bird,REP,816,202,614
+Mahaska,FCC,Attorney General,,Brenna Bird,REP,592,145,447
+Mahaska,LCRC,Attorney General,,Brenna Bird,REP,729,185,544
+Mahaska,NS,Attorney General,,Brenna Bird,REP,818,204,614
 Mahaska,OS1 - EXT,Attorney General,,Brenna Bird,REP,391,150,241
-Mahaska,OS2 - GW,Attorney General,,Brenna Bird,REP,503,226,277
+Mahaska,OS2 - GW,Attorney General,,Brenna Bird,REP,504,227,277
 Mahaska,OS3 - AOG,Attorney General,,Brenna Bird,REP,680,260,420
 Mahaska,OS4 - FCRC,Attorney General,,Brenna Bird,REP,558,204,354
-Mahaska,BCH,Attorney General,,Nate Willems,DEM,181,85,96
+Mahaska,BCH,Attorney General,,Nate Willems,DEM,182,86,96
 Mahaska,ELC,Attorney General,,Nate Willems,DEM,283,156,127
 Mahaska,FCC,Attorney General,,Nate Willems,DEM,188,80,108
-Mahaska,LCRC,Attorney General,,Nate Willems,DEM,144,64,80
-Mahaska,NS,Attorney General,,Nate Willems,DEM,233,99,134
+Mahaska,LCRC,Attorney General,,Nate Willems,DEM,146,66,80
+Mahaska,NS,Attorney General,,Nate Willems,DEM,234,100,134
 Mahaska,OS1 - EXT,Attorney General,,Nate Willems,DEM,285,131,154
-Mahaska,OS2 - GW,Attorney General,,Nate Willems,DEM,356,185,171
+Mahaska,OS2 - GW,Attorney General,,Nate Willems,DEM,358,187,171
 Mahaska,OS3 - AOG,Attorney General,,Nate Willems,DEM,426,222,204
 Mahaska,OS4 - FCRC,Attorney General,,Nate Willems,DEM,455,227,228
 Mahaska,BCH,Attorney General,,Write-In,,0,0,0
@@ -28,22 +30,22 @@ Mahaska,OS1 - EXT,Attorney General,,Write-In,,1,0,1
 Mahaska,OS2 - GW,Attorney General,,Write-In,,1,1,0
 Mahaska,OS3 - AOG,Attorney General,,Write-In,,0,0,0
 Mahaska,OS4 - FCRC,Attorney General,,Write-In,,2,0,2
-Mahaska,BCH,Auditor of State,,Chris Cournoyer,REP,616,216,400
+Mahaska,BCH,Auditor of State,,Chris Cournoyer,REP,618,218,400
 Mahaska,ELC,Auditor of State,,Chris Cournoyer,REP,883,342,541
-Mahaska,FCC,Auditor of State,,Chris Cournoyer,REP,594,134,460
-Mahaska,LCRC,Auditor of State,,Chris Cournoyer,REP,725,176,549
-Mahaska,NS,Auditor of State,,Chris Cournoyer,REP,810,202,608
+Mahaska,FCC,Auditor of State,,Chris Cournoyer,REP,595,135,460
+Mahaska,LCRC,Auditor of State,,Chris Cournoyer,REP,733,184,549
+Mahaska,NS,Auditor of State,,Chris Cournoyer,REP,812,204,608
 Mahaska,OS1 - EXT,Auditor of State,,Chris Cournoyer,REP,401,147,254
-Mahaska,OS2 - GW,Auditor of State,,Chris Cournoyer,REP,487,208,279
+Mahaska,OS2 - GW,Auditor of State,,Chris Cournoyer,REP,488,209,279
 Mahaska,OS3 - AOG,Auditor of State,,Chris Cournoyer,REP,683,269,414
 Mahaska,OS4 - FCRC,Auditor of State,,Chris Cournoyer,REP,571,200,371
-Mahaska,BCH,Auditor of State,,Taylor Wettach,DEM,153,75,78
+Mahaska,BCH,Auditor of State,,Taylor Wettach,DEM,154,76,78
 Mahaska,ELC,Auditor of State,,Taylor Wettach,DEM,274,157,117
 Mahaska,FCC,Auditor of State,,Taylor Wettach,DEM,178,84,94
-Mahaska,LCRC,Auditor of State,,Taylor Wettach,DEM,135,60,75
-Mahaska,NS,Auditor of State,,Taylor Wettach,DEM,221,97,124
+Mahaska,LCRC,Auditor of State,,Taylor Wettach,DEM,137,62,75
+Mahaska,NS,Auditor of State,,Taylor Wettach,DEM,222,98,124
 Mahaska,OS1 - EXT,Auditor of State,,Taylor Wettach,DEM,271,135,136
-Mahaska,OS2 - GW,Auditor of State,,Taylor Wettach,DEM,362,194,168
+Mahaska,OS2 - GW,Auditor of State,,Taylor Wettach,DEM,364,196,168
 Mahaska,OS3 - AOG,Auditor of State,,Taylor Wettach,DEM,418,212,206
 Mahaska,OS4 - FCRC,Auditor of State,,Taylor Wettach,DEM,431,217,214
 Mahaska,BCH,Auditor of State,,Write-In,,0,0,0
@@ -55,66 +57,68 @@ Mahaska,OS1 - EXT,Auditor of State,,Write-In,,1,0,1
 Mahaska,OS2 - GW,Auditor of State,,Write-In,,1,1,0
 Mahaska,OS3 - AOG,Auditor of State,,Write-In,,0,0,0
 Mahaska,OS4 - FCRC,Auditor of State,,Write-In,,3,2,1
-Mahaska,LCRC,Black Oak Township Clerk,,Write-In,,37,8,29
-Mahaska,LCRC,Black Oak Township Trustee,,Jerry De Bruin,,263,64,199
-Mahaska,LCRC,Black Oak Township Trustee,,Write-In,,38,7,31
+Mahaska,LCRC,Black Oak Township Clerk,,Kayla Spillman,,29,5,24
+Mahaska,LCRC,Black Oak Township Clerk,,Write-In,,8,3,5
+Mahaska,LCRC,Black Oak Township Trustee,,Jerry De Bruin,,264,65,199
+Mahaska,LCRC,Black Oak Township Trustee,,Neva Groenendyk,,25,3,22
+Mahaska,LCRC,Black Oak Township Trustee,,Write-In,,13,4,9
 Mahaska,FCC,Cedar Township Clerk,,Jennifer Van Zante,,135,33,102
 Mahaska,FCC,Cedar Township Clerk,,Write-In,,3,3,0
 Mahaska,FCC,Cedar Township Trustee,,Ronald Reed,,120,31,89
 Mahaska,FCC,Cedar Township Trustee,,Sean Hedge,,115,28,87
 Mahaska,FCC,Cedar Township Trustee,,Write-In,,0,0,0
-Mahaska,BCH,Constitutional Amendment 1,,No,,229,95,134
+Mahaska,BCH,Constitutional Amendment 1,,No,,230,96,134
 Mahaska,ELC,Constitutional Amendment 1,,No,,305,150,155
 Mahaska,FCC,Constitutional Amendment 1,,No,,221,78,143
-Mahaska,LCRC,Constitutional Amendment 1,,No,,151,44,107
-Mahaska,NS,Constitutional Amendment 1,,No,,280,90,190
+Mahaska,LCRC,Constitutional Amendment 1,,No,,153,46,107
+Mahaska,NS,Constitutional Amendment 1,,No,,282,92,190
 Mahaska,OS1 - EXT,Constitutional Amendment 1,,No,,227,96,131
-Mahaska,OS2 - GW,Constitutional Amendment 1,,No,,264,142,122
+Mahaska,OS2 - GW,Constitutional Amendment 1,,No,,266,144,122
 Mahaska,OS3 - AOG,Constitutional Amendment 1,,No,,370,178,192
 Mahaska,OS4 - FCRC,Constitutional Amendment 1,,No,,381,175,206
-Mahaska,BCH,Constitutional Amendment 1,,Yes,,443,169,274
+Mahaska,BCH,Constitutional Amendment 1,,Yes,,445,171,274
 Mahaska,ELC,Constitutional Amendment 1,,Yes,,683,280,403
-Mahaska,FCC,Constitutional Amendment 1,,Yes,,443,112,331
-Mahaska,LCRC,Constitutional Amendment 1,,Yes,,615,170,445
+Mahaska,FCC,Constitutional Amendment 1,,Yes,,444,113,331
+Mahaska,LCRC,Constitutional Amendment 1,,Yes,,620,175,445
 Mahaska,NS,Constitutional Amendment 1,,Yes,,565,147,418
 Mahaska,OS1 - EXT,Constitutional Amendment 1,,Yes,,318,129,189
 Mahaska,OS2 - GW,Constitutional Amendment 1,,Yes,,430,183,247
 Mahaska,OS3 - AOG,Constitutional Amendment 1,,Yes,,573,237,336
 Mahaska,OS4 - FCRC,Constitutional Amendment 1,,Yes,,498,182,316
-Mahaska,BCH,County Agricultural Extension Council Member,,Gary Engel,,393,140,253
+Mahaska,BCH,County Agricultural Extension Council Member,,Gary Engel,,394,141,253
 Mahaska,ELC,County Agricultural Extension Council Member,,Gary Engel,,647,281,366
-Mahaska,FCC,County Agricultural Extension Council Member,,Gary Engel,,455,113,342
-Mahaska,LCRC,County Agricultural Extension Council Member,,Gary Engel,,466,131,335
-Mahaska,NS,County Agricultural Extension Council Member,,Gary Engel,,566,149,417
+Mahaska,FCC,County Agricultural Extension Council Member,,Gary Engel,,456,114,342
+Mahaska,LCRC,County Agricultural Extension Council Member,,Gary Engel,,470,135,335
+Mahaska,NS,County Agricultural Extension Council Member,,Gary Engel,,568,151,417
 Mahaska,OS1 - EXT,County Agricultural Extension Council Member,,Gary Engel,,350,147,203
-Mahaska,OS2 - GW,County Agricultural Extension Council Member,,Gary Engel,,420,198,222
+Mahaska,OS2 - GW,County Agricultural Extension Council Member,,Gary Engel,,422,200,222
 Mahaska,OS3 - AOG,County Agricultural Extension Council Member,,Gary Engel,,641,274,367
 Mahaska,OS4 - FCRC,County Agricultural Extension Council Member,,Gary Engel,,553,218,335
-Mahaska,BCH,County Agricultural Extension Council Member,,Joy Prothero,,431,160,271
+Mahaska,BCH,County Agricultural Extension Council Member,,Joy Prothero,,432,161,271
 Mahaska,ELC,County Agricultural Extension Council Member,,Joy Prothero,,685,303,382
-Mahaska,FCC,County Agricultural Extension Council Member,,Joy Prothero,,443,123,320
-Mahaska,LCRC,County Agricultural Extension Council Member,,Joy Prothero,,445,127,318
-Mahaska,NS,County Agricultural Extension Council Member,,Joy Prothero,,559,163,396
+Mahaska,FCC,County Agricultural Extension Council Member,,Joy Prothero,,444,124,320
+Mahaska,LCRC,County Agricultural Extension Council Member,,Joy Prothero,,449,131,318
+Mahaska,NS,County Agricultural Extension Council Member,,Joy Prothero,,560,164,396
 Mahaska,OS1 - EXT,County Agricultural Extension Council Member,,Joy Prothero,,372,159,213
-Mahaska,OS2 - GW,County Agricultural Extension Council Member,,Joy Prothero,,458,224,234
+Mahaska,OS2 - GW,County Agricultural Extension Council Member,,Joy Prothero,,459,225,234
 Mahaska,OS3 - AOG,County Agricultural Extension Council Member,,Joy Prothero,,676,304,372
 Mahaska,OS4 - FCRC,County Agricultural Extension Council Member,,Joy Prothero,,590,251,339
-Mahaska,BCH,County Agricultural Extension Council Member,,Merle Lee Mann,,383,132,251
+Mahaska,BCH,County Agricultural Extension Council Member,,Merle Lee Mann,,384,133,251
 Mahaska,ELC,County Agricultural Extension Council Member,,Merle Lee Mann,,669,289,380
-Mahaska,FCC,County Agricultural Extension Council Member,,Merle Lee Mann,,436,116,320
-Mahaska,LCRC,County Agricultural Extension Council Member,,Merle Lee Mann,,450,123,327
-Mahaska,NS,County Agricultural Extension Council Member,,Merle Lee Mann,,548,147,401
+Mahaska,FCC,County Agricultural Extension Council Member,,Merle Lee Mann,,437,117,320
+Mahaska,LCRC,County Agricultural Extension Council Member,,Merle Lee Mann,,455,128,327
+Mahaska,NS,County Agricultural Extension Council Member,,Merle Lee Mann,,549,148,401
 Mahaska,OS1 - EXT,County Agricultural Extension Council Member,,Merle Lee Mann,,343,145,198
-Mahaska,OS2 - GW,County Agricultural Extension Council Member,,Merle Lee Mann,,436,212,224
+Mahaska,OS2 - GW,County Agricultural Extension Council Member,,Merle Lee Mann,,437,213,224
 Mahaska,OS3 - AOG,County Agricultural Extension Council Member,,Merle Lee Mann,,656,281,375
 Mahaska,OS4 - FCRC,County Agricultural Extension Council Member,,Merle Lee Mann,,572,223,349
-Mahaska,BCH,County Agricultural Extension Council Member,,Shirley Goemaat,,443,164,279
+Mahaska,BCH,County Agricultural Extension Council Member,,Shirley Goemaat,,444,165,279
 Mahaska,ELC,County Agricultural Extension Council Member,,Shirley Goemaat,,773,327,446
-Mahaska,FCC,County Agricultural Extension Council Member,,Shirley Goemaat,,507,128,379
-Mahaska,LCRC,County Agricultural Extension Council Member,,Shirley Goemaat,,501,128,373
-Mahaska,NS,County Agricultural Extension Council Member,,Shirley Goemaat,,690,177,513
+Mahaska,FCC,County Agricultural Extension Council Member,,Shirley Goemaat,,508,129,379
+Mahaska,LCRC,County Agricultural Extension Council Member,,Shirley Goemaat,,506,133,373
+Mahaska,NS,County Agricultural Extension Council Member,,Shirley Goemaat,,692,179,513
 Mahaska,OS1 - EXT,County Agricultural Extension Council Member,,Shirley Goemaat,,410,166,244
-Mahaska,OS2 - GW,County Agricultural Extension Council Member,,Shirley Goemaat,,511,236,275
+Mahaska,OS2 - GW,County Agricultural Extension Council Member,,Shirley Goemaat,,513,238,275
 Mahaska,OS3 - AOG,County Agricultural Extension Council Member,,Shirley Goemaat,,698,300,398
 Mahaska,OS4 - FCRC,County Agricultural Extension Council Member,,Shirley Goemaat,,606,247,359
 Mahaska,BCH,County Agricultural Extension Council Member,,Write-In,,8,0,8
@@ -126,13 +130,13 @@ Mahaska,OS1 - EXT,County Agricultural Extension Council Member,,Write-In,,6,1,5
 Mahaska,OS2 - GW,County Agricultural Extension Council Member,,Write-In,,9,0,9
 Mahaska,OS3 - AOG,County Agricultural Extension Council Member,,Write-In,,10,7,3
 Mahaska,OS4 - FCRC,County Agricultural Extension Council Member,,Write-In,,10,9,1
-Mahaska,BCH,County Attorney,,Andrew J. Ritland,REP,651,236,415
+Mahaska,BCH,County Attorney,,Andrew J. Ritland,REP,652,237,415
 Mahaska,ELC,County Attorney,,Andrew J. Ritland,REP,951,391,560
-Mahaska,FCC,County Attorney,,Andrew J. Ritland,REP,654,175,479
-Mahaska,LCRC,County Attorney,,Andrew J. Ritland,REP,747,195,552
-Mahaska,NS,County Attorney,,Andrew J. Ritland,REP,887,233,654
+Mahaska,FCC,County Attorney,,Andrew J. Ritland,REP,655,176,479
+Mahaska,LCRC,County Attorney,,Andrew J. Ritland,REP,757,205,552
+Mahaska,NS,County Attorney,,Andrew J. Ritland,REP,890,236,654
 Mahaska,OS1 - EXT,County Attorney,,Andrew J. Ritland,REP,513,209,304
-Mahaska,OS2 - GW,County Attorney,,Andrew J. Ritland,REP,647,294,353
+Mahaska,OS2 - GW,County Attorney,,Andrew J. Ritland,REP,649,296,353
 Mahaska,OS3 - AOG,County Attorney,,Andrew J. Ritland,REP,864,361,503
 Mahaska,OS4 - FCRC,County Attorney,,Andrew J. Ritland,REP,762,298,464
 Mahaska,BCH,County Attorney,,Write-In,,10,5,5
@@ -144,13 +148,13 @@ Mahaska,OS1 - EXT,County Attorney,,Write-In,,4,1,3
 Mahaska,OS2 - GW,County Attorney,,Write-In,,15,5,10
 Mahaska,OS3 - AOG,County Attorney,,Write-In,,18,12,6
 Mahaska,OS4 - FCRC,County Attorney,,Write-In,,20,11,9
-Mahaska,BCH,County Auditor To Fill a Vacancy,,Madison Garden,REP,658,238,420
+Mahaska,BCH,County Auditor To Fill a Vacancy,,Madison Garden,REP,659,239,420
 Mahaska,ELC,County Auditor To Fill a Vacancy,,Madison Garden,REP,953,395,558
-Mahaska,FCC,County Auditor To Fill a Vacancy,,Madison Garden,REP,673,178,495
-Mahaska,LCRC,County Auditor To Fill a Vacancy,,Madison Garden,REP,743,197,546
-Mahaska,NS,County Auditor To Fill a Vacancy,,Madison Garden,REP,903,236,667
+Mahaska,FCC,County Auditor To Fill a Vacancy,,Madison Garden,REP,674,179,495
+Mahaska,LCRC,County Auditor To Fill a Vacancy,,Madison Garden,REP,753,207,546
+Mahaska,NS,County Auditor To Fill a Vacancy,,Madison Garden,REP,906,239,667
 Mahaska,OS1 - EXT,County Auditor To Fill a Vacancy,,Madison Garden,REP,521,214,307
-Mahaska,OS2 - GW,County Auditor To Fill a Vacancy,,Madison Garden,REP,662,306,356
+Mahaska,OS2 - GW,County Auditor To Fill a Vacancy,,Madison Garden,REP,664,308,356
 Mahaska,OS3 - AOG,County Auditor To Fill a Vacancy,,Madison Garden,REP,886,374,512
 Mahaska,OS4 - FCRC,County Auditor To Fill a Vacancy,,Madison Garden,REP,771,302,469
 Mahaska,BCH,County Auditor To Fill a Vacancy,,Write-In,,5,3,2
@@ -162,20 +166,20 @@ Mahaska,OS1 - EXT,County Auditor To Fill a Vacancy,,Write-In,,8,2,6
 Mahaska,OS2 - GW,County Auditor To Fill a Vacancy,,Write-In,,13,4,9
 Mahaska,OS3 - AOG,County Auditor To Fill a Vacancy,,Write-In,,12,7,5
 Mahaska,OS4 - FCRC,County Auditor To Fill a Vacancy,,Write-In,,15,8,7
-Mahaska,BCH,County Board of Supervisors,,Chuck Webb,REP,455,159,296
+Mahaska,BCH,County Board of Supervisors,,Chuck Webb,REP,456,160,296
 Mahaska,ELC,County Board of Supervisors,,Chuck Webb,REP,815,345,470
-Mahaska,FCC,County Board of Supervisors,,Chuck Webb,REP,561,152,409
-Mahaska,LCRC,County Board of Supervisors,,Chuck Webb,REP,511,145,366
-Mahaska,NS,County Board of Supervisors,,Chuck Webb,REP,699,201,498
+Mahaska,FCC,County Board of Supervisors,,Chuck Webb,REP,562,153,409
+Mahaska,LCRC,County Board of Supervisors,,Chuck Webb,REP,514,148,366
+Mahaska,NS,County Board of Supervisors,,Chuck Webb,REP,701,203,498
 Mahaska,OS1 - EXT,County Board of Supervisors,,Chuck Webb,REP,347,138,209
-Mahaska,OS2 - GW,County Board of Supervisors,,Chuck Webb,REP,481,216,265
+Mahaska,OS2 - GW,County Board of Supervisors,,Chuck Webb,REP,483,218,265
 Mahaska,OS3 - AOG,County Board of Supervisors,,Chuck Webb,REP,731,313,418
 Mahaska,OS4 - FCRC,County Board of Supervisors,,Chuck Webb,REP,577,231,346
-Mahaska,BCH,County Board of Supervisors,,Steve Wanders,REP,548,201,347
+Mahaska,BCH,County Board of Supervisors,,Steve Wanders,REP,549,202,347
 Mahaska,ELC,County Board of Supervisors,,Steve Wanders,REP,684,293,391
-Mahaska,FCC,County Board of Supervisors,,Steve Wanders,REP,495,142,353
-Mahaska,LCRC,County Board of Supervisors,,Steve Wanders,REP,679,181,498
-Mahaska,NS,County Board of Supervisors,,Steve Wanders,REP,673,184,489
+Mahaska,FCC,County Board of Supervisors,,Steve Wanders,REP,496,143,353
+Mahaska,LCRC,County Board of Supervisors,,Steve Wanders,REP,685,187,498
+Mahaska,NS,County Board of Supervisors,,Steve Wanders,REP,675,186,489
 Mahaska,OS1 - EXT,County Board of Supervisors,,Steve Wanders,REP,377,158,219
 Mahaska,OS2 - GW,County Board of Supervisors,,Steve Wanders,REP,477,233,244
 Mahaska,OS3 - AOG,County Board of Supervisors,,Steve Wanders,REP,592,256,336
@@ -189,40 +193,40 @@ Mahaska,OS1 - EXT,County Board of Supervisors,,Write-In,,21,8,13
 Mahaska,OS2 - GW,County Board of Supervisors,,Write-In,,32,12,20
 Mahaska,OS3 - AOG,County Board of Supervisors,,Write-In,,48,22,26
 Mahaska,OS4 - FCRC,County Board of Supervisors,,Write-In,,65,26,39
-Mahaska,BCH,County Hospital Trustee,,David Langkamp,,505,190,315
+Mahaska,BCH,County Hospital Trustee,,David Langkamp,,506,191,315
 Mahaska,ELC,County Hospital Trustee,,David Langkamp,,811,353,458
-Mahaska,FCC,County Hospital Trustee,,David Langkamp,,537,150,387
-Mahaska,LCRC,County Hospital Trustee,,David Langkamp,,506,139,367
-Mahaska,NS,County Hospital Trustee,,David Langkamp,,647,185,462
+Mahaska,FCC,County Hospital Trustee,,David Langkamp,,538,151,387
+Mahaska,LCRC,County Hospital Trustee,,David Langkamp,,510,143,367
+Mahaska,NS,County Hospital Trustee,,David Langkamp,,648,186,462
 Mahaska,OS1 - EXT,County Hospital Trustee,,David Langkamp,,431,185,246
-Mahaska,OS2 - GW,County Hospital Trustee,,David Langkamp,,555,258,297
+Mahaska,OS2 - GW,County Hospital Trustee,,David Langkamp,,556,259,297
 Mahaska,OS3 - AOG,County Hospital Trustee,,David Langkamp,,750,320,430
 Mahaska,OS4 - FCRC,County Hospital Trustee,,David Langkamp,,681,277,404
-Mahaska,BCH,County Hospital Trustee,,Donna Arendt,,389,139,250
+Mahaska,BCH,County Hospital Trustee,,Donna Arendt,,390,140,250
 Mahaska,ELC,County Hospital Trustee,,Donna Arendt,,666,290,376
-Mahaska,FCC,County Hospital Trustee,,Donna Arendt,,452,117,335
-Mahaska,LCRC,County Hospital Trustee,,Donna Arendt,,453,115,338
-Mahaska,NS,County Hospital Trustee,,Donna Arendt,,572,157,415
+Mahaska,FCC,County Hospital Trustee,,Donna Arendt,,453,118,335
+Mahaska,LCRC,County Hospital Trustee,,Donna Arendt,,457,119,338
+Mahaska,NS,County Hospital Trustee,,Donna Arendt,,574,159,415
 Mahaska,OS1 - EXT,County Hospital Trustee,,Donna Arendt,,358,147,211
-Mahaska,OS2 - GW,County Hospital Trustee,,Donna Arendt,,460,222,238
+Mahaska,OS2 - GW,County Hospital Trustee,,Donna Arendt,,462,224,238
 Mahaska,OS3 - AOG,County Hospital Trustee,,Donna Arendt,,668,292,376
 Mahaska,OS4 - FCRC,County Hospital Trustee,,Donna Arendt,,567,237,330
-Mahaska,BCH,County Hospital Trustee,,Joette Stout,,432,160,272
+Mahaska,BCH,County Hospital Trustee,,Joette Stout,,433,161,272
 Mahaska,ELC,County Hospital Trustee,,Joette Stout,,737,311,426
-Mahaska,FCC,County Hospital Trustee,,Joette Stout,,472,125,347
-Mahaska,LCRC,County Hospital Trustee,,Joette Stout,,485,133,352
-Mahaska,NS,County Hospital Trustee,,Joette Stout,,698,192,506
+Mahaska,FCC,County Hospital Trustee,,Joette Stout,,473,126,347
+Mahaska,LCRC,County Hospital Trustee,,Joette Stout,,488,136,352
+Mahaska,NS,County Hospital Trustee,,Joette Stout,,699,193,506
 Mahaska,OS1 - EXT,County Hospital Trustee,,Joette Stout,,384,161,223
-Mahaska,OS2 - GW,County Hospital Trustee,,Joette Stout,,469,226,243
+Mahaska,OS2 - GW,County Hospital Trustee,,Joette Stout,,471,228,243
 Mahaska,OS3 - AOG,County Hospital Trustee,,Joette Stout,,705,297,408
 Mahaska,OS4 - FCRC,County Hospital Trustee,,Joette Stout,,601,246,355
-Mahaska,BCH,County Hospital Trustee,,Marsha Riordan,,380,137,243
+Mahaska,BCH,County Hospital Trustee,,Marsha Riordan,,381,138,243
 Mahaska,ELC,County Hospital Trustee,,Marsha Riordan,,654,284,370
-Mahaska,FCC,County Hospital Trustee,,Marsha Riordan,,438,118,320
-Mahaska,LCRC,County Hospital Trustee,,Marsha Riordan,,445,119,326
-Mahaska,NS,County Hospital Trustee,,Marsha Riordan,,555,159,396
+Mahaska,FCC,County Hospital Trustee,,Marsha Riordan,,439,119,320
+Mahaska,LCRC,County Hospital Trustee,,Marsha Riordan,,450,124,326
+Mahaska,NS,County Hospital Trustee,,Marsha Riordan,,557,161,396
 Mahaska,OS1 - EXT,County Hospital Trustee,,Marsha Riordan,,364,147,217
-Mahaska,OS2 - GW,County Hospital Trustee,,Marsha Riordan,,442,208,234
+Mahaska,OS2 - GW,County Hospital Trustee,,Marsha Riordan,,444,210,234
 Mahaska,OS3 - AOG,County Hospital Trustee,,Marsha Riordan,,656,289,367
 Mahaska,OS4 - FCRC,County Hospital Trustee,,Marsha Riordan,,591,253,338
 Mahaska,BCH,County Hospital Trustee,,Write-In,,7,1,6
@@ -234,13 +238,13 @@ Mahaska,OS1 - EXT,County Hospital Trustee,,Write-In,,8,3,5
 Mahaska,OS2 - GW,County Hospital Trustee,,Write-In,,15,0,15
 Mahaska,OS3 - AOG,County Hospital Trustee,,Write-In,,10,7,3
 Mahaska,OS4 - FCRC,County Hospital Trustee,,Write-In,,20,12,8
-Mahaska,BCH,County Recorder,,Tracey Ver Steegh,REP,694,255,439
+Mahaska,BCH,County Recorder,,Tracey Ver Steegh,REP,695,256,439
 Mahaska,ELC,County Recorder,,Tracey Ver Steegh,REP,1007,416,591
-Mahaska,FCC,County Recorder,,Tracey Ver Steegh,REP,700,183,517
-Mahaska,LCRC,County Recorder,,Tracey Ver Steegh,REP,762,199,563
-Mahaska,NS,County Recorder,,Tracey Ver Steegh,REP,925,242,683
+Mahaska,FCC,County Recorder,,Tracey Ver Steegh,REP,701,184,517
+Mahaska,LCRC,County Recorder,,Tracey Ver Steegh,REP,772,209,563
+Mahaska,NS,County Recorder,,Tracey Ver Steegh,REP,928,245,683
 Mahaska,OS1 - EXT,County Recorder,,Tracey Ver Steegh,REP,537,219,318
-Mahaska,OS2 - GW,County Recorder,,Tracey Ver Steegh,REP,677,310,367
+Mahaska,OS2 - GW,County Recorder,,Tracey Ver Steegh,REP,679,312,367
 Mahaska,OS3 - AOG,County Recorder,,Tracey Ver Steegh,REP,916,388,528
 Mahaska,OS4 - FCRC,County Recorder,,Tracey Ver Steegh,REP,802,319,483
 Mahaska,BCH,County Recorder,,Write-In,,4,2,2
@@ -252,13 +256,13 @@ Mahaska,OS1 - EXT,County Recorder,,Write-In,,6,3,3
 Mahaska,OS2 - GW,County Recorder,,Write-In,,13,5,8
 Mahaska,OS3 - AOG,County Recorder,,Write-In,,10,7,3
 Mahaska,OS4 - FCRC,County Recorder,,Write-In,,13,7,6
-Mahaska,BCH,County Treasurer,,Shauna Hol,REP,694,255,439
+Mahaska,BCH,County Treasurer,,Shauna Hol,REP,695,256,439
 Mahaska,ELC,County Treasurer,,Shauna Hol,REP,1017,417,600
-Mahaska,FCC,County Treasurer,,Shauna Hol,REP,694,182,512
-Mahaska,LCRC,County Treasurer,,Shauna Hol,REP,771,208,563
-Mahaska,NS,County Treasurer,,Shauna Hol,REP,929,241,688
+Mahaska,FCC,County Treasurer,,Shauna Hol,REP,695,183,512
+Mahaska,LCRC,County Treasurer,,Shauna Hol,REP,781,218,563
+Mahaska,NS,County Treasurer,,Shauna Hol,REP,932,244,688
 Mahaska,OS1 - EXT,County Treasurer,,Shauna Hol,REP,540,217,323
-Mahaska,OS2 - GW,County Treasurer,,Shauna Hol,REP,683,315,368
+Mahaska,OS2 - GW,County Treasurer,,Shauna Hol,REP,685,317,368
 Mahaska,OS3 - AOG,County Treasurer,,Shauna Hol,REP,922,392,530
 Mahaska,OS4 - FCRC,County Treasurer,,Shauna Hol,REP,809,325,484
 Mahaska,BCH,County Treasurer,,Write-In,,6,3,3
@@ -270,112 +274,112 @@ Mahaska,OS1 - EXT,County Treasurer,,Write-In,,7,4,3
 Mahaska,OS2 - GW,County Treasurer,,Write-In,,14,4,10
 Mahaska,OS3 - AOG,County Treasurer,,Write-In,,10,7,3
 Mahaska,OS4 - FCRC,County Treasurer,,Write-In,,17,8,9
-Mahaska,BCH,Court of Appeals Judge - John M. Sandy,,No,,141,50,91
+Mahaska,BCH,Court of Appeals Judge - John M. Sandy,,No,,142,51,91
 Mahaska,ELC,Court of Appeals Judge - John M. Sandy,,No,,174,73,101
 Mahaska,FCC,Court of Appeals Judge - John M. Sandy,,No,,165,44,121
-Mahaska,LCRC,Court of Appeals Judge - John M. Sandy,,No,,154,35,119
+Mahaska,LCRC,Court of Appeals Judge - John M. Sandy,,No,,155,36,119
 Mahaska,NS,Court of Appeals Judge - John M. Sandy,,No,,189,65,124
 Mahaska,OS1 - EXT,Court of Appeals Judge - John M. Sandy,,No,,122,54,68
-Mahaska,OS2 - GW,Court of Appeals Judge - John M. Sandy,,No,,132,64,68
+Mahaska,OS2 - GW,Court of Appeals Judge - John M. Sandy,,No,,134,66,68
 Mahaska,OS3 - AOG,Court of Appeals Judge - John M. Sandy,,No,,200,73,127
 Mahaska,OS4 - FCRC,Court of Appeals Judge - John M. Sandy,,No,,162,54,108
-Mahaska,BCH,Court of Appeals Judge - John M. Sandy,,Yes,,362,135,227
+Mahaska,BCH,Court of Appeals Judge - John M. Sandy,,Yes,,363,136,227
 Mahaska,ELC,Court of Appeals Judge - John M. Sandy,,Yes,,597,257,340
-Mahaska,FCC,Court of Appeals Judge - John M. Sandy,,Yes,,391,100,291
-Mahaska,LCRC,Court of Appeals Judge - John M. Sandy,,Yes,,413,108,305
-Mahaska,NS,Court of Appeals Judge - John M. Sandy,,Yes,,560,147,413
+Mahaska,FCC,Court of Appeals Judge - John M. Sandy,,Yes,,392,101,291
+Mahaska,LCRC,Court of Appeals Judge - John M. Sandy,,Yes,,417,112,305
+Mahaska,NS,Court of Appeals Judge - John M. Sandy,,Yes,,563,150,413
 Mahaska,OS1 - EXT,Court of Appeals Judge - John M. Sandy,,Yes,,347,144,203
-Mahaska,OS2 - GW,Court of Appeals Judge - John M. Sandy,,Yes,,423,193,230
+Mahaska,OS2 - GW,Court of Appeals Judge - John M. Sandy,,Yes,,424,194,230
 Mahaska,OS3 - AOG,Court of Appeals Judge - John M. Sandy,,Yes,,625,287,338
 Mahaska,OS4 - FCRC,Court of Appeals Judge - John M. Sandy,,Yes,,549,225,324
-Mahaska,BCH,Court of Appeals Judge - Julie A. Schumacher,,No,,151,54,97
+Mahaska,BCH,Court of Appeals Judge - Julie A. Schumacher,,No,,152,55,97
 Mahaska,ELC,Court of Appeals Judge - Julie A. Schumacher,,No,,170,69,101
 Mahaska,FCC,Court of Appeals Judge - Julie A. Schumacher,,No,,160,42,118
 Mahaska,LCRC,Court of Appeals Judge - Julie A. Schumacher,,No,,153,31,122
 Mahaska,NS,Court of Appeals Judge - Julie A. Schumacher,,No,,188,62,126
 Mahaska,OS1 - EXT,Court of Appeals Judge - Julie A. Schumacher,,No,,117,47,70
-Mahaska,OS2 - GW,Court of Appeals Judge - Julie A. Schumacher,,No,,126,57,69
+Mahaska,OS2 - GW,Court of Appeals Judge - Julie A. Schumacher,,No,,128,59,69
 Mahaska,OS3 - AOG,Court of Appeals Judge - Julie A. Schumacher,,No,,192,72,120
 Mahaska,OS4 - FCRC,Court of Appeals Judge - Julie A. Schumacher,,No,,159,58,101
-Mahaska,BCH,Court of Appeals Judge - Julie A. Schumacher,,Yes,,358,132,226
+Mahaska,BCH,Court of Appeals Judge - Julie A. Schumacher,,Yes,,359,133,226
 Mahaska,ELC,Court of Appeals Judge - Julie A. Schumacher,,Yes,,611,265,346
-Mahaska,FCC,Court of Appeals Judge - Julie A. Schumacher,,Yes,,399,102,297
-Mahaska,LCRC,Court of Appeals Judge - Julie A. Schumacher,,Yes,,419,116,303
-Mahaska,NS,Court of Appeals Judge - Julie A. Schumacher,,Yes,,565,151,414
+Mahaska,FCC,Court of Appeals Judge - Julie A. Schumacher,,Yes,,400,103,297
+Mahaska,LCRC,Court of Appeals Judge - Julie A. Schumacher,,Yes,,423,120,303
+Mahaska,NS,Court of Appeals Judge - Julie A. Schumacher,,Yes,,568,154,414
 Mahaska,OS1 - EXT,Court of Appeals Judge - Julie A. Schumacher,,Yes,,357,151,206
-Mahaska,OS2 - GW,Court of Appeals Judge - Julie A. Schumacher,,Yes,,431,199,232
+Mahaska,OS2 - GW,Court of Appeals Judge - Julie A. Schumacher,,Yes,,432,200,232
 Mahaska,OS3 - AOG,Court of Appeals Judge - Julie A. Schumacher,,Yes,,638,290,348
 Mahaska,OS4 - FCRC,Court of Appeals Judge - Julie A. Schumacher,,Yes,,555,222,333
-Mahaska,BCH,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,147,53,94
+Mahaska,BCH,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,148,54,94
 Mahaska,ELC,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,197,77,120
 Mahaska,FCC,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,162,44,118
 Mahaska,LCRC,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,171,39,132
 Mahaska,NS,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,200,59,141
 Mahaska,OS1 - EXT,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,115,48,67
-Mahaska,OS2 - GW,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,136,62,74
+Mahaska,OS2 - GW,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,138,64,74
 Mahaska,OS3 - AOG,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,205,73,132
 Mahaska,OS4 - FCRC,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,187,59,128
-Mahaska,BCH,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,359,131,228
+Mahaska,BCH,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,360,132,228
 Mahaska,ELC,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,580,253,327
-Mahaska,FCC,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,401,101,300
-Mahaska,LCRC,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,403,109,294
-Mahaska,NS,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,559,153,406
+Mahaska,FCC,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,402,102,300
+Mahaska,LCRC,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,407,113,294
+Mahaska,NS,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,562,156,406
 Mahaska,OS1 - EXT,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,360,150,210
-Mahaska,OS2 - GW,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,437,209,228
+Mahaska,OS2 - GW,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,438,210,228
 Mahaska,OS3 - AOG,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,630,290,340
 Mahaska,OS4 - FCRC,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,538,229,309
-Mahaska,BCH,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,140,46,94
+Mahaska,BCH,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,141,47,94
 Mahaska,ELC,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,164,68,96
 Mahaska,FCC,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,155,42,113
 Mahaska,LCRC,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,160,32,128
 Mahaska,NS,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,178,51,127
 Mahaska,OS1 - EXT,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,107,42,65
-Mahaska,OS2 - GW,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,112,53,59
+Mahaska,OS2 - GW,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,114,55,59
 Mahaska,OS3 - AOG,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,178,62,116
 Mahaska,OS4 - FCRC,District 8A Associate Judge - Jennifer Nicole Jensen,,No,,160,54,106
-Mahaska,BCH,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,371,142,229
+Mahaska,BCH,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,372,143,229
 Mahaska,ELC,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,617,268,349
-Mahaska,FCC,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,409,104,305
-Mahaska,LCRC,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,419,116,303
-Mahaska,NS,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,577,158,419
+Mahaska,FCC,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,410,105,305
+Mahaska,LCRC,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,424,121,303
+Mahaska,NS,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,580,161,419
 Mahaska,OS1 - EXT,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,364,155,209
-Mahaska,OS2 - GW,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,450,211,239
+Mahaska,OS2 - GW,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,451,212,239
 Mahaska,OS3 - AOG,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,646,298,348
 Mahaska,OS4 - FCRC,District 8A Associate Judge - Jennifer Nicole Jensen,,Yes,,558,231,327
-Mahaska,BCH,District 8A Associate Judge - Susan Cole,,No,,150,55,95
+Mahaska,BCH,District 8A Associate Judge - Susan Cole,,No,,151,56,95
 Mahaska,ELC,District 8A Associate Judge - Susan Cole,,No,,168,72,96
 Mahaska,FCC,District 8A Associate Judge - Susan Cole,,No,,157,43,114
 Mahaska,LCRC,District 8A Associate Judge - Susan Cole,,No,,154,30,124
 Mahaska,NS,District 8A Associate Judge - Susan Cole,,No,,190,61,129
 Mahaska,OS1 - EXT,District 8A Associate Judge - Susan Cole,,No,,111,44,67
-Mahaska,OS2 - GW,District 8A Associate Judge - Susan Cole,,No,,130,61,69
+Mahaska,OS2 - GW,District 8A Associate Judge - Susan Cole,,No,,132,63,69
 Mahaska,OS3 - AOG,District 8A Associate Judge - Susan Cole,,No,,190,66,124
 Mahaska,OS4 - FCRC,District 8A Associate Judge - Susan Cole,,No,,162,56,106
-Mahaska,BCH,District 8A Associate Judge - Susan Cole,,Yes,,358,132,226
+Mahaska,BCH,District 8A Associate Judge - Susan Cole,,Yes,,359,133,226
 Mahaska,ELC,District 8A Associate Judge - Susan Cole,,Yes,,605,260,345
-Mahaska,FCC,District 8A Associate Judge - Susan Cole,,Yes,,391,100,291
-Mahaska,LCRC,District 8A Associate Judge - Susan Cole,,Yes,,421,117,304
-Mahaska,NS,District 8A Associate Judge - Susan Cole,,Yes,,555,147,408
+Mahaska,FCC,District 8A Associate Judge - Susan Cole,,Yes,,392,101,291
+Mahaska,LCRC,District 8A Associate Judge - Susan Cole,,Yes,,425,121,304
+Mahaska,NS,District 8A Associate Judge - Susan Cole,,Yes,,558,150,408
 Mahaska,OS1 - EXT,District 8A Associate Judge - Susan Cole,,Yes,,353,151,202
-Mahaska,OS2 - GW,District 8A Associate Judge - Susan Cole,,Yes,,427,200,227
+Mahaska,OS2 - GW,District 8A Associate Judge - Susan Cole,,Yes,,428,201,227
 Mahaska,OS3 - AOG,District 8A Associate Judge - Susan Cole,,Yes,,635,295,340
 Mahaska,OS4 - FCRC,District 8A Associate Judge - Susan Cole,,Yes,,538,214,324
-Mahaska,BCH,District 8A Judge - Amber L. Thompson,,No,,140,49,91
+Mahaska,BCH,District 8A Judge - Amber L. Thompson,,No,,141,50,91
 Mahaska,ELC,District 8A Judge - Amber L. Thompson,,No,,155,64,91
 Mahaska,FCC,District 8A Judge - Amber L. Thompson,,No,,157,39,118
 Mahaska,LCRC,District 8A Judge - Amber L. Thompson,,No,,154,35,119
 Mahaska,NS,District 8A Judge - Amber L. Thompson,,No,,181,56,125
 Mahaska,OS1 - EXT,District 8A Judge - Amber L. Thompson,,No,,104,42,62
-Mahaska,OS2 - GW,District 8A Judge - Amber L. Thompson,,No,,118,56,62
+Mahaska,OS2 - GW,District 8A Judge - Amber L. Thompson,,No,,120,58,62
 Mahaska,OS3 - AOG,District 8A Judge - Amber L. Thompson,,No,,193,71,122
 Mahaska,OS4 - FCRC,District 8A Judge - Amber L. Thompson,,No,,153,47,106
-Mahaska,BCH,District 8A Judge - Amber L. Thompson,,Yes,,380,142,238
+Mahaska,BCH,District 8A Judge - Amber L. Thompson,,Yes,,381,143,238
 Mahaska,ELC,District 8A Judge - Amber L. Thompson,,Yes,,638,280,358
-Mahaska,FCC,District 8A Judge - Amber L. Thompson,,Yes,,403,106,297
-Mahaska,LCRC,District 8A Judge - Amber L. Thompson,,Yes,,420,112,308
-Mahaska,NS,District 8A Judge - Amber L. Thompson,,Yes,,570,154,416
+Mahaska,FCC,District 8A Judge - Amber L. Thompson,,Yes,,404,107,297
+Mahaska,LCRC,District 8A Judge - Amber L. Thompson,,Yes,,424,116,308
+Mahaska,NS,District 8A Judge - Amber L. Thompson,,Yes,,573,157,416
 Mahaska,OS1 - EXT,District 8A Judge - Amber L. Thompson,,Yes,,369,159,210
-Mahaska,OS2 - GW,District 8A Judge - Amber L. Thompson,,Yes,,456,218,238
+Mahaska,OS2 - GW,District 8A Judge - Amber L. Thompson,,Yes,,457,219,238
 Mahaska,OS3 - AOG,District 8A Judge - Amber L. Thompson,,Yes,,649,299,350
 Mahaska,OS4 - FCRC,District 8A Judge - Amber L. Thompson,,Yes,,564,234,330
 Mahaska,BCH,District 8A Judge - Dustin Hite,,No,,145,59,86
@@ -384,33 +388,47 @@ Mahaska,FCC,District 8A Judge - Dustin Hite,,No,,146,39,107
 Mahaska,LCRC,District 8A Judge - Dustin Hite,,No,,143,29,114
 Mahaska,NS,District 8A Judge - Dustin Hite,,No,,196,62,134
 Mahaska,OS1 - EXT,District 8A Judge - Dustin Hite,,No,,127,54,73
-Mahaska,OS2 - GW,District 8A Judge - Dustin Hite,,No,,124,60,64
+Mahaska,OS2 - GW,District 8A Judge - Dustin Hite,,No,,126,62,64
 Mahaska,OS3 - AOG,District 8A Judge - Dustin Hite,,No,,203,73,130
 Mahaska,OS4 - FCRC,District 8A Judge - Dustin Hite,,No,,179,67,112
-Mahaska,BCH,District 8A Judge - Dustin Hite,,Yes,,413,154,259
+Mahaska,BCH,District 8A Judge - Dustin Hite,,Yes,,415,156,259
 Mahaska,ELC,District 8A Judge - Dustin Hite,,Yes,,728,326,402
-Mahaska,FCC,District 8A Judge - Dustin Hite,,Yes,,434,116,318
-Mahaska,LCRC,District 8A Judge - Dustin Hite,,Yes,,481,138,343
-Mahaska,NS,District 8A Judge - Dustin Hite,,Yes,,675,184,491
+Mahaska,FCC,District 8A Judge - Dustin Hite,,Yes,,435,117,318
+Mahaska,LCRC,District 8A Judge - Dustin Hite,,Yes,,486,143,343
+Mahaska,NS,District 8A Judge - Dustin Hite,,Yes,,678,187,491
 Mahaska,OS1 - EXT,District 8A Judge - Dustin Hite,,Yes,,374,155,219
-Mahaska,OS2 - GW,District 8A Judge - Dustin Hite,,Yes,,496,232,264
+Mahaska,OS2 - GW,District 8A Judge - Dustin Hite,,Yes,,497,233,264
 Mahaska,OS3 - AOG,District 8A Judge - Dustin Hite,,Yes,,683,317,366
 Mahaska,OS4 - FCRC,District 8A Judge - Dustin Hite,,Yes,,604,247,357
-Mahaska,BCH,East Des Moines Township Clerk,,Linda DeRonde,,100,35,65
+Mahaska,BCH,East Des Moines Township Clerk,,Linda DeRonde,,101,36,65
 Mahaska,BCH,East Des Moines Township Clerk,,Write-In,,0,0,0
-Mahaska,BCH,East Des Moines Township Trustee,,Brent DeRonde,,93,30,63
-Mahaska,BCH,East Des Moines Township Trustee,,Roger Rodwell,,79,28,51
+Mahaska,BCH,East Des Moines Township Trustee,,Brent DeRonde,,94,31,63
+Mahaska,BCH,East Des Moines Township Trustee,,Roger Rodwell,,80,29,51
 Mahaska,BCH,East Des Moines Township Trustee,,Write-In,,0,0,0
-Mahaska,BCH,Garfield Township Clerk,,Write-In,,4,2,2
-Mahaska,BCH,Garfield Township Trustee,,Write-In,,19,7,12
-Mahaska,BCH,Garfield Township Trustee To Fill a Vacancy,,Write-In,,8,3,5
-Mahaska,BCH,Governor,,Rob Sand and Dave Muhlbauer,DEM,209,99,110
+Mahaska,BCH,Garfield Township Clerk,,Edward Kinkade,,1,1,0
+Mahaska,BCH,Garfield Township Clerk,,Janet Boender,,1,1,0
+Mahaska,BCH,Garfield Township Clerk,,PePae Wymore,,1,0,1
+Mahaska,BCH,Garfield Township Clerk,,Robyn McCrea,,1,0,1
+Mahaska,BCH,Garfield Township Clerk,,Write-In,,0,0,0
+Mahaska,BCH,Garfield Township Trustee,,Ron McCrea,,2,0,2
+Mahaska,BCH,Garfield Township Trustee,,Thaddius Johnson,,2,0,2
+Mahaska,BCH,Garfield Township Trustee,,Write-In,,15,7,8
+Mahaska,BCH,Garfield Township Trustee To Fill a Vacancy,,Brant Brummel,,1,0,1
+Mahaska,BCH,Garfield Township Trustee To Fill a Vacancy,,Dave Vermeer,,1,1,0
+Mahaska,BCH,Garfield Township Trustee To Fill a Vacancy,,Janet Boender,,1,1,0
+Mahaska,BCH,Garfield Township Trustee To Fill a Vacancy,,Jared Waggoner,,1,0,1
+Mahaska,BCH,Garfield Township Trustee To Fill a Vacancy,,Kevin VanDonsalaar,,1,0,1
+Mahaska,BCH,Garfield Township Trustee To Fill a Vacancy,,Thomas F Johnson,,1,0,1
+Mahaska,BCH,Garfield Township Trustee To Fill a Vacancy,,Todd Westercamp,,1,1,0
+Mahaska,BCH,Garfield Township Trustee To Fill a Vacancy,,Wayne Wymore,,1,0,1
+Mahaska,BCH,Garfield Township Trustee To Fill a Vacancy,,Write-In,,0,0,0
+Mahaska,BCH,Governor,,Rob Sand and Dave Muhlbauer,DEM,210,100,110
 Mahaska,ELC,Governor,,Rob Sand and Dave Muhlbauer,DEM,342,178,164
 Mahaska,FCC,Governor,,Rob Sand and Dave Muhlbauer,DEM,234,91,143
-Mahaska,LCRC,Governor,,Rob Sand and Dave Muhlbauer,DEM,163,68,95
-Mahaska,NS,Governor,,Rob Sand and Dave Muhlbauer,DEM,287,116,171
+Mahaska,LCRC,Governor,,Rob Sand and Dave Muhlbauer,DEM,165,70,95
+Mahaska,NS,Governor,,Rob Sand and Dave Muhlbauer,DEM,289,118,171
 Mahaska,OS1 - EXT,Governor,,Rob Sand and Dave Muhlbauer,DEM,322,143,179
-Mahaska,OS2 - GW,Governor,,Rob Sand and Dave Muhlbauer,DEM,420,214,206
+Mahaska,OS2 - GW,Governor,,Rob Sand and Dave Muhlbauer,DEM,422,216,206
 Mahaska,OS3 - AOG,Governor,,Rob Sand and Dave Muhlbauer,DEM,494,254,240
 Mahaska,OS4 - FCRC,Governor,,Rob Sand and Dave Muhlbauer,DEM,506,241,265
 Mahaska,BCH,Governor,,Write-In,,2,2,0
@@ -422,65 +440,112 @@ Mahaska,OS1 - EXT,Governor,,Write-In,,1,0,1
 Mahaska,OS2 - GW,Governor,,Write-In,,0,0,0
 Mahaska,OS3 - AOG,Governor,,Write-In,,1,1,0
 Mahaska,OS4 - FCRC,Governor,,Write-In,,1,0,1
-Mahaska,BCH,Governor,,Zach Lahn and Derek Wulf,REP,576,198,378
+Mahaska,BCH,Governor,,Zach Lahn and Derek Wulf,REP,578,200,378
 Mahaska,ELC,Governor,,Zach Lahn and Derek Wulf,REP,841,329,512
-Mahaska,FCC,Governor,,Zach Lahn and Derek Wulf,REP,559,132,427
-Mahaska,LCRC,Governor,,Zach Lahn and Derek Wulf,REP,716,175,541
-Mahaska,NS,Governor,,Zach Lahn and Derek Wulf,REP,777,189,588
+Mahaska,FCC,Governor,,Zach Lahn and Derek Wulf,REP,560,133,427
+Mahaska,LCRC,Governor,,Zach Lahn and Derek Wulf,REP,724,183,541
+Mahaska,NS,Governor,,Zach Lahn and Derek Wulf,REP,778,190,588
 Mahaska,OS1 - EXT,Governor,,Zach Lahn and Derek Wulf,REP,363,141,222
-Mahaska,OS2 - GW,Governor,,Zach Lahn and Derek Wulf,REP,458,201,257
+Mahaska,OS2 - GW,Governor,,Zach Lahn and Derek Wulf,REP,459,202,257
 Mahaska,OS3 - AOG,Governor,,Zach Lahn and Derek Wulf,REP,634,242,392
 Mahaska,OS4 - FCRC,Governor,,Zach Lahn and Derek Wulf,REP,533,193,340
-Mahaska,FCC,Harrison Township Clerk,,Karen Fynaardt,,154,49,105
+Mahaska,FCC,Harrison Township Clerk,,Karen Fynaardt,,155,50,105
 Mahaska,FCC,Harrison Township Clerk,,Write-In,,1,0,1
-Mahaska,FCC,Harrison Township Trustee,,Write-In,,36,5,31
+Mahaska,FCC,Harrison Township Trustee,,Jim Jager,,2,0,2
+Mahaska,FCC,Harrison Township Trustee,,Maree Johnson,,24,3,21
+Mahaska,FCC,Harrison Township Trustee,,Write-In,,12,4,8
 Mahaska,BCH,Jefferson Township Clerk,,Jayne Rozenboom,,93,26,67
 Mahaska,BCH,Jefferson Township Clerk,,Write-In,,1,0,1
+Mahaska,BCH,Jefferson Township Trustee,,Greg Scott,,7,0,7
 Mahaska,BCH,Jefferson Township Trustee,,Jerry Parker,,94,28,66
-Mahaska,BCH,Jefferson Township Trustee,,Write-In,,10,0,10
+Mahaska,BCH,Jefferson Township Trustee,,Write-In,,3,0,3
+Mahaska,BCH,Lincoln Township Clerk,,Andrew Kurschinski,,0,0,0
+Mahaska,ELC,Lincoln Township Clerk,,Andrew Kurschinski,,1,0,1
+Mahaska,OS2 - GW,Lincoln Township Clerk,,Andrew Kurschinski,,0,0,0
+Mahaska,BCH,Lincoln Township Clerk,,Linda Lindgren,,0,0,0
+Mahaska,ELC,Lincoln Township Clerk,,Linda Lindgren,,1,1,0
+Mahaska,OS2 - GW,Lincoln Township Clerk,,Linda Lindgren,,0,0,0
+Mahaska,BCH,Lincoln Township Clerk,,Mona VanZomeran,,0,0,0
+Mahaska,ELC,Lincoln Township Clerk,,Mona VanZomeran,,1,0,1
+Mahaska,OS2 - GW,Lincoln Township Clerk,,Mona VanZomeran,,0,0,0
 Mahaska,BCH,Lincoln Township Clerk,,Write-In,,0,0,0
-Mahaska,ELC,Lincoln Township Clerk,,Write-In,,3,1,2
+Mahaska,ELC,Lincoln Township Clerk,,Write-In,,0,0,0
 Mahaska,OS2 - GW,Lincoln Township Clerk,,Write-In,,0,0,0
+Mahaska,BCH,Lincoln Township Trustee,,Chyann Vroegh,,0,0,0
+Mahaska,ELC,Lincoln Township Trustee,,Chyann Vroegh,,1,0,1
+Mahaska,OS2 - GW,Lincoln Township Trustee,,Chyann Vroegh,,0,0,0
+Mahaska,BCH,Lincoln Township Trustee,,David Prine,,0,0,0
+Mahaska,ELC,Lincoln Township Trustee,,David Prine,,1,0,1
+Mahaska,OS2 - GW,Lincoln Township Trustee,,David Prine,,0,0,0
+Mahaska,BCH,Lincoln Township Trustee,,Jim Silaes,,0,0,0
+Mahaska,ELC,Lincoln Township Trustee,,Jim Silaes,,1,1,0
+Mahaska,OS2 - GW,Lincoln Township Trustee,,Jim Silaes,,0,0,0
+Mahaska,BCH,Lincoln Township Trustee,,Jim VanZomeran,,0,0,0
+Mahaska,ELC,Lincoln Township Trustee,,Jim VanZomeran,,1,0,1
+Mahaska,OS2 - GW,Lincoln Township Trustee,,Jim VanZomeran,,0,0,0
+Mahaska,BCH,Lincoln Township Trustee,,Linda Lindgren,,0,0,0
+Mahaska,ELC,Lincoln Township Trustee,,Linda Lindgren,,1,1,0
+Mahaska,OS2 - GW,Lincoln Township Trustee,,Linda Lindgren,,0,0,0
+Mahaska,BCH,Lincoln Township Trustee,,Mike Overbergen,,0,0,0
+Mahaska,ELC,Lincoln Township Trustee,,Mike Overbergen,,1,0,1
+Mahaska,OS2 - GW,Lincoln Township Trustee,,Mike Overbergen,,0,0,0
+Mahaska,BCH,Lincoln Township Trustee,,Tom Bowie,,0,0,0
+Mahaska,ELC,Lincoln Township Trustee,,Tom Bowie,,1,1,0
+Mahaska,OS2 - GW,Lincoln Township Trustee,,Tom Bowie,,0,0,0
 Mahaska,BCH,Lincoln Township Trustee,,Write-In,,0,0,0
-Mahaska,ELC,Lincoln Township Trustee,,Write-In,,7,3,4
+Mahaska,ELC,Lincoln Township Trustee,,Write-In,,0,0,0
 Mahaska,OS2 - GW,Lincoln Township Trustee,,Write-In,,0,0,0
-Mahaska,NS,Madison Township Clerk,,Write-In,,4,2,2
-Mahaska,NS,Madison Township Trustee,,John Bandstra,,144,59,85
-Mahaska,NS,Madison Township Trustee,,Write-In,,2,1,1
-Mahaska,ELC,Monroe Township Clerk,,Write-In,,14,6,8
-Mahaska,ELC,Monroe Township Trustee,,Write-In,,32,16,16
-Mahaska,NS,Pleasant Grove Township Clerk,,Write-In,,2,0,2
-Mahaska,NS,Pleasant Grove Township Trustee,,Write-In,,4,0,4
+Mahaska,NS,Madison Township Clerk,,Cori Drost,,1,0,1
+Mahaska,NS,Madison Township Clerk,,Jill DeBruin,,1,1,0
+Mahaska,NS,Madison Township Clerk,,Russ VanRenterghem,,1,0,1
+Mahaska,NS,Madison Township Clerk,,Write-In,,1,1,0
+Mahaska,NS,Madison Township Trustee,,Jerry DeBruin,,1,1,0
+Mahaska,NS,Madison Township Trustee,,John Bandstra,,145,60,85
+Mahaska,NS,Madison Township Trustee,,Matthew VanUtrecht,,1,0,1
+Mahaska,NS,Madison Township Trustee,,Write-In,,0,0,0
+Mahaska,ELC,Monroe Township Clerk,,Kelly Tish,,12,5,7
+Mahaska,ELC,Monroe Township Clerk,,Write-In,,2,1,1
+Mahaska,ELC,Monroe Township Trustee,,Dennis Molyneux,,12,5,7
+Mahaska,ELC,Monroe Township Trustee,,Kim Stek,,12,4,8
+Mahaska,ELC,Monroe Township Trustee,,Write-In,,8,7,1
+Mahaska,NS,Pleasant Grove Township Clerk,,Caleb Robinson,,1,0,1
+Mahaska,NS,Pleasant Grove Township Clerk,,Cheryle Maudlin,,1,0,1
+Mahaska,NS,Pleasant Grove Township Clerk,,Write-In,,0,0,0
+Mahaska,NS,Pleasant Grove Township Trustee,,Caleb Robinson,,1,0,1
+Mahaska,NS,Pleasant Grove Township Trustee,,Colton Moore,,1,0,1
+Mahaska,NS,Pleasant Grove Township Trustee,,Dave Maudlin,,1,0,1
+Mahaska,NS,Pleasant Grove Township Trustee,,John Nicholson,,1,0,1
+Mahaska,NS,Pleasant Grove Township Trustee,,Write-In,,0,0,0
 Mahaska,NS,Prairie Township Clerk,,Christopher Ver Steegh,,129,23,106
 Mahaska,NS,Prairie Township Clerk,,Write-In,,2,0,2
 Mahaska,NS,Prairie Township Trustee,,Laurel DeJong,,141,24,117
 Mahaska,NS,Prairie Township Trustee,,Write-In,,2,0,2
-Mahaska,LCRC,Richland Township Clerk,,Sandy Vander Hart,,240,77,163
+Mahaska,LCRC,Richland Township Clerk,,Sandy Vander Hart,,245,82,163
 Mahaska,LCRC,Richland Township Clerk,,Write-In,,0,0,0
-Mahaska,LCRC,Richland Township Trustee,,Lawrence Roose,,209,71,138
-Mahaska,LCRC,Richland Township Trustee,,Mike Vander Hart,,224,72,152
+Mahaska,LCRC,Richland Township Trustee,,Lawrence Roose,,211,73,138
+Mahaska,LCRC,Richland Township Trustee,,Mike Vander Hart,,228,76,152
 Mahaska,LCRC,Richland Township Trustee,,Write-In,,0,0,0
-Mahaska,LCRC,Scott Township Clerk,,Adrienne Johnson,,135,36,99
+Mahaska,LCRC,Scott Township Clerk,,Adrienne Johnson,,136,37,99
 Mahaska,LCRC,Scott Township Clerk,,Write-In,,2,0,2
-Mahaska,LCRC,Scott Township Trustee,,Jack Rempe,,140,40,100
-Mahaska,LCRC,Scott Township Trustee,,Michael R. Johnson,,119,37,82
+Mahaska,LCRC,Scott Township Trustee,,Jack Rempe,,141,41,100
+Mahaska,LCRC,Scott Township Trustee,,Michael R. Johnson,,120,38,82
 Mahaska,LCRC,Scott Township Trustee,,Write-In,,0,0,0
-Mahaska,BCH,Secretary of Agriculture,,Chris Jones,DEM,138,72,66
+Mahaska,BCH,Secretary of Agriculture,,Chris Jones,DEM,139,73,66
 Mahaska,ELC,Secretary of Agriculture,,Chris Jones,DEM,254,141,113
 Mahaska,FCC,Secretary of Agriculture,,Chris Jones,DEM,161,75,86
-Mahaska,LCRC,Secretary of Agriculture,,Chris Jones,DEM,100,42,58
-Mahaska,NS,Secretary of Agriculture,,Chris Jones,DEM,192,84,108
+Mahaska,LCRC,Secretary of Agriculture,,Chris Jones,DEM,102,44,58
+Mahaska,NS,Secretary of Agriculture,,Chris Jones,DEM,193,85,108
 Mahaska,OS1 - EXT,Secretary of Agriculture,,Chris Jones,DEM,263,123,140
-Mahaska,OS2 - GW,Secretary of Agriculture,,Chris Jones,DEM,335,177,158
+Mahaska,OS2 - GW,Secretary of Agriculture,,Chris Jones,DEM,337,179,158
 Mahaska,OS3 - AOG,Secretary of Agriculture,,Chris Jones,DEM,382,184,198
 Mahaska,OS4 - FCRC,Secretary of Agriculture,,Chris Jones,DEM,414,206,208
-Mahaska,BCH,Secretary of Agriculture,,Mike Naig,REP,632,220,412
+Mahaska,BCH,Secretary of Agriculture,,Mike Naig,REP,634,222,412
 Mahaska,ELC,Secretary of Agriculture,,Mike Naig,REP,921,362,559
-Mahaska,FCC,Secretary of Agriculture,,Mike Naig,REP,623,148,475
-Mahaska,LCRC,Secretary of Agriculture,,Mike Naig,REP,770,197,573
-Mahaska,NS,Secretary of Agriculture,,Mike Naig,REP,853,217,636
+Mahaska,FCC,Secretary of Agriculture,,Mike Naig,REP,624,149,475
+Mahaska,LCRC,Secretary of Agriculture,,Mike Naig,REP,778,205,573
+Mahaska,NS,Secretary of Agriculture,,Mike Naig,REP,855,219,636
 Mahaska,OS1 - EXT,Secretary of Agriculture,,Mike Naig,REP,411,160,251
-Mahaska,OS2 - GW,Secretary of Agriculture,,Mike Naig,REP,525,236,289
+Mahaska,OS2 - GW,Secretary of Agriculture,,Mike Naig,REP,526,237,289
 Mahaska,OS3 - AOG,Secretary of Agriculture,,Mike Naig,REP,728,305,423
 Mahaska,OS4 - FCRC,Secretary of Agriculture,,Mike Naig,REP,606,226,380
 Mahaska,BCH,Secretary of Agriculture,,Write-In,,0,0,0
@@ -492,22 +557,22 @@ Mahaska,OS1 - EXT,Secretary of Agriculture,,Write-In,,2,1,1
 Mahaska,OS2 - GW,Secretary of Agriculture,,Write-In,,1,1,0
 Mahaska,OS3 - AOG,Secretary of Agriculture,,Write-In,,0,0,0
 Mahaska,OS4 - FCRC,Secretary of Agriculture,,Write-In,,2,0,2
-Mahaska,BCH,Secretary of State,,Paul D. Pate,REP,644,230,414
+Mahaska,BCH,Secretary of State,,Paul D. Pate,REP,646,232,414
 Mahaska,ELC,Secretary of State,,Paul D. Pate,REP,925,364,561
-Mahaska,FCC,Secretary of State,,Paul D. Pate,REP,632,152,480
-Mahaska,LCRC,Secretary of State,,Paul D. Pate,REP,753,193,560
-Mahaska,NS,Secretary of State,,Paul D. Pate,REP,850,206,644
+Mahaska,FCC,Secretary of State,,Paul D. Pate,REP,633,153,480
+Mahaska,LCRC,Secretary of State,,Paul D. Pate,REP,762,202,560
+Mahaska,NS,Secretary of State,,Paul D. Pate,REP,852,208,644
 Mahaska,OS1 - EXT,Secretary of State,,Paul D. Pate,REP,412,153,259
-Mahaska,OS2 - GW,Secretary of State,,Paul D. Pate,REP,528,231,297
+Mahaska,OS2 - GW,Secretary of State,,Paul D. Pate,REP,529,232,297
 Mahaska,OS3 - AOG,Secretary of State,,Paul D. Pate,REP,728,298,430
 Mahaska,OS4 - FCRC,Secretary of State,,Paul D. Pate,REP,610,229,381
-Mahaska,BCH,Secretary of State,,Ryan Peterman,DEM,135,67,68
+Mahaska,BCH,Secretary of State,,Ryan Peterman,DEM,136,68,68
 Mahaska,ELC,Secretary of State,,Ryan Peterman,DEM,248,140,108
 Mahaska,FCC,Secretary of State,,Ryan Peterman,DEM,154,69,85
-Mahaska,LCRC,Secretary of State,,Ryan Peterman,DEM,115,47,68
-Mahaska,NS,Secretary of State,,Ryan Peterman,DEM,198,95,103
+Mahaska,LCRC,Secretary of State,,Ryan Peterman,DEM,116,48,68
+Mahaska,NS,Secretary of State,,Ryan Peterman,DEM,199,96,103
 Mahaska,OS1 - EXT,Secretary of State,,Ryan Peterman,DEM,267,131,136
-Mahaska,OS2 - GW,Secretary of State,,Ryan Peterman,DEM,333,178,155
+Mahaska,OS2 - GW,Secretary of State,,Ryan Peterman,DEM,335,180,155
 Mahaska,OS3 - AOG,Secretary of State,,Ryan Peterman,DEM,383,191,192
 Mahaska,OS4 - FCRC,Secretary of State,,Ryan Peterman,DEM,410,200,210
 Mahaska,BCH,Secretary of State,,Write-In,,0,0,0
@@ -521,20 +586,20 @@ Mahaska,OS3 - AOG,Secretary of State,,Write-In,,0,0,0
 Mahaska,OS4 - FCRC,Secretary of State,,Write-In,,1,0,1
 Mahaska,BCH,Soil and Water Conservation District Commissioner,,Gene De Bruin,,498,179,319
 Mahaska,ELC,Soil and Water Conservation District Commissioner,,Gene De Bruin,,799,328,471
-Mahaska,FCC,Soil and Water Conservation District Commissioner,,Gene De Bruin,,535,141,394
-Mahaska,LCRC,Soil and Water Conservation District Commissioner,,Gene De Bruin,,608,165,443
-Mahaska,NS,Soil and Water Conservation District Commissioner,,Gene De Bruin,,687,188,499
+Mahaska,FCC,Soil and Water Conservation District Commissioner,,Gene De Bruin,,536,142,394
+Mahaska,LCRC,Soil and Water Conservation District Commissioner,,Gene De Bruin,,614,171,443
+Mahaska,NS,Soil and Water Conservation District Commissioner,,Gene De Bruin,,689,190,499
 Mahaska,OS1 - EXT,Soil and Water Conservation District Commissioner,,Gene De Bruin,,408,162,246
-Mahaska,OS2 - GW,Soil and Water Conservation District Commissioner,,Gene De Bruin,,505,234,271
+Mahaska,OS2 - GW,Soil and Water Conservation District Commissioner,,Gene De Bruin,,508,237,271
 Mahaska,OS3 - AOG,Soil and Water Conservation District Commissioner,,Gene De Bruin,,713,306,407
 Mahaska,OS4 - FCRC,Soil and Water Conservation District Commissioner,,Gene De Bruin,,644,263,381
-Mahaska,BCH,Soil and Water Conservation District Commissioner,,Steven Plate,,455,160,295
+Mahaska,BCH,Soil and Water Conservation District Commissioner,,Steven Plate,,456,161,295
 Mahaska,ELC,Soil and Water Conservation District Commissioner,,Steven Plate,,737,318,419
-Mahaska,FCC,Soil and Water Conservation District Commissioner,,Steven Plate,,513,127,386
-Mahaska,LCRC,Soil and Water Conservation District Commissioner,,Steven Plate,,528,147,381
-Mahaska,NS,Soil and Water Conservation District Commissioner,,Steven Plate,,671,183,488
+Mahaska,FCC,Soil and Water Conservation District Commissioner,,Steven Plate,,514,128,386
+Mahaska,LCRC,Soil and Water Conservation District Commissioner,,Steven Plate,,532,151,381
+Mahaska,NS,Soil and Water Conservation District Commissioner,,Steven Plate,,673,185,488
 Mahaska,OS1 - EXT,Soil and Water Conservation District Commissioner,,Steven Plate,,408,168,240
-Mahaska,OS2 - GW,Soil and Water Conservation District Commissioner,,Steven Plate,,492,240,252
+Mahaska,OS2 - GW,Soil and Water Conservation District Commissioner,,Steven Plate,,493,241,252
 Mahaska,OS3 - AOG,Soil and Water Conservation District Commissioner,,Steven Plate,,716,304,412
 Mahaska,OS4 - FCRC,Soil and Water Conservation District Commissioner,,Steven Plate,,634,251,383
 Mahaska,BCH,Soil and Water Conservation District Commissioner,,Write-In,,10,5,5
@@ -546,17 +611,20 @@ Mahaska,OS1 - EXT,Soil and Water Conservation District Commissioner,,Write-In,,4
 Mahaska,OS2 - GW,Soil and Water Conservation District Commissioner,,Write-In,,7,0,7
 Mahaska,OS3 - AOG,Soil and Water Conservation District Commissioner,,Write-In,,5,3,2
 Mahaska,OS4 - FCRC,Soil and Water Conservation District Commissioner,,Write-In,,9,6,3
-Mahaska,ELC,Spring Creek Township Clerk,,Write-In,,21,8,13
-Mahaska,ELC,Spring Creek Township Trustee,,Write-In,,50,18,32
-Mahaska,BCH,State House,37,Jason Sandholdt,REP,692,250,442
-Mahaska,LCRC,State House,37,Jason Sandholdt,REP,788,205,583
+Mahaska,ELC,Spring Creek Township Clerk,,Joan Boer,,6,3,3
+Mahaska,ELC,Spring Creek Township Clerk,,Write-In,,15,5,10
+Mahaska,ELC,Spring Creek Township Trustee,,Terry Boer,,7,4,3
+Mahaska,ELC,Spring Creek Township Trustee,,Tony Kunz,,6,3,3
+Mahaska,ELC,Spring Creek Township Trustee,,Write-In,,37,11,26
+Mahaska,BCH,State House,37,Jason Sandholdt,REP,694,252,442
+Mahaska,LCRC,State House,37,Jason Sandholdt,REP,798,215,583
 Mahaska,BCH,State House,37,Write-In,,9,6,3
 Mahaska,LCRC,State House,37,Write-In,,6,0,6
 Mahaska,ELC,State House,88,Helena Hayes,REP,956,372,584
-Mahaska,FCC,State House,88,Helena Hayes,REP,670,162,508
-Mahaska,NS,State House,88,Helena Hayes,REP,880,217,663
+Mahaska,FCC,State House,88,Helena Hayes,REP,671,163,508
+Mahaska,NS,State House,88,Helena Hayes,REP,883,220,663
 Mahaska,OS1 - EXT,State House,88,Helena Hayes,REP,503,201,302
-Mahaska,OS2 - GW,State House,88,Helena Hayes,REP,642,292,350
+Mahaska,OS2 - GW,State House,88,Helena Hayes,REP,644,294,350
 Mahaska,OS3 - AOG,State House,88,Helena Hayes,REP,842,340,502
 Mahaska,OS4 - FCRC,State House,88,Helena Hayes,REP,707,258,449
 Mahaska,ELC,State House,88,Write-In,,37,18,19
@@ -566,28 +634,28 @@ Mahaska,OS1 - EXT,State House,88,Write-In,,18,8,10
 Mahaska,OS2 - GW,State House,88,Write-In,,29,14,15
 Mahaska,OS3 - AOG,State House,88,Write-In,,38,18,20
 Mahaska,OS4 - FCRC,State House,88,Write-In,,62,33,29
-Mahaska,BCH,State Senate,19,Barb Kniff McCulla,REP,607,215,392
-Mahaska,LCRC,State Senate,19,Barb Kniff McCulla,REP,755,186,569
+Mahaska,BCH,State Senate,19,Barb Kniff McCulla,REP,609,217,392
+Mahaska,LCRC,State Senate,19,Barb Kniff McCulla,REP,764,195,569
 Mahaska,BCH,State Senate,19,Write-In,,0,0,0
 Mahaska,LCRC,State Senate,19,Write-In,,0,0,0
-Mahaska,BCH,State Senate,19,Zachary Mecham,DEM,153,70,83
+Mahaska,BCH,State Senate,19,Zachary Mecham,DEM,154,71,83
 Mahaska,LCRC,State Senate,19,Zachary Mecham,DEM,115,51,64
-Mahaska,BCH,Treasurer of State,,John Norwood,DEM,149,74,75
+Mahaska,BCH,Treasurer of State,,John Norwood,DEM,150,75,75
 Mahaska,ELC,Treasurer of State,,John Norwood,DEM,267,154,113
 Mahaska,FCC,Treasurer of State,,John Norwood,DEM,181,84,97
-Mahaska,LCRC,Treasurer of State,,John Norwood,DEM,128,56,72
-Mahaska,NS,Treasurer of State,,John Norwood,DEM,214,96,118
+Mahaska,LCRC,Treasurer of State,,John Norwood,DEM,130,58,72
+Mahaska,NS,Treasurer of State,,John Norwood,DEM,216,98,118
 Mahaska,OS1 - EXT,Treasurer of State,,John Norwood,DEM,280,134,146
-Mahaska,OS2 - GW,Treasurer of State,,John Norwood,DEM,352,193,159
+Mahaska,OS2 - GW,Treasurer of State,,John Norwood,DEM,354,195,159
 Mahaska,OS3 - AOG,Treasurer of State,,John Norwood,DEM,422,215,207
 Mahaska,OS4 - FCRC,Treasurer of State,,John Norwood,DEM,427,212,215
-Mahaska,BCH,Treasurer of State,,Roby Smith,REP,610,217,393
+Mahaska,BCH,Treasurer of State,,Roby Smith,REP,612,219,393
 Mahaska,ELC,Treasurer of State,,Roby Smith,REP,883,345,538
-Mahaska,FCC,Treasurer of State,,Roby Smith,REP,591,136,455
-Mahaska,LCRC,Treasurer of State,,Roby Smith,REP,722,178,544
-Mahaska,NS,Treasurer of State,,Roby Smith,REP,813,203,610
+Mahaska,FCC,Treasurer of State,,Roby Smith,REP,592,137,455
+Mahaska,LCRC,Treasurer of State,,Roby Smith,REP,730,186,544
+Mahaska,NS,Treasurer of State,,Roby Smith,REP,814,204,610
 Mahaska,OS1 - EXT,Treasurer of State,,Roby Smith,REP,391,148,243
-Mahaska,OS2 - GW,Treasurer of State,,Roby Smith,REP,492,210,282
+Mahaska,OS2 - GW,Treasurer of State,,Roby Smith,REP,493,211,282
 Mahaska,OS3 - AOG,Treasurer of State,,Roby Smith,REP,681,270,411
 Mahaska,OS4 - FCRC,Treasurer of State,,Roby Smith,REP,577,211,366
 Mahaska,BCH,Treasurer of State,,Write-In,,0,0,0
@@ -599,22 +667,22 @@ Mahaska,OS1 - EXT,Treasurer of State,,Write-In,,1,0,1
 Mahaska,OS2 - GW,Treasurer of State,,Write-In,,0,0,0
 Mahaska,OS3 - AOG,Treasurer of State,,Write-In,,0,0,0
 Mahaska,OS4 - FCRC,Treasurer of State,,Write-In,,0,0,0
-Mahaska,BCH,U.S. House,1,Christina Bohannan,DEM,166,79,87
+Mahaska,BCH,U.S. House,1,Christina Bohannan,DEM,167,80,87
 Mahaska,ELC,U.S. House,1,Christina Bohannan,DEM,277,153,124
 Mahaska,FCC,U.S. House,1,Christina Bohannan,DEM,176,78,98
-Mahaska,LCRC,U.S. House,1,Christina Bohannan,DEM,133,55,78
-Mahaska,NS,U.S. House,1,Christina Bohannan,DEM,230,103,127
+Mahaska,LCRC,U.S. House,1,Christina Bohannan,DEM,135,57,78
+Mahaska,NS,U.S. House,1,Christina Bohannan,DEM,232,105,127
 Mahaska,OS1 - EXT,U.S. House,1,Christina Bohannan,DEM,274,134,140
-Mahaska,OS2 - GW,U.S. House,1,Christina Bohannan,DEM,366,191,175
+Mahaska,OS2 - GW,U.S. House,1,Christina Bohannan,DEM,368,193,175
 Mahaska,OS3 - AOG,U.S. House,1,Christina Bohannan,DEM,418,216,202
 Mahaska,OS4 - FCRC,U.S. House,1,Christina Bohannan,DEM,448,224,224
-Mahaska,BCH,U.S. House,1,Mariannette Miller-Meeks,REP,571,199,372
+Mahaska,BCH,U.S. House,1,Mariannette Miller-Meeks,REP,573,201,372
 Mahaska,ELC,U.S. House,1,Mariannette Miller-Meeks,REP,860,335,525
-Mahaska,FCC,U.S. House,1,Mariannette Miller-Meeks,REP,570,135,435
-Mahaska,LCRC,U.S. House,1,Mariannette Miller-Meeks,REP,716,179,537
-Mahaska,NS,U.S. House,1,Mariannette Miller-Meeks,REP,784,191,593
+Mahaska,FCC,U.S. House,1,Mariannette Miller-Meeks,REP,571,136,435
+Mahaska,LCRC,U.S. House,1,Mariannette Miller-Meeks,REP,724,187,537
+Mahaska,NS,U.S. House,1,Mariannette Miller-Meeks,REP,785,192,593
 Mahaska,OS1 - EXT,U.S. House,1,Mariannette Miller-Meeks,REP,366,137,229
-Mahaska,OS2 - GW,U.S. House,1,Mariannette Miller-Meeks,REP,468,207,261
+Mahaska,OS2 - GW,U.S. House,1,Mariannette Miller-Meeks,REP,469,208,261
 Mahaska,OS3 - AOG,U.S. House,1,Mariannette Miller-Meeks,REP,657,264,393
 Mahaska,OS4 - FCRC,U.S. House,1,Mariannette Miller-Meeks,REP,552,198,354
 Mahaska,BCH,U.S. House,1,Michael Bridgford,,36,9,27
@@ -635,22 +703,22 @@ Mahaska,OS1 - EXT,U.S. House,1,Write-In,,1,0,1
 Mahaska,OS2 - GW,U.S. House,1,Write-In,,0,0,0
 Mahaska,OS3 - AOG,U.S. House,1,Write-In,,0,0,0
 Mahaska,OS4 - FCRC,U.S. House,1,Write-In,,0,0,0
-Mahaska,BCH,U.S. Senate,,Ashley Hinson,REP,577,197,380
+Mahaska,BCH,U.S. Senate,,Ashley Hinson,REP,579,199,380
 Mahaska,ELC,U.S. Senate,,Ashley Hinson,REP,869,336,533
-Mahaska,FCC,U.S. Senate,,Ashley Hinson,REP,571,135,436
-Mahaska,LCRC,U.S. Senate,,Ashley Hinson,REP,715,179,536
-Mahaska,NS,U.S. Senate,,Ashley Hinson,REP,781,188,593
+Mahaska,FCC,U.S. Senate,,Ashley Hinson,REP,572,136,436
+Mahaska,LCRC,U.S. Senate,,Ashley Hinson,REP,723,187,536
+Mahaska,NS,U.S. Senate,,Ashley Hinson,REP,782,189,593
 Mahaska,OS1 - EXT,U.S. Senate,,Ashley Hinson,REP,351,133,218
-Mahaska,OS2 - GW,U.S. Senate,,Ashley Hinson,REP,471,202,269
+Mahaska,OS2 - GW,U.S. Senate,,Ashley Hinson,REP,472,203,269
 Mahaska,OS3 - AOG,U.S. Senate,,Ashley Hinson,REP,642,260,382
 Mahaska,OS4 - FCRC,U.S. Senate,,Ashley Hinson,REP,539,194,345
-Mahaska,BCH,U.S. Senate,,Josh Turek,DEM,171,82,89
+Mahaska,BCH,U.S. Senate,,Josh Turek,DEM,172,83,89
 Mahaska,ELC,U.S. Senate,,Josh Turek,DEM,276,152,124
 Mahaska,FCC,U.S. Senate,,Josh Turek,DEM,186,84,102
-Mahaska,LCRC,U.S. Senate,,Josh Turek,DEM,140,58,82
-Mahaska,NS,U.S. Senate,,Josh Turek,DEM,237,104,133
+Mahaska,LCRC,U.S. Senate,,Josh Turek,DEM,142,60,82
+Mahaska,NS,U.S. Senate,,Josh Turek,DEM,239,106,133
 Mahaska,OS1 - EXT,U.S. Senate,,Josh Turek,DEM,287,134,153
-Mahaska,OS2 - GW,U.S. Senate,,Josh Turek,DEM,355,190,165
+Mahaska,OS2 - GW,U.S. Senate,,Josh Turek,DEM,356,191,165
 Mahaska,OS3 - AOG,U.S. Senate,,Josh Turek,DEM,424,211,213
 Mahaska,OS4 - FCRC,U.S. Senate,,Josh Turek,DEM,448,221,227
 Mahaska,BCH,U.S. Senate,,Thomas Laehn,LIB,25,8,17
@@ -671,8 +739,17 @@ Mahaska,OS1 - EXT,U.S. Senate,,Write-In,,1,0,1
 Mahaska,OS2 - GW,U.S. Senate,,Write-In,,0,0,0
 Mahaska,OS3 - AOG,U.S. Senate,,Write-In,,0,0,0
 Mahaska,OS4 - FCRC,U.S. Senate,,Write-In,,4,1,3
-Mahaska,NS,Union Township Clerk,,Write-In,,4,0,4
-Mahaska,NS,Union Township Trustee,,Write-In,,9,3,6
+Mahaska,NS,Union Township Clerk,,Caleb Hargis,,1,0,1
+Mahaska,NS,Union Township Clerk,,Heather Martin,,1,0,1
+Mahaska,NS,Union Township Clerk,,Kari Ferguson,,1,0,1
+Mahaska,NS,Union Township Clerk,,Write-In,,1,0,1
+Mahaska,NS,Union Township Trustee,,Brett Ferguson,,1,0,1
+Mahaska,NS,Union Township Trustee,,Daniel Goodman,,1,0,1
+Mahaska,NS,Union Township Trustee,,Dwight Randals,,1,0,1
+Mahaska,NS,Union Township Trustee,,Josh Martin,,1,0,1
+Mahaska,NS,Union Township Trustee,,Kent Ferguson,,2,2,0
+Mahaska,NS,Union Township Trustee,,Les Zimmerman,,1,0,1
+Mahaska,NS,Union Township Trustee,,Write-In,,2,1,1
 Mahaska,BCH,West Des Moines Township Clerk,,Lois Harris,,68,21,47
 Mahaska,BCH,West Des Moines Township Clerk,,Write-In,,0,0,0
 Mahaska,BCH,West Des Moines Township Trustee,,Dennis Antolik,,56,18,38
@@ -681,4 +758,5 @@ Mahaska,BCH,West Des Moines Township Trustee,,Write-In,,0,0,0
 Mahaska,FCC,White Oak Township Clerk,,Vickie Cope,,105,43,62
 Mahaska,FCC,White Oak Township Clerk,,Write-In,,1,1,0
 Mahaska,FCC,White Oak Township Trustee,,Carroll Hol,,106,43,63
-Mahaska,FCC,White Oak Township Trustee,,Write-In,,7,3,4
+Mahaska,FCC,White Oak Township Trustee,,Eldon Louwsma,,3,1,2
+Mahaska,FCC,White Oak Township Trustee,,Write-In,,4,2,2

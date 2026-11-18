@@ -536,8 +536,8 @@
       "file": "agriculture_commissioner_2026.json",
       "rows": 99,
       "scope": "",
-      "dem_total": 629377,
-      "rep_total": 702101,
+      "dem_total": 631260,
+      "rep_total": 702627,
       "major_party_contested": true,
       "result_status": "unofficial"
     },
@@ -547,8 +547,8 @@
       "file": "attorney_general_2026.json",
       "rows": 99,
       "scope": "",
-      "dem_total": 681245,
-      "rep_total": 657607,
+      "dem_total": 683177,
+      "rep_total": 658090,
       "major_party_contested": true,
       "result_status": "unofficial"
     },
@@ -558,8 +558,8 @@
       "file": "auditor_2026.json",
       "rows": 99,
       "scope": "",
-      "dem_total": 666770,
-      "rep_total": 660364,
+      "dem_total": 668698,
+      "rep_total": 660829,
       "major_party_contested": true,
       "result_status": "unofficial"
     },
@@ -569,8 +569,8 @@
       "file": "governor_2026.json",
       "rows": 99,
       "scope": "",
-      "dem_total": 757506,
-      "rep_total": 607591,
+      "dem_total": 759570,
+      "rep_total": 608025,
       "major_party_contested": true,
       "result_status": "unofficial"
     },
@@ -580,8 +580,8 @@
       "file": "secretary_of_state_2026.json",
       "rows": 99,
       "scope": "",
-      "dem_total": 625997,
-      "rep_total": 711984,
+      "dem_total": 627868,
+      "rep_total": 712522,
       "major_party_contested": true,
       "result_status": "unofficial"
     },
@@ -591,8 +591,8 @@
       "file": "treasurer_2026.json",
       "rows": 99,
       "scope": "",
-      "dem_total": 655910,
-      "rep_total": 665143,
+      "dem_total": 657807,
+      "rep_total": 665629,
       "major_party_contested": true,
       "result_status": "unofficial"
     },
@@ -602,8 +602,8 @@
       "file": "us_senate_2026.json",
       "rows": 99,
       "scope": "",
-      "dem_total": 686640,
-      "rep_total": 630808,
+      "dem_total": 688613,
+      "rep_total": 631276,
       "major_party_contested": true,
       "result_status": "unofficial"
     }

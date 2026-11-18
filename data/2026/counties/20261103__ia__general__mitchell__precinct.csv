@@ -5,19 +5,19 @@ Mitchell,Precinct #11,Attorney General,,Brenna Bird,REP,128,60,68
 Mitchell,Precinct #12,Attorney General,,Brenna Bird,REP,103,42,61
 Mitchell,Precinct #2,Attorney General,,Brenna Bird,REP,149,46,103
 Mitchell,Precinct #3,Attorney General,,Brenna Bird,REP,195,91,104
-Mitchell,Precinct #4,Attorney General,,Brenna Bird,REP,203,78,125
-Mitchell,Precinct #5,Attorney General,,Brenna Bird,REP,192,48,144
+Mitchell,Precinct #4,Attorney General,,Brenna Bird,REP,204,79,125
+Mitchell,Precinct #5,Attorney General,,Brenna Bird,REP,193,49,144
 Mitchell,Precinct #6,Attorney General,,Brenna Bird,REP,256,47,209
 Mitchell,Precinct #7,Attorney General,,Brenna Bird,REP,254,50,204
 Mitchell,Precinct #8,Attorney General,,Brenna Bird,REP,320,76,244
-Mitchell,Precinct #9,Attorney General,,Brenna Bird,REP,447,106,341
+Mitchell,Precinct #9,Attorney General,,Brenna Bird,REP,450,109,341
 Mitchell,Precinct #1,Attorney General,,Nate Willems,DEM,166,85,81
 Mitchell,Precinct #10,Attorney General,,Nate Willems,DEM,95,50,45
 Mitchell,Precinct #11,Attorney General,,Nate Willems,DEM,81,52,29
 Mitchell,Precinct #12,Attorney General,,Nate Willems,DEM,40,23,17
-Mitchell,Precinct #2,Attorney General,,Nate Willems,DEM,155,82,73
+Mitchell,Precinct #2,Attorney General,,Nate Willems,DEM,156,83,73
 Mitchell,Precinct #3,Attorney General,,Nate Willems,DEM,130,83,47
-Mitchell,Precinct #4,Attorney General,,Nate Willems,DEM,196,139,57
+Mitchell,Precinct #4,Attorney General,,Nate Willems,DEM,198,141,57
 Mitchell,Precinct #5,Attorney General,,Nate Willems,DEM,95,47,48
 Mitchell,Precinct #6,Attorney General,,Nate Willems,DEM,145,53,92
 Mitchell,Precinct #7,Attorney General,,Nate Willems,DEM,166,61,105
@@ -41,19 +41,19 @@ Mitchell,Precinct #11,Auditor of State,,Chris Cournoyer,REP,130,61,69
 Mitchell,Precinct #12,Auditor of State,,Chris Cournoyer,REP,98,37,61
 Mitchell,Precinct #2,Auditor of State,,Chris Cournoyer,REP,151,46,105
 Mitchell,Precinct #3,Auditor of State,,Chris Cournoyer,REP,187,88,99
-Mitchell,Precinct #4,Auditor of State,,Chris Cournoyer,REP,204,73,131
-Mitchell,Precinct #5,Auditor of State,,Chris Cournoyer,REP,197,48,149
+Mitchell,Precinct #4,Auditor of State,,Chris Cournoyer,REP,205,74,131
+Mitchell,Precinct #5,Auditor of State,,Chris Cournoyer,REP,198,49,149
 Mitchell,Precinct #6,Auditor of State,,Chris Cournoyer,REP,251,48,203
 Mitchell,Precinct #7,Auditor of State,,Chris Cournoyer,REP,259,50,209
 Mitchell,Precinct #8,Auditor of State,,Chris Cournoyer,REP,319,75,244
-Mitchell,Precinct #9,Auditor of State,,Chris Cournoyer,REP,433,108,325
+Mitchell,Precinct #9,Auditor of State,,Chris Cournoyer,REP,436,111,325
 Mitchell,Precinct #1,Auditor of State,,Taylor Wettach,DEM,161,85,76
 Mitchell,Precinct #10,Auditor of State,,Taylor Wettach,DEM,88,50,38
 Mitchell,Precinct #11,Auditor of State,,Taylor Wettach,DEM,78,52,26
 Mitchell,Precinct #12,Auditor of State,,Taylor Wettach,DEM,46,27,19
-Mitchell,Precinct #2,Auditor of State,,Taylor Wettach,DEM,150,81,69
+Mitchell,Precinct #2,Auditor of State,,Taylor Wettach,DEM,151,82,69
 Mitchell,Precinct #3,Auditor of State,,Taylor Wettach,DEM,135,86,49
-Mitchell,Precinct #4,Auditor of State,,Taylor Wettach,DEM,202,144,58
+Mitchell,Precinct #4,Auditor of State,,Taylor Wettach,DEM,204,146,58
 Mitchell,Precinct #5,Auditor of State,,Taylor Wettach,DEM,87,46,41
 Mitchell,Precinct #6,Auditor of State,,Taylor Wettach,DEM,149,53,96
 Mitchell,Precinct #7,Auditor of State,,Taylor Wettach,DEM,163,62,101
@@ -74,10 +74,23 @@ Mitchell,Precinct #9,Auditor of State,,Write-In,,1,0,1
 Mitchell,Precinct #5,Burr Oak Township Clerk,,Dale Hemann,,66,30,36
 Mitchell,Precinct #5,Burr Oak Township Clerk,,Write-In,,0,0,0
 Mitchell,Precinct #5,Burr Oak Township Trustee,,Charlotte Barker,,58,28,30
-Mitchell,Precinct #5,Burr Oak Township Trustee,,Write-In,,10,7,3
-Mitchell,Precinct #10,Cedar Township Clerk,,Write-In,,8,4,4
+Mitchell,Precinct #5,Burr Oak Township Trustee,,Chris Bartz,,5,4,1
+Mitchell,Precinct #5,Burr Oak Township Trustee,,Write-In,,5,3,2
+Mitchell,Precinct #10,Cedar Township Clerk,,Abby Larson,,2,1,1
+Mitchell,Precinct #11,Cedar Township Clerk,,Abby Larson,,0,0,0
+Mitchell,Precinct #12,Cedar Township Clerk,,Abby Larson,,0,0,0
+Mitchell,Precinct #8,Cedar Township Clerk,,Abby Larson,,0,0,0
+Mitchell,Precinct #10,Cedar Township Clerk,,Blank,,1,1,0
+Mitchell,Precinct #11,Cedar Township Clerk,,Blank,,0,0,0
+Mitchell,Precinct #12,Cedar Township Clerk,,Blank,,1,0,1
+Mitchell,Precinct #8,Cedar Township Clerk,,Blank,,0,0,0
+Mitchell,Precinct #10,Cedar Township Clerk,,Tanner Betts,,2,0,2
+Mitchell,Precinct #11,Cedar Township Clerk,,Tanner Betts,,0,0,0
+Mitchell,Precinct #12,Cedar Township Clerk,,Tanner Betts,,0,0,0
+Mitchell,Precinct #8,Cedar Township Clerk,,Tanner Betts,,0,0,0
+Mitchell,Precinct #10,Cedar Township Clerk,,Write-In,,3,2,1
 Mitchell,Precinct #11,Cedar Township Clerk,,Write-In,,2,0,2
-Mitchell,Precinct #12,Cedar Township Clerk,,Write-In,,1,0,1
+Mitchell,Precinct #12,Cedar Township Clerk,,Write-In,,0,0,0
 Mitchell,Precinct #8,Cedar Township Clerk,,Write-In,,0,0,0
 Mitchell,Precinct #10,Cedar Township Trustee,,Abby Larson,,111,45,66
 Mitchell,Precinct #11,Cedar Township Trustee,,Abby Larson,,71,33,38
@@ -95,9 +108,9 @@ Mitchell,Precinct #1,Constitutional Amendment 1,,No,,146,65,81
 Mitchell,Precinct #10,Constitutional Amendment 1,,No,,94,35,59
 Mitchell,Precinct #11,Constitutional Amendment 1,,No,,75,49,26
 Mitchell,Precinct #12,Constitutional Amendment 1,,No,,42,22,20
-Mitchell,Precinct #2,Constitutional Amendment 1,,No,,126,67,59
+Mitchell,Precinct #2,Constitutional Amendment 1,,No,,127,68,59
 Mitchell,Precinct #3,Constitutional Amendment 1,,No,,112,58,54
-Mitchell,Precinct #4,Constitutional Amendment 1,,No,,152,91,61
+Mitchell,Precinct #4,Constitutional Amendment 1,,No,,155,94,61
 Mitchell,Precinct #5,Constitutional Amendment 1,,No,,85,34,51
 Mitchell,Precinct #6,Constitutional Amendment 1,,No,,122,31,91
 Mitchell,Precinct #7,Constitutional Amendment 1,,No,,158,42,116
@@ -110,71 +123,71 @@ Mitchell,Precinct #12,Constitutional Amendment 1,,Yes,,90,40,50
 Mitchell,Precinct #2,Constitutional Amendment 1,,Yes,,154,51,103
 Mitchell,Precinct #3,Constitutional Amendment 1,,Yes,,187,105,82
 Mitchell,Precinct #4,Constitutional Amendment 1,,Yes,,210,103,107
-Mitchell,Precinct #5,Constitutional Amendment 1,,Yes,,166,49,117
+Mitchell,Precinct #5,Constitutional Amendment 1,,Yes,,167,50,117
 Mitchell,Precinct #6,Constitutional Amendment 1,,Yes,,225,49,176
 Mitchell,Precinct #7,Constitutional Amendment 1,,Yes,,215,59,156
 Mitchell,Precinct #8,Constitutional Amendment 1,,Yes,,264,85,179
-Mitchell,Precinct #9,Constitutional Amendment 1,,Yes,,421,121,300
+Mitchell,Precinct #9,Constitutional Amendment 1,,Yes,,424,124,300
 Mitchell,Precinct #1,County Agricultural Extension Council Member,,Jason Rice,,268,96,172
 Mitchell,Precinct #10,County Agricultural Extension Council Member,,Jason Rice,,193,64,129
 Mitchell,Precinct #11,County Agricultural Extension Council Member,,Jason Rice,,161,84,77
 Mitchell,Precinct #12,County Agricultural Extension Council Member,,Jason Rice,,119,54,65
-Mitchell,Precinct #2,County Agricultural Extension Council Member,,Jason Rice,,200,79,121
+Mitchell,Precinct #2,County Agricultural Extension Council Member,,Jason Rice,,201,80,121
 Mitchell,Precinct #3,County Agricultural Extension Council Member,,Jason Rice,,216,112,104
-Mitchell,Precinct #4,County Agricultural Extension Council Member,,Jason Rice,,288,154,134
+Mitchell,Precinct #4,County Agricultural Extension Council Member,,Jason Rice,,289,155,134
 Mitchell,Precinct #5,County Agricultural Extension Council Member,,Jason Rice,,192,64,128
 Mitchell,Precinct #6,County Agricultural Extension Council Member,,Jason Rice,,248,55,193
 Mitchell,Precinct #7,County Agricultural Extension Council Member,,Jason Rice,,311,87,224
 Mitchell,Precinct #8,County Agricultural Extension Council Member,,Jason Rice,,333,113,220
-Mitchell,Precinct #9,County Agricultural Extension Council Member,,Jason Rice,,524,145,379
+Mitchell,Precinct #9,County Agricultural Extension Council Member,,Jason Rice,,526,147,379
 Mitchell,Precinct #1,County Agricultural Extension Council Member,,Keith Meitner,,278,102,176
 Mitchell,Precinct #10,County Agricultural Extension Council Member,,Keith Meitner,,214,75,139
 Mitchell,Precinct #11,County Agricultural Extension Council Member,,Keith Meitner,,169,85,84
 Mitchell,Precinct #12,County Agricultural Extension Council Member,,Keith Meitner,,112,49,63
-Mitchell,Precinct #2,County Agricultural Extension Council Member,,Keith Meitner,,221,89,132
+Mitchell,Precinct #2,County Agricultural Extension Council Member,,Keith Meitner,,222,90,132
 Mitchell,Precinct #3,County Agricultural Extension Council Member,,Keith Meitner,,231,127,104
-Mitchell,Precinct #4,County Agricultural Extension Council Member,,Keith Meitner,,300,165,135
-Mitchell,Precinct #5,County Agricultural Extension Council Member,,Keith Meitner,,198,67,131
+Mitchell,Precinct #4,County Agricultural Extension Council Member,,Keith Meitner,,301,166,135
+Mitchell,Precinct #5,County Agricultural Extension Council Member,,Keith Meitner,,199,68,131
 Mitchell,Precinct #6,County Agricultural Extension Council Member,,Keith Meitner,,253,59,194
 Mitchell,Precinct #7,County Agricultural Extension Council Member,,Keith Meitner,,332,95,237
 Mitchell,Precinct #8,County Agricultural Extension Council Member,,Keith Meitner,,363,121,242
-Mitchell,Precinct #9,County Agricultural Extension Council Member,,Keith Meitner,,578,163,415
+Mitchell,Precinct #9,County Agricultural Extension Council Member,,Keith Meitner,,580,165,415
 Mitchell,Precinct #1,County Agricultural Extension Council Member,,Kirk W. Phelps,,259,93,166
 Mitchell,Precinct #10,County Agricultural Extension Council Member,,Kirk W. Phelps,,188,62,126
 Mitchell,Precinct #11,County Agricultural Extension Council Member,,Kirk W. Phelps,,147,75,72
 Mitchell,Precinct #12,County Agricultural Extension Council Member,,Kirk W. Phelps,,106,48,58
-Mitchell,Precinct #2,County Agricultural Extension Council Member,,Kirk W. Phelps,,203,80,123
+Mitchell,Precinct #2,County Agricultural Extension Council Member,,Kirk W. Phelps,,204,81,123
 Mitchell,Precinct #3,County Agricultural Extension Council Member,,Kirk W. Phelps,,204,106,98
-Mitchell,Precinct #4,County Agricultural Extension Council Member,,Kirk W. Phelps,,275,147,128
-Mitchell,Precinct #5,County Agricultural Extension Council Member,,Kirk W. Phelps,,184,65,119
+Mitchell,Precinct #4,County Agricultural Extension Council Member,,Kirk W. Phelps,,276,148,128
+Mitchell,Precinct #5,County Agricultural Extension Council Member,,Kirk W. Phelps,,185,66,119
 Mitchell,Precinct #6,County Agricultural Extension Council Member,,Kirk W. Phelps,,234,53,181
 Mitchell,Precinct #7,County Agricultural Extension Council Member,,Kirk W. Phelps,,311,87,224
 Mitchell,Precinct #8,County Agricultural Extension Council Member,,Kirk W. Phelps,,338,115,223
-Mitchell,Precinct #9,County Agricultural Extension Council Member,,Kirk W. Phelps,,540,148,392
+Mitchell,Precinct #9,County Agricultural Extension Council Member,,Kirk W. Phelps,,542,150,392
 Mitchell,Precinct #1,County Agricultural Extension Council Member,,Mary Klaes,,305,114,191
 Mitchell,Precinct #10,County Agricultural Extension Council Member,,Mary Klaes,,223,74,149
 Mitchell,Precinct #11,County Agricultural Extension Council Member,,Mary Klaes,,183,97,86
 Mitchell,Precinct #12,County Agricultural Extension Council Member,,Mary Klaes,,120,53,67
-Mitchell,Precinct #2,County Agricultural Extension Council Member,,Mary Klaes,,235,96,139
+Mitchell,Precinct #2,County Agricultural Extension Council Member,,Mary Klaes,,236,97,139
 Mitchell,Precinct #3,County Agricultural Extension Council Member,,Mary Klaes,,247,134,113
-Mitchell,Precinct #4,County Agricultural Extension Council Member,,Mary Klaes,,313,170,143
+Mitchell,Precinct #4,County Agricultural Extension Council Member,,Mary Klaes,,314,171,143
 Mitchell,Precinct #5,County Agricultural Extension Council Member,,Mary Klaes,,224,69,155
 Mitchell,Precinct #6,County Agricultural Extension Council Member,,Mary Klaes,,296,67,229
 Mitchell,Precinct #7,County Agricultural Extension Council Member,,Mary Klaes,,334,95,239
 Mitchell,Precinct #8,County Agricultural Extension Council Member,,Mary Klaes,,366,125,241
-Mitchell,Precinct #9,County Agricultural Extension Council Member,,Mary Klaes,,557,158,399
+Mitchell,Precinct #9,County Agricultural Extension Council Member,,Mary Klaes,,559,160,399
 Mitchell,Precinct #1,County Agricultural Extension Council Member,,Sydney Eastman,,268,97,171
 Mitchell,Precinct #10,County Agricultural Extension Council Member,,Sydney Eastman,,188,66,122
 Mitchell,Precinct #11,County Agricultural Extension Council Member,,Sydney Eastman,,147,74,73
 Mitchell,Precinct #12,County Agricultural Extension Council Member,,Sydney Eastman,,104,46,58
-Mitchell,Precinct #2,County Agricultural Extension Council Member,,Sydney Eastman,,205,83,122
+Mitchell,Precinct #2,County Agricultural Extension Council Member,,Sydney Eastman,,206,84,122
 Mitchell,Precinct #3,County Agricultural Extension Council Member,,Sydney Eastman,,201,105,96
-Mitchell,Precinct #4,County Agricultural Extension Council Member,,Sydney Eastman,,269,147,122
+Mitchell,Precinct #4,County Agricultural Extension Council Member,,Sydney Eastman,,270,148,122
 Mitchell,Precinct #5,County Agricultural Extension Council Member,,Sydney Eastman,,179,64,115
 Mitchell,Precinct #6,County Agricultural Extension Council Member,,Sydney Eastman,,264,58,206
 Mitchell,Precinct #7,County Agricultural Extension Council Member,,Sydney Eastman,,323,91,232
 Mitchell,Precinct #8,County Agricultural Extension Council Member,,Sydney Eastman,,357,119,238
-Mitchell,Precinct #9,County Agricultural Extension Council Member,,Sydney Eastman,,538,156,382
+Mitchell,Precinct #9,County Agricultural Extension Council Member,,Sydney Eastman,,540,158,382
 Mitchell,Precinct #1,County Agricultural Extension Council Member,,Write-In,,3,0,3
 Mitchell,Precinct #10,County Agricultural Extension Council Member,,Write-In,,0,0,0
 Mitchell,Precinct #11,County Agricultural Extension Council Member,,Write-In,,1,1,0
@@ -191,14 +204,14 @@ Mitchell,Precinct #1,County Attorney,,Aaron R. Murphy,,333,123,210
 Mitchell,Precinct #10,County Attorney,,Aaron R. Murphy,,245,79,166
 Mitchell,Precinct #11,County Attorney,,Aaron R. Murphy,,194,105,89
 Mitchell,Precinct #12,County Attorney,,Aaron R. Murphy,,135,57,78
-Mitchell,Precinct #2,County Attorney,,Aaron R. Murphy,,263,109,154
+Mitchell,Precinct #2,County Attorney,,Aaron R. Murphy,,264,110,154
 Mitchell,Precinct #3,County Attorney,,Aaron R. Murphy,,284,146,138
-Mitchell,Precinct #4,County Attorney,,Aaron R. Murphy,,335,182,153
-Mitchell,Precinct #5,County Attorney,,Aaron R. Murphy,,246,77,169
+Mitchell,Precinct #4,County Attorney,,Aaron R. Murphy,,337,184,153
+Mitchell,Precinct #5,County Attorney,,Aaron R. Murphy,,247,78,169
 Mitchell,Precinct #6,County Attorney,,Aaron R. Murphy,,327,73,254
 Mitchell,Precinct #7,County Attorney,,Aaron R. Murphy,,363,96,267
 Mitchell,Precinct #8,County Attorney,,Aaron R. Murphy,,390,134,256
-Mitchell,Precinct #9,County Attorney,,Aaron R. Murphy,,631,177,454
+Mitchell,Precinct #9,County Attorney,,Aaron R. Murphy,,632,178,454
 Mitchell,Precinct #1,County Attorney,,Write-In,,3,1,2
 Mitchell,Precinct #10,County Attorney,,Write-In,,1,0,1
 Mitchell,Precinct #11,County Attorney,,Write-In,,0,0,0
@@ -215,50 +228,50 @@ Mitchell,Precinct #1,County Hospital Trustee,,Betty McCarthy,,257,94,163
 Mitchell,Precinct #10,County Hospital Trustee,,Betty McCarthy,,181,66,115
 Mitchell,Precinct #11,County Hospital Trustee,,Betty McCarthy,,152,82,70
 Mitchell,Precinct #12,County Hospital Trustee,,Betty McCarthy,,101,44,57
-Mitchell,Precinct #2,County Hospital Trustee,,Betty McCarthy,,218,97,121
+Mitchell,Precinct #2,County Hospital Trustee,,Betty McCarthy,,219,98,121
 Mitchell,Precinct #3,County Hospital Trustee,,Betty McCarthy,,237,125,112
-Mitchell,Precinct #4,County Hospital Trustee,,Betty McCarthy,,289,170,119
+Mitchell,Precinct #4,County Hospital Trustee,,Betty McCarthy,,290,171,119
 Mitchell,Precinct #5,County Hospital Trustee,,Betty McCarthy,,181,60,121
 Mitchell,Precinct #6,County Hospital Trustee,,Betty McCarthy,,296,65,231
 Mitchell,Precinct #7,County Hospital Trustee,,Betty McCarthy,,320,94,226
 Mitchell,Precinct #8,County Hospital Trustee,,Betty McCarthy,,343,112,231
-Mitchell,Precinct #9,County Hospital Trustee,,Betty McCarthy,,549,157,392
+Mitchell,Precinct #9,County Hospital Trustee,,Betty McCarthy,,551,159,392
 Mitchell,Precinct #1,County Hospital Trustee,,Corrina Follmuth,,269,101,168
 Mitchell,Precinct #10,County Hospital Trustee,,Corrina Follmuth,,199,71,128
 Mitchell,Precinct #11,County Hospital Trustee,,Corrina Follmuth,,156,78,78
 Mitchell,Precinct #12,County Hospital Trustee,,Corrina Follmuth,,110,50,60
-Mitchell,Precinct #2,County Hospital Trustee,,Corrina Follmuth,,221,93,128
+Mitchell,Precinct #2,County Hospital Trustee,,Corrina Follmuth,,222,94,128
 Mitchell,Precinct #3,County Hospital Trustee,,Corrina Follmuth,,226,116,110
-Mitchell,Precinct #4,County Hospital Trustee,,Corrina Follmuth,,286,157,129
+Mitchell,Precinct #4,County Hospital Trustee,,Corrina Follmuth,,287,158,129
 Mitchell,Precinct #5,County Hospital Trustee,,Corrina Follmuth,,194,64,130
 Mitchell,Precinct #6,County Hospital Trustee,,Corrina Follmuth,,272,57,215
 Mitchell,Precinct #7,County Hospital Trustee,,Corrina Follmuth,,337,99,238
 Mitchell,Precinct #8,County Hospital Trustee,,Corrina Follmuth,,357,119,238
-Mitchell,Precinct #9,County Hospital Trustee,,Corrina Follmuth,,574,167,407
+Mitchell,Precinct #9,County Hospital Trustee,,Corrina Follmuth,,576,169,407
 Mitchell,Precinct #1,County Hospital Trustee,,Jean A. Brumm,,314,115,199
 Mitchell,Precinct #10,County Hospital Trustee,,Jean A. Brumm,,230,76,154
 Mitchell,Precinct #11,County Hospital Trustee,,Jean A. Brumm,,186,98,88
 Mitchell,Precinct #12,County Hospital Trustee,,Jean A. Brumm,,128,55,73
-Mitchell,Precinct #2,County Hospital Trustee,,Jean A. Brumm,,242,105,137
+Mitchell,Precinct #2,County Hospital Trustee,,Jean A. Brumm,,243,106,137
 Mitchell,Precinct #3,County Hospital Trustee,,Jean A. Brumm,,272,148,124
-Mitchell,Precinct #4,County Hospital Trustee,,Jean A. Brumm,,328,180,148
-Mitchell,Precinct #5,County Hospital Trustee,,Jean A. Brumm,,233,77,156
+Mitchell,Precinct #4,County Hospital Trustee,,Jean A. Brumm,,329,181,148
+Mitchell,Precinct #5,County Hospital Trustee,,Jean A. Brumm,,234,78,156
 Mitchell,Precinct #6,County Hospital Trustee,,Jean A. Brumm,,306,65,241
 Mitchell,Precinct #7,County Hospital Trustee,,Jean A. Brumm,,362,100,262
 Mitchell,Precinct #8,County Hospital Trustee,,Jean A. Brumm,,377,129,248
-Mitchell,Precinct #9,County Hospital Trustee,,Jean A. Brumm,,596,173,423
+Mitchell,Precinct #9,County Hospital Trustee,,Jean A. Brumm,,598,175,423
 Mitchell,Precinct #1,County Hospital Trustee,,Neil Hernan,,278,103,175
 Mitchell,Precinct #10,County Hospital Trustee,,Neil Hernan,,211,74,137
 Mitchell,Precinct #11,County Hospital Trustee,,Neil Hernan,,169,86,83
 Mitchell,Precinct #12,County Hospital Trustee,,Neil Hernan,,107,51,56
-Mitchell,Precinct #2,County Hospital Trustee,,Neil Hernan,,216,92,124
+Mitchell,Precinct #2,County Hospital Trustee,,Neil Hernan,,217,93,124
 Mitchell,Precinct #3,County Hospital Trustee,,Neil Hernan,,246,133,113
-Mitchell,Precinct #4,County Hospital Trustee,,Neil Hernan,,297,164,133
+Mitchell,Precinct #4,County Hospital Trustee,,Neil Hernan,,298,165,133
 Mitchell,Precinct #5,County Hospital Trustee,,Neil Hernan,,209,69,140
 Mitchell,Precinct #6,County Hospital Trustee,,Neil Hernan,,271,61,210
 Mitchell,Precinct #7,County Hospital Trustee,,Neil Hernan,,329,96,233
 Mitchell,Precinct #8,County Hospital Trustee,,Neil Hernan,,355,114,241
-Mitchell,Precinct #9,County Hospital Trustee,,Neil Hernan,,578,166,412
+Mitchell,Precinct #9,County Hospital Trustee,,Neil Hernan,,580,168,412
 Mitchell,Precinct #1,County Hospital Trustee,,Write-In,,9,0,9
 Mitchell,Precinct #10,County Hospital Trustee,,Write-In,,0,0,0
 Mitchell,Precinct #11,County Hospital Trustee,,Write-In,,4,2,2
@@ -277,17 +290,17 @@ Mitchell,Precinct #11,County Recorder,,Hannah Elliott,REP,195,103,92
 Mitchell,Precinct #12,County Recorder,,Hannah Elliott,REP,133,57,76
 Mitchell,Precinct #2,County Recorder,,Hannah Elliott,REP,260,104,156
 Mitchell,Precinct #3,County Recorder,,Hannah Elliott,REP,291,148,143
-Mitchell,Precinct #4,County Recorder,,Hannah Elliott,REP,339,177,162
-Mitchell,Precinct #5,County Recorder,,Hannah Elliott,REP,264,83,181
+Mitchell,Precinct #4,County Recorder,,Hannah Elliott,REP,341,179,162
+Mitchell,Precinct #5,County Recorder,,Hannah Elliott,REP,265,84,181
 Mitchell,Precinct #6,County Recorder,,Hannah Elliott,REP,347,77,270
 Mitchell,Precinct #7,County Recorder,,Hannah Elliott,REP,378,98,280
 Mitchell,Precinct #8,County Recorder,,Hannah Elliott,REP,417,126,291
-Mitchell,Precinct #9,County Recorder,,Hannah Elliott,REP,656,182,474
+Mitchell,Precinct #9,County Recorder,,Hannah Elliott,REP,659,185,474
 Mitchell,Precinct #1,County Recorder,,Write-In,,7,5,2
 Mitchell,Precinct #10,County Recorder,,Write-In,,4,2,2
 Mitchell,Precinct #11,County Recorder,,Write-In,,6,3,3
 Mitchell,Precinct #12,County Recorder,,Write-In,,0,0,0
-Mitchell,Precinct #2,County Recorder,,Write-In,,8,3,5
+Mitchell,Precinct #2,County Recorder,,Write-In,,9,4,5
 Mitchell,Precinct #3,County Recorder,,Write-In,,3,1,2
 Mitchell,Precinct #4,County Recorder,,Write-In,,9,4,5
 Mitchell,Precinct #5,County Recorder,,Write-In,,3,2,1
@@ -301,17 +314,17 @@ Mitchell,Precinct #11,County Sheriff To Fill a Vacancy,,Justin Trees,REP,208,107
 Mitchell,Precinct #12,County Sheriff To Fill a Vacancy,,Justin Trees,REP,143,64,79
 Mitchell,Precinct #2,County Sheriff To Fill a Vacancy,,Justin Trees,REP,279,113,166
 Mitchell,Precinct #3,County Sheriff To Fill a Vacancy,,Justin Trees,REP,298,159,139
-Mitchell,Precinct #4,County Sheriff To Fill a Vacancy,,Justin Trees,REP,370,195,175
-Mitchell,Precinct #5,County Sheriff To Fill a Vacancy,,Justin Trees,REP,264,83,181
+Mitchell,Precinct #4,County Sheriff To Fill a Vacancy,,Justin Trees,REP,372,197,175
+Mitchell,Precinct #5,County Sheriff To Fill a Vacancy,,Justin Trees,REP,265,84,181
 Mitchell,Precinct #6,County Sheriff To Fill a Vacancy,,Justin Trees,REP,347,75,272
 Mitchell,Precinct #7,County Sheriff To Fill a Vacancy,,Justin Trees,REP,388,101,287
 Mitchell,Precinct #8,County Sheriff To Fill a Vacancy,,Justin Trees,REP,430,138,292
-Mitchell,Precinct #9,County Sheriff To Fill a Vacancy,,Justin Trees,REP,675,192,483
+Mitchell,Precinct #9,County Sheriff To Fill a Vacancy,,Justin Trees,REP,678,195,483
 Mitchell,Precinct #1,County Sheriff To Fill a Vacancy,,Write-In,,5,3,2
 Mitchell,Precinct #10,County Sheriff To Fill a Vacancy,,Write-In,,4,0,4
 Mitchell,Precinct #11,County Sheriff To Fill a Vacancy,,Write-In,,2,2,0
 Mitchell,Precinct #12,County Sheriff To Fill a Vacancy,,Write-In,,0,0,0
-Mitchell,Precinct #2,County Sheriff To Fill a Vacancy,,Write-In,,2,1,1
+Mitchell,Precinct #2,County Sheriff To Fill a Vacancy,,Write-In,,3,2,1
 Mitchell,Precinct #3,County Sheriff To Fill a Vacancy,,Write-In,,5,3,2
 Mitchell,Precinct #4,County Sheriff To Fill a Vacancy,,Write-In,,4,0,4
 Mitchell,Precinct #5,County Sheriff To Fill a Vacancy,,Write-In,,0,0,0
@@ -326,12 +339,12 @@ Mitchell,Precinct #11,County Supervisor,1,Dean J. Betts,REP,81,29,52
 Mitchell,Precinct #2,County Supervisor,1,Dean J. Betts,REP,91,32,59
 Mitchell,Precinct #3,County Supervisor,1,Dean J. Betts,REP,118,53,65
 Mitchell,Precinct #11,County Supervisor,1,Todd Frein,DEM,76,46,30
-Mitchell,Precinct #2,County Supervisor,1,Todd Frein,DEM,115,47,68
+Mitchell,Precinct #2,County Supervisor,1,Todd Frein,DEM,116,48,68
 Mitchell,Precinct #3,County Supervisor,1,Todd Frein,DEM,126,77,49
 Mitchell,Precinct #11,County Supervisor,1,Write-In,,0,0,0
 Mitchell,Precinct #2,County Supervisor,1,Write-In,,1,0,1
 Mitchell,Precinct #3,County Supervisor,1,Write-In,,0,0,0
-Mitchell,Precinct #5,County Supervisor,3,Nathan Hale,REP,262,82,180
+Mitchell,Precinct #5,County Supervisor,3,Nathan Hale,REP,263,83,180
 Mitchell,Precinct #6,County Supervisor,3,Nathan Hale,REP,332,77,255
 Mitchell,Precinct #5,County Supervisor,3,Write-In,,1,0,1
 Mitchell,Precinct #6,County Supervisor,3,Write-In,,21,5,16
@@ -341,17 +354,17 @@ Mitchell,Precinct #11,County Treasurer,,Shannon Dee Paulus,REP,203,107,96
 Mitchell,Precinct #12,County Treasurer,,Shannon Dee Paulus,REP,137,57,80
 Mitchell,Precinct #2,County Treasurer,,Shannon Dee Paulus,REP,271,113,158
 Mitchell,Precinct #3,County Treasurer,,Shannon Dee Paulus,REP,305,160,145
-Mitchell,Precinct #4,County Treasurer,,Shannon Dee Paulus,REP,355,186,169
-Mitchell,Precinct #5,County Treasurer,,Shannon Dee Paulus,REP,267,84,183
+Mitchell,Precinct #4,County Treasurer,,Shannon Dee Paulus,REP,357,188,169
+Mitchell,Precinct #5,County Treasurer,,Shannon Dee Paulus,REP,268,85,183
 Mitchell,Precinct #6,County Treasurer,,Shannon Dee Paulus,REP,359,80,279
 Mitchell,Precinct #7,County Treasurer,,Shannon Dee Paulus,REP,391,101,290
 Mitchell,Precinct #8,County Treasurer,,Shannon Dee Paulus,REP,428,133,295
-Mitchell,Precinct #9,County Treasurer,,Shannon Dee Paulus,REP,678,192,486
+Mitchell,Precinct #9,County Treasurer,,Shannon Dee Paulus,REP,681,195,486
 Mitchell,Precinct #1,County Treasurer,,Write-In,,3,3,0
 Mitchell,Precinct #10,County Treasurer,,Write-In,,0,0,0
 Mitchell,Precinct #11,County Treasurer,,Write-In,,1,0,1
 Mitchell,Precinct #12,County Treasurer,,Write-In,,0,0,0
-Mitchell,Precinct #2,County Treasurer,,Write-In,,4,2,2
+Mitchell,Precinct #2,County Treasurer,,Write-In,,5,3,2
 Mitchell,Precinct #3,County Treasurer,,Write-In,,1,0,1
 Mitchell,Precinct #4,County Treasurer,,Write-In,,6,2,4
 Mitchell,Precinct #5,County Treasurer,,Write-In,,2,0,2
@@ -365,7 +378,7 @@ Mitchell,Precinct #11,Court of Appeals Judge - John M. Sandy,,No,,43,17,26
 Mitchell,Precinct #12,Court of Appeals Judge - John M. Sandy,,No,,24,11,13
 Mitchell,Precinct #2,Court of Appeals Judge - John M. Sandy,,No,,61,26,35
 Mitchell,Precinct #3,Court of Appeals Judge - John M. Sandy,,No,,45,25,20
-Mitchell,Precinct #4,Court of Appeals Judge - John M. Sandy,,No,,64,31,33
+Mitchell,Precinct #4,Court of Appeals Judge - John M. Sandy,,No,,65,32,33
 Mitchell,Precinct #5,Court of Appeals Judge - John M. Sandy,,No,,48,16,32
 Mitchell,Precinct #6,Court of Appeals Judge - John M. Sandy,,No,,74,19,55
 Mitchell,Precinct #7,Court of Appeals Judge - John M. Sandy,,No,,59,6,53
@@ -375,22 +388,22 @@ Mitchell,Precinct #1,Court of Appeals Judge - John M. Sandy,,Yes,,243,83,160
 Mitchell,Precinct #10,Court of Appeals Judge - John M. Sandy,,Yes,,170,51,119
 Mitchell,Precinct #11,Court of Appeals Judge - John M. Sandy,,Yes,,133,80,53
 Mitchell,Precinct #12,Court of Appeals Judge - John M. Sandy,,Yes,,93,40,53
-Mitchell,Precinct #2,Court of Appeals Judge - John M. Sandy,,Yes,,185,73,112
+Mitchell,Precinct #2,Court of Appeals Judge - John M. Sandy,,Yes,,186,74,112
 Mitchell,Precinct #3,Court of Appeals Judge - John M. Sandy,,Yes,,212,109,103
 Mitchell,Precinct #4,Court of Appeals Judge - John M. Sandy,,Yes,,246,134,112
-Mitchell,Precinct #5,Court of Appeals Judge - John M. Sandy,,Yes,,168,56,112
+Mitchell,Precinct #5,Court of Appeals Judge - John M. Sandy,,Yes,,169,57,112
 Mitchell,Precinct #6,Court of Appeals Judge - John M. Sandy,,Yes,,227,49,178
 Mitchell,Precinct #7,Court of Appeals Judge - John M. Sandy,,Yes,,293,83,210
 Mitchell,Precinct #8,Court of Appeals Judge - John M. Sandy,,Yes,,276,89,187
-Mitchell,Precinct #9,Court of Appeals Judge - John M. Sandy,,Yes,,481,132,349
+Mitchell,Precinct #9,Court of Appeals Judge - John M. Sandy,,Yes,,483,134,349
 Mitchell,Precinct #1,Court of Appeals Judge - Julie A. Schumacher,,No,,53,19,34
 Mitchell,Precinct #10,Court of Appeals Judge - Julie A. Schumacher,,No,,38,13,25
 Mitchell,Precinct #11,Court of Appeals Judge - Julie A. Schumacher,,No,,34,12,22
 Mitchell,Precinct #12,Court of Appeals Judge - Julie A. Schumacher,,No,,23,11,12
 Mitchell,Precinct #2,Court of Appeals Judge - Julie A. Schumacher,,No,,51,21,30
 Mitchell,Precinct #3,Court of Appeals Judge - Julie A. Schumacher,,No,,43,23,20
-Mitchell,Precinct #4,Court of Appeals Judge - Julie A. Schumacher,,No,,58,29,29
-Mitchell,Precinct #5,Court of Appeals Judge - Julie A. Schumacher,,No,,47,15,32
+Mitchell,Precinct #4,Court of Appeals Judge - Julie A. Schumacher,,No,,59,30,29
+Mitchell,Precinct #5,Court of Appeals Judge - Julie A. Schumacher,,No,,48,16,32
 Mitchell,Precinct #6,Court of Appeals Judge - Julie A. Schumacher,,No,,74,19,55
 Mitchell,Precinct #7,Court of Appeals Judge - Julie A. Schumacher,,No,,53,4,49
 Mitchell,Precinct #8,Court of Appeals Judge - Julie A. Schumacher,,No,,76,26,50
@@ -399,22 +412,22 @@ Mitchell,Precinct #1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,250,83,1
 Mitchell,Precinct #10,Court of Appeals Judge - Julie A. Schumacher,,Yes,,181,53,128
 Mitchell,Precinct #11,Court of Appeals Judge - Julie A. Schumacher,,Yes,,142,85,57
 Mitchell,Precinct #12,Court of Appeals Judge - Julie A. Schumacher,,Yes,,94,40,54
-Mitchell,Precinct #2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,196,78,118
+Mitchell,Precinct #2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,197,79,118
 Mitchell,Precinct #3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,218,112,106
 Mitchell,Precinct #4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,250,135,115
 Mitchell,Precinct #5,Court of Appeals Judge - Julie A. Schumacher,,Yes,,167,55,112
 Mitchell,Precinct #6,Court of Appeals Judge - Julie A. Schumacher,,Yes,,222,46,176
 Mitchell,Precinct #7,Court of Appeals Judge - Julie A. Schumacher,,Yes,,300,85,215
 Mitchell,Precinct #8,Court of Appeals Judge - Julie A. Schumacher,,Yes,,279,90,189
-Mitchell,Precinct #9,Court of Appeals Judge - Julie A. Schumacher,,Yes,,485,138,347
+Mitchell,Precinct #9,Court of Appeals Judge - Julie A. Schumacher,,Yes,,487,140,347
 Mitchell,Precinct #1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,52,18,34
 Mitchell,Precinct #10,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,42,13,29
 Mitchell,Precinct #11,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,38,14,24
 Mitchell,Precinct #12,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,21,11,10
 Mitchell,Precinct #2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,59,26,33
 Mitchell,Precinct #3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,48,26,22
-Mitchell,Precinct #4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,64,30,34
-Mitchell,Precinct #5,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,54,17,37
+Mitchell,Precinct #4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,65,31,34
+Mitchell,Precinct #5,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,55,18,37
 Mitchell,Precinct #6,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,68,16,52
 Mitchell,Precinct #7,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,60,7,53
 Mitchell,Precinct #8,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,86,27,59
@@ -423,22 +436,22 @@ Mitchell,Precinct #1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,245,8
 Mitchell,Precinct #10,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,171,51,120
 Mitchell,Precinct #11,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,138,82,56
 Mitchell,Precinct #12,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,95,43,52
-Mitchell,Precinct #2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,187,73,114
+Mitchell,Precinct #2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,188,74,114
 Mitchell,Precinct #3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,208,107,101
 Mitchell,Precinct #4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,232,125,107
 Mitchell,Precinct #5,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,157,52,105
 Mitchell,Precinct #6,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,223,46,177
 Mitchell,Precinct #7,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,280,78,202
 Mitchell,Precinct #8,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,265,89,176
-Mitchell,Precinct #9,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,465,130,335
+Mitchell,Precinct #9,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,467,132,335
 Mitchell,Precinct #1,District 2A Associate Judge - Adam Sauer,,No,,50,19,31
 Mitchell,Precinct #10,District 2A Associate Judge - Adam Sauer,,No,,42,13,29
 Mitchell,Precinct #11,District 2A Associate Judge - Adam Sauer,,No,,32,12,20
 Mitchell,Precinct #12,District 2A Associate Judge - Adam Sauer,,No,,16,8,8
 Mitchell,Precinct #2,District 2A Associate Judge - Adam Sauer,,No,,52,21,31
 Mitchell,Precinct #3,District 2A Associate Judge - Adam Sauer,,No,,43,24,19
-Mitchell,Precinct #4,District 2A Associate Judge - Adam Sauer,,No,,60,29,31
-Mitchell,Precinct #5,District 2A Associate Judge - Adam Sauer,,No,,44,13,31
+Mitchell,Precinct #4,District 2A Associate Judge - Adam Sauer,,No,,61,30,31
+Mitchell,Precinct #5,District 2A Associate Judge - Adam Sauer,,No,,45,14,31
 Mitchell,Precinct #6,District 2A Associate Judge - Adam Sauer,,No,,69,17,52
 Mitchell,Precinct #7,District 2A Associate Judge - Adam Sauer,,No,,58,8,50
 Mitchell,Precinct #8,District 2A Associate Judge - Adam Sauer,,No,,73,25,48
@@ -447,21 +460,21 @@ Mitchell,Precinct #1,District 2A Associate Judge - Adam Sauer,,Yes,,248,82,166
 Mitchell,Precinct #10,District 2A Associate Judge - Adam Sauer,,Yes,,173,46,127
 Mitchell,Precinct #11,District 2A Associate Judge - Adam Sauer,,Yes,,142,83,59
 Mitchell,Precinct #12,District 2A Associate Judge - Adam Sauer,,Yes,,102,46,56
-Mitchell,Precinct #2,District 2A Associate Judge - Adam Sauer,,Yes,,184,71,113
+Mitchell,Precinct #2,District 2A Associate Judge - Adam Sauer,,Yes,,185,72,113
 Mitchell,Precinct #3,District 2A Associate Judge - Adam Sauer,,Yes,,204,101,103
 Mitchell,Precinct #4,District 2A Associate Judge - Adam Sauer,,Yes,,249,135,114
 Mitchell,Precinct #5,District 2A Associate Judge - Adam Sauer,,Yes,,170,59,111
 Mitchell,Precinct #6,District 2A Associate Judge - Adam Sauer,,Yes,,210,38,172
 Mitchell,Precinct #7,District 2A Associate Judge - Adam Sauer,,Yes,,285,78,207
 Mitchell,Precinct #8,District 2A Associate Judge - Adam Sauer,,Yes,,274,90,184
-Mitchell,Precinct #9,District 2A Associate Judge - Adam Sauer,,Yes,,485,138,347
+Mitchell,Precinct #9,District 2A Associate Judge - Adam Sauer,,Yes,,486,139,347
 Mitchell,Precinct #1,District 2A Associate Judge - Karen Kaufman Salic,,No,,58,19,39
 Mitchell,Precinct #10,District 2A Associate Judge - Karen Kaufman Salic,,No,,41,11,30
 Mitchell,Precinct #11,District 2A Associate Judge - Karen Kaufman Salic,,No,,37,15,22
 Mitchell,Precinct #12,District 2A Associate Judge - Karen Kaufman Salic,,No,,16,8,8
 Mitchell,Precinct #2,District 2A Associate Judge - Karen Kaufman Salic,,No,,57,24,33
 Mitchell,Precinct #3,District 2A Associate Judge - Karen Kaufman Salic,,No,,40,18,22
-Mitchell,Precinct #4,District 2A Associate Judge - Karen Kaufman Salic,,No,,61,26,35
+Mitchell,Precinct #4,District 2A Associate Judge - Karen Kaufman Salic,,No,,62,27,35
 Mitchell,Precinct #5,District 2A Associate Judge - Karen Kaufman Salic,,No,,43,14,29
 Mitchell,Precinct #6,District 2A Associate Judge - Karen Kaufman Salic,,No,,67,18,49
 Mitchell,Precinct #7,District 2A Associate Judge - Karen Kaufman Salic,,No,,67,9,58
@@ -471,22 +484,22 @@ Mitchell,Precinct #1,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,245
 Mitchell,Precinct #10,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,171,49,122
 Mitchell,Precinct #11,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,134,78,56
 Mitchell,Precinct #12,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,105,47,58
-Mitchell,Precinct #2,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,182,68,114
+Mitchell,Precinct #2,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,183,69,114
 Mitchell,Precinct #3,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,209,107,102
 Mitchell,Precinct #4,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,246,139,107
-Mitchell,Precinct #5,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,171,59,112
+Mitchell,Precinct #5,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,172,60,112
 Mitchell,Precinct #6,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,216,47,169
 Mitchell,Precinct #7,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,278,76,202
 Mitchell,Precinct #8,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,273,88,185
-Mitchell,Precinct #9,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,480,137,343
+Mitchell,Precinct #9,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,481,138,343
 Mitchell,Precinct #1,District 2A Associate Judge - Mark Milder,,No,,57,20,37
 Mitchell,Precinct #10,District 2A Associate Judge - Mark Milder,,No,,38,13,25
 Mitchell,Precinct #11,District 2A Associate Judge - Mark Milder,,No,,33,12,21
 Mitchell,Precinct #12,District 2A Associate Judge - Mark Milder,,No,,15,7,8
 Mitchell,Precinct #2,District 2A Associate Judge - Mark Milder,,No,,50,23,27
 Mitchell,Precinct #3,District 2A Associate Judge - Mark Milder,,No,,38,20,18
-Mitchell,Precinct #4,District 2A Associate Judge - Mark Milder,,No,,60,28,32
-Mitchell,Precinct #5,District 2A Associate Judge - Mark Milder,,No,,53,18,35
+Mitchell,Precinct #4,District 2A Associate Judge - Mark Milder,,No,,61,29,32
+Mitchell,Precinct #5,District 2A Associate Judge - Mark Milder,,No,,54,19,35
 Mitchell,Precinct #6,District 2A Associate Judge - Mark Milder,,No,,64,17,47
 Mitchell,Precinct #7,District 2A Associate Judge - Mark Milder,,No,,61,10,51
 Mitchell,Precinct #8,District 2A Associate Judge - Mark Milder,,No,,73,25,48
@@ -495,21 +508,21 @@ Mitchell,Precinct #1,District 2A Associate Judge - Mark Milder,,Yes,,239,78,161
 Mitchell,Precinct #10,District 2A Associate Judge - Mark Milder,,Yes,,174,46,128
 Mitchell,Precinct #11,District 2A Associate Judge - Mark Milder,,Yes,,139,82,57
 Mitchell,Precinct #12,District 2A Associate Judge - Mark Milder,,Yes,,101,46,55
-Mitchell,Precinct #2,District 2A Associate Judge - Mark Milder,,Yes,,184,69,115
+Mitchell,Precinct #2,District 2A Associate Judge - Mark Milder,,Yes,,185,70,115
 Mitchell,Precinct #3,District 2A Associate Judge - Mark Milder,,Yes,,210,106,104
 Mitchell,Precinct #4,District 2A Associate Judge - Mark Milder,,Yes,,247,136,111
 Mitchell,Precinct #5,District 2A Associate Judge - Mark Milder,,Yes,,158,52,106
 Mitchell,Precinct #6,District 2A Associate Judge - Mark Milder,,Yes,,217,41,176
 Mitchell,Precinct #7,District 2A Associate Judge - Mark Milder,,Yes,,281,76,205
 Mitchell,Precinct #8,District 2A Associate Judge - Mark Milder,,Yes,,274,91,183
-Mitchell,Precinct #9,District 2A Associate Judge - Mark Milder,,Yes,,479,138,341
+Mitchell,Precinct #9,District 2A Associate Judge - Mark Milder,,Yes,,480,139,341
 Mitchell,Precinct #1,District 2A Judge - Christopher Foy,,No,,71,24,47
 Mitchell,Precinct #10,District 2A Judge - Christopher Foy,,No,,41,12,29
 Mitchell,Precinct #11,District 2A Judge - Christopher Foy,,No,,39,17,22
 Mitchell,Precinct #12,District 2A Judge - Christopher Foy,,No,,26,13,13
 Mitchell,Precinct #2,District 2A Judge - Christopher Foy,,No,,64,31,33
 Mitchell,Precinct #3,District 2A Judge - Christopher Foy,,No,,51,25,26
-Mitchell,Precinct #4,District 2A Judge - Christopher Foy,,No,,63,31,32
+Mitchell,Precinct #4,District 2A Judge - Christopher Foy,,No,,64,32,32
 Mitchell,Precinct #5,District 2A Judge - Christopher Foy,,No,,48,14,34
 Mitchell,Precinct #6,District 2A Judge - Christopher Foy,,No,,73,16,57
 Mitchell,Precinct #7,District 2A Judge - Christopher Foy,,No,,63,9,54
@@ -519,22 +532,22 @@ Mitchell,Precinct #1,District 2A Judge - Christopher Foy,,Yes,,227,77,150
 Mitchell,Precinct #10,District 2A Judge - Christopher Foy,,Yes,,176,50,126
 Mitchell,Precinct #11,District 2A Judge - Christopher Foy,,Yes,,133,76,57
 Mitchell,Precinct #12,District 2A Judge - Christopher Foy,,Yes,,94,43,51
-Mitchell,Precinct #2,District 2A Judge - Christopher Foy,,Yes,,176,63,113
+Mitchell,Precinct #2,District 2A Judge - Christopher Foy,,Yes,,177,64,113
 Mitchell,Precinct #3,District 2A Judge - Christopher Foy,,Yes,,209,108,101
 Mitchell,Precinct #4,District 2A Judge - Christopher Foy,,Yes,,237,130,107
-Mitchell,Precinct #5,District 2A Judge - Christopher Foy,,Yes,,168,59,109
+Mitchell,Precinct #5,District 2A Judge - Christopher Foy,,Yes,,169,60,109
 Mitchell,Precinct #6,District 2A Judge - Christopher Foy,,Yes,,222,48,174
 Mitchell,Precinct #7,District 2A Judge - Christopher Foy,,Yes,,279,76,203
 Mitchell,Precinct #8,District 2A Judge - Christopher Foy,,Yes,,263,87,176
-Mitchell,Precinct #9,District 2A Judge - Christopher Foy,,Yes,,462,126,336
+Mitchell,Precinct #9,District 2A Judge - Christopher Foy,,Yes,,464,128,336
 Mitchell,Precinct #1,District 2A Judge - Colleen D. Weiland,,No,,52,17,35
 Mitchell,Precinct #10,District 2A Judge - Colleen D. Weiland,,No,,38,11,27
 Mitchell,Precinct #11,District 2A Judge - Colleen D. Weiland,,No,,31,12,19
 Mitchell,Precinct #12,District 2A Judge - Colleen D. Weiland,,No,,21,11,10
 Mitchell,Precinct #2,District 2A Judge - Colleen D. Weiland,,No,,50,23,27
 Mitchell,Precinct #3,District 2A Judge - Colleen D. Weiland,,No,,39,18,21
-Mitchell,Precinct #4,District 2A Judge - Colleen D. Weiland,,No,,62,29,33
-Mitchell,Precinct #5,District 2A Judge - Colleen D. Weiland,,No,,50,16,34
+Mitchell,Precinct #4,District 2A Judge - Colleen D. Weiland,,No,,63,30,33
+Mitchell,Precinct #5,District 2A Judge - Colleen D. Weiland,,No,,51,17,34
 Mitchell,Precinct #6,District 2A Judge - Colleen D. Weiland,,No,,65,16,49
 Mitchell,Precinct #7,District 2A Judge - Colleen D. Weiland,,No,,64,5,59
 Mitchell,Precinct #8,District 2A Judge - Colleen D. Weiland,,No,,78,24,54
@@ -543,21 +556,21 @@ Mitchell,Precinct #1,District 2A Judge - Colleen D. Weiland,,Yes,,253,86,167
 Mitchell,Precinct #10,District 2A Judge - Colleen D. Weiland,,Yes,,183,54,129
 Mitchell,Precinct #11,District 2A Judge - Colleen D. Weiland,,Yes,,141,84,57
 Mitchell,Precinct #12,District 2A Judge - Colleen D. Weiland,,Yes,,98,44,54
-Mitchell,Precinct #2,District 2A Judge - Colleen D. Weiland,,Yes,,193,73,120
+Mitchell,Precinct #2,District 2A Judge - Colleen D. Weiland,,Yes,,194,74,120
 Mitchell,Precinct #3,District 2A Judge - Colleen D. Weiland,,Yes,,218,113,105
 Mitchell,Precinct #4,District 2A Judge - Colleen D. Weiland,,Yes,,245,134,111
 Mitchell,Precinct #5,District 2A Judge - Colleen D. Weiland,,Yes,,169,58,111
 Mitchell,Precinct #6,District 2A Judge - Colleen D. Weiland,,Yes,,232,48,184
 Mitchell,Precinct #7,District 2A Judge - Colleen D. Weiland,,Yes,,279,80,199
 Mitchell,Precinct #8,District 2A Judge - Colleen D. Weiland,,Yes,,271,89,182
-Mitchell,Precinct #9,District 2A Judge - Colleen D. Weiland,,Yes,,482,137,345
+Mitchell,Precinct #9,District 2A Judge - Colleen D. Weiland,,Yes,,484,139,345
 Mitchell,Precinct #1,District 2A Judge - DeDra Schroeder,,No,,66,24,42
 Mitchell,Precinct #10,District 2A Judge - DeDra Schroeder,,No,,43,12,31
 Mitchell,Precinct #11,District 2A Judge - DeDra Schroeder,,No,,32,12,20
 Mitchell,Precinct #12,District 2A Judge - DeDra Schroeder,,No,,29,15,14
 Mitchell,Precinct #2,District 2A Judge - DeDra Schroeder,,No,,58,24,34
 Mitchell,Precinct #3,District 2A Judge - DeDra Schroeder,,No,,58,30,28
-Mitchell,Precinct #4,District 2A Judge - DeDra Schroeder,,No,,65,28,37
+Mitchell,Precinct #4,District 2A Judge - DeDra Schroeder,,No,,66,29,37
 Mitchell,Precinct #5,District 2A Judge - DeDra Schroeder,,No,,40,16,24
 Mitchell,Precinct #6,District 2A Judge - DeDra Schroeder,,No,,73,13,60
 Mitchell,Precinct #7,District 2A Judge - DeDra Schroeder,,No,,65,4,61
@@ -567,22 +580,22 @@ Mitchell,Precinct #1,District 2A Judge - DeDra Schroeder,,Yes,,253,87,166
 Mitchell,Precinct #10,District 2A Judge - DeDra Schroeder,,Yes,,201,61,140
 Mitchell,Precinct #11,District 2A Judge - DeDra Schroeder,,Yes,,157,92,65
 Mitchell,Precinct #12,District 2A Judge - DeDra Schroeder,,Yes,,104,46,58
-Mitchell,Precinct #2,District 2A Judge - DeDra Schroeder,,Yes,,207,88,119
+Mitchell,Precinct #2,District 2A Judge - DeDra Schroeder,,Yes,,208,89,119
 Mitchell,Precinct #3,District 2A Judge - DeDra Schroeder,,Yes,,219,121,98
 Mitchell,Precinct #4,District 2A Judge - DeDra Schroeder,,Yes,,274,155,119
-Mitchell,Precinct #5,District 2A Judge - DeDra Schroeder,,Yes,,196,65,131
+Mitchell,Precinct #5,District 2A Judge - DeDra Schroeder,,Yes,,197,66,131
 Mitchell,Precinct #6,District 2A Judge - DeDra Schroeder,,Yes,,245,62,183
 Mitchell,Precinct #7,District 2A Judge - DeDra Schroeder,,Yes,,296,87,209
 Mitchell,Precinct #8,District 2A Judge - DeDra Schroeder,,Yes,,279,93,186
-Mitchell,Precinct #9,District 2A Judge - DeDra Schroeder,,Yes,,511,142,369
+Mitchell,Precinct #9,District 2A Judge - DeDra Schroeder,,Yes,,513,144,369
 Mitchell,Precinct #1,District 2A Judge - Gregg R. Rosenbladt,,No,,60,19,41
 Mitchell,Precinct #10,District 2A Judge - Gregg R. Rosenbladt,,No,,43,15,28
 Mitchell,Precinct #11,District 2A Judge - Gregg R. Rosenbladt,,No,,34,13,21
 Mitchell,Precinct #12,District 2A Judge - Gregg R. Rosenbladt,,No,,19,8,11
 Mitchell,Precinct #2,District 2A Judge - Gregg R. Rosenbladt,,No,,57,24,33
 Mitchell,Precinct #3,District 2A Judge - Gregg R. Rosenbladt,,No,,41,22,19
-Mitchell,Precinct #4,District 2A Judge - Gregg R. Rosenbladt,,No,,61,28,33
-Mitchell,Precinct #5,District 2A Judge - Gregg R. Rosenbladt,,No,,47,15,32
+Mitchell,Precinct #4,District 2A Judge - Gregg R. Rosenbladt,,No,,62,29,33
+Mitchell,Precinct #5,District 2A Judge - Gregg R. Rosenbladt,,No,,48,16,32
 Mitchell,Precinct #6,District 2A Judge - Gregg R. Rosenbladt,,No,,71,19,52
 Mitchell,Precinct #7,District 2A Judge - Gregg R. Rosenbladt,,No,,66,8,58
 Mitchell,Precinct #8,District 2A Judge - Gregg R. Rosenbladt,,No,,78,24,54
@@ -591,28 +604,32 @@ Mitchell,Precinct #1,District 2A Judge - Gregg R. Rosenbladt,,Yes,,231,77,154
 Mitchell,Precinct #10,District 2A Judge - Gregg R. Rosenbladt,,Yes,,174,47,127
 Mitchell,Precinct #11,District 2A Judge - Gregg R. Rosenbladt,,Yes,,141,82,59
 Mitchell,Precinct #12,District 2A Judge - Gregg R. Rosenbladt,,Yes,,104,50,54
-Mitchell,Precinct #2,District 2A Judge - Gregg R. Rosenbladt,,Yes,,185,72,113
+Mitchell,Precinct #2,District 2A Judge - Gregg R. Rosenbladt,,Yes,,186,73,113
 Mitchell,Precinct #3,District 2A Judge - Gregg R. Rosenbladt,,Yes,,217,111,106
 Mitchell,Precinct #4,District 2A Judge - Gregg R. Rosenbladt,,Yes,,239,130,109
 Mitchell,Precinct #5,District 2A Judge - Gregg R. Rosenbladt,,Yes,,168,58,110
 Mitchell,Precinct #6,District 2A Judge - Gregg R. Rosenbladt,,Yes,,216,42,174
 Mitchell,Precinct #7,District 2A Judge - Gregg R. Rosenbladt,,Yes,,274,77,197
 Mitchell,Precinct #8,District 2A Judge - Gregg R. Rosenbladt,,Yes,,272,93,179
-Mitchell,Precinct #9,District 2A Judge - Gregg R. Rosenbladt,,Yes,,477,138,339
-Mitchell,Precinct #5,Douglas Township Clerk,,Write-In,,13,0,13
+Mitchell,Precinct #9,District 2A Judge - Gregg R. Rosenbladt,,Yes,,479,140,339
+Mitchell,Precinct #5,Douglas Township Clerk,,Doug Uthe,,10,0,10
+Mitchell,Precinct #5,Douglas Township Clerk,,Write-In,,3,0,3
 Mitchell,Precinct #5,Douglas Township Trustee,,David Smalley,,107,21,86
-Mitchell,Precinct #5,Douglas Township Trustee,,Write-In,,14,0,14
-Mitchell,Precinct #5,East Lincoln Township Clerk,,Marilyn Wright,,27,3,24
+Mitchell,Precinct #5,Douglas Township Trustee,,Jeff Klaes,,13,0,13
+Mitchell,Precinct #5,Douglas Township Trustee,,Write-In,,1,0,1
+Mitchell,Precinct #5,East Lincoln Township Clerk,,Marilyn Wright,,28,4,24
 Mitchell,Precinct #5,East Lincoln Township Clerk,,Write-In,,2,2,0
-Mitchell,Precinct #5,East Lincoln Township Trustee,,Kevin Fox,,31,7,24
-Mitchell,Precinct #5,East Lincoln Township Trustee,,Write-In,,2,2,0
+Mitchell,Precinct #5,East Lincoln Township Trustee,,Chris Meirick,,1,1,0
+Mitchell,Precinct #5,East Lincoln Township Trustee,,Greg Fox,,1,1,0
+Mitchell,Precinct #5,East Lincoln Township Trustee,,Kevin Fox,,32,8,24
+Mitchell,Precinct #5,East Lincoln Township Trustee,,Write-In,,0,0,0
 Mitchell,Precinct #1,Governor,,Rob Sand and Dave Muhlbauer,DEM,192,95,97
 Mitchell,Precinct #10,Governor,,Rob Sand and Dave Muhlbauer,DEM,112,53,59
 Mitchell,Precinct #11,Governor,,Rob Sand and Dave Muhlbauer,DEM,93,60,33
 Mitchell,Precinct #12,Governor,,Rob Sand and Dave Muhlbauer,DEM,59,33,26
-Mitchell,Precinct #2,Governor,,Rob Sand and Dave Muhlbauer,DEM,179,93,86
+Mitchell,Precinct #2,Governor,,Rob Sand and Dave Muhlbauer,DEM,180,94,86
 Mitchell,Precinct #3,Governor,,Rob Sand and Dave Muhlbauer,DEM,159,101,58
-Mitchell,Precinct #4,Governor,,Rob Sand and Dave Muhlbauer,DEM,230,152,78
+Mitchell,Precinct #4,Governor,,Rob Sand and Dave Muhlbauer,DEM,232,154,78
 Mitchell,Precinct #5,Governor,,Rob Sand and Dave Muhlbauer,DEM,114,50,64
 Mitchell,Precinct #6,Governor,,Rob Sand and Dave Muhlbauer,DEM,166,58,108
 Mitchell,Precinct #7,Governor,,Rob Sand and Dave Muhlbauer,DEM,184,68,116
@@ -636,12 +653,12 @@ Mitchell,Precinct #11,Governor,,Zach Lahn and Derek Wulf,REP,125,56,69
 Mitchell,Precinct #12,Governor,,Zach Lahn and Derek Wulf,REP,88,35,53
 Mitchell,Precinct #2,Governor,,Zach Lahn and Derek Wulf,REP,134,41,93
 Mitchell,Precinct #3,Governor,,Zach Lahn and Derek Wulf,REP,181,83,98
-Mitchell,Precinct #4,Governor,,Zach Lahn and Derek Wulf,REP,184,72,112
-Mitchell,Precinct #5,Governor,,Zach Lahn and Derek Wulf,REP,175,44,131
+Mitchell,Precinct #4,Governor,,Zach Lahn and Derek Wulf,REP,185,73,112
+Mitchell,Precinct #5,Governor,,Zach Lahn and Derek Wulf,REP,176,45,131
 Mitchell,Precinct #6,Governor,,Zach Lahn and Derek Wulf,REP,239,44,195
 Mitchell,Precinct #7,Governor,,Zach Lahn and Derek Wulf,REP,244,46,198
 Mitchell,Precinct #8,Governor,,Zach Lahn and Derek Wulf,REP,294,71,223
-Mitchell,Precinct #9,Governor,,Zach Lahn and Derek Wulf,REP,404,97,307
+Mitchell,Precinct #9,Governor,,Zach Lahn and Derek Wulf,REP,407,100,307
 Mitchell,Precinct #6,Jenkins Township Clerk,,Deanna Eastman,,83,20,63
 Mitchell,Precinct #6,Jenkins Township Clerk,,Write-In,,0,0,0
 Mitchell,Precinct #6,Jenkins Township Trustee,,Leland Minnis,,76,23,53
@@ -653,7 +670,9 @@ Mitchell,Precinct #6,Liberty Township Clerk,,Write-In,,0,0,0
 Mitchell,Precinct #7,Liberty Township Clerk,,Write-In,,0,0,0
 Mitchell,Precinct #6,Liberty Township Trustee,,Brian Juenger,,50,20,30
 Mitchell,Precinct #7,Liberty Township Trustee,,Brian Juenger,,31,7,24
-Mitchell,Precinct #6,Liberty Township Trustee,,Write-In,,3,1,2
+Mitchell,Precinct #6,Liberty Township Trustee,,Josh Hanke,,2,0,2
+Mitchell,Precinct #7,Liberty Township Trustee,,Josh Hanke,,0,0,0
+Mitchell,Precinct #6,Liberty Township Trustee,,Write-In,,1,1,0
 Mitchell,Precinct #7,Liberty Township Trustee,,Write-In,,0,0,0
 Mitchell,Precinct #10,Mitchell Township Clerk,,Beverly Hendrickson,,59,19,40
 Mitchell,Precinct #9,Mitchell Township Clerk,,Beverly Hendrickson,,18,11,7
@@ -676,7 +695,9 @@ Mitchell,Precinct #11,Osage Township Clerk,,Write-In,,1,1,0
 Mitchell,Precinct #12,Osage Township Clerk,,Write-In,,0,0,0
 Mitchell,Precinct #11,Osage Township Trustee,,Kevin Popp,,123,69,54
 Mitchell,Precinct #12,Osage Township Trustee,,Kevin Popp,,45,17,28
-Mitchell,Precinct #11,Osage Township Trustee,,Write-In,,1,1,0
+Mitchell,Precinct #11,Osage Township Trustee,,Randi Johnson,,1,1,0
+Mitchell,Precinct #12,Osage Township Trustee,,Randi Johnson,,0,0,0
+Mitchell,Precinct #11,Osage Township Trustee,,Write-In,,0,0,0
 Mitchell,Precinct #12,Osage Township Trustee,,Write-In,,0,0,0
 Mitchell,Precinct #8,Otranto Township Clerk,,Greg Goplerud,,146,41,105
 Mitchell,Precinct #8,Otranto Township Clerk,,Write-In,,0,0,0
@@ -692,9 +713,9 @@ Mitchell,Precinct #1,Secretary of Agriculture,,Chris Jones,DEM,143,76,67
 Mitchell,Precinct #10,Secretary of Agriculture,,Chris Jones,DEM,70,39,31
 Mitchell,Precinct #11,Secretary of Agriculture,,Chris Jones,DEM,65,47,18
 Mitchell,Precinct #12,Secretary of Agriculture,,Chris Jones,DEM,36,21,15
-Mitchell,Precinct #2,Secretary of Agriculture,,Chris Jones,DEM,140,69,71
+Mitchell,Precinct #2,Secretary of Agriculture,,Chris Jones,DEM,141,70,71
 Mitchell,Precinct #3,Secretary of Agriculture,,Chris Jones,DEM,125,81,44
-Mitchell,Precinct #4,Secretary of Agriculture,,Chris Jones,DEM,187,131,56
+Mitchell,Precinct #4,Secretary of Agriculture,,Chris Jones,DEM,189,133,56
 Mitchell,Precinct #5,Secretary of Agriculture,,Chris Jones,DEM,74,37,37
 Mitchell,Precinct #6,Secretary of Agriculture,,Chris Jones,DEM,128,48,80
 Mitchell,Precinct #7,Secretary of Agriculture,,Chris Jones,DEM,137,60,77
@@ -706,12 +727,12 @@ Mitchell,Precinct #11,Secretary of Agriculture,,Mike Naig,REP,148,66,82
 Mitchell,Precinct #12,Secretary of Agriculture,,Mike Naig,REP,107,44,63
 Mitchell,Precinct #2,Secretary of Agriculture,,Mike Naig,REP,166,63,103
 Mitchell,Precinct #3,Secretary of Agriculture,,Mike Naig,REP,204,97,107
-Mitchell,Precinct #4,Secretary of Agriculture,,Mike Naig,REP,214,84,130
-Mitchell,Precinct #5,Secretary of Agriculture,,Mike Naig,REP,215,58,157
+Mitchell,Precinct #4,Secretary of Agriculture,,Mike Naig,REP,215,85,130
+Mitchell,Precinct #5,Secretary of Agriculture,,Mike Naig,REP,216,59,157
 Mitchell,Precinct #6,Secretary of Agriculture,,Mike Naig,REP,268,51,217
 Mitchell,Precinct #7,Secretary of Agriculture,,Mike Naig,REP,280,51,229
 Mitchell,Precinct #8,Secretary of Agriculture,,Mike Naig,REP,336,83,253
-Mitchell,Precinct #9,Secretary of Agriculture,,Mike Naig,REP,489,120,369
+Mitchell,Precinct #9,Secretary of Agriculture,,Mike Naig,REP,492,123,369
 Mitchell,Precinct #1,Secretary of Agriculture,,Write-In,,0,0,0
 Mitchell,Precinct #10,Secretary of Agriculture,,Write-In,,0,0,0
 Mitchell,Precinct #11,Secretary of Agriculture,,Write-In,,0,0,0
@@ -730,19 +751,19 @@ Mitchell,Precinct #11,Secretary of State,,Paul D. Pate,REP,145,66,79
 Mitchell,Precinct #12,Secretary of State,,Paul D. Pate,REP,105,41,64
 Mitchell,Precinct #2,Secretary of State,,Paul D. Pate,REP,156,51,105
 Mitchell,Precinct #3,Secretary of State,,Paul D. Pate,REP,196,90,106
-Mitchell,Precinct #4,Secretary of State,,Paul D. Pate,REP,212,87,125
-Mitchell,Precinct #5,Secretary of State,,Paul D. Pate,REP,207,54,153
+Mitchell,Precinct #4,Secretary of State,,Paul D. Pate,REP,213,88,125
+Mitchell,Precinct #5,Secretary of State,,Paul D. Pate,REP,208,55,153
 Mitchell,Precinct #6,Secretary of State,,Paul D. Pate,REP,265,51,214
 Mitchell,Precinct #7,Secretary of State,,Paul D. Pate,REP,268,51,217
 Mitchell,Precinct #8,Secretary of State,,Paul D. Pate,REP,333,79,254
-Mitchell,Precinct #9,Secretary of State,,Paul D. Pate,REP,468,111,357
+Mitchell,Precinct #9,Secretary of State,,Paul D. Pate,REP,471,114,357
 Mitchell,Precinct #1,Secretary of State,,Ryan Peterman,DEM,159,83,76
 Mitchell,Precinct #10,Secretary of State,,Ryan Peterman,DEM,85,49,36
 Mitchell,Precinct #11,Secretary of State,,Ryan Peterman,DEM,69,48,21
 Mitchell,Precinct #12,Secretary of State,,Ryan Peterman,DEM,41,25,16
-Mitchell,Precinct #2,Secretary of State,,Ryan Peterman,DEM,148,78,70
+Mitchell,Precinct #2,Secretary of State,,Ryan Peterman,DEM,149,79,70
 Mitchell,Precinct #3,Secretary of State,,Ryan Peterman,DEM,131,85,46
-Mitchell,Precinct #4,Secretary of State,,Ryan Peterman,DEM,195,134,61
+Mitchell,Precinct #4,Secretary of State,,Ryan Peterman,DEM,197,136,61
 Mitchell,Precinct #5,Secretary of State,,Ryan Peterman,DEM,81,42,39
 Mitchell,Precinct #6,Secretary of State,,Ryan Peterman,DEM,137,50,87
 Mitchell,Precinct #7,Secretary of State,,Ryan Peterman,DEM,155,61,94
@@ -760,34 +781,46 @@ Mitchell,Precinct #6,Secretary of State,,Write-In,,0,0,0
 Mitchell,Precinct #7,Secretary of State,,Write-In,,0,0,0
 Mitchell,Precinct #8,Secretary of State,,Write-In,,0,0,0
 Mitchell,Precinct #9,Secretary of State,,Write-In,,0,0,0
+Mitchell,Precinct #1,Soil and Water Conservation District Commissioner,,Bruce Johnson,,1,0,1
+Mitchell,Precinct #10,Soil and Water Conservation District Commissioner,,Bruce Johnson,,8,1,7
+Mitchell,Precinct #11,Soil and Water Conservation District Commissioner,,Bruce Johnson,,1,0,1
+Mitchell,Precinct #12,Soil and Water Conservation District Commissioner,,Bruce Johnson,,2,2,0
+Mitchell,Precinct #2,Soil and Water Conservation District Commissioner,,Bruce Johnson,,0,0,0
+Mitchell,Precinct #3,Soil and Water Conservation District Commissioner,,Bruce Johnson,,0,0,0
+Mitchell,Precinct #4,Soil and Water Conservation District Commissioner,,Bruce Johnson,,0,0,0
+Mitchell,Precinct #5,Soil and Water Conservation District Commissioner,,Bruce Johnson,,4,2,2
+Mitchell,Precinct #6,Soil and Water Conservation District Commissioner,,Bruce Johnson,,0,0,0
+Mitchell,Precinct #7,Soil and Water Conservation District Commissioner,,Bruce Johnson,,0,0,0
+Mitchell,Precinct #8,Soil and Water Conservation District Commissioner,,Bruce Johnson,,2,0,2
+Mitchell,Precinct #9,Soil and Water Conservation District Commissioner,,Bruce Johnson,,1,1,0
 Mitchell,Precinct #1,Soil and Water Conservation District Commissioner,,Dana Norby,,340,125,215
 Mitchell,Precinct #10,Soil and Water Conservation District Commissioner,,Dana Norby,,267,84,183
 Mitchell,Precinct #11,Soil and Water Conservation District Commissioner,,Dana Norby,,199,108,91
 Mitchell,Precinct #12,Soil and Water Conservation District Commissioner,,Dana Norby,,134,58,76
-Mitchell,Precinct #2,Soil and Water Conservation District Commissioner,,Dana Norby,,276,115,161
+Mitchell,Precinct #2,Soil and Water Conservation District Commissioner,,Dana Norby,,277,116,161
 Mitchell,Precinct #3,Soil and Water Conservation District Commissioner,,Dana Norby,,301,162,139
-Mitchell,Precinct #4,Soil and Water Conservation District Commissioner,,Dana Norby,,358,194,164
-Mitchell,Precinct #5,Soil and Water Conservation District Commissioner,,Dana Norby,,256,83,173
+Mitchell,Precinct #4,Soil and Water Conservation District Commissioner,,Dana Norby,,359,195,164
+Mitchell,Precinct #5,Soil and Water Conservation District Commissioner,,Dana Norby,,257,84,173
 Mitchell,Precinct #6,Soil and Water Conservation District Commissioner,,Dana Norby,,341,80,261
 Mitchell,Precinct #7,Soil and Water Conservation District Commissioner,,Dana Norby,,386,106,280
 Mitchell,Precinct #8,Soil and Water Conservation District Commissioner,,Dana Norby,,417,143,274
-Mitchell,Precinct #9,Soil and Water Conservation District Commissioner,,Dana Norby,,660,189,471
-Mitchell,Precinct #1,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
-Mitchell,Precinct #10,Soil and Water Conservation District Commissioner,,Write-In,,10,2,8
-Mitchell,Precinct #11,Soil and Water Conservation District Commissioner,,Write-In,,5,2,3
-Mitchell,Precinct #12,Soil and Water Conservation District Commissioner,,Write-In,,2,2,0
-Mitchell,Precinct #2,Soil and Water Conservation District Commissioner,,Write-In,,7,4,3
+Mitchell,Precinct #9,Soil and Water Conservation District Commissioner,,Dana Norby,,662,191,471
+Mitchell,Precinct #1,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Mitchell,Precinct #10,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
+Mitchell,Precinct #11,Soil and Water Conservation District Commissioner,,Write-In,,4,2,2
+Mitchell,Precinct #12,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Mitchell,Precinct #2,Soil and Water Conservation District Commissioner,,Write-In,,8,5,3
 Mitchell,Precinct #3,Soil and Water Conservation District Commissioner,,Write-In,,7,6,1
 Mitchell,Precinct #4,Soil and Water Conservation District Commissioner,,Write-In,,7,1,6
-Mitchell,Precinct #5,Soil and Water Conservation District Commissioner,,Write-In,,13,6,7
+Mitchell,Precinct #5,Soil and Water Conservation District Commissioner,,Write-In,,9,4,5
 Mitchell,Precinct #6,Soil and Water Conservation District Commissioner,,Write-In,,9,2,7
 Mitchell,Precinct #7,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
-Mitchell,Precinct #8,Soil and Water Conservation District Commissioner,,Write-In,,20,7,13
-Mitchell,Precinct #9,Soil and Water Conservation District Commissioner,,Write-In,,8,2,6
-Mitchell,Precinct #9,St. Ansgar Township Clerk,,Steve Neeley,,153,39,114
+Mitchell,Precinct #8,Soil and Water Conservation District Commissioner,,Write-In,,18,7,11
+Mitchell,Precinct #9,Soil and Water Conservation District Commissioner,,Write-In,,7,1,6
+Mitchell,Precinct #9,St. Ansgar Township Clerk,,Steve Neeley,,155,41,114
 Mitchell,Precinct #9,St. Ansgar Township Clerk,,Write-In,,0,0,0
-Mitchell,Precinct #9,St. Ansgar Township Trustee,,Betty Neeley,,142,39,103
-Mitchell,Precinct #9,St. Ansgar Township Trustee,,John Groth,,135,34,101
+Mitchell,Precinct #9,St. Ansgar Township Trustee,,Betty Neeley,,144,41,103
+Mitchell,Precinct #9,St. Ansgar Township Trustee,,John Groth,,137,36,101
 Mitchell,Precinct #9,St. Ansgar Township Trustee,,Write-In,,0,0,0
 Mitchell,Precinct #7,Stacyville Township Clerk,,Joseph W. Smith,,104,29,75
 Mitchell,Precinct #7,Stacyville Township Clerk,,Write-In,,0,0,0
@@ -798,9 +831,9 @@ Mitchell,Precinct #1,State House,60,Alexander Schmidt,DEM,146,75,71
 Mitchell,Precinct #10,State House,60,Alexander Schmidt,DEM,89,48,41
 Mitchell,Precinct #11,State House,60,Alexander Schmidt,DEM,70,49,21
 Mitchell,Precinct #12,State House,60,Alexander Schmidt,DEM,41,25,16
-Mitchell,Precinct #2,State House,60,Alexander Schmidt,DEM,147,80,67
+Mitchell,Precinct #2,State House,60,Alexander Schmidt,DEM,148,81,67
 Mitchell,Precinct #3,State House,60,Alexander Schmidt,DEM,122,79,43
-Mitchell,Precinct #4,State House,60,Alexander Schmidt,DEM,197,138,59
+Mitchell,Precinct #4,State House,60,Alexander Schmidt,DEM,199,140,59
 Mitchell,Precinct #5,State House,60,Alexander Schmidt,DEM,84,38,46
 Mitchell,Precinct #6,State House,60,Alexander Schmidt,DEM,149,53,96
 Mitchell,Precinct #7,State House,60,Alexander Schmidt,DEM,159,59,100
@@ -812,12 +845,12 @@ Mitchell,Precinct #11,State House,60,Dani Ollenburg,REP,136,61,75
 Mitchell,Precinct #12,State House,60,Dani Ollenburg,REP,102,40,62
 Mitchell,Precinct #2,State House,60,Dani Ollenburg,REP,157,50,107
 Mitchell,Precinct #3,State House,60,Dani Ollenburg,REP,203,95,108
-Mitchell,Precinct #4,State House,60,Dani Ollenburg,REP,208,80,128
-Mitchell,Precinct #5,State House,60,Dani Ollenburg,REP,199,55,144
+Mitchell,Precinct #4,State House,60,Dani Ollenburg,REP,209,81,128
+Mitchell,Precinct #5,State House,60,Dani Ollenburg,REP,200,56,144
 Mitchell,Precinct #6,State House,60,Dani Ollenburg,REP,251,44,207
 Mitchell,Precinct #7,State House,60,Dani Ollenburg,REP,262,53,209
 Mitchell,Precinct #8,State House,60,Dani Ollenburg,REP,324,79,245
-Mitchell,Precinct #9,State House,60,Dani Ollenburg,REP,465,109,356
+Mitchell,Precinct #9,State House,60,Dani Ollenburg,REP,468,112,356
 Mitchell,Precinct #1,State House,60,Write-In,,0,0,0
 Mitchell,Precinct #10,State House,60,Write-In,,0,0,0
 Mitchell,Precinct #11,State House,60,Write-In,,1,0,1
@@ -834,9 +867,9 @@ Mitchell,Precinct #1,Treasurer of State,,John Norwood,DEM,165,86,79
 Mitchell,Precinct #10,Treasurer of State,,John Norwood,DEM,94,51,43
 Mitchell,Precinct #11,Treasurer of State,,John Norwood,DEM,77,52,25
 Mitchell,Precinct #12,Treasurer of State,,John Norwood,DEM,45,26,19
-Mitchell,Precinct #2,Treasurer of State,,John Norwood,DEM,156,88,68
+Mitchell,Precinct #2,Treasurer of State,,John Norwood,DEM,157,89,68
 Mitchell,Precinct #3,Treasurer of State,,John Norwood,DEM,130,85,45
-Mitchell,Precinct #4,Treasurer of State,,John Norwood,DEM,203,143,60
+Mitchell,Precinct #4,Treasurer of State,,John Norwood,DEM,205,145,60
 Mitchell,Precinct #5,Treasurer of State,,John Norwood,DEM,86,43,43
 Mitchell,Precinct #6,Treasurer of State,,John Norwood,DEM,152,52,100
 Mitchell,Precinct #7,Treasurer of State,,John Norwood,DEM,157,60,97
@@ -848,12 +881,12 @@ Mitchell,Precinct #11,Treasurer of State,,Roby Smith,REP,132,61,71
 Mitchell,Precinct #12,Treasurer of State,,Roby Smith,REP,99,38,61
 Mitchell,Precinct #2,Treasurer of State,,Roby Smith,REP,148,42,106
 Mitchell,Precinct #3,Treasurer of State,,Roby Smith,REP,192,88,104
-Mitchell,Precinct #4,Treasurer of State,,Roby Smith,REP,204,76,128
-Mitchell,Precinct #5,Treasurer of State,,Roby Smith,REP,202,53,149
+Mitchell,Precinct #4,Treasurer of State,,Roby Smith,REP,205,77,128
+Mitchell,Precinct #5,Treasurer of State,,Roby Smith,REP,203,54,149
 Mitchell,Precinct #6,Treasurer of State,,Roby Smith,REP,248,47,201
 Mitchell,Precinct #7,Treasurer of State,,Roby Smith,REP,264,52,212
 Mitchell,Precinct #8,Treasurer of State,,Roby Smith,REP,320,75,245
-Mitchell,Precinct #9,Treasurer of State,,Roby Smith,REP,441,106,335
+Mitchell,Precinct #9,Treasurer of State,,Roby Smith,REP,444,109,335
 Mitchell,Precinct #1,Treasurer of State,,Write-In,,0,0,0
 Mitchell,Precinct #10,Treasurer of State,,Write-In,,0,0,0
 Mitchell,Precinct #11,Treasurer of State,,Write-In,,0,0,0
@@ -884,19 +917,19 @@ Mitchell,Precinct #11,U.S. House,2,Joe Mitchell,REP,126,57,69
 Mitchell,Precinct #12,U.S. House,2,Joe Mitchell,REP,97,36,61
 Mitchell,Precinct #2,U.S. House,2,Joe Mitchell,REP,138,41,97
 Mitchell,Precinct #3,U.S. House,2,Joe Mitchell,REP,182,81,101
-Mitchell,Precinct #4,U.S. House,2,Joe Mitchell,REP,196,77,119
-Mitchell,Precinct #5,U.S. House,2,Joe Mitchell,REP,183,46,137
+Mitchell,Precinct #4,U.S. House,2,Joe Mitchell,REP,197,78,119
+Mitchell,Precinct #5,U.S. House,2,Joe Mitchell,REP,184,47,137
 Mitchell,Precinct #6,U.S. House,2,Joe Mitchell,REP,239,46,193
 Mitchell,Precinct #7,U.S. House,2,Joe Mitchell,REP,249,49,200
 Mitchell,Precinct #8,U.S. House,2,Joe Mitchell,REP,305,71,234
-Mitchell,Precinct #9,U.S. House,2,Joe Mitchell,REP,421,104,317
+Mitchell,Precinct #9,U.S. House,2,Joe Mitchell,REP,424,107,317
 Mitchell,Precinct #1,U.S. House,2,Lindsay James,DEM,163,85,78
 Mitchell,Precinct #10,U.S. House,2,Lindsay James,DEM,83,48,35
 Mitchell,Precinct #11,U.S. House,2,Lindsay James,DEM,79,54,25
 Mitchell,Precinct #12,U.S. House,2,Lindsay James,DEM,43,26,17
-Mitchell,Precinct #2,U.S. House,2,Lindsay James,DEM,158,82,76
+Mitchell,Precinct #2,U.S. House,2,Lindsay James,DEM,159,83,76
 Mitchell,Precinct #3,U.S. House,2,Lindsay James,DEM,135,90,45
-Mitchell,Precinct #4,U.S. House,2,Lindsay James,DEM,201,139,62
+Mitchell,Precinct #4,U.S. House,2,Lindsay James,DEM,203,141,62
 Mitchell,Precinct #5,U.S. House,2,Lindsay James,DEM,84,47,37
 Mitchell,Precinct #6,U.S. House,2,Lindsay James,DEM,146,52,94
 Mitchell,Precinct #7,U.S. House,2,Lindsay James,DEM,161,63,98
@@ -932,19 +965,19 @@ Mitchell,Precinct #11,U.S. Senate,,Ashley Hinson,REP,132,61,71
 Mitchell,Precinct #12,U.S. Senate,,Ashley Hinson,REP,101,39,62
 Mitchell,Precinct #2,U.S. Senate,,Ashley Hinson,REP,135,40,95
 Mitchell,Precinct #3,U.S. Senate,,Ashley Hinson,REP,177,84,93
-Mitchell,Precinct #4,U.S. Senate,,Ashley Hinson,REP,193,77,116
-Mitchell,Precinct #5,U.S. Senate,,Ashley Hinson,REP,179,46,133
+Mitchell,Precinct #4,U.S. Senate,,Ashley Hinson,REP,194,78,116
+Mitchell,Precinct #5,U.S. Senate,,Ashley Hinson,REP,180,47,133
 Mitchell,Precinct #6,U.S. Senate,,Ashley Hinson,REP,245,46,199
 Mitchell,Precinct #7,U.S. Senate,,Ashley Hinson,REP,247,47,200
 Mitchell,Precinct #8,U.S. Senate,,Ashley Hinson,REP,309,77,232
-Mitchell,Precinct #9,U.S. Senate,,Ashley Hinson,REP,406,100,306
+Mitchell,Precinct #9,U.S. Senate,,Ashley Hinson,REP,409,103,306
 Mitchell,Precinct #1,U.S. Senate,,Josh Turek,DEM,168,85,83
 Mitchell,Precinct #10,U.S. Senate,,Josh Turek,DEM,99,51,48
 Mitchell,Precinct #11,U.S. Senate,,Josh Turek,DEM,79,53,26
 Mitchell,Precinct #12,U.S. Senate,,Josh Turek,DEM,45,27,18
-Mitchell,Precinct #2,U.S. Senate,,Josh Turek,DEM,161,84,77
+Mitchell,Precinct #2,U.S. Senate,,Josh Turek,DEM,162,85,77
 Mitchell,Precinct #3,U.S. Senate,,Josh Turek,DEM,144,88,56
-Mitchell,Precinct #4,U.S. Senate,,Josh Turek,DEM,203,142,61
+Mitchell,Precinct #4,U.S. Senate,,Josh Turek,DEM,205,144,61
 Mitchell,Precinct #5,U.S. Senate,,Josh Turek,DEM,91,48,43
 Mitchell,Precinct #6,U.S. Senate,,Josh Turek,DEM,147,53,94
 Mitchell,Precinct #7,U.S. Senate,,Josh Turek,DEM,166,64,102

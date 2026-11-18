@@ -1,8 +1,8 @@
 county,precinct,office,district,candidate,party,votes,absentee,election_day
-Plymouth,Brunsville Legion,Attorney General,,Brenna Bird,REP,507,135,372
+Plymouth,Brunsville Legion,Attorney General,,Brenna Bird,REP,508,136,372
 Plymouth,Courthouse Annex,Attorney General,,Brenna Bird,REP,657,311,346
 Plymouth,Hinton Community Center,Attorney General,,Brenna Bird,REP,776,233,543
-Plymouth,Kingsley Community Center,Attorney General,,Brenna Bird,REP,720,135,585
+Plymouth,Kingsley Community Center,Attorney General,,Brenna Bird,REP,721,136,585
 Plymouth,Kissinger Community Center,Attorney General,,Brenna Bird,REP,544,140,404
 Plymouth,Le Mars Convention Center 1,Attorney General,,Brenna Bird,REP,779,366,413
 Plymouth,Le Mars Convention Center 2,Attorney General,,Brenna Bird,REP,1096,536,560
@@ -19,7 +19,7 @@ Plymouth,Le Mars Convention Center 1,Attorney General,,Nate Willems,DEM,426,232,
 Plymouth,Le Mars Convention Center 2,Attorney General,,Nate Willems,DEM,525,268,257
 Plymouth,Le Mars Convention Center 3,Attorney General,,Nate Willems,DEM,408,175,233
 Plymouth,Perry Township Hall,Attorney General,,Nate Willems,DEM,223,115,108
-Plymouth,Remsen Library,Attorney General,,Nate Willems,DEM,205,82,123
+Plymouth,Remsen Library,Attorney General,,Nate Willems,DEM,206,83,123
 Plymouth,Wesley United Methodist Church,Attorney General,,Nate Willems,DEM,297,64,233
 Plymouth,Brunsville Legion,Attorney General,,Write-In,,0,0,0
 Plymouth,Courthouse Annex,Attorney General,,Write-In,,0,0,0
@@ -32,10 +32,10 @@ Plymouth,Le Mars Convention Center 3,Attorney General,,Write-In,,2,1,1
 Plymouth,Perry Township Hall,Attorney General,,Write-In,,0,0,0
 Plymouth,Remsen Library,Attorney General,,Write-In,,1,0,1
 Plymouth,Wesley United Methodist Church,Attorney General,,Write-In,,0,0,0
-Plymouth,Brunsville Legion,Auditor of State,,Chris Cournoyer,REP,513,139,374
+Plymouth,Brunsville Legion,Auditor of State,,Chris Cournoyer,REP,514,140,374
 Plymouth,Courthouse Annex,Auditor of State,,Chris Cournoyer,REP,667,308,359
 Plymouth,Hinton Community Center,Auditor of State,,Chris Cournoyer,REP,782,219,563
-Plymouth,Kingsley Community Center,Auditor of State,,Chris Cournoyer,REP,724,135,589
+Plymouth,Kingsley Community Center,Auditor of State,,Chris Cournoyer,REP,725,136,589
 Plymouth,Kissinger Community Center,Auditor of State,,Chris Cournoyer,REP,541,134,407
 Plymouth,Le Mars Convention Center 1,Auditor of State,,Chris Cournoyer,REP,763,352,411
 Plymouth,Le Mars Convention Center 2,Auditor of State,,Chris Cournoyer,REP,1088,523,565
@@ -52,7 +52,7 @@ Plymouth,Le Mars Convention Center 1,Auditor of State,,Taylor Wettach,DEM,421,23
 Plymouth,Le Mars Convention Center 2,Auditor of State,,Taylor Wettach,DEM,497,264,233
 Plymouth,Le Mars Convention Center 3,Auditor of State,,Taylor Wettach,DEM,397,175,222
 Plymouth,Perry Township Hall,Auditor of State,,Taylor Wettach,DEM,210,110,100
-Plymouth,Remsen Library,Auditor of State,,Taylor Wettach,DEM,197,88,109
+Plymouth,Remsen Library,Auditor of State,,Taylor Wettach,DEM,198,89,109
 Plymouth,Wesley United Methodist Church,Auditor of State,,Taylor Wettach,DEM,281,67,214
 Plymouth,Brunsville Legion,Auditor of State,,Write-In,,0,0,0
 Plymouth,Courthouse Annex,Auditor of State,,Write-In,,0,0,0
@@ -84,16 +84,16 @@ Plymouth,Le Mars Convention Center 3,Constitutional Amendment 1,,No,,357,152,205
 Plymouth,Perry Township Hall,Constitutional Amendment 1,,No,,206,81,125
 Plymouth,Remsen Library,Constitutional Amendment 1,,No,,240,73,167
 Plymouth,Wesley United Methodist Church,Constitutional Amendment 1,,No,,251,44,207
-Plymouth,Brunsville Legion,Constitutional Amendment 1,,Yes,,418,118,300
+Plymouth,Brunsville Legion,Constitutional Amendment 1,,Yes,,419,119,300
 Plymouth,Courthouse Annex,Constitutional Amendment 1,,Yes,,531,245,286
 Plymouth,Hinton Community Center,Constitutional Amendment 1,,Yes,,683,200,483
-Plymouth,Kingsley Community Center,Constitutional Amendment 1,,Yes,,670,150,520
+Plymouth,Kingsley Community Center,Constitutional Amendment 1,,Yes,,671,151,520
 Plymouth,Kissinger Community Center,Constitutional Amendment 1,,Yes,,508,145,363
 Plymouth,Le Mars Convention Center 1,Constitutional Amendment 1,,Yes,,731,365,366
 Plymouth,Le Mars Convention Center 2,Constitutional Amendment 1,,Yes,,1013,509,504
 Plymouth,Le Mars Convention Center 3,Constitutional Amendment 1,,Yes,,577,218,359
 Plymouth,Perry Township Hall,Constitutional Amendment 1,,Yes,,523,195,328
-Plymouth,Remsen Library,Constitutional Amendment 1,,Yes,,597,201,396
+Plymouth,Remsen Library,Constitutional Amendment 1,,Yes,,598,202,396
 Plymouth,Wesley United Methodist Church,Constitutional Amendment 1,,Yes,,559,105,454
 Plymouth,Brunsville Legion,County Agricultural Extension Council Member,,Amanda Breitbarth,,334,80,254
 Plymouth,Courthouse Annex,County Agricultural Extension Council Member,,Amanda Breitbarth,,350,152,198
@@ -104,9 +104,9 @@ Plymouth,Le Mars Convention Center 1,County Agricultural Extension Council Membe
 Plymouth,Le Mars Convention Center 2,County Agricultural Extension Council Member,,Amanda Breitbarth,,631,280,351
 Plymouth,Le Mars Convention Center 3,County Agricultural Extension Council Member,,Amanda Breitbarth,,348,134,214
 Plymouth,Perry Township Hall,County Agricultural Extension Council Member,,Amanda Breitbarth,,223,96,127
-Plymouth,Remsen Library,County Agricultural Extension Council Member,,Amanda Breitbarth,,288,104,184
+Plymouth,Remsen Library,County Agricultural Extension Council Member,,Amanda Breitbarth,,289,105,184
 Plymouth,Wesley United Methodist Church,County Agricultural Extension Council Member,,Amanda Breitbarth,,414,75,339
-Plymouth,Brunsville Legion,County Agricultural Extension Council Member,,Bret Udell,,286,68,218
+Plymouth,Brunsville Legion,County Agricultural Extension Council Member,,Bret Udell,,287,69,218
 Plymouth,Courthouse Annex,County Agricultural Extension Council Member,,Bret Udell,,302,128,174
 Plymouth,Hinton Community Center,County Agricultural Extension Council Member,,Bret Udell,,647,194,453
 Plymouth,Kingsley Community Center,County Agricultural Extension Council Member,,Bret Udell,,401,76,325
@@ -117,7 +117,7 @@ Plymouth,Le Mars Convention Center 3,County Agricultural Extension Council Membe
 Plymouth,Perry Township Hall,County Agricultural Extension Council Member,,Bret Udell,,411,141,270
 Plymouth,Remsen Library,County Agricultural Extension Council Member,,Bret Udell,,317,109,208
 Plymouth,Wesley United Methodist Church,County Agricultural Extension Council Member,,Bret Udell,,336,71,265
-Plymouth,Brunsville Legion,County Agricultural Extension Council Member,,Janell Heimgartner,,245,65,180
+Plymouth,Brunsville Legion,County Agricultural Extension Council Member,,Janell Heimgartner,,246,66,180
 Plymouth,Courthouse Annex,County Agricultural Extension Council Member,,Janell Heimgartner,,322,162,160
 Plymouth,Hinton Community Center,County Agricultural Extension Council Member,,Janell Heimgartner,,571,193,378
 Plymouth,Kingsley Community Center,County Agricultural Extension Council Member,,Janell Heimgartner,,367,81,286
@@ -126,12 +126,12 @@ Plymouth,Le Mars Convention Center 1,County Agricultural Extension Council Membe
 Plymouth,Le Mars Convention Center 2,County Agricultural Extension Council Member,,Janell Heimgartner,,622,316,306
 Plymouth,Le Mars Convention Center 3,County Agricultural Extension Council Member,,Janell Heimgartner,,345,144,201
 Plymouth,Perry Township Hall,County Agricultural Extension Council Member,,Janell Heimgartner,,311,111,200
-Plymouth,Remsen Library,County Agricultural Extension Council Member,,Janell Heimgartner,,292,112,180
+Plymouth,Remsen Library,County Agricultural Extension Council Member,,Janell Heimgartner,,293,113,180
 Plymouth,Wesley United Methodist Church,County Agricultural Extension Council Member,,Janell Heimgartner,,220,57,163
 Plymouth,Brunsville Legion,County Agricultural Extension Council Member,,Kevin Hodgson,,289,68,221
 Plymouth,Courthouse Annex,County Agricultural Extension Council Member,,Kevin Hodgson,,335,146,189
 Plymouth,Hinton Community Center,County Agricultural Extension Council Member,,Kevin Hodgson,,376,114,262
-Plymouth,Kingsley Community Center,County Agricultural Extension Council Member,,Kevin Hodgson,,358,79,279
+Plymouth,Kingsley Community Center,County Agricultural Extension Council Member,,Kevin Hodgson,,359,80,279
 Plymouth,Kissinger Community Center,County Agricultural Extension Council Member,,Kevin Hodgson,,344,98,246
 Plymouth,Le Mars Convention Center 1,County Agricultural Extension Council Member,,Kevin Hodgson,,443,182,261
 Plymouth,Le Mars Convention Center 2,County Agricultural Extension Council Member,,Kevin Hodgson,,615,282,333
@@ -139,16 +139,16 @@ Plymouth,Le Mars Convention Center 3,County Agricultural Extension Council Membe
 Plymouth,Perry Township Hall,County Agricultural Extension Council Member,,Kevin Hodgson,,247,86,161
 Plymouth,Remsen Library,County Agricultural Extension Council Member,,Kevin Hodgson,,379,119,260
 Plymouth,Wesley United Methodist Church,County Agricultural Extension Council Member,,Kevin Hodgson,,287,49,238
-Plymouth,Brunsville Legion,County Agricultural Extension Council Member,,Lori Sheehan,,242,60,182
+Plymouth,Brunsville Legion,County Agricultural Extension Council Member,,Lori Sheehan,,243,61,182
 Plymouth,Courthouse Annex,County Agricultural Extension Council Member,,Lori Sheehan,,352,165,187
 Plymouth,Hinton Community Center,County Agricultural Extension Council Member,,Lori Sheehan,,317,87,230
-Plymouth,Kingsley Community Center,County Agricultural Extension Council Member,,Lori Sheehan,,407,102,305
+Plymouth,Kingsley Community Center,County Agricultural Extension Council Member,,Lori Sheehan,,408,103,305
 Plymouth,Kissinger Community Center,County Agricultural Extension Council Member,,Lori Sheehan,,256,70,186
 Plymouth,Le Mars Convention Center 1,County Agricultural Extension Council Member,,Lori Sheehan,,432,211,221
 Plymouth,Le Mars Convention Center 2,County Agricultural Extension Council Member,,Lori Sheehan,,581,282,299
 Plymouth,Le Mars Convention Center 3,County Agricultural Extension Council Member,,Lori Sheehan,,331,126,205
 Plymouth,Perry Township Hall,County Agricultural Extension Council Member,,Lori Sheehan,,250,94,156
-Plymouth,Remsen Library,County Agricultural Extension Council Member,,Lori Sheehan,,685,209,476
+Plymouth,Remsen Library,County Agricultural Extension Council Member,,Lori Sheehan,,686,210,476
 Plymouth,Wesley United Methodist Church,County Agricultural Extension Council Member,,Lori Sheehan,,249,52,197
 Plymouth,Brunsville Legion,County Agricultural Extension Council Member,,Scott Schroeder,,286,69,217
 Plymouth,Courthouse Annex,County Agricultural Extension Council Member,,Scott Schroeder,,375,165,210
@@ -159,9 +159,9 @@ Plymouth,Le Mars Convention Center 1,County Agricultural Extension Council Membe
 Plymouth,Le Mars Convention Center 2,County Agricultural Extension Council Member,,Scott Schroeder,,656,303,353
 Plymouth,Le Mars Convention Center 3,County Agricultural Extension Council Member,,Scott Schroeder,,361,127,234
 Plymouth,Perry Township Hall,County Agricultural Extension Council Member,,Scott Schroeder,,259,95,164
-Plymouth,Remsen Library,County Agricultural Extension Council Member,,Scott Schroeder,,540,181,359
+Plymouth,Remsen Library,County Agricultural Extension Council Member,,Scott Schroeder,,541,182,359
 Plymouth,Wesley United Methodist Church,County Agricultural Extension Council Member,,Scott Schroeder,,339,59,280
-Plymouth,Brunsville Legion,County Agricultural Extension Council Member,,Thomas Lehner,,357,97,260
+Plymouth,Brunsville Legion,County Agricultural Extension Council Member,,Thomas Lehner,,358,98,260
 Plymouth,Courthouse Annex,County Agricultural Extension Council Member,,Thomas Lehner,,395,177,218
 Plymouth,Hinton Community Center,County Agricultural Extension Council Member,,Thomas Lehner,,333,84,249
 Plymouth,Kingsley Community Center,County Agricultural Extension Council Member,,Thomas Lehner,,332,67,265
@@ -170,9 +170,9 @@ Plymouth,Le Mars Convention Center 1,County Agricultural Extension Council Membe
 Plymouth,Le Mars Convention Center 2,County Agricultural Extension Council Member,,Thomas Lehner,,726,360,366
 Plymouth,Le Mars Convention Center 3,County Agricultural Extension Council Member,,Thomas Lehner,,396,158,238
 Plymouth,Perry Township Hall,County Agricultural Extension Council Member,,Thomas Lehner,,219,80,139
-Plymouth,Remsen Library,County Agricultural Extension Council Member,,Thomas Lehner,,360,129,231
+Plymouth,Remsen Library,County Agricultural Extension Council Member,,Thomas Lehner,,361,130,231
 Plymouth,Wesley United Methodist Church,County Agricultural Extension Council Member,,Thomas Lehner,,308,50,258
-Plymouth,Brunsville Legion,County Agricultural Extension Council Member,,Write-In,,11,2,9
+Plymouth,Brunsville Legion,County Agricultural Extension Council Member,,Write-In,,12,3,9
 Plymouth,Courthouse Annex,County Agricultural Extension Council Member,,Write-In,,7,1,6
 Plymouth,Hinton Community Center,County Agricultural Extension Council Member,,Write-In,,40,4,36
 Plymouth,Kingsley Community Center,County Agricultural Extension Council Member,,Write-In,,17,4,13
@@ -183,16 +183,16 @@ Plymouth,Le Mars Convention Center 3,County Agricultural Extension Council Membe
 Plymouth,Perry Township Hall,County Agricultural Extension Council Member,,Write-In,,22,5,17
 Plymouth,Remsen Library,County Agricultural Extension Council Member,,Write-In,,9,4,5
 Plymouth,Wesley United Methodist Church,County Agricultural Extension Council Member,,Write-In,,9,4,5
-Plymouth,Brunsville Legion,County Attorney,,Darin J. Raymond,REP,537,140,397
+Plymouth,Brunsville Legion,County Attorney,,Darin J. Raymond,REP,538,141,397
 Plymouth,Courthouse Annex,County Attorney,,Darin J. Raymond,REP,686,323,363
 Plymouth,Hinton Community Center,County Attorney,,Darin J. Raymond,REP,812,226,586
-Plymouth,Kingsley Community Center,County Attorney,,Darin J. Raymond,REP,751,160,591
+Plymouth,Kingsley Community Center,County Attorney,,Darin J. Raymond,REP,752,161,591
 Plymouth,Kissinger Community Center,County Attorney,,Darin J. Raymond,REP,595,155,440
 Plymouth,Le Mars Convention Center 1,County Attorney,,Darin J. Raymond,REP,958,455,503
 Plymouth,Le Mars Convention Center 2,County Attorney,,Darin J. Raymond,REP,1288,615,673
 Plymouth,Le Mars Convention Center 3,County Attorney,,Darin J. Raymond,REP,755,292,463
 Plymouth,Perry Township Hall,County Attorney,,Darin J. Raymond,REP,592,211,381
-Plymouth,Remsen Library,County Attorney,,Darin J. Raymond,REP,836,258,578
+Plymouth,Remsen Library,County Attorney,,Darin J. Raymond,REP,837,259,578
 Plymouth,Wesley United Methodist Church,County Attorney,,Darin J. Raymond,REP,719,122,597
 Plymouth,Brunsville Legion,County Attorney,,Write-In,,2,1,1
 Plymouth,Courthouse Annex,County Attorney,,Write-In,,1,1,0
@@ -205,16 +205,16 @@ Plymouth,Le Mars Convention Center 3,County Attorney,,Write-In,,24,8,16
 Plymouth,Perry Township Hall,County Attorney,,Write-In,,9,5,4
 Plymouth,Remsen Library,County Attorney,,Write-In,,3,0,3
 Plymouth,Wesley United Methodist Church,County Attorney,,Write-In,,5,0,5
-Plymouth,Brunsville Legion,County Recorder,,Jolynn Goodchild,REP,557,149,408
+Plymouth,Brunsville Legion,County Recorder,,Jolynn Goodchild,REP,558,150,408
 Plymouth,Courthouse Annex,County Recorder,,Jolynn Goodchild,REP,708,333,375
 Plymouth,Hinton Community Center,County Recorder,,Jolynn Goodchild,REP,844,242,602
-Plymouth,Kingsley Community Center,County Recorder,,Jolynn Goodchild,REP,792,159,633
+Plymouth,Kingsley Community Center,County Recorder,,Jolynn Goodchild,REP,793,160,633
 Plymouth,Kissinger Community Center,County Recorder,,Jolynn Goodchild,REP,630,174,456
 Plymouth,Le Mars Convention Center 1,County Recorder,,Jolynn Goodchild,REP,989,476,513
 Plymouth,Le Mars Convention Center 2,County Recorder,,Jolynn Goodchild,REP,1344,648,696
 Plymouth,Le Mars Convention Center 3,County Recorder,,Jolynn Goodchild,REP,775,303,472
 Plymouth,Perry Township Hall,County Recorder,,Jolynn Goodchild,REP,609,216,393
-Plymouth,Remsen Library,County Recorder,,Jolynn Goodchild,REP,875,277,598
+Plymouth,Remsen Library,County Recorder,,Jolynn Goodchild,REP,876,278,598
 Plymouth,Wesley United Methodist Church,County Recorder,,Jolynn Goodchild,REP,725,119,606
 Plymouth,Brunsville Legion,County Recorder,,Write-In,,1,0,1
 Plymouth,Courthouse Annex,County Recorder,,Write-In,,0,0,0
@@ -227,16 +227,16 @@ Plymouth,Le Mars Convention Center 3,County Recorder,,Write-In,,20,6,14
 Plymouth,Perry Township Hall,County Recorder,,Write-In,,9,4,5
 Plymouth,Remsen Library,County Recorder,,Write-In,,5,1,4
 Plymouth,Wesley United Methodist Church,County Recorder,,Write-In,,2,0,2
-Plymouth,Brunsville Legion,County Supervisor,1,John Meis,REP,557,147,410
+Plymouth,Brunsville Legion,County Supervisor,1,John Meis,REP,558,148,410
 Plymouth,Courthouse Annex,County Supervisor,1,John Meis,REP,695,321,374
 Plymouth,Hinton Community Center,County Supervisor,1,John Meis,REP,838,233,605
-Plymouth,Kingsley Community Center,County Supervisor,1,John Meis,REP,781,156,625
+Plymouth,Kingsley Community Center,County Supervisor,1,John Meis,REP,782,157,625
 Plymouth,Kissinger Community Center,County Supervisor,1,John Meis,REP,609,158,451
 Plymouth,Le Mars Convention Center 1,County Supervisor,1,John Meis,REP,973,463,510
 Plymouth,Le Mars Convention Center 2,County Supervisor,1,John Meis,REP,1314,618,696
 Plymouth,Le Mars Convention Center 3,County Supervisor,1,John Meis,REP,761,295,466
 Plymouth,Perry Township Hall,County Supervisor,1,John Meis,REP,608,217,391
-Plymouth,Remsen Library,County Supervisor,1,John Meis,REP,865,268,597
+Plymouth,Remsen Library,County Supervisor,1,John Meis,REP,866,269,597
 Plymouth,Wesley United Methodist Church,County Supervisor,1,John Meis,REP,712,115,597
 Plymouth,Brunsville Legion,County Supervisor,1,Write-In,,2,1,1
 Plymouth,Courthouse Annex,County Supervisor,1,Write-In,,1,0,1
@@ -249,16 +249,16 @@ Plymouth,Le Mars Convention Center 3,County Supervisor,1,Write-In,,24,6,18
 Plymouth,Perry Township Hall,County Supervisor,1,Write-In,,5,2,3
 Plymouth,Remsen Library,County Supervisor,1,Write-In,,6,2,4
 Plymouth,Wesley United Methodist Church,County Supervisor,1,Write-In,,1,0,1
-Plymouth,Brunsville Legion,County Supervisor,3,Don Kass,REP,551,145,406
+Plymouth,Brunsville Legion,County Supervisor,3,Don Kass,REP,552,146,406
 Plymouth,Courthouse Annex,County Supervisor,3,Don Kass,REP,675,310,365
 Plymouth,Hinton Community Center,County Supervisor,3,Don Kass,REP,827,226,601
-Plymouth,Kingsley Community Center,County Supervisor,3,Don Kass,REP,781,157,624
+Plymouth,Kingsley Community Center,County Supervisor,3,Don Kass,REP,782,158,624
 Plymouth,Kissinger Community Center,County Supervisor,3,Don Kass,REP,615,163,452
 Plymouth,Le Mars Convention Center 1,County Supervisor,3,Don Kass,REP,937,439,498
 Plymouth,Le Mars Convention Center 2,County Supervisor,3,Don Kass,REP,1303,612,691
 Plymouth,Le Mars Convention Center 3,County Supervisor,3,Don Kass,REP,752,292,460
 Plymouth,Perry Township Hall,County Supervisor,3,Don Kass,REP,605,214,391
-Plymouth,Remsen Library,County Supervisor,3,Don Kass,REP,876,272,604
+Plymouth,Remsen Library,County Supervisor,3,Don Kass,REP,877,273,604
 Plymouth,Wesley United Methodist Church,County Supervisor,3,Don Kass,REP,707,114,593
 Plymouth,Brunsville Legion,County Supervisor,3,Write-In,,2,0,2
 Plymouth,Courthouse Annex,County Supervisor,3,Write-In,,3,0,3
@@ -271,10 +271,10 @@ Plymouth,Le Mars Convention Center 3,County Supervisor,3,Write-In,,21,6,15
 Plymouth,Perry Township Hall,County Supervisor,3,Write-In,,5,2,3
 Plymouth,Remsen Library,County Supervisor,3,Write-In,,7,2,5
 Plymouth,Wesley United Methodist Church,County Supervisor,3,Write-In,,4,0,4
-Plymouth,Brunsville Legion,County Supervisor,4,Craig A. Anderson,REP,460,125,335
+Plymouth,Brunsville Legion,County Supervisor,4,Craig A. Anderson,REP,461,126,335
 Plymouth,Courthouse Annex,County Supervisor,4,Craig A. Anderson,REP,611,286,325
 Plymouth,Hinton Community Center,County Supervisor,4,Craig A. Anderson,REP,601,176,425
-Plymouth,Kingsley Community Center,County Supervisor,4,Craig A. Anderson,REP,680,131,549
+Plymouth,Kingsley Community Center,County Supervisor,4,Craig A. Anderson,REP,681,132,549
 Plymouth,Kissinger Community Center,County Supervisor,4,Craig A. Anderson,REP,514,132,382
 Plymouth,Le Mars Convention Center 1,County Supervisor,4,Craig A. Anderson,REP,746,361,385
 Plymouth,Le Mars Convention Center 2,County Supervisor,4,Craig A. Anderson,REP,1075,524,551
@@ -291,7 +291,7 @@ Plymouth,Le Mars Convention Center 1,County Supervisor,4,Ryan Mitchell Weber,,28
 Plymouth,Le Mars Convention Center 2,County Supervisor,4,Ryan Mitchell Weber,,346,170,176
 Plymouth,Le Mars Convention Center 3,County Supervisor,4,Ryan Mitchell Weber,,235,98,137
 Plymouth,Perry Township Hall,County Supervisor,4,Ryan Mitchell Weber,,146,54,92
-Plymouth,Remsen Library,County Supervisor,4,Ryan Mitchell Weber,,143,49,94
+Plymouth,Remsen Library,County Supervisor,4,Ryan Mitchell Weber,,144,50,94
 Plymouth,Wesley United Methodist Church,County Supervisor,4,Ryan Mitchell Weber,,191,38,153
 Plymouth,Brunsville Legion,County Supervisor,4,Write-In,,7,1,6
 Plymouth,Courthouse Annex,County Supervisor,4,Write-In,,0,0,0
@@ -304,16 +304,16 @@ Plymouth,Le Mars Convention Center 3,County Supervisor,4,Write-In,,12,3,9
 Plymouth,Perry Township Hall,County Supervisor,4,Write-In,,2,1,1
 Plymouth,Remsen Library,County Supervisor,4,Write-In,,3,2,1
 Plymouth,Wesley United Methodist Church,County Supervisor,4,Write-In,,0,0,0
-Plymouth,Brunsville Legion,County Treasurer,,Shelly Sitzmann,REP,558,152,406
+Plymouth,Brunsville Legion,County Treasurer,,Shelly Sitzmann,REP,559,153,406
 Plymouth,Courthouse Annex,County Treasurer,,Shelly Sitzmann,REP,720,341,379
 Plymouth,Hinton Community Center,County Treasurer,,Shelly Sitzmann,REP,867,246,621
-Plymouth,Kingsley Community Center,County Treasurer,,Shelly Sitzmann,REP,830,166,664
+Plymouth,Kingsley Community Center,County Treasurer,,Shelly Sitzmann,REP,831,167,664
 Plymouth,Kissinger Community Center,County Treasurer,,Shelly Sitzmann,REP,647,180,467
 Plymouth,Le Mars Convention Center 1,County Treasurer,,Shelly Sitzmann,REP,1017,493,524
 Plymouth,Le Mars Convention Center 2,County Treasurer,,Shelly Sitzmann,REP,1375,669,706
 Plymouth,Le Mars Convention Center 3,County Treasurer,,Shelly Sitzmann,REP,795,316,479
 Plymouth,Perry Township Hall,County Treasurer,,Shelly Sitzmann,REP,626,223,403
-Plymouth,Remsen Library,County Treasurer,,Shelly Sitzmann,REP,891,283,608
+Plymouth,Remsen Library,County Treasurer,,Shelly Sitzmann,REP,892,284,608
 Plymouth,Wesley United Methodist Church,County Treasurer,,Shelly Sitzmann,REP,757,123,634
 Plymouth,Brunsville Legion,County Treasurer,,Write-In,,3,1,2
 Plymouth,Courthouse Annex,County Treasurer,,Write-In,,2,1,1
@@ -337,16 +337,16 @@ Plymouth,Le Mars Convention Center 3,Court of Appeals Judge - John M. Sandy,,No,
 Plymouth,Perry Township Hall,Court of Appeals Judge - John M. Sandy,,No,,113,35,78
 Plymouth,Remsen Library,Court of Appeals Judge - John M. Sandy,,No,,123,37,86
 Plymouth,Wesley United Methodist Church,Court of Appeals Judge - John M. Sandy,,No,,92,14,78
-Plymouth,Brunsville Legion,Court of Appeals Judge - John M. Sandy,,Yes,,346,86,260
+Plymouth,Brunsville Legion,Court of Appeals Judge - John M. Sandy,,Yes,,347,87,260
 Plymouth,Courthouse Annex,Court of Appeals Judge - John M. Sandy,,Yes,,435,174,261
 Plymouth,Hinton Community Center,Court of Appeals Judge - John M. Sandy,,Yes,,566,149,417
-Plymouth,Kingsley Community Center,Court of Appeals Judge - John M. Sandy,,Yes,,468,106,362
+Plymouth,Kingsley Community Center,Court of Appeals Judge - John M. Sandy,,Yes,,469,107,362
 Plymouth,Kissinger Community Center,Court of Appeals Judge - John M. Sandy,,Yes,,429,105,324
 Plymouth,Le Mars Convention Center 1,Court of Appeals Judge - John M. Sandy,,Yes,,660,303,357
 Plymouth,Le Mars Convention Center 2,Court of Appeals Judge - John M. Sandy,,Yes,,852,396,456
 Plymouth,Le Mars Convention Center 3,Court of Appeals Judge - John M. Sandy,,Yes,,525,186,339
 Plymouth,Perry Township Hall,Court of Appeals Judge - John M. Sandy,,Yes,,401,157,244
-Plymouth,Remsen Library,Court of Appeals Judge - John M. Sandy,,Yes,,551,169,382
+Plymouth,Remsen Library,Court of Appeals Judge - John M. Sandy,,Yes,,552,170,382
 Plymouth,Wesley United Methodist Church,Court of Appeals Judge - John M. Sandy,,Yes,,433,75,358
 Plymouth,Brunsville Legion,Court of Appeals Judge - Julie A. Schumacher,,No,,70,16,54
 Plymouth,Courthouse Annex,Court of Appeals Judge - Julie A. Schumacher,,No,,82,29,53
@@ -359,16 +359,16 @@ Plymouth,Le Mars Convention Center 3,Court of Appeals Judge - Julie A. Schumache
 Plymouth,Perry Township Hall,Court of Appeals Judge - Julie A. Schumacher,,No,,104,29,75
 Plymouth,Remsen Library,Court of Appeals Judge - Julie A. Schumacher,,No,,124,38,86
 Plymouth,Wesley United Methodist Church,Court of Appeals Judge - Julie A. Schumacher,,No,,92,13,79
-Plymouth,Brunsville Legion,Court of Appeals Judge - Julie A. Schumacher,,Yes,,353,89,264
+Plymouth,Brunsville Legion,Court of Appeals Judge - Julie A. Schumacher,,Yes,,354,90,264
 Plymouth,Courthouse Annex,Court of Appeals Judge - Julie A. Schumacher,,Yes,,435,180,255
 Plymouth,Hinton Community Center,Court of Appeals Judge - Julie A. Schumacher,,Yes,,558,152,406
-Plymouth,Kingsley Community Center,Court of Appeals Judge - Julie A. Schumacher,,Yes,,466,106,360
+Plymouth,Kingsley Community Center,Court of Appeals Judge - Julie A. Schumacher,,Yes,,467,107,360
 Plymouth,Kissinger Community Center,Court of Appeals Judge - Julie A. Schumacher,,Yes,,428,102,326
 Plymouth,Le Mars Convention Center 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,677,326,351
 Plymouth,Le Mars Convention Center 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,846,398,448
 Plymouth,Le Mars Convention Center 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,546,195,351
 Plymouth,Perry Township Hall,Court of Appeals Judge - Julie A. Schumacher,,Yes,,405,167,238
-Plymouth,Remsen Library,Court of Appeals Judge - Julie A. Schumacher,,Yes,,549,167,382
+Plymouth,Remsen Library,Court of Appeals Judge - Julie A. Schumacher,,Yes,,550,168,382
 Plymouth,Wesley United Methodist Church,Court of Appeals Judge - Julie A. Schumacher,,Yes,,442,84,358
 Plymouth,Brunsville Legion,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,94,24,70
 Plymouth,Courthouse Annex,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,98,42,56
@@ -381,7 +381,7 @@ Plymouth,Le Mars Convention Center 3,Court of Appeals Judge - Sharon Soorholtz G
 Plymouth,Perry Township Hall,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,117,33,84
 Plymouth,Remsen Library,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,136,40,96
 Plymouth,Wesley United Methodist Church,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,112,15,97
-Plymouth,Brunsville Legion,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,327,78,249
+Plymouth,Brunsville Legion,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,328,79,249
 Plymouth,Courthouse Annex,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,411,159,252
 Plymouth,Hinton Community Center,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,538,142,396
 Plymouth,Kingsley Community Center,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,436,99,337
@@ -390,7 +390,7 @@ Plymouth,Le Mars Convention Center 1,Court of Appeals Judge - Sharon Soorholtz G
 Plymouth,Le Mars Convention Center 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,792,375,417
 Plymouth,Le Mars Convention Center 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,507,181,326
 Plymouth,Perry Township Hall,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,379,155,224
-Plymouth,Remsen Library,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,525,160,365
+Plymouth,Remsen Library,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,526,161,365
 Plymouth,Wesley United Methodist Church,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,409,81,328
 Plymouth,Brunsville Legion,District 3B Associate Judge - Daniel P. Vakulskas,,No,,84,22,62
 Plymouth,Courthouse Annex,District 3B Associate Judge - Daniel P. Vakulskas,,No,,89,38,51
@@ -403,7 +403,7 @@ Plymouth,Le Mars Convention Center 3,District 3B Associate Judge - Daniel P. Vak
 Plymouth,Perry Township Hall,District 3B Associate Judge - Daniel P. Vakulskas,,No,,105,29,76
 Plymouth,Remsen Library,District 3B Associate Judge - Daniel P. Vakulskas,,No,,137,38,99
 Plymouth,Wesley United Methodist Church,District 3B Associate Judge - Daniel P. Vakulskas,,No,,111,19,92
-Plymouth,Brunsville Legion,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,328,78,250
+Plymouth,Brunsville Legion,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,329,79,250
 Plymouth,Courthouse Annex,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,427,172,255
 Plymouth,Hinton Community Center,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,557,150,407
 Plymouth,Kingsley Community Center,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,449,104,345
@@ -412,9 +412,9 @@ Plymouth,Le Mars Convention Center 1,District 3B Associate Judge - Daniel P. Vak
 Plymouth,Le Mars Convention Center 2,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,839,391,448
 Plymouth,Le Mars Convention Center 3,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,506,176,330
 Plymouth,Perry Township Hall,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,430,171,259
-Plymouth,Remsen Library,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,543,169,374
+Plymouth,Remsen Library,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,544,170,374
 Plymouth,Wesley United Methodist Church,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,396,76,320
-Plymouth,Brunsville Legion,District 3B Associate Judge - John C. Nelson,,No,,69,19,50
+Plymouth,Brunsville Legion,District 3B Associate Judge - John C. Nelson,,No,,70,20,50
 Plymouth,Courthouse Annex,District 3B Associate Judge - John C. Nelson,,No,,84,36,48
 Plymouth,Hinton Community Center,District 3B Associate Judge - John C. Nelson,,No,,143,36,107
 Plymouth,Kingsley Community Center,District 3B Associate Judge - John C. Nelson,,No,,130,31,99
@@ -428,13 +428,13 @@ Plymouth,Wesley United Methodist Church,District 3B Associate Judge - John C. Ne
 Plymouth,Brunsville Legion,District 3B Associate Judge - John C. Nelson,,Yes,,336,77,259
 Plymouth,Courthouse Annex,District 3B Associate Judge - John C. Nelson,,Yes,,410,158,252
 Plymouth,Hinton Community Center,District 3B Associate Judge - John C. Nelson,,Yes,,543,141,402
-Plymouth,Kingsley Community Center,District 3B Associate Judge - John C. Nelson,,Yes,,459,101,358
+Plymouth,Kingsley Community Center,District 3B Associate Judge - John C. Nelson,,Yes,,460,102,358
 Plymouth,Kissinger Community Center,District 3B Associate Judge - John C. Nelson,,Yes,,403,94,309
 Plymouth,Le Mars Convention Center 1,District 3B Associate Judge - John C. Nelson,,Yes,,645,299,346
 Plymouth,Le Mars Convention Center 2,District 3B Associate Judge - John C. Nelson,,Yes,,805,366,439
 Plymouth,Le Mars Convention Center 3,District 3B Associate Judge - John C. Nelson,,Yes,,499,177,322
 Plymouth,Perry Township Hall,District 3B Associate Judge - John C. Nelson,,Yes,,396,152,244
-Plymouth,Remsen Library,District 3B Associate Judge - John C. Nelson,,Yes,,529,156,373
+Plymouth,Remsen Library,District 3B Associate Judge - John C. Nelson,,Yes,,530,157,373
 Plymouth,Wesley United Methodist Church,District 3B Associate Judge - John C. Nelson,,Yes,,396,73,323
 Plymouth,Brunsville Legion,District 3B Associate Judge - Mark C. Cord,,No,,81,23,58
 Plymouth,Courthouse Annex,District 3B Associate Judge - Mark C. Cord,,No,,89,38,51
@@ -447,7 +447,7 @@ Plymouth,Le Mars Convention Center 3,District 3B Associate Judge - Mark C. Cord,
 Plymouth,Perry Township Hall,District 3B Associate Judge - Mark C. Cord,,No,,123,39,84
 Plymouth,Remsen Library,District 3B Associate Judge - Mark C. Cord,,No,,138,38,100
 Plymouth,Wesley United Methodist Church,District 3B Associate Judge - Mark C. Cord,,No,,105,18,87
-Plymouth,Brunsville Legion,District 3B Associate Judge - Mark C. Cord,,Yes,,320,72,248
+Plymouth,Brunsville Legion,District 3B Associate Judge - Mark C. Cord,,Yes,,321,73,248
 Plymouth,Courthouse Annex,District 3B Associate Judge - Mark C. Cord,,Yes,,412,159,253
 Plymouth,Hinton Community Center,District 3B Associate Judge - Mark C. Cord,,Yes,,546,144,402
 Plymouth,Kingsley Community Center,District 3B Associate Judge - Mark C. Cord,,Yes,,436,96,340
@@ -456,7 +456,7 @@ Plymouth,Le Mars Convention Center 1,District 3B Associate Judge - Mark C. Cord,
 Plymouth,Le Mars Convention Center 2,District 3B Associate Judge - Mark C. Cord,,Yes,,798,365,433
 Plymouth,Le Mars Convention Center 3,District 3B Associate Judge - Mark C. Cord,,Yes,,492,175,317
 Plymouth,Perry Township Hall,District 3B Associate Judge - Mark C. Cord,,Yes,,383,150,233
-Plymouth,Remsen Library,District 3B Associate Judge - Mark C. Cord,,Yes,,516,156,360
+Plymouth,Remsen Library,District 3B Associate Judge - Mark C. Cord,,Yes,,517,157,360
 Plymouth,Wesley United Methodist Church,District 3B Associate Judge - Mark C. Cord,,Yes,,392,75,317
 Plymouth,Brunsville Legion,District 3B Associate Judge - Melinda Wicks,,No,,81,21,60
 Plymouth,Courthouse Annex,District 3B Associate Judge - Melinda Wicks,,No,,83,36,47
@@ -469,7 +469,7 @@ Plymouth,Le Mars Convention Center 3,District 3B Associate Judge - Melinda Wicks
 Plymouth,Perry Township Hall,District 3B Associate Judge - Melinda Wicks,,No,,108,24,84
 Plymouth,Remsen Library,District 3B Associate Judge - Melinda Wicks,,No,,132,38,94
 Plymouth,Wesley United Methodist Church,District 3B Associate Judge - Melinda Wicks,,No,,101,13,88
-Plymouth,Brunsville Legion,District 3B Associate Judge - Melinda Wicks,,Yes,,325,74,251
+Plymouth,Brunsville Legion,District 3B Associate Judge - Melinda Wicks,,Yes,,326,75,251
 Plymouth,Courthouse Annex,District 3B Associate Judge - Melinda Wicks,,Yes,,421,164,257
 Plymouth,Hinton Community Center,District 3B Associate Judge - Melinda Wicks,,Yes,,539,146,393
 Plymouth,Kingsley Community Center,District 3B Associate Judge - Melinda Wicks,,Yes,,453,109,344
@@ -478,7 +478,7 @@ Plymouth,Le Mars Convention Center 1,District 3B Associate Judge - Melinda Wicks
 Plymouth,Le Mars Convention Center 2,District 3B Associate Judge - Melinda Wicks,,Yes,,814,385,429
 Plymouth,Le Mars Convention Center 3,District 3B Associate Judge - Melinda Wicks,,Yes,,517,187,330
 Plymouth,Perry Township Hall,District 3B Associate Judge - Melinda Wicks,,Yes,,386,158,228
-Plymouth,Remsen Library,District 3B Associate Judge - Melinda Wicks,,Yes,,525,161,364
+Plymouth,Remsen Library,District 3B Associate Judge - Melinda Wicks,,Yes,,526,162,364
 Plymouth,Wesley United Methodist Church,District 3B Associate Judge - Melinda Wicks,,Yes,,411,82,329
 Plymouth,Brunsville Legion,District 3B Judge - Tod J. Deck,,No,,79,23,56
 Plymouth,Courthouse Annex,District 3B Judge - Tod J. Deck,,No,,84,35,49
@@ -491,7 +491,7 @@ Plymouth,Le Mars Convention Center 3,District 3B Judge - Tod J. Deck,,No,,144,46
 Plymouth,Perry Township Hall,District 3B Judge - Tod J. Deck,,No,,105,31,74
 Plymouth,Remsen Library,District 3B Judge - Tod J. Deck,,No,,143,41,102
 Plymouth,Wesley United Methodist Church,District 3B Judge - Tod J. Deck,,No,,103,16,87
-Plymouth,Brunsville Legion,District 3B Judge - Tod J. Deck,,Yes,,329,73,256
+Plymouth,Brunsville Legion,District 3B Judge - Tod J. Deck,,Yes,,330,74,256
 Plymouth,Courthouse Annex,District 3B Judge - Tod J. Deck,,Yes,,433,174,259
 Plymouth,Hinton Community Center,District 3B Judge - Tod J. Deck,,Yes,,562,153,409
 Plymouth,Kingsley Community Center,District 3B Judge - Tod J. Deck,,Yes,,444,100,344
@@ -500,7 +500,7 @@ Plymouth,Le Mars Convention Center 1,District 3B Judge - Tod J. Deck,,Yes,,641,2
 Plymouth,Le Mars Convention Center 2,District 3B Judge - Tod J. Deck,,Yes,,830,390,440
 Plymouth,Le Mars Convention Center 3,District 3B Judge - Tod J. Deck,,Yes,,505,182,323
 Plymouth,Perry Township Hall,District 3B Judge - Tod J. Deck,,Yes,,412,162,250
-Plymouth,Remsen Library,District 3B Judge - Tod J. Deck,,Yes,,518,158,360
+Plymouth,Remsen Library,District 3B Judge - Tod J. Deck,,Yes,,519,159,360
 Plymouth,Wesley United Methodist Church,District 3B Judge - Tod J. Deck,,Yes,,416,77,339
 Plymouth,Brunsville Legion,District 3B Judge - Zachary S. Hindman,,No,,66,17,49
 Plymouth,Courthouse Annex,District 3B Judge - Zachary S. Hindman,,No,,75,27,48
@@ -513,7 +513,7 @@ Plymouth,Le Mars Convention Center 3,District 3B Judge - Zachary S. Hindman,,No,
 Plymouth,Perry Township Hall,District 3B Judge - Zachary S. Hindman,,No,,99,27,72
 Plymouth,Remsen Library,District 3B Judge - Zachary S. Hindman,,No,,117,40,77
 Plymouth,Wesley United Methodist Church,District 3B Judge - Zachary S. Hindman,,No,,88,10,78
-Plymouth,Brunsville Legion,District 3B Judge - Zachary S. Hindman,,Yes,,351,84,267
+Plymouth,Brunsville Legion,District 3B Judge - Zachary S. Hindman,,Yes,,352,85,267
 Plymouth,Courthouse Annex,District 3B Judge - Zachary S. Hindman,,Yes,,435,175,260
 Plymouth,Hinton Community Center,District 3B Judge - Zachary S. Hindman,,Yes,,578,154,424
 Plymouth,Kingsley Community Center,District 3B Judge - Zachary S. Hindman,,Yes,,466,107,359
@@ -522,7 +522,7 @@ Plymouth,Le Mars Convention Center 1,District 3B Judge - Zachary S. Hindman,,Yes
 Plymouth,Le Mars Convention Center 2,District 3B Judge - Zachary S. Hindman,,Yes,,843,392,451
 Plymouth,Le Mars Convention Center 3,District 3B Judge - Zachary S. Hindman,,Yes,,526,188,338
 Plymouth,Perry Township Hall,District 3B Judge - Zachary S. Hindman,,Yes,,409,156,253
-Plymouth,Remsen Library,District 3B Judge - Zachary S. Hindman,,Yes,,545,158,387
+Plymouth,Remsen Library,District 3B Judge - Zachary S. Hindman,,Yes,,546,159,387
 Plymouth,Wesley United Methodist Church,District 3B Judge - Zachary S. Hindman,,Yes,,431,87,344
 Plymouth,Courthouse Annex,Fredonia Township Clerk,,Wayne Pick,,94,35,59
 Plymouth,Courthouse Annex,Fredonia Township Clerk,,Write-In,,0,0,0
@@ -538,7 +538,7 @@ Plymouth,Le Mars Convention Center 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,4
 Plymouth,Le Mars Convention Center 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,604,312,292
 Plymouth,Le Mars Convention Center 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,464,200,264
 Plymouth,Perry Township Hall,Governor,,Rob Sand and Dave Muhlbauer,DEM,256,131,125
-Plymouth,Remsen Library,Governor,,Rob Sand and Dave Muhlbauer,DEM,254,103,151
+Plymouth,Remsen Library,Governor,,Rob Sand and Dave Muhlbauer,DEM,255,104,151
 Plymouth,Wesley United Methodist Church,Governor,,Rob Sand and Dave Muhlbauer,DEM,329,78,251
 Plymouth,Brunsville Legion,Governor,,Write-In,,0,0,0
 Plymouth,Courthouse Annex,Governor,,Write-In,,2,0,2
@@ -551,10 +551,10 @@ Plymouth,Le Mars Convention Center 3,Governor,,Write-In,,1,0,1
 Plymouth,Perry Township Hall,Governor,,Write-In,,1,0,1
 Plymouth,Remsen Library,Governor,,Write-In,,0,0,0
 Plymouth,Wesley United Methodist Church,Governor,,Write-In,,0,0,0
-Plymouth,Brunsville Legion,Governor,,Zach Lahn and Derek Wulf,REP,491,134,357
+Plymouth,Brunsville Legion,Governor,,Zach Lahn and Derek Wulf,REP,492,135,357
 Plymouth,Courthouse Annex,Governor,,Zach Lahn and Derek Wulf,REP,627,294,333
 Plymouth,Hinton Community Center,Governor,,Zach Lahn and Derek Wulf,REP,736,216,520
-Plymouth,Kingsley Community Center,Governor,,Zach Lahn and Derek Wulf,REP,671,117,554
+Plymouth,Kingsley Community Center,Governor,,Zach Lahn and Derek Wulf,REP,672,118,554
 Plymouth,Kissinger Community Center,Governor,,Zach Lahn and Derek Wulf,REP,521,139,382
 Plymouth,Le Mars Convention Center 1,Governor,,Zach Lahn and Derek Wulf,REP,747,345,402
 Plymouth,Le Mars Convention Center 2,Governor,,Zach Lahn and Derek Wulf,REP,1066,526,540
@@ -579,12 +579,12 @@ Plymouth,Le Mars Convention Center 1,Secretary of Agriculture,,Chris Jones,DEM,3
 Plymouth,Le Mars Convention Center 2,Secretary of Agriculture,,Chris Jones,DEM,460,235,225
 Plymouth,Le Mars Convention Center 3,Secretary of Agriculture,,Chris Jones,DEM,374,157,217
 Plymouth,Perry Township Hall,Secretary of Agriculture,,Chris Jones,DEM,211,109,102
-Plymouth,Remsen Library,Secretary of Agriculture,,Chris Jones,DEM,167,69,98
+Plymouth,Remsen Library,Secretary of Agriculture,,Chris Jones,DEM,168,70,98
 Plymouth,Wesley United Methodist Church,Secretary of Agriculture,,Chris Jones,DEM,258,57,201
-Plymouth,Brunsville Legion,Secretary of Agriculture,,Mike Naig,REP,542,145,397
+Plymouth,Brunsville Legion,Secretary of Agriculture,,Mike Naig,REP,543,146,397
 Plymouth,Courthouse Annex,Secretary of Agriculture,,Mike Naig,REP,689,319,370
 Plymouth,Hinton Community Center,Secretary of Agriculture,,Mike Naig,REP,790,235,555
-Plymouth,Kingsley Community Center,Secretary of Agriculture,,Mike Naig,REP,756,151,605
+Plymouth,Kingsley Community Center,Secretary of Agriculture,,Mike Naig,REP,757,152,605
 Plymouth,Kissinger Community Center,Secretary of Agriculture,,Mike Naig,REP,570,154,416
 Plymouth,Le Mars Convention Center 1,Secretary of Agriculture,,Mike Naig,REP,816,384,432
 Plymouth,Le Mars Convention Center 2,Secretary of Agriculture,,Mike Naig,REP,1158,574,584
@@ -603,10 +603,10 @@ Plymouth,Le Mars Convention Center 3,Secretary of Agriculture,,Write-In,,2,1,1
 Plymouth,Perry Township Hall,Secretary of Agriculture,,Write-In,,0,0,0
 Plymouth,Remsen Library,Secretary of Agriculture,,Write-In,,0,0,0
 Plymouth,Wesley United Methodist Church,Secretary of Agriculture,,Write-In,,0,0,0
-Plymouth,Brunsville Legion,Secretary of State,,Paul D. Pate,REP,513,137,376
+Plymouth,Brunsville Legion,Secretary of State,,Paul D. Pate,REP,514,138,376
 Plymouth,Courthouse Annex,Secretary of State,,Paul D. Pate,REP,674,311,363
 Plymouth,Hinton Community Center,Secretary of State,,Paul D. Pate,REP,796,226,570
-Plymouth,Kingsley Community Center,Secretary of State,,Paul D. Pate,REP,737,141,596
+Plymouth,Kingsley Community Center,Secretary of State,,Paul D. Pate,REP,738,142,596
 Plymouth,Kissinger Community Center,Secretary of State,,Paul D. Pate,REP,550,145,405
 Plymouth,Le Mars Convention Center 1,Secretary of State,,Paul D. Pate,REP,795,369,426
 Plymouth,Le Mars Convention Center 2,Secretary of State,,Paul D. Pate,REP,1138,555,583
@@ -623,7 +623,7 @@ Plymouth,Le Mars Convention Center 1,Secretary of State,,Ryan Peterman,DEM,402,2
 Plymouth,Le Mars Convention Center 2,Secretary of State,,Ryan Peterman,DEM,480,249,231
 Plymouth,Le Mars Convention Center 3,Secretary of State,,Ryan Peterman,DEM,394,168,226
 Plymouth,Perry Township Hall,Secretary of State,,Ryan Peterman,DEM,204,108,96
-Plymouth,Remsen Library,Secretary of State,,Ryan Peterman,DEM,175,76,99
+Plymouth,Remsen Library,Secretary of State,,Ryan Peterman,DEM,176,77,99
 Plymouth,Wesley United Methodist Church,Secretary of State,,Ryan Peterman,DEM,280,64,216
 Plymouth,Brunsville Legion,Secretary of State,,Write-In,,0,0,0
 Plymouth,Courthouse Annex,Secretary of State,,Write-In,,0,0,0
@@ -636,27 +636,27 @@ Plymouth,Le Mars Convention Center 3,Secretary of State,,Write-In,,2,1,1
 Plymouth,Perry Township Hall,Secretary of State,,Write-In,,0,0,0
 Plymouth,Remsen Library,Secretary of State,,Write-In,,1,0,1
 Plymouth,Wesley United Methodist Church,Secretary of State,,Write-In,,0,0,0
-Plymouth,Brunsville Legion,Soil and Water Conservation District Commissioner,,Jeremy Homan,,351,93,258
+Plymouth,Brunsville Legion,Soil and Water Conservation District Commissioner,,Jeremy Homan,,352,94,258
 Plymouth,Courthouse Annex,Soil and Water Conservation District Commissioner,,Jeremy Homan,,456,210,246
 Plymouth,Hinton Community Center,Soil and Water Conservation District Commissioner,,Jeremy Homan,,534,155,379
-Plymouth,Kingsley Community Center,Soil and Water Conservation District Commissioner,,Jeremy Homan,,550,118,432
+Plymouth,Kingsley Community Center,Soil and Water Conservation District Commissioner,,Jeremy Homan,,551,119,432
 Plymouth,Kissinger Community Center,Soil and Water Conservation District Commissioner,,Jeremy Homan,,398,103,295
 Plymouth,Le Mars Convention Center 1,Soil and Water Conservation District Commissioner,,Jeremy Homan,,630,288,342
 Plymouth,Le Mars Convention Center 2,Soil and Water Conservation District Commissioner,,Jeremy Homan,,861,416,445
 Plymouth,Le Mars Convention Center 3,Soil and Water Conservation District Commissioner,,Jeremy Homan,,460,171,289
 Plymouth,Perry Township Hall,Soil and Water Conservation District Commissioner,,Jeremy Homan,,372,137,235
-Plymouth,Remsen Library,Soil and Water Conservation District Commissioner,,Jeremy Homan,,754,242,512
+Plymouth,Remsen Library,Soil and Water Conservation District Commissioner,,Jeremy Homan,,755,243,512
 Plymouth,Wesley United Methodist Church,Soil and Water Conservation District Commissioner,,Jeremy Homan,,438,81,357
-Plymouth,Brunsville Legion,Soil and Water Conservation District Commissioner,,Robert Puetz,,435,108,327
+Plymouth,Brunsville Legion,Soil and Water Conservation District Commissioner,,Robert Puetz,,436,109,327
 Plymouth,Courthouse Annex,Soil and Water Conservation District Commissioner,,Robert Puetz,,566,270,296
 Plymouth,Hinton Community Center,Soil and Water Conservation District Commissioner,,Robert Puetz,,572,156,416
-Plymouth,Kingsley Community Center,Soil and Water Conservation District Commissioner,,Robert Puetz,,536,112,424
+Plymouth,Kingsley Community Center,Soil and Water Conservation District Commissioner,,Robert Puetz,,537,113,424
 Plymouth,Kissinger Community Center,Soil and Water Conservation District Commissioner,,Robert Puetz,,467,130,337
 Plymouth,Le Mars Convention Center 1,Soil and Water Conservation District Commissioner,,Robert Puetz,,743,356,387
 Plymouth,Le Mars Convention Center 2,Soil and Water Conservation District Commissioner,,Robert Puetz,,1001,495,506
 Plymouth,Le Mars Convention Center 3,Soil and Water Conservation District Commissioner,,Robert Puetz,,553,215,338
 Plymouth,Perry Township Hall,Soil and Water Conservation District Commissioner,,Robert Puetz,,377,128,249
-Plymouth,Remsen Library,Soil and Water Conservation District Commissioner,,Robert Puetz,,507,178,329
+Plymouth,Remsen Library,Soil and Water Conservation District Commissioner,,Robert Puetz,,508,179,329
 Plymouth,Wesley United Methodist Church,Soil and Water Conservation District Commissioner,,Robert Puetz,,454,84,370
 Plymouth,Brunsville Legion,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
 Plymouth,Courthouse Annex,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
@@ -669,16 +669,16 @@ Plymouth,Le Mars Convention Center 3,Soil and Water Conservation District Commis
 Plymouth,Perry Township Hall,Soil and Water Conservation District Commissioner,,Write-In,,7,2,5
 Plymouth,Remsen Library,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
 Plymouth,Wesley United Methodist Church,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
-Plymouth,Brunsville Legion,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Scott Jones,,466,110,356
+Plymouth,Brunsville Legion,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Scott Jones,,467,111,356
 Plymouth,Courthouse Annex,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Scott Jones,,567,246,321
 Plymouth,Hinton Community Center,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Scott Jones,,684,176,508
-Plymouth,Kingsley Community Center,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Scott Jones,,638,133,505
+Plymouth,Kingsley Community Center,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Scott Jones,,639,134,505
 Plymouth,Kissinger Community Center,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Scott Jones,,531,131,400
 Plymouth,Le Mars Convention Center 1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Scott Jones,,817,362,455
 Plymouth,Le Mars Convention Center 2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Scott Jones,,1074,505,569
 Plymouth,Le Mars Convention Center 3,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Scott Jones,,634,226,408
 Plymouth,Perry Township Hall,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Scott Jones,,466,164,302
-Plymouth,Remsen Library,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Scott Jones,,740,232,508
+Plymouth,Remsen Library,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Scott Jones,,741,233,508
 Plymouth,Wesley United Methodist Church,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Scott Jones,,540,94,446
 Plymouth,Brunsville Legion,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,2,0,2
 Plymouth,Courthouse Annex,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,2,0,2
@@ -692,16 +692,16 @@ Plymouth,Perry Township Hall,Soil and Water Conservation District Commissioner T
 Plymouth,Remsen Library,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,4,0,4
 Plymouth,Wesley United Methodist Church,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,1,0,1
 Plymouth,Hinton Community Center,State House,13,Travis M. Sitzmann,REP,856,242,614
-Plymouth,Kingsley Community Center,State House,13,Travis M. Sitzmann,REP,815,158,657
+Plymouth,Kingsley Community Center,State House,13,Travis M. Sitzmann,REP,816,159,657
 Plymouth,Kissinger Community Center,State House,13,Travis M. Sitzmann,REP,618,163,455
 Plymouth,Perry Township Hall,State House,13,Travis M. Sitzmann,REP,613,219,394
-Plymouth,Remsen Library,State House,13,Travis M. Sitzmann,REP,874,277,597
+Plymouth,Remsen Library,State House,13,Travis M. Sitzmann,REP,875,278,597
 Plymouth,Hinton Community Center,State House,13,Write-In,,12,2,10
 Plymouth,Kingsley Community Center,State House,13,Write-In,,7,4,3
 Plymouth,Kissinger Community Center,State House,13,Write-In,,3,1,2
 Plymouth,Perry Township Hall,State House,13,Write-In,,8,3,5
 Plymouth,Remsen Library,State House,13,Write-In,,11,3,8
-Plymouth,Brunsville Legion,State House,3,Robert Driesen,REP,545,142,403
+Plymouth,Brunsville Legion,State House,3,Robert Driesen,REP,546,143,403
 Plymouth,Courthouse Annex,State House,3,Robert Driesen,REP,676,310,366
 Plymouth,Le Mars Convention Center 1,State House,3,Robert Driesen,REP,939,437,502
 Plymouth,Le Mars Convention Center 2,State House,3,Robert Driesen,REP,1269,588,681
@@ -714,10 +714,10 @@ Plymouth,Le Mars Convention Center 2,State House,3,Write-In,,19,10,9
 Plymouth,Le Mars Convention Center 3,State House,3,Write-In,,28,7,21
 Plymouth,Wesley United Methodist Church,State House,3,Write-In,,2,0,2
 Plymouth,Hinton Community Center,State Senate,7,Kevin Alons,REP,835,231,604
-Plymouth,Kingsley Community Center,State Senate,7,Kevin Alons,REP,769,150,619
+Plymouth,Kingsley Community Center,State Senate,7,Kevin Alons,REP,770,151,619
 Plymouth,Kissinger Community Center,State Senate,7,Kevin Alons,REP,603,155,448
 Plymouth,Perry Township Hall,State Senate,7,Kevin Alons,REP,605,218,387
-Plymouth,Remsen Library,State Senate,7,Kevin Alons,REP,845,262,583
+Plymouth,Remsen Library,State Senate,7,Kevin Alons,REP,846,263,583
 Plymouth,Hinton Community Center,State Senate,7,Write-In,,20,6,14
 Plymouth,Kingsley Community Center,State Senate,7,Write-In,,10,4,6
 Plymouth,Kissinger Community Center,State Senate,7,Write-In,,5,1,4
@@ -732,12 +732,12 @@ Plymouth,Le Mars Convention Center 1,Treasurer of State,,John Norwood,DEM,422,23
 Plymouth,Le Mars Convention Center 2,Treasurer of State,,John Norwood,DEM,490,259,231
 Plymouth,Le Mars Convention Center 3,Treasurer of State,,John Norwood,DEM,391,171,220
 Plymouth,Perry Township Hall,Treasurer of State,,John Norwood,DEM,208,108,100
-Plymouth,Remsen Library,Treasurer of State,,John Norwood,DEM,201,86,115
+Plymouth,Remsen Library,Treasurer of State,,John Norwood,DEM,202,87,115
 Plymouth,Wesley United Methodist Church,Treasurer of State,,John Norwood,DEM,277,65,212
-Plymouth,Brunsville Legion,Treasurer of State,,Roby Smith,REP,509,141,368
+Plymouth,Brunsville Legion,Treasurer of State,,Roby Smith,REP,510,142,368
 Plymouth,Courthouse Annex,Treasurer of State,,Roby Smith,REP,658,300,358
 Plymouth,Hinton Community Center,Treasurer of State,,Roby Smith,REP,774,220,554
-Plymouth,Kingsley Community Center,Treasurer of State,,Roby Smith,REP,710,134,576
+Plymouth,Kingsley Community Center,Treasurer of State,,Roby Smith,REP,711,135,576
 Plymouth,Kissinger Community Center,Treasurer of State,,Roby Smith,REP,527,133,394
 Plymouth,Le Mars Convention Center 1,Treasurer of State,,Roby Smith,REP,764,349,415
 Plymouth,Le Mars Convention Center 2,Treasurer of State,,Roby Smith,REP,1094,529,565
@@ -756,10 +756,10 @@ Plymouth,Le Mars Convention Center 3,Treasurer of State,,Write-In,,2,1,1
 Plymouth,Perry Township Hall,Treasurer of State,,Write-In,,0,0,0
 Plymouth,Remsen Library,Treasurer of State,,Write-In,,0,0,0
 Plymouth,Wesley United Methodist Church,Treasurer of State,,Write-In,,0,0,0
-Plymouth,Brunsville Legion,U.S. House,4,Chris McGowan,REP,509,139,370
+Plymouth,Brunsville Legion,U.S. House,4,Chris McGowan,REP,510,140,370
 Plymouth,Courthouse Annex,U.S. House,4,Chris McGowan,REP,665,309,356
 Plymouth,Hinton Community Center,U.S. House,4,Chris McGowan,REP,785,227,558
-Plymouth,Kingsley Community Center,U.S. House,4,Chris McGowan,REP,714,136,578
+Plymouth,Kingsley Community Center,U.S. House,4,Chris McGowan,REP,715,137,578
 Plymouth,Kissinger Community Center,U.S. House,4,Chris McGowan,REP,548,142,406
 Plymouth,Le Mars Convention Center 1,U.S. House,4,Chris McGowan,REP,749,344,405
 Plymouth,Le Mars Convention Center 2,U.S. House,4,Chris McGowan,REP,1104,532,572
@@ -776,7 +776,7 @@ Plymouth,Le Mars Convention Center 1,U.S. House,4,Dave Dawson,DEM,431,237,194
 Plymouth,Le Mars Convention Center 2,U.S. House,4,Dave Dawson,DEM,494,259,235
 Plymouth,Le Mars Convention Center 3,U.S. House,4,Dave Dawson,DEM,397,173,224
 Plymouth,Perry Township Hall,U.S. House,4,Dave Dawson,DEM,222,118,104
-Plymouth,Remsen Library,U.S. House,4,Dave Dawson,DEM,192,84,108
+Plymouth,Remsen Library,U.S. House,4,Dave Dawson,DEM,193,85,108
 Plymouth,Wesley United Methodist Church,U.S. House,4,Dave Dawson,DEM,274,68,206
 Plymouth,Brunsville Legion,U.S. House,4,Write-In,,0,0,0
 Plymouth,Courthouse Annex,U.S. House,4,Write-In,,0,0,0
@@ -789,10 +789,10 @@ Plymouth,Le Mars Convention Center 3,U.S. House,4,Write-In,,3,1,2
 Plymouth,Perry Township Hall,U.S. House,4,Write-In,,1,1,0
 Plymouth,Remsen Library,U.S. House,4,Write-In,,0,0,0
 Plymouth,Wesley United Methodist Church,U.S. House,4,Write-In,,2,1,1
-Plymouth,Brunsville Legion,U.S. Senate,,Ashley Hinson,REP,492,134,358
+Plymouth,Brunsville Legion,U.S. Senate,,Ashley Hinson,REP,493,135,358
 Plymouth,Courthouse Annex,U.S. Senate,,Ashley Hinson,REP,642,296,346
 Plymouth,Hinton Community Center,U.S. Senate,,Ashley Hinson,REP,743,220,523
-Plymouth,Kingsley Community Center,U.S. Senate,,Ashley Hinson,REP,688,133,555
+Plymouth,Kingsley Community Center,U.S. Senate,,Ashley Hinson,REP,689,134,555
 Plymouth,Kissinger Community Center,U.S. Senate,,Ashley Hinson,REP,511,135,376
 Plymouth,Le Mars Convention Center 1,U.S. Senate,,Ashley Hinson,REP,716,325,391
 Plymouth,Le Mars Convention Center 2,U.S. Senate,,Ashley Hinson,REP,1033,515,518
@@ -809,7 +809,7 @@ Plymouth,Le Mars Convention Center 1,U.S. Senate,,Josh Turek,DEM,447,249,198
 Plymouth,Le Mars Convention Center 2,U.S. Senate,,Josh Turek,DEM,555,283,272
 Plymouth,Le Mars Convention Center 3,U.S. Senate,,Josh Turek,DEM,421,180,241
 Plymouth,Perry Township Hall,U.S. Senate,,Josh Turek,DEM,230,120,110
-Plymouth,Remsen Library,U.S. Senate,,Josh Turek,DEM,212,96,116
+Plymouth,Remsen Library,U.S. Senate,,Josh Turek,DEM,213,97,116
 Plymouth,Wesley United Methodist Church,U.S. Senate,,Josh Turek,DEM,295,67,228
 Plymouth,Brunsville Legion,U.S. Senate,,Thomas Laehn,LIB,18,3,15
 Plymouth,Courthouse Annex,U.S. Senate,,Thomas Laehn,LIB,11,8,3

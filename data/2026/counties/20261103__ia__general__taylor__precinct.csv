@@ -33,9 +33,13 @@ Taylor,Courthouse Precinct 2,Bedford Township Clerk,,James Donald Offenbacker,,3
 Taylor,Courthouse Precinct 2,Bedford Township Clerk,,Write-In,,0,0,0
 Taylor,Courthouse Precinct 2,Bedford Township Trustee,,Dennis White,,36,15,21
 Taylor,Courthouse Precinct 2,Bedford Township Trustee,,Write-In,,0,0,0
-Taylor,Courthouse Precinct 1,Benton Township Clerk,,Write-In,,3,0,3
+Taylor,Courthouse Precinct 1,Benton Township Clerk,,Melissa Strickland,,3,0,3
+Taylor,Courthouse Precinct 2,Benton Township Clerk,,Melissa Strickland,,0,0,0
+Taylor,Courthouse Precinct 1,Benton Township Clerk,,Write-In,,0,0,0
 Taylor,Courthouse Precinct 2,Benton Township Clerk,,Write-In,,0,0,0
-Taylor,Courthouse Precinct 1,Benton Township Trustee,,Write-In,,4,0,4
+Taylor,Courthouse Precinct 1,Benton Township Trustee,,Jackie Spencer,,4,0,4
+Taylor,Courthouse Precinct 2,Benton Township Trustee,,Jackie Spencer,,0,0,0
+Taylor,Courthouse Precinct 1,Benton Township Trustee,,Write-In,,0,0,0
 Taylor,Courthouse Precinct 2,Benton Township Trustee,,Write-In,,0,0,0
 Taylor,Courthouse Precinct 2,Clayton Township Clerk,,Patty Rankin,,40,21,19
 Taylor,Courthouse Precinct 2,Clayton Township Clerk,,Write-In,,0,0,0
@@ -96,10 +100,15 @@ Taylor,Courthouse Precinct 2,County Agricultural Extension Council Member,,Write
 Taylor,Gravity Fire Station Precinct 4,County Agricultural Extension Council Member,,Write-In,,4,0,4
 Taylor,Lenox Community Center Precinct 3,County Agricultural Extension Council Member,,Write-In,,7,0,7
 Taylor,New Market Community Center Precinct 5,County Agricultural Extension Council Member,,Write-In,,1,0,1
+Taylor,Courthouse Precinct 1,County Attorney,,Matt Hanson,,0,0,0
+Taylor,Courthouse Precinct 2,County Attorney,,Matt Hanson,,2,0,2
+Taylor,Gravity Fire Station Precinct 4,County Attorney,,Matt Hanson,,0,0,0
+Taylor,Lenox Community Center Precinct 3,County Attorney,,Matt Hanson,,11,0,11
+Taylor,New Market Community Center Precinct 5,County Attorney,,Matt Hanson,,0,0,0
 Taylor,Courthouse Precinct 1,County Attorney,,Write-In,,6,1,5
-Taylor,Courthouse Precinct 2,County Attorney,,Write-In,,26,8,18
+Taylor,Courthouse Precinct 2,County Attorney,,Write-In,,24,8,16
 Taylor,Gravity Fire Station Precinct 4,County Attorney,,Write-In,,10,1,9
-Taylor,Lenox Community Center Precinct 3,County Attorney,,Write-In,,46,5,41
+Taylor,Lenox Community Center Precinct 3,County Attorney,,Write-In,,35,5,30
 Taylor,New Market Community Center Precinct 5,County Attorney,,Write-In,,10,0,10
 Taylor,Courthouse Precinct 1,County Recorder,,Janel Irvin,REP,212,85,127
 Taylor,Courthouse Precinct 2,County Recorder,,Janel Irvin,REP,644,297,347
@@ -183,8 +192,10 @@ Taylor,Courthouse Precinct 2,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,3
 Taylor,Gravity Fire Station Precinct 4,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,130,30,100
 Taylor,Lenox Community Center Precinct 3,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,371,70,301
 Taylor,New Market Community Center Precinct 5,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,209,34,175
-Taylor,Courthouse Precinct 2,Gay Township Clerk,,Write-In,,4,3,1
-Taylor,Courthouse Precinct 2,Gay Township Trustee,,Write-In,,4,3,1
+Taylor,Courthouse Precinct 2,Gay Township Clerk,,Shantelle Janette,,1,0,1
+Taylor,Courthouse Precinct 2,Gay Township Clerk,,Write-In,,3,3,0
+Taylor,Courthouse Precinct 2,Gay Township Trustee,,Tracy Head,,1,0,1
+Taylor,Courthouse Precinct 2,Gay Township Trustee,,Write-In,,3,3,0
 Taylor,Courthouse Precinct 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,70,37,33
 Taylor,Courthouse Precinct 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,189,87,102
 Taylor,Gravity Fire Station Precinct 4,Governor,,Rob Sand and Dave Muhlbauer,DEM,120,39,81
@@ -208,8 +219,10 @@ Taylor,Gravity Fire Station Precinct 4,Grove Township Clerk,,Jamie David,,17,2,1
 Taylor,Lenox Community Center Precinct 3,Grove Township Clerk,,Jamie David,,35,7,28
 Taylor,Gravity Fire Station Precinct 4,Grove Township Clerk,,Write-In,,0,0,0
 Taylor,Lenox Community Center Precinct 3,Grove Township Clerk,,Write-In,,0,0,0
+Taylor,Gravity Fire Station Precinct 4,Grove Township Trustee,,Bart Cline,,0,0,0
+Taylor,Lenox Community Center Precinct 3,Grove Township Trustee,,Bart Cline,,3,0,3
 Taylor,Gravity Fire Station Precinct 4,Grove Township Trustee,,Write-In,,4,0,4
-Taylor,Lenox Community Center Precinct 3,Grove Township Trustee,,Write-In,,4,0,4
+Taylor,Lenox Community Center Precinct 3,Grove Township Trustee,,Write-In,,1,0,1
 Taylor,Gravity Fire Station Precinct 4,Holt Township Clerk,,Sharon Dalton,,54,17,37
 Taylor,Gravity Fire Station Precinct 4,Holt Township Clerk,,Write-In,,0,0,0
 Taylor,Gravity Fire Station Precinct 4,Holt Township Trustee,,Shane Bennett,,56,18,38
@@ -228,18 +241,26 @@ Taylor,Gravity Fire Station Precinct 4,Marshall Township Clerk,,Amanda Mains,,30
 Taylor,Gravity Fire Station Precinct 4,Marshall Township Clerk,,Write-In,,0,0,0
 Taylor,Gravity Fire Station Precinct 4,Marshall Township Trustee,,Paul Norton,,25,10,15
 Taylor,Gravity Fire Station Precinct 4,Marshall Township Trustee,,Write-In,,5,2,3
-Taylor,New Market Community Center Precinct 5,Mason Township Clerk,,Write-In,,4,1,3
-Taylor,New Market Community Center Precinct 5,Mason Township Trustee,,Write-In,,11,1,10
+Taylor,New Market Community Center Precinct 5,Mason Township Clerk,,Erin Madsen,,1,1,0
+Taylor,New Market Community Center Precinct 5,Mason Township Clerk,,Write-In,,3,0,3
+Taylor,New Market Community Center Precinct 5,Mason Township Trustee,,Cavin Cox,,2,0,2
+Taylor,New Market Community Center Precinct 5,Mason Township Trustee,,Write-In,,9,1,8
 Taylor,New Market Community Center Precinct 5,Nodaway Township Clerk,,Jeff L. Fulton,,45,19,26
 Taylor,New Market Community Center Precinct 5,Nodaway Township Clerk,,Write-In,,0,0,0
-Taylor,New Market Community Center Precinct 5,Nodaway Township Trustee,,Write-In,,3,1,2
-Taylor,Lenox Community Center Precinct 3,Platte Township Clerk,,Write-In,,6,2,4
-Taylor,Lenox Community Center Precinct 3,Platte Township Trustee,,Write-In,,7,2,5
-Taylor,Courthouse Precinct 1,Polk Township Clerk,,Write-In,,3,1,2
-Taylor,Courthouse Precinct 1,Polk Township Trustee,,Write-In,,5,1,4
+Taylor,New Market Community Center Precinct 5,Nodaway Township Trustee,,Brian Schafer,,2,0,2
+Taylor,New Market Community Center Precinct 5,Nodaway Township Trustee,,Write-In,,1,1,0
+Taylor,Lenox Community Center Precinct 3,Platte Township Clerk,,Julie Reed,,5,2,3
+Taylor,Lenox Community Center Precinct 3,Platte Township Clerk,,Write-In,,1,0,1
+Taylor,Lenox Community Center Precinct 3,Platte Township Trustee,,Ed Douglas,,5,2,3
+Taylor,Lenox Community Center Precinct 3,Platte Township Trustee,,Write-In,,2,0,2
+Taylor,Courthouse Precinct 1,Polk Township Clerk,,Jolyn Jackson,,2,0,2
+Taylor,Courthouse Precinct 1,Polk Township Clerk,,Write-In,,1,1,0
+Taylor,Courthouse Precinct 1,Polk Township Trustee,,Kenneth Hoepker,,2,0,2
+Taylor,Courthouse Precinct 1,Polk Township Trustee,,Write-In,,3,1,2
 Taylor,Courthouse Precinct 1,Ross Township Clerk,,Louis Els,,65,25,40
 Taylor,Courthouse Precinct 1,Ross Township Clerk,,Write-In,,1,1,0
-Taylor,Courthouse Precinct 1,Ross Township Trustee,,Write-In,,10,3,7
+Taylor,Courthouse Precinct 1,Ross Township Trustee,,Kenny Beason,,2,0,2
+Taylor,Courthouse Precinct 1,Ross Township Trustee,,Write-In,,8,3,5
 Taylor,Courthouse Precinct 1,Secretary of Agriculture,,Chris Jones,DEM,39,19,20
 Taylor,Courthouse Precinct 2,Secretary of Agriculture,,Chris Jones,DEM,116,58,58
 Taylor,Gravity Fire Station Precinct 4,Secretary of Agriculture,,Chris Jones,DEM,67,23,44
@@ -270,16 +291,21 @@ Taylor,Courthouse Precinct 2,Secretary of State,,Write-In,,0,0,0
 Taylor,Gravity Fire Station Precinct 4,Secretary of State,,Write-In,,0,0,0
 Taylor,Lenox Community Center Precinct 3,Secretary of State,,Write-In,,2,0,2
 Taylor,New Market Community Center Precinct 5,Secretary of State,,Write-In,,0,0,0
+Taylor,Courthouse Precinct 1,Soil and Water Conservation District Commissioner,,Jonathan Cox,,10,3,7
+Taylor,Courthouse Precinct 2,Soil and Water Conservation District Commissioner,,Jonathan Cox,,4,1,3
+Taylor,Gravity Fire Station Precinct 4,Soil and Water Conservation District Commissioner,,Jonathan Cox,,3,0,3
+Taylor,Lenox Community Center Precinct 3,Soil and Water Conservation District Commissioner,,Jonathan Cox,,0,0,0
+Taylor,New Market Community Center Precinct 5,Soil and Water Conservation District Commissioner,,Jonathan Cox,,14,1,13
 Taylor,Courthouse Precinct 1,Soil and Water Conservation District Commissioner,,Steve Wright,,180,67,113
 Taylor,Courthouse Precinct 2,Soil and Water Conservation District Commissioner,,Steve Wright,,541,245,296
 Taylor,Gravity Fire Station Precinct 4,Soil and Water Conservation District Commissioner,,Steve Wright,,226,54,172
 Taylor,Lenox Community Center Precinct 3,Soil and Water Conservation District Commissioner,,Steve Wright,,495,103,392
 Taylor,New Market Community Center Precinct 5,Soil and Water Conservation District Commissioner,,Steve Wright,,335,67,268
-Taylor,Courthouse Precinct 1,Soil and Water Conservation District Commissioner,,Write-In,,13,4,9
-Taylor,Courthouse Precinct 2,Soil and Water Conservation District Commissioner,,Write-In,,22,4,18
-Taylor,Gravity Fire Station Precinct 4,Soil and Water Conservation District Commissioner,,Write-In,,5,0,5
+Taylor,Courthouse Precinct 1,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
+Taylor,Courthouse Precinct 2,Soil and Water Conservation District Commissioner,,Write-In,,18,3,15
+Taylor,Gravity Fire Station Precinct 4,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
 Taylor,Lenox Community Center Precinct 3,Soil and Water Conservation District Commissioner,,Write-In,,9,2,7
-Taylor,New Market Community Center Precinct 5,Soil and Water Conservation District Commissioner,,Write-In,,19,2,17
+Taylor,New Market Community Center Precinct 5,Soil and Water Conservation District Commissioner,,Write-In,,5,1,4
 Taylor,Courthouse Precinct 1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Bailie Walters,,178,63,115
 Taylor,Courthouse Precinct 2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Bailie Walters,,532,239,293
 Taylor,Gravity Fire Station Precinct 4,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Bailie Walters,,212,55,157

@@ -1,6 +1,6 @@
 county,precinct,office,district,candidate,party,votes,absentee,election_day
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",Attorney General,,Brenna Bird,REP,383,68,315
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Attorney General,,Brenna Bird,REP,116,13,103
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Attorney General,,Brenna Bird,REP,117,14,103
 Emmet,EMMET-ESTHERVILLE TWP,Attorney General,,Brenna Bird,REP,194,48,146
 Emmet,ESTHERVILLE WARD 1,Attorney General,,Brenna Bird,REP,301,117,184
 Emmet,ESTHERVILLE WARD 2,Attorney General,,Brenna Bird,REP,260,87,173
@@ -15,7 +15,7 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Attorney General,,Nate Willems,DEM,36,12
 Emmet,EMMET-ESTHERVILLE TWP,Attorney General,,Nate Willems,DEM,58,24,34
 Emmet,ESTHERVILLE WARD 1,Attorney General,,Nate Willems,DEM,172,92,80
 Emmet,ESTHERVILLE WARD 2,Attorney General,,Nate Willems,DEM,190,93,97
-Emmet,ESTHERVILLE WARD 3,Attorney General,,Nate Willems,DEM,194,93,101
+Emmet,ESTHERVILLE WARD 3,Attorney General,,Nate Willems,DEM,195,94,101
 Emmet,ESTHERVILLE WARD 4,Attorney General,,Nate Willems,DEM,140,56,84
 Emmet,ESTHERVILLE WARD 5,Attorney General,,Nate Willems,DEM,134,54,80
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Attorney General,,Nate Willems,DEM,41,15,26
@@ -33,7 +33,7 @@ Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Attorney General,,Write-In,,0,0,0
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Attorney General,,Write-In,,0,0,0
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Attorney General,,Write-In,,0,0,0
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",Auditor of State,,Chris Cournoyer,REP,391,70,321
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Auditor of State,,Chris Cournoyer,REP,115,11,104
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Auditor of State,,Chris Cournoyer,REP,116,12,104
 Emmet,EMMET-ESTHERVILLE TWP,Auditor of State,,Chris Cournoyer,REP,196,46,150
 Emmet,ESTHERVILLE WARD 1,Auditor of State,,Chris Cournoyer,REP,285,108,177
 Emmet,ESTHERVILLE WARD 2,Auditor of State,,Chris Cournoyer,REP,265,87,178
@@ -48,7 +48,7 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Auditor of State,,Taylor Wettach,DEM,38,
 Emmet,EMMET-ESTHERVILLE TWP,Auditor of State,,Taylor Wettach,DEM,54,27,27
 Emmet,ESTHERVILLE WARD 1,Auditor of State,,Taylor Wettach,DEM,181,93,88
 Emmet,ESTHERVILLE WARD 2,Auditor of State,,Taylor Wettach,DEM,177,92,85
-Emmet,ESTHERVILLE WARD 3,Auditor of State,,Taylor Wettach,DEM,191,98,93
+Emmet,ESTHERVILLE WARD 3,Auditor of State,,Taylor Wettach,DEM,192,99,93
 Emmet,ESTHERVILLE WARD 4,Auditor of State,,Taylor Wettach,DEM,140,57,83
 Emmet,ESTHERVILLE WARD 5,Auditor of State,,Taylor Wettach,DEM,126,50,76
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Auditor of State,,Taylor Wettach,DEM,45,15,30
@@ -70,14 +70,14 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Constitutional Amendment 1,,No,,31,5,26
 Emmet,EMMET-ESTHERVILLE TWP,Constitutional Amendment 1,,No,,51,17,34
 Emmet,ESTHERVILLE WARD 1,Constitutional Amendment 1,,No,,114,52,62
 Emmet,ESTHERVILLE WARD 2,Constitutional Amendment 1,,No,,111,55,56
-Emmet,ESTHERVILLE WARD 3,Constitutional Amendment 1,,No,,127,52,75
+Emmet,ESTHERVILLE WARD 3,Constitutional Amendment 1,,No,,128,53,75
 Emmet,ESTHERVILLE WARD 4,Constitutional Amendment 1,,No,,93,28,65
 Emmet,ESTHERVILLE WARD 5,Constitutional Amendment 1,,No,,82,23,59
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Constitutional Amendment 1,,No,,42,10,32
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Constitutional Amendment 1,,No,,83,12,71
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Constitutional Amendment 1,,No,,70,28,42
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",Constitutional Amendment 1,,Yes,,320,64,256
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Constitutional Amendment 1,,Yes,,103,16,87
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Constitutional Amendment 1,,Yes,,104,17,87
 Emmet,EMMET-ESTHERVILLE TWP,Constitutional Amendment 1,,Yes,,164,49,115
 Emmet,ESTHERVILLE WARD 1,Constitutional Amendment 1,,Yes,,300,131,169
 Emmet,ESTHERVILLE WARD 2,Constitutional Amendment 1,,Yes,,288,100,188
@@ -87,85 +87,118 @@ Emmet,ESTHERVILLE WARD 5,Constitutional Amendment 1,,Yes,,165,59,106
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Constitutional Amendment 1,,Yes,,121,31,90
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Constitutional Amendment 1,,Yes,,147,24,123
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Constitutional Amendment 1,,Yes,,161,28,133
+Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",County Agricultural Extension Council Member,,Bryce Hansen,,0,0,0
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Agricultural Extension Council Member,,Bryce Hansen,,1,0,1
+Emmet,EMMET-ESTHERVILLE TWP,County Agricultural Extension Council Member,,Bryce Hansen,,4,3,1
+Emmet,ESTHERVILLE WARD 1,County Agricultural Extension Council Member,,Bryce Hansen,,0,0,0
+Emmet,ESTHERVILLE WARD 2,County Agricultural Extension Council Member,,Bryce Hansen,,1,0,1
+Emmet,ESTHERVILLE WARD 3,County Agricultural Extension Council Member,,Bryce Hansen,,0,0,0
+Emmet,ESTHERVILLE WARD 4,County Agricultural Extension Council Member,,Bryce Hansen,,0,0,0
+Emmet,ESTHERVILLE WARD 5,County Agricultural Extension Council Member,,Bryce Hansen,,0,0,0
+Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Agricultural Extension Council Member,,Bryce Hansen,,4,3,1
+Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",County Agricultural Extension Council Member,,Bryce Hansen,,0,0,0
+Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",County Agricultural Extension Council Member,,Bryce Hansen,,0,0,0
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",County Agricultural Extension Council Member,,Chantel Kloucek,,263,58,205
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Agricultural Extension Council Member,,Chantel Kloucek,,88,14,74
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Agricultural Extension Council Member,,Chantel Kloucek,,89,15,74
 Emmet,EMMET-ESTHERVILLE TWP,County Agricultural Extension Council Member,,Chantel Kloucek,,150,45,105
 Emmet,ESTHERVILLE WARD 1,County Agricultural Extension Council Member,,Chantel Kloucek,,234,103,131
 Emmet,ESTHERVILLE WARD 2,County Agricultural Extension Council Member,,Chantel Kloucek,,215,90,125
-Emmet,ESTHERVILLE WARD 3,County Agricultural Extension Council Member,,Chantel Kloucek,,168,75,93
+Emmet,ESTHERVILLE WARD 3,County Agricultural Extension Council Member,,Chantel Kloucek,,169,76,93
 Emmet,ESTHERVILLE WARD 4,County Agricultural Extension Council Member,,Chantel Kloucek,,167,48,119
 Emmet,ESTHERVILLE WARD 5,County Agricultural Extension Council Member,,Chantel Kloucek,,118,51,67
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Agricultural Extension Council Member,,Chantel Kloucek,,109,24,85
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",County Agricultural Extension Council Member,,Chantel Kloucek,,131,16,115
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",County Agricultural Extension Council Member,,Chantel Kloucek,,153,32,121
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",County Agricultural Extension Council Member,,Clyve Jensen,,394,73,321
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Agricultural Extension Council Member,,Clyve Jensen,,81,10,71
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Agricultural Extension Council Member,,Clyve Jensen,,82,11,71
 Emmet,EMMET-ESTHERVILLE TWP,County Agricultural Extension Council Member,,Clyve Jensen,,124,41,83
 Emmet,ESTHERVILLE WARD 1,County Agricultural Extension Council Member,,Clyve Jensen,,217,98,119
 Emmet,ESTHERVILLE WARD 2,County Agricultural Extension Council Member,,Clyve Jensen,,209,82,127
-Emmet,ESTHERVILLE WARD 3,County Agricultural Extension Council Member,,Clyve Jensen,,149,68,81
+Emmet,ESTHERVILLE WARD 3,County Agricultural Extension Council Member,,Clyve Jensen,,150,69,81
 Emmet,ESTHERVILLE WARD 4,County Agricultural Extension Council Member,,Clyve Jensen,,142,40,102
 Emmet,ESTHERVILLE WARD 5,County Agricultural Extension Council Member,,Clyve Jensen,,108,44,64
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Agricultural Extension Council Member,,Clyve Jensen,,113,26,87
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",County Agricultural Extension Council Member,,Clyve Jensen,,188,29,159
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",County Agricultural Extension Council Member,,Clyve Jensen,,147,31,116
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",County Agricultural Extension Council Member,,Dean Gesche,,292,63,229
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Agricultural Extension Council Member,,Dean Gesche,,88,8,80
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Agricultural Extension Council Member,,Dean Gesche,,89,9,80
 Emmet,EMMET-ESTHERVILLE TWP,County Agricultural Extension Council Member,,Dean Gesche,,145,40,105
 Emmet,ESTHERVILLE WARD 1,County Agricultural Extension Council Member,,Dean Gesche,,263,106,157
 Emmet,ESTHERVILLE WARD 2,County Agricultural Extension Council Member,,Dean Gesche,,248,100,148
-Emmet,ESTHERVILLE WARD 3,County Agricultural Extension Council Member,,Dean Gesche,,182,78,104
+Emmet,ESTHERVILLE WARD 3,County Agricultural Extension Council Member,,Dean Gesche,,183,79,104
 Emmet,ESTHERVILLE WARD 4,County Agricultural Extension Council Member,,Dean Gesche,,176,44,132
 Emmet,ESTHERVILLE WARD 5,County Agricultural Extension Council Member,,Dean Gesche,,132,50,82
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Agricultural Extension Council Member,,Dean Gesche,,112,25,87
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",County Agricultural Extension Council Member,,Dean Gesche,,140,15,125
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",County Agricultural Extension Council Member,,Dean Gesche,,164,35,129
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",County Agricultural Extension Council Member,,Leah Smith,,291,61,230
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Agricultural Extension Council Member,,Leah Smith,,96,15,81
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Agricultural Extension Council Member,,Leah Smith,,97,16,81
 Emmet,EMMET-ESTHERVILLE TWP,County Agricultural Extension Council Member,,Leah Smith,,156,47,109
 Emmet,ESTHERVILLE WARD 1,County Agricultural Extension Council Member,,Leah Smith,,259,112,147
 Emmet,ESTHERVILLE WARD 2,County Agricultural Extension Council Member,,Leah Smith,,238,94,144
-Emmet,ESTHERVILLE WARD 3,County Agricultural Extension Council Member,,Leah Smith,,186,82,104
+Emmet,ESTHERVILLE WARD 3,County Agricultural Extension Council Member,,Leah Smith,,187,83,104
 Emmet,ESTHERVILLE WARD 4,County Agricultural Extension Council Member,,Leah Smith,,163,46,117
 Emmet,ESTHERVILLE WARD 5,County Agricultural Extension Council Member,,Leah Smith,,130,50,80
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Agricultural Extension Council Member,,Leah Smith,,122,30,92
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",County Agricultural Extension Council Member,,Leah Smith,,151,18,133
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",County Agricultural Extension Council Member,,Leah Smith,,161,33,128
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",County Agricultural Extension Council Member,,Write-In,,11,4,7
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Agricultural Extension Council Member,,Write-In,,5,1,4
-Emmet,EMMET-ESTHERVILLE TWP,County Agricultural Extension Council Member,,Write-In,,10,3,7
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Agricultural Extension Council Member,,Write-In,,4,1,3
+Emmet,EMMET-ESTHERVILLE TWP,County Agricultural Extension Council Member,,Write-In,,6,0,6
 Emmet,ESTHERVILLE WARD 1,County Agricultural Extension Council Member,,Write-In,,5,4,1
-Emmet,ESTHERVILLE WARD 2,County Agricultural Extension Council Member,,Write-In,,12,3,9
+Emmet,ESTHERVILLE WARD 2,County Agricultural Extension Council Member,,Write-In,,11,3,8
 Emmet,ESTHERVILLE WARD 3,County Agricultural Extension Council Member,,Write-In,,9,1,8
 Emmet,ESTHERVILLE WARD 4,County Agricultural Extension Council Member,,Write-In,,6,3,3
 Emmet,ESTHERVILLE WARD 5,County Agricultural Extension Council Member,,Write-In,,3,1,2
-Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Agricultural Extension Council Member,,Write-In,,13,4,9
+Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Agricultural Extension Council Member,,Write-In,,9,1,8
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",County Agricultural Extension Council Member,,Write-In,,5,0,5
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",County Agricultural Extension Council Member,,Write-In,,8,1,7
-Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",County Attorney,,Write-In,,36,13,23
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Attorney,,Write-In,,7,0,7
-Emmet,EMMET-ESTHERVILLE TWP,County Attorney,,Write-In,,30,11,19
-Emmet,ESTHERVILLE WARD 1,County Attorney,,Write-In,,33,18,15
-Emmet,ESTHERVILLE WARD 2,County Attorney,,Write-In,,29,7,22
-Emmet,ESTHERVILLE WARD 3,County Attorney,,Write-In,,25,8,17
-Emmet,ESTHERVILLE WARD 4,County Attorney,,Write-In,,20,9,11
-Emmet,ESTHERVILLE WARD 5,County Attorney,,Write-In,,19,5,14
-Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Attorney,,Write-In,,20,4,16
-Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",County Attorney,,Write-In,,17,1,16
-Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",County Attorney,,Write-In,,30,7,23
+Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",County Attorney,,Melanie Summers Bauler,,11,6,5
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Attorney,,Melanie Summers Bauler,,1,0,1
+Emmet,EMMET-ESTHERVILLE TWP,County Attorney,,Melanie Summers Bauler,,16,7,9
+Emmet,ESTHERVILLE WARD 1,County Attorney,,Melanie Summers Bauler,,16,10,6
+Emmet,ESTHERVILLE WARD 2,County Attorney,,Melanie Summers Bauler,,12,2,10
+Emmet,ESTHERVILLE WARD 3,County Attorney,,Melanie Summers Bauler,,10,3,7
+Emmet,ESTHERVILLE WARD 4,County Attorney,,Melanie Summers Bauler,,9,5,4
+Emmet,ESTHERVILLE WARD 5,County Attorney,,Melanie Summers Bauler,,5,2,3
+Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Attorney,,Melanie Summers Bauler,,4,1,3
+Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",County Attorney,,Melanie Summers Bauler,,8,0,8
+Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",County Attorney,,Melanie Summers Bauler,,13,5,8
+Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",County Attorney,,Morgan White Muller,,0,0,0
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Attorney,,Morgan White Muller,,4,0,4
+Emmet,EMMET-ESTHERVILLE TWP,County Attorney,,Morgan White Muller,,8,2,6
+Emmet,ESTHERVILLE WARD 1,County Attorney,,Morgan White Muller,,3,2,1
+Emmet,ESTHERVILLE WARD 2,County Attorney,,Morgan White Muller,,3,0,3
+Emmet,ESTHERVILLE WARD 3,County Attorney,,Morgan White Muller,,2,0,2
+Emmet,ESTHERVILLE WARD 4,County Attorney,,Morgan White Muller,,2,0,2
+Emmet,ESTHERVILLE WARD 5,County Attorney,,Morgan White Muller,,0,0,0
+Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Attorney,,Morgan White Muller,,7,2,5
+Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",County Attorney,,Morgan White Muller,,0,0,0
+Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",County Attorney,,Morgan White Muller,,5,1,4
+Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",County Attorney,,Write-In,,25,7,18
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Attorney,,Write-In,,2,0,2
+Emmet,EMMET-ESTHERVILLE TWP,County Attorney,,Write-In,,6,2,4
+Emmet,ESTHERVILLE WARD 1,County Attorney,,Write-In,,14,6,8
+Emmet,ESTHERVILLE WARD 2,County Attorney,,Write-In,,14,5,9
+Emmet,ESTHERVILLE WARD 3,County Attorney,,Write-In,,13,5,8
+Emmet,ESTHERVILLE WARD 4,County Attorney,,Write-In,,9,4,5
+Emmet,ESTHERVILLE WARD 5,County Attorney,,Write-In,,14,3,11
+Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Attorney,,Write-In,,9,1,8
+Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",County Attorney,,Write-In,,9,1,8
+Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",County Attorney,,Write-In,,12,1,11
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",County Board of Supervisors At-Large,,Jeff Quastad,,314,61,253
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Board of Supervisors At-Large,,Jeff Quastad,,109,20,89
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Board of Supervisors At-Large,,Jeff Quastad,,110,21,89
 Emmet,EMMET-ESTHERVILLE TWP,County Board of Supervisors At-Large,,Jeff Quastad,,176,59,117
 Emmet,ESTHERVILLE WARD 1,County Board of Supervisors At-Large,,Jeff Quastad,,308,137,171
 Emmet,ESTHERVILLE WARD 2,County Board of Supervisors At-Large,,Jeff Quastad,,260,114,146
-Emmet,ESTHERVILLE WARD 3,County Board of Supervisors At-Large,,Jeff Quastad,,242,112,130
+Emmet,ESTHERVILLE WARD 3,County Board of Supervisors At-Large,,Jeff Quastad,,243,113,130
 Emmet,ESTHERVILLE WARD 4,County Board of Supervisors At-Large,,Jeff Quastad,,161,56,105
 Emmet,ESTHERVILLE WARD 5,County Board of Supervisors At-Large,,Jeff Quastad,,161,68,93
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Board of Supervisors At-Large,,Jeff Quastad,,146,34,112
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",County Board of Supervisors At-Large,,Jeff Quastad,,163,26,137
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",County Board of Supervisors At-Large,,Jeff Quastad,,190,44,146
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",County Board of Supervisors At-Large,,John Pluth,REP,405,81,324
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Board of Supervisors At-Large,,John Pluth,REP,113,16,97
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Board of Supervisors At-Large,,John Pluth,REP,114,17,97
 Emmet,EMMET-ESTHERVILLE TWP,County Board of Supervisors At-Large,,John Pluth,REP,193,52,141
 Emmet,ESTHERVILLE WARD 1,County Board of Supervisors At-Large,,John Pluth,REP,325,138,187
 Emmet,ESTHERVILLE WARD 2,County Board of Supervisors At-Large,,John Pluth,REP,307,116,191
@@ -187,11 +220,11 @@ Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Board of Supervisors At-Large,,Write
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",County Board of Supervisors At-Large,,Write-In,,0,0,0
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",County Board of Supervisors At-Large,,Write-In,,5,0,5
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",County Recorder,,Diann Quastad Minion,REP,486,89,397
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Recorder,,Diann Quastad Minion,REP,141,20,121
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Recorder,,Diann Quastad Minion,REP,142,21,121
 Emmet,EMMET-ESTHERVILLE TWP,County Recorder,,Diann Quastad Minion,REP,232,64,168
 Emmet,ESTHERVILLE WARD 1,County Recorder,,Diann Quastad Minion,REP,397,165,232
 Emmet,ESTHERVILLE WARD 2,County Recorder,,Diann Quastad Minion,REP,354,135,219
-Emmet,ESTHERVILLE WARD 3,County Recorder,,Diann Quastad Minion,REP,302,127,175
+Emmet,ESTHERVILLE WARD 3,County Recorder,,Diann Quastad Minion,REP,303,128,175
 Emmet,ESTHERVILLE WARD 4,County Recorder,,Diann Quastad Minion,REP,252,72,180
 Emmet,ESTHERVILLE WARD 5,County Recorder,,Diann Quastad Minion,REP,204,79,125
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Recorder,,Diann Quastad Minion,REP,173,38,135
@@ -209,11 +242,11 @@ Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Recorder,,Write-In,,2,1,1
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",County Recorder,,Write-In,,3,0,3
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",County Recorder,,Write-In,,1,0,1
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",County Treasurer,,Lisa M. Rosburg,REP,491,93,398
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Treasurer,,Lisa M. Rosburg,REP,138,19,119
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",County Treasurer,,Lisa M. Rosburg,REP,139,20,119
 Emmet,EMMET-ESTHERVILLE TWP,County Treasurer,,Lisa M. Rosburg,REP,225,64,161
 Emmet,ESTHERVILLE WARD 1,County Treasurer,,Lisa M. Rosburg,REP,389,163,226
 Emmet,ESTHERVILLE WARD 2,County Treasurer,,Lisa M. Rosburg,REP,353,134,219
-Emmet,ESTHERVILLE WARD 3,County Treasurer,,Lisa M. Rosburg,REP,305,128,177
+Emmet,ESTHERVILLE WARD 3,County Treasurer,,Lisa M. Rosburg,REP,306,129,177
 Emmet,ESTHERVILLE WARD 4,County Treasurer,,Lisa M. Rosburg,REP,250,69,181
 Emmet,ESTHERVILLE WARD 5,County Treasurer,,Lisa M. Rosburg,REP,210,78,132
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",County Treasurer,,Lisa M. Rosburg,REP,166,41,125
@@ -235,14 +268,14 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Court of Appeals Judge - John M. Sandy,,
 Emmet,EMMET-ESTHERVILLE TWP,Court of Appeals Judge - John M. Sandy,,No,,27,8,19
 Emmet,ESTHERVILLE WARD 1,Court of Appeals Judge - John M. Sandy,,No,,72,35,37
 Emmet,ESTHERVILLE WARD 2,Court of Appeals Judge - John M. Sandy,,No,,69,22,47
-Emmet,ESTHERVILLE WARD 3,Court of Appeals Judge - John M. Sandy,,No,,62,23,39
+Emmet,ESTHERVILLE WARD 3,Court of Appeals Judge - John M. Sandy,,No,,63,24,39
 Emmet,ESTHERVILLE WARD 4,Court of Appeals Judge - John M. Sandy,,No,,49,17,32
 Emmet,ESTHERVILLE WARD 5,Court of Appeals Judge - John M. Sandy,,No,,42,11,31
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Court of Appeals Judge - John M. Sandy,,No,,27,11,16
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Court of Appeals Judge - John M. Sandy,,No,,34,6,28
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Court of Appeals Judge - John M. Sandy,,No,,44,14,30
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",Court of Appeals Judge - John M. Sandy,,Yes,,300,59,241
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Court of Appeals Judge - John M. Sandy,,Yes,,81,9,72
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Court of Appeals Judge - John M. Sandy,,Yes,,82,10,72
 Emmet,EMMET-ESTHERVILLE TWP,Court of Appeals Judge - John M. Sandy,,Yes,,146,43,103
 Emmet,ESTHERVILLE WARD 1,Court of Appeals Judge - John M. Sandy,,Yes,,275,104,171
 Emmet,ESTHERVILLE WARD 2,Court of Appeals Judge - John M. Sandy,,Yes,,241,97,144
@@ -257,14 +290,14 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Court of Appeals Judge - Julie A. Schuma
 Emmet,EMMET-ESTHERVILLE TWP,Court of Appeals Judge - Julie A. Schumacher,,No,,28,9,19
 Emmet,ESTHERVILLE WARD 1,Court of Appeals Judge - Julie A. Schumacher,,No,,66,22,44
 Emmet,ESTHERVILLE WARD 2,Court of Appeals Judge - Julie A. Schumacher,,No,,72,20,52
-Emmet,ESTHERVILLE WARD 3,Court of Appeals Judge - Julie A. Schumacher,,No,,57,16,41
+Emmet,ESTHERVILLE WARD 3,Court of Appeals Judge - Julie A. Schumacher,,No,,58,17,41
 Emmet,ESTHERVILLE WARD 4,Court of Appeals Judge - Julie A. Schumacher,,No,,43,11,32
 Emmet,ESTHERVILLE WARD 5,Court of Appeals Judge - Julie A. Schumacher,,No,,41,9,32
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Court of Appeals Judge - Julie A. Schumacher,,No,,29,9,20
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Court of Appeals Judge - Julie A. Schumacher,,No,,38,5,33
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Court of Appeals Judge - Julie A. Schumacher,,No,,43,11,32
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",Court of Appeals Judge - Julie A. Schumacher,,Yes,,287,52,235
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Court of Appeals Judge - Julie A. Schumacher,,Yes,,72,9,63
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Court of Appeals Judge - Julie A. Schumacher,,Yes,,73,10,63
 Emmet,EMMET-ESTHERVILLE TWP,Court of Appeals Judge - Julie A. Schumacher,,Yes,,115,33,82
 Emmet,ESTHERVILLE WARD 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,244,98,146
 Emmet,ESTHERVILLE WARD 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,196,83,113
@@ -279,14 +312,14 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Court of Appeals Judge - Sharon Soorholt
 Emmet,EMMET-ESTHERVILLE TWP,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,34,8,26
 Emmet,ESTHERVILLE WARD 1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,89,28,61
 Emmet,ESTHERVILLE WARD 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,85,26,59
-Emmet,ESTHERVILLE WARD 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,67,16,51
+Emmet,ESTHERVILLE WARD 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,68,17,51
 Emmet,ESTHERVILLE WARD 4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,45,14,31
 Emmet,ESTHERVILLE WARD 5,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,49,13,36
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Court of Appeals Judge - Sharon Soorholtz Greer,,No,,26,12,14
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Court of Appeals Judge - Sharon Soorholtz Greer,,No,,41,4,37
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Court of Appeals Judge - Sharon Soorholtz Greer,,No,,51,9,42
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,286,51,235
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,67,9,58
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,68,10,58
 Emmet,EMMET-ESTHERVILLE TWP,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,112,36,76
 Emmet,ESTHERVILLE WARD 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,235,100,135
 Emmet,ESTHERVILLE WARD 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,187,82,105
@@ -301,14 +334,14 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Associate Judge - Jennifer B
 Emmet,EMMET-ESTHERVILLE TWP,District 3A Associate Judge - Jennifer Bennett Finn,,No,,33,14,19
 Emmet,ESTHERVILLE WARD 1,District 3A Associate Judge - Jennifer Bennett Finn,,No,,80,24,56
 Emmet,ESTHERVILLE WARD 2,District 3A Associate Judge - Jennifer Bennett Finn,,No,,69,22,47
-Emmet,ESTHERVILLE WARD 3,District 3A Associate Judge - Jennifer Bennett Finn,,No,,65,17,48
+Emmet,ESTHERVILLE WARD 3,District 3A Associate Judge - Jennifer Bennett Finn,,No,,66,18,48
 Emmet,ESTHERVILLE WARD 4,District 3A Associate Judge - Jennifer Bennett Finn,,No,,44,11,33
 Emmet,ESTHERVILLE WARD 5,District 3A Associate Judge - Jennifer Bennett Finn,,No,,43,12,31
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",District 3A Associate Judge - Jennifer Bennett Finn,,No,,40,15,25
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",District 3A Associate Judge - Jennifer Bennett Finn,,No,,44,7,37
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",District 3A Associate Judge - Jennifer Bennett Finn,,No,,54,13,41
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,281,56,225
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,79,9,70
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,80,10,70
 Emmet,EMMET-ESTHERVILLE TWP,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,139,41,98
 Emmet,ESTHERVILLE WARD 1,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,259,118,141
 Emmet,ESTHERVILLE WARD 2,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,241,100,141
@@ -323,14 +356,14 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Associate Judge - Kristi Bus
 Emmet,EMMET-ESTHERVILLE TWP,District 3A Associate Judge - Kristi Busse,,No,,23,9,14
 Emmet,ESTHERVILLE WARD 1,District 3A Associate Judge - Kristi Busse,,No,,69,26,43
 Emmet,ESTHERVILLE WARD 2,District 3A Associate Judge - Kristi Busse,,No,,69,21,48
-Emmet,ESTHERVILLE WARD 3,District 3A Associate Judge - Kristi Busse,,No,,54,16,38
+Emmet,ESTHERVILLE WARD 3,District 3A Associate Judge - Kristi Busse,,No,,55,17,38
 Emmet,ESTHERVILLE WARD 4,District 3A Associate Judge - Kristi Busse,,No,,41,13,28
 Emmet,ESTHERVILLE WARD 5,District 3A Associate Judge - Kristi Busse,,No,,44,12,32
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",District 3A Associate Judge - Kristi Busse,,No,,28,11,17
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",District 3A Associate Judge - Kristi Busse,,No,,39,5,34
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",District 3A Associate Judge - Kristi Busse,,No,,47,13,34
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",District 3A Associate Judge - Kristi Busse,,Yes,,276,52,224
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Associate Judge - Kristi Busse,,Yes,,74,9,65
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Associate Judge - Kristi Busse,,Yes,,75,10,65
 Emmet,EMMET-ESTHERVILLE TWP,District 3A Associate Judge - Kristi Busse,,Yes,,113,32,81
 Emmet,ESTHERVILLE WARD 1,District 3A Associate Judge - Kristi Busse,,Yes,,240,95,145
 Emmet,ESTHERVILLE WARD 2,District 3A Associate Judge - Kristi Busse,,Yes,,191,83,108
@@ -345,14 +378,14 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Judge - Adam Miller,,No,,21,
 Emmet,EMMET-ESTHERVILLE TWP,District 3A Judge - Adam Miller,,No,,20,6,14
 Emmet,ESTHERVILLE WARD 1,District 3A Judge - Adam Miller,,No,,59,22,37
 Emmet,ESTHERVILLE WARD 2,District 3A Judge - Adam Miller,,No,,69,21,48
-Emmet,ESTHERVILLE WARD 3,District 3A Judge - Adam Miller,,No,,55,13,42
+Emmet,ESTHERVILLE WARD 3,District 3A Judge - Adam Miller,,No,,56,14,42
 Emmet,ESTHERVILLE WARD 4,District 3A Judge - Adam Miller,,No,,38,12,26
 Emmet,ESTHERVILLE WARD 5,District 3A Judge - Adam Miller,,No,,38,10,28
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",District 3A Judge - Adam Miller,,No,,26,11,15
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",District 3A Judge - Adam Miller,,No,,35,5,30
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",District 3A Judge - Adam Miller,,No,,41,11,30
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",District 3A Judge - Adam Miller,,Yes,,280,50,230
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Judge - Adam Miller,,Yes,,70,9,61
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Judge - Adam Miller,,Yes,,71,10,61
 Emmet,EMMET-ESTHERVILLE TWP,District 3A Judge - Adam Miller,,Yes,,115,35,80
 Emmet,ESTHERVILLE WARD 1,District 3A Judge - Adam Miller,,Yes,,247,96,151
 Emmet,ESTHERVILLE WARD 2,District 3A Judge - Adam Miller,,Yes,,181,78,103
@@ -367,14 +400,14 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Judge - Andrew J. Smith,,No,
 Emmet,EMMET-ESTHERVILLE TWP,District 3A Judge - Andrew J. Smith,,No,,22,6,16
 Emmet,ESTHERVILLE WARD 1,District 3A Judge - Andrew J. Smith,,No,,71,28,43
 Emmet,ESTHERVILLE WARD 2,District 3A Judge - Andrew J. Smith,,No,,68,19,49
-Emmet,ESTHERVILLE WARD 3,District 3A Judge - Andrew J. Smith,,No,,60,16,44
+Emmet,ESTHERVILLE WARD 3,District 3A Judge - Andrew J. Smith,,No,,61,17,44
 Emmet,ESTHERVILLE WARD 4,District 3A Judge - Andrew J. Smith,,No,,39,12,27
 Emmet,ESTHERVILLE WARD 5,District 3A Judge - Andrew J. Smith,,No,,43,12,31
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",District 3A Judge - Andrew J. Smith,,No,,27,11,16
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",District 3A Judge - Andrew J. Smith,,No,,35,4,31
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",District 3A Judge - Andrew J. Smith,,No,,47,14,33
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",District 3A Judge - Andrew J. Smith,,Yes,,269,50,219
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Judge - Andrew J. Smith,,Yes,,68,9,59
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Judge - Andrew J. Smith,,Yes,,69,10,59
 Emmet,EMMET-ESTHERVILLE TWP,District 3A Judge - Andrew J. Smith,,Yes,,116,35,81
 Emmet,ESTHERVILLE WARD 1,District 3A Judge - Andrew J. Smith,,Yes,,232,88,144
 Emmet,ESTHERVILLE WARD 2,District 3A Judge - Andrew J. Smith,,Yes,,182,79,103
@@ -389,14 +422,14 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Judge - Carl J. Petersen,,No
 Emmet,EMMET-ESTHERVILLE TWP,District 3A Judge - Carl J. Petersen,,No,,19,8,11
 Emmet,ESTHERVILLE WARD 1,District 3A Judge - Carl J. Petersen,,No,,63,24,39
 Emmet,ESTHERVILLE WARD 2,District 3A Judge - Carl J. Petersen,,No,,72,20,52
-Emmet,ESTHERVILLE WARD 3,District 3A Judge - Carl J. Petersen,,No,,58,14,44
+Emmet,ESTHERVILLE WARD 3,District 3A Judge - Carl J. Petersen,,No,,59,15,44
 Emmet,ESTHERVILLE WARD 4,District 3A Judge - Carl J. Petersen,,No,,41,14,27
 Emmet,ESTHERVILLE WARD 5,District 3A Judge - Carl J. Petersen,,No,,40,10,30
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",District 3A Judge - Carl J. Petersen,,No,,29,11,18
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",District 3A Judge - Carl J. Petersen,,No,,36,4,32
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",District 3A Judge - Carl J. Petersen,,No,,48,14,34
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",District 3A Judge - Carl J. Petersen,,Yes,,275,51,224
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Judge - Carl J. Petersen,,Yes,,70,9,61
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Judge - Carl J. Petersen,,Yes,,71,10,61
 Emmet,EMMET-ESTHERVILLE TWP,District 3A Judge - Carl J. Petersen,,Yes,,117,35,82
 Emmet,ESTHERVILLE WARD 1,District 3A Judge - Carl J. Petersen,,Yes,,240,92,148
 Emmet,ESTHERVILLE WARD 2,District 3A Judge - Carl J. Petersen,,Yes,,180,78,102
@@ -411,14 +444,14 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Judge - Charles Borth,,No,,2
 Emmet,EMMET-ESTHERVILLE TWP,District 3A Judge - Charles Borth,,No,,25,9,16
 Emmet,ESTHERVILLE WARD 1,District 3A Judge - Charles Borth,,No,,69,25,44
 Emmet,ESTHERVILLE WARD 2,District 3A Judge - Charles Borth,,No,,76,25,51
-Emmet,ESTHERVILLE WARD 3,District 3A Judge - Charles Borth,,No,,61,16,45
+Emmet,ESTHERVILLE WARD 3,District 3A Judge - Charles Borth,,No,,62,17,45
 Emmet,ESTHERVILLE WARD 4,District 3A Judge - Charles Borth,,No,,38,13,25
 Emmet,ESTHERVILLE WARD 5,District 3A Judge - Charles Borth,,No,,46,12,34
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",District 3A Judge - Charles Borth,,No,,30,11,19
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",District 3A Judge - Charles Borth,,No,,35,4,31
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",District 3A Judge - Charles Borth,,No,,44,14,30
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",District 3A Judge - Charles Borth,,Yes,,289,54,235
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Judge - Charles Borth,,Yes,,70,8,62
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",District 3A Judge - Charles Borth,,Yes,,71,9,62
 Emmet,EMMET-ESTHERVILLE TWP,District 3A Judge - Charles Borth,,Yes,,121,39,82
 Emmet,ESTHERVILLE WARD 1,District 3A Judge - Charles Borth,,Yes,,245,97,148
 Emmet,ESTHERVILLE WARD 2,District 3A Judge - Charles Borth,,Yes,,186,74,112
@@ -433,12 +466,12 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Governor,,Rob Sand and Dave Muhlbauer,DE
 Emmet,EMMET-ESTHERVILLE TWP,Governor,,Rob Sand and Dave Muhlbauer,DEM,67,31,36
 Emmet,ESTHERVILLE WARD 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,204,109,95
 Emmet,ESTHERVILLE WARD 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,219,103,116
-Emmet,ESTHERVILLE WARD 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,206,104,102
+Emmet,ESTHERVILLE WARD 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,207,105,102
 Emmet,ESTHERVILLE WARD 4,Governor,,Rob Sand and Dave Muhlbauer,DEM,155,62,93
 Emmet,ESTHERVILLE WARD 5,Governor,,Rob Sand and Dave Muhlbauer,DEM,146,51,95
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Governor,,Rob Sand and Dave Muhlbauer,DEM,55,17,38
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Governor,,Rob Sand and Dave Muhlbauer,DEM,84,14,70
-Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Governor,,Rob Sand and Dave Muhlbauer,DEM,85,35,50
+Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Governor,,Rob Sand and Dave Muhlbauer,DEM,86,36,50
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",Governor,,Write-In,,0,0,0
 Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Governor,,Write-In,,0,0,0
 Emmet,EMMET-ESTHERVILLE TWP,Governor,,Write-In,,0,0,0
@@ -451,7 +484,7 @@ Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Governor,,Write-In,,0,0,0
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Governor,,Write-In,,1,0,1
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Governor,,Write-In,,0,0,0
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",Governor,,Zach Lahn and Derek Wulf,REP,364,64,300
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Governor,,Zach Lahn and Derek Wulf,REP,113,10,103
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Governor,,Zach Lahn and Derek Wulf,REP,114,11,103
 Emmet,EMMET-ESTHERVILLE TWP,Governor,,Zach Lahn and Derek Wulf,REP,194,45,149
 Emmet,ESTHERVILLE WARD 1,Governor,,Zach Lahn and Derek Wulf,REP,283,103,180
 Emmet,ESTHERVILLE WARD 2,Governor,,Zach Lahn and Derek Wulf,REP,250,83,167
@@ -474,14 +507,14 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Secretary of Agriculture,,Chris Jones,DE
 Emmet,EMMET-ESTHERVILLE TWP,Secretary of Agriculture,,Chris Jones,DEM,46,22,24
 Emmet,ESTHERVILLE WARD 1,Secretary of Agriculture,,Chris Jones,DEM,159,84,75
 Emmet,ESTHERVILLE WARD 2,Secretary of Agriculture,,Chris Jones,DEM,168,86,82
-Emmet,ESTHERVILLE WARD 3,Secretary of Agriculture,,Chris Jones,DEM,177,87,90
+Emmet,ESTHERVILLE WARD 3,Secretary of Agriculture,,Chris Jones,DEM,178,88,90
 Emmet,ESTHERVILLE WARD 4,Secretary of Agriculture,,Chris Jones,DEM,131,50,81
 Emmet,ESTHERVILLE WARD 5,Secretary of Agriculture,,Chris Jones,DEM,116,49,67
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Secretary of Agriculture,,Chris Jones,DEM,32,14,18
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Secretary of Agriculture,,Chris Jones,DEM,45,12,33
-Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Secretary of Agriculture,,Chris Jones,DEM,63,27,36
+Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Secretary of Agriculture,,Chris Jones,DEM,64,28,36
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",Secretary of Agriculture,,Mike Naig,REP,436,78,358
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Secretary of Agriculture,,Mike Naig,REP,125,16,109
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Secretary of Agriculture,,Mike Naig,REP,126,17,109
 Emmet,EMMET-ESTHERVILLE TWP,Secretary of Agriculture,,Mike Naig,REP,210,51,159
 Emmet,ESTHERVILLE WARD 1,Secretary of Agriculture,,Mike Naig,REP,314,121,193
 Emmet,ESTHERVILLE WARD 2,Secretary of Agriculture,,Mike Naig,REP,286,96,190
@@ -503,7 +536,7 @@ Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Secretary of Agriculture,,Write-In,,1,0,1
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Secretary of Agriculture,,Write-In,,0,0,0
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Secretary of Agriculture,,Write-In,,0,0,0
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",Secretary of State,,Paul D. Pate,REP,405,69,336
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Secretary of State,,Paul D. Pate,REP,116,13,103
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Secretary of State,,Paul D. Pate,REP,117,14,103
 Emmet,EMMET-ESTHERVILLE TWP,Secretary of State,,Paul D. Pate,REP,205,49,156
 Emmet,ESTHERVILLE WARD 1,Secretary of State,,Paul D. Pate,REP,299,109,190
 Emmet,ESTHERVILLE WARD 2,Secretary of State,,Paul D. Pate,REP,270,91,179
@@ -518,7 +551,7 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Secretary of State,,Ryan Peterman,DEM,37
 Emmet,EMMET-ESTHERVILLE TWP,Secretary of State,,Ryan Peterman,DEM,48,24,24
 Emmet,ESTHERVILLE WARD 1,Secretary of State,,Ryan Peterman,DEM,172,95,77
 Emmet,ESTHERVILLE WARD 2,Secretary of State,,Ryan Peterman,DEM,178,89,89
-Emmet,ESTHERVILLE WARD 3,Secretary of State,,Ryan Peterman,DEM,192,99,93
+Emmet,ESTHERVILLE WARD 3,Secretary of State,,Ryan Peterman,DEM,193,100,93
 Emmet,ESTHERVILLE WARD 4,Secretary of State,,Ryan Peterman,DEM,131,56,75
 Emmet,ESTHERVILLE WARD 5,Secretary of State,,Ryan Peterman,DEM,124,52,72
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Secretary of State,,Ryan Peterman,DEM,42,13,29
@@ -536,33 +569,44 @@ Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Secretary of State,,Write-In,,0,0,0
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Secretary of State,,Write-In,,0,0,0
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Secretary of State,,Write-In,,0,0,0
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",Soil and Water Conservation District Commissioner,,Carson Glasnapp,,473,90,383
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Soil and Water Conservation District Commissioner,,Carson Glasnapp,,131,17,114
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Soil and Water Conservation District Commissioner,,Carson Glasnapp,,132,18,114
 Emmet,EMMET-ESTHERVILLE TWP,Soil and Water Conservation District Commissioner,,Carson Glasnapp,,179,52,127
 Emmet,ESTHERVILLE WARD 1,Soil and Water Conservation District Commissioner,,Carson Glasnapp,,341,145,196
 Emmet,ESTHERVILLE WARD 2,Soil and Water Conservation District Commissioner,,Carson Glasnapp,,305,129,176
-Emmet,ESTHERVILLE WARD 3,Soil and Water Conservation District Commissioner,,Carson Glasnapp,,259,110,149
+Emmet,ESTHERVILLE WARD 3,Soil and Water Conservation District Commissioner,,Carson Glasnapp,,260,111,149
 Emmet,ESTHERVILLE WARD 4,Soil and Water Conservation District Commissioner,,Carson Glasnapp,,212,61,151
 Emmet,ESTHERVILLE WARD 5,Soil and Water Conservation District Commissioner,,Carson Glasnapp,,184,70,114
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Soil and Water Conservation District Commissioner,,Carson Glasnapp,,151,37,114
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Soil and Water Conservation District Commissioner,,Carson Glasnapp,,225,32,193
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Soil and Water Conservation District Commissioner,,Carson Glasnapp,,191,43,148
+Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",Soil and Water Conservation District Commissioner,,Drew Howing,,0,0,0
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Soil and Water Conservation District Commissioner,,Drew Howing,,0,0,0
+Emmet,EMMET-ESTHERVILLE TWP,Soil and Water Conservation District Commissioner,,Drew Howing,,5,4,1
+Emmet,ESTHERVILLE WARD 1,Soil and Water Conservation District Commissioner,,Drew Howing,,1,0,1
+Emmet,ESTHERVILLE WARD 2,Soil and Water Conservation District Commissioner,,Drew Howing,,1,0,1
+Emmet,ESTHERVILLE WARD 3,Soil and Water Conservation District Commissioner,,Drew Howing,,1,0,1
+Emmet,ESTHERVILLE WARD 4,Soil and Water Conservation District Commissioner,,Drew Howing,,1,0,1
+Emmet,ESTHERVILLE WARD 5,Soil and Water Conservation District Commissioner,,Drew Howing,,0,0,0
+Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Soil and Water Conservation District Commissioner,,Drew Howing,,0,0,0
+Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Soil and Water Conservation District Commissioner,,Drew Howing,,0,0,0
+Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Soil and Water Conservation District Commissioner,,Drew Howing,,2,2,0
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",Soil and Water Conservation District Commissioner,,Write-In,,12,2,10
 Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
-Emmet,EMMET-ESTHERVILLE TWP,Soil and Water Conservation District Commissioner,,Write-In,,11,8,3
-Emmet,ESTHERVILLE WARD 1,Soil and Water Conservation District Commissioner,,Write-In,,4,2,2
-Emmet,ESTHERVILLE WARD 2,Soil and Water Conservation District Commissioner,,Write-In,,6,1,5
-Emmet,ESTHERVILLE WARD 3,Soil and Water Conservation District Commissioner,,Write-In,,4,0,4
-Emmet,ESTHERVILLE WARD 4,Soil and Water Conservation District Commissioner,,Write-In,,7,2,5
+Emmet,EMMET-ESTHERVILLE TWP,Soil and Water Conservation District Commissioner,,Write-In,,6,4,2
+Emmet,ESTHERVILLE WARD 1,Soil and Water Conservation District Commissioner,,Write-In,,3,2,1
+Emmet,ESTHERVILLE WARD 2,Soil and Water Conservation District Commissioner,,Write-In,,5,1,4
+Emmet,ESTHERVILLE WARD 3,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
+Emmet,ESTHERVILLE WARD 4,Soil and Water Conservation District Commissioner,,Write-In,,6,2,4
 Emmet,ESTHERVILLE WARD 5,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Soil and Water Conservation District Commissioner,,Write-In,,5,0,5
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Soil and Water Conservation District Commissioner,,Write-In,,5,0,5
-Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Soil and Water Conservation District Commissioner,,Write-In,,9,3,6
+Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Soil and Water Conservation District Commissioner,,Write-In,,7,1,6
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",State House,9,Henry Stone,REP,461,82,379
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",State House,9,Henry Stone,REP,127,13,114
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",State House,9,Henry Stone,REP,128,14,114
 Emmet,EMMET-ESTHERVILLE TWP,State House,9,Henry Stone,REP,208,53,155
 Emmet,ESTHERVILLE WARD 1,State House,9,Henry Stone,REP,358,137,221
 Emmet,ESTHERVILLE WARD 2,State House,9,Henry Stone,REP,313,109,204
-Emmet,ESTHERVILLE WARD 3,State House,9,Henry Stone,REP,266,110,156
+Emmet,ESTHERVILLE WARD 3,State House,9,Henry Stone,REP,267,111,156
 Emmet,ESTHERVILLE WARD 4,State House,9,Henry Stone,REP,230,58,172
 Emmet,ESTHERVILLE WARD 5,State House,9,Henry Stone,REP,186,74,112
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",State House,9,Henry Stone,REP,162,37,125
@@ -580,7 +624,7 @@ Emmet,"GRUVER, CENTER-SWAN LAKE TWP",State House,9,Write-In,,1,1,0
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",State House,9,Write-In,,2,0,2
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",State House,9,Write-In,,3,0,3
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",State Senate,5,Dave Rowley,REP,413,75,338
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",State Senate,5,Dave Rowley,REP,118,13,105
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",State Senate,5,Dave Rowley,REP,119,14,105
 Emmet,EMMET-ESTHERVILLE TWP,State Senate,5,Dave Rowley,REP,210,50,160
 Emmet,ESTHERVILLE WARD 1,State Senate,5,Dave Rowley,REP,324,128,196
 Emmet,ESTHERVILLE WARD 2,State Senate,5,Dave Rowley,REP,289,103,186
@@ -595,7 +639,7 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",State Senate,5,Rachel Gravert,,23,5,18
 Emmet,EMMET-ESTHERVILLE TWP,State Senate,5,Rachel Gravert,,32,18,14
 Emmet,ESTHERVILLE WARD 1,State Senate,5,Rachel Gravert,,117,61,56
 Emmet,ESTHERVILLE WARD 2,State Senate,5,Rachel Gravert,,112,51,61
-Emmet,ESTHERVILLE WARD 3,State Senate,5,Rachel Gravert,,120,51,69
+Emmet,ESTHERVILLE WARD 3,State Senate,5,Rachel Gravert,,121,52,69
 Emmet,ESTHERVILLE WARD 4,State Senate,5,Rachel Gravert,,75,28,47
 Emmet,ESTHERVILLE WARD 5,State Senate,5,Rachel Gravert,,73,26,47
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",State Senate,5,Rachel Gravert,,33,10,23
@@ -617,14 +661,14 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Treasurer of State,,John Norwood,DEM,43,
 Emmet,EMMET-ESTHERVILLE TWP,Treasurer of State,,John Norwood,DEM,55,25,30
 Emmet,ESTHERVILLE WARD 1,Treasurer of State,,John Norwood,DEM,181,92,89
 Emmet,ESTHERVILLE WARD 2,Treasurer of State,,John Norwood,DEM,176,93,83
-Emmet,ESTHERVILLE WARD 3,Treasurer of State,,John Norwood,DEM,191,98,93
+Emmet,ESTHERVILLE WARD 3,Treasurer of State,,John Norwood,DEM,192,99,93
 Emmet,ESTHERVILLE WARD 4,Treasurer of State,,John Norwood,DEM,140,58,82
 Emmet,ESTHERVILLE WARD 5,Treasurer of State,,John Norwood,DEM,123,49,74
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Treasurer of State,,John Norwood,DEM,45,16,29
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Treasurer of State,,John Norwood,DEM,71,16,55
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Treasurer of State,,John Norwood,DEM,74,32,42
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",Treasurer of State,,Roby Smith,REP,390,68,322
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Treasurer of State,,Roby Smith,REP,110,10,100
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",Treasurer of State,,Roby Smith,REP,111,11,100
 Emmet,EMMET-ESTHERVILLE TWP,Treasurer of State,,Roby Smith,REP,193,47,146
 Emmet,ESTHERVILLE WARD 1,Treasurer of State,,Roby Smith,REP,283,110,173
 Emmet,ESTHERVILLE WARD 2,Treasurer of State,,Roby Smith,REP,265,85,180
@@ -646,7 +690,7 @@ Emmet,"GRUVER, CENTER-SWAN LAKE TWP",Treasurer of State,,Write-In,,1,0,1
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",Treasurer of State,,Write-In,,0,0,0
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",Treasurer of State,,Write-In,,0,0,0
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",U.S. House,4,Chris McGowan,REP,389,68,321
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",U.S. House,4,Chris McGowan,REP,111,11,100
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",U.S. House,4,Chris McGowan,REP,112,12,100
 Emmet,EMMET-ESTHERVILLE TWP,U.S. House,4,Chris McGowan,REP,194,47,147
 Emmet,ESTHERVILLE WARD 1,U.S. House,4,Chris McGowan,REP,280,102,178
 Emmet,ESTHERVILLE WARD 2,U.S. House,4,Chris McGowan,REP,264,85,179
@@ -661,7 +705,7 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",U.S. House,4,Dave Dawson,DEM,40,13,27
 Emmet,EMMET-ESTHERVILLE TWP,U.S. House,4,Dave Dawson,DEM,52,25,27
 Emmet,ESTHERVILLE WARD 1,U.S. House,4,Dave Dawson,DEM,178,97,81
 Emmet,ESTHERVILLE WARD 2,U.S. House,4,Dave Dawson,DEM,174,91,83
-Emmet,ESTHERVILLE WARD 3,U.S. House,4,Dave Dawson,DEM,188,95,93
+Emmet,ESTHERVILLE WARD 3,U.S. House,4,Dave Dawson,DEM,189,96,93
 Emmet,ESTHERVILLE WARD 4,U.S. House,4,Dave Dawson,DEM,135,57,78
 Emmet,ESTHERVILLE WARD 5,U.S. House,4,Dave Dawson,DEM,128,50,78
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",U.S. House,4,Dave Dawson,DEM,40,14,26
@@ -679,7 +723,7 @@ Emmet,"GRUVER, CENTER-SWAN LAKE TWP",U.S. House,4,Write-In,,1,1,0
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",U.S. House,4,Write-In,,0,0,0
 Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",U.S. House,4,Write-In,,0,0,0
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",U.S. Senate,,Ashley Hinson,REP,361,63,298
-Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",U.S. Senate,,Ashley Hinson,REP,106,10,96
+Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",U.S. Senate,,Ashley Hinson,REP,107,11,96
 Emmet,EMMET-ESTHERVILLE TWP,U.S. Senate,,Ashley Hinson,REP,183,44,139
 Emmet,ESTHERVILLE WARD 1,U.S. Senate,,Ashley Hinson,REP,268,107,161
 Emmet,ESTHERVILLE WARD 2,U.S. Senate,,Ashley Hinson,REP,251,78,173
@@ -694,12 +738,12 @@ Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",U.S. Senate,,Josh Turek,DEM,38,11,27
 Emmet,EMMET-ESTHERVILLE TWP,U.S. Senate,,Josh Turek,DEM,57,27,30
 Emmet,ESTHERVILLE WARD 1,U.S. Senate,,Josh Turek,DEM,180,96,84
 Emmet,ESTHERVILLE WARD 2,U.S. Senate,,Josh Turek,DEM,181,93,88
-Emmet,ESTHERVILLE WARD 3,U.S. Senate,,Josh Turek,DEM,196,97,99
+Emmet,ESTHERVILLE WARD 3,U.S. Senate,,Josh Turek,DEM,197,98,99
 Emmet,ESTHERVILLE WARD 4,U.S. Senate,,Josh Turek,DEM,136,57,79
 Emmet,ESTHERVILLE WARD 5,U.S. Senate,,Josh Turek,DEM,135,50,85
 Emmet,"GRUVER, CENTER-SWAN LAKE TWP",U.S. Senate,,Josh Turek,DEM,36,14,22
 Emmet,"RINGSTED, DENMARK-JACK CREEK TWP",U.S. Senate,,Josh Turek,DEM,69,16,53
-Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",U.S. Senate,,Josh Turek,DEM,67,30,37
+Emmet,"WALLINGFORD, TWELVE MILE LAKE-HIGH LAKE TWP",U.S. Senate,,Josh Turek,DEM,68,31,37
 Emmet,"ARMSTRONG, ARMSTRONG GROVE-IOWA LAKE TWP NU",U.S. Senate,,Thomas Laehn,LIB,23,3,20
 Emmet,"DOLLIVER, ELLSWORTH-LINCOLN TWP",U.S. Senate,,Thomas Laehn,LIB,11,4,7
 Emmet,EMMET-ESTHERVILLE TWP,U.S. Senate,,Thomas Laehn,LIB,15,3,12

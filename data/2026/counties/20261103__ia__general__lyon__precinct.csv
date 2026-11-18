@@ -1,24 +1,24 @@
 county,precinct,office,district,candidate,party,votes,absentee,election_day
 Lyon,Doon City Hall P5,Attorney General,,Brenna Bird,REP,550,96,454
-Lyon,George Comm Ctr P1,Attorney General,,Brenna Bird,REP,596,104,492
+Lyon,George Comm Ctr P1,Attorney General,,Brenna Bird,REP,597,105,492
 Lyon,Inwood P6,Attorney General,,Brenna Bird,REP,679,103,576
-Lyon,Larchwood P10,Attorney General,,Brenna Bird,REP,598,84,514
+Lyon,Larchwood P10,Attorney General,,Brenna Bird,REP,599,85,514
 Lyon,Lester P9,Attorney General,,Brenna Bird,REP,241,36,205
 Lyon,Little Rock Town and Country P2,Attorney General,,Brenna Bird,REP,335,57,278
 Lyon,Logan N P8,Attorney General,,Brenna Bird,REP,39,4,35
 Lyon,Logan S P7,Attorney General,,Brenna Bird,REP,151,24,127
-Lyon,Rock Rapids N P3,Attorney General,,Brenna Bird,REP,759,173,586
-Lyon,Rock Rapids S P4,Attorney General,,Brenna Bird,REP,420,128,292
+Lyon,Rock Rapids N P3,Attorney General,,Brenna Bird,REP,760,174,586
+Lyon,Rock Rapids S P4,Attorney General,,Brenna Bird,REP,421,129,292
 Lyon,Doon City Hall P5,Attorney General,,Nate Willems,DEM,37,11,26
 Lyon,George Comm Ctr P1,Attorney General,,Nate Willems,DEM,131,24,107
 Lyon,Inwood P6,Attorney General,,Nate Willems,DEM,111,25,86
 Lyon,Larchwood P10,Attorney General,,Nate Willems,DEM,237,54,183
 Lyon,Lester P9,Attorney General,,Nate Willems,DEM,32,7,25
-Lyon,Little Rock Town and Country P2,Attorney General,,Nate Willems,DEM,49,16,33
+Lyon,Little Rock Town and Country P2,Attorney General,,Nate Willems,DEM,50,17,33
 Lyon,Logan N P8,Attorney General,,Nate Willems,DEM,1,0,1
 Lyon,Logan S P7,Attorney General,,Nate Willems,DEM,19,7,12
-Lyon,Rock Rapids N P3,Attorney General,,Nate Willems,DEM,214,108,106
-Lyon,Rock Rapids S P4,Attorney General,,Nate Willems,DEM,99,52,47
+Lyon,Rock Rapids N P3,Attorney General,,Nate Willems,DEM,215,109,106
+Lyon,Rock Rapids S P4,Attorney General,,Nate Willems,DEM,101,54,47
 Lyon,Doon City Hall P5,Attorney General,,Write-In,,0,0,0
 Lyon,George Comm Ctr P1,Attorney General,,Write-In,,1,0,1
 Lyon,Inwood P6,Attorney General,,Write-In,,0,0,0
@@ -30,25 +30,25 @@ Lyon,Logan S P7,Attorney General,,Write-In,,1,0,1
 Lyon,Rock Rapids N P3,Attorney General,,Write-In,,0,0,0
 Lyon,Rock Rapids S P4,Attorney General,,Write-In,,0,0,0
 Lyon,Doon City Hall P5,Auditor of State,,Chris Cournoyer,REP,552,97,455
-Lyon,George Comm Ctr P1,Auditor of State,,Chris Cournoyer,REP,580,105,475
+Lyon,George Comm Ctr P1,Auditor of State,,Chris Cournoyer,REP,581,106,475
 Lyon,Inwood P6,Auditor of State,,Chris Cournoyer,REP,683,105,578
-Lyon,Larchwood P10,Auditor of State,,Chris Cournoyer,REP,592,88,504
+Lyon,Larchwood P10,Auditor of State,,Chris Cournoyer,REP,593,89,504
 Lyon,Lester P9,Auditor of State,,Chris Cournoyer,REP,236,32,204
 Lyon,Little Rock Town and Country P2,Auditor of State,,Chris Cournoyer,REP,339,57,282
 Lyon,Logan N P8,Auditor of State,,Chris Cournoyer,REP,39,4,35
 Lyon,Logan S P7,Auditor of State,,Chris Cournoyer,REP,153,24,129
-Lyon,Rock Rapids N P3,Auditor of State,,Chris Cournoyer,REP,769,176,593
-Lyon,Rock Rapids S P4,Auditor of State,,Chris Cournoyer,REP,419,125,294
+Lyon,Rock Rapids N P3,Auditor of State,,Chris Cournoyer,REP,770,177,593
+Lyon,Rock Rapids S P4,Auditor of State,,Chris Cournoyer,REP,421,127,294
 Lyon,Doon City Hall P5,Auditor of State,,Taylor Wettach,DEM,37,11,26
 Lyon,George Comm Ctr P1,Auditor of State,,Taylor Wettach,DEM,136,22,114
 Lyon,Inwood P6,Auditor of State,,Taylor Wettach,DEM,100,23,77
 Lyon,Larchwood P10,Auditor of State,,Taylor Wettach,DEM,240,53,187
 Lyon,Lester P9,Auditor of State,,Taylor Wettach,DEM,36,11,25
-Lyon,Little Rock Town and Country P2,Auditor of State,,Taylor Wettach,DEM,48,16,32
+Lyon,Little Rock Town and Country P2,Auditor of State,,Taylor Wettach,DEM,49,17,32
 Lyon,Logan N P8,Auditor of State,,Taylor Wettach,DEM,1,0,1
 Lyon,Logan S P7,Auditor of State,,Taylor Wettach,DEM,20,7,13
-Lyon,Rock Rapids N P3,Auditor of State,,Taylor Wettach,DEM,199,105,94
-Lyon,Rock Rapids S P4,Auditor of State,,Taylor Wettach,DEM,97,50,47
+Lyon,Rock Rapids N P3,Auditor of State,,Taylor Wettach,DEM,200,106,94
+Lyon,Rock Rapids S P4,Auditor of State,,Taylor Wettach,DEM,98,51,47
 Lyon,Doon City Hall P5,Auditor of State,,Write-In,,0,0,0
 Lyon,George Comm Ctr P1,Auditor of State,,Write-In,,1,0,1
 Lyon,Inwood P6,Auditor of State,,Write-In,,0,0,0
@@ -60,25 +60,25 @@ Lyon,Logan S P7,Auditor of State,,Write-In,,0,0,0
 Lyon,Rock Rapids N P3,Auditor of State,,Write-In,,0,0,0
 Lyon,Rock Rapids S P4,Auditor of State,,Write-In,,0,0,0
 Lyon,Doon City Hall P5,Constitutional Amendment 1,,No,,113,15,98
-Lyon,George Comm Ctr P1,Constitutional Amendment 1,,No,,269,39,230
+Lyon,George Comm Ctr P1,Constitutional Amendment 1,,No,,270,40,230
 Lyon,Inwood P6,Constitutional Amendment 1,,No,,142,20,122
 Lyon,Larchwood P10,Constitutional Amendment 1,,No,,181,36,145
 Lyon,Lester P9,Constitutional Amendment 1,,No,,45,4,41
-Lyon,Little Rock Town and Country P2,Constitutional Amendment 1,,No,,123,27,96
+Lyon,Little Rock Town and Country P2,Constitutional Amendment 1,,No,,124,28,96
 Lyon,Logan N P8,Constitutional Amendment 1,,No,,8,0,8
 Lyon,Logan S P7,Constitutional Amendment 1,,No,,30,9,21
-Lyon,Rock Rapids N P3,Constitutional Amendment 1,,No,,279,105,174
-Lyon,Rock Rapids S P4,Constitutional Amendment 1,,No,,127,52,75
+Lyon,Rock Rapids N P3,Constitutional Amendment 1,,No,,280,106,174
+Lyon,Rock Rapids S P4,Constitutional Amendment 1,,No,,129,54,75
 Lyon,Doon City Hall P5,Constitutional Amendment 1,,Yes,,418,81,337
 Lyon,George Comm Ctr P1,Constitutional Amendment 1,,Yes,,424,82,342
 Lyon,Inwood P6,Constitutional Amendment 1,,Yes,,529,98,431
-Lyon,Larchwood P10,Constitutional Amendment 1,,Yes,,522,80,442
+Lyon,Larchwood P10,Constitutional Amendment 1,,Yes,,523,81,442
 Lyon,Lester P9,Constitutional Amendment 1,,Yes,,187,35,152
 Lyon,Little Rock Town and Country P2,Constitutional Amendment 1,,Yes,,222,35,187
 Lyon,Logan N P8,Constitutional Amendment 1,,Yes,,28,3,25
 Lyon,Logan S P7,Constitutional Amendment 1,,Yes,,119,13,106
-Lyon,Rock Rapids N P3,Constitutional Amendment 1,,Yes,,584,139,445
-Lyon,Rock Rapids S P4,Constitutional Amendment 1,,Yes,,349,113,236
+Lyon,Rock Rapids N P3,Constitutional Amendment 1,,Yes,,585,140,445
+Lyon,Rock Rapids S P4,Constitutional Amendment 1,,Yes,,350,114,236
 Lyon,Doon City Hall P5,County Agricultural Extension Council Member,,Cassie Radtke,,309,54,255
 Lyon,George Comm Ctr P1,County Agricultural Extension Council Member,,Cassie Radtke,,373,71,302
 Lyon,Inwood P6,County Agricultural Extension Council Member,,Cassie Radtke,,391,73,318
@@ -87,8 +87,8 @@ Lyon,Lester P9,County Agricultural Extension Council Member,,Cassie Radtke,,168,
 Lyon,Little Rock Town and Country P2,County Agricultural Extension Council Member,,Cassie Radtke,,237,51,186
 Lyon,Logan N P8,County Agricultural Extension Council Member,,Cassie Radtke,,24,2,22
 Lyon,Logan S P7,County Agricultural Extension Council Member,,Cassie Radtke,,106,20,86
-Lyon,Rock Rapids N P3,County Agricultural Extension Council Member,,Cassie Radtke,,642,170,472
-Lyon,Rock Rapids S P4,County Agricultural Extension Council Member,,Cassie Radtke,,360,128,232
+Lyon,Rock Rapids N P3,County Agricultural Extension Council Member,,Cassie Radtke,,643,171,472
+Lyon,Rock Rapids S P4,County Agricultural Extension Council Member,,Cassie Radtke,,361,129,232
 Lyon,Doon City Hall P5,County Agricultural Extension Council Member,,Jordan Menning,,329,59,270
 Lyon,George Comm Ctr P1,County Agricultural Extension Council Member,,Jordan Menning,,391,79,312
 Lyon,Inwood P6,County Agricultural Extension Council Member,,Jordan Menning,,396,71,325
@@ -97,8 +97,8 @@ Lyon,Lester P9,County Agricultural Extension Council Member,,Jordan Menning,,161
 Lyon,Little Rock Town and Country P2,County Agricultural Extension Council Member,,Jordan Menning,,238,49,189
 Lyon,Logan N P8,County Agricultural Extension Council Member,,Jordan Menning,,24,2,22
 Lyon,Logan S P7,County Agricultural Extension Council Member,,Jordan Menning,,108,22,86
-Lyon,Rock Rapids N P3,County Agricultural Extension Council Member,,Jordan Menning,,636,166,470
-Lyon,Rock Rapids S P4,County Agricultural Extension Council Member,,Jordan Menning,,343,117,226
+Lyon,Rock Rapids N P3,County Agricultural Extension Council Member,,Jordan Menning,,637,167,470
+Lyon,Rock Rapids S P4,County Agricultural Extension Council Member,,Jordan Menning,,344,118,226
 Lyon,Doon City Hall P5,County Agricultural Extension Council Member,,Kevin Knapp,,327,57,270
 Lyon,George Comm Ctr P1,County Agricultural Extension Council Member,,Kevin Knapp,,379,74,305
 Lyon,Inwood P6,County Agricultural Extension Council Member,,Kevin Knapp,,436,80,356
@@ -107,18 +107,18 @@ Lyon,Lester P9,County Agricultural Extension Council Member,,Kevin Knapp,,217,29
 Lyon,Little Rock Town and Country P2,County Agricultural Extension Council Member,,Kevin Knapp,,239,49,190
 Lyon,Logan N P8,County Agricultural Extension Council Member,,Kevin Knapp,,34,4,30
 Lyon,Logan S P7,County Agricultural Extension Council Member,,Kevin Knapp,,122,25,97
-Lyon,Rock Rapids N P3,County Agricultural Extension Council Member,,Kevin Knapp,,607,156,451
-Lyon,Rock Rapids S P4,County Agricultural Extension Council Member,,Kevin Knapp,,329,109,220
+Lyon,Rock Rapids N P3,County Agricultural Extension Council Member,,Kevin Knapp,,609,158,451
+Lyon,Rock Rapids S P4,County Agricultural Extension Council Member,,Kevin Knapp,,330,110,220
 Lyon,Doon City Hall P5,County Agricultural Extension Council Member,,Trent Knoblock,,385,61,324
 Lyon,George Comm Ctr P1,County Agricultural Extension Council Member,,Trent Knoblock,,436,74,362
 Lyon,Inwood P6,County Agricultural Extension Council Member,,Trent Knoblock,,549,100,449
 Lyon,Larchwood P10,County Agricultural Extension Council Member,,Trent Knoblock,,524,83,441
 Lyon,Lester P9,County Agricultural Extension Council Member,,Trent Knoblock,,222,29,193
-Lyon,Little Rock Town and Country P2,County Agricultural Extension Council Member,,Trent Knoblock,,266,54,212
+Lyon,Little Rock Town and Country P2,County Agricultural Extension Council Member,,Trent Knoblock,,267,55,212
 Lyon,Logan N P8,County Agricultural Extension Council Member,,Trent Knoblock,,35,3,32
 Lyon,Logan S P7,County Agricultural Extension Council Member,,Trent Knoblock,,138,28,110
-Lyon,Rock Rapids N P3,County Agricultural Extension Council Member,,Trent Knoblock,,692,178,514
-Lyon,Rock Rapids S P4,County Agricultural Extension Council Member,,Trent Knoblock,,392,130,262
+Lyon,Rock Rapids N P3,County Agricultural Extension Council Member,,Trent Knoblock,,693,179,514
+Lyon,Rock Rapids S P4,County Agricultural Extension Council Member,,Trent Knoblock,,394,132,262
 Lyon,Doon City Hall P5,County Agricultural Extension Council Member,,Trixie Metzger,,346,59,287
 Lyon,George Comm Ctr P1,County Agricultural Extension Council Member,,Trixie Metzger,,408,77,331
 Lyon,Inwood P6,County Agricultural Extension Council Member,,Trixie Metzger,,507,97,410
@@ -127,8 +127,8 @@ Lyon,Lester P9,County Agricultural Extension Council Member,,Trixie Metzger,,223
 Lyon,Little Rock Town and Country P2,County Agricultural Extension Council Member,,Trixie Metzger,,245,51,194
 Lyon,Logan N P8,County Agricultural Extension Council Member,,Trixie Metzger,,35,4,31
 Lyon,Logan S P7,County Agricultural Extension Council Member,,Trixie Metzger,,124,24,100
-Lyon,Rock Rapids N P3,County Agricultural Extension Council Member,,Trixie Metzger,,647,166,481
-Lyon,Rock Rapids S P4,County Agricultural Extension Council Member,,Trixie Metzger,,366,121,245
+Lyon,Rock Rapids N P3,County Agricultural Extension Council Member,,Trixie Metzger,,648,167,481
+Lyon,Rock Rapids S P4,County Agricultural Extension Council Member,,Trixie Metzger,,368,123,245
 Lyon,Doon City Hall P5,County Agricultural Extension Council Member,,Write-In,,1,0,1
 Lyon,George Comm Ctr P1,County Agricultural Extension Council Member,,Write-In,,1,0,1
 Lyon,Inwood P6,County Agricultural Extension Council Member,,Write-In,,4,0,4
@@ -140,15 +140,15 @@ Lyon,Logan S P7,County Agricultural Extension Council Member,,Write-In,,0,0,0
 Lyon,Rock Rapids N P3,County Agricultural Extension Council Member,,Write-In,,9,4,5
 Lyon,Rock Rapids S P4,County Agricultural Extension Council Member,,Write-In,,3,0,3
 Lyon,Doon City Hall P5,County Attorney,,Nolan Michael McGowan,REP,544,93,451
-Lyon,George Comm Ctr P1,County Attorney,,Nolan Michael McGowan,REP,646,114,532
+Lyon,George Comm Ctr P1,County Attorney,,Nolan Michael McGowan,REP,647,115,532
 Lyon,Inwood P6,County Attorney,,Nolan Michael McGowan,REP,702,120,582
 Lyon,Larchwood P10,County Attorney,,Nolan Michael McGowan,REP,720,114,606
 Lyon,Lester P9,County Attorney,,Nolan Michael McGowan,REP,246,32,214
-Lyon,Little Rock Town and Country P2,County Attorney,,Nolan Michael McGowan,REP,360,65,295
+Lyon,Little Rock Town and Country P2,County Attorney,,Nolan Michael McGowan,REP,361,66,295
 Lyon,Logan N P8,County Attorney,,Nolan Michael McGowan,REP,35,4,31
 Lyon,Logan S P7,County Attorney,,Nolan Michael McGowan,REP,161,28,133
-Lyon,Rock Rapids N P3,County Attorney,,Nolan Michael McGowan,REP,850,231,619
-Lyon,Rock Rapids S P4,County Attorney,,Nolan Michael McGowan,REP,442,151,291
+Lyon,Rock Rapids N P3,County Attorney,,Nolan Michael McGowan,REP,852,233,619
+Lyon,Rock Rapids S P4,County Attorney,,Nolan Michael McGowan,REP,445,154,291
 Lyon,Doon City Hall P5,County Attorney,,Write-In,,4,2,2
 Lyon,George Comm Ctr P1,County Attorney,,Write-In,,9,4,5
 Lyon,Inwood P6,County Attorney,,Write-In,,4,0,4
@@ -160,15 +160,15 @@ Lyon,Logan S P7,County Attorney,,Write-In,,3,0,3
 Lyon,Rock Rapids N P3,County Attorney,,Write-In,,13,6,7
 Lyon,Rock Rapids S P4,County Attorney,,Write-In,,8,2,6
 Lyon,Doon City Hall P5,County Recorder,,Amie Griesse,REP,558,96,462
-Lyon,George Comm Ctr P1,County Recorder,,Amie Griesse,REP,671,118,553
+Lyon,George Comm Ctr P1,County Recorder,,Amie Griesse,REP,672,119,553
 Lyon,Inwood P6,County Recorder,,Amie Griesse,REP,715,121,594
 Lyon,Larchwood P10,County Recorder,,Amie Griesse,REP,728,117,611
 Lyon,Lester P9,County Recorder,,Amie Griesse,REP,256,40,216
-Lyon,Little Rock Town and Country P2,County Recorder,,Amie Griesse,REP,370,69,301
+Lyon,Little Rock Town and Country P2,County Recorder,,Amie Griesse,REP,371,70,301
 Lyon,Logan N P8,County Recorder,,Amie Griesse,REP,35,4,31
 Lyon,Logan S P7,County Recorder,,Amie Griesse,REP,161,28,133
-Lyon,Rock Rapids N P3,County Recorder,,Amie Griesse,REP,908,253,655
-Lyon,Rock Rapids S P4,County Recorder,,Amie Griesse,REP,481,166,315
+Lyon,Rock Rapids N P3,County Recorder,,Amie Griesse,REP,910,255,655
+Lyon,Rock Rapids S P4,County Recorder,,Amie Griesse,REP,484,169,315
 Lyon,Doon City Hall P5,County Recorder,,Write-In,,0,0,0
 Lyon,George Comm Ctr P1,County Recorder,,Write-In,,4,2,2
 Lyon,Inwood P6,County Recorder,,Write-In,,1,0,1
@@ -179,26 +179,26 @@ Lyon,Logan N P8,County Recorder,,Write-In,,0,0,0
 Lyon,Logan S P7,County Recorder,,Write-In,,1,0,1
 Lyon,Rock Rapids N P3,County Recorder,,Write-In,,4,3,1
 Lyon,Rock Rapids S P4,County Recorder,,Write-In,,3,1,2
-Lyon,Larchwood P10,County Supervisor,1,Douglas Vanden Bosch,REP,760,119,641
+Lyon,Larchwood P10,County Supervisor,1,Douglas Vanden Bosch,REP,761,120,641
 Lyon,Lester P9,County Supervisor,1,Douglas Vanden Bosch,REP,257,40,217
 Lyon,Larchwood P10,County Supervisor,1,Write-In,,6,2,4
 Lyon,Lester P9,County Supervisor,1,Write-In,,1,0,1
 Lyon,Doon City Hall P5,County Supervisor,4,Cody Hoefert,REP,548,98,450
-Lyon,Rock Rapids S P4,County Supervisor,4,Cody Hoefert,REP,441,148,293
+Lyon,Rock Rapids S P4,County Supervisor,4,Cody Hoefert,REP,444,151,293
 Lyon,Doon City Hall P5,County Supervisor,4,Write-In,,7,1,6
 Lyon,Rock Rapids S P4,County Supervisor,4,Write-In,,26,9,17
-Lyon,Rock Rapids N P3,County Supervisor,5,Steven J. Herman,REP,859,233,626
+Lyon,Rock Rapids N P3,County Supervisor,5,Steven J. Herman,REP,861,235,626
 Lyon,Rock Rapids N P3,County Supervisor,5,Write-In,,11,5,6
 Lyon,Doon City Hall P5,County Treasurer,,Stacy Knobloch,REP,558,96,462
-Lyon,George Comm Ctr P1,County Treasurer,,Stacy Knobloch,REP,681,119,562
+Lyon,George Comm Ctr P1,County Treasurer,,Stacy Knobloch,REP,682,120,562
 Lyon,Inwood P6,County Treasurer,,Stacy Knobloch,REP,728,125,603
-Lyon,Larchwood P10,County Treasurer,,Stacy Knobloch,REP,748,121,627
+Lyon,Larchwood P10,County Treasurer,,Stacy Knobloch,REP,749,122,627
 Lyon,Lester P9,County Treasurer,,Stacy Knobloch,REP,257,39,218
-Lyon,Little Rock Town and Country P2,County Treasurer,,Stacy Knobloch,REP,374,68,306
+Lyon,Little Rock Town and Country P2,County Treasurer,,Stacy Knobloch,REP,375,69,306
 Lyon,Logan N P8,County Treasurer,,Stacy Knobloch,REP,37,4,33
 Lyon,Logan S P7,County Treasurer,,Stacy Knobloch,REP,164,29,135
-Lyon,Rock Rapids N P3,County Treasurer,,Stacy Knobloch,REP,911,250,661
-Lyon,Rock Rapids S P4,County Treasurer,,Stacy Knobloch,REP,487,166,321
+Lyon,Rock Rapids N P3,County Treasurer,,Stacy Knobloch,REP,913,252,661
+Lyon,Rock Rapids S P4,County Treasurer,,Stacy Knobloch,REP,490,169,321
 Lyon,Doon City Hall P5,County Treasurer,,Write-In,,0,0,0
 Lyon,George Comm Ctr P1,County Treasurer,,Write-In,,5,3,2
 Lyon,Inwood P6,County Treasurer,,Write-In,,1,0,1
@@ -218,17 +218,17 @@ Lyon,Little Rock Town and Country P2,Court of Appeals Judge - John M. Sandy,,No,
 Lyon,Logan N P8,Court of Appeals Judge - John M. Sandy,,No,,5,2,3
 Lyon,Logan S P7,Court of Appeals Judge - John M. Sandy,,No,,15,8,7
 Lyon,Rock Rapids N P3,Court of Appeals Judge - John M. Sandy,,No,,123,44,79
-Lyon,Rock Rapids S P4,Court of Appeals Judge - John M. Sandy,,No,,56,27,29
+Lyon,Rock Rapids S P4,Court of Appeals Judge - John M. Sandy,,No,,57,28,29
 Lyon,Doon City Hall P5,Court of Appeals Judge - John M. Sandy,,Yes,,393,66,327
 Lyon,George Comm Ctr P1,Court of Appeals Judge - John M. Sandy,,Yes,,456,81,375
 Lyon,Inwood P6,Court of Appeals Judge - John M. Sandy,,Yes,,533,77,456
 Lyon,Larchwood P10,Court of Appeals Judge - John M. Sandy,,Yes,,473,69,404
 Lyon,Lester P9,Court of Appeals Judge - John M. Sandy,,Yes,,162,24,138
-Lyon,Little Rock Town and Country P2,Court of Appeals Judge - John M. Sandy,,Yes,,249,37,212
+Lyon,Little Rock Town and Country P2,Court of Appeals Judge - John M. Sandy,,Yes,,250,38,212
 Lyon,Logan N P8,Court of Appeals Judge - John M. Sandy,,Yes,,20,2,18
 Lyon,Logan S P7,Court of Appeals Judge - John M. Sandy,,Yes,,114,14,100
-Lyon,Rock Rapids N P3,Court of Appeals Judge - John M. Sandy,,Yes,,651,164,487
-Lyon,Rock Rapids S P4,Court of Appeals Judge - John M. Sandy,,Yes,,338,93,245
+Lyon,Rock Rapids N P3,Court of Appeals Judge - John M. Sandy,,Yes,,652,165,487
+Lyon,Rock Rapids S P4,Court of Appeals Judge - John M. Sandy,,Yes,,339,94,245
 Lyon,Doon City Hall P5,Court of Appeals Judge - Julie A. Schumacher,,No,,58,10,48
 Lyon,George Comm Ctr P1,Court of Appeals Judge - Julie A. Schumacher,,No,,72,7,65
 Lyon,Inwood P6,Court of Appeals Judge - Julie A. Schumacher,,No,,56,9,47
@@ -244,11 +244,11 @@ Lyon,George Comm Ctr P1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,457,8
 Lyon,Inwood P6,Court of Appeals Judge - Julie A. Schumacher,,Yes,,530,80,450
 Lyon,Larchwood P10,Court of Appeals Judge - Julie A. Schumacher,,Yes,,476,68,408
 Lyon,Lester P9,Court of Appeals Judge - Julie A. Schumacher,,Yes,,161,25,136
-Lyon,Little Rock Town and Country P2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,243,36,207
+Lyon,Little Rock Town and Country P2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,244,37,207
 Lyon,Logan N P8,Court of Appeals Judge - Julie A. Schumacher,,Yes,,22,2,20
 Lyon,Logan S P7,Court of Appeals Judge - Julie A. Schumacher,,Yes,,113,14,99
-Lyon,Rock Rapids N P3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,638,160,478
-Lyon,Rock Rapids S P4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,340,98,242
+Lyon,Rock Rapids N P3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,639,161,478
+Lyon,Rock Rapids S P4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,342,100,242
 Lyon,Doon City Hall P5,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,176,26,150
 Lyon,George Comm Ctr P1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,107,12,95
 Lyon,Inwood P6,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,235,25,210
@@ -258,17 +258,17 @@ Lyon,Little Rock Town and Country P2,Court of Appeals Judge - Sharon Soorholtz G
 Lyon,Logan N P8,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,10,2,8
 Lyon,Logan S P7,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,50,8,42
 Lyon,Rock Rapids N P3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,187,55,132
-Lyon,Rock Rapids S P4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,106,28,78
+Lyon,Rock Rapids S P4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,107,29,78
 Lyon,Doon City Hall P5,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,269,51,218
 Lyon,George Comm Ctr P1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,416,73,343
 Lyon,Inwood P6,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,348,64,284
 Lyon,Larchwood P10,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,423,63,360
 Lyon,Lester P9,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,119,24,95
-Lyon,Little Rock Town and Country P2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,226,32,194
+Lyon,Little Rock Town and Country P2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,227,33,194
 Lyon,Logan N P8,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,15,2,13
 Lyon,Logan S P7,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,78,14,64
-Lyon,Rock Rapids N P3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,569,148,421
-Lyon,Rock Rapids S P4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,279,88,191
+Lyon,Rock Rapids N P3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,570,149,421
+Lyon,Rock Rapids S P4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,280,89,191
 Lyon,Doon City Hall P5,District 3A Associate Judge - Jennifer Bennett Finn,,No,,130,16,114
 Lyon,George Comm Ctr P1,District 3A Associate Judge - Jennifer Bennett Finn,,No,,88,13,75
 Lyon,Inwood P6,District 3A Associate Judge - Jennifer Bennett Finn,,No,,195,22,173
@@ -284,11 +284,11 @@ Lyon,George Comm Ctr P1,District 3A Associate Judge - Jennifer Bennett Finn,,Yes
 Lyon,Inwood P6,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,374,66,308
 Lyon,Larchwood P10,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,427,65,362
 Lyon,Lester P9,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,128,25,103
-Lyon,Little Rock Town and Country P2,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,231,31,200
+Lyon,Little Rock Town and Country P2,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,232,32,200
 Lyon,Logan N P8,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,14,2,12
 Lyon,Logan S P7,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,78,13,65
-Lyon,Rock Rapids N P3,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,580,150,430
-Lyon,Rock Rapids S P4,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,303,92,211
+Lyon,Rock Rapids N P3,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,581,151,430
+Lyon,Rock Rapids S P4,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,305,94,211
 Lyon,Doon City Hall P5,District 3A Associate Judge - Kristi Busse,,No,,60,8,52
 Lyon,George Comm Ctr P1,District 3A Associate Judge - Kristi Busse,,No,,75,9,66
 Lyon,Inwood P6,District 3A Associate Judge - Kristi Busse,,No,,59,15,44
@@ -298,17 +298,17 @@ Lyon,Little Rock Town and Country P2,District 3A Associate Judge - Kristi Busse,
 Lyon,Logan N P8,District 3A Associate Judge - Kristi Busse,,No,,2,2,0
 Lyon,Logan S P7,District 3A Associate Judge - Kristi Busse,,No,,11,6,5
 Lyon,Rock Rapids N P3,District 3A Associate Judge - Kristi Busse,,No,,123,46,77
-Lyon,Rock Rapids S P4,District 3A Associate Judge - Kristi Busse,,No,,46,16,30
+Lyon,Rock Rapids S P4,District 3A Associate Judge - Kristi Busse,,No,,47,17,30
 Lyon,Doon City Hall P5,District 3A Associate Judge - Kristi Busse,,Yes,,385,68,317
 Lyon,George Comm Ctr P1,District 3A Associate Judge - Kristi Busse,,Yes,,442,78,364
 Lyon,Inwood P6,District 3A Associate Judge - Kristi Busse,,Yes,,521,76,445
 Lyon,Larchwood P10,District 3A Associate Judge - Kristi Busse,,Yes,,462,66,396
 Lyon,Lester P9,District 3A Associate Judge - Kristi Busse,,Yes,,158,26,132
-Lyon,Little Rock Town and Country P2,District 3A Associate Judge - Kristi Busse,,Yes,,243,35,208
+Lyon,Little Rock Town and Country P2,District 3A Associate Judge - Kristi Busse,,Yes,,244,36,208
 Lyon,Logan N P8,District 3A Associate Judge - Kristi Busse,,Yes,,23,2,21
 Lyon,Logan S P7,District 3A Associate Judge - Kristi Busse,,Yes,,116,16,100
-Lyon,Rock Rapids N P3,District 3A Associate Judge - Kristi Busse,,Yes,,634,158,476
-Lyon,Rock Rapids S P4,District 3A Associate Judge - Kristi Busse,,Yes,,330,96,234
+Lyon,Rock Rapids N P3,District 3A Associate Judge - Kristi Busse,,Yes,,635,159,476
+Lyon,Rock Rapids S P4,District 3A Associate Judge - Kristi Busse,,Yes,,331,97,234
 Lyon,Doon City Hall P5,District 3A Judge - Adam Miller,,No,,58,10,48
 Lyon,George Comm Ctr P1,District 3A Judge - Adam Miller,,No,,81,10,71
 Lyon,Inwood P6,District 3A Judge - Adam Miller,,No,,62,16,46
@@ -318,17 +318,17 @@ Lyon,Little Rock Town and Country P2,District 3A Judge - Adam Miller,,No,,24,3,2
 Lyon,Logan N P8,District 3A Judge - Adam Miller,,No,,3,2,1
 Lyon,Logan S P7,District 3A Judge - Adam Miller,,No,,9,6,3
 Lyon,Rock Rapids N P3,District 3A Judge - Adam Miller,,No,,126,49,77
-Lyon,Rock Rapids S P4,District 3A Judge - Adam Miller,,No,,57,21,36
+Lyon,Rock Rapids S P4,District 3A Judge - Adam Miller,,No,,58,22,36
 Lyon,Doon City Hall P5,District 3A Judge - Adam Miller,,Yes,,382,66,316
 Lyon,George Comm Ctr P1,District 3A Judge - Adam Miller,,Yes,,435,77,358
 Lyon,Inwood P6,District 3A Judge - Adam Miller,,Yes,,507,73,434
 Lyon,Larchwood P10,District 3A Judge - Adam Miller,,Yes,,468,66,402
 Lyon,Lester P9,District 3A Judge - Adam Miller,,Yes,,161,24,137
-Lyon,Little Rock Town and Country P2,District 3A Judge - Adam Miller,,Yes,,246,34,212
+Lyon,Little Rock Town and Country P2,District 3A Judge - Adam Miller,,Yes,,247,35,212
 Lyon,Logan N P8,District 3A Judge - Adam Miller,,Yes,,23,2,21
 Lyon,Logan S P7,District 3A Judge - Adam Miller,,Yes,,117,15,102
-Lyon,Rock Rapids N P3,District 3A Judge - Adam Miller,,Yes,,622,149,473
-Lyon,Rock Rapids S P4,District 3A Judge - Adam Miller,,Yes,,320,89,231
+Lyon,Rock Rapids N P3,District 3A Judge - Adam Miller,,Yes,,623,150,473
+Lyon,Rock Rapids S P4,District 3A Judge - Adam Miller,,Yes,,321,90,231
 Lyon,Doon City Hall P5,District 3A Judge - Andrew J. Smith,,No,,118,15,103
 Lyon,George Comm Ctr P1,District 3A Judge - Andrew J. Smith,,No,,97,14,83
 Lyon,Inwood P6,District 3A Judge - Andrew J. Smith,,No,,202,22,180
@@ -344,11 +344,11 @@ Lyon,George Comm Ctr P1,District 3A Judge - Andrew J. Smith,,Yes,,426,73,353
 Lyon,Inwood P6,District 3A Judge - Andrew J. Smith,,Yes,,370,66,304
 Lyon,Larchwood P10,District 3A Judge - Andrew J. Smith,,Yes,,436,64,372
 Lyon,Lester P9,District 3A Judge - Andrew J. Smith,,Yes,,127,23,104
-Lyon,Little Rock Town and Country P2,District 3A Judge - Andrew J. Smith,,Yes,,242,34,208
+Lyon,Little Rock Town and Country P2,District 3A Judge - Andrew J. Smith,,Yes,,243,35,208
 Lyon,Logan N P8,District 3A Judge - Andrew J. Smith,,Yes,,18,2,16
 Lyon,Logan S P7,District 3A Judge - Andrew J. Smith,,Yes,,76,11,65
-Lyon,Rock Rapids N P3,District 3A Judge - Andrew J. Smith,,Yes,,589,153,436
-Lyon,Rock Rapids S P4,District 3A Judge - Andrew J. Smith,,Yes,,291,87,204
+Lyon,Rock Rapids N P3,District 3A Judge - Andrew J. Smith,,Yes,,590,154,436
+Lyon,Rock Rapids S P4,District 3A Judge - Andrew J. Smith,,Yes,,293,89,204
 Lyon,Doon City Hall P5,District 3A Judge - Carl J. Petersen,,No,,55,10,45
 Lyon,George Comm Ctr P1,District 3A Judge - Carl J. Petersen,,No,,92,16,76
 Lyon,Inwood P6,District 3A Judge - Carl J. Petersen,,No,,66,16,50
@@ -358,17 +358,17 @@ Lyon,Little Rock Town and Country P2,District 3A Judge - Carl J. Petersen,,No,,3
 Lyon,Logan N P8,District 3A Judge - Carl J. Petersen,,No,,3,1,2
 Lyon,Logan S P7,District 3A Judge - Carl J. Petersen,,No,,9,2,7
 Lyon,Rock Rapids N P3,District 3A Judge - Carl J. Petersen,,No,,162,53,109
-Lyon,Rock Rapids S P4,District 3A Judge - Carl J. Petersen,,No,,63,26,37
+Lyon,Rock Rapids S P4,District 3A Judge - Carl J. Petersen,,No,,64,27,37
 Lyon,Doon City Hall P5,District 3A Judge - Carl J. Petersen,,Yes,,401,68,333
 Lyon,George Comm Ctr P1,District 3A Judge - Carl J. Petersen,,Yes,,447,77,370
 Lyon,Inwood P6,District 3A Judge - Carl J. Petersen,,Yes,,515,76,439
 Lyon,Larchwood P10,District 3A Judge - Carl J. Petersen,,Yes,,481,65,416
 Lyon,Lester P9,District 3A Judge - Carl J. Petersen,,Yes,,177,26,151
-Lyon,Little Rock Town and Country P2,District 3A Judge - Carl J. Petersen,,Yes,,255,39,216
+Lyon,Little Rock Town and Country P2,District 3A Judge - Carl J. Petersen,,Yes,,256,40,216
 Lyon,Logan N P8,District 3A Judge - Carl J. Petersen,,Yes,,26,3,23
 Lyon,Logan S P7,District 3A Judge - Carl J. Petersen,,Yes,,120,21,99
-Lyon,Rock Rapids N P3,District 3A Judge - Carl J. Petersen,,Yes,,658,176,482
-Lyon,Rock Rapids S P4,District 3A Judge - Carl J. Petersen,,Yes,,356,108,248
+Lyon,Rock Rapids N P3,District 3A Judge - Carl J. Petersen,,Yes,,659,177,482
+Lyon,Rock Rapids S P4,District 3A Judge - Carl J. Petersen,,Yes,,357,109,248
 Lyon,Doon City Hall P5,District 3A Judge - Charles Borth,,No,,68,10,58
 Lyon,George Comm Ctr P1,District 3A Judge - Charles Borth,,No,,85,9,76
 Lyon,Inwood P6,District 3A Judge - Charles Borth,,No,,68,16,52
@@ -384,17 +384,17 @@ Lyon,George Comm Ctr P1,District 3A Judge - Charles Borth,,Yes,,430,76,354
 Lyon,Inwood P6,District 3A Judge - Charles Borth,,Yes,,503,73,430
 Lyon,Larchwood P10,District 3A Judge - Charles Borth,,Yes,,457,67,390
 Lyon,Lester P9,District 3A Judge - Charles Borth,,Yes,,155,23,132
-Lyon,Little Rock Town and Country P2,District 3A Judge - Charles Borth,,Yes,,236,32,204
+Lyon,Little Rock Town and Country P2,District 3A Judge - Charles Borth,,Yes,,237,33,204
 Lyon,Logan N P8,District 3A Judge - Charles Borth,,Yes,,22,2,20
 Lyon,Logan S P7,District 3A Judge - Charles Borth,,Yes,,109,14,95
-Lyon,Rock Rapids N P3,District 3A Judge - Charles Borth,,Yes,,618,149,469
-Lyon,Rock Rapids S P4,District 3A Judge - Charles Borth,,Yes,,320,89,231
+Lyon,Rock Rapids N P3,District 3A Judge - Charles Borth,,Yes,,619,150,469
+Lyon,Rock Rapids S P4,District 3A Judge - Charles Borth,,Yes,,322,91,231
 Lyon,Doon City Hall P5,George-Little Rock School - Public Measure NV,,No,,26,10,16
 Lyon,George Comm Ctr P1,George-Little Rock School - Public Measure NV,,No,,384,69,315
-Lyon,Little Rock Town and Country P2,George-Little Rock School - Public Measure NV,,No,,200,45,155
+Lyon,Little Rock Town and Country P2,George-Little Rock School - Public Measure NV,,No,,201,46,155
 Lyon,Rock Rapids S P4,George-Little Rock School - Public Measure NV,,No,,22,15,7
 Lyon,Doon City Hall P5,George-Little Rock School - Public Measure NV,,Yes,,26,7,19
-Lyon,George Comm Ctr P1,George-Little Rock School - Public Measure NV,,Yes,,356,56,300
+Lyon,George Comm Ctr P1,George-Little Rock School - Public Measure NV,,Yes,,357,57,300
 Lyon,Little Rock Town and Country P2,George-Little Rock School - Public Measure NV,,Yes,,170,14,156
 Lyon,Rock Rapids S P4,George-Little Rock School - Public Measure NV,,Yes,,13,6,7
 Lyon,Doon City Hall P5,Governor,,Rob Sand and Dave Muhlbauer,DEM,37,10,27
@@ -402,11 +402,11 @@ Lyon,George Comm Ctr P1,Governor,,Rob Sand and Dave Muhlbauer,DEM,163,29,134
 Lyon,Inwood P6,Governor,,Rob Sand and Dave Muhlbauer,DEM,133,28,105
 Lyon,Larchwood P10,Governor,,Rob Sand and Dave Muhlbauer,DEM,261,57,204
 Lyon,Lester P9,Governor,,Rob Sand and Dave Muhlbauer,DEM,43,11,32
-Lyon,Little Rock Town and Country P2,Governor,,Rob Sand and Dave Muhlbauer,DEM,60,20,40
+Lyon,Little Rock Town and Country P2,Governor,,Rob Sand and Dave Muhlbauer,DEM,61,21,40
 Lyon,Logan N P8,Governor,,Rob Sand and Dave Muhlbauer,DEM,2,0,2
 Lyon,Logan S P7,Governor,,Rob Sand and Dave Muhlbauer,DEM,22,7,15
-Lyon,Rock Rapids N P3,Governor,,Rob Sand and Dave Muhlbauer,DEM,243,119,124
-Lyon,Rock Rapids S P4,Governor,,Rob Sand and Dave Muhlbauer,DEM,119,57,62
+Lyon,Rock Rapids N P3,Governor,,Rob Sand and Dave Muhlbauer,DEM,244,120,124
+Lyon,Rock Rapids S P4,Governor,,Rob Sand and Dave Muhlbauer,DEM,121,59,62
 Lyon,Doon City Hall P5,Governor,,Write-In,,1,0,1
 Lyon,George Comm Ctr P1,Governor,,Write-In,,2,0,2
 Lyon,Inwood P6,Governor,,Write-In,,0,0,0
@@ -418,35 +418,35 @@ Lyon,Logan S P7,Governor,,Write-In,,0,0,0
 Lyon,Rock Rapids N P3,Governor,,Write-In,,2,0,2
 Lyon,Rock Rapids S P4,Governor,,Write-In,,0,0,0
 Lyon,Doon City Hall P5,Governor,,Zach Lahn and Derek Wulf,REP,553,98,455
-Lyon,George Comm Ctr P1,Governor,,Zach Lahn and Derek Wulf,REP,585,100,485
+Lyon,George Comm Ctr P1,Governor,,Zach Lahn and Derek Wulf,REP,586,101,485
 Lyon,Inwood P6,Governor,,Zach Lahn and Derek Wulf,REP,671,104,567
-Lyon,Larchwood P10,Governor,,Zach Lahn and Derek Wulf,REP,585,87,498
+Lyon,Larchwood P10,Governor,,Zach Lahn and Derek Wulf,REP,586,88,498
 Lyon,Lester P9,Governor,,Zach Lahn and Derek Wulf,REP,234,33,201
 Lyon,Little Rock Town and Country P2,Governor,,Zach Lahn and Derek Wulf,REP,333,57,276
 Lyon,Logan N P8,Governor,,Zach Lahn and Derek Wulf,REP,40,4,36
 Lyon,Logan S P7,Governor,,Zach Lahn and Derek Wulf,REP,151,24,127
-Lyon,Rock Rapids N P3,Governor,,Zach Lahn and Derek Wulf,REP,753,164,589
-Lyon,Rock Rapids S P4,Governor,,Zach Lahn and Derek Wulf,REP,419,131,288
+Lyon,Rock Rapids N P3,Governor,,Zach Lahn and Derek Wulf,REP,754,165,589
+Lyon,Rock Rapids S P4,Governor,,Zach Lahn and Derek Wulf,REP,420,132,288
 Lyon,Doon City Hall P5,Secretary of Agriculture,,Chris Jones,DEM,36,11,25
 Lyon,George Comm Ctr P1,Secretary of Agriculture,,Chris Jones,DEM,120,20,100
 Lyon,Inwood P6,Secretary of Agriculture,,Chris Jones,DEM,107,24,83
 Lyon,Larchwood P10,Secretary of Agriculture,,Chris Jones,DEM,233,50,183
 Lyon,Lester P9,Secretary of Agriculture,,Chris Jones,DEM,31,8,23
-Lyon,Little Rock Town and Country P2,Secretary of Agriculture,,Chris Jones,DEM,41,14,27
+Lyon,Little Rock Town and Country P2,Secretary of Agriculture,,Chris Jones,DEM,42,15,27
 Lyon,Logan N P8,Secretary of Agriculture,,Chris Jones,DEM,1,0,1
 Lyon,Logan S P7,Secretary of Agriculture,,Chris Jones,DEM,14,5,9
-Lyon,Rock Rapids N P3,Secretary of Agriculture,,Chris Jones,DEM,191,100,91
-Lyon,Rock Rapids S P4,Secretary of Agriculture,,Chris Jones,DEM,87,44,43
+Lyon,Rock Rapids N P3,Secretary of Agriculture,,Chris Jones,DEM,192,101,91
+Lyon,Rock Rapids S P4,Secretary of Agriculture,,Chris Jones,DEM,89,46,43
 Lyon,Doon City Hall P5,Secretary of Agriculture,,Mike Naig,REP,558,98,460
-Lyon,George Comm Ctr P1,Secretary of Agriculture,,Mike Naig,REP,605,108,497
+Lyon,George Comm Ctr P1,Secretary of Agriculture,,Mike Naig,REP,606,109,497
 Lyon,Inwood P6,Secretary of Agriculture,,Mike Naig,REP,686,105,581
 Lyon,Larchwood P10,Secretary of Agriculture,,Mike Naig,REP,603,90,513
 Lyon,Lester P9,Secretary of Agriculture,,Mike Naig,REP,243,36,207
 Lyon,Little Rock Town and Country P2,Secretary of Agriculture,,Mike Naig,REP,349,61,288
 Lyon,Logan N P8,Secretary of Agriculture,,Mike Naig,REP,40,4,36
 Lyon,Logan S P7,Secretary of Agriculture,,Mike Naig,REP,156,25,131
-Lyon,Rock Rapids N P3,Secretary of Agriculture,,Mike Naig,REP,790,183,607
-Lyon,Rock Rapids S P4,Secretary of Agriculture,,Mike Naig,REP,433,134,299
+Lyon,Rock Rapids N P3,Secretary of Agriculture,,Mike Naig,REP,791,184,607
+Lyon,Rock Rapids S P4,Secretary of Agriculture,,Mike Naig,REP,434,135,299
 Lyon,Doon City Hall P5,Secretary of Agriculture,,Write-In,,0,0,0
 Lyon,George Comm Ctr P1,Secretary of Agriculture,,Write-In,,1,0,1
 Lyon,Inwood P6,Secretary of Agriculture,,Write-In,,0,0,0
@@ -458,25 +458,25 @@ Lyon,Logan S P7,Secretary of Agriculture,,Write-In,,0,0,0
 Lyon,Rock Rapids N P3,Secretary of Agriculture,,Write-In,,0,0,0
 Lyon,Rock Rapids S P4,Secretary of Agriculture,,Write-In,,0,0,0
 Lyon,Doon City Hall P5,Secretary of State,,Paul D. Pate,REP,556,96,460
-Lyon,George Comm Ctr P1,Secretary of State,,Paul D. Pate,REP,587,102,485
+Lyon,George Comm Ctr P1,Secretary of State,,Paul D. Pate,REP,588,103,485
 Lyon,Inwood P6,Secretary of State,,Paul D. Pate,REP,674,103,571
-Lyon,Larchwood P10,Secretary of State,,Paul D. Pate,REP,596,89,507
+Lyon,Larchwood P10,Secretary of State,,Paul D. Pate,REP,597,90,507
 Lyon,Lester P9,Secretary of State,,Paul D. Pate,REP,239,32,207
 Lyon,Little Rock Town and Country P2,Secretary of State,,Paul D. Pate,REP,336,56,280
 Lyon,Logan N P8,Secretary of State,,Paul D. Pate,REP,39,4,35
 Lyon,Logan S P7,Secretary of State,,Paul D. Pate,REP,151,22,129
-Lyon,Rock Rapids N P3,Secretary of State,,Paul D. Pate,REP,771,175,596
-Lyon,Rock Rapids S P4,Secretary of State,,Paul D. Pate,REP,428,131,297
+Lyon,Rock Rapids N P3,Secretary of State,,Paul D. Pate,REP,772,176,596
+Lyon,Rock Rapids S P4,Secretary of State,,Paul D. Pate,REP,429,132,297
 Lyon,Doon City Hall P5,Secretary of State,,Ryan Peterman,DEM,34,12,22
 Lyon,George Comm Ctr P1,Secretary of State,,Ryan Peterman,DEM,126,23,103
 Lyon,Inwood P6,Secretary of State,,Ryan Peterman,DEM,113,24,89
 Lyon,Larchwood P10,Secretary of State,,Ryan Peterman,DEM,235,54,181
 Lyon,Lester P9,Secretary of State,,Ryan Peterman,DEM,34,9,25
-Lyon,Little Rock Town and Country P2,Secretary of State,,Ryan Peterman,DEM,44,16,28
+Lyon,Little Rock Town and Country P2,Secretary of State,,Ryan Peterman,DEM,45,17,28
 Lyon,Logan N P8,Secretary of State,,Ryan Peterman,DEM,1,0,1
 Lyon,Logan S P7,Secretary of State,,Ryan Peterman,DEM,20,7,13
-Lyon,Rock Rapids N P3,Secretary of State,,Ryan Peterman,DEM,198,103,95
-Lyon,Rock Rapids S P4,Secretary of State,,Ryan Peterman,DEM,89,44,45
+Lyon,Rock Rapids N P3,Secretary of State,,Ryan Peterman,DEM,199,104,95
+Lyon,Rock Rapids S P4,Secretary of State,,Ryan Peterman,DEM,91,46,45
 Lyon,Doon City Hall P5,Secretary of State,,Write-In,,0,0,0
 Lyon,George Comm Ctr P1,Secretary of State,,Write-In,,3,0,3
 Lyon,Inwood P6,Secretary of State,,Write-In,,1,0,1
@@ -492,11 +492,11 @@ Lyon,George Comm Ctr P1,Soil and Water Conservation District Commissioner,,Dale 
 Lyon,Inwood P6,Soil and Water Conservation District Commissioner,,Dale Winkowitsch,,365,58,307
 Lyon,Larchwood P10,Soil and Water Conservation District Commissioner,,Dale Winkowitsch,,335,60,275
 Lyon,Lester P9,Soil and Water Conservation District Commissioner,,Dale Winkowitsch,,156,23,133
-Lyon,Little Rock Town and Country P2,Soil and Water Conservation District Commissioner,,Dale Winkowitsch,,200,47,153
+Lyon,Little Rock Town and Country P2,Soil and Water Conservation District Commissioner,,Dale Winkowitsch,,201,48,153
 Lyon,Logan N P8,Soil and Water Conservation District Commissioner,,Dale Winkowitsch,,31,4,27
 Lyon,Logan S P7,Soil and Water Conservation District Commissioner,,Dale Winkowitsch,,104,20,84
-Lyon,Rock Rapids N P3,Soil and Water Conservation District Commissioner,,Dale Winkowitsch,,575,152,423
-Lyon,Rock Rapids S P4,Soil and Water Conservation District Commissioner,,Dale Winkowitsch,,327,120,207
+Lyon,Rock Rapids N P3,Soil and Water Conservation District Commissioner,,Dale Winkowitsch,,576,153,423
+Lyon,Rock Rapids S P4,Soil and Water Conservation District Commissioner,,Dale Winkowitsch,,328,121,207
 Lyon,Doon City Hall P5,Soil and Water Conservation District Commissioner,,Randy Warner,,339,51,288
 Lyon,George Comm Ctr P1,Soil and Water Conservation District Commissioner,,Randy Warner,,332,49,283
 Lyon,Inwood P6,Soil and Water Conservation District Commissioner,,Randy Warner,,553,92,461
@@ -506,7 +506,7 @@ Lyon,Little Rock Town and Country P2,Soil and Water Conservation District Commis
 Lyon,Logan N P8,Soil and Water Conservation District Commissioner,,Randy Warner,,30,2,28
 Lyon,Logan S P7,Soil and Water Conservation District Commissioner,,Randy Warner,,128,19,109
 Lyon,Rock Rapids N P3,Soil and Water Conservation District Commissioner,,Randy Warner,,596,166,430
-Lyon,Rock Rapids S P4,Soil and Water Conservation District Commissioner,,Randy Warner,,327,103,224
+Lyon,Rock Rapids S P4,Soil and Water Conservation District Commissioner,,Randy Warner,,328,104,224
 Lyon,Doon City Hall P5,Soil and Water Conservation District Commissioner,,Richard Reitsma,,159,29,130
 Lyon,George Comm Ctr P1,Soil and Water Conservation District Commissioner,,Richard Reitsma,,230,41,189
 Lyon,Inwood P6,Soil and Water Conservation District Commissioner,,Richard Reitsma,,228,42,186
@@ -515,8 +515,8 @@ Lyon,Lester P9,Soil and Water Conservation District Commissioner,,Richard Reitsm
 Lyon,Little Rock Town and Country P2,Soil and Water Conservation District Commissioner,,Richard Reitsma,,144,24,120
 Lyon,Logan N P8,Soil and Water Conservation District Commissioner,,Richard Reitsma,,7,1,6
 Lyon,Logan S P7,Soil and Water Conservation District Commissioner,,Richard Reitsma,,28,7,21
-Lyon,Rock Rapids N P3,Soil and Water Conservation District Commissioner,,Richard Reitsma,,299,95,204
-Lyon,Rock Rapids S P4,Soil and Water Conservation District Commissioner,,Richard Reitsma,,160,43,117
+Lyon,Rock Rapids N P3,Soil and Water Conservation District Commissioner,,Richard Reitsma,,301,97,204
+Lyon,Rock Rapids S P4,Soil and Water Conservation District Commissioner,,Richard Reitsma,,162,45,117
 Lyon,Doon City Hall P5,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
 Lyon,George Comm Ctr P1,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
 Lyon,Inwood P6,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
@@ -532,21 +532,21 @@ Lyon,George Comm Ctr P1,State House,4,Garth Van Donselaar,,101,17,84
 Lyon,Inwood P6,State House,4,Garth Van Donselaar,,91,22,69
 Lyon,Larchwood P10,State House,4,Garth Van Donselaar,,140,32,108
 Lyon,Lester P9,State House,4,Garth Van Donselaar,,30,6,24
-Lyon,Little Rock Town and Country P2,State House,4,Garth Van Donselaar,,51,14,37
+Lyon,Little Rock Town and Country P2,State House,4,Garth Van Donselaar,,52,15,37
 Lyon,Logan N P8,State House,4,Garth Van Donselaar,,3,0,3
 Lyon,Logan S P7,State House,4,Garth Van Donselaar,,14,4,10
 Lyon,Rock Rapids N P3,State House,4,Garth Van Donselaar,,123,47,76
-Lyon,Rock Rapids S P4,State House,4,Garth Van Donselaar,,73,30,43
+Lyon,Rock Rapids S P4,State House,4,Garth Van Donselaar,,74,31,43
 Lyon,Doon City Hall P5,State House,4,Skyler Wheeler,REP,534,95,439
-Lyon,George Comm Ctr P1,State House,4,Skyler Wheeler,REP,606,106,500
+Lyon,George Comm Ctr P1,State House,4,Skyler Wheeler,REP,607,107,500
 Lyon,Inwood P6,State House,4,Skyler Wheeler,REP,677,103,574
-Lyon,Larchwood P10,State House,4,Skyler Wheeler,REP,612,91,521
+Lyon,Larchwood P10,State House,4,Skyler Wheeler,REP,613,92,521
 Lyon,Lester P9,State House,4,Skyler Wheeler,REP,235,33,202
 Lyon,Little Rock Town and Country P2,State House,4,Skyler Wheeler,REP,331,58,273
 Lyon,Logan N P8,State House,4,Skyler Wheeler,REP,34,4,30
 Lyon,Logan S P7,State House,4,Skyler Wheeler,REP,151,23,128
-Lyon,Rock Rapids N P3,State House,4,Skyler Wheeler,REP,773,191,582
-Lyon,Rock Rapids S P4,State House,4,Skyler Wheeler,REP,415,133,282
+Lyon,Rock Rapids N P3,State House,4,Skyler Wheeler,REP,775,193,582
+Lyon,Rock Rapids S P4,State House,4,Skyler Wheeler,REP,417,135,282
 Lyon,Doon City Hall P5,State House,4,Write-In,,0,0,0
 Lyon,George Comm Ctr P1,State House,4,Write-In,,1,1,0
 Lyon,Inwood P6,State House,4,Write-In,,2,0,2
@@ -562,21 +562,21 @@ Lyon,George Comm Ctr P1,Treasurer of State,,John Norwood,DEM,124,24,100
 Lyon,Inwood P6,Treasurer of State,,John Norwood,DEM,104,23,81
 Lyon,Larchwood P10,Treasurer of State,,John Norwood,DEM,235,53,182
 Lyon,Lester P9,Treasurer of State,,John Norwood,DEM,34,10,24
-Lyon,Little Rock Town and Country P2,Treasurer of State,,John Norwood,DEM,47,17,30
+Lyon,Little Rock Town and Country P2,Treasurer of State,,John Norwood,DEM,48,18,30
 Lyon,Logan N P8,Treasurer of State,,John Norwood,DEM,1,0,1
 Lyon,Logan S P7,Treasurer of State,,John Norwood,DEM,17,7,10
-Lyon,Rock Rapids N P3,Treasurer of State,,John Norwood,DEM,198,107,91
-Lyon,Rock Rapids S P4,Treasurer of State,,John Norwood,DEM,90,48,42
+Lyon,Rock Rapids N P3,Treasurer of State,,John Norwood,DEM,199,108,91
+Lyon,Rock Rapids S P4,Treasurer of State,,John Norwood,DEM,92,50,42
 Lyon,Doon City Hall P5,Treasurer of State,,Roby Smith,REP,555,97,458
-Lyon,George Comm Ctr P1,Treasurer of State,,Roby Smith,REP,594,104,490
+Lyon,George Comm Ctr P1,Treasurer of State,,Roby Smith,REP,595,105,490
 Lyon,Inwood P6,Treasurer of State,,Roby Smith,REP,684,106,578
 Lyon,Larchwood P10,Treasurer of State,,Roby Smith,REP,592,86,506
 Lyon,Lester P9,Treasurer of State,,Roby Smith,REP,237,33,204
 Lyon,Little Rock Town and Country P2,Treasurer of State,,Roby Smith,REP,338,55,283
 Lyon,Logan N P8,Treasurer of State,,Roby Smith,REP,39,4,35
 Lyon,Logan S P7,Treasurer of State,,Roby Smith,REP,154,23,131
-Lyon,Rock Rapids N P3,Treasurer of State,,Roby Smith,REP,764,175,589
-Lyon,Rock Rapids S P4,Treasurer of State,,Roby Smith,REP,423,127,296
+Lyon,Rock Rapids N P3,Treasurer of State,,Roby Smith,REP,765,176,589
+Lyon,Rock Rapids S P4,Treasurer of State,,Roby Smith,REP,424,128,296
 Lyon,Doon City Hall P5,Treasurer of State,,Write-In,,0,0,0
 Lyon,George Comm Ctr P1,Treasurer of State,,Write-In,,2,0,2
 Lyon,Inwood P6,Treasurer of State,,Write-In,,0,0,0
@@ -588,25 +588,25 @@ Lyon,Logan S P7,Treasurer of State,,Write-In,,0,0,0
 Lyon,Rock Rapids N P3,Treasurer of State,,Write-In,,0,0,0
 Lyon,Rock Rapids S P4,Treasurer of State,,Write-In,,0,0,0
 Lyon,Doon City Hall P5,U.S. House,4,Chris McGowan,REP,552,97,455
-Lyon,George Comm Ctr P1,U.S. House,4,Chris McGowan,REP,580,100,480
+Lyon,George Comm Ctr P1,U.S. House,4,Chris McGowan,REP,581,101,480
 Lyon,Inwood P6,U.S. House,4,Chris McGowan,REP,671,103,568
-Lyon,Larchwood P10,U.S. House,4,Chris McGowan,REP,593,88,505
+Lyon,Larchwood P10,U.S. House,4,Chris McGowan,REP,594,89,505
 Lyon,Lester P9,U.S. House,4,Chris McGowan,REP,240,33,207
 Lyon,Little Rock Town and Country P2,U.S. House,4,Chris McGowan,REP,329,57,272
 Lyon,Logan N P8,U.S. House,4,Chris McGowan,REP,39,3,36
 Lyon,Logan S P7,U.S. House,4,Chris McGowan,REP,154,22,132
-Lyon,Rock Rapids N P3,U.S. House,4,Chris McGowan,REP,767,170,597
-Lyon,Rock Rapids S P4,U.S. House,4,Chris McGowan,REP,419,131,288
+Lyon,Rock Rapids N P3,U.S. House,4,Chris McGowan,REP,768,171,597
+Lyon,Rock Rapids S P4,U.S. House,4,Chris McGowan,REP,421,133,288
 Lyon,Doon City Hall P5,U.S. House,4,Dave Dawson,DEM,34,11,23
 Lyon,George Comm Ctr P1,U.S. House,4,Dave Dawson,DEM,139,26,113
 Lyon,Inwood P6,U.S. House,4,Dave Dawson,DEM,123,29,94
 Lyon,Larchwood P10,U.S. House,4,Dave Dawson,DEM,237,53,184
 Lyon,Lester P9,U.S. House,4,Dave Dawson,DEM,35,10,25
-Lyon,Little Rock Town and Country P2,U.S. House,4,Dave Dawson,DEM,51,16,35
+Lyon,Little Rock Town and Country P2,U.S. House,4,Dave Dawson,DEM,52,17,35
 Lyon,Logan N P8,U.S. House,4,Dave Dawson,DEM,2,1,1
 Lyon,Logan S P7,U.S. House,4,Dave Dawson,DEM,18,8,10
-Lyon,Rock Rapids N P3,U.S. House,4,Dave Dawson,DEM,209,110,99
-Lyon,Rock Rapids S P4,U.S. House,4,Dave Dawson,DEM,102,47,55
+Lyon,Rock Rapids N P3,U.S. House,4,Dave Dawson,DEM,210,111,99
+Lyon,Rock Rapids S P4,U.S. House,4,Dave Dawson,DEM,103,48,55
 Lyon,Doon City Hall P5,U.S. House,4,Write-In,,0,0,0
 Lyon,George Comm Ctr P1,U.S. House,4,Write-In,,4,0,4
 Lyon,Inwood P6,U.S. House,4,Write-In,,0,0,0
@@ -618,25 +618,25 @@ Lyon,Logan S P7,U.S. House,4,Write-In,,0,0,0
 Lyon,Rock Rapids N P3,U.S. House,4,Write-In,,1,1,0
 Lyon,Rock Rapids S P4,U.S. House,4,Write-In,,0,0,0
 Lyon,Doon City Hall P5,U.S. Senate,,Ashley Hinson,REP,535,95,440
-Lyon,George Comm Ctr P1,U.S. Senate,,Ashley Hinson,REP,555,97,458
+Lyon,George Comm Ctr P1,U.S. Senate,,Ashley Hinson,REP,556,98,458
 Lyon,Inwood P6,U.S. Senate,,Ashley Hinson,REP,661,101,560
-Lyon,Larchwood P10,U.S. Senate,,Ashley Hinson,REP,585,85,500
+Lyon,Larchwood P10,U.S. Senate,,Ashley Hinson,REP,586,86,500
 Lyon,Lester P9,U.S. Senate,,Ashley Hinson,REP,227,33,194
 Lyon,Little Rock Town and Country P2,U.S. Senate,,Ashley Hinson,REP,320,57,263
 Lyon,Logan N P8,U.S. Senate,,Ashley Hinson,REP,36,3,33
 Lyon,Logan S P7,U.S. Senate,,Ashley Hinson,REP,148,22,126
-Lyon,Rock Rapids N P3,U.S. Senate,,Ashley Hinson,REP,744,166,578
-Lyon,Rock Rapids S P4,U.S. Senate,,Ashley Hinson,REP,410,130,280
+Lyon,Rock Rapids N P3,U.S. Senate,,Ashley Hinson,REP,745,167,578
+Lyon,Rock Rapids S P4,U.S. Senate,,Ashley Hinson,REP,411,131,280
 Lyon,Doon City Hall P5,U.S. Senate,,Josh Turek,DEM,35,11,24
 Lyon,George Comm Ctr P1,U.S. Senate,,Josh Turek,DEM,148,24,124
 Lyon,Inwood P6,U.S. Senate,,Josh Turek,DEM,113,27,86
 Lyon,Larchwood P10,U.S. Senate,,Josh Turek,DEM,253,56,197
 Lyon,Lester P9,U.S. Senate,,Josh Turek,DEM,39,9,30
-Lyon,Little Rock Town and Country P2,U.S. Senate,,Josh Turek,DEM,55,18,37
+Lyon,Little Rock Town and Country P2,U.S. Senate,,Josh Turek,DEM,56,19,37
 Lyon,Logan N P8,U.S. Senate,,Josh Turek,DEM,3,1,2
 Lyon,Logan S P7,U.S. Senate,,Josh Turek,DEM,18,8,10
-Lyon,Rock Rapids N P3,U.S. Senate,,Josh Turek,DEM,210,104,106
-Lyon,Rock Rapids S P4,U.S. Senate,,Josh Turek,DEM,109,50,59
+Lyon,Rock Rapids N P3,U.S. Senate,,Josh Turek,DEM,211,105,106
+Lyon,Rock Rapids S P4,U.S. Senate,,Josh Turek,DEM,110,51,59
 Lyon,Doon City Hall P5,U.S. Senate,,Thomas Laehn,LIB,22,3,19
 Lyon,George Comm Ctr P1,U.S. Senate,,Thomas Laehn,LIB,42,4,38
 Lyon,Inwood P6,U.S. Senate,,Thomas Laehn,LIB,27,5,22
@@ -646,7 +646,7 @@ Lyon,Little Rock Town and Country P2,U.S. Senate,,Thomas Laehn,LIB,18,0,18
 Lyon,Logan N P8,U.S. Senate,,Thomas Laehn,LIB,3,0,3
 Lyon,Logan S P7,U.S. Senate,,Thomas Laehn,LIB,6,0,6
 Lyon,Rock Rapids N P3,U.S. Senate,,Thomas Laehn,LIB,37,10,27
-Lyon,Rock Rapids S P4,U.S. Senate,,Thomas Laehn,LIB,17,8,9
+Lyon,Rock Rapids S P4,U.S. Senate,,Thomas Laehn,LIB,18,9,9
 Lyon,Doon City Hall P5,U.S. Senate,,Write-In,,0,0,0
 Lyon,George Comm Ctr P1,U.S. Senate,,Write-In,,1,0,1
 Lyon,Inwood P6,U.S. Senate,,Write-In,,0,0,0

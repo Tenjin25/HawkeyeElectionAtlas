@@ -1,14 +1,14 @@
 county,precinct,office,district,candidate,party,votes,absentee,election_day
-Ringgold,Athens Precinct,Attorney General,,Brenna Bird,REP,173,50,123
+Ringgold,Athens Precinct,Attorney General,,Brenna Bird,REP,174,51,123
 Ringgold,Clinton,Attorney General,,Brenna Bird,REP,103,36,67
 Ringgold,Mount Ayr,Attorney General,,Brenna Bird,REP,321,121,200
-Ringgold,Mount Ayr 2,Attorney General,,Brenna Bird,REP,346,153,193
+Ringgold,Mount Ayr 2,Attorney General,,Brenna Bird,REP,347,154,193
 Ringgold,Tingley,Attorney General,,Brenna Bird,REP,113,26,87
 Ringgold,Union Precinct,Attorney General,,Brenna Bird,REP,149,45,104
 Ringgold,Washington Precinct,Attorney General,,Brenna Bird,REP,274,68,206
 Ringgold,Athens Precinct,Attorney General,,Nate Willems,DEM,54,26,28
 Ringgold,Clinton,Attorney General,,Nate Willems,DEM,56,29,27
-Ringgold,Mount Ayr,Attorney General,,Nate Willems,DEM,158,93,65
+Ringgold,Mount Ayr,Attorney General,,Nate Willems,DEM,159,94,65
 Ringgold,Mount Ayr 2,Attorney General,,Nate Willems,DEM,170,113,57
 Ringgold,Tingley,Attorney General,,Nate Willems,DEM,17,5,12
 Ringgold,Union Precinct,Attorney General,,Nate Willems,DEM,83,41,42
@@ -20,16 +20,16 @@ Ringgold,Mount Ayr 2,Attorney General,,Write-In,,0,0,0
 Ringgold,Tingley,Attorney General,,Write-In,,0,0,0
 Ringgold,Union Precinct,Attorney General,,Write-In,,0,0,0
 Ringgold,Washington Precinct,Attorney General,,Write-In,,1,0,1
-Ringgold,Athens Precinct,Auditor of State,,Chris Cournoyer,REP,170,48,122
+Ringgold,Athens Precinct,Auditor of State,,Chris Cournoyer,REP,171,49,122
 Ringgold,Clinton,Auditor of State,,Chris Cournoyer,REP,103,36,67
-Ringgold,Mount Ayr,Auditor of State,,Chris Cournoyer,REP,310,111,199
-Ringgold,Mount Ayr 2,Auditor of State,,Chris Cournoyer,REP,331,148,183
+Ringgold,Mount Ayr,Auditor of State,,Chris Cournoyer,REP,310,112,198
+Ringgold,Mount Ayr 2,Auditor of State,,Chris Cournoyer,REP,332,149,183
 Ringgold,Tingley,Auditor of State,,Chris Cournoyer,REP,107,22,85
 Ringgold,Union Precinct,Auditor of State,,Chris Cournoyer,REP,150,43,107
 Ringgold,Washington Precinct,Auditor of State,,Chris Cournoyer,REP,274,66,208
 Ringgold,Athens Precinct,Auditor of State,,Taylor Wettach,DEM,59,27,32
 Ringgold,Clinton,Auditor of State,,Taylor Wettach,DEM,56,29,27
-Ringgold,Mount Ayr,Auditor of State,,Taylor Wettach,DEM,159,97,62
+Ringgold,Mount Ayr,Auditor of State,,Taylor Wettach,DEM,161,98,63
 Ringgold,Mount Ayr 2,Auditor of State,,Taylor Wettach,DEM,178,117,61
 Ringgold,Tingley,Auditor of State,,Taylor Wettach,DEM,21,9,12
 Ringgold,Union Precinct,Auditor of State,,Taylor Wettach,DEM,78,41,37
@@ -43,43 +43,43 @@ Ringgold,Union Precinct,Auditor of State,,Write-In,,0,0,0
 Ringgold,Washington Precinct,Auditor of State,,Write-In,,0,0,0
 Ringgold,Athens Precinct,Constitutional Amendment 1,,No,,69,23,46
 Ringgold,Clinton,Constitutional Amendment 1,,No,,53,24,29
-Ringgold,Mount Ayr,Constitutional Amendment 1,,No,,188,108,80
+Ringgold,Mount Ayr,Constitutional Amendment 1,,No,,189,109,80
 Ringgold,Mount Ayr 2,Constitutional Amendment 1,,No,,185,106,79
 Ringgold,Tingley,Constitutional Amendment 1,,No,,23,4,19
 Ringgold,Union Precinct,Constitutional Amendment 1,,No,,83,35,48
 Ringgold,Washington Precinct,Constitutional Amendment 1,,No,,119,37,82
-Ringgold,Athens Precinct,Constitutional Amendment 1,,Yes,,150,49,101
+Ringgold,Athens Precinct,Constitutional Amendment 1,,Yes,,151,50,101
 Ringgold,Clinton,Constitutional Amendment 1,,Yes,,93,37,56
-Ringgold,Mount Ayr,Constitutional Amendment 1,,Yes,,268,100,168
-Ringgold,Mount Ayr 2,Constitutional Amendment 1,,Yes,,297,146,151
+Ringgold,Mount Ayr,Constitutional Amendment 1,,Yes,,269,101,168
+Ringgold,Mount Ayr 2,Constitutional Amendment 1,,Yes,,298,147,151
 Ringgold,Tingley,Constitutional Amendment 1,,Yes,,99,25,74
 Ringgold,Union Precinct,Constitutional Amendment 1,,Yes,,131,49,82
 Ringgold,Washington Precinct,Constitutional Amendment 1,,Yes,,226,55,171
-Ringgold,Athens Precinct,County Agricultural Extension Council Member,,Adam M. Triggs,,174,53,121
+Ringgold,Athens Precinct,County Agricultural Extension Council Member,,Adam M. Triggs,,175,54,121
 Ringgold,Clinton,County Agricultural Extension Council Member,,Adam M. Triggs,,115,45,70
-Ringgold,Mount Ayr,County Agricultural Extension Council Member,,Adam M. Triggs,,356,164,192
-Ringgold,Mount Ayr 2,County Agricultural Extension Council Member,,Adam M. Triggs,,370,190,180
+Ringgold,Mount Ayr,County Agricultural Extension Council Member,,Adam M. Triggs,,355,164,191
+Ringgold,Mount Ayr 2,County Agricultural Extension Council Member,,Adam M. Triggs,,371,191,180
 Ringgold,Tingley,County Agricultural Extension Council Member,,Adam M. Triggs,,100,24,76
 Ringgold,Union Precinct,County Agricultural Extension Council Member,,Adam M. Triggs,,155,52,103
 Ringgold,Washington Precinct,County Agricultural Extension Council Member,,Adam M. Triggs,,281,69,212
-Ringgold,Athens Precinct,County Agricultural Extension Council Member,,Jenifer Breneman,,176,56,120
+Ringgold,Athens Precinct,County Agricultural Extension Council Member,,Jenifer Breneman,,177,57,120
 Ringgold,Clinton,County Agricultural Extension Council Member,,Jenifer Breneman,,119,47,72
 Ringgold,Mount Ayr,County Agricultural Extension Council Member,,Jenifer Breneman,,365,166,199
 Ringgold,Mount Ayr 2,County Agricultural Extension Council Member,,Jenifer Breneman,,390,201,189
 Ringgold,Tingley,County Agricultural Extension Council Member,,Jenifer Breneman,,99,23,76
 Ringgold,Union Precinct,County Agricultural Extension Council Member,,Jenifer Breneman,,145,52,93
 Ringgold,Washington Precinct,County Agricultural Extension Council Member,,Jenifer Breneman,,283,70,213
-Ringgold,Athens Precinct,County Agricultural Extension Council Member,,Joshua L. Waske,,164,49,115
+Ringgold,Athens Precinct,County Agricultural Extension Council Member,,Joshua L. Waske,,165,50,115
 Ringgold,Clinton,County Agricultural Extension Council Member,,Joshua L. Waske,,118,49,69
 Ringgold,Mount Ayr,County Agricultural Extension Council Member,,Joshua L. Waske,,334,161,173
 Ringgold,Mount Ayr 2,County Agricultural Extension Council Member,,Joshua L. Waske,,361,183,178
 Ringgold,Tingley,County Agricultural Extension Council Member,,Joshua L. Waske,,94,22,72
 Ringgold,Union Precinct,County Agricultural Extension Council Member,,Joshua L. Waske,,153,53,100
 Ringgold,Washington Precinct,County Agricultural Extension Council Member,,Joshua L. Waske,,261,67,194
-Ringgold,Athens Precinct,County Agricultural Extension Council Member,,Logan Stackhouse,,174,51,123
+Ringgold,Athens Precinct,County Agricultural Extension Council Member,,Logan Stackhouse,,175,52,123
 Ringgold,Clinton,County Agricultural Extension Council Member,,Logan Stackhouse,,119,47,72
-Ringgold,Mount Ayr,County Agricultural Extension Council Member,,Logan Stackhouse,,363,160,203
-Ringgold,Mount Ayr 2,County Agricultural Extension Council Member,,Logan Stackhouse,,393,197,196
+Ringgold,Mount Ayr,County Agricultural Extension Council Member,,Logan Stackhouse,,362,160,202
+Ringgold,Mount Ayr 2,County Agricultural Extension Council Member,,Logan Stackhouse,,394,198,196
 Ringgold,Tingley,County Agricultural Extension Council Member,,Logan Stackhouse,,103,25,78
 Ringgold,Union Precinct,County Agricultural Extension Council Member,,Logan Stackhouse,,149,52,97
 Ringgold,Washington Precinct,County Agricultural Extension Council Member,,Logan Stackhouse,,284,69,215
@@ -90,10 +90,10 @@ Ringgold,Mount Ayr 2,County Agricultural Extension Council Member,,Write-In,,4,1
 Ringgold,Tingley,County Agricultural Extension Council Member,,Write-In,,1,1,0
 Ringgold,Union Precinct,County Agricultural Extension Council Member,,Write-In,,0,0,0
 Ringgold,Washington Precinct,County Agricultural Extension Council Member,,Write-In,,5,5,0
-Ringgold,Athens Precinct,County Agricultural Extension Council To Fill a Vacancy,,Neva Nachtrieb,,174,53,121
+Ringgold,Athens Precinct,County Agricultural Extension Council To Fill a Vacancy,,Neva Nachtrieb,,175,54,121
 Ringgold,Clinton,County Agricultural Extension Council To Fill a Vacancy,,Neva Nachtrieb,,109,45,64
-Ringgold,Mount Ayr,County Agricultural Extension Council To Fill a Vacancy,,Neva Nachtrieb,,346,149,197
-Ringgold,Mount Ayr 2,County Agricultural Extension Council To Fill a Vacancy,,Neva Nachtrieb,,359,177,182
+Ringgold,Mount Ayr,County Agricultural Extension Council To Fill a Vacancy,,Neva Nachtrieb,,346,150,196
+Ringgold,Mount Ayr 2,County Agricultural Extension Council To Fill a Vacancy,,Neva Nachtrieb,,360,178,182
 Ringgold,Tingley,County Agricultural Extension Council To Fill a Vacancy,,Neva Nachtrieb,,90,17,73
 Ringgold,Union Precinct,County Agricultural Extension Council To Fill a Vacancy,,Neva Nachtrieb,,158,57,101
 Ringgold,Washington Precinct,County Agricultural Extension Council To Fill a Vacancy,,Neva Nachtrieb,,261,65,196
@@ -104,10 +104,10 @@ Ringgold,Mount Ayr 2,County Agricultural Extension Council To Fill a Vacancy,,Wr
 Ringgold,Tingley,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,1,1,0
 Ringgold,Union Precinct,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,0,0,0
 Ringgold,Washington Precinct,County Agricultural Extension Council To Fill a Vacancy,,Write-In,,2,2,0
-Ringgold,Athens Precinct,County Attorney,,Michael Wells,REP,207,63,144
+Ringgold,Athens Precinct,County Attorney,,Michael Wells,REP,208,64,144
 Ringgold,Clinton,County Attorney,,Michael Wells,REP,139,57,82
-Ringgold,Mount Ayr,County Attorney,,Michael Wells,REP,424,185,239
-Ringgold,Mount Ayr 2,County Attorney,,Michael Wells,REP,462,229,233
+Ringgold,Mount Ayr,County Attorney,,Michael Wells,REP,423,185,238
+Ringgold,Mount Ayr 2,County Attorney,,Michael Wells,REP,463,230,233
 Ringgold,Tingley,County Attorney,,Michael Wells,REP,116,25,91
 Ringgold,Union Precinct,County Attorney,,Michael Wells,REP,193,67,126
 Ringgold,Washington Precinct,County Attorney,,Michael Wells,REP,325,84,241
@@ -118,10 +118,10 @@ Ringgold,Mount Ayr 2,County Attorney,,Write-In,,4,1,3
 Ringgold,Tingley,County Attorney,,Write-In,,2,0,2
 Ringgold,Union Precinct,County Attorney,,Write-In,,0,0,0
 Ringgold,Washington Precinct,County Attorney,,Write-In,,6,3,3
-Ringgold,Athens Precinct,County Board of Supervisors,,Randy Taylor,REP,216,67,149
+Ringgold,Athens Precinct,County Board of Supervisors,,Randy Taylor,REP,217,68,149
 Ringgold,Clinton,County Board of Supervisors,,Randy Taylor,REP,141,57,84
-Ringgold,Mount Ayr,County Board of Supervisors,,Randy Taylor,REP,432,190,242
-Ringgold,Mount Ayr 2,County Board of Supervisors,,Randy Taylor,REP,478,241,237
+Ringgold,Mount Ayr,County Board of Supervisors,,Randy Taylor,REP,431,190,241
+Ringgold,Mount Ayr 2,County Board of Supervisors,,Randy Taylor,REP,479,242,237
 Ringgold,Tingley,County Board of Supervisors,,Randy Taylor,REP,125,30,95
 Ringgold,Union Precinct,County Board of Supervisors,,Randy Taylor,REP,197,66,131
 Ringgold,Washington Precinct,County Board of Supervisors,,Randy Taylor,REP,334,84,250
@@ -132,28 +132,28 @@ Ringgold,Mount Ayr 2,County Board of Supervisors,,Write-In,,3,1,2
 Ringgold,Tingley,County Board of Supervisors,,Write-In,,0,0,0
 Ringgold,Union Precinct,County Board of Supervisors,,Write-In,,0,0,0
 Ringgold,Washington Precinct,County Board of Supervisors,,Write-In,,7,1,6
-Ringgold,Athens Precinct,County Hospital Trustee,,Bruce Ricker,,152,52,100
+Ringgold,Athens Precinct,County Hospital Trustee,,Bruce Ricker,,153,53,100
 Ringgold,Clinton,County Hospital Trustee,,Bruce Ricker,,104,41,63
-Ringgold,Mount Ayr,County Hospital Trustee,,Bruce Ricker,,345,169,176
-Ringgold,Mount Ayr 2,County Hospital Trustee,,Bruce Ricker,,386,200,186
+Ringgold,Mount Ayr,County Hospital Trustee,,Bruce Ricker,,347,170,177
+Ringgold,Mount Ayr 2,County Hospital Trustee,,Bruce Ricker,,387,201,186
 Ringgold,Tingley,County Hospital Trustee,,Bruce Ricker,,102,22,80
 Ringgold,Union Precinct,County Hospital Trustee,,Bruce Ricker,,150,56,94
 Ringgold,Washington Precinct,County Hospital Trustee,,Bruce Ricker,,246,55,191
-Ringgold,Athens Precinct,County Hospital Trustee,,Dane Johnson,,119,46,73
+Ringgold,Athens Precinct,County Hospital Trustee,,Dane Johnson,,120,47,73
 Ringgold,Clinton,County Hospital Trustee,,Dane Johnson,,98,44,54
-Ringgold,Mount Ayr,County Hospital Trustee,,Dane Johnson,,318,145,173
+Ringgold,Mount Ayr,County Hospital Trustee,,Dane Johnson,,319,147,172
 Ringgold,Mount Ayr 2,County Hospital Trustee,,Dane Johnson,,312,154,158
 Ringgold,Tingley,County Hospital Trustee,,Dane Johnson,,81,20,61
 Ringgold,Union Precinct,County Hospital Trustee,,Dane Johnson,,132,44,88
 Ringgold,Washington Precinct,County Hospital Trustee,,Dane Johnson,,214,53,161
-Ringgold,Athens Precinct,County Hospital Trustee,,Darla Sobotka,,149,42,107
+Ringgold,Athens Precinct,County Hospital Trustee,,Darla Sobotka,,150,43,107
 Ringgold,Clinton,County Hospital Trustee,,Darla Sobotka,,128,50,78
-Ringgold,Mount Ayr,County Hospital Trustee,,Darla Sobotka,,364,168,196
-Ringgold,Mount Ayr 2,County Hospital Trustee,,Darla Sobotka,,383,189,194
+Ringgold,Mount Ayr,County Hospital Trustee,,Darla Sobotka,,364,169,195
+Ringgold,Mount Ayr 2,County Hospital Trustee,,Darla Sobotka,,384,190,194
 Ringgold,Tingley,County Hospital Trustee,,Darla Sobotka,,98,20,78
 Ringgold,Union Precinct,County Hospital Trustee,,Darla Sobotka,,139,48,91
 Ringgold,Washington Precinct,County Hospital Trustee,,Darla Sobotka,,311,82,229
-Ringgold,Athens Precinct,County Hospital Trustee,,Kathleen Schuster,,72,21,51
+Ringgold,Athens Precinct,County Hospital Trustee,,Kathleen Schuster,,73,22,51
 Ringgold,Clinton,County Hospital Trustee,,Kathleen Schuster,,52,17,35
 Ringgold,Mount Ayr,County Hospital Trustee,,Kathleen Schuster,,130,64,66
 Ringgold,Mount Ayr 2,County Hospital Trustee,,Kathleen Schuster,,117,66,51
@@ -162,14 +162,14 @@ Ringgold,Union Precinct,County Hospital Trustee,,Kathleen Schuster,,67,25,42
 Ringgold,Washington Precinct,County Hospital Trustee,,Kathleen Schuster,,81,21,60
 Ringgold,Athens Precinct,County Hospital Trustee,,Norma Wolfe,,99,31,68
 Ringgold,Clinton,County Hospital Trustee,,Norma Wolfe,,54,19,35
-Ringgold,Mount Ayr,County Hospital Trustee,,Norma Wolfe,,142,64,78
+Ringgold,Mount Ayr,County Hospital Trustee,,Norma Wolfe,,142,65,77
 Ringgold,Mount Ayr 2,County Hospital Trustee,,Norma Wolfe,,155,69,86
 Ringgold,Tingley,County Hospital Trustee,,Norma Wolfe,,36,9,27
 Ringgold,Union Precinct,County Hospital Trustee,,Norma Wolfe,,62,22,40
 Ringgold,Washington Precinct,County Hospital Trustee,,Norma Wolfe,,119,20,99
 Ringgold,Athens Precinct,County Hospital Trustee,,Steve Roe,,123,42,81
 Ringgold,Clinton,County Hospital Trustee,,Steve Roe,,97,47,50
-Ringgold,Mount Ayr,County Hospital Trustee,,Steve Roe,,331,156,175
+Ringgold,Mount Ayr,County Hospital Trustee,,Steve Roe,,331,157,174
 Ringgold,Mount Ayr 2,County Hospital Trustee,,Steve Roe,,352,169,183
 Ringgold,Tingley,County Hospital Trustee,,Steve Roe,,83,20,63
 Ringgold,Union Precinct,County Hospital Trustee,,Steve Roe,,112,32,80
@@ -181,10 +181,10 @@ Ringgold,Mount Ayr 2,County Hospital Trustee,,Write-In,,3,1,2
 Ringgold,Tingley,County Hospital Trustee,,Write-In,,1,0,1
 Ringgold,Union Precinct,County Hospital Trustee,,Write-In,,5,1,4
 Ringgold,Washington Precinct,County Hospital Trustee,,Write-In,,1,1,0
-Ringgold,Athens Precinct,County Hospital Trustee To Fill a Vacancy,,Clinton L. Spurrier,,180,54,126
+Ringgold,Athens Precinct,County Hospital Trustee To Fill a Vacancy,,Clinton L. Spurrier,,181,55,126
 Ringgold,Clinton,County Hospital Trustee To Fill a Vacancy,,Clinton L. Spurrier,,130,55,75
-Ringgold,Mount Ayr,County Hospital Trustee To Fill a Vacancy,,Clinton L. Spurrier,,412,182,230
-Ringgold,Mount Ayr 2,County Hospital Trustee To Fill a Vacancy,,Clinton L. Spurrier,,436,224,212
+Ringgold,Mount Ayr,County Hospital Trustee To Fill a Vacancy,,Clinton L. Spurrier,,411,182,229
+Ringgold,Mount Ayr 2,County Hospital Trustee To Fill a Vacancy,,Clinton L. Spurrier,,437,225,212
 Ringgold,Tingley,County Hospital Trustee To Fill a Vacancy,,Clinton L. Spurrier,,102,21,81
 Ringgold,Union Precinct,County Hospital Trustee To Fill a Vacancy,,Clinton L. Spurrier,,174,61,113
 Ringgold,Washington Precinct,County Hospital Trustee To Fill a Vacancy,,Clinton L. Spurrier,,317,80,237
@@ -195,10 +195,10 @@ Ringgold,Mount Ayr 2,County Hospital Trustee To Fill a Vacancy,,Write-In,,5,3,2
 Ringgold,Tingley,County Hospital Trustee To Fill a Vacancy,,Write-In,,2,1,1
 Ringgold,Union Precinct,County Hospital Trustee To Fill a Vacancy,,Write-In,,1,0,1
 Ringgold,Washington Precinct,County Hospital Trustee To Fill a Vacancy,,Write-In,,4,1,3
-Ringgold,Athens Precinct,County Recorder,,Kisha Martin,REP,220,69,151
+Ringgold,Athens Precinct,County Recorder,,Kisha Martin,REP,221,70,151
 Ringgold,Clinton,County Recorder,,Kisha Martin,REP,148,58,90
 Ringgold,Mount Ayr,County Recorder,,Kisha Martin,REP,444,197,247
-Ringgold,Mount Ayr 2,County Recorder,,Kisha Martin,REP,477,238,239
+Ringgold,Mount Ayr 2,County Recorder,,Kisha Martin,REP,478,239,239
 Ringgold,Tingley,County Recorder,,Kisha Martin,REP,126,29,97
 Ringgold,Union Precinct,County Recorder,,Kisha Martin,REP,205,69,136
 Ringgold,Washington Precinct,County Recorder,,Kisha Martin,REP,350,90,260
@@ -209,10 +209,10 @@ Ringgold,Mount Ayr 2,County Recorder,,Write-In,,7,2,5
 Ringgold,Tingley,County Recorder,,Write-In,,0,0,0
 Ringgold,Union Precinct,County Recorder,,Write-In,,0,0,0
 Ringgold,Washington Precinct,County Recorder,,Write-In,,1,0,1
-Ringgold,Athens Precinct,County Treasurer,,Debra A. Cannon,REP,222,72,150
+Ringgold,Athens Precinct,County Treasurer,,Debra A. Cannon,REP,223,73,150
 Ringgold,Clinton,County Treasurer,,Debra A. Cannon,REP,152,61,91
 Ringgold,Mount Ayr,County Treasurer,,Debra A. Cannon,REP,454,201,253
-Ringgold,Mount Ayr 2,County Treasurer,,Debra A. Cannon,REP,490,246,244
+Ringgold,Mount Ayr 2,County Treasurer,,Debra A. Cannon,REP,491,247,244
 Ringgold,Tingley,County Treasurer,,Debra A. Cannon,REP,127,30,97
 Ringgold,Union Precinct,County Treasurer,,Debra A. Cannon,REP,206,68,138
 Ringgold,Washington Precinct,County Treasurer,,Debra A. Cannon,REP,354,90,264
@@ -223,23 +223,23 @@ Ringgold,Mount Ayr 2,County Treasurer,,Write-In,,4,1,3
 Ringgold,Tingley,County Treasurer,,Write-In,,0,0,0
 Ringgold,Union Precinct,County Treasurer,,Write-In,,0,0,0
 Ringgold,Washington Precinct,County Treasurer,,Write-In,,0,0,0
-Ringgold,Athens Precinct,Court of Appeals Judge - John M. Sandy,,No,,56,14,42
+Ringgold,Athens Precinct,Court of Appeals Judge - John M. Sandy,,No,,57,15,42
 Ringgold,Clinton,Court of Appeals Judge - John M. Sandy,,No,,33,14,19
-Ringgold,Mount Ayr,Court of Appeals Judge - John M. Sandy,,No,,127,45,82
+Ringgold,Mount Ayr,Court of Appeals Judge - John M. Sandy,,No,,127,46,81
 Ringgold,Mount Ayr 2,Court of Appeals Judge - John M. Sandy,,No,,108,49,59
 Ringgold,Tingley,Court of Appeals Judge - John M. Sandy,,No,,36,8,28
 Ringgold,Union Precinct,Court of Appeals Judge - John M. Sandy,,No,,31,13,18
 Ringgold,Washington Precinct,Court of Appeals Judge - John M. Sandy,,No,,95,19,76
 Ringgold,Athens Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,129,44,85
 Ringgold,Clinton,Court of Appeals Judge - John M. Sandy,,Yes,,81,32,49
-Ringgold,Mount Ayr,Court of Appeals Judge - John M. Sandy,,Yes,,240,112,128
-Ringgold,Mount Ayr 2,Court of Appeals Judge - John M. Sandy,,Yes,,277,142,135
+Ringgold,Mount Ayr,Court of Appeals Judge - John M. Sandy,,Yes,,241,112,129
+Ringgold,Mount Ayr 2,Court of Appeals Judge - John M. Sandy,,Yes,,278,143,135
 Ringgold,Tingley,Court of Appeals Judge - John M. Sandy,,Yes,,59,13,46
 Ringgold,Union Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,134,50,84
 Ringgold,Washington Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,186,53,133
-Ringgold,Athens Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,57,16,41
+Ringgold,Athens Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,58,17,41
 Ringgold,Clinton,Court of Appeals Judge - Julie A. Schumacher,,No,,33,14,19
-Ringgold,Mount Ayr,Court of Appeals Judge - Julie A. Schumacher,,No,,123,43,80
+Ringgold,Mount Ayr,Court of Appeals Judge - Julie A. Schumacher,,No,,124,44,80
 Ringgold,Mount Ayr 2,Court of Appeals Judge - Julie A. Schumacher,,No,,103,51,52
 Ringgold,Tingley,Court of Appeals Judge - Julie A. Schumacher,,No,,38,6,32
 Ringgold,Union Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,31,13,18
@@ -247,27 +247,27 @@ Ringgold,Washington Precinct,Court of Appeals Judge - Julie A. Schumacher,,No,,9
 Ringgold,Athens Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,129,42,87
 Ringgold,Clinton,Court of Appeals Judge - Julie A. Schumacher,,Yes,,81,31,50
 Ringgold,Mount Ayr,Court of Appeals Judge - Julie A. Schumacher,,Yes,,248,116,132
-Ringgold,Mount Ayr 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,282,142,140
+Ringgold,Mount Ayr 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,283,143,140
 Ringgold,Tingley,Court of Appeals Judge - Julie A. Schumacher,,Yes,,60,17,43
 Ringgold,Union Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,133,50,83
 Ringgold,Washington Precinct,Court of Appeals Judge - Julie A. Schumacher,,Yes,,185,51,134
-Ringgold,Athens Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,59,16,43
+Ringgold,Athens Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,60,17,43
 Ringgold,Clinton,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,34,15,19
-Ringgold,Mount Ayr,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,130,44,86
+Ringgold,Mount Ayr,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,130,45,85
 Ringgold,Mount Ayr 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,110,53,57
 Ringgold,Tingley,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,41,8,33
 Ringgold,Union Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,34,12,22
 Ringgold,Washington Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,97,22,75
 Ringgold,Athens Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,130,43,87
 Ringgold,Clinton,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,83,32,51
-Ringgold,Mount Ayr,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,244,119,125
-Ringgold,Mount Ayr 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,282,145,137
+Ringgold,Mount Ayr,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,245,119,126
+Ringgold,Mount Ayr 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,283,146,137
 Ringgold,Tingley,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,58,15,43
 Ringgold,Union Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,130,51,79
 Ringgold,Washington Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,184,51,133
-Ringgold,Athens Precinct,District 5B Associate Judge - Andrew Zimmerman,,No,,54,15,39
+Ringgold,Athens Precinct,District 5B Associate Judge - Andrew Zimmerman,,No,,55,16,39
 Ringgold,Clinton,District 5B Associate Judge - Andrew Zimmerman,,No,,29,14,15
-Ringgold,Mount Ayr,District 5B Associate Judge - Andrew Zimmerman,,No,,110,39,71
+Ringgold,Mount Ayr,District 5B Associate Judge - Andrew Zimmerman,,No,,111,40,71
 Ringgold,Mount Ayr 2,District 5B Associate Judge - Andrew Zimmerman,,No,,98,49,49
 Ringgold,Tingley,District 5B Associate Judge - Andrew Zimmerman,,No,,36,8,28
 Ringgold,Union Precinct,District 5B Associate Judge - Andrew Zimmerman,,No,,32,13,19
@@ -275,27 +275,27 @@ Ringgold,Washington Precinct,District 5B Associate Judge - Andrew Zimmerman,,No,
 Ringgold,Athens Precinct,District 5B Associate Judge - Andrew Zimmerman,,Yes,,137,45,92
 Ringgold,Clinton,District 5B Associate Judge - Andrew Zimmerman,,Yes,,92,34,58
 Ringgold,Mount Ayr,District 5B Associate Judge - Andrew Zimmerman,,Yes,,268,127,141
-Ringgold,Mount Ayr 2,District 5B Associate Judge - Andrew Zimmerman,,Yes,,290,147,143
+Ringgold,Mount Ayr 2,District 5B Associate Judge - Andrew Zimmerman,,Yes,,291,148,143
 Ringgold,Tingley,District 5B Associate Judge - Andrew Zimmerman,,Yes,,65,17,48
 Ringgold,Union Precinct,District 5B Associate Judge - Andrew Zimmerman,,Yes,,133,50,83
 Ringgold,Washington Precinct,District 5B Associate Judge - Andrew Zimmerman,,Yes,,201,58,143
-Ringgold,Athens Precinct,District 5B Judge - Elisabeth S. Reynoldson,,No,,58,15,43
+Ringgold,Athens Precinct,District 5B Judge - Elisabeth S. Reynoldson,,No,,59,16,43
 Ringgold,Clinton,District 5B Judge - Elisabeth S. Reynoldson,,No,,32,18,14
-Ringgold,Mount Ayr,District 5B Judge - Elisabeth S. Reynoldson,,No,,106,36,70
+Ringgold,Mount Ayr,District 5B Judge - Elisabeth S. Reynoldson,,No,,106,37,69
 Ringgold,Mount Ayr 2,District 5B Judge - Elisabeth S. Reynoldson,,No,,105,56,49
 Ringgold,Tingley,District 5B Judge - Elisabeth S. Reynoldson,,No,,31,5,26
 Ringgold,Union Precinct,District 5B Judge - Elisabeth S. Reynoldson,,No,,38,13,25
 Ringgold,Washington Precinct,District 5B Judge - Elisabeth S. Reynoldson,,No,,96,18,78
 Ringgold,Athens Precinct,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,133,45,88
 Ringgold,Clinton,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,85,30,55
-Ringgold,Mount Ayr,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,268,127,141
-Ringgold,Mount Ayr 2,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,289,145,144
+Ringgold,Mount Ayr,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,269,127,142
+Ringgold,Mount Ayr 2,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,290,146,144
 Ringgold,Tingley,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,69,18,51
 Ringgold,Union Precinct,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,133,52,81
 Ringgold,Washington Precinct,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,186,54,132
 Ringgold,Athens Precinct,Governor,,Rob Sand and Dave Muhlbauer,DEM,72,32,40
 Ringgold,Clinton,Governor,,Rob Sand and Dave Muhlbauer,DEM,69,31,38
-Ringgold,Mount Ayr,Governor,,Rob Sand and Dave Muhlbauer,DEM,207,122,85
+Ringgold,Mount Ayr,Governor,,Rob Sand and Dave Muhlbauer,DEM,209,123,86
 Ringgold,Mount Ayr 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,214,135,79
 Ringgold,Tingley,Governor,,Rob Sand and Dave Muhlbauer,DEM,23,9,14
 Ringgold,Union Precinct,Governor,,Rob Sand and Dave Muhlbauer,DEM,105,57,48
@@ -307,10 +307,10 @@ Ringgold,Mount Ayr 2,Governor,,Write-In,,1,0,1
 Ringgold,Tingley,Governor,,Write-In,,0,0,0
 Ringgold,Union Precinct,Governor,,Write-In,,0,0,0
 Ringgold,Washington Precinct,Governor,,Write-In,,1,0,1
-Ringgold,Athens Precinct,Governor,,Zach Lahn and Derek Wulf,REP,161,45,116
+Ringgold,Athens Precinct,Governor,,Zach Lahn and Derek Wulf,REP,162,46,116
 Ringgold,Clinton,Governor,,Zach Lahn and Derek Wulf,REP,92,34,58
-Ringgold,Mount Ayr,Governor,,Zach Lahn and Derek Wulf,REP,276,95,181
-Ringgold,Mount Ayr 2,Governor,,Zach Lahn and Derek Wulf,REP,309,135,174
+Ringgold,Mount Ayr,Governor,,Zach Lahn and Derek Wulf,REP,276,96,180
+Ringgold,Mount Ayr 2,Governor,,Zach Lahn and Derek Wulf,REP,310,136,174
 Ringgold,Tingley,Governor,,Zach Lahn and Derek Wulf,REP,109,23,86
 Ringgold,Union Precinct,Governor,,Zach Lahn and Derek Wulf,REP,127,28,99
 Ringgold,Washington Precinct,Governor,,Zach Lahn and Derek Wulf,REP,255,62,193
@@ -326,15 +326,15 @@ Ringgold,Mount Ayr,Lotts Creek Township Trustee,,Danny Karr,,42,18,24
 Ringgold,Mount Ayr,Lotts Creek Township Trustee,,Write-In,,0,0,0
 Ringgold,Athens Precinct,Secretary of Agriculture,,Chris Jones,DEM,45,22,23
 Ringgold,Clinton,Secretary of Agriculture,,Chris Jones,DEM,43,21,22
-Ringgold,Mount Ayr,Secretary of Agriculture,,Chris Jones,DEM,129,85,44
+Ringgold,Mount Ayr,Secretary of Agriculture,,Chris Jones,DEM,131,86,45
 Ringgold,Mount Ayr 2,Secretary of Agriculture,,Chris Jones,DEM,158,103,55
 Ringgold,Tingley,Secretary of Agriculture,,Chris Jones,DEM,12,5,7
 Ringgold,Union Precinct,Secretary of Agriculture,,Chris Jones,DEM,71,41,30
 Ringgold,Washington Precinct,Secretary of Agriculture,,Chris Jones,DEM,58,16,42
-Ringgold,Athens Precinct,Secretary of Agriculture,,Mike Naig,REP,186,53,133
+Ringgold,Athens Precinct,Secretary of Agriculture,,Mike Naig,REP,187,54,133
 Ringgold,Clinton,Secretary of Agriculture,,Mike Naig,REP,115,43,72
-Ringgold,Mount Ayr,Secretary of Agriculture,,Mike Naig,REP,343,124,219
-Ringgold,Mount Ayr 2,Secretary of Agriculture,,Mike Naig,REP,357,164,193
+Ringgold,Mount Ayr,Secretary of Agriculture,,Mike Naig,REP,343,125,218
+Ringgold,Mount Ayr 2,Secretary of Agriculture,,Mike Naig,REP,358,165,193
 Ringgold,Tingley,Secretary of Agriculture,,Mike Naig,REP,120,27,93
 Ringgold,Union Precinct,Secretary of Agriculture,,Mike Naig,REP,158,45,113
 Ringgold,Washington Precinct,Secretary of Agriculture,,Mike Naig,REP,310,81,229
@@ -345,16 +345,16 @@ Ringgold,Mount Ayr 2,Secretary of Agriculture,,Write-In,,0,0,0
 Ringgold,Tingley,Secretary of Agriculture,,Write-In,,0,0,0
 Ringgold,Union Precinct,Secretary of Agriculture,,Write-In,,0,0,0
 Ringgold,Washington Precinct,Secretary of Agriculture,,Write-In,,0,0,0
-Ringgold,Athens Precinct,Secretary of State,,Paul D. Pate,REP,177,52,125
+Ringgold,Athens Precinct,Secretary of State,,Paul D. Pate,REP,178,53,125
 Ringgold,Clinton,Secretary of State,,Paul D. Pate,REP,121,44,77
-Ringgold,Mount Ayr,Secretary of State,,Paul D. Pate,REP,344,132,212
-Ringgold,Mount Ayr 2,Secretary of State,,Paul D. Pate,REP,363,164,199
+Ringgold,Mount Ayr,Secretary of State,,Paul D. Pate,REP,345,133,212
+Ringgold,Mount Ayr 2,Secretary of State,,Paul D. Pate,REP,364,165,199
 Ringgold,Tingley,Secretary of State,,Paul D. Pate,REP,118,26,92
 Ringgold,Union Precinct,Secretary of State,,Paul D. Pate,REP,159,45,114
 Ringgold,Washington Precinct,Secretary of State,,Paul D. Pate,REP,297,73,224
 Ringgold,Athens Precinct,Secretary of State,,Ryan Peterman,DEM,51,23,28
 Ringgold,Clinton,Secretary of State,,Ryan Peterman,DEM,40,22,18
-Ringgold,Mount Ayr,Secretary of State,,Ryan Peterman,DEM,131,79,52
+Ringgold,Mount Ayr,Secretary of State,,Ryan Peterman,DEM,132,80,52
 Ringgold,Mount Ayr 2,Secretary of State,,Ryan Peterman,DEM,151,103,48
 Ringgold,Tingley,Secretary of State,,Ryan Peterman,DEM,12,5,7
 Ringgold,Union Precinct,Secretary of State,,Ryan Peterman,DEM,73,41,32
@@ -366,17 +366,17 @@ Ringgold,Mount Ayr 2,Secretary of State,,Write-In,,0,0,0
 Ringgold,Tingley,Secretary of State,,Write-In,,0,0,0
 Ringgold,Union Precinct,Secretary of State,,Write-In,,0,0,0
 Ringgold,Washington Precinct,Secretary of State,,Write-In,,0,0,0
-Ringgold,Athens Precinct,Soil and Water Conservation District Commissioner,,Joyce Frost,,189,59,130
+Ringgold,Athens Precinct,Soil and Water Conservation District Commissioner,,Joyce Frost,,190,60,130
 Ringgold,Clinton,Soil and Water Conservation District Commissioner,,Joyce Frost,,114,50,64
-Ringgold,Mount Ayr,Soil and Water Conservation District Commissioner,,Joyce Frost,,382,172,210
+Ringgold,Mount Ayr,Soil and Water Conservation District Commissioner,,Joyce Frost,,381,172,209
 Ringgold,Mount Ayr 2,Soil and Water Conservation District Commissioner,,Joyce Frost,,398,198,200
 Ringgold,Tingley,Soil and Water Conservation District Commissioner,,Joyce Frost,,117,27,90
 Ringgold,Union Precinct,Soil and Water Conservation District Commissioner,,Joyce Frost,,169,62,107
 Ringgold,Washington Precinct,Soil and Water Conservation District Commissioner,,Joyce Frost,,314,78,236
-Ringgold,Athens Precinct,Soil and Water Conservation District Commissioner,,Vickie Jeanes,,154,50,104
+Ringgold,Athens Precinct,Soil and Water Conservation District Commissioner,,Vickie Jeanes,,155,51,104
 Ringgold,Clinton,Soil and Water Conservation District Commissioner,,Vickie Jeanes,,119,46,73
 Ringgold,Mount Ayr,Soil and Water Conservation District Commissioner,,Vickie Jeanes,,333,156,177
-Ringgold,Mount Ayr 2,Soil and Water Conservation District Commissioner,,Vickie Jeanes,,332,176,156
+Ringgold,Mount Ayr 2,Soil and Water Conservation District Commissioner,,Vickie Jeanes,,333,177,156
 Ringgold,Tingley,Soil and Water Conservation District Commissioner,,Vickie Jeanes,,90,20,70
 Ringgold,Union Precinct,Soil and Water Conservation District Commissioner,,Vickie Jeanes,,148,55,93
 Ringgold,Washington Precinct,Soil and Water Conservation District Commissioner,,Vickie Jeanes,,235,65,170
@@ -387,10 +387,10 @@ Ringgold,Mount Ayr 2,Soil and Water Conservation District Commissioner,,Write-In
 Ringgold,Tingley,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
 Ringgold,Union Precinct,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
 Ringgold,Washington Precinct,Soil and Water Conservation District Commissioner,,Write-In,,4,2,2
-Ringgold,Athens Precinct,State House,17,Devon Wood,REP,199,61,138
+Ringgold,Athens Precinct,State House,17,Devon Wood,REP,200,62,138
 Ringgold,Clinton,State House,17,Devon Wood,REP,133,53,80
 Ringgold,Mount Ayr,State House,17,Devon Wood,REP,390,150,240
-Ringgold,Mount Ayr 2,State House,17,Devon Wood,REP,435,208,227
+Ringgold,Mount Ayr 2,State House,17,Devon Wood,REP,436,209,227
 Ringgold,Tingley,State House,17,Devon Wood,REP,125,29,96
 Ringgold,Union Precinct,State House,17,Devon Wood,REP,188,64,124
 Ringgold,Washington Precinct,State House,17,Devon Wood,REP,331,80,251
@@ -403,15 +403,15 @@ Ringgold,Union Precinct,State House,17,Write-In,,1,1,0
 Ringgold,Washington Precinct,State House,17,Write-In,,1,0,1
 Ringgold,Athens Precinct,State Senate,9,James Uhlenkamp,DEM,72,30,42
 Ringgold,Clinton,State Senate,9,James Uhlenkamp,DEM,63,31,32
-Ringgold,Mount Ayr,State Senate,9,James Uhlenkamp,DEM,217,125,92
+Ringgold,Mount Ayr,State Senate,9,James Uhlenkamp,DEM,217,126,91
 Ringgold,Mount Ayr 2,State Senate,9,James Uhlenkamp,DEM,226,131,95
 Ringgold,Tingley,State Senate,9,James Uhlenkamp,DEM,31,9,22
 Ringgold,Union Precinct,State Senate,9,James Uhlenkamp,DEM,89,49,40
 Ringgold,Washington Precinct,State Senate,9,James Uhlenkamp,DEM,114,35,79
-Ringgold,Athens Precinct,State Senate,9,Steve Baier,REP,158,46,112
+Ringgold,Athens Precinct,State Senate,9,Steve Baier,REP,159,47,112
 Ringgold,Clinton,State Senate,9,Steve Baier,REP,99,35,64
-Ringgold,Mount Ayr,State Senate,9,Steve Baier,REP,263,89,174
-Ringgold,Mount Ayr 2,State Senate,9,Steve Baier,REP,296,138,158
+Ringgold,Mount Ayr,State Senate,9,Steve Baier,REP,265,90,175
+Ringgold,Mount Ayr 2,State Senate,9,Steve Baier,REP,297,139,158
 Ringgold,Tingley,State Senate,9,Steve Baier,REP,100,23,77
 Ringgold,Union Precinct,State Senate,9,Steve Baier,REP,139,35,104
 Ringgold,Washington Precinct,State Senate,9,Steve Baier,REP,249,59,190
@@ -426,15 +426,15 @@ Ringgold,Union Precinct,Sun Valley Rural Improvement Zone Director,,Michael Chap
 Ringgold,Union Precinct,Sun Valley Rural Improvement Zone Director,,Write-In,,3,2,1
 Ringgold,Athens Precinct,Treasurer of State,,John Norwood,DEM,55,25,30
 Ringgold,Clinton,Treasurer of State,,John Norwood,DEM,56,31,25
-Ringgold,Mount Ayr,Treasurer of State,,John Norwood,DEM,157,98,59
+Ringgold,Mount Ayr,Treasurer of State,,John Norwood,DEM,158,99,59
 Ringgold,Mount Ayr 2,Treasurer of State,,John Norwood,DEM,178,114,64
 Ringgold,Tingley,Treasurer of State,,John Norwood,DEM,19,8,11
 Ringgold,Union Precinct,Treasurer of State,,John Norwood,DEM,82,46,36
 Ringgold,Washington Precinct,Treasurer of State,,John Norwood,DEM,86,24,62
-Ringgold,Athens Precinct,Treasurer of State,,Roby Smith,REP,173,50,123
+Ringgold,Athens Precinct,Treasurer of State,,Roby Smith,REP,174,51,123
 Ringgold,Clinton,Treasurer of State,,Roby Smith,REP,101,34,67
-Ringgold,Mount Ayr,Treasurer of State,,Roby Smith,REP,315,112,203
-Ringgold,Mount Ayr 2,Treasurer of State,,Roby Smith,REP,322,145,177
+Ringgold,Mount Ayr,Treasurer of State,,Roby Smith,REP,316,113,203
+Ringgold,Mount Ayr 2,Treasurer of State,,Roby Smith,REP,323,146,177
 Ringgold,Tingley,Treasurer of State,,Roby Smith,REP,109,23,86
 Ringgold,Union Precinct,Treasurer of State,,Roby Smith,REP,144,38,106
 Ringgold,Washington Precinct,Treasurer of State,,Roby Smith,REP,269,69,200
@@ -447,7 +447,7 @@ Ringgold,Union Precinct,Treasurer of State,,Write-In,,0,0,0
 Ringgold,Washington Precinct,Treasurer of State,,Write-In,,0,0,0
 Ringgold,Athens Precinct,U.S. House,3,Sarah Trone Garriott,DEM,45,24,21
 Ringgold,Clinton,U.S. House,3,Sarah Trone Garriott,DEM,53,27,26
-Ringgold,Mount Ayr,U.S. House,3,Sarah Trone Garriott,DEM,151,92,59
+Ringgold,Mount Ayr,U.S. House,3,Sarah Trone Garriott,DEM,152,93,59
 Ringgold,Mount Ayr 2,U.S. House,3,Sarah Trone Garriott,DEM,164,112,52
 Ringgold,Tingley,U.S. House,3,Sarah Trone Garriott,DEM,15,5,10
 Ringgold,Union Precinct,U.S. House,3,Sarah Trone Garriott,DEM,81,44,37
@@ -459,23 +459,23 @@ Ringgold,Mount Ayr 2,U.S. House,3,Write-In,,0,0,0
 Ringgold,Tingley,U.S. House,3,Write-In,,1,0,1
 Ringgold,Union Precinct,U.S. House,3,Write-In,,0,0,0
 Ringgold,Washington Precinct,U.S. House,3,Write-In,,1,0,1
-Ringgold,Athens Precinct,U.S. House,3,Zach Nunn,REP,181,52,129
+Ringgold,Athens Precinct,U.S. House,3,Zach Nunn,REP,182,53,129
 Ringgold,Clinton,U.S. House,3,Zach Nunn,REP,105,39,66
-Ringgold,Mount Ayr,U.S. House,3,Zach Nunn,REP,322,116,206
-Ringgold,Mount Ayr 2,U.S. House,3,Zach Nunn,REP,350,151,199
+Ringgold,Mount Ayr,U.S. House,3,Zach Nunn,REP,323,117,206
+Ringgold,Mount Ayr 2,U.S. House,3,Zach Nunn,REP,351,152,199
 Ringgold,Tingley,U.S. House,3,Zach Nunn,REP,115,27,88
 Ringgold,Union Precinct,U.S. House,3,Zach Nunn,REP,148,41,107
 Ringgold,Washington Precinct,U.S. House,3,Zach Nunn,REP,298,77,221
-Ringgold,Athens Precinct,U.S. Senate,,Ashley Hinson,REP,157,44,113
+Ringgold,Athens Precinct,U.S. Senate,,Ashley Hinson,REP,158,45,113
 Ringgold,Clinton,U.S. Senate,,Ashley Hinson,REP,98,35,63
-Ringgold,Mount Ayr,U.S. Senate,,Ashley Hinson,REP,287,103,184
-Ringgold,Mount Ayr 2,U.S. Senate,,Ashley Hinson,REP,308,136,172
+Ringgold,Mount Ayr,U.S. Senate,,Ashley Hinson,REP,288,104,184
+Ringgold,Mount Ayr 2,U.S. Senate,,Ashley Hinson,REP,309,137,172
 Ringgold,Tingley,U.S. Senate,,Ashley Hinson,REP,108,25,83
 Ringgold,Union Precinct,U.S. Senate,,Ashley Hinson,REP,139,35,104
 Ringgold,Washington Precinct,U.S. Senate,,Ashley Hinson,REP,253,62,191
 Ringgold,Athens Precinct,U.S. Senate,,Josh Turek,DEM,64,28,36
 Ringgold,Clinton,U.S. Senate,,Josh Turek,DEM,57,28,29
-Ringgold,Mount Ayr,U.S. Senate,,Josh Turek,DEM,174,102,72
+Ringgold,Mount Ayr,U.S. Senate,,Josh Turek,DEM,175,103,72
 Ringgold,Mount Ayr 2,U.S. Senate,,Josh Turek,DEM,186,117,69
 Ringgold,Tingley,U.S. Senate,,Josh Turek,DEM,17,6,11
 Ringgold,Union Precinct,U.S. Senate,,Josh Turek,DEM,84,46,38

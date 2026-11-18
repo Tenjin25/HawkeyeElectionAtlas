@@ -1,14 +1,14 @@
 county,precinct,office,district,candidate,party,votes,absentee,election_day
 Guthrie,BAYARD,Attorney General,,Brenna Bird,REP,267,52,215
 Guthrie,CASEY,Attorney General,,Brenna Bird,REP,407,116,291
-Guthrie,GUTHRIE CENTER,Attorney General,,Brenna Bird,REP,583,184,399
+Guthrie,GUTHRIE CENTER,Attorney General,,Brenna Bird,REP,584,185,399
 Guthrie,PANORA,Attorney General,,Brenna Bird,REP,727,294,433
 Guthrie,STUART,Attorney General,,Brenna Bird,REP,617,97,520
 Guthrie,YALE,Attorney General,,Brenna Bird,REP,718,255,463
 Guthrie,BAYARD,Attorney General,,Nate Willems,DEM,94,28,66
-Guthrie,CASEY,Attorney General,,Nate Willems,DEM,187,81,106
+Guthrie,CASEY,Attorney General,,Nate Willems,DEM,188,82,106
 Guthrie,GUTHRIE CENTER,Attorney General,,Nate Willems,DEM,398,203,195
-Guthrie,PANORA,Attorney General,,Nate Willems,DEM,410,220,190
+Guthrie,PANORA,Attorney General,,Nate Willems,DEM,411,221,190
 Guthrie,STUART,Attorney General,,Nate Willems,DEM,385,81,304
 Guthrie,YALE,Attorney General,,Nate Willems,DEM,393,194,199
 Guthrie,BAYARD,Attorney General,,Write-In,,0,0,0
@@ -19,14 +19,14 @@ Guthrie,STUART,Attorney General,,Write-In,,1,0,1
 Guthrie,YALE,Attorney General,,Write-In,,2,0,2
 Guthrie,BAYARD,Auditor of State,,Chris Cournoyer,REP,281,58,223
 Guthrie,CASEY,Auditor of State,,Chris Cournoyer,REP,414,118,296
-Guthrie,GUTHRIE CENTER,Auditor of State,,Chris Cournoyer,REP,601,192,409
+Guthrie,GUTHRIE CENTER,Auditor of State,,Chris Cournoyer,REP,602,193,409
 Guthrie,PANORA,Auditor of State,,Chris Cournoyer,REP,754,307,447
 Guthrie,STUART,Auditor of State,,Chris Cournoyer,REP,591,97,494
 Guthrie,YALE,Auditor of State,,Chris Cournoyer,REP,720,261,459
 Guthrie,BAYARD,Auditor of State,,Taylor Wettach,DEM,80,24,56
-Guthrie,CASEY,Auditor of State,,Taylor Wettach,DEM,173,79,94
+Guthrie,CASEY,Auditor of State,,Taylor Wettach,DEM,174,80,94
 Guthrie,GUTHRIE CENTER,Auditor of State,,Taylor Wettach,DEM,375,194,181
-Guthrie,PANORA,Auditor of State,,Taylor Wettach,DEM,373,202,171
+Guthrie,PANORA,Auditor of State,,Taylor Wettach,DEM,374,203,171
 Guthrie,STUART,Auditor of State,,Taylor Wettach,DEM,394,84,310
 Guthrie,YALE,Auditor of State,,Taylor Wettach,DEM,373,184,189
 Guthrie,BAYARD,Auditor of State,,Write-In,,0,0,0
@@ -55,7 +55,7 @@ Guthrie,CASEY,Beaver Township Trustee,,Write-In,,0,0,0
 Guthrie,STUART,Beaver Township Trustee,,Write-In,,0,0,0
 Guthrie,BAYARD,Constitutional Amendment 1,,No,,131,31,100
 Guthrie,CASEY,Constitutional Amendment 1,,No,,164,58,106
-Guthrie,GUTHRIE CENTER,Constitutional Amendment 1,,No,,312,141,171
+Guthrie,GUTHRIE CENTER,Constitutional Amendment 1,,No,,313,142,171
 Guthrie,PANORA,Constitutional Amendment 1,,No,,332,173,159
 Guthrie,STUART,Constitutional Amendment 1,,No,,319,51,268
 Guthrie,YALE,Constitutional Amendment 1,,No,,329,131,198
@@ -66,33 +66,33 @@ Guthrie,PANORA,Constitutional Amendment 1,,Yes,,717,292,425
 Guthrie,STUART,Constitutional Amendment 1,,Yes,,612,117,495
 Guthrie,YALE,Constitutional Amendment 1,,Yes,,701,283,418
 Guthrie,BAYARD,County Agricultural Extension Council Member,,Abigail Frels,,238,49,189
-Guthrie,CASEY,County Agricultural Extension Council Member,,Abigail Frels,,421,148,273
+Guthrie,CASEY,County Agricultural Extension Council Member,,Abigail Frels,,422,149,273
 Guthrie,GUTHRIE CENTER,County Agricultural Extension Council Member,,Abigail Frels,,690,254,436
-Guthrie,PANORA,County Agricultural Extension Council Member,,Abigail Frels,,700,330,370
+Guthrie,PANORA,County Agricultural Extension Council Member,,Abigail Frels,,701,331,370
 Guthrie,STUART,County Agricultural Extension Council Member,,Abigail Frels,,533,113,420
 Guthrie,YALE,County Agricultural Extension Council Member,,Abigail Frels,,700,292,408
 Guthrie,BAYARD,County Agricultural Extension Council Member,,Carrie Dideriksen,,201,43,158
-Guthrie,CASEY,County Agricultural Extension Council Member,,Carrie Dideriksen,,378,132,246
+Guthrie,CASEY,County Agricultural Extension Council Member,,Carrie Dideriksen,,379,133,246
 Guthrie,GUTHRIE CENTER,County Agricultural Extension Council Member,,Carrie Dideriksen,,596,223,373
-Guthrie,PANORA,County Agricultural Extension Council Member,,Carrie Dideriksen,,672,321,351
+Guthrie,PANORA,County Agricultural Extension Council Member,,Carrie Dideriksen,,673,322,351
 Guthrie,STUART,County Agricultural Extension Council Member,,Carrie Dideriksen,,533,111,422
 Guthrie,YALE,County Agricultural Extension Council Member,,Carrie Dideriksen,,631,266,365
 Guthrie,BAYARD,County Agricultural Extension Council Member,,Rachel Downing,,223,48,175
-Guthrie,CASEY,County Agricultural Extension Council Member,,Rachel Downing,,404,134,270
+Guthrie,CASEY,County Agricultural Extension Council Member,,Rachel Downing,,405,135,270
 Guthrie,GUTHRIE CENTER,County Agricultural Extension Council Member,,Rachel Downing,,666,257,409
-Guthrie,PANORA,County Agricultural Extension Council Member,,Rachel Downing,,758,350,408
+Guthrie,PANORA,County Agricultural Extension Council Member,,Rachel Downing,,759,351,408
 Guthrie,STUART,County Agricultural Extension Council Member,,Rachel Downing,,566,112,454
 Guthrie,YALE,County Agricultural Extension Council Member,,Rachel Downing,,729,288,441
 Guthrie,BAYARD,County Agricultural Extension Council Member,,Rylee Jacobe,,212,47,165
-Guthrie,CASEY,County Agricultural Extension Council Member,,Rylee Jacobe,,408,133,275
+Guthrie,CASEY,County Agricultural Extension Council Member,,Rylee Jacobe,,409,134,275
 Guthrie,GUTHRIE CENTER,County Agricultural Extension Council Member,,Rylee Jacobe,,625,233,392
-Guthrie,PANORA,County Agricultural Extension Council Member,,Rylee Jacobe,,695,330,365
+Guthrie,PANORA,County Agricultural Extension Council Member,,Rylee Jacobe,,696,331,365
 Guthrie,STUART,County Agricultural Extension Council Member,,Rylee Jacobe,,541,112,429
 Guthrie,YALE,County Agricultural Extension Council Member,,Rylee Jacobe,,667,265,402
 Guthrie,BAYARD,County Agricultural Extension Council Member,,William Messinger,,222,43,179
-Guthrie,CASEY,County Agricultural Extension Council Member,,William Messinger,,424,146,278
+Guthrie,CASEY,County Agricultural Extension Council Member,,William Messinger,,425,147,278
 Guthrie,GUTHRIE CENTER,County Agricultural Extension Council Member,,William Messinger,,648,245,403
-Guthrie,PANORA,County Agricultural Extension Council Member,,William Messinger,,691,325,366
+Guthrie,PANORA,County Agricultural Extension Council Member,,William Messinger,,692,326,366
 Guthrie,STUART,County Agricultural Extension Council Member,,William Messinger,,610,120,490
 Guthrie,YALE,County Agricultural Extension Council Member,,William Messinger,,678,276,402
 Guthrie,BAYARD,County Agricultural Extension Council Member,,Write-In,,0,0,0
@@ -104,7 +104,7 @@ Guthrie,YALE,County Agricultural Extension Council Member,,Write-In,,14,4,10
 Guthrie,BAYARD,County Attorney,,Charles Abel,REP,320,63,257
 Guthrie,CASEY,County Attorney,,Charles Abel,REP,501,162,339
 Guthrie,GUTHRIE CENTER,County Attorney,,Charles Abel,REP,831,301,530
-Guthrie,PANORA,County Attorney,,Charles Abel,REP,971,423,548
+Guthrie,PANORA,County Attorney,,Charles Abel,REP,972,424,548
 Guthrie,STUART,County Attorney,,Charles Abel,REP,833,145,688
 Guthrie,YALE,County Attorney,,Charles Abel,REP,943,368,575
 Guthrie,BAYARD,County Attorney,,Write-In,,2,0,2
@@ -116,29 +116,29 @@ Guthrie,YALE,County Attorney,,Write-In,,13,2,11
 Guthrie,BAYARD,County Hospital Trustee,,Dana Tews,,232,46,186
 Guthrie,CASEY,County Hospital Trustee,,Dana Tews,,403,138,265
 Guthrie,GUTHRIE CENTER,County Hospital Trustee,,Dana Tews,,660,264,396
-Guthrie,PANORA,County Hospital Trustee,,Dana Tews,,742,334,408
+Guthrie,PANORA,County Hospital Trustee,,Dana Tews,,743,335,408
 Guthrie,STUART,County Hospital Trustee,,Dana Tews,,573,124,449
 Guthrie,YALE,County Hospital Trustee,,Dana Tews,,745,299,446
 Guthrie,BAYARD,County Hospital Trustee,,Doris Terwilliger,,250,57,193
-Guthrie,CASEY,County Hospital Trustee,,Doris Terwilliger,,433,155,278
+Guthrie,CASEY,County Hospital Trustee,,Doris Terwilliger,,434,156,278
 Guthrie,GUTHRIE CENTER,County Hospital Trustee,,Doris Terwilliger,,732,285,447
-Guthrie,PANORA,County Hospital Trustee,,Doris Terwilliger,,740,337,403
+Guthrie,PANORA,County Hospital Trustee,,Doris Terwilliger,,741,338,403
 Guthrie,STUART,County Hospital Trustee,,Doris Terwilliger,,596,127,469
 Guthrie,YALE,County Hospital Trustee,,Doris Terwilliger,,751,307,444
 Guthrie,BAYARD,County Hospital Trustee,,Michael Underwood,,232,48,184
-Guthrie,CASEY,County Hospital Trustee,,Michael Underwood,,432,143,289
+Guthrie,CASEY,County Hospital Trustee,,Michael Underwood,,433,144,289
 Guthrie,GUTHRIE CENTER,County Hospital Trustee,,Michael Underwood,,682,255,427
-Guthrie,PANORA,County Hospital Trustee,,Michael Underwood,,763,355,408
+Guthrie,PANORA,County Hospital Trustee,,Michael Underwood,,764,356,408
 Guthrie,STUART,County Hospital Trustee,,Michael Underwood,,600,124,476
 Guthrie,YALE,County Hospital Trustee,,Michael Underwood,,748,314,434
 Guthrie,BAYARD,County Hospital Trustee,,Sheyrl Clark,,272,59,213
-Guthrie,CASEY,County Hospital Trustee,,Sheyrl Clark,,456,153,303
+Guthrie,CASEY,County Hospital Trustee,,Sheyrl Clark,,457,154,303
 Guthrie,GUTHRIE CENTER,County Hospital Trustee,,Sheyrl Clark,,716,283,433
-Guthrie,PANORA,County Hospital Trustee,,Sheyrl Clark,,785,369,416
+Guthrie,PANORA,County Hospital Trustee,,Sheyrl Clark,,786,370,416
 Guthrie,STUART,County Hospital Trustee,,Sheyrl Clark,,628,135,493
 Guthrie,YALE,County Hospital Trustee,,Sheyrl Clark,,762,309,453
 Guthrie,BAYARD,County Hospital Trustee,,Write-In,,3,0,3
-Guthrie,CASEY,County Hospital Trustee,,Write-In,,4,1,3
+Guthrie,CASEY,County Hospital Trustee,,Write-In,,5,2,3
 Guthrie,GUTHRIE CENTER,County Hospital Trustee,,Write-In,,6,2,4
 Guthrie,PANORA,County Hospital Trustee,,Write-In,,23,11,12
 Guthrie,STUART,County Hospital Trustee,,Write-In,,14,1,13
@@ -146,7 +146,7 @@ Guthrie,YALE,County Hospital Trustee,,Write-In,,15,6,9
 Guthrie,BAYARD,County Recorder,,Tristen Richard,REP,324,67,257
 Guthrie,CASEY,County Recorder,,Tristen Richard,REP,518,165,353
 Guthrie,GUTHRIE CENTER,County Recorder,,Tristen Richard,REP,839,306,533
-Guthrie,PANORA,County Recorder,,Tristen Richard,REP,997,428,569
+Guthrie,PANORA,County Recorder,,Tristen Richard,REP,998,429,569
 Guthrie,STUART,County Recorder,,Tristen Richard,REP,824,146,678
 Guthrie,YALE,County Recorder,,Tristen Richard,REP,958,375,583
 Guthrie,BAYARD,County Recorder,,Write-In,,0,0,0
@@ -156,17 +156,17 @@ Guthrie,PANORA,County Recorder,,Write-In,,9,2,7
 Guthrie,STUART,County Recorder,,Write-In,,11,2,9
 Guthrie,YALE,County Recorder,,Write-In,,7,1,6
 Guthrie,BAYARD,County Supervisor,1,Phil Brown,REP,324,67,257
-Guthrie,CASEY,County Supervisor,1,Phil Brown,REP,509,158,351
+Guthrie,CASEY,County Supervisor,1,Phil Brown,REP,510,159,351
 Guthrie,BAYARD,County Supervisor,1,Write-In,,3,0,3
 Guthrie,CASEY,County Supervisor,1,Write-In,,13,1,12
-Guthrie,PANORA,County Supervisor,3,Maggie Armstrong,REP,985,423,562
+Guthrie,PANORA,County Supervisor,3,Maggie Armstrong,REP,986,424,562
 Guthrie,PANORA,County Supervisor,3,Write-In,,20,4,16
 Guthrie,GUTHRIE CENTER,County Supervisor,4,Steve Smith,REP,839,310,529
 Guthrie,GUTHRIE CENTER,County Supervisor,4,Write-In,,21,7,14
 Guthrie,BAYARD,County Treasurer,,Brenda Campbell,REP,324,68,256
-Guthrie,CASEY,County Treasurer,,Brenda Campbell,REP,528,168,360
+Guthrie,CASEY,County Treasurer,,Brenda Campbell,REP,529,169,360
 Guthrie,GUTHRIE CENTER,County Treasurer,,Brenda Campbell,REP,845,309,536
-Guthrie,PANORA,County Treasurer,,Brenda Campbell,REP,1002,436,566
+Guthrie,PANORA,County Treasurer,,Brenda Campbell,REP,1003,437,566
 Guthrie,STUART,County Treasurer,,Brenda Campbell,REP,835,147,688
 Guthrie,YALE,County Treasurer,,Brenda Campbell,REP,966,380,586
 Guthrie,BAYARD,County Treasurer,,Write-In,,1,0,1
@@ -184,7 +184,7 @@ Guthrie,YALE,Court of Appeals Judge - John M. Sandy,,No,,220,70,150
 Guthrie,BAYARD,Court of Appeals Judge - John M. Sandy,,Yes,,190,35,155
 Guthrie,CASEY,Court of Appeals Judge - John M. Sandy,,Yes,,305,100,205
 Guthrie,GUTHRIE CENTER,Court of Appeals Judge - John M. Sandy,,Yes,,491,185,306
-Guthrie,PANORA,Court of Appeals Judge - John M. Sandy,,Yes,,601,274,327
+Guthrie,PANORA,Court of Appeals Judge - John M. Sandy,,Yes,,602,275,327
 Guthrie,STUART,Court of Appeals Judge - John M. Sandy,,Yes,,542,94,448
 Guthrie,YALE,Court of Appeals Judge - John M. Sandy,,Yes,,611,248,363
 Guthrie,BAYARD,Court of Appeals Judge - Julie A. Schumacher,,No,,85,23,62
@@ -196,7 +196,7 @@ Guthrie,YALE,Court of Appeals Judge - Julie A. Schumacher,,No,,208,61,147
 Guthrie,BAYARD,Court of Appeals Judge - Julie A. Schumacher,,Yes,,197,38,159
 Guthrie,CASEY,Court of Appeals Judge - Julie A. Schumacher,,Yes,,308,103,205
 Guthrie,GUTHRIE CENTER,Court of Appeals Judge - Julie A. Schumacher,,Yes,,490,188,302
-Guthrie,PANORA,Court of Appeals Judge - Julie A. Schumacher,,Yes,,599,283,316
+Guthrie,PANORA,Court of Appeals Judge - Julie A. Schumacher,,Yes,,600,284,316
 Guthrie,STUART,Court of Appeals Judge - Julie A. Schumacher,,Yes,,538,92,446
 Guthrie,YALE,Court of Appeals Judge - Julie A. Schumacher,,Yes,,623,258,365
 Guthrie,BAYARD,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,97,23,74
@@ -208,10 +208,12 @@ Guthrie,YALE,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,220,68,152
 Guthrie,BAYARD,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,181,38,143
 Guthrie,CASEY,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,300,99,201
 Guthrie,GUTHRIE CENTER,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,477,181,296
-Guthrie,PANORA,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,579,273,306
+Guthrie,PANORA,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,580,274,306
 Guthrie,STUART,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,515,93,422
 Guthrie,YALE,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,604,248,356
-Guthrie,STUART,Diamondhead Sanitary District Trustee,,Write-In,,84,17,67
+Guthrie,STUART,Diamondhead Sanitary District Trustee,,Andrew Sawyer,,38,7,31
+Guthrie,STUART,Diamondhead Sanitary District Trustee,,Brian Weaver,,25,5,20
+Guthrie,STUART,Diamondhead Sanitary District Trustee,,Write-In,,21,5,16
 Guthrie,BAYARD,District 5A Associate Judge - Mark F. Schlenker,,No,,102,24,78
 Guthrie,CASEY,District 5A Associate Judge - Mark F. Schlenker,,No,,157,48,109
 Guthrie,GUTHRIE CENTER,District 5A Associate Judge - Mark F. Schlenker,,No,,293,115,178
@@ -221,7 +223,7 @@ Guthrie,YALE,District 5A Associate Judge - Mark F. Schlenker,,No,,227,76,151
 Guthrie,BAYARD,District 5A Associate Judge - Mark F. Schlenker,,Yes,,178,34,144
 Guthrie,CASEY,District 5A Associate Judge - Mark F. Schlenker,,Yes,,294,93,201
 Guthrie,GUTHRIE CENTER,District 5A Associate Judge - Mark F. Schlenker,,Yes,,468,175,293
-Guthrie,PANORA,District 5A Associate Judge - Mark F. Schlenker,,Yes,,572,258,314
+Guthrie,PANORA,District 5A Associate Judge - Mark F. Schlenker,,Yes,,573,259,314
 Guthrie,STUART,District 5A Associate Judge - Mark F. Schlenker,,Yes,,522,97,425
 Guthrie,YALE,District 5A Associate Judge - Mark F. Schlenker,,Yes,,590,239,351
 Guthrie,BAYARD,District 5A Associate Judge - Steven W. Guiter,,No,,99,23,76
@@ -233,7 +235,7 @@ Guthrie,YALE,District 5A Associate Judge - Steven W. Guiter,,No,,218,71,147
 Guthrie,BAYARD,District 5A Associate Judge - Steven W. Guiter,,Yes,,178,35,143
 Guthrie,CASEY,District 5A Associate Judge - Steven W. Guiter,,Yes,,300,95,205
 Guthrie,GUTHRIE CENTER,District 5A Associate Judge - Steven W. Guiter,,Yes,,478,185,293
-Guthrie,PANORA,District 5A Associate Judge - Steven W. Guiter,,Yes,,580,265,315
+Guthrie,PANORA,District 5A Associate Judge - Steven W. Guiter,,Yes,,581,266,315
 Guthrie,STUART,District 5A Associate Judge - Steven W. Guiter,,Yes,,528,94,434
 Guthrie,YALE,District 5A Associate Judge - Steven W. Guiter,,Yes,,596,243,353
 Guthrie,BAYARD,District 5A Judge - Michael K. Jacobsen,,No,,99,25,74
@@ -245,7 +247,7 @@ Guthrie,YALE,District 5A Judge - Michael K. Jacobsen,,No,,209,69,140
 Guthrie,BAYARD,District 5A Judge - Michael K. Jacobsen,,Yes,,179,33,146
 Guthrie,CASEY,District 5A Judge - Michael K. Jacobsen,,Yes,,310,102,208
 Guthrie,GUTHRIE CENTER,District 5A Judge - Michael K. Jacobsen,,Yes,,478,183,295
-Guthrie,PANORA,District 5A Judge - Michael K. Jacobsen,,Yes,,587,273,314
+Guthrie,PANORA,District 5A Judge - Michael K. Jacobsen,,Yes,,588,274,314
 Guthrie,STUART,District 5A Judge - Michael K. Jacobsen,,Yes,,531,99,432
 Guthrie,YALE,District 5A Judge - Michael K. Jacobsen,,Yes,,608,245,363
 Guthrie,BAYARD,District 5A Judge - Nicholas Bailey,,No,,89,23,66
@@ -257,7 +259,7 @@ Guthrie,YALE,District 5A Judge - Nicholas Bailey,,No,,197,60,137
 Guthrie,BAYARD,District 5A Judge - Nicholas Bailey,,Yes,,189,36,153
 Guthrie,CASEY,District 5A Judge - Nicholas Bailey,,Yes,,308,101,207
 Guthrie,GUTHRIE CENTER,District 5A Judge - Nicholas Bailey,,Yes,,500,192,308
-Guthrie,PANORA,District 5A Judge - Nicholas Bailey,,Yes,,602,279,323
+Guthrie,PANORA,District 5A Judge - Nicholas Bailey,,Yes,,603,280,323
 Guthrie,STUART,District 5A Judge - Nicholas Bailey,,Yes,,542,97,445
 Guthrie,YALE,District 5A Judge - Nicholas Bailey,,Yes,,624,257,367
 Guthrie,BAYARD,District 5A Judge - Thomas P. Murphy,,No,,95,26,69
@@ -269,13 +271,13 @@ Guthrie,YALE,District 5A Judge - Thomas P. Murphy,,No,,202,66,136
 Guthrie,BAYARD,District 5A Judge - Thomas P. Murphy,,Yes,,178,31,147
 Guthrie,CASEY,District 5A Judge - Thomas P. Murphy,,Yes,,311,98,213
 Guthrie,GUTHRIE CENTER,District 5A Judge - Thomas P. Murphy,,Yes,,489,184,305
-Guthrie,PANORA,District 5A Judge - Thomas P. Murphy,,Yes,,589,274,315
+Guthrie,PANORA,District 5A Judge - Thomas P. Murphy,,Yes,,590,275,315
 Guthrie,STUART,District 5A Judge - Thomas P. Murphy,,Yes,,532,97,435
 Guthrie,YALE,District 5A Judge - Thomas P. Murphy,,Yes,,615,248,367
 Guthrie,BAYARD,Governor,,Rob Sand and Dave Muhlbauer,DEM,125,41,84
-Guthrie,CASEY,Governor,,Rob Sand and Dave Muhlbauer,DEM,228,99,129
+Guthrie,CASEY,Governor,,Rob Sand and Dave Muhlbauer,DEM,229,100,129
 Guthrie,GUTHRIE CENTER,Governor,,Rob Sand and Dave Muhlbauer,DEM,463,235,228
-Guthrie,PANORA,Governor,,Rob Sand and Dave Muhlbauer,DEM,487,244,243
+Guthrie,PANORA,Governor,,Rob Sand and Dave Muhlbauer,DEM,488,245,243
 Guthrie,STUART,Governor,,Rob Sand and Dave Muhlbauer,DEM,509,105,404
 Guthrie,YALE,Governor,,Rob Sand and Dave Muhlbauer,DEM,481,236,245
 Guthrie,BAYARD,Governor,,Write-In,,0,0,0
@@ -286,30 +288,33 @@ Guthrie,STUART,Governor,,Write-In,,0,0,0
 Guthrie,YALE,Governor,,Write-In,,2,0,2
 Guthrie,BAYARD,Governor,,Zach Lahn and Derek Wulf,REP,240,43,197
 Guthrie,CASEY,Governor,,Zach Lahn and Derek Wulf,REP,379,104,275
-Guthrie,GUTHRIE CENTER,Governor,,Zach Lahn and Derek Wulf,REP,539,164,375
+Guthrie,GUTHRIE CENTER,Governor,,Zach Lahn and Derek Wulf,REP,540,165,375
 Guthrie,PANORA,Governor,,Zach Lahn and Derek Wulf,REP,672,276,396
 Guthrie,STUART,Governor,,Zach Lahn and Derek Wulf,REP,508,77,431
 Guthrie,YALE,Governor,,Zach Lahn and Derek Wulf,REP,644,218,426
-Guthrie,CASEY,Grant Township Clerk,,Gary A. Mueller,,106,23,83
+Guthrie,CASEY,Grant Township Clerk,,Gary A. Mueller,,107,24,83
 Guthrie,CASEY,Grant Township Clerk,,Write-In,,1,0,1
-Guthrie,CASEY,Grant Township Trustee,,Darin Peterson,,109,22,87
+Guthrie,CASEY,Grant Township Trustee,,Darin Peterson,,110,23,87
 Guthrie,CASEY,Grant Township Trustee,,Write-In,,1,1,0
 Guthrie,GUTHRIE CENTER,Jackson Township Clerk,,Cindy Lyons,,132,54,78
 Guthrie,GUTHRIE CENTER,Jackson Township Clerk,,Write-In,,2,2,0
 Guthrie,GUTHRIE CENTER,Jackson Township Trustee,,Rick Long,,86,38,48
 Guthrie,GUTHRIE CENTER,Jackson Township Trustee,,Trudi Tam,,59,26,33
 Guthrie,GUTHRIE CENTER,Jackson Township Trustee,,Write-In,,5,3,2
-Guthrie,YALE,Richland Township Clerk,,Write-In,,22,2,20
-Guthrie,YALE,Richland Township Trustee,,Write-In,,37,5,32
+Guthrie,YALE,Richland Township Clerk,,Jenny VanGundy,,20,1,19
+Guthrie,YALE,Richland Township Clerk,,Write-In,,2,1,1
+Guthrie,YALE,Richland Township Trustee,,Kirby McClatchey,,12,1,11
+Guthrie,YALE,Richland Township Trustee,,Nels Leo,,15,1,14
+Guthrie,YALE,Richland Township Trustee,,Write-In,,10,3,7
 Guthrie,BAYARD,Secretary of Agriculture,,Chris Jones,DEM,72,24,48
-Guthrie,CASEY,Secretary of Agriculture,,Chris Jones,DEM,156,71,85
+Guthrie,CASEY,Secretary of Agriculture,,Chris Jones,DEM,157,72,85
 Guthrie,GUTHRIE CENTER,Secretary of Agriculture,,Chris Jones,DEM,331,165,166
-Guthrie,PANORA,Secretary of Agriculture,,Chris Jones,DEM,355,186,169
+Guthrie,PANORA,Secretary of Agriculture,,Chris Jones,DEM,356,187,169
 Guthrie,STUART,Secretary of Agriculture,,Chris Jones,DEM,377,78,299
 Guthrie,YALE,Secretary of Agriculture,,Chris Jones,DEM,300,149,151
 Guthrie,BAYARD,Secretary of Agriculture,,Mike Naig,REP,292,58,234
 Guthrie,CASEY,Secretary of Agriculture,,Mike Naig,REP,438,127,311
-Guthrie,GUTHRIE CENTER,Secretary of Agriculture,,Mike Naig,REP,651,220,431
+Guthrie,GUTHRIE CENTER,Secretary of Agriculture,,Mike Naig,REP,652,221,431
 Guthrie,PANORA,Secretary of Agriculture,,Mike Naig,REP,786,327,459
 Guthrie,STUART,Secretary of Agriculture,,Mike Naig,REP,625,103,522
 Guthrie,YALE,Secretary of Agriculture,,Mike Naig,REP,806,303,503
@@ -321,14 +326,14 @@ Guthrie,STUART,Secretary of Agriculture,,Write-In,,0,0,0
 Guthrie,YALE,Secretary of Agriculture,,Write-In,,2,0,2
 Guthrie,BAYARD,Secretary of State,,Paul D. Pate,REP,287,57,230
 Guthrie,CASEY,Secretary of State,,Paul D. Pate,REP,439,129,310
-Guthrie,GUTHRIE CENTER,Secretary of State,,Paul D. Pate,REP,656,225,431
+Guthrie,GUTHRIE CENTER,Secretary of State,,Paul D. Pate,REP,657,226,431
 Guthrie,PANORA,Secretary of State,,Paul D. Pate,REP,800,329,471
 Guthrie,STUART,Secretary of State,,Paul D. Pate,REP,653,107,546
 Guthrie,YALE,Secretary of State,,Paul D. Pate,REP,786,293,493
 Guthrie,BAYARD,Secretary of State,,Ryan Peterman,DEM,75,25,50
-Guthrie,CASEY,Secretary of State,,Ryan Peterman,DEM,158,70,88
+Guthrie,CASEY,Secretary of State,,Ryan Peterman,DEM,159,71,88
 Guthrie,GUTHRIE CENTER,Secretary of State,,Ryan Peterman,DEM,329,165,164
-Guthrie,PANORA,Secretary of State,,Ryan Peterman,DEM,341,185,156
+Guthrie,PANORA,Secretary of State,,Ryan Peterman,DEM,342,186,156
 Guthrie,STUART,Secretary of State,,Ryan Peterman,DEM,346,73,273
 Guthrie,YALE,Secretary of State,,Ryan Peterman,DEM,316,155,161
 Guthrie,BAYARD,Secretary of State,,Write-In,,0,0,0
@@ -348,15 +353,15 @@ Guthrie,YALE,Seely Township Trustee,,Joe Arrasmith,,58,24,34
 Guthrie,BAYARD,Seely Township Trustee,,Write-In,,0,0,0
 Guthrie,YALE,Seely Township Trustee,,Write-In,,2,1,1
 Guthrie,BAYARD,Soil and Water Conservation District Commissioner,,Alan Wedemeyer,,226,48,178
-Guthrie,CASEY,Soil and Water Conservation District Commissioner,,Alan Wedemeyer,,425,148,277
+Guthrie,CASEY,Soil and Water Conservation District Commissioner,,Alan Wedemeyer,,426,149,277
 Guthrie,GUTHRIE CENTER,Soil and Water Conservation District Commissioner,,Alan Wedemeyer,,641,233,408
-Guthrie,PANORA,Soil and Water Conservation District Commissioner,,Alan Wedemeyer,,737,349,388
+Guthrie,PANORA,Soil and Water Conservation District Commissioner,,Alan Wedemeyer,,738,350,388
 Guthrie,STUART,Soil and Water Conservation District Commissioner,,Alan Wedemeyer,,633,120,513
 Guthrie,YALE,Soil and Water Conservation District Commissioner,,Alan Wedemeyer,,731,302,429
 Guthrie,BAYARD,Soil and Water Conservation District Commissioner,,Jamie Patrick,,260,58,202
-Guthrie,CASEY,Soil and Water Conservation District Commissioner,,Jamie Patrick,,414,143,271
+Guthrie,CASEY,Soil and Water Conservation District Commissioner,,Jamie Patrick,,415,144,271
 Guthrie,GUTHRIE CENTER,Soil and Water Conservation District Commissioner,,Jamie Patrick,,697,272,425
-Guthrie,PANORA,Soil and Water Conservation District Commissioner,,Jamie Patrick,,745,338,407
+Guthrie,PANORA,Soil and Water Conservation District Commissioner,,Jamie Patrick,,746,339,407
 Guthrie,STUART,Soil and Water Conservation District Commissioner,,Jamie Patrick,,591,128,463
 Guthrie,YALE,Soil and Water Conservation District Commissioner,,Jamie Patrick,,741,300,441
 Guthrie,BAYARD,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
@@ -366,9 +371,9 @@ Guthrie,PANORA,Soil and Water Conservation District Commissioner,,Write-In,,9,5,
 Guthrie,STUART,Soil and Water Conservation District Commissioner,,Write-In,,3,0,3
 Guthrie,YALE,Soil and Water Conservation District Commissioner,,Write-In,,4,1,3
 Guthrie,BAYARD,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Adam Ebert,,297,64,233
-Guthrie,CASEY,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Adam Ebert,,467,150,317
+Guthrie,CASEY,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Adam Ebert,,468,151,317
 Guthrie,GUTHRIE CENTER,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Adam Ebert,,756,281,475
-Guthrie,PANORA,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Adam Ebert,,833,379,454
+Guthrie,PANORA,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Adam Ebert,,834,380,454
 Guthrie,STUART,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Adam Ebert,,741,134,607
 Guthrie,YALE,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Adam Ebert,,828,320,508
 Guthrie,BAYARD,Soil and Water Conservation District Commissioner To Fill a Vacancy,,Write-In,,4,0,4
@@ -383,14 +388,14 @@ Guthrie,PANORA,South Panorama Sanitary District Trustee,,Write-In,,0,0,0
 Guthrie,YALE,South Panorama Sanitary District Trustee,,Write-In,,0,0,0
 Guthrie,BAYARD,State House,47,Carter F. Nordman,REP,270,52,218
 Guthrie,CASEY,State House,47,Carter F. Nordman,REP,418,119,299
-Guthrie,GUTHRIE CENTER,State House,47,Carter F. Nordman,REP,627,201,426
+Guthrie,GUTHRIE CENTER,State House,47,Carter F. Nordman,REP,628,202,426
 Guthrie,PANORA,State House,47,Carter F. Nordman,REP,783,322,461
 Guthrie,STUART,State House,47,Carter F. Nordman,REP,599,99,500
 Guthrie,YALE,State House,47,Carter F. Nordman,REP,747,270,477
 Guthrie,BAYARD,State House,47,Chris New,DEM,90,27,63
-Guthrie,CASEY,State House,47,Chris New,DEM,163,73,90
+Guthrie,CASEY,State House,47,Chris New,DEM,164,74,90
 Guthrie,GUTHRIE CENTER,State House,47,Chris New,DEM,352,187,165
-Guthrie,PANORA,State House,47,Chris New,DEM,356,191,165
+Guthrie,PANORA,State House,47,Chris New,DEM,357,192,165
 Guthrie,STUART,State House,47,Chris New,DEM,386,82,304
 Guthrie,YALE,State House,47,Chris New,DEM,342,169,173
 Guthrie,BAYARD,State House,47,Write-In,,1,1,0
@@ -402,12 +407,12 @@ Guthrie,YALE,State House,47,Write-In,,7,2,5
 Guthrie,BAYARD,Treasurer of State,,John Norwood,DEM,87,24,63
 Guthrie,CASEY,Treasurer of State,,John Norwood,DEM,181,82,99
 Guthrie,GUTHRIE CENTER,Treasurer of State,,John Norwood,DEM,377,193,184
-Guthrie,PANORA,Treasurer of State,,John Norwood,DEM,385,204,181
+Guthrie,PANORA,Treasurer of State,,John Norwood,DEM,386,205,181
 Guthrie,STUART,Treasurer of State,,John Norwood,DEM,385,78,307
 Guthrie,YALE,Treasurer of State,,John Norwood,DEM,367,182,185
 Guthrie,BAYARD,Treasurer of State,,Roby Smith,REP,270,56,214
 Guthrie,CASEY,Treasurer of State,,Roby Smith,REP,406,113,293
-Guthrie,GUTHRIE CENTER,Treasurer of State,,Roby Smith,REP,592,189,403
+Guthrie,GUTHRIE CENTER,Treasurer of State,,Roby Smith,REP,593,190,403
 Guthrie,PANORA,Treasurer of State,,Roby Smith,REP,740,303,437
 Guthrie,STUART,Treasurer of State,,Roby Smith,REP,596,103,493
 Guthrie,YALE,Treasurer of State,,Roby Smith,REP,720,259,461
@@ -418,9 +423,9 @@ Guthrie,PANORA,Treasurer of State,,Write-In,,0,0,0
 Guthrie,STUART,Treasurer of State,,Write-In,,0,0,0
 Guthrie,YALE,Treasurer of State,,Write-In,,3,1,2
 Guthrie,BAYARD,U.S. House,3,Sarah Trone Garriott,DEM,91,28,63
-Guthrie,CASEY,U.S. House,3,Sarah Trone Garriott,DEM,169,79,90
+Guthrie,CASEY,U.S. House,3,Sarah Trone Garriott,DEM,170,80,90
 Guthrie,GUTHRIE CENTER,U.S. House,3,Sarah Trone Garriott,DEM,362,188,174
-Guthrie,PANORA,U.S. House,3,Sarah Trone Garriott,DEM,370,198,172
+Guthrie,PANORA,U.S. House,3,Sarah Trone Garriott,DEM,371,199,172
 Guthrie,STUART,U.S. House,3,Sarah Trone Garriott,DEM,395,87,308
 Guthrie,YALE,U.S. House,3,Sarah Trone Garriott,DEM,364,185,179
 Guthrie,BAYARD,U.S. House,3,Write-In,,0,0,0
@@ -431,20 +436,20 @@ Guthrie,STUART,U.S. House,3,Write-In,,2,0,2
 Guthrie,YALE,U.S. House,3,Write-In,,2,0,2
 Guthrie,BAYARD,U.S. House,3,Zach Nunn,REP,270,53,217
 Guthrie,CASEY,U.S. House,3,Zach Nunn,REP,420,115,305
-Guthrie,GUTHRIE CENTER,U.S. House,3,Zach Nunn,REP,621,197,424
+Guthrie,GUTHRIE CENTER,U.S. House,3,Zach Nunn,REP,622,198,424
 Guthrie,PANORA,U.S. House,3,Zach Nunn,REP,767,306,461
 Guthrie,STUART,U.S. House,3,Zach Nunn,REP,607,91,516
 Guthrie,YALE,U.S. House,3,Zach Nunn,REP,747,260,487
 Guthrie,BAYARD,U.S. Senate,,Ashley Hinson,REP,241,48,193
 Guthrie,CASEY,U.S. Senate,,Ashley Hinson,REP,377,104,273
-Guthrie,GUTHRIE CENTER,U.S. Senate,,Ashley Hinson,REP,562,177,385
+Guthrie,GUTHRIE CENTER,U.S. Senate,,Ashley Hinson,REP,563,178,385
 Guthrie,PANORA,U.S. Senate,,Ashley Hinson,REP,697,286,411
 Guthrie,STUART,U.S. Senate,,Ashley Hinson,REP,543,85,458
 Guthrie,YALE,U.S. Senate,,Ashley Hinson,REP,663,236,427
 Guthrie,BAYARD,U.S. Senate,,Josh Turek,DEM,95,31,64
-Guthrie,CASEY,U.S. Senate,,Josh Turek,DEM,181,82,99
+Guthrie,CASEY,U.S. Senate,,Josh Turek,DEM,182,83,99
 Guthrie,GUTHRIE CENTER,U.S. Senate,,Josh Turek,DEM,377,190,187
-Guthrie,PANORA,U.S. Senate,,Josh Turek,DEM,406,208,198
+Guthrie,PANORA,U.S. Senate,,Josh Turek,DEM,407,209,198
 Guthrie,STUART,U.S. Senate,,Josh Turek,DEM,415,85,330
 Guthrie,YALE,U.S. Senate,,Josh Turek,DEM,379,189,190
 Guthrie,BAYARD,U.S. Senate,,Thomas Laehn,LIB,21,3,18

@@ -2,13 +2,14 @@ county,precinct,office,district,candidate,party,votes,absentee,election_day
 Harrison,Precinct #2 Pisgah,Allen Township Clerk,,Russell Hansen,,70,12,58
 Harrison,Precinct #2 Pisgah,Allen Township Clerk,,Write-In,,2,1,1
 Harrison,Precinct #2 Pisgah,Allen Township Trustee,,Laura Hansen,,65,11,54
-Harrison,Precinct #2 Pisgah,Allen Township Trustee,,Write-In,,8,2,6
+Harrison,Precinct #2 Pisgah,Allen Township Trustee,,Russel Hansen,,2,0,2
+Harrison,Precinct #2 Pisgah,Allen Township Trustee,,Write-In,,6,2,4
 Harrison,Precinct #1 Little Sioux,Attorney General,,Brenna Bird,REP,67,5,62
 Harrison,Precinct #10 Missouri Valley City,Attorney General,,Brenna Bird,REP,475,90,385
 Harrison,Precinct #11 Persia,Attorney General,,Brenna Bird,REP,328,84,244
 Harrison,Precinct #2 Pisgah,Attorney General,,Brenna Bird,REP,178,30,148
 Harrison,Precinct #3 Dunlap,Attorney General,,Brenna Bird,REP,359,66,293
-Harrison,Precinct #4 Mondamin,Attorney General,,Brenna Bird,REP,183,25,158
+Harrison,Precinct #4 Mondamin,Attorney General,,Brenna Bird,REP,184,26,158
 Harrison,Precinct #5 Magnolia,Attorney General,,Brenna Bird,REP,338,103,235
 Harrison,Precinct #6 Woodbine,Attorney General,,Brenna Bird,REP,540,99,441
 Harrison,Precinct #7 Modale,Attorney General,,Brenna Bird,REP,206,38,168
@@ -20,7 +21,7 @@ Harrison,Precinct #11 Persia,Attorney General,,Nate Willems,DEM,126,42,84
 Harrison,Precinct #2 Pisgah,Attorney General,,Nate Willems,DEM,66,14,52
 Harrison,Precinct #3 Dunlap,Attorney General,,Nate Willems,DEM,214,63,151
 Harrison,Precinct #4 Mondamin,Attorney General,,Nate Willems,DEM,85,20,65
-Harrison,Precinct #5 Magnolia,Attorney General,,Nate Willems,DEM,130,68,62
+Harrison,Precinct #5 Magnolia,Attorney General,,Nate Willems,DEM,131,69,62
 Harrison,Precinct #6 Woodbine,Attorney General,,Nate Willems,DEM,291,81,210
 Harrison,Precinct #7 Modale,Attorney General,,Nate Willems,DEM,117,43,74
 Harrison,Precinct #8 Logan,Attorney General,,Nate Willems,DEM,338,138,200
@@ -41,7 +42,7 @@ Harrison,Precinct #10 Missouri Valley City,Auditor of State,,Chris Cournoyer,REP
 Harrison,Precinct #11 Persia,Auditor of State,,Chris Cournoyer,REP,319,77,242
 Harrison,Precinct #2 Pisgah,Auditor of State,,Chris Cournoyer,REP,179,30,149
 Harrison,Precinct #3 Dunlap,Auditor of State,,Chris Cournoyer,REP,359,65,294
-Harrison,Precinct #4 Mondamin,Auditor of State,,Chris Cournoyer,REP,180,25,155
+Harrison,Precinct #4 Mondamin,Auditor of State,,Chris Cournoyer,REP,181,26,155
 Harrison,Precinct #5 Magnolia,Auditor of State,,Chris Cournoyer,REP,339,106,233
 Harrison,Precinct #6 Woodbine,Auditor of State,,Chris Cournoyer,REP,528,103,425
 Harrison,Precinct #7 Modale,Auditor of State,,Chris Cournoyer,REP,200,35,165
@@ -53,7 +54,7 @@ Harrison,Precinct #11 Persia,Auditor of State,,Taylor Wettach,DEM,133,46,87
 Harrison,Precinct #2 Pisgah,Auditor of State,,Taylor Wettach,DEM,62,15,47
 Harrison,Precinct #3 Dunlap,Auditor of State,,Taylor Wettach,DEM,210,63,147
 Harrison,Precinct #4 Mondamin,Auditor of State,,Taylor Wettach,DEM,88,20,68
-Harrison,Precinct #5 Magnolia,Auditor of State,,Taylor Wettach,DEM,128,62,66
+Harrison,Precinct #5 Magnolia,Auditor of State,,Taylor Wettach,DEM,129,63,66
 Harrison,Precinct #6 Woodbine,Auditor of State,,Taylor Wettach,DEM,291,81,210
 Harrison,Precinct #7 Modale,Auditor of State,,Taylor Wettach,DEM,124,46,78
 Harrison,Precinct #8 Logan,Auditor of State,,Taylor Wettach,DEM,323,140,183
@@ -86,7 +87,9 @@ Harrison,Precinct #11 Persia,Cass Township Trustee,,Jay Johnsen,,66,28,38
 Harrison,Precinct #11 Persia,Cass Township Trustee,,Write-In,,2,1,1
 Harrison,Precinct #7 Modale,Cincinnati Township Clerk,,Patricia Mahoney,,64,15,49
 Harrison,Precinct #7 Modale,Cincinnati Township Clerk,,Write-In,,1,0,1
-Harrison,Precinct #7 Modale,Cincinnati Township Trustee,,Write-In,,9,2,7
+Harrison,Precinct #7 Modale,Cincinnati Township Trustee,,Mark Clausen,,2,0,2
+Harrison,Precinct #7 Modale,Cincinnati Township Trustee,,Michelle Mahoney,,2,0,2
+Harrison,Precinct #7 Modale,Cincinnati Township Trustee,,Write-In,,5,2,3
 Harrison,Precinct #7 Modale,Clay Township Clerk,,Alyxandria M. Hirst,,35,14,21
 Harrison,Precinct #7 Modale,Clay Township Clerk,,Write-In,,1,0,1
 Harrison,Precinct #7 Modale,Clay Township Trustee,,Alan W. Hirst,,25,9,16
@@ -98,8 +101,8 @@ Harrison,Precinct #10 Missouri Valley City,Constitutional Amendment 1,,No,,276,6
 Harrison,Precinct #11 Persia,Constitutional Amendment 1,,No,,130,42,88
 Harrison,Precinct #2 Pisgah,Constitutional Amendment 1,,No,,58,15,43
 Harrison,Precinct #3 Dunlap,Constitutional Amendment 1,,No,,177,35,142
-Harrison,Precinct #4 Mondamin,Constitutional Amendment 1,,No,,81,14,67
-Harrison,Precinct #5 Magnolia,Constitutional Amendment 1,,No,,144,58,86
+Harrison,Precinct #4 Mondamin,Constitutional Amendment 1,,No,,82,15,67
+Harrison,Precinct #5 Magnolia,Constitutional Amendment 1,,No,,145,59,86
 Harrison,Precinct #6 Woodbine,Constitutional Amendment 1,,No,,256,61,195
 Harrison,Precinct #7 Modale,Constitutional Amendment 1,,No,,81,23,58
 Harrison,Precinct #8 Logan,Constitutional Amendment 1,,No,,301,105,196
@@ -120,7 +123,7 @@ Harrison,Precinct #10 Missouri Valley City,County Agricultural Extension Council
 Harrison,Precinct #11 Persia,County Agricultural Extension Council Member,,Amanda Lawrenson,,203,62,141
 Harrison,Precinct #2 Pisgah,County Agricultural Extension Council Member,,Amanda Lawrenson,,167,32,135
 Harrison,Precinct #3 Dunlap,County Agricultural Extension Council Member,,Amanda Lawrenson,,227,57,170
-Harrison,Precinct #4 Mondamin,County Agricultural Extension Council Member,,Amanda Lawrenson,,177,26,151
+Harrison,Precinct #4 Mondamin,County Agricultural Extension Council Member,,Amanda Lawrenson,,178,27,151
 Harrison,Precinct #5 Magnolia,County Agricultural Extension Council Member,,Amanda Lawrenson,,238,87,151
 Harrison,Precinct #6 Woodbine,County Agricultural Extension Council Member,,Amanda Lawrenson,,297,69,228
 Harrison,Precinct #7 Modale,County Agricultural Extension Council Member,,Amanda Lawrenson,,206,47,159
@@ -142,7 +145,7 @@ Harrison,Precinct #10 Missouri Valley City,County Agricultural Extension Council
 Harrison,Precinct #11 Persia,County Agricultural Extension Council Member,,Casey Pape,,258,73,185
 Harrison,Precinct #2 Pisgah,County Agricultural Extension Council Member,,Casey Pape,,184,34,150
 Harrison,Precinct #3 Dunlap,County Agricultural Extension Council Member,,Casey Pape,,304,71,233
-Harrison,Precinct #4 Mondamin,County Agricultural Extension Council Member,,Casey Pape,,168,31,137
+Harrison,Precinct #4 Mondamin,County Agricultural Extension Council Member,,Casey Pape,,169,32,137
 Harrison,Precinct #5 Magnolia,County Agricultural Extension Council Member,,Casey Pape,,261,98,163
 Harrison,Precinct #6 Woodbine,County Agricultural Extension Council Member,,Casey Pape,,535,112,423
 Harrison,Precinct #7 Modale,County Agricultural Extension Council Member,,Casey Pape,,185,45,140
@@ -153,7 +156,7 @@ Harrison,Precinct #10 Missouri Valley City,County Agricultural Extension Council
 Harrison,Precinct #11 Persia,County Agricultural Extension Council Member,,Deborah Mether,,218,70,148
 Harrison,Precinct #2 Pisgah,County Agricultural Extension Council Member,,Deborah Mether,,127,27,100
 Harrison,Precinct #3 Dunlap,County Agricultural Extension Council Member,,Deborah Mether,,264,64,200
-Harrison,Precinct #4 Mondamin,County Agricultural Extension Council Member,,Deborah Mether,,137,27,110
+Harrison,Precinct #4 Mondamin,County Agricultural Extension Council Member,,Deborah Mether,,138,28,110
 Harrison,Precinct #5 Magnolia,County Agricultural Extension Council Member,,Deborah Mether,,292,106,186
 Harrison,Precinct #6 Woodbine,County Agricultural Extension Council Member,,Deborah Mether,,403,91,312
 Harrison,Precinct #7 Modale,County Agricultural Extension Council Member,,Deborah Mether,,154,37,117
@@ -164,7 +167,7 @@ Harrison,Precinct #10 Missouri Valley City,County Agricultural Extension Council
 Harrison,Precinct #11 Persia,County Agricultural Extension Council Member,,Kara Dickinson,,261,78,183
 Harrison,Precinct #2 Pisgah,County Agricultural Extension Council Member,,Kara Dickinson,,122,21,101
 Harrison,Precinct #3 Dunlap,County Agricultural Extension Council Member,,Kara Dickinson,,304,66,238
-Harrison,Precinct #4 Mondamin,County Agricultural Extension Council Member,,Kara Dickinson,,131,23,108
+Harrison,Precinct #4 Mondamin,County Agricultural Extension Council Member,,Kara Dickinson,,132,24,108
 Harrison,Precinct #5 Magnolia,County Agricultural Extension Council Member,,Kara Dickinson,,286,96,190
 Harrison,Precinct #6 Woodbine,County Agricultural Extension Council Member,,Kara Dickinson,,434,99,335
 Harrison,Precinct #7 Modale,County Agricultural Extension Council Member,,Kara Dickinson,,180,50,130
@@ -175,7 +178,7 @@ Harrison,Precinct #10 Missouri Valley City,County Agricultural Extension Council
 Harrison,Precinct #11 Persia,County Agricultural Extension Council Member,,Melanie Pryor,,214,65,149
 Harrison,Precinct #2 Pisgah,County Agricultural Extension Council Member,,Melanie Pryor,,117,18,99
 Harrison,Precinct #3 Dunlap,County Agricultural Extension Council Member,,Melanie Pryor,,344,74,270
-Harrison,Precinct #4 Mondamin,County Agricultural Extension Council Member,,Melanie Pryor,,98,20,78
+Harrison,Precinct #4 Mondamin,County Agricultural Extension Council Member,,Melanie Pryor,,99,21,78
 Harrison,Precinct #5 Magnolia,County Agricultural Extension Council Member,,Melanie Pryor,,199,77,122
 Harrison,Precinct #6 Woodbine,County Agricultural Extension Council Member,,Melanie Pryor,,589,128,461
 Harrison,Precinct #7 Modale,County Agricultural Extension Council Member,,Melanie Pryor,,151,40,111
@@ -197,8 +200,8 @@ Harrison,Precinct #10 Missouri Valley City,County Attorney,,Sarah Delanty,,676,1
 Harrison,Precinct #11 Persia,County Attorney,,Sarah Delanty,,362,97,265
 Harrison,Precinct #2 Pisgah,County Attorney,,Sarah Delanty,,196,38,158
 Harrison,Precinct #3 Dunlap,County Attorney,,Sarah Delanty,,472,105,367
-Harrison,Precinct #4 Mondamin,County Attorney,,Sarah Delanty,,214,38,176
-Harrison,Precinct #5 Magnolia,County Attorney,,Sarah Delanty,,371,141,230
+Harrison,Precinct #4 Mondamin,County Attorney,,Sarah Delanty,,215,39,176
+Harrison,Precinct #5 Magnolia,County Attorney,,Sarah Delanty,,372,142,230
 Harrison,Precinct #6 Woodbine,County Attorney,,Sarah Delanty,,670,148,522
 Harrison,Precinct #7 Modale,County Attorney,,Sarah Delanty,,261,68,193
 Harrison,Precinct #8 Logan,County Attorney,,Sarah Delanty,,768,253,515
@@ -219,8 +222,8 @@ Harrison,Precinct #10 Missouri Valley City,County Board of Supervisors,,Brian Ri
 Harrison,Precinct #11 Persia,County Board of Supervisors,,Brian Rife,REP,306,77,229
 Harrison,Precinct #2 Pisgah,County Board of Supervisors,,Brian Rife,REP,180,33,147
 Harrison,Precinct #3 Dunlap,County Board of Supervisors,,Brian Rife,REP,299,62,237
-Harrison,Precinct #4 Mondamin,County Board of Supervisors,,Brian Rife,REP,197,28,169
-Harrison,Precinct #5 Magnolia,County Board of Supervisors,,Brian Rife,REP,331,115,216
+Harrison,Precinct #4 Mondamin,County Board of Supervisors,,Brian Rife,REP,198,29,169
+Harrison,Precinct #5 Magnolia,County Board of Supervisors,,Brian Rife,REP,332,116,216
 Harrison,Precinct #6 Woodbine,County Board of Supervisors,,Brian Rife,REP,536,106,430
 Harrison,Precinct #7 Modale,County Board of Supervisors,,Brian Rife,REP,217,50,167
 Harrison,Precinct #8 Logan,County Board of Supervisors,,Brian Rife,REP,630,204,426
@@ -242,7 +245,7 @@ Harrison,Precinct #11 Persia,County Board of Supervisors,,Jesica Santana Colón,
 Harrison,Precinct #2 Pisgah,County Board of Supervisors,,Jesica Santana Colón,DEM,47,12,35
 Harrison,Precinct #3 Dunlap,County Board of Supervisors,,Jesica Santana Colón,DEM,191,55,136
 Harrison,Precinct #4 Mondamin,County Board of Supervisors,,Jesica Santana Colón,DEM,56,17,39
-Harrison,Precinct #5 Magnolia,County Board of Supervisors,,Jesica Santana Colón,DEM,119,54,65
+Harrison,Precinct #5 Magnolia,County Board of Supervisors,,Jesica Santana Colón,DEM,120,55,65
 Harrison,Precinct #6 Woodbine,County Board of Supervisors,,Jesica Santana Colón,DEM,247,72,175
 Harrison,Precinct #7 Modale,County Board of Supervisors,,Jesica Santana Colón,DEM,93,32,61
 Harrison,Precinct #8 Logan,County Board of Supervisors,,Jesica Santana Colón,DEM,294,116,178
@@ -252,7 +255,7 @@ Harrison,Precinct #10 Missouri Valley City,County Board of Supervisors,,Michele 
 Harrison,Precinct #11 Persia,County Board of Supervisors,,Michele Stirtz,REP,275,76,199
 Harrison,Precinct #2 Pisgah,County Board of Supervisors,,Michele Stirtz,REP,139,28,111
 Harrison,Precinct #3 Dunlap,County Board of Supervisors,,Michele Stirtz,REP,297,61,236
-Harrison,Precinct #4 Mondamin,County Board of Supervisors,,Michele Stirtz,REP,167,28,139
+Harrison,Precinct #4 Mondamin,County Board of Supervisors,,Michele Stirtz,REP,168,29,139
 Harrison,Precinct #5 Magnolia,County Board of Supervisors,,Michele Stirtz,REP,315,115,200
 Harrison,Precinct #6 Woodbine,County Board of Supervisors,,Michele Stirtz,REP,443,93,350
 Harrison,Precinct #7 Modale,County Board of Supervisors,,Michele Stirtz,REP,198,42,156
@@ -274,8 +277,8 @@ Harrison,Precinct #10 Missouri Valley City,County Recorder,,Felicia Geith,REP,60
 Harrison,Precinct #11 Persia,County Recorder,,Felicia Geith,REP,382,103,279
 Harrison,Precinct #2 Pisgah,County Recorder,,Felicia Geith,REP,197,36,161
 Harrison,Precinct #3 Dunlap,County Recorder,,Felicia Geith,REP,423,95,328
-Harrison,Precinct #4 Mondamin,County Recorder,,Felicia Geith,REP,222,33,189
-Harrison,Precinct #5 Magnolia,County Recorder,,Felicia Geith,REP,408,143,265
+Harrison,Precinct #4 Mondamin,County Recorder,,Felicia Geith,REP,223,34,189
+Harrison,Precinct #5 Magnolia,County Recorder,,Felicia Geith,REP,409,144,265
 Harrison,Precinct #6 Woodbine,County Recorder,,Felicia Geith,REP,659,141,518
 Harrison,Precinct #7 Modale,County Recorder,,Felicia Geith,REP,257,61,196
 Harrison,Precinct #8 Logan,County Recorder,,Felicia Geith,REP,831,267,564
@@ -318,8 +321,8 @@ Harrison,Precinct #10 Missouri Valley City,County Treasurer,,Shelia K. Phillips,
 Harrison,Precinct #11 Persia,County Treasurer,,Shelia K. Phillips,REP,385,99,286
 Harrison,Precinct #2 Pisgah,County Treasurer,,Shelia K. Phillips,REP,198,39,159
 Harrison,Precinct #3 Dunlap,County Treasurer,,Shelia K. Phillips,REP,435,90,345
-Harrison,Precinct #4 Mondamin,County Treasurer,,Shelia K. Phillips,REP,223,35,188
-Harrison,Precinct #5 Magnolia,County Treasurer,,Shelia K. Phillips,REP,415,149,266
+Harrison,Precinct #4 Mondamin,County Treasurer,,Shelia K. Phillips,REP,224,36,188
+Harrison,Precinct #5 Magnolia,County Treasurer,,Shelia K. Phillips,REP,416,150,266
 Harrison,Precinct #6 Woodbine,County Treasurer,,Shelia K. Phillips,REP,686,137,549
 Harrison,Precinct #7 Modale,County Treasurer,,Shelia K. Phillips,REP,268,61,207
 Harrison,Precinct #8 Logan,County Treasurer,,Shelia K. Phillips,REP,803,258,545
@@ -351,7 +354,7 @@ Harrison,Precinct #10 Missouri Valley City,Court of Appeals Judge - John M. Sand
 Harrison,Precinct #11 Persia,Court of Appeals Judge - John M. Sandy,,Yes,,218,62,156
 Harrison,Precinct #2 Pisgah,Court of Appeals Judge - John M. Sandy,,Yes,,114,23,91
 Harrison,Precinct #3 Dunlap,Court of Appeals Judge - John M. Sandy,,Yes,,277,58,219
-Harrison,Precinct #4 Mondamin,Court of Appeals Judge - John M. Sandy,,Yes,,114,18,96
+Harrison,Precinct #4 Mondamin,Court of Appeals Judge - John M. Sandy,,Yes,,115,19,96
 Harrison,Precinct #5 Magnolia,Court of Appeals Judge - John M. Sandy,,Yes,,215,86,129
 Harrison,Precinct #6 Woodbine,Court of Appeals Judge - John M. Sandy,,Yes,,425,95,330
 Harrison,Precinct #7 Modale,Court of Appeals Judge - John M. Sandy,,Yes,,159,38,121
@@ -373,7 +376,7 @@ Harrison,Precinct #10 Missouri Valley City,Court of Appeals Judge - Julie A. Sch
 Harrison,Precinct #11 Persia,Court of Appeals Judge - Julie A. Schumacher,,Yes,,254,79,175
 Harrison,Precinct #2 Pisgah,Court of Appeals Judge - Julie A. Schumacher,,Yes,,128,28,100
 Harrison,Precinct #3 Dunlap,Court of Appeals Judge - Julie A. Schumacher,,Yes,,311,66,245
-Harrison,Precinct #4 Mondamin,Court of Appeals Judge - Julie A. Schumacher,,Yes,,131,18,113
+Harrison,Precinct #4 Mondamin,Court of Appeals Judge - Julie A. Schumacher,,Yes,,132,19,113
 Harrison,Precinct #5 Magnolia,Court of Appeals Judge - Julie A. Schumacher,,Yes,,233,96,137
 Harrison,Precinct #6 Woodbine,Court of Appeals Judge - Julie A. Schumacher,,Yes,,473,111,362
 Harrison,Precinct #7 Modale,Court of Appeals Judge - Julie A. Schumacher,,Yes,,187,43,144
@@ -395,7 +398,7 @@ Harrison,Precinct #10 Missouri Valley City,Court of Appeals Judge - Sharon Soorh
 Harrison,Precinct #11 Persia,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,234,72,162
 Harrison,Precinct #2 Pisgah,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,112,26,86
 Harrison,Precinct #3 Dunlap,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,266,60,206
-Harrison,Precinct #4 Mondamin,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,106,13,93
+Harrison,Precinct #4 Mondamin,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,107,14,93
 Harrison,Precinct #5 Magnolia,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,203,85,118
 Harrison,Precinct #6 Woodbine,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,419,94,325
 Harrison,Precinct #7 Modale,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,166,40,126
@@ -417,7 +420,7 @@ Harrison,Precinct #10 Missouri Valley City,District 4 Associate Judge - Ashley N
 Harrison,Precinct #11 Persia,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,218,65,153
 Harrison,Precinct #2 Pisgah,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,120,23,97
 Harrison,Precinct #3 Dunlap,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,293,67,226
-Harrison,Precinct #4 Mondamin,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,118,21,97
+Harrison,Precinct #4 Mondamin,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,119,22,97
 Harrison,Precinct #5 Magnolia,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,244,103,141
 Harrison,Precinct #6 Woodbine,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,442,101,341
 Harrison,Precinct #7 Modale,District 4 Associate Judge - Ashley N. West-Joons,,Yes,,183,44,139
@@ -439,7 +442,7 @@ Harrison,Precinct #10 Missouri Valley City,District 4 Associate Judge - Matthew 
 Harrison,Precinct #11 Persia,District 4 Associate Judge - Matthew A. Schuling,,Yes,,224,60,164
 Harrison,Precinct #2 Pisgah,District 4 Associate Judge - Matthew A. Schuling,,Yes,,117,24,93
 Harrison,Precinct #3 Dunlap,District 4 Associate Judge - Matthew A. Schuling,,Yes,,289,62,227
-Harrison,Precinct #4 Mondamin,District 4 Associate Judge - Matthew A. Schuling,,Yes,,105,12,93
+Harrison,Precinct #4 Mondamin,District 4 Associate Judge - Matthew A. Schuling,,Yes,,106,13,93
 Harrison,Precinct #5 Magnolia,District 4 Associate Judge - Matthew A. Schuling,,Yes,,207,82,125
 Harrison,Precinct #6 Woodbine,District 4 Associate Judge - Matthew A. Schuling,,Yes,,427,95,332
 Harrison,Precinct #7 Modale,District 4 Associate Judge - Matthew A. Schuling,,Yes,,163,39,124
@@ -461,7 +464,7 @@ Harrison,Precinct #10 Missouri Valley City,District 4 Associate Judge - Scott St
 Harrison,Precinct #11 Persia,District 4 Associate Judge - Scott Strait,,Yes,,230,64,166
 Harrison,Precinct #2 Pisgah,District 4 Associate Judge - Scott Strait,,Yes,,114,22,92
 Harrison,Precinct #3 Dunlap,District 4 Associate Judge - Scott Strait,,Yes,,305,66,239
-Harrison,Precinct #4 Mondamin,District 4 Associate Judge - Scott Strait,,Yes,,116,13,103
+Harrison,Precinct #4 Mondamin,District 4 Associate Judge - Scott Strait,,Yes,,117,14,103
 Harrison,Precinct #5 Magnolia,District 4 Associate Judge - Scott Strait,,Yes,,202,80,122
 Harrison,Precinct #6 Woodbine,District 4 Associate Judge - Scott Strait,,Yes,,438,98,340
 Harrison,Precinct #7 Modale,District 4 Associate Judge - Scott Strait,,Yes,,170,38,132
@@ -483,7 +486,7 @@ Harrison,Precinct #10 Missouri Valley City,District 4 Judge - Amy L. Zacharias,,
 Harrison,Precinct #11 Persia,District 4 Judge - Amy L. Zacharias,,Yes,,311,79,232
 Harrison,Precinct #2 Pisgah,District 4 Judge - Amy L. Zacharias,,Yes,,130,25,105
 Harrison,Precinct #3 Dunlap,District 4 Judge - Amy L. Zacharias,,Yes,,311,74,237
-Harrison,Precinct #4 Mondamin,District 4 Judge - Amy L. Zacharias,,Yes,,129,21,108
+Harrison,Precinct #4 Mondamin,District 4 Judge - Amy L. Zacharias,,Yes,,130,22,108
 Harrison,Precinct #5 Magnolia,District 4 Judge - Amy L. Zacharias,,Yes,,247,106,141
 Harrison,Precinct #6 Woodbine,District 4 Judge - Amy L. Zacharias,,Yes,,469,102,367
 Harrison,Precinct #7 Modale,District 4 Judge - Amy L. Zacharias,,Yes,,187,46,141
@@ -505,7 +508,7 @@ Harrison,Precinct #10 Missouri Valley City,District 4 Judge - Craig Michael Drei
 Harrison,Precinct #11 Persia,District 4 Judge - Craig Michael Dreismeier,,Yes,,225,67,158
 Harrison,Precinct #2 Pisgah,District 4 Judge - Craig Michael Dreismeier,,Yes,,111,22,89
 Harrison,Precinct #3 Dunlap,District 4 Judge - Craig Michael Dreismeier,,Yes,,287,60,227
-Harrison,Precinct #4 Mondamin,District 4 Judge - Craig Michael Dreismeier,,Yes,,107,19,88
+Harrison,Precinct #4 Mondamin,District 4 Judge - Craig Michael Dreismeier,,Yes,,108,20,88
 Harrison,Precinct #5 Magnolia,District 4 Judge - Craig Michael Dreismeier,,Yes,,211,87,124
 Harrison,Precinct #6 Woodbine,District 4 Judge - Craig Michael Dreismeier,,Yes,,414,91,323
 Harrison,Precinct #7 Modale,District 4 Judge - Craig Michael Dreismeier,,Yes,,166,39,127
@@ -527,7 +530,7 @@ Harrison,Precinct #10 Missouri Valley City,District 4 Judge - Donna Bothwell,,Ye
 Harrison,Precinct #11 Persia,District 4 Judge - Donna Bothwell,,Yes,,251,76,175
 Harrison,Precinct #2 Pisgah,District 4 Judge - Donna Bothwell,,Yes,,131,27,104
 Harrison,Precinct #3 Dunlap,District 4 Judge - Donna Bothwell,,Yes,,311,70,241
-Harrison,Precinct #4 Mondamin,District 4 Judge - Donna Bothwell,,Yes,,136,19,117
+Harrison,Precinct #4 Mondamin,District 4 Judge - Donna Bothwell,,Yes,,137,20,117
 Harrison,Precinct #5 Magnolia,District 4 Judge - Donna Bothwell,,Yes,,274,106,168
 Harrison,Precinct #6 Woodbine,District 4 Judge - Donna Bothwell,,Yes,,472,105,367
 Harrison,Precinct #7 Modale,District 4 Judge - Donna Bothwell,,Yes,,175,40,135
@@ -549,7 +552,7 @@ Harrison,Precinct #10 Missouri Valley City,District 4 Judge - Justin R. Wyatt,,Y
 Harrison,Precinct #11 Persia,District 4 Judge - Justin R. Wyatt,,Yes,,220,60,160
 Harrison,Precinct #2 Pisgah,District 4 Judge - Justin R. Wyatt,,Yes,,118,20,98
 Harrison,Precinct #3 Dunlap,District 4 Judge - Justin R. Wyatt,,Yes,,296,63,233
-Harrison,Precinct #4 Mondamin,District 4 Judge - Justin R. Wyatt,,Yes,,114,20,94
+Harrison,Precinct #4 Mondamin,District 4 Judge - Justin R. Wyatt,,Yes,,115,21,94
 Harrison,Precinct #5 Magnolia,District 4 Judge - Justin R. Wyatt,,Yes,,221,93,128
 Harrison,Precinct #6 Woodbine,District 4 Judge - Justin R. Wyatt,,Yes,,435,96,339
 Harrison,Precinct #7 Modale,District 4 Judge - Justin R. Wyatt,,Yes,,168,35,133
@@ -571,7 +574,7 @@ Harrison,Precinct #10 Missouri Valley City,District 4 Judge - Margaret J. Reyes,
 Harrison,Precinct #11 Persia,District 4 Judge - Margaret J. Reyes,,Yes,,226,70,156
 Harrison,Precinct #2 Pisgah,District 4 Judge - Margaret J. Reyes,,Yes,,105,23,82
 Harrison,Precinct #3 Dunlap,District 4 Judge - Margaret J. Reyes,,Yes,,293,63,230
-Harrison,Precinct #4 Mondamin,District 4 Judge - Margaret J. Reyes,,Yes,,113,19,94
+Harrison,Precinct #4 Mondamin,District 4 Judge - Margaret J. Reyes,,Yes,,114,20,94
 Harrison,Precinct #5 Magnolia,District 4 Judge - Margaret J. Reyes,,Yes,,197,83,114
 Harrison,Precinct #6 Woodbine,District 4 Judge - Margaret J. Reyes,,Yes,,417,95,322
 Harrison,Precinct #7 Modale,District 4 Judge - Margaret J. Reyes,,Yes,,164,38,126
@@ -593,21 +596,24 @@ Harrison,Precinct #10 Missouri Valley City,District 4 Judge - Michael Donn Hoope
 Harrison,Precinct #11 Persia,District 4 Judge - Michael Donn Hooper,,Yes,,223,63,160
 Harrison,Precinct #2 Pisgah,District 4 Judge - Michael Donn Hooper,,Yes,,113,21,92
 Harrison,Precinct #3 Dunlap,District 4 Judge - Michael Donn Hooper,,Yes,,275,56,219
-Harrison,Precinct #4 Mondamin,District 4 Judge - Michael Donn Hooper,,Yes,,109,20,89
+Harrison,Precinct #4 Mondamin,District 4 Judge - Michael Donn Hooper,,Yes,,110,21,89
 Harrison,Precinct #5 Magnolia,District 4 Judge - Michael Donn Hooper,,Yes,,204,82,122
 Harrison,Precinct #6 Woodbine,District 4 Judge - Michael Donn Hooper,,Yes,,415,90,325
 Harrison,Precinct #7 Modale,District 4 Judge - Michael Donn Hooper,,Yes,,154,35,119
 Harrison,Precinct #8 Logan,District 4 Judge - Michael Donn Hooper,,Yes,,464,156,308
 Harrison,Precinct #9 St John Twp,District 4 Judge - Michael Donn Hooper,,Yes,,278,72,206
-Harrison,Precinct #3 Dunlap,Douglas Township Clerk,,Write-In,,4,3,1
-Harrison,Precinct #3 Dunlap,Douglas Township Trustee,,Write-In,,10,4,6
+Harrison,Precinct #3 Dunlap,Douglas Township Clerk,,Jenna Dickinson,,3,2,1
+Harrison,Precinct #3 Dunlap,Douglas Township Clerk,,Write-In,,1,1,0
+Harrison,Precinct #3 Dunlap,Douglas Township Trustee,,Adam Dickinson,,3,2,1
+Harrison,Precinct #3 Dunlap,Douglas Township Trustee,,Eric Tremel,,2,0,2
+Harrison,Precinct #3 Dunlap,Douglas Township Trustee,,Write-In,,5,2,3
 Harrison,Precinct #1 Little Sioux,Governor,,Rob Sand and Dave Muhlbauer,DEM,39,5,34
 Harrison,Precinct #10 Missouri Valley City,Governor,,Rob Sand and Dave Muhlbauer,DEM,407,106,301
 Harrison,Precinct #11 Persia,Governor,,Rob Sand and Dave Muhlbauer,DEM,143,49,94
 Harrison,Precinct #2 Pisgah,Governor,,Rob Sand and Dave Muhlbauer,DEM,73,18,55
 Harrison,Precinct #3 Dunlap,Governor,,Rob Sand and Dave Muhlbauer,DEM,245,70,175
 Harrison,Precinct #4 Mondamin,Governor,,Rob Sand and Dave Muhlbauer,DEM,94,22,72
-Harrison,Precinct #5 Magnolia,Governor,,Rob Sand and Dave Muhlbauer,DEM,157,79,78
+Harrison,Precinct #5 Magnolia,Governor,,Rob Sand and Dave Muhlbauer,DEM,158,80,78
 Harrison,Precinct #6 Woodbine,Governor,,Rob Sand and Dave Muhlbauer,DEM,360,94,266
 Harrison,Precinct #7 Modale,Governor,,Rob Sand and Dave Muhlbauer,DEM,130,52,78
 Harrison,Precinct #8 Logan,Governor,,Rob Sand and Dave Muhlbauer,DEM,370,156,214
@@ -628,7 +634,7 @@ Harrison,Precinct #10 Missouri Valley City,Governor,,Zach Lahn and Derek Wulf,RE
 Harrison,Precinct #11 Persia,Governor,,Zach Lahn and Derek Wulf,REP,320,78,242
 Harrison,Precinct #2 Pisgah,Governor,,Zach Lahn and Derek Wulf,REP,186,29,157
 Harrison,Precinct #3 Dunlap,Governor,,Zach Lahn and Derek Wulf,REP,335,60,275
-Harrison,Precinct #4 Mondamin,Governor,,Zach Lahn and Derek Wulf,REP,180,24,156
+Harrison,Precinct #4 Mondamin,Governor,,Zach Lahn and Derek Wulf,REP,181,25,156
 Harrison,Precinct #5 Magnolia,Governor,,Zach Lahn and Derek Wulf,REP,339,105,234
 Harrison,Precinct #6 Woodbine,Governor,,Zach Lahn and Derek Wulf,REP,507,97,410
 Harrison,Precinct #7 Modale,Governor,,Zach Lahn and Derek Wulf,REP,201,30,171
@@ -639,43 +645,53 @@ Harrison,Precinct #3 Dunlap,Harrison Township Clerk,,Write-In,,0,0,0
 Harrison,Precinct #3 Dunlap,Harrison Township Trustee,,Brian McGinn,,72,19,53
 Harrison,Precinct #3 Dunlap,Harrison Township Trustee,,Tony Casperson,,79,19,60
 Harrison,Precinct #3 Dunlap,Harrison Township Trustee,,Write-In,,0,0,0
-Harrison,Precinct #2 Pisgah,Jackson Township Clerk,,Write-In,,10,3,7
+Harrison,Precinct #2 Pisgah,Jackson Township Clerk,,Jeff Clark,,3,2,1
+Harrison,Precinct #2 Pisgah,Jackson Township Clerk,,Write-In,,7,1,6
 Harrison,Precinct #2 Pisgah,Jackson Township Trustee,,Gary Jensen,,64,9,55
 Harrison,Precinct #2 Pisgah,Jackson Township Trustee,,Jeff Clark,,69,18,51
 Harrison,Precinct #2 Pisgah,Jackson Township Trustee,,Write-In,,1,0,1
-Harrison,Precinct #8 Logan,Jefferson Township Clerk,,Write-In,,15,4,11
+Harrison,Precinct #8 Logan,Jefferson Township Clerk,,Anna Evans,,9,2,7
+Harrison,Precinct #8 Logan,Jefferson Township Clerk,,Write-In,,6,2,4
+Harrison,Precinct #8 Logan,Jefferson Township Trustee,,Michael Maguire,,6,4,2
 Harrison,Precinct #8 Logan,Jefferson Township Trustee,,Ronald Koenig,,175,68,107
-Harrison,Precinct #8 Logan,Jefferson Township Trustee,,Write-In,,11,5,6
+Harrison,Precinct #8 Logan,Jefferson Township Trustee,,Write-In,,5,1,4
 Harrison,Precinct #8 Logan,LaGrange Township Clerk,,Kimberly A. Clark,,224,75,149
 Harrison,Precinct #8 Logan,LaGrange Township Clerk,,Write-In,,4,0,4
 Harrison,Precinct #8 Logan,LaGrange Township Trustee,,Kenneth McIntosh,,205,68,137
 Harrison,Precinct #8 Logan,LaGrange Township Trustee,,Ryan Kastner,,179,59,120
 Harrison,Precinct #8 Logan,LaGrange Township Trustee,,Write-In,,9,0,9
-Harrison,Precinct #6 Woodbine,Lincoln Township Clerk,,Write-In,,4,1,3
+Harrison,Precinct #6 Woodbine,Lincoln Township Clerk,,Ellen Andersen,,2,0,2
+Harrison,Precinct #6 Woodbine,Lincoln Township Clerk,,Write-In,,2,1,1
 Harrison,Precinct #6 Woodbine,Lincoln Township Trustee,,Brian Donn,,51,11,40
-Harrison,Precinct #6 Woodbine,Lincoln Township Trustee,,Write-In,,7,1,6
+Harrison,Precinct #6 Woodbine,Lincoln Township Trustee,,Cade Cleveland,,5,0,5
+Harrison,Precinct #6 Woodbine,Lincoln Township Trustee,,Write-In,,2,1,1
 Harrison,Precinct #1 Little Sioux,Little Sioux Township Clerk,,Peggy Jo Shearer,,39,5,34
 Harrison,Precinct #1 Little Sioux,Little Sioux Township Clerk,,Write-In,,0,0,0
 Harrison,Precinct #1 Little Sioux,Little Sioux Township Trustee,,Danny Mathison,,33,3,30
 Harrison,Precinct #1 Little Sioux,Little Sioux Township Trustee,,Lance A. Baldwin,,33,4,29
 Harrison,Precinct #1 Little Sioux,Little Sioux Township Trustee,,Write-In,,2,0,2
-Harrison,Precinct #5 Magnolia,Magnolia Township Clerk,,Write-In,,14,3,11
+Harrison,Precinct #5 Magnolia,Magnolia Township Clerk,,Curtis Mether,,1,0,1
+Harrison,Precinct #5 Magnolia,Magnolia Township Clerk,,Write-In,,13,3,10
 Harrison,Precinct #5 Magnolia,Magnolia Township Trustee,,Curtis Mether,,208,72,136
-Harrison,Precinct #5 Magnolia,Magnolia Township Trustee,,Write-In,,10,1,9
-Harrison,Precinct #4 Mondamin,Morgan Township Clerk,,Write-In,,1,0,1
+Harrison,Precinct #5 Magnolia,Magnolia Township Trustee,,Dustin Mether,,2,0,2
+Harrison,Precinct #5 Magnolia,Magnolia Township Trustee,,Write-In,,8,1,7
+Harrison,Precinct #4 Mondamin,Morgan Township Clerk,,Tim Faylor,,1,0,1
+Harrison,Precinct #4 Mondamin,Morgan Township Clerk,,Write-In,,0,0,0
 Harrison,Precinct #4 Mondamin,Morgan Township Trustee,,Connie Ehlert,,21,4,17
 Harrison,Precinct #4 Mondamin,Morgan Township Trustee,,Keaton King,,22,4,18
 Harrison,Precinct #4 Mondamin,Morgan Township Trustee,,Write-In,,0,0,0
-Harrison,Precinct #4 Mondamin,Raglan Township Clerk,,Write-In,,11,1,10
-Harrison,Precinct #4 Mondamin,Raglan Township Trustee,,D. Roger Spooner,,106,24,82
-Harrison,Precinct #4 Mondamin,Raglan Township Trustee,,Write-In,,14,3,11
+Harrison,Precinct #4 Mondamin,Raglan Township Clerk,,Matthew Earlywine,,5,0,5
+Harrison,Precinct #4 Mondamin,Raglan Township Clerk,,Write-In,,6,1,5
+Harrison,Precinct #4 Mondamin,Raglan Township Trustee,,D. Roger Spooner,,107,25,82
+Harrison,Precinct #4 Mondamin,Raglan Township Trustee,,Gary Wilkerson,,8,3,5
+Harrison,Precinct #4 Mondamin,Raglan Township Trustee,,Write-In,,6,0,6
 Harrison,Precinct #1 Little Sioux,Secretary of Agriculture,,Chris Jones,DEM,40,4,36
 Harrison,Precinct #10 Missouri Valley City,Secretary of Agriculture,,Chris Jones,DEM,369,88,281
 Harrison,Precinct #11 Persia,Secretary of Agriculture,,Chris Jones,DEM,125,42,83
 Harrison,Precinct #2 Pisgah,Secretary of Agriculture,,Chris Jones,DEM,60,16,44
 Harrison,Precinct #3 Dunlap,Secretary of Agriculture,,Chris Jones,DEM,208,60,148
 Harrison,Precinct #4 Mondamin,Secretary of Agriculture,,Chris Jones,DEM,77,17,60
-Harrison,Precinct #5 Magnolia,Secretary of Agriculture,,Chris Jones,DEM,121,59,62
+Harrison,Precinct #5 Magnolia,Secretary of Agriculture,,Chris Jones,DEM,122,60,62
 Harrison,Precinct #6 Woodbine,Secretary of Agriculture,,Chris Jones,DEM,275,77,198
 Harrison,Precinct #7 Modale,Secretary of Agriculture,,Chris Jones,DEM,113,44,69
 Harrison,Precinct #8 Logan,Secretary of Agriculture,,Chris Jones,DEM,329,136,193
@@ -685,7 +701,7 @@ Harrison,Precinct #10 Missouri Valley City,Secretary of Agriculture,,Mike Naig,R
 Harrison,Precinct #11 Persia,Secretary of Agriculture,,Mike Naig,REP,336,84,252
 Harrison,Precinct #2 Pisgah,Secretary of Agriculture,,Mike Naig,REP,185,31,154
 Harrison,Precinct #3 Dunlap,Secretary of Agriculture,,Mike Naig,REP,365,68,297
-Harrison,Precinct #4 Mondamin,Secretary of Agriculture,,Mike Naig,REP,194,29,165
+Harrison,Precinct #4 Mondamin,Secretary of Agriculture,,Mike Naig,REP,195,30,165
 Harrison,Precinct #5 Magnolia,Secretary of Agriculture,,Mike Naig,REP,354,114,240
 Harrison,Precinct #6 Woodbine,Secretary of Agriculture,,Mike Naig,REP,562,106,456
 Harrison,Precinct #7 Modale,Secretary of Agriculture,,Mike Naig,REP,212,37,175
@@ -707,7 +723,7 @@ Harrison,Precinct #10 Missouri Valley City,Secretary of State,,Paul D. Pate,REP,
 Harrison,Precinct #11 Persia,Secretary of State,,Paul D. Pate,REP,330,81,249
 Harrison,Precinct #2 Pisgah,Secretary of State,,Paul D. Pate,REP,182,32,150
 Harrison,Precinct #3 Dunlap,Secretary of State,,Paul D. Pate,REP,365,69,296
-Harrison,Precinct #4 Mondamin,Secretary of State,,Paul D. Pate,REP,189,26,163
+Harrison,Precinct #4 Mondamin,Secretary of State,,Paul D. Pate,REP,190,27,163
 Harrison,Precinct #5 Magnolia,Secretary of State,,Paul D. Pate,REP,356,112,244
 Harrison,Precinct #6 Woodbine,Secretary of State,,Paul D. Pate,REP,550,103,447
 Harrison,Precinct #7 Modale,Secretary of State,,Paul D. Pate,REP,210,40,170
@@ -719,7 +735,7 @@ Harrison,Precinct #11 Persia,Secretary of State,,Ryan Peterman,DEM,126,43,83
 Harrison,Precinct #2 Pisgah,Secretary of State,,Ryan Peterman,DEM,67,15,52
 Harrison,Precinct #3 Dunlap,Secretary of State,,Ryan Peterman,DEM,208,60,148
 Harrison,Precinct #4 Mondamin,Secretary of State,,Ryan Peterman,DEM,82,20,62
-Harrison,Precinct #5 Magnolia,Secretary of State,,Ryan Peterman,DEM,121,59,62
+Harrison,Precinct #5 Magnolia,Secretary of State,,Ryan Peterman,DEM,122,60,62
 Harrison,Precinct #6 Woodbine,Secretary of State,,Ryan Peterman,DEM,284,80,204
 Harrison,Precinct #7 Modale,Secretary of State,,Ryan Peterman,DEM,115,42,73
 Harrison,Precinct #8 Logan,Secretary of State,,Ryan Peterman,DEM,320,134,186
@@ -740,7 +756,7 @@ Harrison,Precinct #10 Missouri Valley City,Soil and Water Conservation District 
 Harrison,Precinct #11 Persia,Soil and Water Conservation District Commissioner,,Rolland A. Roberts,,295,89,206
 Harrison,Precinct #2 Pisgah,Soil and Water Conservation District Commissioner,,Rolland A. Roberts,,164,31,133
 Harrison,Precinct #3 Dunlap,Soil and Water Conservation District Commissioner,,Rolland A. Roberts,,447,98,349
-Harrison,Precinct #4 Mondamin,Soil and Water Conservation District Commissioner,,Rolland A. Roberts,,163,24,139
+Harrison,Precinct #4 Mondamin,Soil and Water Conservation District Commissioner,,Rolland A. Roberts,,164,25,139
 Harrison,Precinct #5 Magnolia,Soil and Water Conservation District Commissioner,,Rolland A. Roberts,,303,117,186
 Harrison,Precinct #6 Woodbine,Soil and Water Conservation District Commissioner,,Rolland A. Roberts,,589,135,454
 Harrison,Precinct #7 Modale,Soil and Water Conservation District Commissioner,,Rolland A. Roberts,,197,51,146
@@ -751,7 +767,7 @@ Harrison,Precinct #10 Missouri Valley City,Soil and Water Conservation District 
 Harrison,Precinct #11 Persia,Soil and Water Conservation District Commissioner,,Wilbur Bruce Busing,,294,90,204
 Harrison,Precinct #2 Pisgah,Soil and Water Conservation District Commissioner,,Wilbur Bruce Busing,,160,29,131
 Harrison,Precinct #3 Dunlap,Soil and Water Conservation District Commissioner,,Wilbur Bruce Busing,,289,62,227
-Harrison,Precinct #4 Mondamin,Soil and Water Conservation District Commissioner,,Wilbur Bruce Busing,,148,27,121
+Harrison,Precinct #4 Mondamin,Soil and Water Conservation District Commissioner,,Wilbur Bruce Busing,,149,28,121
 Harrison,Precinct #5 Magnolia,Soil and Water Conservation District Commissioner,,Wilbur Bruce Busing,,301,116,185
 Harrison,Precinct #6 Woodbine,Soil and Water Conservation District Commissioner,,Wilbur Bruce Busing,,526,114,412
 Harrison,Precinct #7 Modale,Soil and Water Conservation District Commissioner,,Wilbur Bruce Busing,,225,57,168
@@ -771,14 +787,15 @@ Harrison,Precinct #9 St John Twp,Soil and Water Conservation District Commission
 Harrison,Precinct #9 St John Twp,St John Township Clerk,,Rene Gochenour,,510,143,367
 Harrison,Precinct #9 St John Twp,St John Township Clerk,,Write-In,,5,1,4
 Harrison,Precinct #9 St John Twp,St John Township Trustee,,Forrest Gochenour,,521,147,374
-Harrison,Precinct #9 St John Twp,St John Township Trustee,,Write-In,,18,4,14
+Harrison,Precinct #9 St John Twp,St John Township Trustee,,Lynn Goodrich,,3,0,3
+Harrison,Precinct #9 St John Twp,St John Township Trustee,,Write-In,,15,4,11
 Harrison,Precinct #1 Little Sioux,State House,15,Benjamin Schauer,DEM,29,4,25
 Harrison,Precinct #10 Missouri Valley City,State House,15,Benjamin Schauer,DEM,289,81,208
 Harrison,Precinct #11 Persia,State House,15,Benjamin Schauer,DEM,109,42,67
 Harrison,Precinct #2 Pisgah,State House,15,Benjamin Schauer,DEM,38,10,28
 Harrison,Precinct #3 Dunlap,State House,15,Benjamin Schauer,DEM,228,59,169
 Harrison,Precinct #4 Mondamin,State House,15,Benjamin Schauer,DEM,54,18,36
-Harrison,Precinct #5 Magnolia,State House,15,Benjamin Schauer,DEM,91,45,46
+Harrison,Precinct #5 Magnolia,State House,15,Benjamin Schauer,DEM,92,46,46
 Harrison,Precinct #6 Woodbine,State House,15,Benjamin Schauer,DEM,238,73,165
 Harrison,Precinct #7 Modale,State House,15,Benjamin Schauer,DEM,82,32,50
 Harrison,Precinct #8 Logan,State House,15,Benjamin Schauer,DEM,248,109,139
@@ -799,7 +816,7 @@ Harrison,Precinct #10 Missouri Valley City,State House,15,Jason Sherer,REP,422,8
 Harrison,Precinct #11 Persia,State House,15,Jason Sherer,REP,323,74,249
 Harrison,Precinct #2 Pisgah,State House,15,Jason Sherer,REP,203,36,167
 Harrison,Precinct #3 Dunlap,State House,15,Jason Sherer,REP,330,62,268
-Harrison,Precinct #4 Mondamin,State House,15,Jason Sherer,REP,200,23,177
+Harrison,Precinct #4 Mondamin,State House,15,Jason Sherer,REP,201,24,177
 Harrison,Precinct #5 Magnolia,State House,15,Jason Sherer,REP,368,121,247
 Harrison,Precinct #6 Woodbine,State House,15,Jason Sherer,REP,565,100,465
 Harrison,Precinct #7 Modale,State House,15,Jason Sherer,REP,217,40,177
@@ -827,7 +844,8 @@ Harrison,Precinct #6 Woodbine,State House,15,Write-In,,1,0,1
 Harrison,Precinct #7 Modale,State House,15,Write-In,,0,0,0
 Harrison,Precinct #8 Logan,State House,15,Write-In,,0,0,0
 Harrison,Precinct #9 St John Twp,State House,15,Write-In,,0,0,0
-Harrison,Precinct #7 Modale,Taylor Township Clerk,,Write-In,,9,1,8
+Harrison,Precinct #7 Modale,Taylor Township Clerk,,Jill Higgins,,5,1,4
+Harrison,Precinct #7 Modale,Taylor Township Clerk,,Write-In,,4,0,4
 Harrison,Precinct #7 Modale,Taylor Township Trustee,,Mark Flint,,66,21,45
 Harrison,Precinct #7 Modale,Taylor Township Trustee,,Michael E. Stolz,,75,28,47
 Harrison,Precinct #7 Modale,Taylor Township Trustee,,Write-In,,1,0,1
@@ -837,7 +855,7 @@ Harrison,Precinct #11 Persia,Treasurer of State,,John Norwood,DEM,128,43,85
 Harrison,Precinct #2 Pisgah,Treasurer of State,,John Norwood,DEM,60,16,44
 Harrison,Precinct #3 Dunlap,Treasurer of State,,John Norwood,DEM,216,61,155
 Harrison,Precinct #4 Mondamin,Treasurer of State,,John Norwood,DEM,84,20,64
-Harrison,Precinct #5 Magnolia,Treasurer of State,,John Norwood,DEM,122,62,60
+Harrison,Precinct #5 Magnolia,Treasurer of State,,John Norwood,DEM,123,63,60
 Harrison,Precinct #6 Woodbine,Treasurer of State,,John Norwood,DEM,297,81,216
 Harrison,Precinct #7 Modale,Treasurer of State,,John Norwood,DEM,124,47,77
 Harrison,Precinct #8 Logan,Treasurer of State,,John Norwood,DEM,346,150,196
@@ -847,7 +865,7 @@ Harrison,Precinct #10 Missouri Valley City,Treasurer of State,,Roby Smith,REP,46
 Harrison,Precinct #11 Persia,Treasurer of State,,Roby Smith,REP,325,81,244
 Harrison,Precinct #2 Pisgah,Treasurer of State,,Roby Smith,REP,181,29,152
 Harrison,Precinct #3 Dunlap,Treasurer of State,,Roby Smith,REP,349,65,284
-Harrison,Precinct #4 Mondamin,Treasurer of State,,Roby Smith,REP,177,24,153
+Harrison,Precinct #4 Mondamin,Treasurer of State,,Roby Smith,REP,178,25,153
 Harrison,Precinct #5 Magnolia,Treasurer of State,,Roby Smith,REP,342,107,235
 Harrison,Precinct #6 Woodbine,Treasurer of State,,Roby Smith,REP,524,101,423
 Harrison,Precinct #7 Modale,Treasurer of State,,Roby Smith,REP,199,34,165
@@ -869,7 +887,7 @@ Harrison,Precinct #10 Missouri Valley City,U.S. House,4,Chris McGowan,REP,456,83
 Harrison,Precinct #11 Persia,U.S. House,4,Chris McGowan,REP,323,78,245
 Harrison,Precinct #2 Pisgah,U.S. House,4,Chris McGowan,REP,181,31,150
 Harrison,Precinct #3 Dunlap,U.S. House,4,Chris McGowan,REP,350,61,289
-Harrison,Precinct #4 Mondamin,U.S. House,4,Chris McGowan,REP,178,24,154
+Harrison,Precinct #4 Mondamin,U.S. House,4,Chris McGowan,REP,179,25,154
 Harrison,Precinct #5 Magnolia,U.S. House,4,Chris McGowan,REP,336,102,234
 Harrison,Precinct #6 Woodbine,U.S. House,4,Chris McGowan,REP,524,97,427
 Harrison,Precinct #7 Modale,U.S. House,4,Chris McGowan,REP,204,33,171
@@ -881,7 +899,7 @@ Harrison,Precinct #11 Persia,U.S. House,4,Dave Dawson,DEM,129,45,84
 Harrison,Precinct #2 Pisgah,U.S. House,4,Dave Dawson,DEM,60,15,45
 Harrison,Precinct #3 Dunlap,U.S. House,4,Dave Dawson,DEM,210,65,145
 Harrison,Precinct #4 Mondamin,U.S. House,4,Dave Dawson,DEM,86,20,66
-Harrison,Precinct #5 Magnolia,U.S. House,4,Dave Dawson,DEM,131,69,62
+Harrison,Precinct #5 Magnolia,U.S. House,4,Dave Dawson,DEM,132,70,62
 Harrison,Precinct #6 Woodbine,U.S. House,4,Dave Dawson,DEM,307,87,220
 Harrison,Precinct #7 Modale,U.S. House,4,Dave Dawson,DEM,116,45,71
 Harrison,Precinct #8 Logan,U.S. House,4,Dave Dawson,DEM,343,147,196
@@ -902,7 +920,7 @@ Harrison,Precinct #10 Missouri Valley City,U.S. Senate,,Ashley Hinson,REP,408,79
 Harrison,Precinct #11 Persia,U.S. Senate,,Ashley Hinson,REP,294,72,222
 Harrison,Precinct #2 Pisgah,U.S. Senate,,Ashley Hinson,REP,169,30,139
 Harrison,Precinct #3 Dunlap,U.S. Senate,,Ashley Hinson,REP,318,58,260
-Harrison,Precinct #4 Mondamin,U.S. Senate,,Ashley Hinson,REP,152,23,129
+Harrison,Precinct #4 Mondamin,U.S. Senate,,Ashley Hinson,REP,153,24,129
 Harrison,Precinct #5 Magnolia,U.S. Senate,,Ashley Hinson,REP,315,97,218
 Harrison,Precinct #6 Woodbine,U.S. Senate,,Ashley Hinson,REP,471,88,383
 Harrison,Precinct #7 Modale,U.S. Senate,,Ashley Hinson,REP,186,30,156
@@ -914,7 +932,7 @@ Harrison,Precinct #11 Persia,U.S. Senate,,Josh Turek,DEM,143,45,98
 Harrison,Precinct #2 Pisgah,U.S. Senate,,Josh Turek,DEM,64,16,48
 Harrison,Precinct #3 Dunlap,U.S. Senate,,Josh Turek,DEM,234,66,168
 Harrison,Precinct #4 Mondamin,U.S. Senate,,Josh Turek,DEM,96,22,74
-Harrison,Precinct #5 Magnolia,U.S. Senate,,Josh Turek,DEM,153,73,80
+Harrison,Precinct #5 Magnolia,U.S. Senate,,Josh Turek,DEM,154,74,80
 Harrison,Precinct #6 Woodbine,U.S. Senate,,Josh Turek,DEM,328,87,241
 Harrison,Precinct #7 Modale,U.S. Senate,,Josh Turek,DEM,118,45,73
 Harrison,Precinct #8 Logan,U.S. Senate,,Josh Turek,DEM,344,143,201
@@ -949,4 +967,5 @@ Harrison,Precinct #11 Persia,Union Township Trustee,,Write-In,,3,0,3
 Harrison,Precinct #11 Persia,Washington Township Clerk,,Lynn Stamp,,143,29,114
 Harrison,Precinct #11 Persia,Washington Township Clerk,,Write-In,,4,1,3
 Harrison,Precinct #11 Persia,Washington Township Trustee,,Randy Zacharias,,142,30,112
-Harrison,Precinct #11 Persia,Washington Township Trustee,,Write-In,,8,1,7
+Harrison,Precinct #11 Persia,Washington Township Trustee,,Scott Dollen,,2,1,1
+Harrison,Precinct #11 Persia,Washington Township Trustee,,Write-In,,6,0,6

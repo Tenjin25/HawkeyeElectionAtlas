@@ -1,11 +1,14 @@
 county,precinct,office,district,candidate,party,votes,absentee,election_day
 Carroll,Arcadia Precinct,Arcadia Township Clerk,,Curt Schweers,,65,19,46
 Carroll,Arcadia Precinct,Arcadia Township Clerk,,Write-In,,0,0,0
-Carroll,Arcadia Precinct,Arcadia Township Trustee,,Write-In,,3,0,3
+Carroll,Arcadia Precinct,Arcadia Township Trustee,,Brian Kraus,,1,0,1
+Carroll,Arcadia Precinct,Arcadia Township Trustee,,Jesse Irlbeck,,1,0,1
+Carroll,Arcadia Precinct,Arcadia Township Trustee,,Tom Eich,,1,0,1
+Carroll,Arcadia Precinct,Arcadia Township Trustee,,Write-In,,0,0,0
 Carroll,Arcadia Precinct,Attorney General,,Brenna Bird,REP,208,44,164
-Carroll,Carroll Ward Four,Attorney General,,Brenna Bird,REP,502,271,231
-Carroll,Carroll Ward One and PT Grant TWP,Attorney General,,Brenna Bird,REP,736,318,418
-Carroll,Carroll Ward Three and S1/2 Maple River Township,Attorney General,,Brenna Bird,REP,644,308,336
+Carroll,Carroll Ward Four,Attorney General,,Brenna Bird,REP,503,272,231
+Carroll,Carroll Ward One and PT Grant TWP,Attorney General,,Brenna Bird,REP,739,321,418
+Carroll,Carroll Ward Three and S1/2 Maple River Township,Attorney General,,Brenna Bird,REP,645,309,336
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Attorney General,,Brenna Bird,REP,746,292,454
 Carroll,Eden,Attorney General,,Brenna Bird,REP,214,26,188
 Carroll,Ewoldt,Attorney General,,Brenna Bird,REP,487,114,373
@@ -21,7 +24,7 @@ Carroll,Carroll Ward One and PT Grant TWP,Attorney General,,Nate Willems,DEM,437
 Carroll,Carroll Ward Three and S1/2 Maple River Township,Attorney General,,Nate Willems,DEM,434,272,162
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Attorney General,,Nate Willems,DEM,517,289,228
 Carroll,Eden,Attorney General,,Nate Willems,DEM,77,19,58
-Carroll,Ewoldt,Attorney General,,Nate Willems,DEM,272,95,177
+Carroll,Ewoldt,Attorney General,,Nate Willems,DEM,273,96,177
 Carroll,Glidden-Richland,Attorney General,,Nate Willems,DEM,223,75,148
 Carroll,Pleasant Valley-Newton,Attorney General,,Nate Willems,DEM,78,38,40
 Carroll,Sheridan-Grant-Jasper,Attorney General,,Nate Willems,DEM,153,66,87
@@ -42,9 +45,9 @@ Carroll,Union,Attorney General,,Write-In,,0,0,0
 Carroll,Washington-Roselle,Attorney General,,Write-In,,0,0,0
 Carroll,Wheatland-Kniest,Attorney General,,Write-In,,2,1,1
 Carroll,Arcadia Precinct,Auditor of State,,Chris Cournoyer,REP,217,44,173
-Carroll,Carroll Ward Four,Auditor of State,,Chris Cournoyer,REP,485,254,231
-Carroll,Carroll Ward One and PT Grant TWP,Auditor of State,,Chris Cournoyer,REP,716,312,404
-Carroll,Carroll Ward Three and S1/2 Maple River Township,Auditor of State,,Chris Cournoyer,REP,635,295,340
+Carroll,Carroll Ward Four,Auditor of State,,Chris Cournoyer,REP,486,255,231
+Carroll,Carroll Ward One and PT Grant TWP,Auditor of State,,Chris Cournoyer,REP,719,315,404
+Carroll,Carroll Ward Three and S1/2 Maple River Township,Auditor of State,,Chris Cournoyer,REP,636,296,340
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Auditor of State,,Chris Cournoyer,REP,710,266,444
 Carroll,Eden,Auditor of State,,Chris Cournoyer,REP,220,27,193
 Carroll,Ewoldt,Auditor of State,,Chris Cournoyer,REP,475,110,365
@@ -60,7 +63,7 @@ Carroll,Carroll Ward One and PT Grant TWP,Auditor of State,,Taylor Wettach,DEM,4
 Carroll,Carroll Ward Three and S1/2 Maple River Township,Auditor of State,,Taylor Wettach,DEM,425,274,151
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Auditor of State,,Taylor Wettach,DEM,526,303,223
 Carroll,Eden,Auditor of State,,Taylor Wettach,DEM,63,18,45
-Carroll,Ewoldt,Auditor of State,,Taylor Wettach,DEM,275,95,180
+Carroll,Ewoldt,Auditor of State,,Taylor Wettach,DEM,276,96,180
 Carroll,Glidden-Richland,Auditor of State,,Taylor Wettach,DEM,202,73,129
 Carroll,Pleasant Valley-Newton,Auditor of State,,Taylor Wettach,DEM,72,33,39
 Carroll,Sheridan-Grant-Jasper,Auditor of State,,Taylor Wettach,DEM,147,64,83
@@ -82,8 +85,8 @@ Carroll,Washington-Roselle,Auditor of State,,Write-In,,0,0,0
 Carroll,Wheatland-Kniest,Auditor of State,,Write-In,,0,0,0
 Carroll,Arcadia Precinct,Carroll School - Public Measure DA,,No,,21,10,11
 Carroll,Carroll Ward Four,Carroll School - Public Measure DA,,No,,433,243,190
-Carroll,Carroll Ward One and PT Grant TWP,Carroll School - Public Measure DA,,No,,643,294,349
-Carroll,Carroll Ward Three and S1/2 Maple River Township,Carroll School - Public Measure DA,,No,,561,283,278
+Carroll,Carroll Ward One and PT Grant TWP,Carroll School - Public Measure DA,,No,,646,297,349
+Carroll,Carroll Ward Three and S1/2 Maple River Township,Carroll School - Public Measure DA,,No,,562,284,278
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Carroll School - Public Measure DA,,No,,606,259,347
 Carroll,Eden,Carroll School - Public Measure DA,,No,,166,26,140
 Carroll,Pleasant Valley-Newton,Carroll School - Public Measure DA,,No,,218,72,146
@@ -91,7 +94,7 @@ Carroll,Sheridan-Grant-Jasper,Carroll School - Public Measure DA,,No,,204,70,134
 Carroll,Washington-Roselle,Carroll School - Public Measure DA,,No,,209,49,160
 Carroll,Wheatland-Kniest,Carroll School - Public Measure DA,,No,,336,61,275
 Carroll,Arcadia Precinct,Carroll School - Public Measure DA,,Yes,,6,2,4
-Carroll,Carroll Ward Four,Carroll School - Public Measure DA,,Yes,,424,265,159
+Carroll,Carroll Ward Four,Carroll School - Public Measure DA,,Yes,,425,266,159
 Carroll,Carroll Ward One and PT Grant TWP,Carroll School - Public Measure DA,,Yes,,580,284,296
 Carroll,Carroll Ward Three and S1/2 Maple River Township,Carroll School - Public Measure DA,,Yes,,537,298,239
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Carroll School - Public Measure DA,,Yes,,677,331,346
@@ -114,12 +117,12 @@ Carroll,Union,Constitutional Amendment 1,,No,,170,53,117
 Carroll,Washington-Roselle,Constitutional Amendment 1,,No,,117,28,89
 Carroll,Wheatland-Kniest,Constitutional Amendment 1,,No,,132,29,103
 Carroll,Arcadia Precinct,Constitutional Amendment 1,,Yes,,184,38,146
-Carroll,Carroll Ward Four,Constitutional Amendment 1,,Yes,,486,288,198
-Carroll,Carroll Ward One and PT Grant TWP,Constitutional Amendment 1,,Yes,,676,321,355
-Carroll,Carroll Ward Three and S1/2 Maple River Township,Constitutional Amendment 1,,Yes,,639,329,310
+Carroll,Carroll Ward Four,Constitutional Amendment 1,,Yes,,487,289,198
+Carroll,Carroll Ward One and PT Grant TWP,Constitutional Amendment 1,,Yes,,679,324,355
+Carroll,Carroll Ward Three and S1/2 Maple River Township,Constitutional Amendment 1,,Yes,,640,330,310
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Constitutional Amendment 1,,Yes,,687,280,407
 Carroll,Eden,Constitutional Amendment 1,,Yes,,172,26,146
-Carroll,Ewoldt,Constitutional Amendment 1,,Yes,,423,103,320
+Carroll,Ewoldt,Constitutional Amendment 1,,Yes,,424,104,320
 Carroll,Glidden-Richland,Constitutional Amendment 1,,Yes,,402,92,310
 Carroll,Pleasant Valley-Newton,Constitutional Amendment 1,,Yes,,222,74,148
 Carroll,Sheridan-Grant-Jasper,Constitutional Amendment 1,,Yes,,290,108,182
@@ -127,12 +130,12 @@ Carroll,Union,Constitutional Amendment 1,,Yes,,357,71,286
 Carroll,Washington-Roselle,Constitutional Amendment 1,,Yes,,263,64,199
 Carroll,Wheatland-Kniest,Constitutional Amendment 1,,Yes,,355,63,292
 Carroll,Arcadia Precinct,County Agricultural Extension Council Member,,Ashley Wilson,,144,33,111
-Carroll,Carroll Ward Four,County Agricultural Extension Council Member,,Ashley Wilson,,350,191,159
+Carroll,Carroll Ward Four,County Agricultural Extension Council Member,,Ashley Wilson,,351,192,159
 Carroll,Carroll Ward One and PT Grant TWP,County Agricultural Extension Council Member,,Ashley Wilson,,508,252,256
-Carroll,Carroll Ward Three and S1/2 Maple River Township,County Agricultural Extension Council Member,,Ashley Wilson,,488,244,244
+Carroll,Carroll Ward Three and S1/2 Maple River Township,County Agricultural Extension Council Member,,Ashley Wilson,,489,245,244
 Carroll,Carroll Ward Two and N1/2 Maple River Township,County Agricultural Extension Council Member,,Ashley Wilson,,537,226,311
 Carroll,Eden,County Agricultural Extension Council Member,,Ashley Wilson,,142,22,120
-Carroll,Ewoldt,County Agricultural Extension Council Member,,Ashley Wilson,,371,99,272
+Carroll,Ewoldt,County Agricultural Extension Council Member,,Ashley Wilson,,372,100,272
 Carroll,Glidden-Richland,County Agricultural Extension Council Member,,Ashley Wilson,,317,86,231
 Carroll,Pleasant Valley-Newton,County Agricultural Extension Council Member,,Ashley Wilson,,165,45,120
 Carroll,Sheridan-Grant-Jasper,County Agricultural Extension Council Member,,Ashley Wilson,,212,77,135
@@ -140,12 +143,12 @@ Carroll,Union,County Agricultural Extension Council Member,,Ashley Wilson,,287,6
 Carroll,Washington-Roselle,County Agricultural Extension Council Member,,Ashley Wilson,,196,46,150
 Carroll,Wheatland-Kniest,County Agricultural Extension Council Member,,Ashley Wilson,,249,45,204
 Carroll,Arcadia Precinct,County Agricultural Extension Council Member,,Brett Greve,,156,34,122
-Carroll,Carroll Ward Four,County Agricultural Extension Council Member,,Brett Greve,,371,202,169
+Carroll,Carroll Ward Four,County Agricultural Extension Council Member,,Brett Greve,,372,203,169
 Carroll,Carroll Ward One and PT Grant TWP,County Agricultural Extension Council Member,,Brett Greve,,505,255,250
-Carroll,Carroll Ward Three and S1/2 Maple River Township,County Agricultural Extension Council Member,,Brett Greve,,492,245,247
+Carroll,Carroll Ward Three and S1/2 Maple River Township,County Agricultural Extension Council Member,,Brett Greve,,493,246,247
 Carroll,Carroll Ward Two and N1/2 Maple River Township,County Agricultural Extension Council Member,,Brett Greve,,541,231,310
 Carroll,Eden,County Agricultural Extension Council Member,,Brett Greve,,159,21,138
-Carroll,Ewoldt,County Agricultural Extension Council Member,,Brett Greve,,391,105,286
+Carroll,Ewoldt,County Agricultural Extension Council Member,,Brett Greve,,392,106,286
 Carroll,Glidden-Richland,County Agricultural Extension Council Member,,Brett Greve,,329,91,238
 Carroll,Pleasant Valley-Newton,County Agricultural Extension Council Member,,Brett Greve,,185,47,138
 Carroll,Sheridan-Grant-Jasper,County Agricultural Extension Council Member,,Brett Greve,,256,82,174
@@ -153,12 +156,12 @@ Carroll,Union,County Agricultural Extension Council Member,,Brett Greve,,298,65,
 Carroll,Washington-Roselle,County Agricultural Extension Council Member,,Brett Greve,,209,47,162
 Carroll,Wheatland-Kniest,County Agricultural Extension Council Member,,Brett Greve,,311,55,256
 Carroll,Arcadia Precinct,County Agricultural Extension Council Member,,David Slechta,,180,39,141
-Carroll,Carroll Ward Four,County Agricultural Extension Council Member,,David Slechta,,403,229,174
+Carroll,Carroll Ward Four,County Agricultural Extension Council Member,,David Slechta,,404,230,174
 Carroll,Carroll Ward One and PT Grant TWP,County Agricultural Extension Council Member,,David Slechta,,565,284,281
-Carroll,Carroll Ward Three and S1/2 Maple River Township,County Agricultural Extension Council Member,,David Slechta,,527,265,262
+Carroll,Carroll Ward Three and S1/2 Maple River Township,County Agricultural Extension Council Member,,David Slechta,,528,266,262
 Carroll,Carroll Ward Two and N1/2 Maple River Township,County Agricultural Extension Council Member,,David Slechta,,603,258,345
 Carroll,Eden,County Agricultural Extension Council Member,,David Slechta,,139,19,120
-Carroll,Ewoldt,County Agricultural Extension Council Member,,David Slechta,,381,108,273
+Carroll,Ewoldt,County Agricultural Extension Council Member,,David Slechta,,382,109,273
 Carroll,Glidden-Richland,County Agricultural Extension Council Member,,David Slechta,,377,101,276
 Carroll,Pleasant Valley-Newton,County Agricultural Extension Council Member,,David Slechta,,178,52,126
 Carroll,Sheridan-Grant-Jasper,County Agricultural Extension Council Member,,David Slechta,,243,85,158
@@ -166,12 +169,12 @@ Carroll,Union,County Agricultural Extension Council Member,,David Slechta,,284,6
 Carroll,Washington-Roselle,County Agricultural Extension Council Member,,David Slechta,,214,53,161
 Carroll,Wheatland-Kniest,County Agricultural Extension Council Member,,David Slechta,,319,58,261
 Carroll,Arcadia Precinct,County Agricultural Extension Council Member,,Julie A. Clancy,,150,34,116
-Carroll,Carroll Ward Four,County Agricultural Extension Council Member,,Julie A. Clancy,,377,216,161
+Carroll,Carroll Ward Four,County Agricultural Extension Council Member,,Julie A. Clancy,,378,217,161
 Carroll,Carroll Ward One and PT Grant TWP,County Agricultural Extension Council Member,,Julie A. Clancy,,509,258,251
-Carroll,Carroll Ward Three and S1/2 Maple River Township,County Agricultural Extension Council Member,,Julie A. Clancy,,497,252,245
+Carroll,Carroll Ward Three and S1/2 Maple River Township,County Agricultural Extension Council Member,,Julie A. Clancy,,498,253,245
 Carroll,Carroll Ward Two and N1/2 Maple River Township,County Agricultural Extension Council Member,,Julie A. Clancy,,540,233,307
 Carroll,Eden,County Agricultural Extension Council Member,,Julie A. Clancy,,178,25,153
-Carroll,Ewoldt,County Agricultural Extension Council Member,,Julie A. Clancy,,404,116,288
+Carroll,Ewoldt,County Agricultural Extension Council Member,,Julie A. Clancy,,405,117,288
 Carroll,Glidden-Richland,County Agricultural Extension Council Member,,Julie A. Clancy,,324,86,238
 Carroll,Pleasant Valley-Newton,County Agricultural Extension Council Member,,Julie A. Clancy,,178,52,126
 Carroll,Sheridan-Grant-Jasper,County Agricultural Extension Council Member,,Julie A. Clancy,,239,81,158
@@ -179,12 +182,12 @@ Carroll,Union,County Agricultural Extension Council Member,,Julie A. Clancy,,276
 Carroll,Washington-Roselle,County Agricultural Extension Council Member,,Julie A. Clancy,,260,58,202
 Carroll,Wheatland-Kniest,County Agricultural Extension Council Member,,Julie A. Clancy,,254,47,207
 Carroll,Arcadia Precinct,County Agricultural Extension Council Member,,Kristina Whitver Soyer,,154,39,115
-Carroll,Carroll Ward Four,County Agricultural Extension Council Member,,Kristina Whitver Soyer,,394,218,176
+Carroll,Carroll Ward Four,County Agricultural Extension Council Member,,Kristina Whitver Soyer,,395,219,176
 Carroll,Carroll Ward One and PT Grant TWP,County Agricultural Extension Council Member,,Kristina Whitver Soyer,,536,269,267
-Carroll,Carroll Ward Three and S1/2 Maple River Township,County Agricultural Extension Council Member,,Kristina Whitver Soyer,,536,264,272
+Carroll,Carroll Ward Three and S1/2 Maple River Township,County Agricultural Extension Council Member,,Kristina Whitver Soyer,,537,265,272
 Carroll,Carroll Ward Two and N1/2 Maple River Township,County Agricultural Extension Council Member,,Kristina Whitver Soyer,,583,246,337
 Carroll,Eden,County Agricultural Extension Council Member,,Kristina Whitver Soyer,,154,23,131
-Carroll,Ewoldt,County Agricultural Extension Council Member,,Kristina Whitver Soyer,,413,121,292
+Carroll,Ewoldt,County Agricultural Extension Council Member,,Kristina Whitver Soyer,,414,122,292
 Carroll,Glidden-Richland,County Agricultural Extension Council Member,,Kristina Whitver Soyer,,499,116,383
 Carroll,Pleasant Valley-Newton,County Agricultural Extension Council Member,,Kristina Whitver Soyer,,196,56,140
 Carroll,Sheridan-Grant-Jasper,County Agricultural Extension Council Member,,Kristina Whitver Soyer,,271,98,173
@@ -205,9 +208,9 @@ Carroll,Union,County Agricultural Extension Council Member,,Write-In,,5,1,4
 Carroll,Washington-Roselle,County Agricultural Extension Council Member,,Write-In,,5,1,4
 Carroll,Wheatland-Kniest,County Agricultural Extension Council Member,,Write-In,,1,0,1
 Carroll,Arcadia Precinct,County Attorney,,Curt S. Steger,REP,257,60,197
-Carroll,Carroll Ward Four,County Attorney,,Curt S. Steger,REP,657,359,298
-Carroll,Carroll Ward One and PT Grant TWP,County Attorney,,Curt S. Steger,REP,965,458,507
-Carroll,Carroll Ward Three and S1/2 Maple River Township,County Attorney,,Curt S. Steger,REP,880,449,431
+Carroll,Carroll Ward Four,County Attorney,,Curt S. Steger,REP,658,360,298
+Carroll,Carroll Ward One and PT Grant TWP,County Attorney,,Curt S. Steger,REP,967,460,507
+Carroll,Carroll Ward Three and S1/2 Maple River Township,County Attorney,,Curt S. Steger,REP,881,450,431
 Carroll,Carroll Ward Two and N1/2 Maple River Township,County Attorney,,Curt S. Steger,REP,994,435,559
 Carroll,Eden,County Attorney,,Curt S. Steger,REP,253,35,218
 Carroll,Ewoldt,County Attorney,,Curt S. Steger,REP,628,163,465
@@ -223,7 +226,7 @@ Carroll,Carroll Ward One and PT Grant TWP,County Attorney,,Write-In,,8,5,3
 Carroll,Carroll Ward Three and S1/2 Maple River Township,County Attorney,,Write-In,,13,9,4
 Carroll,Carroll Ward Two and N1/2 Maple River Township,County Attorney,,Write-In,,17,8,9
 Carroll,Eden,County Attorney,,Write-In,,1,0,1
-Carroll,Ewoldt,County Attorney,,Write-In,,13,5,8
+Carroll,Ewoldt,County Attorney,,Write-In,,14,6,8
 Carroll,Glidden-Richland,County Attorney,,Write-In,,6,3,3
 Carroll,Pleasant Valley-Newton,County Attorney,,Write-In,,1,1,0
 Carroll,Sheridan-Grant-Jasper,County Attorney,,Write-In,,5,1,4
@@ -231,12 +234,12 @@ Carroll,Union,County Attorney,,Write-In,,12,2,10
 Carroll,Washington-Roselle,County Attorney,,Write-In,,4,1,3
 Carroll,Wheatland-Kniest,County Attorney,,Write-In,,3,2,1
 Carroll,Arcadia Precinct,County Recorder,,Ashten Wittrock,REP,267,63,204
-Carroll,Carroll Ward Four,County Recorder,,Ashten Wittrock,REP,672,377,295
-Carroll,Carroll Ward One and PT Grant TWP,County Recorder,,Ashten Wittrock,REP,974,461,513
-Carroll,Carroll Ward Three and S1/2 Maple River Township,County Recorder,,Ashten Wittrock,REP,898,460,438
+Carroll,Carroll Ward Four,County Recorder,,Ashten Wittrock,REP,673,378,295
+Carroll,Carroll Ward One and PT Grant TWP,County Recorder,,Ashten Wittrock,REP,977,464,513
+Carroll,Carroll Ward Three and S1/2 Maple River Township,County Recorder,,Ashten Wittrock,REP,899,461,438
 Carroll,Carroll Ward Two and N1/2 Maple River Township,County Recorder,,Ashten Wittrock,REP,1019,446,573
 Carroll,Eden,County Recorder,,Ashten Wittrock,REP,255,34,221
-Carroll,Ewoldt,County Recorder,,Ashten Wittrock,REP,639,168,471
+Carroll,Ewoldt,County Recorder,,Ashten Wittrock,REP,640,169,471
 Carroll,Glidden-Richland,County Recorder,,Ashten Wittrock,REP,579,124,455
 Carroll,Pleasant Valley-Newton,County Recorder,,Ashten Wittrock,REP,330,93,237
 Carroll,Sheridan-Grant-Jasper,County Recorder,,Ashten Wittrock,REP,416,145,271
@@ -256,26 +259,65 @@ Carroll,Sheridan-Grant-Jasper,County Recorder,,Write-In,,3,0,3
 Carroll,Union,County Recorder,,Write-In,,9,0,9
 Carroll,Washington-Roselle,County Recorder,,Write-In,,2,0,2
 Carroll,Wheatland-Kniest,County Recorder,,Write-In,,4,0,4
-Carroll,Arcadia Precinct,County Soil and Water Conservation District Commissioner,,Write-In,,20,3,17
-Carroll,Carroll Ward Four,County Soil and Water Conservation District Commissioner,,Write-In,,45,20,25
-Carroll,Carroll Ward One and PT Grant TWP,County Soil and Water Conservation District Commissioner,,Write-In,,72,33,39
-Carroll,Carroll Ward Three and S1/2 Maple River Township,County Soil and Water Conservation District Commissioner,,Write-In,,73,25,48
-Carroll,Carroll Ward Two and N1/2 Maple River Township,County Soil and Water Conservation District Commissioner,,Write-In,,75,28,47
-Carroll,Eden,County Soil and Water Conservation District Commissioner,,Write-In,,12,4,8
-Carroll,Ewoldt,County Soil and Water Conservation District Commissioner,,Write-In,,64,15,49
-Carroll,Glidden-Richland,County Soil and Water Conservation District Commissioner,,Write-In,,33,9,24
-Carroll,Pleasant Valley-Newton,County Soil and Water Conservation District Commissioner,,Write-In,,26,1,25
-Carroll,Sheridan-Grant-Jasper,County Soil and Water Conservation District Commissioner,,Write-In,,40,8,32
-Carroll,Union,County Soil and Water Conservation District Commissioner,,Write-In,,41,12,29
-Carroll,Washington-Roselle,County Soil and Water Conservation District Commissioner,,Write-In,,47,3,44
-Carroll,Wheatland-Kniest,County Soil and Water Conservation District Commissioner,,Write-In,,30,5,25
+Carroll,Arcadia Precinct,County Soil and Water Conservation District Commissioner,,Neil Vonnahme,,4,0,4
+Carroll,Carroll Ward Four,County Soil and Water Conservation District Commissioner,,Neil Vonnahme,,1,1,0
+Carroll,Carroll Ward One and PT Grant TWP,County Soil and Water Conservation District Commissioner,,Neil Vonnahme,,6,1,5
+Carroll,Carroll Ward Three and S1/2 Maple River Township,County Soil and Water Conservation District Commissioner,,Neil Vonnahme,,4,0,4
+Carroll,Carroll Ward Two and N1/2 Maple River Township,County Soil and Water Conservation District Commissioner,,Neil Vonnahme,,0,0,0
+Carroll,Eden,County Soil and Water Conservation District Commissioner,,Neil Vonnahme,,1,0,1
+Carroll,Ewoldt,County Soil and Water Conservation District Commissioner,,Neil Vonnahme,,0,0,0
+Carroll,Glidden-Richland,County Soil and Water Conservation District Commissioner,,Neil Vonnahme,,3,1,2
+Carroll,Pleasant Valley-Newton,County Soil and Water Conservation District Commissioner,,Neil Vonnahme,,7,0,7
+Carroll,Sheridan-Grant-Jasper,County Soil and Water Conservation District Commissioner,,Neil Vonnahme,,6,0,6
+Carroll,Union,County Soil and Water Conservation District Commissioner,,Neil Vonnahme,,1,0,1
+Carroll,Washington-Roselle,County Soil and Water Conservation District Commissioner,,Neil Vonnahme,,7,0,7
+Carroll,Wheatland-Kniest,County Soil and Water Conservation District Commissioner,,Neil Vonnahme,,2,0,2
+Carroll,Arcadia Precinct,County Soil and Water Conservation District Commissioner,,Thomas Buman,,3,0,3
+Carroll,Carroll Ward Four,County Soil and Water Conservation District Commissioner,,Thomas Buman,,4,4,0
+Carroll,Carroll Ward One and PT Grant TWP,County Soil and Water Conservation District Commissioner,,Thomas Buman,,19,15,4
+Carroll,Carroll Ward Three and S1/2 Maple River Township,County Soil and Water Conservation District Commissioner,,Thomas Buman,,7,7,0
+Carroll,Carroll Ward Two and N1/2 Maple River Township,County Soil and Water Conservation District Commissioner,,Thomas Buman,,4,4,0
+Carroll,Eden,County Soil and Water Conservation District Commissioner,,Thomas Buman,,3,3,0
+Carroll,Ewoldt,County Soil and Water Conservation District Commissioner,,Thomas Buman,,2,2,0
+Carroll,Glidden-Richland,County Soil and Water Conservation District Commissioner,,Thomas Buman,,4,4,0
+Carroll,Pleasant Valley-Newton,County Soil and Water Conservation District Commissioner,,Thomas Buman,,0,0,0
+Carroll,Sheridan-Grant-Jasper,County Soil and Water Conservation District Commissioner,,Thomas Buman,,2,2,0
+Carroll,Union,County Soil and Water Conservation District Commissioner,,Thomas Buman,,3,3,0
+Carroll,Washington-Roselle,County Soil and Water Conservation District Commissioner,,Thomas Buman,,0,0,0
+Carroll,Wheatland-Kniest,County Soil and Water Conservation District Commissioner,,Thomas Buman,,5,2,3
+Carroll,Arcadia Precinct,County Soil and Water Conservation District Commissioner,,Thomas Simons,,4,0,4
+Carroll,Carroll Ward Four,County Soil and Water Conservation District Commissioner,,Thomas Simons,,2,2,0
+Carroll,Carroll Ward One and PT Grant TWP,County Soil and Water Conservation District Commissioner,,Thomas Simons,,8,3,5
+Carroll,Carroll Ward Three and S1/2 Maple River Township,County Soil and Water Conservation District Commissioner,,Thomas Simons,,6,1,5
+Carroll,Carroll Ward Two and N1/2 Maple River Township,County Soil and Water Conservation District Commissioner,,Thomas Simons,,1,1,0
+Carroll,Eden,County Soil and Water Conservation District Commissioner,,Thomas Simons,,0,0,0
+Carroll,Ewoldt,County Soil and Water Conservation District Commissioner,,Thomas Simons,,0,0,0
+Carroll,Glidden-Richland,County Soil and Water Conservation District Commissioner,,Thomas Simons,,2,0,2
+Carroll,Pleasant Valley-Newton,County Soil and Water Conservation District Commissioner,,Thomas Simons,,6,0,6
+Carroll,Sheridan-Grant-Jasper,County Soil and Water Conservation District Commissioner,,Thomas Simons,,7,0,7
+Carroll,Union,County Soil and Water Conservation District Commissioner,,Thomas Simons,,1,0,1
+Carroll,Washington-Roselle,County Soil and Water Conservation District Commissioner,,Thomas Simons,,8,0,8
+Carroll,Wheatland-Kniest,County Soil and Water Conservation District Commissioner,,Thomas Simons,,2,0,2
+Carroll,Arcadia Precinct,County Soil and Water Conservation District Commissioner,,Write-In,,9,3,6
+Carroll,Carroll Ward Four,County Soil and Water Conservation District Commissioner,,Write-In,,38,13,25
+Carroll,Carroll Ward One and PT Grant TWP,County Soil and Water Conservation District Commissioner,,Write-In,,39,14,25
+Carroll,Carroll Ward Three and S1/2 Maple River Township,County Soil and Water Conservation District Commissioner,,Write-In,,56,17,39
+Carroll,Carroll Ward Two and N1/2 Maple River Township,County Soil and Water Conservation District Commissioner,,Write-In,,70,23,47
+Carroll,Eden,County Soil and Water Conservation District Commissioner,,Write-In,,8,1,7
+Carroll,Ewoldt,County Soil and Water Conservation District Commissioner,,Write-In,,62,13,49
+Carroll,Glidden-Richland,County Soil and Water Conservation District Commissioner,,Write-In,,24,4,20
+Carroll,Pleasant Valley-Newton,County Soil and Water Conservation District Commissioner,,Write-In,,13,1,12
+Carroll,Sheridan-Grant-Jasper,County Soil and Water Conservation District Commissioner,,Write-In,,25,6,19
+Carroll,Union,County Soil and Water Conservation District Commissioner,,Write-In,,36,9,27
+Carroll,Washington-Roselle,County Soil and Water Conservation District Commissioner,,Write-In,,32,3,29
+Carroll,Wheatland-Kniest,County Soil and Water Conservation District Commissioner,,Write-In,,21,3,18
 Carroll,Arcadia Precinct,County Supervisor,2,Mary Wittry,REP,262,61,201
-Carroll,Carroll Ward Four,County Supervisor,2,Mary Wittry,REP,663,366,297
-Carroll,Carroll Ward One and PT Grant TWP,County Supervisor,2,Mary Wittry,REP,966,463,503
-Carroll,Carroll Ward Three and S1/2 Maple River Township,County Supervisor,2,Mary Wittry,REP,891,453,438
+Carroll,Carroll Ward Four,County Supervisor,2,Mary Wittry,REP,664,367,297
+Carroll,Carroll Ward One and PT Grant TWP,County Supervisor,2,Mary Wittry,REP,969,466,503
+Carroll,Carroll Ward Three and S1/2 Maple River Township,County Supervisor,2,Mary Wittry,REP,892,454,438
 Carroll,Carroll Ward Two and N1/2 Maple River Township,County Supervisor,2,Mary Wittry,REP,1007,442,565
 Carroll,Eden,County Supervisor,2,Mary Wittry,REP,253,32,221
-Carroll,Ewoldt,County Supervisor,2,Mary Wittry,REP,623,163,460
+Carroll,Ewoldt,County Supervisor,2,Mary Wittry,REP,624,164,460
 Carroll,Glidden-Richland,County Supervisor,2,Mary Wittry,REP,569,127,442
 Carroll,Pleasant Valley-Newton,County Supervisor,2,Mary Wittry,REP,321,92,229
 Carroll,Sheridan-Grant-Jasper,County Supervisor,2,Mary Wittry,REP,394,138,256
@@ -296,12 +338,12 @@ Carroll,Union,County Supervisor,2,Write-In,,12,0,12
 Carroll,Washington-Roselle,County Supervisor,2,Write-In,,1,0,1
 Carroll,Wheatland-Kniest,County Supervisor,2,Write-In,,5,1,4
 Carroll,Arcadia Precinct,County Supervisor,4,Kenneth E. Pingrey,REP,264,62,202
-Carroll,Carroll Ward Four,County Supervisor,4,Kenneth E. Pingrey,REP,667,364,303
-Carroll,Carroll Ward One and PT Grant TWP,County Supervisor,4,Kenneth E. Pingrey,REP,964,454,510
-Carroll,Carroll Ward Three and S1/2 Maple River Township,County Supervisor,4,Kenneth E. Pingrey,REP,904,460,444
+Carroll,Carroll Ward Four,County Supervisor,4,Kenneth E. Pingrey,REP,668,365,303
+Carroll,Carroll Ward One and PT Grant TWP,County Supervisor,4,Kenneth E. Pingrey,REP,965,455,510
+Carroll,Carroll Ward Three and S1/2 Maple River Township,County Supervisor,4,Kenneth E. Pingrey,REP,905,461,444
 Carroll,Carroll Ward Two and N1/2 Maple River Township,County Supervisor,4,Kenneth E. Pingrey,REP,1006,432,574
 Carroll,Eden,County Supervisor,4,Kenneth E. Pingrey,REP,260,32,228
-Carroll,Ewoldt,County Supervisor,4,Kenneth E. Pingrey,REP,627,167,460
+Carroll,Ewoldt,County Supervisor,4,Kenneth E. Pingrey,REP,628,168,460
 Carroll,Glidden-Richland,County Supervisor,4,Kenneth E. Pingrey,REP,586,125,461
 Carroll,Pleasant Valley-Newton,County Supervisor,4,Kenneth E. Pingrey,REP,335,92,243
 Carroll,Sheridan-Grant-Jasper,County Supervisor,4,Kenneth E. Pingrey,REP,412,141,271
@@ -322,12 +364,12 @@ Carroll,Union,County Supervisor,4,Write-In,,12,4,8
 Carroll,Washington-Roselle,County Supervisor,4,Write-In,,4,1,3
 Carroll,Wheatland-Kniest,County Supervisor,4,Write-In,,3,1,2
 Carroll,Arcadia Precinct,County Treasurer,,Lisa Wagner,REP,265,62,203
-Carroll,Carroll Ward Four,County Treasurer,,Lisa Wagner,REP,675,374,301
-Carroll,Carroll Ward One and PT Grant TWP,County Treasurer,,Lisa Wagner,REP,983,474,509
-Carroll,Carroll Ward Three and S1/2 Maple River Township,County Treasurer,,Lisa Wagner,REP,916,471,445
+Carroll,Carroll Ward Four,County Treasurer,,Lisa Wagner,REP,676,375,301
+Carroll,Carroll Ward One and PT Grant TWP,County Treasurer,,Lisa Wagner,REP,986,477,509
+Carroll,Carroll Ward Three and S1/2 Maple River Township,County Treasurer,,Lisa Wagner,REP,917,472,445
 Carroll,Carroll Ward Two and N1/2 Maple River Township,County Treasurer,,Lisa Wagner,REP,1035,457,578
 Carroll,Eden,County Treasurer,,Lisa Wagner,REP,261,36,225
-Carroll,Ewoldt,County Treasurer,,Lisa Wagner,REP,645,168,477
+Carroll,Ewoldt,County Treasurer,,Lisa Wagner,REP,646,169,477
 Carroll,Glidden-Richland,County Treasurer,,Lisa Wagner,REP,586,124,462
 Carroll,Pleasant Valley-Newton,County Treasurer,,Lisa Wagner,REP,343,96,247
 Carroll,Sheridan-Grant-Jasper,County Treasurer,,Lisa Wagner,REP,418,147,271
@@ -353,7 +395,7 @@ Carroll,Carroll Ward One and PT Grant TWP,Court of Appeals Judge - John M. Sandy
 Carroll,Carroll Ward Three and S1/2 Maple River Township,Court of Appeals Judge - John M. Sandy,,No,,176,87,89
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Court of Appeals Judge - John M. Sandy,,No,,167,87,80
 Carroll,Eden,Court of Appeals Judge - John M. Sandy,,No,,33,6,27
-Carroll,Ewoldt,Court of Appeals Judge - John M. Sandy,,No,,121,39,82
+Carroll,Ewoldt,Court of Appeals Judge - John M. Sandy,,No,,122,40,82
 Carroll,Glidden-Richland,Court of Appeals Judge - John M. Sandy,,No,,108,24,84
 Carroll,Pleasant Valley-Newton,Court of Appeals Judge - John M. Sandy,,No,,46,9,37
 Carroll,Sheridan-Grant-Jasper,Court of Appeals Judge - John M. Sandy,,No,,69,24,45
@@ -361,7 +403,7 @@ Carroll,Union,Court of Appeals Judge - John M. Sandy,,No,,108,18,90
 Carroll,Washington-Roselle,Court of Appeals Judge - John M. Sandy,,No,,58,13,45
 Carroll,Wheatland-Kniest,Court of Appeals Judge - John M. Sandy,,No,,52,4,48
 Carroll,Arcadia Precinct,Court of Appeals Judge - John M. Sandy,,Yes,,157,40,117
-Carroll,Carroll Ward Four,Court of Appeals Judge - John M. Sandy,,Yes,,420,238,182
+Carroll,Carroll Ward Four,Court of Appeals Judge - John M. Sandy,,Yes,,421,239,182
 Carroll,Carroll Ward One and PT Grant TWP,Court of Appeals Judge - John M. Sandy,,Yes,,516,276,240
 Carroll,Carroll Ward Three and S1/2 Maple River Township,Court of Appeals Judge - John M. Sandy,,Yes,,505,273,232
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Court of Appeals Judge - John M. Sandy,,Yes,,577,253,324
@@ -379,7 +421,7 @@ Carroll,Carroll Ward One and PT Grant TWP,Court of Appeals Judge - Julie A. Schu
 Carroll,Carroll Ward Three and S1/2 Maple River Township,Court of Appeals Judge - Julie A. Schumacher,,No,,155,75,80
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Court of Appeals Judge - Julie A. Schumacher,,No,,145,78,67
 Carroll,Eden,Court of Appeals Judge - Julie A. Schumacher,,No,,34,4,30
-Carroll,Ewoldt,Court of Appeals Judge - Julie A. Schumacher,,No,,117,36,81
+Carroll,Ewoldt,Court of Appeals Judge - Julie A. Schumacher,,No,,118,37,81
 Carroll,Glidden-Richland,Court of Appeals Judge - Julie A. Schumacher,,No,,100,21,79
 Carroll,Pleasant Valley-Newton,Court of Appeals Judge - Julie A. Schumacher,,No,,41,7,34
 Carroll,Sheridan-Grant-Jasper,Court of Appeals Judge - Julie A. Schumacher,,No,,61,27,34
@@ -405,7 +447,7 @@ Carroll,Carroll Ward One and PT Grant TWP,Court of Appeals Judge - Sharon Soorho
 Carroll,Carroll Ward Three and S1/2 Maple River Township,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,177,85,92
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,156,80,76
 Carroll,Eden,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,38,5,33
-Carroll,Ewoldt,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,123,38,85
+Carroll,Ewoldt,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,124,39,85
 Carroll,Glidden-Richland,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,113,24,89
 Carroll,Pleasant Valley-Newton,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,46,8,38
 Carroll,Sheridan-Grant-Jasper,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,68,28,40
@@ -413,7 +455,7 @@ Carroll,Union,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,111,19,92
 Carroll,Washington-Roselle,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,60,13,47
 Carroll,Wheatland-Kniest,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,60,6,54
 Carroll,Arcadia Precinct,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,155,40,115
-Carroll,Carroll Ward Four,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,431,249,182
+Carroll,Carroll Ward Four,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,432,250,182
 Carroll,Carroll Ward One and PT Grant TWP,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,528,287,241
 Carroll,Carroll Ward Three and S1/2 Maple River Township,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,509,281,228
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,601,266,335
@@ -431,7 +473,7 @@ Carroll,Carroll Ward One and PT Grant TWP,District 2B Associate Judge - Joseph L
 Carroll,Carroll Ward Three and S1/2 Maple River Township,District 2B Associate Judge - Joseph L. Tofilon,,No,,168,85,83
 Carroll,Carroll Ward Two and N1/2 Maple River Township,District 2B Associate Judge - Joseph L. Tofilon,,No,,166,85,81
 Carroll,Eden,District 2B Associate Judge - Joseph L. Tofilon,,No,,35,4,31
-Carroll,Ewoldt,District 2B Associate Judge - Joseph L. Tofilon,,No,,125,41,84
+Carroll,Ewoldt,District 2B Associate Judge - Joseph L. Tofilon,,No,,126,42,84
 Carroll,Glidden-Richland,District 2B Associate Judge - Joseph L. Tofilon,,No,,107,26,81
 Carroll,Pleasant Valley-Newton,District 2B Associate Judge - Joseph L. Tofilon,,No,,44,8,36
 Carroll,Sheridan-Grant-Jasper,District 2B Associate Judge - Joseph L. Tofilon,,No,,60,22,38
@@ -439,7 +481,7 @@ Carroll,Union,District 2B Associate Judge - Joseph L. Tofilon,,No,,112,17,95
 Carroll,Washington-Roselle,District 2B Associate Judge - Joseph L. Tofilon,,No,,58,12,46
 Carroll,Wheatland-Kniest,District 2B Associate Judge - Joseph L. Tofilon,,No,,54,7,47
 Carroll,Arcadia Precinct,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,151,41,110
-Carroll,Carroll Ward Four,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,421,237,184
+Carroll,Carroll Ward Four,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,422,238,184
 Carroll,Carroll Ward One and PT Grant TWP,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,506,265,241
 Carroll,Carroll Ward Three and S1/2 Maple River Township,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,499,265,234
 Carroll,Carroll Ward Two and N1/2 Maple River Township,District 2B Associate Judge - Joseph L. Tofilon,,Yes,,565,247,318
@@ -457,7 +499,7 @@ Carroll,Carroll Ward One and PT Grant TWP,District 2B Associate Judge - Stephen 
 Carroll,Carroll Ward Three and S1/2 Maple River Township,District 2B Associate Judge - Stephen A. Owen,,No,,168,83,85
 Carroll,Carroll Ward Two and N1/2 Maple River Township,District 2B Associate Judge - Stephen A. Owen,,No,,145,79,66
 Carroll,Eden,District 2B Associate Judge - Stephen A. Owen,,No,,34,4,30
-Carroll,Ewoldt,District 2B Associate Judge - Stephen A. Owen,,No,,117,36,81
+Carroll,Ewoldt,District 2B Associate Judge - Stephen A. Owen,,No,,118,37,81
 Carroll,Glidden-Richland,District 2B Associate Judge - Stephen A. Owen,,No,,91,19,72
 Carroll,Pleasant Valley-Newton,District 2B Associate Judge - Stephen A. Owen,,No,,35,6,29
 Carroll,Sheridan-Grant-Jasper,District 2B Associate Judge - Stephen A. Owen,,No,,55,21,34
@@ -465,7 +507,7 @@ Carroll,Union,District 2B Associate Judge - Stephen A. Owen,,No,,104,17,87
 Carroll,Washington-Roselle,District 2B Associate Judge - Stephen A. Owen,,No,,58,11,47
 Carroll,Wheatland-Kniest,District 2B Associate Judge - Stephen A. Owen,,No,,40,6,34
 Carroll,Arcadia Precinct,District 2B Associate Judge - Stephen A. Owen,,Yes,,153,39,114
-Carroll,Carroll Ward Four,District 2B Associate Judge - Stephen A. Owen,,Yes,,417,236,181
+Carroll,Carroll Ward Four,District 2B Associate Judge - Stephen A. Owen,,Yes,,418,237,181
 Carroll,Carroll Ward One and PT Grant TWP,District 2B Associate Judge - Stephen A. Owen,,Yes,,533,281,252
 Carroll,Carroll Ward Three and S1/2 Maple River Township,District 2B Associate Judge - Stephen A. Owen,,Yes,,509,271,238
 Carroll,Carroll Ward Two and N1/2 Maple River Township,District 2B Associate Judge - Stephen A. Owen,,Yes,,606,264,342
@@ -483,7 +525,7 @@ Carroll,Carroll Ward One and PT Grant TWP,District 2B Judge - Amy Moore,,No,,112
 Carroll,Carroll Ward Three and S1/2 Maple River Township,District 2B Judge - Amy Moore,,No,,148,71,77
 Carroll,Carroll Ward Two and N1/2 Maple River Township,District 2B Judge - Amy Moore,,No,,155,80,75
 Carroll,Eden,District 2B Judge - Amy Moore,,No,,34,6,28
-Carroll,Ewoldt,District 2B Judge - Amy Moore,,No,,117,36,81
+Carroll,Ewoldt,District 2B Judge - Amy Moore,,No,,118,37,81
 Carroll,Glidden-Richland,District 2B Judge - Amy Moore,,No,,103,24,79
 Carroll,Pleasant Valley-Newton,District 2B Judge - Amy Moore,,No,,43,7,36
 Carroll,Sheridan-Grant-Jasper,District 2B Judge - Amy Moore,,No,,55,22,33
@@ -491,7 +533,7 @@ Carroll,Union,District 2B Judge - Amy Moore,,No,,98,17,81
 Carroll,Washington-Roselle,District 2B Judge - Amy Moore,,No,,54,10,44
 Carroll,Wheatland-Kniest,District 2B Judge - Amy Moore,,No,,45,6,39
 Carroll,Arcadia Precinct,District 2B Judge - Amy Moore,,Yes,,158,40,118
-Carroll,Carroll Ward Four,District 2B Judge - Amy Moore,,Yes,,430,244,186
+Carroll,Carroll Ward Four,District 2B Judge - Amy Moore,,Yes,,431,245,186
 Carroll,Carroll Ward One and PT Grant TWP,District 2B Judge - Amy Moore,,Yes,,540,280,260
 Carroll,Carroll Ward Three and S1/2 Maple River Township,District 2B Judge - Amy Moore,,Yes,,523,281,242
 Carroll,Carroll Ward Two and N1/2 Maple River Township,District 2B Judge - Amy Moore,,Yes,,592,261,331
@@ -509,7 +551,7 @@ Carroll,Carroll Ward One and PT Grant TWP,District 2B Judge - Angela L. Doyle,,N
 Carroll,Carroll Ward Three and S1/2 Maple River Township,District 2B Judge - Angela L. Doyle,,No,,155,78,77
 Carroll,Carroll Ward Two and N1/2 Maple River Township,District 2B Judge - Angela L. Doyle,,No,,158,77,81
 Carroll,Eden,District 2B Judge - Angela L. Doyle,,No,,31,6,25
-Carroll,Ewoldt,District 2B Judge - Angela L. Doyle,,No,,120,38,82
+Carroll,Ewoldt,District 2B Judge - Angela L. Doyle,,No,,121,39,82
 Carroll,Glidden-Richland,District 2B Judge - Angela L. Doyle,,No,,108,27,81
 Carroll,Pleasant Valley-Newton,District 2B Judge - Angela L. Doyle,,No,,44,8,36
 Carroll,Sheridan-Grant-Jasper,District 2B Judge - Angela L. Doyle,,No,,56,21,35
@@ -517,7 +559,7 @@ Carroll,Union,District 2B Judge - Angela L. Doyle,,No,,109,17,92
 Carroll,Washington-Roselle,District 2B Judge - Angela L. Doyle,,No,,55,11,44
 Carroll,Wheatland-Kniest,District 2B Judge - Angela L. Doyle,,No,,47,6,41
 Carroll,Arcadia Precinct,District 2B Judge - Angela L. Doyle,,Yes,,159,40,119
-Carroll,Carroll Ward Four,District 2B Judge - Angela L. Doyle,,Yes,,421,242,179
+Carroll,Carroll Ward Four,District 2B Judge - Angela L. Doyle,,Yes,,422,243,179
 Carroll,Carroll Ward One and PT Grant TWP,District 2B Judge - Angela L. Doyle,,Yes,,527,279,248
 Carroll,Carroll Ward Three and S1/2 Maple River Township,District 2B Judge - Angela L. Doyle,,Yes,,516,275,241
 Carroll,Carroll Ward Two and N1/2 Maple River Township,District 2B Judge - Angela L. Doyle,,Yes,,577,257,320
@@ -535,7 +577,7 @@ Carroll,Carroll Ward One and PT Grant TWP,District 2B Judge - Ashley Sparks,,No,
 Carroll,Carroll Ward Three and S1/2 Maple River Township,District 2B Judge - Ashley Sparks,,No,,168,81,87
 Carroll,Carroll Ward Two and N1/2 Maple River Township,District 2B Judge - Ashley Sparks,,No,,151,75,76
 Carroll,Eden,District 2B Judge - Ashley Sparks,,No,,37,6,31
-Carroll,Ewoldt,District 2B Judge - Ashley Sparks,,No,,122,38,84
+Carroll,Ewoldt,District 2B Judge - Ashley Sparks,,No,,123,39,84
 Carroll,Glidden-Richland,District 2B Judge - Ashley Sparks,,No,,108,27,81
 Carroll,Pleasant Valley-Newton,District 2B Judge - Ashley Sparks,,No,,42,7,35
 Carroll,Sheridan-Grant-Jasper,District 2B Judge - Ashley Sparks,,No,,58,20,38
@@ -543,7 +585,7 @@ Carroll,Union,District 2B Judge - Ashley Sparks,,No,,97,14,83
 Carroll,Washington-Roselle,District 2B Judge - Ashley Sparks,,No,,58,10,48
 Carroll,Wheatland-Kniest,District 2B Judge - Ashley Sparks,,No,,51,6,45
 Carroll,Arcadia Precinct,District 2B Judge - Ashley Sparks,,Yes,,155,39,116
-Carroll,Carroll Ward Four,District 2B Judge - Ashley Sparks,,Yes,,423,243,180
+Carroll,Carroll Ward Four,District 2B Judge - Ashley Sparks,,Yes,,424,244,180
 Carroll,Carroll Ward One and PT Grant TWP,District 2B Judge - Ashley Sparks,,Yes,,534,290,244
 Carroll,Carroll Ward Three and S1/2 Maple River Township,District 2B Judge - Ashley Sparks,,Yes,,504,273,231
 Carroll,Carroll Ward Two and N1/2 Maple River Township,District 2B Judge - Ashley Sparks,,Yes,,584,258,326
@@ -561,7 +603,7 @@ Carroll,Carroll Ward One and PT Grant TWP,District 2B Judge - Bethany Currie,,No
 Carroll,Carroll Ward Three and S1/2 Maple River Township,District 2B Judge - Bethany Currie,,No,,153,70,83
 Carroll,Carroll Ward Two and N1/2 Maple River Township,District 2B Judge - Bethany Currie,,No,,154,78,76
 Carroll,Eden,District 2B Judge - Bethany Currie,,No,,37,6,31
-Carroll,Ewoldt,District 2B Judge - Bethany Currie,,No,,123,39,84
+Carroll,Ewoldt,District 2B Judge - Bethany Currie,,No,,124,40,84
 Carroll,Glidden-Richland,District 2B Judge - Bethany Currie,,No,,108,26,82
 Carroll,Pleasant Valley-Newton,District 2B Judge - Bethany Currie,,No,,38,7,31
 Carroll,Sheridan-Grant-Jasper,District 2B Judge - Bethany Currie,,No,,53,21,32
@@ -569,7 +611,7 @@ Carroll,Union,District 2B Judge - Bethany Currie,,No,,110,15,95
 Carroll,Washington-Roselle,District 2B Judge - Bethany Currie,,No,,59,10,49
 Carroll,Wheatland-Kniest,District 2B Judge - Bethany Currie,,No,,51,5,46
 Carroll,Arcadia Precinct,District 2B Judge - Bethany Currie,,Yes,,156,39,117
-Carroll,Carroll Ward Four,District 2B Judge - Bethany Currie,,Yes,,413,234,179
+Carroll,Carroll Ward Four,District 2B Judge - Bethany Currie,,Yes,,414,235,179
 Carroll,Carroll Ward One and PT Grant TWP,District 2B Judge - Bethany Currie,,Yes,,526,282,244
 Carroll,Carroll Ward Three and S1/2 Maple River Township,District 2B Judge - Bethany Currie,,Yes,,513,281,232
 Carroll,Carroll Ward Two and N1/2 Maple River Township,District 2B Judge - Bethany Currie,,Yes,,574,251,323
@@ -595,19 +637,21 @@ Carroll,Union,District 2B Judge - Christopher Polking,,No,,98,14,84
 Carroll,Washington-Roselle,District 2B Judge - Christopher Polking,,No,,51,11,40
 Carroll,Wheatland-Kniest,District 2B Judge - Christopher Polking,,No,,40,5,35
 Carroll,Arcadia Precinct,District 2B Judge - Christopher Polking,,Yes,,198,56,142
-Carroll,Carroll Ward Four,District 2B Judge - Christopher Polking,,Yes,,531,314,217
+Carroll,Carroll Ward Four,District 2B Judge - Christopher Polking,,Yes,,532,315,217
 Carroll,Carroll Ward One and PT Grant TWP,District 2B Judge - Christopher Polking,,Yes,,737,382,355
 Carroll,Carroll Ward Three and S1/2 Maple River Township,District 2B Judge - Christopher Polking,,Yes,,690,382,308
 Carroll,Carroll Ward Two and N1/2 Maple River Township,District 2B Judge - Christopher Polking,,Yes,,804,374,430
 Carroll,Eden,District 2B Judge - Christopher Polking,,Yes,,159,30,129
-Carroll,Ewoldt,District 2B Judge - Christopher Polking,,Yes,,388,105,283
+Carroll,Ewoldt,District 2B Judge - Christopher Polking,,Yes,,389,106,283
 Carroll,Glidden-Richland,District 2B Judge - Christopher Polking,,Yes,,367,88,279
 Carroll,Pleasant Valley-Newton,District 2B Judge - Christopher Polking,,Yes,,215,64,151
 Carroll,Sheridan-Grant-Jasper,District 2B Judge - Christopher Polking,,Yes,,281,108,173
 Carroll,Union,District 2B Judge - Christopher Polking,,Yes,,304,73,231
 Carroll,Washington-Roselle,District 2B Judge - Christopher Polking,,Yes,,228,63,165
 Carroll,Wheatland-Kniest,District 2B Judge - Christopher Polking,,Yes,,350,65,285
-Carroll,Eden,Eden Township Clerk,,Write-In,,4,1,3
+Carroll,Eden,Eden Township Clerk,,Cass Weitl,,2,1,1
+Carroll,Eden,Eden Township Clerk,,Lisa Irlbeck,,2,0,2
+Carroll,Eden,Eden Township Clerk,,Write-In,,0,0,0
 Carroll,Eden,Eden Township Trustee,,Glenn Langel,,98,21,77
 Carroll,Eden,Eden Township Trustee,,Write-In,,1,0,1
 Carroll,Ewoldt,Ewoldt Township Clerk,,Tommy Wegner,,115,31,84
@@ -624,7 +668,7 @@ Carroll,Carroll Ward One and PT Grant TWP,Governor,,Rob Sand and Dave Muhlbauer,
 Carroll,Carroll Ward Three and S1/2 Maple River Township,Governor,,Rob Sand and Dave Muhlbauer,DEM,510,323,187
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Governor,,Rob Sand and Dave Muhlbauer,DEM,611,341,270
 Carroll,Eden,Governor,,Rob Sand and Dave Muhlbauer,DEM,86,21,65
-Carroll,Ewoldt,Governor,,Rob Sand and Dave Muhlbauer,DEM,355,114,241
+Carroll,Ewoldt,Governor,,Rob Sand and Dave Muhlbauer,DEM,356,115,241
 Carroll,Glidden-Richland,Governor,,Rob Sand and Dave Muhlbauer,DEM,282,82,200
 Carroll,Pleasant Valley-Newton,Governor,,Rob Sand and Dave Muhlbauer,DEM,95,40,55
 Carroll,Sheridan-Grant-Jasper,Governor,,Rob Sand and Dave Muhlbauer,DEM,206,83,123
@@ -645,9 +689,9 @@ Carroll,Union,Governor,,Write-In,,1,0,1
 Carroll,Washington-Roselle,Governor,,Write-In,,1,0,1
 Carroll,Wheatland-Kniest,Governor,,Write-In,,0,0,0
 Carroll,Arcadia Precinct,Governor,,Zach Lahn and Derek Wulf,REP,202,43,159
-Carroll,Carroll Ward Four,Governor,,Zach Lahn and Derek Wulf,REP,458,236,222
-Carroll,Carroll Ward One and PT Grant TWP,Governor,,Zach Lahn and Derek Wulf,REP,711,301,410
-Carroll,Carroll Ward Three and S1/2 Maple River Township,Governor,,Zach Lahn and Derek Wulf,REP,605,274,331
+Carroll,Carroll Ward Four,Governor,,Zach Lahn and Derek Wulf,REP,459,237,222
+Carroll,Carroll Ward One and PT Grant TWP,Governor,,Zach Lahn and Derek Wulf,REP,714,304,410
+Carroll,Carroll Ward Three and S1/2 Maple River Township,Governor,,Zach Lahn and Derek Wulf,REP,606,275,331
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Governor,,Zach Lahn and Derek Wulf,REP,696,257,439
 Carroll,Eden,Governor,,Zach Lahn and Derek Wulf,REP,208,25,183
 Carroll,Ewoldt,Governor,,Zach Lahn and Derek Wulf,REP,431,102,329
@@ -665,7 +709,10 @@ Carroll,Carroll Ward One and PT Grant TWP,Grant Township Trustee,,Jeffrey Willia
 Carroll,Sheridan-Grant-Jasper,Grant Township Trustee,,Jeffrey William Halbur,,141,71,70
 Carroll,Carroll Ward One and PT Grant TWP,Grant Township Trustee,,Write-In,,0,0,0
 Carroll,Sheridan-Grant-Jasper,Grant Township Trustee,,Write-In,,0,0,0
-Carroll,Sheridan-Grant-Jasper,Jasper Township Clerk,,Write-In,,5,1,4
+Carroll,Sheridan-Grant-Jasper,Jasper Township Clerk,,Gordon Toyne,,2,0,2
+Carroll,Sheridan-Grant-Jasper,Jasper Township Clerk,,Jeff Jorgenson,,1,0,1
+Carroll,Sheridan-Grant-Jasper,Jasper Township Clerk,,Jeff Schwering,,1,1,0
+Carroll,Sheridan-Grant-Jasper,Jasper Township Clerk,,Write-In,,1,0,1
 Carroll,Sheridan-Grant-Jasper,Jasper Township Trustee,,Leon L. Muhlbauer,,61,17,44
 Carroll,Sheridan-Grant-Jasper,Jasper Township Trustee,,Write-In,,1,1,0
 Carroll,Pleasant Valley-Newton,Newton Township Clerk,,Edith Hoffman,,77,16,61
@@ -682,7 +729,7 @@ Carroll,Carroll Ward One and PT Grant TWP,Secretary of Agriculture,,Chris Jones,
 Carroll,Carroll Ward Three and S1/2 Maple River Township,Secretary of Agriculture,,Chris Jones,DEM,364,230,134
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Secretary of Agriculture,,Chris Jones,DEM,439,255,184
 Carroll,Eden,Secretary of Agriculture,,Chris Jones,DEM,55,14,41
-Carroll,Ewoldt,Secretary of Agriculture,,Chris Jones,DEM,233,86,147
+Carroll,Ewoldt,Secretary of Agriculture,,Chris Jones,DEM,234,87,147
 Carroll,Glidden-Richland,Secretary of Agriculture,,Chris Jones,DEM,177,64,113
 Carroll,Pleasant Valley-Newton,Secretary of Agriculture,,Chris Jones,DEM,55,26,29
 Carroll,Sheridan-Grant-Jasper,Secretary of Agriculture,,Chris Jones,DEM,132,61,71
@@ -690,9 +737,9 @@ Carroll,Union,Secretary of Agriculture,,Chris Jones,DEM,161,69,92
 Carroll,Washington-Roselle,Secretary of Agriculture,,Chris Jones,DEM,74,24,50
 Carroll,Wheatland-Kniest,Secretary of Agriculture,,Chris Jones,DEM,86,31,55
 Carroll,Arcadia Precinct,Secretary of Agriculture,,Mike Naig,REP,238,47,191
-Carroll,Carroll Ward Four,Secretary of Agriculture,,Mike Naig,REP,533,288,245
-Carroll,Carroll Ward One and PT Grant TWP,Secretary of Agriculture,,Mike Naig,REP,834,366,468
-Carroll,Carroll Ward Three and S1/2 Maple River Township,Secretary of Agriculture,,Mike Naig,REP,712,348,364
+Carroll,Carroll Ward Four,Secretary of Agriculture,,Mike Naig,REP,534,289,245
+Carroll,Carroll Ward One and PT Grant TWP,Secretary of Agriculture,,Mike Naig,REP,837,369,468
+Carroll,Carroll Ward Three and S1/2 Maple River Township,Secretary of Agriculture,,Mike Naig,REP,713,349,364
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Secretary of Agriculture,,Mike Naig,REP,825,332,493
 Carroll,Eden,Secretary of Agriculture,,Mike Naig,REP,236,32,204
 Carroll,Ewoldt,Secretary of Agriculture,,Mike Naig,REP,531,124,407
@@ -716,9 +763,9 @@ Carroll,Union,Secretary of Agriculture,,Write-In,,0,0,0
 Carroll,Washington-Roselle,Secretary of Agriculture,,Write-In,,0,0,0
 Carroll,Wheatland-Kniest,Secretary of Agriculture,,Write-In,,0,0,0
 Carroll,Arcadia Precinct,Secretary of State,,Paul D. Pate,REP,229,45,184
-Carroll,Carroll Ward Four,Secretary of State,,Paul D. Pate,REP,513,273,240
-Carroll,Carroll Ward One and PT Grant TWP,Secretary of State,,Paul D. Pate,REP,791,342,449
-Carroll,Carroll Ward Three and S1/2 Maple River Township,Secretary of State,,Paul D. Pate,REP,687,329,358
+Carroll,Carroll Ward Four,Secretary of State,,Paul D. Pate,REP,514,274,240
+Carroll,Carroll Ward One and PT Grant TWP,Secretary of State,,Paul D. Pate,REP,794,345,449
+Carroll,Carroll Ward Three and S1/2 Maple River Township,Secretary of State,,Paul D. Pate,REP,688,330,358
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Secretary of State,,Paul D. Pate,REP,810,316,494
 Carroll,Eden,Secretary of State,,Paul D. Pate,REP,234,30,204
 Carroll,Ewoldt,Secretary of State,,Paul D. Pate,REP,507,118,389
@@ -734,7 +781,7 @@ Carroll,Carroll Ward One and PT Grant TWP,Secretary of State,,Ryan Peterman,DEM,
 Carroll,Carroll Ward Three and S1/2 Maple River Township,Secretary of State,,Ryan Peterman,DEM,391,249,142
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Secretary of State,,Ryan Peterman,DEM,450,264,186
 Carroll,Eden,Secretary of State,,Ryan Peterman,DEM,56,16,40
-Carroll,Ewoldt,Secretary of State,,Ryan Peterman,DEM,255,90,165
+Carroll,Ewoldt,Secretary of State,,Ryan Peterman,DEM,256,91,165
 Carroll,Glidden-Richland,Secretary of State,,Ryan Peterman,DEM,180,67,113
 Carroll,Pleasant Valley-Newton,Secretary of State,,Ryan Peterman,DEM,67,32,35
 Carroll,Sheridan-Grant-Jasper,Secretary of State,,Ryan Peterman,DEM,133,61,72
@@ -764,7 +811,7 @@ Carroll,Carroll Ward One and PT Grant TWP,State House,11,Bill Owen,DEM,390,231,1
 Carroll,Carroll Ward Three and S1/2 Maple River Township,State House,11,Bill Owen,DEM,411,262,149
 Carroll,Carroll Ward Two and N1/2 Maple River Township,State House,11,Bill Owen,DEM,478,279,199
 Carroll,Eden,State House,11,Bill Owen,DEM,63,17,46
-Carroll,Ewoldt,State House,11,Bill Owen,DEM,247,89,158
+Carroll,Ewoldt,State House,11,Bill Owen,DEM,248,90,158
 Carroll,Glidden-Richland,State House,11,Bill Owen,DEM,189,69,120
 Carroll,Pleasant Valley-Newton,State House,11,Bill Owen,DEM,70,34,36
 Carroll,Sheridan-Grant-Jasper,State House,11,Bill Owen,DEM,152,73,79
@@ -772,9 +819,9 @@ Carroll,Union,State House,11,Bill Owen,DEM,191,72,119
 Carroll,Washington-Roselle,State House,11,Bill Owen,DEM,89,31,58
 Carroll,Wheatland-Kniest,State House,11,Bill Owen,DEM,111,42,69
 Carroll,Arcadia Precinct,State House,11,Craig Williams,REP,221,46,175
-Carroll,Carroll Ward Four,State House,11,Craig Williams,REP,502,261,241
-Carroll,Carroll Ward One and PT Grant TWP,State House,11,Craig Williams,REP,779,332,447
-Carroll,Carroll Ward Three and S1/2 Maple River Township,State House,11,Craig Williams,REP,671,316,355
+Carroll,Carroll Ward Four,State House,11,Craig Williams,REP,503,262,241
+Carroll,Carroll Ward One and PT Grant TWP,State House,11,Craig Williams,REP,782,335,447
+Carroll,Carroll Ward Three and S1/2 Maple River Township,State House,11,Craig Williams,REP,672,317,355
 Carroll,Carroll Ward Two and N1/2 Maple River Township,State House,11,Craig Williams,REP,771,296,475
 Carroll,Eden,State House,11,Craig Williams,REP,226,29,197
 Carroll,Ewoldt,State House,11,Craig Williams,REP,520,120,400
@@ -803,7 +850,7 @@ Carroll,Carroll Ward One and PT Grant TWP,Treasurer of State,,John Norwood,DEM,4
 Carroll,Carroll Ward Three and S1/2 Maple River Township,Treasurer of State,,John Norwood,DEM,430,281,149
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Treasurer of State,,John Norwood,DEM,518,304,214
 Carroll,Eden,Treasurer of State,,John Norwood,DEM,76,20,56
-Carroll,Ewoldt,Treasurer of State,,John Norwood,DEM,265,95,170
+Carroll,Ewoldt,Treasurer of State,,John Norwood,DEM,266,96,170
 Carroll,Glidden-Richland,Treasurer of State,,John Norwood,DEM,206,74,132
 Carroll,Pleasant Valley-Newton,Treasurer of State,,John Norwood,DEM,77,35,42
 Carroll,Sheridan-Grant-Jasper,Treasurer of State,,John Norwood,DEM,147,63,84
@@ -811,9 +858,9 @@ Carroll,Union,Treasurer of State,,John Norwood,DEM,196,71,125
 Carroll,Washington-Roselle,Treasurer of State,,John Norwood,DEM,108,35,73
 Carroll,Wheatland-Kniest,Treasurer of State,,John Norwood,DEM,118,40,78
 Carroll,Arcadia Precinct,Treasurer of State,,Roby Smith,REP,216,42,174
-Carroll,Carroll Ward Four,Treasurer of State,,Roby Smith,REP,476,249,227
-Carroll,Carroll Ward One and PT Grant TWP,Treasurer of State,,Roby Smith,REP,712,311,401
-Carroll,Carroll Ward Three and S1/2 Maple River Township,Treasurer of State,,Roby Smith,REP,622,286,336
+Carroll,Carroll Ward Four,Treasurer of State,,Roby Smith,REP,477,250,227
+Carroll,Carroll Ward One and PT Grant TWP,Treasurer of State,,Roby Smith,REP,715,314,401
+Carroll,Carroll Ward Three and S1/2 Maple River Township,Treasurer of State,,Roby Smith,REP,623,287,336
 Carroll,Carroll Ward Two and N1/2 Maple River Township,Treasurer of State,,Roby Smith,REP,702,260,442
 Carroll,Eden,Treasurer of State,,Roby Smith,REP,207,26,181
 Carroll,Ewoldt,Treasurer of State,,Roby Smith,REP,478,108,370
@@ -837,9 +884,9 @@ Carroll,Union,Treasurer of State,,Write-In,,1,0,1
 Carroll,Washington-Roselle,Treasurer of State,,Write-In,,0,0,0
 Carroll,Wheatland-Kniest,Treasurer of State,,Write-In,,0,0,0
 Carroll,Arcadia Precinct,U.S. House,4,Chris McGowan,REP,213,41,172
-Carroll,Carroll Ward Four,U.S. House,4,Chris McGowan,REP,478,247,231
-Carroll,Carroll Ward One and PT Grant TWP,U.S. House,4,Chris McGowan,REP,720,303,417
-Carroll,Carroll Ward Three and S1/2 Maple River Township,U.S. House,4,Chris McGowan,REP,643,300,343
+Carroll,Carroll Ward Four,U.S. House,4,Chris McGowan,REP,479,248,231
+Carroll,Carroll Ward One and PT Grant TWP,U.S. House,4,Chris McGowan,REP,722,305,417
+Carroll,Carroll Ward Three and S1/2 Maple River Township,U.S. House,4,Chris McGowan,REP,644,301,343
 Carroll,Carroll Ward Two and N1/2 Maple River Township,U.S. House,4,Chris McGowan,REP,713,261,452
 Carroll,Eden,U.S. House,4,Chris McGowan,REP,218,24,194
 Carroll,Ewoldt,U.S. House,4,Chris McGowan,REP,469,105,364
@@ -855,8 +902,8 @@ Carroll,Carroll Ward One and PT Grant TWP,U.S. House,4,Dave Dawson,DEM,413,240,1
 Carroll,Carroll Ward Three and S1/2 Maple River Township,U.S. House,4,Dave Dawson,DEM,396,257,139
 Carroll,Carroll Ward Two and N1/2 Maple River Township,U.S. House,4,Dave Dawson,DEM,491,290,201
 Carroll,Eden,U.S. House,4,Dave Dawson,DEM,61,19,42
-Carroll,Ewoldt,U.S. House,4,Dave Dawson,DEM,273,94,179
-Carroll,Glidden-Richland,U.S. House,4,Dave Dawson,DEM,189,71,118
+Carroll,Ewoldt,U.S. House,4,Dave Dawson,DEM,274,95,179
+Carroll,Glidden-Richland,U.S. House,4,Dave Dawson,DEM,191,73,118
 Carroll,Pleasant Valley-Newton,U.S. House,4,Dave Dawson,DEM,69,33,36
 Carroll,Sheridan-Grant-Jasper,U.S. House,4,Dave Dawson,DEM,140,65,75
 Carroll,Union,U.S. House,4,Dave Dawson,DEM,189,75,114
@@ -876,9 +923,9 @@ Carroll,Union,U.S. House,4,Write-In,,0,0,0
 Carroll,Washington-Roselle,U.S. House,4,Write-In,,0,0,0
 Carroll,Wheatland-Kniest,U.S. House,4,Write-In,,0,0,0
 Carroll,Arcadia Precinct,U.S. Senate,,Ashley Hinson,REP,199,41,158
-Carroll,Carroll Ward Four,U.S. Senate,,Ashley Hinson,REP,458,242,216
-Carroll,Carroll Ward One and PT Grant TWP,U.S. Senate,,Ashley Hinson,REP,712,300,412
-Carroll,Carroll Ward Three and S1/2 Maple River Township,U.S. Senate,,Ashley Hinson,REP,593,274,319
+Carroll,Carroll Ward Four,U.S. Senate,,Ashley Hinson,REP,459,243,216
+Carroll,Carroll Ward One and PT Grant TWP,U.S. Senate,,Ashley Hinson,REP,714,302,412
+Carroll,Carroll Ward Three and S1/2 Maple River Township,U.S. Senate,,Ashley Hinson,REP,594,275,319
 Carroll,Carroll Ward Two and N1/2 Maple River Township,U.S. Senate,,Ashley Hinson,REP,680,251,429
 Carroll,Eden,U.S. Senate,,Ashley Hinson,REP,207,23,184
 Carroll,Ewoldt,U.S. Senate,,Ashley Hinson,REP,461,106,355
@@ -894,8 +941,8 @@ Carroll,Carroll Ward One and PT Grant TWP,U.S. Senate,,Josh Turek,DEM,451,252,19
 Carroll,Carroll Ward Three and S1/2 Maple River Township,U.S. Senate,,Josh Turek,DEM,424,271,153
 Carroll,Carroll Ward Two and N1/2 Maple River Township,U.S. Senate,,Josh Turek,DEM,528,305,223
 Carroll,Eden,U.S. Senate,,Josh Turek,DEM,72,19,53
-Carroll,Ewoldt,U.S. Senate,,Josh Turek,DEM,277,98,179
-Carroll,Glidden-Richland,U.S. Senate,,Josh Turek,DEM,214,71,143
+Carroll,Ewoldt,U.S. Senate,,Josh Turek,DEM,278,99,179
+Carroll,Glidden-Richland,U.S. Senate,,Josh Turek,DEM,216,73,143
 Carroll,Pleasant Valley-Newton,U.S. Senate,,Josh Turek,DEM,86,32,54
 Carroll,Sheridan-Grant-Jasper,U.S. Senate,,Josh Turek,DEM,162,67,95
 Carroll,Union,U.S. Senate,,Josh Turek,DEM,196,75,121
@@ -935,6 +982,8 @@ Carroll,Washington-Roselle,Washington Township Clerk,,Karl J. Albertsen,,90,18,7
 Carroll,Washington-Roselle,Washington Township Clerk,,Write-In,,2,0,2
 Carroll,Washington-Roselle,Washington Township Trustee,,Neil Leiting,,91,18,73
 Carroll,Washington-Roselle,Washington Township Trustee,,Write-In,,3,0,3
-Carroll,Wheatland-Kniest,Wheatland Township Clerk,,Write-In,,5,0,5
+Carroll,Wheatland-Kniest,Wheatland Township Clerk,,Brice Hundling,,2,0,2
+Carroll,Wheatland-Kniest,Wheatland Township Clerk,,Doug Gerken,,2,0,2
+Carroll,Wheatland-Kniest,Wheatland Township Clerk,,Write-In,,1,0,1
 Carroll,Wheatland-Kniest,Wheatland Township Trustee,,William Vonnahme,,75,9,66
 Carroll,Wheatland-Kniest,Wheatland Township Trustee,,Write-In,,0,0,0

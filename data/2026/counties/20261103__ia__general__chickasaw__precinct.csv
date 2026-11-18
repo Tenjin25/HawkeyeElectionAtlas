@@ -3,13 +3,13 @@ Chickasaw,Bradford,Attorney General,,Brenna Bird,REP,543,155,388
 Chickasaw,Chickasaw North,Attorney General,,Brenna Bird,REP,559,282,277
 Chickasaw,Dayton Richland,Attorney General,,Brenna Bird,REP,187,82,105
 Chickasaw,Lawler/Fredericksburg,Attorney General,,Brenna Bird,REP,622,187,435
-Chickasaw,New Hampton Rural,Attorney General,,Brenna Bird,REP,244,120,124
+Chickasaw,New Hampton Rural,Attorney General,,Brenna Bird,REP,245,121,124
 Chickasaw,New Hampton Ward 1,Attorney General,,Brenna Bird,REP,176,79,97
 Chickasaw,New Hampton Ward 2,Attorney General,,Brenna Bird,REP,143,80,63
-Chickasaw,New Hampton Ward 3,Attorney General,,Brenna Bird,REP,190,93,97
+Chickasaw,New Hampton Ward 3,Attorney General,,Brenna Bird,REP,191,94,97
 Chickasaw,New Hampton Ward 4,Attorney General,,Brenna Bird,REP,197,107,90
 Chickasaw,Bradford,Attorney General,,Nate Willems,DEM,353,145,208
-Chickasaw,Chickasaw North,Attorney General,,Nate Willems,DEM,343,229,114
+Chickasaw,Chickasaw North,Attorney General,,Nate Willems,DEM,344,230,114
 Chickasaw,Dayton Richland,Attorney General,,Nate Willems,DEM,90,63,27
 Chickasaw,Lawler/Fredericksburg,Attorney General,,Nate Willems,DEM,395,217,178
 Chickasaw,New Hampton Rural,Attorney General,,Nate Willems,DEM,96,63,33
@@ -30,13 +30,13 @@ Chickasaw,Bradford,Auditor of State,,Chris Cournoyer,REP,542,156,386
 Chickasaw,Chickasaw North,Auditor of State,,Chris Cournoyer,REP,568,283,285
 Chickasaw,Dayton Richland,Auditor of State,,Chris Cournoyer,REP,197,85,112
 Chickasaw,Lawler/Fredericksburg,Auditor of State,,Chris Cournoyer,REP,622,188,434
-Chickasaw,New Hampton Rural,Auditor of State,,Chris Cournoyer,REP,248,119,129
+Chickasaw,New Hampton Rural,Auditor of State,,Chris Cournoyer,REP,249,120,129
 Chickasaw,New Hampton Ward 1,Auditor of State,,Chris Cournoyer,REP,185,78,107
 Chickasaw,New Hampton Ward 2,Auditor of State,,Chris Cournoyer,REP,149,86,63
-Chickasaw,New Hampton Ward 3,Auditor of State,,Chris Cournoyer,REP,199,101,98
+Chickasaw,New Hampton Ward 3,Auditor of State,,Chris Cournoyer,REP,200,102,98
 Chickasaw,New Hampton Ward 4,Auditor of State,,Chris Cournoyer,REP,207,108,99
 Chickasaw,Bradford,Auditor of State,,Taylor Wettach,DEM,349,145,204
-Chickasaw,Chickasaw North,Auditor of State,,Taylor Wettach,DEM,318,217,101
+Chickasaw,Chickasaw North,Auditor of State,,Taylor Wettach,DEM,319,218,101
 Chickasaw,Dayton Richland,Auditor of State,,Taylor Wettach,DEM,80,59,21
 Chickasaw,Lawler/Fredericksburg,Auditor of State,,Taylor Wettach,DEM,376,210,166
 Chickasaw,New Hampton Rural,Auditor of State,,Taylor Wettach,DEM,92,63,29
@@ -57,17 +57,23 @@ Chickasaw,Bradford,Bradford Township Clerk,,Adam Johnson,,180,68,112
 Chickasaw,Bradford,Bradford Township Clerk,,Write-In,,1,0,1
 Chickasaw,Bradford,Bradford Township Trustee,,Matthew Bailey,,193,70,123
 Chickasaw,Bradford,Bradford Township Trustee,,Write-In,,2,1,1
-Chickasaw,Bradford,Chickasaw Township Clerk,,Write-In,,19,14,5
+Chickasaw,Bradford,Chickasaw Township Clerk,,Jim Allison,,9,8,1
+Chickasaw,Chickasaw North,Chickasaw Township Clerk,,Jim Allison,,0,0,0
+Chickasaw,Bradford,Chickasaw Township Clerk,,Write-In,,10,6,4
 Chickasaw,Chickasaw North,Chickasaw Township Clerk,,Write-In,,5,5,0
-Chickasaw,Bradford,Chickasaw Township Trustee,,Write-In,,23,15,8
+Chickasaw,Bradford,Chickasaw Township Trustee,,Arnold Boge,,10,7,3
+Chickasaw,Chickasaw North,Chickasaw Township Trustee,,Arnold Boge,,0,0,0
+Chickasaw,Bradford,Chickasaw Township Trustee,,Write-In,,13,8,5
 Chickasaw,Chickasaw North,Chickasaw Township Trustee,,Write-In,,7,6,1
-Chickasaw,Bradford,Chickasaw Township Trustee To Fill a Vacancy,,Write-In,,15,10,5
+Chickasaw,Bradford,Chickasaw Township Trustee To Fill a Vacancy,,Cody Schmitt,,5,4,1
+Chickasaw,Chickasaw North,Chickasaw Township Trustee To Fill a Vacancy,,Cody Schmitt,,0,0,0
+Chickasaw,Bradford,Chickasaw Township Trustee To Fill a Vacancy,,Write-In,,10,6,4
 Chickasaw,Chickasaw North,Chickasaw Township Trustee To Fill a Vacancy,,Write-In,,5,5,0
 Chickasaw,Bradford,Constitutional Amendment 1,,No,,308,115,193
-Chickasaw,Chickasaw North,Constitutional Amendment 1,,No,,308,175,133
+Chickasaw,Chickasaw North,Constitutional Amendment 1,,No,,309,176,133
 Chickasaw,Dayton Richland,Constitutional Amendment 1,,No,,99,54,45
 Chickasaw,Lawler/Fredericksburg,Constitutional Amendment 1,,No,,386,184,202
-Chickasaw,New Hampton Rural,Constitutional Amendment 1,,No,,108,63,45
+Chickasaw,New Hampton Rural,Constitutional Amendment 1,,No,,109,64,45
 Chickasaw,New Hampton Ward 1,Constitutional Amendment 1,,No,,136,76,60
 Chickasaw,New Hampton Ward 2,Constitutional Amendment 1,,No,,102,64,38
 Chickasaw,New Hampton Ward 3,Constitutional Amendment 1,,No,,141,84,57
@@ -79,58 +85,58 @@ Chickasaw,Lawler/Fredericksburg,Constitutional Amendment 1,,Yes,,550,189,361
 Chickasaw,New Hampton Rural,Constitutional Amendment 1,,Yes,,206,104,102
 Chickasaw,New Hampton Ward 1,Constitutional Amendment 1,,Yes,,172,86,86
 Chickasaw,New Hampton Ward 2,Constitutional Amendment 1,,Yes,,141,81,60
-Chickasaw,New Hampton Ward 3,Constitutional Amendment 1,,Yes,,184,94,90
+Chickasaw,New Hampton Ward 3,Constitutional Amendment 1,,Yes,,185,95,90
 Chickasaw,New Hampton Ward 4,Constitutional Amendment 1,,Yes,,166,94,72
 Chickasaw,Bradford,County Agricultural Extension Council Member,,Diane K. Brown,,410,150,260
-Chickasaw,Chickasaw North,County Agricultural Extension Council Member,,Diane K. Brown,,464,273,191
+Chickasaw,Chickasaw North,County Agricultural Extension Council Member,,Diane K. Brown,,465,274,191
 Chickasaw,Dayton Richland,County Agricultural Extension Council Member,,Diane K. Brown,,145,78,67
 Chickasaw,Lawler/Fredericksburg,County Agricultural Extension Council Member,,Diane K. Brown,,430,188,242
-Chickasaw,New Hampton Rural,County Agricultural Extension Council Member,,Diane K. Brown,,190,99,91
+Chickasaw,New Hampton Rural,County Agricultural Extension Council Member,,Diane K. Brown,,191,100,91
 Chickasaw,New Hampton Ward 1,County Agricultural Extension Council Member,,Diane K. Brown,,186,101,85
 Chickasaw,New Hampton Ward 2,County Agricultural Extension Council Member,,Diane K. Brown,,139,84,55
 Chickasaw,New Hampton Ward 3,County Agricultural Extension Council Member,,Diane K. Brown,,210,124,86
 Chickasaw,New Hampton Ward 4,County Agricultural Extension Council Member,,Diane K. Brown,,225,146,79
 Chickasaw,Bradford,County Agricultural Extension Council Member,,Emily Bailey,,461,147,314
-Chickasaw,Chickasaw North,County Agricultural Extension Council Member,,Emily Bailey,,453,257,196
+Chickasaw,Chickasaw North,County Agricultural Extension Council Member,,Emily Bailey,,454,258,196
 Chickasaw,Dayton Richland,County Agricultural Extension Council Member,,Emily Bailey,,159,79,80
 Chickasaw,Lawler/Fredericksburg,County Agricultural Extension Council Member,,Emily Bailey,,551,219,332
 Chickasaw,New Hampton Rural,County Agricultural Extension Council Member,,Emily Bailey,,174,87,87
 Chickasaw,New Hampton Ward 1,County Agricultural Extension Council Member,,Emily Bailey,,182,94,88
 Chickasaw,New Hampton Ward 2,County Agricultural Extension Council Member,,Emily Bailey,,133,74,59
-Chickasaw,New Hampton Ward 3,County Agricultural Extension Council Member,,Emily Bailey,,185,108,77
+Chickasaw,New Hampton Ward 3,County Agricultural Extension Council Member,,Emily Bailey,,186,109,77
 Chickasaw,New Hampton Ward 4,County Agricultural Extension Council Member,,Emily Bailey,,180,108,72
 Chickasaw,Bradford,County Agricultural Extension Council Member,,Heather Maurer,,447,153,294
-Chickasaw,Chickasaw North,County Agricultural Extension Council Member,,Heather Maurer,,498,297,201
+Chickasaw,Chickasaw North,County Agricultural Extension Council Member,,Heather Maurer,,499,298,201
 Chickasaw,Dayton Richland,County Agricultural Extension Council Member,,Heather Maurer,,164,93,71
 Chickasaw,Lawler/Fredericksburg,County Agricultural Extension Council Member,,Heather Maurer,,588,252,336
-Chickasaw,New Hampton Rural,County Agricultural Extension Council Member,,Heather Maurer,,219,117,102
+Chickasaw,New Hampton Rural,County Agricultural Extension Council Member,,Heather Maurer,,220,118,102
 Chickasaw,New Hampton Ward 1,County Agricultural Extension Council Member,,Heather Maurer,,202,110,92
 Chickasaw,New Hampton Ward 2,County Agricultural Extension Council Member,,Heather Maurer,,146,89,57
-Chickasaw,New Hampton Ward 3,County Agricultural Extension Council Member,,Heather Maurer,,220,118,102
+Chickasaw,New Hampton Ward 3,County Agricultural Extension Council Member,,Heather Maurer,,221,119,102
 Chickasaw,New Hampton Ward 4,County Agricultural Extension Council Member,,Heather Maurer,,223,140,83
 Chickasaw,Bradford,County Agricultural Extension Council Member,,Jim Russ,,368,122,246
 Chickasaw,Chickasaw North,County Agricultural Extension Council Member,,Jim Russ,,503,289,214
 Chickasaw,Dayton Richland,County Agricultural Extension Council Member,,Jim Russ,,162,85,77
 Chickasaw,Lawler/Fredericksburg,County Agricultural Extension Council Member,,Jim Russ,,500,189,311
-Chickasaw,New Hampton Rural,County Agricultural Extension Council Member,,Jim Russ,,205,102,103
+Chickasaw,New Hampton Rural,County Agricultural Extension Council Member,,Jim Russ,,206,103,103
 Chickasaw,New Hampton Ward 1,County Agricultural Extension Council Member,,Jim Russ,,198,109,89
 Chickasaw,New Hampton Ward 2,County Agricultural Extension Council Member,,Jim Russ,,151,91,60
-Chickasaw,New Hampton Ward 3,County Agricultural Extension Council Member,,Jim Russ,,235,137,98
+Chickasaw,New Hampton Ward 3,County Agricultural Extension Council Member,,Jim Russ,,236,138,98
 Chickasaw,New Hampton Ward 4,County Agricultural Extension Council Member,,Jim Russ,,226,142,84
 Chickasaw,Bradford,County Agricultural Extension Council Member,,Logan Litchfield,,460,142,318
-Chickasaw,Chickasaw North,County Agricultural Extension Council Member,,Logan Litchfield,,410,229,181
+Chickasaw,Chickasaw North,County Agricultural Extension Council Member,,Logan Litchfield,,411,230,181
 Chickasaw,Dayton Richland,County Agricultural Extension Council Member,,Logan Litchfield,,156,77,79
 Chickasaw,Lawler/Fredericksburg,County Agricultural Extension Council Member,,Logan Litchfield,,509,190,319
-Chickasaw,New Hampton Rural,County Agricultural Extension Council Member,,Logan Litchfield,,175,82,93
+Chickasaw,New Hampton Rural,County Agricultural Extension Council Member,,Logan Litchfield,,176,83,93
 Chickasaw,New Hampton Ward 1,County Agricultural Extension Council Member,,Logan Litchfield,,161,79,82
 Chickasaw,New Hampton Ward 2,County Agricultural Extension Council Member,,Logan Litchfield,,119,70,49
-Chickasaw,New Hampton Ward 3,County Agricultural Extension Council Member,,Logan Litchfield,,178,101,77
+Chickasaw,New Hampton Ward 3,County Agricultural Extension Council Member,,Logan Litchfield,,179,102,77
 Chickasaw,New Hampton Ward 4,County Agricultural Extension Council Member,,Logan Litchfield,,172,103,69
 Chickasaw,Bradford,County Agricultural Extension Council Member,,Tara Lee Underwood,,504,161,343
-Chickasaw,Chickasaw North,County Agricultural Extension Council Member,,Tara Lee Underwood,,552,309,243
+Chickasaw,Chickasaw North,County Agricultural Extension Council Member,,Tara Lee Underwood,,553,310,243
 Chickasaw,Dayton Richland,County Agricultural Extension Council Member,,Tara Lee Underwood,,187,92,95
 Chickasaw,Lawler/Fredericksburg,County Agricultural Extension Council Member,,Tara Lee Underwood,,660,243,417
-Chickasaw,New Hampton Rural,County Agricultural Extension Council Member,,Tara Lee Underwood,,238,126,112
+Chickasaw,New Hampton Rural,County Agricultural Extension Council Member,,Tara Lee Underwood,,239,127,112
 Chickasaw,New Hampton Ward 1,County Agricultural Extension Council Member,,Tara Lee Underwood,,232,122,110
 Chickasaw,New Hampton Ward 2,County Agricultural Extension Council Member,,Tara Lee Underwood,,178,105,73
 Chickasaw,New Hampton Ward 3,County Agricultural Extension Council Member,,Tara Lee Underwood,,250,139,111
@@ -148,11 +154,11 @@ Chickasaw,Bradford,County Attorney,,David C. Laudner,REP,752,234,518
 Chickasaw,Chickasaw North,County Attorney,,David C. Laudner,REP,768,415,353
 Chickasaw,Dayton Richland,County Attorney,,David C. Laudner,REP,255,125,130
 Chickasaw,Lawler/Fredericksburg,County Attorney,,David C. Laudner,REP,860,320,540
-Chickasaw,New Hampton Rural,County Attorney,,David C. Laudner,REP,309,157,152
+Chickasaw,New Hampton Rural,County Attorney,,David C. Laudner,REP,310,158,152
 Chickasaw,New Hampton Ward 1,County Attorney,,David C. Laudner,REP,300,154,146
 Chickasaw,New Hampton Ward 2,County Attorney,,David C. Laudner,REP,231,134,97
-Chickasaw,New Hampton Ward 3,County Attorney,,David C. Laudner,REP,320,176,144
-Chickasaw,New Hampton Ward 4,County Attorney,,David C. Laudner,REP,320,190,130
+Chickasaw,New Hampton Ward 3,County Attorney,,David C. Laudner,REP,321,177,144
+Chickasaw,New Hampton Ward 4,County Attorney,,David C. Laudner,REP,321,191,130
 Chickasaw,Bradford,County Attorney,,Write-In,,13,6,7
 Chickasaw,Chickasaw North,County Attorney,,Write-In,,8,4,4
 Chickasaw,Dayton Richland,County Attorney,,Write-In,,0,0,0
@@ -172,14 +178,14 @@ Chickasaw,New Hampton Ward 2,County Recorder,,Gina Fangman,REP,121,66,55
 Chickasaw,New Hampton Ward 3,County Recorder,,Gina Fangman,REP,167,84,83
 Chickasaw,New Hampton Ward 4,County Recorder,,Gina Fangman,REP,161,85,76
 Chickasaw,Bradford,County Recorder,,Shirley M. Troyna,DEM,390,157,233
-Chickasaw,Chickasaw North,County Recorder,,Shirley M. Troyna,DEM,502,321,181
+Chickasaw,Chickasaw North,County Recorder,,Shirley M. Troyna,DEM,503,322,181
 Chickasaw,Dayton Richland,County Recorder,,Shirley M. Troyna,DEM,137,85,52
 Chickasaw,Lawler/Fredericksburg,County Recorder,,Shirley M. Troyna,DEM,509,259,250
-Chickasaw,New Hampton Rural,County Recorder,,Shirley M. Troyna,DEM,168,99,69
+Chickasaw,New Hampton Rural,County Recorder,,Shirley M. Troyna,DEM,169,100,69
 Chickasaw,New Hampton Ward 1,County Recorder,,Shirley M. Troyna,DEM,232,134,98
 Chickasaw,New Hampton Ward 2,County Recorder,,Shirley M. Troyna,DEM,164,111,53
-Chickasaw,New Hampton Ward 3,County Recorder,,Shirley M. Troyna,DEM,203,128,75
-Chickasaw,New Hampton Ward 4,County Recorder,,Shirley M. Troyna,DEM,227,160,67
+Chickasaw,New Hampton Ward 3,County Recorder,,Shirley M. Troyna,DEM,204,129,75
+Chickasaw,New Hampton Ward 4,County Recorder,,Shirley M. Troyna,DEM,228,161,67
 Chickasaw,Bradford,County Recorder,,Write-In,,5,2,3
 Chickasaw,Chickasaw North,County Recorder,,Write-In,,0,0,0
 Chickasaw,Dayton Richland,County Recorder,,Write-In,,0,0,0
@@ -199,11 +205,11 @@ Chickasaw,Bradford,County Treasurer,,Matthew Ysbrand,REP,771,244,527
 Chickasaw,Chickasaw North,County Treasurer,,Matthew Ysbrand,REP,798,437,361
 Chickasaw,Dayton Richland,County Treasurer,,Matthew Ysbrand,REP,261,130,131
 Chickasaw,Lawler/Fredericksburg,County Treasurer,,Matthew Ysbrand,REP,884,334,550
-Chickasaw,New Hampton Rural,County Treasurer,,Matthew Ysbrand,REP,315,163,152
+Chickasaw,New Hampton Rural,County Treasurer,,Matthew Ysbrand,REP,316,164,152
 Chickasaw,New Hampton Ward 1,County Treasurer,,Matthew Ysbrand,REP,304,158,146
 Chickasaw,New Hampton Ward 2,County Treasurer,,Matthew Ysbrand,REP,238,138,100
-Chickasaw,New Hampton Ward 3,County Treasurer,,Matthew Ysbrand,REP,327,177,150
-Chickasaw,New Hampton Ward 4,County Treasurer,,Matthew Ysbrand,REP,332,196,136
+Chickasaw,New Hampton Ward 3,County Treasurer,,Matthew Ysbrand,REP,328,178,150
+Chickasaw,New Hampton Ward 4,County Treasurer,,Matthew Ysbrand,REP,333,197,136
 Chickasaw,Bradford,County Treasurer,,Write-In,,13,9,4
 Chickasaw,Chickasaw North,County Treasurer,,Write-In,,8,5,3
 Chickasaw,Dayton Richland,County Treasurer,,Write-In,,0,0,0
@@ -214,10 +220,10 @@ Chickasaw,New Hampton Ward 2,County Treasurer,,Write-In,,7,2,5
 Chickasaw,New Hampton Ward 3,County Treasurer,,Write-In,,4,3,1
 Chickasaw,New Hampton Ward 4,County Treasurer,,Write-In,,8,5,3
 Chickasaw,Bradford,Court of Appeals Judge - John M. Sandy,,No,,208,74,134
-Chickasaw,Chickasaw North,Court of Appeals Judge - John M. Sandy,,No,,223,131,92
+Chickasaw,Chickasaw North,Court of Appeals Judge - John M. Sandy,,No,,224,132,92
 Chickasaw,Dayton Richland,Court of Appeals Judge - John M. Sandy,,No,,73,37,36
 Chickasaw,Lawler/Fredericksburg,Court of Appeals Judge - John M. Sandy,,No,,231,87,144
-Chickasaw,New Hampton Rural,Court of Appeals Judge - John M. Sandy,,No,,82,43,39
+Chickasaw,New Hampton Rural,Court of Appeals Judge - John M. Sandy,,No,,83,44,39
 Chickasaw,New Hampton Ward 1,Court of Appeals Judge - John M. Sandy,,No,,65,28,37
 Chickasaw,New Hampton Ward 2,Court of Appeals Judge - John M. Sandy,,No,,60,31,29
 Chickasaw,New Hampton Ward 3,Court of Appeals Judge - John M. Sandy,,No,,71,47,24
@@ -241,10 +247,10 @@ Chickasaw,New Hampton Ward 2,Court of Appeals Judge - Julie A. Schumacher,,No,,5
 Chickasaw,New Hampton Ward 3,Court of Appeals Judge - Julie A. Schumacher,,No,,59,37,22
 Chickasaw,New Hampton Ward 4,Court of Appeals Judge - Julie A. Schumacher,,No,,76,47,29
 Chickasaw,Bradford,Court of Appeals Judge - Julie A. Schumacher,,Yes,,514,158,356
-Chickasaw,Chickasaw North,Court of Appeals Judge - Julie A. Schumacher,,Yes,,491,255,236
+Chickasaw,Chickasaw North,Court of Appeals Judge - Julie A. Schumacher,,Yes,,492,256,236
 Chickasaw,Dayton Richland,Court of Appeals Judge - Julie A. Schumacher,,Yes,,168,82,86
 Chickasaw,Lawler/Fredericksburg,Court of Appeals Judge - Julie A. Schumacher,,Yes,,607,243,364
-Chickasaw,New Hampton Rural,Court of Appeals Judge - Julie A. Schumacher,,Yes,,215,109,106
+Chickasaw,New Hampton Rural,Court of Appeals Judge - Julie A. Schumacher,,Yes,,216,110,106
 Chickasaw,New Hampton Ward 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,232,121,111
 Chickasaw,New Hampton Ward 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,173,98,75
 Chickasaw,New Hampton Ward 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,255,132,123
@@ -259,10 +265,10 @@ Chickasaw,New Hampton Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,No
 Chickasaw,New Hampton Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,63,38,25
 Chickasaw,New Hampton Ward 4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,82,50,32
 Chickasaw,Bradford,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,465,148,317
-Chickasaw,Chickasaw North,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,455,239,216
+Chickasaw,Chickasaw North,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,456,240,216
 Chickasaw,Dayton Richland,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,160,76,84
 Chickasaw,Lawler/Fredericksburg,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,553,219,334
-Chickasaw,New Hampton Rural,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,199,104,95
+Chickasaw,New Hampton Rural,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,200,105,95
 Chickasaw,New Hampton Ward 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,217,110,107
 Chickasaw,New Hampton Ward 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,159,85,74
 Chickasaw,New Hampton Ward 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,243,127,116
@@ -275,20 +281,21 @@ Chickasaw,Chickasaw North,Dayton Township Trustee,,Andrew Zweibohmer,,20,9,11
 Chickasaw,Dayton Richland,Dayton Township Trustee,,Andrew Zweibohmer,,134,80,54
 Chickasaw,Chickasaw North,Dayton Township Trustee,,Write-In,,0,0,0
 Chickasaw,Dayton Richland,Dayton Township Trustee,,Write-In,,0,0,0
-Chickasaw,Chickasaw North,Deerfield Township Clerk,,Write-In,,4,3,1
+Chickasaw,Chickasaw North,Deerfield Township Clerk,,Nicole Ashley,,1,1,0
+Chickasaw,Chickasaw North,Deerfield Township Clerk,,Write-In,,3,2,1
 Chickasaw,Chickasaw North,Deerfield Township Trustee,,Tom Boehmer,,98,52,46
 Chickasaw,Chickasaw North,Deerfield Township Trustee,,Write-In,,0,0,0
 Chickasaw,Bradford,District 1B Associate Judge - Linnea M.N. Nicol,,No,,188,62,126
 Chickasaw,Chickasaw North,District 1B Associate Judge - Linnea M.N. Nicol,,No,,231,130,101
 Chickasaw,Dayton Richland,District 1B Associate Judge - Linnea M.N. Nicol,,No,,83,47,36
 Chickasaw,Lawler/Fredericksburg,District 1B Associate Judge - Linnea M.N. Nicol,,No,,238,88,150
-Chickasaw,New Hampton Rural,District 1B Associate Judge - Linnea M.N. Nicol,,No,,89,47,42
+Chickasaw,New Hampton Rural,District 1B Associate Judge - Linnea M.N. Nicol,,No,,90,48,42
 Chickasaw,New Hampton Ward 1,District 1B Associate Judge - Linnea M.N. Nicol,,No,,68,25,43
 Chickasaw,New Hampton Ward 2,District 1B Associate Judge - Linnea M.N. Nicol,,No,,57,32,25
 Chickasaw,New Hampton Ward 3,District 1B Associate Judge - Linnea M.N. Nicol,,No,,62,37,25
 Chickasaw,New Hampton Ward 4,District 1B Associate Judge - Linnea M.N. Nicol,,No,,88,55,33
 Chickasaw,Bradford,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,476,153,323
-Chickasaw,Chickasaw North,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,456,242,214
+Chickasaw,Chickasaw North,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,457,243,214
 Chickasaw,Dayton Richland,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,152,73,79
 Chickasaw,Lawler/Fredericksburg,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,551,216,335
 Chickasaw,New Hampton Rural,District 1B Associate Judge - Linnea M.N. Nicol,,Yes,,192,97,95
@@ -300,13 +307,13 @@ Chickasaw,Bradford,District 1B Associate Judge - Michelle Jungers,,No,,187,66,12
 Chickasaw,Chickasaw North,District 1B Associate Judge - Michelle Jungers,,No,,220,128,92
 Chickasaw,Dayton Richland,District 1B Associate Judge - Michelle Jungers,,No,,74,41,33
 Chickasaw,Lawler/Fredericksburg,District 1B Associate Judge - Michelle Jungers,,No,,220,78,142
-Chickasaw,New Hampton Rural,District 1B Associate Judge - Michelle Jungers,,No,,90,45,45
+Chickasaw,New Hampton Rural,District 1B Associate Judge - Michelle Jungers,,No,,91,46,45
 Chickasaw,New Hampton Ward 1,District 1B Associate Judge - Michelle Jungers,,No,,59,23,36
 Chickasaw,New Hampton Ward 2,District 1B Associate Judge - Michelle Jungers,,No,,53,31,22
 Chickasaw,New Hampton Ward 3,District 1B Associate Judge - Michelle Jungers,,No,,59,34,25
 Chickasaw,New Hampton Ward 4,District 1B Associate Judge - Michelle Jungers,,No,,84,54,30
 Chickasaw,Bradford,District 1B Associate Judge - Michelle Jungers,,Yes,,487,151,336
-Chickasaw,Chickasaw North,District 1B Associate Judge - Michelle Jungers,,Yes,,466,242,224
+Chickasaw,Chickasaw North,District 1B Associate Judge - Michelle Jungers,,Yes,,467,243,224
 Chickasaw,Dayton Richland,District 1B Associate Judge - Michelle Jungers,,Yes,,159,77,82
 Chickasaw,Lawler/Fredericksburg,District 1B Associate Judge - Michelle Jungers,,Yes,,570,226,344
 Chickasaw,New Hampton Rural,District 1B Associate Judge - Michelle Jungers,,Yes,,193,102,91
@@ -324,19 +331,19 @@ Chickasaw,New Hampton Ward 2,District 1B Associate Judge - Patrice Jaye Eichman,
 Chickasaw,New Hampton Ward 3,District 1B Associate Judge - Patrice Jaye Eichman,,No,,63,40,23
 Chickasaw,New Hampton Ward 4,District 1B Associate Judge - Patrice Jaye Eichman,,No,,83,52,31
 Chickasaw,Bradford,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,469,146,323
-Chickasaw,Chickasaw North,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,468,244,224
+Chickasaw,Chickasaw North,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,469,245,224
 Chickasaw,Dayton Richland,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,159,78,81
 Chickasaw,Lawler/Fredericksburg,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,564,222,342
-Chickasaw,New Hampton Rural,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,195,102,93
+Chickasaw,New Hampton Rural,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,196,103,93
 Chickasaw,New Hampton Ward 1,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,221,114,107
 Chickasaw,New Hampton Ward 2,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,163,87,76
 Chickasaw,New Hampton Ward 3,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,242,124,118
 Chickasaw,New Hampton Ward 4,District 1B Associate Judge - Patrice Jaye Eichman,,Yes,,205,117,88
 Chickasaw,Bradford,District 1B Judge - Joel A. Dalrymple,,No,,203,73,130
-Chickasaw,Chickasaw North,District 1B Judge - Joel A. Dalrymple,,No,,231,135,96
+Chickasaw,Chickasaw North,District 1B Judge - Joel A. Dalrymple,,No,,232,136,96
 Chickasaw,Dayton Richland,District 1B Judge - Joel A. Dalrymple,,No,,81,45,36
 Chickasaw,Lawler/Fredericksburg,District 1B Judge - Joel A. Dalrymple,,No,,235,89,146
-Chickasaw,New Hampton Rural,District 1B Judge - Joel A. Dalrymple,,No,,91,48,43
+Chickasaw,New Hampton Rural,District 1B Judge - Joel A. Dalrymple,,No,,92,49,43
 Chickasaw,New Hampton Ward 1,District 1B Judge - Joel A. Dalrymple,,No,,67,31,36
 Chickasaw,New Hampton Ward 2,District 1B Judge - Joel A. Dalrymple,,No,,64,38,26
 Chickasaw,New Hampton Ward 3,District 1B Judge - Joel A. Dalrymple,,No,,73,49,24
@@ -356,16 +363,17 @@ Chickasaw,Lawler/Fredericksburg,Dresden Township Trustee,,Patrick Langreck,,135,
 Chickasaw,Lawler/Fredericksburg,Dresden Township Trustee,,Write-In,,1,1,0
 Chickasaw,Lawler/Fredericksburg,Fredericksburg Township Clerk,,Bradley Ellison,,157,42,115
 Chickasaw,Lawler/Fredericksburg,Fredericksburg Township Clerk,,Write-In,,0,0,0
-Chickasaw,Lawler/Fredericksburg,Fredericksburg Township Trustee,,Write-In,,12,2,10
+Chickasaw,Lawler/Fredericksburg,Fredericksburg Township Trustee,,Mark Miller,,1,0,1
+Chickasaw,Lawler/Fredericksburg,Fredericksburg Township Trustee,,Write-In,,11,2,9
 Chickasaw,Bradford,Governor,,Rob Sand and Dave Muhlbauer,DEM,412,159,253
-Chickasaw,Chickasaw North,Governor,,Rob Sand and Dave Muhlbauer,DEM,420,266,154
+Chickasaw,Chickasaw North,Governor,,Rob Sand and Dave Muhlbauer,DEM,421,267,154
 Chickasaw,Dayton Richland,Governor,,Rob Sand and Dave Muhlbauer,DEM,109,69,40
 Chickasaw,Lawler/Fredericksburg,Governor,,Rob Sand and Dave Muhlbauer,DEM,452,239,213
 Chickasaw,New Hampton Rural,Governor,,Rob Sand and Dave Muhlbauer,DEM,119,74,45
 Chickasaw,New Hampton Ward 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,196,121,75
 Chickasaw,New Hampton Ward 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,155,100,55
-Chickasaw,New Hampton Ward 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,191,120,71
-Chickasaw,New Hampton Ward 4,Governor,,Rob Sand and Dave Muhlbauer,DEM,220,154,66
+Chickasaw,New Hampton Ward 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,192,121,71
+Chickasaw,New Hampton Ward 4,Governor,,Rob Sand and Dave Muhlbauer,DEM,221,155,66
 Chickasaw,Bradford,Governor,,Write-In,,1,1,0
 Chickasaw,Chickasaw North,Governor,,Write-In,,2,2,0
 Chickasaw,Dayton Richland,Governor,,Write-In,,1,1,0
@@ -379,12 +387,14 @@ Chickasaw,Bradford,Governor,,Zach Lahn and Derek Wulf,REP,509,147,362
 Chickasaw,Chickasaw North,Governor,,Zach Lahn and Derek Wulf,REP,494,252,242
 Chickasaw,Dayton Richland,Governor,,Zach Lahn and Derek Wulf,REP,175,78,97
 Chickasaw,Lawler/Fredericksburg,Governor,,Zach Lahn and Derek Wulf,REP,587,174,413
-Chickasaw,New Hampton Rural,Governor,,Zach Lahn and Derek Wulf,REP,228,113,115
+Chickasaw,New Hampton Rural,Governor,,Zach Lahn and Derek Wulf,REP,229,114,115
 Chickasaw,New Hampton Ward 1,Governor,,Zach Lahn and Derek Wulf,REP,164,70,94
 Chickasaw,New Hampton Ward 2,Governor,,Zach Lahn and Derek Wulf,REP,138,80,58
 Chickasaw,New Hampton Ward 3,Governor,,Zach Lahn and Derek Wulf,REP,179,92,87
 Chickasaw,New Hampton Ward 4,Governor,,Zach Lahn and Derek Wulf,REP,175,95,80
-Chickasaw,Chickasaw North,Jacksonville Township Clerk,,Write-In,,18,8,10
+Chickasaw,Chickasaw North,Jacksonville Township Clerk,,Nathan Schmitt,,3,1,2
+Chickasaw,New Hampton Rural,Jacksonville Township Clerk,,Nathan Schmitt,,0,0,0
+Chickasaw,Chickasaw North,Jacksonville Township Clerk,,Write-In,,15,7,8
 Chickasaw,New Hampton Rural,Jacksonville Township Clerk,,Write-In,,1,1,0
 Chickasaw,Chickasaw North,Jacksonville Township Trustee,,Mark Schmitt,,124,64,60
 Chickasaw,New Hampton Rural,Jacksonville Township Trustee,,Mark Schmitt,,43,20,23
@@ -392,14 +402,14 @@ Chickasaw,Chickasaw North,Jacksonville Township Trustee,,Write-In,,1,0,1
 Chickasaw,New Hampton Rural,Jacksonville Township Trustee,,Write-In,,0,0,0
 Chickasaw,New Hampton Rural,New Hampton Township Clerk,,Brad Nelson,,245,129,116
 Chickasaw,New Hampton Rural,New Hampton Township Clerk,,Write-In,,4,2,2
-Chickasaw,New Hampton Rural,New Hampton Township Trustee,,Nathan Underwood,,265,143,122
+Chickasaw,New Hampton Rural,New Hampton Township Trustee,,Nathan Underwood,,266,144,122
 Chickasaw,New Hampton Rural,New Hampton Township Trustee,,Write-In,,0,0,0
 Chickasaw,Dayton Richland,Richland Township Clerk,,Janice Edson,,131,57,74
 Chickasaw,Dayton Richland,Richland Township Clerk,,Write-In,,0,0,0
 Chickasaw,Dayton Richland,Richland Township Trustee,,Troy Gilbert,,130,54,76
 Chickasaw,Dayton Richland,Richland Township Trustee,,Write-In,,0,0,0
 Chickasaw,Bradford,Secretary of Agriculture,,Chris Jones,DEM,315,116,199
-Chickasaw,Chickasaw North,Secretary of Agriculture,,Chris Jones,DEM,253,169,84
+Chickasaw,Chickasaw North,Secretary of Agriculture,,Chris Jones,DEM,254,170,84
 Chickasaw,Dayton Richland,Secretary of Agriculture,,Chris Jones,DEM,59,44,15
 Chickasaw,Lawler/Fredericksburg,Secretary of Agriculture,,Chris Jones,DEM,297,159,138
 Chickasaw,New Hampton Rural,Secretary of Agriculture,,Chris Jones,DEM,80,55,25
@@ -411,10 +421,10 @@ Chickasaw,Bradford,Secretary of Agriculture,,Mike Naig,REP,582,186,396
 Chickasaw,Chickasaw North,Secretary of Agriculture,,Mike Naig,REP,654,345,309
 Chickasaw,Dayton Richland,Secretary of Agriculture,,Mike Naig,REP,219,100,119
 Chickasaw,Lawler/Fredericksburg,Secretary of Agriculture,,Mike Naig,REP,721,245,476
-Chickasaw,New Hampton Rural,Secretary of Agriculture,,Mike Naig,REP,264,130,134
+Chickasaw,New Hampton Rural,Secretary of Agriculture,,Mike Naig,REP,265,131,134
 Chickasaw,New Hampton Ward 1,Secretary of Agriculture,,Mike Naig,REP,206,95,111
 Chickasaw,New Hampton Ward 2,Secretary of Agriculture,,Mike Naig,REP,170,96,74
-Chickasaw,New Hampton Ward 3,Secretary of Agriculture,,Mike Naig,REP,239,121,118
+Chickasaw,New Hampton Ward 3,Secretary of Agriculture,,Mike Naig,REP,240,122,118
 Chickasaw,New Hampton Ward 4,Secretary of Agriculture,,Mike Naig,REP,240,136,104
 Chickasaw,Bradford,Secretary of Agriculture,,Write-In,,4,1,3
 Chickasaw,Chickasaw North,Secretary of Agriculture,,Write-In,,1,1,0
@@ -429,13 +439,13 @@ Chickasaw,Bradford,Secretary of State,,Paul D. Pate,REP,579,178,401
 Chickasaw,Chickasaw North,Secretary of State,,Paul D. Pate,REP,629,321,308
 Chickasaw,Dayton Richland,Secretary of State,,Paul D. Pate,REP,214,97,117
 Chickasaw,Lawler/Fredericksburg,Secretary of State,,Paul D. Pate,REP,694,227,467
-Chickasaw,New Hampton Rural,Secretary of State,,Paul D. Pate,REP,262,131,131
+Chickasaw,New Hampton Rural,Secretary of State,,Paul D. Pate,REP,263,132,131
 Chickasaw,New Hampton Ward 1,Secretary of State,,Paul D. Pate,REP,198,88,110
 Chickasaw,New Hampton Ward 2,Secretary of State,,Paul D. Pate,REP,165,93,72
-Chickasaw,New Hampton Ward 3,Secretary of State,,Paul D. Pate,REP,222,111,111
+Chickasaw,New Hampton Ward 3,Secretary of State,,Paul D. Pate,REP,223,112,111
 Chickasaw,New Hampton Ward 4,Secretary of State,,Paul D. Pate,REP,236,130,106
 Chickasaw,Bradford,Secretary of State,,Ryan Peterman,DEM,315,122,193
-Chickasaw,Chickasaw North,Secretary of State,,Ryan Peterman,DEM,266,186,80
+Chickasaw,Chickasaw North,Secretary of State,,Ryan Peterman,DEM,267,187,80
 Chickasaw,Dayton Richland,Secretary of State,,Ryan Peterman,DEM,64,47,17
 Chickasaw,Lawler/Fredericksburg,Secretary of State,,Ryan Peterman,DEM,323,179,144
 Chickasaw,New Hampton Rural,Secretary of State,,Ryan Peterman,DEM,81,53,28
@@ -453,22 +463,22 @@ Chickasaw,New Hampton Ward 2,Secretary of State,,Write-In,,1,1,0
 Chickasaw,New Hampton Ward 3,Secretary of State,,Write-In,,0,0,0
 Chickasaw,New Hampton Ward 4,Secretary of State,,Write-In,,0,0,0
 Chickasaw,Bradford,Soil and Water Conservation District Commissioner,,Kim Leichtman,,578,193,385
-Chickasaw,Chickasaw North,Soil and Water Conservation District Commissioner,,Kim Leichtman,,607,348,259
+Chickasaw,Chickasaw North,Soil and Water Conservation District Commissioner,,Kim Leichtman,,608,349,259
 Chickasaw,Dayton Richland,Soil and Water Conservation District Commissioner,,Kim Leichtman,,214,112,102
 Chickasaw,Lawler/Fredericksburg,Soil and Water Conservation District Commissioner,,Kim Leichtman,,728,284,444
-Chickasaw,New Hampton Rural,Soil and Water Conservation District Commissioner,,Kim Leichtman,,247,132,115
+Chickasaw,New Hampton Rural,Soil and Water Conservation District Commissioner,,Kim Leichtman,,248,133,115
 Chickasaw,New Hampton Ward 1,Soil and Water Conservation District Commissioner,,Kim Leichtman,,268,135,133
 Chickasaw,New Hampton Ward 2,Soil and Water Conservation District Commissioner,,Kim Leichtman,,199,115,84
-Chickasaw,New Hampton Ward 3,Soil and Water Conservation District Commissioner,,Kim Leichtman,,273,158,115
+Chickasaw,New Hampton Ward 3,Soil and Water Conservation District Commissioner,,Kim Leichtman,,274,159,115
 Chickasaw,New Hampton Ward 4,Soil and Water Conservation District Commissioner,,Kim Leichtman,,269,169,100
 Chickasaw,Bradford,Soil and Water Conservation District Commissioner,,Steven Mashek,,555,191,364
-Chickasaw,Chickasaw North,Soil and Water Conservation District Commissioner,,Steven Mashek,,633,361,272
+Chickasaw,Chickasaw North,Soil and Water Conservation District Commissioner,,Steven Mashek,,634,362,272
 Chickasaw,Dayton Richland,Soil and Water Conservation District Commissioner,,Steven Mashek,,210,112,98
 Chickasaw,Lawler/Fredericksburg,Soil and Water Conservation District Commissioner,,Steven Mashek,,716,298,418
-Chickasaw,New Hampton Rural,Soil and Water Conservation District Commissioner,,Steven Mashek,,253,125,128
+Chickasaw,New Hampton Rural,Soil and Water Conservation District Commissioner,,Steven Mashek,,254,126,128
 Chickasaw,New Hampton Ward 1,Soil and Water Conservation District Commissioner,,Steven Mashek,,252,135,117
 Chickasaw,New Hampton Ward 2,Soil and Water Conservation District Commissioner,,Steven Mashek,,197,127,70
-Chickasaw,New Hampton Ward 3,Soil and Water Conservation District Commissioner,,Steven Mashek,,284,160,124
+Chickasaw,New Hampton Ward 3,Soil and Water Conservation District Commissioner,,Steven Mashek,,285,161,124
 Chickasaw,New Hampton Ward 4,Soil and Water Conservation District Commissioner,,Steven Mashek,,284,174,110
 Chickasaw,Bradford,Soil and Water Conservation District Commissioner,,Write-In,,9,2,7
 Chickasaw,Chickasaw North,Soil and Water Conservation District Commissioner,,Write-In,,9,4,5
@@ -491,13 +501,13 @@ Chickasaw,Bradford,State House,58,Charley Thomson,REP,546,155,391
 Chickasaw,Chickasaw North,State House,58,Charley Thomson,REP,577,286,291
 Chickasaw,Dayton Richland,State House,58,Charley Thomson,REP,201,85,116
 Chickasaw,Lawler/Fredericksburg,State House,58,Charley Thomson,REP,640,198,442
-Chickasaw,New Hampton Rural,State House,58,Charley Thomson,REP,256,122,134
+Chickasaw,New Hampton Rural,State House,58,Charley Thomson,REP,257,123,134
 Chickasaw,New Hampton Ward 1,State House,58,Charley Thomson,REP,182,82,100
 Chickasaw,New Hampton Ward 2,State House,58,Charley Thomson,REP,155,87,68
-Chickasaw,New Hampton Ward 3,State House,58,Charley Thomson,REP,217,109,108
+Chickasaw,New Hampton Ward 3,State House,58,Charley Thomson,REP,218,110,108
 Chickasaw,New Hampton Ward 4,State House,58,Charley Thomson,REP,209,114,95
 Chickasaw,Bradford,State House,58,India May,DEM,348,148,200
-Chickasaw,Chickasaw North,State House,58,India May,DEM,312,217,95
+Chickasaw,Chickasaw North,State House,58,India May,DEM,313,218,95
 Chickasaw,Dayton Richland,State House,58,India May,DEM,76,60,16
 Chickasaw,Lawler/Fredericksburg,State House,58,India May,DEM,372,210,162
 Chickasaw,New Hampton Rural,State House,58,India May,DEM,84,61,23
@@ -515,7 +525,7 @@ Chickasaw,New Hampton Ward 2,State House,58,Write-In,,0,0,0
 Chickasaw,New Hampton Ward 3,State House,58,Write-In,,0,0,0
 Chickasaw,New Hampton Ward 4,State House,58,Write-In,,1,1,0
 Chickasaw,Bradford,State Senate,29,Jim Vowels,DEM,371,145,226
-Chickasaw,Chickasaw North,State Senate,29,Jim Vowels,DEM,343,230,113
+Chickasaw,Chickasaw North,State Senate,29,Jim Vowels,DEM,344,231,113
 Chickasaw,Dayton Richland,State Senate,29,Jim Vowels,DEM,87,65,22
 Chickasaw,Lawler/Fredericksburg,State Senate,29,Jim Vowels,DEM,398,218,180
 Chickasaw,New Hampton Rural,State Senate,29,Jim Vowels,DEM,99,69,30
@@ -527,10 +537,10 @@ Chickasaw,Bradford,State Senate,29,Sandy Salmon,REP,530,155,375
 Chickasaw,Chickasaw North,State Senate,29,Sandy Salmon,REP,553,277,276
 Chickasaw,Dayton Richland,State Senate,29,Sandy Salmon,REP,194,82,112
 Chickasaw,Lawler/Fredericksburg,State Senate,29,Sandy Salmon,REP,619,187,432
-Chickasaw,New Hampton Rural,State Senate,29,Sandy Salmon,REP,243,115,128
+Chickasaw,New Hampton Rural,State Senate,29,Sandy Salmon,REP,244,116,128
 Chickasaw,New Hampton Ward 1,State Senate,29,Sandy Salmon,REP,171,77,94
 Chickasaw,New Hampton Ward 2,State Senate,29,Sandy Salmon,REP,154,90,64
-Chickasaw,New Hampton Ward 3,State Senate,29,Sandy Salmon,REP,201,98,103
+Chickasaw,New Hampton Ward 3,State Senate,29,Sandy Salmon,REP,202,99,103
 Chickasaw,New Hampton Ward 4,State Senate,29,Sandy Salmon,REP,205,112,93
 Chickasaw,Bradford,State Senate,29,Write-In,,4,1,3
 Chickasaw,Chickasaw North,State Senate,29,Write-In,,0,0,0
@@ -548,7 +558,7 @@ Chickasaw,Dayton Richland,Sumner-Fredericksburg School - Public Measure BW,,Yes,
 Chickasaw,Lawler/Fredericksburg,Sumner-Fredericksburg School - Public Measure BW,,Yes,,395,128,267
 Chickasaw,New Hampton Rural,Sumner-Fredericksburg School - Public Measure BW,,Yes,,5,5,0
 Chickasaw,Bradford,Treasurer of State,,John Norwood,DEM,345,136,209
-Chickasaw,Chickasaw North,Treasurer of State,,John Norwood,DEM,293,204,89
+Chickasaw,Chickasaw North,Treasurer of State,,John Norwood,DEM,294,205,89
 Chickasaw,Dayton Richland,Treasurer of State,,John Norwood,DEM,75,55,20
 Chickasaw,Lawler/Fredericksburg,Treasurer of State,,John Norwood,DEM,359,205,154
 Chickasaw,New Hampton Rural,Treasurer of State,,John Norwood,DEM,87,59,28
@@ -560,10 +570,10 @@ Chickasaw,Bradford,Treasurer of State,,Roby Smith,REP,537,161,376
 Chickasaw,Chickasaw North,Treasurer of State,,Roby Smith,REP,586,293,293
 Chickasaw,Dayton Richland,Treasurer of State,,Roby Smith,REP,200,90,110
 Chickasaw,Lawler/Fredericksburg,Treasurer of State,,Roby Smith,REP,631,188,443
-Chickasaw,New Hampton Rural,Treasurer of State,,Roby Smith,REP,252,123,129
+Chickasaw,New Hampton Rural,Treasurer of State,,Roby Smith,REP,253,124,129
 Chickasaw,New Hampton Ward 1,Treasurer of State,,Roby Smith,REP,186,84,102
 Chickasaw,New Hampton Ward 2,Treasurer of State,,Roby Smith,REP,155,89,66
-Chickasaw,New Hampton Ward 3,Treasurer of State,,Roby Smith,REP,206,104,102
+Chickasaw,New Hampton Ward 3,Treasurer of State,,Roby Smith,REP,207,105,102
 Chickasaw,New Hampton Ward 4,Treasurer of State,,Roby Smith,REP,204,110,94
 Chickasaw,Bradford,Treasurer of State,,Write-In,,4,1,3
 Chickasaw,Chickasaw North,Treasurer of State,,Write-In,,0,0,0
@@ -587,13 +597,13 @@ Chickasaw,Bradford,U.S. House,2,Joe Mitchell,REP,525,153,372
 Chickasaw,Chickasaw North,U.S. House,2,Joe Mitchell,REP,552,285,267
 Chickasaw,Dayton Richland,U.S. House,2,Joe Mitchell,REP,189,84,105
 Chickasaw,Lawler/Fredericksburg,U.S. House,2,Joe Mitchell,REP,565,176,389
-Chickasaw,New Hampton Rural,U.S. House,2,Joe Mitchell,REP,240,118,122
+Chickasaw,New Hampton Rural,U.S. House,2,Joe Mitchell,REP,241,119,122
 Chickasaw,New Hampton Ward 1,U.S. House,2,Joe Mitchell,REP,167,74,93
 Chickasaw,New Hampton Ward 2,U.S. House,2,Joe Mitchell,REP,137,80,57
-Chickasaw,New Hampton Ward 3,U.S. House,2,Joe Mitchell,REP,195,100,95
+Chickasaw,New Hampton Ward 3,U.S. House,2,Joe Mitchell,REP,196,101,95
 Chickasaw,New Hampton Ward 4,U.S. House,2,Joe Mitchell,REP,188,103,85
 Chickasaw,Bradford,U.S. House,2,Lindsay James,DEM,321,134,187
-Chickasaw,Chickasaw North,U.S. House,2,Lindsay James,DEM,290,201,89
+Chickasaw,Chickasaw North,U.S. House,2,Lindsay James,DEM,291,202,89
 Chickasaw,Dayton Richland,U.S. House,2,Lindsay James,DEM,78,58,20
 Chickasaw,Lawler/Fredericksburg,U.S. House,2,Lindsay James,DEM,328,197,131
 Chickasaw,New Hampton Rural,U.S. House,2,Lindsay James,DEM,87,62,25
@@ -609,7 +619,7 @@ Chickasaw,New Hampton Rural,U.S. House,2,Rick Stewart,LIB,7,3,4
 Chickasaw,New Hampton Ward 1,U.S. House,2,Rick Stewart,LIB,9,3,6
 Chickasaw,New Hampton Ward 2,U.S. House,2,Rick Stewart,LIB,9,4,5
 Chickasaw,New Hampton Ward 3,U.S. House,2,Rick Stewart,LIB,10,6,4
-Chickasaw,New Hampton Ward 4,U.S. House,2,Rick Stewart,LIB,10,4,6
+Chickasaw,New Hampton Ward 4,U.S. House,2,Rick Stewart,LIB,11,5,6
 Chickasaw,Bradford,U.S. House,2,Write-In,,1,1,0
 Chickasaw,Chickasaw North,U.S. House,2,Write-In,,1,1,0
 Chickasaw,Dayton Richland,U.S. House,2,Write-In,,0,0,0
@@ -623,20 +633,20 @@ Chickasaw,Bradford,U.S. Senate,,Ashley Hinson,REP,527,147,380
 Chickasaw,Chickasaw North,U.S. Senate,,Ashley Hinson,REP,570,297,273
 Chickasaw,Dayton Richland,U.S. Senate,,Ashley Hinson,REP,205,89,116
 Chickasaw,Lawler/Fredericksburg,U.S. Senate,,Ashley Hinson,REP,623,195,428
-Chickasaw,New Hampton Rural,U.S. Senate,,Ashley Hinson,REP,245,119,126
+Chickasaw,New Hampton Rural,U.S. Senate,,Ashley Hinson,REP,246,120,126
 Chickasaw,New Hampton Ward 1,U.S. Senate,,Ashley Hinson,REP,171,78,93
 Chickasaw,New Hampton Ward 2,U.S. Senate,,Ashley Hinson,REP,141,84,57
-Chickasaw,New Hampton Ward 3,U.S. Senate,,Ashley Hinson,REP,201,102,99
+Chickasaw,New Hampton Ward 3,U.S. Senate,,Ashley Hinson,REP,202,103,99
 Chickasaw,New Hampton Ward 4,U.S. Senate,,Ashley Hinson,REP,191,104,87
 Chickasaw,Bradford,U.S. Senate,,Josh Turek,DEM,351,145,206
-Chickasaw,Chickasaw North,U.S. Senate,,Josh Turek,DEM,316,212,104
+Chickasaw,Chickasaw North,U.S. Senate,,Josh Turek,DEM,317,213,104
 Chickasaw,Dayton Richland,U.S. Senate,,Josh Turek,DEM,78,60,18
 Chickasaw,Lawler/Fredericksburg,U.S. Senate,,Josh Turek,DEM,374,209,165
 Chickasaw,New Hampton Rural,U.S. Senate,,Josh Turek,DEM,98,63,35
 Chickasaw,New Hampton Ward 1,U.S. Senate,,Josh Turek,DEM,175,107,68
 Chickasaw,New Hampton Ward 2,U.S. Senate,,Josh Turek,DEM,139,87,52
 Chickasaw,New Hampton Ward 3,U.S. Senate,,Josh Turek,DEM,154,102,52
-Chickasaw,New Hampton Ward 4,U.S. Senate,,Josh Turek,DEM,191,140,51
+Chickasaw,New Hampton Ward 4,U.S. Senate,,Josh Turek,DEM,192,141,51
 Chickasaw,Bradford,U.S. Senate,,Thomas Laehn,LIB,37,12,25
 Chickasaw,Chickasaw North,U.S. Senate,,Thomas Laehn,LIB,29,15,14
 Chickasaw,Dayton Richland,U.S. Senate,,Thomas Laehn,LIB,6,2,4
@@ -655,9 +665,13 @@ Chickasaw,New Hampton Ward 1,U.S. Senate,,Write-In,,0,0,0
 Chickasaw,New Hampton Ward 2,U.S. Senate,,Write-In,,0,0,0
 Chickasaw,New Hampton Ward 3,U.S. Senate,,Write-In,,0,0,0
 Chickasaw,New Hampton Ward 4,U.S. Senate,,Write-In,,0,0,0
-Chickasaw,Chickasaw North,Utica Township Clerk,,Write-In,,7,4,3
+Chickasaw,Chickasaw North,Utica Township Clerk,,Randy Shatek,,4,3,1
+Chickasaw,Lawler/Fredericksburg,Utica Township Clerk,,Randy Shatek,,0,0,0
+Chickasaw,Chickasaw North,Utica Township Clerk,,Write-In,,3,1,2
 Chickasaw,Lawler/Fredericksburg,Utica Township Clerk,,Write-In,,0,0,0
-Chickasaw,Chickasaw North,Utica Township Trustee,,Write-In,,19,10,9
+Chickasaw,Chickasaw North,Utica Township Trustee,,Randy Shatek,,9,5,4
+Chickasaw,Lawler/Fredericksburg,Utica Township Trustee,,Randy Shatek,,0,0,0
+Chickasaw,Chickasaw North,Utica Township Trustee,,Write-In,,10,5,5
 Chickasaw,Lawler/Fredericksburg,Utica Township Trustee,,Write-In,,3,2,1
 Chickasaw,Chickasaw North,Washington Township Clerk,,Heather Maurer,,207,116,91
 Chickasaw,Chickasaw North,Washington Township Clerk,,Write-In,,0,0,0

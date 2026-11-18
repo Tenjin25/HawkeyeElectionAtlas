@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import gzip
 import io
 import json
 import re
@@ -52,7 +53,10 @@ def fetch_bytes(url: str, timeout: int = 60) -> bytes:
 
 
 def fetch_text(url: str, timeout: int = 60) -> str:
-    return fetch_bytes(url, timeout=timeout).decode("utf-8", errors="replace")
+    payload = fetch_bytes(url, timeout=timeout)
+    if payload.startswith(b"\x1f\x8b"):
+        payload = gzip.decompress(payload)
+    return payload.decode("utf-8", errors="replace")
 
 
 def county_filename_slug(name: str) -> str:

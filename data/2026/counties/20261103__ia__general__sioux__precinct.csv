@@ -1,36 +1,36 @@
 county,precinct,office,district,candidate,party,votes,absentee,election_day
-Sioux,Alton/Nassau,Attorney General,,Brenna Bird,REP,570,0,570
+Sioux,Alton/Nassau,Attorney General,,Brenna Bird,REP,571,1,570
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Attorney General,,Brenna Bird,REP,920,0,920
-Sioux,East Orange/Floyd/Holland N 1/2,Attorney General,,Brenna Bird,REP,654,0,654
+Sioux,East Orange/Floyd/Holland N 1/2,Attorney General,,Brenna Bird,REP,656,2,654
 Sioux,HW/BC/EW/GF/LG/WW,Attorney General,,Brenna Bird,REP,690,0,690
-Sioux,Hull/Lincoln,Attorney General,,Brenna Bird,REP,1215,0,1215
+Sioux,Hull/Lincoln,Attorney General,,Brenna Bird,REP,1216,1,1215
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Attorney General,,Brenna Bird,REP,560,0,560
 Sioux,Maurice/Sherman,Attorney General,,Brenna Bird,REP,269,0,269
-Sioux,Orange City #1/Holland SW,Attorney General,,Brenna Bird,REP,1139,0,1139
-Sioux,Orange City #2/Holland SE,Attorney General,,Brenna Bird,REP,1112,0,1112
-Sioux,Plato/Rock/Settlers/Sioux,Attorney General,,Brenna Bird,REP,665,0,665
-Sioux,Rock Valley #1,Attorney General,,Brenna Bird,REP,588,0,588
+Sioux,Orange City #1/Holland SW,Attorney General,,Brenna Bird,REP,1140,1,1139
+Sioux,Orange City #2/Holland SE,Attorney General,,Brenna Bird,REP,1117,5,1112
+Sioux,Plato/Rock/Settlers/Sioux,Attorney General,,Brenna Bird,REP,666,1,665
+Sioux,Rock Valley #1,Attorney General,,Brenna Bird,REP,589,1,588
 Sioux,Rock Valley #2,Attorney General,,Brenna Bird,REP,802,0,802
 Sioux,Sioux Center #1/Welcome,Attorney General,,Brenna Bird,REP,571,0,571
 Sioux,Sioux Center #2,Attorney General,,Brenna Bird,REP,382,0,382
 Sioux,Sioux Center #3,Attorney General,,Brenna Bird,REP,555,0,555
-Sioux,Sioux Center #4,Attorney General,,Brenna Bird,REP,1394,0,1394
+Sioux,Sioux Center #4,Attorney General,,Brenna Bird,REP,1396,2,1394
 Sioux,West Branch,Attorney General,,Brenna Bird,REP,297,0,297
-Sioux,Alton/Nassau,Attorney General,,Nate Willems,DEM,140,0,140
+Sioux,Alton/Nassau,Attorney General,,Nate Willems,DEM,141,1,140
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Attorney General,,Nate Willems,DEM,133,0,133
 Sioux,East Orange/Floyd/Holland N 1/2,Attorney General,,Nate Willems,DEM,136,0,136
 Sioux,HW/BC/EW/GF/LG/WW,Attorney General,,Nate Willems,DEM,366,0,366
 Sioux,Hull/Lincoln,Attorney General,,Nate Willems,DEM,134,0,134
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Attorney General,,Nate Willems,DEM,73,0,73
 Sioux,Maurice/Sherman,Attorney General,,Nate Willems,DEM,30,0,30
-Sioux,Orange City #1/Holland SW,Attorney General,,Nate Willems,DEM,344,0,344
+Sioux,Orange City #1/Holland SW,Attorney General,,Nate Willems,DEM,345,1,344
 Sioux,Orange City #2/Holland SE,Attorney General,,Nate Willems,DEM,286,0,286
 Sioux,Plato/Rock/Settlers/Sioux,Attorney General,,Nate Willems,DEM,36,0,36
 Sioux,Rock Valley #1,Attorney General,,Nate Willems,DEM,76,0,76
 Sioux,Rock Valley #2,Attorney General,,Nate Willems,DEM,140,0,140
 Sioux,Sioux Center #1/Welcome,Attorney General,,Nate Willems,DEM,105,0,105
-Sioux,Sioux Center #2,Attorney General,,Nate Willems,DEM,196,0,196
-Sioux,Sioux Center #3,Attorney General,,Nate Willems,DEM,155,0,155
+Sioux,Sioux Center #2,Attorney General,,Nate Willems,DEM,197,1,196
+Sioux,Sioux Center #3,Attorney General,,Nate Willems,DEM,156,1,155
 Sioux,Sioux Center #4,Attorney General,,Nate Willems,DEM,224,0,224
 Sioux,West Branch,Attorney General,,Nate Willems,DEM,33,0,33
 Sioux,Alton/Nassau,Attorney General,,Write-In,,0,0,0
@@ -50,38 +50,38 @@ Sioux,Sioux Center #2,Attorney General,,Write-In,,1,0,1
 Sioux,Sioux Center #3,Attorney General,,Write-In,,2,0,2
 Sioux,Sioux Center #4,Attorney General,,Write-In,,1,0,1
 Sioux,West Branch,Attorney General,,Write-In,,0,0,0
-Sioux,Alton/Nassau,Auditor of State,,Chris Cournoyer,REP,571,0,571
+Sioux,Alton/Nassau,Auditor of State,,Chris Cournoyer,REP,572,1,571
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Auditor of State,,Chris Cournoyer,REP,915,0,915
-Sioux,East Orange/Floyd/Holland N 1/2,Auditor of State,,Chris Cournoyer,REP,652,0,652
+Sioux,East Orange/Floyd/Holland N 1/2,Auditor of State,,Chris Cournoyer,REP,654,2,652
 Sioux,HW/BC/EW/GF/LG/WW,Auditor of State,,Chris Cournoyer,REP,710,0,710
 Sioux,Hull/Lincoln,Auditor of State,,Chris Cournoyer,REP,1214,0,1214
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Auditor of State,,Chris Cournoyer,REP,560,0,560
 Sioux,Maurice/Sherman,Auditor of State,,Chris Cournoyer,REP,271,0,271
-Sioux,Orange City #1/Holland SW,Auditor of State,,Chris Cournoyer,REP,1139,0,1139
-Sioux,Orange City #2/Holland SE,Auditor of State,,Chris Cournoyer,REP,1130,0,1130
-Sioux,Plato/Rock/Settlers/Sioux,Auditor of State,,Chris Cournoyer,REP,675,0,675
-Sioux,Rock Valley #1,Auditor of State,,Chris Cournoyer,REP,578,0,578
+Sioux,Orange City #1/Holland SW,Auditor of State,,Chris Cournoyer,REP,1140,1,1139
+Sioux,Orange City #2/Holland SE,Auditor of State,,Chris Cournoyer,REP,1135,5,1130
+Sioux,Plato/Rock/Settlers/Sioux,Auditor of State,,Chris Cournoyer,REP,676,1,675
+Sioux,Rock Valley #1,Auditor of State,,Chris Cournoyer,REP,579,1,578
 Sioux,Rock Valley #2,Auditor of State,,Chris Cournoyer,REP,796,0,796
 Sioux,Sioux Center #1/Welcome,Auditor of State,,Chris Cournoyer,REP,567,0,567
 Sioux,Sioux Center #2,Auditor of State,,Chris Cournoyer,REP,381,0,381
 Sioux,Sioux Center #3,Auditor of State,,Chris Cournoyer,REP,556,0,556
-Sioux,Sioux Center #4,Auditor of State,,Chris Cournoyer,REP,1404,0,1404
+Sioux,Sioux Center #4,Auditor of State,,Chris Cournoyer,REP,1406,2,1404
 Sioux,West Branch,Auditor of State,,Chris Cournoyer,REP,301,0,301
-Sioux,Alton/Nassau,Auditor of State,,Taylor Wettach,DEM,129,0,129
+Sioux,Alton/Nassau,Auditor of State,,Taylor Wettach,DEM,130,1,129
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Auditor of State,,Taylor Wettach,DEM,125,0,125
 Sioux,East Orange/Floyd/Holland N 1/2,Auditor of State,,Taylor Wettach,DEM,134,0,134
 Sioux,HW/BC/EW/GF/LG/WW,Auditor of State,,Taylor Wettach,DEM,337,0,337
 Sioux,Hull/Lincoln,Auditor of State,,Taylor Wettach,DEM,127,0,127
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Auditor of State,,Taylor Wettach,DEM,62,0,62
 Sioux,Maurice/Sherman,Auditor of State,,Taylor Wettach,DEM,26,0,26
-Sioux,Orange City #1/Holland SW,Auditor of State,,Taylor Wettach,DEM,321,0,321
+Sioux,Orange City #1/Holland SW,Auditor of State,,Taylor Wettach,DEM,322,1,321
 Sioux,Orange City #2/Holland SE,Auditor of State,,Taylor Wettach,DEM,265,0,265
 Sioux,Plato/Rock/Settlers/Sioux,Auditor of State,,Taylor Wettach,DEM,32,0,32
 Sioux,Rock Valley #1,Auditor of State,,Taylor Wettach,DEM,81,0,81
 Sioux,Rock Valley #2,Auditor of State,,Taylor Wettach,DEM,141,0,141
 Sioux,Sioux Center #1/Welcome,Auditor of State,,Taylor Wettach,DEM,100,0,100
-Sioux,Sioux Center #2,Auditor of State,,Taylor Wettach,DEM,193,0,193
-Sioux,Sioux Center #3,Auditor of State,,Taylor Wettach,DEM,153,0,153
+Sioux,Sioux Center #2,Auditor of State,,Taylor Wettach,DEM,194,1,193
+Sioux,Sioux Center #3,Auditor of State,,Taylor Wettach,DEM,154,1,153
 Sioux,Sioux Center #4,Auditor of State,,Taylor Wettach,DEM,203,0,203
 Sioux,West Branch,Auditor of State,,Taylor Wettach,DEM,32,0,32
 Sioux,Alton/Nassau,Auditor of State,,Write-In,,0,0,0
@@ -103,12 +103,12 @@ Sioux,Sioux Center #4,Auditor of State,,Write-In,,2,0,2
 Sioux,West Branch,Auditor of State,,Write-In,,0,0,0
 Sioux,Alton/Nassau,Constitutional Amendment 1,,No,,169,0,169
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Constitutional Amendment 1,,No,,202,0,202
-Sioux,East Orange/Floyd/Holland N 1/2,Constitutional Amendment 1,,No,,195,0,195
+Sioux,East Orange/Floyd/Holland N 1/2,Constitutional Amendment 1,,No,,196,1,195
 Sioux,HW/BC/EW/GF/LG/WW,Constitutional Amendment 1,,No,,310,0,310
 Sioux,Hull/Lincoln,Constitutional Amendment 1,,No,,224,0,224
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Constitutional Amendment 1,,No,,114,0,114
 Sioux,Maurice/Sherman,Constitutional Amendment 1,,No,,58,0,58
-Sioux,Orange City #1/Holland SW,Constitutional Amendment 1,,No,,394,0,394
+Sioux,Orange City #1/Holland SW,Constitutional Amendment 1,,No,,396,2,394
 Sioux,Orange City #2/Holland SE,Constitutional Amendment 1,,No,,373,0,373
 Sioux,Plato/Rock/Settlers/Sioux,Constitutional Amendment 1,,No,,85,0,85
 Sioux,Rock Valley #1,Constitutional Amendment 1,,No,,128,0,128
@@ -116,94 +116,94 @@ Sioux,Rock Valley #2,Constitutional Amendment 1,,No,,173,0,173
 Sioux,Sioux Center #1/Welcome,Constitutional Amendment 1,,No,,131,0,131
 Sioux,Sioux Center #2,Constitutional Amendment 1,,No,,184,0,184
 Sioux,Sioux Center #3,Constitutional Amendment 1,,No,,168,0,168
-Sioux,Sioux Center #4,Constitutional Amendment 1,,No,,350,0,350
+Sioux,Sioux Center #4,Constitutional Amendment 1,,No,,351,1,350
 Sioux,West Branch,Constitutional Amendment 1,,No,,55,0,55
-Sioux,Alton/Nassau,Constitutional Amendment 1,,Yes,,469,0,469
+Sioux,Alton/Nassau,Constitutional Amendment 1,,Yes,,470,1,469
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Constitutional Amendment 1,,Yes,,741,0,741
-Sioux,East Orange/Floyd/Holland N 1/2,Constitutional Amendment 1,,Yes,,497,0,497
+Sioux,East Orange/Floyd/Holland N 1/2,Constitutional Amendment 1,,Yes,,498,1,497
 Sioux,HW/BC/EW/GF/LG/WW,Constitutional Amendment 1,,Yes,,675,0,675
 Sioux,Hull/Lincoln,Constitutional Amendment 1,,Yes,,1059,0,1059
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Constitutional Amendment 1,,Yes,,422,0,422
 Sioux,Maurice/Sherman,Constitutional Amendment 1,,Yes,,199,0,199
 Sioux,Orange City #1/Holland SW,Constitutional Amendment 1,,Yes,,900,0,900
-Sioux,Orange City #2/Holland SE,Constitutional Amendment 1,,Yes,,822,0,822
-Sioux,Plato/Rock/Settlers/Sioux,Constitutional Amendment 1,,Yes,,526,0,526
-Sioux,Rock Valley #1,Constitutional Amendment 1,,Yes,,445,0,445
+Sioux,Orange City #2/Holland SE,Constitutional Amendment 1,,Yes,,826,4,822
+Sioux,Plato/Rock/Settlers/Sioux,Constitutional Amendment 1,,Yes,,527,1,526
+Sioux,Rock Valley #1,Constitutional Amendment 1,,Yes,,446,1,445
 Sioux,Rock Valley #2,Constitutional Amendment 1,,Yes,,619,0,619
 Sioux,Sioux Center #1/Welcome,Constitutional Amendment 1,,Yes,,467,0,467
-Sioux,Sioux Center #2,Constitutional Amendment 1,,Yes,,318,0,318
-Sioux,Sioux Center #3,Constitutional Amendment 1,,Yes,,472,0,472
-Sioux,Sioux Center #4,Constitutional Amendment 1,,Yes,,1116,0,1116
+Sioux,Sioux Center #2,Constitutional Amendment 1,,Yes,,319,1,318
+Sioux,Sioux Center #3,Constitutional Amendment 1,,Yes,,473,1,472
+Sioux,Sioux Center #4,Constitutional Amendment 1,,Yes,,1117,1,1116
 Sioux,West Branch,Constitutional Amendment 1,,Yes,,226,0,226
-Sioux,Alton/Nassau,County Agricultural Extension Council Member,,Amy Cleveringa,,384,0,384
+Sioux,Alton/Nassau,County Agricultural Extension Council Member,,Amy Cleveringa,,385,1,384
 Sioux,Capel/ Grant/ Lynn/ Sheridan,County Agricultural Extension Council Member,,Amy Cleveringa,,556,0,556
-Sioux,East Orange/Floyd/Holland N 1/2,County Agricultural Extension Council Member,,Amy Cleveringa,,410,0,410
+Sioux,East Orange/Floyd/Holland N 1/2,County Agricultural Extension Council Member,,Amy Cleveringa,,411,1,410
 Sioux,HW/BC/EW/GF/LG/WW,County Agricultural Extension Council Member,,Amy Cleveringa,,521,0,521
 Sioux,Hull/Lincoln,County Agricultural Extension Council Member,,Amy Cleveringa,,786,0,786
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,County Agricultural Extension Council Member,,Amy Cleveringa,,298,0,298
 Sioux,Maurice/Sherman,County Agricultural Extension Council Member,,Amy Cleveringa,,169,0,169
 Sioux,Orange City #1/Holland SW,County Agricultural Extension Council Member,,Amy Cleveringa,,748,0,748
-Sioux,Orange City #2/Holland SE,County Agricultural Extension Council Member,,Amy Cleveringa,,683,0,683
-Sioux,Plato/Rock/Settlers/Sioux,County Agricultural Extension Council Member,,Amy Cleveringa,,335,0,335
-Sioux,Rock Valley #1,County Agricultural Extension Council Member,,Amy Cleveringa,,343,0,343
+Sioux,Orange City #2/Holland SE,County Agricultural Extension Council Member,,Amy Cleveringa,,686,3,683
+Sioux,Plato/Rock/Settlers/Sioux,County Agricultural Extension Council Member,,Amy Cleveringa,,336,1,335
+Sioux,Rock Valley #1,County Agricultural Extension Council Member,,Amy Cleveringa,,344,1,343
 Sioux,Rock Valley #2,County Agricultural Extension Council Member,,Amy Cleveringa,,451,0,451
 Sioux,Sioux Center #1/Welcome,County Agricultural Extension Council Member,,Amy Cleveringa,,310,0,310
-Sioux,Sioux Center #2,County Agricultural Extension Council Member,,Amy Cleveringa,,235,0,235
-Sioux,Sioux Center #3,County Agricultural Extension Council Member,,Amy Cleveringa,,320,0,320
-Sioux,Sioux Center #4,County Agricultural Extension Council Member,,Amy Cleveringa,,753,0,753
+Sioux,Sioux Center #2,County Agricultural Extension Council Member,,Amy Cleveringa,,236,1,235
+Sioux,Sioux Center #3,County Agricultural Extension Council Member,,Amy Cleveringa,,321,1,320
+Sioux,Sioux Center #4,County Agricultural Extension Council Member,,Amy Cleveringa,,754,1,753
 Sioux,West Branch,County Agricultural Extension Council Member,,Amy Cleveringa,,161,0,161
-Sioux,Alton/Nassau,County Agricultural Extension Council Member,,Brent Hooyer,,340,0,340
+Sioux,Alton/Nassau,County Agricultural Extension Council Member,,Brent Hooyer,,341,1,340
 Sioux,Capel/ Grant/ Lynn/ Sheridan,County Agricultural Extension Council Member,,Brent Hooyer,,542,0,542
-Sioux,East Orange/Floyd/Holland N 1/2,County Agricultural Extension Council Member,,Brent Hooyer,,413,0,413
+Sioux,East Orange/Floyd/Holland N 1/2,County Agricultural Extension Council Member,,Brent Hooyer,,415,2,413
 Sioux,HW/BC/EW/GF/LG/WW,County Agricultural Extension Council Member,,Brent Hooyer,,559,0,559
 Sioux,Hull/Lincoln,County Agricultural Extension Council Member,,Brent Hooyer,,808,0,808
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,County Agricultural Extension Council Member,,Brent Hooyer,,330,0,330
 Sioux,Maurice/Sherman,County Agricultural Extension Council Member,,Brent Hooyer,,208,0,208
-Sioux,Orange City #1/Holland SW,County Agricultural Extension Council Member,,Brent Hooyer,,638,0,638
-Sioux,Orange City #2/Holland SE,County Agricultural Extension Council Member,,Brent Hooyer,,598,0,598
+Sioux,Orange City #1/Holland SW,County Agricultural Extension Council Member,,Brent Hooyer,,639,1,638
+Sioux,Orange City #2/Holland SE,County Agricultural Extension Council Member,,Brent Hooyer,,599,1,598
 Sioux,Plato/Rock/Settlers/Sioux,County Agricultural Extension Council Member,,Brent Hooyer,,398,0,398
-Sioux,Rock Valley #1,County Agricultural Extension Council Member,,Brent Hooyer,,363,0,363
+Sioux,Rock Valley #1,County Agricultural Extension Council Member,,Brent Hooyer,,364,1,363
 Sioux,Rock Valley #2,County Agricultural Extension Council Member,,Brent Hooyer,,424,0,424
 Sioux,Sioux Center #1/Welcome,County Agricultural Extension Council Member,,Brent Hooyer,,392,0,392
 Sioux,Sioux Center #2,County Agricultural Extension Council Member,,Brent Hooyer,,253,0,253
 Sioux,Sioux Center #3,County Agricultural Extension Council Member,,Brent Hooyer,,370,0,370
-Sioux,Sioux Center #4,County Agricultural Extension Council Member,,Brent Hooyer,,919,0,919
+Sioux,Sioux Center #4,County Agricultural Extension Council Member,,Brent Hooyer,,920,1,919
 Sioux,West Branch,County Agricultural Extension Council Member,,Brent Hooyer,,200,0,200
-Sioux,Alton/Nassau,County Agricultural Extension Council Member,,Brent Oolman,,431,0,431
+Sioux,Alton/Nassau,County Agricultural Extension Council Member,,Brent Oolman,,432,1,431
 Sioux,Capel/ Grant/ Lynn/ Sheridan,County Agricultural Extension Council Member,,Brent Oolman,,549,0,549
-Sioux,East Orange/Floyd/Holland N 1/2,County Agricultural Extension Council Member,,Brent Oolman,,420,0,420
+Sioux,East Orange/Floyd/Holland N 1/2,County Agricultural Extension Council Member,,Brent Oolman,,421,1,420
 Sioux,HW/BC/EW/GF/LG/WW,County Agricultural Extension Council Member,,Brent Oolman,,491,0,491
 Sioux,Hull/Lincoln,County Agricultural Extension Council Member,,Brent Oolman,,770,0,770
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,County Agricultural Extension Council Member,,Brent Oolman,,332,0,332
 Sioux,Maurice/Sherman,County Agricultural Extension Council Member,,Brent Oolman,,225,0,225
-Sioux,Orange City #1/Holland SW,County Agricultural Extension Council Member,,Brent Oolman,,851,0,851
-Sioux,Orange City #2/Holland SE,County Agricultural Extension Council Member,,Brent Oolman,,768,0,768
+Sioux,Orange City #1/Holland SW,County Agricultural Extension Council Member,,Brent Oolman,,852,1,851
+Sioux,Orange City #2/Holland SE,County Agricultural Extension Council Member,,Brent Oolman,,771,3,768
 Sioux,Plato/Rock/Settlers/Sioux,County Agricultural Extension Council Member,,Brent Oolman,,350,0,350
 Sioux,Rock Valley #1,County Agricultural Extension Council Member,,Brent Oolman,,323,0,323
 Sioux,Rock Valley #2,County Agricultural Extension Council Member,,Brent Oolman,,397,0,397
 Sioux,Sioux Center #1/Welcome,County Agricultural Extension Council Member,,Brent Oolman,,333,0,333
 Sioux,Sioux Center #2,County Agricultural Extension Council Member,,Brent Oolman,,205,0,205
 Sioux,Sioux Center #3,County Agricultural Extension Council Member,,Brent Oolman,,333,0,333
-Sioux,Sioux Center #4,County Agricultural Extension Council Member,,Brent Oolman,,805,0,805
+Sioux,Sioux Center #4,County Agricultural Extension Council Member,,Brent Oolman,,806,1,805
 Sioux,West Branch,County Agricultural Extension Council Member,,Brent Oolman,,220,0,220
-Sioux,Alton/Nassau,County Agricultural Extension Council Member,,Calvin Bomgaars,,309,0,309
+Sioux,Alton/Nassau,County Agricultural Extension Council Member,,Calvin Bomgaars,,310,1,309
 Sioux,Capel/ Grant/ Lynn/ Sheridan,County Agricultural Extension Council Member,,Calvin Bomgaars,,544,0,544
-Sioux,East Orange/Floyd/Holland N 1/2,County Agricultural Extension Council Member,,Calvin Bomgaars,,348,0,348
+Sioux,East Orange/Floyd/Holland N 1/2,County Agricultural Extension Council Member,,Calvin Bomgaars,,350,2,348
 Sioux,HW/BC/EW/GF/LG/WW,County Agricultural Extension Council Member,,Calvin Bomgaars,,478,0,478
 Sioux,Hull/Lincoln,County Agricultural Extension Council Member,,Calvin Bomgaars,,852,0,852
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,County Agricultural Extension Council Member,,Calvin Bomgaars,,270,0,270
 Sioux,Maurice/Sherman,County Agricultural Extension Council Member,,Calvin Bomgaars,,144,0,144
-Sioux,Orange City #1/Holland SW,County Agricultural Extension Council Member,,Calvin Bomgaars,,596,0,596
-Sioux,Orange City #2/Holland SE,County Agricultural Extension Council Member,,Calvin Bomgaars,,523,0,523
+Sioux,Orange City #1/Holland SW,County Agricultural Extension Council Member,,Calvin Bomgaars,,597,1,596
+Sioux,Orange City #2/Holland SE,County Agricultural Extension Council Member,,Calvin Bomgaars,,525,2,523
 Sioux,Plato/Rock/Settlers/Sioux,County Agricultural Extension Council Member,,Calvin Bomgaars,,353,0,353
-Sioux,Rock Valley #1,County Agricultural Extension Council Member,,Calvin Bomgaars,,332,0,332
+Sioux,Rock Valley #1,County Agricultural Extension Council Member,,Calvin Bomgaars,,333,1,332
 Sioux,Rock Valley #2,County Agricultural Extension Council Member,,Calvin Bomgaars,,412,0,412
 Sioux,Sioux Center #1/Welcome,County Agricultural Extension Council Member,,Calvin Bomgaars,,363,0,363
-Sioux,Sioux Center #2,County Agricultural Extension Council Member,,Calvin Bomgaars,,201,0,201
+Sioux,Sioux Center #2,County Agricultural Extension Council Member,,Calvin Bomgaars,,202,1,201
 Sioux,Sioux Center #3,County Agricultural Extension Council Member,,Calvin Bomgaars,,299,0,299
-Sioux,Sioux Center #4,County Agricultural Extension Council Member,,Calvin Bomgaars,,757,0,757
+Sioux,Sioux Center #4,County Agricultural Extension Council Member,,Calvin Bomgaars,,758,1,757
 Sioux,West Branch,County Agricultural Extension Council Member,,Calvin Bomgaars,,173,0,173
-Sioux,Alton/Nassau,County Agricultural Extension Council Member,,Cheryl Buntsma,,247,0,247
+Sioux,Alton/Nassau,County Agricultural Extension Council Member,,Cheryl Buntsma,,248,1,247
 Sioux,Capel/ Grant/ Lynn/ Sheridan,County Agricultural Extension Council Member,,Cheryl Buntsma,,282,0,282
 Sioux,East Orange/Floyd/Holland N 1/2,County Agricultural Extension Council Member,,Cheryl Buntsma,,267,0,267
 Sioux,HW/BC/EW/GF/LG/WW,County Agricultural Extension Council Member,,Cheryl Buntsma,,363,0,363
@@ -213,44 +213,44 @@ Sioux,Maurice/Sherman,County Agricultural Extension Council Member,,Cheryl Bunts
 Sioux,Orange City #1/Holland SW,County Agricultural Extension Council Member,,Cheryl Buntsma,,497,0,497
 Sioux,Orange City #2/Holland SE,County Agricultural Extension Council Member,,Cheryl Buntsma,,431,0,431
 Sioux,Plato/Rock/Settlers/Sioux,County Agricultural Extension Council Member,,Cheryl Buntsma,,127,0,127
-Sioux,Rock Valley #1,County Agricultural Extension Council Member,,Cheryl Buntsma,,150,0,150
+Sioux,Rock Valley #1,County Agricultural Extension Council Member,,Cheryl Buntsma,,151,1,150
 Sioux,Rock Valley #2,County Agricultural Extension Council Member,,Cheryl Buntsma,,220,0,220
 Sioux,Sioux Center #1/Welcome,County Agricultural Extension Council Member,,Cheryl Buntsma,,143,0,143
-Sioux,Sioux Center #2,County Agricultural Extension Council Member,,Cheryl Buntsma,,139,0,139
-Sioux,Sioux Center #3,County Agricultural Extension Council Member,,Cheryl Buntsma,,164,0,164
+Sioux,Sioux Center #2,County Agricultural Extension Council Member,,Cheryl Buntsma,,140,1,139
+Sioux,Sioux Center #3,County Agricultural Extension Council Member,,Cheryl Buntsma,,165,1,164
 Sioux,Sioux Center #4,County Agricultural Extension Council Member,,Cheryl Buntsma,,394,0,394
 Sioux,West Branch,County Agricultural Extension Council Member,,Cheryl Buntsma,,62,0,62
 Sioux,Alton/Nassau,County Agricultural Extension Council Member,,Jeremy Jansen,,274,0,274
 Sioux,Capel/ Grant/ Lynn/ Sheridan,County Agricultural Extension Council Member,,Jeremy Jansen,,436,0,436
-Sioux,East Orange/Floyd/Holland N 1/2,County Agricultural Extension Council Member,,Jeremy Jansen,,308,0,308
+Sioux,East Orange/Floyd/Holland N 1/2,County Agricultural Extension Council Member,,Jeremy Jansen,,309,1,308
 Sioux,HW/BC/EW/GF/LG/WW,County Agricultural Extension Council Member,,Jeremy Jansen,,460,0,460
 Sioux,Hull/Lincoln,County Agricultural Extension Council Member,,Jeremy Jansen,,683,0,683
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,County Agricultural Extension Council Member,,Jeremy Jansen,,237,0,237
 Sioux,Maurice/Sherman,County Agricultural Extension Council Member,,Jeremy Jansen,,112,0,112
-Sioux,Orange City #1/Holland SW,County Agricultural Extension Council Member,,Jeremy Jansen,,452,0,452
-Sioux,Orange City #2/Holland SE,County Agricultural Extension Council Member,,Jeremy Jansen,,444,0,444
+Sioux,Orange City #1/Holland SW,County Agricultural Extension Council Member,,Jeremy Jansen,,453,1,452
+Sioux,Orange City #2/Holland SE,County Agricultural Extension Council Member,,Jeremy Jansen,,447,3,444
 Sioux,Plato/Rock/Settlers/Sioux,County Agricultural Extension Council Member,,Jeremy Jansen,,346,0,346
-Sioux,Rock Valley #1,County Agricultural Extension Council Member,,Jeremy Jansen,,288,0,288
+Sioux,Rock Valley #1,County Agricultural Extension Council Member,,Jeremy Jansen,,289,1,288
 Sioux,Rock Valley #2,County Agricultural Extension Council Member,,Jeremy Jansen,,366,0,366
 Sioux,Sioux Center #1/Welcome,County Agricultural Extension Council Member,,Jeremy Jansen,,334,0,334
-Sioux,Sioux Center #2,County Agricultural Extension Council Member,,Jeremy Jansen,,202,0,202
+Sioux,Sioux Center #2,County Agricultural Extension Council Member,,Jeremy Jansen,,203,1,202
 Sioux,Sioux Center #3,County Agricultural Extension Council Member,,Jeremy Jansen,,324,0,324
-Sioux,Sioux Center #4,County Agricultural Extension Council Member,,Jeremy Jansen,,832,0,832
+Sioux,Sioux Center #4,County Agricultural Extension Council Member,,Jeremy Jansen,,833,1,832
 Sioux,West Branch,County Agricultural Extension Council Member,,Jeremy Jansen,,166,0,166
 Sioux,Alton/Nassau,County Agricultural Extension Council Member,,Martina Scholtens,,217,0,217
 Sioux,Capel/ Grant/ Lynn/ Sheridan,County Agricultural Extension Council Member,,Martina Scholtens,,250,0,250
-Sioux,East Orange/Floyd/Holland N 1/2,County Agricultural Extension Council Member,,Martina Scholtens,,229,0,229
+Sioux,East Orange/Floyd/Holland N 1/2,County Agricultural Extension Council Member,,Martina Scholtens,,230,1,229
 Sioux,HW/BC/EW/GF/LG/WW,County Agricultural Extension Council Member,,Martina Scholtens,,318,0,318
 Sioux,Hull/Lincoln,County Agricultural Extension Council Member,,Martina Scholtens,,339,0,339
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,County Agricultural Extension Council Member,,Martina Scholtens,,143,0,143
 Sioux,Maurice/Sherman,County Agricultural Extension Council Member,,Martina Scholtens,,99,0,99
-Sioux,Orange City #1/Holland SW,County Agricultural Extension Council Member,,Martina Scholtens,,521,0,521
-Sioux,Orange City #2/Holland SE,County Agricultural Extension Council Member,,Martina Scholtens,,484,0,484
-Sioux,Plato/Rock/Settlers/Sioux,County Agricultural Extension Council Member,,Martina Scholtens,,142,0,142
+Sioux,Orange City #1/Holland SW,County Agricultural Extension Council Member,,Martina Scholtens,,522,1,521
+Sioux,Orange City #2/Holland SE,County Agricultural Extension Council Member,,Martina Scholtens,,487,3,484
+Sioux,Plato/Rock/Settlers/Sioux,County Agricultural Extension Council Member,,Martina Scholtens,,143,1,142
 Sioux,Rock Valley #1,County Agricultural Extension Council Member,,Martina Scholtens,,115,0,115
 Sioux,Rock Valley #2,County Agricultural Extension Council Member,,Martina Scholtens,,172,0,172
 Sioux,Sioux Center #1/Welcome,County Agricultural Extension Council Member,,Martina Scholtens,,148,0,148
-Sioux,Sioux Center #2,County Agricultural Extension Council Member,,Martina Scholtens,,157,0,157
+Sioux,Sioux Center #2,County Agricultural Extension Council Member,,Martina Scholtens,,158,1,157
 Sioux,Sioux Center #3,County Agricultural Extension Council Member,,Martina Scholtens,,147,0,147
 Sioux,Sioux Center #4,County Agricultural Extension Council Member,,Martina Scholtens,,352,0,352
 Sioux,West Branch,County Agricultural Extension Council Member,,Martina Scholtens,,114,0,114
@@ -271,22 +271,22 @@ Sioux,Sioux Center #2,County Agricultural Extension Council Member,,Write-In,,7,
 Sioux,Sioux Center #3,County Agricultural Extension Council Member,,Write-In,,3,0,3
 Sioux,Sioux Center #4,County Agricultural Extension Council Member,,Write-In,,8,0,8
 Sioux,West Branch,County Agricultural Extension Council Member,,Write-In,,0,0,0
-Sioux,Alton/Nassau,County Attorney,,Thomas Kunstle,REP,612,0,612
+Sioux,Alton/Nassau,County Attorney,,Thomas Kunstle,REP,613,1,612
 Sioux,Capel/ Grant/ Lynn/ Sheridan,County Attorney,,Thomas Kunstle,REP,952,0,952
-Sioux,East Orange/Floyd/Holland N 1/2,County Attorney,,Thomas Kunstle,REP,690,0,690
+Sioux,East Orange/Floyd/Holland N 1/2,County Attorney,,Thomas Kunstle,REP,692,2,690
 Sioux,HW/BC/EW/GF/LG/WW,County Attorney,,Thomas Kunstle,REP,860,0,860
 Sioux,Hull/Lincoln,County Attorney,,Thomas Kunstle,REP,1263,0,1263
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,County Attorney,,Thomas Kunstle,REP,556,0,556
 Sioux,Maurice/Sherman,County Attorney,,Thomas Kunstle,REP,274,0,274
-Sioux,Orange City #1/Holland SW,County Attorney,,Thomas Kunstle,REP,1223,0,1223
-Sioux,Orange City #2/Holland SE,County Attorney,,Thomas Kunstle,REP,1192,0,1192
-Sioux,Plato/Rock/Settlers/Sioux,County Attorney,,Thomas Kunstle,REP,653,0,653
-Sioux,Rock Valley #1,County Attorney,,Thomas Kunstle,REP,589,0,589
+Sioux,Orange City #1/Holland SW,County Attorney,,Thomas Kunstle,REP,1224,1,1223
+Sioux,Orange City #2/Holland SE,County Attorney,,Thomas Kunstle,REP,1196,4,1192
+Sioux,Plato/Rock/Settlers/Sioux,County Attorney,,Thomas Kunstle,REP,654,1,653
+Sioux,Rock Valley #1,County Attorney,,Thomas Kunstle,REP,590,1,589
 Sioux,Rock Valley #2,County Attorney,,Thomas Kunstle,REP,815,0,815
 Sioux,Sioux Center #1/Welcome,County Attorney,,Thomas Kunstle,REP,600,0,600
-Sioux,Sioux Center #2,County Attorney,,Thomas Kunstle,REP,458,0,458
+Sioux,Sioux Center #2,County Attorney,,Thomas Kunstle,REP,459,1,458
 Sioux,Sioux Center #3,County Attorney,,Thomas Kunstle,REP,612,0,612
-Sioux,Sioux Center #4,County Attorney,,Thomas Kunstle,REP,1440,0,1440
+Sioux,Sioux Center #4,County Attorney,,Thomas Kunstle,REP,1442,2,1440
 Sioux,West Branch,County Attorney,,Thomas Kunstle,REP,300,0,300
 Sioux,Alton/Nassau,County Attorney,,Write-In,,4,0,4
 Sioux,Capel/ Grant/ Lynn/ Sheridan,County Attorney,,Write-In,,3,0,3
@@ -305,22 +305,22 @@ Sioux,Sioux Center #2,County Attorney,,Write-In,,11,0,11
 Sioux,Sioux Center #3,County Attorney,,Write-In,,10,0,10
 Sioux,Sioux Center #4,County Attorney,,Write-In,,4,0,4
 Sioux,West Branch,County Attorney,,Write-In,,2,0,2
-Sioux,Alton/Nassau,County Recorder,,Jessica Kooiker,REP,618,0,618
+Sioux,Alton/Nassau,County Recorder,,Jessica Kooiker,REP,619,1,618
 Sioux,Capel/ Grant/ Lynn/ Sheridan,County Recorder,,Jessica Kooiker,REP,985,0,985
-Sioux,East Orange/Floyd/Holland N 1/2,County Recorder,,Jessica Kooiker,REP,698,0,698
+Sioux,East Orange/Floyd/Holland N 1/2,County Recorder,,Jessica Kooiker,REP,700,2,698
 Sioux,HW/BC/EW/GF/LG/WW,County Recorder,,Jessica Kooiker,REP,861,0,861
 Sioux,Hull/Lincoln,County Recorder,,Jessica Kooiker,REP,1286,0,1286
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,County Recorder,,Jessica Kooiker,REP,573,0,573
 Sioux,Maurice/Sherman,County Recorder,,Jessica Kooiker,REP,280,0,280
-Sioux,Orange City #1/Holland SW,County Recorder,,Jessica Kooiker,REP,1227,0,1227
-Sioux,Orange City #2/Holland SE,County Recorder,,Jessica Kooiker,REP,1203,0,1203
-Sioux,Plato/Rock/Settlers/Sioux,County Recorder,,Jessica Kooiker,REP,666,0,666
-Sioux,Rock Valley #1,County Recorder,,Jessica Kooiker,REP,608,0,608
+Sioux,Orange City #1/Holland SW,County Recorder,,Jessica Kooiker,REP,1228,1,1227
+Sioux,Orange City #2/Holland SE,County Recorder,,Jessica Kooiker,REP,1207,4,1203
+Sioux,Plato/Rock/Settlers/Sioux,County Recorder,,Jessica Kooiker,REP,667,1,666
+Sioux,Rock Valley #1,County Recorder,,Jessica Kooiker,REP,609,1,608
 Sioux,Rock Valley #2,County Recorder,,Jessica Kooiker,REP,829,0,829
 Sioux,Sioux Center #1/Welcome,County Recorder,,Jessica Kooiker,REP,608,0,608
-Sioux,Sioux Center #2,County Recorder,,Jessica Kooiker,REP,462,0,462
+Sioux,Sioux Center #2,County Recorder,,Jessica Kooiker,REP,463,1,462
 Sioux,Sioux Center #3,County Recorder,,Jessica Kooiker,REP,616,0,616
-Sioux,Sioux Center #4,County Recorder,,Jessica Kooiker,REP,1467,0,1467
+Sioux,Sioux Center #4,County Recorder,,Jessica Kooiker,REP,1469,2,1467
 Sioux,West Branch,County Recorder,,Jessica Kooiker,REP,309,0,309
 Sioux,Alton/Nassau,County Recorder,,Write-In,,2,0,2
 Sioux,Capel/ Grant/ Lynn/ Sheridan,County Recorder,,Write-In,,0,0,0
@@ -339,36 +339,36 @@ Sioux,Sioux Center #2,County Recorder,,Write-In,,8,0,8
 Sioux,Sioux Center #3,County Recorder,,Write-In,,7,0,7
 Sioux,Sioux Center #4,County Recorder,,Write-In,,5,0,5
 Sioux,West Branch,County Recorder,,Write-In,,2,0,2
-Sioux,Orange City #1/Holland SW,County Supervisor,2,Jerry Muilenburg,REP,1214,0,1214
-Sioux,Orange City #2/Holland SE,County Supervisor,2,Jerry Muilenburg,REP,1176,0,1176
+Sioux,Orange City #1/Holland SW,County Supervisor,2,Jerry Muilenburg,REP,1215,1,1214
+Sioux,Orange City #2/Holland SE,County Supervisor,2,Jerry Muilenburg,REP,1180,4,1176
 Sioux,West Branch,County Supervisor,2,Jerry Muilenburg,REP,305,0,305
 Sioux,Orange City #1/Holland SW,County Supervisor,2,Write-In,,14,0,14
 Sioux,Orange City #2/Holland SE,County Supervisor,2,Write-In,,16,0,16
 Sioux,West Branch,County Supervisor,2,Write-In,,2,0,2
-Sioux,Plato/Rock/Settlers/Sioux,County Supervisor,4,Carl L. Vande Weerd,REP,664,0,664
-Sioux,Rock Valley #1,County Supervisor,4,Carl L. Vande Weerd,REP,612,0,612
+Sioux,Plato/Rock/Settlers/Sioux,County Supervisor,4,Carl L. Vande Weerd,REP,665,1,664
+Sioux,Rock Valley #1,County Supervisor,4,Carl L. Vande Weerd,REP,613,1,612
 Sioux,Rock Valley #2,County Supervisor,4,Carl L. Vande Weerd,REP,847,0,847
 Sioux,Sioux Center #1/Welcome,County Supervisor,4,Carl L. Vande Weerd,REP,600,0,600
 Sioux,Plato/Rock/Settlers/Sioux,County Supervisor,4,Write-In,,3,0,3
 Sioux,Rock Valley #1,County Supervisor,4,Write-In,,7,0,7
 Sioux,Rock Valley #2,County Supervisor,4,Write-In,,6,0,6
 Sioux,Sioux Center #1/Welcome,County Supervisor,4,Write-In,,10,0,10
-Sioux,Alton/Nassau,County Treasurer,,Daniel D. Zomermaand,REP,621,0,621
+Sioux,Alton/Nassau,County Treasurer,,Daniel D. Zomermaand,REP,622,1,621
 Sioux,Capel/ Grant/ Lynn/ Sheridan,County Treasurer,,Daniel D. Zomermaand,REP,969,0,969
-Sioux,East Orange/Floyd/Holland N 1/2,County Treasurer,,Daniel D. Zomermaand,REP,697,0,697
+Sioux,East Orange/Floyd/Holland N 1/2,County Treasurer,,Daniel D. Zomermaand,REP,699,2,697
 Sioux,HW/BC/EW/GF/LG/WW,County Treasurer,,Daniel D. Zomermaand,REP,874,0,874
 Sioux,Hull/Lincoln,County Treasurer,,Daniel D. Zomermaand,REP,1285,0,1285
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,County Treasurer,,Daniel D. Zomermaand,REP,580,0,580
 Sioux,Maurice/Sherman,County Treasurer,,Daniel D. Zomermaand,REP,285,0,285
-Sioux,Orange City #1/Holland SW,County Treasurer,,Daniel D. Zomermaand,REP,1249,0,1249
-Sioux,Orange City #2/Holland SE,County Treasurer,,Daniel D. Zomermaand,REP,1217,0,1217
-Sioux,Plato/Rock/Settlers/Sioux,County Treasurer,,Daniel D. Zomermaand,REP,663,0,663
-Sioux,Rock Valley #1,County Treasurer,,Daniel D. Zomermaand,REP,607,0,607
+Sioux,Orange City #1/Holland SW,County Treasurer,,Daniel D. Zomermaand,REP,1250,1,1249
+Sioux,Orange City #2/Holland SE,County Treasurer,,Daniel D. Zomermaand,REP,1221,4,1217
+Sioux,Plato/Rock/Settlers/Sioux,County Treasurer,,Daniel D. Zomermaand,REP,664,1,663
+Sioux,Rock Valley #1,County Treasurer,,Daniel D. Zomermaand,REP,608,1,607
 Sioux,Rock Valley #2,County Treasurer,,Daniel D. Zomermaand,REP,832,0,832
 Sioux,Sioux Center #1/Welcome,County Treasurer,,Daniel D. Zomermaand,REP,620,0,620
-Sioux,Sioux Center #2,County Treasurer,,Daniel D. Zomermaand,REP,469,0,469
+Sioux,Sioux Center #2,County Treasurer,,Daniel D. Zomermaand,REP,470,1,469
 Sioux,Sioux Center #3,County Treasurer,,Daniel D. Zomermaand,REP,621,0,621
-Sioux,Sioux Center #4,County Treasurer,,Daniel D. Zomermaand,REP,1489,0,1489
+Sioux,Sioux Center #4,County Treasurer,,Daniel D. Zomermaand,REP,1491,2,1489
 Sioux,West Branch,County Treasurer,,Daniel D. Zomermaand,REP,316,0,316
 Sioux,Alton/Nassau,County Treasurer,,Write-In,,2,0,2
 Sioux,Capel/ Grant/ Lynn/ Sheridan,County Treasurer,,Write-In,,2,0,2
@@ -387,16 +387,16 @@ Sioux,Sioux Center #2,County Treasurer,,Write-In,,8,0,8
 Sioux,Sioux Center #3,County Treasurer,,Write-In,,7,0,7
 Sioux,Sioux Center #4,County Treasurer,,Write-In,,8,0,8
 Sioux,West Branch,County Treasurer,,Write-In,,2,0,2
-Sioux,Alton/Nassau,Court of Appeals Judge - John M. Sandy,,No,,48,0,48
+Sioux,Alton/Nassau,Court of Appeals Judge - John M. Sandy,,No,,49,1,48
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Court of Appeals Judge - John M. Sandy,,No,,107,0,107
-Sioux,East Orange/Floyd/Holland N 1/2,Court of Appeals Judge - John M. Sandy,,No,,71,0,71
+Sioux,East Orange/Floyd/Holland N 1/2,Court of Appeals Judge - John M. Sandy,,No,,72,1,71
 Sioux,HW/BC/EW/GF/LG/WW,Court of Appeals Judge - John M. Sandy,,No,,158,0,158
 Sioux,Hull/Lincoln,Court of Appeals Judge - John M. Sandy,,No,,99,0,99
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Court of Appeals Judge - John M. Sandy,,No,,46,0,46
 Sioux,Maurice/Sherman,Court of Appeals Judge - John M. Sandy,,No,,27,0,27
 Sioux,Orange City #1/Holland SW,Court of Appeals Judge - John M. Sandy,,No,,90,0,90
 Sioux,Orange City #2/Holland SE,Court of Appeals Judge - John M. Sandy,,No,,82,0,82
-Sioux,Plato/Rock/Settlers/Sioux,Court of Appeals Judge - John M. Sandy,,No,,36,0,36
+Sioux,Plato/Rock/Settlers/Sioux,Court of Appeals Judge - John M. Sandy,,No,,37,1,36
 Sioux,Rock Valley #1,Court of Appeals Judge - John M. Sandy,,No,,46,0,46
 Sioux,Rock Valley #2,Court of Appeals Judge - John M. Sandy,,No,,73,0,73
 Sioux,Sioux Center #1/Welcome,Court of Appeals Judge - John M. Sandy,,No,,56,0,56
@@ -406,31 +406,31 @@ Sioux,Sioux Center #4,Court of Appeals Judge - John M. Sandy,,No,,97,0,97
 Sioux,West Branch,Court of Appeals Judge - John M. Sandy,,No,,20,0,20
 Sioux,Alton/Nassau,Court of Appeals Judge - John M. Sandy,,Yes,,322,0,322
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Court of Appeals Judge - John M. Sandy,,Yes,,576,0,576
-Sioux,East Orange/Floyd/Holland N 1/2,Court of Appeals Judge - John M. Sandy,,Yes,,422,0,422
+Sioux,East Orange/Floyd/Holland N 1/2,Court of Appeals Judge - John M. Sandy,,Yes,,423,1,422
 Sioux,HW/BC/EW/GF/LG/WW,Court of Appeals Judge - John M. Sandy,,Yes,,637,0,637
 Sioux,Hull/Lincoln,Court of Appeals Judge - John M. Sandy,,Yes,,832,0,832
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Court of Appeals Judge - John M. Sandy,,Yes,,325,0,325
 Sioux,Maurice/Sherman,Court of Appeals Judge - John M. Sandy,,Yes,,168,0,168
 Sioux,Orange City #1/Holland SW,Court of Appeals Judge - John M. Sandy,,Yes,,726,0,726
-Sioux,Orange City #2/Holland SE,Court of Appeals Judge - John M. Sandy,,Yes,,671,0,671
+Sioux,Orange City #2/Holland SE,Court of Appeals Judge - John M. Sandy,,Yes,,673,2,671
 Sioux,Plato/Rock/Settlers/Sioux,Court of Appeals Judge - John M. Sandy,,Yes,,430,0,430
-Sioux,Rock Valley #1,Court of Appeals Judge - John M. Sandy,,Yes,,394,0,394
+Sioux,Rock Valley #1,Court of Appeals Judge - John M. Sandy,,Yes,,395,1,394
 Sioux,Rock Valley #2,Court of Appeals Judge - John M. Sandy,,Yes,,530,0,530
 Sioux,Sioux Center #1/Welcome,Court of Appeals Judge - John M. Sandy,,Yes,,365,0,365
-Sioux,Sioux Center #2,Court of Appeals Judge - John M. Sandy,,Yes,,268,0,268
+Sioux,Sioux Center #2,Court of Appeals Judge - John M. Sandy,,Yes,,269,1,268
 Sioux,Sioux Center #3,Court of Appeals Judge - John M. Sandy,,Yes,,427,0,427
 Sioux,Sioux Center #4,Court of Appeals Judge - John M. Sandy,,Yes,,856,0,856
 Sioux,West Branch,Court of Appeals Judge - John M. Sandy,,Yes,,161,0,161
-Sioux,Alton/Nassau,Court of Appeals Judge - Julie A. Schumacher,,No,,51,0,51
+Sioux,Alton/Nassau,Court of Appeals Judge - Julie A. Schumacher,,No,,52,1,51
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Court of Appeals Judge - Julie A. Schumacher,,No,,100,0,100
-Sioux,East Orange/Floyd/Holland N 1/2,Court of Appeals Judge - Julie A. Schumacher,,No,,65,0,65
+Sioux,East Orange/Floyd/Holland N 1/2,Court of Appeals Judge - Julie A. Schumacher,,No,,66,1,65
 Sioux,HW/BC/EW/GF/LG/WW,Court of Appeals Judge - Julie A. Schumacher,,No,,155,0,155
 Sioux,Hull/Lincoln,Court of Appeals Judge - Julie A. Schumacher,,No,,112,0,112
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Court of Appeals Judge - Julie A. Schumacher,,No,,44,0,44
 Sioux,Maurice/Sherman,Court of Appeals Judge - Julie A. Schumacher,,No,,24,0,24
 Sioux,Orange City #1/Holland SW,Court of Appeals Judge - Julie A. Schumacher,,No,,92,0,92
 Sioux,Orange City #2/Holland SE,Court of Appeals Judge - Julie A. Schumacher,,No,,91,0,91
-Sioux,Plato/Rock/Settlers/Sioux,Court of Appeals Judge - Julie A. Schumacher,,No,,36,0,36
+Sioux,Plato/Rock/Settlers/Sioux,Court of Appeals Judge - Julie A. Schumacher,,No,,37,1,36
 Sioux,Rock Valley #1,Court of Appeals Judge - Julie A. Schumacher,,No,,47,0,47
 Sioux,Rock Valley #2,Court of Appeals Judge - Julie A. Schumacher,,No,,85,0,85
 Sioux,Sioux Center #1/Welcome,Court of Appeals Judge - Julie A. Schumacher,,No,,46,0,46
@@ -440,133 +440,133 @@ Sioux,Sioux Center #4,Court of Appeals Judge - Julie A. Schumacher,,No,,103,0,10
 Sioux,West Branch,Court of Appeals Judge - Julie A. Schumacher,,No,,18,0,18
 Sioux,Alton/Nassau,Court of Appeals Judge - Julie A. Schumacher,,Yes,,335,0,335
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Court of Appeals Judge - Julie A. Schumacher,,Yes,,579,0,579
-Sioux,East Orange/Floyd/Holland N 1/2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,437,0,437
+Sioux,East Orange/Floyd/Holland N 1/2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,438,1,437
 Sioux,HW/BC/EW/GF/LG/WW,Court of Appeals Judge - Julie A. Schumacher,,Yes,,642,0,642
 Sioux,Hull/Lincoln,Court of Appeals Judge - Julie A. Schumacher,,Yes,,813,0,813
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Court of Appeals Judge - Julie A. Schumacher,,Yes,,323,0,323
 Sioux,Maurice/Sherman,Court of Appeals Judge - Julie A. Schumacher,,Yes,,172,0,172
 Sioux,Orange City #1/Holland SW,Court of Appeals Judge - Julie A. Schumacher,,Yes,,723,0,723
-Sioux,Orange City #2/Holland SE,Court of Appeals Judge - Julie A. Schumacher,,Yes,,659,0,659
+Sioux,Orange City #2/Holland SE,Court of Appeals Judge - Julie A. Schumacher,,Yes,,661,2,659
 Sioux,Plato/Rock/Settlers/Sioux,Court of Appeals Judge - Julie A. Schumacher,,Yes,,426,0,426
-Sioux,Rock Valley #1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,389,0,389
+Sioux,Rock Valley #1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,390,1,389
 Sioux,Rock Valley #2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,510,0,510
 Sioux,Sioux Center #1/Welcome,Court of Appeals Judge - Julie A. Schumacher,,Yes,,373,0,373
-Sioux,Sioux Center #2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,277,0,277
+Sioux,Sioux Center #2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,278,1,277
 Sioux,Sioux Center #3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,422,0,422
 Sioux,Sioux Center #4,Court of Appeals Judge - Julie A. Schumacher,,Yes,,838,0,838
 Sioux,West Branch,Court of Appeals Judge - Julie A. Schumacher,,Yes,,156,0,156
 Sioux,Alton/Nassau,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,87,0,87
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,204,0,204
-Sioux,East Orange/Floyd/Holland N 1/2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,108,0,108
+Sioux,East Orange/Floyd/Holland N 1/2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,110,2,108
 Sioux,HW/BC/EW/GF/LG/WW,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,226,0,226
 Sioux,Hull/Lincoln,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,303,0,303
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,81,0,81
 Sioux,Maurice/Sherman,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,51,0,51
 Sioux,Orange City #1/Holland SW,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,178,0,178
-Sioux,Orange City #2/Holland SE,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,171,0,171
-Sioux,Plato/Rock/Settlers/Sioux,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,202,0,202
-Sioux,Rock Valley #1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,148,0,148
+Sioux,Orange City #2/Holland SE,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,172,1,171
+Sioux,Plato/Rock/Settlers/Sioux,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,203,1,202
+Sioux,Rock Valley #1,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,149,1,148
 Sioux,Rock Valley #2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,195,0,195
 Sioux,Sioux Center #1/Welcome,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,121,0,121
 Sioux,Sioux Center #2,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,86,0,86
 Sioux,Sioux Center #3,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,98,0,98
 Sioux,Sioux Center #4,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,207,0,207
 Sioux,West Branch,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,44,0,44
-Sioux,Alton/Nassau,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,272,0,272
+Sioux,Alton/Nassau,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,273,1,272
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,458,0,458
 Sioux,East Orange/Floyd/Holland N 1/2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,369,0,369
 Sioux,HW/BC/EW/GF/LG/WW,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,552,0,552
 Sioux,Hull/Lincoln,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,608,0,608
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,280,0,280
 Sioux,Maurice/Sherman,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,140,0,140
-Sioux,Orange City #1/Holland SW,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,605,0,605
-Sioux,Orange City #2/Holland SE,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,560,0,560
+Sioux,Orange City #1/Holland SW,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,606,1,605
+Sioux,Orange City #2/Holland SE,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,561,1,560
 Sioux,Plato/Rock/Settlers/Sioux,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,245,0,245
 Sioux,Rock Valley #1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,279,0,279
 Sioux,Rock Valley #2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,385,0,385
 Sioux,Sioux Center #1/Welcome,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,288,0,288
-Sioux,Sioux Center #2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,230,0,230
+Sioux,Sioux Center #2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,231,1,230
 Sioux,Sioux Center #3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,369,0,369
 Sioux,Sioux Center #4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,712,0,712
 Sioux,West Branch,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,129,0,129
 Sioux,Alton/Nassau,District 3B Associate Judge - Daniel P. Vakulskas,,No,,63,0,63
 Sioux,Capel/ Grant/ Lynn/ Sheridan,District 3B Associate Judge - Daniel P. Vakulskas,,No,,173,0,173
-Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - Daniel P. Vakulskas,,No,,89,0,89
+Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - Daniel P. Vakulskas,,No,,90,1,89
 Sioux,HW/BC/EW/GF/LG/WW,District 3B Associate Judge - Daniel P. Vakulskas,,No,,210,0,210
 Sioux,Hull/Lincoln,District 3B Associate Judge - Daniel P. Vakulskas,,No,,210,0,210
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,District 3B Associate Judge - Daniel P. Vakulskas,,No,,74,0,74
 Sioux,Maurice/Sherman,District 3B Associate Judge - Daniel P. Vakulskas,,No,,38,0,38
 Sioux,Orange City #1/Holland SW,District 3B Associate Judge - Daniel P. Vakulskas,,No,,149,0,149
 Sioux,Orange City #2/Holland SE,District 3B Associate Judge - Daniel P. Vakulskas,,No,,121,0,121
-Sioux,Plato/Rock/Settlers/Sioux,District 3B Associate Judge - Daniel P. Vakulskas,,No,,129,0,129
-Sioux,Rock Valley #1,District 3B Associate Judge - Daniel P. Vakulskas,,No,,102,0,102
+Sioux,Plato/Rock/Settlers/Sioux,District 3B Associate Judge - Daniel P. Vakulskas,,No,,130,1,129
+Sioux,Rock Valley #1,District 3B Associate Judge - Daniel P. Vakulskas,,No,,103,1,102
 Sioux,Rock Valley #2,District 3B Associate Judge - Daniel P. Vakulskas,,No,,136,0,136
 Sioux,Sioux Center #1/Welcome,District 3B Associate Judge - Daniel P. Vakulskas,,No,,88,0,88
 Sioux,Sioux Center #2,District 3B Associate Judge - Daniel P. Vakulskas,,No,,66,0,66
 Sioux,Sioux Center #3,District 3B Associate Judge - Daniel P. Vakulskas,,No,,78,0,78
 Sioux,Sioux Center #4,District 3B Associate Judge - Daniel P. Vakulskas,,No,,152,0,152
 Sioux,West Branch,District 3B Associate Judge - Daniel P. Vakulskas,,No,,40,0,40
-Sioux,Alton/Nassau,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,300,0,300
+Sioux,Alton/Nassau,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,301,1,300
 Sioux,Capel/ Grant/ Lynn/ Sheridan,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,463,0,463
-Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,394,0,394
+Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,395,1,394
 Sioux,HW/BC/EW/GF/LG/WW,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,560,0,560
 Sioux,Hull/Lincoln,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,671,0,671
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,277,0,277
 Sioux,Maurice/Sherman,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,155,0,155
 Sioux,Orange City #1/Holland SW,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,605,0,605
-Sioux,Orange City #2/Holland SE,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,586,0,586
+Sioux,Orange City #2/Holland SE,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,587,1,586
 Sioux,Plato/Rock/Settlers/Sioux,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,278,0,278
 Sioux,Rock Valley #1,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,289,0,289
 Sioux,Rock Valley #2,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,415,0,415
 Sioux,Sioux Center #1/Welcome,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,303,0,303
-Sioux,Sioux Center #2,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,241,0,241
+Sioux,Sioux Center #2,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,242,1,241
 Sioux,Sioux Center #3,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,379,0,379
 Sioux,Sioux Center #4,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,735,0,735
 Sioux,West Branch,District 3B Associate Judge - Daniel P. Vakulskas,,Yes,,128,0,128
 Sioux,Alton/Nassau,District 3B Associate Judge - John C. Nelson,,No,,61,0,61
 Sioux,Capel/ Grant/ Lynn/ Sheridan,District 3B Associate Judge - John C. Nelson,,No,,151,0,151
-Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - John C. Nelson,,No,,80,0,80
+Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - John C. Nelson,,No,,81,1,80
 Sioux,HW/BC/EW/GF/LG/WW,District 3B Associate Judge - John C. Nelson,,No,,202,0,202
 Sioux,Hull/Lincoln,District 3B Associate Judge - John C. Nelson,,No,,187,0,187
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,District 3B Associate Judge - John C. Nelson,,No,,60,0,60
 Sioux,Maurice/Sherman,District 3B Associate Judge - John C. Nelson,,No,,36,0,36
 Sioux,Orange City #1/Holland SW,District 3B Associate Judge - John C. Nelson,,No,,119,0,119
 Sioux,Orange City #2/Holland SE,District 3B Associate Judge - John C. Nelson,,No,,118,0,118
-Sioux,Plato/Rock/Settlers/Sioux,District 3B Associate Judge - John C. Nelson,,No,,118,0,118
-Sioux,Rock Valley #1,District 3B Associate Judge - John C. Nelson,,No,,100,0,100
+Sioux,Plato/Rock/Settlers/Sioux,District 3B Associate Judge - John C. Nelson,,No,,119,1,118
+Sioux,Rock Valley #1,District 3B Associate Judge - John C. Nelson,,No,,101,1,100
 Sioux,Rock Valley #2,District 3B Associate Judge - John C. Nelson,,No,,123,0,123
 Sioux,Sioux Center #1/Welcome,District 3B Associate Judge - John C. Nelson,,No,,89,0,89
 Sioux,Sioux Center #2,District 3B Associate Judge - John C. Nelson,,No,,61,0,61
 Sioux,Sioux Center #3,District 3B Associate Judge - John C. Nelson,,No,,70,0,70
 Sioux,Sioux Center #4,District 3B Associate Judge - John C. Nelson,,No,,132,0,132
 Sioux,West Branch,District 3B Associate Judge - John C. Nelson,,No,,38,0,38
-Sioux,Alton/Nassau,District 3B Associate Judge - John C. Nelson,,Yes,,285,0,285
+Sioux,Alton/Nassau,District 3B Associate Judge - John C. Nelson,,Yes,,286,1,285
 Sioux,Capel/ Grant/ Lynn/ Sheridan,District 3B Associate Judge - John C. Nelson,,Yes,,486,0,486
-Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - John C. Nelson,,Yes,,389,0,389
+Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - John C. Nelson,,Yes,,390,1,389
 Sioux,HW/BC/EW/GF/LG/WW,District 3B Associate Judge - John C. Nelson,,Yes,,567,0,567
 Sioux,Hull/Lincoln,District 3B Associate Judge - John C. Nelson,,Yes,,693,0,693
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,District 3B Associate Judge - John C. Nelson,,Yes,,283,0,283
 Sioux,Maurice/Sherman,District 3B Associate Judge - John C. Nelson,,Yes,,152,0,152
 Sioux,Orange City #1/Holland SW,District 3B Associate Judge - John C. Nelson,,Yes,,627,0,627
-Sioux,Orange City #2/Holland SE,District 3B Associate Judge - John C. Nelson,,Yes,,578,0,578
+Sioux,Orange City #2/Holland SE,District 3B Associate Judge - John C. Nelson,,Yes,,579,1,578
 Sioux,Plato/Rock/Settlers/Sioux,District 3B Associate Judge - John C. Nelson,,Yes,,286,0,286
 Sioux,Rock Valley #1,District 3B Associate Judge - John C. Nelson,,Yes,,286,0,286
 Sioux,Rock Valley #2,District 3B Associate Judge - John C. Nelson,,Yes,,425,0,425
 Sioux,Sioux Center #1/Welcome,District 3B Associate Judge - John C. Nelson,,Yes,,293,0,293
-Sioux,Sioux Center #2,District 3B Associate Judge - John C. Nelson,,Yes,,240,0,240
+Sioux,Sioux Center #2,District 3B Associate Judge - John C. Nelson,,Yes,,241,1,240
 Sioux,Sioux Center #3,District 3B Associate Judge - John C. Nelson,,Yes,,382,0,382
 Sioux,Sioux Center #4,District 3B Associate Judge - John C. Nelson,,Yes,,752,0,752
 Sioux,West Branch,District 3B Associate Judge - John C. Nelson,,Yes,,130,0,130
-Sioux,Alton/Nassau,District 3B Associate Judge - Mark C. Cord,,No,,56,0,56
+Sioux,Alton/Nassau,District 3B Associate Judge - Mark C. Cord,,No,,57,1,56
 Sioux,Capel/ Grant/ Lynn/ Sheridan,District 3B Associate Judge - Mark C. Cord,,No,,132,0,132
-Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - Mark C. Cord,,No,,82,0,82
+Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - Mark C. Cord,,No,,83,1,82
 Sioux,HW/BC/EW/GF/LG/WW,District 3B Associate Judge - Mark C. Cord,,No,,171,0,171
 Sioux,Hull/Lincoln,District 3B Associate Judge - Mark C. Cord,,No,,131,0,131
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,District 3B Associate Judge - Mark C. Cord,,No,,44,0,44
 Sioux,Maurice/Sherman,District 3B Associate Judge - Mark C. Cord,,No,,35,0,35
 Sioux,Orange City #1/Holland SW,District 3B Associate Judge - Mark C. Cord,,No,,127,0,127
 Sioux,Orange City #2/Holland SE,District 3B Associate Judge - Mark C. Cord,,No,,127,0,127
-Sioux,Plato/Rock/Settlers/Sioux,District 3B Associate Judge - Mark C. Cord,,No,,47,0,47
+Sioux,Plato/Rock/Settlers/Sioux,District 3B Associate Judge - Mark C. Cord,,No,,48,1,47
 Sioux,Rock Valley #1,District 3B Associate Judge - Mark C. Cord,,No,,59,0,59
 Sioux,Rock Valley #2,District 3B Associate Judge - Mark C. Cord,,No,,86,0,86
 Sioux,Sioux Center #1/Welcome,District 3B Associate Judge - Mark C. Cord,,No,,58,0,58
@@ -576,65 +576,65 @@ Sioux,Sioux Center #4,District 3B Associate Judge - Mark C. Cord,,No,,133,0,133
 Sioux,West Branch,District 3B Associate Judge - Mark C. Cord,,No,,28,0,28
 Sioux,Alton/Nassau,District 3B Associate Judge - Mark C. Cord,,Yes,,297,0,297
 Sioux,Capel/ Grant/ Lynn/ Sheridan,District 3B Associate Judge - Mark C. Cord,,Yes,,527,0,527
-Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - Mark C. Cord,,Yes,,394,0,394
+Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - Mark C. Cord,,Yes,,395,1,394
 Sioux,HW/BC/EW/GF/LG/WW,District 3B Associate Judge - Mark C. Cord,,Yes,,608,0,608
 Sioux,Hull/Lincoln,District 3B Associate Judge - Mark C. Cord,,Yes,,771,0,771
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,District 3B Associate Judge - Mark C. Cord,,Yes,,311,0,311
 Sioux,Maurice/Sherman,District 3B Associate Judge - Mark C. Cord,,Yes,,157,0,157
 Sioux,Orange City #1/Holland SW,District 3B Associate Judge - Mark C. Cord,,Yes,,656,0,656
-Sioux,Orange City #2/Holland SE,District 3B Associate Judge - Mark C. Cord,,Yes,,592,0,592
+Sioux,Orange City #2/Holland SE,District 3B Associate Judge - Mark C. Cord,,Yes,,594,2,592
 Sioux,Plato/Rock/Settlers/Sioux,District 3B Associate Judge - Mark C. Cord,,Yes,,396,0,396
-Sioux,Rock Valley #1,District 3B Associate Judge - Mark C. Cord,,Yes,,348,0,348
+Sioux,Rock Valley #1,District 3B Associate Judge - Mark C. Cord,,Yes,,349,1,348
 Sioux,Rock Valley #2,District 3B Associate Judge - Mark C. Cord,,Yes,,481,0,481
 Sioux,Sioux Center #1/Welcome,District 3B Associate Judge - Mark C. Cord,,Yes,,347,0,347
-Sioux,Sioux Center #2,District 3B Associate Judge - Mark C. Cord,,Yes,,244,0,244
+Sioux,Sioux Center #2,District 3B Associate Judge - Mark C. Cord,,Yes,,245,1,244
 Sioux,Sioux Center #3,District 3B Associate Judge - Mark C. Cord,,Yes,,407,0,407
 Sioux,Sioux Center #4,District 3B Associate Judge - Mark C. Cord,,Yes,,791,0,791
 Sioux,West Branch,District 3B Associate Judge - Mark C. Cord,,Yes,,145,0,145
 Sioux,Alton/Nassau,District 3B Associate Judge - Melinda Wicks,,No,,65,0,65
 Sioux,Capel/ Grant/ Lynn/ Sheridan,District 3B Associate Judge - Melinda Wicks,,No,,139,0,139
-Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - Melinda Wicks,,No,,88,0,88
+Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - Melinda Wicks,,No,,89,1,88
 Sioux,HW/BC/EW/GF/LG/WW,District 3B Associate Judge - Melinda Wicks,,No,,198,0,198
 Sioux,Hull/Lincoln,District 3B Associate Judge - Melinda Wicks,,No,,212,0,212
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,District 3B Associate Judge - Melinda Wicks,,No,,60,0,60
 Sioux,Maurice/Sherman,District 3B Associate Judge - Melinda Wicks,,No,,41,0,41
 Sioux,Orange City #1/Holland SW,District 3B Associate Judge - Melinda Wicks,,No,,133,0,133
 Sioux,Orange City #2/Holland SE,District 3B Associate Judge - Melinda Wicks,,No,,130,0,130
-Sioux,Plato/Rock/Settlers/Sioux,District 3B Associate Judge - Melinda Wicks,,No,,120,0,120
-Sioux,Rock Valley #1,District 3B Associate Judge - Melinda Wicks,,No,,98,0,98
+Sioux,Plato/Rock/Settlers/Sioux,District 3B Associate Judge - Melinda Wicks,,No,,121,1,120
+Sioux,Rock Valley #1,District 3B Associate Judge - Melinda Wicks,,No,,99,1,98
 Sioux,Rock Valley #2,District 3B Associate Judge - Melinda Wicks,,No,,129,0,129
 Sioux,Sioux Center #1/Welcome,District 3B Associate Judge - Melinda Wicks,,No,,80,0,80
 Sioux,Sioux Center #2,District 3B Associate Judge - Melinda Wicks,,No,,54,0,54
 Sioux,Sioux Center #3,District 3B Associate Judge - Melinda Wicks,,No,,71,0,71
 Sioux,Sioux Center #4,District 3B Associate Judge - Melinda Wicks,,No,,147,0,147
 Sioux,West Branch,District 3B Associate Judge - Melinda Wicks,,No,,38,0,38
-Sioux,Alton/Nassau,District 3B Associate Judge - Melinda Wicks,,Yes,,281,0,281
+Sioux,Alton/Nassau,District 3B Associate Judge - Melinda Wicks,,Yes,,282,1,281
 Sioux,Capel/ Grant/ Lynn/ Sheridan,District 3B Associate Judge - Melinda Wicks,,Yes,,492,0,492
-Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - Melinda Wicks,,Yes,,385,0,385
+Sioux,East Orange/Floyd/Holland N 1/2,District 3B Associate Judge - Melinda Wicks,,Yes,,386,1,385
 Sioux,HW/BC/EW/GF/LG/WW,District 3B Associate Judge - Melinda Wicks,,Yes,,574,0,574
 Sioux,Hull/Lincoln,District 3B Associate Judge - Melinda Wicks,,Yes,,670,0,670
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,District 3B Associate Judge - Melinda Wicks,,Yes,,273,0,273
 Sioux,Maurice/Sherman,District 3B Associate Judge - Melinda Wicks,,Yes,,147,0,147
 Sioux,Orange City #1/Holland SW,District 3B Associate Judge - Melinda Wicks,,Yes,,609,0,609
-Sioux,Orange City #2/Holland SE,District 3B Associate Judge - Melinda Wicks,,Yes,,577,0,577
+Sioux,Orange City #2/Holland SE,District 3B Associate Judge - Melinda Wicks,,Yes,,578,1,577
 Sioux,Plato/Rock/Settlers/Sioux,District 3B Associate Judge - Melinda Wicks,,Yes,,279,0,279
 Sioux,Rock Valley #1,District 3B Associate Judge - Melinda Wicks,,Yes,,291,0,291
 Sioux,Rock Valley #2,District 3B Associate Judge - Melinda Wicks,,Yes,,419,0,419
 Sioux,Sioux Center #1/Welcome,District 3B Associate Judge - Melinda Wicks,,Yes,,310,0,310
-Sioux,Sioux Center #2,District 3B Associate Judge - Melinda Wicks,,Yes,,247,0,247
+Sioux,Sioux Center #2,District 3B Associate Judge - Melinda Wicks,,Yes,,248,1,247
 Sioux,Sioux Center #3,District 3B Associate Judge - Melinda Wicks,,Yes,,382,0,382
 Sioux,Sioux Center #4,District 3B Associate Judge - Melinda Wicks,,Yes,,730,0,730
 Sioux,West Branch,District 3B Associate Judge - Melinda Wicks,,Yes,,131,0,131
 Sioux,Alton/Nassau,District 3B Judge - Tod J. Deck,,No,,54,0,54
 Sioux,Capel/ Grant/ Lynn/ Sheridan,District 3B Judge - Tod J. Deck,,No,,118,0,118
-Sioux,East Orange/Floyd/Holland N 1/2,District 3B Judge - Tod J. Deck,,No,,68,0,68
+Sioux,East Orange/Floyd/Holland N 1/2,District 3B Judge - Tod J. Deck,,No,,69,1,68
 Sioux,HW/BC/EW/GF/LG/WW,District 3B Judge - Tod J. Deck,,No,,172,0,172
 Sioux,Hull/Lincoln,District 3B Judge - Tod J. Deck,,No,,105,0,105
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,District 3B Judge - Tod J. Deck,,No,,50,0,50
 Sioux,Maurice/Sherman,District 3B Judge - Tod J. Deck,,No,,28,0,28
 Sioux,Orange City #1/Holland SW,District 3B Judge - Tod J. Deck,,No,,108,0,108
 Sioux,Orange City #2/Holland SE,District 3B Judge - Tod J. Deck,,No,,87,0,87
-Sioux,Plato/Rock/Settlers/Sioux,District 3B Judge - Tod J. Deck,,No,,37,0,37
+Sioux,Plato/Rock/Settlers/Sioux,District 3B Judge - Tod J. Deck,,No,,38,1,37
 Sioux,Rock Valley #1,District 3B Judge - Tod J. Deck,,No,,56,0,56
 Sioux,Rock Valley #2,District 3B Judge - Tod J. Deck,,No,,82,0,82
 Sioux,Sioux Center #1/Welcome,District 3B Judge - Tod J. Deck,,No,,48,0,48
@@ -642,33 +642,33 @@ Sioux,Sioux Center #2,District 3B Judge - Tod J. Deck,,No,,51,0,51
 Sioux,Sioux Center #3,District 3B Judge - Tod J. Deck,,No,,57,0,57
 Sioux,Sioux Center #4,District 3B Judge - Tod J. Deck,,No,,115,0,115
 Sioux,West Branch,District 3B Judge - Tod J. Deck,,No,,21,0,21
-Sioux,Alton/Nassau,District 3B Judge - Tod J. Deck,,Yes,,308,0,308
+Sioux,Alton/Nassau,District 3B Judge - Tod J. Deck,,Yes,,309,1,308
 Sioux,Capel/ Grant/ Lynn/ Sheridan,District 3B Judge - Tod J. Deck,,Yes,,544,0,544
-Sioux,East Orange/Floyd/Holland N 1/2,District 3B Judge - Tod J. Deck,,Yes,,411,0,411
+Sioux,East Orange/Floyd/Holland N 1/2,District 3B Judge - Tod J. Deck,,Yes,,412,1,411
 Sioux,HW/BC/EW/GF/LG/WW,District 3B Judge - Tod J. Deck,,Yes,,608,0,608
 Sioux,Hull/Lincoln,District 3B Judge - Tod J. Deck,,Yes,,801,0,801
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,District 3B Judge - Tod J. Deck,,Yes,,306,0,306
 Sioux,Maurice/Sherman,District 3B Judge - Tod J. Deck,,Yes,,168,0,168
-Sioux,Orange City #1/Holland SW,District 3B Judge - Tod J. Deck,,Yes,,675,0,675
-Sioux,Orange City #2/Holland SE,District 3B Judge - Tod J. Deck,,Yes,,634,0,634
+Sioux,Orange City #1/Holland SW,District 3B Judge - Tod J. Deck,,Yes,,676,1,675
+Sioux,Orange City #2/Holland SE,District 3B Judge - Tod J. Deck,,Yes,,636,2,634
 Sioux,Plato/Rock/Settlers/Sioux,District 3B Judge - Tod J. Deck,,Yes,,404,0,404
-Sioux,Rock Valley #1,District 3B Judge - Tod J. Deck,,Yes,,362,0,362
+Sioux,Rock Valley #1,District 3B Judge - Tod J. Deck,,Yes,,363,1,362
 Sioux,Rock Valley #2,District 3B Judge - Tod J. Deck,,Yes,,497,0,497
 Sioux,Sioux Center #1/Welcome,District 3B Judge - Tod J. Deck,,Yes,,354,0,354
-Sioux,Sioux Center #2,District 3B Judge - Tod J. Deck,,Yes,,262,0,262
+Sioux,Sioux Center #2,District 3B Judge - Tod J. Deck,,Yes,,263,1,262
 Sioux,Sioux Center #3,District 3B Judge - Tod J. Deck,,Yes,,411,0,411
 Sioux,Sioux Center #4,District 3B Judge - Tod J. Deck,,Yes,,817,0,817
 Sioux,West Branch,District 3B Judge - Tod J. Deck,,Yes,,154,0,154
-Sioux,Alton/Nassau,District 3B Judge - Zachary S. Hindman,,No,,48,0,48
+Sioux,Alton/Nassau,District 3B Judge - Zachary S. Hindman,,No,,49,1,48
 Sioux,Capel/ Grant/ Lynn/ Sheridan,District 3B Judge - Zachary S. Hindman,,No,,101,0,101
-Sioux,East Orange/Floyd/Holland N 1/2,District 3B Judge - Zachary S. Hindman,,No,,64,0,64
+Sioux,East Orange/Floyd/Holland N 1/2,District 3B Judge - Zachary S. Hindman,,No,,65,1,64
 Sioux,HW/BC/EW/GF/LG/WW,District 3B Judge - Zachary S. Hindman,,No,,171,0,171
 Sioux,Hull/Lincoln,District 3B Judge - Zachary S. Hindman,,No,,99,0,99
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,District 3B Judge - Zachary S. Hindman,,No,,50,0,50
 Sioux,Maurice/Sherman,District 3B Judge - Zachary S. Hindman,,No,,23,0,23
 Sioux,Orange City #1/Holland SW,District 3B Judge - Zachary S. Hindman,,No,,97,0,97
 Sioux,Orange City #2/Holland SE,District 3B Judge - Zachary S. Hindman,,No,,76,0,76
-Sioux,Plato/Rock/Settlers/Sioux,District 3B Judge - Zachary S. Hindman,,No,,43,0,43
+Sioux,Plato/Rock/Settlers/Sioux,District 3B Judge - Zachary S. Hindman,,No,,44,1,43
 Sioux,Rock Valley #1,District 3B Judge - Zachary S. Hindman,,No,,49,0,49
 Sioux,Rock Valley #2,District 3B Judge - Zachary S. Hindman,,No,,71,0,71
 Sioux,Sioux Center #1/Welcome,District 3B Judge - Zachary S. Hindman,,No,,42,0,42
@@ -678,38 +678,38 @@ Sioux,Sioux Center #4,District 3B Judge - Zachary S. Hindman,,No,,104,0,104
 Sioux,West Branch,District 3B Judge - Zachary S. Hindman,,No,,21,0,21
 Sioux,Alton/Nassau,District 3B Judge - Zachary S. Hindman,,Yes,,311,0,311
 Sioux,Capel/ Grant/ Lynn/ Sheridan,District 3B Judge - Zachary S. Hindman,,Yes,,563,0,563
-Sioux,East Orange/Floyd/Holland N 1/2,District 3B Judge - Zachary S. Hindman,,Yes,,419,0,419
+Sioux,East Orange/Floyd/Holland N 1/2,District 3B Judge - Zachary S. Hindman,,Yes,,420,1,419
 Sioux,HW/BC/EW/GF/LG/WW,District 3B Judge - Zachary S. Hindman,,Yes,,602,0,602
 Sioux,Hull/Lincoln,District 3B Judge - Zachary S. Hindman,,Yes,,800,0,800
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,District 3B Judge - Zachary S. Hindman,,Yes,,303,0,303
 Sioux,Maurice/Sherman,District 3B Judge - Zachary S. Hindman,,Yes,,169,0,169
 Sioux,Orange City #1/Holland SW,District 3B Judge - Zachary S. Hindman,,Yes,,689,0,689
-Sioux,Orange City #2/Holland SE,District 3B Judge - Zachary S. Hindman,,Yes,,650,0,650
+Sioux,Orange City #2/Holland SE,District 3B Judge - Zachary S. Hindman,,Yes,,652,2,650
 Sioux,Plato/Rock/Settlers/Sioux,District 3B Judge - Zachary S. Hindman,,Yes,,393,0,393
-Sioux,Rock Valley #1,District 3B Judge - Zachary S. Hindman,,Yes,,366,0,366
+Sioux,Rock Valley #1,District 3B Judge - Zachary S. Hindman,,Yes,,367,1,366
 Sioux,Rock Valley #2,District 3B Judge - Zachary S. Hindman,,Yes,,505,0,505
 Sioux,Sioux Center #1/Welcome,District 3B Judge - Zachary S. Hindman,,Yes,,362,0,362
-Sioux,Sioux Center #2,District 3B Judge - Zachary S. Hindman,,Yes,,259,0,259
+Sioux,Sioux Center #2,District 3B Judge - Zachary S. Hindman,,Yes,,260,1,259
 Sioux,Sioux Center #3,District 3B Judge - Zachary S. Hindman,,Yes,,419,0,419
 Sioux,Sioux Center #4,District 3B Judge - Zachary S. Hindman,,Yes,,815,0,815
 Sioux,West Branch,District 3B Judge - Zachary S. Hindman,,Yes,,152,0,152
 Sioux,Capel/ Grant/ Lynn/ Sheridan,George-Little Rock School - Public Measure NV,,No,,4,0,4
 Sioux,Capel/ Grant/ Lynn/ Sheridan,George-Little Rock School - Public Measure NV,,Yes,,0,0,0
-Sioux,Alton/Nassau,Governor,,Rob Sand and Dave Muhlbauer,DEM,166,0,166
+Sioux,Alton/Nassau,Governor,,Rob Sand and Dave Muhlbauer,DEM,167,1,166
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Governor,,Rob Sand and Dave Muhlbauer,DEM,164,0,164
 Sioux,East Orange/Floyd/Holland N 1/2,Governor,,Rob Sand and Dave Muhlbauer,DEM,172,0,172
 Sioux,HW/BC/EW/GF/LG/WW,Governor,,Rob Sand and Dave Muhlbauer,DEM,401,0,401
 Sioux,Hull/Lincoln,Governor,,Rob Sand and Dave Muhlbauer,DEM,156,0,156
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Governor,,Rob Sand and Dave Muhlbauer,DEM,87,0,87
 Sioux,Maurice/Sherman,Governor,,Rob Sand and Dave Muhlbauer,DEM,36,0,36
-Sioux,Orange City #1/Holland SW,Governor,,Rob Sand and Dave Muhlbauer,DEM,420,0,420
+Sioux,Orange City #1/Holland SW,Governor,,Rob Sand and Dave Muhlbauer,DEM,421,1,420
 Sioux,Orange City #2/Holland SE,Governor,,Rob Sand and Dave Muhlbauer,DEM,351,0,351
 Sioux,Plato/Rock/Settlers/Sioux,Governor,,Rob Sand and Dave Muhlbauer,DEM,40,0,40
 Sioux,Rock Valley #1,Governor,,Rob Sand and Dave Muhlbauer,DEM,94,0,94
 Sioux,Rock Valley #2,Governor,,Rob Sand and Dave Muhlbauer,DEM,161,0,161
 Sioux,Sioux Center #1/Welcome,Governor,,Rob Sand and Dave Muhlbauer,DEM,116,0,116
-Sioux,Sioux Center #2,Governor,,Rob Sand and Dave Muhlbauer,DEM,226,0,226
-Sioux,Sioux Center #3,Governor,,Rob Sand and Dave Muhlbauer,DEM,170,0,170
+Sioux,Sioux Center #2,Governor,,Rob Sand and Dave Muhlbauer,DEM,227,1,226
+Sioux,Sioux Center #3,Governor,,Rob Sand and Dave Muhlbauer,DEM,171,1,170
 Sioux,Sioux Center #4,Governor,,Rob Sand and Dave Muhlbauer,DEM,292,0,292
 Sioux,West Branch,Governor,,Rob Sand and Dave Muhlbauer,DEM,40,0,40
 Sioux,Alton/Nassau,Governor,,Write-In,,1,0,1
@@ -729,56 +729,56 @@ Sioux,Sioux Center #2,Governor,,Write-In,,1,0,1
 Sioux,Sioux Center #3,Governor,,Write-In,,1,0,1
 Sioux,Sioux Center #4,Governor,,Write-In,,2,0,2
 Sioux,West Branch,Governor,,Write-In,,1,0,1
-Sioux,Alton/Nassau,Governor,,Zach Lahn and Derek Wulf,REP,556,0,556
+Sioux,Alton/Nassau,Governor,,Zach Lahn and Derek Wulf,REP,557,1,556
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Governor,,Zach Lahn and Derek Wulf,REP,914,0,914
-Sioux,East Orange/Floyd/Holland N 1/2,Governor,,Zach Lahn and Derek Wulf,REP,640,0,640
+Sioux,East Orange/Floyd/Holland N 1/2,Governor,,Zach Lahn and Derek Wulf,REP,642,2,640
 Sioux,HW/BC/EW/GF/LG/WW,Governor,,Zach Lahn and Derek Wulf,REP,669,0,669
 Sioux,Hull/Lincoln,Governor,,Zach Lahn and Derek Wulf,REP,1213,0,1213
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Governor,,Zach Lahn and Derek Wulf,REP,559,0,559
 Sioux,Maurice/Sherman,Governor,,Zach Lahn and Derek Wulf,REP,270,0,270
-Sioux,Orange City #1/Holland SW,Governor,,Zach Lahn and Derek Wulf,REP,1126,0,1126
-Sioux,Orange City #2/Holland SE,Governor,,Zach Lahn and Derek Wulf,REP,1112,0,1112
-Sioux,Plato/Rock/Settlers/Sioux,Governor,,Zach Lahn and Derek Wulf,REP,670,0,670
-Sioux,Rock Valley #1,Governor,,Zach Lahn and Derek Wulf,REP,580,0,580
+Sioux,Orange City #1/Holland SW,Governor,,Zach Lahn and Derek Wulf,REP,1127,1,1126
+Sioux,Orange City #2/Holland SE,Governor,,Zach Lahn and Derek Wulf,REP,1117,5,1112
+Sioux,Plato/Rock/Settlers/Sioux,Governor,,Zach Lahn and Derek Wulf,REP,671,1,670
+Sioux,Rock Valley #1,Governor,,Zach Lahn and Derek Wulf,REP,581,1,580
 Sioux,Rock Valley #2,Governor,,Zach Lahn and Derek Wulf,REP,802,0,802
 Sioux,Sioux Center #1/Welcome,Governor,,Zach Lahn and Derek Wulf,REP,573,0,573
 Sioux,Sioux Center #2,Governor,,Zach Lahn and Derek Wulf,REP,374,0,374
 Sioux,Sioux Center #3,Governor,,Zach Lahn and Derek Wulf,REP,569,0,569
-Sioux,Sioux Center #4,Governor,,Zach Lahn and Derek Wulf,REP,1373,0,1373
+Sioux,Sioux Center #4,Governor,,Zach Lahn and Derek Wulf,REP,1375,2,1373
 Sioux,West Branch,Governor,,Zach Lahn and Derek Wulf,REP,305,0,305
-Sioux,Alton/Nassau,Secretary of Agriculture,,Chris Jones,DEM,139,0,139
+Sioux,Alton/Nassau,Secretary of Agriculture,,Chris Jones,DEM,140,1,139
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Secretary of Agriculture,,Chris Jones,DEM,119,0,119
 Sioux,East Orange/Floyd/Holland N 1/2,Secretary of Agriculture,,Chris Jones,DEM,113,0,113
 Sioux,HW/BC/EW/GF/LG/WW,Secretary of Agriculture,,Chris Jones,DEM,330,0,330
 Sioux,Hull/Lincoln,Secretary of Agriculture,,Chris Jones,DEM,107,0,107
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Secretary of Agriculture,,Chris Jones,DEM,57,0,57
 Sioux,Maurice/Sherman,Secretary of Agriculture,,Chris Jones,DEM,28,0,28
-Sioux,Orange City #1/Holland SW,Secretary of Agriculture,,Chris Jones,DEM,310,0,310
+Sioux,Orange City #1/Holland SW,Secretary of Agriculture,,Chris Jones,DEM,311,1,310
 Sioux,Orange City #2/Holland SE,Secretary of Agriculture,,Chris Jones,DEM,248,0,248
 Sioux,Plato/Rock/Settlers/Sioux,Secretary of Agriculture,,Chris Jones,DEM,24,0,24
 Sioux,Rock Valley #1,Secretary of Agriculture,,Chris Jones,DEM,76,0,76
 Sioux,Rock Valley #2,Secretary of Agriculture,,Chris Jones,DEM,140,0,140
 Sioux,Sioux Center #1/Welcome,Secretary of Agriculture,,Chris Jones,DEM,93,0,93
-Sioux,Sioux Center #2,Secretary of Agriculture,,Chris Jones,DEM,191,0,191
-Sioux,Sioux Center #3,Secretary of Agriculture,,Chris Jones,DEM,144,0,144
+Sioux,Sioux Center #2,Secretary of Agriculture,,Chris Jones,DEM,192,1,191
+Sioux,Sioux Center #3,Secretary of Agriculture,,Chris Jones,DEM,145,1,144
 Sioux,Sioux Center #4,Secretary of Agriculture,,Chris Jones,DEM,193,0,193
 Sioux,West Branch,Secretary of Agriculture,,Chris Jones,DEM,27,0,27
-Sioux,Alton/Nassau,Secretary of Agriculture,,Mike Naig,REP,575,0,575
+Sioux,Alton/Nassau,Secretary of Agriculture,,Mike Naig,REP,576,1,575
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Secretary of Agriculture,,Mike Naig,REP,942,0,942
-Sioux,East Orange/Floyd/Holland N 1/2,Secretary of Agriculture,,Mike Naig,REP,684,0,684
+Sioux,East Orange/Floyd/Holland N 1/2,Secretary of Agriculture,,Mike Naig,REP,686,2,684
 Sioux,HW/BC/EW/GF/LG/WW,Secretary of Agriculture,,Mike Naig,REP,728,0,728
 Sioux,Hull/Lincoln,Secretary of Agriculture,,Mike Naig,REP,1249,0,1249
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Secretary of Agriculture,,Mike Naig,REP,580,0,580
 Sioux,Maurice/Sherman,Secretary of Agriculture,,Mike Naig,REP,275,0,275
-Sioux,Orange City #1/Holland SW,Secretary of Agriculture,,Mike Naig,REP,1170,0,1170
-Sioux,Orange City #2/Holland SE,Secretary of Agriculture,,Mike Naig,REP,1160,0,1160
-Sioux,Plato/Rock/Settlers/Sioux,Secretary of Agriculture,,Mike Naig,REP,685,0,685
-Sioux,Rock Valley #1,Secretary of Agriculture,,Mike Naig,REP,587,0,587
+Sioux,Orange City #1/Holland SW,Secretary of Agriculture,,Mike Naig,REP,1171,1,1170
+Sioux,Orange City #2/Holland SE,Secretary of Agriculture,,Mike Naig,REP,1165,5,1160
+Sioux,Plato/Rock/Settlers/Sioux,Secretary of Agriculture,,Mike Naig,REP,686,1,685
+Sioux,Rock Valley #1,Secretary of Agriculture,,Mike Naig,REP,588,1,587
 Sioux,Rock Valley #2,Secretary of Agriculture,,Mike Naig,REP,805,0,805
 Sioux,Sioux Center #1/Welcome,Secretary of Agriculture,,Mike Naig,REP,587,0,587
 Sioux,Sioux Center #2,Secretary of Agriculture,,Mike Naig,REP,387,0,387
 Sioux,Sioux Center #3,Secretary of Agriculture,,Mike Naig,REP,564,0,564
-Sioux,Sioux Center #4,Secretary of Agriculture,,Mike Naig,REP,1437,0,1437
+Sioux,Sioux Center #4,Secretary of Agriculture,,Mike Naig,REP,1439,2,1437
 Sioux,West Branch,Secretary of Agriculture,,Mike Naig,REP,311,0,311
 Sioux,Alton/Nassau,Secretary of Agriculture,,Write-In,,0,0,0
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Secretary of Agriculture,,Write-In,,0,0,0
@@ -797,38 +797,38 @@ Sioux,Sioux Center #2,Secretary of Agriculture,,Write-In,,2,0,2
 Sioux,Sioux Center #3,Secretary of Agriculture,,Write-In,,1,0,1
 Sioux,Sioux Center #4,Secretary of Agriculture,,Write-In,,1,0,1
 Sioux,West Branch,Secretary of Agriculture,,Write-In,,0,0,0
-Sioux,Alton/Nassau,Secretary of State,,Paul D. Pate,REP,578,0,578
+Sioux,Alton/Nassau,Secretary of State,,Paul D. Pate,REP,579,1,578
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Secretary of State,,Paul D. Pate,REP,933,0,933
-Sioux,East Orange/Floyd/Holland N 1/2,Secretary of State,,Paul D. Pate,REP,674,0,674
+Sioux,East Orange/Floyd/Holland N 1/2,Secretary of State,,Paul D. Pate,REP,676,2,674
 Sioux,HW/BC/EW/GF/LG/WW,Secretary of State,,Paul D. Pate,REP,715,0,715
 Sioux,Hull/Lincoln,Secretary of State,,Paul D. Pate,REP,1244,0,1244
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Secretary of State,,Paul D. Pate,REP,564,0,564
 Sioux,Maurice/Sherman,Secretary of State,,Paul D. Pate,REP,275,0,275
-Sioux,Orange City #1/Holland SW,Secretary of State,,Paul D. Pate,REP,1164,0,1164
-Sioux,Orange City #2/Holland SE,Secretary of State,,Paul D. Pate,REP,1158,0,1158
-Sioux,Plato/Rock/Settlers/Sioux,Secretary of State,,Paul D. Pate,REP,680,0,680
-Sioux,Rock Valley #1,Secretary of State,,Paul D. Pate,REP,588,0,588
+Sioux,Orange City #1/Holland SW,Secretary of State,,Paul D. Pate,REP,1165,1,1164
+Sioux,Orange City #2/Holland SE,Secretary of State,,Paul D. Pate,REP,1163,5,1158
+Sioux,Plato/Rock/Settlers/Sioux,Secretary of State,,Paul D. Pate,REP,681,1,680
+Sioux,Rock Valley #1,Secretary of State,,Paul D. Pate,REP,589,1,588
 Sioux,Rock Valley #2,Secretary of State,,Paul D. Pate,REP,806,0,806
 Sioux,Sioux Center #1/Welcome,Secretary of State,,Paul D. Pate,REP,580,0,580
 Sioux,Sioux Center #2,Secretary of State,,Paul D. Pate,REP,393,0,393
 Sioux,Sioux Center #3,Secretary of State,,Paul D. Pate,REP,573,0,573
-Sioux,Sioux Center #4,Secretary of State,,Paul D. Pate,REP,1428,0,1428
+Sioux,Sioux Center #4,Secretary of State,,Paul D. Pate,REP,1430,2,1428
 Sioux,West Branch,Secretary of State,,Paul D. Pate,REP,305,0,305
-Sioux,Alton/Nassau,Secretary of State,,Ryan Peterman,DEM,130,0,130
+Sioux,Alton/Nassau,Secretary of State,,Ryan Peterman,DEM,131,1,130
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Secretary of State,,Ryan Peterman,DEM,117,0,117
 Sioux,East Orange/Floyd/Holland N 1/2,Secretary of State,,Ryan Peterman,DEM,120,0,120
 Sioux,HW/BC/EW/GF/LG/WW,Secretary of State,,Ryan Peterman,DEM,339,0,339
 Sioux,Hull/Lincoln,Secretary of State,,Ryan Peterman,DEM,110,0,110
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Secretary of State,,Ryan Peterman,DEM,65,0,65
 Sioux,Maurice/Sherman,Secretary of State,,Ryan Peterman,DEM,27,0,27
-Sioux,Orange City #1/Holland SW,Secretary of State,,Ryan Peterman,DEM,312,0,312
+Sioux,Orange City #1/Holland SW,Secretary of State,,Ryan Peterman,DEM,313,1,312
 Sioux,Orange City #2/Holland SE,Secretary of State,,Ryan Peterman,DEM,255,0,255
 Sioux,Plato/Rock/Settlers/Sioux,Secretary of State,,Ryan Peterman,DEM,29,0,29
 Sioux,Rock Valley #1,Secretary of State,,Ryan Peterman,DEM,77,0,77
 Sioux,Rock Valley #2,Secretary of State,,Ryan Peterman,DEM,136,0,136
 Sioux,Sioux Center #1/Welcome,Secretary of State,,Ryan Peterman,DEM,94,0,94
-Sioux,Sioux Center #2,Secretary of State,,Ryan Peterman,DEM,186,0,186
-Sioux,Sioux Center #3,Secretary of State,,Ryan Peterman,DEM,140,0,140
+Sioux,Sioux Center #2,Secretary of State,,Ryan Peterman,DEM,187,1,186
+Sioux,Sioux Center #3,Secretary of State,,Ryan Peterman,DEM,141,1,140
 Sioux,Sioux Center #4,Secretary of State,,Ryan Peterman,DEM,203,0,203
 Sioux,West Branch,Secretary of State,,Ryan Peterman,DEM,30,0,30
 Sioux,Alton/Nassau,Secretary of State,,Write-In,,0,0,0
@@ -850,39 +850,39 @@ Sioux,Sioux Center #4,Secretary of State,,Write-In,,0,0,0
 Sioux,West Branch,Secretary of State,,Write-In,,0,0,0
 Sioux,Alton/Nassau,Soil and Water Conservation District Commissioner,,Allan Reinders,,423,0,423
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Soil and Water Conservation District Commissioner,,Allan Reinders,,644,0,644
-Sioux,East Orange/Floyd/Holland N 1/2,Soil and Water Conservation District Commissioner,,Allan Reinders,,443,0,443
+Sioux,East Orange/Floyd/Holland N 1/2,Soil and Water Conservation District Commissioner,,Allan Reinders,,445,2,443
 Sioux,HW/BC/EW/GF/LG/WW,Soil and Water Conservation District Commissioner,,Allan Reinders,,700,0,700
 Sioux,Hull/Lincoln,Soil and Water Conservation District Commissioner,,Allan Reinders,,947,0,947
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Soil and Water Conservation District Commissioner,,Allan Reinders,,333,0,333
 Sioux,Maurice/Sherman,Soil and Water Conservation District Commissioner,,Allan Reinders,,206,0,206
-Sioux,Orange City #1/Holland SW,Soil and Water Conservation District Commissioner,,Allan Reinders,,926,0,926
-Sioux,Orange City #2/Holland SE,Soil and Water Conservation District Commissioner,,Allan Reinders,,835,0,835
+Sioux,Orange City #1/Holland SW,Soil and Water Conservation District Commissioner,,Allan Reinders,,927,1,926
+Sioux,Orange City #2/Holland SE,Soil and Water Conservation District Commissioner,,Allan Reinders,,837,2,835
 Sioux,Plato/Rock/Settlers/Sioux,Soil and Water Conservation District Commissioner,,Allan Reinders,,424,0,424
-Sioux,Rock Valley #1,Soil and Water Conservation District Commissioner,,Allan Reinders,,398,0,398
+Sioux,Rock Valley #1,Soil and Water Conservation District Commissioner,,Allan Reinders,,399,1,398
 Sioux,Rock Valley #2,Soil and Water Conservation District Commissioner,,Allan Reinders,,522,0,522
 Sioux,Sioux Center #1/Welcome,Soil and Water Conservation District Commissioner,,Allan Reinders,,416,0,416
-Sioux,Sioux Center #2,Soil and Water Conservation District Commissioner,,Allan Reinders,,326,0,326
-Sioux,Sioux Center #3,Soil and Water Conservation District Commissioner,,Allan Reinders,,445,0,445
-Sioux,Sioux Center #4,Soil and Water Conservation District Commissioner,,Allan Reinders,,1026,0,1026
+Sioux,Sioux Center #2,Soil and Water Conservation District Commissioner,,Allan Reinders,,327,1,326
+Sioux,Sioux Center #3,Soil and Water Conservation District Commissioner,,Allan Reinders,,446,1,445
+Sioux,Sioux Center #4,Soil and Water Conservation District Commissioner,,Allan Reinders,,1028,2,1026
 Sioux,West Branch,Soil and Water Conservation District Commissioner,,Allan Reinders,,205,0,205
 Sioux,Alton/Nassau,Soil and Water Conservation District Commissioner,,Kendall Roetman,,431,0,431
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Soil and Water Conservation District Commissioner,,Kendall Roetman,,682,0,682
-Sioux,East Orange/Floyd/Holland N 1/2,Soil and Water Conservation District Commissioner,,Kendall Roetman,,545,0,545
+Sioux,East Orange/Floyd/Holland N 1/2,Soil and Water Conservation District Commissioner,,Kendall Roetman,,547,2,545
 Sioux,HW/BC/EW/GF/LG/WW,Soil and Water Conservation District Commissioner,,Kendall Roetman,,622,0,622
 Sioux,Hull/Lincoln,Soil and Water Conservation District Commissioner,,Kendall Roetman,,955,0,955
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Soil and Water Conservation District Commissioner,,Kendall Roetman,,325,0,325
 Sioux,Maurice/Sherman,Soil and Water Conservation District Commissioner,,Kendall Roetman,,187,0,187
-Sioux,Orange City #1/Holland SW,Soil and Water Conservation District Commissioner,,Kendall Roetman,,852,0,852
-Sioux,Orange City #2/Holland SE,Soil and Water Conservation District Commissioner,,Kendall Roetman,,804,0,804
-Sioux,Plato/Rock/Settlers/Sioux,Soil and Water Conservation District Commissioner,,Kendall Roetman,,402,0,402
+Sioux,Orange City #1/Holland SW,Soil and Water Conservation District Commissioner,,Kendall Roetman,,853,1,852
+Sioux,Orange City #2/Holland SE,Soil and Water Conservation District Commissioner,,Kendall Roetman,,807,3,804
+Sioux,Plato/Rock/Settlers/Sioux,Soil and Water Conservation District Commissioner,,Kendall Roetman,,403,1,402
 Sioux,Rock Valley #1,Soil and Water Conservation District Commissioner,,Kendall Roetman,,409,0,409
 Sioux,Rock Valley #2,Soil and Water Conservation District Commissioner,,Kendall Roetman,,536,0,536
 Sioux,Sioux Center #1/Welcome,Soil and Water Conservation District Commissioner,,Kendall Roetman,,415,0,415
-Sioux,Sioux Center #2,Soil and Water Conservation District Commissioner,,Kendall Roetman,,309,0,309
-Sioux,Sioux Center #3,Soil and Water Conservation District Commissioner,,Kendall Roetman,,418,0,418
-Sioux,Sioux Center #4,Soil and Water Conservation District Commissioner,,Kendall Roetman,,1017,0,1017
+Sioux,Sioux Center #2,Soil and Water Conservation District Commissioner,,Kendall Roetman,,310,1,309
+Sioux,Sioux Center #3,Soil and Water Conservation District Commissioner,,Kendall Roetman,,419,1,418
+Sioux,Sioux Center #4,Soil and Water Conservation District Commissioner,,Kendall Roetman,,1018,1,1017
 Sioux,West Branch,Soil and Water Conservation District Commissioner,,Kendall Roetman,,209,0,209
-Sioux,Alton/Nassau,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
+Sioux,Alton/Nassau,Soil and Water Conservation District Commissioner,,Write-In,,2,2,0
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Soil and Water Conservation District Commissioner,,Write-In,,6,0,6
 Sioux,East Orange/Floyd/Holland N 1/2,Soil and Water Conservation District Commissioner,,Write-In,,2,0,2
 Sioux,HW/BC/EW/GF/LG/WW,Soil and Water Conservation District Commissioner,,Write-In,,8,0,8
@@ -899,13 +899,13 @@ Sioux,Sioux Center #2,Soil and Water Conservation District Commissioner,,Write-I
 Sioux,Sioux Center #3,Soil and Water Conservation District Commissioner,,Write-In,,12,0,12
 Sioux,Sioux Center #4,Soil and Water Conservation District Commissioner,,Write-In,,6,0,6
 Sioux,West Branch,Soil and Water Conservation District Commissioner,,Write-In,,0,0,0
-Sioux,Alton/Nassau,State House,3,Robert Driesen,REP,610,0,610
-Sioux,East Orange/Floyd/Holland N 1/2,State House,3,Robert Driesen,REP,694,0,694
+Sioux,Alton/Nassau,State House,3,Robert Driesen,REP,611,1,610
+Sioux,East Orange/Floyd/Holland N 1/2,State House,3,Robert Driesen,REP,696,2,694
 Sioux,HW/BC/EW/GF/LG/WW,State House,3,Robert Driesen,REP,870,0,870
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,State House,3,Robert Driesen,REP,575,0,575
 Sioux,Maurice/Sherman,State House,3,Robert Driesen,REP,281,0,281
-Sioux,Orange City #1/Holland SW,State House,3,Robert Driesen,REP,1189,0,1189
-Sioux,Orange City #2/Holland SE,State House,3,Robert Driesen,REP,1177,0,1177
+Sioux,Orange City #1/Holland SW,State House,3,Robert Driesen,REP,1190,1,1189
+Sioux,Orange City #2/Holland SE,State House,3,Robert Driesen,REP,1182,5,1177
 Sioux,West Branch,State House,3,Robert Driesen,REP,305,0,305
 Sioux,Alton/Nassau,State House,3,Write-In,,3,0,3
 Sioux,East Orange/Floyd/Holland N 1/2,State House,3,Write-In,,7,0,7
@@ -921,18 +921,18 @@ Sioux,Plato/Rock/Settlers/Sioux,State House,4,Garth Van Donselaar,,51,0,51
 Sioux,Rock Valley #1,State House,4,Garth Van Donselaar,,79,0,79
 Sioux,Rock Valley #2,State House,4,Garth Van Donselaar,,117,0,117
 Sioux,Sioux Center #1/Welcome,State House,4,Garth Van Donselaar,,130,0,130
-Sioux,Sioux Center #2,State House,4,Garth Van Donselaar,,235,0,235
-Sioux,Sioux Center #3,State House,4,Garth Van Donselaar,,215,0,215
-Sioux,Sioux Center #4,State House,4,Garth Van Donselaar,,393,0,393
+Sioux,Sioux Center #2,State House,4,Garth Van Donselaar,,236,1,235
+Sioux,Sioux Center #3,State House,4,Garth Van Donselaar,,216,1,215
+Sioux,Sioux Center #4,State House,4,Garth Van Donselaar,,394,1,393
 Sioux,Capel/ Grant/ Lynn/ Sheridan,State House,4,Skyler Wheeler,REP,884,0,884
 Sioux,Hull/Lincoln,State House,4,Skyler Wheeler,REP,1140,0,1140
-Sioux,Plato/Rock/Settlers/Sioux,State House,4,Skyler Wheeler,REP,646,0,646
-Sioux,Rock Valley #1,State House,4,Skyler Wheeler,REP,567,0,567
+Sioux,Plato/Rock/Settlers/Sioux,State House,4,Skyler Wheeler,REP,647,1,646
+Sioux,Rock Valley #1,State House,4,Skyler Wheeler,REP,568,1,567
 Sioux,Rock Valley #2,State House,4,Skyler Wheeler,REP,791,0,791
 Sioux,Sioux Center #1/Welcome,State House,4,Skyler Wheeler,REP,511,0,511
 Sioux,Sioux Center #2,State House,4,Skyler Wheeler,REP,306,0,306
 Sioux,Sioux Center #3,State House,4,Skyler Wheeler,REP,471,0,471
-Sioux,Sioux Center #4,State House,4,Skyler Wheeler,REP,1165,0,1165
+Sioux,Sioux Center #4,State House,4,Skyler Wheeler,REP,1166,1,1165
 Sioux,Capel/ Grant/ Lynn/ Sheridan,State House,4,Write-In,,5,0,5
 Sioux,Hull/Lincoln,State House,4,Write-In,,6,0,6
 Sioux,Plato/Rock/Settlers/Sioux,State House,4,Write-In,,0,0,0
@@ -942,39 +942,39 @@ Sioux,Sioux Center #1/Welcome,State House,4,Write-In,,4,0,4
 Sioux,Sioux Center #2,State House,4,Write-In,,3,0,3
 Sioux,Sioux Center #3,State House,4,Write-In,,4,0,4
 Sioux,Sioux Center #4,State House,4,Write-In,,8,0,8
-Sioux,Alton/Nassau,Treasurer of State,,John Norwood,DEM,127,0,127
+Sioux,Alton/Nassau,Treasurer of State,,John Norwood,DEM,128,1,127
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Treasurer of State,,John Norwood,DEM,123,0,123
 Sioux,East Orange/Floyd/Holland N 1/2,Treasurer of State,,John Norwood,DEM,129,0,129
 Sioux,HW/BC/EW/GF/LG/WW,Treasurer of State,,John Norwood,DEM,357,0,357
 Sioux,Hull/Lincoln,Treasurer of State,,John Norwood,DEM,115,0,115
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Treasurer of State,,John Norwood,DEM,58,0,58
 Sioux,Maurice/Sherman,Treasurer of State,,John Norwood,DEM,26,0,26
-Sioux,Orange City #1/Holland SW,Treasurer of State,,John Norwood,DEM,320,0,320
+Sioux,Orange City #1/Holland SW,Treasurer of State,,John Norwood,DEM,321,1,320
 Sioux,Orange City #2/Holland SE,Treasurer of State,,John Norwood,DEM,260,0,260
 Sioux,Plato/Rock/Settlers/Sioux,Treasurer of State,,John Norwood,DEM,35,0,35
 Sioux,Rock Valley #1,Treasurer of State,,John Norwood,DEM,76,0,76
 Sioux,Rock Valley #2,Treasurer of State,,John Norwood,DEM,131,0,131
 Sioux,Sioux Center #1/Welcome,Treasurer of State,,John Norwood,DEM,95,0,95
-Sioux,Sioux Center #2,Treasurer of State,,John Norwood,DEM,193,0,193
-Sioux,Sioux Center #3,Treasurer of State,,John Norwood,DEM,142,0,142
+Sioux,Sioux Center #2,Treasurer of State,,John Norwood,DEM,194,1,193
+Sioux,Sioux Center #3,Treasurer of State,,John Norwood,DEM,143,1,142
 Sioux,Sioux Center #4,Treasurer of State,,John Norwood,DEM,210,0,210
 Sioux,West Branch,Treasurer of State,,John Norwood,DEM,31,0,31
-Sioux,Alton/Nassau,Treasurer of State,,Roby Smith,REP,574,0,574
+Sioux,Alton/Nassau,Treasurer of State,,Roby Smith,REP,575,1,574
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Treasurer of State,,Roby Smith,REP,916,0,916
-Sioux,East Orange/Floyd/Holland N 1/2,Treasurer of State,,Roby Smith,REP,657,0,657
+Sioux,East Orange/Floyd/Holland N 1/2,Treasurer of State,,Roby Smith,REP,659,2,657
 Sioux,HW/BC/EW/GF/LG/WW,Treasurer of State,,Roby Smith,REP,690,0,690
 Sioux,Hull/Lincoln,Treasurer of State,,Roby Smith,REP,1226,0,1226
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,Treasurer of State,,Roby Smith,REP,559,0,559
 Sioux,Maurice/Sherman,Treasurer of State,,Roby Smith,REP,268,0,268
-Sioux,Orange City #1/Holland SW,Treasurer of State,,Roby Smith,REP,1131,0,1131
-Sioux,Orange City #2/Holland SE,Treasurer of State,,Roby Smith,REP,1121,0,1121
-Sioux,Plato/Rock/Settlers/Sioux,Treasurer of State,,Roby Smith,REP,667,0,667
-Sioux,Rock Valley #1,Treasurer of State,,Roby Smith,REP,585,0,585
+Sioux,Orange City #1/Holland SW,Treasurer of State,,Roby Smith,REP,1132,1,1131
+Sioux,Orange City #2/Holland SE,Treasurer of State,,Roby Smith,REP,1126,5,1121
+Sioux,Plato/Rock/Settlers/Sioux,Treasurer of State,,Roby Smith,REP,668,1,667
+Sioux,Rock Valley #1,Treasurer of State,,Roby Smith,REP,586,1,585
 Sioux,Rock Valley #2,Treasurer of State,,Roby Smith,REP,800,0,800
 Sioux,Sioux Center #1/Welcome,Treasurer of State,,Roby Smith,REP,569,0,569
 Sioux,Sioux Center #2,Treasurer of State,,Roby Smith,REP,379,0,379
 Sioux,Sioux Center #3,Treasurer of State,,Roby Smith,REP,557,0,557
-Sioux,Sioux Center #4,Treasurer of State,,Roby Smith,REP,1396,0,1396
+Sioux,Sioux Center #4,Treasurer of State,,Roby Smith,REP,1398,2,1396
 Sioux,West Branch,Treasurer of State,,Roby Smith,REP,300,0,300
 Sioux,Alton/Nassau,Treasurer of State,,Write-In,,0,0,0
 Sioux,Capel/ Grant/ Lynn/ Sheridan,Treasurer of State,,Write-In,,2,0,2
@@ -993,38 +993,38 @@ Sioux,Sioux Center #2,Treasurer of State,,Write-In,,1,0,1
 Sioux,Sioux Center #3,Treasurer of State,,Write-In,,2,0,2
 Sioux,Sioux Center #4,Treasurer of State,,Write-In,,1,0,1
 Sioux,West Branch,Treasurer of State,,Write-In,,0,0,0
-Sioux,Alton/Nassau,U.S. House,4,Chris McGowan,REP,567,0,567
+Sioux,Alton/Nassau,U.S. House,4,Chris McGowan,REP,568,1,567
 Sioux,Capel/ Grant/ Lynn/ Sheridan,U.S. House,4,Chris McGowan,REP,913,0,913
-Sioux,East Orange/Floyd/Holland N 1/2,U.S. House,4,Chris McGowan,REP,658,0,658
+Sioux,East Orange/Floyd/Holland N 1/2,U.S. House,4,Chris McGowan,REP,660,2,658
 Sioux,HW/BC/EW/GF/LG/WW,U.S. House,4,Chris McGowan,REP,710,0,710
 Sioux,Hull/Lincoln,U.S. House,4,Chris McGowan,REP,1231,0,1231
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,U.S. House,4,Chris McGowan,REP,557,0,557
 Sioux,Maurice/Sherman,U.S. House,4,Chris McGowan,REP,270,0,270
-Sioux,Orange City #1/Holland SW,U.S. House,4,Chris McGowan,REP,1131,0,1131
-Sioux,Orange City #2/Holland SE,U.S. House,4,Chris McGowan,REP,1133,0,1133
-Sioux,Plato/Rock/Settlers/Sioux,U.S. House,4,Chris McGowan,REP,669,0,669
-Sioux,Rock Valley #1,U.S. House,4,Chris McGowan,REP,577,0,577
+Sioux,Orange City #1/Holland SW,U.S. House,4,Chris McGowan,REP,1132,1,1131
+Sioux,Orange City #2/Holland SE,U.S. House,4,Chris McGowan,REP,1138,5,1133
+Sioux,Plato/Rock/Settlers/Sioux,U.S. House,4,Chris McGowan,REP,670,1,669
+Sioux,Rock Valley #1,U.S. House,4,Chris McGowan,REP,578,1,577
 Sioux,Rock Valley #2,U.S. House,4,Chris McGowan,REP,802,0,802
 Sioux,Sioux Center #1/Welcome,U.S. House,4,Chris McGowan,REP,555,0,555
 Sioux,Sioux Center #2,U.S. House,4,Chris McGowan,REP,370,0,370
 Sioux,Sioux Center #3,U.S. House,4,Chris McGowan,REP,565,0,565
-Sioux,Sioux Center #4,U.S. House,4,Chris McGowan,REP,1401,0,1401
+Sioux,Sioux Center #4,U.S. House,4,Chris McGowan,REP,1403,2,1401
 Sioux,West Branch,U.S. House,4,Chris McGowan,REP,300,0,300
-Sioux,Alton/Nassau,U.S. House,4,Dave Dawson,DEM,134,0,134
+Sioux,Alton/Nassau,U.S. House,4,Dave Dawson,DEM,135,1,134
 Sioux,Capel/ Grant/ Lynn/ Sheridan,U.S. House,4,Dave Dawson,DEM,131,0,131
 Sioux,East Orange/Floyd/Holland N 1/2,U.S. House,4,Dave Dawson,DEM,131,0,131
 Sioux,HW/BC/EW/GF/LG/WW,U.S. House,4,Dave Dawson,DEM,341,0,341
 Sioux,Hull/Lincoln,U.S. House,4,Dave Dawson,DEM,120,0,120
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,U.S. House,4,Dave Dawson,DEM,68,0,68
 Sioux,Maurice/Sherman,U.S. House,4,Dave Dawson,DEM,32,0,32
-Sioux,Orange City #1/Holland SW,U.S. House,4,Dave Dawson,DEM,338,0,338
+Sioux,Orange City #1/Holland SW,U.S. House,4,Dave Dawson,DEM,339,1,338
 Sioux,Orange City #2/Holland SE,U.S. House,4,Dave Dawson,DEM,284,0,284
 Sioux,Plato/Rock/Settlers/Sioux,U.S. House,4,Dave Dawson,DEM,30,0,30
 Sioux,Rock Valley #1,U.S. House,4,Dave Dawson,DEM,79,0,79
 Sioux,Rock Valley #2,U.S. House,4,Dave Dawson,DEM,145,0,145
 Sioux,Sioux Center #1/Welcome,U.S. House,4,Dave Dawson,DEM,111,0,111
-Sioux,Sioux Center #2,U.S. House,4,Dave Dawson,DEM,214,0,214
-Sioux,Sioux Center #3,U.S. House,4,Dave Dawson,DEM,153,0,153
+Sioux,Sioux Center #2,U.S. House,4,Dave Dawson,DEM,215,1,214
+Sioux,Sioux Center #3,U.S. House,4,Dave Dawson,DEM,154,1,153
 Sioux,Sioux Center #4,U.S. House,4,Dave Dawson,DEM,220,0,220
 Sioux,West Branch,U.S. House,4,Dave Dawson,DEM,34,0,34
 Sioux,Alton/Nassau,U.S. House,4,Write-In,,0,0,0
@@ -1044,38 +1044,38 @@ Sioux,Sioux Center #2,U.S. House,4,Write-In,,1,0,1
 Sioux,Sioux Center #3,U.S. House,4,Write-In,,4,0,4
 Sioux,Sioux Center #4,U.S. House,4,Write-In,,0,0,0
 Sioux,West Branch,U.S. House,4,Write-In,,0,0,0
-Sioux,Alton/Nassau,U.S. Senate,,Ashley Hinson,REP,538,0,538
+Sioux,Alton/Nassau,U.S. Senate,,Ashley Hinson,REP,539,1,538
 Sioux,Capel/ Grant/ Lynn/ Sheridan,U.S. Senate,,Ashley Hinson,REP,896,0,896
-Sioux,East Orange/Floyd/Holland N 1/2,U.S. Senate,,Ashley Hinson,REP,646,0,646
+Sioux,East Orange/Floyd/Holland N 1/2,U.S. Senate,,Ashley Hinson,REP,648,2,646
 Sioux,HW/BC/EW/GF/LG/WW,U.S. Senate,,Ashley Hinson,REP,654,0,654
 Sioux,Hull/Lincoln,U.S. Senate,,Ashley Hinson,REP,1194,0,1194
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,U.S. Senate,,Ashley Hinson,REP,557,0,557
 Sioux,Maurice/Sherman,U.S. Senate,,Ashley Hinson,REP,263,0,263
-Sioux,Orange City #1/Holland SW,U.S. Senate,,Ashley Hinson,REP,1104,0,1104
-Sioux,Orange City #2/Holland SE,U.S. Senate,,Ashley Hinson,REP,1097,0,1097
-Sioux,Plato/Rock/Settlers/Sioux,U.S. Senate,,Ashley Hinson,REP,665,0,665
-Sioux,Rock Valley #1,U.S. Senate,,Ashley Hinson,REP,572,0,572
+Sioux,Orange City #1/Holland SW,U.S. Senate,,Ashley Hinson,REP,1105,1,1104
+Sioux,Orange City #2/Holland SE,U.S. Senate,,Ashley Hinson,REP,1102,5,1097
+Sioux,Plato/Rock/Settlers/Sioux,U.S. Senate,,Ashley Hinson,REP,666,1,665
+Sioux,Rock Valley #1,U.S. Senate,,Ashley Hinson,REP,573,1,572
 Sioux,Rock Valley #2,U.S. Senate,,Ashley Hinson,REP,800,0,800
 Sioux,Sioux Center #1/Welcome,U.S. Senate,,Ashley Hinson,REP,553,0,553
 Sioux,Sioux Center #2,U.S. Senate,,Ashley Hinson,REP,360,0,360
 Sioux,Sioux Center #3,U.S. Senate,,Ashley Hinson,REP,547,0,547
-Sioux,Sioux Center #4,U.S. Senate,,Ashley Hinson,REP,1364,0,1364
+Sioux,Sioux Center #4,U.S. Senate,,Ashley Hinson,REP,1366,2,1364
 Sioux,West Branch,U.S. Senate,,Ashley Hinson,REP,301,0,301
-Sioux,Alton/Nassau,U.S. Senate,,Josh Turek,DEM,148,0,148
+Sioux,Alton/Nassau,U.S. Senate,,Josh Turek,DEM,149,1,148
 Sioux,Capel/ Grant/ Lynn/ Sheridan,U.S. Senate,,Josh Turek,DEM,136,0,136
 Sioux,East Orange/Floyd/Holland N 1/2,U.S. Senate,,Josh Turek,DEM,134,0,134
 Sioux,HW/BC/EW/GF/LG/WW,U.S. Senate,,Josh Turek,DEM,366,0,366
-Sioux,Hull/Lincoln,U.S. Senate,,Josh Turek,DEM,132,0,132
+Sioux,Hull/Lincoln,U.S. Senate,,Josh Turek,DEM,133,1,132
 Sioux,Ireton/Center/Eagle East/Reading/Washington East,U.S. Senate,,Josh Turek,DEM,73,0,73
 Sioux,Maurice/Sherman,U.S. Senate,,Josh Turek,DEM,31,0,31
-Sioux,Orange City #1/Holland SW,U.S. Senate,,Josh Turek,DEM,378,0,378
+Sioux,Orange City #1/Holland SW,U.S. Senate,,Josh Turek,DEM,379,1,378
 Sioux,Orange City #2/Holland SE,U.S. Senate,,Josh Turek,DEM,313,0,313
 Sioux,Plato/Rock/Settlers/Sioux,U.S. Senate,,Josh Turek,DEM,37,0,37
 Sioux,Rock Valley #1,U.S. Senate,,Josh Turek,DEM,72,0,72
 Sioux,Rock Valley #2,U.S. Senate,,Josh Turek,DEM,147,0,147
 Sioux,Sioux Center #1/Welcome,U.S. Senate,,Josh Turek,DEM,115,0,115
-Sioux,Sioux Center #2,U.S. Senate,,Josh Turek,DEM,224,0,224
-Sioux,Sioux Center #3,U.S. Senate,,Josh Turek,DEM,173,0,173
+Sioux,Sioux Center #2,U.S. Senate,,Josh Turek,DEM,225,1,224
+Sioux,Sioux Center #3,U.S. Senate,,Josh Turek,DEM,174,1,173
 Sioux,Sioux Center #4,U.S. Senate,,Josh Turek,DEM,254,0,254
 Sioux,West Branch,U.S. Senate,,Josh Turek,DEM,36,0,36
 Sioux,Alton/Nassau,U.S. Senate,,Thomas Laehn,LIB,26,0,26

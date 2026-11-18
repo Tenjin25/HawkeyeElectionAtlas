@@ -1,10 +1,10 @@
 county,precinct,office,district,candidate,party,votes,absentee,election_day
-Dickinson,Precinct No. 1,Attorney General,,Brenna Bird,REP,583,162,421
+Dickinson,Precinct No. 1,Attorney General,,Brenna Bird,REP,584,163,421
 Dickinson,Precinct No. 10,Attorney General,,Brenna Bird,REP,650,343,307
 Dickinson,Precinct No. 11,Attorney General,,Brenna Bird,REP,979,517,462
 Dickinson,Precinct No. 12,Attorney General,,Brenna Bird,REP,326,219,107
-Dickinson,Precinct No. 2,Attorney General,,Brenna Bird,REP,780,529,251
-Dickinson,Precinct No. 3,Attorney General,,Brenna Bird,REP,548,321,227
+Dickinson,Precinct No. 2,Attorney General,,Brenna Bird,REP,781,530,251
+Dickinson,Precinct No. 3,Attorney General,,Brenna Bird,REP,549,322,227
 Dickinson,Precinct No. 4,Attorney General,,Brenna Bird,REP,135,55,80
 Dickinson,Precinct No. 5,Attorney General,,Brenna Bird,REP,547,377,170
 Dickinson,Precinct No. 6,Attorney General,,Brenna Bird,REP,334,212,122
@@ -13,7 +13,7 @@ Dickinson,Precinct No. 8,Attorney General,,Brenna Bird,REP,68,28,40
 Dickinson,Precinct No. 9,Attorney General,,Brenna Bird,REP,930,343,587
 Dickinson,Precinct No. 1,Attorney General,,Nate Willems,DEM,240,79,161
 Dickinson,Precinct No. 10,Attorney General,,Nate Willems,DEM,412,243,169
-Dickinson,Precinct No. 11,Attorney General,,Nate Willems,DEM,501,335,166
+Dickinson,Precinct No. 11,Attorney General,,Nate Willems,DEM,502,336,166
 Dickinson,Precinct No. 12,Attorney General,,Nate Willems,DEM,149,112,37
 Dickinson,Precinct No. 2,Attorney General,,Nate Willems,DEM,379,286,93
 Dickinson,Precinct No. 3,Attorney General,,Nate Willems,DEM,285,206,79
@@ -22,7 +22,7 @@ Dickinson,Precinct No. 5,Attorney General,,Nate Willems,DEM,292,227,65
 Dickinson,Precinct No. 6,Attorney General,,Nate Willems,DEM,175,126,49
 Dickinson,Precinct No. 7,Attorney General,,Nate Willems,DEM,136,36,100
 Dickinson,Precinct No. 8,Attorney General,,Nate Willems,DEM,14,7,7
-Dickinson,Precinct No. 9,Attorney General,,Nate Willems,DEM,535,258,277
+Dickinson,Precinct No. 9,Attorney General,,Nate Willems,DEM,536,259,277
 Dickinson,Precinct No. 1,Attorney General,,Write-In,,0,0,0
 Dickinson,Precinct No. 10,Attorney General,,Write-In,,1,0,1
 Dickinson,Precinct No. 11,Attorney General,,Write-In,,3,1,2
@@ -35,12 +35,12 @@ Dickinson,Precinct No. 6,Attorney General,,Write-In,,0,0,0
 Dickinson,Precinct No. 7,Attorney General,,Write-In,,1,0,1
 Dickinson,Precinct No. 8,Attorney General,,Write-In,,0,0,0
 Dickinson,Precinct No. 9,Attorney General,,Write-In,,2,1,1
-Dickinson,Precinct No. 1,Auditor of State,,Chris Cournoyer,REP,588,158,430
+Dickinson,Precinct No. 1,Auditor of State,,Chris Cournoyer,REP,589,159,430
 Dickinson,Precinct No. 10,Auditor of State,,Chris Cournoyer,REP,644,338,306
 Dickinson,Precinct No. 11,Auditor of State,,Chris Cournoyer,REP,982,515,467
 Dickinson,Precinct No. 12,Auditor of State,,Chris Cournoyer,REP,334,226,108
-Dickinson,Precinct No. 2,Auditor of State,,Chris Cournoyer,REP,774,519,255
-Dickinson,Precinct No. 3,Auditor of State,,Chris Cournoyer,REP,562,324,238
+Dickinson,Precinct No. 2,Auditor of State,,Chris Cournoyer,REP,775,520,255
+Dickinson,Precinct No. 3,Auditor of State,,Chris Cournoyer,REP,563,325,238
 Dickinson,Precinct No. 4,Auditor of State,,Chris Cournoyer,REP,136,54,82
 Dickinson,Precinct No. 5,Auditor of State,,Chris Cournoyer,REP,540,373,167
 Dickinson,Precinct No. 6,Auditor of State,,Chris Cournoyer,REP,335,209,126
@@ -49,7 +49,7 @@ Dickinson,Precinct No. 8,Auditor of State,,Chris Cournoyer,REP,68,26,42
 Dickinson,Precinct No. 9,Auditor of State,,Chris Cournoyer,REP,920,332,588
 Dickinson,Precinct No. 1,Auditor of State,,Taylor Wettach,DEM,237,84,153
 Dickinson,Precinct No. 10,Auditor of State,,Taylor Wettach,DEM,412,246,166
-Dickinson,Precinct No. 11,Auditor of State,,Taylor Wettach,DEM,482,326,156
+Dickinson,Precinct No. 11,Auditor of State,,Taylor Wettach,DEM,483,327,156
 Dickinson,Precinct No. 12,Auditor of State,,Taylor Wettach,DEM,135,101,34
 Dickinson,Precinct No. 2,Auditor of State,,Taylor Wettach,DEM,375,291,84
 Dickinson,Precinct No. 3,Auditor of State,,Taylor Wettach,DEM,268,202,66
@@ -58,7 +58,7 @@ Dickinson,Precinct No. 5,Auditor of State,,Taylor Wettach,DEM,289,226,63
 Dickinson,Precinct No. 6,Auditor of State,,Taylor Wettach,DEM,165,122,43
 Dickinson,Precinct No. 7,Auditor of State,,Taylor Wettach,DEM,120,36,84
 Dickinson,Precinct No. 8,Auditor of State,,Taylor Wettach,DEM,13,7,6
-Dickinson,Precinct No. 9,Auditor of State,,Taylor Wettach,DEM,525,262,263
+Dickinson,Precinct No. 9,Auditor of State,,Taylor Wettach,DEM,526,263,263
 Dickinson,Precinct No. 1,Auditor of State,,Write-In,,1,0,1
 Dickinson,Precinct No. 10,Auditor of State,,Write-In,,0,0,0
 Dickinson,Precinct No. 11,Auditor of State,,Write-In,,4,2,2
@@ -71,9 +71,9 @@ Dickinson,Precinct No. 6,Auditor of State,,Write-In,,2,2,0
 Dickinson,Precinct No. 7,Auditor of State,,Write-In,,1,0,1
 Dickinson,Precinct No. 8,Auditor of State,,Write-In,,0,0,0
 Dickinson,Precinct No. 9,Auditor of State,,Write-In,,1,1,0
-Dickinson,Precinct No. 1,City of Lake Park - Public Measure GX,,No,,273,70,203
+Dickinson,Precinct No. 1,City of Lake Park - Public Measure GX,,No,,274,71,203
 Dickinson,Precinct No. 1,City of Lake Park - Public Measure GX,,Yes,,286,50,236
-Dickinson,Precinct No. 1,Constitutional Amendment 1,,No,,261,68,193
+Dickinson,Precinct No. 1,Constitutional Amendment 1,,No,,262,69,193
 Dickinson,Precinct No. 10,Constitutional Amendment 1,,No,,422,228,194
 Dickinson,Precinct No. 11,Constitutional Amendment 1,,No,,477,277,200
 Dickinson,Precinct No. 12,Constitutional Amendment 1,,No,,153,107,46
@@ -84,22 +84,34 @@ Dickinson,Precinct No. 5,Constitutional Amendment 1,,No,,259,189,70
 Dickinson,Precinct No. 6,Constitutional Amendment 1,,No,,136,102,34
 Dickinson,Precinct No. 7,Constitutional Amendment 1,,No,,138,38,100
 Dickinson,Precinct No. 8,Constitutional Amendment 1,,No,,19,9,10
-Dickinson,Precinct No. 9,Constitutional Amendment 1,,No,,483,212,271
+Dickinson,Precinct No. 9,Constitutional Amendment 1,,No,,484,213,271
 Dickinson,Precinct No. 1,Constitutional Amendment 1,,Yes,,506,145,361
 Dickinson,Precinct No. 10,Constitutional Amendment 1,,Yes,,592,328,264
-Dickinson,Precinct No. 11,Constitutional Amendment 1,,Yes,,920,509,411
+Dickinson,Precinct No. 11,Constitutional Amendment 1,,Yes,,921,510,411
 Dickinson,Precinct No. 12,Constitutional Amendment 1,,Yes,,299,205,94
-Dickinson,Precinct No. 2,Constitutional Amendment 1,,Yes,,722,511,211
-Dickinson,Precinct No. 3,Constitutional Amendment 1,,Yes,,512,319,193
+Dickinson,Precinct No. 2,Constitutional Amendment 1,,Yes,,723,512,211
+Dickinson,Precinct No. 3,Constitutional Amendment 1,,Yes,,513,320,193
 Dickinson,Precinct No. 4,Constitutional Amendment 1,,Yes,,116,58,58
 Dickinson,Precinct No. 5,Constitutional Amendment 1,,Yes,,506,364,142
 Dickinson,Precinct No. 6,Constitutional Amendment 1,,Yes,,325,198,127
 Dickinson,Precinct No. 7,Constitutional Amendment 1,,Yes,,221,66,155
 Dickinson,Precinct No. 8,Constitutional Amendment 1,,Yes,,53,25,28
 Dickinson,Precinct No. 9,Constitutional Amendment 1,,Yes,,866,353,513
+Dickinson,Precinct No. 1,County Agricultural Extension Council Member,,Ann Myhre,,6,2,4
+Dickinson,Precinct No. 10,County Agricultural Extension Council Member,,Ann Myhre,,5,2,3
+Dickinson,Precinct No. 11,County Agricultural Extension Council Member,,Ann Myhre,,8,2,6
+Dickinson,Precinct No. 12,County Agricultural Extension Council Member,,Ann Myhre,,4,1,3
+Dickinson,Precinct No. 2,County Agricultural Extension Council Member,,Ann Myhre,,5,2,3
+Dickinson,Precinct No. 3,County Agricultural Extension Council Member,,Ann Myhre,,3,1,2
+Dickinson,Precinct No. 4,County Agricultural Extension Council Member,,Ann Myhre,,2,0,2
+Dickinson,Precinct No. 5,County Agricultural Extension Council Member,,Ann Myhre,,4,1,3
+Dickinson,Precinct No. 6,County Agricultural Extension Council Member,,Ann Myhre,,3,1,2
+Dickinson,Precinct No. 7,County Agricultural Extension Council Member,,Ann Myhre,,6,2,4
+Dickinson,Precinct No. 8,County Agricultural Extension Council Member,,Ann Myhre,,2,0,2
+Dickinson,Precinct No. 9,County Agricultural Extension Council Member,,Ann Myhre,,26,7,19
 Dickinson,Precinct No. 1,County Agricultural Extension Council Member,,Casey Jones,,595,162,433
 Dickinson,Precinct No. 10,County Agricultural Extension Council Member,,Casey Jones,,701,382,319
-Dickinson,Precinct No. 11,County Agricultural Extension Council Member,,Casey Jones,,1002,573,429
+Dickinson,Precinct No. 11,County Agricultural Extension Council Member,,Casey Jones,,1003,574,429
 Dickinson,Precinct No. 12,County Agricultural Extension Council Member,,Casey Jones,,322,222,100
 Dickinson,Precinct No. 2,County Agricultural Extension Council Member,,Casey Jones,,750,521,229
 Dickinson,Precinct No. 3,County Agricultural Extension Council Member,,Casey Jones,,592,368,224
@@ -109,9 +121,33 @@ Dickinson,Precinct No. 6,County Agricultural Extension Council Member,,Casey Jon
 Dickinson,Precinct No. 7,County Agricultural Extension Council Member,,Casey Jones,,262,70,192
 Dickinson,Precinct No. 8,County Agricultural Extension Council Member,,Casey Jones,,59,25,34
 Dickinson,Precinct No. 9,County Agricultural Extension Council Member,,Casey Jones,,906,352,554
+Dickinson,Precinct No. 1,County Agricultural Extension Council Member,,Cindy Mart,,1,0,1
+Dickinson,Precinct No. 10,County Agricultural Extension Council Member,,Cindy Mart,,0,0,0
+Dickinson,Precinct No. 11,County Agricultural Extension Council Member,,Cindy Mart,,0,0,0
+Dickinson,Precinct No. 12,County Agricultural Extension Council Member,,Cindy Mart,,0,0,0
+Dickinson,Precinct No. 2,County Agricultural Extension Council Member,,Cindy Mart,,1,0,1
+Dickinson,Precinct No. 3,County Agricultural Extension Council Member,,Cindy Mart,,1,0,1
+Dickinson,Precinct No. 4,County Agricultural Extension Council Member,,Cindy Mart,,0,0,0
+Dickinson,Precinct No. 5,County Agricultural Extension Council Member,,Cindy Mart,,1,0,1
+Dickinson,Precinct No. 6,County Agricultural Extension Council Member,,Cindy Mart,,0,0,0
+Dickinson,Precinct No. 7,County Agricultural Extension Council Member,,Cindy Mart,,1,0,1
+Dickinson,Precinct No. 8,County Agricultural Extension Council Member,,Cindy Mart,,1,0,1
+Dickinson,Precinct No. 9,County Agricultural Extension Council Member,,Cindy Mart,,1,0,1
+Dickinson,Precinct No. 1,County Agricultural Extension Council Member,,Emily Boettcher,,0,0,0
+Dickinson,Precinct No. 10,County Agricultural Extension Council Member,,Emily Boettcher,,0,0,0
+Dickinson,Precinct No. 11,County Agricultural Extension Council Member,,Emily Boettcher,,3,0,3
+Dickinson,Precinct No. 12,County Agricultural Extension Council Member,,Emily Boettcher,,0,0,0
+Dickinson,Precinct No. 2,County Agricultural Extension Council Member,,Emily Boettcher,,0,0,0
+Dickinson,Precinct No. 3,County Agricultural Extension Council Member,,Emily Boettcher,,0,0,0
+Dickinson,Precinct No. 4,County Agricultural Extension Council Member,,Emily Boettcher,,0,0,0
+Dickinson,Precinct No. 5,County Agricultural Extension Council Member,,Emily Boettcher,,0,0,0
+Dickinson,Precinct No. 6,County Agricultural Extension Council Member,,Emily Boettcher,,0,0,0
+Dickinson,Precinct No. 7,County Agricultural Extension Council Member,,Emily Boettcher,,0,0,0
+Dickinson,Precinct No. 8,County Agricultural Extension Council Member,,Emily Boettcher,,0,0,0
+Dickinson,Precinct No. 9,County Agricultural Extension Council Member,,Emily Boettcher,,2,0,2
 Dickinson,Precinct No. 1,County Agricultural Extension Council Member,,Patrick Kenaley,,506,149,357
 Dickinson,Precinct No. 10,County Agricultural Extension Council Member,,Patrick Kenaley,,597,342,255
-Dickinson,Precinct No. 11,County Agricultural Extension Council Member,,Patrick Kenaley,,827,469,358
+Dickinson,Precinct No. 11,County Agricultural Extension Council Member,,Patrick Kenaley,,828,470,358
 Dickinson,Precinct No. 12,County Agricultural Extension Council Member,,Patrick Kenaley,,284,200,84
 Dickinson,Precinct No. 2,County Agricultural Extension Council Member,,Patrick Kenaley,,665,471,194
 Dickinson,Precinct No. 3,County Agricultural Extension Council Member,,Patrick Kenaley,,503,318,185
@@ -121,24 +157,24 @@ Dickinson,Precinct No. 6,County Agricultural Extension Council Member,,Patrick K
 Dickinson,Precinct No. 7,County Agricultural Extension Council Member,,Patrick Kenaley,,202,58,144
 Dickinson,Precinct No. 8,County Agricultural Extension Council Member,,Patrick Kenaley,,53,22,31
 Dickinson,Precinct No. 9,County Agricultural Extension Council Member,,Patrick Kenaley,,790,316,474
-Dickinson,Precinct No. 1,County Agricultural Extension Council Member,,Write-In,,19,5,14
-Dickinson,Precinct No. 10,County Agricultural Extension Council Member,,Write-In,,20,17,3
-Dickinson,Precinct No. 11,County Agricultural Extension Council Member,,Write-In,,57,33,24
-Dickinson,Precinct No. 12,County Agricultural Extension Council Member,,Write-In,,7,4,3
-Dickinson,Precinct No. 2,County Agricultural Extension Council Member,,Write-In,,43,29,14
-Dickinson,Precinct No. 3,County Agricultural Extension Council Member,,Write-In,,21,10,11
-Dickinson,Precinct No. 4,County Agricultural Extension Council Member,,Write-In,,4,0,4
-Dickinson,Precinct No. 5,County Agricultural Extension Council Member,,Write-In,,39,22,17
-Dickinson,Precinct No. 6,County Agricultural Extension Council Member,,Write-In,,23,8,15
-Dickinson,Precinct No. 7,County Agricultural Extension Council Member,,Write-In,,26,4,22
-Dickinson,Precinct No. 8,County Agricultural Extension Council Member,,Write-In,,9,0,9
-Dickinson,Precinct No. 9,County Agricultural Extension Council Member,,Write-In,,67,17,50
-Dickinson,Precinct No. 1,County Attorney,,Bethany Brands-Lampe,REP,721,191,530
+Dickinson,Precinct No. 1,County Agricultural Extension Council Member,,Write-In,,12,3,9
+Dickinson,Precinct No. 10,County Agricultural Extension Council Member,,Write-In,,15,15,0
+Dickinson,Precinct No. 11,County Agricultural Extension Council Member,,Write-In,,46,31,15
+Dickinson,Precinct No. 12,County Agricultural Extension Council Member,,Write-In,,3,3,0
+Dickinson,Precinct No. 2,County Agricultural Extension Council Member,,Write-In,,37,27,10
+Dickinson,Precinct No. 3,County Agricultural Extension Council Member,,Write-In,,17,9,8
+Dickinson,Precinct No. 4,County Agricultural Extension Council Member,,Write-In,,2,0,2
+Dickinson,Precinct No. 5,County Agricultural Extension Council Member,,Write-In,,34,21,13
+Dickinson,Precinct No. 6,County Agricultural Extension Council Member,,Write-In,,20,7,13
+Dickinson,Precinct No. 7,County Agricultural Extension Council Member,,Write-In,,19,2,17
+Dickinson,Precinct No. 8,County Agricultural Extension Council Member,,Write-In,,6,0,6
+Dickinson,Precinct No. 9,County Agricultural Extension Council Member,,Write-In,,38,10,28
+Dickinson,Precinct No. 1,County Attorney,,Bethany Brands-Lampe,REP,722,192,530
 Dickinson,Precinct No. 10,County Attorney,,Bethany Brands-Lampe,REP,826,436,390
-Dickinson,Precinct No. 11,County Attorney,,Bethany Brands-Lampe,REP,1223,674,549
+Dickinson,Precinct No. 11,County Attorney,,Bethany Brands-Lampe,REP,1224,675,549
 Dickinson,Precinct No. 12,County Attorney,,Bethany Brands-Lampe,REP,382,266,116
-Dickinson,Precinct No. 2,County Attorney,,Bethany Brands-Lampe,REP,941,648,293
-Dickinson,Precinct No. 3,County Attorney,,Bethany Brands-Lampe,REP,681,421,260
+Dickinson,Precinct No. 2,County Attorney,,Bethany Brands-Lampe,REP,942,649,293
+Dickinson,Precinct No. 3,County Attorney,,Bethany Brands-Lampe,REP,682,422,260
 Dickinson,Precinct No. 4,County Attorney,,Bethany Brands-Lampe,REP,155,66,89
 Dickinson,Precinct No. 5,County Attorney,,Bethany Brands-Lampe,REP,654,458,196
 Dickinson,Precinct No. 6,County Attorney,,Bethany Brands-Lampe,REP,391,246,145
@@ -159,7 +195,7 @@ Dickinson,Precinct No. 8,County Attorney,,Write-In,,3,2,1
 Dickinson,Precinct No. 9,County Attorney,,Write-In,,20,4,16
 Dickinson,Precinct No. 1,County Hospital Trustee,,Debra Leners,,489,145,344
 Dickinson,Precinct No. 10,County Hospital Trustee,,Debra Leners,,612,346,266
-Dickinson,Precinct No. 11,County Hospital Trustee,,Debra Leners,,850,503,347
+Dickinson,Precinct No. 11,County Hospital Trustee,,Debra Leners,,851,504,347
 Dickinson,Precinct No. 12,County Hospital Trustee,,Debra Leners,,285,201,84
 Dickinson,Precinct No. 2,County Hospital Trustee,,Debra Leners,,694,491,203
 Dickinson,Precinct No. 3,County Hospital Trustee,,Debra Leners,,515,328,187
@@ -171,7 +207,7 @@ Dickinson,Precinct No. 8,County Hospital Trustee,,Debra Leners,,51,23,28
 Dickinson,Precinct No. 9,County Hospital Trustee,,Debra Leners,,830,337,493
 Dickinson,Precinct No. 1,County Hospital Trustee,,Jed Jensen,,516,149,367
 Dickinson,Precinct No. 10,County Hospital Trustee,,Jed Jensen,,682,385,297
-Dickinson,Precinct No. 11,County Hospital Trustee,,Jed Jensen,,982,561,421
+Dickinson,Precinct No. 11,County Hospital Trustee,,Jed Jensen,,983,562,421
 Dickinson,Precinct No. 12,County Hospital Trustee,,Jed Jensen,,331,236,95
 Dickinson,Precinct No. 2,County Hospital Trustee,,Jed Jensen,,749,529,220
 Dickinson,Precinct No. 3,County Hospital Trustee,,Jed Jensen,,563,360,203
@@ -183,7 +219,7 @@ Dickinson,Precinct No. 8,County Hospital Trustee,,Jed Jensen,,55,25,30
 Dickinson,Precinct No. 9,County Hospital Trustee,,Jed Jensen,,856,328,528
 Dickinson,Precinct No. 1,County Hospital Trustee,,Kathryn Fahy,,502,145,357
 Dickinson,Precinct No. 10,County Hospital Trustee,,Kathryn Fahy,,639,364,275
-Dickinson,Precinct No. 11,County Hospital Trustee,,Kathryn Fahy,,913,538,375
+Dickinson,Precinct No. 11,County Hospital Trustee,,Kathryn Fahy,,914,539,375
 Dickinson,Precinct No. 12,County Hospital Trustee,,Kathryn Fahy,,310,216,94
 Dickinson,Precinct No. 2,County Hospital Trustee,,Kathryn Fahy,,717,520,197
 Dickinson,Precinct No. 3,County Hospital Trustee,,Kathryn Fahy,,532,340,192
@@ -195,7 +231,7 @@ Dickinson,Precinct No. 8,County Hospital Trustee,,Kathryn Fahy,,52,24,28
 Dickinson,Precinct No. 9,County Hospital Trustee,,Kathryn Fahy,,844,343,501
 Dickinson,Precinct No. 1,County Hospital Trustee,,Randy Heikens,,575,159,416
 Dickinson,Precinct No. 10,County Hospital Trustee,,Randy Heikens,,647,355,292
-Dickinson,Precinct No. 11,County Hospital Trustee,,Randy Heikens,,897,522,375
+Dickinson,Precinct No. 11,County Hospital Trustee,,Randy Heikens,,898,523,375
 Dickinson,Precinct No. 12,County Hospital Trustee,,Randy Heikens,,290,200,90
 Dickinson,Precinct No. 2,County Hospital Trustee,,Randy Heikens,,715,500,215
 Dickinson,Precinct No. 3,County Hospital Trustee,,Randy Heikens,,533,338,195
@@ -217,12 +253,12 @@ Dickinson,Precinct No. 6,County Hospital Trustee,,Write-In,,4,1,3
 Dickinson,Precinct No. 7,County Hospital Trustee,,Write-In,,2,0,2
 Dickinson,Precinct No. 8,County Hospital Trustee,,Write-In,,1,0,1
 Dickinson,Precinct No. 9,County Hospital Trustee,,Write-In,,14,12,2
-Dickinson,Precinct No. 1,County Recorder,,Ann Ditsworth,REP,734,198,536
+Dickinson,Precinct No. 1,County Recorder,,Ann Ditsworth,REP,735,199,536
 Dickinson,Precinct No. 10,County Recorder,,Ann Ditsworth,REP,872,465,407
-Dickinson,Precinct No. 11,County Recorder,,Ann Ditsworth,REP,1264,698,566
+Dickinson,Precinct No. 11,County Recorder,,Ann Ditsworth,REP,1265,699,566
 Dickinson,Precinct No. 12,County Recorder,,Ann Ditsworth,REP,408,281,127
-Dickinson,Precinct No. 2,County Recorder,,Ann Ditsworth,REP,977,678,299
-Dickinson,Precinct No. 3,County Recorder,,Ann Ditsworth,REP,702,431,271
+Dickinson,Precinct No. 2,County Recorder,,Ann Ditsworth,REP,978,679,299
+Dickinson,Precinct No. 3,County Recorder,,Ann Ditsworth,REP,703,432,271
 Dickinson,Precinct No. 4,County Recorder,,Ann Ditsworth,REP,173,78,95
 Dickinson,Precinct No. 5,County Recorder,,Ann Ditsworth,REP,693,489,204
 Dickinson,Precinct No. 6,County Recorder,,Ann Ditsworth,REP,419,268,151
@@ -241,12 +277,12 @@ Dickinson,Precinct No. 6,County Recorder,,Write-In,,2,2,0
 Dickinson,Precinct No. 7,County Recorder,,Write-In,,2,0,2
 Dickinson,Precinct No. 8,County Recorder,,Write-In,,0,0,0
 Dickinson,Precinct No. 9,County Recorder,,Write-In,,14,6,8
-Dickinson,Precinct No. 1,County Supervisor,1,Dan Taylor,REP,694,175,519
-Dickinson,Precinct No. 2,County Supervisor,1,Dan Taylor,REP,928,636,292
+Dickinson,Precinct No. 1,County Supervisor,1,Dan Taylor,REP,695,176,519
+Dickinson,Precinct No. 2,County Supervisor,1,Dan Taylor,REP,929,637,292
 Dickinson,Precinct No. 1,County Supervisor,1,Write-In,,25,12,13
 Dickinson,Precinct No. 2,County Supervisor,1,Write-In,,19,13,6
 Dickinson,Precinct No. 10,County Supervisor,2,Curtis Rouse,REP,815,429,386
-Dickinson,Precinct No. 3,County Supervisor,2,Curtis Rouse,REP,669,404,265
+Dickinson,Precinct No. 3,County Supervisor,2,Curtis Rouse,REP,670,405,265
 Dickinson,Precinct No. 10,County Supervisor,2,Write-In,,16,5,11
 Dickinson,Precinct No. 3,County Supervisor,2,Write-In,,11,7,4
 Dickinson,Precinct No. 4,County Supervisor,4,Thaddeus Cook,REP,154,66,88
@@ -257,12 +293,12 @@ Dickinson,Precinct No. 4,County Supervisor,4,Write-In,,0,0,0
 Dickinson,Precinct No. 5,County Supervisor,4,Write-In,,13,10,3
 Dickinson,Precinct No. 6,County Supervisor,4,Write-In,,9,7,2
 Dickinson,Precinct No. 7,County Supervisor,4,Write-In,,7,0,7
-Dickinson,Precinct No. 1,County Treasurer,,Kris Rowley,REP,752,207,545
+Dickinson,Precinct No. 1,County Treasurer,,Kris Rowley,REP,753,208,545
 Dickinson,Precinct No. 10,County Treasurer,,Kris Rowley,REP,868,460,408
-Dickinson,Precinct No. 11,County Treasurer,,Kris Rowley,REP,1271,703,568
+Dickinson,Precinct No. 11,County Treasurer,,Kris Rowley,REP,1272,704,568
 Dickinson,Precinct No. 12,County Treasurer,,Kris Rowley,REP,410,285,125
-Dickinson,Precinct No. 2,County Treasurer,,Kris Rowley,REP,977,679,298
-Dickinson,Precinct No. 3,County Treasurer,,Kris Rowley,REP,698,434,264
+Dickinson,Precinct No. 2,County Treasurer,,Kris Rowley,REP,978,680,298
+Dickinson,Precinct No. 3,County Treasurer,,Kris Rowley,REP,699,435,264
 Dickinson,Precinct No. 4,County Treasurer,,Kris Rowley,REP,168,73,95
 Dickinson,Precinct No. 5,County Treasurer,,Kris Rowley,REP,694,490,204
 Dickinson,Precinct No. 6,County Treasurer,,Kris Rowley,REP,408,257,151
@@ -295,10 +331,10 @@ Dickinson,Precinct No. 8,Court of Appeals Judge - John M. Sandy,,No,,13,6,7
 Dickinson,Precinct No. 9,Court of Appeals Judge - John M. Sandy,,No,,149,56,93
 Dickinson,Precinct No. 1,Court of Appeals Judge - John M. Sandy,,Yes,,662,183,479
 Dickinson,Precinct No. 10,Court of Appeals Judge - John M. Sandy,,Yes,,813,449,364
-Dickinson,Precinct No. 11,Court of Appeals Judge - John M. Sandy,,Yes,,1153,660,493
+Dickinson,Precinct No. 11,Court of Appeals Judge - John M. Sandy,,Yes,,1154,661,493
 Dickinson,Precinct No. 12,Court of Appeals Judge - John M. Sandy,,Yes,,372,265,107
 Dickinson,Precinct No. 2,Court of Appeals Judge - John M. Sandy,,Yes,,862,602,260
-Dickinson,Precinct No. 3,Court of Appeals Judge - John M. Sandy,,Yes,,627,391,236
+Dickinson,Precinct No. 3,Court of Appeals Judge - John M. Sandy,,Yes,,628,392,236
 Dickinson,Precinct No. 4,Court of Appeals Judge - John M. Sandy,,Yes,,150,66,84
 Dickinson,Precinct No. 5,Court of Appeals Judge - John M. Sandy,,Yes,,632,453,179
 Dickinson,Precinct No. 6,Court of Appeals Judge - John M. Sandy,,Yes,,365,237,128
@@ -319,7 +355,7 @@ Dickinson,Precinct No. 8,Court of Appeals Judge - Julie A. Schumacher,,No,,12,6,
 Dickinson,Precinct No. 9,Court of Appeals Judge - Julie A. Schumacher,,No,,143,51,92
 Dickinson,Precinct No. 1,Court of Appeals Judge - Julie A. Schumacher,,Yes,,531,151,380
 Dickinson,Precinct No. 10,Court of Appeals Judge - Julie A. Schumacher,,Yes,,662,370,292
-Dickinson,Precinct No. 11,Court of Appeals Judge - Julie A. Schumacher,,Yes,,937,534,403
+Dickinson,Precinct No. 11,Court of Appeals Judge - Julie A. Schumacher,,Yes,,938,535,403
 Dickinson,Precinct No. 12,Court of Appeals Judge - Julie A. Schumacher,,Yes,,315,219,96
 Dickinson,Precinct No. 2,Court of Appeals Judge - Julie A. Schumacher,,Yes,,717,515,202
 Dickinson,Precinct No. 3,Court of Appeals Judge - Julie A. Schumacher,,Yes,,550,346,204
@@ -343,10 +379,10 @@ Dickinson,Precinct No. 8,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,11
 Dickinson,Precinct No. 9,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,168,59,109
 Dickinson,Precinct No. 1,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,502,141,361
 Dickinson,Precinct No. 10,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,642,367,275
-Dickinson,Precinct No. 11,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,903,513,390
+Dickinson,Precinct No. 11,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,904,514,390
 Dickinson,Precinct No. 12,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,298,209,89
 Dickinson,Precinct No. 2,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,699,499,200
-Dickinson,Precinct No. 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,530,338,192
+Dickinson,Precinct No. 3,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,531,339,192
 Dickinson,Precinct No. 4,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,120,51,69
 Dickinson,Precinct No. 5,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,498,350,148
 Dickinson,Precinct No. 6,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,296,192,104
@@ -367,7 +403,7 @@ Dickinson,Precinct No. 8,District 3A Associate Judge - Jennifer Bennett Finn,,No
 Dickinson,Precinct No. 9,District 3A Associate Judge - Jennifer Bennett Finn,,No,,156,56,100
 Dickinson,Precinct No. 1,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,518,140,378
 Dickinson,Precinct No. 10,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,637,361,276
-Dickinson,Precinct No. 11,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,901,511,390
+Dickinson,Precinct No. 11,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,902,512,390
 Dickinson,Precinct No. 12,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,293,205,88
 Dickinson,Precinct No. 2,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,689,486,203
 Dickinson,Precinct No. 3,District 3A Associate Judge - Jennifer Bennett Finn,,Yes,,517,326,191
@@ -391,10 +427,10 @@ Dickinson,Precinct No. 8,District 3A Associate Judge - Kristi Busse,,No,,12,6,6
 Dickinson,Precinct No. 9,District 3A Associate Judge - Kristi Busse,,No,,139,49,90
 Dickinson,Precinct No. 1,District 3A Associate Judge - Kristi Busse,,Yes,,540,147,393
 Dickinson,Precinct No. 10,District 3A Associate Judge - Kristi Busse,,Yes,,652,360,292
-Dickinson,Precinct No. 11,District 3A Associate Judge - Kristi Busse,,Yes,,924,523,401
+Dickinson,Precinct No. 11,District 3A Associate Judge - Kristi Busse,,Yes,,925,524,401
 Dickinson,Precinct No. 12,District 3A Associate Judge - Kristi Busse,,Yes,,293,204,89
 Dickinson,Precinct No. 2,District 3A Associate Judge - Kristi Busse,,Yes,,703,498,205
-Dickinson,Precinct No. 3,District 3A Associate Judge - Kristi Busse,,Yes,,534,335,199
+Dickinson,Precinct No. 3,District 3A Associate Judge - Kristi Busse,,Yes,,535,336,199
 Dickinson,Precinct No. 4,District 3A Associate Judge - Kristi Busse,,Yes,,122,51,71
 Dickinson,Precinct No. 5,District 3A Associate Judge - Kristi Busse,,Yes,,498,356,142
 Dickinson,Precinct No. 6,District 3A Associate Judge - Kristi Busse,,Yes,,299,189,110
@@ -415,7 +451,7 @@ Dickinson,Precinct No. 8,District 3A Judge - Adam Miller,,No,,16,7,9
 Dickinson,Precinct No. 9,District 3A Judge - Adam Miller,,No,,133,45,88
 Dickinson,Precinct No. 1,District 3A Judge - Adam Miller,,Yes,,532,142,390
 Dickinson,Precinct No. 10,District 3A Judge - Adam Miller,,Yes,,651,361,290
-Dickinson,Precinct No. 11,District 3A Judge - Adam Miller,,Yes,,910,514,396
+Dickinson,Precinct No. 11,District 3A Judge - Adam Miller,,Yes,,911,515,396
 Dickinson,Precinct No. 12,District 3A Judge - Adam Miller,,Yes,,300,207,93
 Dickinson,Precinct No. 2,District 3A Judge - Adam Miller,,Yes,,695,494,201
 Dickinson,Precinct No. 3,District 3A Judge - Adam Miller,,Yes,,537,337,200
@@ -439,7 +475,7 @@ Dickinson,Precinct No. 8,District 3A Judge - Andrew J. Smith,,No,,15,8,7
 Dickinson,Precinct No. 9,District 3A Judge - Andrew J. Smith,,No,,148,47,101
 Dickinson,Precinct No. 1,District 3A Judge - Andrew J. Smith,,Yes,,510,130,380
 Dickinson,Precinct No. 10,District 3A Judge - Andrew J. Smith,,Yes,,641,358,283
-Dickinson,Precinct No. 11,District 3A Judge - Andrew J. Smith,,Yes,,894,507,387
+Dickinson,Precinct No. 11,District 3A Judge - Andrew J. Smith,,Yes,,895,508,387
 Dickinson,Precinct No. 12,District 3A Judge - Andrew J. Smith,,Yes,,286,199,87
 Dickinson,Precinct No. 2,District 3A Judge - Andrew J. Smith,,Yes,,677,471,206
 Dickinson,Precinct No. 3,District 3A Judge - Andrew J. Smith,,Yes,,523,327,196
@@ -463,7 +499,7 @@ Dickinson,Precinct No. 8,District 3A Judge - Carl J. Petersen,,No,,13,7,6
 Dickinson,Precinct No. 9,District 3A Judge - Carl J. Petersen,,No,,153,51,102
 Dickinson,Precinct No. 1,District 3A Judge - Carl J. Petersen,,Yes,,524,142,382
 Dickinson,Precinct No. 10,District 3A Judge - Carl J. Petersen,,Yes,,649,357,292
-Dickinson,Precinct No. 11,District 3A Judge - Carl J. Petersen,,Yes,,930,533,397
+Dickinson,Precinct No. 11,District 3A Judge - Carl J. Petersen,,Yes,,931,534,397
 Dickinson,Precinct No. 12,District 3A Judge - Carl J. Petersen,,Yes,,315,224,91
 Dickinson,Precinct No. 2,District 3A Judge - Carl J. Petersen,,Yes,,689,488,201
 Dickinson,Precinct No. 3,District 3A Judge - Carl J. Petersen,,Yes,,527,334,193
@@ -487,10 +523,10 @@ Dickinson,Precinct No. 8,District 3A Judge - Charles Borth,,No,,16,7,9
 Dickinson,Precinct No. 9,District 3A Judge - Charles Borth,,No,,156,50,106
 Dickinson,Precinct No. 1,District 3A Judge - Charles Borth,,Yes,,534,142,392
 Dickinson,Precinct No. 10,District 3A Judge - Charles Borth,,Yes,,631,344,287
-Dickinson,Precinct No. 11,District 3A Judge - Charles Borth,,Yes,,898,503,395
+Dickinson,Precinct No. 11,District 3A Judge - Charles Borth,,Yes,,899,504,395
 Dickinson,Precinct No. 12,District 3A Judge - Charles Borth,,Yes,,296,209,87
 Dickinson,Precinct No. 2,District 3A Judge - Charles Borth,,Yes,,685,480,205
-Dickinson,Precinct No. 3,District 3A Judge - Charles Borth,,Yes,,521,323,198
+Dickinson,Precinct No. 3,District 3A Judge - Charles Borth,,Yes,,522,324,198
 Dickinson,Precinct No. 4,District 3A Judge - Charles Borth,,Yes,,116,51,65
 Dickinson,Precinct No. 5,District 3A Judge - Charles Borth,,Yes,,503,357,146
 Dickinson,Precinct No. 6,District 3A Judge - Charles Borth,,Yes,,296,191,105
@@ -499,7 +535,7 @@ Dickinson,Precinct No. 8,District 3A Judge - Charles Borth,,Yes,,49,23,26
 Dickinson,Precinct No. 9,District 3A Judge - Charles Borth,,Yes,,886,369,517
 Dickinson,Precinct No. 1,Governor,,Rob Sand and Dave Muhlbauer,DEM,271,97,174
 Dickinson,Precinct No. 10,Governor,,Rob Sand and Dave Muhlbauer,DEM,480,281,199
-Dickinson,Precinct No. 11,Governor,,Rob Sand and Dave Muhlbauer,DEM,574,383,191
+Dickinson,Precinct No. 11,Governor,,Rob Sand and Dave Muhlbauer,DEM,575,384,191
 Dickinson,Precinct No. 12,Governor,,Rob Sand and Dave Muhlbauer,DEM,169,124,45
 Dickinson,Precinct No. 2,Governor,,Rob Sand and Dave Muhlbauer,DEM,464,360,104
 Dickinson,Precinct No. 3,Governor,,Rob Sand and Dave Muhlbauer,DEM,325,235,90
@@ -508,7 +544,7 @@ Dickinson,Precinct No. 5,Governor,,Rob Sand and Dave Muhlbauer,DEM,339,263,76
 Dickinson,Precinct No. 6,Governor,,Rob Sand and Dave Muhlbauer,DEM,192,137,55
 Dickinson,Precinct No. 7,Governor,,Rob Sand and Dave Muhlbauer,DEM,155,44,111
 Dickinson,Precinct No. 8,Governor,,Rob Sand and Dave Muhlbauer,DEM,20,8,12
-Dickinson,Precinct No. 9,Governor,,Rob Sand and Dave Muhlbauer,DEM,648,303,345
+Dickinson,Precinct No. 9,Governor,,Rob Sand and Dave Muhlbauer,DEM,649,304,345
 Dickinson,Precinct No. 1,Governor,,Write-In,,1,1,0
 Dickinson,Precinct No. 10,Governor,,Write-In,,5,3,2
 Dickinson,Precinct No. 11,Governor,,Write-In,,3,3,0
@@ -521,12 +557,12 @@ Dickinson,Precinct No. 6,Governor,,Write-In,,1,0,1
 Dickinson,Precinct No. 7,Governor,,Write-In,,0,0,0
 Dickinson,Precinct No. 8,Governor,,Write-In,,0,0,0
 Dickinson,Precinct No. 9,Governor,,Write-In,,1,0,1
-Dickinson,Precinct No. 1,Governor,,Zach Lahn and Derek Wulf,REP,573,147,426
+Dickinson,Precinct No. 1,Governor,,Zach Lahn and Derek Wulf,REP,574,148,426
 Dickinson,Precinct No. 10,Governor,,Zach Lahn and Derek Wulf,REP,614,317,297
 Dickinson,Precinct No. 11,Governor,,Zach Lahn and Derek Wulf,REP,949,487,462
 Dickinson,Precinct No. 12,Governor,,Zach Lahn and Derek Wulf,REP,315,211,104
-Dickinson,Precinct No. 2,Governor,,Zach Lahn and Derek Wulf,REP,722,473,249
-Dickinson,Precinct No. 3,Governor,,Zach Lahn and Derek Wulf,REP,520,298,222
+Dickinson,Precinct No. 2,Governor,,Zach Lahn and Derek Wulf,REP,723,474,249
+Dickinson,Precinct No. 3,Governor,,Zach Lahn and Derek Wulf,REP,521,299,222
 Dickinson,Precinct No. 4,Governor,,Zach Lahn and Derek Wulf,REP,131,49,82
 Dickinson,Precinct No. 5,Governor,,Zach Lahn and Derek Wulf,REP,512,348,164
 Dickinson,Precinct No. 6,Governor,,Zach Lahn and Derek Wulf,REP,319,203,116
@@ -534,10 +570,10 @@ Dickinson,Precinct No. 7,Governor,,Zach Lahn and Derek Wulf,REP,252,73,179
 Dickinson,Precinct No. 8,Governor,,Zach Lahn and Derek Wulf,REP,65,29,36
 Dickinson,Precinct No. 9,Governor,,Zach Lahn and Derek Wulf,REP,852,309,543
 Dickinson,Precinct No. 10,Iowa Great Lakes Sanitary District Trustee,,Tom E. Kuhlman,,819,449,370
-Dickinson,Precinct No. 11,Iowa Great Lakes Sanitary District Trustee,,Tom E. Kuhlman,,1124,640,484
+Dickinson,Precinct No. 11,Iowa Great Lakes Sanitary District Trustee,,Tom E. Kuhlman,,1125,641,484
 Dickinson,Precinct No. 12,Iowa Great Lakes Sanitary District Trustee,,Tom E. Kuhlman,,348,240,108
 Dickinson,Precinct No. 2,Iowa Great Lakes Sanitary District Trustee,,Tom E. Kuhlman,,680,494,186
-Dickinson,Precinct No. 3,Iowa Great Lakes Sanitary District Trustee,,Tom E. Kuhlman,,608,376,232
+Dickinson,Precinct No. 3,Iowa Great Lakes Sanitary District Trustee,,Tom E. Kuhlman,,609,377,232
 Dickinson,Precinct No. 5,Iowa Great Lakes Sanitary District Trustee,,Tom E. Kuhlman,,611,447,164
 Dickinson,Precinct No. 6,Iowa Great Lakes Sanitary District Trustee,,Tom E. Kuhlman,,315,208,107
 Dickinson,Precinct No. 7,Iowa Great Lakes Sanitary District Trustee,,Tom E. Kuhlman,,0,0,0
@@ -562,13 +598,13 @@ Dickinson,Precinct No. 5,Secretary of Agriculture,,Chris Jones,DEM,260,203,57
 Dickinson,Precinct No. 6,Secretary of Agriculture,,Chris Jones,DEM,145,112,33
 Dickinson,Precinct No. 7,Secretary of Agriculture,,Chris Jones,DEM,111,34,77
 Dickinson,Precinct No. 8,Secretary of Agriculture,,Chris Jones,DEM,15,7,8
-Dickinson,Precinct No. 9,Secretary of Agriculture,,Chris Jones,DEM,495,245,250
-Dickinson,Precinct No. 1,Secretary of Agriculture,,Mike Naig,REP,635,170,465
+Dickinson,Precinct No. 9,Secretary of Agriculture,,Chris Jones,DEM,496,246,250
+Dickinson,Precinct No. 1,Secretary of Agriculture,,Mike Naig,REP,636,171,465
 Dickinson,Precinct No. 10,Secretary of Agriculture,,Mike Naig,REP,695,364,331
-Dickinson,Precinct No. 11,Secretary of Agriculture,,Mike Naig,REP,1071,565,506
+Dickinson,Precinct No. 11,Secretary of Agriculture,,Mike Naig,REP,1072,566,506
 Dickinson,Precinct No. 12,Secretary of Agriculture,,Mike Naig,REP,349,240,109
-Dickinson,Precinct No. 2,Secretary of Agriculture,,Mike Naig,REP,808,550,258
-Dickinson,Precinct No. 3,Secretary of Agriculture,,Mike Naig,REP,592,343,249
+Dickinson,Precinct No. 2,Secretary of Agriculture,,Mike Naig,REP,809,551,258
+Dickinson,Precinct No. 3,Secretary of Agriculture,,Mike Naig,REP,593,344,249
 Dickinson,Precinct No. 4,Secretary of Agriculture,,Mike Naig,REP,149,61,88
 Dickinson,Precinct No. 5,Secretary of Agriculture,,Mike Naig,REP,585,407,178
 Dickinson,Precinct No. 6,Secretary of Agriculture,,Mike Naig,REP,363,226,137
@@ -587,12 +623,12 @@ Dickinson,Precinct No. 6,Secretary of Agriculture,,Write-In,,1,1,0
 Dickinson,Precinct No. 7,Secretary of Agriculture,,Write-In,,2,0,2
 Dickinson,Precinct No. 8,Secretary of Agriculture,,Write-In,,0,0,0
 Dickinson,Precinct No. 9,Secretary of Agriculture,,Write-In,,2,1,1
-Dickinson,Precinct No. 1,Secretary of State,,Paul D. Pate,REP,608,160,448
+Dickinson,Precinct No. 1,Secretary of State,,Paul D. Pate,REP,609,161,448
 Dickinson,Precinct No. 10,Secretary of State,,Paul D. Pate,REP,666,348,318
-Dickinson,Precinct No. 11,Secretary of State,,Paul D. Pate,REP,1031,543,488
+Dickinson,Precinct No. 11,Secretary of State,,Paul D. Pate,REP,1032,544,488
 Dickinson,Precinct No. 12,Secretary of State,,Paul D. Pate,REP,342,228,114
-Dickinson,Precinct No. 2,Secretary of State,,Paul D. Pate,REP,804,543,261
-Dickinson,Precinct No. 3,Secretary of State,,Paul D. Pate,REP,576,341,235
+Dickinson,Precinct No. 2,Secretary of State,,Paul D. Pate,REP,805,544,261
+Dickinson,Precinct No. 3,Secretary of State,,Paul D. Pate,REP,577,342,235
 Dickinson,Precinct No. 4,Secretary of State,,Paul D. Pate,REP,142,59,83
 Dickinson,Precinct No. 5,Secretary of State,,Paul D. Pate,REP,572,399,173
 Dickinson,Precinct No. 6,Secretary of State,,Paul D. Pate,REP,353,222,131
@@ -610,7 +646,7 @@ Dickinson,Precinct No. 5,Secretary of State,,Ryan Peterman,DEM,267,209,58
 Dickinson,Precinct No. 6,Secretary of State,,Ryan Peterman,DEM,151,113,38
 Dickinson,Precinct No. 7,Secretary of State,,Ryan Peterman,DEM,121,35,86
 Dickinson,Precinct No. 8,Secretary of State,,Ryan Peterman,DEM,13,7,6
-Dickinson,Precinct No. 9,Secretary of State,,Ryan Peterman,DEM,503,255,248
+Dickinson,Precinct No. 9,Secretary of State,,Ryan Peterman,DEM,504,256,248
 Dickinson,Precinct No. 1,Secretary of State,,Write-In,,1,0,1
 Dickinson,Precinct No. 10,Secretary of State,,Write-In,,0,0,0
 Dickinson,Precinct No. 11,Secretary of State,,Write-In,,3,1,2
@@ -623,52 +659,64 @@ Dickinson,Precinct No. 6,Secretary of State,,Write-In,,0,0,0
 Dickinson,Precinct No. 7,Secretary of State,,Write-In,,1,0,1
 Dickinson,Precinct No. 8,Secretary of State,,Write-In,,0,0,0
 Dickinson,Precinct No. 9,Secretary of State,,Write-In,,2,2,0
+Dickinson,Precinct No. 1,Soil and Water Conservation District Commissioner,,Matt Heikens,,4,1,3
+Dickinson,Precinct No. 10,Soil and Water Conservation District Commissioner,,Matt Heikens,,3,1,2
+Dickinson,Precinct No. 11,Soil and Water Conservation District Commissioner,,Matt Heikens,,8,2,6
+Dickinson,Precinct No. 12,Soil and Water Conservation District Commissioner,,Matt Heikens,,0,0,0
+Dickinson,Precinct No. 2,Soil and Water Conservation District Commissioner,,Matt Heikens,,6,2,4
+Dickinson,Precinct No. 3,Soil and Water Conservation District Commissioner,,Matt Heikens,,3,1,2
+Dickinson,Precinct No. 4,Soil and Water Conservation District Commissioner,,Matt Heikens,,0,0,0
+Dickinson,Precinct No. 5,Soil and Water Conservation District Commissioner,,Matt Heikens,,6,2,4
+Dickinson,Precinct No. 6,Soil and Water Conservation District Commissioner,,Matt Heikens,,4,2,2
+Dickinson,Precinct No. 7,Soil and Water Conservation District Commissioner,,Matt Heikens,,4,2,2
+Dickinson,Precinct No. 8,Soil and Water Conservation District Commissioner,,Matt Heikens,,0,0,0
+Dickinson,Precinct No. 9,Soil and Water Conservation District Commissioner,,Matt Heikens,,7,2,5
 Dickinson,Precinct No. 1,Soil and Water Conservation District Commissioner,,Susan Vance Hjelm,,679,193,486
 Dickinson,Precinct No. 10,Soil and Water Conservation District Commissioner,,Susan Vance Hjelm,,757,413,344
-Dickinson,Precinct No. 11,Soil and Water Conservation District Commissioner,,Susan Vance Hjelm,,1057,599,458
+Dickinson,Precinct No. 11,Soil and Water Conservation District Commissioner,,Susan Vance Hjelm,,1058,600,458
 Dickinson,Precinct No. 12,Soil and Water Conservation District Commissioner,,Susan Vance Hjelm,,341,234,107
 Dickinson,Precinct No. 2,Soil and Water Conservation District Commissioner,,Susan Vance Hjelm,,803,562,241
-Dickinson,Precinct No. 3,Soil and Water Conservation District Commissioner,,Susan Vance Hjelm,,610,378,232
+Dickinson,Precinct No. 3,Soil and Water Conservation District Commissioner,,Susan Vance Hjelm,,611,379,232
 Dickinson,Precinct No. 4,Soil and Water Conservation District Commissioner,,Susan Vance Hjelm,,142,65,77
 Dickinson,Precinct No. 5,Soil and Water Conservation District Commissioner,,Susan Vance Hjelm,,588,414,174
 Dickinson,Precinct No. 6,Soil and Water Conservation District Commissioner,,Susan Vance Hjelm,,349,229,120
 Dickinson,Precinct No. 7,Soil and Water Conservation District Commissioner,,Susan Vance Hjelm,,292,84,208
 Dickinson,Precinct No. 8,Soil and Water Conservation District Commissioner,,Susan Vance Hjelm,,68,30,38
 Dickinson,Precinct No. 9,Soil and Water Conservation District Commissioner,,Susan Vance Hjelm,,1043,403,640
-Dickinson,Precinct No. 1,Soil and Water Conservation District Commissioner,,Write-In,,13,3,10
-Dickinson,Precinct No. 10,Soil and Water Conservation District Commissioner,,Write-In,,16,9,7
-Dickinson,Precinct No. 11,Soil and Water Conservation District Commissioner,,Write-In,,52,32,20
+Dickinson,Precinct No. 1,Soil and Water Conservation District Commissioner,,Write-In,,9,2,7
+Dickinson,Precinct No. 10,Soil and Water Conservation District Commissioner,,Write-In,,13,8,5
+Dickinson,Precinct No. 11,Soil and Water Conservation District Commissioner,,Write-In,,44,30,14
 Dickinson,Precinct No. 12,Soil and Water Conservation District Commissioner,,Write-In,,2,1,1
-Dickinson,Precinct No. 2,Soil and Water Conservation District Commissioner,,Write-In,,30,19,11
-Dickinson,Precinct No. 3,Soil and Water Conservation District Commissioner,,Write-In,,16,7,9
+Dickinson,Precinct No. 2,Soil and Water Conservation District Commissioner,,Write-In,,24,17,7
+Dickinson,Precinct No. 3,Soil and Water Conservation District Commissioner,,Write-In,,13,6,7
 Dickinson,Precinct No. 4,Soil and Water Conservation District Commissioner,,Write-In,,3,1,2
-Dickinson,Precinct No. 5,Soil and Water Conservation District Commissioner,,Write-In,,23,17,6
-Dickinson,Precinct No. 6,Soil and Water Conservation District Commissioner,,Write-In,,16,9,7
-Dickinson,Precinct No. 7,Soil and Water Conservation District Commissioner,,Write-In,,16,4,12
+Dickinson,Precinct No. 5,Soil and Water Conservation District Commissioner,,Write-In,,17,15,2
+Dickinson,Precinct No. 6,Soil and Water Conservation District Commissioner,,Write-In,,12,7,5
+Dickinson,Precinct No. 7,Soil and Water Conservation District Commissioner,,Write-In,,12,2,10
 Dickinson,Precinct No. 8,Soil and Water Conservation District Commissioner,,Write-In,,1,0,1
-Dickinson,Precinct No. 9,Soil and Water Conservation District Commissioner,,Write-In,,37,18,19
+Dickinson,Precinct No. 9,Soil and Water Conservation District Commissioner,,Write-In,,30,16,14
 Dickinson,Precinct No. 1,Spirit Lake School - Public Measure GW,,No,,62,41,21
 Dickinson,Precinct No. 10,Spirit Lake School - Public Measure GW,,No,,649,343,306
 Dickinson,Precinct No. 11,Spirit Lake School - Public Measure GW,,No,,812,455,357
 Dickinson,Precinct No. 12,Spirit Lake School - Public Measure GW,,No,,326,229,97
 Dickinson,Precinct No. 2,Spirit Lake School - Public Measure GW,,No,,388,279,109
-Dickinson,Precinct No. 3,Spirit Lake School - Public Measure GW,,No,,580,357,223
+Dickinson,Precinct No. 3,Spirit Lake School - Public Measure GW,,No,,581,358,223
 Dickinson,Precinct No. 4,Spirit Lake School - Public Measure GW,,No,,63,34,29
 Dickinson,Precinct No. 5,Spirit Lake School - Public Measure GW,,No,,37,19,18
 Dickinson,Precinct No. 1,Spirit Lake School - Public Measure GW,,Yes,,21,16,5
 Dickinson,Precinct No. 10,Spirit Lake School - Public Measure GW,,Yes,,431,246,185
-Dickinson,Precinct No. 11,Spirit Lake School - Public Measure GW,,Yes,,695,399,296
+Dickinson,Precinct No. 11,Spirit Lake School - Public Measure GW,,Yes,,696,400,296
 Dickinson,Precinct No. 12,Spirit Lake School - Public Measure GW,,Yes,,160,106,54
 Dickinson,Precinct No. 2,Spirit Lake School - Public Measure GW,,Yes,,253,201,52
 Dickinson,Precinct No. 3,Spirit Lake School - Public Measure GW,,Yes,,259,174,85
 Dickinson,Precinct No. 4,Spirit Lake School - Public Measure GW,,Yes,,37,17,20
 Dickinson,Precinct No. 5,Spirit Lake School - Public Measure GW,,Yes,,35,25,10
-Dickinson,Precinct No. 1,State House,10,John H. Wills,REP,703,180,523
+Dickinson,Precinct No. 1,State House,10,John H. Wills,REP,704,181,523
 Dickinson,Precinct No. 10,State House,10,John H. Wills,REP,802,417,385
-Dickinson,Precinct No. 11,State House,10,John H. Wills,REP,1178,638,540
+Dickinson,Precinct No. 11,State House,10,John H. Wills,REP,1179,639,540
 Dickinson,Precinct No. 12,State House,10,John H. Wills,REP,387,265,122
-Dickinson,Precinct No. 2,State House,10,John H. Wills,REP,898,608,290
-Dickinson,Precinct No. 3,State House,10,John H. Wills,REP,661,401,260
+Dickinson,Precinct No. 2,State House,10,John H. Wills,REP,899,609,290
+Dickinson,Precinct No. 3,State House,10,John H. Wills,REP,662,402,260
 Dickinson,Precinct No. 4,State House,10,John H. Wills,REP,155,65,90
 Dickinson,Precinct No. 5,State House,10,John H. Wills,REP,629,432,197
 Dickinson,Precinct No. 6,State House,10,John H. Wills,REP,372,230,142
@@ -687,12 +735,12 @@ Dickinson,Precinct No. 6,State House,10,Write-In,,9,6,3
 Dickinson,Precinct No. 7,State House,10,Write-In,,5,1,4
 Dickinson,Precinct No. 8,State House,10,Write-In,,1,0,1
 Dickinson,Precinct No. 9,State House,10,Write-In,,30,12,18
-Dickinson,Precinct No. 1,State Senate,5,Dave Rowley,REP,665,186,479
+Dickinson,Precinct No. 1,State Senate,5,Dave Rowley,REP,666,187,479
 Dickinson,Precinct No. 10,State Senate,5,Dave Rowley,REP,753,399,354
-Dickinson,Precinct No. 11,State Senate,5,Dave Rowley,REP,1131,612,519
+Dickinson,Precinct No. 11,State Senate,5,Dave Rowley,REP,1132,613,519
 Dickinson,Precinct No. 12,State Senate,5,Dave Rowley,REP,374,254,120
-Dickinson,Precinct No. 2,State Senate,5,Dave Rowley,REP,877,600,277
-Dickinson,Precinct No. 3,State Senate,5,Dave Rowley,REP,622,375,247
+Dickinson,Precinct No. 2,State Senate,5,Dave Rowley,REP,878,601,277
+Dickinson,Precinct No. 3,State Senate,5,Dave Rowley,REP,623,376,247
 Dickinson,Precinct No. 4,State Senate,5,Dave Rowley,REP,147,62,85
 Dickinson,Precinct No. 5,State Senate,5,Dave Rowley,REP,620,434,186
 Dickinson,Precinct No. 6,State Senate,5,Dave Rowley,REP,373,231,142
@@ -710,7 +758,7 @@ Dickinson,Precinct No. 5,State Senate,5,Rachel Gravert,,158,120,38
 Dickinson,Precinct No. 6,State Senate,5,Rachel Gravert,,86,62,24
 Dickinson,Precinct No. 7,State Senate,5,Rachel Gravert,,75,22,53
 Dickinson,Precinct No. 8,State Senate,5,Rachel Gravert,,6,4,2
-Dickinson,Precinct No. 9,State Senate,5,Rachel Gravert,,296,136,160
+Dickinson,Precinct No. 9,State Senate,5,Rachel Gravert,,297,137,160
 Dickinson,Precinct No. 1,State Senate,5,Write-In,,1,0,1
 Dickinson,Precinct No. 10,State Senate,5,Write-In,,4,1,3
 Dickinson,Precinct No. 11,State Senate,5,Write-In,,12,10,2
@@ -734,13 +782,13 @@ Dickinson,Precinct No. 5,Treasurer of State,,John Norwood,DEM,276,217,59
 Dickinson,Precinct No. 6,Treasurer of State,,John Norwood,DEM,160,121,39
 Dickinson,Precinct No. 7,Treasurer of State,,John Norwood,DEM,127,36,91
 Dickinson,Precinct No. 8,Treasurer of State,,John Norwood,DEM,13,6,7
-Dickinson,Precinct No. 9,Treasurer of State,,John Norwood,DEM,522,262,260
-Dickinson,Precinct No. 1,Treasurer of State,,Roby Smith,REP,586,153,433
+Dickinson,Precinct No. 9,Treasurer of State,,John Norwood,DEM,523,263,260
+Dickinson,Precinct No. 1,Treasurer of State,,Roby Smith,REP,587,154,433
 Dickinson,Precinct No. 10,Treasurer of State,,Roby Smith,REP,651,340,311
-Dickinson,Precinct No. 11,Treasurer of State,,Roby Smith,REP,988,519,469
+Dickinson,Precinct No. 11,Treasurer of State,,Roby Smith,REP,989,520,469
 Dickinson,Precinct No. 12,Treasurer of State,,Roby Smith,REP,331,224,107
-Dickinson,Precinct No. 2,Treasurer of State,,Roby Smith,REP,779,525,254
-Dickinson,Precinct No. 3,Treasurer of State,,Roby Smith,REP,553,325,228
+Dickinson,Precinct No. 2,Treasurer of State,,Roby Smith,REP,780,526,254
+Dickinson,Precinct No. 3,Treasurer of State,,Roby Smith,REP,554,326,228
 Dickinson,Precinct No. 4,Treasurer of State,,Roby Smith,REP,134,54,80
 Dickinson,Precinct No. 5,Treasurer of State,,Roby Smith,REP,552,380,172
 Dickinson,Precinct No. 6,Treasurer of State,,Roby Smith,REP,341,210,131
@@ -759,12 +807,12 @@ Dickinson,Precinct No. 6,Treasurer of State,,Write-In,,1,1,0
 Dickinson,Precinct No. 7,Treasurer of State,,Write-In,,1,0,1
 Dickinson,Precinct No. 8,Treasurer of State,,Write-In,,0,0,0
 Dickinson,Precinct No. 9,Treasurer of State,,Write-In,,1,1,0
-Dickinson,Precinct No. 1,U.S. House,4,Chris McGowan,REP,601,161,440
+Dickinson,Precinct No. 1,U.S. House,4,Chris McGowan,REP,602,162,440
 Dickinson,Precinct No. 10,U.S. House,4,Chris McGowan,REP,656,340,316
-Dickinson,Precinct No. 11,U.S. House,4,Chris McGowan,REP,1006,518,488
+Dickinson,Precinct No. 11,U.S. House,4,Chris McGowan,REP,1007,519,488
 Dickinson,Precinct No. 12,U.S. House,4,Chris McGowan,REP,333,225,108
-Dickinson,Precinct No. 2,U.S. House,4,Chris McGowan,REP,793,534,259
-Dickinson,Precinct No. 3,U.S. House,4,Chris McGowan,REP,558,319,239
+Dickinson,Precinct No. 2,U.S. House,4,Chris McGowan,REP,794,535,259
+Dickinson,Precinct No. 3,U.S. House,4,Chris McGowan,REP,559,320,239
 Dickinson,Precinct No. 4,U.S. House,4,Chris McGowan,REP,135,54,81
 Dickinson,Precinct No. 5,U.S. House,4,Chris McGowan,REP,547,374,173
 Dickinson,Precinct No. 6,U.S. House,4,Chris McGowan,REP,344,211,133
@@ -782,7 +830,7 @@ Dickinson,Precinct No. 5,U.S. House,4,Dave Dawson,DEM,295,232,63
 Dickinson,Precinct No. 6,U.S. House,4,Dave Dawson,DEM,163,126,37
 Dickinson,Precinct No. 7,U.S. House,4,Dave Dawson,DEM,119,35,84
 Dickinson,Precinct No. 8,U.S. House,4,Dave Dawson,DEM,13,8,5
-Dickinson,Precinct No. 9,U.S. House,4,Dave Dawson,DEM,529,261,268
+Dickinson,Precinct No. 9,U.S. House,4,Dave Dawson,DEM,530,262,268
 Dickinson,Precinct No. 1,U.S. House,4,Write-In,,0,0,0
 Dickinson,Precinct No. 10,U.S. House,4,Write-In,,1,0,1
 Dickinson,Precinct No. 11,U.S. House,4,Write-In,,5,2,3
@@ -795,12 +843,12 @@ Dickinson,Precinct No. 6,U.S. House,4,Write-In,,0,0,0
 Dickinson,Precinct No. 7,U.S. House,4,Write-In,,1,0,1
 Dickinson,Precinct No. 8,U.S. House,4,Write-In,,0,0,0
 Dickinson,Precinct No. 9,U.S. House,4,Write-In,,1,1,0
-Dickinson,Precinct No. 1,U.S. Senate,,Ashley Hinson,REP,567,153,414
+Dickinson,Precinct No. 1,U.S. Senate,,Ashley Hinson,REP,568,154,414
 Dickinson,Precinct No. 10,U.S. Senate,,Ashley Hinson,REP,599,313,286
-Dickinson,Precinct No. 11,U.S. Senate,,Ashley Hinson,REP,942,493,449
+Dickinson,Precinct No. 11,U.S. Senate,,Ashley Hinson,REP,943,494,449
 Dickinson,Precinct No. 12,U.S. Senate,,Ashley Hinson,REP,314,217,97
-Dickinson,Precinct No. 2,U.S. Senate,,Ashley Hinson,REP,763,512,251
-Dickinson,Precinct No. 3,U.S. Senate,,Ashley Hinson,REP,537,314,223
+Dickinson,Precinct No. 2,U.S. Senate,,Ashley Hinson,REP,764,513,251
+Dickinson,Precinct No. 3,U.S. Senate,,Ashley Hinson,REP,538,315,223
 Dickinson,Precinct No. 4,U.S. Senate,,Ashley Hinson,REP,132,52,80
 Dickinson,Precinct No. 5,U.S. Senate,,Ashley Hinson,REP,522,356,166
 Dickinson,Precinct No. 6,U.S. Senate,,Ashley Hinson,REP,327,202,125
@@ -818,7 +866,7 @@ Dickinson,Precinct No. 5,U.S. Senate,,Josh Turek,DEM,314,247,67
 Dickinson,Precinct No. 6,U.S. Senate,,Josh Turek,DEM,170,128,42
 Dickinson,Precinct No. 7,U.S. Senate,,Josh Turek,DEM,134,37,97
 Dickinson,Precinct No. 8,U.S. Senate,,Josh Turek,DEM,16,8,8
-Dickinson,Precinct No. 9,U.S. Senate,,Josh Turek,DEM,562,273,289
+Dickinson,Precinct No. 9,U.S. Senate,,Josh Turek,DEM,563,274,289
 Dickinson,Precinct No. 1,U.S. Senate,,Thomas Laehn,LIB,32,10,22
 Dickinson,Precinct No. 10,U.S. Senate,,Thomas Laehn,LIB,50,18,32
 Dickinson,Precinct No. 11,U.S. Senate,,Thomas Laehn,LIB,58,21,37

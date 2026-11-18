@@ -1,6 +1,6 @@
 county,precinct,office,district,candidate,party,votes,absentee,election_day
-Clayton,BOARDMAN-HIGHLAND-READ,Attorney General,,Brenna Bird,REP,507,172,335
-Clayton,BUENA VISTA-MILLVILLE,Attorney General,,Brenna Bird,REP,216,38,178
+Clayton,BOARDMAN-HIGHLAND-READ,Attorney General,,Brenna Bird,REP,508,173,335
+Clayton,BUENA VISTA-MILLVILLE,Attorney General,,Brenna Bird,REP,217,39,178
 Clayton,CASS,Attorney General,,Brenna Bird,REP,384,57,327
 Clayton,CLAYTON-GARNAVILLO,Attorney General,,Brenna Bird,REP,361,71,290
 Clayton,COX CREEK-SPERRY,Attorney General,,Brenna Bird,REP,260,71,189
@@ -15,11 +15,11 @@ Clayton,BOARDMAN-HIGHLAND-READ,Attorney General,,Nate Willems,DEM,494,290,204
 Clayton,BUENA VISTA-MILLVILLE,Attorney General,,Nate Willems,DEM,143,36,107
 Clayton,CASS,Attorney General,,Nate Willems,DEM,264,70,194
 Clayton,CLAYTON-GARNAVILLO,Attorney General,,Nate Willems,DEM,208,59,149
-Clayton,COX CREEK-SPERRY,Attorney General,,Nate Willems,DEM,124,53,71
+Clayton,COX CREEK-SPERRY,Attorney General,,Nate Willems,DEM,125,54,71
 Clayton,ELK-MALLORY-VOLGA,Attorney General,,Nate Willems,DEM,133,47,86
 Clayton,FARMERSBURG-WAGNER,Attorney General,,Nate Willems,DEM,149,60,89
-Clayton,GIARD-MONONA,Attorney General,,Nate Willems,DEM,367,98,269
-Clayton,GRAND MEADOW-MARION,Attorney General,,Nate Willems,DEM,101,47,54
+Clayton,GIARD-MONONA,Attorney General,,Nate Willems,DEM,368,99,269
+Clayton,GRAND MEADOW-MARION,Attorney General,,Nate Willems,DEM,102,48,54
 Clayton,JEFFERSON,Attorney General,,Nate Willems,DEM,498,151,347
 Clayton,LODOMILLO,Attorney General,,Nate Willems,DEM,97,25,72
 Clayton,MENDON,Attorney General,,Nate Willems,DEM,365,131,234
@@ -35,8 +35,8 @@ Clayton,GRAND MEADOW-MARION,Attorney General,,Write-In,,0,0,0
 Clayton,JEFFERSON,Attorney General,,Write-In,,1,1,0
 Clayton,LODOMILLO,Attorney General,,Write-In,,0,0,0
 Clayton,MENDON,Attorney General,,Write-In,,0,0,0
-Clayton,BOARDMAN-HIGHLAND-READ,Auditor of State,,Chris Cournoyer,REP,518,160,358
-Clayton,BUENA VISTA-MILLVILLE,Auditor of State,,Chris Cournoyer,REP,215,36,179
+Clayton,BOARDMAN-HIGHLAND-READ,Auditor of State,,Chris Cournoyer,REP,519,161,358
+Clayton,BUENA VISTA-MILLVILLE,Auditor of State,,Chris Cournoyer,REP,216,37,179
 Clayton,CASS,Auditor of State,,Chris Cournoyer,REP,406,58,348
 Clayton,CLAYTON-GARNAVILLO,Auditor of State,,Chris Cournoyer,REP,366,71,295
 Clayton,COX CREEK-SPERRY,Auditor of State,,Chris Cournoyer,REP,256,66,190
@@ -51,11 +51,11 @@ Clayton,BOARDMAN-HIGHLAND-READ,Auditor of State,,Taylor Wettach,DEM,482,297,185
 Clayton,BUENA VISTA-MILLVILLE,Auditor of State,,Taylor Wettach,DEM,139,39,100
 Clayton,CASS,Auditor of State,,Taylor Wettach,DEM,249,70,179
 Clayton,CLAYTON-GARNAVILLO,Auditor of State,,Taylor Wettach,DEM,195,58,137
-Clayton,COX CREEK-SPERRY,Auditor of State,,Taylor Wettach,DEM,124,53,71
+Clayton,COX CREEK-SPERRY,Auditor of State,,Taylor Wettach,DEM,125,54,71
 Clayton,ELK-MALLORY-VOLGA,Auditor of State,,Taylor Wettach,DEM,125,46,79
 Clayton,FARMERSBURG-WAGNER,Auditor of State,,Taylor Wettach,DEM,148,61,87
-Clayton,GIARD-MONONA,Auditor of State,,Taylor Wettach,DEM,352,96,256
-Clayton,GRAND MEADOW-MARION,Auditor of State,,Taylor Wettach,DEM,100,43,57
+Clayton,GIARD-MONONA,Auditor of State,,Taylor Wettach,DEM,353,97,256
+Clayton,GRAND MEADOW-MARION,Auditor of State,,Taylor Wettach,DEM,101,44,57
 Clayton,JEFFERSON,Auditor of State,,Taylor Wettach,DEM,500,151,349
 Clayton,LODOMILLO,Auditor of State,,Taylor Wettach,DEM,92,25,67
 Clayton,MENDON,Auditor of State,,Taylor Wettach,DEM,371,133,238
@@ -76,11 +76,11 @@ Clayton,CASS,Cass Township Clerk,,Write-In,,0,0,0
 Clayton,CASS,Cass Township Trustee,,Ben Putz,,137,24,113
 Clayton,CASS,Cass Township Trustee,,Rande Moeller,,159,30,129
 Clayton,CASS,Cass Township Trustee,,Write-In,,1,0,1
-Clayton,BOARDMAN-HIGHLAND-READ,Constitutional Amendment 1,,No,,427,225,202
+Clayton,BOARDMAN-HIGHLAND-READ,Constitutional Amendment 1,,No,,428,226,202
 Clayton,BUENA VISTA-MILLVILLE,Constitutional Amendment 1,,No,,131,35,96
 Clayton,CASS,Constitutional Amendment 1,,No,,252,49,203
 Clayton,CLAYTON-GARNAVILLO,Constitutional Amendment 1,,No,,201,50,151
-Clayton,COX CREEK-SPERRY,Constitutional Amendment 1,,No,,143,40,103
+Clayton,COX CREEK-SPERRY,Constitutional Amendment 1,,No,,144,41,103
 Clayton,ELK-MALLORY-VOLGA,Constitutional Amendment 1,,No,,140,44,96
 Clayton,FARMERSBURG-WAGNER,Constitutional Amendment 1,,No,,135,46,89
 Clayton,GIARD-MONONA,Constitutional Amendment 1,,No,,354,87,267
@@ -89,30 +89,30 @@ Clayton,JEFFERSON,Constitutional Amendment 1,,No,,413,109,304
 Clayton,LODOMILLO,Constitutional Amendment 1,,No,,88,19,69
 Clayton,MENDON,Constitutional Amendment 1,,No,,285,92,193
 Clayton,BOARDMAN-HIGHLAND-READ,Constitutional Amendment 1,,Yes,,470,162,308
-Clayton,BUENA VISTA-MILLVILLE,Constitutional Amendment 1,,Yes,,196,34,162
+Clayton,BUENA VISTA-MILLVILLE,Constitutional Amendment 1,,Yes,,197,35,162
 Clayton,CASS,Constitutional Amendment 1,,Yes,,376,69,307
 Clayton,CLAYTON-GARNAVILLO,Constitutional Amendment 1,,Yes,,324,61,263
 Clayton,COX CREEK-SPERRY,Constitutional Amendment 1,,Yes,,224,71,153
 Clayton,ELK-MALLORY-VOLGA,Constitutional Amendment 1,,Yes,,258,37,221
 Clayton,FARMERSBURG-WAGNER,Constitutional Amendment 1,,Yes,,223,53,170
 Clayton,GIARD-MONONA,Constitutional Amendment 1,,Yes,,548,103,445
-Clayton,GRAND MEADOW-MARION,Constitutional Amendment 1,,Yes,,189,57,132
+Clayton,GRAND MEADOW-MARION,Constitutional Amendment 1,,Yes,,190,58,132
 Clayton,JEFFERSON,Constitutional Amendment 1,,Yes,,599,155,444
 Clayton,LODOMILLO,Constitutional Amendment 1,,Yes,,159,30,129
 Clayton,MENDON,Constitutional Amendment 1,,Yes,,415,111,304
-Clayton,BOARDMAN-HIGHLAND-READ,County Agricultural Extension Council Member,,Beth Lincoln,,563,214,349
+Clayton,BOARDMAN-HIGHLAND-READ,County Agricultural Extension Council Member,,Beth Lincoln,,564,215,349
 Clayton,BUENA VISTA-MILLVILLE,County Agricultural Extension Council Member,,Beth Lincoln,,195,39,156
 Clayton,CASS,County Agricultural Extension Council Member,,Beth Lincoln,,402,69,333
 Clayton,CLAYTON-GARNAVILLO,County Agricultural Extension Council Member,,Beth Lincoln,,337,59,278
-Clayton,COX CREEK-SPERRY,County Agricultural Extension Council Member,,Beth Lincoln,,236,64,172
+Clayton,COX CREEK-SPERRY,County Agricultural Extension Council Member,,Beth Lincoln,,237,65,172
 Clayton,ELK-MALLORY-VOLGA,County Agricultural Extension Council Member,,Beth Lincoln,,267,40,227
 Clayton,FARMERSBURG-WAGNER,County Agricultural Extension Council Member,,Beth Lincoln,,223,61,162
 Clayton,GIARD-MONONA,County Agricultural Extension Council Member,,Beth Lincoln,,576,107,469
-Clayton,GRAND MEADOW-MARION,County Agricultural Extension Council Member,,Beth Lincoln,,207,67,140
+Clayton,GRAND MEADOW-MARION,County Agricultural Extension Council Member,,Beth Lincoln,,208,68,140
 Clayton,JEFFERSON,County Agricultural Extension Council Member,,Beth Lincoln,,650,142,508
 Clayton,LODOMILLO,County Agricultural Extension Council Member,,Beth Lincoln,,186,31,155
 Clayton,MENDON,County Agricultural Extension Council Member,,Beth Lincoln,,382,108,274
-Clayton,BOARDMAN-HIGHLAND-READ,County Agricultural Extension Council Member,,Cindy Schoulte Petsche,,612,233,379
+Clayton,BOARDMAN-HIGHLAND-READ,County Agricultural Extension Council Member,,Cindy Schoulte Petsche,,613,234,379
 Clayton,BUENA VISTA-MILLVILLE,County Agricultural Extension Council Member,,Cindy Schoulte Petsche,,218,42,176
 Clayton,CASS,County Agricultural Extension Council Member,,Cindy Schoulte Petsche,,378,66,312
 Clayton,CLAYTON-GARNAVILLO,County Agricultural Extension Council Member,,Cindy Schoulte Petsche,,419,79,340
@@ -124,7 +124,7 @@ Clayton,GRAND MEADOW-MARION,County Agricultural Extension Council Member,,Cindy 
 Clayton,JEFFERSON,County Agricultural Extension Council Member,,Cindy Schoulte Petsche,,719,166,553
 Clayton,LODOMILLO,County Agricultural Extension Council Member,,Cindy Schoulte Petsche,,169,30,139
 Clayton,MENDON,County Agricultural Extension Council Member,,Cindy Schoulte Petsche,,407,117,290
-Clayton,BOARDMAN-HIGHLAND-READ,County Agricultural Extension Council Member,,Jeremy Schultz,,568,209,359
+Clayton,BOARDMAN-HIGHLAND-READ,County Agricultural Extension Council Member,,Jeremy Schultz,,569,210,359
 Clayton,BUENA VISTA-MILLVILLE,County Agricultural Extension Council Member,,Jeremy Schultz,,204,37,167
 Clayton,CASS,County Agricultural Extension Council Member,,Jeremy Schultz,,397,69,328
 Clayton,CLAYTON-GARNAVILLO,County Agricultural Extension Council Member,,Jeremy Schultz,,346,61,285
@@ -136,7 +136,7 @@ Clayton,GRAND MEADOW-MARION,County Agricultural Extension Council Member,,Jeremy
 Clayton,JEFFERSON,County Agricultural Extension Council Member,,Jeremy Schultz,,660,139,521
 Clayton,LODOMILLO,County Agricultural Extension Council Member,,Jeremy Schultz,,168,26,142
 Clayton,MENDON,County Agricultural Extension Council Member,,Jeremy Schultz,,447,122,325
-Clayton,BOARDMAN-HIGHLAND-READ,County Agricultural Extension Council Member,,Kaitlin Landon,,619,231,388
+Clayton,BOARDMAN-HIGHLAND-READ,County Agricultural Extension Council Member,,Kaitlin Landon,,620,232,388
 Clayton,BUENA VISTA-MILLVILLE,County Agricultural Extension Council Member,,Kaitlin Landon,,192,37,155
 Clayton,CASS,County Agricultural Extension Council Member,,Kaitlin Landon,,377,63,314
 Clayton,CLAYTON-GARNAVILLO,County Agricultural Extension Council Member,,Kaitlin Landon,,343,66,277
@@ -148,11 +148,11 @@ Clayton,GRAND MEADOW-MARION,County Agricultural Extension Council Member,,Kaitli
 Clayton,JEFFERSON,County Agricultural Extension Council Member,,Kaitlin Landon,,646,138,508
 Clayton,LODOMILLO,County Agricultural Extension Council Member,,Kaitlin Landon,,161,27,134
 Clayton,MENDON,County Agricultural Extension Council Member,,Kaitlin Landon,,368,103,265
-Clayton,BOARDMAN-HIGHLAND-READ,County Agricultural Extension Council Member,,Steve J. Ruzicka,,562,210,352
+Clayton,BOARDMAN-HIGHLAND-READ,County Agricultural Extension Council Member,,Steve J. Ruzicka,,563,211,352
 Clayton,BUENA VISTA-MILLVILLE,County Agricultural Extension Council Member,,Steve J. Ruzicka,,207,42,165
 Clayton,CASS,County Agricultural Extension Council Member,,Steve J. Ruzicka,,384,68,316
 Clayton,CLAYTON-GARNAVILLO,County Agricultural Extension Council Member,,Steve J. Ruzicka,,368,70,298
-Clayton,COX CREEK-SPERRY,County Agricultural Extension Council Member,,Steve J. Ruzicka,,226,58,168
+Clayton,COX CREEK-SPERRY,County Agricultural Extension Council Member,,Steve J. Ruzicka,,227,59,168
 Clayton,ELK-MALLORY-VOLGA,County Agricultural Extension Council Member,,Steve J. Ruzicka,,245,41,204
 Clayton,FARMERSBURG-WAGNER,County Agricultural Extension Council Member,,Steve J. Ruzicka,,233,64,169
 Clayton,GIARD-MONONA,County Agricultural Extension Council Member,,Steve J. Ruzicka,,594,111,483
@@ -184,20 +184,20 @@ Clayton,GRAND MEADOW-MARION,County Attorney,,Write-In,,3,0,3
 Clayton,JEFFERSON,County Attorney,,Write-In,,11,2,9
 Clayton,LODOMILLO,County Attorney,,Write-In,,1,0,1
 Clayton,MENDON,County Attorney,,Write-In,,11,4,7
-Clayton,BOARDMAN-HIGHLAND-READ,County Attorney,,Zach Herrmann,REP,843,349,494
+Clayton,BOARDMAN-HIGHLAND-READ,County Attorney,,Zach Herrmann,REP,844,350,494
 Clayton,BUENA VISTA-MILLVILLE,County Attorney,,Zach Herrmann,REP,299,54,245
 Clayton,CASS,County Attorney,,Zach Herrmann,REP,567,95,472
 Clayton,CLAYTON-GARNAVILLO,County Attorney,,Zach Herrmann,REP,495,99,396
 Clayton,COX CREEK-SPERRY,County Attorney,,Zach Herrmann,REP,345,102,243
 Clayton,ELK-MALLORY-VOLGA,County Attorney,,Zach Herrmann,REP,371,58,313
 Clayton,FARMERSBURG-WAGNER,County Attorney,,Zach Herrmann,REP,323,85,238
-Clayton,GIARD-MONONA,County Attorney,,Zach Herrmann,REP,842,160,682
+Clayton,GIARD-MONONA,County Attorney,,Zach Herrmann,REP,843,161,682
 Clayton,GRAND MEADOW-MARION,County Attorney,,Zach Herrmann,REP,277,89,188
 Clayton,JEFFERSON,County Attorney,,Zach Herrmann,REP,941,236,705
 Clayton,LODOMILLO,County Attorney,,Zach Herrmann,REP,236,43,193
 Clayton,MENDON,County Attorney,,Zach Herrmann,REP,576,149,427
-Clayton,BOARDMAN-HIGHLAND-READ,County Board of Supervisors,,Brian Harbaugh,REP,486,157,329
-Clayton,BUENA VISTA-MILLVILLE,County Board of Supervisors,,Brian Harbaugh,REP,207,39,168
+Clayton,BOARDMAN-HIGHLAND-READ,County Board of Supervisors,,Brian Harbaugh,REP,487,158,329
+Clayton,BUENA VISTA-MILLVILLE,County Board of Supervisors,,Brian Harbaugh,REP,208,40,168
 Clayton,CASS,County Board of Supervisors,,Brian Harbaugh,REP,331,47,284
 Clayton,CLAYTON-GARNAVILLO,County Board of Supervisors,,Brian Harbaugh,REP,350,66,284
 Clayton,COX CREEK-SPERRY,County Board of Supervisors,,Brian Harbaugh,REP,233,62,171
@@ -208,8 +208,8 @@ Clayton,GRAND MEADOW-MARION,County Board of Supervisors,,Brian Harbaugh,REP,240,
 Clayton,JEFFERSON,County Board of Supervisors,,Brian Harbaugh,REP,579,149,430
 Clayton,LODOMILLO,County Board of Supervisors,,Brian Harbaugh,REP,162,24,138
 Clayton,MENDON,County Board of Supervisors,,Brian Harbaugh,REP,361,77,284
-Clayton,BOARDMAN-HIGHLAND-READ,County Board of Supervisors,,Doug Reimer,REP,563,194,369
-Clayton,BUENA VISTA-MILLVILLE,County Board of Supervisors,,Doug Reimer,REP,232,44,188
+Clayton,BOARDMAN-HIGHLAND-READ,County Board of Supervisors,,Doug Reimer,REP,564,195,369
+Clayton,BUENA VISTA-MILLVILLE,County Board of Supervisors,,Doug Reimer,REP,233,45,188
 Clayton,CASS,County Board of Supervisors,,Doug Reimer,REP,363,51,312
 Clayton,CLAYTON-GARNAVILLO,County Board of Supervisors,,Doug Reimer,REP,419,85,334
 Clayton,COX CREEK-SPERRY,County Board of Supervisors,,Doug Reimer,REP,241,68,173
@@ -224,11 +224,11 @@ Clayton,BOARDMAN-HIGHLAND-READ,County Board of Supervisors,,Eric Grau,DEM,489,29
 Clayton,BUENA VISTA-MILLVILLE,County Board of Supervisors,,Eric Grau,DEM,126,32,94
 Clayton,CASS,County Board of Supervisors,,Eric Grau,DEM,226,64,162
 Clayton,CLAYTON-GARNAVILLO,County Board of Supervisors,,Eric Grau,DEM,169,49,120
-Clayton,COX CREEK-SPERRY,County Board of Supervisors,,Eric Grau,DEM,139,52,87
+Clayton,COX CREEK-SPERRY,County Board of Supervisors,,Eric Grau,DEM,140,53,87
 Clayton,ELK-MALLORY-VOLGA,County Board of Supervisors,,Eric Grau,DEM,126,41,85
 Clayton,FARMERSBURG-WAGNER,County Board of Supervisors,,Eric Grau,DEM,147,53,94
-Clayton,GIARD-MONONA,County Board of Supervisors,,Eric Grau,DEM,334,87,247
-Clayton,GRAND MEADOW-MARION,County Board of Supervisors,,Eric Grau,DEM,95,41,54
+Clayton,GIARD-MONONA,County Board of Supervisors,,Eric Grau,DEM,335,88,247
+Clayton,GRAND MEADOW-MARION,County Board of Supervisors,,Eric Grau,DEM,96,42,54
 Clayton,JEFFERSON,County Board of Supervisors,,Eric Grau,DEM,423,136,287
 Clayton,LODOMILLO,County Board of Supervisors,,Eric Grau,DEM,80,24,56
 Clayton,MENDON,County Board of Supervisors,,Eric Grau,DEM,360,127,233
@@ -239,7 +239,7 @@ Clayton,CLAYTON-GARNAVILLO,County Board of Supervisors,,Randall Laughead,DEM,111
 Clayton,COX CREEK-SPERRY,County Board of Supervisors,,Randall Laughead,DEM,97,45,52
 Clayton,ELK-MALLORY-VOLGA,County Board of Supervisors,,Randall Laughead,DEM,93,41,52
 Clayton,FARMERSBURG-WAGNER,County Board of Supervisors,,Randall Laughead,DEM,87,38,49
-Clayton,GIARD-MONONA,County Board of Supervisors,,Randall Laughead,DEM,244,78,166
+Clayton,GIARD-MONONA,County Board of Supervisors,,Randall Laughead,DEM,245,79,166
 Clayton,GRAND MEADOW-MARION,County Board of Supervisors,,Randall Laughead,DEM,56,29,27
 Clayton,JEFFERSON,County Board of Supervisors,,Randall Laughead,DEM,338,112,226
 Clayton,LODOMILLO,County Board of Supervisors,,Randall Laughead,DEM,74,22,52
@@ -256,7 +256,7 @@ Clayton,GRAND MEADOW-MARION,County Board of Supervisors,,Write-In,,1,0,1
 Clayton,JEFFERSON,County Board of Supervisors,,Write-In,,7,3,4
 Clayton,LODOMILLO,County Board of Supervisors,,Write-In,,0,0,0
 Clayton,MENDON,County Board of Supervisors,,Write-In,,2,1,1
-Clayton,BOARDMAN-HIGHLAND-READ,County Recorder,,Josie Fettkether,REP,854,353,501
+Clayton,BOARDMAN-HIGHLAND-READ,County Recorder,,Josie Fettkether,REP,855,354,501
 Clayton,BUENA VISTA-MILLVILLE,County Recorder,,Josie Fettkether,REP,304,56,248
 Clayton,CASS,County Recorder,,Josie Fettkether,REP,566,99,467
 Clayton,CLAYTON-GARNAVILLO,County Recorder,,Josie Fettkether,REP,514,102,412
@@ -280,14 +280,14 @@ Clayton,GRAND MEADOW-MARION,County Recorder,,Write-In,,3,0,3
 Clayton,JEFFERSON,County Recorder,,Write-In,,7,1,6
 Clayton,LODOMILLO,County Recorder,,Write-In,,0,0,0
 Clayton,MENDON,County Recorder,,Write-In,,13,5,8
-Clayton,BOARDMAN-HIGHLAND-READ,County Treasurer,,Linda Zuercher,REP,873,361,512
+Clayton,BOARDMAN-HIGHLAND-READ,County Treasurer,,Linda Zuercher,REP,874,362,512
 Clayton,BUENA VISTA-MILLVILLE,County Treasurer,,Linda Zuercher,REP,323,61,262
 Clayton,CASS,County Treasurer,,Linda Zuercher,REP,583,103,480
 Clayton,CLAYTON-GARNAVILLO,County Treasurer,,Linda Zuercher,REP,520,107,413
 Clayton,COX CREEK-SPERRY,County Treasurer,,Linda Zuercher,REP,357,104,253
 Clayton,ELK-MALLORY-VOLGA,County Treasurer,,Linda Zuercher,REP,388,66,322
 Clayton,FARMERSBURG-WAGNER,County Treasurer,,Linda Zuercher,REP,346,93,253
-Clayton,GIARD-MONONA,County Treasurer,,Linda Zuercher,REP,891,179,712
+Clayton,GIARD-MONONA,County Treasurer,,Linda Zuercher,REP,892,180,712
 Clayton,GRAND MEADOW-MARION,County Treasurer,,Linda Zuercher,REP,283,92,191
 Clayton,JEFFERSON,County Treasurer,,Linda Zuercher,REP,991,256,735
 Clayton,LODOMILLO,County Treasurer,,Linda Zuercher,REP,243,45,198
@@ -305,10 +305,10 @@ Clayton,JEFFERSON,County Treasurer,,Write-In,,11,1,10
 Clayton,LODOMILLO,County Treasurer,,Write-In,,0,0,0
 Clayton,MENDON,County Treasurer,,Write-In,,8,4,4
 Clayton,BOARDMAN-HIGHLAND-READ,Court of Appeals Judge - John M. Sandy,,No,,177,76,101
-Clayton,BUENA VISTA-MILLVILLE,Court of Appeals Judge - John M. Sandy,,No,,56,6,50
+Clayton,BUENA VISTA-MILLVILLE,Court of Appeals Judge - John M. Sandy,,No,,57,7,50
 Clayton,CASS,Court of Appeals Judge - John M. Sandy,,No,,125,18,107
 Clayton,CLAYTON-GARNAVILLO,Court of Appeals Judge - John M. Sandy,,No,,105,31,74
-Clayton,COX CREEK-SPERRY,Court of Appeals Judge - John M. Sandy,,No,,68,17,51
+Clayton,COX CREEK-SPERRY,Court of Appeals Judge - John M. Sandy,,No,,69,18,51
 Clayton,ELK-MALLORY-VOLGA,Court of Appeals Judge - John M. Sandy,,No,,91,16,75
 Clayton,FARMERSBURG-WAGNER,Court of Appeals Judge - John M. Sandy,,No,,67,15,52
 Clayton,GIARD-MONONA,Court of Appeals Judge - John M. Sandy,,No,,181,37,144
@@ -316,7 +316,7 @@ Clayton,GRAND MEADOW-MARION,Court of Appeals Judge - John M. Sandy,,No,,62,21,41
 Clayton,JEFFERSON,Court of Appeals Judge - John M. Sandy,,No,,207,54,153
 Clayton,LODOMILLO,Court of Appeals Judge - John M. Sandy,,No,,59,7,52
 Clayton,MENDON,Court of Appeals Judge - John M. Sandy,,No,,121,44,77
-Clayton,BOARDMAN-HIGHLAND-READ,Court of Appeals Judge - John M. Sandy,,Yes,,519,201,318
+Clayton,BOARDMAN-HIGHLAND-READ,Court of Appeals Judge - John M. Sandy,,Yes,,520,202,318
 Clayton,BUENA VISTA-MILLVILLE,Court of Appeals Judge - John M. Sandy,,Yes,,208,48,160
 Clayton,CASS,Court of Appeals Judge - John M. Sandy,,Yes,,388,67,321
 Clayton,CLAYTON-GARNAVILLO,Court of Appeals Judge - John M. Sandy,,Yes,,316,50,266
@@ -329,10 +329,10 @@ Clayton,JEFFERSON,Court of Appeals Judge - John M. Sandy,,Yes,,607,139,468
 Clayton,LODOMILLO,Court of Appeals Judge - John M. Sandy,,Yes,,159,30,129
 Clayton,MENDON,Court of Appeals Judge - John M. Sandy,,Yes,,368,98,270
 Clayton,BOARDMAN-HIGHLAND-READ,Court of Appeals Judge - Julie A. Schumacher,,No,,152,66,86
-Clayton,BUENA VISTA-MILLVILLE,Court of Appeals Judge - Julie A. Schumacher,,No,,59,8,51
+Clayton,BUENA VISTA-MILLVILLE,Court of Appeals Judge - Julie A. Schumacher,,No,,60,9,51
 Clayton,CASS,Court of Appeals Judge - Julie A. Schumacher,,No,,128,19,109
 Clayton,CLAYTON-GARNAVILLO,Court of Appeals Judge - Julie A. Schumacher,,No,,109,32,77
-Clayton,COX CREEK-SPERRY,Court of Appeals Judge - Julie A. Schumacher,,No,,63,15,48
+Clayton,COX CREEK-SPERRY,Court of Appeals Judge - Julie A. Schumacher,,No,,64,16,48
 Clayton,ELK-MALLORY-VOLGA,Court of Appeals Judge - Julie A. Schumacher,,No,,82,15,67
 Clayton,FARMERSBURG-WAGNER,Court of Appeals Judge - Julie A. Schumacher,,No,,61,10,51
 Clayton,GIARD-MONONA,Court of Appeals Judge - Julie A. Schumacher,,No,,172,34,138
@@ -340,7 +340,7 @@ Clayton,GRAND MEADOW-MARION,Court of Appeals Judge - Julie A. Schumacher,,No,,61
 Clayton,JEFFERSON,Court of Appeals Judge - Julie A. Schumacher,,No,,189,47,142
 Clayton,LODOMILLO,Court of Appeals Judge - Julie A. Schumacher,,No,,52,6,46
 Clayton,MENDON,Court of Appeals Judge - Julie A. Schumacher,,No,,109,34,75
-Clayton,BOARDMAN-HIGHLAND-READ,Court of Appeals Judge - Julie A. Schumacher,,Yes,,567,225,342
+Clayton,BOARDMAN-HIGHLAND-READ,Court of Appeals Judge - Julie A. Schumacher,,Yes,,568,226,342
 Clayton,BUENA VISTA-MILLVILLE,Court of Appeals Judge - Julie A. Schumacher,,Yes,,212,47,165
 Clayton,CASS,Court of Appeals Judge - Julie A. Schumacher,,Yes,,406,72,334
 Clayton,CLAYTON-GARNAVILLO,Court of Appeals Judge - Julie A. Schumacher,,Yes,,335,52,283
@@ -353,10 +353,10 @@ Clayton,JEFFERSON,Court of Appeals Judge - Julie A. Schumacher,,Yes,,660,152,508
 Clayton,LODOMILLO,Court of Appeals Judge - Julie A. Schumacher,,Yes,,168,32,136
 Clayton,MENDON,Court of Appeals Judge - Julie A. Schumacher,,Yes,,421,119,302
 Clayton,BOARDMAN-HIGHLAND-READ,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,174,73,101
-Clayton,BUENA VISTA-MILLVILLE,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,60,7,53
+Clayton,BUENA VISTA-MILLVILLE,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,61,8,53
 Clayton,CASS,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,137,20,117
 Clayton,CLAYTON-GARNAVILLO,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,119,29,90
-Clayton,COX CREEK-SPERRY,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,68,19,49
+Clayton,COX CREEK-SPERRY,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,69,20,49
 Clayton,ELK-MALLORY-VOLGA,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,101,18,83
 Clayton,FARMERSBURG-WAGNER,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,71,12,59
 Clayton,GIARD-MONONA,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,189,40,149
@@ -364,7 +364,7 @@ Clayton,GRAND MEADOW-MARION,Court of Appeals Judge - Sharon Soorholtz Greer,,No,
 Clayton,JEFFERSON,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,209,55,154
 Clayton,LODOMILLO,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,52,6,46
 Clayton,MENDON,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,119,38,81
-Clayton,BOARDMAN-HIGHLAND-READ,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,528,209,319
+Clayton,BOARDMAN-HIGHLAND-READ,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,529,210,319
 Clayton,BUENA VISTA-MILLVILLE,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,210,48,162
 Clayton,CASS,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,388,66,322
 Clayton,CLAYTON-GARNAVILLO,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,315,54,261
@@ -377,7 +377,7 @@ Clayton,JEFFERSON,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,628,140,
 Clayton,LODOMILLO,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,168,32,136
 Clayton,MENDON,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,394,108,286
 Clayton,BOARDMAN-HIGHLAND-READ,District 1A Associate Judge - Mark T. Hostager,,No,,162,69,93
-Clayton,BUENA VISTA-MILLVILLE,District 1A Associate Judge - Mark T. Hostager,,No,,53,5,48
+Clayton,BUENA VISTA-MILLVILLE,District 1A Associate Judge - Mark T. Hostager,,No,,54,6,48
 Clayton,CASS,District 1A Associate Judge - Mark T. Hostager,,No,,125,25,100
 Clayton,CLAYTON-GARNAVILLO,District 1A Associate Judge - Mark T. Hostager,,No,,101,24,77
 Clayton,COX CREEK-SPERRY,District 1A Associate Judge - Mark T. Hostager,,No,,68,13,55
@@ -388,7 +388,7 @@ Clayton,GRAND MEADOW-MARION,District 1A Associate Judge - Mark T. Hostager,,No,,
 Clayton,JEFFERSON,District 1A Associate Judge - Mark T. Hostager,,No,,184,44,140
 Clayton,LODOMILLO,District 1A Associate Judge - Mark T. Hostager,,No,,49,4,45
 Clayton,MENDON,District 1A Associate Judge - Mark T. Hostager,,No,,112,33,79
-Clayton,BOARDMAN-HIGHLAND-READ,District 1A Associate Judge - Mark T. Hostager,,Yes,,508,194,314
+Clayton,BOARDMAN-HIGHLAND-READ,District 1A Associate Judge - Mark T. Hostager,,Yes,,509,195,314
 Clayton,BUENA VISTA-MILLVILLE,District 1A Associate Judge - Mark T. Hostager,,Yes,,203,47,156
 Clayton,CASS,District 1A Associate Judge - Mark T. Hostager,,Yes,,377,59,318
 Clayton,CLAYTON-GARNAVILLO,District 1A Associate Judge - Mark T. Hostager,,Yes,,310,55,255
@@ -401,10 +401,10 @@ Clayton,JEFFERSON,District 1A Associate Judge - Mark T. Hostager,,Yes,,618,136,4
 Clayton,LODOMILLO,District 1A Associate Judge - Mark T. Hostager,,Yes,,164,33,131
 Clayton,MENDON,District 1A Associate Judge - Mark T. Hostager,,Yes,,358,96,262
 Clayton,BOARDMAN-HIGHLAND-READ,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,162,74,88
-Clayton,BUENA VISTA-MILLVILLE,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,67,12,55
+Clayton,BUENA VISTA-MILLVILLE,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,68,13,55
 Clayton,CASS,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,134,20,114
 Clayton,CLAYTON-GARNAVILLO,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,104,27,77
-Clayton,COX CREEK-SPERRY,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,69,16,53
+Clayton,COX CREEK-SPERRY,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,70,17,53
 Clayton,ELK-MALLORY-VOLGA,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,93,15,78
 Clayton,FARMERSBURG-WAGNER,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,62,10,52
 Clayton,GIARD-MONONA,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,179,34,145
@@ -412,7 +412,7 @@ Clayton,GRAND MEADOW-MARION,District 1A Associate Judge - Stephanie C. Rattenbor
 Clayton,JEFFERSON,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,192,45,147
 Clayton,LODOMILLO,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,47,6,41
 Clayton,MENDON,District 1A Associate Judge - Stephanie C. Rattenborg,,No,,107,33,74
-Clayton,BOARDMAN-HIGHLAND-READ,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,541,209,332
+Clayton,BOARDMAN-HIGHLAND-READ,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,542,210,332
 Clayton,BUENA VISTA-MILLVILLE,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,202,42,160
 Clayton,CASS,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,389,68,321
 Clayton,CLAYTON-GARNAVILLO,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,333,54,279
@@ -425,10 +425,10 @@ Clayton,JEFFERSON,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,65
 Clayton,LODOMILLO,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,177,32,145
 Clayton,MENDON,District 1A Associate Judge - Stephanie C. Rattenborg,,Yes,,395,109,286
 Clayton,BOARDMAN-HIGHLAND-READ,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,155,67,88
-Clayton,BUENA VISTA-MILLVILLE,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,48,4,44
+Clayton,BUENA VISTA-MILLVILLE,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,49,5,44
 Clayton,CASS,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,110,11,99
 Clayton,CLAYTON-GARNAVILLO,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,100,32,68
-Clayton,COX CREEK-SPERRY,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,58,13,45
+Clayton,COX CREEK-SPERRY,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,59,14,45
 Clayton,ELK-MALLORY-VOLGA,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,80,15,65
 Clayton,FARMERSBURG-WAGNER,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,64,15,49
 Clayton,GIARD-MONONA,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,173,35,138
@@ -436,7 +436,7 @@ Clayton,GRAND MEADOW-MARION,District 1A Associate Juvenile Judge - Thomas J. Str
 Clayton,JEFFERSON,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,175,34,141
 Clayton,LODOMILLO,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,48,5,43
 Clayton,MENDON,District 1A Associate Juvenile Judge - Thomas J. Straka,,No,,109,33,76
-Clayton,BOARDMAN-HIGHLAND-READ,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,555,219,336
+Clayton,BOARDMAN-HIGHLAND-READ,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,556,220,336
 Clayton,BUENA VISTA-MILLVILLE,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,219,52,167
 Clayton,CASS,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,413,75,338
 Clayton,CLAYTON-GARNAVILLO,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,337,52,285
@@ -449,7 +449,7 @@ Clayton,JEFFERSON,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,
 Clayton,LODOMILLO,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,172,33,139
 Clayton,MENDON,District 1A Associate Juvenile Judge - Thomas J. Straka,,Yes,,402,113,289
 Clayton,BOARDMAN-HIGHLAND-READ,District 1A Judge - Alan Heavens,,No,,128,60,68
-Clayton,BUENA VISTA-MILLVILLE,District 1A Judge - Alan Heavens,,No,,58,8,50
+Clayton,BUENA VISTA-MILLVILLE,District 1A Judge - Alan Heavens,,No,,59,9,50
 Clayton,CASS,District 1A Judge - Alan Heavens,,No,,114,19,95
 Clayton,CLAYTON-GARNAVILLO,District 1A Judge - Alan Heavens,,No,,76,20,56
 Clayton,COX CREEK-SPERRY,District 1A Judge - Alan Heavens,,No,,49,8,41
@@ -460,7 +460,7 @@ Clayton,GRAND MEADOW-MARION,District 1A Judge - Alan Heavens,,No,,53,15,38
 Clayton,JEFFERSON,District 1A Judge - Alan Heavens,,No,,190,44,146
 Clayton,LODOMILLO,District 1A Judge - Alan Heavens,,No,,42,4,38
 Clayton,MENDON,District 1A Judge - Alan Heavens,,No,,110,42,68
-Clayton,BOARDMAN-HIGHLAND-READ,District 1A Judge - Alan Heavens,,Yes,,675,275,400
+Clayton,BOARDMAN-HIGHLAND-READ,District 1A Judge - Alan Heavens,,Yes,,676,276,400
 Clayton,BUENA VISTA-MILLVILLE,District 1A Judge - Alan Heavens,,Yes,,228,49,179
 Clayton,CASS,District 1A Judge - Alan Heavens,,Yes,,444,76,368
 Clayton,CLAYTON-GARNAVILLO,District 1A Judge - Alan Heavens,,Yes,,421,82,339
@@ -476,11 +476,11 @@ Clayton,BOARDMAN-HIGHLAND-READ,Governor,,Rob Sand and Dave Muhlbauer,DEM,561,318
 Clayton,BUENA VISTA-MILLVILLE,Governor,,Rob Sand and Dave Muhlbauer,DEM,163,42,121
 Clayton,CASS,Governor,,Rob Sand and Dave Muhlbauer,DEM,284,76,208
 Clayton,CLAYTON-GARNAVILLO,Governor,,Rob Sand and Dave Muhlbauer,DEM,222,60,162
-Clayton,COX CREEK-SPERRY,Governor,,Rob Sand and Dave Muhlbauer,DEM,149,67,82
+Clayton,COX CREEK-SPERRY,Governor,,Rob Sand and Dave Muhlbauer,DEM,150,68,82
 Clayton,ELK-MALLORY-VOLGA,Governor,,Rob Sand and Dave Muhlbauer,DEM,156,55,101
 Clayton,FARMERSBURG-WAGNER,Governor,,Rob Sand and Dave Muhlbauer,DEM,177,66,111
-Clayton,GIARD-MONONA,Governor,,Rob Sand and Dave Muhlbauer,DEM,411,110,301
-Clayton,GRAND MEADOW-MARION,Governor,,Rob Sand and Dave Muhlbauer,DEM,129,55,74
+Clayton,GIARD-MONONA,Governor,,Rob Sand and Dave Muhlbauer,DEM,413,112,301
+Clayton,GRAND MEADOW-MARION,Governor,,Rob Sand and Dave Muhlbauer,DEM,130,56,74
 Clayton,JEFFERSON,Governor,,Rob Sand and Dave Muhlbauer,DEM,559,165,394
 Clayton,LODOMILLO,Governor,,Rob Sand and Dave Muhlbauer,DEM,105,27,78
 Clayton,MENDON,Governor,,Rob Sand and Dave Muhlbauer,DEM,410,144,266
@@ -496,8 +496,8 @@ Clayton,GRAND MEADOW-MARION,Governor,,Write-In,,0,0,0
 Clayton,JEFFERSON,Governor,,Write-In,,1,0,1
 Clayton,LODOMILLO,Governor,,Write-In,,0,0,0
 Clayton,MENDON,Governor,,Write-In,,0,0,0
-Clayton,BOARDMAN-HIGHLAND-READ,Governor,,Zach Lahn and Derek Wulf,REP,467,148,319
-Clayton,BUENA VISTA-MILLVILLE,Governor,,Zach Lahn and Derek Wulf,REP,202,34,168
+Clayton,BOARDMAN-HIGHLAND-READ,Governor,,Zach Lahn and Derek Wulf,REP,468,149,319
+Clayton,BUENA VISTA-MILLVILLE,Governor,,Zach Lahn and Derek Wulf,REP,203,35,168
 Clayton,CASS,Governor,,Zach Lahn and Derek Wulf,REP,383,56,327
 Clayton,CLAYTON-GARNAVILLO,Governor,,Zach Lahn and Derek Wulf,REP,349,68,281
 Clayton,COX CREEK-SPERRY,Governor,,Zach Lahn and Derek Wulf,REP,246,60,186
@@ -508,8 +508,12 @@ Clayton,GRAND MEADOW-MARION,Governor,,Zach Lahn and Derek Wulf,REP,193,57,136
 Clayton,JEFFERSON,Governor,,Zach Lahn and Derek Wulf,REP,565,144,421
 Clayton,LODOMILLO,Governor,,Zach Lahn and Derek Wulf,REP,164,28,136
 Clayton,MENDON,Governor,,Zach Lahn and Derek Wulf,REP,396,87,309
-Clayton,ELK-MALLORY-VOLGA,Mallory Township Clerk,,Write-In,,12,0,12
-Clayton,ELK-MALLORY-VOLGA,Mallory Township Trustee,,Write-In,,26,0,26
+Clayton,ELK-MALLORY-VOLGA,Mallory Township Clerk,,Douglas Brown,,7,0,7
+Clayton,ELK-MALLORY-VOLGA,Mallory Township Clerk,,Write-In,,5,0,5
+Clayton,ELK-MALLORY-VOLGA,Mallory Township Trustee,,Dennis Walthart,,4,0,4
+Clayton,ELK-MALLORY-VOLGA,Mallory Township Trustee,,Ryan Hansen,,4,0,4
+Clayton,ELK-MALLORY-VOLGA,Mallory Township Trustee,,Walt Wessel,,7,0,7
+Clayton,ELK-MALLORY-VOLGA,Mallory Township Trustee,,Write-In,,11,0,11
 Clayton,BOARDMAN-HIGHLAND-READ,Secretary of Agriculture,,Chris Jones,DEM,413,261,152
 Clayton,BUENA VISTA-MILLVILLE,Secretary of Agriculture,,Chris Jones,DEM,120,30,90
 Clayton,CASS,Secretary of Agriculture,,Chris Jones,DEM,212,63,149
@@ -517,13 +521,13 @@ Clayton,CLAYTON-GARNAVILLO,Secretary of Agriculture,,Chris Jones,DEM,163,50,113
 Clayton,COX CREEK-SPERRY,Secretary of Agriculture,,Chris Jones,DEM,100,46,54
 Clayton,ELK-MALLORY-VOLGA,Secretary of Agriculture,,Chris Jones,DEM,111,40,71
 Clayton,FARMERSBURG-WAGNER,Secretary of Agriculture,,Chris Jones,DEM,116,50,66
-Clayton,GIARD-MONONA,Secretary of Agriculture,,Chris Jones,DEM,298,84,214
-Clayton,GRAND MEADOW-MARION,Secretary of Agriculture,,Chris Jones,DEM,86,37,49
+Clayton,GIARD-MONONA,Secretary of Agriculture,,Chris Jones,DEM,299,85,214
+Clayton,GRAND MEADOW-MARION,Secretary of Agriculture,,Chris Jones,DEM,87,38,49
 Clayton,JEFFERSON,Secretary of Agriculture,,Chris Jones,DEM,424,133,291
 Clayton,LODOMILLO,Secretary of Agriculture,,Chris Jones,DEM,75,20,55
 Clayton,MENDON,Secretary of Agriculture,,Chris Jones,DEM,336,125,211
-Clayton,BOARDMAN-HIGHLAND-READ,Secretary of Agriculture,,Mike Naig,REP,593,199,394
-Clayton,BUENA VISTA-MILLVILLE,Secretary of Agriculture,,Mike Naig,REP,232,43,189
+Clayton,BOARDMAN-HIGHLAND-READ,Secretary of Agriculture,,Mike Naig,REP,594,200,394
+Clayton,BUENA VISTA-MILLVILLE,Secretary of Agriculture,,Mike Naig,REP,233,44,189
 Clayton,CASS,Secretary of Agriculture,,Mike Naig,REP,442,64,378
 Clayton,CLAYTON-GARNAVILLO,Secretary of Agriculture,,Mike Naig,REP,406,82,324
 Clayton,COX CREEK-SPERRY,Secretary of Agriculture,,Mike Naig,REP,286,75,211
@@ -546,8 +550,8 @@ Clayton,GRAND MEADOW-MARION,Secretary of Agriculture,,Write-In,,0,0,0
 Clayton,JEFFERSON,Secretary of Agriculture,,Write-In,,1,1,0
 Clayton,LODOMILLO,Secretary of Agriculture,,Write-In,,0,0,0
 Clayton,MENDON,Secretary of Agriculture,,Write-In,,0,0,0
-Clayton,BOARDMAN-HIGHLAND-READ,Secretary of State,,Paul D. Pate,REP,597,199,398
-Clayton,BUENA VISTA-MILLVILLE,Secretary of State,,Paul D. Pate,REP,225,39,186
+Clayton,BOARDMAN-HIGHLAND-READ,Secretary of State,,Paul D. Pate,REP,598,200,398
+Clayton,BUENA VISTA-MILLVILLE,Secretary of State,,Paul D. Pate,REP,226,40,186
 Clayton,CASS,Secretary of State,,Paul D. Pate,REP,439,67,372
 Clayton,CLAYTON-GARNAVILLO,Secretary of State,,Paul D. Pate,REP,406,80,326
 Clayton,COX CREEK-SPERRY,Secretary of State,,Paul D. Pate,REP,281,77,204
@@ -565,8 +569,8 @@ Clayton,CLAYTON-GARNAVILLO,Secretary of State,,Ryan Peterman,DEM,162,50,112
 Clayton,COX CREEK-SPERRY,Secretary of State,,Ryan Peterman,DEM,103,45,58
 Clayton,ELK-MALLORY-VOLGA,Secretary of State,,Ryan Peterman,DEM,105,42,63
 Clayton,FARMERSBURG-WAGNER,Secretary of State,,Ryan Peterman,DEM,122,52,70
-Clayton,GIARD-MONONA,Secretary of State,,Ryan Peterman,DEM,302,81,221
-Clayton,GRAND MEADOW-MARION,Secretary of State,,Ryan Peterman,DEM,92,43,49
+Clayton,GIARD-MONONA,Secretary of State,,Ryan Peterman,DEM,303,82,221
+Clayton,GRAND MEADOW-MARION,Secretary of State,,Ryan Peterman,DEM,93,44,49
 Clayton,JEFFERSON,Secretary of State,,Ryan Peterman,DEM,431,142,289
 Clayton,LODOMILLO,Secretary of State,,Ryan Peterman,DEM,66,17,49
 Clayton,MENDON,Secretary of State,,Ryan Peterman,DEM,350,126,224
@@ -582,7 +586,7 @@ Clayton,GRAND MEADOW-MARION,Secretary of State,,Write-In,,0,0,0
 Clayton,JEFFERSON,Secretary of State,,Write-In,,0,0,0
 Clayton,LODOMILLO,Secretary of State,,Write-In,,0,0,0
 Clayton,MENDON,Secretary of State,,Write-In,,1,0,1
-Clayton,BOARDMAN-HIGHLAND-READ,Soil and Water Conservation District Commissioner,,Scott Hilgerson,,739,311,428
+Clayton,BOARDMAN-HIGHLAND-READ,Soil and Water Conservation District Commissioner,,Scott Hilgerson,,740,312,428
 Clayton,BUENA VISTA-MILLVILLE,Soil and Water Conservation District Commissioner,,Scott Hilgerson,,249,52,197
 Clayton,CASS,Soil and Water Conservation District Commissioner,,Scott Hilgerson,,466,83,383
 Clayton,CLAYTON-GARNAVILLO,Soil and Water Conservation District Commissioner,,Scott Hilgerson,,425,80,345
@@ -590,15 +594,15 @@ Clayton,COX CREEK-SPERRY,Soil and Water Conservation District Commissioner,,Scot
 Clayton,ELK-MALLORY-VOLGA,Soil and Water Conservation District Commissioner,,Scott Hilgerson,,299,46,253
 Clayton,FARMERSBURG-WAGNER,Soil and Water Conservation District Commissioner,,Scott Hilgerson,,312,81,231
 Clayton,GIARD-MONONA,Soil and Water Conservation District Commissioner,,Scott Hilgerson,,727,138,589
-Clayton,GRAND MEADOW-MARION,Soil and Water Conservation District Commissioner,,Scott Hilgerson,,262,88,174
+Clayton,GRAND MEADOW-MARION,Soil and Water Conservation District Commissioner,,Scott Hilgerson,,263,89,174
 Clayton,JEFFERSON,Soil and Water Conservation District Commissioner,,Scott Hilgerson,,778,182,596
 Clayton,LODOMILLO,Soil and Water Conservation District Commissioner,,Scott Hilgerson,,200,33,167
 Clayton,MENDON,Soil and Water Conservation District Commissioner,,Scott Hilgerson,,476,140,336
-Clayton,BOARDMAN-HIGHLAND-READ,Soil and Water Conservation District Commissioner,,Travis Anderson,,737,298,439
+Clayton,BOARDMAN-HIGHLAND-READ,Soil and Water Conservation District Commissioner,,Travis Anderson,,738,299,439
 Clayton,BUENA VISTA-MILLVILLE,Soil and Water Conservation District Commissioner,,Travis Anderson,,233,47,186
 Clayton,CASS,Soil and Water Conservation District Commissioner,,Travis Anderson,,438,76,362
 Clayton,CLAYTON-GARNAVILLO,Soil and Water Conservation District Commissioner,,Travis Anderson,,382,77,305
-Clayton,COX CREEK-SPERRY,Soil and Water Conservation District Commissioner,,Travis Anderson,,282,74,208
+Clayton,COX CREEK-SPERRY,Soil and Water Conservation District Commissioner,,Travis Anderson,,283,75,208
 Clayton,ELK-MALLORY-VOLGA,Soil and Water Conservation District Commissioner,,Travis Anderson,,287,45,242
 Clayton,FARMERSBURG-WAGNER,Soil and Water Conservation District Commissioner,,Travis Anderson,,262,77,185
 Clayton,GIARD-MONONA,Soil and Water Conservation District Commissioner,,Travis Anderson,,653,126,527
@@ -622,16 +626,16 @@ Clayton,BOARDMAN-HIGHLAND-READ,State House,64,Brian Bruening,DEM,461,287,174
 Clayton,BUENA VISTA-MILLVILLE,State House,64,Brian Bruening,DEM,130,33,97
 Clayton,CASS,State House,64,Brian Bruening,DEM,230,67,163
 Clayton,CLAYTON-GARNAVILLO,State House,64,Brian Bruening,DEM,185,53,132
-Clayton,COX CREEK-SPERRY,State House,64,Brian Bruening,DEM,124,54,70
+Clayton,COX CREEK-SPERRY,State House,64,Brian Bruening,DEM,125,55,70
 Clayton,ELK-MALLORY-VOLGA,State House,64,Brian Bruening,DEM,126,48,78
 Clayton,FARMERSBURG-WAGNER,State House,64,Brian Bruening,DEM,144,61,83
-Clayton,GIARD-MONONA,State House,64,Brian Bruening,DEM,345,91,254
-Clayton,GRAND MEADOW-MARION,State House,64,Brian Bruening,DEM,97,45,52
+Clayton,GIARD-MONONA,State House,64,Brian Bruening,DEM,346,92,254
+Clayton,GRAND MEADOW-MARION,State House,64,Brian Bruening,DEM,98,46,52
 Clayton,JEFFERSON,State House,64,Brian Bruening,DEM,470,144,326
 Clayton,LODOMILLO,State House,64,Brian Bruening,DEM,87,25,62
 Clayton,MENDON,State House,64,Brian Bruening,DEM,365,132,233
-Clayton,BOARDMAN-HIGHLAND-READ,State House,64,Jason Gearhart,REP,552,173,379
-Clayton,BUENA VISTA-MILLVILLE,State House,64,Jason Gearhart,REP,225,42,183
+Clayton,BOARDMAN-HIGHLAND-READ,State House,64,Jason Gearhart,REP,553,174,379
+Clayton,BUENA VISTA-MILLVILLE,State House,64,Jason Gearhart,REP,226,43,183
 Clayton,CASS,State House,64,Jason Gearhart,REP,428,63,365
 Clayton,CLAYTON-GARNAVILLO,State House,64,Jason Gearhart,REP,385,77,308
 Clayton,COX CREEK-SPERRY,State House,64,Jason Gearhart,REP,267,71,196
@@ -661,13 +665,13 @@ Clayton,CLAYTON-GARNAVILLO,Treasurer of State,,John Norwood,DEM,186,55,131
 Clayton,COX CREEK-SPERRY,Treasurer of State,,John Norwood,DEM,125,56,69
 Clayton,ELK-MALLORY-VOLGA,Treasurer of State,,John Norwood,DEM,120,44,76
 Clayton,FARMERSBURG-WAGNER,Treasurer of State,,John Norwood,DEM,148,60,88
-Clayton,GIARD-MONONA,Treasurer of State,,John Norwood,DEM,331,91,240
-Clayton,GRAND MEADOW-MARION,Treasurer of State,,John Norwood,DEM,97,43,54
+Clayton,GIARD-MONONA,Treasurer of State,,John Norwood,DEM,332,92,240
+Clayton,GRAND MEADOW-MARION,Treasurer of State,,John Norwood,DEM,98,44,54
 Clayton,JEFFERSON,Treasurer of State,,John Norwood,DEM,480,146,334
 Clayton,LODOMILLO,Treasurer of State,,John Norwood,DEM,88,24,64
 Clayton,MENDON,Treasurer of State,,John Norwood,DEM,362,135,227
-Clayton,BOARDMAN-HIGHLAND-READ,Treasurer of State,,Roby Smith,REP,521,162,359
-Clayton,BUENA VISTA-MILLVILLE,Treasurer of State,,Roby Smith,REP,220,38,182
+Clayton,BOARDMAN-HIGHLAND-READ,Treasurer of State,,Roby Smith,REP,522,163,359
+Clayton,BUENA VISTA-MILLVILLE,Treasurer of State,,Roby Smith,REP,221,39,182
 Clayton,CASS,Treasurer of State,,Roby Smith,REP,420,63,357
 Clayton,CLAYTON-GARNAVILLO,Treasurer of State,,Roby Smith,REP,375,74,301
 Clayton,COX CREEK-SPERRY,Treasurer of State,,Roby Smith,REP,254,63,191
@@ -690,7 +694,7 @@ Clayton,GRAND MEADOW-MARION,Treasurer of State,,Write-In,,0,0,0
 Clayton,JEFFERSON,Treasurer of State,,Write-In,,1,1,0
 Clayton,LODOMILLO,Treasurer of State,,Write-In,,0,0,0
 Clayton,MENDON,Treasurer of State,,Write-In,,0,0,0
-Clayton,BOARDMAN-HIGHLAND-READ,U.S. House,2,Dave Bushaw,,52,12,40
+Clayton,BOARDMAN-HIGHLAND-READ,U.S. House,2,Dave Bushaw,,53,13,40
 Clayton,BUENA VISTA-MILLVILLE,U.S. House,2,Dave Bushaw,,9,4,5
 Clayton,CASS,U.S. House,2,Dave Bushaw,,71,7,64
 Clayton,CLAYTON-GARNAVILLO,U.S. House,2,Dave Bushaw,,21,2,19
@@ -703,7 +707,7 @@ Clayton,JEFFERSON,U.S. House,2,Dave Bushaw,,26,7,19
 Clayton,LODOMILLO,U.S. House,2,Dave Bushaw,,16,3,13
 Clayton,MENDON,U.S. House,2,Dave Bushaw,,24,3,21
 Clayton,BOARDMAN-HIGHLAND-READ,U.S. House,2,Joe Mitchell,REP,492,158,334
-Clayton,BUENA VISTA-MILLVILLE,U.S. House,2,Joe Mitchell,REP,207,36,171
+Clayton,BUENA VISTA-MILLVILLE,U.S. House,2,Joe Mitchell,REP,208,37,171
 Clayton,CASS,U.S. House,2,Joe Mitchell,REP,365,52,313
 Clayton,CLAYTON-GARNAVILLO,U.S. House,2,Joe Mitchell,REP,349,71,278
 Clayton,COX CREEK-SPERRY,U.S. House,2,Joe Mitchell,REP,236,62,174
@@ -718,11 +722,11 @@ Clayton,BOARDMAN-HIGHLAND-READ,U.S. House,2,Lindsay James,DEM,451,290,161
 Clayton,BUENA VISTA-MILLVILLE,U.S. House,2,Lindsay James,DEM,129,36,93
 Clayton,CASS,U.S. House,2,Lindsay James,DEM,212,67,145
 Clayton,CLAYTON-GARNAVILLO,U.S. House,2,Lindsay James,DEM,180,53,127
-Clayton,COX CREEK-SPERRY,U.S. House,2,Lindsay James,DEM,117,54,63
+Clayton,COX CREEK-SPERRY,U.S. House,2,Lindsay James,DEM,118,55,63
 Clayton,ELK-MALLORY-VOLGA,U.S. House,2,Lindsay James,DEM,119,47,72
 Clayton,FARMERSBURG-WAGNER,U.S. House,2,Lindsay James,DEM,131,57,74
-Clayton,GIARD-MONONA,U.S. House,2,Lindsay James,DEM,318,89,229
-Clayton,GRAND MEADOW-MARION,U.S. House,2,Lindsay James,DEM,94,45,49
+Clayton,GIARD-MONONA,U.S. House,2,Lindsay James,DEM,319,90,229
+Clayton,GRAND MEADOW-MARION,U.S. House,2,Lindsay James,DEM,95,46,49
 Clayton,JEFFERSON,U.S. House,2,Lindsay James,DEM,464,142,322
 Clayton,LODOMILLO,U.S. House,2,Lindsay James,DEM,77,26,51
 Clayton,MENDON,U.S. House,2,Lindsay James,DEM,346,130,216
@@ -750,7 +754,7 @@ Clayton,GRAND MEADOW-MARION,U.S. House,2,Write-In,,0,0,0
 Clayton,JEFFERSON,U.S. House,2,Write-In,,0,0,0
 Clayton,LODOMILLO,U.S. House,2,Write-In,,1,1,0
 Clayton,MENDON,U.S. House,2,Write-In,,0,0,0
-Clayton,BOARDMAN-HIGHLAND-READ,U.S. Senate,,Ashley Hinson,REP,505,163,342
+Clayton,BOARDMAN-HIGHLAND-READ,U.S. Senate,,Ashley Hinson,REP,506,164,342
 Clayton,BUENA VISTA-MILLVILLE,U.S. Senate,,Ashley Hinson,REP,218,38,180
 Clayton,CASS,U.S. Senate,,Ashley Hinson,REP,404,61,343
 Clayton,CLAYTON-GARNAVILLO,U.S. Senate,,Ashley Hinson,REP,357,69,288
@@ -758,7 +762,7 @@ Clayton,COX CREEK-SPERRY,U.S. Senate,,Ashley Hinson,REP,247,62,185
 Clayton,ELK-MALLORY-VOLGA,U.S. Senate,,Ashley Hinson,REP,297,45,252
 Clayton,FARMERSBURG-WAGNER,U.S. Senate,,Ashley Hinson,REP,214,48,166
 Clayton,GIARD-MONONA,U.S. Senate,,Ashley Hinson,REP,620,112,508
-Clayton,GRAND MEADOW-MARION,U.S. Senate,,Ashley Hinson,REP,209,63,146
+Clayton,GRAND MEADOW-MARION,U.S. Senate,,Ashley Hinson,REP,210,64,146
 Clayton,JEFFERSON,U.S. Senate,,Ashley Hinson,REP,605,156,449
 Clayton,LODOMILLO,U.S. Senate,,Ashley Hinson,REP,172,28,144
 Clayton,MENDON,U.S. Senate,,Ashley Hinson,REP,414,92,322
@@ -766,16 +770,16 @@ Clayton,BOARDMAN-HIGHLAND-READ,U.S. Senate,,Josh Turek,DEM,497,300,197
 Clayton,BUENA VISTA-MILLVILLE,U.S. Senate,,Josh Turek,DEM,132,38,94
 Clayton,CASS,U.S. Senate,,Josh Turek,DEM,241,70,171
 Clayton,CLAYTON-GARNAVILLO,U.S. Senate,,Josh Turek,DEM,199,56,143
-Clayton,COX CREEK-SPERRY,U.S. Senate,,Josh Turek,DEM,132,59,73
+Clayton,COX CREEK-SPERRY,U.S. Senate,,Josh Turek,DEM,133,60,73
 Clayton,ELK-MALLORY-VOLGA,U.S. Senate,,Josh Turek,DEM,131,47,84
 Clayton,FARMERSBURG-WAGNER,U.S. Senate,,Josh Turek,DEM,147,59,88
-Clayton,GIARD-MONONA,U.S. Senate,,Josh Turek,DEM,337,94,243
+Clayton,GIARD-MONONA,U.S. Senate,,Josh Turek,DEM,339,96,243
 Clayton,GRAND MEADOW-MARION,U.S. Senate,,Josh Turek,DEM,100,44,56
 Clayton,JEFFERSON,U.S. Senate,,Josh Turek,DEM,495,152,343
 Clayton,LODOMILLO,U.S. Senate,,Josh Turek,DEM,93,27,66
 Clayton,MENDON,U.S. Senate,,Josh Turek,DEM,370,136,234
 Clayton,BOARDMAN-HIGHLAND-READ,U.S. Senate,,Thomas Laehn,LIB,30,8,22
-Clayton,BUENA VISTA-MILLVILLE,U.S. Senate,,Thomas Laehn,LIB,14,0,14
+Clayton,BUENA VISTA-MILLVILLE,U.S. Senate,,Thomas Laehn,LIB,15,1,14
 Clayton,CASS,U.S. Senate,,Thomas Laehn,LIB,22,1,21
 Clayton,CLAYTON-GARNAVILLO,U.S. Senate,,Thomas Laehn,LIB,16,3,13
 Clayton,COX CREEK-SPERRY,U.S. Senate,,Thomas Laehn,LIB,16,6,10

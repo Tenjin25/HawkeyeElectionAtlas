@@ -8,7 +8,7 @@ Clarke,OSCEOLA 3RD WARD,Attorney General,,Brenna Bird,REP,271,102,169
 Clarke,WOODBURN PRECINCT,Attorney General,,Brenna Bird,REP,295,91,204
 Clarke,MIDDLE PRECINCT,Attorney General,,Nate Willems,DEM,115,56,59
 Clarke,MURRAY PRECINCT,Attorney General,,Nate Willems,DEM,176,56,120
-Clarke,NORTH PRECINCT,Attorney General,,Nate Willems,DEM,189,94,95
+Clarke,NORTH PRECINCT,Attorney General,,Nate Willems,DEM,190,95,95
 Clarke,OSCEOLA 1ST WARD,Attorney General,,Nate Willems,DEM,235,126,109
 Clarke,OSCEOLA 2ND WARD,Attorney General,,Nate Willems,DEM,187,77,110
 Clarke,OSCEOLA 3RD WARD,Attorney General,,Nate Willems,DEM,256,140,116
@@ -29,7 +29,7 @@ Clarke,OSCEOLA 3RD WARD,Auditor of State,,Chris Cournoyer,REP,273,98,175
 Clarke,WOODBURN PRECINCT,Auditor of State,,Chris Cournoyer,REP,284,88,196
 Clarke,MIDDLE PRECINCT,Auditor of State,,Taylor Wettach,DEM,110,57,53
 Clarke,MURRAY PRECINCT,Auditor of State,,Taylor Wettach,DEM,160,53,107
-Clarke,NORTH PRECINCT,Auditor of State,,Taylor Wettach,DEM,186,98,88
+Clarke,NORTH PRECINCT,Auditor of State,,Taylor Wettach,DEM,187,99,88
 Clarke,OSCEOLA 1ST WARD,Auditor of State,,Taylor Wettach,DEM,221,120,101
 Clarke,OSCEOLA 2ND WARD,Auditor of State,,Taylor Wettach,DEM,183,76,107
 Clarke,OSCEOLA 3RD WARD,Auditor of State,,Taylor Wettach,DEM,250,142,108
@@ -43,7 +43,7 @@ Clarke,OSCEOLA 3RD WARD,Auditor of State,,Write-In,,2,0,2
 Clarke,WOODBURN PRECINCT,Auditor of State,,Write-In,,0,0,0
 Clarke,MIDDLE PRECINCT,Constitutional Amendment 1,,No,,126,46,80
 Clarke,MURRAY PRECINCT,Constitutional Amendment 1,,No,,177,43,134
-Clarke,NORTH PRECINCT,Constitutional Amendment 1,,No,,211,89,122
+Clarke,NORTH PRECINCT,Constitutional Amendment 1,,No,,212,90,122
 Clarke,OSCEOLA 1ST WARD,Constitutional Amendment 1,,No,,199,106,93
 Clarke,OSCEOLA 2ND WARD,Constitutional Amendment 1,,No,,165,67,98
 Clarke,OSCEOLA 3RD WARD,Constitutional Amendment 1,,No,,229,116,113
@@ -153,6 +153,13 @@ Clarke,OSCEOLA 1ST WARD,County Recorder,,Write-In,,12,8,4
 Clarke,OSCEOLA 2ND WARD,County Recorder,,Write-In,,7,3,4
 Clarke,OSCEOLA 3RD WARD,County Recorder,,Write-In,,13,8,5
 Clarke,WOODBURN PRECINCT,County Recorder,,Write-In,,7,5,2
+Clarke,MIDDLE PRECINCT,County Supervisor,2,Larry Keller,,107,36,71
+Clarke,MURRAY PRECINCT,County Supervisor,2,Larry Keller,,95,26,69
+Clarke,NORTH PRECINCT,County Supervisor,2,Larry Keller,,135,55,80
+Clarke,OSCEOLA 1ST WARD,County Supervisor,2,Larry Keller,,35,9,26
+Clarke,OSCEOLA 2ND WARD,County Supervisor,2,Larry Keller,,48,17,31
+Clarke,OSCEOLA 3RD WARD,County Supervisor,2,Larry Keller,,44,21,23
+Clarke,WOODBURN PRECINCT,County Supervisor,2,Larry Keller,,32,32,0
 Clarke,MIDDLE PRECINCT,County Supervisor,2,Randy Dunbar,REP,220,77,143
 Clarke,MURRAY PRECINCT,County Supervisor,2,Randy Dunbar,REP,378,60,318
 Clarke,NORTH PRECINCT,County Supervisor,2,Randy Dunbar,REP,405,145,260
@@ -160,13 +167,13 @@ Clarke,OSCEOLA 1ST WARD,County Supervisor,2,Randy Dunbar,REP,305,139,166
 Clarke,OSCEOLA 2ND WARD,County Supervisor,2,Randy Dunbar,REP,310,103,207
 Clarke,OSCEOLA 3RD WARD,County Supervisor,2,Randy Dunbar,REP,369,158,211
 Clarke,WOODBURN PRECINCT,County Supervisor,2,Randy Dunbar,REP,256,92,164
-Clarke,MIDDLE PRECINCT,County Supervisor,2,Write-In,,118,38,80
-Clarke,MURRAY PRECINCT,County Supervisor,2,Write-In,,110,29,81
-Clarke,NORTH PRECINCT,County Supervisor,2,Write-In,,157,60,97
-Clarke,OSCEOLA 1ST WARD,County Supervisor,2,Write-In,,60,19,41
-Clarke,OSCEOLA 2ND WARD,County Supervisor,2,Write-In,,61,21,40
-Clarke,OSCEOLA 3RD WARD,County Supervisor,2,Write-In,,64,26,38
-Clarke,WOODBURN PRECINCT,County Supervisor,2,Write-In,,120,39,81
+Clarke,MIDDLE PRECINCT,County Supervisor,2,Write-In,,11,2,9
+Clarke,MURRAY PRECINCT,County Supervisor,2,Write-In,,15,3,12
+Clarke,NORTH PRECINCT,County Supervisor,2,Write-In,,22,5,17
+Clarke,OSCEOLA 1ST WARD,County Supervisor,2,Write-In,,25,10,15
+Clarke,OSCEOLA 2ND WARD,County Supervisor,2,Write-In,,13,4,9
+Clarke,OSCEOLA 3RD WARD,County Supervisor,2,Write-In,,20,5,15
+Clarke,WOODBURN PRECINCT,County Supervisor,2,Write-In,,88,7,81
 Clarke,MIDDLE PRECINCT,County Treasurer,,Jessica Smith,REP,344,117,227
 Clarke,MURRAY PRECINCT,County Treasurer,,Jessica Smith,REP,490,86,404
 Clarke,NORTH PRECINCT,County Treasurer,,Jessica Smith,REP,556,199,357
@@ -251,9 +258,13 @@ Clarke,OSCEOLA 1ST WARD,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,304,14
 Clarke,OSCEOLA 2ND WARD,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,310,117,193
 Clarke,OSCEOLA 3RD WARD,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,373,168,205
 Clarke,WOODBURN PRECINCT,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,250,97,153
-Clarke,MURRAY PRECINCT,Doyle Township Clerk,,Write-In,,5,1,4
-Clarke,MURRAY PRECINCT,Doyle Township Trustee,,Write-In,,14,2,12
-Clarke,MURRAY PRECINCT,Doyle Township Trustee To Fill a Vacancy,,Write-In,,8,1,7
+Clarke,MURRAY PRECINCT,Doyle Township Clerk,,Cheryl German,,2,0,2
+Clarke,MURRAY PRECINCT,Doyle Township Clerk,,Write-In,,3,1,2
+Clarke,MURRAY PRECINCT,Doyle Township Trustee,,Frank Jones,,3,0,3
+Clarke,MURRAY PRECINCT,Doyle Township Trustee,,Travis Shannon,,2,0,2
+Clarke,MURRAY PRECINCT,Doyle Township Trustee,,Write-In,,9,2,7
+Clarke,MURRAY PRECINCT,Doyle Township Trustee To Fill a Vacancy,,Vern Cashman,,2,0,2
+Clarke,MURRAY PRECINCT,Doyle Township Trustee To Fill a Vacancy,,Write-In,,6,1,5
 Clarke,WOODBURN PRECINCT,Franklin Township Clerk,,Donald L. Heck,,61,13,48
 Clarke,WOODBURN PRECINCT,Franklin Township Clerk,,Write-In,,3,1,2
 Clarke,WOODBURN PRECINCT,Franklin Township Trustee,,James Whitham,,49,14,35
@@ -266,7 +277,7 @@ Clarke,NORTH PRECINCT,Fremont Township Trustee,,Randy Barnard,,223,74,149
 Clarke,NORTH PRECINCT,Fremont Township Trustee,,Write-In,,5,1,4
 Clarke,MIDDLE PRECINCT,Governor,,Rob Sand and Dave Muhlbauer,DEM,140,68,72
 Clarke,MURRAY PRECINCT,Governor,,Rob Sand and Dave Muhlbauer,DEM,217,66,151
-Clarke,NORTH PRECINCT,Governor,,Rob Sand and Dave Muhlbauer,DEM,240,116,124
+Clarke,NORTH PRECINCT,Governor,,Rob Sand and Dave Muhlbauer,DEM,241,117,124
 Clarke,OSCEOLA 1ST WARD,Governor,,Rob Sand and Dave Muhlbauer,DEM,252,133,119
 Clarke,OSCEOLA 2ND WARD,Governor,,Rob Sand and Dave Muhlbauer,DEM,223,91,132
 Clarke,OSCEOLA 3RD WARD,Governor,,Rob Sand and Dave Muhlbauer,DEM,302,159,143
@@ -285,7 +296,8 @@ Clarke,OSCEOLA 1ST WARD,Governor,,Zach Lahn and Derek Wulf,REP,233,91,142
 Clarke,OSCEOLA 2ND WARD,Governor,,Zach Lahn and Derek Wulf,REP,228,72,156
 Clarke,OSCEOLA 3RD WARD,Governor,,Zach Lahn and Derek Wulf,REP,236,88,148
 Clarke,WOODBURN PRECINCT,Governor,,Zach Lahn and Derek Wulf,REP,262,81,181
-Clarke,MIDDLE PRECINCT,Green Bay Township Clerk,,Write-In,,8,4,4
+Clarke,MIDDLE PRECINCT,Green Bay Township Clerk,,Beth Oshel,,3,3,0
+Clarke,MIDDLE PRECINCT,Green Bay Township Clerk,,Write-In,,5,1,4
 Clarke,MIDDLE PRECINCT,Green Bay Township Trustee,,Brian V. Mateer,,87,30,57
 Clarke,MIDDLE PRECINCT,Green Bay Township Trustee,,Kolton Dudney,,75,35,40
 Clarke,MIDDLE PRECINCT,Green Bay Township Trustee,,Write-In,,3,0,3
@@ -293,8 +305,11 @@ Clarke,MURRAY PRECINCT,Interstate 35 School - Public Measure Z,,No,,15,3,12
 Clarke,NORTH PRECINCT,Interstate 35 School - Public Measure Z,,No,,89,40,49
 Clarke,MURRAY PRECINCT,Interstate 35 School - Public Measure Z,,Yes,,7,2,5
 Clarke,NORTH PRECINCT,Interstate 35 School - Public Measure Z,,Yes,,78,24,54
-Clarke,WOODBURN PRECINCT,Jackson Township Clerk,,Write-In,,6,1,5
-Clarke,WOODBURN PRECINCT,Jackson Township Trustee,,Write-In,,9,2,7
+Clarke,WOODBURN PRECINCT,Jackson Township Clerk,,Janice VanWinkle,,3,0,3
+Clarke,WOODBURN PRECINCT,Jackson Township Clerk,,Write-In,,3,1,2
+Clarke,WOODBURN PRECINCT,Jackson Township Trustee,,Donna Carson,,1,0,1
+Clarke,WOODBURN PRECINCT,Jackson Township Trustee,,George Dutrey III,,2,1,1
+Clarke,WOODBURN PRECINCT,Jackson Township Trustee,,Write-In,,6,1,5
 Clarke,MIDDLE PRECINCT,Knox Township Clerk,,Christopher George,,104,31,73
 Clarke,MIDDLE PRECINCT,Knox Township Clerk,,Write-In,,1,0,1
 Clarke,MIDDLE PRECINCT,Knox Township Trustee,,Kelly Curnes,,85,26,59
@@ -310,14 +325,15 @@ Clarke,MURRAY PRECINCT,Madison Township Clerk,,Write-In,,0,0,0
 Clarke,MURRAY PRECINCT,Madison Township Trustee,,Andy Keller,,57,18,39
 Clarke,MURRAY PRECINCT,Madison Township Trustee,,Mark Bright,,60,17,43
 Clarke,MURRAY PRECINCT,Madison Township Trustee,,Write-In,,0,0,0
-Clarke,NORTH PRECINCT,Osceola Township Clerk,,Write-In,,19,5,14
+Clarke,NORTH PRECINCT,Osceola Township Clerk,,Greg Kent,,7,3,4
+Clarke,NORTH PRECINCT,Osceola Township Clerk,,Write-In,,12,2,10
 Clarke,NORTH PRECINCT,Osceola Township Trustee,,Gregory Lynn Kent,,112,45,67
 Clarke,NORTH PRECINCT,Osceola Township Trustee,,Jerry Van Der Kamp,,71,24,47
 Clarke,NORTH PRECINCT,Osceola Township Trustee,,Linda Abbott,,120,54,66
 Clarke,NORTH PRECINCT,Osceola Township Trustee,,Write-In,,5,1,4
 Clarke,MIDDLE PRECINCT,Secretary of Agriculture,,Chris Jones,DEM,92,47,45
 Clarke,MURRAY PRECINCT,Secretary of Agriculture,,Chris Jones,DEM,160,52,108
-Clarke,NORTH PRECINCT,Secretary of Agriculture,,Chris Jones,DEM,152,78,74
+Clarke,NORTH PRECINCT,Secretary of Agriculture,,Chris Jones,DEM,153,79,74
 Clarke,OSCEOLA 1ST WARD,Secretary of Agriculture,,Chris Jones,DEM,213,124,89
 Clarke,OSCEOLA 2ND WARD,Secretary of Agriculture,,Chris Jones,DEM,166,68,98
 Clarke,OSCEOLA 3RD WARD,Secretary of Agriculture,,Chris Jones,DEM,242,136,106
@@ -345,7 +361,7 @@ Clarke,OSCEOLA 3RD WARD,Secretary of State,,Paul D. Pate,REP,292,109,183
 Clarke,WOODBURN PRECINCT,Secretary of State,,Paul D. Pate,REP,303,95,208
 Clarke,MIDDLE PRECINCT,Secretary of State,,Ryan Peterman,DEM,90,49,41
 Clarke,MURRAY PRECINCT,Secretary of State,,Ryan Peterman,DEM,147,49,98
-Clarke,NORTH PRECINCT,Secretary of State,,Ryan Peterman,DEM,164,85,79
+Clarke,NORTH PRECINCT,Secretary of State,,Ryan Peterman,DEM,165,86,79
 Clarke,OSCEOLA 1ST WARD,Secretary of State,,Ryan Peterman,DEM,204,114,90
 Clarke,OSCEOLA 2ND WARD,Secretary of State,,Ryan Peterman,DEM,165,70,95
 Clarke,OSCEOLA 3RD WARD,Secretary of State,,Ryan Peterman,DEM,238,136,102
@@ -395,7 +411,7 @@ Clarke,OSCEOLA 2ND WARD,State House,24,Sam Wengryn,REP,207,65,142
 Clarke,OSCEOLA 3RD WARD,State House,24,Sam Wengryn,REP,206,83,123
 Clarke,WOODBURN PRECINCT,State House,24,Sam Wengryn,REP,271,82,189
 Clarke,MIDDLE PRECINCT,State House,24,Sonya Hicks,DEM,156,69,87
-Clarke,NORTH PRECINCT,State House,24,Sonya Hicks,DEM,235,122,113
+Clarke,NORTH PRECINCT,State House,24,Sonya Hicks,DEM,236,123,113
 Clarke,OSCEOLA 1ST WARD,State House,24,Sonya Hicks,DEM,267,133,134
 Clarke,OSCEOLA 2ND WARD,State House,24,Sonya Hicks,DEM,239,95,144
 Clarke,OSCEOLA 3RD WARD,State House,24,Sonya Hicks,DEM,327,162,165
@@ -408,7 +424,7 @@ Clarke,OSCEOLA 3RD WARD,State House,24,Write-In,,1,0,1
 Clarke,WOODBURN PRECINCT,State House,24,Write-In,,1,1,0
 Clarke,MIDDLE PRECINCT,Treasurer of State,,John Norwood,DEM,108,56,52
 Clarke,MURRAY PRECINCT,Treasurer of State,,John Norwood,DEM,166,50,116
-Clarke,NORTH PRECINCT,Treasurer of State,,John Norwood,DEM,185,91,94
+Clarke,NORTH PRECINCT,Treasurer of State,,John Norwood,DEM,186,92,94
 Clarke,OSCEOLA 1ST WARD,Treasurer of State,,John Norwood,DEM,232,128,104
 Clarke,OSCEOLA 2ND WARD,Treasurer of State,,John Norwood,DEM,186,78,108
 Clarke,OSCEOLA 3RD WARD,Treasurer of State,,John Norwood,DEM,248,144,104
@@ -434,7 +450,7 @@ Clarke,MURRAY PRECINCT,Troy Township Trustee,,Randy Callison,,91,17,74
 Clarke,MURRAY PRECINCT,Troy Township Trustee,,Write-In,,2,1,1
 Clarke,MIDDLE PRECINCT,U.S. House,3,Sarah Trone Garriott,DEM,110,57,53
 Clarke,MURRAY PRECINCT,U.S. House,3,Sarah Trone Garriott,DEM,169,54,115
-Clarke,NORTH PRECINCT,U.S. House,3,Sarah Trone Garriott,DEM,179,95,84
+Clarke,NORTH PRECINCT,U.S. House,3,Sarah Trone Garriott,DEM,180,96,84
 Clarke,OSCEOLA 1ST WARD,U.S. House,3,Sarah Trone Garriott,DEM,222,118,104
 Clarke,OSCEOLA 2ND WARD,U.S. House,3,Sarah Trone Garriott,DEM,182,74,108
 Clarke,OSCEOLA 3RD WARD,U.S. House,3,Sarah Trone Garriott,DEM,249,136,113
@@ -462,7 +478,7 @@ Clarke,OSCEOLA 3RD WARD,U.S. Senate,,Ashley Hinson,REP,262,93,169
 Clarke,WOODBURN PRECINCT,U.S. Senate,,Ashley Hinson,REP,283,89,194
 Clarke,MIDDLE PRECINCT,U.S. Senate,,Josh Turek,DEM,127,63,64
 Clarke,MURRAY PRECINCT,U.S. Senate,,Josh Turek,DEM,178,58,120
-Clarke,NORTH PRECINCT,U.S. Senate,,Josh Turek,DEM,194,102,92
+Clarke,NORTH PRECINCT,U.S. Senate,,Josh Turek,DEM,195,103,92
 Clarke,OSCEOLA 1ST WARD,U.S. Senate,,Josh Turek,DEM,233,129,104
 Clarke,OSCEOLA 2ND WARD,U.S. Senate,,Josh Turek,DEM,189,79,110
 Clarke,OSCEOLA 3RD WARD,U.S. Senate,,Josh Turek,DEM,253,145,108

@@ -15,10 +15,10 @@ Butler,6-SR,Albion Township Trustee,,Write-In,,0,0,0
 Butler,7-PB,Albion Township Trustee,,Write-In,,0,0,0
 Butler,1-GR,Attorney General,,Brenna Bird,REP,475,117,358
 Butler,2-CL,Attorney General,,Brenna Bird,REP,647,167,480
-Butler,3-DU,Attorney General,,Brenna Bird,REP,425,123,302
+Butler,3-DU,Attorney General,,Brenna Bird,REP,427,125,302
 Butler,4-AL,Attorney General,,Brenna Bird,REP,496,195,301
-Butler,5-AP,Attorney General,,Brenna Bird,REP,464,110,354
-Butler,6-SR,Attorney General,,Brenna Bird,REP,602,153,449
+Butler,5-AP,Attorney General,,Brenna Bird,REP,465,111,354
+Butler,6-SR,Attorney General,,Brenna Bird,REP,605,156,449
 Butler,7-PB,Attorney General,,Brenna Bird,REP,685,140,545
 Butler,8-NH,Attorney General,,Brenna Bird,REP,237,38,199
 Butler,1-GR,Attorney General,,Nate Willems,DEM,308,92,216
@@ -26,7 +26,7 @@ Butler,2-CL,Attorney General,,Nate Willems,DEM,407,140,267
 Butler,3-DU,Attorney General,,Nate Willems,DEM,139,52,87
 Butler,4-AL,Attorney General,,Nate Willems,DEM,199,115,84
 Butler,5-AP,Attorney General,,Nate Willems,DEM,179,43,136
-Butler,6-SR,Attorney General,,Nate Willems,DEM,445,169,276
+Butler,6-SR,Attorney General,,Nate Willems,DEM,446,170,276
 Butler,7-PB,Attorney General,,Nate Willems,DEM,350,114,236
 Butler,8-NH,Attorney General,,Nate Willems,DEM,183,49,134
 Butler,1-GR,Attorney General,,Write-In,,0,0,0
@@ -39,10 +39,10 @@ Butler,7-PB,Attorney General,,Write-In,,0,0,0
 Butler,8-NH,Attorney General,,Write-In,,2,0,2
 Butler,1-GR,Auditor of State,,Chris Cournoyer,REP,470,110,360
 Butler,2-CL,Auditor of State,,Chris Cournoyer,REP,649,162,487
-Butler,3-DU,Auditor of State,,Chris Cournoyer,REP,418,117,301
+Butler,3-DU,Auditor of State,,Chris Cournoyer,REP,420,119,301
 Butler,4-AL,Auditor of State,,Chris Cournoyer,REP,502,199,303
-Butler,5-AP,Auditor of State,,Chris Cournoyer,REP,469,104,365
-Butler,6-SR,Auditor of State,,Chris Cournoyer,REP,622,160,462
+Butler,5-AP,Auditor of State,,Chris Cournoyer,REP,470,105,365
+Butler,6-SR,Auditor of State,,Chris Cournoyer,REP,625,163,462
 Butler,7-PB,Auditor of State,,Chris Cournoyer,REP,705,143,562
 Butler,8-NH,Auditor of State,,Chris Cournoyer,REP,245,42,203
 Butler,1-GR,Auditor of State,,Taylor Wettach,DEM,303,94,209
@@ -61,11 +61,11 @@ Butler,5-AP,Auditor of State,,Write-In,,0,0,0
 Butler,6-SR,Auditor of State,,Write-In,,0,0,0
 Butler,7-PB,Auditor of State,,Write-In,,0,0,0
 Butler,8-NH,Auditor of State,,Write-In,,2,0,2
-Butler,6-SR,Beaver Township Clerk,,Steven Koop,,135,50,85
+Butler,6-SR,Beaver Township Clerk,,Steven Koop,,136,51,85
 Butler,8-NH,Beaver Township Clerk,,Steven Koop,,223,58,165
 Butler,6-SR,Beaver Township Clerk,,Write-In,,0,0,0
 Butler,8-NH,Beaver Township Clerk,,Write-In,,2,0,2
-Butler,6-SR,Beaver Township Trustee,,Lane M. Bass,,136,52,84
+Butler,6-SR,Beaver Township Trustee,,Lane M. Bass,,137,53,84
 Butler,8-NH,Beaver Township Trustee,,Lane M. Bass,,223,56,167
 Butler,6-SR,Beaver Township Trustee,,Steve Burrell,,1,0,1
 Butler,8-NH,Beaver Township Trustee,,Steve Burrell,,1,0,1
@@ -88,7 +88,7 @@ Butler,1-GR,Coldwater Township Trustee,,Patrick Zimmerman,,110,23,87
 Butler,1-GR,Coldwater Township Trustee,,Write-In,,2,0,2
 Butler,1-GR,Constitutional Amendment 1,,No,,311,92,219
 Butler,2-CL,Constitutional Amendment 1,,No,,317,106,211
-Butler,3-DU,Constitutional Amendment 1,,No,,153,43,110
+Butler,3-DU,Constitutional Amendment 1,,No,,154,44,110
 Butler,4-AL,Constitutional Amendment 1,,No,,210,100,110
 Butler,5-AP,Constitutional Amendment 1,,No,,178,42,136
 Butler,6-SR,Constitutional Amendment 1,,No,,374,129,245
@@ -96,10 +96,10 @@ Butler,7-PB,Constitutional Amendment 1,,No,,311,77,234
 Butler,8-NH,Constitutional Amendment 1,,No,,129,23,106
 Butler,1-GR,Constitutional Amendment 1,,Yes,,404,104,300
 Butler,2-CL,Constitutional Amendment 1,,Yes,,629,165,464
-Butler,3-DU,Constitutional Amendment 1,,Yes,,344,113,231
+Butler,3-DU,Constitutional Amendment 1,,Yes,,345,114,231
 Butler,4-AL,Constitutional Amendment 1,,Yes,,388,171,217
-Butler,5-AP,Constitutional Amendment 1,,Yes,,376,83,293
-Butler,6-SR,Constitutional Amendment 1,,Yes,,579,169,410
+Butler,5-AP,Constitutional Amendment 1,,Yes,,377,84,293
+Butler,6-SR,Constitutional Amendment 1,,Yes,,580,170,410
 Butler,7-PB,Constitutional Amendment 1,,Yes,,617,163,454
 Butler,8-NH,Constitutional Amendment 1,,Yes,,251,56,195
 Butler,1-GR,County Agricultural Extension Council Member,,Andrea Schrage,,552,132,420
@@ -107,7 +107,7 @@ Butler,2-CL,County Agricultural Extension Council Member,,Andrea Schrage,,642,16
 Butler,3-DU,County Agricultural Extension Council Member,,Andrea Schrage,,371,113,258
 Butler,4-AL,County Agricultural Extension Council Member,,Andrea Schrage,,482,196,286
 Butler,5-AP,County Agricultural Extension Council Member,,Andrea Schrage,,418,98,320
-Butler,6-SR,County Agricultural Extension Council Member,,Andrea Schrage,,633,184,449
+Butler,6-SR,County Agricultural Extension Council Member,,Andrea Schrage,,636,187,449
 Butler,7-PB,County Agricultural Extension Council Member,,Andrea Schrage,,648,149,499
 Butler,8-NH,County Agricultural Extension Council Member,,Andrea Schrage,,242,50,192
 Butler,1-GR,County Agricultural Extension Council Member,,Bryce Bruns,,540,131,409
@@ -115,7 +115,7 @@ Butler,2-CL,County Agricultural Extension Council Member,,Bryce Bruns,,621,167,4
 Butler,3-DU,County Agricultural Extension Council Member,,Bryce Bruns,,372,111,261
 Butler,4-AL,County Agricultural Extension Council Member,,Bryce Bruns,,476,191,285
 Butler,5-AP,County Agricultural Extension Council Member,,Bryce Bruns,,391,91,300
-Butler,6-SR,County Agricultural Extension Council Member,,Bryce Bruns,,592,177,415
+Butler,6-SR,County Agricultural Extension Council Member,,Bryce Bruns,,594,179,415
 Butler,7-PB,County Agricultural Extension Council Member,,Bryce Bruns,,603,142,461
 Butler,8-NH,County Agricultural Extension Council Member,,Bryce Bruns,,224,48,176
 Butler,1-GR,County Agricultural Extension Council Member,,Jessica Lovrien,,530,131,399
@@ -123,7 +123,7 @@ Butler,2-CL,County Agricultural Extension Council Member,,Jessica Lovrien,,721,1
 Butler,3-DU,County Agricultural Extension Council Member,,Jessica Lovrien,,360,108,252
 Butler,4-AL,County Agricultural Extension Council Member,,Jessica Lovrien,,429,170,259
 Butler,5-AP,County Agricultural Extension Council Member,,Jessica Lovrien,,419,98,321
-Butler,6-SR,County Agricultural Extension Council Member,,Jessica Lovrien,,619,181,438
+Butler,6-SR,County Agricultural Extension Council Member,,Jessica Lovrien,,622,184,438
 Butler,7-PB,County Agricultural Extension Council Member,,Jessica Lovrien,,654,155,499
 Butler,8-NH,County Agricultural Extension Council Member,,Jessica Lovrien,,224,49,175
 Butler,1-GR,County Agricultural Extension Council Member,,Patty Hummel,,536,129,407
@@ -131,7 +131,7 @@ Butler,2-CL,County Agricultural Extension Council Member,,Patty Hummel,,632,172,
 Butler,3-DU,County Agricultural Extension Council Member,,Patty Hummel,,368,111,257
 Butler,4-AL,County Agricultural Extension Council Member,,Patty Hummel,,472,192,280
 Butler,5-AP,County Agricultural Extension Council Member,,Patty Hummel,,391,90,301
-Butler,6-SR,County Agricultural Extension Council Member,,Patty Hummel,,587,183,404
+Butler,6-SR,County Agricultural Extension Council Member,,Patty Hummel,,589,185,404
 Butler,7-PB,County Agricultural Extension Council Member,,Patty Hummel,,616,149,467
 Butler,8-NH,County Agricultural Extension Council Member,,Patty Hummel,,220,50,170
 Butler,1-GR,County Agricultural Extension Council Member,,Rachel Jensen,,517,125,392
@@ -139,7 +139,7 @@ Butler,2-CL,County Agricultural Extension Council Member,,Rachel Jensen,,647,169
 Butler,3-DU,County Agricultural Extension Council Member,,Rachel Jensen,,359,106,253
 Butler,4-AL,County Agricultural Extension Council Member,,Rachel Jensen,,434,176,258
 Butler,5-AP,County Agricultural Extension Council Member,,Rachel Jensen,,391,90,301
-Butler,6-SR,County Agricultural Extension Council Member,,Rachel Jensen,,598,175,423
+Butler,6-SR,County Agricultural Extension Council Member,,Rachel Jensen,,600,177,423
 Butler,7-PB,County Agricultural Extension Council Member,,Rachel Jensen,,619,146,473
 Butler,8-NH,County Agricultural Extension Council Member,,Rachel Jensen,,216,47,169
 Butler,1-GR,County Agricultural Extension Council Member,,Write-In,,9,1,8
@@ -152,10 +152,10 @@ Butler,7-PB,County Agricultural Extension Council Member,,Write-In,,11,0,11
 Butler,8-NH,County Agricultural Extension Council Member,,Write-In,,6,1,5
 Butler,1-GR,County Attorney,,David Kuehner,REP,658,158,500
 Butler,2-CL,County Attorney,,David Kuehner,REP,894,240,654
-Butler,3-DU,County Attorney,,David Kuehner,REP,515,148,367
+Butler,3-DU,County Attorney,,David Kuehner,REP,517,150,367
 Butler,4-AL,County Attorney,,David Kuehner,REP,588,240,348
 Butler,5-AP,County Attorney,,David Kuehner,REP,568,124,444
-Butler,6-SR,County Attorney,,David Kuehner,REP,885,255,630
+Butler,6-SR,County Attorney,,David Kuehner,REP,888,258,630
 Butler,7-PB,County Attorney,,David Kuehner,REP,888,210,678
 Butler,8-NH,County Attorney,,David Kuehner,REP,345,70,275
 Butler,1-GR,County Attorney,,Write-In,,14,1,13
@@ -168,10 +168,10 @@ Butler,7-PB,County Attorney,,Write-In,,8,2,6
 Butler,8-NH,County Attorney,,Write-In,,5,0,5
 Butler,1-GR,County Recorder,,Janice Jacobs,REP,703,173,530
 Butler,2-CL,County Recorder,,Janice Jacobs,REP,926,247,679
-Butler,3-DU,County Recorder,,Janice Jacobs,REP,531,160,371
+Butler,3-DU,County Recorder,,Janice Jacobs,REP,533,162,371
 Butler,4-AL,County Recorder,,Janice Jacobs,REP,645,270,375
-Butler,5-AP,County Recorder,,Janice Jacobs,REP,603,136,467
-Butler,6-SR,County Recorder,,Janice Jacobs,REP,917,267,650
+Butler,5-AP,County Recorder,,Janice Jacobs,REP,604,137,467
+Butler,6-SR,County Recorder,,Janice Jacobs,REP,921,271,650
 Butler,7-PB,County Recorder,,Janice Jacobs,REP,948,226,722
 Butler,8-NH,County Recorder,,Janice Jacobs,REP,357,71,286
 Butler,1-GR,County Recorder,,Write-In,,6,0,6
@@ -183,7 +183,7 @@ Butler,6-SR,County Recorder,,Write-In,,5,1,4
 Butler,7-PB,County Recorder,,Write-In,,2,0,2
 Butler,8-NH,County Recorder,,Write-In,,4,0,4
 Butler,1-GR,County Supervisor,2,Wayne Dralle,REP,700,169,531
-Butler,3-DU,County Supervisor,2,Wayne Dralle,REP,529,160,369
+Butler,3-DU,County Supervisor,2,Wayne Dralle,REP,531,162,369
 Butler,4-AL,County Supervisor,2,Wayne Dralle,REP,607,247,360
 Butler,1-GR,County Supervisor,2,Write-In,,8,1,7
 Butler,3-DU,County Supervisor,2,Write-In,,4,2,2
@@ -194,15 +194,15 @@ Butler,8-NH,County Supervisor,3,Rusty Eddy,REP,326,67,259
 Butler,5-AP,County Supervisor,3,Tim Kolder,,211,23,188
 Butler,7-PB,County Supervisor,3,Tim Kolder,,296,34,262
 Butler,8-NH,County Supervisor,3,Tim Kolder,,23,4,19
-Butler,5-AP,County Supervisor,3,Write-In,,7,3,4
+Butler,5-AP,County Supervisor,3,Write-In,,8,4,4
 Butler,7-PB,County Supervisor,3,Write-In,,14,1,13
 Butler,8-NH,County Supervisor,3,Write-In,,5,0,5
 Butler,1-GR,County Treasurer,,Roxanne Nicolaus,REP,695,171,524
 Butler,2-CL,County Treasurer,,Roxanne Nicolaus,REP,923,248,675
-Butler,3-DU,County Treasurer,,Roxanne Nicolaus,REP,532,162,370
+Butler,3-DU,County Treasurer,,Roxanne Nicolaus,REP,534,164,370
 Butler,4-AL,County Treasurer,,Roxanne Nicolaus,REP,638,266,372
-Butler,5-AP,County Treasurer,,Roxanne Nicolaus,REP,596,135,461
-Butler,6-SR,County Treasurer,,Roxanne Nicolaus,REP,923,267,656
+Butler,5-AP,County Treasurer,,Roxanne Nicolaus,REP,597,136,461
+Butler,6-SR,County Treasurer,,Roxanne Nicolaus,REP,927,271,656
 Butler,7-PB,County Treasurer,,Roxanne Nicolaus,REP,944,229,715
 Butler,8-NH,County Treasurer,,Roxanne Nicolaus,REP,358,72,286
 Butler,1-GR,County Treasurer,,Write-In,,6,0,6
@@ -218,15 +218,15 @@ Butler,2-CL,Court of Appeals Judge - John M. Sandy,,No,,176,52,124
 Butler,3-DU,Court of Appeals Judge - John M. Sandy,,No,,80,32,48
 Butler,4-AL,Court of Appeals Judge - John M. Sandy,,No,,98,43,55
 Butler,5-AP,Court of Appeals Judge - John M. Sandy,,No,,90,20,70
-Butler,6-SR,Court of Appeals Judge - John M. Sandy,,No,,192,42,150
+Butler,6-SR,Court of Appeals Judge - John M. Sandy,,No,,193,43,150
 Butler,7-PB,Court of Appeals Judge - John M. Sandy,,No,,168,30,138
 Butler,8-NH,Court of Appeals Judge - John M. Sandy,,No,,80,19,61
 Butler,1-GR,Court of Appeals Judge - John M. Sandy,,Yes,,463,101,362
 Butler,2-CL,Court of Appeals Judge - John M. Sandy,,Yes,,604,139,465
-Butler,3-DU,Court of Appeals Judge - John M. Sandy,,Yes,,358,93,265
+Butler,3-DU,Court of Appeals Judge - John M. Sandy,,Yes,,359,94,265
 Butler,4-AL,Court of Appeals Judge - John M. Sandy,,Yes,,383,144,239
 Butler,5-AP,Court of Appeals Judge - John M. Sandy,,Yes,,374,74,300
-Butler,6-SR,Court of Appeals Judge - John M. Sandy,,Yes,,555,169,386
+Butler,6-SR,Court of Appeals Judge - John M. Sandy,,Yes,,556,170,386
 Butler,7-PB,Court of Appeals Judge - John M. Sandy,,Yes,,591,148,443
 Butler,8-NH,Court of Appeals Judge - John M. Sandy,,Yes,,237,53,184
 Butler,1-GR,Court of Appeals Judge - Julie A. Schumacher,,No,,129,28,101
@@ -234,15 +234,15 @@ Butler,2-CL,Court of Appeals Judge - Julie A. Schumacher,,No,,173,49,124
 Butler,3-DU,Court of Appeals Judge - Julie A. Schumacher,,No,,84,30,54
 Butler,4-AL,Court of Appeals Judge - Julie A. Schumacher,,No,,105,45,60
 Butler,5-AP,Court of Appeals Judge - Julie A. Schumacher,,No,,100,21,79
-Butler,6-SR,Court of Appeals Judge - Julie A. Schumacher,,No,,194,42,152
+Butler,6-SR,Court of Appeals Judge - Julie A. Schumacher,,No,,195,43,152
 Butler,7-PB,Court of Appeals Judge - Julie A. Schumacher,,No,,178,30,148
 Butler,8-NH,Court of Appeals Judge - Julie A. Schumacher,,No,,81,17,64
 Butler,1-GR,Court of Appeals Judge - Julie A. Schumacher,,Yes,,455,104,351
 Butler,2-CL,Court of Appeals Judge - Julie A. Schumacher,,Yes,,599,136,463
-Butler,3-DU,Court of Appeals Judge - Julie A. Schumacher,,Yes,,347,93,254
+Butler,3-DU,Court of Appeals Judge - Julie A. Schumacher,,Yes,,348,94,254
 Butler,4-AL,Court of Appeals Judge - Julie A. Schumacher,,Yes,,369,139,230
 Butler,5-AP,Court of Appeals Judge - Julie A. Schumacher,,Yes,,356,72,284
-Butler,6-SR,Court of Appeals Judge - Julie A. Schumacher,,Yes,,556,173,383
+Butler,6-SR,Court of Appeals Judge - Julie A. Schumacher,,Yes,,557,174,383
 Butler,7-PB,Court of Appeals Judge - Julie A. Schumacher,,Yes,,574,143,431
 Butler,8-NH,Court of Appeals Judge - Julie A. Schumacher,,Yes,,233,53,180
 Butler,1-GR,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,144,28,116
@@ -250,15 +250,15 @@ Butler,2-CL,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,192,52,140
 Butler,3-DU,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,94,31,63
 Butler,4-AL,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,116,49,67
 Butler,5-AP,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,110,23,87
-Butler,6-SR,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,210,45,165
+Butler,6-SR,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,211,46,165
 Butler,7-PB,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,180,38,142
 Butler,8-NH,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,81,14,67
 Butler,1-GR,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,440,104,336
 Butler,2-CL,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,570,131,439
-Butler,3-DU,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,333,92,241
+Butler,3-DU,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,334,93,241
 Butler,4-AL,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,357,135,222
 Butler,5-AP,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,346,69,277
-Butler,6-SR,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,529,166,363
+Butler,6-SR,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,530,167,363
 Butler,7-PB,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,562,136,426
 Butler,8-NH,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,233,55,178
 Butler,1-GR,Dayton Township Clerk,,Donald Feldman,,69,17,52
@@ -276,15 +276,15 @@ Butler,2-CL,District 2A Associate Judge - Adam Sauer,,No,,166,50,116
 Butler,3-DU,District 2A Associate Judge - Adam Sauer,,No,,84,31,53
 Butler,4-AL,District 2A Associate Judge - Adam Sauer,,No,,100,46,54
 Butler,5-AP,District 2A Associate Judge - Adam Sauer,,No,,88,18,70
-Butler,6-SR,District 2A Associate Judge - Adam Sauer,,No,,186,39,147
+Butler,6-SR,District 2A Associate Judge - Adam Sauer,,No,,187,40,147
 Butler,7-PB,District 2A Associate Judge - Adam Sauer,,No,,165,27,138
 Butler,8-NH,District 2A Associate Judge - Adam Sauer,,No,,83,19,64
 Butler,1-GR,District 2A Associate Judge - Adam Sauer,,Yes,,456,102,354
 Butler,2-CL,District 2A Associate Judge - Adam Sauer,,Yes,,593,132,461
-Butler,3-DU,District 2A Associate Judge - Adam Sauer,,Yes,,340,88,252
+Butler,3-DU,District 2A Associate Judge - Adam Sauer,,Yes,,341,89,252
 Butler,4-AL,District 2A Associate Judge - Adam Sauer,,Yes,,372,137,235
 Butler,5-AP,District 2A Associate Judge - Adam Sauer,,Yes,,367,73,294
-Butler,6-SR,District 2A Associate Judge - Adam Sauer,,Yes,,550,167,383
+Butler,6-SR,District 2A Associate Judge - Adam Sauer,,Yes,,551,168,383
 Butler,7-PB,District 2A Associate Judge - Adam Sauer,,Yes,,572,142,430
 Butler,8-NH,District 2A Associate Judge - Adam Sauer,,Yes,,228,50,178
 Butler,1-GR,District 2A Associate Judge - Karen Kaufman Salic,,No,,143,37,106
@@ -292,15 +292,15 @@ Butler,2-CL,District 2A Associate Judge - Karen Kaufman Salic,,No,,202,48,154
 Butler,3-DU,District 2A Associate Judge - Karen Kaufman Salic,,No,,99,36,63
 Butler,4-AL,District 2A Associate Judge - Karen Kaufman Salic,,No,,112,43,69
 Butler,5-AP,District 2A Associate Judge - Karen Kaufman Salic,,No,,106,21,85
-Butler,6-SR,District 2A Associate Judge - Karen Kaufman Salic,,No,,208,46,162
+Butler,6-SR,District 2A Associate Judge - Karen Kaufman Salic,,No,,209,47,162
 Butler,7-PB,District 2A Associate Judge - Karen Kaufman Salic,,No,,176,31,145
 Butler,8-NH,District 2A Associate Judge - Karen Kaufman Salic,,No,,81,15,66
 Butler,1-GR,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,438,93,345
 Butler,2-CL,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,552,130,422
-Butler,3-DU,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,324,83,241
+Butler,3-DU,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,325,84,241
 Butler,4-AL,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,355,136,219
 Butler,5-AP,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,345,69,276
-Butler,6-SR,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,531,163,368
+Butler,6-SR,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,532,164,368
 Butler,7-PB,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,556,137,419
 Butler,8-NH,District 2A Associate Judge - Karen Kaufman Salic,,Yes,,232,54,178
 Butler,1-GR,District 2A Associate Judge - Mark Milder,,No,,121,28,93
@@ -308,15 +308,15 @@ Butler,2-CL,District 2A Associate Judge - Mark Milder,,No,,174,52,122
 Butler,3-DU,District 2A Associate Judge - Mark Milder,,No,,80,29,51
 Butler,4-AL,District 2A Associate Judge - Mark Milder,,No,,106,46,60
 Butler,5-AP,District 2A Associate Judge - Mark Milder,,No,,92,16,76
-Butler,6-SR,District 2A Associate Judge - Mark Milder,,No,,184,38,146
+Butler,6-SR,District 2A Associate Judge - Mark Milder,,No,,185,39,146
 Butler,7-PB,District 2A Associate Judge - Mark Milder,,No,,165,27,138
 Butler,8-NH,District 2A Associate Judge - Mark Milder,,No,,81,16,65
 Butler,1-GR,District 2A Associate Judge - Mark Milder,,Yes,,458,98,360
 Butler,2-CL,District 2A Associate Judge - Mark Milder,,Yes,,584,128,456
-Butler,3-DU,District 2A Associate Judge - Mark Milder,,Yes,,349,93,256
+Butler,3-DU,District 2A Associate Judge - Mark Milder,,Yes,,350,94,256
 Butler,4-AL,District 2A Associate Judge - Mark Milder,,Yes,,368,136,232
 Butler,5-AP,District 2A Associate Judge - Mark Milder,,Yes,,365,75,290
-Butler,6-SR,District 2A Associate Judge - Mark Milder,,Yes,,558,169,389
+Butler,6-SR,District 2A Associate Judge - Mark Milder,,Yes,,559,170,389
 Butler,7-PB,District 2A Associate Judge - Mark Milder,,Yes,,580,144,436
 Butler,8-NH,District 2A Associate Judge - Mark Milder,,Yes,,229,51,178
 Butler,1-GR,District 2A Judge - Christopher Foy,,No,,137,33,104
@@ -324,15 +324,15 @@ Butler,2-CL,District 2A Judge - Christopher Foy,,No,,195,55,140
 Butler,3-DU,District 2A Judge - Christopher Foy,,No,,97,41,56
 Butler,4-AL,District 2A Judge - Christopher Foy,,No,,117,59,58
 Butler,5-AP,District 2A Judge - Christopher Foy,,No,,113,25,88
-Butler,6-SR,District 2A Judge - Christopher Foy,,No,,211,57,154
+Butler,6-SR,District 2A Judge - Christopher Foy,,No,,212,58,154
 Butler,7-PB,District 2A Judge - Christopher Foy,,No,,178,32,146
 Butler,8-NH,District 2A Judge - Christopher Foy,,No,,95,21,74
 Butler,1-GR,District 2A Judge - Christopher Foy,,Yes,,447,93,354
 Butler,2-CL,District 2A Judge - Christopher Foy,,Yes,,592,138,454
-Butler,3-DU,District 2A Judge - Christopher Foy,,Yes,,336,85,251
+Butler,3-DU,District 2A Judge - Christopher Foy,,Yes,,337,86,251
 Butler,4-AL,District 2A Judge - Christopher Foy,,Yes,,365,128,237
 Butler,5-AP,District 2A Judge - Christopher Foy,,Yes,,339,65,274
-Butler,6-SR,District 2A Judge - Christopher Foy,,Yes,,569,171,398
+Butler,6-SR,District 2A Judge - Christopher Foy,,Yes,,571,173,398
 Butler,7-PB,District 2A Judge - Christopher Foy,,Yes,,576,140,436
 Butler,8-NH,District 2A Judge - Christopher Foy,,Yes,,222,51,171
 Butler,1-GR,District 2A Judge - Colleen D. Weiland,,No,,134,31,103
@@ -340,15 +340,15 @@ Butler,2-CL,District 2A Judge - Colleen D. Weiland,,No,,177,50,127
 Butler,3-DU,District 2A Judge - Colleen D. Weiland,,No,,95,38,57
 Butler,4-AL,District 2A Judge - Colleen D. Weiland,,No,,112,50,62
 Butler,5-AP,District 2A Judge - Colleen D. Weiland,,No,,114,27,87
-Butler,6-SR,District 2A Judge - Colleen D. Weiland,,No,,206,44,162
+Butler,6-SR,District 2A Judge - Colleen D. Weiland,,No,,207,45,162
 Butler,7-PB,District 2A Judge - Colleen D. Weiland,,No,,173,31,142
 Butler,8-NH,District 2A Judge - Colleen D. Weiland,,No,,81,16,65
 Butler,1-GR,District 2A Judge - Colleen D. Weiland,,Yes,,449,98,351
 Butler,2-CL,District 2A Judge - Colleen D. Weiland,,Yes,,582,132,450
-Butler,3-DU,District 2A Judge - Colleen D. Weiland,,Yes,,332,83,249
+Butler,3-DU,District 2A Judge - Colleen D. Weiland,,Yes,,333,84,249
 Butler,4-AL,District 2A Judge - Colleen D. Weiland,,Yes,,359,134,225
 Butler,5-AP,District 2A Judge - Colleen D. Weiland,,Yes,,340,65,275
-Butler,6-SR,District 2A Judge - Colleen D. Weiland,,Yes,,537,165,372
+Butler,6-SR,District 2A Judge - Colleen D. Weiland,,Yes,,538,166,372
 Butler,7-PB,District 2A Judge - Colleen D. Weiland,,Yes,,567,139,428
 Butler,8-NH,District 2A Judge - Colleen D. Weiland,,Yes,,231,52,179
 Butler,1-GR,District 2A Judge - DeDra Schroeder,,No,,127,30,97
@@ -356,15 +356,15 @@ Butler,2-CL,District 2A Judge - DeDra Schroeder,,No,,186,50,136
 Butler,3-DU,District 2A Judge - DeDra Schroeder,,No,,92,33,59
 Butler,4-AL,District 2A Judge - DeDra Schroeder,,No,,105,41,64
 Butler,5-AP,District 2A Judge - DeDra Schroeder,,No,,103,21,82
-Butler,6-SR,District 2A Judge - DeDra Schroeder,,No,,211,47,164
+Butler,6-SR,District 2A Judge - DeDra Schroeder,,No,,212,48,164
 Butler,7-PB,District 2A Judge - DeDra Schroeder,,No,,178,29,149
 Butler,8-NH,District 2A Judge - DeDra Schroeder,,No,,81,15,66
 Butler,1-GR,District 2A Judge - DeDra Schroeder,,Yes,,459,105,354
 Butler,2-CL,District 2A Judge - DeDra Schroeder,,Yes,,584,142,442
-Butler,3-DU,District 2A Judge - DeDra Schroeder,,Yes,,337,89,248
+Butler,3-DU,District 2A Judge - DeDra Schroeder,,Yes,,338,90,248
 Butler,4-AL,District 2A Judge - DeDra Schroeder,,Yes,,366,142,224
 Butler,5-AP,District 2A Judge - DeDra Schroeder,,Yes,,350,70,280
-Butler,6-SR,District 2A Judge - DeDra Schroeder,,Yes,,538,168,370
+Butler,6-SR,District 2A Judge - DeDra Schroeder,,Yes,,539,169,370
 Butler,7-PB,District 2A Judge - DeDra Schroeder,,Yes,,561,140,421
 Butler,8-NH,District 2A Judge - DeDra Schroeder,,Yes,,234,54,180
 Butler,1-GR,District 2A Judge - Gregg R. Rosenbladt,,No,,127,27,100
@@ -372,15 +372,15 @@ Butler,2-CL,District 2A Judge - Gregg R. Rosenbladt,,No,,176,47,129
 Butler,3-DU,District 2A Judge - Gregg R. Rosenbladt,,No,,89,33,56
 Butler,4-AL,District 2A Judge - Gregg R. Rosenbladt,,No,,102,48,54
 Butler,5-AP,District 2A Judge - Gregg R. Rosenbladt,,No,,99,21,78
-Butler,6-SR,District 2A Judge - Gregg R. Rosenbladt,,No,,200,43,157
+Butler,6-SR,District 2A Judge - Gregg R. Rosenbladt,,No,,201,44,157
 Butler,7-PB,District 2A Judge - Gregg R. Rosenbladt,,No,,167,31,136
 Butler,8-NH,District 2A Judge - Gregg R. Rosenbladt,,No,,82,18,64
 Butler,1-GR,District 2A Judge - Gregg R. Rosenbladt,,Yes,,452,99,353
 Butler,2-CL,District 2A Judge - Gregg R. Rosenbladt,,Yes,,587,137,450
-Butler,3-DU,District 2A Judge - Gregg R. Rosenbladt,,Yes,,339,90,249
+Butler,3-DU,District 2A Judge - Gregg R. Rosenbladt,,Yes,,340,91,249
 Butler,4-AL,District 2A Judge - Gregg R. Rosenbladt,,Yes,,372,137,235
 Butler,5-AP,District 2A Judge - Gregg R. Rosenbladt,,Yes,,356,70,286
-Butler,6-SR,District 2A Judge - Gregg R. Rosenbladt,,Yes,,538,167,371
+Butler,6-SR,District 2A Judge - Gregg R. Rosenbladt,,Yes,,539,168,371
 Butler,7-PB,District 2A Judge - Gregg R. Rosenbladt,,Yes,,575,140,435
 Butler,8-NH,District 2A Judge - Gregg R. Rosenbladt,,Yes,,229,51,178
 Butler,2-CL,Fremont Township Clerk,,Ron D. Leerhoff,,129,39,90
@@ -406,10 +406,10 @@ Butler,7-PB,Governor,,Write-In,,1,0,1
 Butler,8-NH,Governor,,Write-In,,0,0,0
 Butler,1-GR,Governor,,Zach Lahn and Derek Wulf,REP,434,102,332
 Butler,2-CL,Governor,,Zach Lahn and Derek Wulf,REP,605,155,450
-Butler,3-DU,Governor,,Zach Lahn and Derek Wulf,REP,394,108,286
+Butler,3-DU,Governor,,Zach Lahn and Derek Wulf,REP,396,110,286
 Butler,4-AL,Governor,,Zach Lahn and Derek Wulf,REP,468,194,274
-Butler,5-AP,Governor,,Zach Lahn and Derek Wulf,REP,438,102,336
-Butler,6-SR,Governor,,Zach Lahn and Derek Wulf,REP,582,157,425
+Butler,5-AP,Governor,,Zach Lahn and Derek Wulf,REP,439,103,336
+Butler,6-SR,Governor,,Zach Lahn and Derek Wulf,REP,586,161,425
 Butler,7-PB,Governor,,Zach Lahn and Derek Wulf,REP,645,133,512
 Butler,8-NH,Governor,,Zach Lahn and Derek Wulf,REP,226,41,185
 Butler,2-CL,Jackson Township Clerk,,Deb McWhirter,,128,46,82
@@ -417,9 +417,9 @@ Butler,2-CL,Jackson Township Clerk,,Write-In,,0,0,0
 Butler,2-CL,Jackson Township Trustee,,Eric Bixby,,111,40,71
 Butler,2-CL,Jackson Township Trustee,,Mervin Edeker,,113,43,70
 Butler,2-CL,Jackson Township Trustee,,Write-In,,0,0,0
-Butler,6-SR,Jefferson Township Clerk,,Mary Brouwer,,115,62,53
+Butler,6-SR,Jefferson Township Clerk,,Mary Brouwer,,116,63,53
 Butler,6-SR,Jefferson Township Clerk,,Write-In,,0,0,0
-Butler,6-SR,Jefferson Township Trustee,,Dusty Miller,,99,57,42
+Butler,6-SR,Jefferson Township Trustee,,Dusty Miller,,100,58,42
 Butler,6-SR,Jefferson Township Trustee,,Todd C. Reiher,,89,49,40
 Butler,6-SR,Jefferson Township Trustee,,Write-In,,0,0,0
 Butler,3-DU,Madison Township Clerk,,Deb Eisentrager,,105,40,65
@@ -427,15 +427,15 @@ Butler,3-DU,Madison Township Clerk,,Write-In,,0,0,0
 Butler,3-DU,Madison Township Trustee,,Jason Schipper,,92,34,58
 Butler,3-DU,Madison Township Trustee,,William W. Nolte,,70,31,39
 Butler,3-DU,Madison Township Trustee,,Write-In,,0,0,0
-Butler,5-AP,Monroe Township Clerk,,Gaylen Mulder,,154,33,121
+Butler,5-AP,Monroe Township Clerk,,Gaylen Mulder,,155,34,121
 Butler,5-AP,Monroe Township Clerk,,Write-In,,3,2,1
 Butler,5-AP,Monroe Township Trustee,,Jeff Johnson,,125,37,88
-Butler,5-AP,Monroe Township Trustee,,Randy Williamson,,144,34,110
+Butler,5-AP,Monroe Township Trustee,,Randy Williamson,,145,35,110
 Butler,5-AP,Monroe Township Trustee,,Write-In,,2,1,1
-Butler,3-DU,Pittsford Township Clerk,,Jill Wiegmann,,89,13,76
+Butler,3-DU,Pittsford Township Clerk,,Jill Wiegmann,,90,14,76
 Butler,3-DU,Pittsford Township Clerk,,Write-In,,0,0,0
-Butler,3-DU,Pittsford Township Trustee,,Bob Aukes,,91,17,74
-Butler,3-DU,Pittsford Township Trustee,,Michael Lindaman,,68,12,56
+Butler,3-DU,Pittsford Township Trustee,,Bob Aukes,,92,18,74
+Butler,3-DU,Pittsford Township Trustee,,Michael Lindaman,,69,13,56
 Butler,3-DU,Pittsford Township Trustee,,Write-In,,0,0,0
 Butler,4-AL,Ripley Township Clerk,,Joan Becker,,109,48,61
 Butler,4-AL,Ripley Township Clerk,,Write-In,,1,1,0
@@ -452,10 +452,10 @@ Butler,7-PB,Secretary of Agriculture,,Chris Jones,DEM,287,93,194
 Butler,8-NH,Secretary of Agriculture,,Chris Jones,DEM,169,43,126
 Butler,1-GR,Secretary of Agriculture,,Mike Naig,REP,519,131,388
 Butler,2-CL,Secretary of Agriculture,,Mike Naig,REP,733,194,539
-Butler,3-DU,Secretary of Agriculture,,Mike Naig,REP,468,135,333
+Butler,3-DU,Secretary of Agriculture,,Mike Naig,REP,470,137,333
 Butler,4-AL,Secretary of Agriculture,,Mike Naig,REP,540,222,318
-Butler,5-AP,Secretary of Agriculture,,Mike Naig,REP,503,113,390
-Butler,6-SR,Secretary of Agriculture,,Mike Naig,REP,663,186,477
+Butler,5-AP,Secretary of Agriculture,,Mike Naig,REP,504,114,390
+Butler,6-SR,Secretary of Agriculture,,Mike Naig,REP,667,190,477
 Butler,7-PB,Secretary of Agriculture,,Mike Naig,REP,751,160,591
 Butler,8-NH,Secretary of Agriculture,,Mike Naig,REP,255,44,211
 Butler,1-GR,Secretary of Agriculture,,Write-In,,0,0,0
@@ -468,10 +468,10 @@ Butler,7-PB,Secretary of Agriculture,,Write-In,,0,0,0
 Butler,8-NH,Secretary of Agriculture,,Write-In,,1,0,1
 Butler,1-GR,Secretary of State,,Paul D. Pate,REP,513,125,388
 Butler,2-CL,Secretary of State,,Paul D. Pate,REP,711,185,526
-Butler,3-DU,Secretary of State,,Paul D. Pate,REP,447,129,318
+Butler,3-DU,Secretary of State,,Paul D. Pate,REP,449,131,318
 Butler,4-AL,Secretary of State,,Paul D. Pate,REP,522,207,315
-Butler,5-AP,Secretary of State,,Paul D. Pate,REP,489,108,381
-Butler,6-SR,Secretary of State,,Paul D. Pate,REP,679,192,487
+Butler,5-AP,Secretary of State,,Paul D. Pate,REP,490,109,381
+Butler,6-SR,Secretary of State,,Paul D. Pate,REP,683,196,487
 Butler,7-PB,Secretary of State,,Paul D. Pate,REP,753,159,594
 Butler,8-NH,Secretary of State,,Paul D. Pate,REP,272,47,225
 Butler,1-GR,Secretary of State,,Ryan Peterman,DEM,267,81,186
@@ -490,10 +490,10 @@ Butler,5-AP,Secretary of State,,Write-In,,0,0,0
 Butler,6-SR,Secretary of State,,Write-In,,0,0,0
 Butler,7-PB,Secretary of State,,Write-In,,0,0,0
 Butler,8-NH,Secretary of State,,Write-In,,1,0,1
-Butler,6-SR,Shell Rock Township Clerk,,Ryan Neuhaus,,156,39,117
+Butler,6-SR,Shell Rock Township Clerk,,Ryan Neuhaus,,157,40,117
 Butler,6-SR,Shell Rock Township Clerk,,Write-In,,0,0,0
 Butler,6-SR,Shell Rock Township Trustee,,Christopher Lursen,,129,35,94
-Butler,6-SR,Shell Rock Township Trustee,,Keith Kramer,,118,27,91
+Butler,6-SR,Shell Rock Township Trustee,,Keith Kramer,,119,28,91
 Butler,6-SR,Shell Rock Township Trustee,,Write-In,,0,0,0
 Butler,1-GR,Soil and Water Conservation District Commissioner,,Ryan Kurtz,,10,4,6
 Butler,2-CL,Soil and Water Conservation District Commissioner,,Ryan Kurtz,,3,0,3
@@ -529,10 +529,10 @@ Butler,7-PB,Soil and Water Conservation District Commissioner,,Write-In,,45,3,42
 Butler,8-NH,Soil and Water Conservation District Commissioner,,Write-In,,27,2,25
 Butler,1-GR,State House,57,Pat Grassley,REP,478,116,362
 Butler,2-CL,State House,57,Pat Grassley,REP,619,162,457
-Butler,3-DU,State House,57,Pat Grassley,REP,438,127,311
+Butler,3-DU,State House,57,Pat Grassley,REP,440,129,311
 Butler,4-AL,State House,57,Pat Grassley,REP,495,194,301
-Butler,5-AP,State House,57,Pat Grassley,REP,491,110,381
-Butler,6-SR,State House,57,Pat Grassley,REP,601,161,440
+Butler,5-AP,State House,57,Pat Grassley,REP,492,111,381
+Butler,6-SR,State House,57,Pat Grassley,REP,605,165,440
 Butler,7-PB,State House,57,Pat Grassley,REP,696,150,546
 Butler,8-NH,State House,57,Pat Grassley,REP,258,42,216
 Butler,1-GR,State House,57,Shawn Ellerbroek,DEM,321,99,222
@@ -561,10 +561,10 @@ Butler,7-PB,State Senate,29,Jim Vowels,DEM,310,105,205
 Butler,8-NH,State Senate,29,Jim Vowels,DEM,171,41,130
 Butler,1-GR,State Senate,29,Sandy Salmon,REP,457,109,348
 Butler,2-CL,State Senate,29,Sandy Salmon,REP,638,163,475
-Butler,3-DU,State Senate,29,Sandy Salmon,REP,431,121,310
+Butler,3-DU,State Senate,29,Sandy Salmon,REP,433,123,310
 Butler,4-AL,State Senate,29,Sandy Salmon,REP,508,197,311
-Butler,5-AP,State Senate,29,Sandy Salmon,REP,472,107,365
-Butler,6-SR,State Senate,29,Sandy Salmon,REP,579,160,419
+Butler,5-AP,State Senate,29,Sandy Salmon,REP,473,108,365
+Butler,6-SR,State Senate,29,Sandy Salmon,REP,583,164,419
 Butler,7-PB,State Senate,29,Sandy Salmon,REP,724,150,574
 Butler,8-NH,State Senate,29,Sandy Salmon,REP,253,45,208
 Butler,1-GR,State Senate,29,Write-In,,0,0,0
@@ -585,10 +585,10 @@ Butler,7-PB,Treasurer of State,,John Norwood,DEM,308,108,200
 Butler,8-NH,Treasurer of State,,John Norwood,DEM,172,46,126
 Butler,1-GR,Treasurer of State,,Roby Smith,REP,480,117,363
 Butler,2-CL,Treasurer of State,,Roby Smith,REP,676,171,505
-Butler,3-DU,Treasurer of State,,Roby Smith,REP,426,117,309
+Butler,3-DU,Treasurer of State,,Roby Smith,REP,428,119,309
 Butler,4-AL,Treasurer of State,,Roby Smith,REP,509,203,306
-Butler,5-AP,Treasurer of State,,Roby Smith,REP,482,112,370
-Butler,6-SR,Treasurer of State,,Roby Smith,REP,635,162,473
+Butler,5-AP,Treasurer of State,,Roby Smith,REP,483,113,370
+Butler,6-SR,Treasurer of State,,Roby Smith,REP,638,165,473
 Butler,7-PB,Treasurer of State,,Roby Smith,REP,715,145,570
 Butler,8-NH,Treasurer of State,,Roby Smith,REP,249,41,208
 Butler,1-GR,Treasurer of State,,Write-In,,1,1,0
@@ -609,10 +609,10 @@ Butler,7-PB,U.S. House,2,Dave Bushaw,,13,2,11
 Butler,8-NH,U.S. House,2,Dave Bushaw,,12,0,12
 Butler,1-GR,U.S. House,2,Joe Mitchell,REP,463,112,351
 Butler,2-CL,U.S. House,2,Joe Mitchell,REP,625,165,460
-Butler,3-DU,U.S. House,2,Joe Mitchell,REP,412,115,297
+Butler,3-DU,U.S. House,2,Joe Mitchell,REP,414,117,297
 Butler,4-AL,U.S. House,2,Joe Mitchell,REP,489,197,292
-Butler,5-AP,U.S. House,2,Joe Mitchell,REP,454,107,347
-Butler,6-SR,U.S. House,2,Joe Mitchell,REP,607,168,439
+Butler,5-AP,U.S. House,2,Joe Mitchell,REP,455,108,347
+Butler,6-SR,U.S. House,2,Joe Mitchell,REP,611,172,439
 Butler,7-PB,U.S. House,2,Joe Mitchell,REP,688,144,544
 Butler,8-NH,U.S. House,2,Joe Mitchell,REP,229,39,190
 Butler,1-GR,U.S. House,2,Lindsay James,DEM,294,93,201
@@ -641,10 +641,10 @@ Butler,7-PB,U.S. House,2,Write-In,,1,0,1
 Butler,8-NH,U.S. House,2,Write-In,,1,0,1
 Butler,1-GR,U.S. Senate,,Ashley Hinson,REP,469,115,354
 Butler,2-CL,U.S. Senate,,Ashley Hinson,REP,639,161,478
-Butler,3-DU,U.S. Senate,,Ashley Hinson,REP,413,114,299
+Butler,3-DU,U.S. Senate,,Ashley Hinson,REP,415,116,299
 Butler,4-AL,U.S. Senate,,Ashley Hinson,REP,484,194,290
-Butler,5-AP,U.S. Senate,,Ashley Hinson,REP,466,107,359
-Butler,6-SR,U.S. Senate,,Ashley Hinson,REP,593,155,438
+Butler,5-AP,U.S. Senate,,Ashley Hinson,REP,467,108,359
+Butler,6-SR,U.S. Senate,,Ashley Hinson,REP,597,159,438
 Butler,7-PB,U.S. Senate,,Ashley Hinson,REP,698,141,557
 Butler,8-NH,U.S. Senate,,Ashley Hinson,REP,234,42,192
 Butler,1-GR,U.S. Senate,,Josh Turek,DEM,300,93,207

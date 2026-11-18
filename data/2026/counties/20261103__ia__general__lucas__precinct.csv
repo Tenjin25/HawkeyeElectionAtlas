@@ -1,5 +1,5 @@
 county,precinct,office,district,candidate,party,votes,absentee,election_day
-Lucas,Precinct #1-Chariton City Hall,Attorney General,,Brenna Bird,REP,420,159,261
+Lucas,Precinct #1-Chariton City Hall,Attorney General,,Brenna Bird,REP,422,161,261
 Lucas,Precinct #2-Chariton Community Center,Attorney General,,Brenna Bird,REP,435,175,260
 Lucas,Precinct #3-Lucas County Extension,Attorney General,,Brenna Bird,REP,262,99,163
 Lucas,Precinct #4-Lucas Community Center,Attorney General,,Brenna Bird,REP,322,74,248
@@ -20,7 +20,7 @@ Lucas,Precinct #4-Lucas Community Center,Attorney General,,Write-In,,1,0,1
 Lucas,Precinct #5-Pin Oak Marsh,Attorney General,,Write-In,,0,0,0
 Lucas,Precinct #6-Russell Community Center,Attorney General,,Write-In,,0,0,0
 Lucas,Precinct #7-Williamson Community Center,Attorney General,,Write-In,,0,0,0
-Lucas,Precinct #1-Chariton City Hall,Auditor of State,,Chris Cournoyer,REP,411,148,263
+Lucas,Precinct #1-Chariton City Hall,Auditor of State,,Chris Cournoyer,REP,413,150,263
 Lucas,Precinct #2-Chariton Community Center,Auditor of State,,Chris Cournoyer,REP,441,174,267
 Lucas,Precinct #3-Lucas County Extension,Auditor of State,,Chris Cournoyer,REP,261,100,161
 Lucas,Precinct #4-Lucas Community Center,Auditor of State,,Chris Cournoyer,REP,330,72,258
@@ -41,42 +41,42 @@ Lucas,Precinct #4-Lucas Community Center,Auditor of State,,Write-In,,0,0,0
 Lucas,Precinct #5-Pin Oak Marsh,Auditor of State,,Write-In,,0,0,0
 Lucas,Precinct #6-Russell Community Center,Auditor of State,,Write-In,,0,0,0
 Lucas,Precinct #7-Williamson Community Center,Auditor of State,,Write-In,,0,0,0
-Lucas,Precinct #1-Chariton City Hall,Constitutional Amendment 1,,No,,233,91,142
+Lucas,Precinct #1-Chariton City Hall,Constitutional Amendment 1,,No,,234,92,142
 Lucas,Precinct #2-Chariton Community Center,Constitutional Amendment 1,,No,,261,114,147
 Lucas,Precinct #3-Lucas County Extension,Constitutional Amendment 1,,No,,104,50,54
 Lucas,Precinct #4-Lucas Community Center,Constitutional Amendment 1,,No,,132,34,98
 Lucas,Precinct #5-Pin Oak Marsh,Constitutional Amendment 1,,No,,122,49,73
 Lucas,Precinct #6-Russell Community Center,Constitutional Amendment 1,,No,,108,23,85
 Lucas,Precinct #7-Williamson Community Center,Constitutional Amendment 1,,No,,124,51,73
-Lucas,Precinct #1-Chariton City Hall,Constitutional Amendment 1,,Yes,,335,136,199
+Lucas,Precinct #1-Chariton City Hall,Constitutional Amendment 1,,Yes,,336,137,199
 Lucas,Precinct #2-Chariton Community Center,Constitutional Amendment 1,,Yes,,373,167,206
 Lucas,Precinct #3-Lucas County Extension,Constitutional Amendment 1,,Yes,,208,83,125
 Lucas,Precinct #4-Lucas Community Center,Constitutional Amendment 1,,Yes,,238,66,172
 Lucas,Precinct #5-Pin Oak Marsh,Constitutional Amendment 1,,Yes,,203,82,121
 Lucas,Precinct #6-Russell Community Center,Constitutional Amendment 1,,Yes,,207,66,141
 Lucas,Precinct #7-Williamson Community Center,Constitutional Amendment 1,,Yes,,264,80,184
-Lucas,Precinct #1-Chariton City Hall,County Agricultural Extension Council Member,,Amber Hall,,370,134,236
+Lucas,Precinct #1-Chariton City Hall,County Agricultural Extension Council Member,,Amber Hall,,372,136,236
 Lucas,Precinct #2-Chariton Community Center,County Agricultural Extension Council Member,,Amber Hall,,445,206,239
 Lucas,Precinct #3-Lucas County Extension,County Agricultural Extension Council Member,,Amber Hall,,218,85,133
 Lucas,Precinct #4-Lucas Community Center,County Agricultural Extension Council Member,,Amber Hall,,244,56,188
 Lucas,Precinct #5-Pin Oak Marsh,County Agricultural Extension Council Member,,Amber Hall,,238,89,149
 Lucas,Precinct #6-Russell Community Center,County Agricultural Extension Council Member,,Amber Hall,,226,62,164
 Lucas,Precinct #7-Williamson Community Center,County Agricultural Extension Council Member,,Amber Hall,,260,80,180
-Lucas,Precinct #1-Chariton City Hall,County Agricultural Extension Council Member,,Branigan Head,,379,143,236
+Lucas,Precinct #1-Chariton City Hall,County Agricultural Extension Council Member,,Branigan Head,,380,144,236
 Lucas,Precinct #2-Chariton Community Center,County Agricultural Extension Council Member,,Branigan Head,,431,197,234
 Lucas,Precinct #3-Lucas County Extension,County Agricultural Extension Council Member,,Branigan Head,,221,86,135
 Lucas,Precinct #4-Lucas Community Center,County Agricultural Extension Council Member,,Branigan Head,,268,62,206
 Lucas,Precinct #5-Pin Oak Marsh,County Agricultural Extension Council Member,,Branigan Head,,244,92,152
 Lucas,Precinct #6-Russell Community Center,County Agricultural Extension Council Member,,Branigan Head,,216,59,157
 Lucas,Precinct #7-Williamson Community Center,County Agricultural Extension Council Member,,Branigan Head,,249,79,170
-Lucas,Precinct #1-Chariton City Hall,County Agricultural Extension Council Member,,Kimberly Head,,354,137,217
+Lucas,Precinct #1-Chariton City Hall,County Agricultural Extension Council Member,,Kimberly Head,,355,138,217
 Lucas,Precinct #2-Chariton Community Center,County Agricultural Extension Council Member,,Kimberly Head,,419,194,225
 Lucas,Precinct #3-Lucas County Extension,County Agricultural Extension Council Member,,Kimberly Head,,202,81,121
 Lucas,Precinct #4-Lucas Community Center,County Agricultural Extension Council Member,,Kimberly Head,,275,71,204
 Lucas,Precinct #5-Pin Oak Marsh,County Agricultural Extension Council Member,,Kimberly Head,,234,89,145
 Lucas,Precinct #6-Russell Community Center,County Agricultural Extension Council Member,,Kimberly Head,,219,61,158
 Lucas,Precinct #7-Williamson Community Center,County Agricultural Extension Council Member,,Kimberly Head,,241,78,163
-Lucas,Precinct #1-Chariton City Hall,County Agricultural Extension Council Member,,Krista LaFollette,,411,161,250
+Lucas,Precinct #1-Chariton City Hall,County Agricultural Extension Council Member,,Krista LaFollette,,412,162,250
 Lucas,Precinct #2-Chariton Community Center,County Agricultural Extension Council Member,,Krista LaFollette,,464,210,254
 Lucas,Precinct #3-Lucas County Extension,County Agricultural Extension Council Member,,Krista LaFollette,,215,86,129
 Lucas,Precinct #4-Lucas Community Center,County Agricultural Extension Council Member,,Krista LaFollette,,252,62,190
@@ -90,7 +90,7 @@ Lucas,Precinct #4-Lucas Community Center,County Agricultural Extension Council M
 Lucas,Precinct #5-Pin Oak Marsh,County Agricultural Extension Council Member,,Write-In,,4,1,3
 Lucas,Precinct #6-Russell Community Center,County Agricultural Extension Council Member,,Write-In,,7,1,6
 Lucas,Precinct #7-Williamson Community Center,County Agricultural Extension Council Member,,Write-In,,18,4,14
-Lucas,Precinct #1-Chariton City Hall,County Attorney,,Brandon Shelton,REP,558,213,345
+Lucas,Precinct #1-Chariton City Hall,County Attorney,,Brandon Shelton,REP,560,215,345
 Lucas,Precinct #2-Chariton Community Center,County Attorney,,Brandon Shelton,REP,610,258,352
 Lucas,Precinct #3-Lucas County Extension,County Attorney,,Brandon Shelton,REP,311,129,182
 Lucas,Precinct #4-Lucas Community Center,County Attorney,,Brandon Shelton,REP,363,91,272
@@ -104,7 +104,7 @@ Lucas,Precinct #4-Lucas Community Center,County Attorney,,Write-In,,2,0,2
 Lucas,Precinct #5-Pin Oak Marsh,County Attorney,,Write-In,,3,1,2
 Lucas,Precinct #6-Russell Community Center,County Attorney,,Write-In,,4,0,4
 Lucas,Precinct #7-Williamson Community Center,County Attorney,,Write-In,,4,0,4
-Lucas,Precinct #1-Chariton City Hall,County Board of Supervisors,,Larry Davis,REP,556,213,343
+Lucas,Precinct #1-Chariton City Hall,County Board of Supervisors,,Larry Davis,REP,558,215,343
 Lucas,Precinct #2-Chariton Community Center,County Board of Supervisors,,Larry Davis,REP,606,251,355
 Lucas,Precinct #3-Lucas County Extension,County Board of Supervisors,,Larry Davis,REP,308,131,177
 Lucas,Precinct #4-Lucas Community Center,County Board of Supervisors,,Larry Davis,REP,376,90,286
@@ -118,28 +118,28 @@ Lucas,Precinct #4-Lucas Community Center,County Board of Supervisors,,Write-In,,
 Lucas,Precinct #5-Pin Oak Marsh,County Board of Supervisors,,Write-In,,11,4,7
 Lucas,Precinct #6-Russell Community Center,County Board of Supervisors,,Write-In,,2,0,2
 Lucas,Precinct #7-Williamson Community Center,County Board of Supervisors,,Write-In,,11,0,11
-Lucas,Precinct #1-Chariton City Hall,County Hospital Trustee,,John Curran,,384,148,236
+Lucas,Precinct #1-Chariton City Hall,County Hospital Trustee,,John Curran,,385,149,236
 Lucas,Precinct #2-Chariton Community Center,County Hospital Trustee,,John Curran,,437,192,245
 Lucas,Precinct #3-Lucas County Extension,County Hospital Trustee,,John Curran,,213,89,124
 Lucas,Precinct #4-Lucas Community Center,County Hospital Trustee,,John Curran,,242,63,179
 Lucas,Precinct #5-Pin Oak Marsh,County Hospital Trustee,,John Curran,,238,88,150
 Lucas,Precinct #6-Russell Community Center,County Hospital Trustee,,John Curran,,231,62,169
 Lucas,Precinct #7-Williamson Community Center,County Hospital Trustee,,John Curran,,265,84,181
-Lucas,Precinct #1-Chariton City Hall,County Hospital Trustee,,Lana Kuball,,410,165,245
+Lucas,Precinct #1-Chariton City Hall,County Hospital Trustee,,Lana Kuball,,411,166,245
 Lucas,Precinct #2-Chariton Community Center,County Hospital Trustee,,Lana Kuball,,475,211,264
 Lucas,Precinct #3-Lucas County Extension,County Hospital Trustee,,Lana Kuball,,234,95,139
 Lucas,Precinct #4-Lucas Community Center,County Hospital Trustee,,Lana Kuball,,245,56,189
 Lucas,Precinct #5-Pin Oak Marsh,County Hospital Trustee,,Lana Kuball,,261,91,170
 Lucas,Precinct #6-Russell Community Center,County Hospital Trustee,,Lana Kuball,,237,68,169
 Lucas,Precinct #7-Williamson Community Center,County Hospital Trustee,,Lana Kuball,,276,89,187
-Lucas,Precinct #1-Chariton City Hall,County Hospital Trustee,,Natalie McGee,,433,180,253
+Lucas,Precinct #1-Chariton City Hall,County Hospital Trustee,,Natalie McGee,,434,181,253
 Lucas,Precinct #2-Chariton Community Center,County Hospital Trustee,,Natalie McGee,,493,224,269
 Lucas,Precinct #3-Lucas County Extension,County Hospital Trustee,,Natalie McGee,,231,97,134
 Lucas,Precinct #4-Lucas Community Center,County Hospital Trustee,,Natalie McGee,,257,67,190
 Lucas,Precinct #5-Pin Oak Marsh,County Hospital Trustee,,Natalie McGee,,275,103,172
 Lucas,Precinct #6-Russell Community Center,County Hospital Trustee,,Natalie McGee,,254,73,181
 Lucas,Precinct #7-Williamson Community Center,County Hospital Trustee,,Natalie McGee,,278,92,186
-Lucas,Precinct #1-Chariton City Hall,County Hospital Trustee,,Sheila Laing,,432,173,259
+Lucas,Precinct #1-Chariton City Hall,County Hospital Trustee,,Sheila Laing,,434,175,259
 Lucas,Precinct #2-Chariton Community Center,County Hospital Trustee,,Sheila Laing,,514,235,279
 Lucas,Precinct #3-Lucas County Extension,County Hospital Trustee,,Sheila Laing,,243,103,140
 Lucas,Precinct #4-Lucas Community Center,County Hospital Trustee,,Sheila Laing,,275,71,204
@@ -153,7 +153,7 @@ Lucas,Precinct #4-Lucas Community Center,County Hospital Trustee,,Write-In,,6,0,
 Lucas,Precinct #5-Pin Oak Marsh,County Hospital Trustee,,Write-In,,5,1,4
 Lucas,Precinct #6-Russell Community Center,County Hospital Trustee,,Write-In,,4,1,3
 Lucas,Precinct #7-Williamson Community Center,County Hospital Trustee,,Write-In,,6,1,5
-Lucas,Precinct #1-Chariton City Hall,County Recorder,,Rebecca Bittner,REP,572,220,352
+Lucas,Precinct #1-Chariton City Hall,County Recorder,,Rebecca Bittner,REP,574,222,352
 Lucas,Precinct #2-Chariton Community Center,County Recorder,,Rebecca Bittner,REP,627,266,361
 Lucas,Precinct #3-Lucas County Extension,County Recorder,,Rebecca Bittner,REP,323,138,185
 Lucas,Precinct #4-Lucas Community Center,County Recorder,,Rebecca Bittner,REP,379,92,287
@@ -167,7 +167,7 @@ Lucas,Precinct #4-Lucas Community Center,County Recorder,,Write-In,,1,0,1
 Lucas,Precinct #5-Pin Oak Marsh,County Recorder,,Write-In,,1,1,0
 Lucas,Precinct #6-Russell Community Center,County Recorder,,Write-In,,1,0,1
 Lucas,Precinct #7-Williamson Community Center,County Recorder,,Write-In,,2,0,2
-Lucas,Precinct #1-Chariton City Hall,County Treasurer,,Hanna Gwinn,REP,566,218,348
+Lucas,Precinct #1-Chariton City Hall,County Treasurer,,Hanna Gwinn,REP,568,220,348
 Lucas,Precinct #2-Chariton Community Center,County Treasurer,,Hanna Gwinn,REP,631,267,364
 Lucas,Precinct #3-Lucas County Extension,County Treasurer,,Hanna Gwinn,REP,321,138,183
 Lucas,Precinct #4-Lucas Community Center,County Treasurer,,Hanna Gwinn,REP,383,96,287
@@ -181,77 +181,77 @@ Lucas,Precinct #4-Lucas Community Center,County Treasurer,,Write-In,,2,1,1
 Lucas,Precinct #5-Pin Oak Marsh,County Treasurer,,Write-In,,2,1,1
 Lucas,Precinct #6-Russell Community Center,County Treasurer,,Write-In,,1,0,1
 Lucas,Precinct #7-Williamson Community Center,County Treasurer,,Write-In,,2,0,2
-Lucas,Precinct #1-Chariton City Hall,Court of Appeals Judge - John M. Sandy,,No,,134,58,76
+Lucas,Precinct #1-Chariton City Hall,Court of Appeals Judge - John M. Sandy,,No,,135,59,76
 Lucas,Precinct #2-Chariton Community Center,Court of Appeals Judge - John M. Sandy,,No,,165,69,96
 Lucas,Precinct #3-Lucas County Extension,Court of Appeals Judge - John M. Sandy,,No,,90,39,51
 Lucas,Precinct #4-Lucas Community Center,Court of Appeals Judge - John M. Sandy,,No,,84,25,59
 Lucas,Precinct #5-Pin Oak Marsh,Court of Appeals Judge - John M. Sandy,,No,,80,35,45
 Lucas,Precinct #6-Russell Community Center,Court of Appeals Judge - John M. Sandy,,No,,106,33,73
 Lucas,Precinct #7-Williamson Community Center,Court of Appeals Judge - John M. Sandy,,No,,91,30,61
-Lucas,Precinct #1-Chariton City Hall,Court of Appeals Judge - John M. Sandy,,Yes,,389,141,248
+Lucas,Precinct #1-Chariton City Hall,Court of Appeals Judge - John M. Sandy,,Yes,,390,142,248
 Lucas,Precinct #2-Chariton Community Center,Court of Appeals Judge - John M. Sandy,,Yes,,381,156,225
 Lucas,Precinct #3-Lucas County Extension,Court of Appeals Judge - John M. Sandy,,Yes,,182,74,108
 Lucas,Precinct #4-Lucas Community Center,Court of Appeals Judge - John M. Sandy,,Yes,,241,52,189
 Lucas,Precinct #5-Pin Oak Marsh,Court of Appeals Judge - John M. Sandy,,Yes,,208,77,131
 Lucas,Precinct #6-Russell Community Center,Court of Appeals Judge - John M. Sandy,,Yes,,174,45,129
 Lucas,Precinct #7-Williamson Community Center,Court of Appeals Judge - John M. Sandy,,Yes,,231,67,164
-Lucas,Precinct #1-Chariton City Hall,Court of Appeals Judge - Julie A. Schumacher,,No,,135,52,83
+Lucas,Precinct #1-Chariton City Hall,Court of Appeals Judge - Julie A. Schumacher,,No,,136,53,83
 Lucas,Precinct #2-Chariton Community Center,Court of Appeals Judge - Julie A. Schumacher,,No,,168,69,99
 Lucas,Precinct #3-Lucas County Extension,Court of Appeals Judge - Julie A. Schumacher,,No,,95,41,54
 Lucas,Precinct #4-Lucas Community Center,Court of Appeals Judge - Julie A. Schumacher,,No,,85,19,66
 Lucas,Precinct #5-Pin Oak Marsh,Court of Appeals Judge - Julie A. Schumacher,,No,,102,37,65
 Lucas,Precinct #6-Russell Community Center,Court of Appeals Judge - Julie A. Schumacher,,No,,98,26,72
 Lucas,Precinct #7-Williamson Community Center,Court of Appeals Judge - Julie A. Schumacher,,No,,86,23,63
-Lucas,Precinct #1-Chariton City Hall,Court of Appeals Judge - Julie A. Schumacher,,Yes,,382,145,237
+Lucas,Precinct #1-Chariton City Hall,Court of Appeals Judge - Julie A. Schumacher,,Yes,,383,146,237
 Lucas,Precinct #2-Chariton Community Center,Court of Appeals Judge - Julie A. Schumacher,,Yes,,381,161,220
 Lucas,Precinct #3-Lucas County Extension,Court of Appeals Judge - Julie A. Schumacher,,Yes,,180,74,106
 Lucas,Precinct #4-Lucas Community Center,Court of Appeals Judge - Julie A. Schumacher,,Yes,,239,59,180
 Lucas,Precinct #5-Pin Oak Marsh,Court of Appeals Judge - Julie A. Schumacher,,Yes,,185,73,112
 Lucas,Precinct #6-Russell Community Center,Court of Appeals Judge - Julie A. Schumacher,,Yes,,180,52,128
 Lucas,Precinct #7-Williamson Community Center,Court of Appeals Judge - Julie A. Schumacher,,Yes,,228,71,157
-Lucas,Precinct #1-Chariton City Hall,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,153,64,89
+Lucas,Precinct #1-Chariton City Hall,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,154,65,89
 Lucas,Precinct #2-Chariton Community Center,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,187,83,104
 Lucas,Precinct #3-Lucas County Extension,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,95,44,51
 Lucas,Precinct #4-Lucas Community Center,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,91,22,69
 Lucas,Precinct #5-Pin Oak Marsh,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,97,40,57
 Lucas,Precinct #6-Russell Community Center,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,113,29,84
 Lucas,Precinct #7-Williamson Community Center,Court of Appeals Judge - Sharon Soorholtz Greer,,No,,103,30,73
-Lucas,Precinct #1-Chariton City Hall,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,372,134,238
+Lucas,Precinct #1-Chariton City Hall,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,373,135,238
 Lucas,Precinct #2-Chariton Community Center,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,370,147,223
 Lucas,Precinct #3-Lucas County Extension,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,181,71,110
 Lucas,Precinct #4-Lucas Community Center,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,237,55,182
 Lucas,Precinct #5-Pin Oak Marsh,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,195,72,123
 Lucas,Precinct #6-Russell Community Center,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,169,49,120
 Lucas,Precinct #7-Williamson Community Center,Court of Appeals Judge - Sharon Soorholtz Greer,,Yes,,218,67,151
-Lucas,Precinct #1-Chariton City Hall,District 5B Associate Judge - Andrew Zimmerman,,No,,148,57,91
+Lucas,Precinct #1-Chariton City Hall,District 5B Associate Judge - Andrew Zimmerman,,No,,149,58,91
 Lucas,Precinct #2-Chariton Community Center,District 5B Associate Judge - Andrew Zimmerman,,No,,160,70,90
 Lucas,Precinct #3-Lucas County Extension,District 5B Associate Judge - Andrew Zimmerman,,No,,105,40,65
 Lucas,Precinct #4-Lucas Community Center,District 5B Associate Judge - Andrew Zimmerman,,No,,80,19,61
 Lucas,Precinct #5-Pin Oak Marsh,District 5B Associate Judge - Andrew Zimmerman,,No,,99,35,64
 Lucas,Precinct #6-Russell Community Center,District 5B Associate Judge - Andrew Zimmerman,,No,,106,30,76
 Lucas,Precinct #7-Williamson Community Center,District 5B Associate Judge - Andrew Zimmerman,,No,,95,29,66
-Lucas,Precinct #1-Chariton City Hall,District 5B Associate Judge - Andrew Zimmerman,,Yes,,387,148,239
+Lucas,Precinct #1-Chariton City Hall,District 5B Associate Judge - Andrew Zimmerman,,Yes,,388,149,239
 Lucas,Precinct #2-Chariton Community Center,District 5B Associate Judge - Andrew Zimmerman,,Yes,,391,158,233
 Lucas,Precinct #3-Lucas County Extension,District 5B Associate Judge - Andrew Zimmerman,,Yes,,173,74,99
 Lucas,Precinct #4-Lucas Community Center,District 5B Associate Judge - Andrew Zimmerman,,Yes,,252,60,192
 Lucas,Precinct #5-Pin Oak Marsh,District 5B Associate Judge - Andrew Zimmerman,,Yes,,192,77,115
 Lucas,Precinct #6-Russell Community Center,District 5B Associate Judge - Andrew Zimmerman,,Yes,,176,50,126
 Lucas,Precinct #7-Williamson Community Center,District 5B Associate Judge - Andrew Zimmerman,,Yes,,228,71,157
-Lucas,Precinct #1-Chariton City Hall,District 5B Judge - Elisabeth S. Reynoldson,,No,,152,66,86
+Lucas,Precinct #1-Chariton City Hall,District 5B Judge - Elisabeth S. Reynoldson,,No,,153,67,86
 Lucas,Precinct #2-Chariton Community Center,District 5B Judge - Elisabeth S. Reynoldson,,No,,162,69,93
 Lucas,Precinct #3-Lucas County Extension,District 5B Judge - Elisabeth S. Reynoldson,,No,,87,39,48
 Lucas,Precinct #4-Lucas Community Center,District 5B Judge - Elisabeth S. Reynoldson,,No,,78,16,62
 Lucas,Precinct #5-Pin Oak Marsh,District 5B Judge - Elisabeth S. Reynoldson,,No,,88,35,53
 Lucas,Precinct #6-Russell Community Center,District 5B Judge - Elisabeth S. Reynoldson,,No,,101,26,75
 Lucas,Precinct #7-Williamson Community Center,District 5B Judge - Elisabeth S. Reynoldson,,No,,88,27,61
-Lucas,Precinct #1-Chariton City Hall,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,383,140,243
+Lucas,Precinct #1-Chariton City Hall,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,384,141,243
 Lucas,Precinct #2-Chariton Community Center,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,390,162,228
 Lucas,Precinct #3-Lucas County Extension,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,193,74,119
 Lucas,Precinct #4-Lucas Community Center,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,257,64,193
 Lucas,Precinct #5-Pin Oak Marsh,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,198,75,123
 Lucas,Precinct #6-Russell Community Center,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,177,50,127
 Lucas,Precinct #7-Williamson Community Center,District 5B Judge - Elisabeth S. Reynoldson,,Yes,,237,74,163
-Lucas,Precinct #1-Chariton City Hall,Governor,,Rob Sand and Dave Muhlbauer,DEM,318,155,163
+Lucas,Precinct #1-Chariton City Hall,Governor,,Rob Sand and Dave Muhlbauer,DEM,319,156,163
 Lucas,Precinct #2-Chariton Community Center,Governor,,Rob Sand and Dave Muhlbauer,DEM,334,163,171
 Lucas,Precinct #3-Lucas County Extension,Governor,,Rob Sand and Dave Muhlbauer,DEM,137,79,58
 Lucas,Precinct #4-Lucas Community Center,Governor,,Rob Sand and Dave Muhlbauer,DEM,140,63,77
@@ -265,7 +265,7 @@ Lucas,Precinct #4-Lucas Community Center,Governor,,Write-In,,0,0,0
 Lucas,Precinct #5-Pin Oak Marsh,Governor,,Write-In,,0,0,0
 Lucas,Precinct #6-Russell Community Center,Governor,,Write-In,,1,0,1
 Lucas,Precinct #7-Williamson Community Center,Governor,,Write-In,,0,0,0
-Lucas,Precinct #1-Chariton City Hall,Governor,,Zach Lahn and Derek Wulf,REP,376,139,237
+Lucas,Precinct #1-Chariton City Hall,Governor,,Zach Lahn and Derek Wulf,REP,377,140,237
 Lucas,Precinct #2-Chariton Community Center,Governor,,Zach Lahn and Derek Wulf,REP,396,161,235
 Lucas,Precinct #3-Lucas County Extension,Governor,,Zach Lahn and Derek Wulf,REP,234,88,146
 Lucas,Precinct #4-Lucas Community Center,Governor,,Zach Lahn and Derek Wulf,REP,303,66,237
@@ -291,7 +291,7 @@ Lucas,Precinct #4-Lucas Community Center,Secretary of Agriculture,,Chris Jones,D
 Lucas,Precinct #5-Pin Oak Marsh,Secretary of Agriculture,,Chris Jones,DEM,94,50,44
 Lucas,Precinct #6-Russell Community Center,Secretary of Agriculture,,Chris Jones,DEM,80,27,53
 Lucas,Precinct #7-Williamson Community Center,Secretary of Agriculture,,Chris Jones,DEM,111,52,59
-Lucas,Precinct #1-Chariton City Hall,Secretary of Agriculture,,Mike Naig,REP,446,168,278
+Lucas,Precinct #1-Chariton City Hall,Secretary of Agriculture,,Mike Naig,REP,448,170,278
 Lucas,Precinct #2-Chariton Community Center,Secretary of Agriculture,,Mike Naig,REP,479,196,283
 Lucas,Precinct #3-Lucas County Extension,Secretary of Agriculture,,Mike Naig,REP,277,109,168
 Lucas,Precinct #4-Lucas Community Center,Secretary of Agriculture,,Mike Naig,REP,343,79,264
@@ -305,7 +305,7 @@ Lucas,Precinct #4-Lucas Community Center,Secretary of Agriculture,,Write-In,,0,0
 Lucas,Precinct #5-Pin Oak Marsh,Secretary of Agriculture,,Write-In,,0,0,0
 Lucas,Precinct #6-Russell Community Center,Secretary of Agriculture,,Write-In,,0,0,0
 Lucas,Precinct #7-Williamson Community Center,Secretary of Agriculture,,Write-In,,0,0,0
-Lucas,Precinct #1-Chariton City Hall,Secretary of State,,Paul D. Pate,REP,445,171,274
+Lucas,Precinct #1-Chariton City Hall,Secretary of State,,Paul D. Pate,REP,447,173,274
 Lucas,Precinct #2-Chariton Community Center,Secretary of State,,Paul D. Pate,REP,476,189,287
 Lucas,Precinct #3-Lucas County Extension,Secretary of State,,Paul D. Pate,REP,280,110,170
 Lucas,Precinct #4-Lucas Community Center,Secretary of State,,Paul D. Pate,REP,340,78,262
@@ -326,7 +326,7 @@ Lucas,Precinct #4-Lucas Community Center,Secretary of State,,Write-In,,0,0,0
 Lucas,Precinct #5-Pin Oak Marsh,Secretary of State,,Write-In,,0,0,0
 Lucas,Precinct #6-Russell Community Center,Secretary of State,,Write-In,,0,0,0
 Lucas,Precinct #7-Williamson Community Center,Secretary of State,,Write-In,,0,0,0
-Lucas,Precinct #1-Chariton City Hall,Soil and Water Conservation District Commissioner,,Richard Arnold,,513,201,312
+Lucas,Precinct #1-Chariton City Hall,Soil and Water Conservation District Commissioner,,Richard Arnold,,515,203,312
 Lucas,Precinct #2-Chariton Community Center,Soil and Water Conservation District Commissioner,,Richard Arnold,,584,252,332
 Lucas,Precinct #3-Lucas County Extension,Soil and Water Conservation District Commissioner,,Richard Arnold,,287,122,165
 Lucas,Precinct #4-Lucas Community Center,Soil and Water Conservation District Commissioner,,Richard Arnold,,330,79,251
@@ -340,7 +340,7 @@ Lucas,Precinct #4-Lucas Community Center,Soil and Water Conservation District Co
 Lucas,Precinct #5-Pin Oak Marsh,Soil and Water Conservation District Commissioner,,Write-In,,17,7,10
 Lucas,Precinct #6-Russell Community Center,Soil and Water Conservation District Commissioner,,Write-In,,12,3,9
 Lucas,Precinct #7-Williamson Community Center,Soil and Water Conservation District Commissioner,,Write-In,,12,2,10
-Lucas,Precinct #1-Chariton City Hall,State House,24,Sam Wengryn,REP,405,149,256
+Lucas,Precinct #1-Chariton City Hall,State House,24,Sam Wengryn,REP,407,151,256
 Lucas,Precinct #2-Chariton Community Center,State House,24,Sam Wengryn,REP,439,176,263
 Lucas,Precinct #3-Lucas County Extension,State House,24,Sam Wengryn,REP,257,96,161
 Lucas,Precinct #4-Lucas Community Center,State House,24,Sam Wengryn,REP,318,71,247
@@ -368,7 +368,7 @@ Lucas,Precinct #4-Lucas Community Center,Treasurer of State,,John Norwood,DEM,10
 Lucas,Precinct #5-Pin Oak Marsh,Treasurer of State,,John Norwood,DEM,106,52,54
 Lucas,Precinct #6-Russell Community Center,Treasurer of State,,John Norwood,DEM,91,28,63
 Lucas,Precinct #7-Williamson Community Center,Treasurer of State,,John Norwood,DEM,126,57,69
-Lucas,Precinct #1-Chariton City Hall,Treasurer of State,,Roby Smith,REP,413,149,264
+Lucas,Precinct #1-Chariton City Hall,Treasurer of State,,Roby Smith,REP,415,151,264
 Lucas,Precinct #2-Chariton Community Center,Treasurer of State,,Roby Smith,REP,454,181,273
 Lucas,Precinct #3-Lucas County Extension,Treasurer of State,,Roby Smith,REP,262,96,166
 Lucas,Precinct #4-Lucas Community Center,Treasurer of State,,Roby Smith,REP,332,74,258
@@ -396,21 +396,21 @@ Lucas,Precinct #4-Lucas Community Center,U.S. House,3,Write-In,,0,0,0
 Lucas,Precinct #5-Pin Oak Marsh,U.S. House,3,Write-In,,0,0,0
 Lucas,Precinct #6-Russell Community Center,U.S. House,3,Write-In,,0,0,0
 Lucas,Precinct #7-Williamson Community Center,U.S. House,3,Write-In,,0,0,0
-Lucas,Precinct #1-Chariton City Hall,U.S. House,3,Zach Nunn,REP,422,155,267
+Lucas,Precinct #1-Chariton City Hall,U.S. House,3,Zach Nunn,REP,424,157,267
 Lucas,Precinct #2-Chariton Community Center,U.S. House,3,Zach Nunn,REP,459,179,280
 Lucas,Precinct #3-Lucas County Extension,U.S. House,3,Zach Nunn,REP,265,98,167
 Lucas,Precinct #4-Lucas Community Center,U.S. House,3,Zach Nunn,REP,322,69,253
 Lucas,Precinct #5-Pin Oak Marsh,U.S. House,3,Zach Nunn,REP,294,110,184
 Lucas,Precinct #6-Russell Community Center,U.S. House,3,Zach Nunn,REP,274,71,203
 Lucas,Precinct #7-Williamson Community Center,U.S. House,3,Zach Nunn,REP,330,112,218
-Lucas,Precinct #1-Chariton City Hall,U.S. Senate,,Ashley Hinson,REP,398,147,251
+Lucas,Precinct #1-Chariton City Hall,U.S. Senate,,Ashley Hinson,REP,399,148,251
 Lucas,Precinct #2-Chariton Community Center,U.S. Senate,,Ashley Hinson,REP,413,168,245
 Lucas,Precinct #3-Lucas County Extension,U.S. Senate,,Ashley Hinson,REP,250,92,158
 Lucas,Precinct #4-Lucas Community Center,U.S. Senate,,Ashley Hinson,REP,313,71,242
 Lucas,Precinct #5-Pin Oak Marsh,U.S. Senate,,Ashley Hinson,REP,288,107,181
 Lucas,Precinct #6-Russell Community Center,U.S. Senate,,Ashley Hinson,REP,258,67,191
 Lucas,Precinct #7-Williamson Community Center,U.S. Senate,,Ashley Hinson,REP,316,101,215
-Lucas,Precinct #1-Chariton City Hall,U.S. Senate,,Josh Turek,DEM,263,133,130
+Lucas,Precinct #1-Chariton City Hall,U.S. Senate,,Josh Turek,DEM,264,134,130
 Lucas,Precinct #2-Chariton Community Center,U.S. Senate,,Josh Turek,DEM,297,153,144
 Lucas,Precinct #3-Lucas County Extension,U.S. Senate,,Josh Turek,DEM,106,68,38
 Lucas,Precinct #4-Lucas Community Center,U.S. Senate,,Josh Turek,DEM,115,55,60
