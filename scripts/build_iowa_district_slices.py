@@ -49,6 +49,7 @@ CONTEST_CANDIDATES = {
     (2014, "governor"): {"DEM": "Jack Hatch", "REP": "Terry E. Branstad"},
     (2018, "governor"): {"DEM": "Fred Hubbell", "REP": "Kim Reynolds"},
     (2022, "governor"): {"DEM": "Deidre DeJear", "REP": "Kim Reynolds"},
+    (2026, "governor"): {"DEM": "Rob Sand", "REP": "Zach Lahn"},
 }
 SCOPES = {
     "congressional": ("congressional", 4),
